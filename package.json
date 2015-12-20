@@ -20,6 +20,8 @@
     "step2": "babel-node ./scripts/step2-download-infoboxes.js",
     "step3": "babel-node ./scripts/step3-cleanup-and-push-data.js",
     "lint": "eslint ./scripts/*.js",
+    "test": "BABEL_ENV=test mocha --reporter dot ./test/helpers.js ./test/*-test.js",
+    "test:watch": "BABEL_ENV=test mocha --reporter min --watch ./test/helpers.js ./test/*-test.js",
     "gh-pages": "./scripts/gh-pages"
   },
   "devDependencies": {
@@ -33,10 +35,13 @@
     "eslint-config-algolia": "^4.5.0",
     "eslint-plugin-algolia": "^1.5.0",
     "eslint-plugin-react": "^3.11.3",
+    "expect": "^1.13.4",
     "gh-pages": "^0.8.0",
     "glob": "^6.0.1",
     "jsonfile": "^2.2.3",
     "lodash": "^3.10.1",
+    "mocha": "^2.3.4",
+    "sinon": "^1.17.2",
     "wiki-infobox": "^0.4.0",
     "x-ray": "^2.0.2"
   },
