@@ -7,9 +7,6 @@ import jsonfile from 'jsonfile';
 import async from 'async';
 import infobox from 'wiki-infobox';
 
-
-console.info('=================STEP 2================');
-
 // STEP 2: Downloading all the infoboxes
 const downloadUrlPath = './download/urls/';
 const downloadInfoboxPath = './download/infoboxes/';

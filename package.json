@@ -18,6 +18,7 @@
   "scripts": {
     "step1": "babel-node ./scripts/step1-download-list-of-urls.js",
     "step2": "babel-node ./scripts/step2-download-infoboxes.js",
+    "step3": "babel-node ./scripts/step3-cleanup-and-push-data.js",
     "lint": "eslint ./scripts/*.js",
     "gh-pages": "./scripts/gh-pages"
   },
