@@ -222,8 +222,16 @@ describe('Cleaner', () => {
       // Then
       expect(actual).toEqual(['Stan Lee', 'John Byrne', 'Carl Burgos', 'Bred Blevins']);
     });
-    // it('should return a list from a <br> separated text', () => {
-    // });
+    it('should return a list from a <br> separated text', () => {
+      // Given
+      let input = {type: 'text', value: 'Strong<br>Clever'};
+
+      // When
+      let actual = Cleaner.getListOfValues(input);
+
+      // Then
+      expect(actual).toEqual(['Strong', 'Clever']);
+    });
   });
 
   describe('getCharacterName', () => {
@@ -279,6 +287,16 @@ describe('Cleaner', () => {
 
       // Then
       expect(actual).toEqual('Eightball');
+    });
+    it('removes leading slash', () => {
+      // Given
+      let input = '/Alien';
+
+      // When
+      let actual = Cleaner.cleanUp(input);
+
+      // Then
+      expect(actual).toEqual('Alien');
     });
   });
 

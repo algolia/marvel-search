@@ -9,9 +9,9 @@ const Cleaner = {
       creators: this.getCreators(data.data),
       teams: this.getTeams(data.data),
       aliases: this.getAliases(data.data),
-    //   realName: getRealName(data),
-    //   species: getSpecies(data),
-    //   powers: getPowers(data),
+      species: this.getSpecies(data.data),
+      partners: this.getPartners(data.data),
+      powers: this.getPowers(data.data),
     //   isVillain: isVillain(data)
     };
     return record;
@@ -48,15 +48,31 @@ const Cleaner = {
   getTeams(data) {
     return this.getListOfValues(data.alliances);
   },
-  
+
   // Spidey
   getAliases(data) {
     return this.getListOfValues(data.aliases);
+  },
+  
+  // Mutant, Alien
+  getSpecies(data) {
+    return this.getListOfValues(data.species);
+  },
+  
+  // Rhino, Vulture
+  getPartners(data) {
+    return this.getListOfValues(data.partners);
+  },
+  
+  // Flying, Telekinesis
+  getPowers(data) {
+    return this.getListOfValues(data.powers);
   },
 
   cleanUp(text) {
     text = text.replace(/'''/g, '');
     text = text.replace(/<ref>(.*)<\/ref>/g, '');
+    text = text.replace(/^\//, '');
 
     // Manual cleanup
     // text = text.replace('<ref name', '');
@@ -89,10 +105,12 @@ const Cleaner = {
     // We get the list of all text nodes (except empty nodes)
     let textList = _.compact(_.map(data, this.getValueFromText, this));
 
-    // Re-split on commas
+    // Re-split on commas and new lines
     let splittedTextList = [];
     textList.forEach((text) => {
-      splittedTextList = splittedTextList.concat(text.split(', '));
+      text.split(', ').forEach((commaSplittedText) => {
+        splittedTextList = splittedTextList.concat(commaSplittedText.split('<br>'));
+      });
     });
 
     results = linkList.concat(splittedTextList);
@@ -112,68 +130,10 @@ const Cleaner = {
   },
 };
 
-//
-// // Peter Parker
-// // John Byrne, Stan Lee
-// const getCreators = (data) => {
-//   return getValuesFromLink(data.creators);
-// };
-// // Flying, Super-human strenght, etc
-// const getPowers = (data) => {
-//   let powers = [];
-//
-//   powers = powers.concat(getValuesFromLink(data.powers));
-//
-//   let textPowers = (getValueFromText(data.powers) || '').split('<br>');
-//   powers = powers.concat(textPowers);
-//
-//   return powers;
-// };
-// // Mutant, Extra-planar
-// const getSpecies = (data) => {
-//   return getValuesFromLink(data.species);
-// };
-// // true / false
-// const isVillain = (data) => {
-//   let villain = getValueFromText(data.villain);
-//   return villain === 'y';
-// };
-// // Spidey
-// const getAliases = (data) => {
-//   let aliases = [];
-//
-//   // Check link aliases
-//   aliases = aliases.concat(getValuesFromLink(data.aliases));
-//
-//   // Get textual aliases
-//   let textAliases = (getValueFromText(data.aliases) || '').split(', ');
-//   aliases = aliases.concat(textAliases);
-//
-//   return aliases;
-// };
-// // Fantastic Four, Avengers
-// const getAlliances = (data) => {
-//   let alliances = [];
-//
-//   alliances = alliances.concat(getValuesFromLink(data.alliances));
-//
-//   let textAlliances = (getValueFromText(data.alliances) || '').split(', ');
-//   alliances = alliances.concat(textAlliances);
-//
-//   return alliances;
-// };
-//
-//
-// // TODO: Extract in one method the check of various elements (aliase, powers,
-// // alliances). Compact array to remove empty elements
-// //
-// // Abner Jenkins: Aliases comprends mix de link et text séparé par des ','
-// // Idem pour abilities.
-// //
-// // Question: besoin de splitter en array ou recherche text normale,
-//
-//
-//
-//
+
+// TODO:
+// isVillain
+// See if getValuesFromList is better when only parsing per newline/comma, and
+// using links as text?
 
 export default Cleaner;
