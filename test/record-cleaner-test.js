@@ -159,6 +159,20 @@ describe('Cleaner', () => {
       // Then
       expect(actual).toEqual(['Stan Lee', 'John Byrne']);
     });
+    it('should not return <br /> text nodes from list of all links', () => {
+      // Given
+      let input = [
+        {type: 'link', text: 'Stan Lee'},
+        {type: 'text', value: '<br/>'},
+        {type: 'link', text: 'John Byrne'}
+      ];
+
+      // When
+      let actual = Cleaner.getListOfValues(input);
+
+      // Then
+      expect(actual).toEqual(['Stan Lee', 'John Byrne']);
+    });
     it('should return the only link if there is only one', () => {
       // Given
       let input = {
@@ -185,8 +199,29 @@ describe('Cleaner', () => {
       // Then
       expect(actual).toEqual(['Stan Lee', 'John Byrne']);
     });
-    // it('should return a list from a comma separated text', () => {
-    // });
+    it('should return a list from a comma separated text', () => {
+      // Given
+      let input = {type: 'text', value: 'Stan Lee, John Byrne'};
+
+      // When
+      let actual = Cleaner.getListOfValues(input);
+
+      // Then
+      expect(actual).toEqual(['Stan Lee', 'John Byrne']);
+    });
+    it('should return a list from several comma separated text', () => {
+      // Given
+      let input = [
+        {type: 'text', value: 'Stan Lee, John Byrne'},
+        {type: 'text', value: 'Carl Burgos, Bred Blevins'}
+      ];
+
+      // When
+      let actual = Cleaner.getListOfValues(input);
+
+      // Then
+      expect(actual).toEqual(['Stan Lee', 'John Byrne', 'Carl Burgos', 'Bred Blevins']);
+    });
     // it('should return a list from a <br> separated text', () => {
     // });
   });
@@ -221,6 +256,29 @@ describe('Cleaner', () => {
 
       // Then
       expect(actual).toEqual('War Machine');
+    });
+  });
+
+  describe('cleanUp', () => {
+    it('removes triple quotes', () => {
+      // Given
+      let input = "'''foo'''";
+
+      // When
+      let actual = Cleaner.cleanUp(input);
+
+      // Then
+      expect(actual).toEqual('foo');
+    });
+    it('removes <ref>', () => {
+      // Given
+      let input = "Eightball<ref>''She-Hulk''</ref>";
+
+      // When
+      let actual = Cleaner.cleanUp(input);
+
+      // Then
+      expect(actual).toEqual('Eightball');
     });
   });
 
@@ -303,6 +361,36 @@ describe('Cleaner', () => {
 
       // Then
       expect(actual).toEqual(['Bob Budiansky', 'Bret Blevins']);
+    });
+  });
+
+  describe('getTeams', () => {
+    it('should get the list for Abigail Brand', () => {
+      // Given
+      let input = {
+        alliances: [
+          {
+            type: 'link',
+            text: 'S.W.O.R.D.',
+            url: 'http://en.wikipedia.org/wiki/S.W.O.R.D. (comics)'
+          },
+          {
+            type: 'text',
+            value: '<br>'
+          },
+          {
+            type: 'link',
+            text: 'X-Men',
+            url: 'http://en.wikipedia.org/wiki/X-Men'
+          }
+        ]
+      };
+
+      // When
+      let actual = Cleaner.getTeams(input);
+
+      // Then
+      expect(actual).toEqual(['S.W.O.R.D.', 'X-Men']);
     });
   });
 
