@@ -41,32 +41,32 @@ const Cleaner = {
 
   // Stan Lee, John Byrne
   getCreators(data) {
-    return this.getListOfValues(data.creators);
+    return this.getFacettedListOfValues(data.creators);
   },
 
   // Avengers, Fantastic Four
   getTeams(data) {
-    return this.getListOfValues(data.alliances);
+    return this.getFacettedListOfValues(data.alliances);
   },
 
   // Spidey
   getAliases(data) {
-    return this.getListOfValues(data.aliases);
+    return this.getTextualListOfValues(data.aliases);
   },
-  
+
   // Mutant, Alien
   getSpecies(data) {
-    return this.getListOfValues(data.species);
+    return this.getFacettedListOfValues(data.species);
   },
-  
+
   // Rhino, Vulture
   getPartners(data) {
-    return this.getListOfValues(data.partners);
+    return this.getFacettedListOfValues(data.partners);
   },
-  
+
   // Flying, Telekinesis
   getPowers(data) {
-    return this.getListOfValues(data.powers);
+    return this.getFacettedListOfValues(data.powers);
   },
 
   cleanUp(text) {
@@ -93,40 +93,25 @@ const Cleaner = {
     return null;
   },
 
-  getListOfValues(data) {
+  getFacettedListOfValues(data) {
     if (!Array.isArray(data)) {
       data = [data];
     }
-    let results = [];
 
     // We get the list of all links
-    let linkList = _.compact(_.map(data, this.getValueFromLink, this));
+    return _.compact(_.map(data, this.getValueFromLink, this));
+  },
 
-    // We get the list of all text nodes (except empty nodes)
-    let textList = _.compact(_.map(data, this.getValueFromText, this));
+  getTextualListOfValues(data) {
+    if (!Array.isArray(data)) {
+      data = [data];
+    }
+    let result = [];
 
-    // Re-split on commas and new lines
-    let splittedTextList = [];
-    textList.forEach((text) => {
-      text.split(', ').forEach((commaSplittedText) => {
-        splittedTextList = splittedTextList.concat(commaSplittedText.split('<br>'));
-      });
+    data.forEach((item) => {
+      result.push(this.getValueFromLink(item) || this.getValueFromText(item));
     });
-
-    results = linkList.concat(splittedTextList);
-
-    // Reject empty values
-    results = _.reject(results, (result) => {
-      let blacklist = [
-        '<br>',
-        '<br/>',
-        ''
-      ];
-
-      return _.contains(blacklist, result);
-    });
-
-    return results;
+    return result.join(' ');
   },
 };
 

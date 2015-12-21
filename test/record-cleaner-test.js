@@ -121,31 +121,28 @@ describe('Cleaner', () => {
     });
   });
 
-  describe('getListOfValues', () => {
-    it('should return an array, even if the data is not an array', () => {
+  describe('getFacettedListOfValues', () => {
+    it('should return an array no matter what', () => {
       // Given
-      let input = 'text';
+      let input = 'foo';
 
       // When
-      let actual = Cleaner.getListOfValues(input);
+      let actual = Cleaner.getFacettedListOfValues(input);
 
       // Then
       expect(actual).toBeA('array');
     });
-    it('should return the list of all links', () => {
+    it('should return an array if there is only one element', () => {
       // Given
-      let input = [
-        {type: 'link', text: 'Stan Lee'},
-        {type: 'link', text: 'John Byrne'}
-      ];
+      let input = {type: 'link', text: 'Avengers'};
 
       // When
-      let actual = Cleaner.getListOfValues(input);
+      let actual = Cleaner.getFacettedListOfValues(input);
 
       // Then
-      expect(actual).toEqual(['Stan Lee', 'John Byrne']);
+      expect(actual).toEqual(['Avengers']);
     });
-    it('should not return <br> text nodes from list of all links', () => {
+    it('should return an array of all the links', () => {
       // Given
       let input = [
         {type: 'link', text: 'Stan Lee'},
@@ -154,83 +151,26 @@ describe('Cleaner', () => {
       ];
 
       // When
-      let actual = Cleaner.getListOfValues(input);
+      let actual = Cleaner.getFacettedListOfValues(input);
 
       // Then
       expect(actual).toEqual(['Stan Lee', 'John Byrne']);
     });
-    it('should not return <br /> text nodes from list of all links', () => {
+  });
+
+  describe('getTextualListOfValues', () => {
+    it('should return a concatenated string of text', () => {
       // Given
       let input = [
-        {type: 'link', text: 'Stan Lee'},
-        {type: 'text', value: '<br/>'},
-        {type: 'link', text: 'John Byrne'}
+        {type: 'text', value: 'Foo'},
+        {type: 'link', text: 'Bar'},
+        {type: 'text', value: 'Baz'}
       ];
-
       // When
-      let actual = Cleaner.getListOfValues(input);
+      let actual = Cleaner.getTextualListOfValues(input);
 
       // Then
-      expect(actual).toEqual(['Stan Lee', 'John Byrne']);
-    });
-    it('should return the only link if there is only one', () => {
-      // Given
-      let input = {
-        type: 'text',
-        value: 'Avengers'
-      };
-
-      // When
-      let actual = Cleaner.getListOfValues(input);
-
-      // Then
-      expect(actual).toEqual(['Avengers']);
-    });
-    it('should return a mix of text and links', () => {
-      // Given
-      let input = [
-        {type: 'link', text: 'Stan Lee'},
-        {type: 'text', value: 'John Byrne'}
-      ];
-
-      // When
-      let actual = Cleaner.getListOfValues(input);
-
-      // Then
-      expect(actual).toEqual(['Stan Lee', 'John Byrne']);
-    });
-    it('should return a list from a comma separated text', () => {
-      // Given
-      let input = {type: 'text', value: 'Stan Lee, John Byrne'};
-
-      // When
-      let actual = Cleaner.getListOfValues(input);
-
-      // Then
-      expect(actual).toEqual(['Stan Lee', 'John Byrne']);
-    });
-    it('should return a list from several comma separated text', () => {
-      // Given
-      let input = [
-        {type: 'text', value: 'Stan Lee, John Byrne'},
-        {type: 'text', value: 'Carl Burgos, Bred Blevins'}
-      ];
-
-      // When
-      let actual = Cleaner.getListOfValues(input);
-
-      // Then
-      expect(actual).toEqual(['Stan Lee', 'John Byrne', 'Carl Burgos', 'Bred Blevins']);
-    });
-    it('should return a list from a <br> separated text', () => {
-      // Given
-      let input = {type: 'text', value: 'Strong<br>Clever'};
-
-      // When
-      let actual = Cleaner.getListOfValues(input);
-
-      // Then
-      expect(actual).toEqual(['Strong', 'Clever']);
+      expect(actual).toEqual('Foo Bar Baz');
     });
   });
 
