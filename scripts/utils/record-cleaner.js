@@ -12,6 +12,7 @@ const Cleaner = {
       species: this.getSpecies(data.data),
       partners: this.getPartners(data.data),
       powers: this.getPowers(data.data),
+      powersText: this.getPowersAsText(data.data),
     //   isVillain: isVillain(data)
     };
     return record;
@@ -69,13 +70,25 @@ const Cleaner = {
     return this.getFacettedListOfValues(data.powers);
   },
 
+  // Longer list of powers
+  getPowersAsText(data) {
+    return this.getTextualListOfValues(data.powers);
+  },
+
   cleanUp(text) {
     text = text.replace(/'''/g, '');
     text = text.replace(/<ref>(.*)<\/ref>/g, '');
     text = text.replace(/^\//, '');
+    // Leading whitespace
+    text = text.replace(/^\s*/, '');
+    // HTML comments
+    text = text.replace(/<!--(.*)-->/g, '');
 
     // Manual cleanup
     text = text.replace('<ref name', '');
+    // Removing stars that are left after parsing some lists
+    text = text.replace(/\*/g, '');
+
     return text;
   },
 
@@ -111,14 +124,8 @@ const Cleaner = {
     data.forEach((item) => {
       result.push(this.getValueFromLink(item) || this.getValueFromText(item));
     });
-    return result.join(' ');
-  },
+    return _.compact(result).join(' ');
+  }
 };
-
-
-// TODO:
-// isVillain
-// See if getValuesFromList is better when only parsing per newline/comma, and
-// using links as text?
 
 export default Cleaner;

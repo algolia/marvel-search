@@ -15,7 +15,7 @@
     "Force Works",
     "The Crew",
     "Office of National Emergency",
-    "Sentinel Squad O*N*E",
+    "Sentinel Squad ONE",
     "The Initiative",
     "Secret Avengers",
     "United States Department of Defense"
@@ -26,5 +26,6 @@
   "powers": [
     "missile",
     "laser blasters"
-  ]
+  ],
+  "powersText": "Experienced soldier trained in armed and unarmed combat<br/>Pilot and aviation engineer<br/>Armor grants:<br/>Superhuman strength<br/>Supersonic flight at Mach 3<br/>Energy repulsors<br/>Variety of offensive and defensive weapons including  missile s and  laser blasters"
 }

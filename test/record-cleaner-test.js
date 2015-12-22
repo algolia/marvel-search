@@ -172,6 +172,20 @@ describe('Cleaner', () => {
       // Then
       expect(actual).toEqual('Foo Bar Baz');
     });
+    it('should remove stars from a list', () => {
+      // Given
+      let input = [
+        {type: 'text', value: '*'},
+        {type: 'text', value: 'Foo'},
+        {type: 'link', text: '*Bar *Baz'},
+      ];
+      // When
+      let actual = Cleaner.getTextualListOfValues(input);
+
+
+      // Then
+      expect(actual).toEqual('Foo Bar Baz');
+    });
   });
 
   describe('getCharacterName', () => {
@@ -247,6 +261,36 @@ describe('Cleaner', () => {
 
       // Then
       expect(actual).toEqual('Max Eisenhardt');
+    });
+    it('removes stars', () => {
+      // Given
+      let input = '*Magnetism';
+
+      // When
+      let actual = Cleaner.cleanUp(input);
+
+      // Then
+      expect(actual).toEqual('Magnetism');
+    });
+    it('removes leading whitespaces', () => {
+      // Given
+      let input = '  Foo';
+
+      // When
+      let actual = Cleaner.cleanUp(input);
+
+      // Then
+      expect(actual).toEqual('Foo');
+    });
+    it('removes HTML comments', () => {
+      // Given
+      let input = 'Foo<!--Bar-->';
+
+      // When
+      let actual = Cleaner.cleanUp(input);
+
+      // Then
+      expect(actual).toEqual('Foo');
     });
   });
 

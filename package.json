@@ -18,13 +18,15 @@
   "scripts": {
     "step1": "babel-node ./scripts/step1-download-list-of-urls.js",
     "step2": "babel-node ./scripts/step2-download-infoboxes.js",
-    "step3": "babel-node ./scripts/step3-cleanup-and-push-data.js",
+    "step3": "babel-node ./scripts/step3-cleanup.js",
+    "step4": "babel-node ./scripts/step4-push-to-index.js",
     "lint": "eslint ./scripts/*.js",
     "test": "BABEL_ENV=test mocha --reporter dot ./test/helpers.js ./test/*-test.js",
     "test:watch": "BABEL_ENV=test mocha --reporter min --watch ./test/helpers.js ./test/*-test.js",
     "gh-pages": "./scripts/gh-pages"
   },
   "devDependencies": {
+    "algoliasearch": "^3.10.2",
     "async": "^1.5.0",
     "babel": "^5.8.29",
     "babel-core": "^5.8.29",
