@@ -1,14 +1,26 @@
 {
-  "name": "Quentin Quire",
+  "name": "Kid Omega",
   "url": "https://en.wikipedia.org/wiki/Quentin_Quire",
-  "realName": null,
+  "realName": "Quintavius \"Quentin\" Quirinius Quire",
   "creators": [
     "Grant Morrison",
     "Frank Quitely"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "teams": [
+    "Hellfire Academy",
+    "Jean Grey School for Higher Learning",
+    "Omega Gang",
+    "Xavier Institute"
+  ],
+  "aliases": "Kid Omega",
+  "species": [
+    "Human Mutant"
+  ],
   "partners": [],
-  "powers": []
+  "powers": [
+    "Omega level",
+    "psionic",
+    "telepathy",
+    "telekinesis"
+  ]
 }

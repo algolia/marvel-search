@@ -1,0 +1,23 @@
+{
+  "name": "Alpha the Ultimate Mutant",
+  "url": "https://en.wikipedia.org/wiki/Alpha_the_Ultimate_Mutant",
+  "realName": "Alpha",
+  "creators": [
+    "Len Wein",
+    "Sal Buscema"
+  ],
+  "teams": [
+    "Brotherhood of Evil Mutants"
+  ],
+  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "species": [
+    "Human Mutant"
+  ],
+  "partners": [],
+  "powers": [
+    "Force field",
+    "Teleportation",
+    "Telekinesis",
+    "Telepathy"
+  ]
+}

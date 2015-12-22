@@ -42,7 +42,7 @@
     "lodash": "^3.10.1",
     "mocha": "^2.3.4",
     "sinon": "^1.17.2",
-    "wiki-infobox": "^0.4.0",
+    "wiki-infobox": "pixelastic/wiki-infobox#51d2a91e6a35360e70f4f93d23f50687f7c58b7d",
     "x-ray": "^2.0.2"
   },
   "dependencies": {}
