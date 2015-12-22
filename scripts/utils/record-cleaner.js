@@ -75,7 +75,7 @@ const Cleaner = {
     text = text.replace(/^\//, '');
 
     // Manual cleanup
-    // text = text.replace('<ref name', '');
+    text = text.replace('<ref name', '');
     return text;
   },
 

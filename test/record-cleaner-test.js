@@ -238,6 +238,16 @@ describe('Cleaner', () => {
       // Then
       expect(actual).toEqual('Alien');
     });
+    it('removed unclosed <ref name', () => {
+      // Given
+      let input = 'Max Eisenhardt<ref name';
+
+      // When
+      let actual = Cleaner.cleanUp(input);
+
+      // Then
+      expect(actual).toEqual('Max Eisenhardt');
+    });
   });
 
   describe('getUrl', () => {
