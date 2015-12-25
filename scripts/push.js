@@ -3,14 +3,14 @@ import algoliasearch from 'algoliasearch';
 import jsonfile from 'jsonfile';
 
 // We get all files, to get all the record
-const recordsPath = './records/';
+const recordsPath = './download/step3-cleanup/';
 let records = [];
 let appId = 'O3F8QXYK6R';
 let apiKey = process.env.ALGOLIA_API_KEY;
 
 if (!apiKey) {
   console.info('Usage:');
-  console.info('$ ALGOLIA_API_KEY=XXXXX npm run step4');
+  console.info('$ ALGOLIA_API_KEY=XXXXX npm run push');
   process.exit();
 }
 

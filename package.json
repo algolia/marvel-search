@@ -18,8 +18,9 @@
   "scripts": {
     "step1": "babel-node ./scripts/step1-download-list-of-urls.js",
     "step2": "babel-node ./scripts/step2-download-infoboxes.js",
-    "step3": "babel-node ./scripts/step3-cleanup.js",
-    "step4": "babel-node ./scripts/step4-push-to-index.js",
+    "step3": "babel-node ./scripts/step3-cleanup-infoboxes.js",
+    "step4": "babel-node ./scripts/step4-consolidate-images.js",
+    "push": "babel-node ./scripts/push.js",
     "lint": "eslint ./scripts/*.js",
     "test": "BABEL_ENV=test mocha --reporter dot ./test/helpers.js ./test/*-test.js",
     "test:watch": "BABEL_ENV=test mocha --reporter min --watch ./test/helpers.js ./test/*-test.js",

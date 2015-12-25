@@ -20,7 +20,7 @@ const villains = [
 ];
 
 // STEP 1: Getting the list of all links for all Heroes and Villains
-const downloadUrlPath = './download/urls/';
+const downloadUrlPath = './download/step1-urls/';
 const saveUrlList = (url, name) => {
   const context = '#mw-pages .mw-category-group li';
   const selectors = [{

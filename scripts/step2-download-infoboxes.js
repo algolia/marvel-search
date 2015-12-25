@@ -8,8 +8,8 @@ import async from 'async';
 import infobox from 'wiki-infobox';
 
 // STEP 2: Downloading all the infoboxes
-const downloadUrlPath = './download/urls/';
-const downloadInfoboxPath = './download/infoboxes/';
+const downloadUrlPath = './download/step1-urls/';
+const downloadInfoboxPath = './download/step2-infoboxes/';
 const batchOffset = 30;
 
 // We first generate a big list of all the urls
