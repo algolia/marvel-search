@@ -292,7 +292,7 @@ describe('Cleaner', () => {
       // Then
       expect(actual).toEqual('Foo');
     });
-    it('removed closing curly brackets', () => {
+    it('removes closing curly brackets', () => {
       // Given
       let input = 'Psychometry }}';
 
@@ -301,6 +301,16 @@ describe('Cleaner', () => {
 
       // Then
       expect(actual).toEqual('Psychometry');
+    });
+    it('removes dangling comments', () => {
+      // Given
+      let input = 'Wonder Man -->';
+
+      // When
+      let actual = Cleaner.cleanUp(input);
+
+      // Then
+      expect(actual).toEqual('Wonder Man');
     });
   });
 

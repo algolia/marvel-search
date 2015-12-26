@@ -85,6 +85,8 @@ const Cleaner = {
     text = text.replace(/<!--(.*)-->/g, '');
     // Dangling closing }}
     text = text.replace(/}}/g, '');
+    // Dangling closing comments
+    text = text.replace(/-->/g, '');
 
     // Manual cleanup
     text = text.replace('<ref name', '');
