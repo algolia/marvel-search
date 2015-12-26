@@ -12,12 +12,18 @@
     "Monster Hunters",
     "\"Avengers\" (1959)"
   ],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [
     "Atlantean",
     "Human Mutant"
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength and durability invulnerability<br/>Ability to swim at superhuman speeds<br/>Ability to breathe both water and air<br/>Slowed aging process<br/>Wings-like appendages on her ankles allow her to fly"
+  "powersText": "Superhuman strength and durability invulnerability<br/>Ability to swim at superhuman speeds<br/>Ability to breathe both water and air<br/>Slowed aging process<br/>Wings-like appendages on her ankles allow her to fly",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/e/e2/AOATLAS004_COV.jpg",
+    "width": "250",
+    "height": "377"
+  },
+  "pageviews": 4608
 }

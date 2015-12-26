@@ -8,11 +8,17 @@
   "teams": [
     "Purifiers"
   ],
-  "aliases": "<!-- optional -->",
+  "aliases": "",
   "species": [],
   "partners": [],
   "powers": [
     "Nimrod"
   ],
-  "powersText": "William Stryker possesses the forearm (hand to elbow) of the Sentinel  Nimrod ."
+  "powersText": "William Stryker possesses the forearm (hand to elbow) of the Sentinel  Nimrod .",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/3c/William_Stryker_001.jpg",
+    "width": "227",
+    "height": "307"
+  },
+  "pageviews": 27339
 }

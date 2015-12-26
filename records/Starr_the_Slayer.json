@@ -7,11 +7,17 @@
     "Barry Windsor-Smith"
   ],
   "teams": [],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [],
   "partners": [],
   "powers": [
     "swordsman"
   ],
-  "powersText": "Expert  swordsman"
+  "powersText": "Expert  swordsman",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Starr.jpg/246px-Starr.jpg",
+    "width": "246",
+    "height": "450"
+  },
+  "pageviews": 899
 }

@@ -11,9 +11,15 @@
     "Xavier Institute",
     "X-Men-In-Training"
   ],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength and durability"
+  "powersText": "Superhuman strength and durability",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Onyxx.jpg/250px-Onyxx.jpg",
+    "width": "250",
+    "height": "240"
+  },
+  "pageviews": 1002
 }

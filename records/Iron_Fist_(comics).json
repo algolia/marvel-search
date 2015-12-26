@@ -13,7 +13,7 @@
     "Immortal Weapons",
     "Thunderbolts"
   ],
-  "aliases": "<!--he posed as Daredevil during the superhero Civil War--> Daredevil <!--he posed as Daredevil during the superhero Civil War-->, The Living Weapon, Young Dragon, Daniel Thomas Rand",
+  "aliases": "Daredevil , The Living Weapon, Young Dragon, Daniel Thomas Rand",
   "species": [],
   "partners": [
     "Luke Cage",
@@ -26,5 +26,11 @@
   "powers": [
     "chi"
   ],
-  "powersText": "Master martial artist<br>The ''Iron Fist'', a concentration of his  chi in his fist<br>Greatly enhanced physical attributes<br>Healing powers<br>Telepathic mind fusion"
+  "powersText": "Master martial artist<br>The ''Iron Fist'', a concentration of his  chi in his fist<br>Greatly enhanced physical attributes<br>Healing powers<br>Telepathic mind fusion",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Immortalironfist.jpg/250px-Immortalironfist.jpg",
+    "width": "250",
+    "height": "380"
+  },
+  "pageviews": 221155
 }

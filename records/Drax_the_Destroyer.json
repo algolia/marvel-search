@@ -13,11 +13,17 @@
     "Secret Defenders",
     "United Front"
   ],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [],
   "partners": [],
   "powers": [
     "Thanos"
   ],
-  "powersText": "Superhuman strength and endurance<br>Flight<br>Energy blast projection<br>Highly skilled in use of knives<br>Ability to sense  Thanos ' location<br>Psychic detection of others"
+  "powersText": "Superhuman strength and endurance<br>Flight<br>Energy blast projection<br>Highly skilled in use of knives<br>Ability to sense  Thanos ' location<br>Psychic detection of others",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Drax.PNG",
+    "width": "195",
+    "height": "322"
+  },
+  "pageviews": 53517
 }

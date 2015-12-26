@@ -8,11 +8,17 @@
   "teams": [
     "Great Lakes Avengers"
   ],
-  "aliases": "<!-- optional -->",
+  "aliases": "",
   "species": [
     "Human Mutant"
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Portal generation<br>Flight via skis<br>Intangibility<br>Ability to bring souls to the afterlife<br>Formerly:<br>Levitation"
+  "powersText": "Portal generation<br>Flight via skis<br>Intangibility<br>Ability to bring souls to the afterlife<br>Formerly:<br>Levitation",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Doorman_HCV.jpg",
+    "width": "200",
+    "height": "280"
+  },
+  "pageviews": 3851
 }

@@ -9,7 +9,7 @@
   "teams": [
     "Inhuman Royal Family"
   ],
-  "aliases": "<!-- optional -->",
+  "aliases": "",
   "species": [
     "Inhuman"
   ],
@@ -20,5 +20,11 @@
     "Black Bolt"
   ],
   "powers": [],
-  "powersText": "Fire manipulation<br>Fiery form<br>Regenerative healing factor"
+  "powersText": "Fire manipulation<br>Fiery form<br>Regenerative healing factor",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Friendly_stickman.svg/32px-Friendly_stickman.svg.png",
+    "width": "32",
+    "height": "16"
+  },
+  "pageviews": 7067
 }

@@ -3,7 +3,7 @@ import algoliasearch from 'algoliasearch';
 import jsonfile from 'jsonfile';
 
 // We get all files, to get all the record
-const recordsPath = './download/step3-cleanup/';
+const recordsPath = './download/step5-consolidate-pageviews/';
 let records = [];
 let appId = 'O3F8QXYK6R';
 let apiKey = process.env.ALGOLIA_API_KEY;
@@ -30,6 +30,9 @@ let indexSettings = {
     'species',
     'partners',
     'powers'
+  ],
+  customRanking: [
+    'desc(pageviews)'
   ],
   hitsPerPage: 200
 };

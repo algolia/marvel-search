@@ -7,9 +7,15 @@
     "Paul Neary"
   ],
   "teams": [],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Various mystical powers, superhuman agility, skilled combatant"
+  "powersText": "Various mystical powers, superhuman agility, skilled combatant",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Black_Crow_%28Marvel_character%29.jpg/250px-Black_Crow_%28Marvel_character%29.jpg",
+    "width": "250",
+    "height": "313"
+  },
+  "pageviews": 787
 }

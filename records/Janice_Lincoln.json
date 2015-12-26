@@ -16,5 +16,11 @@
   "powers": [
     "Powered armor"
   ],
-  "powersText": "Powered armor grants:<br>Superhuman strength and durability<br>Flight via artificial wings<br>Variety of weapon systems<br>Ability to stick to walls"
+  "powersText": "Powered armor grants:<br>Superhuman strength and durability<br>Flight via artificial wings<br>Variety of weapon systems<br>Ability to stick to walls",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Janice_Lincoln.png/250px-Janice_Lincoln.png",
+    "width": "250",
+    "height": "355"
+  },
+  "pageviews": 2571
 }

@@ -10,11 +10,17 @@
     "Inhuman Royal Family",
     "Deep Six"
   ],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [
     "Inhuman"
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Underwater breathing<br>Aquatic vision<br>Superhuman strength, stamina, speed, durability, agility, and reflexes  }}"
+  "powersText": "Underwater breathing<br>Aquatic vision<br>Superhuman strength, stamina, speed, durability, agility, and reflexes  }}",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/df/Triton_-_sii_04.png",
+    "width": "132",
+    "height": "400"
+  },
+  "pageviews": 10895
 }

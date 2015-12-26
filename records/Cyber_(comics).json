@@ -9,11 +9,17 @@
   "teams": [
     "Hell's Belles"
   ],
-  "aliases": "<!-- optional -->",
+  "aliases": "",
   "species": [
     "Human Mutant"
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Original Body: <br />Superhuman strength and stamina <br />Adamantium skin <br />Retractable claws tipped with powerful hallucinogens or poisons <br />Psionic ability to track individual brain patterns <br />Current Body: <br />Superhuman strength <br />Adamantium skin and retractable claws <br />Psionic ability to track individual brain patterns"
+  "powersText": "Original Body: <br />Superhuman strength and stamina <br />Adamantium skin <br />Retractable claws tipped with powerful hallucinogens or poisons <br />Psionic ability to track individual brain patterns <br />Current Body: <br />Superhuman strength <br />Adamantium skin and retractable claws <br />Psionic ability to track individual brain patterns",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Wolverine15.jpg/250px-Wolverine15.jpg",
+    "width": "250",
+    "height": "380"
+  },
+  "pageviews": 4155
 }

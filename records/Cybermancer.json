@@ -11,9 +11,15 @@
     "Force Works",
     "Stark Industries"
   ],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "wears a special armor that gives her powers"
+  "powersText": "wears a special armor that gives her powers",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Cybermancer_001.jpg/198px-Cybermancer_001.jpg",
+    "width": "198",
+    "height": "450"
+  },
+  "pageviews": 396
 }

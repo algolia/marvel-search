@@ -10,7 +10,7 @@
     "Shi'ar Imperium",
     "Starjammers"
   ],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [
     "Shi'ar"
   ],
@@ -18,5 +18,11 @@
   "powers": [
     "telepathy"
   ],
-  "powersText": "Limited  telepathy <br>Shi'ar armor and ceremonial staff"
+  "powersText": "Limited  telepathy <br>Shi'ar armor and ceremonial staff",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Xmen122.png/250px-Xmen122.png",
+    "width": "250",
+    "height": "381"
+  },
+  "pageviews": 4343
 }

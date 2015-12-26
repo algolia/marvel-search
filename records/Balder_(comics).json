@@ -7,7 +7,7 @@
     "Jack Kirby"
   ],
   "teams": [],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [
     "Asgardian"
   ],
@@ -19,5 +19,11 @@
     "longevity",
     "Light manipulation"
   ],
-  "powersText": "  Superhuman strength speed durability , and  longevity   Light manipulation }}"
+  "powersText": "  Superhuman strength speed durability , and  longevity   Light manipulation }}",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Balder_%28comics%29.jpg/250px-Balder_%28comics%29.jpg",
+    "width": "250",
+    "height": "429"
+  },
+  "pageviews": 6495
 }

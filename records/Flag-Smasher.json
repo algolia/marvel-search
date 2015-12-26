@@ -9,11 +9,17 @@
   "teams": [
     "ULTIMATUM"
   ],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [],
   "partners": [],
   "powers": [
     "ULTIMATUM"
   ],
-  "powersText": "Brilliant terrorist strategist<br/>Gifted hand to hand combatant<br/>Arsenal of weapons provided by  ULTIMATUM }}"
+  "powersText": "Brilliant terrorist strategist<br/>Gifted hand to hand combatant<br/>Arsenal of weapons provided by  ULTIMATUM }}",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/FlagSmasherMarvel.jpg",
+    "width": "250",
+    "height": "309"
+  },
+  "pageviews": 3012
 }

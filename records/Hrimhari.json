@@ -12,7 +12,7 @@
     "New Mutants",
     "Xavier Institute"
   ],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [
     "Asgardian"
   ],
@@ -20,5 +20,7 @@
   "powers": [
     "shapeshift"
   ],
-  "powersText": "Ability to  shapeshift between human and grey wolf with various in between forms"
+  "powersText": "Ability to  shapeshift between human and grey wolf with various in between forms",
+  "image": {},
+  "pageviews": 1373
 }

@@ -13,5 +13,11 @@
   "powers": [
     "Powered armor"
   ],
-  "powersText": "Powered armor grants:<br>Superhuman strength<br>Flight via flying jets<br>Thermal blasts via flamethrowers<br>Resistance to fire"
+  "powersText": "Powered armor grants:<br>Superhuman strength<br>Flight via flying jets<br>Thermal blasts via flamethrowers<br>Resistance to fire",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Firebrand_001.jpg",
+    "width": "211",
+    "height": "350"
+  },
+  "pageviews": 2391
 }

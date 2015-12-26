@@ -10,7 +10,7 @@
     "MI-13",
     "British Army"
   ],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [],
   "partners": [],
   "powers": [
@@ -18,5 +18,11 @@
     "tactician",
     "Circular shield with anti-magic gloss"
   ],
-  "powersText": "Physical attributes enhanced to peak of human potential<br>Expert  martial artist and hand-to-hand combatant<br>All terrain acrobatics<br>Master  tactician and field commander<br> Circular shield with anti-magic gloss"
+  "powersText": "Physical attributes enhanced to peak of human potential<br>Expert  martial artist and hand-to-hand combatant<br>All terrain acrobatics<br>Master  tactician and field commander<br> Circular shield with anti-magic gloss",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/CaptainMidlands.png",
+    "width": "250",
+    "height": "288"
+  },
+  "pageviews": 931
 }

@@ -9,12 +9,18 @@
   "teams": [
     "Houston Police Department"
   ],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [],
   "partners": [],
   "powers": [
     "marksman",
     "martial artist"
   ],
-  "powersText": "Trained  marksman and  martial artist ."
+  "powersText": "Trained  marksman and  martial artist .",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Americop.jpg/250px-Americop.jpg",
+    "width": "250",
+    "height": "316"
+  },
+  "pageviews": 1095
 }

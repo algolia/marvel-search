@@ -9,7 +9,7 @@
   "teams": [
     "Spaceknights"
   ],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [
     "Galadorian"
   ],
@@ -17,5 +17,11 @@
   "powers": [
     "Space"
   ],
-  "powersText": "Armor grants:<br>Superhuman strength<br>Extreme durability<br>Flight<br> Space travel via backpack rockets<br>Survive the vacuum of space<br>Self-repair capabilities<br>Use of high tech weapons"
+  "powersText": "Armor grants:<br>Superhuman strength<br>Extreme durability<br>Flight<br> Space travel via backpack rockets<br>Survive the vacuum of space<br>Self-repair capabilities<br>Use of high tech weapons",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Rom-1.jpg/250px-Rom-1.jpg",
+    "width": "250",
+    "height": "378"
+  },
+  "pageviews": 12598
 }

@@ -9,7 +9,7 @@
   "teams": [
     "Big Hero 6"
   ],
-  "aliases": "<!-- optional -->",
+  "aliases": "",
   "species": [],
   "partners": [
     "Hiro Takachiho"
@@ -18,5 +18,11 @@
     "dragon",
     "mecha"
   ],
-  "powersText": "Morph body into  dragon or  mecha"
+  "powersText": "Morph body into  dragon or  mecha",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Baymax_%28Marvel_Comics%29.jpg/250px-Baymax_%28Marvel_Comics%29.jpg",
+    "width": "250",
+    "height": "263"
+  },
+  "pageviews": 31787
 }

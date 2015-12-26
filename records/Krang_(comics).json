@@ -10,7 +10,7 @@
     "Defenders",
     "Serpent Squad"
   ],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [
     "Homo mermanus"
   ],
@@ -22,5 +22,11 @@
     "Orka"
   ],
   "powers": [],
-  "powersText": "Ability to breathe underwater<br />Skilled strategist<br />Expert fencer<br />Wields electric sword }}"
+  "powersText": "Ability to breathe underwater<br />Skilled strategist<br />Expert fencer<br />Wields electric sword }}",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Krang1.jpg/250px-Krang1.jpg",
+    "width": "250",
+    "height": "281"
+  },
+  "pageviews": 1976
 }

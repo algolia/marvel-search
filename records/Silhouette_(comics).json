@@ -11,11 +11,17 @@
     "Folding Circle",
     "New Warriors"
   ],
-  "aliases": "<!-- optional: actual identities the character uses, not nicknames -->",
+  "aliases": "",
   "species": [
     "Human Mutate"
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superb hand to hand combatant<br>Expert martial artist<br>Enhanced strength, speed and agility<br>Shadow teleportation<br>Darkforce energy manipulation<br>Ability to become a living shadow"
+  "powersText": "Superb hand to hand combatant<br>Expert martial artist<br>Enhanced strength, speed and agility<br>Shadow teleportation<br>Darkforce energy manipulation<br>Ability to become a living shadow",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Silhouetteani.png",
+    "width": "194",
+    "height": "450"
+  },
+  "pageviews": 2017
 }

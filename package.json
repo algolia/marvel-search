@@ -20,6 +20,7 @@
     "step2": "babel-node ./scripts/step2-download-infoboxes.js",
     "step3": "babel-node ./scripts/step3-cleanup-infoboxes.js",
     "step4": "babel-node ./scripts/step4-consolidate-images.js",
+    "step5": "babel-node ./scripts/step5-consolidate-pageviews.js",
     "push": "babel-node ./scripts/push.js",
     "lint": "eslint ./scripts/*.js",
     "test": "BABEL_ENV=test mocha --reporter dot ./test/helpers.js ./test/*-test.js",
@@ -44,6 +45,7 @@
     "jsonfile": "^2.2.3",
     "lodash": "^3.10.1",
     "mocha": "^2.3.4",
+    "request": "^2.67.0",
     "sinon": "^1.17.2",
     "wiki-infobox": "pixelastic/wiki-infobox#51d2a91e6a35360e70f4f93d23f50687f7c58b7d",
     "x-ray": "^2.0.2"
