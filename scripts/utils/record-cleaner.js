@@ -83,13 +83,15 @@ const Cleaner = {
     text = text.replace(/^\s*/, '');
     // HTML comments
     text = text.replace(/<!--(.*)-->/g, '');
+    // Dangling closing }}
+    text = text.replace(/}}/g, '');
 
     // Manual cleanup
     text = text.replace('<ref name', '');
     // Removing stars that are left after parsing some lists
     text = text.replace(/\*/g, '');
 
-    return text;
+    return text.trim();
   },
 
   getValueFromText(data) {

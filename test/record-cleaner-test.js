@@ -292,6 +292,16 @@ describe('Cleaner', () => {
       // Then
       expect(actual).toEqual('Foo');
     });
+    it('removed closing curly brackets', () => {
+      // Given
+      let input = 'Psychometry }}';
+
+      // When
+      let actual = Cleaner.cleanUp(input);
+
+      // Then
+      expect(actual).toEqual('Psychometry');
+    });
   });
 
   describe('getUrl', () => {
