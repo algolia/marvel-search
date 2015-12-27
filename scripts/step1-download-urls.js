@@ -20,24 +20,21 @@ const villains = [
 ];
 
 // STEP 1: Getting the list of all links for all Heroes and Villains
-const downloadUrlPath = './download/step1-urls/';
+const urlsPath = './download/step1-urls/';
 const saveUrlList = (url, name) => {
   const context = '#mw-pages .mw-category-group li';
-  const selectors = [{
-    title: 'a',
-    url: 'a@href'
-  }];
+  const selectors = ['a@href'];
 
   x(url, context, selectors).write(name);
 };
 
 forEach(heroes, (url, index) => {
-  const filepath = `${downloadUrlPath}/heroes_${index}.json`;
-  console.info(`Saving list of heroes from ${url}`);
+  const filepath = `${urlsPath}/heroes_${index}.json`;
+  console.info(`Saving list of heroes to ${filepath}`);
   saveUrlList(url, filepath);
 });
 forEach(villains, (url, index) => {
-  const filepath = `${downloadUrlPath}/villains_${index}.json`;
-  console.info(`Saving list of villains from ${url}`);
+  const filepath = `${urlsPath}/villains_${index}.json`;
+  console.info(`Saving list of villains to ${filepath}`);
   saveUrlList(url, filepath);
 });

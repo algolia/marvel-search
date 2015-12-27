@@ -1,14 +1,16 @@
+import async from 'async';
 import forEach from 'lodash/collection/forEach';
 import glob from 'glob';
-import jsonfile from 'jsonfile';
-import async from 'async';
-import infobox from 'wiki-infobox';
 import helper from './utils/helper.js';
+import jsonfile from 'jsonfile';
+import reduce from 'lodash/collection/reduce';
+import request from 'request';
+import values from 'lodash/object/values';
 
-// STEP 2: Downloading all the infoboxes
+// STEP 4: Download pageviews data for latest 90 days
 const urlsPath = './download/step1-urls/';
-const distPath = './download/step2-infoboxes/';
-const batchOffset = 30;
+const distPath = './download/step4-pageviews/';
+const batchOffset = 10;
 
 // We first generate a big list of all the urls
 let urlList = [];
@@ -30,9 +32,19 @@ const downloadData = (list, index, offset) => {
   // Build the array of promises
   batchItems.forEach((url) => {
     batchPromises.push((callback) => {
-      let urlName = helper.getWikipediaName(url);
-      return infobox(urlName, 'en', (errInfobox, data) => {
-        callback(null, {url, data});
+      const pageName = helper.getWikipediaName(url);
+      const statsUrl = `http://stats.grok.se/json/en/latest90/${pageName}`;
+
+      request(statsUrl, (err, response, body) => {
+        let pageviews = 0;
+        if (!err && response.statusCode === 200) {
+          let dailyViews = JSON.parse(body).daily_views;
+          pageviews = reduce(values(dailyViews), (total, n) => {
+            return total + n;
+          });
+        }
+
+        callback(null, {url, pageviews});
       });
     });
   });
@@ -45,8 +57,8 @@ const downloadData = (list, index, offset) => {
     }
 
     responses.forEach((response) => {
-      if (!response.data) {
-        console.info(`⚠ Unable to get data for ${response.url}`);
+      if (!response.pageviews) {
+        console.info(`⚠ Unable to get pageviews for ${response.url}`);
         return;
       }
       const filepath = helper.getJSONFilepathFromUrl(response.url, distPath);

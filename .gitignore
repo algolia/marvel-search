@@ -1,8 +1,4 @@
 node_modules
 npm-debug.log
 tmp
-download/step1-urls/*.json
-download/step2-infoboxes/*.json
-download/step3-cleanup/*.json
-download/step4-consolidate-images/*.json
-download/step5-consolidate-pageviews/*.json
+download/**/*.json

@@ -16,11 +16,11 @@
     "npm": "1.3.11"
   },
   "scripts": {
-    "step1": "babel-node ./scripts/step1-download-list-of-urls.js",
+    "step1": "babel-node ./scripts/step1-download-urls.js",
     "step2": "babel-node ./scripts/step2-download-infoboxes.js",
-    "step3": "babel-node ./scripts/step3-cleanup-infoboxes.js",
-    "step4": "babel-node ./scripts/step4-consolidate-images.js",
-    "step5": "babel-node ./scripts/step5-consolidate-pageviews.js",
+    "step3": "babel-node ./scripts/step3-download-images.js",
+    "step4": "babel-node ./scripts/step4-download-pageviews.js",
+    "consolidate": "babel-node ./scripts/consolidate.js",
     "push": "babel-node ./scripts/push.js",
     "lint": "eslint ./scripts/*.js",
     "test": "BABEL_ENV=test mocha --reporter dot ./test/helpers.js ./test/*-test.js",

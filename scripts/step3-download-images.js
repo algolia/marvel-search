@@ -1,13 +1,14 @@
+import async from 'async';
 import forEach from 'lodash/collection/forEach';
 import glob from 'glob';
 import jsonfile from 'jsonfile';
-import async from 'async';
-import infobox from 'wiki-infobox';
+import xray from 'x-ray';
 import helper from './utils/helper.js';
+let x = xray();
 
-// STEP 2: Downloading all the infoboxes
+// STEP 3: Download the list of all images
 const urlsPath = './download/step1-urls/';
-const distPath = './download/step2-infoboxes/';
+const distPath = './download/step3-images/';
 const batchOffset = 30;
 
 // We first generate a big list of all the urls
@@ -30,9 +31,15 @@ const downloadData = (list, index, offset) => {
   // Build the array of promises
   batchItems.forEach((url) => {
     batchPromises.push((callback) => {
-      let urlName = helper.getWikipediaName(url);
-      return infobox(urlName, 'en', (errInfobox, data) => {
-        callback(null, {url, data});
+      const context = '#mw-content-text a.image';
+      const selectors = {
+        url: 'img@src',
+        width: 'img@width',
+        height: 'img@height'
+      };
+
+      x(url, context, selectors)((errXray, data) => {
+        callback(null, {url, image: data});
       });
     });
   });
@@ -45,8 +52,8 @@ const downloadData = (list, index, offset) => {
     }
 
     responses.forEach((response) => {
-      if (!response.data) {
-        console.info(`⚠ Unable to get data for ${response.url}`);
+      if (!response.image) {
+        console.info(`⚠ Unable to get image for ${response.url}`);
         return;
       }
       const filepath = helper.getJSONFilepathFromUrl(response.url, distPath);

@@ -26,3 +26,15 @@ npm run step5
 
 All intermediate files are stored in `./download`
 
+## TODO
+
+- Remove duplicates due to redirects
+- Prevent Wikipedia images to replace real hero image
+- Find better images for some heroes
+  (https://en.wikipedia.org/wiki/Owl_(Marvel_Comics))
+- Add image placeholder
+- Get real name for heroes (cf Spider-man Noir)
+- Better display
+- Facet sidebar
+- Pagination
+

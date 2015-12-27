@@ -312,6 +312,16 @@ describe('Cleaner', () => {
       // Then
       expect(actual).toEqual('Wonder Man');
     });
+    it('removes dangling comments', () => {
+      // Given
+      let input = '<!-- Wonder Man';
+
+      // When
+      let actual = Cleaner.cleanUp(input);
+
+      // Then
+      expect(actual).toEqual('Wonder Man');
+    });
   });
 
   describe('getUrl', () => {
