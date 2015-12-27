@@ -25,6 +25,7 @@
     "lint": "eslint ./scripts/*.js",
     "test": "BABEL_ENV=test mocha --reporter dot ./test/helpers.js ./test/*-test.js",
     "test:watch": "BABEL_ENV=test mocha --reporter min --watch ./test/helpers.js ./test/*-test.js",
+    "serve": "http-server ./public",
     "gh-pages": "./scripts/gh-pages"
   },
   "devDependencies": {
@@ -42,6 +43,7 @@
     "expect": "^1.13.4",
     "gh-pages": "^0.8.0",
     "glob": "^6.0.1",
+    "http-server": "^0.8.5",
     "jsonfile": "^2.2.3",
     "lodash": "^3.10.1",
     "mocha": "^2.3.4",

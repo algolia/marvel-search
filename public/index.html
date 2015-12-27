@@ -52,7 +52,31 @@
 
   <script id="hitTemplate" language="x-template">
     <article class="hit">
-    {{{_highlightResult.aliases.value}}}
+      <div class="hit--picture-wrapper">
+        <img src="{{image.url}}" />
+      </div>
+      <div class="hit--desc-wrapper">
+        <a class="hit--name" href="{{url}}">{{{_highlightResult.name.value}}}</a>
+        {{#realName}}
+        <div class="hit--realname">Real name: {{{_highlightResult.realName.value}}}</div>
+        {{/realName}}
+
+        {{#aliases}}
+        <div class="hit--aliases">A.K.A: {{{_highlightResult.aliases.value}}}</div>
+        {{/aliases}}
+
+        <dl class="hit--dl dl-horizontal">
+          {{#creators}}
+          <dt>Creators</dt>
+          <dd>{{creators}}</dd>
+          {{/creators}}
+
+          {{#teams}}
+          <dt>Teams</dt>
+          <dd>{{teams}}</dd>
+          {{/teams}}
+        </dl>
+      </div>
     </article>
   </script>
   <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
@@ -60,35 +84,7 @@
   <script src="search.js"></script>
 
 
-    <!-- <article class="hit"> -->
-    <!--   <div class="hit--picture-wrapper"> -->
-    <!--     <img src="{{image.url}}" /> -->
-    <!--   </div> -->
-    <!--   <div class="hit--desc-wrapper"> -->
-    <!--     <a class="hit--name" href="{{url}}">{{{_highlightResult.name.value}}}</a> -->
-    <!--     {{#realName}} -->
-    <!--     <div class="hit--realname">Real name: {{{_highlightResult.realName.value}}}</div> -->
-    <!--     {{/realName}} -->
 
-    <!--     {{#aliases}} -->
-    <!--     <div class="hit--aliases">A.K.A: {{{_highlightResult.aliases.value}}}</div> -->
-    <!--     {{/aliases}} -->
-
-
-    <!--   </div> -->
-    <!-- </article> -->
-
-        <!-- <dl class="hit--dl dl-horizontal"> -->
-        <!--   {{#creators}} -->
-        <!--   <dt>Creators</dt> -->
-        <!--   <dd>{{creators}}</dd> -->
-        <!--   {{/creators}} -->
-
-        <!--   {{#teams}} -->
-        <!--   <dt>Teams</dt> -->
-        <!--   <dd>{{teams}}</dd> -->
-        <!--   {{/teams}} -->
-        <!-- </dl> -->
   <!-- "species": [ -->
   <!--   "Human Mutate" -->
   <!-- ], -->
