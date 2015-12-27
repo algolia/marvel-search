@@ -17,12 +17,14 @@
   "partners": [
     "Selene"
   ],
-  "powers": [],
-  "powersText": "Portal Creation",
+  "powers": [
+    "teleportation"
+  ],
+  "powersText": "teleportation",
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/New_Mutants_34.jpg/200px-New_Mutants_34.jpg",
     "width": "200",
     "height": "303"
   },
-  "pageviews": 22409
+  "pageviews": 22599
 }
