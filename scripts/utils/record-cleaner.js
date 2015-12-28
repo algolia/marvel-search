@@ -117,6 +117,7 @@ const Cleaner = {
 
     // Manual cleanup
     text = text.replace('<ref name', '');
+    text = text.replace(/<ref>(.*)/g, '');
     // Removing stars that are left after parsing some lists
     text = text.replace(/\*/g, '');
 

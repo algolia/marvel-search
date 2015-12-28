@@ -232,6 +232,16 @@ describe('Cleaner', () => {
       // Then
       expect(actual).toEqual('foo');
     });
+    it('removes unclosed <ref>', () => {
+      // Given
+      let input = "Eightball<ref>foo bar baz";
+
+      // When
+      let actual = Cleaner.cleanUp(input);
+
+      // Then
+      expect(actual).toEqual('Eightball');
+    });
     it('removes <ref>', () => {
       // Given
       let input = "Eightball<ref>''She-Hulk''</ref>";
