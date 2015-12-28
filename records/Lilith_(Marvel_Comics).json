@@ -14,7 +14,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Although a vampire, Lilith is immune to sunlight, not repelled by the cross, and not completely dependent on drinking blood.  She is unable to personally kill Dracula and continues to exist until he is permanently destroyed",
+  "powersText": [
+    "Although a vampire",
+    "Lilith is immune to sunlight",
+    "not repelled by the cross",
+    "and not completely dependent on drinking blood.  She is unable to personally kill Dracula and continues to exist until he is permanently destroyed"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/DemonLilith.jpg/250px-DemonLilith.jpg",
     "width": "250",

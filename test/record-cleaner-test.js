@@ -436,5 +436,87 @@ describe('Cleaner', () => {
     });
   });
 
+  describe('getPowersAsText', () => {
+    it('return an empty array if no powers', () => {
+      // Given
+      let input = {};
+
+      // When
+      let actual = Cleaner.getPowersAsText(input);
+
+      // Then
+      expect(actual).toEqual([]);
+    });
+    it('returns an array', () => {
+      // Given
+      let input = {
+        powers: [
+          {
+            type: 'link',
+            text: 'Magic',
+            url: 'http://en.wikipedia.org/wiki/Magic in fiction'
+          }
+        ]
+      };
+
+      // When
+      let actual = Cleaner.getPowersAsText(input);
+
+      // Then
+      expect(actual).toEqual(['Magic']);
+    });
+    it('returns an array, separated by <br>', () => {
+      // Given
+      let input = {
+        powers: [
+          {
+            type: 'text',
+            value: 'Magic<br>Foo<br>Bar'
+          }
+        ]
+      };
+
+      // When
+      let actual = Cleaner.getPowersAsText(input);
+
+      // Then
+      expect(actual).toEqual(['Magic', 'Foo', 'Bar']);
+    });
+    it('returns an array, separated by ,', () => {
+      // Given
+      let input = {
+        powers: [
+          {
+            type: 'text',
+            value: 'Magic, Foo, Bar'
+          }
+        ]
+      };
+
+      // When
+      let actual = Cleaner.getPowersAsText(input);
+
+      // Then
+      expect(actual).toEqual(['Magic', 'Foo', 'Bar']);
+    });
+    it('return a cleaned array', () => {
+      // Given
+      let input = {
+        powers: [
+          {
+            type: 'text',
+            value: 'Magic }}'
+          }
+        ]
+      };
+
+      // When
+      let actual = Cleaner.getPowersAsText(input);
+
+      // Then
+      expect(actual).toEqual(['Magic']);
+    });
+  });
+
 
 });

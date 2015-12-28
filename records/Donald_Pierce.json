@@ -15,7 +15,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Cyborg body,<br>Superhuman strength and reflexes,<br>Mechanical genius<br>Able to create numerous types of energy",
+  "powersText": [
+    "Cyborg body",
+    "Superhuman strength and reflexes",
+    "Mechanical genius",
+    "Able to create numerous types of energy"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Pierce_uncanny.JPG/237px-Pierce_uncanny.JPG",
     "width": "237",

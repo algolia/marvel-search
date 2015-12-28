@@ -16,7 +16,16 @@
     "Headlok"
   ],
   "powers": [],
-  "powersText": "Superhuman strength, speed, agility, reflexes, resiliency, endurance <br>Flight<br>Telepathic ability to command birds",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "reflexes",
+    "resiliency",
+    "endurance",
+    "Flight",
+    "Telepathic ability to command birds"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/John_Horton_%28Earth-616%29_%28Griffin%29.jpg/250px-John_Horton_%28Earth-616%29_%28Griffin%29.jpg",
     "width": "250",

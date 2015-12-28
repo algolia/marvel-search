@@ -24,7 +24,13 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "<br/> Flight Plasma blasts Ability to view infrared Radiation immunity As Horsemen of Famine:<br/> Ability to emit hunger-inducing light",
+  "powersText": [
+    "Flight",
+    "Plasma blasts",
+    "Ability to view infrared",
+    "Radiation immunity As Horsemen of Famine:",
+    "Ability to emit hunger-inducing light"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Sunfirex.PNG/225px-Sunfirex.PNG",
     "width": "225",

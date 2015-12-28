@@ -19,7 +19,13 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength and durability invulnerability<br/>Ability to swim at superhuman speeds<br/>Ability to breathe both water and air<br/>Slowed aging process<br/>Wings-like appendages on her ankles allow her to fly",
+  "powersText": [
+    "Superhuman strength and durability invulnerability",
+    "Ability to swim at superhuman speeds",
+    "Ability to breathe both water and air",
+    "Slowed aging process",
+    "Wings-like appendages on her ankles allow her to fly"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/e/e2/AOATLAS004_COV.jpg",
     "width": "250",

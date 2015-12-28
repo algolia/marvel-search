@@ -15,7 +15,12 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Shi'ar superhuman attributes.<br/>  As Wielder of the Phoenix blade:  Flight Energy Blasts",
+  "powersText": [
+    "Shi'ar superhuman attributes.",
+    "As Wielder of the Phoenix blade:",
+    "Flight",
+    "Energy Blasts"
+  ],
   "image": {},
   "pageviews": 903
 }

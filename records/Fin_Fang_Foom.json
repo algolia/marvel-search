@@ -15,7 +15,17 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength<br>Supersonic flight via wings<br>Extreme durability<br>Regenerative healing factor<br>Acid mist breath<br>Telepathy<br>Prolonged lifespan<br>Gifted intellect<br>Possesses advanced alien technology",
+  "powersText": [
+    "Superhuman strength",
+    "Supersonic flight via wings",
+    "Extreme durability",
+    "Regenerative healing factor",
+    "Acid mist breath",
+    "Telepathy",
+    "Prolonged lifespan",
+    "Gifted intellect",
+    "Possesses advanced alien technology"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/ST-89.jpg/250px-ST-89.jpg",
     "width": "250",

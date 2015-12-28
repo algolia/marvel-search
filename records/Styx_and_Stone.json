@@ -11,7 +11,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "(Styx):<br>Lethal touch<br>Claw-like hands that disintegrate all organic material within seconds<br>(Stone):<br>Wears two large weapons on his shoulders",
+  "powersText": [
+    "(Styx):",
+    "Lethal touch",
+    "Claw-like hands that disintegrate all organic material within seconds",
+    "(Stone):",
+    "Wears two large weapons on his shoulders"
+  ],
   "image": {},
   "pageviews": 1608
 }

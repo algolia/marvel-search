@@ -18,7 +18,24 @@
     "Telekinesis",
     "Dreaming Celestial"
   ],
-  "powersText": "Formerly:<br>Immortality<br>Superhuman speed, strength and durability<br>Accelerated healing factor <br>Cosmic energy manipulation<br>Energy blasts<br>Flight<br>Illusion generation<br>Matter transmutation<br> Telekinesis <br>Teleportation<br>Currently:<br>Immortality<br>Superhuman strength and speed<br>Ability to communicate with the Dreaming Celestial",
+  "powersText": [
+    "Formerly:",
+    "Immortality",
+    "Superhuman speed",
+    "strength and durability",
+    "Accelerated healing factor",
+    "Cosmic energy manipulation",
+    "Energy blasts",
+    "Flight",
+    "Illusion generation",
+    "Matter transmutation",
+    "Telekinesis",
+    "Teleportation",
+    "Currently:",
+    "Immortality",
+    "Superhuman strength and speed",
+    "Ability to communicate with the Dreaming Celestial"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Makkari_1.jpg/250px-Makkari_1.jpg",
     "width": "250",

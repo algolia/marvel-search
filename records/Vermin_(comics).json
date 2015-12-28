@@ -14,7 +14,17 @@
     "Armin Zola"
   ],
   "powers": [],
-  "powersText": "Accomplished geneticist<br>Superhuman strength, speed and stamina<br>Peak level agility, durability and reflexes<br>Extremely acute senses<br>Razor sharp teeth<br>Inch-long claw-like fingernails<br>Ability to control rats and stray dogs and revert to human form at will",
+  "powersText": [
+    "Accomplished geneticist",
+    "Superhuman strength",
+    "speed and stamina",
+    "Peak level agility",
+    "durability and reflexes",
+    "Extremely acute senses",
+    "Razor sharp teeth",
+    "Inch-long claw-like fingernails",
+    "Ability to control rats and stray dogs and revert to human form at will"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Specv.jpg/225px-Specv.jpg",
     "width": "225",

@@ -14,7 +14,16 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Excellent hand-to-hand combatant<br>Expert French kickboxer<br>Olympic-level leaping ability<br>(Briefly):<br>Superhuman strength, agility, stamina and leaping<br>Frog-like legs",
+  "powersText": [
+    "Excellent hand-to-hand combatant",
+    "Expert French kickboxer",
+    "Olympic-level leaping ability",
+    "(Briefly):",
+    "Superhuman strength",
+    "agility",
+    "stamina and leaping",
+    "Frog-like legs"
+  ],
   "image": {},
   "pageviews": 587
 }

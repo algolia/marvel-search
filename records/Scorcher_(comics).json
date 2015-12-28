@@ -14,7 +14,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Insulated battlesuit grants:<br>Flamethrowers<br>Protection from heat, flame and physical injuries<br>Flight via jet pack",
+  "powersText": [
+    "Insulated battlesuit grants:",
+    "Flamethrowers",
+    "Protection from heat",
+    "flame and physical injuries",
+    "Flight via jet pack"
+  ],
   "image": {},
   "pageviews": 1353
 }

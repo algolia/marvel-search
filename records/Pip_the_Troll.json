@@ -18,7 +18,10 @@
     "Thanos"
   ],
   "powers": [],
-  "powersText": "Teleportation, superhuman strength",
+  "powersText": [
+    "Teleportation",
+    "superhuman strength"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/PipTheTroll.png/150px-PipTheTroll.png",
     "width": "150",

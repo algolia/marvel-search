@@ -16,7 +16,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, stamina, and sturdiness<br/>Natural wings<br/>Razor-sharp talons",
+  "powersText": [
+    "Superhuman strength",
+    "stamina",
+    "and sturdiness",
+    "Natural wings",
+    "Razor-sharp talons"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/Xdeathbirdlee.jpg",
     "width": "250",

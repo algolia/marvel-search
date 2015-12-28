@@ -18,7 +18,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Telescopic/microscopic eyesight<br> X-ray vision<br> Eye beams",
+  "powersText": [
+    "Telescopic/microscopic eyesight",
+    "X-ray vision",
+    "Eye beams"
+  ],
   "image": {},
   "pageviews": 1281
 }

@@ -21,7 +21,11 @@
     "Hercules",
     "adamantine"
   ],
-  "powersText": "Super-genius mind<br>Possesses Hercules ' powers<br>Wields adamantine mace",
+  "powersText": [
+    "Super-genius mind",
+    "Possesses Hercules' powers",
+    "Wields adamantine mace"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/AmadeusCho1.jpg/230px-AmadeusCho1.jpg",
     "width": "230",

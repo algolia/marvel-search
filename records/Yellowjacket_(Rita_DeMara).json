@@ -16,7 +16,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Cybernetics expert<br>Suit grants:<br>High-speed flight<br>Size manipulation<br>Electrical bolt projection via stinger blasts",
+  "powersText": [
+    "Cybernetics expert",
+    "Suit grants:",
+    "High-speed flight",
+    "Size manipulation",
+    "Electrical bolt projection via stinger blasts"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/YellowjacketII.jpg/150px-YellowjacketII.jpg",
     "width": "150",

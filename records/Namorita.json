@@ -19,7 +19,17 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Aquatic adaptation <br/>Superhuman strength, agility, reflexes, and durability<br/>High speed swimming <br/>Ankle wing-granted flight<br /> Paralyzing/acidic touch<br /> Can become transparent",
+  "powersText": [
+    "Aquatic adaptation",
+    "Superhuman strength",
+    "agility",
+    "reflexes",
+    "and durability",
+    "High speed swimming",
+    "Ankle wing-granted flight",
+    "Paralyzing/acidic touch",
+    "Can become transparent"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png",
     "width": "20",

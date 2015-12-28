@@ -14,7 +14,10 @@
     "Mole Man"
   ],
   "powers": [],
-  "powersText": "Superhuman strength and endurance<br>Ability to dig underground and hold his breath underwater",
+  "powersText": [
+    "Superhuman strength and endurance",
+    "Ability to dig underground and hold his breath underwater"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Giganto1.jpg/250px-Giganto1.jpg",
     "width": "250",

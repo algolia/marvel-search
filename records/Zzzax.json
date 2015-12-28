@@ -11,7 +11,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Flight<br>Electrical energy absorption, projection and manipulation<br>Heat generation<br>Ability to supposedly gain intellect",
+  "powersText": [
+    "Flight",
+    "Electrical energy absorption",
+    "projection and manipulation",
+    "Heat generation",
+    "Ability to supposedly gain intellect"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/IH-183.jpg/250px-IH-183.jpg",
     "width": "250",

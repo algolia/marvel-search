@@ -18,7 +18,14 @@
   "powers": [
     "Telepathy"
   ],
-  "powersText": "(Both)<br> Telepathy ,<br>Ability to breathe underwater,<br>Superhuman strength,<br>Sharp claws,<br>Metamorphic abilities",
+  "powersText": [
+    "(Both)",
+    "Telepathy",
+    "Ability to breathe underwater",
+    "Superhuman strength",
+    "Sharp claws",
+    "Metamorphic abilities"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Amphibiansqsup001.jpg/125px-Amphibiansqsup001.jpg",
     "width": "125",

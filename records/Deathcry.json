@@ -15,7 +15,13 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Super-strength, stamina, sturdiness, sharp talons, enhanced senses.",
+  "powersText": [
+    "Super-strength",
+    "stamina",
+    "sturdiness",
+    "sharp talons",
+    "enhanced senses."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/b/b4/DeathcryMarvel.jpg",
     "width": "203",

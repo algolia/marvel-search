@@ -11,7 +11,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength<br>Healing factor<br>Glaratrox transformation",
+  "powersText": [
+    "Superhuman strength",
+    "Healing factor",
+    "Glaratrox transformation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Cullen_Bloodstone_Avengers_Arena_6.jpg/250px-Cullen_Bloodstone_Avengers_Arena_6.jpg",
     "width": "250",

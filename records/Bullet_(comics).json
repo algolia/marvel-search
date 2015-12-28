@@ -11,7 +11,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Enhanced strength, speed, stamina, and durability Weapons expert",
+  "powersText": [
+    "Enhanced strength",
+    "speed",
+    "stamina",
+    "and durability",
+    "Weapons expert"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Marvel_balloon.svg/32px-Marvel_balloon.svg.png",
     "width": "32",

@@ -8,7 +8,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength and stamina<br>Fire and poison generation<br>Illusion projection",
+  "powersText": [
+    "Superhuman strength and stamina",
+    "Fire and poison generation",
+    "Illusion projection"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/WorldSerpent.jpg/250px-WorldSerpent.jpg",
     "width": "250",

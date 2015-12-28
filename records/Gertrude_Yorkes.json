@@ -12,7 +12,9 @@
   "powers": [
     "deinonychus"
   ],
-  "powersText": "Psychic link to genetically engineered deinonychus .",
+  "powersText": [
+    "Psychic link to genetically engineered deinonychus."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/RUNAWY014_COV.jpg/250px-RUNAWY014_COV.jpg",
     "width": "250",

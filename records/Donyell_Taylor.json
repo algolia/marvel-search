@@ -15,7 +15,17 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Accomplished acrobat, marksman, martial artist, thief, and scientist<br>Superhuman speed and reflexes<br>Wears advanced body armor<br>Use of weapons<br>Ability to generate a contact based bioelectric charge",
+  "powersText": [
+    "Accomplished acrobat",
+    "marksman",
+    "martial artist",
+    "thief",
+    "and scientist",
+    "Superhuman speed and reflexes",
+    "Wears advanced body armor",
+    "Use of weapons",
+    "Ability to generate a contact based bioelectric charge"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Newwarv2010.jpg/250px-Newwarv2010.jpg",
     "width": "250",

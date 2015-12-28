@@ -17,7 +17,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Skilled street fighter<br>Superhuman strength, speed, stamina, durability and resistance to injury<br>Great leaping ability",
+  "powersText": [
+    "Skilled street fighter",
+    "Superhuman strength",
+    "speed",
+    "stamina",
+    "durability and resistance to injury",
+    "Great leaping ability"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Ragecomics.jpg/250px-Ragecomics.jpg",
     "width": "250",

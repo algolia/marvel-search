@@ -13,7 +13,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Magic user,<br>Levitation",
+  "powersText": [
+    "Magic user",
+    "Levitation"
+  ],
   "image": {},
   "pageviews": 2221
 }

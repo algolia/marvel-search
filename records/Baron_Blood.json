@@ -21,7 +21,13 @@
     "Hypnosis",
     "Flight"
   ],
-  "powersText": "(All)<br>Superhuman strength and durability<br> Hypnosis <br>Animal and weather control<br> Flight",
+  "powersText": [
+    "(All)",
+    "Superhuman strength and durability",
+    "Hypnosis",
+    "Animal and weather control",
+    "Flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Invaders-7.jpg/250px-Invaders-7.jpg",
     "width": "250",

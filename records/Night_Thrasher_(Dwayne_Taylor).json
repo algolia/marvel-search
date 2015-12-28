@@ -18,7 +18,12 @@
     "Silhouette"
   ],
   "powers": [],
-  "powersText": "Excellent acrobat<br>Skilled martial artist and computer hacker<br>Immunity to telepathy<br>Wears advanced body armor",
+  "powersText": [
+    "Excellent acrobat",
+    "Skilled martial artist and computer hacker",
+    "Immunity to telepathy",
+    "Wears advanced body armor"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nightthrasherfc.png/250px-Nightthrasherfc.png",
     "width": "250",

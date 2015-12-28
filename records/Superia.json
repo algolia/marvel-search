@@ -16,7 +16,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength Concussive blasts Highly trained martial artist Genius scientist",
+  "powersText": [
+    "Superhuman strength",
+    "Concussive blasts",
+    "Highly trained martial artist",
+    "Genius scientist"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Superia_of_AIM_High_Council.jpg/225px-Superia_of_AIM_High_Council.jpg",
     "width": "225",

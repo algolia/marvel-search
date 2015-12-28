@@ -23,7 +23,22 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Expert assassin, martial artist, sniper and demolitioner<br>Trained in use of long range weapons and explosives<br>Educated multi-lingual<br>Superhuman strength, senses, speed, agility, reflexes/reactions, coordination, balance and endurance<br>Regenerative healing factor<br>Retractable adamantium-coated bone claws in hands and feet",
+  "powersText": [
+    "Expert assassin",
+    "martial artist",
+    "sniper and demolitioner",
+    "Trained in use of long range weapons and explosives",
+    "Educated multi-lingual",
+    "Superhuman strength",
+    "senses",
+    "speed",
+    "agility",
+    "reflexes/reactions",
+    "coordination",
+    "balance and endurance",
+    "Regenerative healing factor",
+    "Retractable adamantium-coated bone claws in hands and feet"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/40px-Crystal_Clear_app_kedit.svg.png",
     "width": "40",

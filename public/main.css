@@ -158,7 +158,7 @@ a {
 
 .hit {
   float: left;
-  width: 600px;
+  width: 500px;
   background: #eff0f1;
   overflow: hidden;
   margin:0px 10px 10px 0px;
@@ -177,7 +177,7 @@ a {
 }
 .hit--desc-wrapper {
   float: left;
-  width: 450px;
+  width: 350px;
   height: 200px;
 }
 .hit--name {
@@ -192,6 +192,12 @@ a {
   font-size: 1rem;
 }
 .hit--aliases {
+  font-size: 1rem;
+}
+.hit--species {
+  font-size: 1rem;
+}
+.hit--creators {
   font-size: 1rem;
 }
 .hit--dl {

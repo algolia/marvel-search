@@ -25,7 +25,14 @@
     "illusion",
     "precognition"
   ],
-  "powersText": "Mind control Hypnotizes others from miles away Psychically projects images into a crystal ball Casts illusion s Limited precognition Slow aging",
+  "powersText": [
+    "Mind control",
+    "Hypnotizes others from miles away",
+    "Psychically projects images into a crystal ball",
+    "Casts illusions",
+    "Limited precognition",
+    "Slow aging"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Lady_Lotus.jpg",
     "width": "192",

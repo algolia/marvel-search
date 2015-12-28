@@ -17,7 +17,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, immortality",
+  "powersText": [
+    "Superhuman strength",
+    "immortality"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Bloodstone_Ulysses.jpg/200px-Bloodstone_Ulysses.jpg",
     "width": "200",

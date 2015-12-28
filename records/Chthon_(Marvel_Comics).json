@@ -15,7 +15,12 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Mastery of black magic and chaos magic<br>Vast mystical powers<br>Reality warping<br>Immense power within his own pocket universe",
+  "powersText": [
+    "Mastery of black magic and chaos magic",
+    "Vast mystical powers",
+    "Reality warping",
+    "Immense power within his own pocket universe"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

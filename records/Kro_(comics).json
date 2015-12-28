@@ -16,7 +16,12 @@
     "Shape-shifting",
     "healing factor"
   ],
-  "powersText": "Shape-shifting ,<br>Accelerated healing factor ,<br>Immortal,<br> Superhuman physical attributes",
+  "powersText": [
+    "Shape-shifting",
+    "Accelerated healing factor",
+    "Immortal",
+    "Superhuman physical attributes"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Kro_from_Thor_-_The_Deviants_Saga_05.jpg/200px-Kro_from_Thor_-_The_Deviants_Saga_05.jpg",
     "width": "200",

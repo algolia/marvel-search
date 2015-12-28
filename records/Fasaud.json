@@ -13,7 +13,11 @@
   "powers": [
     "Electrical manipulation"
   ],
-  "powersText": "Intangibility,<br> Electrical manipulation ,<br>Teleportation",
+  "powersText": [
+    "Intangibility",
+    "Electrical manipulation",
+    "Teleportation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fasaud_2.jpg/200px-Fasaud_2.jpg",
     "width": "200",

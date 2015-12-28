@@ -18,7 +18,12 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman intuitive talent at inventing Genius-level intelligence Various mystical abilities Skilled marksmanship",
+  "powersText": [
+    "Superhuman intuitive talent at inventing",
+    "Genius-level intelligence",
+    "Various mystical abilities",
+    "Skilled marksmanship"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/0/02/XMEN_Forge.jpg",
     "width": "250",

@@ -13,7 +13,20 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Asgardian superhuman strength, durability and endurance<br>Healing factor<br>Immunity to all Earthly diseases<br>Near agelessness<br>Via golden hammer:<br>Flight<br>Energy projection<br>Weather manipulation<br>Dimension travel<br>Formerly:<br>Virtually limitless cosmic power via the use of the Chalice of Ruins and the Illumination Stone",
+  "powersText": [
+    "Asgardian superhuman strength",
+    "durability and endurance",
+    "Healing factor",
+    "Immunity to all Earthly diseases",
+    "Near agelessness",
+    "Via golden hammer:",
+    "Flight",
+    "Energy projection",
+    "Weather manipulation",
+    "Dimension travel",
+    "Formerly:",
+    "Virtually limitless cosmic power via the use of the Chalice of Ruins and the Illumination Stone"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Thor_Girl.jpg/250px-Thor_Girl.jpg",
     "width": "250",

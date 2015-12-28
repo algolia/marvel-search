@@ -15,7 +15,11 @@
     "Thunderstrike"
   ],
   "powers": [],
-  "powersText": "exo-skeleton and gauntlets giving her advanced strength, speed, agility",
+  "powersText": [
+    "exo-skeleton and gauntlets giving her advanced strength",
+    "speed",
+    "agility"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png",
     "width": "40",

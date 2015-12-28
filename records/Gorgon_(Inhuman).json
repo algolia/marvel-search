@@ -16,7 +16,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Enhanced strength and durability<br>Ability to generate seismic shockwaves via bull-like legs and hooves",
+  "powersText": [
+    "Enhanced strength and durability",
+    "Ability to generate seismic shockwaves via bull-like legs and hooves"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Gorgon_%28Inhuman%29.jpg/250px-Gorgon_%28Inhuman%29.jpg",
     "width": "250",

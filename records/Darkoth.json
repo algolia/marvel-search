@@ -14,7 +14,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength<br>Flight<br>Density control",
+  "powersText": [
+    "Superhuman strength",
+    "Flight",
+    "Density control"
+  ],
   "image": {},
   "pageviews": 408
 }

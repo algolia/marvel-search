@@ -19,7 +19,9 @@
   "powers": [
     "Shapeshifter"
   ],
-  "powersText": "Shapeshifter",
+  "powersText": [
+    "Shapeshifter"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Revolutionary.jpg/250px-Revolutionary.jpg",
     "width": "250",

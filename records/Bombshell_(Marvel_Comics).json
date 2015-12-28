@@ -13,7 +13,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Master juggler<br>Explosives expert<br>Stun blasters concealed in her wrist bands<br>Formerly:<br>Explosive energy projection",
+  "powersText": [
+    "Master juggler",
+    "Explosives expert",
+    "Stun blasters concealed in her wrist bands",
+    "Formerly:",
+    "Explosive energy projection"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Bombshell_Marvel.jpg",
     "width": "156",

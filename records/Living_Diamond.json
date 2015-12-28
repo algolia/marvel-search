@@ -11,7 +11,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Telepathy<br>Perspicuity (resistance to psychic attack)<br>Diamond Form (in normal form it only extended to the hands)<br>Teleportation (perhaps lost)",
+  "powersText": [
+    "Telepathy",
+    "Perspicuity (resistance to psychic attack)",
+    "Diamond Form (in normal form it only extended to the hands)",
+    "Teleportation (perhaps lost)"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Marvel_balloon.svg/32px-Marvel_balloon.svg.png",
     "width": "32",

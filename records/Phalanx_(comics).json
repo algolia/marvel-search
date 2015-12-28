@@ -12,7 +12,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Transforms sentient beings into techno-organic lifeforms and assimilates them into its collective. Superhumanly strong, also possess ability to teleport and shapeshift - molding their limbs into weapons or mimicking the appearance of others.",
+  "powersText": [
+    "Transforms sentient beings into techno-organic lifeforms and assimilates them into its collective. Superhumanly strong",
+    "also possess ability to teleport and shapeshift - molding their limbs into weapons or mimicking the appearance of others."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Phalanx_Marvel.jpg/250px-Phalanx_Marvel.jpg",
     "width": "250",

@@ -13,7 +13,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman speed <br> Shock/panic projection <br> Enhanced strength",
+  "powersText": [
+    "Superhuman speed",
+    "Shock/panic projection",
+    "Enhanced strength"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Scaredycat.jpg",
     "width": "250",

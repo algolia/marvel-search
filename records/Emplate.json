@@ -17,7 +17,15 @@
     "Chimera"
   ],
   "powers": [],
-  "powersText": "Interdimensional travel,<br>Invisibility,<br>Density control,<br>Fanged mouths in the palms of hands,<br>Ability to see and \"read\" mutant auras,<br>Ability to temporarily duplicate a mutant's abilities once he has sampled their marrow<br>Able to transform others into beings like himself through vampire-like infection",
+  "powersText": [
+    "Interdimensional travel",
+    "Invisibility",
+    "Density control",
+    "Fanged mouths in the palms of hands",
+    "Ability to see and \"read\" mutant auras",
+    "Ability to temporarily duplicate a mutant's abilities once he has sampled their marrow",
+    "Able to transform others into beings like himself through vampire-like infection"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/M_and_the_fam.jpg/220px-M_and_the_fam.jpg",
     "width": "220",

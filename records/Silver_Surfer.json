@@ -19,7 +19,9 @@
   "powers": [
     "Power Cosmic"
   ],
-  "powersText": "Endowed with the Power Cosmic",
+  "powersText": [
+    "Endowed with the Power Cosmic"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Toss.png/250px-Toss.png",
     "width": "250",

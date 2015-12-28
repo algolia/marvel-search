@@ -16,7 +16,14 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Trained actress and armed/unarmed combatant<br>Talented creator of abstract sculptures<br>Shapeshifting<br>Energy blasts<br>Heat and flame resistance<br>Flight via dragon-like wings",
+  "powersText": [
+    "Trained actress and armed/unarmed combatant",
+    "Talented creator of abstract sculptures",
+    "Shapeshifting",
+    "Energy blasts",
+    "Heat and flame resistance",
+    "Flight via dragon-like wings"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Secret_Invasion_Fantastic_Four_2.jpg/250px-Secret_Invasion_Fantastic_Four_2.jpg",
     "width": "250",

@@ -11,7 +11,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Weapons expert<br>Skilled hand to hand combatant<br>Possesses the form of a gorilla<br>Immortality",
+  "powersText": [
+    "Weapons expert",
+    "Skilled hand to hand combatant",
+    "Possesses the form of a gorilla",
+    "Immortality"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Aoatlas002_cov_c.jpg/200px-Aoatlas002_cov_c.jpg",
     "width": "200",

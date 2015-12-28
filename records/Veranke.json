@@ -21,7 +21,10 @@
   "powers": [
     "Spider-Woman's powers"
   ],
-  "powersText": "Shapeshifting<br> Spider-Woman's powers",
+  "powersText": [
+    "Shapeshifting",
+    "Spider-Woman's powers"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Queenveranke.jpg/250px-Queenveranke.jpg",
     "width": "250",

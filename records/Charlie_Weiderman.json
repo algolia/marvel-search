@@ -13,7 +13,10 @@
   "powers": [
     "Vibranium"
   ],
-  "powersText": "<br>  Superhuman speed and stamina derived Vibranium skinsuit, which grants superhuman speed and strength.",
+  "powersText": [
+    "Superhuman speed and stamina derived Vibranium skinsuit",
+    "which grants superhuman speed and strength."
+  ],
   "image": {},
   "pageviews": 457
 }

@@ -18,7 +18,20 @@
   "powers": [
     "Carbonadium"
   ],
-  "powersText": "Excellent hand-to-hand combatant and military tactician<br>Highly skilled criminal organizer<br>Superhuman strength, speed, agility, stamina, durability and reflexes<br>High-level intellect<br>Regenerative healing factor<br> Carbonadium retractable tentacles housed within each arm<br>Life Force absorption<br>Ability to secrete pheromones that result in sickness and death",
+  "powersText": [
+    "Excellent hand-to-hand combatant and military tactician",
+    "Highly skilled criminal organizer",
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "stamina",
+    "durability and reflexes",
+    "High-level intellect",
+    "Regenerative healing factor",
+    "Carbonadium retractable tentacles housed within each arm",
+    "Life Force absorption",
+    "Ability to secrete pheromones that result in sickness and death"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Xmen18omegared.jpg/250px-Xmen18omegared.jpg",
     "width": "250",

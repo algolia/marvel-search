@@ -11,7 +11,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Sharp teeth that allow for grabbing on to a chain, swing on a rope and bite people<br>Nimble tasks of agility, hurl knives from between his toes, and carry heavy weights with his feet",
+  "powersText": [
+    "Sharp teeth that allow for grabbing on to a chain",
+    "swing on a rope and bite people",
+    "Nimble tasks of agility",
+    "hurl knives from between his toes",
+    "and carry heavy weights with his feet"
+  ],
   "image": {},
   "pageviews": 1232
 }

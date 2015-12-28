@@ -17,7 +17,17 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Enhanced agility, speed, reflexes, coordination, balance, retractable claws, hyper-keen senses, mind/mood-altering pheromones, and night vision.",
+  "powersText": [
+    "Enhanced agility",
+    "speed",
+    "reflexes",
+    "coordination",
+    "balance",
+    "retractable claws",
+    "hyper-keen senses",
+    "mind/mood-altering pheromones",
+    "and night vision."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Hepzibah_the_Starjammer.jpg/250px-Hepzibah_the_Starjammer.jpg",
     "width": "250",

@@ -13,7 +13,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength and durability<br>Pyrokinesis<br>Cryokinesis",
+  "powersText": [
+    "Superhuman strength and durability",
+    "Pyrokinesis",
+    "Cryokinesis"
+  ],
   "image": {},
   "pageviews": 1896
 }

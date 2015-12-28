@@ -11,7 +11,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Genius-level intellect<br>Advanced scientific and technological skills<br>Possesses an arsenal of futuristic weaponry",
+  "powersText": [
+    "Genius-level intellect",
+    "Advanced scientific and technological skills",
+    "Possesses an arsenal of futuristic weaponry"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

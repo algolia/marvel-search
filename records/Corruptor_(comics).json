@@ -11,7 +11,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Ability to release a victim's inhibitions<br>Formerly:<br>Superhuman strength<br>Eye beams<br>Teleportation",
+  "powersText": [
+    "Ability to release a victim's inhibitions",
+    "Formerly:",
+    "Superhuman strength",
+    "Eye beams",
+    "Teleportation"
+  ],
   "image": {},
   "pageviews": 588
 }

@@ -17,7 +17,10 @@
   "powers": [
     "Radiation manipulation"
   ],
-  "powersText": "Genius nuclear physicist<br> Radiation manipulation",
+  "powersText": [
+    "Genius nuclear physicist",
+    "Radiation manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Radioactive_Man.jpg/250px-Radioactive_Man.jpg",
     "width": "250",

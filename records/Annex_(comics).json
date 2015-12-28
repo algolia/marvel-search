@@ -13,7 +13,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "superhuman athletic ability, weapon creation, flight, informational downloading methods",
+  "powersText": [
+    "superhuman athletic ability",
+    "weapon creation",
+    "flight",
+    "informational downloading methods"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Annex_%28Marvel_Comics_character%29.jpg/250px-Annex_%28Marvel_Comics_character%29.jpg",
     "width": "250",

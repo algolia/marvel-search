@@ -16,7 +16,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman martial arts skills and slightly superhuman physical attributes via mystical amulets<br>Razor sharp claws",
+  "powersText": [
+    "Superhuman martial arts skills and slightly superhuman physical attributes via mystical amulets",
+    "Razor sharp claws"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Avengers_Academy_24.jpg/250px-Avengers_Academy_24.jpg",
     "width": "250",

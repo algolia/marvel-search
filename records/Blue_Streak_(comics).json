@@ -14,7 +14,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Jet-skating suit grants:<br>Various built in weapons<br>Rapid healing<ref>{{cite book|last",
+  "powersText": [
+    "Jet-skating suit grants:",
+    "Various built in weapons",
+    "Rapid healing<ref>{{cite book|last"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Blue-streak.jpg/249px-Blue-streak.jpg",
     "width": "249",

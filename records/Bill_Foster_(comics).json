@@ -16,7 +16,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Brilliant biochemist<br>Gifted intellect<br>Superhuman strength<br>Size and mass manipulation",
+  "powersText": [
+    "Brilliant biochemist",
+    "Gifted intellect",
+    "Superhuman strength",
+    "Size and mass manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/7/77/GoliathWiki.jpg",
     "width": "200",

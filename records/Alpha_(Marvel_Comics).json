@@ -11,7 +11,17 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Exposure to Parker Particles, able to protract energy blasts, super strength, super speed, telekinesis, superhuman senses, matter manipulation, force fields, and flight",
+  "powersText": [
+    "Exposure to Parker Particles",
+    "able to protract energy blasts",
+    "super strength",
+    "super speed",
+    "telekinesis",
+    "superhuman senses",
+    "matter manipulation",
+    "force fields",
+    "and flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Alpha-Marvel.jpg/250px-Alpha-Marvel.jpg",
     "width": "250",

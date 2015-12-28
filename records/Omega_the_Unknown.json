@@ -12,7 +12,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength<br> Flight<br> Energy Burst Projection",
+  "powersText": [
+    "Superhuman strength",
+    "Flight",
+    "Energy Burst Projection"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/a/ae/Omega_the_Unknown_1.jpg",
     "width": "194",

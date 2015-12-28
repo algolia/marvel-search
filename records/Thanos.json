@@ -17,7 +17,15 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, durability, and endurance<br>Energy manipulation<br>Telekinesis<br>Teleportation<br>Longevity",
+  "powersText": [
+    "Superhuman strength",
+    "durability",
+    "and endurance",
+    "Energy manipulation",
+    "Telekinesis",
+    "Teleportation",
+    "Longevity"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/e/e4/ThanosAvengersAssemble.jpg",
     "width": "250",

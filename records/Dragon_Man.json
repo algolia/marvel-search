@@ -18,7 +18,12 @@
     "Diablo"
   ],
   "powers": [],
-  "powersText": "Superhuman strength, durability and intelligence<br>Flight<br>Flame projection",
+  "powersText": [
+    "Superhuman strength",
+    "durability and intelligence",
+    "Flight",
+    "Flame projection"
+  ],
   "image": {},
   "pageviews": 4496
 }

@@ -25,7 +25,11 @@
   "powers": [
     "Magnetism"
   ],
-  "powersText": "Magnetism manipulation and generation of magnetic force fields Flight through magnetic fields Helmet shields against telepathic attacks",
+  "powersText": [
+    "Magnetism manipulation and generation of magnetic force fields",
+    "Flight through magnetic fields",
+    "Helmet shields against telepathic attacks"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/MagnetoYardin.png/250px-MagnetoYardin.png",
     "width": "250",

@@ -19,7 +19,15 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Genius-level intellect Extreme superhuman elasticity, malleability, and endurance Shapeshifting Resistance to most physical assaults and electricity Virtual immunity to psychic powers",
+  "powersText": [
+    "Genius-level intellect",
+    "Extreme superhuman elasticity",
+    "malleability",
+    "and endurance",
+    "Shapeshifting",
+    "Resistance to most physical assaults and electricity",
+    "Virtual immunity to psychic powers"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Reedr.jpg/250px-Reedr.jpg",
     "width": "250",

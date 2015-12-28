@@ -18,7 +18,14 @@
   "powers": [
     "adamantium"
   ],
-  "powersText": "Superhuman strength, stamina, durability and senses; accelerated swimming speed; razor-sharp adamantium teeth; innate hunting instinct",
+  "powersText": [
+    "Superhuman strength",
+    "stamina",
+    "durability and senses",
+    "accelerated swimming speed",
+    "razor-sharp adamantium teeth",
+    "innate hunting instinct"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/SM-5.jpg/250px-SM-5.jpg",
     "width": "250",

@@ -13,7 +13,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Darkforce suit grants:<br>Portal generation<br>Limb and extremities elongation<br>Ability to create tendril-like grappling claws",
+  "powersText": [
+    "Darkforce suit grants:",
+    "Portal generation",
+    "Limb and extremities elongation",
+    "Ability to create tendril-like grappling claws"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

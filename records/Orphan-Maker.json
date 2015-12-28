@@ -15,7 +15,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Armor provides:<br>Superhuman strength and resistance,<br>Wields energy weapons",
+  "powersText": [
+    "Armor provides:",
+    "Superhuman strength and resistance",
+    "Wields energy weapons"
+  ],
   "image": {},
   "pageviews": 652
 }

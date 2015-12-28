@@ -15,7 +15,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Good Intelligence<br>Razor-sharp claws",
+  "powersText": [
+    "Good Intelligence",
+    "Razor-sharp claws"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/GertandOldLace.jpg/250px-GertandOldLace.jpg",
     "width": "250",

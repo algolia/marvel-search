@@ -11,7 +11,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Skilled diplomat<br>Flight<br>Force field generation",
+  "powersText": [
+    "Skilled diplomat",
+    "Flight",
+    "Force field generation"
+  ],
   "image": {},
   "pageviews": 3112
 }

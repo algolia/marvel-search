@@ -13,7 +13,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Brilliant scientist<br>Extensively trained martial artist<br>Purse grants:<br>Ability to access another dimension and pull any item out of it",
+  "powersText": [
+    "Brilliant scientist",
+    "Extensively trained martial artist",
+    "Purse grants:",
+    "Ability to access another dimension and pull any item out of it"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Honey_Lemon_%28Marvel_Comics%29.jpg/250px-Honey_Lemon_%28Marvel_Comics%29.jpg",
     "width": "250",

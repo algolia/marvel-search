@@ -12,7 +12,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Ability to project golden balls from skin",
+  "powersText": [
+    "Ability to project golden balls from skin"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Fabio_Medina_X-Men.png",
     "width": "250",

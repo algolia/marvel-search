@@ -11,7 +11,18 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "(All)<br>Superhuman strength, speed, stamina and durability<br>Flight<br>Enhanced sensory perceptions<br>\"Atomic vision\"<br>(Earth-712)<br>Skilled journalist<br>Great longevity and regenerative healing factor via cosmic energy manipulation",
+  "powersText": [
+    "(All)",
+    "Superhuman strength",
+    "speed",
+    "stamina and durability",
+    "Flight",
+    "Enhanced sensory perceptions",
+    "\"Atomic vision\"",
+    "(Earth-712)",
+    "Skilled journalist",
+    "Great longevity and regenerative healing factor via cosmic energy manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Hyperionmarvel.png/250px-Hyperionmarvel.png",
     "width": "250",

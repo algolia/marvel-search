@@ -14,7 +14,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Olympic level athlete<br>Skilled martial artist<br>Peak physical condition<br>Superb aim<br>Carries an indestructible shield<br>Use of disc weapons",
+  "powersText": [
+    "Olympic level athlete",
+    "Skilled martial artist",
+    "Peak physical condition",
+    "Superb aim",
+    "Carries an indestructible shield",
+    "Use of disc weapons"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/American_Dream_%28Shannon_Carter%29.jpg/200px-American_Dream_%28Shannon_Carter%29.jpg",
     "width": "200",

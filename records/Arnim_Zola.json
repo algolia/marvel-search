@@ -11,7 +11,14 @@
     "Red Skull"
   ],
   "powers": [],
-  "powersText": "Genius biochemist and scientist<br>Specially-modified robot body grants:<br>ESP Box<br>Mind control<br>Mind ray<br>Mind transfer",
+  "powersText": [
+    "Genius biochemist and scientist",
+    "Specially-modified robot body grants:",
+    "ESP Box",
+    "Mind control",
+    "Mind ray",
+    "Mind transfer"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Arnim_Zola.PNG/225px-Arnim_Zola.PNG",
     "width": "225",

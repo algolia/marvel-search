@@ -18,7 +18,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Able to throw 'hot knives' spikes of shearing energy from his fingertips<br>Great leaping<br>Experienced spy",
+  "powersText": [
+    "Able to throw 'hot knives' spikes of shearing energy from his fingertips",
+    "Great leaping",
+    "Experienced spy"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/e/e7/CAPBMI002_BWcov_col.jpg",
     "width": "250",

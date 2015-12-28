@@ -13,7 +13,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Energy redirection <br> Enhanced strength",
+  "powersText": [
+    "Energy redirection",
+    "Enhanced strength"
+  ],
   "image": {},
   "pageviews": 277
 }

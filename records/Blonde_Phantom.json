@@ -15,7 +15,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "High-level athlete<br>Skilled hand-to-hand combatant<br>Fine markswoman<br>Excellent secretary",
+  "powersText": [
+    "High-level athlete",
+    "Skilled hand-to-hand combatant",
+    "Fine markswoman",
+    "Excellent secretary"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/BlondePhantomDetail.jpg/180px-BlondePhantomDetail.jpg",
     "width": "180",

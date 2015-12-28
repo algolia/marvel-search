@@ -14,7 +14,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Trained martial artist <br />Immunity to poisons <br />Left arm delivers \"sting\" ranging from causing mild discomfort to killing with a touch <br />Semi-organic tail",
+  "powersText": [
+    "Trained martial artist",
+    "Immunity to poisons",
+    "Left arm delivers \"sting\" ranging from causing mild discomfort to killing with a touch",
+    "Semi-organic tail"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Am_Fantasy_7.jpg/250px-Am_Fantasy_7.jpg",
     "width": "250",

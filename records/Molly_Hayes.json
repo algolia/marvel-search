@@ -15,7 +15,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength<br>Invulnerability",
+  "powersText": [
+    "Superhuman strength",
+    "Invulnerability"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/MOLLY_HAYES.jpg/250px-MOLLY_HAYES.jpg",
     "width": "250",

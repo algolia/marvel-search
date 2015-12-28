@@ -14,7 +14,14 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Portal generation<br>Flight via skis<br>Intangibility<br>Ability to bring souls to the afterlife<br>Formerly:<br>Levitation",
+  "powersText": [
+    "Portal generation",
+    "Flight via skis",
+    "Intangibility",
+    "Ability to bring souls to the afterlife",
+    "Formerly:",
+    "Levitation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Doorman_HCV.jpg",
     "width": "200",

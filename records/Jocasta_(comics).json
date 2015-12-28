@@ -19,7 +19,14 @@
     "Ultron"
   ],
   "powers": [],
-  "powersText": "Computer Integration <br> Superhuman Strength, Enhanced Senses <br> Optic Cannons <br> Force Field Generation <br> Holographic Disguise Projector",
+  "powersText": [
+    "Computer Integration",
+    "Superhuman Strength",
+    "Enhanced Senses",
+    "Optic Cannons",
+    "Force Field Generation",
+    "Holographic Disguise Projector"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Jocasta_%28Marvel_Character%29_Full_Figure_Profile_Picture.jpg/140px-Jocasta_%28Marvel_Character%29_Full_Figure_Profile_Picture.jpg",
     "width": "140",

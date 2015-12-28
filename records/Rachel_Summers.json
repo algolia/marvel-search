@@ -28,7 +28,14 @@
     "Telekinesis",
     "Phoenix Force"
   ],
-  "powersText": "Empathy <br> Telepathy ,<br/> Telekinesis ,<br/>Temporal astral projection<br/>Formerly:<br/> Phoenix Force abilities",
+  "powersText": [
+    "Empathy",
+    "Telepathy",
+    "Telekinesis",
+    "Temporal astral projection",
+    "Formerly:",
+    "Phoenix Force abilities"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Rachelempvulc.PNG/250px-Rachelempvulc.PNG",
     "width": "250",

@@ -17,7 +17,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Genius chemist<br>Superhuman strength and durability<br>Ability to turn creatures and objects to stone via physical contact",
+  "powersText": [
+    "Genius chemist",
+    "Superhuman strength and durability",
+    "Ability to turn creatures and objects to stone via physical contact"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Journey_into_Mystery_107.jpg/250px-Journey_into_Mystery_107.jpg",
     "width": "250",

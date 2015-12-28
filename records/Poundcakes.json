@@ -14,7 +14,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Experienced street fighter and wrestler<br>Superhuman strength, speed, durability and reflexes<br>Ability to create minor localized earth tremors with her boots",
+  "powersText": [
+    "Experienced street fighter and wrestler",
+    "Superhuman strength",
+    "speed",
+    "durability and reflexes",
+    "Ability to create minor localized earth tremors with her boots"
+  ],
   "image": {},
   "pageviews": 937
 }

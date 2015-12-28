@@ -14,7 +14,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Armored suit grants:<br>Superhuman leaping via robotic grasshopper legs<br>Insectroid Sensors<br>Zoom Lenses<br>Minimal protection from attacks",
+  "powersText": [
+    "Armored suit grants:",
+    "Superhuman leaping via robotic grasshopper legs",
+    "Insectroid Sensors",
+    "Zoom Lenses",
+    "Minimal protection from attacks"
+  ],
   "image": {},
   "pageviews": 2260
 }

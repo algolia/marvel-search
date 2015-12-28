@@ -16,7 +16,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "enhanced senses and physical abilities, secretes neurotoxin in saliva",
+  "powersText": [
+    "enhanced senses and physical abilities",
+    "secretes neurotoxin in saliva"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Mad_dog_-_solo_avengers_9.jpg/250px-Mad_dog_-_solo_avengers_9.jpg",
     "width": "250",

@@ -12,7 +12,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Drives a large metal wheel equipped with guns and waldo-arms",
+  "powersText": [
+    "Drives a large metal wheel equipped with guns and waldo-arms"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Big_Wheel_Marvel.png/250px-Big_Wheel_Marvel.png",
     "width": "250",

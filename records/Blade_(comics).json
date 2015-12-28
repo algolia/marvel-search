@@ -19,7 +19,21 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Master martial artist<br>Skilled swordsman, street fighter and marksman<br>Highly knowledgeable about vampire lore<br>Superhuman strength, speed, agility and stamina<br>Enhanced senses<br>Accelerated healing factor<br>Immunity to the bites of vampires and vampire hypnosis<br>Slowed aging<br>Use of throwing knives<br>Ability to sense supernatural creatures",
+  "powersText": [
+    "Master martial artist",
+    "Skilled swordsman",
+    "street fighter and marksman",
+    "Highly knowledgeable about vampire lore",
+    "Superhuman strength",
+    "speed",
+    "agility and stamina",
+    "Enhanced senses",
+    "Accelerated healing factor",
+    "Immunity to the bites of vampires and vampire hypnosis",
+    "Slowed aging",
+    "Use of throwing knives",
+    "Ability to sense supernatural creatures"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Blademu0.png/250px-Blademu0.png",
     "width": "250",

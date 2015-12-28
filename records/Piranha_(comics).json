@@ -13,7 +13,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength<br>Human intellect<br>Sharp teeth<br>Fish telepathy",
+  "powersText": [
+    "Superhuman strength",
+    "Human intellect",
+    "Sharp teeth",
+    "Fish telepathy"
+  ],
   "image": {},
   "pageviews": 760
 }

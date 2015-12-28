@@ -12,7 +12,16 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Sara Ehret<br>Superhuman strength<br>Alana Jobson<br>Superhuman strength, and stamina<br>Dramatic gymnast<br>Limited hand-to-hand combatant<br>Possesses some invulnerability to injury",
+  "powersText": [
+    "Sara Ehret",
+    "Superhuman strength",
+    "Alana Jobson",
+    "Superhuman strength",
+    "and stamina",
+    "Dramatic gymnast",
+    "Limited hand-to-hand combatant",
+    "Possesses some invulnerability to injury"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Jackpot_Marvel_Comics.JPG/250px-Jackpot_Marvel_Comics.JPG",
     "width": "250",

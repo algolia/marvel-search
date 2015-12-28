@@ -11,7 +11,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Arm-mounted energy weapon",
+  "powersText": [
+    "Arm-mounted energy weapon"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Schuyler_Belial.png",
     "width": "208",

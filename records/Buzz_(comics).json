@@ -15,7 +15,13 @@
     "Spider-Girl"
   ],
   "powers": [],
-  "powersText": "Powered armor grants:<br>Superhuman strength<br>Flight<br>360 degree vision via goggles<br>Gauntlets that fire electric blasts or streamers of sticky adhesive",
+  "powersText": [
+    "Powered armor grants:",
+    "Superhuman strength",
+    "Flight",
+    "360 degree vision via goggles",
+    "Gauntlets that fire electric blasts or streamers of sticky adhesive"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

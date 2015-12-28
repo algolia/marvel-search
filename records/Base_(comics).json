@@ -12,7 +12,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Control over the four elements, superhuman strength.",
+  "powersText": [
+    "Control over the four elements",
+    "superhuman strength."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/3/3e/Base-HiroSokuto.gif",
     "width": "250",

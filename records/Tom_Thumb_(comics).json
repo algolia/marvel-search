@@ -13,7 +13,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "(712)None: Scientific genius<BR> (31916) None: Permanently reduced size",
+  "powersText": [
+    "(712)None: Scientific genius<BR> (31916) None: Permanently reduced size"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Tom_thumb_sqsup001.jpg/200px-Tom_thumb_sqsup001.jpg",
     "width": "200",

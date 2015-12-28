@@ -16,7 +16,12 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman physical attributes<br>Flight<br>Destructive hypersonic voice<br>Molecular manipulation",
+  "powersText": [
+    "Superhuman physical attributes",
+    "Flight",
+    "Destructive hypersonic voice",
+    "Molecular manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/WarofKings-5.jpg/250px-WarofKings-5.jpg",
     "width": "250",

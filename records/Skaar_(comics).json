@@ -13,7 +13,15 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Skilled swordsman<br>Superhuman strength, speed, stamina and durability<br>Regenerative healing factor<br>Immunity to fire and high temperatures<br>Ability to draw power from the planet",
+  "powersText": [
+    "Skilled swordsman",
+    "Superhuman strength",
+    "speed",
+    "stamina and durability",
+    "Regenerative healing factor",
+    "Immunity to fire and high temperatures",
+    "Ability to draw power from the planet"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Skaar.jpg/250px-Skaar.jpg",
     "width": "250",

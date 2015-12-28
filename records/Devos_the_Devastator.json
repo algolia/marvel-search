@@ -12,7 +12,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Power armor grants:<br>High-level resistance to injury<br>Temporary superhuman strength via exoskeleton<br>Various offensive weapons and sensors<br>Assorted alien firearms<br>Command of various space vessels",
+  "powersText": [
+    "Power armor grants:",
+    "High-level resistance to injury",
+    "Temporary superhuman strength via exoskeleton",
+    "Various offensive weapons and sensors",
+    "Assorted alien firearms",
+    "Command of various space vessels"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Devosff.jpg/250px-Devosff.jpg",
     "width": "250",

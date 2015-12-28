@@ -12,7 +12,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "wraith powers, limited sorcery, control of a mystic weapon.",
+  "powersText": [
+    "wraith powers",
+    "limited sorcery",
+    "control of a mystic weapon."
+  ],
   "image": {},
   "pageviews": 814
 }

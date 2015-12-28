@@ -17,7 +17,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Enhanced regeneration, ability to speak to the dead, ability to see imminent death",
+  "powersText": [
+    "Enhanced regeneration",
+    "ability to speak to the dead",
+    "ability to see imminent death"
+  ],
   "image": {},
   "pageviews": 867
 }

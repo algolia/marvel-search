@@ -13,7 +13,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Flight",
+  "powersText": [
+    "Flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/a/ad/BirdB.png",
     "width": "184",

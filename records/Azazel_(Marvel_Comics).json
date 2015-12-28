@@ -18,7 +18,19 @@
     "Shapeshifting",
     "Dark Arts"
   ],
-  "powersText": "Teleportation<br>Energy Blasts<br> Shapeshifting <br>Superhuman Agility<br>Night Vision<br>Healing Factor<br>Immortality<br>Telepathy<br>Hypnosis<br>Master Swordsman<br>Master of Dark Arts",
+  "powersText": [
+    "Teleportation",
+    "Energy Blasts",
+    "Shapeshifting",
+    "Superhuman Agility",
+    "Night Vision",
+    "Healing Factor",
+    "Immortality",
+    "Telepathy",
+    "Hypnosis",
+    "Master Swordsman",
+    "Master of Dark Arts"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

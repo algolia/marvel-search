@@ -15,7 +15,12 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Minimal superhuman strength<br>Enhanced resistance to injury<br>Healing factor<br>Use of firearms and a lasso",
+  "powersText": [
+    "Minimal superhuman strength",
+    "Enhanced resistance to injury",
+    "Healing factor",
+    "Use of firearms and a lasso"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/6/61/Agent_X_02_Udon_Studios.jpg",
     "width": "250",

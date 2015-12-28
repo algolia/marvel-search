@@ -11,7 +11,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, speed, stamina, and durability",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "stamina",
+    "and durability"
+  ],
   "image": {},
   "pageviews": 703
 }

@@ -13,7 +13,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Aegis breastplate grants:<br>energy blasts<br>energy conversion<br>force field generation",
+  "powersText": [
+    "Aegis breastplate grants:",
+    "energy blasts",
+    "energy conversion",
+    "force field generation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/New_Warriors_1_%281999%29.jpg/250px-New_Warriors_1_%281999%29.jpg",
     "width": "250",

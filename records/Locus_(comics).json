@@ -18,7 +18,10 @@
     "Teleportation",
     "Self-levitation"
   ],
-  "powersText": "Teleportation ,<br> Self-levitation",
+  "powersText": [
+    "Teleportation",
+    "Self-levitation"
+  ],
   "image": {},
   "pageviews": 532
 }

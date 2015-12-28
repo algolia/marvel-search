@@ -13,7 +13,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Experienced surfer<br>Iridium body grants:<br>Superhuman strength and durability<br>Virtual indestructibility",
+  "powersText": [
+    "Experienced surfer",
+    "Iridium body grants:",
+    "Superhuman strength and durability",
+    "Virtual indestructibility"
+  ],
   "image": {},
   "pageviews": 2180
 }

@@ -23,7 +23,12 @@
     "Telepathy",
     "Levitation"
   ],
-  "powersText": "Telepathy <br> Levitation <br>Density control<br>Ability to disintegrate organic matter at a touch",
+  "powersText": [
+    "Telepathy",
+    "Levitation",
+    "Density control",
+    "Ability to disintegrate organic matter at a touch"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Carrion.jpg/250px-Carrion.jpg",
     "width": "250",

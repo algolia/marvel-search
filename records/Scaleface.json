@@ -13,7 +13,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Can transform into a large, sentient, dragon-like reptilian creature.",
+  "powersText": [
+    "Can transform into a large",
+    "sentient",
+    "dragon-like reptilian creature."
+  ],
   "image": {},
   "pageviews": 791
 }

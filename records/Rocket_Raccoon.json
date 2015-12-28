@@ -13,7 +13,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Genius-level intellect<br>Master tactician and field commander<br>Expert marksman and sniper<br>Accomplished starship aviator<br>Normal-physical attributes of an Earth raccoon",
+  "powersText": [
+    "Genius-level intellect",
+    "Master tactician and field commander",
+    "Expert marksman and sniper",
+    "Accomplished starship aviator",
+    "Normal-physical attributes of an Earth raccoon"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Rocketraccoon.png/225px-Rocketraccoon.png",
     "width": "225",

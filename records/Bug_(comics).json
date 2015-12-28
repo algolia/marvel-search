@@ -14,7 +14,15 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Ability to cling to walls<br>Exceptional agility<br>Extraordinary sight<br>Enhanced peripheral vision via helmet<br>Antennae enable:<br>Communication with others bearing antennae<br>Heightened sensory awareness with a limited degree of danger sense",
+  "powersText": [
+    "Ability to cling to walls",
+    "Exceptional agility",
+    "Extraordinary sight",
+    "Enhanced peripheral vision via helmet",
+    "Antennae enable:",
+    "Communication with others bearing antennae",
+    "Heightened sensory awareness with a limited degree of danger sense"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/8/80/BugOneShot1.jpg",
     "width": "200",

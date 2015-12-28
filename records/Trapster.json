@@ -18,7 +18,16 @@
     "Zodiac"
   ],
   "powers": [],
-  "powersText": "Expert chemist<br>Skilled marksman<br>Talented disguise artist<br>Genius level intellect<br>Suit grants:<br>Adhesive or lubricant projection<br>Wall crawling<br>Various trap-based weapons",
+  "powersText": [
+    "Expert chemist",
+    "Skilled marksman",
+    "Talented disguise artist",
+    "Genius level intellect",
+    "Suit grants:",
+    "Adhesive or lubricant projection",
+    "Wall crawling",
+    "Various trap-based weapons"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png",
     "width": "20",

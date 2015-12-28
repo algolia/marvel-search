@@ -16,7 +16,12 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "<br> Ability to transform into wolf-like creature: Superhuman strength, agility and senses Sharp claws",
+  "powersText": [
+    "Ability to transform into wolf-like creature:",
+    "Superhuman strength",
+    "agility and senses",
+    "Sharp claws"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Vivisector.jpg/250px-Vivisector.jpg",
     "width": "250",

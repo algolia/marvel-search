@@ -61,4 +61,27 @@ describe('Helper', () => {
       expect(actual).toEqual('./foobar/Magneto.json');
     });
   });
+
+  describe('multiSplit', () => {
+    it('split an array with one separator', () => {
+      // Given
+      let input = 'foo/bar/baz';
+
+      // When
+      let actual = Helper.multiSplit(input, '/');
+
+      // Then
+      expect(actual).toEqual(['foo', 'bar', 'baz']);
+    });
+    it('split an array with two separator', () => {
+      // Given
+      let input = 'foo/bar|baz/magic';
+
+      // When
+      let actual = Helper.multiSplit(input, '/', '|');
+
+      // Then
+      expect(actual).toEqual(['foo', 'bar', 'baz', 'magic']);
+    });
+  });
 });

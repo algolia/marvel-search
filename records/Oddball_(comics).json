@@ -13,7 +13,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Expert juggler<br>Experienced street fighter",
+  "powersText": [
+    "Expert juggler",
+    "Experienced street fighter"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Oddball.jpg",
     "width": "171",

@@ -17,7 +17,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Razor-sharp and exceptionally tough skin<br>Has long claws for hands, feet and hair.",
+  "powersText": [
+    "Razor-sharp and exceptionally tough skin",
+    "Has long claws for hands",
+    "feet and hair."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/XMEN_Hollow.jpg/200px-XMEN_Hollow.jpg",
     "width": "200",

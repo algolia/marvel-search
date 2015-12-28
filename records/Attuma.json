@@ -27,7 +27,18 @@
     "Dr. Dorcas"
   ],
   "powers": [],
-  "powersText": "Expert hand-to-hand combatant<br>Superhuman strength, agility, stamina, reflexes and endurance<br>High level swimming speed<br>Specially developed vision<br>Self-propelled flight<br>Underwater and land adaptation<br>Access to highly advanced weaponry",
+  "powersText": [
+    "Expert hand-to-hand combatant",
+    "Superhuman strength",
+    "agility",
+    "stamina",
+    "reflexes and endurance",
+    "High level swimming speed",
+    "Specially developed vision",
+    "Self-propelled flight",
+    "Underwater and land adaptation",
+    "Access to highly advanced weaponry"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/X-factoran4.jpg",
     "width": "179",

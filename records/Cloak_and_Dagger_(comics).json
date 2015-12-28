@@ -24,7 +24,15 @@
     "Teleportation",
     "Darkforce"
   ],
-  "powersText": "(Cloak) Teleportation Intangibility Ability to link to the \" Darkforce Dimension\"  (Dagger) Ability to create \"daggers\" of light Ability to purge addictions from people Ability to heal with her light daggers",
+  "powersText": [
+    "(Cloak)",
+    "Teleportation",
+    "Intangibility",
+    "Ability to link to the \"Darkforce Dimension\"  (Dagger)",
+    "Ability to create \"daggers\" of light",
+    "Ability to purge addictions from people",
+    "Ability to heal with her light daggers"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/2/27/Cloak_and_Dagger_1_%281983%29.jpg",
     "width": "200",

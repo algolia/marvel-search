@@ -24,7 +24,14 @@
     "Flight",
     "Weather manipulation"
   ],
-  "powersText": "Superhuman strength durability longevity , and speed Abilities via Stormbreaker: Electric manipulation Flight Weather manipulation",
+  "powersText": [
+    "Superhuman strengthdurabilitylongevity",
+    "and speed",
+    "Abilities via Stormbreaker:",
+    "Electric manipulation",
+    "Flight",
+    "Weather manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Beta_Ray_Bill.jpg/250px-Beta_Ray_Bill.jpg",
     "width": "250",

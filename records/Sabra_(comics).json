@@ -16,7 +16,18 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Trained armed/unarmed combatant<br>Superhuman strength, speed, agility, stamina, reflexes and endurance<br>Flight via anti-gravity devices<br>Wears wrist gauntlets that fire plasma bursts and paralyzing quills<br>Use of conventional weapons<br>Ability to transfer her life energy to other people",
+  "powersText": [
+    "Trained armed/unarmed combatant",
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "stamina",
+    "reflexes and endurance",
+    "Flight via anti-gravity devices",
+    "Wears wrist gauntlets that fire plasma bursts and paralyzing quills",
+    "Use of conventional weapons",
+    "Ability to transfer her life energy to other people"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

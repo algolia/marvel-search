@@ -14,7 +14,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Highly trained in hand-to-hand combat<br>Very skilled with fire weapons and blades<br>Excellent strategist",
+  "powersText": [
+    "Highly trained in hand-to-hand combat",
+    "Very skilled with fire weapons and blades",
+    "Excellent strategist"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/SilverSable3.gif",
     "width": "236",

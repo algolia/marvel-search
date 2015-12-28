@@ -14,7 +14,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "The generic powers of Superhuman strength, endurance, flight & enhanced sight",
+  "powersText": [
+    "The generic powers of Superhuman strength",
+    "endurance",
+    "flight & enhanced sight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

@@ -13,7 +13,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Possession",
+  "powersText": [
+    "Possession"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Malicewiki.jpg",
     "width": "235",

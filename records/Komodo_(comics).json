@@ -19,7 +19,16 @@
   "powers": [
     "healing factor"
   ],
-  "powersText": "Superhuman strength, stamina, agility and reflexes<br>Regenerative healing factor <br>Hardened scales<br>Prehensile tail<br>Razor sharp teeth and claws<br>Genius chemist and genetics",
+  "powersText": [
+    "Superhuman strength",
+    "stamina",
+    "agility and reflexes",
+    "Regenerative healing factor",
+    "Hardened scales",
+    "Prehensile tail",
+    "Razor sharp teeth and claws",
+    "Genius chemist and genetics"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png",
     "width": "20",

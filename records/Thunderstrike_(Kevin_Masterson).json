@@ -14,7 +14,22 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "(MC2)<br>Superhuman strength and durability<br>Great leaping<br>Sonic blasts<br>Ability to shatter objects by touching them<br>(Earth-616)<br>Superhuman strength, speed, agility, durability, reflexes and endurance<br>Via Thunderstrike:<br>Flight<br>Dimensional travel",
+  "powersText": [
+    "(MC2)",
+    "Superhuman strength and durability",
+    "Great leaping",
+    "Sonic blasts",
+    "Ability to shatter objects by touching them",
+    "(Earth-616)",
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "durability",
+    "reflexes and endurance",
+    "Via Thunderstrike:",
+    "Flight",
+    "Dimensional travel"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/ThunderstrikeHA.jpg/250px-ThunderstrikeHA.jpg",
     "width": "250",

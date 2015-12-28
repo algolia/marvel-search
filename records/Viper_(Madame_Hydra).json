@@ -18,7 +18,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Excellent strategist and tactician<br>Skilled martial artist, swordswoman and markswoman<br>Teleportation<br>Immunity to most forms of venom and toxins<br>Enhanced lifespan",
+  "powersText": [
+    "Excellent strategist and tactician",
+    "Skilled martial artist",
+    "swordswoman and markswoman",
+    "Teleportation",
+    "Immunity to most forms of venom and toxins",
+    "Enhanced lifespan"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Madame_Hydra_Viper.JPG",
     "width": "205",

@@ -22,7 +22,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Microwave radiation manipulation<br/>Flight<br/>Electromagnetic energy wavelength disruption",
+  "powersText": [
+    "Microwave radiation manipulation",
+    "Flight",
+    "Electromagnetic energy wavelength disruption"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Firestar_from_Young_Allies_06.jpg/250px-Firestar_from_Young_Allies_06.jpg",
     "width": "250",

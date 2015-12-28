@@ -16,7 +16,10 @@
   "powers": [
     "Precognition"
   ],
-  "powersText": "Powerless. Formerly:<br> Precognition",
+  "powersText": [
+    "Powerless. Formerly:",
+    "Precognition"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/e/ec/Preview_%28NXM_12%29.jpg",
     "width": "182",

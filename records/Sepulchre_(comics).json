@@ -16,7 +16,9 @@
   "powers": [
     "Darkforce"
   ],
-  "powersText": "Darkforce manipulation.",
+  "powersText": [
+    "Darkforce manipulation."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Shdowwoman.jpg/250px-Shdowwoman.jpg",
     "width": "250",

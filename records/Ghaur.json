@@ -20,7 +20,10 @@
     "Mind control",
     "Shapeshifting"
   ],
-  "powersText": "Mind control of other deviants<br> Shapeshifting",
+  "powersText": [
+    "Mind control of other deviants",
+    "Shapeshifting"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/AvengersWestCoastAnnual4.jpg",
     "width": "250",

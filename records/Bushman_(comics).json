@@ -10,7 +10,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Peak human physical condition<br>Razor-sharp metal teeth<br>Carries various weapons",
+  "powersText": [
+    "Peak human physical condition",
+    "Razor-sharp metal teeth",
+    "Carries various weapons"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/MOONKN4.jpg/250px-MOONKN4.jpg",
     "width": "250",

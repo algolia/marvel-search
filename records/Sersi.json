@@ -15,7 +15,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength and durability<br>Molecular and atomic manipulation<br>Psionic powers<br>Immortality<br>Flight",
+  "powersText": [
+    "Superhuman strength and durability",
+    "Molecular and atomic manipulation",
+    "Psionic powers",
+    "Immortality",
+    "Flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sersi_2.jpg/250px-Sersi_2.jpg",
     "width": "250",

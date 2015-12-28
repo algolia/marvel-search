@@ -17,7 +17,10 @@
   "powers": [
     "Teleportation"
   ],
-  "powersText": "Teleportation <br>Slowed aging",
+  "powersText": [
+    "Teleportation",
+    "Slowed aging"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Johnwraith.jpg",
     "width": "200",

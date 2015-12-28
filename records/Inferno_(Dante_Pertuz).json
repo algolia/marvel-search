@@ -20,7 +20,11 @@
     "Black Bolt"
   ],
   "powers": [],
-  "powersText": "Fire manipulation<br>Fiery form<br>Regenerative healing factor",
+  "powersText": [
+    "Fire manipulation",
+    "Fiery form",
+    "Regenerative healing factor"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Friendly_stickman.svg/32px-Friendly_stickman.svg.png",
     "width": "32",

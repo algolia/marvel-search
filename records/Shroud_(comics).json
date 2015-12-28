@@ -15,7 +15,15 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Olympic-level athlete<br>Adept acrobat and infiltrator<br>Trained martial artist<br>Carries explosive \"bombarangs\"<br>Use of one-man aircraft<br>Flight at walking speed<br>Ability to transform Darkforce dimension energy into anything imaginable and \"see\" through walls and darkness",
+  "powersText": [
+    "Olympic-level athlete",
+    "Adept acrobat and infiltrator",
+    "Trained martial artist",
+    "Carries explosive \"bombarangs\"",
+    "Use of one-man aircraft",
+    "Flight at walking speed",
+    "Ability to transform Darkforce dimension energy into anything imaginable and \"see\" through walls and darkness"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/The_shroud.jpg/250px-The_shroud.jpg",
     "width": "250",

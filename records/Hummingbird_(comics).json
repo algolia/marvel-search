@@ -13,7 +13,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Manipulation of emotions<br>Telepathy<br>Self-powered levitation<br>Invoking and hurtling sacred fire",
+  "powersText": [
+    "Manipulation of emotions",
+    "Telepathy",
+    "Self-powered levitation",
+    "Invoking and hurtling sacred fire"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Hummingbird_Aracely_Penalba_New_Warriors_02_2014.png/240px-Hummingbird_Aracely_Penalba_New_Warriors_02_2014.png",
     "width": "240",

@@ -15,7 +15,15 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "(Louis Hamilton):<br>Skilled hand to hand combatant<br>Superhuman strength and endurance<br>Enhanced resistance to injury<br>(Jerry Sledge):<br>Superhuman strength and endurance<br>Ability to absorb the properties of elements",
+  "powersText": [
+    "(Louis Hamilton):",
+    "Skilled hand to hand combatant",
+    "Superhuman strength and endurance",
+    "Enhanced resistance to injury",
+    "(Jerry Sledge):",
+    "Superhuman strength and endurance",
+    "Ability to absorb the properties of elements"
+  ],
   "image": {},
   "pageviews": 4504
 }

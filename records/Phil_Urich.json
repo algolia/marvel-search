@@ -12,7 +12,19 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "(As Green Goblin):<br>Superhuman strength, speed, durability, stamina and reflexes<br>Enhanced intellect<br>Ultrasonic scream<br>Use of goblin-themed weapons and paraphernalia<br>(As Hobgoblin):<br>Wears a costume with wings on the back that allow him to fly<br>Use of goblin-themed weapons and flaming sword",
+  "powersText": [
+    "(As Green Goblin):",
+    "Superhuman strength",
+    "speed",
+    "durability",
+    "stamina and reflexes",
+    "Enhanced intellect",
+    "Ultrasonic scream",
+    "Use of goblin-themed weapons and paraphernalia",
+    "(As Hobgoblin):",
+    "Wears a costume with wings on the back that allow him to fly",
+    "Use of goblin-themed weapons and flaming sword"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Phil_Urich_Hobgoblin.jpg/250px-Phil_Urich_Hobgoblin.jpg",
     "width": "250",

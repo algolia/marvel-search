@@ -15,7 +15,12 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Ability to sense weak points<br>Enhanced physical attributes<br>Master martial artist<br>Experienced hand-to-hand combatant",
+  "powersText": [
+    "Ability to sense weak points",
+    "Enhanced physical attributes",
+    "Master martial artist",
+    "Experienced hand-to-hand combatant"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Karnak_sih_02.png/250px-Karnak_sih_02.png",
     "width": "250",

@@ -11,7 +11,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, speed, durability, reflexes and endurance<br>Invulnerability to conventional firearms and incendiary or ballistic devices<br>Wields enchanted and virtually indestructible axe",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "durability",
+    "reflexes and endurance",
+    "Invulnerability to conventional firearms and incendiary or ballistic devices",
+    "Wields enchanted and virtually indestructible axe"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Bloodaxe.jpg/250px-Bloodaxe.jpg",
     "width": "250",

@@ -15,7 +15,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Genius electrical engineer<br>Electromagnetic tailored body-harness grants:<br>Enhanced physical attributes<br>Flight",
+  "powersText": [
+    "Genius electrical engineer",
+    "Electromagnetic tailored body-harness grants:",
+    "Enhanced physical attributes",
+    "Flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

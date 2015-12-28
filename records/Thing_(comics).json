@@ -24,7 +24,15 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Skilled street fighter and hand to hand combatant<br>Superhuman strength, stamina and durability<br>Rock-like skin<br>Excellent dexterity<br>Above-average reflexes<br>Enhanced lung capacity",
+  "powersText": [
+    "Skilled street fighter and hand to hand combatant",
+    "Superhuman strength",
+    "stamina and durability",
+    "Rock-like skin",
+    "Excellent dexterity",
+    "Above-average reflexes",
+    "Enhanced lung capacity"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Thing_v2_1_coverart.jpg/250px-Thing_v2_1_coverart.jpg",
     "width": "250",

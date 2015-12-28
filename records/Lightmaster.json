@@ -16,7 +16,10 @@
   "powers": [
     "Light manipulation"
   ],
-  "powersText": "Power suit grants:<br> Light manipulation",
+  "powersText": [
+    "Power suit grants:",
+    "Light manipulation"
+  ],
   "image": {},
   "pageviews": 935
 }

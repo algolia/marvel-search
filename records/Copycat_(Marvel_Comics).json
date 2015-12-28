@@ -18,7 +18,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Shapeshifting<br>Power mimicry",
+  "powersText": [
+    "Shapeshifting",
+    "Power mimicry"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/0/05/Copycat_Vanessa_Carlysle.jpg",
     "width": "180",

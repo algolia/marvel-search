@@ -14,7 +14,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Expert in advanced technology, scientific genius specializing in genetics, peak human physical condition",
+  "powersText": [
+    "Expert in advanced technology",
+    "scientific genius specializing in genetics",
+    "peak human physical condition"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Centuriusmu0.jpg/250px-Centuriusmu0.jpg",
     "width": "250",

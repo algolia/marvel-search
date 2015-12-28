@@ -13,7 +13,12 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Immortality Emotion control Illusion generation Flight",
+  "powersText": [
+    "Immortality",
+    "Emotion control",
+    "Illusion generation",
+    "Flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Venus-comics-leonardkirk.jpg/250px-Venus-comics-leonardkirk.jpg",
     "width": "250",

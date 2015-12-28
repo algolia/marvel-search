@@ -16,7 +16,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Olympic-level athlete<br>Master swordsman<br>Cunning strategist<br>Highly skilled unarmed combatant<br>Uses a modified sword that projects various energy beams<br>Carries various throwing knives and daggers",
+  "powersText": [
+    "Olympic-level athlete",
+    "Master swordsman",
+    "Cunning strategist",
+    "Highly skilled unarmed combatant",
+    "Uses a modified sword that projects various energy beams",
+    "Carries various throwing knives and daggers"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Avengers19.jpg/250px-Avengers19.jpg",
     "width": "250",

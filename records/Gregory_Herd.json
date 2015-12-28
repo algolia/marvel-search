@@ -12,7 +12,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "(As Override)<br>Cybernetically enhanced costume grants:<br>Ability to remotely control or override any and all electronic devices<br>(As Shadrac)<br>Mystical burning flames<br>Ability to override emotions",
+  "powersText": [
+    "(As Override)",
+    "Cybernetically enhanced costume grants:",
+    "Ability to remotely control or override any and all electronic devices",
+    "(As Shadrac)",
+    "Mystical burning flames",
+    "Ability to override emotions"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Gregory_Herd_Shadrac.JPG/150px-Gregory_Herd_Shadrac.JPG",
     "width": "150",

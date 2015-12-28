@@ -11,7 +11,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength<br>Interdimensional teleportation via bracelets",
+  "powersText": [
+    "Superhuman strength",
+    "Interdimensional teleportation via bracelets"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/5/56/AmazingSpider-Man103.jpg",
     "width": "250",

@@ -10,7 +10,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Super strength<br>Flight<br>Invulnerability except for a single spot at top of head",
+  "powersText": [
+    "Super strength",
+    "Flight",
+    "Invulnerability except for a single spot at top of head"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/SuperRabbit6.jpg/180px-SuperRabbit6.jpg",
     "width": "180",

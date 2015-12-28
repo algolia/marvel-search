@@ -21,7 +21,15 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Currently depowered<br>Previously:<br>Superhuman strength, endurance, durability and resilience<br> Personal gravity field <br> Near impenetrable skin",
+  "powersText": [
+    "Currently depowered",
+    "Previously:",
+    "Superhuman strength",
+    "endurance",
+    "durability and resilience",
+    "Personal gravity field",
+    "Near impenetrable skin"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Blobm.PNG/250px-Blobm.PNG",
     "width": "250",

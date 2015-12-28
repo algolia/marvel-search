@@ -11,7 +11,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Gifted inventor<br>Genius intelligence<br>Wears mechanical spider legs and gauntlets containing a grappling hook launcher and pepper spray blasters",
+  "powersText": [
+    "Gifted inventor",
+    "Genius intelligence",
+    "Wears mechanical spider legs and gauntlets containing a grappling hook launcher and pepper spray blasters"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Steelspider.jpg/250px-Steelspider.jpg",
     "width": "250",

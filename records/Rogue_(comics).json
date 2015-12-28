@@ -21,7 +21,15 @@
     "Flight",
     "Details"
   ],
-  "powersText": "Absorption of powers, skills, and memories by touch Formerly: Super strength Flight ( Details )",
+  "powersText": [
+    "Absorption of powers",
+    "skills",
+    "and memories by touch",
+    "Formerly:",
+    "Super strength",
+    "Flight",
+    "(Details)"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RogueCoverv3.jpg/250px-RogueCoverv3.jpg",
     "width": "250",

@@ -23,7 +23,11 @@
   "powers": [
     "Light manipulation"
   ],
-  "powersText": "Superhuman speed and durability<br /> Flight<br /> Light manipulation",
+  "powersText": [
+    "Superhuman speed and durability",
+    "Flight",
+    "Light manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Xmen392.PNG/250px-Xmen392.PNG",
     "width": "250",

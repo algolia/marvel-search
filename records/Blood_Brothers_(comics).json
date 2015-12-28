@@ -13,7 +13,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength and durability (increased when in proximity to one another)<br>Vampiric need to drain blood",
+  "powersText": [
+    "Superhuman strength and durability (increased when in proximity to one another)",
+    "Vampiric need to drain blood"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Iron_Man_v1_055_-_00.jpg/250px-Iron_Man_v1_055_-_00.jpg",
     "width": "250",

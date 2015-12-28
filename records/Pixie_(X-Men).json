@@ -21,7 +21,12 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Flight via insect wings<br>\"Pixie dust\" which causes hallucinations on targets<br>Limited magic manipulation (primarily used for teleportation)<br>Wields a soul dagger",
+  "powersText": [
+    "Flight via insect wings",
+    "\"Pixie dust\" which causes hallucinations on targets",
+    "Limited magic manipulation (primarily used for teleportation)",
+    "Wields a soul dagger"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/PixieWiki.png/250px-PixieWiki.png",
     "width": "250",

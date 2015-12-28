@@ -11,7 +11,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "The Star Brand grants its wielder near infinite powers and abilities ranging from flight, disintegrating matter, time travel, and many others.",
+  "powersText": [
+    "The Star Brand grants its wielder near infinite powers and abilities ranging from flight",
+    "disintegrating matter",
+    "time travel",
+    "and many others."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Starbrand001a.jpg/250px-Starbrand001a.jpg",
     "width": "250",

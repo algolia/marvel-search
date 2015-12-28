@@ -15,7 +15,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength<br>Durability<br>Flight",
+  "powersText": [
+    "Superhuman strength",
+    "Durability",
+    "Flight"
+  ],
   "image": {},
   "pageviews": 1494
 }

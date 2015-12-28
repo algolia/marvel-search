@@ -14,7 +14,11 @@
     "Valkyrie"
   ],
   "powers": [],
-  "powersText": "Flight via feathered wings<br>Enhanced intelligence<br>Experienced battle steed",
+  "powersText": [
+    "Flight via feathered wings",
+    "Enhanced intelligence",
+    "Experienced battle steed"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/ValkyrieDefenders4.jpg/200px-ValkyrieDefenders4.jpg",
     "width": "200",

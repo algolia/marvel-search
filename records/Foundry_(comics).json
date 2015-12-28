@@ -10,7 +10,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "fires eyeblasts and can morph hands into weapons",
+  "powersText": [
+    "fires eyeblasts and can morph hands into weapons"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/Foundry-marvel.jpg",
     "width": "250",

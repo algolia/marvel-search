@@ -12,7 +12,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength<br>Glass-like material body<br>Radiation generation",
+  "powersText": [
+    "Superhuman strength",
+    "Glass-like material body",
+    "Radiation generation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Missinglink%28comics%29.jpg/249px-Missinglink%28comics%29.jpg",
     "width": "249",

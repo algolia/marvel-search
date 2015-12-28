@@ -17,7 +17,9 @@
   "powers": [
     "mutants"
   ],
-  "powersText": "Possesses the powers of all living mutants .",
+  "powersText": [
+    "Possesses the powers of all living mutants."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Isolationist.jpg",
     "width": "250",

@@ -19,7 +19,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Excellent swordsman and hand to hand combatant<br>Expert horseman<br>Genius physicists<br>Strong strategist and tactician<br>Magic senses<br>Wields the Sword of Light and Shield of Night",
+  "powersText": [
+    "Excellent swordsman and hand to hand combatant",
+    "Expert horseman",
+    "Genius physicists",
+    "Strong strategist and tactician",
+    "Magic senses",
+    "Wields the Sword of Light and Shield of Night"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

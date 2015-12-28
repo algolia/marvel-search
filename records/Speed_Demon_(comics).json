@@ -16,7 +16,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Genius chemist<br>Superhuman speed, stamina and reflexes",
+  "powersText": [
+    "Genius chemist",
+    "Superhuman speed",
+    "stamina and reflexes"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Speed_Demon_Superior_Foes_of_Spider-Man_Vol_1_3.jpg/250px-Speed_Demon_Superior_Foes_of_Spider-Man_Vol_1_3.jpg",
     "width": "250",

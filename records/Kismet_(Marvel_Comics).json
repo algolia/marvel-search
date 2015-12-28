@@ -12,7 +12,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Flight<br />Unaided survival in vacuum<br />Energy Blasts<br>Regeneration<br>Super-strength and Durability",
+  "powersText": [
+    "Flight",
+    "Unaided survival in vacuum",
+    "Energy Blasts",
+    "Regeneration",
+    "Super-strength and Durability"
+  ],
   "image": {},
   "pageviews": 2192
 }

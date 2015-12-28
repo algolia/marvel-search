@@ -20,7 +20,16 @@
   "powers": [
     "anti-gravity"
   ],
-  "powersText": "Superhuman strength, speed, stamina, durability, reflexes and accuracy<br> Telescoping arms and legs Flight by usage of anti-gravity disks Various installed weapons",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "stamina",
+    "durability",
+    "reflexes and accuracy",
+    "Telescoping arms and legs",
+    "Flight by usage of anti-gravity disks",
+    "Various installed weapons"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Machineman.PNG/250px-Machineman.PNG",
     "width": "250",

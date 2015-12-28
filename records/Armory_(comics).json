@@ -13,7 +13,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Ability to control the Tactigon, an alien-created weapon worn on the arm that is seemingly able to transform into any weapon that she may need at a given time.",
+  "powersText": [
+    "Ability to control the Tactigon",
+    "an alien-created weapon worn on the arm that is seemingly able to transform into any weapon that she may need at a given time."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/2/27/AVNINITANN001_cov_col.jpg",
     "width": "200",

@@ -13,7 +13,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Electrical generation<br>Skilled fencer<br>Excellent acrobat",
+  "powersText": [
+    "Electrical generation",
+    "Skilled fencer",
+    "Excellent acrobat"
+  ],
   "image": {},
   "pageviews": 1304
 }

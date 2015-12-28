@@ -18,7 +18,19 @@
     "healing factor",
     "Psionic"
   ],
-  "powersText": "Highly trained martial artist<br>Superhuman strength, speed, agility, reflexes, coordination, balance, endurance, and senses<br>Regenerative healing factor <br> Psionic claws",
+  "powersText": [
+    "Highly trained martial artist",
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "reflexes",
+    "coordination",
+    "balance",
+    "endurance",
+    "and senses",
+    "Regenerative healing factor",
+    "Psionic claws"
+  ],
   "image": {},
   "pageviews": 3082
 }

@@ -19,7 +19,10 @@
     "Chronomancer"
   ],
   "powers": [],
-  "powersText": "Energy blasts, intangibility (holographic Shard only)",
+  "powersText": [
+    "Energy blasts",
+    "intangibility (holographic Shard only)"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/9/94/X-factor147.jpg",
     "width": "250",

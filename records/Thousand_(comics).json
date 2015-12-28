@@ -8,7 +8,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Body is composed of one-thousand spiders capable of devouring the innards of humans and using their leftover skin like a suit <br> Super strength <br> Venomous bite <br> Capable of adhering to surfaces",
+  "powersText": [
+    "Body is composed of one-thousand spiders capable of devouring the innards of humans and using their leftover skin like a suit",
+    "Super strength",
+    "Venomous bite",
+    "Capable of adhering to surfaces"
+  ],
   "image": {},
   "pageviews": 873
 }

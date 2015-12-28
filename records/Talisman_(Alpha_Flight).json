@@ -16,7 +16,9 @@
   "powers": [
     "magical"
   ],
-  "powersText": "Wide ranging magical abilities",
+  "powersText": [
+    "Wide ranging magical abilities"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Alpha_Flight_-19.jpg",
     "width": "194",

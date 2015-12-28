@@ -15,7 +15,14 @@
     "Attuma"
   ],
   "powers": [],
-  "powersText": "Scientific genius<br>Expert radiologist<br>Intangibility<br>Invisibility<br>Air-walking<br>Use of devices and weapons",
+  "powersText": [
+    "Scientific genius",
+    "Expert radiologist",
+    "Intangibility",
+    "Invisibility",
+    "Air-walking",
+    "Use of devices and weapons"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/FFFOES005_COV.jpg/250px-FFFOES005_COV.jpg",
     "width": "250",

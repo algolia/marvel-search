@@ -22,7 +22,17 @@
     "endurance",
     "Healing factor"
   ],
-  "powersText": "Superhuman strength speed , agility, stamina, reflexes and endurance Ability to cling to most surfaces Healing factor Has spider-webbing device  Spider-Sense  Inter dimensional travel device",
+  "powersText": [
+    "Superhuman strengthspeed",
+    "agility",
+    "stamina",
+    "reflexes and endurance",
+    "Ability to cling to most surfaces",
+    "Healing factor",
+    "Has spider-webbing device",
+    "Spider-Sense",
+    "Inter dimensional travel device"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Edge-of-spider-verse-1--100339.jpg/250px-Edge-of-spider-verse-1--100339.jpg",
     "width": "250",

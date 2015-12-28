@@ -16,7 +16,13 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Super-human senses, reflexes/reactions, coordination, mastery of martial arts, levitation",
+  "powersText": [
+    "Super-human senses",
+    "reflexes/reactions",
+    "coordination",
+    "mastery of martial arts",
+    "levitation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

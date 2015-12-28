@@ -14,7 +14,16 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "As Everyman:<br>Use of sword, shield and the Absorbascann<br>As Zeitgeist:<br>Use of camera that took pictures of people's death<br>Wears belt that grants:<br>Shapeshifting<br>Invisibility",
+  "powersText": [
+    "As Everyman:",
+    "Use of sword",
+    "shield and the Absorbascann",
+    "As Zeitgeist:",
+    "Use of camera that took pictures of people's death",
+    "Wears belt that grants:",
+    "Shapeshifting",
+    "Invisibility"
+  ],
   "image": {},
   "pageviews": 1331
 }

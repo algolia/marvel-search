@@ -26,7 +26,18 @@
     "Hypnosis",
     "Shapeshifting"
   ],
-  "powersText": "<br> Immortality <br> Superhuman Strength <br> Superhuman Speed <br>Superhuman Agility<br> Superhuman Endurance <br>Superhuman Senses<br> Night vision <br> Healing Factor <br> Hypnosis <br> Shapeshifting (wolf and bat)",
+  "powersText": [
+    "Immortality",
+    "Superhuman Strength",
+    "Superhuman Speed",
+    "Superhuman Agility",
+    "Superhuman Endurance",
+    "Superhuman Senses",
+    "Night vision",
+    "Healing Factor",
+    "Hypnosis",
+    "Shapeshifting (wolf and bat)"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/NinaPrice_HCV.jpg/200px-NinaPrice_HCV.jpg",
     "width": "200",

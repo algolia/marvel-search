@@ -10,7 +10,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Super-Strength<br>Sharp Teeth",
+  "powersText": [
+    "Super-Strength",
+    "Sharp Teeth"
+  ],
   "image": {},
   "pageviews": 27425
 }

@@ -17,7 +17,18 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Sentry:<br>Superhuman strength, speed, stamina and durability<br>resurrection<br>accelerated healing<br>Flight<br>Enhanced senses<br>Void:<br>Molecule Manipulation",
+  "powersText": [
+    "Sentry:",
+    "Superhuman strength",
+    "speed",
+    "stamina and durability",
+    "resurrection",
+    "accelerated healing",
+    "Flight",
+    "Enhanced senses",
+    "Void:",
+    "Molecule Manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

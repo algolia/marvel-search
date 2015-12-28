@@ -17,7 +17,17 @@
   "powers": [
     "Power Cosmic"
   ],
-  "powersText": "Use of Power Cosmic <br>Superhuman strength, reflexes and durability<br>Flight<br>Mastery of the electromagnetic spectrum<br>Total immunity to the rigors of space<br>Capable of travelling faster than the speed of light<br>Wields a flaming staff<br>Energy projection via his eyes and staff",
+  "powersText": [
+    "Use of Power Cosmic",
+    "Superhuman strength",
+    "reflexes and durability",
+    "Flight",
+    "Mastery of the electromagnetic spectrum",
+    "Total immunity to the rigors of space",
+    "Capable of travelling faster than the speed of light",
+    "Wields a flaming staff",
+    "Energy projection via his eyes and staff"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Avengers-258.jpg",
     "width": "250",

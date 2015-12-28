@@ -13,7 +13,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Super strength; magical healing",
+  "powersText": [
+    "Super strength",
+    "magical healing"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/TalesOfTheZombie1.jpg/250px-TalesOfTheZombie1.jpg",
     "width": "250",

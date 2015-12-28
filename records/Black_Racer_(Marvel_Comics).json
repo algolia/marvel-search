@@ -14,7 +14,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Ability to move at superhuman speeds",
+  "powersText": [
+    "Ability to move at superhuman speeds"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/1/1d/Black_racer_marvel.jpg",
     "width": "191",

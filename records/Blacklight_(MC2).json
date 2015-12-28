@@ -13,7 +13,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "High speed flight<br>Energy projection<br>Control over solid light constructs",
+  "powersText": [
+    "High speed flight",
+    "Energy projection",
+    "Control over solid light constructs"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png",
     "width": "40",

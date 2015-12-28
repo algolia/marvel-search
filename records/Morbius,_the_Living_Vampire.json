@@ -16,7 +16,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Expert biologist and biochemist Enhanced physical attributes Flight Hypnotism Accelerated healing factor Reliance on consuming human blood",
+  "powersText": [
+    "Expert biologist and biochemist",
+    "Enhanced physical attributes",
+    "Flight",
+    "Hypnotism",
+    "Accelerated healing factor",
+    "Reliance on consuming human blood"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

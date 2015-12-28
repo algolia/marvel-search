@@ -12,7 +12,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Wears a suit of copper armor<br>Use of a gun that shoots paralyzing or lethal darts",
+  "powersText": [
+    "Wears a suit of copper armor",
+    "Use of a gun that shoots paralyzing or lethal darts"
+  ],
   "image": {},
   "pageviews": 1158
 }

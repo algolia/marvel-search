@@ -14,7 +14,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Cybernetic enhancements grant superhuman strength, speed, stamina, and sturdiness<br>Second heart<br>Remote-controlled vital functions.",
+  "powersText": [
+    "Cybernetic enhancements grant superhuman strength",
+    "speed",
+    "stamina",
+    "and sturdiness",
+    "Second heart",
+    "Remote-controlled vital functions."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Ddnuke.png",
     "width": "250",

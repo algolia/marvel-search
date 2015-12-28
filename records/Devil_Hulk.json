@@ -14,7 +14,14 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Illusion generation   Super strength, speed, endurance, reflexes, and durability",
+  "powersText": [
+    "Illusion generation",
+    "Super strength",
+    "speed",
+    "endurance",
+    "reflexes",
+    "and durability"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/DevilHulk.gif/250px-DevilHulk.gif",
     "width": "250",

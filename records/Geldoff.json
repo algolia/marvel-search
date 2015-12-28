@@ -11,7 +11,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Can generate and discharge explosive energy balls",
+  "powersText": [
+    "Can generate and discharge explosive energy balls"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Ulgeldoff.jpg/150px-Ulgeldoff.jpg",
     "width": "150",

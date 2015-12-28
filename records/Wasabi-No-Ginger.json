@@ -11,7 +11,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Skilled marksman and swordsman<br>Use of swords<br>Ability to generate qi-energy blades",
+  "powersText": [
+    "Skilled marksman and swordsman",
+    "Use of swords",
+    "Ability to generate qi-energy blades"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Wasabi-No-Ginger_%28Marvel_Comics%29.jpg/250px-Wasabi-No-Ginger_%28Marvel_Comics%29.jpg",
     "width": "250",

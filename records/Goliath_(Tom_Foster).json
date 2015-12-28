@@ -16,7 +16,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength and durability<br>Size and mass manipulation",
+  "powersText": [
+    "Superhuman strength and durability",
+    "Size and mass manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/TomFoster.jpg/250px-TomFoster.jpg",
     "width": "250",

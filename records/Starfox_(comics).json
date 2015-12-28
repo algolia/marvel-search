@@ -16,7 +16,14 @@
   "powers": [
     "Healing factor"
   ],
-  "powersText": "Superhuman strength, stamina and agility Flight Healing factor Halted aging Psychic control over the emotions of others",
+  "powersText": [
+    "Superhuman strength",
+    "stamina and agility",
+    "Flight",
+    "Healing factor",
+    "Halted aging",
+    "Psychic control over the emotions of others"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/SHEHULK006.jpg/250px-SHEHULK006.jpg",
     "width": "250",

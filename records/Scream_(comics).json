@@ -15,7 +15,9 @@
   "powers": [
     "Alien symbiote"
   ],
-  "powersText": "Alien symbiote",
+  "powersText": [
+    "Alien symbiote"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Scream_sym.jpg/200px-Scream_sym.jpg",
     "width": "200",

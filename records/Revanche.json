@@ -18,7 +18,14 @@
   "powers": [
     "Telepathy"
   ],
-  "powersText": "Originally:<br>Empathy<br>Psionic Katana<br>Later:<br> Telepathy <br>Psionic Blade",
+  "powersText": [
+    "Originally:",
+    "Empathy",
+    "Psionic Katana",
+    "Later:",
+    "Telepathy",
+    "Psionic Blade"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/Revanche.jpg",
     "width": "233",

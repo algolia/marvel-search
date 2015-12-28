@@ -13,7 +13,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "bark like skin, psionic power over plants",
+  "powersText": [
+    "bark like skin",
+    "psionic power over plants"
+  ],
   "image": {},
   "pageviews": 1064
 }

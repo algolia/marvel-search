@@ -10,7 +10,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Master assassin<br>Peak physical condition<br>Minor hypnotic abilities",
+  "powersText": [
+    "Master assassin",
+    "Peak physical condition",
+    "Minor hypnotic abilities"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/SpideyForeigner209.jpg/200px-SpideyForeigner209.jpg",
     "width": "200",

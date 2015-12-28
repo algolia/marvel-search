@@ -13,7 +13,13 @@
     "Fin Fang Foom"
   ],
   "powers": [],
-  "powersText": "Superhuman strength and durability<br>Gamma Ray Projection<br>Ability to shrink and restore matter<br>Telekinesis<br>Forcefield",
+  "powersText": [
+    "Superhuman strength and durability",
+    "Gamma Ray Projection",
+    "Ability to shrink and restore matter",
+    "Telekinesis",
+    "Forcefield"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/TOS-13.jpg/250px-TOS-13.jpg",
     "width": "250",

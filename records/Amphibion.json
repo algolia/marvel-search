@@ -13,7 +13,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength<br>Ability to breathe underwater and on the surface",
+  "powersText": [
+    "Superhuman strength",
+    "Ability to breathe underwater and on the surface"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Amphibion.jpg/250px-Amphibion.jpg",
     "width": "250",

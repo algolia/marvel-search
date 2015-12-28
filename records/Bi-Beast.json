@@ -17,7 +17,11 @@
     "Man-Beast"
   ],
   "powers": [],
-  "powersText": "Superhuman strength, stamina and durability<br>Extensive knowledge of Avian warfare and culture",
+  "powersText": [
+    "Superhuman strength",
+    "stamina and durability",
+    "Extensive knowledge of Avian warfare and culture"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/H-169.jpg/250px-H-169.jpg",
     "width": "250",

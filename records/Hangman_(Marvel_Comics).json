@@ -11,7 +11,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Skilled in use of rope and scythe<br>Extensive knowledge of American cinema",
+  "powersText": [
+    "Skilled in use of rope and scythe",
+    "Extensive knowledge of American cinema"
+  ],
   "image": {},
   "pageviews": 644
 }

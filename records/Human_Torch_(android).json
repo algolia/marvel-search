@@ -19,7 +19,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Accomplished street fighter<br>Skilled unarmed combatant<br>Fire manipulation and resistance<br>Flight<br>Ability to survive without oxygen for long time periods",
+  "powersText": [
+    "Accomplished street fighter",
+    "Skilled unarmed combatant",
+    "Fire manipulation and resistance",
+    "Flight",
+    "Ability to survive without oxygen for long time periods"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Human_Torch_%28Torch_1_2009%29.jpg/250px-Human_Torch_%28Torch_1_2009%29.jpg",
     "width": "250",

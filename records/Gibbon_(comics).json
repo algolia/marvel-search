@@ -15,7 +15,15 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, speed, agility, dexterity, reflexes, coordination, balance and endurance",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "dexterity",
+    "reflexes",
+    "coordination",
+    "balance and endurance"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/9/93/GibbonMarvelApes.png",
     "width": "250",

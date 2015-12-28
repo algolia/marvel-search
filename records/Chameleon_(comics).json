@@ -24,7 +24,12 @@
     "Doctor Octopus"
   ],
   "powers": [],
-  "powersText": "Master of disguise<br>Brilliant method actor and impressionist<br>Enhanced strength and endurance<br>Longevity",
+  "powersText": [
+    "Master of disguise",
+    "Brilliant method actor and impressionist",
+    "Enhanced strength and endurance",
+    "Longevity"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

@@ -18,7 +18,12 @@
     "Set"
   ],
   "powers": [],
-  "powersText": "Fully amphibious physiology<br>Superhuman strength<br>Ability to control sea creatures<br>Shape/color shifting",
+  "powersText": [
+    "Fully amphibious physiology",
+    "Superhuman strength",
+    "Ability to control sea creatures",
+    "Shape/color shifting"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Sub-Mariner-32.jpg/250px-Sub-Mariner-32.jpg",
     "width": "250",

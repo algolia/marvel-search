@@ -11,7 +11,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Skilled martial artist and gymnast<br>Wields web-shooters that fire smoke bombs and sonic blasts and a high-tech cat o'nine tails whip<br>Great investigative skills",
+  "powersText": [
+    "Skilled martial artist and gymnast",
+    "Wields web-shooters that fire smoke bombs and sonic blasts and a high-tech cat o'nine tails whip",
+    "Great investigative skills"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

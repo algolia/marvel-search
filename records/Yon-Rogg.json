@@ -13,7 +13,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Super-Strength<br>Agility<br>Stamina",
+  "powersText": [
+    "Super-Strength",
+    "Agility",
+    "Stamina"
+  ],
   "image": {},
   "pageviews": 1586
 }

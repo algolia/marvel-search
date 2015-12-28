@@ -15,7 +15,17 @@
     "Baron Helmut Zemo"
   ],
   "powers": [],
-  "powersText": "Skilled military strategist and spy<br>Master of disguise<br>Excellent actor<br>Exceptional hand to hand combatant, marksman and swordsman<br>High-level intellect<br>Enhanced strength and energy projection via Satan Claw<br>Healing factor and limited invulnerability via Death Spore virus in his blood<br>Repressed aging",
+  "powersText": [
+    "Skilled military strategist and spy",
+    "Master of disguise",
+    "Excellent actor",
+    "Exceptional hand to hand combatant",
+    "marksman and swordsman",
+    "High-level intellect",
+    "Enhanced strength and energy projection via Satan Claw",
+    "Healing factor and limited invulnerability via Death Spore virus in his blood",
+    "Repressed aging"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Baronstrucker.png",
     "width": "187",

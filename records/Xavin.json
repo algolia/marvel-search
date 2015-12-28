@@ -15,7 +15,15 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength and durability<br>Shapeshifting<br>Flight<br>Fire manipulation<br>Elasticity<br>Invisibility<br>Force field projection",
+  "powersText": [
+    "Superhuman strength and durability",
+    "Shapeshifting",
+    "Flight",
+    "Fire manipulation",
+    "Elasticity",
+    "Invisibility",
+    "Force field projection"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Xavincover.jpg/250px-Xavincover.jpg",
     "width": "250",

@@ -11,7 +11,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Sonic boom projection via metal gloves<br>Wears cowl which contains protective silicone cups and an electronic device",
+  "powersText": [
+    "Sonic boom projection via metal gloves",
+    "Wears cowl which contains protective silicone cups and an electronic device"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Thunderclapmu0.png/225px-Thunderclapmu0.png",
     "width": "225",

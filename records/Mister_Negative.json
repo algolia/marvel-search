@@ -11,7 +11,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength and reflexes<br>Mental domination<br>Healing touch<br>Access to advanced technology and secret laboratories<br>Ability to switch between reversed and regular appearance and charge up knives and swords with black electrical energy",
+  "powersText": [
+    "Superhuman strength and reflexes",
+    "Mental domination",
+    "Healing touch",
+    "Access to advanced technology and secret laboratories",
+    "Ability to switch between reversed and regular appearance and charge up knives and swords with black electrical energy"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Mister_Negative.jpg/250px-Mister_Negative.jpg",
     "width": "250",

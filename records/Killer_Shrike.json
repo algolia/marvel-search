@@ -18,7 +18,16 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Expert hand to hand combatant and martial artist<br/>Possesses various weapons<br/>Anti-gravity device grants:<br/>Enhanced physical attributes<br/>Flight<br/>Armored suit grants:<br/>Resistance to injury<br/>Electrical bolt projection via twin power-blasters",
+  "powersText": [
+    "Expert hand to hand combatant and martial artist",
+    "Possesses various weapons",
+    "Anti-gravity device grants:",
+    "Enhanced physical attributes",
+    "Flight",
+    "Armored suit grants:",
+    "Resistance to injury",
+    "Electrical bolt projection via twin power-blasters"
+  ],
   "image": {},
   "pageviews": 2049
 }

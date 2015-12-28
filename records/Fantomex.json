@@ -18,7 +18,16 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Illusion casting;<br>Possesses multiple brains;<br>nano-active blood;<br>skilled marksman, acrobat, and hand-to-hand combatant;<br>able to read body language;<br>auto-hypnosis;",
+  "powersText": [
+    "Illusion casting",
+    "Possesses multiple brains",
+    "nano-active blood",
+    "skilled marksman",
+    "acrobat",
+    "and hand-to-hand combatant",
+    "able to read body language",
+    "auto-hypnosis"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/40px-Crystal_Clear_app_kedit.svg.png",
     "width": "40",

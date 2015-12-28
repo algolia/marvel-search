@@ -11,7 +11,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Costume and gauntlets provided for manipulation of magnetic fields, including but not limited to the magnetic manipulation of metal objects and flight",
+  "powersText": [
+    "Costume and gauntlets provided for manipulation of magnetic fields",
+    "including but not limited to the magnetic manipulation of metal objects and flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Marvel_balloon.svg/32px-Marvel_balloon.svg.png",
     "width": "32",

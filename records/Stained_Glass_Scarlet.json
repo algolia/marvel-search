@@ -15,7 +15,10 @@
     "psychic",
     "Moon Knight"
   ],
-  "powersText": "Mysterious psychic bond with Moon Knight Expert in martial art and weapons",
+  "powersText": [
+    "Mysterious psychic bond with Moon Knight",
+    "Expert in martial art and weapons"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

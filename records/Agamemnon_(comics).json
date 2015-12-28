@@ -15,7 +15,14 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Genius analyzer and forecaster of future development of social structures<br>Master battle strategist<br>Skilled magician and spell caster<br>Excellent physical condition<br>Immortality<br>Access to highly advanced technology",
+  "powersText": [
+    "Genius analyzer and forecaster of future development of social structures",
+    "Master battle strategist",
+    "Skilled magician and spell caster",
+    "Excellent physical condition",
+    "Immortality",
+    "Access to highly advanced technology"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

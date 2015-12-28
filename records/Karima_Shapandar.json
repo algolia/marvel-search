@@ -17,7 +17,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "As a Prime Sentinel;<br />Superhuman strength.<br />Resistance to injury and regenerative abilities.<br />Electrostatic poles mounted on her arms.<br />Flight.<br />Selection of unspecified weapons and mechanisms that retract into body.",
+  "powersText": [
+    "As a Prime Sentinel",
+    "Superhuman strength.",
+    "Resistance to injury and regenerative abilities.",
+    "Electrostatic poles mounted on her arms.",
+    "Flight.",
+    "Selection of unspecified weapons and mechanisms that retract into body."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/3/31/Karima_Shapandar.jpg",
     "width": "200",

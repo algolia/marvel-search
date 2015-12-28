@@ -14,7 +14,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Telepathy,<br>Telekinesis,<br>Teleportation",
+  "powersText": [
+    "Telepathy",
+    "Telekinesis",
+    "Teleportation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Devil-Slayer.jpg/250px-Devil-Slayer.jpg",
     "width": "250",

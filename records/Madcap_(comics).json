@@ -14,7 +14,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Accelerated healing factor<br>Insanity inducement (temporary or permanent)<br>Use of a distracting toy soap bubble-gun",
+  "powersText": [
+    "Accelerated healing factor",
+    "Insanity inducement (temporary or permanent)",
+    "Use of a distracting toy soap bubble-gun"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Madcap_Roland_Boschi.jpg/250px-Madcap_Roland_Boschi.jpg",
     "width": "250",

@@ -18,7 +18,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Expert bat trainer<br>Skilled marksman<br>Specially mutated bats<br>Wears costume made of synthetic stretch fabric over chain mail body armor that grants:<br>Short distanced flight via directed motion hovering",
+  "powersText": [
+    "Expert bat trainer",
+    "Skilled marksman",
+    "Specially mutated bats",
+    "Wears costume made of synthetic stretch fabric over chain mail body armor that grants:",
+    "Short distanced flight via directed motion hovering"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png",
     "width": "20",

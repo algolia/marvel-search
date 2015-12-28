@@ -16,7 +16,12 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Telepathy,<br>Telekinesis,<br>Time travel,<br>Superhuman intelligence",
+  "powersText": [
+    "Telepathy",
+    "Telekinesis",
+    "Time travel",
+    "Superhuman intelligence"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/440px-Blaqsmth.jpg/250px-440px-Blaqsmth.jpg",
     "width": "250",

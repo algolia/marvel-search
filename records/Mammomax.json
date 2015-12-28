@@ -16,7 +16,12 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, endurance and durability,<br>Ivory tusks,<br>Corrosive stomach acids",
+  "powersText": [
+    "Superhuman strength",
+    "endurance and durability",
+    "Ivory tusks",
+    "Corrosive stomach acids"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/XMEN_Mammomax.jpg/200px-XMEN_Mammomax.jpg",
     "width": "200",

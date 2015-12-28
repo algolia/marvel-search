@@ -13,7 +13,12 @@
     "Malekith the Accursed"
   ],
   "powers": [],
-  "powersText": "Superhuman strength, speed, stamina and durability<br>Ability to mystically track and locate enemies over large distances",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "stamina and durability",
+    "Ability to mystically track and locate enemies over large distances"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thor363.jpg/250px-Thor363.jpg",
     "width": "250",

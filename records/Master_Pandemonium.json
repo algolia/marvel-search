@@ -13,7 +13,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Ability to summon demons<br>Ability to turn limbs into demons<br>Hellfire projection<br>Energy blasts<br>Amulet of Azmodeus grants:<br>Teleportation",
+  "powersText": [
+    "Ability to summon demons",
+    "Ability to turn limbs into demons",
+    "Hellfire projection",
+    "Energy blasts",
+    "Amulet of Azmodeus grants:",
+    "Teleportation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/West_Coast_Avengers_9.png",
     "width": "231",

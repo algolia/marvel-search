@@ -15,7 +15,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Flight<br>Hypnotic gaze",
+  "powersText": [
+    "Flight",
+    "Hypnotic gaze"
+  ],
   "image": {},
   "pageviews": 1356
 }

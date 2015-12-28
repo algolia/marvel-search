@@ -22,7 +22,13 @@
   "powers": [
     "body language"
   ],
-  "powersText": "Semi-telepathic and semi-clairvoyant omnilingualism (intuitively translates any languages he comes into contact with, including written, spoken, computer, or body language ).",
+  "powersText": [
+    "Semi-telepathic and semi-clairvoyant omnilingualism (intuitively translates any languages he comes into contact with",
+    "including written",
+    "spoken",
+    "computer",
+    "or body language)."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Cypher_from_X-Men_Legacy_235.jpg/250px-Cypher_from_X-Men_Legacy_235.jpg",
     "width": "250",

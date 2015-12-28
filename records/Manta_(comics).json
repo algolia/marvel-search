@@ -13,7 +13,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Flight, infrared vision, generates flashes of blinding light",
+  "powersText": [
+    "Flight",
+    "infrared vision",
+    "generates flashes of blinding light"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/Mantawiki.jpg",
     "width": "250",

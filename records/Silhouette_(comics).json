@@ -17,7 +17,15 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superb hand to hand combatant<br>Expert martial artist<br>Enhanced strength, speed and agility<br>Shadow teleportation<br>Darkforce energy manipulation<br>Ability to become a living shadow",
+  "powersText": [
+    "Superb hand to hand combatant",
+    "Expert martial artist",
+    "Enhanced strength",
+    "speed and agility",
+    "Shadow teleportation",
+    "Darkforce energy manipulation",
+    "Ability to become a living shadow"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Silhouetteani.png",
     "width": "194",

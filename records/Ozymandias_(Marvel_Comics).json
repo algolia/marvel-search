@@ -12,7 +12,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Psychic powers<br>Immortality<br>Superhuman durability",
+  "powersText": [
+    "Psychic powers",
+    "Immortality",
+    "Superhuman durability"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/0/01/OzymandiasMarvel1.png",
     "width": "203",

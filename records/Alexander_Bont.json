@@ -18,7 +18,10 @@
   "powers": [
     "Mutant Growth Hormone"
   ],
-  "powersText": "Highly intelligent,<br> Extremely strong when on Mutant Growth Hormone",
+  "powersText": [
+    "Highly intelligent",
+    "Extremely strong when on Mutant Growth Hormone"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

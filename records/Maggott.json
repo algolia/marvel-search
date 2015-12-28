@@ -13,7 +13,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Slug-based digestive system,<br>Psychometry",
+  "powersText": [
+    "Slug-based digestive system",
+    "Psychometry"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Maggottproflie.jpg/250px-Maggottproflie.jpg",
     "width": "250",

@@ -21,7 +21,12 @@
     "teleport",
     "mesmerize"
   ],
-  "powersText": "magic <br/> hypnosis <br/> teleport <br/> mesmerize",
+  "powersText": [
+    "magic",
+    "hypnosis",
+    "teleport",
+    "mesmerize"
+  ],
   "image": {},
   "pageviews": 610
 }

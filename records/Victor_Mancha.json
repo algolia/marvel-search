@@ -18,7 +18,12 @@
     "Electromagnetic manipulation",
     "Technopathy"
   ],
-  "powersText": "Superhuman strength and speed.<br/> High intelligence.<br /> Photographic memory .<br/> Electromagnetic manipulation .<br/ > Technopathy .",
+  "powersText": [
+    "Superhuman strength and speed.",
+    "High intelligence.",
+    "Photographic memory.",
+    "Electromagnetic manipulation.<br/ > Technopathy."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Runaways22.jpg/250px-Runaways22.jpg",
     "width": "250",

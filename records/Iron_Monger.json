@@ -13,7 +13,18 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Master of psychological warfare<br/>Cunning business strategist<br/>Champion chess player<br/>Genius-level intellect<br/>Use of Circuits Breaker and a consciousness exchanging device<br/>Armored suit grants:<br/>Superhuman strength and durability<br/>Subsonic flight<br/>Energy blasts<br/>Laser beam",
+  "powersText": [
+    "Master of psychological warfare",
+    "Cunning business strategist",
+    "Champion chess player",
+    "Genius-level intellect",
+    "Use of Circuits Breaker and a consciousness exchanging device",
+    "Armored suit grants:",
+    "Superhuman strength and durability",
+    "Subsonic flight",
+    "Energy blasts",
+    "Laser beam"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/IronMonger.jpg/230px-IronMonger.jpg",
     "width": "230",

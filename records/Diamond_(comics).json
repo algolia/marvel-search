@@ -13,7 +13,11 @@
     "diamond",
     "martial artist"
   ],
-  "powersText": "Invulnerable diamond hard skin <br> Limited super strength <br> Elite martial artist",
+  "powersText": [
+    "Invulnerable diamond hard skin",
+    "Limited super strength",
+    "Elite martial artist"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Diamond_new_gen.jpg/250px-Diamond_new_gen.jpg",
     "width": "250",

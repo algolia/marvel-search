@@ -16,7 +16,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Invulnerability,<br>Superhuman strength",
+  "powersText": [
+    "Invulnerability",
+    "Superhuman strength"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/d/d4/OmertaX-Men.JPG",
     "width": "200",

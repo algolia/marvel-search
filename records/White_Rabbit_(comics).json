@@ -14,7 +14,15 @@
     "Walrus"
   ],
   "powers": [],
-  "powersText": "Good martial artist<br>Use of a giant, heavily armed robotic rabbit, genetically altered killer rabbits, two modified vehicles, and an umbrella that fires explosive and razor tipped carrots<br>Flight via rocket boots",
+  "powersText": [
+    "Good martial artist",
+    "Use of a giant",
+    "heavily armed robotic rabbit",
+    "genetically altered killer rabbits",
+    "two modified vehicles",
+    "and an umbrella that fires explosive and razor tipped carrots",
+    "Flight via rocket boots"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/WhiteRabbitMarvel.jpg/250px-WhiteRabbitMarvel.jpg",
     "width": "250",

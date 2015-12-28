@@ -11,7 +11,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Well trained acrobat, hand to hand combatant and fencer<br>Trained gymnast<br>Minimally talented actor<br>Possesses an arsenal of joke-themed weapons<br>Use of armed miniature robots and a one-man submarine",
+  "powersText": [
+    "Well trained acrobat",
+    "hand to hand combatant and fencer",
+    "Trained gymnast",
+    "Minimally talented actor",
+    "Possesses an arsenal of joke-themed weapons",
+    "Use of armed miniature robots and a one-man submarine"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png",
     "width": "20",

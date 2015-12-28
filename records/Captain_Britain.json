@@ -20,7 +20,18 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, speed, endurance, agility, durability, reflexes, and senses<br>Force fields<br>Energy beams<br>Flight",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "endurance",
+    "agility",
+    "durability",
+    "reflexes",
+    "and senses",
+    "Force fields",
+    "Energy beams",
+    "Flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/2/2b/Captbrit.jpg",
     "width": "250",

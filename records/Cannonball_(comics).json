@@ -25,7 +25,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Jet propulsion Ability to create an impenetrable \"blast field\" while in flight",
+  "powersText": [
+    "Jet propulsion",
+    "Ability to create an impenetrable \"blast field\" while in flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

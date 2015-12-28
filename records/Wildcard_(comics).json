@@ -13,7 +13,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Power mimicry <br> Enhanced strength",
+  "powersText": [
+    "Power mimicry",
+    "Enhanced strength"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/2/2a/Wildcard_comics.jpg",
     "width": "250",

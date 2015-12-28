@@ -15,7 +15,10 @@
   "powers": [
     "trick arrows"
   ],
-  "powersText": "Highly skilled archer<br>Uses a variety of trick arrows",
+  "powersText": [
+    "Highly skilled archer",
+    "Uses a variety of trick arrows"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Soloavengers5.jpeg/250px-Soloavengers5.jpeg",
     "width": "250",

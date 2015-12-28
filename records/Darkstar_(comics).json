@@ -23,7 +23,13 @@
     "Griffin"
   ],
   "powers": [],
-  "powersText": "Darkforce manipulation<br>Flight<br>Teleportation<br>Concussive blasts<br>Ability to create solid constructs composed of Darkforce energy",
+  "powersText": [
+    "Darkforce manipulation",
+    "Flight",
+    "Teleportation",
+    "Concussive blasts",
+    "Ability to create solid constructs composed of Darkforce energy"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/DarkStar.jpg",
     "width": "200",

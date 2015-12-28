@@ -27,7 +27,19 @@
     "shapeshifting",
     "diamond"
   ],
-  "powersText": "Telepathy <br>Mind reading and control<br>Memory alteration<br>Mental bolts<br>Induced paralysis<br>Illusion casting<br>Astral projection<br>Capable of shapeshifting into a solid diamond form which grants her superhuman strength, stamina, psychic immunity, and durability",
+  "powersText": [
+    "Telepathy",
+    "Mind reading and control",
+    "Memory alteration",
+    "Mental bolts",
+    "Induced paralysis",
+    "Illusion casting",
+    "Astral projection",
+    "Capable of shapeshifting into a solid diamond form which grants her superhuman strength",
+    "stamina",
+    "psychic immunity",
+    "and durability"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Recentism.svg/46px-Recentism.svg.png",
     "width": "46",

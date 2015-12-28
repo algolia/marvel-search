@@ -15,7 +15,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Energy analogue; can create armor and a vast amount of weapons, establish psi-links with others, travel through phone lines, create holograms.",
+  "powersText": [
+    "Energy analogue",
+    "can create armor and a vast amount of weapons",
+    "establish psi-links with others",
+    "travel through phone lines",
+    "create holograms."
+  ],
   "image": {},
   "pageviews": 487
 }

@@ -17,7 +17,17 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, speed, stamina, agility, reflexes, durability, healing and longevity<br> Optic blasts Flight",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "stamina",
+    "agility",
+    "reflexes",
+    "durability",
+    "healing and longevity",
+    "Optic blasts",
+    "Flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Avengers166.jpg",
     "width": "250",

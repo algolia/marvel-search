@@ -24,7 +24,16 @@
   "powers": [
     "symbiote"
   ],
-  "powersText": "Superhuman strength, speed, stamina, agility, reflexes/reactions, coordination, balance and endurance<br>Ability to stick to solid surfaces and create a blue symbiote -like protective exoskeleton",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "stamina",
+    "agility",
+    "reflexes/reactions",
+    "coordination",
+    "balance and endurance",
+    "Ability to stick to solid surfaces and create a blue symbiote-like protective exoskeleton"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Spider-Girl_%28Anya%29_1cover.jpg/250px-Spider-Girl_%28Anya%29_1cover.jpg",
     "width": "250",

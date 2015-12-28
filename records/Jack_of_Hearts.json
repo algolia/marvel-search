@@ -16,7 +16,16 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Concussive blasts<br>Flight<br>Ability to survive unaided in space<br>Sensitive brain that senses motion<br>Increased intelligence, strength, durability, and memory",
+  "powersText": [
+    "Concussive blasts",
+    "Flight",
+    "Ability to survive unaided in space",
+    "Sensitive brain that senses motion",
+    "Increased intelligence",
+    "strength",
+    "durability",
+    "and memory"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/9/99/JackofHearts.jpg",
     "width": "182",

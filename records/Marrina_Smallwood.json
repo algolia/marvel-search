@@ -16,7 +16,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Underwater breathing<br>Transformation",
+  "powersText": [
+    "Underwater breathing",
+    "Transformation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Marrina.jpg/200px-Marrina.jpg",
     "width": "200",

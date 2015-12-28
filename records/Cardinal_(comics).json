@@ -15,7 +15,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Powered armor grants:<br>Superhuman strength and physical resistance,<br>Flight,<br>Various offensive weaponry",
+  "powersText": [
+    "Powered armor grants:",
+    "Superhuman strength and physical resistance",
+    "Flight",
+    "Various offensive weaponry"
+  ],
   "image": {},
   "pageviews": 873
 }

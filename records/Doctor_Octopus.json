@@ -22,7 +22,24 @@
     "Genius",
     "Carbonadium"
   ],
-  "powersText": "(As Doctor Octopus):<br>Brilliant engineer and inventor<br>Superb strategist<br>Charismatic leader<br> Genius -level intellect<br>Wears super-strong and durable mechanical appendages<br>Telepathic control over his mechanical arms<br>(As Superior Spider-Man):<br>Possesses Spider-Man's powers, abilities, memories and equipment<br> Carbonadium plating over his neck and skull<br>Talons on his hands and feet<br>Split-toed footwear<br>Slightly different spider-motif on his back<br>Enhanced lenses",
+  "powersText": [
+    "(As Doctor Octopus):",
+    "Brilliant engineer and inventor",
+    "Superb strategist",
+    "Charismatic leader",
+    "Genius-level intellect",
+    "Wears super-strong and durable mechanical appendages",
+    "Telepathic control over his mechanical arms",
+    "(As Superior Spider-Man):",
+    "Possesses Spider-Man's powers",
+    "abilities",
+    "memories and equipment",
+    "Carbonadium plating over his neck and skull",
+    "Talons on his hands and feet",
+    "Split-toed footwear",
+    "Slightly different spider-motif on his back",
+    "Enhanced lenses"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/40px-Crystal_Clear_app_kedit.svg.png",
     "width": "40",

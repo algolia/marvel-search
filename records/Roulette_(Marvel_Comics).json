@@ -15,7 +15,9 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Roulette can create discs of psionic energy which alter the probability field around the victim at whom she throws the disc. Her black energy discs create \"bad luck\" while her red energy discs bestow \"good luck.\"",
+  "powersText": [
+    "Roulette can create discs of psionic energy which alter the probability field around the victim at whom she throws the disc. Her black energy discs create \"bad luck\" while her red energy discs bestow \"good luck.\""
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

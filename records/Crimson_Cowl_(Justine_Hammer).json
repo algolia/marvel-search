@@ -13,7 +13,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Adept athlete and unarmed combatant<br>Shrewd businesswoman and negotiator<br>Wears a prehensile cloak that grants:<br>Flight<br>Shapeshifting<br>Teleportation",
+  "powersText": [
+    "Adept athlete and unarmed combatant",
+    "Shrewd businesswoman and negotiator",
+    "Wears a prehensile cloak that grants:",
+    "Flight",
+    "Shapeshifting",
+    "Teleportation"
+  ],
   "image": {},
   "pageviews": 2742
 }

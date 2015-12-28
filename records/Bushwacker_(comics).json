@@ -11,7 +11,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Trained assassin, hand to hand combatant and infiltrator<br>Familiarity with the workings of international intelligence agencies and their methods<br>Ability to reshape cybernetic arms into various ballistic weapons and a flamethrower",
+  "powersText": [
+    "Trained assassin",
+    "hand to hand combatant and infiltrator",
+    "Familiarity with the workings of international intelligence agencies and their methods",
+    "Ability to reshape cybernetic arms into various ballistic weapons and a flamethrower"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

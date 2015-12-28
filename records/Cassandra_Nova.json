@@ -17,7 +17,21 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Telepathy,<br>Telekinesis,<br>DNA Duplication,<br>Spontaneous cell regeneration,<br>Intangibility,<br>Shapeshifting,<br>Cosmic fire and infernal control,<br>Immunity to magic and mimicry,<br>Premonition,<br>Mind and body exchange,<br>Mind Control,<br>Souls gathering,<br>Dematerialization",
+  "powersText": [
+    "Telepathy",
+    "Telekinesis",
+    "DNA Duplication",
+    "Spontaneous cell regeneration",
+    "Intangibility",
+    "Shapeshifting",
+    "Cosmic fire and infernal control",
+    "Immunity to magic and mimicry",
+    "Premonition",
+    "Mind and body exchange",
+    "Mind Control",
+    "Souls gathering",
+    "Dematerialization"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Newxmen121.jpg/250px-Newxmen121.jpg",
     "width": "250",

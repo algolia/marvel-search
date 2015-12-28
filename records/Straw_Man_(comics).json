@@ -11,7 +11,15 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman Strength <br> Invulnerable, except towards fire<br>Fear inducement<br>Plant manipulation<br>Portal creation<br>Weather manipulation",
+  "powersText": [
+    "Superhuman Strength",
+    "Invulnerable",
+    "except towards fire",
+    "Fear inducement",
+    "Plant manipulation",
+    "Portal creation",
+    "Weather manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/9/96/StrawMan.jpg",
     "width": "201",

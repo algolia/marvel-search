@@ -14,7 +14,16 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Accomplished airplane pilot<br>Elasticity<br>Shapeshifting<br>Intense superhuman water pressure resistance<br>Eternal youth<br>Immunity to all known diseases<br>Advanced knowledge of Kalahian science and technology<br>Ability to become nearly two-dimensional",
+  "powersText": [
+    "Accomplished airplane pilot",
+    "Elasticity",
+    "Shapeshifting",
+    "Intense superhuman water pressure resistance",
+    "Eternal youth",
+    "Immunity to all known diseases",
+    "Advanced knowledge of Kalahian science and technology",
+    "Ability to become nearly two-dimensional"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/MarvelPremeire29.jpg/249px-MarvelPremeire29.jpg",
     "width": "249",

@@ -11,7 +11,17 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Master swordsman and jouster<br>Superhuman strength, speed, stamina, agility, dexterity, reflexes/reactions and resistance to injury<br>Wears mystical body armor<br>Use of mystical sword and shield",
+  "powersText": [
+    "Master swordsman and jouster",
+    "Superhuman strength",
+    "speed",
+    "stamina",
+    "agility",
+    "dexterity",
+    "reflexes/reactions and resistance to injury",
+    "Wears mystical body armor",
+    "Use of mystical sword and shield"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Cruseder.jpg/200px-Cruseder.jpg",
     "width": "200",

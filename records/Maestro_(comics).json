@@ -13,7 +13,16 @@
   "powers": [
     "astral forms"
   ],
-  "powersText": "Unlimited superhuman strength, speed, stamina and durability<br>Genius-level intellect in certain incarnations<br>Regenerative healing factor<br>Radiation absorption<br>Resistance to mind control<br>Ability to see astral forms",
+  "powersText": [
+    "Unlimited superhuman strength",
+    "speed",
+    "stamina and durability",
+    "Genius-level intellect in certain incarnations",
+    "Regenerative healing factor",
+    "Radiation absorption",
+    "Resistance to mind control",
+    "Ability to see astral forms"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/The_Maestro_-_Future_Imperfect_2.jpg/250px-The_Maestro_-_Future_Imperfect_2.jpg",
     "width": "250",

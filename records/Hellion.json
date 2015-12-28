@@ -22,7 +22,9 @@
   "powers": [
     "Telekinesis"
   ],
-  "powersText": "Telekinesis",
+  "powersText": [
+    "Telekinesis"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Hellion.JPG/250px-Hellion.JPG",
     "width": "250",

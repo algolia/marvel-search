@@ -12,7 +12,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "superhuman strength, supersonic flight, survival in deep space, can control light, heat, and other forms of energy",
+  "powersText": [
+    "superhuman strength",
+    "supersonic flight",
+    "survival in deep space",
+    "can control light",
+    "heat",
+    "and other forms of energy"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

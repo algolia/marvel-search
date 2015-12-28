@@ -10,7 +10,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Super-Strength<br>Durability<br>Agility<br>Malleable Body",
+  "powersText": [
+    "Super-Strength",
+    "Durability",
+    "Agility",
+    "Malleable Body"
+  ],
   "image": {},
   "pageviews": 927
 }

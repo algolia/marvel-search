@@ -15,7 +15,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Electropathy<br>Technopathy",
+  "powersText": [
+    "Electropathy",
+    "Technopathy"
+  ],
   "image": {},
   "pageviews": 445
 }

@@ -14,7 +14,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Combat training and extensive knowledge of physics<br /> Via implanted Kree combat suit:<br /> Strength, flight, energy shields and projection, invisibility",
+  "powersText": [
+    "Combat training and extensive knowledge of physics",
+    "Via implanted Kree combat suit:",
+    "Strength",
+    "flight",
+    "energy shields and projection",
+    "invisibility"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Mahr-Vehl.jpg/250px-Mahr-Vehl.jpg",
     "width": "250",

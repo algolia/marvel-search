@@ -20,7 +20,13 @@
     "flight",
     "teleportation"
   ],
-  "powersText": "Density control<br> Microwave energy projection<br> force field generation<br> flight <br> teleportation",
+  "powersText": [
+    "Density control",
+    "Microwave energy projection",
+    "force field generation",
+    "flight",
+    "teleportation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sunturion.jpg/159px-Sunturion.jpg",
     "width": "159",

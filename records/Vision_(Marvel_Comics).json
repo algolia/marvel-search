@@ -34,7 +34,17 @@
     "Solar energy projection",
     "Technopathy"
   ],
-  "powersText": "Superhuman agility intelligence strength and speed Flight Density control Intangibility Shapeshifting Mass manipulation Regeneration Solar energy projection Technopathy",
+  "powersText": [
+    "Superhuman agilityintelligencestrength and speed",
+    "Flight",
+    "Density control",
+    "Intangibility",
+    "Shapeshifting",
+    "Mass manipulation",
+    "Regeneration",
+    "Solar energy projection",
+    "Technopathy"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Avengers_Vol_4_24.1.jpg/250px-Avengers_Vol_4_24.1.jpg",
     "width": "250",

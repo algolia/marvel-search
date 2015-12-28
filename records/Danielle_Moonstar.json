@@ -27,7 +27,20 @@
   "powers": [
     "psionic"
   ],
-  "powersText": "Former Abilities: Limited psionic abilities Empathy Telepathy Illusion creation and control Psionic arrows Psionic bullets Psionic bolts empathic/telepathic link with all kinds of animals  Ability to psionically sense impending death in others Ability to create solid objects out of pure psionic energy Superhuman strength",
+  "powersText": [
+    "Former Abilities:",
+    "Limited psionic abilities",
+    "Empathy",
+    "Telepathy",
+    "Illusion creation and control",
+    "Psionic arrows",
+    "Psionic bullets",
+    "Psionic bolts",
+    "empathic/telepathic link with all kinds of animals",
+    "Ability to psionically sense impending death in others",
+    "Ability to create solid objects out of pure psionic energy",
+    "Superhuman strength"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Moonstar_fearless.jpg/250px-Moonstar_fearless.jpg",
     "width": "250",

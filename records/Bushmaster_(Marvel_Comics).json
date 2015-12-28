@@ -13,7 +13,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "(As Bushmaster):<br>Skilled street fighter<br>Superhuman strength and durability<br>(As Power Master):<br>Energy absorption",
+  "powersText": [
+    "(As Bushmaster):",
+    "Skilled street fighter",
+    "Superhuman strength and durability",
+    "(As Power Master):",
+    "Energy absorption"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/d/d5/Bushmaster_Avengers_vs_XMen.jpg",
     "width": "250",

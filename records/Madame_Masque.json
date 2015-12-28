@@ -16,7 +16,12 @@
     "Hood"
   ],
   "powers": [],
-  "powersText": "Skilled hand to hand combatant<br>Expert markswoman<br>Master strategist and organizer<br>Proficiency with robotics",
+  "powersText": [
+    "Skilled hand to hand combatant",
+    "Expert markswoman",
+    "Master strategist and organizer",
+    "Proficiency with robotics"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Madame_Masque.jpg",
     "width": "250",

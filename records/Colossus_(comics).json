@@ -22,7 +22,14 @@
   "powers": [
     "steel"
   ],
-  "powersText": "Trained acrobat and swordsman<br>Ability to transform his body into \"organic steel \" granting him superhuman strength, stamina and durability<br>(As Juggernaut):<br>Additional superhuman strength and resistance to injury<br>Unstoppable momentum",
+  "powersText": [
+    "Trained acrobat and swordsman",
+    "Ability to transform his body into \"organic steel\" granting him superhuman strength",
+    "stamina and durability",
+    "(As Juggernaut):",
+    "Additional superhuman strength and resistance to injury",
+    "Unstoppable momentum"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

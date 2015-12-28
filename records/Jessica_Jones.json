@@ -23,7 +23,11 @@
     "endurance",
     "Flight"
   ],
-  "powersText": "Superhuman strength and endurance Flight Psionic protection",
+  "powersText": [
+    "Superhuman strength and  endurance",
+    "Flight",
+    "Psionic protection"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Pulse14.jpg/250px-Pulse14.jpg",
     "width": "250",

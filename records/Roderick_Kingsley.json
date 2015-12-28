@@ -16,7 +16,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Master of hypnosis and drug induced mind control<br>Highly skilled business and criminal organizer<br>Talented fashion designer<br>Superhuman physical attributes and intelligence<br>Use of goblin-theme weapons and paraphernalia",
+  "powersText": [
+    "Master of hypnosis and drug induced mind control",
+    "Highly skilled business and criminal organizer",
+    "Talented fashion designer",
+    "Superhuman physical attributes and intelligence",
+    "Use of goblin-theme weapons and paraphernalia"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

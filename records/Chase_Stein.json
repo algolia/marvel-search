@@ -17,7 +17,11 @@
     "mechanic",
     "Deinonychus"
   ],
-  "powersText": "Skilled pilot and mechanic <br>Telepathic link to a genetically-engineered Deinonychus <br>Energy-conjuring gauntlets and boots",
+  "powersText": [
+    "Skilled pilot and mechanic",
+    "Telepathic link to a genetically-engineered Deinonychus",
+    "Energy-conjuring gauntlets and boots"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/RUNAWAYV3008_COV.jpg/250px-RUNAWAYV3008_COV.jpg",
     "width": "250",

@@ -13,7 +13,14 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, stamina and durability<br>Gifted intellect<br>Advanced knowledge of genetics<br>Psionic powers<br>Self-recreation",
+  "powersText": [
+    "Superhuman strength",
+    "stamina and durability",
+    "Gifted intellect",
+    "Advanced knowledge of genetics",
+    "Psionic powers",
+    "Self-recreation"
+  ],
   "image": {},
   "pageviews": 2247
 }

@@ -18,7 +18,15 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Portal generation <br> Hellfire projection <br> Immunity to age, disease, and injuries <br> Ability to command lesser demons <br> Illusion creation and manipulation",
+  "powersText": [
+    "Portal generation",
+    "Hellfire projection",
+    "Immunity to age",
+    "disease",
+    "and injuries",
+    "Ability to command lesser demons",
+    "Illusion creation and manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Olivierpun1.jpg/250px-Olivierpun1.jpg",
     "width": "250",

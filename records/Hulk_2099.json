@@ -17,7 +17,15 @@
   "powers": [
     "healing factor"
   ],
-  "powersText": "Superhuman strength, speed, stamina, durability and leaping<br>Near invulnerability<br>Accelerated healing factor <br>Razor sharp claws and fangs",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "stamina",
+    "durability and leaping",
+    "Near invulnerability",
+    "Accelerated healing factor",
+    "Razor sharp claws and fangs"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Hulk2099.jpg/250px-Hulk2099.jpg",
     "width": "250",

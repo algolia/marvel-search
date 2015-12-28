@@ -16,7 +16,15 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, speed, agility, stamina, and durability<br>Extended lifespan<br>Master swordsman",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "stamina",
+    "and durability",
+    "Extended lifespan",
+    "Master swordsman"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg",
     "width": "250",

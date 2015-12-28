@@ -14,7 +14,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman radar senses<br>Echolocation<br>Formidable martial artist<br>Immortality",
+  "powersText": [
+    "Superhuman radar senses",
+    "Echolocation",
+    "Formidable martial artist",
+    "Immortality"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/3/3e/Master_Izo.jpg",
     "width": "250",

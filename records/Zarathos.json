@@ -22,7 +22,12 @@
     "Healing factor",
     "Elemental"
   ],
-  "powersText": "Virtual immortality <br> Superhuman strength <br> Healing factor <br> Elemental powers",
+  "powersText": [
+    "Virtual immortality",
+    "Superhuman strength",
+    "Healing factor",
+    "Elemental powers"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/52_1_b-1-.jpg/240px-52_1_b-1-.jpg",
     "width": "240",

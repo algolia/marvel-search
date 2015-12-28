@@ -13,7 +13,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Ability to absorb kinetic energy<br>Mass manipulation",
+  "powersText": [
+    "Ability to absorb kinetic energy",
+    "Mass manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Growing_Man_on_the_cover_of_Thor.jpg/250px-Growing_Man_on_the_cover_of_Thor.jpg",
     "width": "250",

@@ -14,7 +14,20 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Genius engineer and physicist<br>Vast superhuman strength<br>Superhuman speed, stamina, reflexes and senses<br>Flight<br>Energy generation<br>Molecular manipulation<br>Enhanced mental perception<br>Nigh-invulnerability and durability<br>Regenerative healing factor<br>Light creation",
+  "powersText": [
+    "Genius engineer and physicist",
+    "Vast superhuman strength",
+    "Superhuman speed",
+    "stamina",
+    "reflexes and senses",
+    "Flight",
+    "Energy generation",
+    "Molecular manipulation",
+    "Enhanced mental perception",
+    "Nigh-invulnerability and durability",
+    "Regenerative healing factor",
+    "Light creation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg/250px-Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg",
     "width": "250",

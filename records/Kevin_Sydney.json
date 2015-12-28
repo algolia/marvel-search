@@ -20,7 +20,15 @@
     "Telepathy",
     "Levitation"
   ],
-  "powersText": "Shapeshifting <br> Telepathy <br> Levitation <br>Skilled actor<br>Highly trained and efficient organizer<br>Good prankster<br>Expert computer engineer",
+  "powersText": [
+    "Shapeshifting",
+    "Telepathy",
+    "Levitation",
+    "Skilled actor",
+    "Highly trained and efficient organizer",
+    "Good prankster",
+    "Expert computer engineer"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

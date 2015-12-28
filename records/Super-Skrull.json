@@ -16,7 +16,20 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superb impersonator<br>Excellent tactician and hand to hand combatant<br>Competent pilot<br>Superhuman strength, stamina and durability<br>Elasticity<br>Pyrokinesis<br>Flight<br>Invisibility<br>Force field generation<br>Shapeshifting<br>Hypnosis",
+  "powersText": [
+    "Superb impersonator",
+    "Excellent tactician and hand to hand combatant",
+    "Competent pilot",
+    "Superhuman strength",
+    "stamina and durability",
+    "Elasticity",
+    "Pyrokinesis",
+    "Flight",
+    "Invisibility",
+    "Force field generation",
+    "Shapeshifting",
+    "Hypnosis"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Annihilation004_SKRULL_scaled_800.png",
     "width": "250",

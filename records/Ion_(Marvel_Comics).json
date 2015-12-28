@@ -16,7 +16,11 @@
     "electromagnetic",
     "flight"
   ],
-  "powersText": "Body composed of living ionized gas, can manipulate electromagnetic energy, flight",
+  "powersText": [
+    "Body composed of living ionized gas",
+    "can manipulate electromagnetic energy",
+    "flight"
+  ],
   "image": {},
   "pageviews": 659
 }

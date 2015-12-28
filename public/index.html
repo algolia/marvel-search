@@ -65,16 +65,17 @@
         <div class="hit--aliases">A.K.A: {{{_highlightResult.aliases.value}}}</div>
         {{/aliases}}
 
-        <dl class="hit--dl dl-horizontal">
-          {{#creators}}
-          <dt>Creators</dt>
-          <dd>{{creators}}</dd>
-          {{/creators}}
+        {{#species}}
+        <div class="hit--species">Race: {{species}}</div>
+        {{/species}}
 
-          {{#teams}}
-          <dt>Teams</dt>
-          <dd>{{teams}}</dd>
-          {{/teams}}
+        {{#creators}}
+        <div class="hit--creators">Authors: {{creators}}</div>
+        {{/creators}}
+
+        <dl class="hit--dl dl-horizontal">
+          <dt>Powers</dt>
+          <dd>{{{powersText}}}</dd>
         </dl>
       </div>
     </article>
@@ -82,21 +83,6 @@
   <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
   <script src="https://cdn.jsdelivr.net/jquery/1.11.3/jquery.min.js"></script>
   <script src="search.js"></script>
-
-
-
-  <!-- "species": [ -->
-  <!--   "Human Mutate" -->
-  <!-- ], -->
-  <!-- "partners": [], -->
-  <!-- "powers": [], -->
-  <!-- "powersText": "Skilled manipulator<br>High-level intellect<br>Mind control<br>Regenerative healing factor", -->
-  <!-- "image": { -->
-  <!--   "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Purple_Man.jpg/250px-Purple_Man.jpg", -->
-  <!--   "width": "250", -->
-  <!--   "height": "375" -->
-  <!-- }, -->
-  <!-- "pageviews": 740365 -->
 </body>
 </html>
 

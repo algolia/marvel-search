@@ -22,7 +22,10 @@
   "powers": [
     "vibranium"
   ],
-  "powersText": "Skilled street fighter and unarmed combatant<br>Wears cybernetic coils made of vibranium",
+  "powersText": [
+    "Skilled street fighter and unarmed combatant",
+    "Wears cybernetic coils made of vibranium"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Constrictor1.jpg/250px-Constrictor1.jpg",
     "width": "250",

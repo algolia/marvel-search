@@ -23,7 +23,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Optic force blasts Spatial awareness",
+  "powersText": [
+    "Optic force blasts",
+    "Spatial awareness"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Books-aj.svg_aj_ashton_01.svg/50px-Books-aj.svg_aj_ashton_01.svg.png",
     "width": "50",

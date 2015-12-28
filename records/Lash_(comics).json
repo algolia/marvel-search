@@ -15,7 +15,12 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Energy conversion<br>Energy manipulation<br>Energy absorption<br>Energy shield",
+  "powersText": [
+    "Energy conversion",
+    "Energy manipulation",
+    "Energy absorption",
+    "Energy shield"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Lash_Marvel_Comics.png/250px-Lash_Marvel_Comics.png",
     "width": "250",

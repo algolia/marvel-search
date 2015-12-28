@@ -14,7 +14,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Ability to restructure techno-organic frame to various shapes,<br>Ability to communicate and interface with technology,<br>Ability to control the minds of people that are covered with techno-matter",
+  "powersText": [
+    "Ability to restructure techno-organic frame to various shapes",
+    "Ability to communicate and interface with technology",
+    "Ability to control the minds of people that are covered with techno-matter"
+  ],
   "image": {},
   "pageviews": 535
 }

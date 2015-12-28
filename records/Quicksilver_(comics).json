@@ -22,7 +22,15 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman speed and reflexes Enhanced strength and agility Increased stamina Fast metabolism Superhuman cognitive speed Vibration induction Cyclone and highwind generation",
+  "powersText": [
+    "Superhuman speed and reflexes",
+    "Enhanced strength and agility",
+    "Increased stamina",
+    "Fast metabolism",
+    "Superhuman cognitive speed",
+    "Vibration induction",
+    "Cyclone and highwind generation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Quicksilver%21.jpg/250px-Quicksilver%21.jpg",
     "width": "250",

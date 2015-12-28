@@ -13,7 +13,15 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Uriel: Flight, Energy Razors, Chronokinesis<br>Eimin: Flight, Acid Generation, Chronokinetic Augmentation, Time-Space Synesthesia",
+  "powersText": [
+    "Uriel: Flight",
+    "Energy Razors",
+    "Chronokinesis",
+    "Eimin: Flight",
+    "Acid Generation",
+    "Chronokinetic Augmentation",
+    "Time-Space Synesthesia"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

@@ -16,7 +16,18 @@
     "Reincarnation",
     "Teleportation"
   ],
-  "powersText": "Superhuman strength, stamina, and durability<br> Black magic <br> Telepathy <br>Life expansion<br> Reincarnation <br> Teleportation <br>Deadly touch (Hand of Glory)<br> High level mystical powers.",
+  "powersText": [
+    "Superhuman strength",
+    "stamina",
+    "and durability",
+    "Black magic",
+    "Telepathy",
+    "Life expansion",
+    "Reincarnation",
+    "Teleportation",
+    "Deadly touch (Hand of Glory)",
+    "High level mystical powers."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Cover_of_Thor-150.jpg/250px-Cover_of_Thor-150.jpg",
     "width": "250",

@@ -15,7 +15,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Water manipulation",
+  "powersText": [
+    "Water manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/GhostRider-23.jpg",
     "width": "270",

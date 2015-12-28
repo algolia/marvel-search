@@ -13,7 +13,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, speed and reflexes<br>Enhanced resistance to injury",
+  "powersText": [
+    "Superhuman strength",
+    "speed and reflexes",
+    "Enhanced resistance to injury"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/b/b1/Temujin.jpg",
     "width": "250",

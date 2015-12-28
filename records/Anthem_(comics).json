@@ -13,7 +13,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Blast Power  Electricity Control  Flight",
+  "powersText": [
+    "Blast Power",
+    "Electricity Control",
+    "Flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Anthem_%28comics%29.jpg/250px-Anthem_%28comics%29.jpg",
     "width": "250",

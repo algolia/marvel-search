@@ -15,7 +15,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Acceleration/Flight<br>Healing powers<br>Formerly:<br>Density and size manipulation<br>Teleportation",
+  "powersText": [
+    "Acceleration/Flight",
+    "Healing powers",
+    "Formerly:",
+    "Density and size manipulation",
+    "Teleportation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/LightSpeedJulie.JPG/160px-LightSpeedJulie.JPG",
     "width": "160",

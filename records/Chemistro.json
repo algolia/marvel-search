@@ -13,7 +13,15 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Gifted research scientist<br>Highly skilled inventor<br>Wields alchemy gun and a \"nullifier\" rifle<br>Ability to transmute substances through contact with his left hand<br>(As High-Tech):<br>Wears armored exoskeleton suit<br>Use of various devices",
+  "powersText": [
+    "Gifted research scientist",
+    "Highly skilled inventor",
+    "Wields alchemy gun and a \"nullifier\" rifle",
+    "Ability to transmute substances through contact with his left hand",
+    "(As High-Tech):",
+    "Wears armored exoskeleton suit",
+    "Use of various devices"
+  ],
   "image": {},
   "pageviews": 2380
 }

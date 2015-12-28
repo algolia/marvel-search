@@ -15,7 +15,15 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Excellent street fighter<br>Highly skilled marksman<br>Superhuman strength, speed, stamina and reflexes<br>High-level resistance to injury<br>Razor sharp teeth",
+  "powersText": [
+    "Excellent street fighter",
+    "Highly skilled marksman",
+    "Superhuman strength",
+    "speed",
+    "stamina and reflexes",
+    "High-level resistance to injury",
+    "Razor sharp teeth"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

@@ -17,7 +17,16 @@
     "Serpent Crown",
     "mind control"
   ],
-  "powersText": "Fully amphibious physiognomy and suited for high water pressure, super strength, high-speed swimming. With the Serpent Crown mind control , ability to project bolts of mystical energy, teleportation, matter transformation abilities, further increased strength levels, immortality.",
+  "powersText": [
+    "Fully amphibious physiognomy and suited for high water pressure",
+    "super strength",
+    "high-speed swimming. With the Serpent Crownmind control",
+    "ability to project bolts of mystical energy",
+    "teleportation",
+    "matter transformation abilities",
+    "further increased strength levels",
+    "immortality."
+  ],
   "image": {},
   "pageviews": 1053
 }

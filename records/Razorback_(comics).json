@@ -16,7 +16,18 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Skilled mechanic<br>Self-taught engineer<br>Excellent street fighter<br>Considerable strength and endurance<br>Costume grants:<br>Electrically charged mane<br>Formerly:<br>Innate ability to operate, pilot, and drive any vehicle",
+  "powersText": [
+    "Skilled mechanic",
+    "Self-taught engineer",
+    "Excellent street fighter",
+    "Considerable strength and endurance",
+    "Costume grants:",
+    "Electrically charged mane",
+    "Formerly:",
+    "Innate ability to operate",
+    "pilot",
+    "and drive any vehicle"
+  ],
   "image": {},
   "pageviews": 899
 }

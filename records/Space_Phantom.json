@@ -10,7 +10,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Shapeshifting<br>Knowledge of sophisticated alien technology<br>Advanced knowledge of time and time travel",
+  "powersText": [
+    "Shapeshifting",
+    "Knowledge of sophisticated alien technology",
+    "Advanced knowledge of time and time travel"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png",
     "width": "20",

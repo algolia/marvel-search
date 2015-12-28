@@ -20,7 +20,16 @@
     "Batroc"
   ],
   "powers": [],
-  "powersText": "As Calvin Zabo:<br>Brilliant medical researcher<br>Genius-level intellect<br>Extensive knowledge of biochemistry<br>As Mr. Hyde:<br>Superhuman strength, stamina, durability and resistance to injury",
+  "powersText": [
+    "As Calvin Zabo:",
+    "Brilliant medical researcher",
+    "Genius-level intellect",
+    "Extensive knowledge of biochemistry",
+    "As Mr. Hyde:",
+    "Superhuman strength",
+    "stamina",
+    "durability and resistance to injury"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/MisterHyde.png/250px-MisterHyde.png",
     "width": "250",

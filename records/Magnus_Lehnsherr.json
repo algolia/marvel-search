@@ -13,7 +13,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Electromagnetic manipulation,<br>Force field generation,<br>Energy blasts,<br>Flight,<br>Ability to turn living beings to metal",
+  "powersText": [
+    "Electromagnetic manipulation",
+    "Force field generation",
+    "Energy blasts",
+    "Flight",
+    "Ability to turn living beings to metal"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

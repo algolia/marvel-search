@@ -13,7 +13,13 @@
     "Ka-Zar"
   ],
   "powers": [],
-  "powersText": "Well-trained veterinarian<br>Olympic-level athlete<br>Experienced hand to hand combatant<br>Peak-level strength<br>Extraordinary agility",
+  "powersText": [
+    "Well-trained veterinarian",
+    "Olympic-level athlete",
+    "Experienced hand to hand combatant",
+    "Peak-level strength",
+    "Extraordinary agility"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Shanna1.jpg/250px-Shanna1.jpg",
     "width": "250",

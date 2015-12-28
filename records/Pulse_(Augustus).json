@@ -16,7 +16,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Ability to disable superpowers, electronic systems, and telepathic intrusions",
+  "powersText": [
+    "Ability to disable superpowers",
+    "electronic systems",
+    "and telepathic intrusions"
+  ],
   "image": {},
   "pageviews": 477
 }

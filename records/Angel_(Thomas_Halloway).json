@@ -14,7 +14,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Excellent acrobat and hand to hand combatant<br>Accomplished disguise artist, occult scholar and pilot<br>Skilled detective<br>Flight via mystic cape<br>Use of knives and other weapons",
+  "powersText": [
+    "Excellent acrobat and hand to hand combatant",
+    "Accomplished disguise artist",
+    "occult scholar and pilot",
+    "Skilled detective",
+    "Flight via mystic cape",
+    "Use of knives and other weapons"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Angel_golden_age.jpg/210px-Angel_golden_age.jpg",
     "width": "210",

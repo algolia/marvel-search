@@ -13,7 +13,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Scientific genius",
+  "powersText": [
+    "Scientific genius"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Dr._demonicus.jpg/249px-Dr._demonicus.jpg",
     "width": "249",

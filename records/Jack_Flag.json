@@ -15,7 +15,11 @@
     "Captain America"
   ],
   "powers": [],
-  "powersText": "Superhuman strength, speed, stamina",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "stamina"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Jackflag.PNG/250px-Jackflag.PNG",
     "width": "250",

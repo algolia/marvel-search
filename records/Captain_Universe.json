@@ -17,7 +17,18 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, speed, stamina, agility, durability, power enhancement and senses<br>Energy blasts<br>Flight<br>Telekinesis<br>Time Travel",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "stamina",
+    "agility",
+    "durability",
+    "power enhancement and senses",
+    "Energy blasts",
+    "Flight",
+    "Telekinesis",
+    "Time Travel"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/40px-Crystal_Clear_app_kedit.svg.png",
     "width": "40",

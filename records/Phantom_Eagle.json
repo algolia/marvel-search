@@ -13,7 +13,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "None: Ace World War I pilot<br>Good hand to hand combatant",
+  "powersText": [
+    "None: Ace World War I pilot",
+    "Good hand to hand combatant"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/WowComics6.jpg/220px-WowComics6.jpg",
     "width": "220",

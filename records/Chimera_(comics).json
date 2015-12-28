@@ -19,7 +19,10 @@
     "Emplate"
   ],
   "powers": [],
-  "powersText": "Generate telekinetic dragon-shaped flares<br>Telepathy",
+  "powersText": [
+    "Generate telekinetic dragon-shaped flares",
+    "Telepathy"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/ChimeraX-Men.jpg/250px-ChimeraX-Men.jpg",
     "width": "250",

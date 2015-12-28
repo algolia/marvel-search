@@ -23,7 +23,10 @@
     "telepathy",
     "telekinesis"
   ],
-  "powersText": "Omega level psionic powers including telepathy and telekinesis <br> Superhuman intellect",
+  "powersText": [
+    "Omega levelpsionic powers including telepathy and telekinesis",
+    "Superhuman intellect"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/QuentinQuire.jpg/150px-QuentinQuire.jpg",
     "width": "150",

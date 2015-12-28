@@ -17,7 +17,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman physical ability<br>Hyperinstinct",
+  "powersText": [
+    "Superhuman physical ability",
+    "Hyperinstinct"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/4/4a/XMEN-Primal.jpg",
     "width": "250",

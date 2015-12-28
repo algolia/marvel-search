@@ -13,7 +13,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Energy flail, super strength",
+  "powersText": [
+    "Energy flail",
+    "super strength"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Northstar_%26_hector.jpg/200px-Northstar_%26_hector.jpg",
     "width": "200",

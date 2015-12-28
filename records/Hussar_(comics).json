@@ -13,7 +13,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "wields a neuro-whip",
+  "powersText": [
+    "wields a neuro-whip"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/1/12/Hussarwiki.jpg",
     "width": "222",

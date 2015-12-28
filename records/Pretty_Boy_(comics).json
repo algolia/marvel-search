@@ -13,7 +13,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Cybernetic body,<br>Robotic weaponry.",
+  "powersText": [
+    "Cybernetic body",
+    "Robotic weaponry."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/8/84/PrettyBoyReavers.jpg",
     "width": "138",

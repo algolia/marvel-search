@@ -15,7 +15,12 @@
     "Solomon O'Sullivan"
   ],
   "powers": [],
-  "powersText": "bat-like wings, flight, razor-sharp claws protruding from her fingertips, enhanced strength.",
+  "powersText": [
+    "bat-like wings",
+    "flight",
+    "razor-sharp claws protruding from her fingertips",
+    "enhanced strength."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

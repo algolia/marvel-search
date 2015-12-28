@@ -15,7 +15,17 @@
     "Presence"
   ],
   "powers": [],
-  "powersText": "Highly skilled athlete<br>Skilled neurosurgeon<br>Gifted intellect<br>Superhuman strength, stamina and durability<br>Supersonic flight via nuclear energy generation<br>Radiation projection<br>As Red Guardian:<br>Use of \"belt-buckle\" disc",
+  "powersText": [
+    "Highly skilled athlete",
+    "Skilled neurosurgeon",
+    "Gifted intellect",
+    "Superhuman strength",
+    "stamina and durability",
+    "Supersonic flight via nuclear energy generation",
+    "Radiation projection",
+    "As Red Guardian:",
+    "Use of \"belt-buckle\" disc"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Starlight1.jpg/153px-Starlight1.jpg",
     "width": "153",

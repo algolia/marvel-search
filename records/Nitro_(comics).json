@@ -14,7 +14,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Immense self-detonation, after which he exists as a diffused gaseous form<br>Ability to reform at will",
+  "powersText": [
+    "Immense self-detonation",
+    "after which he exists as a diffused gaseous form",
+    "Ability to reform at will"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Cm34.jpg/250px-Cm34.jpg",
     "width": "250",

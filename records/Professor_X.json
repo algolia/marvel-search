@@ -28,7 +28,17 @@
     "Hypnosis",
     "Astral projection"
   ],
-  "powersText": "Genius-level intellect Telepathy Empathy Hypnosis Mind reading and control  Memory alteration and erasure  Psionic blasts  Illusion casting Astral projection",
+  "powersText": [
+    "Genius-level intellect",
+    "Telepathy",
+    "Empathy",
+    "Hypnosis",
+    "Mind reading and control",
+    "Memory alteration and erasure",
+    "Psionic blasts",
+    "Illusion casting",
+    "Astral projection"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/40px-Crystal_Clear_app_kedit.svg.png",
     "width": "40",

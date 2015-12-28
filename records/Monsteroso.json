@@ -11,7 +11,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "superhuman strength, endurance and durability",
+  "powersText": [
+    "superhuman strength",
+    "endurance and durability"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Amazing_Adventures_5.png/200px-Amazing_Adventures_5.png",
     "width": "200",

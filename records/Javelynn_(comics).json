@@ -13,7 +13,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "-Deadly accuracy in use of miniature javelins<br/>-Excellent athlete and gymnast<br/>-Hand-to-hand combat skills",
+  "powersText": [
+    "-Deadly accuracy in use of miniature javelins",
+    "-Excellent athlete and gymnast",
+    "-Hand-to-hand combat skills"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Javelynn.jpg/100px-Javelynn.jpg",
     "width": "100",

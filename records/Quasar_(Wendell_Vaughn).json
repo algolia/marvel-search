@@ -18,7 +18,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Energy manipulation.<br>Teleportation.<br />Solid light constructs.<br>Flight",
+  "powersText": [
+    "Energy manipulation.",
+    "Teleportation.",
+    "Solid light constructs.",
+    "Flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Annihilation_Nova_3_art.jpg/250px-Annihilation_Nova_3_art.jpg",
     "width": "250",

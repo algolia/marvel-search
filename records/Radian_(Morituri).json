@@ -13,7 +13,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Radiation blasts <br> Enhanced strength",
+  "powersText": [
+    "Radiation blasts",
+    "Enhanced strength"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Radian_Morituri.bmp/250px-Radian_Morituri.bmp.png",
     "width": "250",

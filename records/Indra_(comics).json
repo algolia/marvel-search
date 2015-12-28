@@ -18,7 +18,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Retractable armored plates<br>Psionic matter manifestation",
+  "powersText": [
+    "Retractable armored plates",
+    "Psionic matter manifestation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

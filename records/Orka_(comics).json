@@ -20,7 +20,16 @@
     "Virago"
   ],
   "powers": [],
-  "powersText": "Superhuman strength, speed, agility, stamina and durability<br>Superhuman swimming speed<br>Ability to communicate with and summon killer whales via high-pitched whistles<br>Formerly:<br>Land adaptation via belt",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "stamina and durability",
+    "Superhuman swimming speed",
+    "Ability to communicate with and summon killer whales via high-pitched whistles",
+    "Formerly:",
+    "Land adaptation via belt"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Sub-mariner23.jpg/250px-Sub-mariner23.jpg",
     "width": "250",

@@ -15,7 +15,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Self-taught hand to hand combatant<br>Superhuman speed and reflexes",
+  "powersText": [
+    "Self-taught hand to hand combatant",
+    "Superhuman speed and reflexes"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/TheWhizzer.jpg/230px-TheWhizzer.jpg",
     "width": "230",

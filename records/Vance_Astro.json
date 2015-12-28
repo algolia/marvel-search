@@ -20,7 +20,17 @@
   "powers": [
     "Psychokinesis"
   ],
-  "powersText": "Psychokinesis <br>Above average athlete<br>Excellent astronaut, starship pilot, and hand to hand combatant<br>Superb leader and strategist<br>Formerly:<br>Use of indestructible shield<br>Wears copper alloy bodysuit",
+  "powersText": [
+    "Psychokinesis",
+    "Above average athlete",
+    "Excellent astronaut",
+    "starship pilot",
+    "and hand to hand combatant",
+    "Superb leader and strategist",
+    "Formerly:",
+    "Use of indestructible shield",
+    "Wears copper alloy bodysuit"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Vanceastro.jpg/250px-Vanceastro.jpg",
     "width": "250",

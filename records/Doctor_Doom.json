@@ -21,7 +21,18 @@
   "powers": [
     "Armor"
   ],
-  "powersText": "Genius-level intellect<br>Skilled scientist and sorcerer<br>Skilled hand to hand combatant<br>Mind transferal<br> Armor grants: Superhuman strength and durability Gauntlet scanners Force blasts Rocket boots for flight Force field generation",
+  "powersText": [
+    "Genius-level intellect",
+    "Skilled scientist and sorcerer",
+    "Skilled hand to hand combatant",
+    "Mind transferal",
+    "Armor grants:",
+    "Superhuman strength and durability",
+    "Gauntlet scanners",
+    "Force blasts",
+    "Rocket boots for flight",
+    "Force field generation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Ff247.png/250px-Ff247.png",
     "width": "250",

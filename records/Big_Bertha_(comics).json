@@ -14,7 +14,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Skilled aircraft pilot<br>Superhuman strength and durability<br>Ability to alter size and mass of her body and leap great distances",
+  "powersText": [
+    "Skilled aircraft pilot",
+    "Superhuman strength and durability",
+    "Ability to alter size and mass of her body and leap great distances"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Big_Bertha_from_GLA_1_June_2005.jpg/230px-Big_Bertha_from_GLA_1_June_2005.jpg",
     "width": "230",

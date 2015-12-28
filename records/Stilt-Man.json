@@ -12,7 +12,15 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Competent engineer and inventor<br>Moderately talented disguise artist<br>Possesses arsenal of weapons and devices<br>Armored suit grants:<br>Superhuman strength<br>Telescopic legs<br>Silicon coating against adhesives and spider webs",
+  "powersText": [
+    "Competent engineer and inventor",
+    "Moderately talented disguise artist",
+    "Possesses arsenal of weapons and devices",
+    "Armored suit grants:",
+    "Superhuman strength",
+    "Telescopic legs",
+    "Silicon coating against adhesives and spider webs"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

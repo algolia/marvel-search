@@ -13,7 +13,14 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Armored suit grants:<br>Superhuman strength and durability<br>Flight via boot jets<br>Hand-blasters<br>Small missiles on the back shoulder area<br>Computer and radio transmitter and receiver",
+  "powersText": [
+    "Armored suit grants:",
+    "Superhuman strength and durability",
+    "Flight via boot jets",
+    "Hand-blasters",
+    "Small missiles on the back shoulder area",
+    "Computer and radio transmitter and receiver"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/9/97/Crimson_Dynamo_Armor_MK_I.jpg",
     "width": "244",

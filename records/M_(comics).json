@@ -21,7 +21,24 @@
   "powers": [
     "healing factor"
   ],
-  "powersText": "Superhuman strength, speed, agility, dexterity, reflexes, coordination, balance, vision, hearing, and endurance<br>Genius level intellect<br>Accelerated healing factor <br>Supersonic Flight<br>Telekinesis<br>Telepathy<br>Ability to perceive mutant auras",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "dexterity",
+    "reflexes",
+    "coordination",
+    "balance",
+    "vision",
+    "hearing",
+    "and endurance",
+    "Genius level intellect",
+    "Accelerated healing factor",
+    "Supersonic Flight",
+    "Telekinesis",
+    "Telepathy",
+    "Ability to perceive mutant auras"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/Monet_Yvette_M.png",
     "width": "280",

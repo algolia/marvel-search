@@ -13,7 +13,16 @@
     "necromancy",
     "energy vampire"
   ],
-  "powersText": "vast ability to manipulate magic (energy projection, astral projection, necromancy , teleportation, etc.), energy vampire , immortal, shape-shifting.",
+  "powersText": [
+    "vast ability to manipulate magic (energy projection",
+    "astral projection",
+    "necromancy",
+    "teleportation",
+    "etc.)",
+    "energy vampire",
+    "immortal",
+    "shape-shifting."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

@@ -10,7 +10,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Photographic reflexes<br>Eidetic memory",
+  "powersText": [
+    "Photographic reflexes",
+    "Eidetic memory"
+  ],
   "image": {},
   "pageviews": 1566
 }

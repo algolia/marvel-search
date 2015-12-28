@@ -18,7 +18,10 @@
     "Telekinesis",
     "Telepathy"
   ],
-  "powersText": "Telekinesis <br> low-level Telepathy",
+  "powersText": [
+    "Telekinesis",
+    "low-level Telepathy"
+  ],
   "image": {},
   "pageviews": 478
 }

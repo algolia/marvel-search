@@ -25,7 +25,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Telepathic hive-like super-mind, telekinesis, flawless diamond form impervious to destruction or emotion.",
+  "powersText": [
+    "Telepathic hive-like super-mind",
+    "telekinesis",
+    "flawless diamond form impervious to destruction or emotion."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Main_three-in-one.jpg/300px-Main_three-in-one.jpg",
     "width": "300",

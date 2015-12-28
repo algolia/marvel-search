@@ -13,7 +13,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "No superhuman powers, body-armor, jet-boots, repulsor gun",
+  "powersText": [
+    "No superhuman powers",
+    "body-armor",
+    "jet-boots",
+    "repulsor gun"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Sentry2.jpg/250px-Sentry2.jpg",
     "width": "250",

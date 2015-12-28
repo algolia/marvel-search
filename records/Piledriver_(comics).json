@@ -14,7 +14,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, durability and endurance<br>Oversized hands",
+  "powersText": [
+    "Superhuman strength",
+    "durability and endurance",
+    "Oversized hands"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/BrianCaluskyPiledriver.png/250px-BrianCaluskyPiledriver.png",
     "width": "250",

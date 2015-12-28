@@ -34,7 +34,14 @@
     "Psychic",
     "katana"
   ],
-  "powersText": "Telekinesis <br> Telepathy <br> Precognition <br> Empathy <br> Psychic katana and knife<br>Martial arts",
+  "powersText": [
+    "Telekinesis",
+    "Telepathy",
+    "Precognition",
+    "Empathy",
+    "Psychickatana and knife",
+    "Martial arts"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Uncanny_Psylocke.jpg/250px-Uncanny_Psylocke.jpg",
     "width": "250",

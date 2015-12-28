@@ -15,7 +15,17 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Original Body: <br />Superhuman strength and stamina <br />Adamantium skin <br />Retractable claws tipped with powerful hallucinogens or poisons <br />Psionic ability to track individual brain patterns <br />Current Body: <br />Superhuman strength <br />Adamantium skin and retractable claws <br />Psionic ability to track individual brain patterns",
+  "powersText": [
+    "Original Body:",
+    "Superhuman strength and stamina",
+    "Adamantium skin",
+    "Retractable claws tipped with powerful hallucinogens or poisons",
+    "Psionic ability to track individual brain patterns",
+    "Current Body:",
+    "Superhuman strength",
+    "Adamantium skin and retractable claws",
+    "Psionic ability to track individual brain patterns"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Wolverine15.jpg/250px-Wolverine15.jpg",
     "width": "250",

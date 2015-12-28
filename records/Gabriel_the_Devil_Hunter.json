@@ -13,7 +13,10 @@
   "powers": [
     "exorcism"
   ],
-  "powersText": "Magic user, limited to exorcism",
+  "powersText": [
+    "Magic user",
+    "limited to exorcism"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Gabriel_the_Devil_Hunter.png/175px-Gabriel_the_Devil_Hunter.png",
     "width": "175",

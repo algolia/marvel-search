@@ -13,7 +13,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Genius chemical engineer<br>Organic-liquid metal alloy grants:<br>Superhuman strength, durability and endurance<br>Radiation projection<br>Heat generation",
+  "powersText": [
+    "Genius chemical engineer",
+    "Organic-liquid metal alloy grants:",
+    "Superhuman strength",
+    "durability and endurance",
+    "Radiation projection",
+    "Heat generation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Moltenman.jpg/250px-Moltenman.jpg",
     "width": "250",

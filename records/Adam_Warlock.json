@@ -15,7 +15,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength; stamina; agility; endurance; flight;<br>Energy manipulation",
+  "powersText": [
+    "Superhuman strength",
+    "stamina",
+    "agility",
+    "endurance",
+    "flight",
+    "Energy manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Warlock_9.jpg/250px-Warlock_9.jpg",
     "width": "250",

@@ -14,7 +14,20 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Use of T-Ray gun<br>Exoskeleton costume grants:<br>Enhanced strength<br>Flight via artificial wings<br>(Briefly):<br>Superhuman strength<br>Enhanced speed, agility, stamina, durability and reflexes<br>Flight via natural wings<br>Hollowed bones",
+  "powersText": [
+    "Use of T-Ray gun",
+    "Exoskeleton costume grants:",
+    "Enhanced strength",
+    "Flight via artificial wings",
+    "(Briefly):",
+    "Superhuman strength",
+    "Enhanced speed",
+    "agility",
+    "stamina",
+    "durability and reflexes",
+    "Flight via natural wings",
+    "Hollowed bones"
+  ],
   "image": {},
   "pageviews": 2457
 }

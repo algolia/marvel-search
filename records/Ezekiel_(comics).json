@@ -13,7 +13,18 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Highly skilled businessman<br>Formidable hand to hand combatant<br>Superhuman strength, speed, agility, stamina, reaction time and resistance to injury<br>Extrasensory perception<br>Knowledge of the nature of totems<br>Ability to stick to any solid surface",
+  "powersText": [
+    "Highly skilled businessman",
+    "Formidable hand to hand combatant",
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "stamina",
+    "reaction time and resistance to injury",
+    "Extrasensory perception",
+    "Knowledge of the nature of totems",
+    "Ability to stick to any solid surface"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

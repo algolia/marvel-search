@@ -20,7 +20,13 @@
     "Tarantula"
   ],
   "powers": [],
-  "powersText": "Genius geneticist, biochemist and cloner<br>Talented martial artist and gymnast<br>Superhuman strength, speed and agility",
+  "powersText": [
+    "Genius geneticist",
+    "biochemist and cloner",
+    "Talented martial artist and gymnast",
+    "Superhuman strength",
+    "speed and agility"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

@@ -21,7 +21,10 @@
     "Swordsman"
   ],
   "powers": [],
-  "powersText": "Superhuman strength and durability<br>Size and mass manipulation",
+  "powersText": [
+    "Superhuman strength and durability",
+    "Size and mass manipulation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Atlas_Marvel_Comics.jpg/240px-Atlas_Marvel_Comics.jpg",
     "width": "240",

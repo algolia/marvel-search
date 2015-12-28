@@ -13,7 +13,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, stamina and durability<br>(As Golden Brain):<br>Ability to materialize a powerful electrically charged duplicate of the Glob and recreate itself as a humanoid",
+  "powersText": [
+    "Superhuman strength",
+    "stamina and durability",
+    "(As Golden Brain):",
+    "Ability to materialize a powerful electrically charged duplicate of the Glob and recreate itself as a humanoid"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Glob1.jpg/250px-Glob1.jpg",
     "width": "250",

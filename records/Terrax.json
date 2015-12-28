@@ -20,7 +20,17 @@
   "powers": [
     "Power Cosmic"
   ],
-  "powersText": "Superhuman strength, stamina, durability and reflexes<br>Energy projection<br>Force field generation<br>Limited earth manipulation<br>Immunity to the rigors of space<br>Use of Power Cosmic <br>Ability to fly at warp speed",
+  "powersText": [
+    "Superhuman strength",
+    "stamina",
+    "durability and reflexes",
+    "Energy projection",
+    "Force field generation",
+    "Limited earth manipulation",
+    "Immunity to the rigors of space",
+    "Use of Power Cosmic",
+    "Ability to fly at warp speed"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/8/85/FantasticFour-242.jpg",
     "width": "250",

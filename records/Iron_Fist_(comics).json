@@ -26,7 +26,14 @@
   "powers": [
     "chi"
   ],
-  "powersText": "Master martial artist<br>The ''Iron Fist'', a concentration of his chi in his fist<br>Greatly enhanced physical attributes<br>Healing powers<br>Telepathic mind fusion",
+  "powersText": [
+    "Master martial artist",
+    "The ''Iron Fist''",
+    "a concentration of his chi in his fist",
+    "Greatly enhanced physical attributes",
+    "Healing powers",
+    "Telepathic mind fusion"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Immortalironfist.jpg/250px-Immortalironfist.jpg",
     "width": "250",

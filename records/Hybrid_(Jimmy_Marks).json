@@ -13,7 +13,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Telekinesis,<br>Telepathy,<br>Transformation,<br>Superhuman strength",
+  "powersText": [
+    "Telekinesis",
+    "Telepathy",
+    "Transformation",
+    "Superhuman strength"
+  ],
   "image": {},
   "pageviews": 971
 }

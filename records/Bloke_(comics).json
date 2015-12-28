@@ -15,7 +15,13 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, endurance, reflexes, and durability,<br>Camouflage",
+  "powersText": [
+    "Superhuman strength",
+    "endurance",
+    "reflexes",
+    "and durability",
+    "Camouflage"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Bloke_Marvel.jpg/250px-Bloke_Marvel.jpg",
     "width": "250",

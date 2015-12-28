@@ -14,7 +14,10 @@
     "Justin Hammer"
   ],
   "powers": [],
-  "powersText": "Uses throwing discs as weapons,<br>Other assorted weaponry",
+  "powersText": [
+    "Uses throwing discs as weapons",
+    "Other assorted weaponry"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Marvel_balloon.svg/32px-Marvel_balloon.svg.png",
     "width": "32",

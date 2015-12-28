@@ -14,7 +14,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Enhanced strength, computerized intelligence, open teleportation portals, energy damping and absorption, scan for bio-mechanical and technological weapons and neutralize them.",
+  "powersText": [
+    "Enhanced strength",
+    "computerized intelligence",
+    "open teleportation portals",
+    "energy damping and absorption",
+    "scan for bio-mechanical and technological weapons and neutralize them."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

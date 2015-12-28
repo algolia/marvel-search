@@ -13,7 +13,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Cybernetic body,<br />Robotic weaponry<br>Augmented strength, stamina, and reflexes",
+  "powersText": [
+    "Cybernetic body",
+    "Robotic weaponry",
+    "Augmented strength",
+    "stamina",
+    "and reflexes"
+  ],
   "image": {},
   "pageviews": 1198
 }

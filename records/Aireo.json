@@ -14,7 +14,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Aerokinesis (Air/Wind Manipulation)<br>Flight",
+  "powersText": [
+    "Aerokinesis (Air/Wind Manipulation)",
+    "Flight"
+  ],
   "image": {},
   "pageviews": 1433
 }

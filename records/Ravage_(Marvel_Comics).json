@@ -10,7 +10,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength and durability<br>Great leaping<br>Healing factor",
+  "powersText": [
+    "Superhuman strength and durability",
+    "Great leaping",
+    "Healing factor"
+  ],
   "image": {},
   "pageviews": 1258
 }

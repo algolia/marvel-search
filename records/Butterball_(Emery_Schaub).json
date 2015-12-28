@@ -14,7 +14,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Total invulnerability<br>Complete numbness to physical sensation<br>Unlimited stamina",
+  "powersText": [
+    "Total invulnerability",
+    "Complete numbness to physical sensation",
+    "Unlimited stamina"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Butterball.jpg/250px-Butterball.jpg",
     "width": "250",

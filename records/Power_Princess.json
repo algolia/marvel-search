@@ -14,7 +14,16 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, speed, stamina, durability, agility, reflexes<br>Extended longevity<br>Experienced armed and unarmed combatant",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "stamina",
+    "durability",
+    "agility",
+    "reflexes",
+    "Extended longevity",
+    "Experienced armed and unarmed combatant"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Zarda_Ultimate_Hulk_Annual.jpg/180px-Zarda_Ultimate_Hulk_Annual.jpg",
     "width": "180",

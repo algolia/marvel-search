@@ -12,7 +12,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength<br>Hard hide<br>Water adaptation",
+  "powersText": [
+    "Superhuman strength",
+    "Hard hide",
+    "Water adaptation"
+  ],
   "image": {},
   "pageviews": 865
 }

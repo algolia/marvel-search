@@ -29,7 +29,13 @@
     "reflexes",
     "longevity"
   ],
-  "powersText": "Regenerative healing factor Retractable claws and sharp teeth Superhuman strength senses reflexes , and feline-like attributes Extended longevity",
+  "powersText": [
+    "Regenerative healing factor",
+    "Retractable claws and sharp teeth",
+    "Superhuman strengthsensesreflexes",
+    "and feline-like attributes",
+    "Extended longevity"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Sabretooth_X-Men162.jpg/250px-Sabretooth_X-Men162.jpg",
     "width": "250",

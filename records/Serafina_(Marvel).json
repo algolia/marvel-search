@@ -10,7 +10,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Varies",
+  "powersText": [
+    "Varies"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Children_of_the_Vault.png/250px-Children_of_the_Vault.png",
     "width": "250",

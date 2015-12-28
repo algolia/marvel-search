@@ -21,7 +21,21 @@
   "powers": [
     "Phoenix Force"
   ],
-  "powersText": "Telekinesis  Telepathy  Astral projection   Eidetic memory  Mind reading and control  Memory alteration and erasure  Psionic blasts Phoenix Force :  Matter and energy manipulation  Time manipulation  Space travel  \"Cosmic fire\"  Disintegration energy  Resurrection from death and manipulation of life energy in others",
+  "powersText": [
+    "Telekinesis",
+    "Telepathy",
+    "Astral projection",
+    "Eidetic memory",
+    "Mind reading and control",
+    "Memory alteration and erasure",
+    "Psionic blasts  Phoenix Force:",
+    "Matter and energy manipulation",
+    "Time manipulation",
+    "Space travel",
+    "\"Cosmic fire\"",
+    "Disintegration energy",
+    "Resurrection from death and manipulation of life energy in others"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/JeanGreyPhoenix.png/250px-JeanGreyPhoenix.png",
     "width": "250",

@@ -14,7 +14,12 @@
     "Doctor Strange"
   ],
   "powers": [],
-  "powersText": "Empathy<br>Telepathy<br>Telekinesis<br>Demonic magic",
+  "powersText": [
+    "Empathy",
+    "Telepathy",
+    "Telekinesis",
+    "Demonic magic"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/DeodatoTopaz.jpg/250px-DeodatoTopaz.jpg",
     "width": "250",

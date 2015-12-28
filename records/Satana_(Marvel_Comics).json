@@ -22,7 +22,12 @@
     "Magic",
     "Fire manipulation"
   ],
-  "powersText": "- Magic <br>- Fire manipulation <br>-Ability to absorb souls<br>-Gains strength by touching weapons that killed people",
+  "powersText": [
+    "-Magic",
+    "-Fire manipulation",
+    "-Ability to absorb souls",
+    "-Gains strength by touching weapons that killed people"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/2/20/SatanaSN.jpg",
     "width": "215",

@@ -13,7 +13,21 @@
   "powers": [
     "Healing factor"
   ],
-  "powersText": "First mutation:<br>Bio-energy blasts from hands<br>Second mutation:<br>Enhanced strength, speed, durability, stamina, agility, and senses<br>Possesses horns, fangs, and claws on hands and feet<br> Healing factor",
+  "powersText": [
+    "First mutation:",
+    "Bio-energy blasts from hands",
+    "Second mutation:",
+    "Enhanced strength",
+    "speed",
+    "durability",
+    "stamina",
+    "agility",
+    "and senses",
+    "Possesses horns",
+    "fangs",
+    "and claws on hands and feet",
+    "Healing factor"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Ravage2099-1.jpg/250px-Ravage2099-1.jpg",
     "width": "250",

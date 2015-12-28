@@ -13,7 +13,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Expert with bladed and throwing weapons<br>Experienced tactician<br>Wears Kevlar flak jacket<br>Possesses various weapons",
+  "powersText": [
+    "Expert with bladed and throwing weapons",
+    "Experienced tactician",
+    "Wears Kevlar flak jacket",
+    "Possesses various weapons"
+  ],
   "image": {},
   "pageviews": 1042
 }

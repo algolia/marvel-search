@@ -13,7 +13,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Highly skilled athlete<br>Master hand to hand combatant<br>Expert pilot<br>Use of \"belt-buckle\" disc",
+  "powersText": [
+    "Highly skilled athlete",
+    "Master hand to hand combatant",
+    "Expert pilot",
+    "Use of \"belt-buckle\" disc"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/6/69/Avengers-43.jpg",
     "width": "250",

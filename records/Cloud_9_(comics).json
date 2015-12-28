@@ -16,7 +16,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Expert markswoman<br>Ability to manipulate an unidentified cloud-like gas form on which she can fly",
+  "powersText": [
+    "Expert markswoman",
+    "Ability to manipulate an unidentified cloud-like gas form on which she can fly"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Cloud_9_%28comics%29.jpg/250px-Cloud_9_%28comics%29.jpg",
     "width": "250",

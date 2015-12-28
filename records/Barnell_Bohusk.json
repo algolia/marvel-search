@@ -20,7 +20,21 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Currently:<br>Advanced bird suit grants:<br>Superhuman strength<br>Flight<br>Energy blasts<br>Enhanced protection<br>Formerly:<br>Bird-like mutation which grants:<br>Enhanced agility and endurance<br>Hollow bones<br>Beaked nose<br>Finger talons<br>Wings that fold up along his arms and allow limited flight",
+  "powersText": [
+    "Currently:",
+    "Advanced bird suit grants:",
+    "Superhuman strength",
+    "Flight",
+    "Energy blasts",
+    "Enhanced protection",
+    "Formerly:",
+    "Bird-like mutation which grants:",
+    "Enhanced agility and endurance",
+    "Hollow bones",
+    "Beaked nose",
+    "Finger talons",
+    "Wings that fold up along his arms and allow limited flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Blackwing.jpg/220px-Blackwing.jpg",
     "width": "220",

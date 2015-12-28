@@ -11,7 +11,15 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Armored suit grants:<br>Superhuman strength<br>Flight via turbines<br>Heavy resistance to injury<br>Internal life support systems<br>Laser cannon on left arm<br>Electric shock generator on right arm",
+  "powersText": [
+    "Armored suit grants:",
+    "Superhuman strength",
+    "Flight via turbines",
+    "Heavy resistance to injury",
+    "Internal life support systems",
+    "Laser cannon on left arm",
+    "Electric shock generator on right arm"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/IronMan-156.jpg/250px-IronMan-156.jpg",
     "width": "250",

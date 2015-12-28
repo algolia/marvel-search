@@ -1,3 +1,4 @@
+import Helper from './helper.js';
 import _ from 'lodash';
 
 const Cleaner = {
@@ -70,9 +71,34 @@ const Cleaner = {
     return this.getFacettedListOfValues(data.powers);
   },
 
-  // Longer list of powers
+  // Longer list of powers, as an array
   getPowersAsText(data) {
-    return this.getTextualListOfValues(data.powers);
+    let initialList = data.powers;
+    if (!initialList) {
+      return [];
+    }
+    if (!Array.isArray(initialList)) {
+      initialList = [initialList];
+    }
+
+    // Get a full text list
+    let concatenatedList = [];
+    initialList.forEach((item) => {
+      if (item.type === 'link') {
+        concatenatedList.push(item.text);
+      }
+      if (item.type === 'text') {
+        concatenatedList.push(item.value);
+      }
+    });
+    let stringList = concatenatedList.join('');
+
+    // Split it
+    let separators = [',', '*', '<br>', '<br />', '<br/>', ';'];
+    let results = Helper.multiSplit(stringList, ...separators);
+    results = _.compact(_.map(results, Cleaner.cleanUp));
+
+    return results;
   },
 
   cleanUp(text) {
@@ -111,6 +137,7 @@ const Cleaner = {
     return null;
   },
 
+  // Returns an array of all the values contained in links
   getFacettedListOfValues(data) {
     if (!Array.isArray(data)) {
       data = [data];
@@ -120,6 +147,7 @@ const Cleaner = {
     return _.compact(_.map(data, this.getValueFromLink, this));
   },
 
+  // Returns a long string of all values
   getTextualListOfValues(data) {
     if (!Array.isArray(data)) {
       data = [data];

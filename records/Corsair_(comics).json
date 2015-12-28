@@ -14,7 +14,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Highly skilled pilot, swordsman, and marksman",
+  "powersText": [
+    "Highly skilled pilot",
+    "swordsman",
+    "and marksman"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Corsair107.png",
     "width": "250",

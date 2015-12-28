@@ -22,7 +22,13 @@
     "telekinetic",
     "martial artist"
   ],
-  "powersText": "Enormously powerful telepath <br>Low-level telekinetic <br>Master martial artist <br>Highly skilled geneticist and engineer <br>Experienced starship pilot",
+  "powersText": [
+    "Enormously powerful telepath",
+    "Low-level telekinetic",
+    "Master martial artist",
+    "Highly skilled geneticist and engineer",
+    "Experienced starship pilot"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Moondragon.jpg/187px-Moondragon.jpg",
     "width": "187",

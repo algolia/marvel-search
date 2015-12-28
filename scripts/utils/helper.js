@@ -3,6 +3,21 @@ import Path from 'path';
 import jsonfile from 'jsonfile';
 
 const Helper = {
+  multiSplit(string, ...separators) {
+    let results = [string];
+    let tmp = [];
+
+    separators.forEach((separator) => {
+      // We split each element in the current results according to the split and
+      // we add it to the tmp
+      results.forEach((item) => {
+        tmp.push.apply(tmp, item.split(separator));
+      });
+      results = tmp;
+      tmp = [];
+    });
+    return results;
+  },
   getWikipediaName(url) {
     return Path.basename(URL.parse(url).pathname);
   },

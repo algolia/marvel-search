@@ -13,7 +13,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Can profile people at a glance, discovering relevant background information and important characteristics, allowing him to predict their reactions to certain situations.",
+  "powersText": [
+    "Can profile people at a glance",
+    "discovering relevant background information and important characteristics",
+    "allowing him to predict their reactions to certain situations."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/The_Profile.jpg/150px-The_Profile.jpg",
     "width": "150",

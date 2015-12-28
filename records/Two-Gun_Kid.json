@@ -11,7 +11,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Expert marksman<br>Trained hand-to-hand combatant",
+  "powersText": [
+    "Expert marksman",
+    "Trained hand-to-hand combatant"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/a/ac/Two-Gun_Kid_01.jpg",
     "width": "250",

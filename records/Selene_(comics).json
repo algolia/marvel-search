@@ -25,7 +25,16 @@
   "powers": [
     "Reality warping"
   ],
-  "powersText": "Superhuman physical attributes<br>Telepathy<br>Telekinesis<br>Animation and control of non-living materials<br>Flame manipulation<br>Ability to drain the life force of others<br> Reality warping <br>Extensive magical knowledge and powers",
+  "powersText": [
+    "Superhuman physical attributes",
+    "Telepathy",
+    "Telekinesis",
+    "Animation and control of non-living materials",
+    "Flame manipulation",
+    "Ability to drain the life force of others",
+    "Reality warping",
+    "Extensive magical knowledge and powers"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/SELENEx.png/155px-SELENEx.png",
     "width": "155",

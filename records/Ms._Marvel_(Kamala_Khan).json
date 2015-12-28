@@ -18,7 +18,10 @@
   "powers": [
     "Shapeshifting"
   ],
-  "powersText": "Shapeshifting <br>Healing factor",
+  "powersText": [
+    "Shapeshifting",
+    "Healing factor"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Kamala_Khan.jpg/250px-Kamala_Khan.jpg",
     "width": "250",

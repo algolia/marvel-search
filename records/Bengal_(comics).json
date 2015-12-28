@@ -14,7 +14,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Master martial artist<br>Exceptional athlete<br>Excellent acrobat<br>Skilled archer and tracker<br>Enhanced sense of smell",
+  "powersText": [
+    "Master martial artist",
+    "Exceptional athlete",
+    "Excellent acrobat",
+    "Skilled archer and tracker",
+    "Enhanced sense of smell"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Bengsl.jpg/250px-Bengsl.jpg",
     "width": "250",

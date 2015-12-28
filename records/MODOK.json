@@ -17,7 +17,11 @@
   "powers": [
     "Psionic"
   ],
-  "powersText": "Superhuman intellect<br> Psionic powers<br>Exceptional ability to calculate probabilities",
+  "powersText": [
+    "Superhuman intellect",
+    "Psionic powers",
+    "Exceptional ability to calculate probabilities"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Modok.PNG",
     "width": "250",

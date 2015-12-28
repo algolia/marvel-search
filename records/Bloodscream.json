@@ -13,7 +13,18 @@
   "powers": [
     "healing factor"
   ],
-  "powersText": "Superhuman strength, speed, stamina, agility and reflexes<br>Regenerative healing factor <br>Extended lifespan<br>Limited shape-shifting<br>Ability to drain blood from victims by touching their skin with hand<br>Good hand to hand combatant<br>Many underworld connections",
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "stamina",
+    "agility and reflexes",
+    "Regenerative healing factor",
+    "Extended lifespan",
+    "Limited shape-shifting",
+    "Ability to drain blood from victims by touching their skin with hand",
+    "Good hand to hand combatant",
+    "Many underworld connections"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

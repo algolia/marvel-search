@@ -18,7 +18,17 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Experienced oceanographer<br>Skilled inventor of oceanographic equipment<br>Gifted intellect<br>Exoskeleton battlesuit grants:<br>Superhuman strength and durability<br>Enhanced swimming speed<br>Stored air for underwater exploration<br>Gliding via streamlined wings<br>Electrical bolt projection via gloves",
+  "powersText": [
+    "Experienced oceanographer",
+    "Skilled inventor of oceanographic equipment",
+    "Gifted intellect",
+    "Exoskeleton battlesuit grants:",
+    "Superhuman strength and durability",
+    "Enhanced swimming speed",
+    "Stored air for underwater exploration",
+    "Gliding via streamlined wings",
+    "Electrical bolt projection via gloves"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/c/cc/Stingray1.jpg",
     "width": "217",

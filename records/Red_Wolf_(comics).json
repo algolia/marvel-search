@@ -18,7 +18,16 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "(Talltrees)<br>Highly skilled hand-to-hand combatant<br>Experienced wrestler<br>Adept combat gymnast<br>Superb archer<br>Expert marksman with throwing weapons and tracker<br>Skilled animal trainer<br>Superhuman strength and sensory acuity",
+  "powersText": [
+    "(Talltrees)",
+    "Highly skilled hand-to-hand combatant",
+    "Experienced wrestler",
+    "Adept combat gymnast",
+    "Superb archer",
+    "Expert marksman with throwing weapons and tracker",
+    "Skilled animal trainer",
+    "Superhuman strength and sensory acuity"
+  ],
   "image": {},
   "pageviews": 6387
 }

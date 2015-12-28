@@ -11,7 +11,16 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Brilliant engineer<br>Skilled gymnast<br>Expert pool player<br>Experienced missile propulsion system designer<br>Gifted inventor<br>Possesses a pool rack-like four man hovercraft and a cue stick<br>Use of explosive grenades and fireworks, a round floating hovercraft and flying miniature cameras",
+  "powersText": [
+    "Brilliant engineer",
+    "Skilled gymnast",
+    "Expert pool player",
+    "Experienced missile propulsion system designer",
+    "Gifted inventor",
+    "Possesses a pool rack-like four man hovercraft and a cue stick",
+    "Use of explosive grenades and fireworks",
+    "a round floating hovercraft and flying miniature cameras"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/8-Ball_%28comics%29_sleepwalker_cover.jpg/250px-8-Ball_%28comics%29_sleepwalker_cover.jpg",
     "width": "250",

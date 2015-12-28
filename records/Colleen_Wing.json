@@ -22,7 +22,15 @@
     "samurai",
     "detective"
   ],
-  "powersText": "Master samurai <br>Talented swordswoman<br>Skilled detective <br>Use of chi grants:<br>Enhanced strength<br>Accelerated healing<br>High resistance to injury",
+  "powersText": [
+    "Master samurai",
+    "Talented swordswoman",
+    "Skilled detective",
+    "Use of chi grants:",
+    "Enhanced strength",
+    "Accelerated healing",
+    "High resistance to injury"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Colleenwing.jpg/228px-Colleenwing.jpg",
     "width": "228",

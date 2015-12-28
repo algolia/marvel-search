@@ -14,7 +14,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superb hand to hand combatant<br>Excellent marksman<br>Brilliant strategist and organizer<br>Superhuman strength and senses derived from cyborg body<br>Use of various handguns",
+  "powersText": [
+    "Superb hand to hand combatant",
+    "Excellent marksman",
+    "Brilliant strategist and organizer",
+    "Superhuman strength and senses derived from cyborg body",
+    "Use of various handguns"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Silvermane-head.jpg",
     "width": "201",

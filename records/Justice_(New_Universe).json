@@ -14,7 +14,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Ability to create psionic \"shields\" and psionic \"swords\",<br>Ability to read auras",
+  "powersText": [
+    "Ability to create psionic \"shields\" and psionic \"swords\"",
+    "Ability to read auras"
+  ],
   "image": {},
   "pageviews": 1330
 }

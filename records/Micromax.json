@@ -18,7 +18,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Mass and size manipulation<br>Strength proportionate to size<br>Limited shapeshifting",
+  "powersText": [
+    "Mass and size manipulation",
+    "Strength proportionate to size",
+    "Limited shapeshifting"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Micromax.jpg/250px-Micromax.jpg",
     "width": "250",

@@ -11,7 +11,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Invisibility",
+  "powersText": [
+    "Invisibility"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Albino.png",
     "width": "151",

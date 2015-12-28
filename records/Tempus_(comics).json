@@ -13,7 +13,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength and endurance<br>Control over time<br>Immortality",
+  "powersText": [
+    "Superhuman strength and endurance",
+    "Control over time",
+    "Immortality"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Tempuscomics.jpg/249px-Tempuscomics.jpg",
     "width": "249",

@@ -10,7 +10,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman strength, stamina and durability<br>Flight via gravity manipulation<br>Ability to command intelligence which was forced back into its original body and survive underwater without air",
+  "powersText": [
+    "Superhuman strength",
+    "stamina and durability",
+    "Flight via gravity manipulation",
+    "Ability to command intelligence which was forced back into its original body and survive underwater without air"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/LivingColossus.jpg/249px-LivingColossus.jpg",
     "width": "249",

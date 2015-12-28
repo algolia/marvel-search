@@ -28,9 +28,9 @@ search.addWidget(
       item: hitTemplate
     },
     transformData: function(data) {
-      console.info(data._highlightResult.aliases.value);
       data.creators = data.creators.join(', ');
-      data.teams = data.teams.join(', ');
+      data.species = data.species.join(', ');
+      data.powersText = data.powersText.join('<br>');
       return data;
     }
   })

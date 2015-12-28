@@ -11,7 +11,17 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Skilled weapons master<br>Enhanced strength, speed, agility, durability and senses<br>Longevity<br>(As a humanoid lion):<br>Superhuman strength and durability<br>Carries a heavy stone axe",
+  "powersText": [
+    "Skilled weapons master",
+    "Enhanced strength",
+    "speed",
+    "agility",
+    "durability and senses",
+    "Longevity",
+    "(As a humanoid lion):",
+    "Superhuman strength and durability",
+    "Carries a heavy stone axe"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

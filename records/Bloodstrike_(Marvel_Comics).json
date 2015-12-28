@@ -14,7 +14,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Super-strength",
+  "powersText": [
+    "Super-strength"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Bloodstrike.jpg/250px-Bloodstrike.jpg",
     "width": "250",

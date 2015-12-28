@@ -11,7 +11,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Extraordinary scientific genius<br>Psychic powers<br>Limited mystic knowledge of sorcery<br>Immortality<br>Use of Roman and Deviant weaponry",
+  "powersText": [
+    "Extraordinary scientific genius",
+    "Psychic powers",
+    "Limited mystic knowledge of sorcery",
+    "Immortality",
+    "Use of Roman and Deviant weaponry"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/HulkVTyrannus.jpg/250px-HulkVTyrannus.jpg",
     "width": "250",

@@ -20,7 +20,16 @@
     "Telepathy",
     "Telekinesis"
   ],
-  "powersText": "Virtually limitless matter and energy manipulation<br>Psionic abilities<br> Empathy <br> Telepathy <br> Telekinesis <br>Life force manipulation<br>Cosmic awareness<br>Prescience",
+  "powersText": [
+    "Virtually limitless matter and energy manipulation",
+    "Psionic abilities",
+    "Empathy",
+    "Telepathy",
+    "Telekinesis",
+    "Life force manipulation",
+    "Cosmic awareness",
+    "Prescience"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Books-aj.svg_aj_ashton_01.svg/50px-Books-aj.svg_aj_ashton_01.svg.png",
     "width": "50",

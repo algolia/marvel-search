@@ -18,7 +18,18 @@
     "Kraven",
     "cybernetic"
   ],
-  "powersText": "Highly trained hand to hand combatant, martial artist and spy<br>Expert mechanical engineer and physicists<br>Superhuman physical abilities due to Kraven 's formula and cybernetic implants<br>Use of various goblin-themed weapons and paraphernalia<br>(When possessed by demon):<br>Superhuman strength, speed and agility<br>Hellfire powers<br>Ability to create organic fibers",
+  "powersText": [
+    "Highly trained hand to hand combatant",
+    "martial artist and spy",
+    "Expert mechanical engineer and physicists",
+    "Superhuman physical abilities due to Kraven's formula and cybernetic implants",
+    "Use of various goblin-themed weapons and paraphernalia",
+    "(When possessed by demon):",
+    "Superhuman strength",
+    "speed and agility",
+    "Hellfire powers",
+    "Ability to create organic fibers"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Webofspiderman93panel.jpg/250px-Webofspiderman93panel.jpg",
     "width": "250",

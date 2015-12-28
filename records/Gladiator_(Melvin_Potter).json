@@ -14,7 +14,13 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Accomplished clothing designer<br>Superb martial artist<br>Peak physical condition<br>Wears thick metal armor<br>Possesses arsenal of edged weapons",
+  "powersText": [
+    "Accomplished clothing designer",
+    "Superb martial artist",
+    "Peak physical condition",
+    "Wears thick metal armor",
+    "Possesses arsenal of edged weapons"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/44px-Wiki_letter_w.svg.png",
     "width": "44",

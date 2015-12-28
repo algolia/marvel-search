@@ -15,7 +15,12 @@
   "powers": [
     "Time manipulation"
   ],
-  "powersText": "Time manipulation <br> Energy blasts<br>Superhuman strength intelligence and endurance<br>Immortality",
+  "powersText": [
+    "Time manipulation",
+    "Energy blasts",
+    "Superhuman strength intelligence and endurance",
+    "Immortality"
+  ],
   "image": {},
   "pageviews": 6129
 }

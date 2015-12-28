@@ -10,7 +10,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Wears a personal force field which can protect him from most harm, allows him to slip through the grips of others, and rendered himself and anything he held in his hands \"blurry,\" making him impossible to identify.",
+  "powersText": [
+    "Wears a personal force field which can protect him from most harm",
+    "allows him to slip through the grips of others",
+    "and rendered himself and anything he held in his hands \"blurry",
+    "\" making him impossible to identify."
+  ],
   "image": {},
   "pageviews": 441
 }

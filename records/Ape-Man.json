@@ -13,7 +13,16 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Excellent boxer and wrestler<br>Considerable strength<br>Use of T-Ray Gun<br>(Briefly):<br>Ape-like appearance<br>Superhuman strength<br>Enhanced agility, durability and reflexes",
+  "powersText": [
+    "Excellent boxer and wrestler",
+    "Considerable strength",
+    "Use of T-Ray Gun",
+    "(Briefly):",
+    "Ape-like appearance",
+    "Superhuman strength",
+    "Enhanced agility",
+    "durability and reflexes"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/a/af/ApeMan.jpg",
     "width": "200",

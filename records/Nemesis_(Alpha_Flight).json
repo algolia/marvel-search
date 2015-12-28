@@ -12,7 +12,14 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "(all)<br>Flight, use of a magical blade<br>(Weatherly)<br>Teleportation, time travel",
+  "powersText": [
+    "(all)",
+    "Flight",
+    "use of a magical blade",
+    "(Weatherly)",
+    "Teleportation",
+    "time travel"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/1/14/Nemesis_%28Alpha_Flight%29.jpg",
     "width": "250",

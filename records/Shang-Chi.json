@@ -17,7 +17,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Superb Athlete, Expert practitioner of the Chinese martial arts",
+  "powersText": [
+    "Superb Athlete",
+    "Expert practitioner of the Chinese martial arts"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Shang-Chi.jpg/250px-Shang-Chi.jpg",
     "width": "250",

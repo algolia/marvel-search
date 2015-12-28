@@ -20,7 +20,12 @@
     "Absorbing Man"
   ],
   "powers": [],
-  "powersText": "Expert street fighter<br>Immense superhuman strength<br>Superhuman stamina<br>High-level resistance to physical injury",
+  "powersText": [
+    "Expert street fighter",
+    "Immense superhuman strength",
+    "Superhuman stamina",
+    "High-level resistance to physical injury"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/1/10/Web_of_Spider-Man_Vol._1_59_page_9_Titania.jpg",
     "width": "202",

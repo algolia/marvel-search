@@ -19,7 +19,10 @@
   "powers": [
     "Illusion"
   ],
-  "powersText": "Illusion casting<br> Telepathy",
+  "powersText": [
+    "Illusion casting",
+    "Telepathy"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Martinique.png/250px-Martinique.png",
     "width": "250",

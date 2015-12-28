@@ -20,7 +20,12 @@
   "powers": [
     "Darkforce"
   ],
-  "powersText": "Darkforce manipulation<br>Energy blasts<br>Portal creation<br>Flight",
+  "powersText": [
+    "Darkforce manipulation",
+    "Energy blasts",
+    "Portal creation",
+    "Flight"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Marcus_Daniels.jpg/250px-Marcus_Daniels.jpg",
     "width": "250",

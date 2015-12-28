@@ -18,7 +18,11 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Superhuman durability<br>Diamond form<br>Projection of diamond shards from skin",
+  "powersText": [
+    "Superhuman durability",
+    "Diamond form",
+    "Projection of diamond shards from skin"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Bling%28x-men%29.jpg/200px-Bling%28x-men%29.jpg",
     "width": "200",

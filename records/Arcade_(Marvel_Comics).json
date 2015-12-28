@@ -16,7 +16,17 @@
     "Mastermind (Martinique Jason)"
   ],
   "powers": [],
-  "powersText": "Genius intelligence<br>Via technology, energy sources and magic:<br>Force field generation<br>Near invulnerability<br>Motor function control<br>Telekinesis<br>Matter manipulation<br>Ability to blow apart anyone with a simple gesture",
+  "powersText": [
+    "Genius intelligence",
+    "Via technology",
+    "energy sources and magic:",
+    "Force field generation",
+    "Near invulnerability",
+    "Motor function control",
+    "Telekinesis",
+    "Matter manipulation",
+    "Ability to blow apart anyone with a simple gesture"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

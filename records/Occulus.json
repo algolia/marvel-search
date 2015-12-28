@@ -11,7 +11,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "can form force fields, project energy blasts and detect various forms of energy.",
+  "powersText": [
+    "can form force fields",
+    "project energy blasts and detect various forms of energy."
+  ],
   "image": {},
   "pageviews": 1350
 }

@@ -17,7 +17,19 @@
   "powers": [
     "healing factor"
   ],
-  "powersText": "Brilliant scientific mind<br> Ability to transform his body into a massive, orange-furred form<br> While transformed: Superhuman strength, endurance, durability, and stamina Regenerative healing factor Sharp claws and teeth Ability to leap vast distances",
+  "powersText": [
+    "Brilliant scientific mind",
+    "Ability to transform his body into a massive",
+    "orange-furred form",
+    "While transformed:",
+    "Superhuman strength",
+    "endurance",
+    "durability",
+    "and stamina",
+    "Regenerative healing factor",
+    "Sharp claws and teeth",
+    "Ability to leap vast distances"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Walter_Langkowski_.jpg/250px-Walter_Langkowski_.jpg",
     "width": "250",

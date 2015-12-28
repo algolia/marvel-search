@@ -15,7 +15,18 @@
     "Ancient One"
   ],
   "powers": [],
-  "powersText": "Good martial artist<br>Extensive knowledge of magical lore<br>Astral projection<br>Teleportation<br>Hypnotism<br>Mesmerism<br>Thought and illusion casting<br>Force blast projection<br>Magical energy manipulation<br>Ability to conjure demons",
+  "powersText": [
+    "Good martial artist",
+    "Extensive knowledge of magical lore",
+    "Astral projection",
+    "Teleportation",
+    "Hypnotism",
+    "Mesmerism",
+    "Thought and illusion casting",
+    "Force blast projection",
+    "Magical energy manipulation",
+    "Ability to conjure demons"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/40px-Crystal_Clear_app_kedit.svg.png",
     "width": "40",

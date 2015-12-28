@@ -11,7 +11,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Enhanced strength, agility and reflexes. Flight via wings.",
+  "powersText": [
+    "Enhanced strength",
+    "agility and reflexes. Flight via wings."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Condor_HCV.jpg/200px-Condor_HCV.jpg",
     "width": "200",

@@ -11,7 +11,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Mind control<br>Resurrection<br>Use of potions",
+  "powersText": [
+    "Mind control",
+    "Resurrection",
+    "Use of potions"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/5/59/Calypso.png",
     "width": "200",

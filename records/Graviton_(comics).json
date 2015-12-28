@@ -15,7 +15,10 @@
   "powers": [
     "Gravity manipulation"
   ],
-  "powersText": "Gravity manipulation <br>Genius level intellect",
+  "powersText": [
+    "Gravity manipulation",
+    "Genius level intellect"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Thunderbolts_17_cvr.jpg/250px-Thunderbolts_17_cvr.jpg",
     "width": "250",

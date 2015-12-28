@@ -15,7 +15,18 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Razorsharp claws and fangs, superhuman senses, strength, speed, agility, reflexes, coordination, endurance, invulnerability, resistant to life draining",
+  "powersText": [
+    "Razorsharp claws and fangs",
+    "superhuman senses",
+    "strength",
+    "speed",
+    "agility",
+    "reflexes",
+    "coordination",
+    "endurance",
+    "invulnerability",
+    "resistant to life draining"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

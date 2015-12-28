@@ -8,7 +8,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "<br />  No apparent supernatural powers, uses smoke(from an unknown source) to disable enemies",
+  "powersText": [
+    "No apparent supernatural powers",
+    "uses smoke(from an unknown source) to disable enemies"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png",
     "width": "40",

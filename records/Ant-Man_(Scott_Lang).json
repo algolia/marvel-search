@@ -20,7 +20,15 @@
   "powers": [
     "subatomic universes"
   ],
-  "powersText": "Electronics expert<br>Uniform grants:<br>Size manipulation<br>Telepathic insect communication<br>Helmet with a retractable plexiglass face shield and a limited air supply<br>Maintains normal-size strength in shrunken state<br>Ability to shrink to sub-microscopic size and enter the subatomic universes",
+  "powersText": [
+    "Electronics expert",
+    "Uniform grants:",
+    "Size manipulation",
+    "Telepathic insect communication",
+    "Helmet with a retractable plexiglass face shield and a limited air supply",
+    "Maintains normal-size strength in shrunken state",
+    "Ability to shrink to sub-microscopic size and enter the subatomic universes"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/9/9a/AntmanAH.JPG",
     "width": "181",

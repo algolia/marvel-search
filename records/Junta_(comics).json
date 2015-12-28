@@ -15,7 +15,9 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Gravity control.",
+  "powersText": [
+    "Gravity control."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Junta.png/250px-Junta.png",
     "width": "250",

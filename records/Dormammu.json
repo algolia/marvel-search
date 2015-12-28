@@ -16,7 +16,12 @@
     "Satannish"
   ],
   "powers": [],
-  "powersText": "Mystic energy manipulation<br>Mastery of dark magic<br>Dimensional teleportation<br>Immortality",
+  "powersText": [
+    "Mystic energy manipulation",
+    "Mastery of dark magic",
+    "Dimensional teleportation",
+    "Immortality"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/8/85/Dormammu.jpg",
     "width": "210",

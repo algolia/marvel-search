@@ -22,7 +22,13 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Flight<br />Superhuman speed<br />Superhuman durability<br />Light generation/manipulation<br />Light projection",
+  "powersText": [
+    "Flight",
+    "Superhuman speed",
+    "Superhuman durability",
+    "Light generation/manipulation",
+    "Light projection"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

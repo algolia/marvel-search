@@ -15,7 +15,16 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Expert biologist and geneticist<br>Superhuman strength<br>Four arms<br>Razor sharp claws and teeth<br>Indefinitely long, bio-electric razor sharp tongue<br>Enhanced sense of smell<br>Ability to alter body mass and size",
+  "powersText": [
+    "Expert biologist and geneticist",
+    "Superhuman strength",
+    "Four arms",
+    "Razor sharp claws and teeth",
+    "Indefinitely long",
+    "bio-electric razor sharp tongue",
+    "Enhanced sense of smell",
+    "Ability to alter body mass and size"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sugarman_marvel.jpg/249px-Sugarman_marvel.jpg",
     "width": "249",

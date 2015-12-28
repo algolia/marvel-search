@@ -13,7 +13,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Expert armed/unarmed combatant<br>Extensive knowledge of weapons",
+  "powersText": [
+    "Expert armed/unarmed combatant",
+    "Extensive knowledge of weapons"
+  ],
   "image": {},
   "pageviews": 939
 }

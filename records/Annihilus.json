@@ -15,7 +15,14 @@
     "Blastaar"
   ],
   "powers": [],
-  "powersText": "Superhuman strength, stamina and durability<br>Flight<br>Wields Cosmic Control Rod:<br> Energy and molecular manipulation Slowed aging process",
+  "powersText": [
+    "Superhuman strength",
+    "stamina and durability",
+    "Flight",
+    "Wields Cosmic Control Rod:",
+    "Energy and molecular manipulation",
+    "Slowed aging process"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/3/30/Annihilus.png",
     "width": "250",

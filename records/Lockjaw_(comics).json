@@ -17,7 +17,12 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Super-canine strength in his jaw<br>Teleportation<br>Precognition<br>Matter ingestion",
+  "powersText": [
+    "Super-canine strength in his jaw",
+    "Teleportation",
+    "Precognition",
+    "Matter ingestion"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/3/30/Lockjaw.PNG",
     "width": "250",

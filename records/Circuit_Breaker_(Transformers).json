@@ -17,7 +17,10 @@
     "robot",
     "circuitry"
   ],
-  "powersText": "Her suit allows her to disrupt a robot 's circuitry , causing it to malfunction and break down.",
+  "powersText": [
+    "Her suit allows her to disrupt a robot's circuitry",
+    "causing it to malfunction and break down."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Circuitbreaker-autobots.jpg/200px-Circuitbreaker-autobots.jpg",
     "width": "200",

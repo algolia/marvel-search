@@ -11,7 +11,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Releasing seismic energy through his fingertips, using it to create earthquakes, shockwaves or otherwise transport earth matter.",
+  "powersText": [
+    "Releasing seismic energy through his fingertips",
+    "using it to create earthquakes",
+    "shockwaves or otherwise transport earth matter."
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Moses_Magnum_in_Dark_Wolverine_78.jpg/250px-Moses_Magnum_in_Dark_Wolverine_78.jpg",
     "width": "250",

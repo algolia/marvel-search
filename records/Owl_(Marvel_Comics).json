@@ -13,7 +13,16 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Extremely skilled criminal organizer and money launderer<br>Superhuman sight and hearing<br>Enhanced strength, resiliency/resistance, reflexes/reactions and endurance<br>Hollow bones<br>Natural razor-sharp fangs and talons (with attachment devices)<br>Ability to glide short distances",
+  "powersText": [
+    "Extremely skilled criminal organizer and money launderer",
+    "Superhuman sight and hearing",
+    "Enhanced strength",
+    "resiliency/resistance",
+    "reflexes/reactions and endurance",
+    "Hollow bones",
+    "Natural razor-sharp fangs and talons (with attachment devices)",
+    "Ability to glide short distances"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

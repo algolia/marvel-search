@@ -11,7 +11,11 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Emotion manipulation via pheromones<br>Fear-inducing hallucination generation<br>Razor-sharp teeth and talons",
+  "powersText": [
+    "Emotion manipulation via pheromones",
+    "Fear-inducing hallucination generation",
+    "Razor-sharp teeth and talons"
+  ],
   "image": {},
   "pageviews": 303
 }

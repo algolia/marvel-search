@@ -17,7 +17,14 @@
   "powers": [
     "hawk"
   ],
-  "powersText": "Transmorph into hawk -like form Accelerated healing Heightened senses Flight Radiation immunity Razor-sharp claws and teeth",
+  "powersText": [
+    "Transmorph into hawk-like form",
+    "Accelerated healing",
+    "Heightened senses",
+    "Flight",
+    "Radiation immunity",
+    "Razor-sharp claws and teeth"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Wot6.jpg/250px-Wot6.jpg",
     "width": "250",

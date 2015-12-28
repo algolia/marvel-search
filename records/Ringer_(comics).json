@@ -13,7 +13,15 @@
     "Beetle"
   ],
   "powers": [],
-  "powersText": "Skilled inventor and engineer<br>Wears battlesuit that grants him the ability to condense and use several ring-based weapons<br>As Strikeback:<br>Gifted mechanical engineer<br>Levitation<br>Energy projection<br>Teleportation",
+  "powersText": [
+    "Skilled inventor and engineer",
+    "Wears battlesuit that grants him the ability to condense and use several ring-based weapons",
+    "As Strikeback:",
+    "Gifted mechanical engineer",
+    "Levitation",
+    "Energy projection",
+    "Teleportation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/RingerMarvel.jpg/200px-RingerMarvel.jpg",
     "width": "200",

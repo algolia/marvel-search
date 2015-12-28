@@ -19,7 +19,11 @@
     "Madman"
   ],
   "powers": [],
-  "powersText": "Genius-level genetic engineer and mastermind<br>Superhuman intelligence and probability evaluation<br>Psionic powers",
+  "powersText": [
+    "Genius-level genetic engineer and mastermind",
+    "Superhuman intelligence and probability evaluation",
+    "Psionic powers"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/2/29/Leaderhulk.PNG",
     "width": "208",

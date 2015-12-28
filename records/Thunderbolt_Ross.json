@@ -18,7 +18,18 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "As Ross:<br>Expert military strategist<br>Access to advanced technology and weapons<br>Commanding officer with access to many soldiers and armies<br>As Red Hulk:<br>Immense superhuman strength, stamina and durability<br>Healing factor<br>Energy absorption<br>Heat generation",
+  "powersText": [
+    "As Ross:",
+    "Expert military strategist",
+    "Access to advanced technology and weapons",
+    "Commanding officer with access to many soldiers and armies",
+    "As Red Hulk:",
+    "Immense superhuman strength",
+    "stamina and durability",
+    "Healing factor",
+    "Energy absorption",
+    "Heat generation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/ThunderboltRoss.jpg",
     "width": "160",

@@ -13,7 +13,15 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "superhuman strength, endurance, agility, and reflexes<br>flight<br>limited matter manipulation over skin<br>mass teleportation",
+  "powersText": [
+    "superhuman strength",
+    "endurance",
+    "agility",
+    "and reflexes",
+    "flight",
+    "limited matter manipulation over skin",
+    "mass teleportation"
+  ],
   "image": {},
   "pageviews": 918
 }

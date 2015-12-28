@@ -18,7 +18,13 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Depowered, formerly: <br>Teleportation,<br>Light-alteration<br>Invisibility",
+  "powersText": [
+    "Depowered",
+    "formerly:",
+    "Teleportation",
+    "Light-alteration",
+    "Invisibility"
+  ],
   "image": {},
   "pageviews": 1613
 }

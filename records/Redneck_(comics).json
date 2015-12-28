@@ -17,7 +17,12 @@
   "powers": [
     "the Beetle"
   ],
-  "powersText": "Uses weaponry and flight pack derived from the designs of the Beetle <br>Depowered, formerly:<br>Heat generation",
+  "powersText": [
+    "Uses weaponry and flight pack derived from the designs of the Beetle",
+    "Depowered",
+    "formerly:",
+    "Heat generation"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Skybolt1.jpg/250px-Skybolt1.jpg",
     "width": "250",

@@ -15,7 +15,10 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Skilled in hand-to-hand combat and firearms<br>Skilled strategist",
+  "powersText": [
+    "Skilled in hand-to-hand combat and firearms",
+    "Skilled strategist"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

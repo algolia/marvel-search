@@ -12,7 +12,12 @@
   "species": [],
   "partners": [],
   "powers": [],
-  "powersText": "Flight via razor-tipped wings<br>Limited sonic powers<br>Empathic calming<br>Agelessness",
+  "powersText": [
+    "Flight via razor-tipped wings",
+    "Limited sonic powers",
+    "Empathic calming",
+    "Agelessness"
+  ],
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png",
     "width": "50",

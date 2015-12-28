@@ -13,7 +13,10 @@
   ],
   "partners": [],
   "powers": [],
-  "powersText": "Super-Strength<br>Durability",
+  "powersText": [
+    "Super-Strength",
+    "Durability"
+  ],
   "image": {},
   "pageviews": 1072
 }
