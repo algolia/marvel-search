@@ -31,7 +31,7 @@ const downloadData = (list, index, offset) => {
   // Build the array of promises
   batchItems.forEach((url) => {
     batchPromises.push((callback) => {
-      const context = '#mw-content-text a.image';
+      const context = '#mw-content-text .infobox a.image';
       const selectors = {
         url: 'img@src',
         width: 'img@width',
