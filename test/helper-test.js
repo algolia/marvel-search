@@ -84,4 +84,37 @@ describe('Helper', () => {
       expect(actual).toEqual(['foo', 'bar', 'baz', 'magic']);
     });
   });
+
+  describe('getCharacterNameFromUrl', () => {
+    it('should get the basename', () => {
+      // Given
+      let input = 'http://www.foo.bar/Magneto';
+
+      // When
+      let actual = Helper.getCharacterNameFromUrl(input);
+
+      // Then
+      expect(actual).toEqual('Magneto');
+    });
+    it('should remove parenthesis', () => {
+      // Given
+      let input = 'http://www.foo.bar/Magneto_(Marvel_comics)';
+
+      // When
+      let actual = Helper.getCharacterNameFromUrl(input);
+
+      // Then
+      expect(actual).toEqual('Magneto');
+    });
+    it('should replace underscore with space', () => {
+      // Given
+      let input = 'http://www.foo.bar/Iron_Man';
+
+      // When
+      let actual = Helper.getCharacterNameFromUrl(input);
+
+      // Then
+      expect(actual).toEqual('Iron Man');
+    });
+  });
 });

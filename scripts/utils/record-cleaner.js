@@ -13,20 +13,14 @@ const Cleaner = {
       species: this.getSpecies(data.data),
       partners: this.getPartners(data.data),
       powers: this.getPowers(data.data),
-      powersText: this.getPowersAsText(data.data),
-    //   isVillain: isVillain(data)
+      powersText: this.getPowersAsText(data.data)
     };
     return record;
   },
 
   // Spider-Man
   getCharacterName(data) {
-    // First try to get it from the infobox
-    let name = this.getValueFromText(data.data.character_name);
-    if (!name) {
-      name = data.name;
-    }
-    return name;
+    return this.getValueFromText(data.data.character_name);
   },
 
   // http://www.foo.bar/Spider-Man

@@ -50,6 +50,11 @@ glob(`${urlsPath}/*.json`, (errGlob, files) => {
         pageviews
       };
 
+      if (!data.name) {
+        data.name = helper.getCharacterNameFromUrl(url);
+      }
+
+
       const filepath = helper.getJSONFilepathFromUrl(url, distPath);
       helper.writeJSON(filepath, data);
     });

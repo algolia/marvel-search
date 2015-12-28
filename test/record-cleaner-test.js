@@ -206,19 +206,6 @@ describe('Cleaner', () => {
       // Then
       expect(actual).toEqual('Iron Man');
     });
-    it('should get it from name if no character name', () => {
-      // Given
-      let input = {
-        name: 'War Machine',
-        data: {}
-      };
-
-      // When
-      let actual = Cleaner.getCharacterName(input);
-
-      // Then
-      expect(actual).toEqual('War Machine');
-    });
   });
 
   describe('cleanUp', () => {

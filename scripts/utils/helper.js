@@ -3,6 +3,7 @@ import Path from 'path';
 import jsonfile from 'jsonfile';
 
 const Helper = {
+  // Split a string on several separators
   multiSplit(string, ...separators) {
     let results = [string];
     let tmp = [];
@@ -20,6 +21,14 @@ const Helper = {
   },
   getWikipediaName(url) {
     return Path.basename(URL.parse(url).pathname);
+  },
+  getCharacterNameFromUrl(url) {
+    let name = this.getWikipediaName(url);
+    name = name.replace(/\((.*)\)/g, '');
+    name = name.replace(/_/g, ' ');
+    name = name.trim();
+
+    return name;
   },
   getJSONFilepathFromUrl(url, basepath = null) {
     let basename = this.getWikipediaName(url);
