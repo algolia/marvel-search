@@ -21,6 +21,7 @@ glob(`${urlsPath}/*.json`, (errGlob, files) => {
     urlList.push.apply(urlList, jsonfile.readFileSync(file));
   });
 
+  // We merge all info together
   forEach(urlList, (url) => {
     let infoboxPath = helper.getJSONFilepathFromUrl(url, infoboxesPath);
     if (!fs.existsSync(infoboxPath)) {
