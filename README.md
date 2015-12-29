@@ -29,9 +29,6 @@ All intermediate files are stored in `./download`
 ## TODO
 
 - Remove duplicates due to redirects (Red Skull)
-- Add image placeholder
 - Get real name for heroes (cf Spider-man Noir) (Use url name?)
 - Facet sidebar
-- Pagination
-- allOptional?
 

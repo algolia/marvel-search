@@ -37,6 +37,9 @@ search.addWidget(
       if (data.powersText) {
         data.powersText = data.powersText.join('<br>');
       }
+      if (!data.image.url) {
+        data.image.url = './default.jpg';
+      }
       return data;
     }
   })
