@@ -28,9 +28,15 @@ search.addWidget(
       item: hitTemplate
     },
     transformData: function(data) {
-      data.creators = data.creators.join(', ');
-      data.species = data.species.join(', ');
-      data.powersText = data.powersText.join('<br>');
+      if (data.creators) {
+        data.creators = data.creators.join(', ');
+      }
+      if (data.species) {
+        data.species = data.species.join(', ');
+      }
+      if (data.powersText) {
+        data.powersText = data.powersText.join('<br>');
+      }
       return data;
     }
   })
