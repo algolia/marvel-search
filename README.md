@@ -34,5 +34,4 @@ All intermediate files are stored in `./download`
 - Facet sidebar
 - Pagination
 - allOptional?
-- Bug on query "so"
 

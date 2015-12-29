@@ -34,7 +34,8 @@ let indexSettings = {
   customRanking: [
     'desc(pageviews)'
   ],
-  hitsPerPage: 200
+  hitsPerPage: 200,
+  removeWordsIfNoResults: 'allOptional'
 };
 
 glob(`${recordsPath}/*.json`, (errGlob, recordFiles) => {

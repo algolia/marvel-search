@@ -22,12 +22,12 @@ var noResultsTemplate =
 search.addWidget(
   instantsearch.widgets.hits({
     container: '#hits',
-    hitsPerPage: 115,
+    hitsPerPage: 200,
     templates: {
       empty: noResultsTemplate,
       item: hitTemplate
     },
-    transformData: function(data) {
+    transformData: function (data) {
       if (data.creators) {
         data.creators = data.creators.join(', ');
       }
@@ -47,6 +47,21 @@ search.addWidget(
     container: '#stats'
   })
 );
+
+search.addWidget(
+  instantsearch.widgets.pagination({
+    container: '#pagination',
+    cssClasses: {
+      active: 'active'
+    },
+    labels: {
+      previous: '<i class="fa fa-angle-left fa-2x"></i> Previous page',
+      next: 'Next page <i class="fa fa-angle-right fa-2x"></i>'
+    },
+    showFirstLast: false
+  })
+);
+
 
 
 search.start();
