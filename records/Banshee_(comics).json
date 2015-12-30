@@ -1,25 +1,18 @@
 {
-  "name": "Banshee",
-  "url": "https://en.wikipedia.org/wiki/Banshee_(comics)",
-  "realName": "Sean Cassidy",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Werner Roth"
   ],
-  "teams": [
-    "Interpol",
-    "NYPD",
-    "Factor Three",
-    "X-Men",
-    "Generation X",
-    "X-Corps",
-    "Horsemen of Death"
+  "image": {
+    "height": "339",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BansheeBraithwaite.png/250px-BansheeBraithwaite.png",
+    "width": "250"
+  },
+  "name": "Banshee",
+  "pageviews": 16737,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Black Tom Cassidy"
   ],
@@ -35,10 +28,18 @@
     "or unconsciousness",
     "Immunity to powers of Black Tom Cassidy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BansheeBraithwaite.png/250px-BansheeBraithwaite.png",
-    "width": "250",
-    "height": "339"
-  },
-  "pageviews": 16737
+  "realName": "Sean Cassidy",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Interpol",
+    "NYPD",
+    "Factor Three",
+    "X-Men",
+    "Generation X",
+    "X-Corps",
+    "Horsemen of Death"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Banshee_(comics)"
 }

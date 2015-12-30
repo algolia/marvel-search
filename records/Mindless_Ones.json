@@ -1,24 +1,28 @@
 {
-  "name": "Mindless Ones",
-  "url": "https://en.wikipedia.org/wiki/Mindless_Ones",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "409",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Mindless_One.jpg/250px-Mindless_One.jpg",
+    "width": "250"
+  },
+  "name": "Mindless Ones",
+  "pageviews": 3790,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and resistance to injury",
     "Energy projection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Mindless_One.jpg/250px-Mindless_One.jpg",
-    "width": "250",
-    "height": "409"
-  },
-  "pageviews": 3790
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mindless_Ones"
 }

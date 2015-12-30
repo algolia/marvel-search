@@ -1,17 +1,17 @@
 {
-  "name": "Gilgamesh",
-  "url": "https://en.wikipedia.org/wiki/Forgotten_One_(comics)",
-  "realName": null,
+  "aliases": "Gilgamesh, Dragon-Slayer, Hero, Forgotten Nemesis, Hercules, Samson, Atlas, others unrevealed",
   "creators": [
     "Jack Kirby"
   ],
-  "teams": [
-    "Eternals",
-    "Avengers"
+  "image": {
+    "height": "366",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Eternals5.jpg/250px-Eternals5.jpg",
+    "width": "250"
+  },
+  "name": "Gilgamesh",
+  "pageviews": 3628,
+  "partners": [
   ],
-  "aliases": "Gilgamesh, Dragon-Slayer, Hero, Forgotten Nemesis, Hercules, Samson, Atlas, others unrevealed",
-  "species": [],
-  "partners": [],
   "powers": [
     "healing factor"
   ],
@@ -27,10 +27,12 @@
     "Repressed aging",
     "Immunity to disease"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Eternals5.jpg/250px-Eternals5.jpg",
-    "width": "250",
-    "height": "366"
-  },
-  "pageviews": 3628
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Eternals",
+    "Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Forgotten_One_(comics)"
 }

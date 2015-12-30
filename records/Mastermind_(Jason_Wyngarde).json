@@ -1,10 +1,27 @@
 {
-  "name": "Mastermind",
-  "url": "https://en.wikipedia.org/wiki/Mastermind_(Jason_Wyngarde)",
-  "realName": "Jason Wyngarde",
+  "aliases": "Nikos",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "391",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Classicx31.png/250px-Classicx31.png",
+    "width": "250"
+  },
+  "name": "Mastermind",
+  "pageviews": 9585,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Illusion creation",
+    "Memory alteration and erasure"
+  ],
+  "realName": "Jason Wyngarde",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Secret Empire",
@@ -12,20 +29,5 @@
     "Factor Three",
     "Hellfire Club"
   ],
-  "aliases": "Nikos",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Illusion creation",
-    "Memory alteration and erasure"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Classicx31.png/250px-Classicx31.png",
-    "width": "250",
-    "height": "391"
-  },
-  "pageviews": 9585
+  "url": "https://en.wikipedia.org/wiki/Mastermind_(Jason_Wyngarde)"
 }

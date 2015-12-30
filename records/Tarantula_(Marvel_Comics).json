@@ -1,20 +1,21 @@
 {
-  "name": "Tarantula",
-  "url": "https://en.wikipedia.org/wiki/Tarantula_(Marvel_Comics)",
-  "realName": "- Clay Riley<br> - Anton Miguel Rodriguez<br> - Luis Alvarez<br> - Maria Vasquez",
+  "aliases": "(Riley)<br>Clay Rider<br>(Rodriguez)<br> Mr. Valdez<br>(Alvarez)<br>El Arana<br>(both)<br>La Tarantula",
   "creators": [
     "Gerry Conway",
     "Ross Andru",
     "Alex Saviuk"
   ],
-  "teams": [
-    "Brand Corporation",
-    "Heroes for Hire"
+  "image": {
+    "height": "368",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/ASM134Cover.jpg/250px-ASM134Cover.jpg",
+    "width": "250"
+  },
+  "name": "Tarantula",
+  "pageviews": 5212,
+  "partners": [
   ],
-  "aliases": "(Riley)<br>Clay Rider<br>(Rodriguez)<br> Mr. Valdez<br>(Alvarez)<br>El Arana<br>(both)<br>La Tarantula",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(Riley)",
     "Expert with a whip",
@@ -43,10 +44,12 @@
     "Wrist blades",
     "finger claws and toe blades incorporated into costume"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/ASM134Cover.jpg/250px-ASM134Cover.jpg",
-    "width": "250",
-    "height": "368"
-  },
-  "pageviews": 5212
+  "realName": "- Clay Riley<br> - Anton Miguel Rodriguez<br> - Luis Alvarez<br> - Maria Vasquez",
+  "species": [
+  ],
+  "teams": [
+    "Brand Corporation",
+    "Heroes for Hire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tarantula_(Marvel_Comics)"
 }

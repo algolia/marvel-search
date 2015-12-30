@@ -1,26 +1,29 @@
 {
-  "name": "Warrior Woman",
-  "url": "https://en.wikipedia.org/wiki/Warrior_Woman_(Marvel_Comics)",
-  "realName": "Julia Frieda Koenig Lohmer",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Frank Robbins"
   ],
-  "teams": [
-    "Super-Axis"
+  "image": {
+    "height": "374",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Invaders-17.jpg/250px-Invaders-17.jpg",
+    "width": "250"
+  },
+  "name": "Warrior Woman",
+  "pageviews": 1213,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Excellent skills in espionage and hypnotism",
     "Enhanced strength and stamina"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Invaders-17.jpg/250px-Invaders-17.jpg",
-    "width": "250",
-    "height": "374"
-  },
-  "pageviews": 1213
+  "realName": "Julia Frieda Koenig Lohmer",
+  "species": [
+  ],
+  "teams": [
+    "Super-Axis"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Warrior_Woman_(Marvel_Comics)"
 }

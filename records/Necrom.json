@@ -1,14 +1,14 @@
 {
-  "name": "Necrom",
-  "url": "https://en.wikipedia.org/wiki/Necrom",
-  "realName": "Necrom",
+  "aliases": "The Anti-Phoenix (host)",
   "creators": [
     "Alan Davis"
   ],
-  "teams": [],
-  "aliases": "The Anti-Phoenix (host)",
-  "species": [],
-  "partners": [],
+  "image": {
+  },
+  "name": "Necrom",
+  "pageviews": 1165,
+  "partners": [
+  ],
   "powers": [
     "necromancy",
     "energy vampire"
@@ -23,6 +23,10 @@
     "immortal",
     "shape-shifting."
   ],
-  "image": {},
-  "pageviews": 1165
+  "realName": "Necrom",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Necrom"
 }

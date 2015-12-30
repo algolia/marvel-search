@@ -1,26 +1,30 @@
 {
-  "name": "Swarm",
-  "url": "https://en.wikipedia.org/wiki/Swarm_(comics)",
-  "realName": "Fritz von Meyer",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "John Byrne"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "272",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Swarm_%28comics%29.png/250px-Swarm_%28comics%29.png",
+    "width": "250"
+  },
+  "name": "Swarm",
+  "pageviews": 4234,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Flight",
     "Intangibility",
     "Shapeshifting",
     "Ability to mentally manipulate the bees that compose his body"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Swarm_%28comics%29.png/250px-Swarm_%28comics%29.png",
-    "width": "250",
-    "height": "272"
-  },
-  "pageviews": 4234
+  "realName": "Fritz von Meyer",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Swarm_(comics)"
 }

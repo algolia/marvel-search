@@ -1,23 +1,27 @@
 {
-  "name": "Bison",
-  "url": "https://en.wikipedia.org/wiki/Bison_(comics)",
-  "realName": "William \"Billy\" Kitson",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz",
     "Al Milgrom"
   ],
-  "teams": [
-    "Masters of Evil"
+  "image": {
+  },
+  "name": "Bison",
+  "pageviews": 562,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "horns"
   ],
-  "image": {},
-  "pageviews": 562
+  "realName": "William \"Billy\" Kitson",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bison_(comics)"
 }

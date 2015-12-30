@@ -1,18 +1,19 @@
 {
-  "name": "Bombshell",
-  "url": "https://en.wikipedia.org/wiki/Bombshell_(Marvel_Comics)",
-  "realName": "Wendy Conrad",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald"
   ],
-  "teams": [
-    "Death-Throws",
-    "Femizons"
+  "image": {
+    "height": "197",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Bombshell_Marvel.jpg",
+    "width": "156"
+  },
+  "name": "Bombshell",
+  "pageviews": 2243,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Master juggler",
     "Explosives expert",
@@ -20,10 +21,12 @@
     "Formerly:",
     "Explosive energy projection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Bombshell_Marvel.jpg",
-    "width": "156",
-    "height": "197"
-  },
-  "pageviews": 2243
+  "realName": "Wendy Conrad",
+  "species": [
+  ],
+  "teams": [
+    "Death-Throws",
+    "Femizons"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bombshell_(Marvel_Comics)"
 }

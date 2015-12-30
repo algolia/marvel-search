@@ -1,20 +1,20 @@
 {
-  "name": "Xavin",
-  "url": "https://en.wikipedia.org/wiki/Xavin",
-  "realName": "Xavin",
+  "aliases": "",
   "creators": [
     "Brian K. Vaughan",
     "Adrian Alphona"
   ],
-  "teams": [
-    "Runaways"
+  "image": {
+    "height": "376",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Xavincover.jpg/250px-Xavincover.jpg",
+    "width": "250"
+  },
+  "name": "Xavin",
+  "pageviews": 4077,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Skrull"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength and durability",
     "Shapeshifting",
@@ -24,10 +24,12 @@
     "Invisibility",
     "Force field projection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Xavincover.jpg/250px-Xavincover.jpg",
-    "width": "250",
-    "height": "376"
-  },
-  "pageviews": 4077
+  "realName": "Xavin",
+  "species": [
+    "Skrull"
+  ],
+  "teams": [
+    "Runaways"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Xavin"
 }

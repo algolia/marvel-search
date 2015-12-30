@@ -1,24 +1,20 @@
 {
-  "name": "Blade",
-  "url": "https://en.wikipedia.org/wiki/Blade_(comics)",
-  "realName": "Eric Brooks",
+  "aliases": "Daywalker, Frank Blade, SwitchBlade, Spider Hero, Ronin",
   "creators": [
     "Marv Wolfman",
     "Gene Colan"
   ],
-  "teams": [
-    "MI: 13",
-    "Nightstalkers",
-    "Vanguard",
-    "Midnight Sons",
-    "Mighty Avengers"
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Blademu0.png/250px-Blademu0.png",
+    "width": "250"
+  },
+  "name": "Blade",
+  "pageviews": 44190,
+  "partners": [
   ],
-  "aliases": "Daywalker, Frank Blade, SwitchBlade, Spider Hero, Ronin",
-  "species": [
-    "Dhampir"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Master martial artist",
     "Skilled swordsman",
@@ -34,10 +30,16 @@
     "Use of throwing knives",
     "Ability to sense supernatural creatures"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Blademu0.png/250px-Blademu0.png",
-    "width": "250",
-    "height": "382"
-  },
-  "pageviews": 44190
+  "realName": "Eric Brooks",
+  "species": [
+    "Dhampir"
+  ],
+  "teams": [
+    "MI: 13",
+    "Nightstalkers",
+    "Vanguard",
+    "Midnight Sons",
+    "Mighty Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blade_(comics)"
 }

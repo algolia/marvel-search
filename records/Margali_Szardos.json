@@ -1,18 +1,20 @@
 {
-  "name": "Margali Szardos",
-  "url": "https://en.wikipedia.org/wiki/Margali_Szardos",
-  "realName": "Margali Szardos",
+  "aliases": "Margali of the Winding Way, Red Queen, Fata Morgana",
   "creators": [
     "Chris Claremont",
     "John Romita, Jr."
   ],
-  "teams": [
-    "Hellfire Club"
+  "image": {
+    "height": "336",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Margali.png",
+    "width": "205"
+  },
+  "name": "Margali Szardos",
+  "pageviews": 2191,
+  "partners": [
   ],
-  "aliases": "Margali of the Winding Way, Red Queen, Fata Morgana",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Spell-casting",
     "transformation",
@@ -20,10 +22,11 @@
     "extendable claws",
     "mystic energy blasts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Margali.png",
-    "width": "205",
-    "height": "336"
-  },
-  "pageviews": 2191
+  "realName": "Margali Szardos",
+  "species": [
+  ],
+  "teams": [
+    "Hellfire Club"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Margali_Szardos"
 }

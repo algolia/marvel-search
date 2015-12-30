@@ -1,19 +1,18 @@
 {
-  "name": "Firelord",
-  "url": "https://en.wikipedia.org/wiki/Firelord_(comics)",
-  "realName": "Pyreus Kril",
+  "aliases": "Nova Centurion",
   "creators": [
     "Gerry Conway",
     "John Buscema"
   ],
-  "teams": [
-    "Heralds of Galactus",
-    "Nova Corps",
-    "United Front"
+  "image": {
+    "height": "385",
+    "url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Avengers-258.jpg",
+    "width": "250"
+  },
+  "name": "Firelord",
+  "pageviews": 5662,
+  "partners": [
   ],
-  "aliases": "Nova Centurion",
-  "species": [],
-  "partners": [],
   "powers": [
     "Power Cosmic"
   ],
@@ -28,10 +27,13 @@
     "Wields a flaming staff",
     "Energy projection via his eyes and staff"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Avengers-258.jpg",
-    "width": "250",
-    "height": "385"
-  },
-  "pageviews": 5662
+  "realName": "Pyreus Kril",
+  "species": [
+  ],
+  "teams": [
+    "Heralds of Galactus",
+    "Nova Corps",
+    "United Front"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Firelord_(comics)"
 }

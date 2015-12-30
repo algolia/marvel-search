@@ -1,19 +1,18 @@
 {
-  "name": "Mephisto",
-  "url": "https://en.wikipedia.org/wiki/Mephisto_(comics)",
-  "realName": null,
+  "aliases": "Satan, Lucifer, The Devil, Mephistopheles",
   "creators": [
     "Stan Lee",
     "John Buscema"
   ],
-  "teams": [
-    "Legion Accursed"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/OMD_Mephisto-Final.PNG/187px-OMD_Mephisto-Final.PNG",
+    "width": "187"
+  },
+  "name": "Mephisto",
+  "pageviews": 23965,
+  "partners": [
   ],
-  "aliases": "Satan, Lucifer, The Devil, Mephistopheles",
-  "species": [
-    "Demon"
-  ],
-  "partners": [],
   "powers": [
     "physical attributes",
     "intelligence",
@@ -25,10 +24,12 @@
     "Immortality",
     "Magic"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/OMD_Mephisto-Final.PNG/187px-OMD_Mephisto-Final.PNG",
-    "width": "187",
-    "height": "450"
-  },
-  "pageviews": 23965
+  "realName": null,
+  "species": [
+    "Demon"
+  ],
+  "teams": [
+    "Legion Accursed"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mephisto_(comics)"
 }

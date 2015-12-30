@@ -1,24 +1,28 @@
 {
-  "name": "Super Rabbit",
-  "url": "https://en.wikipedia.org/wiki/Super_Rabbit",
-  "realName": "Waffles Bunny",
+  "aliases": "",
   "creators": [
     "Ernie Hart"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "269",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/SuperRabbit6.jpg/180px-SuperRabbit6.jpg",
+    "width": "180"
+  },
+  "name": "Super Rabbit",
+  "pageviews": 859,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Super strength",
     "Flight",
     "Invulnerability except for a single spot at top of head"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/SuperRabbit6.jpg/180px-SuperRabbit6.jpg",
-    "width": "180",
-    "height": "269"
-  },
-  "pageviews": 859
+  "realName": "Waffles Bunny",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Super_Rabbit"
 }

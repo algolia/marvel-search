@@ -1,24 +1,28 @@
 {
-  "name": "Hybrid",
-  "url": "https://en.wikipedia.org/wiki/Hybrid_(Jimmy_Marks)",
-  "realName": "James \"Jimmy\" Marks",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "teams": [
-    "Avengers Academy"
+  "image": {
+  },
+  "name": "Hybrid",
+  "pageviews": 971,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Telekinesis",
     "Telepathy",
     "Transformation",
     "Superhuman strength"
   ],
-  "image": {},
-  "pageviews": 971
+  "realName": "James \"Jimmy\" Marks",
+  "species": [
+  ],
+  "teams": [
+    "Avengers Academy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hybrid_(Jimmy_Marks)"
 }

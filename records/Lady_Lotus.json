@@ -1,20 +1,18 @@
 {
-  "name": "Lady Lotus",
-  "url": "https://en.wikipedia.org/wiki/Lady_Lotus",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Don Glut",
     "Rick Hoberg",
     "Chic Stone",
     "Alan Kupperberg"
   ],
-  "teams": [
-    "Super-Axis"
-  ],
-  "aliases": "",
-  "species": [
-    "Human mutant"
-  ],
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Lady_Lotus.jpg",
+    "width": "192"
+  },
+  "name": "Lady Lotus",
+  "pageviews": 797,
   "partners": [
     "Yellow Claw"
   ],
@@ -33,10 +31,12 @@
     "Limited precognition",
     "Slow aging"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Lady_Lotus.jpg",
-    "width": "192",
-    "height": "300"
-  },
-  "pageviews": 797
+  "realName": null,
+  "species": [
+    "Human mutant"
+  ],
+  "teams": [
+    "Super-Axis"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lady_Lotus"
 }

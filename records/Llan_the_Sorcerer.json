@@ -1,17 +1,23 @@
 {
-  "name": "Llan the Sorcerer",
-  "url": "https://en.wikipedia.org/wiki/Llan_the_Sorcerer",
-  "realName": null,
+  "aliases": "The Sorcerer, Dexter Rayne",
   "creators": [
     "James D. Hudnall",
     "John Calimee"
   ],
-  "teams": [],
-  "aliases": "The Sorcerer, Dexter Rayne",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 562
+  "image": {
+  },
+  "name": "Llan the Sorcerer",
+  "pageviews": 562,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Llan_the_Sorcerer"
 }

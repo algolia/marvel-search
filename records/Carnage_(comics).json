@@ -1,20 +1,17 @@
 {
-  "name": "Carnage",
-  "url": "https://en.wikipedia.org/wiki/Carnage_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "Erik Larsen",
     "Mark Bagley"
   ],
-  "teams": [
-    "Maximum Carnage",
-    "Astonishing Avengers"
-  ],
-  "aliases": "",
-  "species": [
-    "Symbiote"
-  ],
+  "image": {
+    "height": "272",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Smcarnage.jpg/250px-Smcarnage.jpg",
+    "width": "250"
+  },
+  "name": "Carnage",
+  "pageviews": 61987,
   "partners": [
     "Shriek",
     "Demogoblin",
@@ -27,10 +24,13 @@
   "powersText": [
     "Alien symbiote"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Smcarnage.jpg/250px-Smcarnage.jpg",
-    "width": "250",
-    "height": "272"
-  },
-  "pageviews": 61987
+  "realName": null,
+  "species": [
+    "Symbiote"
+  ],
+  "teams": [
+    "Maximum Carnage",
+    "Astonishing Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Carnage_(comics)"
 }

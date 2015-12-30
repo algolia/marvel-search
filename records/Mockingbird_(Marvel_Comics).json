@@ -1,8 +1,30 @@
 {
+  "aliases": "Barbara Morse-Barton, Roberta Morse, Agent 19, the Huntress",
+  "creators": [
+  ],
+  "image": {
+    "height": "370",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/NewAvengerReunion01.jpg",
+    "width": "250"
+  },
   "name": "Mockingbird",
-  "url": "https://en.wikipedia.org/wiki/Mockingbird_(Marvel_Comics)",
+  "pageviews": 66703,
+  "partners": [
+    "Hawkeye"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Genius biologist",
+    "Superbly trained athlete",
+    "gymnast",
+    "unarmed combatant and spy",
+    "Expert with Battle-stave weapon",
+    "Greatly enhanced strength and agility"
+  ],
   "realName": "",
-  "creators": [],
+  "species": [
+  ],
   "teams": [
     "S.H.I.E.L.D.",
     "Avengers",
@@ -13,24 +35,5 @@
     "World Counter-terrorism Agency",
     "Secret Avengers"
   ],
-  "aliases": "Barbara Morse-Barton, Roberta Morse, Agent 19, the Huntress",
-  "species": [],
-  "partners": [
-    "Hawkeye"
-  ],
-  "powers": [],
-  "powersText": [
-    "Genius biologist",
-    "Superbly trained athlete",
-    "gymnast",
-    "unarmed combatant and spy",
-    "Expert with Battle-stave weapon",
-    "Greatly enhanced strength and agility"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/NewAvengerReunion01.jpg",
-    "width": "250",
-    "height": "370"
-  },
-  "pageviews": 66703
+  "url": "https://en.wikipedia.org/wiki/Mockingbird_(Marvel_Comics)"
 }

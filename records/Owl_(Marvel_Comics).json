@@ -1,18 +1,20 @@
 {
-  "name": "The Owl",
-  "url": "https://en.wikipedia.org/wiki/Owl_(Marvel_Comics)",
-  "realName": "Leland Owlsley",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Joe Orlando"
   ],
-  "teams": [
-    "Sinister Six"
+  "image": {
+    "height": "304",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Owlmaleev.jpg/250px-Owlmaleev.jpg",
+    "width": "250"
+  },
+  "name": "The Owl",
+  "pageviews": 26686,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Extremely skilled criminal organizer and money launderer",
     "Superhuman sight and hearing",
@@ -23,10 +25,11 @@
     "Natural razor-sharp fangs and talons (with attachment devices)",
     "Ability to glide short distances"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Owlmaleev.jpg/250px-Owlmaleev.jpg",
-    "width": "250",
-    "height": "304"
-  },
-  "pageviews": 26686
+  "realName": "Leland Owlsley",
+  "species": [
+  ],
+  "teams": [
+    "Sinister Six"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Owl_(Marvel_Comics)"
 }

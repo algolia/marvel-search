@@ -1,19 +1,19 @@
 {
-  "name": "Blue Marvel",
-  "url": "https://en.wikipedia.org/wiki/Blue_Marvel_(Marvel_Comics)",
-  "realName": "Adam Bernard Brashear",
+  "aliases": "",
   "creators": [
     "Kevin Grevioux"
   ],
-  "teams": [
-    "United States Marine Corps",
-    "Mighty Avengers",
-    "Ultimates"
+  "image": {
+    "height": "157",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg/250px-Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg",
+    "width": "250"
+  },
+  "name": "Blue Marvel",
+  "pageviews": 22570,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius engineer and physicist",
     "Vast superhuman strength",
@@ -28,10 +28,13 @@
     "Regenerative healing factor",
     "Light creation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg/250px-Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg",
-    "width": "250",
-    "height": "157"
-  },
-  "pageviews": 22570
+  "realName": "Adam Bernard Brashear",
+  "species": [
+  ],
+  "teams": [
+    "United States Marine Corps",
+    "Mighty Avengers",
+    "Ultimates"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blue_Marvel_(Marvel_Comics)"
 }

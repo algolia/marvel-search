@@ -1,24 +1,28 @@
 {
-  "name": "Monsteroso",
-  "url": "https://en.wikipedia.org/wiki/Monsteroso",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "297",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Amazing_Adventures_5.png/200px-Amazing_Adventures_5.png",
+    "width": "200"
+  },
+  "name": "Monsteroso",
+  "pageviews": 211,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "superhuman strength",
     "endurance and durability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Amazing_Adventures_5.png/200px-Amazing_Adventures_5.png",
-    "width": "200",
-    "height": "297"
-  },
-  "pageviews": 211
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Monsteroso"
 }

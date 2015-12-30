@@ -1,22 +1,20 @@
 {
-  "name": "Hepzibah",
-  "url": "https://en.wikipedia.org/wiki/Hepzibah_(comics)",
-  "realName": null,
+  "aliases": "Mam'selle Hepzibah, Zee, Lady Kitten",
   "creators": [
     "Dave Cockrum",
     "Chris Claremont"
   ],
-  "teams": [
-    "X-Men",
-    "X-Force",
-    "Starjammers"
+  "image": {
+    "height": "374",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Hepzibah_the_Starjammer.jpg/250px-Hepzibah_the_Starjammer.jpg",
+    "width": "250"
+  },
+  "name": "Hepzibah",
+  "pageviews": 3954,
+  "partners": [
   ],
-  "aliases": "Mam'selle Hepzibah, Zee, Lady Kitten",
-  "species": [
-    "Mephitisoid"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Enhanced agility",
     "speed",
@@ -28,10 +26,14 @@
     "mind/mood-altering pheromones",
     "and night vision."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Hepzibah_the_Starjammer.jpg/250px-Hepzibah_the_Starjammer.jpg",
-    "width": "250",
-    "height": "374"
-  },
-  "pageviews": 3954
+  "realName": null,
+  "species": [
+    "Mephitisoid"
+  ],
+  "teams": [
+    "X-Men",
+    "X-Force",
+    "Starjammers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hepzibah_(comics)"
 }

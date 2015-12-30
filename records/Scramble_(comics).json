@@ -1,26 +1,29 @@
 {
-  "name": "Scramble",
-  "url": "https://en.wikipedia.org/wiki/Scramble_(comics)",
-  "realName": "Lionel Jeffries",
+  "aliases": "Scramble the Mixed-Up Man, Omega (amalgamated into him with Roger Bochs )",
   "creators": [
     "Bill Mantlo",
     "Mike Mignola"
   ],
-  "teams": [
-    "Alpha Flight"
+  "image": {
+    "height": "153",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Scramble.JPG/160px-Scramble.JPG",
+    "width": "160"
+  },
+  "name": "Scramble",
+  "pageviews": 626,
+  "partners": [
   ],
-  "aliases": "Scramble the Mixed-Up Man, Omega (amalgamated into him with Roger Bochs )",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Manipulate organic matter",
     "includes healing"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Scramble.JPG/160px-Scramble.JPG",
-    "width": "160",
-    "height": "153"
-  },
-  "pageviews": 626
+  "realName": "Lionel Jeffries",
+  "species": [
+  ],
+  "teams": [
+    "Alpha Flight"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scramble_(comics)"
 }

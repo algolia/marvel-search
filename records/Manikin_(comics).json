@@ -1,24 +1,27 @@
 {
-  "name": "Manikin",
-  "url": "https://en.wikipedia.org/wiki/Manikin_(comics)",
-  "realName": "Whitman Knapp",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Dave Ross"
+  ],
+  "image": {
+  },
+  "name": "Manikin",
+  "pageviews": 639,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to summon three genetic relatives from various points of human evolution"
+  ],
+  "realName": "Whitman Knapp",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Alpha Flight",
     "Beta Flight"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to summon three genetic relatives from various points of human evolution"
-  ],
-  "image": {},
-  "pageviews": 639
+  "url": "https://en.wikipedia.org/wiki/Manikin_(comics)"
 }

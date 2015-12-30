@@ -1,25 +1,29 @@
 {
-  "name": "Woodgod",
-  "url": "https://en.wikipedia.org/wiki/Woodgod",
-  "realName": "Woodgod",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Keith Giffen"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Woodgod.jpg/249px-Woodgod.jpg",
+    "width": "249"
+  },
+  "name": "Woodgod",
+  "pageviews": 577,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman Strength",
     "enhanced senses",
     "knowledge of advanced genetic engineering techniques. Immunity to nerve gas."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Woodgod.jpg/249px-Woodgod.jpg",
-    "width": "249",
-    "height": "386"
-  },
-  "pageviews": 577
+  "realName": "Woodgod",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Woodgod"
 }

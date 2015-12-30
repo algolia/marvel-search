@@ -1,28 +1,30 @@
 {
-  "name": "Super Sabre",
-  "url": "https://en.wikipedia.org/wiki/Super_Sabre_(comics)",
-  "realName": "Martin Fletcher",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Alan Davis"
+  ],
+  "image": {
+    "height": "151",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/1e/SuperSabreDavis.jpg",
+    "width": "250"
+  },
+  "name": "Super Sabre",
+  "pageviews": 1057,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman Speed"
+  ],
+  "realName": "Martin Fletcher",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Brotherhood of Mutants",
     "Freedom Force"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman Speed"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/1e/SuperSabreDavis.jpg",
-    "width": "250",
-    "height": "151"
-  },
-  "pageviews": 1057
+  "url": "https://en.wikipedia.org/wiki/Super_Sabre_(comics)"
 }

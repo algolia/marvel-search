@@ -1,15 +1,18 @@
 {
-  "name": "Scourge of the Underworld",
-  "url": "https://en.wikipedia.org/wiki/Scourge_of_the_Underworld",
-  "realName": "various",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "John Byrne"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "551",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Scourge_of_the_Underworld.jpg/200px-Scourge_of_the_Underworld.jpg",
+    "width": "200"
+  },
+  "name": "Scourge of the Underworld",
+  "pageviews": 8253,
+  "partners": [
+  ],
   "powers": [
     "disguise"
   ],
@@ -17,10 +20,10 @@
     "Master of disguise",
     "Exploding armor-piercing bullets"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Scourge_of_the_Underworld.jpg/200px-Scourge_of_the_Underworld.jpg",
-    "width": "200",
-    "height": "551"
-  },
-  "pageviews": 8253
+  "realName": "various",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scourge_of_the_Underworld"
 }

@@ -1,17 +1,17 @@
 {
-  "name": "Zarathos",
-  "url": "https://en.wikipedia.org/wiki/Zarathos",
-  "realName": null,
+  "aliases": "Ghost Rider",
   "creators": [
     "Roy Thomas",
     "Gary Friedrich",
     "Mike Ploog"
   ],
-  "teams": [],
-  "aliases": "Ghost Rider",
-  "species": [
-    "Demon"
-  ],
+  "image": {
+    "height": "368",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/52_1_b-1-.jpg/240px-52_1_b-1-.jpg",
+    "width": "240"
+  },
+  "name": "Zarathos",
+  "pageviews": 7741,
   "partners": [
     "Mephisto",
     "Lilith"
@@ -28,10 +28,11 @@
     "Healing factor",
     "Elemental powers"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/52_1_b-1-.jpg/240px-52_1_b-1-.jpg",
-    "width": "240",
-    "height": "368"
-  },
-  "pageviews": 7741
+  "realName": null,
+  "species": [
+    "Demon"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Zarathos"
 }

@@ -1,27 +1,18 @@
 {
-  "name": "Professor X",
-  "url": "https://en.wikipedia.org/wiki/Professor_X",
-  "realName": "Charles Francis Xavier",
+  "aliases": "Onslaught , Consort-Royal, Founder, Doctor X, Warlord, Entity, Prisoner M-13",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "X-Men",
-    "Illuminati",
-    "Genoshan Excalibur",
-    "Cadre K",
-    "Brotherhood of Mutants",
-    "Shi'ar Imperium",
-    "Starjammers",
-    "The Twelve",
-    "Defenders"
+  "image": {
+    "height": "262",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Xav-lopr.png/250px-Xav-lopr.png",
+    "width": "250"
+  },
+  "name": "Professor X",
+  "pageviews": 61021,
+  "partners": [
   ],
-  "aliases": "Onslaught , Consort-Royal, Founder, Doctor X, Warlord, Entity, Prisoner M-13",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Telepathy",
     "Empathy",
@@ -39,10 +30,20 @@
     "Illusion casting",
     "Astral projection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Xav-lopr.png/250px-Xav-lopr.png",
-    "width": "250",
-    "height": "262"
-  },
-  "pageviews": 61021
+  "realName": "Charles Francis Xavier",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men",
+    "Illuminati",
+    "Genoshan Excalibur",
+    "Cadre K",
+    "Brotherhood of Mutants",
+    "Shi'ar Imperium",
+    "Starjammers",
+    "The Twelve",
+    "Defenders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Professor_X"
 }

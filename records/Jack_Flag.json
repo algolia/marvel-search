@@ -1,29 +1,31 @@
 {
-  "name": "Jack Flag",
-  "url": "https://en.wikipedia.org/wiki/Jack_Flag",
-  "realName": "Jack Harrison",
+  "aliases": "King Cobra, AZ-1260",
   "creators": [
     "Mark Gruenwald",
     "Dave Hoover"
   ],
-  "teams": [
-    "Guardians of the Galaxy"
-  ],
-  "aliases": "King Cobra, AZ-1260",
-  "species": [],
+  "image": {
+    "height": "319",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Jackflag.PNG/250px-Jackflag.PNG",
+    "width": "250"
+  },
+  "name": "Jack Flag",
+  "pageviews": 4183,
   "partners": [
     "Captain America"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
     "stamina"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Jackflag.PNG/250px-Jackflag.PNG",
-    "width": "250",
-    "height": "319"
-  },
-  "pageviews": 4183
+  "realName": "Jack Harrison",
+  "species": [
+  ],
+  "teams": [
+    "Guardians of the Galaxy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jack_Flag"
 }

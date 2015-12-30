@@ -1,21 +1,20 @@
 {
-  "name": "Jack of Hearts",
-  "url": "https://en.wikipedia.org/wiki/Jack_of_Hearts",
-  "realName": "Jonathan \"Jack\" Hart",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Keith Giffen"
   ],
-  "teams": [
-    "Avengers",
-    "Defenders"
+  "image": {
+    "height": "277",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/99/JackofHearts.jpg",
+    "width": "182"
+  },
+  "name": "Jack of Hearts",
+  "pageviews": 7151,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Contraxian"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Concussive blasts",
     "Flight",
@@ -26,10 +25,13 @@
     "durability",
     "and memory"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/99/JackofHearts.jpg",
-    "width": "182",
-    "height": "277"
-  },
-  "pageviews": 7151
+  "realName": "Jonathan \"Jack\" Hart",
+  "species": [
+    "Contraxian"
+  ],
+  "teams": [
+    "Avengers",
+    "Defenders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jack_of_Hearts"
 }

@@ -1,31 +1,33 @@
 {
-  "name": "Gazer",
-  "url": "https://en.wikipedia.org/wiki/Gazer",
-  "realName": null,
+  "aliases": "War",
   "creators": [
     "Peter Milligan",
     "Salvador Larroca"
   ],
-  "teams": [
-    "Four Horsemen of Apocalypse",
-    "NASA"
+  "image": {
+    "height": "279",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GazerWar.png/250px-GazerWar.png",
+    "width": "250"
+  },
+  "name": "Gazer",
+  "pageviews": 2284,
+  "partners": [
   ],
-  "aliases": "War",
-  "species": [
-    "Human Mutant",
-    "Human Mutate"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength and physical resistance",
     "Optic blasts",
     "Ability to absorb radiation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GazerWar.png/250px-GazerWar.png",
-    "width": "250",
-    "height": "279"
-  },
-  "pageviews": 2284
+  "realName": null,
+  "species": [
+    "Human Mutant",
+    "Human Mutate"
+  ],
+  "teams": [
+    "Four Horsemen of Apocalypse",
+    "NASA"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gazer"
 }

@@ -1,22 +1,26 @@
 {
-  "name": "Pixie",
-  "url": "https://en.wikipedia.org/wiki/Pixie_(Morlock)",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "Morlocks"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Pixie",
+  "pageviews": 486,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "fairy-like appearance",
     "butterfly wings that able her to fly",
     "empath."
   ],
-  "image": {},
-  "pageviews": 486
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Morlocks"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Pixie_(Morlock)"
 }

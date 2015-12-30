@@ -1,17 +1,19 @@
 {
-  "name": "Stilt-Man",
-  "url": "https://en.wikipedia.org/wiki/Stilt-Man",
-  "realName": "Wilbur Day",
+  "aliases": "Stunt-Master",
   "creators": [
     "Wally Wood"
   ],
-  "teams": [
-    "Emissaries of Evil"
+  "image": {
+    "height": "394",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Stiltman.jpg/250px-Stiltman.jpg",
+    "width": "250"
+  },
+  "name": "Stilt-Man",
+  "pageviews": 5590,
+  "partners": [
   ],
-  "aliases": "Stunt-Master",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Competent engineer and inventor",
     "Moderately talented disguise artist",
@@ -21,10 +23,11 @@
     "Telescopic legs",
     "Silicon coating against adhesives and spider webs"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Stiltman.jpg/250px-Stiltman.jpg",
-    "width": "250",
-    "height": "394"
-  },
-  "pageviews": 5590
+  "realName": "Wilbur Day",
+  "species": [
+  ],
+  "teams": [
+    "Emissaries of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Stilt-Man"
 }

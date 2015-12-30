@@ -1,16 +1,20 @@
 {
-  "name": "8-Ball",
-  "url": "https://en.wikipedia.org/wiki/8-Ball_(comics)",
-  "realName": "Jeff Hagees",
+  "aliases": "The Crook With the Jet-Propelled Cue-Stick, Eightball",
   "creators": [
     "Bob Budiansky",
     "Bret Blevins"
   ],
-  "teams": [],
-  "aliases": "The Crook With the Jet-Propelled Cue-Stick, Eightball",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "383",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/8-Ball_%28comics%29_sleepwalker_cover.jpg/250px-8-Ball_%28comics%29_sleepwalker_cover.jpg",
+    "width": "250"
+  },
+  "name": "8-Ball",
+  "pageviews": 1944,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Brilliant engineer",
     "Skilled gymnast",
@@ -21,10 +25,10 @@
     "Use of explosive grenades and fireworks",
     "a round floating hovercraft and flying miniature cameras"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/8-Ball_%28comics%29_sleepwalker_cover.jpg/250px-8-Ball_%28comics%29_sleepwalker_cover.jpg",
-    "width": "250",
-    "height": "383"
-  },
-  "pageviews": 1944
+  "realName": "Jeff Hagees",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/8-Ball_(comics)"
 }

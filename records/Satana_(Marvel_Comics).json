@@ -1,23 +1,18 @@
 {
-  "name": "Satana",
-  "url": "https://en.wikipedia.org/wiki/Satana_(Marvel_Comics)",
-  "realName": "Satana Hellstrom",
+  "aliases": "The Devil's Daughter, Judith Camber, Melissa Ramos",
   "creators": [
     "Roy Thomas",
     "John Romita, Sr."
   ],
-  "teams": [
-    "Nick Fury's Howling Commandos",
-    "Legion of Monsters",
-    "Thunderbolts",
-    "Witches"
+  "image": {
+    "height": "417",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/20/SatanaSN.jpg",
+    "width": "215"
+  },
+  "name": "Satana",
+  "pageviews": 5768,
+  "partners": [
   ],
-  "aliases": "The Devil's Daughter, Judith Camber, Melissa Ramos",
-  "species": [
-    "Human",
-    "Demon"
-  ],
-  "partners": [],
   "powers": [
     "Magic",
     "Fire manipulation"
@@ -28,10 +23,16 @@
     "-Ability to absorb souls",
     "-Gains strength by touching weapons that killed people"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/20/SatanaSN.jpg",
-    "width": "215",
-    "height": "417"
-  },
-  "pageviews": 5768
+  "realName": "Satana Hellstrom",
+  "species": [
+    "Human",
+    "Demon"
+  ],
+  "teams": [
+    "Nick Fury's Howling Commandos",
+    "Legion of Monsters",
+    "Thunderbolts",
+    "Witches"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Satana_(Marvel_Comics)"
 }

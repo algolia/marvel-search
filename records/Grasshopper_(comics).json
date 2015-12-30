@@ -1,19 +1,17 @@
 {
-  "name": "Grasshopper",
-  "url": "https://en.wikipedia.org/wiki/Grasshopper_(comics)",
-  "realName": "Doug Taggert",
+  "aliases": "The Ever-Gregarious Grasshopper",
   "creators": [
     "Dan Slott",
     "Paul Pelletier"
   ],
-  "teams": [
-    "Great Lakes Avengers",
-    "Roxxon Corporation"
+  "image": {
+  },
+  "name": "Grasshopper",
+  "pageviews": 2260,
+  "partners": [
   ],
-  "aliases": "The Ever-Gregarious Grasshopper",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Armored suit grants:",
     "Superhuman leaping via robotic grasshopper legs",
@@ -21,6 +19,12 @@
     "Zoom Lenses",
     "Minimal protection from attacks"
   ],
-  "image": {},
-  "pageviews": 2260
+  "realName": "Doug Taggert",
+  "species": [
+  ],
+  "teams": [
+    "Great Lakes Avengers",
+    "Roxxon Corporation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Grasshopper_(comics)"
 }

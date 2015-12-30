@@ -1,18 +1,19 @@
 {
-  "name": "Thena",
-  "url": "https://en.wikipedia.org/wiki/Thena",
-  "realName": "Azura",
+  "aliases": "Thena Eliot, Athena Corona",
   "creators": [
     "Jack Kirby"
   ],
-  "teams": [
-    "Eternals",
-    "Heroes for Hire"
+  "image": {
+    "height": "373",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Etrnlsv2003_cvr.jpg/250px-Etrnlsv2003_cvr.jpg",
+    "width": "250"
+  },
+  "name": "Thena",
+  "pageviews": 1472,
+  "partners": [
   ],
-  "aliases": "Thena Eliot, Athena Corona",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman speed",
     "strength",
@@ -27,10 +28,12 @@
     "Telepathy",
     "Teleportation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Etrnlsv2003_cvr.jpg/250px-Etrnlsv2003_cvr.jpg",
-    "width": "250",
-    "height": "373"
-  },
-  "pageviews": 1472
+  "realName": "Azura",
+  "species": [
+  ],
+  "teams": [
+    "Eternals",
+    "Heroes for Hire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thena"
 }

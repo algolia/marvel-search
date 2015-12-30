@@ -1,20 +1,24 @@
 {
-  "name": "Primus",
-  "url": "https://en.wikipedia.org/wiki/Primus_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "Steve Rogers",
   "creators": [
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Steve Rogers",
-  "species": [
-    "Android"
+  "image": {
+  },
+  "name": "Primus",
+  "pageviews": 912,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Shapeshifting"
   ],
-  "image": {},
-  "pageviews": 912
+  "realName": null,
+  "species": [
+    "Android"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Primus_(Marvel_Comics)"
 }

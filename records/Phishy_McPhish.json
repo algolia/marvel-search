@@ -1,20 +1,24 @@
 {
-  "name": "Phishy McPhish",
-  "url": "https://en.wikipedia.org/wiki/Phishy_McPhish",
-  "realName": "McPhish",
-  "creators": [],
-  "teams": [
-    "Brotherhood of Mutants"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Phishy McPhish",
+  "pageviews": 173,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "unknown"
   ],
-  "image": {},
-  "pageviews": 173
+  "realName": "McPhish",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Brotherhood of Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Phishy_McPhish"
 }

@@ -1,18 +1,20 @@
 {
-  "name": "Living Brain",
-  "url": "https://en.wikipedia.org/wiki/Living_Brain",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Parker Industries"
+  "image": {
+    "height": "357",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/LivingBrainOriginal.png",
+    "width": "250"
+  },
+  "name": "Living Brain",
+  "pageviews": 1867,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and speed",
     "Flight",
@@ -23,10 +25,11 @@
     "Originally:",
     "External controls on its thorax"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/LivingBrainOriginal.png",
-    "width": "250",
-    "height": "357"
-  },
-  "pageviews": 1867
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Parker Industries"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Living_Brain"
 }

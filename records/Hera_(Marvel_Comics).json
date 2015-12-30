@@ -1,18 +1,20 @@
 {
-  "name": "Hera",
-  "url": "https://en.wikipedia.org/wiki/Hera_(Marvel_Comics)",
-  "realName": "Hera",
+  "aliases": "Juno",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Olympian Gods"
+  "image": {
+    "height": "263",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Hera_in_Hercules.jpg/250px-Hera_in_Hercules.jpg",
+    "width": "250"
+  },
+  "name": "Hera",
+  "pageviews": 1521,
+  "partners": [
   ],
-  "aliases": "Juno",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Cunning strategist",
     "Superhuman strength",
@@ -25,10 +27,11 @@
     "Virtual immortality",
     "Wields Zeus' thunderbolt"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Hera_in_Hercules.jpg/250px-Hera_in_Hercules.jpg",
-    "width": "250",
-    "height": "263"
-  },
-  "pageviews": 1521
+  "realName": "Hera",
+  "species": [
+  ],
+  "teams": [
+    "Olympian Gods"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hera_(Marvel_Comics)"
 }

@@ -1,24 +1,28 @@
 {
-  "name": "Gorgilla",
-  "url": "https://en.wikipedia.org/wiki/Gorgilla",
-  "realName": "Gorgilla",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "371",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/TTA-12.jpg/250px-TTA-12.jpg",
+    "width": "250"
+  },
+  "name": "Gorgilla",
+  "pageviews": 603,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "durability and agility"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/TTA-12.jpg/250px-TTA-12.jpg",
-    "width": "250",
-    "height": "371"
-  },
-  "pageviews": 603
+  "realName": "Gorgilla",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gorgilla"
 }

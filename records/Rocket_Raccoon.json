@@ -1,18 +1,20 @@
 {
-  "name": "Rocket Raccoon",
-  "url": "https://en.wikipedia.org/wiki/Rocket_Raccoon",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Keith Giffen"
   ],
-  "teams": [
-    "Guardians of the Galaxy"
+  "image": {
+    "height": "242",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Rocketraccoon.png/225px-Rocketraccoon.png",
+    "width": "225"
+  },
+  "name": "Rocket Raccoon",
+  "pageviews": 33871,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius-level intellect",
     "Master tactician and field commander",
@@ -20,10 +22,11 @@
     "Accomplished starship aviator",
     "Normal-physical attributes of an Earth raccoon"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Rocketraccoon.png/225px-Rocketraccoon.png",
-    "width": "225",
-    "height": "242"
-  },
-  "pageviews": 33871
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Guardians of the Galaxy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Rocket_Raccoon"
 }

@@ -1,7 +1,5 @@
 {
-  "name": "Dark Beast",
-  "url": "https://en.wikipedia.org/wiki/Dark_Beast",
-  "realName": "Henry Philip McCoy",
+  "aliases": "Beast, Black Beast, Doc McCoy, McCoy",
   "creators": [
     "Scott Lobdell",
     "Roger Cruz",
@@ -9,21 +7,17 @@
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Dark X-Men",
-    "The 198",
-    "Morlocks",
-    "Gene Nation",
-    "X-Men",
-    "Genoshan Excalibur",
-    "Brotherhood of Evil Mutants"
+  "image": {
+    "height": "250",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/94/Darkbeast.jpg",
+    "width": "250"
+  },
+  "name": "Dark Beast",
+  "pageviews": 5695,
+  "partners": [
   ],
-  "aliases": "Beast, Black Beast, Doc McCoy, McCoy",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman dexterity",
     "agility",
@@ -41,10 +35,18 @@
     "pointed ears",
     "gray fur coat"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/94/Darkbeast.jpg",
-    "width": "250",
-    "height": "250"
-  },
-  "pageviews": 5695
+  "realName": "Henry Philip McCoy",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Dark X-Men",
+    "The 198",
+    "Morlocks",
+    "Gene Nation",
+    "X-Men",
+    "Genoshan Excalibur",
+    "Brotherhood of Evil Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dark_Beast"
 }

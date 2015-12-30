@@ -1,19 +1,15 @@
 {
-  "name": "Locus",
-  "url": "https://en.wikipedia.org/wiki/Locus_(comics)",
-  "realName": "Rayna Piper",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Matt Broome"
   ],
-  "teams": [
-    "Mutant Liberation Front"
+  "image": {
+  },
+  "name": "Locus",
+  "pageviews": 532,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Teleportation",
     "Self-levitation"
@@ -22,6 +18,12 @@
     "Teleportation",
     "Self-levitation"
   ],
-  "image": {},
-  "pageviews": 532
+  "realName": "Rayna Piper",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Mutant Liberation Front"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Locus_(comics)"
 }

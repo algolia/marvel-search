@@ -1,7 +1,5 @@
 {
-  "name": "Roderick Kignsley",
-  "url": "https://en.wikipedia.org/wiki/Roderick_Kingsley",
-  "realName": "Roderick Kingsley",
+  "aliases": "Devil-Spider",
   "creators": [
     "Roger Stern",
     "John Romita, Jr.",
@@ -9,13 +7,17 @@
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Astonishing Avengers"
+  "image": {
+    "height": "362",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/c6/Roderick_Kingsley_%28Hobgoblin%29.jpg",
+    "width": "250"
+  },
+  "name": "Roderick Kignsley",
+  "pageviews": 3803,
+  "partners": [
   ],
-  "aliases": "Devil-Spider",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Master of hypnosis and drug induced mind control",
     "Highly skilled business and criminal organizer",
@@ -23,10 +25,11 @@
     "Superhuman physical attributes and intelligence",
     "Use of goblin-theme weapons and paraphernalia"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/c6/Roderick_Kingsley_%28Hobgoblin%29.jpg",
-    "width": "250",
-    "height": "362"
-  },
-  "pageviews": 3803
+  "realName": "Roderick Kingsley",
+  "species": [
+  ],
+  "teams": [
+    "Astonishing Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Roderick_Kingsley"
 }

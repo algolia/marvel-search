@@ -1,27 +1,29 @@
 {
-  "name": "Roulette",
-  "url": "https://en.wikipedia.org/wiki/Roulette_(Marvel_Comics)",
-  "realName": "Jennifer Stavros",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Sal Buscema"
   ],
-  "teams": [
-    "Hellions"
+  "image": {
+    "height": "230",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/99/Roulette_%28Marvel_Comics%29.jpg",
+    "width": "124"
+  },
+  "name": "Roulette",
+  "pageviews": 711,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Roulette can create discs of psionic energy which alter the probability field around the victim at whom she throws the disc. Her black energy discs create \"bad luck\" while her red energy discs bestow \"good luck.\""
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/99/Roulette_%28Marvel_Comics%29.jpg",
-    "width": "124",
-    "height": "230"
-  },
-  "pageviews": 711
+  "realName": "Jennifer Stavros",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hellions"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Roulette_(Marvel_Comics)"
 }

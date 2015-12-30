@@ -1,20 +1,18 @@
 {
-  "name": "Holocaust",
-  "url": "https://en.wikipedia.org/wiki/Holocaust_(comics)",
-  "realName": "William Rolfson",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "Roger Cruz"
   ],
-  "teams": [
-    "Horsemen of Apocalypse",
-    "Exiles"
+  "image": {
+    "height": "281",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Holocaust_comics.jpg",
+    "width": "250"
+  },
+  "name": "Holocaust",
+  "pageviews": 6418,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Life-force"
   ],
@@ -23,10 +21,13 @@
     "Energy blasts",
     "Life-force absorption"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Holocaust_comics.jpg",
-    "width": "250",
-    "height": "281"
-  },
-  "pageviews": 6418
+  "realName": "William Rolfson",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Horsemen of Apocalypse",
+    "Exiles"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Holocaust_(comics)"
 }

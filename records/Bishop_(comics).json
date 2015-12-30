@@ -1,10 +1,29 @@
 {
-  "name": "Bishop",
-  "url": "https://en.wikipedia.org/wiki/Bishop_(comics)",
-  "realName": "Lucas Bishop",
+  "aliases": "",
   "creators": [
     "Whilce Portacio",
     "Jim Lee"
+  ],
+  "image": {
+    "height": "342",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Bishop.png/250px-Bishop.png",
+    "width": "250"
+  },
+  "name": "Bishop",
+  "pageviews": 27823,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "{{Plainlist|",
+    "Energy absorption and redirection",
+    "Superhuman physical attributes",
+    "Ability to instinctively know present location"
+  ],
+  "realName": "Lucas Bishop",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Men",
@@ -16,22 +35,5 @@
     "NYPD",
     "X-Treme X-Men"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "{{Plainlist|",
-    "Energy absorption and redirection",
-    "Superhuman physical attributes",
-    "Ability to instinctively know present location"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Bishop.png/250px-Bishop.png",
-    "width": "250",
-    "height": "342"
-  },
-  "pageviews": 27823
+  "url": "https://en.wikipedia.org/wiki/Bishop_(comics)"
 }

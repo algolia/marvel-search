@@ -1,24 +1,20 @@
 {
-  "name": "Namora",
-  "url": "https://en.wikipedia.org/wiki/Namora",
-  "realName": "Aquaria Nautica Neptunia; later changed to Namora",
+  "aliases": "",
   "creators": [
     "Ken Bald",
     "Syd Shores"
   ],
-  "teams": [
-    "Agents of Atlas",
-    "Renegades",
-    "Monster Hunters",
-    "\"Avengers\" (1959)"
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/e/e2/AOATLAS004_COV.jpg",
+    "width": "250"
+  },
+  "name": "Namora",
+  "pageviews": 4581,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Atlantean",
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength and durability invulnerability",
     "Ability to swim at superhuman speeds",
@@ -26,10 +22,16 @@
     "Slowed aging process",
     "Wings-like appendages on her ankles allow her to fly"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/e2/AOATLAS004_COV.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 4581
+  "realName": "Aquaria Nautica Neptunia; later changed to Namora",
+  "species": [
+    "Atlantean",
+    "Human Mutant"
+  ],
+  "teams": [
+    "Agents of Atlas",
+    "Renegades",
+    "Monster Hunters",
+    "\"Avengers\" (1959)"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Namora"
 }

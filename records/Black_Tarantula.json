@@ -1,18 +1,20 @@
 {
-  "name": "Black Tarantula",
-  "url": "https://en.wikipedia.org/wiki/Black_Tarantula",
-  "realName": "Carlos LaMuerto",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Steve Skroce"
   ],
-  "teams": [
-    "The Hand"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/AmazingSpider-Man432.jpg/250px-AmazingSpider-Man432.jpg",
+    "width": "250"
+  },
+  "name": "Black Tarantula",
+  "pageviews": 4494,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled martial artist",
     "Superhuman strength",
@@ -23,10 +25,11 @@
     "Energy beam projection through eyes",
     "Healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/AmazingSpider-Man432.jpg/250px-AmazingSpider-Man432.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 4494
+  "realName": "Carlos LaMuerto",
+  "species": [
+  ],
+  "teams": [
+    "The Hand"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Tarantula"
 }

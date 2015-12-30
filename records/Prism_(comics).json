@@ -1,25 +1,28 @@
 {
-  "name": "Prism",
-  "url": "https://en.wikipedia.org/wiki/Prism_(comics)",
-  "realName": "Robbie",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Louise Simonson"
   ],
-  "teams": [
-    "Marauders"
+  "image": {
+  },
+  "name": "Prism",
+  "pageviews": 1387,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Crystalline body which enables him to absorb",
     "reflect",
     "and amplify beams of light and energy."
   ],
-  "image": {},
-  "pageviews": 1387
+  "realName": "Robbie",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Marauders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Prism_(comics)"
 }

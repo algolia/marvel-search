@@ -1,28 +1,31 @@
 {
-  "name": "Corsair",
-  "url": "https://en.wikipedia.org/wiki/Corsair_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Dave Cockrum"
+  ],
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Corsair107.png",
+    "width": "250"
+  },
+  "name": "Corsair",
+  "pageviews": 7744,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Highly skilled pilot",
+    "swordsman",
+    "and marksman"
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "Starjammers",
     "Shi'ar Empire",
     "United States Air Force"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Highly skilled pilot",
-    "swordsman",
-    "and marksman"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Corsair107.png",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 7744
+  "url": "https://en.wikipedia.org/wiki/Corsair_(comics)"
 }

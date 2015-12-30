@@ -1,20 +1,17 @@
 {
-  "name": "Stonewall",
-  "url": "https://en.wikipedia.org/wiki/Stonewall_(comics)",
-  "realName": "Louis Hamilton<br>Jerry Sledge",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Alan Davis"
   ],
-  "teams": [
-    "Freedom Force"
+  "image": {
+  },
+  "name": "Stonewall",
+  "pageviews": 4504,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "(Louis Hamilton):",
     "Skilled hand to hand combatant",
@@ -24,6 +21,12 @@
     "Superhuman strength and endurance",
     "Ability to absorb the properties of elements"
   ],
-  "image": {},
-  "pageviews": 4504
+  "realName": "Louis Hamilton<br>Jerry Sledge",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Freedom Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Stonewall_(comics)"
 }

@@ -1,18 +1,20 @@
 {
-  "name": "Iron Monger",
-  "url": "https://en.wikipedia.org/wiki/Iron_Monger",
-  "realName": "Obadiah Stane",
+  "aliases": "",
   "creators": [
     "Dennis O'Neil",
     "Luke McDonnell"
   ],
-  "teams": [
-    "Stark Industries"
+  "image": {
+    "height": "309",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/IronMonger.jpg/230px-IronMonger.jpg",
+    "width": "230"
+  },
+  "name": "Iron Monger",
+  "pageviews": 16294,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Master of psychological warfare",
     "Cunning business strategist",
@@ -25,10 +27,11 @@
     "Energy blasts",
     "Laser beam"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/IronMonger.jpg/230px-IronMonger.jpg",
-    "width": "230",
-    "height": "309"
-  },
-  "pageviews": 16294
+  "realName": "Obadiah Stane",
+  "species": [
+  ],
+  "teams": [
+    "Stark Industries"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Iron_Monger"
 }

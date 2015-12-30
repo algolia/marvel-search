@@ -1,25 +1,28 @@
 {
-  "name": "Starshine",
-  "url": "https://en.wikipedia.org/wiki/Starshine_(comics)",
-  "realName": "Landra",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "teams": [
-    "Spaceknights"
+  "image": {
+    "height": "360",
+    "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/Starshine_I.png",
+    "width": "235"
+  },
+  "name": "Starshine",
+  "pageviews": 935,
+  "partners": [
   ],
-  "aliases": "",
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Landra",
   "species": [
     "Galadorian"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/Starshine_I.png",
-    "width": "235",
-    "height": "360"
-  },
-  "pageviews": 935
+  "teams": [
+    "Spaceknights"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Starshine_(comics)"
 }

@@ -1,9 +1,24 @@
 {
-  "name": "Peepers",
-  "url": "https://en.wikipedia.org/wiki/Peepers",
-  "realName": "Peter Quinn",
+  "aliases": "Occult, Peeper",
   "creators": [
     "Jack Kirby"
+  ],
+  "image": {
+  },
+  "name": "Peepers",
+  "pageviews": 1281,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Telescopic/microscopic eyesight",
+    "X-ray vision",
+    "Eye beams"
+  ],
+  "realName": "Peter Quinn",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "The 198",
@@ -12,17 +27,5 @@
     "Resistants",
     "Secret Empire"
   ],
-  "aliases": "Occult, Peeper",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Telescopic/microscopic eyesight",
-    "X-ray vision",
-    "Eye beams"
-  ],
-  "image": {},
-  "pageviews": 1281
+  "url": "https://en.wikipedia.org/wiki/Peepers"
 }

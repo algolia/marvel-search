@@ -1,23 +1,27 @@
 {
-  "name": "Pestilence",
-  "url": "https://en.wikipedia.org/wiki/Pestilence_(comics)",
-  "realName": "F.R. Crozier",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "David Ross"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Pestilencealphaflight.jpg/249px-Pestilencealphaflight.jpg",
+    "width": "249"
+  },
+  "name": "Pestilence",
+  "pageviews": 916,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Various mystical powers and abilities"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Pestilencealphaflight.jpg/249px-Pestilencealphaflight.jpg",
-    "width": "249",
-    "height": "386"
-  },
-  "pageviews": 916
+  "realName": "F.R. Crozier",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Pestilence_(comics)"
 }

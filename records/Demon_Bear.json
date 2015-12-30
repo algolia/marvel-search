@@ -1,16 +1,17 @@
 {
-  "name": "Demon Bear",
-  "url": "https://en.wikipedia.org/wiki/Demon_Bear",
-  "realName": "Demon Bear",
+  "aliases": "",
   "creators": [
     "Bill Sienkiewicz",
     "Chris Claremont"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Demon Bear",
+  "pageviews": 939,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Draws power from negative human emotion",
     "teleportation",
@@ -18,6 +19,10 @@
     "transformation",
     "corruption of human souls"
   ],
-  "image": {},
-  "pageviews": 939
+  "realName": "Demon Bear",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Demon_Bear"
 }

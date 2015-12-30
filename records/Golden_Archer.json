@@ -1,23 +1,27 @@
 {
-  "name": "Golden Archer",
-  "url": "https://en.wikipedia.org/wiki/Golden_Archer",
-  "realName": "Wyatt McDonald",
+  "aliases": "Hawkeye, Black Archer",
   "creators": [
     "Roy Thomas",
     "John Buscema"
+  ],
+  "image": {
+  },
+  "name": "Golden Archer",
+  "pageviews": 2393,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Skilled archer",
+    "Wields various trick arrows"
+  ],
+  "realName": "Wyatt McDonald",
+  "species": [
   ],
   "teams": [
     "Squadron Supreme",
     "America Redeemers"
   ],
-  "aliases": "Hawkeye, Black Archer",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Skilled archer",
-    "Wields various trick arrows"
-  ],
-  "image": {},
-  "pageviews": 2393
+  "url": "https://en.wikipedia.org/wiki/Golden_Archer"
 }

@@ -1,19 +1,20 @@
 {
-  "name": "Kate Power",
-  "url": "https://en.wikipedia.org/wiki/Katie_Power",
-  "realName": "Kate Margaret Power",
+  "aliases": "Energizer, Starstreak, Counterweight",
   "creators": [
     "Louise Simonson",
     "June Brigman"
   ],
-  "teams": [
-    "Power Pack",
-    "X-Men"
+  "image": {
+    "height": "242",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Ktpower2005.jpg/200px-Ktpower2005.jpg",
+    "width": "200"
+  },
+  "name": "Kate Power",
+  "pageviews": 2716,
+  "partners": [
   ],
-  "aliases": "Energizer, Starstreak, Counterweight",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Energy absorption",
     "projection and disintegration",
@@ -22,10 +23,12 @@
     "Acceleration/Flight",
     "Gravity manipualtion"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Ktpower2005.jpg/200px-Ktpower2005.jpg",
-    "width": "200",
-    "height": "242"
-  },
-  "pageviews": 2716
+  "realName": "Kate Margaret Power",
+  "species": [
+  ],
+  "teams": [
+    "Power Pack",
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Katie_Power"
 }

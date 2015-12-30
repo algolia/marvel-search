@@ -1,17 +1,19 @@
 {
-  "name": "The Witness",
-  "url": "https://en.wikipedia.org/wiki/Witness_(comics)",
-  "realName": null,
+  "aliases": "Judge, Juror, Avenger of Evil",
   "creators": [
     "Stan Lee"
   ],
-  "teams": [
-    "The Twelve"
+  "image": {
+    "height": "336",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Twelve005.jpg/250px-Twelve005.jpg",
+    "width": "250"
+  },
+  "name": "The Witness",
+  "pageviews": 680,
+  "partners": [
   ],
-  "aliases": "Judge, Juror, Avenger of Evil",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Strength",
     "Speed",
@@ -19,10 +21,11 @@
     "Energy Projection",
     "Fighting Skills"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Twelve005.jpg/250px-Twelve005.jpg",
-    "width": "250",
-    "height": "336"
-  },
-  "pageviews": 680
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "The Twelve"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Witness_(comics)"
 }

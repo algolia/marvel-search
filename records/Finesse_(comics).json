@@ -1,19 +1,24 @@
 {
-  "name": "Finesse",
-  "url": "https://en.wikipedia.org/wiki/Finesse_(comics)",
-  "realName": "Jeanne Foucault",
-  "creators": [],
-  "teams": [
-    "Avengers Academy"
-  ],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+  },
+  "name": "Finesse",
+  "pageviews": 1566,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Photographic reflexes",
     "Eidetic memory"
   ],
-  "image": {},
-  "pageviews": 1566
+  "realName": "Jeanne Foucault",
+  "species": [
+  ],
+  "teams": [
+    "Avengers Academy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Finesse_(comics)"
 }

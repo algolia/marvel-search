@@ -1,27 +1,30 @@
 {
-  "name": "Aqueduct",
-  "url": "https://en.wikipedia.org/wiki/Aqueduct_(comics)",
-  "realName": "Peter van Zante",
+  "aliases": "Water Wizard",
   "creators": [
     "Jim Shooter",
     "Don Heck"
+  ],
+  "image": {
+    "height": "413",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/GhostRider-23.jpg",
+    "width": "270"
+  },
+  "name": "Aqueduct",
+  "pageviews": 1509,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Water manipulation"
+  ],
+  "realName": "Peter van Zante",
+  "species": [
   ],
   "teams": [
     "Thunderbolts",
     "Force of Nature",
     "Masters of Evil"
   ],
-  "aliases": "Water Wizard",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Water manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/GhostRider-23.jpg",
-    "width": "270",
-    "height": "413"
-  },
-  "pageviews": 1509
+  "url": "https://en.wikipedia.org/wiki/Aqueduct_(comics)"
 }

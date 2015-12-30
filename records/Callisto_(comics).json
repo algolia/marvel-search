@@ -1,23 +1,18 @@
 {
-  "name": "Callisto",
-  "url": "https://en.wikipedia.org/wiki/Callisto_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Paul Smith"
   ],
-  "teams": [
-    "X-Cell",
-    "Genoshan Excalibur",
-    "Morlocks",
-    "Gene Nation",
-    "The Arena"
+  "image": {
+    "height": "350",
+    "url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Callistox.jpg",
+    "width": "250"
+  },
+  "name": "Callisto",
+  "pageviews": 11902,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "healing factor"
   ],
@@ -32,10 +27,16 @@
     "and reflexes",
     "Accelerated healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Callistox.jpg",
-    "width": "250",
-    "height": "350"
-  },
-  "pageviews": 11902
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Cell",
+    "Genoshan Excalibur",
+    "Morlocks",
+    "Gene Nation",
+    "The Arena"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Callisto_(comics)"
 }

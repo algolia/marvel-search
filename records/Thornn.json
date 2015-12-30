@@ -1,21 +1,18 @@
 {
-  "name": "Thornn",
-  "url": "https://en.wikipedia.org/wiki/Thornn",
-  "realName": "Lucia Callasantos",
+  "aliases": "",
   "creators": [
     "Rob Liefeld",
     "Fabian Nicieza"
   ],
-  "teams": [
-    "X-Corporation",
-    "Brotherhood of Evil Mutants",
-    "Morlocks"
+  "image": {
+    "height": "551",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Thornn01.jpg/250px-Thornn01.jpg",
+    "width": "250"
+  },
+  "name": "Thornn",
+  "pageviews": 1408,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Feline",
     "prehensile"
@@ -27,10 +24,14 @@
     "sharp claws",
     "fangs and prehensile tail."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Thornn01.jpg/250px-Thornn01.jpg",
-    "width": "250",
-    "height": "551"
-  },
-  "pageviews": 1408
+  "realName": "Lucia Callasantos",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Corporation",
+    "Brotherhood of Evil Mutants",
+    "Morlocks"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thornn"
 }

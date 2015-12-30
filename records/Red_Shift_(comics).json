@@ -1,27 +1,29 @@
 {
-  "name": "Red Shift",
-  "url": "https://en.wikipedia.org/wiki/Red_Shift_(comics)",
-  "realName": "Unknown",
+  "aliases": "",
   "creators": [
     "Louise Simonson"
   ],
-  "teams": [
-    "Heralds of Galactus",
-    "United Front"
+  "image": {
+    "height": "331",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Red_Shift.jpg/250px-Red_Shift.jpg",
+    "width": "250"
+  },
+  "name": "Red Shift",
+  "pageviews": 1951,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Power Cosmic"
   ],
   "powersText": [
     "Use of Power Cosmic"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Red_Shift.jpg/250px-Red_Shift.jpg",
-    "width": "250",
-    "height": "331"
-  },
-  "pageviews": 1951
+  "realName": "Unknown",
+  "species": [
+  ],
+  "teams": [
+    "Heralds of Galactus",
+    "United Front"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Red_Shift_(comics)"
 }

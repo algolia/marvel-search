@@ -1,21 +1,25 @@
 {
-  "name": "Titan",
-  "url": "https://en.wikipedia.org/wiki/Titan_(Imperial_Guard)",
-  "realName": null,
+  "aliases": "Onslaught",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Imperial Guard"
+  "image": {
+  },
+  "name": "Titan",
+  "pageviews": 746,
+  "partners": [
   ],
-  "aliases": "Onslaught",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Size-Shifting"
   ],
-  "image": {},
-  "pageviews": 746
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Titan_(Imperial_Guard)"
 }

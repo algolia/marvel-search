@@ -1,31 +1,18 @@
 {
-  "name": "Psylocke",
-  "url": "https://en.wikipedia.org/wiki/Psylocke",
-  "realName": null,
+  "aliases": "Captain Britain , Lady Briton, Lady Mandarin",
   "creators": [
     "Chris Claremont",
     "Herb Trimpe"
   ],
-  "teams": [
-    "Captain Britain Corps",
-    "Crimson Dawn",
-    "The Hand",
-    "Hellfire Club",
-    "Horsemen of Apocalypse",
-    "Excalibur",
-    "Exiles",
-    "R.C.X.",
-    "S.T.R.I.K.E.",
-    "Sisterhood of Mutants",
-    "X-Club",
-    "X-Force",
-    "X-Men"
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Uncanny_Psylocke.jpg/250px-Uncanny_Psylocke.jpg",
+    "width": "250"
+  },
+  "name": "Psylocke",
+  "pageviews": 123698,
+  "partners": [
   ],
-  "aliases": "Captain Britain , Lady Briton, Lady Mandarin",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Telekinesis",
     "Telepathy",
@@ -42,10 +29,24 @@
     "Psychickatana and knife",
     "Martial arts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Uncanny_Psylocke.jpg/250px-Uncanny_Psylocke.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 123698
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Captain Britain Corps",
+    "Crimson Dawn",
+    "The Hand",
+    "Hellfire Club",
+    "Horsemen of Apocalypse",
+    "Excalibur",
+    "Exiles",
+    "R.C.X.",
+    "S.T.R.I.K.E.",
+    "Sisterhood of Mutants",
+    "X-Club",
+    "X-Force",
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Psylocke"
 }

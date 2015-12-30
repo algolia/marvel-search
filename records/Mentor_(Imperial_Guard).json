@@ -1,27 +1,29 @@
 {
-  "name": "Mentor",
-  "url": "https://en.wikipedia.org/wiki/Mentor_(Imperial_Guard)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Imperial Guard"
+  "image": {
+    "height": "312",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/95/Mentorwiki.jpg",
+    "width": "250"
+  },
+  "name": "Mentor",
+  "pageviews": 756,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Cyborg"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman intellect and tactical ability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/95/Mentorwiki.jpg",
-    "width": "250",
-    "height": "312"
-  },
-  "pageviews": 756
+  "realName": null,
+  "species": [
+    "Cyborg"
+  ],
+  "teams": [
+    "Imperial Guard"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mentor_(Imperial_Guard)"
 }

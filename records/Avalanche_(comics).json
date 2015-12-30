@@ -1,10 +1,26 @@
 {
-  "name": "Avalanche",
-  "url": "https://en.wikipedia.org/wiki/Avalanche_(comics)",
-  "realName": "Dominikos Ioannis Petrakis",
+  "aliases": "Dominic Janos Petros, Jon Bloom, Dominic Szilard, Nick",
   "creators": [
     "Chris Claremont",
     "John Byrne"
+  ],
+  "image": {
+    "height": "342",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Avalanche_XCorps.jpg/250px-Avalanche_XCorps.jpg",
+    "width": "250"
+  },
+  "name": "Avalanche",
+  "pageviews": 5926,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Geological manipulation via seismic wave generation from his hands."
+  ],
+  "realName": "Dominikos Ioannis Petrakis",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Corps",
@@ -12,19 +28,5 @@
     "Project: Wideawake",
     "Brotherhood of Evil Mutants"
   ],
-  "aliases": "Dominic Janos Petros, Jon Bloom, Dominic Szilard, Nick",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Geological manipulation via seismic wave generation from his hands."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Avalanche_XCorps.jpg/250px-Avalanche_XCorps.jpg",
-    "width": "250",
-    "height": "342"
-  },
-  "pageviews": 5926
+  "url": "https://en.wikipedia.org/wiki/Avalanche_(comics)"
 }

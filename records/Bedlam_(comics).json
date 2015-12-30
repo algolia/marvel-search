@@ -1,30 +1,32 @@
 {
-  "name": "Bedlam",
-  "url": "https://en.wikipedia.org/wiki/Bedlam_(comics)",
-  "realName": "Jesse Aaronson",
+  "aliases": "Jesse Bedlam",
   "creators": [
     "John Francis Moore",
     "Jim Cheung"
   ],
-  "teams": [
-    "X-Force",
-    "New Hellions"
+  "image": {
+    "height": "168",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/c1/BedlamXForce.jpg",
+    "width": "120"
+  },
+  "name": "Bedlam",
+  "pageviews": 2049,
+  "partners": [
   ],
-  "aliases": "Jesse Bedlam",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ability to disable any EM-powered equipment",
     "Ability to scan and perceive existing energy fields",
     "Ability to scramble the human brain's neural chemistry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/c1/BedlamXForce.jpg",
-    "width": "120",
-    "height": "168"
-  },
-  "pageviews": 2049
+  "realName": "Jesse Aaronson",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Force",
+    "New Hellions"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bedlam_(comics)"
 }

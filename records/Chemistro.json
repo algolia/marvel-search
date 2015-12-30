@@ -1,18 +1,17 @@
 {
-  "name": "Chemistro",
-  "url": "https://en.wikipedia.org/wiki/Chemistro",
-  "realName": "Curtis Carr",
+  "aliases": "High-Tech",
   "creators": [
     "Steve Englehart",
     "George Tuska"
   ],
-  "teams": [
-    "Stark Industries"
+  "image": {
+  },
+  "name": "Chemistro",
+  "pageviews": 2380,
+  "partners": [
   ],
-  "aliases": "High-Tech",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Gifted research scientist",
     "Highly skilled inventor",
@@ -22,6 +21,11 @@
     "Wears armored exoskeleton suit",
     "Use of various devices"
   ],
-  "image": {},
-  "pageviews": 2380
+  "realName": "Curtis Carr",
+  "species": [
+  ],
+  "teams": [
+    "Stark Industries"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Chemistro"
 }

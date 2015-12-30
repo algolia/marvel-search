@@ -1,13 +1,31 @@
 {
-  "name": "Firestar",
-  "url": "https://en.wikipedia.org/wiki/Firestar",
-  "realName": "Angelica \"Angel\" Jones",
+  "aliases": "",
   "creators": [
     "Dennis Marks",
     "Dan Spiegle",
     "Christy Marx",
     "John Romita, Sr.",
     "Rick Hoberg"
+  ],
+  "image": {
+    "height": "404",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Firestar_from_Young_Allies_06.jpg/250px-Firestar_from_Young_Allies_06.jpg",
+    "width": "250"
+  },
+  "name": "Firestar",
+  "pageviews": 14786,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Microwave radiation manipulation",
+    "Flight",
+    "Electromagnetic energy wavelength disruption"
+  ],
+  "realName": "Angelica \"Angel\" Jones",
+  "species": [
+    "Human mutant"
   ],
   "teams": [
     "Avengers",
@@ -17,21 +35,5 @@
     "X-Men",
     "Young Allies (Heroic Age)"
   ],
-  "aliases": "",
-  "species": [
-    "Human mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Microwave radiation manipulation",
-    "Flight",
-    "Electromagnetic energy wavelength disruption"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Firestar_from_Young_Allies_06.jpg/250px-Firestar_from_Young_Allies_06.jpg",
-    "width": "250",
-    "height": "404"
-  },
-  "pageviews": 14786
+  "url": "https://en.wikipedia.org/wiki/Firestar"
 }

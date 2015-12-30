@@ -1,32 +1,33 @@
 {
-  "name": "Wither",
-  "url": "https://en.wikipedia.org/wiki/Wither_(comics)",
-  "realName": "Kevin Ford",
+  "aliases": "",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir",
     "Keron Grant"
+  ],
+  "image": {
+    "height": "275",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/aa/Wither.png",
+    "width": "250"
+  },
+  "name": "Wither",
+  "pageviews": 2463,
+  "partners": [
+    "Selene"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Disintegration"
+  ],
+  "realName": "Kevin Ford",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Hellions training squad",
     "New Mutants training squad",
     "Xavier Institute"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [
-    "Selene"
-  ],
-  "powers": [],
-  "powersText": [
-    "Disintegration"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/aa/Wither.png",
-    "width": "250",
-    "height": "275"
-  },
-  "pageviews": 2463
+  "url": "https://en.wikipedia.org/wiki/Wither_(comics)"
 }

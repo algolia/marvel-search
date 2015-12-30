@@ -1,23 +1,28 @@
 {
-  "name": "Grindhouse",
-  "url": "https://en.wikipedia.org/wiki/Grindhouse_(comics)",
-  "realName": "Unknown",
+  "aliases": "",
   "creators": [
     "Justin Gray",
     "Jimmy Palmiotti",
     "Billy Tucci",
     "Tom Palmer"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "202",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Grindhouse.JPG/250px-Grindhouse.JPG",
-    "width": "250",
-    "height": "202"
+    "width": "250"
   },
-  "pageviews": 227
+  "name": "Grindhouse",
+  "pageviews": 227,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Unknown",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Grindhouse_(comics)"
 }

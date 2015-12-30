@@ -1,23 +1,27 @@
 {
-  "name": "El Águila",
-  "url": "https://en.wikipedia.org/wiki/El_Aguila",
-  "realName": "Alejandro Montoya",
+  "aliases": "",
   "creators": [
     "Dave Cockrum",
     "Mary Jo Duffy"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human mutant"
+  "image": {
+  },
+  "name": "El Águila",
+  "pageviews": 1304,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Electrical generation",
     "Skilled fencer",
     "Excellent acrobat"
   ],
-  "image": {},
-  "pageviews": 1304
+  "realName": "Alejandro Montoya",
+  "species": [
+    "Human mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/El_Aguila"
 }

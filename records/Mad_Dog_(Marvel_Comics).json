@@ -1,10 +1,26 @@
 {
-  "name": "Mad-Dog",
-  "url": "https://en.wikipedia.org/wiki/Mad_Dog_(Marvel_Comics)",
-  "realName": "Robert \"Buzz\" Baxter",
+  "aliases": "",
   "creators": [
     "Steve Englehart",
     "Tom Sutton"
+  ],
+  "image": {
+    "height": "198",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Mad_dog_-_solo_avengers_9.jpg/250px-Mad_dog_-_solo_avengers_9.jpg",
+    "width": "250"
+  },
+  "name": "Mad-Dog",
+  "pageviews": 1972,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "enhanced senses and physical abilities",
+    "secretes neurotoxin in saliva"
+  ],
+  "realName": "Robert \"Buzz\" Baxter",
+  "species": [
   ],
   "teams": [
     "Roxxon Oil",
@@ -12,18 +28,5 @@
     "Mutant Force",
     "United States Air Force"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "enhanced senses and physical abilities",
-    "secretes neurotoxin in saliva"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Mad_dog_-_solo_avengers_9.jpg/250px-Mad_dog_-_solo_avengers_9.jpg",
-    "width": "250",
-    "height": "198"
-  },
-  "pageviews": 1972
+  "url": "https://en.wikipedia.org/wiki/Mad_Dog_(Marvel_Comics)"
 }

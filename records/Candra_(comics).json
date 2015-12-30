@@ -1,19 +1,18 @@
 {
-  "name": "Candra",
-  "url": "https://en.wikipedia.org/wiki/Candra_(comics)",
-  "realName": null,
+  "aliases": "Kandra, the Benefactress, Candra of the Floating Spires",
   "creators": [
     "Howard Mackie",
     "Lee Weeks"
   ],
-  "teams": [
-    "Externals"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Candra.JPG/248px-Candra.JPG",
+    "width": "248"
+  },
+  "name": "Candra",
+  "pageviews": 2438,
+  "partners": [
   ],
-  "aliases": "Kandra, the Benefactress, Candra of the Floating Spires",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Telekinesis",
     "healing factor"
@@ -24,10 +23,12 @@
     "Accelerated healing factor",
     "Pyrokinesis"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Candra.JPG/248px-Candra.JPG",
-    "width": "248",
-    "height": "450"
-  },
-  "pageviews": 2438
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Externals"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Candra_(comics)"
 }

@@ -1,19 +1,24 @@
 {
-  "name": "Forbush Man",
-  "url": "https://en.wikipedia.org/wiki/Forbush_Man",
-  "realName": "Irving Forbush",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Forbush Man",
+  "pageviews": 1525,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Forbush vision (shows the recipient a hell of their own creation)"
   ],
-  "image": {},
-  "pageviews": 1525
+  "realName": "Irving Forbush",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Forbush_Man"
 }

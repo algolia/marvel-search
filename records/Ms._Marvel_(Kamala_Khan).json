@@ -1,20 +1,19 @@
 {
-  "name": "Ms. Marvel",
-  "url": "https://en.wikipedia.org/wiki/Ms._Marvel_(Kamala_Khan)",
-  "realName": "Kamala Khan",
+  "aliases": "",
   "creators": [
     "Sana Amanat",
     "G. Willow Wilson",
     "Adrian Alphona"
   ],
-  "teams": [
-    "Avengers"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Kamala_Khan.jpg/250px-Kamala_Khan.jpg",
+    "width": "250"
+  },
+  "name": "Ms. Marvel",
+  "pageviews": 61439,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Inhuman"
-  ],
-  "partners": [],
   "powers": [
     "Shapeshifting"
   ],
@@ -22,10 +21,12 @@
     "Shapeshifting",
     "Healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Kamala_Khan.jpg/250px-Kamala_Khan.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 61439
+  "realName": "Kamala Khan",
+  "species": [
+    "Inhuman"
+  ],
+  "teams": [
+    "Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ms._Marvel_(Kamala_Khan)"
 }

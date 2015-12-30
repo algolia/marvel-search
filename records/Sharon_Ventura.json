@@ -1,21 +1,20 @@
 {
-  "name": "Sharon Ventura",
-  "url": "https://en.wikipedia.org/wiki/Sharon_Ventura",
-  "realName": "Sharon Ventura",
+  "aliases": "Ms. Marvel, She-Thing",
   "creators": [
     "Mike Carlin",
     "Ron Wilson"
   ],
-  "teams": [
-    "Grapplers",
-    "Thunderiders",
-    "Fantastic Four",
-    "Frightful Four"
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Msmarvel2.jpg/250px-Msmarvel2.jpg",
+    "width": "250"
+  },
+  "name": "Sharon Ventura",
+  "pageviews": 5733,
+  "partners": [
   ],
-  "aliases": "Ms. Marvel, She-Thing",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Highly proficient hand to hand combatant",
     "Skilled martial artist",
@@ -33,10 +32,14 @@
     "durability and endurance",
     "Rock-like skin"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Msmarvel2.jpg/250px-Msmarvel2.jpg",
-    "width": "250",
-    "height": "388"
-  },
-  "pageviews": 5733
+  "realName": "Sharon Ventura",
+  "species": [
+  ],
+  "teams": [
+    "Grapplers",
+    "Thunderiders",
+    "Fantastic Four",
+    "Frightful Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sharon_Ventura"
 }

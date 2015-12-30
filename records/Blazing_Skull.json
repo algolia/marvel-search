@@ -1,18 +1,18 @@
 {
-  "name": "Blazing Skull",
-  "url": "https://en.wikipedia.org/wiki/Blazing_Skull",
-  "realName": "Mark Anthony Todd",
-  "creators": [],
-  "teams": [
-    "Defenders",
-    "Invaders"
-  ],
   "aliases": "Steve Valiant, Richard Stetson, Skull, Koos, Smoking Head",
-  "species": [
-    "Human Mutate"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/New_Invaders_-1.jpg/250px-New_Invaders_-1.jpg",
+    "width": "250"
+  },
+  "name": "Blazing Skull",
+  "pageviews": 3884,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "Immunity to fire",
@@ -20,10 +20,13 @@
     "Flame generation and projection",
     "Ability to make his tissues invisible while leaving his bones visible"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/New_Invaders_-1.jpg/250px-New_Invaders_-1.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 3884
+  "realName": "Mark Anthony Todd",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+    "Defenders",
+    "Invaders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blazing_Skull"
 }

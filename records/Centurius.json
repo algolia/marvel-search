@@ -1,28 +1,31 @@
 {
-  "name": "Centurius",
-  "url": "https://en.wikipedia.org/wiki/Centurius",
-  "realName": "",
+  "aliases": "Centurius, Doc Century",
   "creators": [
     "Jim Steranko",
     "Frank Giacoia"
   ],
-  "teams": [
-    "The Conspiracy",
-    "Thunderbolts"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Centuriusmu0.jpg/250px-Centuriusmu0.jpg",
+    "width": "250"
+  },
+  "name": "Centurius",
+  "pageviews": 755,
+  "partners": [
   ],
-  "aliases": "Centurius, Doc Century",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Expert in advanced technology",
     "scientific genius specializing in genetics",
     "peak human physical condition"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Centuriusmu0.jpg/250px-Centuriusmu0.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 755
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "The Conspiracy",
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Centurius"
 }

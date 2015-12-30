@@ -1,26 +1,29 @@
 {
-  "name": "Hector",
-  "url": "https://en.wikipedia.org/wiki/Hector_(Marvel_Comics)",
-  "realName": "Unknown",
+  "aliases": "Scott Shannon",
   "creators": [
     "Peter David",
     "Dale Keown"
   ],
-  "teams": [
-    "Pantheon"
+  "image": {
+    "height": "272",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Northstar_%26_hector.jpg/200px-Northstar_%26_hector.jpg",
+    "width": "200"
+  },
+  "name": "Hector",
+  "pageviews": 707,
+  "partners": [
   ],
-  "aliases": "Scott Shannon",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Energy flail",
     "super strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Northstar_%26_hector.jpg/200px-Northstar_%26_hector.jpg",
-    "width": "200",
-    "height": "272"
-  },
-  "pageviews": 707
+  "realName": "Unknown",
+  "species": [
+  ],
+  "teams": [
+    "Pantheon"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hector_(Marvel_Comics)"
 }

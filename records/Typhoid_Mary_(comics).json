@@ -1,25 +1,21 @@
 {
-  "name": "Typhoid Mary",
-  "url": "https://en.wikipedia.org/wiki/Typhoid_Mary_(comics)",
-  "realName": "Mary Walker",
+  "aliases": "Typhoid, Innocent Mary, Mary Mezinis, Virgin Mary, Bloody Mary, Walker, Mutant Zero, Lyla Hughes, Siryn",
   "creators": [
     "Ann Nocenti",
     "John Romita, Jr."
   ],
-  "teams": [
-    "The Initiative",
-    "Hand",
-    "Shadow Initiative",
-    "Sisterhood of Mutants"
-  ],
-  "aliases": "Typhoid, Innocent Mary, Mary Mezinis, Virgin Mary, Bloody Mary, Walker, Mutant Zero, Lyla Hughes, Siryn",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Daredevil46.jpg/250px-Daredevil46.jpg",
+    "width": "250"
+  },
+  "name": "Typhoid Mary",
+  "pageviews": 15894,
   "partners": [
     "Kingpin"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Highly skilled athlete",
     "Trained martial artist",
@@ -33,10 +29,15 @@
     "Enhanced strength",
     "Arsenal of bladed weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Daredevil46.jpg/250px-Daredevil46.jpg",
-    "width": "250",
-    "height": "382"
-  },
-  "pageviews": 15894
+  "realName": "Mary Walker",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "The Initiative",
+    "Hand",
+    "Shadow Initiative",
+    "Sisterhood of Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Typhoid_Mary_(comics)"
 }

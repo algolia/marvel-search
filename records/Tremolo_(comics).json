@@ -1,23 +1,27 @@
 {
-  "name": "Tremolo",
-  "url": "https://en.wikipedia.org/wiki/Tremolo_(comics)",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "Hell's Belles"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Tremolo",
+  "pageviews": 249,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Depowered",
     "formerly:",
     "Sound Control",
     "Flight"
   ],
-  "image": {},
-  "pageviews": 249
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hell's Belles"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tremolo_(comics)"
 }

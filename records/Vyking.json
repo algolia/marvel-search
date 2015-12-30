@@ -1,27 +1,30 @@
 {
-  "name": "Vyking",
-  "url": "https://en.wikipedia.org/wiki/Vyking",
-  "realName": "Harold Carl Everson",
+  "aliases": "",
   "creators": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "teams": [
-    "Strikeforce: Morituri"
+  "image": {
+    "height": "332",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Vyking.jpg/250px-Vyking.jpg",
+    "width": "250"
+  },
+  "name": "Vyking",
+  "pageviews": 260,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Lifeform detection",
     "Energy redirection",
     "Enhanced strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Vyking.jpg/250px-Vyking.jpg",
-    "width": "250",
-    "height": "332"
-  },
-  "pageviews": 260
+  "realName": "Harold Carl Everson",
+  "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Vyking"
 }

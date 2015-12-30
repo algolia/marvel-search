@@ -1,10 +1,33 @@
 {
-  "name": "Angel Salvadore",
-  "url": "https://en.wikipedia.org/wiki/Angel_Salvadore",
-  "realName": "Angel Salvadore",
+  "aliases": "Angel, Tempest",
   "creators": [
     "Grant Morrison",
     "Ethan Van Sciver"
+  ],
+  "image": {
+    "height": "334",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/TempestAngelSalvadore.jpg/250px-TempestAngelSalvadore.jpg",
+    "width": "250"
+  },
+  "name": "Angel Salvadore",
+  "pageviews": 15298,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Technologically granted ice generation from her left hand",
+    "heat/fire generation from her right hand",
+    "flight",
+    "Formerly:",
+    "Winged flight with sonic vibrational capacities",
+    "acid spit",
+    "insectoid physiology"
+  ],
+  "realName": "Angel Salvadore",
+  "species": [
+    "Depowered",
+    "Human Mutant"
   ],
   "teams": [
     "Brotherhood of Mutants",
@@ -15,26 +38,5 @@
     "New Warriors",
     "Teen Brigade"
   ],
-  "aliases": "Angel, Tempest",
-  "species": [
-    "Depowered",
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Technologically granted ice generation from her left hand",
-    "heat/fire generation from her right hand",
-    "flight",
-    "Formerly:",
-    "Winged flight with sonic vibrational capacities",
-    "acid spit",
-    "insectoid physiology"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/TempestAngelSalvadore.jpg/250px-TempestAngelSalvadore.jpg",
-    "width": "250",
-    "height": "334"
-  },
-  "pageviews": 15298
+  "url": "https://en.wikipedia.org/wiki/Angel_Salvadore"
 }

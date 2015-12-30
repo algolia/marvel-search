@@ -1,17 +1,18 @@
 {
-  "name": "Trick Shot",
-  "url": "https://en.wikipedia.org/wiki/Trick_Shot_(comics)",
-  "realName": "Buck Chisholm",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Mark Bright"
   ],
-  "teams": [
-    "Secret Empire"
+  "image": {
+    "height": "394",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Soloavengers5.jpeg/250px-Soloavengers5.jpeg",
+    "width": "250"
+  },
+  "name": "Trick Shot",
+  "pageviews": 3796,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "trick arrows"
   ],
@@ -19,10 +20,11 @@
     "Highly skilled archer",
     "Uses a variety of trick arrows"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Soloavengers5.jpeg/250px-Soloavengers5.jpeg",
-    "width": "250",
-    "height": "394"
-  },
-  "pageviews": 3796
+  "realName": "Buck Chisholm",
+  "species": [
+  ],
+  "teams": [
+    "Secret Empire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Trick_Shot_(comics)"
 }

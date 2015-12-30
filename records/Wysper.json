@@ -1,24 +1,28 @@
 {
-  "name": "Wysper",
-  "url": "https://en.wikipedia.org/wiki/Wysper",
-  "realName": "Jennifer Stewart",
+  "aliases": "",
   "creators": [
     "Dan Slott",
     "John Calimee"
   ],
-  "teams": [
-    "The Jury"
+  "image": {
+  },
+  "name": "Wysper",
+  "pageviews": 471,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Armored suit grants:",
     "Flight",
     "Energy blast projection",
     "Sonic weapons"
   ],
-  "image": {},
-  "pageviews": 471
+  "realName": "Jennifer Stewart",
+  "species": [
+  ],
+  "teams": [
+    "The Jury"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wysper"
 }

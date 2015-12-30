@@ -1,19 +1,24 @@
 {
-  "name": "Phone Ranger",
-  "url": "https://en.wikipedia.org/wiki/Phone_Ranger",
-  "realName": "A. G. Bell",
+  "aliases": "",
   "creators": [
     "Kurt Busiek",
     "James Fry"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Phone Ranger",
+  "pageviews": 440,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Can interface to any telecommunications system"
   ],
-  "image": {},
-  "pageviews": 440
+  "realName": "A. G. Bell",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Phone_Ranger"
 }

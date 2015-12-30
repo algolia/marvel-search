@@ -1,20 +1,24 @@
 {
-  "name": "Kamikaze",
-  "url": "https://en.wikipedia.org/wiki/Kamikaze_(comics)",
-  "realName": "Haruo Tsuburaya",
-  "creators": [],
-  "teams": [
-    "Mutant Liberation Front"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Kamikaze",
+  "pageviews": 885,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "fly and give off an explosive charge upon impact"
   ],
-  "image": {},
-  "pageviews": 885
+  "realName": "Haruo Tsuburaya",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Mutant Liberation Front"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kamikaze_(comics)"
 }

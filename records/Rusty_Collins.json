@@ -1,10 +1,25 @@
 {
-  "name": "Rusty Collins",
-  "url": "https://en.wikipedia.org/wiki/Rusty_Collins",
-  "realName": "Russel \"Rusty\" Collins",
+  "aliases": "Firefist",
   "creators": [
     "Bob Layton",
     "Jackson Guice"
+  ],
+  "image": {
+  },
+  "name": "Rusty Collins",
+  "pageviews": 2831,
+  "partners": [
+  ],
+  "powers": [
+    "\"Pyromorphing\" (Pyric Form or Fiery Form)",
+    "Pyrokinesis"
+  ],
+  "powersText": [
+    "\"Pyromorphing\" (Pyric Form or Fiery Form)Pyrokinesis"
+  ],
+  "realName": "Russel \"Rusty\" Collins",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Acolytes",
@@ -14,18 +29,5 @@
     "X-Factor",
     "United States Navy"
   ],
-  "aliases": "Firefist",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "\"Pyromorphing\" (Pyric Form or Fiery Form)",
-    "Pyrokinesis"
-  ],
-  "powersText": [
-    "\"Pyromorphing\" (Pyric Form or Fiery Form)Pyrokinesis"
-  ],
-  "image": {},
-  "pageviews": 2831
+  "url": "https://en.wikipedia.org/wiki/Rusty_Collins"
 }

@@ -1,16 +1,17 @@
 {
-  "name": "Bullet",
-  "url": "https://en.wikipedia.org/wiki/Bullet_(comics)",
-  "realName": "Buck Cashman",
+  "aliases": "",
   "creators": [
     "Ann Nocenti",
     "John Romita, Jr."
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Bullet",
+  "pageviews": 1376,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Enhanced strength",
     "speed",
@@ -18,6 +19,10 @@
     "and durability",
     "Weapons expert"
   ],
-  "image": {},
-  "pageviews": 1376
+  "realName": "Buck Cashman",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bullet_(comics)"
 }

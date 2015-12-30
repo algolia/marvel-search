@@ -1,19 +1,20 @@
 {
-  "name": "Hulk 2099",
-  "url": "https://en.wikipedia.org/wiki/Hulk_2099",
-  "realName": "John Eisenhart",
+  "aliases": "",
   "creators": [
     "Gerard Jones",
     "Dwayne Turner",
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Defenders 2099"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Hulk2099.jpg/250px-Hulk2099.jpg",
+    "width": "250"
+  },
+  "name": "Hulk 2099",
+  "pageviews": 3664,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "healing factor"
   ],
@@ -26,10 +27,11 @@
     "Accelerated healing factor",
     "Razor sharp claws and fangs"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Hulk2099.jpg/250px-Hulk2099.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 3664
+  "realName": "John Eisenhart",
+  "species": [
+  ],
+  "teams": [
+    "Defenders 2099"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hulk_2099"
 }

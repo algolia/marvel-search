@@ -1,22 +1,22 @@
 {
-  "name": "White Tiger",
-  "url": "https://en.wikipedia.org/wiki/White_Tiger_(Angela_del_Toro)",
-  "realName": "Angela del Toro",
+  "aliases": "",
   "creators": [
     "Brian Michael Bendis",
     "Alex Maleev"
   ],
-  "teams": [
-    "The Hand",
-    "FBI"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/WhiteTigerDT.jpg/250px-WhiteTigerDT.jpg",
+    "width": "250"
+  },
+  "name": "White Tiger",
+  "pageviews": 18741,
   "partners": [
     "Daredevil",
     "Iron Fist"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Experienced unarmed combatant",
     "Trained investigator",
@@ -24,10 +24,12 @@
     "Superhuman martial arts skills and slightly superhuman physical attributes via mystical amulets",
     "Camouflage"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/WhiteTigerDT.jpg/250px-WhiteTigerDT.jpg",
-    "width": "250",
-    "height": "388"
-  },
-  "pageviews": 18741
+  "realName": "Angela del Toro",
+  "species": [
+  ],
+  "teams": [
+    "The Hand",
+    "FBI"
+  ],
+  "url": "https://en.wikipedia.org/wiki/White_Tiger_(Angela_del_Toro)"
 }

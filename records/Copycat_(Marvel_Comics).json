@@ -1,10 +1,27 @@
 {
-  "name": "Copycat",
-  "url": "https://en.wikipedia.org/wiki/Copycat_(Marvel_Comics)",
-  "realName": "Vanessa Geraldine Carlysle",
+  "aliases": "Titania ,",
   "creators": [
     "Fabian Nicieza",
     "Rob Liefeld"
+  ],
+  "image": {
+    "height": "325",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/05/Copycat_Vanessa_Carlysle.jpg",
+    "width": "180"
+  },
+  "name": "Copycat",
+  "pageviews": 52142,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Shapeshifting",
+    "Power mimicry"
+  ],
+  "realName": "Vanessa Geraldine Carlysle",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Weapon X",
@@ -12,20 +29,5 @@
     "X-Force",
     "New Mutants"
   ],
-  "aliases": "Titania ,",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Shapeshifting",
-    "Power mimicry"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/05/Copycat_Vanessa_Carlysle.jpg",
-    "width": "180",
-    "height": "325"
-  },
-  "pageviews": 52142
+  "url": "https://en.wikipedia.org/wiki/Copycat_(Marvel_Comics)"
 }

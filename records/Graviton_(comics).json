@@ -1,17 +1,18 @@
 {
-  "name": "Graviton",
-  "url": "https://en.wikipedia.org/wiki/Graviton_(comics)",
-  "realName": "Franklin Hall",
+  "aliases": "Master of the Fundamental Force",
   "creators": [
     "Jim Shooter",
     "Sal Buscema"
   ],
-  "teams": [
-    "A.I.M."
+  "image": {
+    "height": "389",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Thunderbolts_17_cvr.jpg/250px-Thunderbolts_17_cvr.jpg",
+    "width": "250"
+  },
+  "name": "Graviton",
+  "pageviews": 10428,
+  "partners": [
   ],
-  "aliases": "Master of the Fundamental Force",
-  "species": [],
-  "partners": [],
   "powers": [
     "Gravity manipulation"
   ],
@@ -19,10 +20,11 @@
     "Gravity manipulation",
     "Genius level intellect"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Thunderbolts_17_cvr.jpg/250px-Thunderbolts_17_cvr.jpg",
-    "width": "250",
-    "height": "389"
-  },
-  "pageviews": 10428
+  "realName": "Franklin Hall",
+  "species": [
+  ],
+  "teams": [
+    "A.I.M."
+  ],
+  "url": "https://en.wikipedia.org/wiki/Graviton_(comics)"
 }

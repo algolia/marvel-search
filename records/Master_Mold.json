@@ -1,18 +1,20 @@
 {
-  "name": "Master Mold",
-  "url": "https://en.wikipedia.org/wiki/Master_Mold",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Sentinels"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Uxm016.PNG/250px-Uxm016.PNG",
+    "width": "250"
+  },
+  "name": "Master Mold",
+  "pageviews": 5827,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -24,10 +26,11 @@
     "Ability to scan mutants",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Uxm016.PNG/250px-Uxm016.PNG",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 5827
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Sentinels"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Master_Mold"
 }

@@ -1,22 +1,19 @@
 {
-  "name": "Wind Dancer",
-  "url": "https://en.wikipedia.org/wiki/Wind_Dancer",
-  "realName": "Sofia Mantega",
+  "aliases": "Renascence",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir",
     "Keron Grant"
   ],
-  "teams": [
-    "New Mutants training squad",
-    "New Warriors"
+  "image": {
+    "height": "163",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Renascence_sofia.jpg/250px-Renascence_sofia.jpg",
+    "width": "250"
+  },
+  "name": "Wind Dancer",
+  "pageviews": 2550,
+  "partners": [
   ],
-  "aliases": "Renascence",
-  "species": [
-    "Depowered",
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "force field",
     "Air and wind manipulation"
@@ -30,10 +27,14 @@
     "Flight",
     "Long-distance eavesdropping"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Renascence_sofia.jpg/250px-Renascence_sofia.jpg",
-    "width": "250",
-    "height": "163"
-  },
-  "pageviews": 2550
+  "realName": "Sofia Mantega",
+  "species": [
+    "Depowered",
+    "Human Mutant"
+  ],
+  "teams": [
+    "New Mutants training squad",
+    "New Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wind_Dancer"
 }

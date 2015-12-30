@@ -1,20 +1,17 @@
 {
-  "name": "Cobra",
-  "url": "https://en.wikipedia.org/wiki/Cobra_(comics)",
-  "realName": "Klaus Voorhees",
+  "aliases": "Human Cobra, King Cobra",
   "creators": [
     "Stan Lee",
     "Don Heck"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Serpent Society",
-    "Serpent Squad"
+  "image": {
+  },
+  "name": "Cobra",
+  "pageviews": 3747,
+  "partners": [
   ],
-  "aliases": "Human Cobra, King Cobra",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Very flexible and slithery body",
     "Superhuman strength",
@@ -25,6 +22,13 @@
     "Wall crawling",
     "Various poisonous gadgets"
   ],
-  "image": {},
-  "pageviews": 3747
+  "realName": "Klaus Voorhees",
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Serpent Society",
+    "Serpent Squad"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cobra_(comics)"
 }

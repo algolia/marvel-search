@@ -1,18 +1,16 @@
 {
-  "name": "Colleen Wing",
-  "url": "https://en.wikipedia.org/wiki/Colleen_Wing",
-  "realName": "Colleen Wing",
+  "aliases": "",
   "creators": [
     "Doug Moench",
     "Larry Hama"
   ],
-  "teams": [
-    "Heroes for Hire",
-    "Daughters of the Dragon",
-    "The Nail"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Colleenwing.jpg/228px-Colleenwing.jpg",
+    "width": "228"
+  },
+  "name": "Colleen Wing",
+  "pageviews": 17421,
   "partners": [
     "Misty Knight",
     "Iron Fist",
@@ -31,10 +29,13 @@
     "Accelerated healing",
     "High resistance to injury"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Colleenwing.jpg/228px-Colleenwing.jpg",
-    "width": "228",
-    "height": "450"
-  },
-  "pageviews": 17421
+  "realName": "Colleen Wing",
+  "species": [
+  ],
+  "teams": [
+    "Heroes for Hire",
+    "Daughters of the Dragon",
+    "The Nail"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Colleen_Wing"
 }

@@ -1,24 +1,28 @@
 {
-  "name": "Blizzard",
-  "url": "https://en.wikipedia.org/wiki/Blizzard_(comics)",
-  "realName": "",
+  "aliases": "Jack Frost",
   "creators": [
     "Stan Lee",
     "Don Heck"
   ],
-  "teams": [],
-  "aliases": "Jack Frost",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "275",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/BlizzardDonnieGill.jpg/250px-BlizzardDonnieGill.jpg",
+    "width": "250"
+  },
+  "name": "Blizzard",
+  "pageviews": 9839,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Micro-circuited suit grants:",
     "Cold manipulation and projection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/BlizzardDonnieGill.jpg/250px-BlizzardDonnieGill.jpg",
-    "width": "250",
-    "height": "275"
-  },
-  "pageviews": 9839
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blizzard_(comics)"
 }

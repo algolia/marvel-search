@@ -1,21 +1,26 @@
 {
-  "name": "Conan",
-  "url": "https://en.wikipedia.org/wiki/Conan_(Marvel_Comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Barry Smith"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "367",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Savagesword24_07.jpg/250px-Savagesword24_07.jpg",
-    "width": "250",
-    "height": "367"
+    "width": "250"
   },
-  "pageviews": 3492
+  "name": "Conan",
+  "pageviews": 3492,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Conan_(Marvel_Comics)"
 }

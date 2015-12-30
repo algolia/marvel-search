@@ -1,25 +1,29 @@
 {
-  "name": "Justin Hammer",
-  "url": "https://en.wikipedia.org/wiki/Justin_Hammer",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "John Romita, Jr.",
     "Bob Layton"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "424",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/JustinHammerHandbook.png/200px-JustinHammerHandbook.png",
+    "width": "200"
+  },
+  "name": "Justin Hammer",
+  "pageviews": 12630,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Genius-level intellect",
     "Expert strategist"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/JustinHammerHandbook.png/200px-JustinHammerHandbook.png",
-    "width": "200",
-    "height": "424"
-  },
-  "pageviews": 12630
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Justin_Hammer"
 }

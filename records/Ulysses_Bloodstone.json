@@ -1,30 +1,32 @@
 {
-  "name": "Ulysses Bloodstone",
-  "url": "https://en.wikipedia.org/wiki/Ulysses_Bloodstone",
-  "realName": null,
+  "aliases": "Ulysses Bloodstone, Captain Achab, Redstone Kid",
   "creators": [
     "Len Wein",
     "Marv Wolfman",
     "John Warner"
   ],
-  "teams": [
-    "Monster Hunters",
-    "\"Avengers\" (1959)"
+  "image": {
+    "height": "139",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Bloodstone_Ulysses.jpg/200px-Bloodstone_Ulysses.jpg",
+    "width": "200"
+  },
+  "name": "Ulysses Bloodstone",
+  "pageviews": 3958,
+  "partners": [
   ],
-  "aliases": "Ulysses Bloodstone, Captain Achab, Redstone Kid",
-  "species": [
-    "Human"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "immortality"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Bloodstone_Ulysses.jpg/200px-Bloodstone_Ulysses.jpg",
-    "width": "200",
-    "height": "139"
-  },
-  "pageviews": 3958
+  "realName": null,
+  "species": [
+    "Human"
+  ],
+  "teams": [
+    "Monster Hunters",
+    "\"Avengers\" (1959)"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ulysses_Bloodstone"
 }

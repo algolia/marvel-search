@@ -1,21 +1,17 @@
 {
-  "name": "Dead Girl",
-  "url": "https://en.wikipedia.org/wiki/Dead_Girl",
-  "realName": "Moonbeam (surname unrevealed)",
+  "aliases": "",
   "creators": [
     "Peter Milligan",
     "Mike Allred"
   ],
-  "teams": [
-    "X-Statix",
-    "X-Force"
+  "image": {
+  },
+  "name": "Dead Girl",
+  "pageviews": 1926,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Acclerated healing factor",
     "Telepathy with the dead",
@@ -25,6 +21,13 @@
     "reflexes",
     "Intangibility"
   ],
-  "image": {},
-  "pageviews": 1926
+  "realName": "Moonbeam (surname unrevealed)",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Statix",
+    "X-Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dead_Girl"
 }

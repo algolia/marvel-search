@@ -1,18 +1,17 @@
 {
-  "name": "Xemnu the Titan",
-  "url": "https://en.wikipedia.org/wiki/Xemnu",
-  "realName": "Xemnu",
+  "aliases": "The Living Hulk, Xemnu the Hulk, Richmond Wagner, Amos Moses",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "The Living Hulk, Xemnu the Hulk, Richmond Wagner, Amos Moses",
-  "species": [
-    "extraterrestrial"
+  "image": {
+  },
+  "name": "Xemnu the Titan",
+  "pageviews": 2247,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "stamina and durability",
@@ -21,6 +20,11 @@
     "Psionic powers",
     "Self-recreation"
   ],
-  "image": {},
-  "pageviews": 2247
+  "realName": "Xemnu",
+  "species": [
+    "extraterrestrial"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Xemnu"
 }

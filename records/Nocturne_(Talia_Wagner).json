@@ -1,21 +1,17 @@
 {
-  "name": "Nocturne",
-  "url": "https://en.wikipedia.org/wiki/Nocturne_(Talia_Wagner)",
-  "realName": "Talia Josephine \"T.J.\" Wagner",
+  "aliases": "",
   "creators": [
     "Jim Calafiore"
   ],
-  "teams": [
-    "Exiles",
-    "New Excalibur",
-    "Brotherhood of Mutants",
-    "X-Men"
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Nocturnexcal.png/230px-Nocturnexcal.png",
+    "width": "230"
+  },
+  "name": "Nocturne",
+  "pageviews": 4071,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Body possession",
     "telepathy"
@@ -27,10 +23,15 @@
     "Superhuman agility",
     "Latent telepathy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Nocturnexcal.png/230px-Nocturnexcal.png",
-    "width": "230",
-    "height": "382"
-  },
-  "pageviews": 4071
+  "realName": "Talia Josephine \"T.J.\" Wagner",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Exiles",
+    "New Excalibur",
+    "Brotherhood of Mutants",
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nocturne_(Talia_Wagner)"
 }

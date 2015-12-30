@@ -1,26 +1,28 @@
 {
-  "name": "Motormouth",
-  "url": "https://en.wikipedia.org/wiki/Motormouth_(comics)",
-  "realName": "Harley Davis",
+  "aliases": "",
   "creators": [
     "Gary Frank"
   ],
-  "teams": [
-    "MI-13"
-  ],
-  "aliases": "",
-  "species": [
-    "Cyborg"
-  ],
+  "image": {
+  },
+  "name": "Motormouth",
+  "pageviews": 1066,
   "partners": [
     "Killpower"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "-Sonic scream",
     "can teleport to any alternate reality and planet or place within them",
     "some energy identification abilities"
   ],
-  "image": {},
-  "pageviews": 1066
+  "realName": "Harley Davis",
+  "species": [
+    "Cyborg"
+  ],
+  "teams": [
+    "MI-13"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Motormouth_(comics)"
 }

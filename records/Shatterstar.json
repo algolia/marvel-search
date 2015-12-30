@@ -1,31 +1,33 @@
 {
-  "name": "Shatterstar",
-  "url": "https://en.wikipedia.org/wiki/Shatterstar",
-  "realName": "Gaveedra-Seven",
+  "aliases": "Benjamin Russell",
   "creators": [
     "Fabian Nicieza",
     "Rob Liefeld"
+  ],
+  "image": {
+    "height": "376",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Shatterstar.png/250px-Shatterstar.png",
+    "width": "250"
+  },
+  "name": "Shatterstar",
+  "pageviews": 8121,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman physical attributes and accelerated healing factor",
+    "Enhanced cognition",
+    "Ability to generate vibratory shockwaves and create teleportation portals through his swords"
+  ],
+  "realName": "Gaveedra-Seven",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Force",
     "New Mutants",
     "X-Factor Investigations"
   ],
-  "aliases": "Benjamin Russell",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman physical attributes and accelerated healing factor",
-    "Enhanced cognition",
-    "Ability to generate vibratory shockwaves and create teleportation portals through his swords"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Shatterstar.png/250px-Shatterstar.png",
-    "width": "250",
-    "height": "376"
-  },
-  "pageviews": 8121
+  "url": "https://en.wikipedia.org/wiki/Shatterstar"
 }

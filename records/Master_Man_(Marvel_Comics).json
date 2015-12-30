@@ -1,7 +1,5 @@
 {
-  "name": "Master Man",
-  "url": "https://en.wikipedia.org/wiki/Master_Man_(Marvel_Comics)",
-  "realName": "(I)Wilhelm Lohmer<br>(II)Axl Nacht<br>(III)Max Lohmer",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Frank Robbins",
@@ -9,23 +7,28 @@
     "Ed Brubaker",
     "Steve Epting"
   ],
-  "teams": [
-    "Super-Axis"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Invaders-16.jpg/250px-Invaders-16.jpg",
+    "width": "250"
+  },
+  "name": "Master Man",
+  "pageviews": 1742,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
     "stamina and durability",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Invaders-16.jpg/250px-Invaders-16.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 1742
+  "realName": "(I)Wilhelm Lohmer<br>(II)Axl Nacht<br>(III)Max Lohmer",
+  "species": [
+  ],
+  "teams": [
+    "Super-Axis"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Master_Man_(Marvel_Comics)"
 }

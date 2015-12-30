@@ -1,26 +1,29 @@
 {
-  "name": "Brain Drain",
-  "url": "https://en.wikipedia.org/wiki/Brain_Drain_(comics)",
-  "realName": "Werner Schmidt",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Frank Robbins"
   ],
-  "teams": [
-    "Omega Flight"
+  "image": {
+    "height": "373",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/BrainDrain.jpg/250px-BrainDrain.jpg",
+    "width": "250"
+  },
+  "name": "Brain Drain",
+  "pageviews": 935,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Mind control",
     "robot body"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/BrainDrain.jpg/250px-BrainDrain.jpg",
-    "width": "250",
-    "height": "373"
-  },
-  "pageviews": 935
+  "realName": "Werner Schmidt",
+  "species": [
+  ],
+  "teams": [
+    "Omega Flight"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Brain_Drain_(comics)"
 }

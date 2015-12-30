@@ -1,28 +1,31 @@
 {
-  "name": "Arabian Knight",
-  "url": "https://en.wikipedia.org/wiki/Arabian_Knight_(comics)",
-  "realName": "Abdul Qamar",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Al Milgrom"
   ],
-  "teams": [
-    "Desert Sword",
-    "Pantheon"
+  "image": {
+    "height": "366",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Arabianknightmu0.jpg/225px-Arabianknightmu0.jpg",
+    "width": "225"
+  },
+  "name": "Arabian Knight",
+  "pageviews": 2404,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Exceptional swordsman",
     "Use of magic carpet",
     "sash and scimitar"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Arabianknightmu0.jpg/225px-Arabianknightmu0.jpg",
-    "width": "225",
-    "height": "366"
-  },
-  "pageviews": 2404
+  "realName": "Abdul Qamar",
+  "species": [
+  ],
+  "teams": [
+    "Desert Sword",
+    "Pantheon"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Arabian_Knight_(comics)"
 }

@@ -1,23 +1,27 @@
 {
-  "name": "The Presence",
-  "url": "https://en.wikipedia.org/wiki/Presence_(Marvel_Comics)",
-  "realName": "Sergei Krylov",
+  "aliases": "",
   "creators": [
     "David Anthony Kraft",
     "Keith Giffen"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+  },
+  "name": "The Presence",
+  "pageviews": 1356,
   "partners": [
     "Starlight"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Energy blasts",
     "Flight",
     "Manipulation of nuclear energy"
   ],
-  "image": {},
-  "pageviews": 1356
+  "realName": "Sergei Krylov",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Presence_(Marvel_Comics)"
 }

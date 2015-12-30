@@ -1,23 +1,27 @@
 {
-  "name": "Annihilus",
-  "url": "https://en.wikipedia.org/wiki/Yon-Rogg",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Gene Colan"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Kree"
+  "image": {
+  },
+  "name": "Annihilus",
+  "pageviews": 1586,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Super-Strength",
     "Agility",
     "Stamina"
   ],
-  "image": {},
-  "pageviews": 1586
+  "realName": "",
+  "species": [
+    "Kree"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Yon-Rogg"
 }

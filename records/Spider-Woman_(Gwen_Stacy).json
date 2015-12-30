@@ -1,18 +1,16 @@
 {
-  "name": "Spider-Woman",
-  "url": "https://en.wikipedia.org/wiki/Spider-Woman_(Gwen_Stacy)",
-  "realName": null,
+  "aliases": "Spider-Gwen",
   "creators": [
     "Jason Latour",
     "Robbi Rodriguez"
   ],
-  "teams": [
-    "Web Warriors"
-  ],
-  "aliases": "Spider-Gwen",
-  "species": [
-    "Human Mutate"
-  ],
+  "image": {
+    "height": "209",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Edge-of-spider-verse-1--100339.jpg/250px-Edge-of-spider-verse-1--100339.jpg",
+    "width": "250"
+  },
+  "name": "Spider-Woman",
+  "pageviews": 10946,
   "partners": [
     "Spider-Man"
   ],
@@ -33,10 +31,12 @@
     "Spider-Sense",
     "Inter dimensional travel device"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Edge-of-spider-verse-1--100339.jpg/250px-Edge-of-spider-verse-1--100339.jpg",
-    "width": "250",
-    "height": "209"
-  },
-  "pageviews": 10946
+  "realName": null,
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+    "Web Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spider-Woman_(Gwen_Stacy)"
 }

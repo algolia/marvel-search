@@ -1,7 +1,5 @@
 {
-  "name": "Deathlok",
-  "url": "https://en.wikipedia.org/wiki/Deathlok",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Doug Moench",
     "Rich Buckler",
@@ -10,6 +8,27 @@
     "Jackson Guice",
     "Nathan Edmondson",
     "Mike Perkins"
+  ],
+  "image": {
+    "height": "373",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/AstonishingTales25.jpg/250px-AstonishingTales25.jpg",
+    "width": "250"
+  },
+  "name": "Deathlok",
+  "pageviews": 34428,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Cybernetic enhancements granting superhuman speed",
+    "strength",
+    "durability and reflexes",
+    "Ability to repair bodily damage",
+    "Ability to track multiple objects"
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "CIA",
@@ -20,21 +39,5 @@
     "X-Force",
     "Jean Grey School Staff"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Cybernetic enhancements granting superhuman speed",
-    "strength",
-    "durability and reflexes",
-    "Ability to repair bodily damage",
-    "Ability to track multiple objects"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/AstonishingTales25.jpg/250px-AstonishingTales25.jpg",
-    "width": "250",
-    "height": "373"
-  },
-  "pageviews": 34428
+  "url": "https://en.wikipedia.org/wiki/Deathlok"
 }

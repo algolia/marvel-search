@@ -1,19 +1,22 @@
 {
-  "name": "Garokk",
-  "url": "https://en.wikipedia.org/wiki/Garokk",
-  "realName": "Unknown (first body) <br> Kirk Marston (second body)",
+  "aliases": "The Petrified Man, Lazarus, Terminus",
   "creators": [
     "Roy Thomas",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "The Petrified Man, Lazarus, Terminus",
-  "species": [],
+  "image": {
+    "height": "297",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Garokk.PNG/150px-Garokk.PNG",
+    "width": "150"
+  },
+  "name": "Garokk",
+  "pageviews": 1147,
   "partners": [
     "Zaladane",
     "Magneto"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Energy and matter manipulation",
     "Shape-shifting",
@@ -22,10 +25,10 @@
     "stamina and durability",
     "Immortality"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Garokk.PNG/150px-Garokk.PNG",
-    "width": "150",
-    "height": "297"
-  },
-  "pageviews": 1147
+  "realName": "Unknown (first body) <br> Kirk Marston (second body)",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Garokk"
 }

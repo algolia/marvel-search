@@ -1,22 +1,26 @@
 {
-  "name": "Gargoyle",
-  "url": "https://en.wikipedia.org/wiki/Gargoyle_(comics)",
-  "realName": "Yuri Topolov",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "KGB"
+  "image": {
+  },
+  "name": "Gargoyle",
+  "pageviews": 6808,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Highly intelligent",
     "Used a gun that fired will-weakening pellets"
   ],
-  "image": {},
-  "pageviews": 6808
+  "realName": "Yuri Topolov",
+  "species": [
+  ],
+  "teams": [
+    "KGB"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gargoyle_(comics)"
 }

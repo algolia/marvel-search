@@ -1,26 +1,30 @@
 {
-  "name": "Jennifer Kale",
-  "url": "https://en.wikipedia.org/wiki/Jennifer_Kale",
-  "realName": "Jennifer Kale",
+  "aliases": "Witch Woman",
   "creators": [
     "Steve Gerber",
     "Rich Buckler"
   ],
-  "teams": [
-    "Midnight Sons",
-    "Legion of Night",
-    "Witches"
-  ],
-  "aliases": "Witch Woman",
-  "species": [],
+  "image": {
+  },
+  "name": "Jennifer Kale",
+  "pageviews": 4499,
   "partners": [
     "Dakimh the Enchanter",
     "Man-Thing",
     "Korrek",
     "Howard the Duck"
   ],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 4499
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Jennifer Kale",
+  "species": [
+  ],
+  "teams": [
+    "Midnight Sons",
+    "Legion of Night",
+    "Witches"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jennifer_Kale"
 }

@@ -1,20 +1,18 @@
 {
-  "name": "The Buzz",
-  "url": "https://en.wikipedia.org/wiki/Buzz_(comics)",
-  "realName": "Jack Benjamin Jameson",
+  "aliases": "JJ",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [
-    "New Warriors"
-  ],
-  "aliases": "JJ",
-  "species": [],
+  "image": {
+  },
+  "name": "The Buzz",
+  "pageviews": 744,
   "partners": [
     "Spider-Girl"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Powered armor grants:",
     "Superhuman strength",
@@ -22,6 +20,11 @@
     "360 degree vision via goggles",
     "Gauntlets that fire electric blasts or streamers of sticky adhesive"
   ],
-  "image": {},
-  "pageviews": 744
+  "realName": "Jack Benjamin Jameson",
+  "species": [
+  ],
+  "teams": [
+    "New Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Buzz_(comics)"
 }

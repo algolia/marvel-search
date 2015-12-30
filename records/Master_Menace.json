@@ -1,18 +1,15 @@
 {
-  "name": "Master Menace",
-  "url": "https://en.wikipedia.org/wiki/Master_Menace",
-  "realName": "Emil Zebediah Burbank",
+  "aliases": "Master Menace",
   "creators": [
     "Roy Thomas",
     "Wayne Boring"
   ],
-  "teams": [
-    "Squadron Supreme",
-    "America Redeemers"
+  "image": {
+  },
+  "name": "Master Menace",
+  "pageviews": 798,
+  "partners": [
   ],
-  "aliases": "Master Menace",
-  "species": [],
-  "partners": [],
   "powers": [
     "inventor",
     "Powered armor"
@@ -22,6 +19,12 @@
     "Powered armor",
     "Various weapons"
   ],
-  "image": {},
-  "pageviews": 798
+  "realName": "Emil Zebediah Burbank",
+  "species": [
+  ],
+  "teams": [
+    "Squadron Supreme",
+    "America Redeemers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Master_Menace"
 }

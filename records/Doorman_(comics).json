@@ -1,19 +1,19 @@
 {
-  "name": "Doorman",
-  "url": "https://en.wikipedia.org/wiki/Doorman_(comics)",
-  "realName": "DeMarr Davis",
+  "aliases": "",
   "creators": [
     "John Byrne"
   ],
-  "teams": [
-    "Great Lakes Avengers"
+  "image": {
+    "height": "280",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Doorman_HCV.jpg",
+    "width": "200"
+  },
+  "name": "Doorman",
+  "pageviews": 3922,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Portal generation",
     "Flight via skis",
@@ -22,10 +22,12 @@
     "Formerly:",
     "Levitation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Doorman_HCV.jpg",
-    "width": "200",
-    "height": "280"
-  },
-  "pageviews": 3922
+  "realName": "DeMarr Davis",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Great Lakes Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Doorman_(comics)"
 }

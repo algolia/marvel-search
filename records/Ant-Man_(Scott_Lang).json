@@ -1,22 +1,18 @@
 {
-  "name": "Ant-Man",
-  "url": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)",
-  "realName": "Scott Edward Harris Lang",
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "John Byrne"
   ],
-  "teams": [
-    "Stark Industries",
-    "Avengers",
-    "Fantastic Four",
-    "Heroes for Hire",
-    "Defenders",
-    "Future Foundation"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/9a/AntmanAH.JPG",
+    "width": "181"
+  },
+  "name": "Ant-Man",
+  "pageviews": 85209,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "subatomic universes"
   ],
@@ -29,10 +25,16 @@
     "Maintains normal-size strength in shrunken state",
     "Ability to shrink to sub-microscopic size and enter the subatomic universes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/9a/AntmanAH.JPG",
-    "width": "181",
-    "height": "450"
-  },
-  "pageviews": 85209
+  "realName": "Scott Edward Harris Lang",
+  "species": [
+  ],
+  "teams": [
+    "Stark Industries",
+    "Avengers",
+    "Fantastic Four",
+    "Heroes for Hire",
+    "Defenders",
+    "Future Foundation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)"
 }

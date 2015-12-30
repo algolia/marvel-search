@@ -1,24 +1,27 @@
 {
-  "name": "Burner",
-  "url": "https://en.wikipedia.org/wiki/Burner_(comics)",
-  "realName": "Byron Calley",
+  "aliases": "Crucible",
   "creators": [
     "Jack Kirby"
+  ],
+  "image": {
+  },
+  "name": "Burner",
+  "pageviews": 930,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "pyrokinesis"
+  ],
+  "realName": "Byron Calley",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Brotherhood of Evil Mutants",
     "Mutant Force/Resistants",
     "Secret Empire"
   ],
-  "aliases": "Crucible",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "pyrokinesis"
-  ],
-  "image": {},
-  "pageviews": 930
+  "url": "https://en.wikipedia.org/wiki/Burner_(comics)"
 }

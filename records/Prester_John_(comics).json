@@ -1,17 +1,15 @@
 {
-  "name": "Prester John",
-  "url": "https://en.wikipedia.org/wiki/Prester_John_(comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Providence"
+  "image": {
+  },
+  "name": "Prester John",
+  "pageviews": 766,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Evil Eye"
   ],
@@ -19,6 +17,11 @@
     "Concussive energy blasts and force fields via Stellar Rod (formerly Evil Eye)",
     "Superhuman strength and durability via Stone of Power"
   ],
-  "image": {},
-  "pageviews": 766
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Providence"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Prester_John_(comics)"
 }

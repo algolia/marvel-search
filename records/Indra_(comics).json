@@ -1,10 +1,27 @@
 {
-  "name": "Indra",
-  "url": "https://en.wikipedia.org/wiki/Indra_(comics)",
-  "realName": "Paras Gavaskar",
+  "aliases": "",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir"
+  ],
+  "image": {
+    "height": "233",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Indra_%28NXM%29.jpg/250px-Indra_%28NXM%29.jpg",
+    "width": "250"
+  },
+  "name": "Indra",
+  "pageviews": 1503,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Retractable armored plates",
+    "Psionic matter manifestation"
+  ],
+  "realName": "Paras Gavaskar",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Alpha Squadron training squad",
@@ -12,20 +29,5 @@
     "X-Men-In-Training",
     "Jean Grey School Students"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Retractable armored plates",
-    "Psionic matter manifestation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Indra_%28NXM%29.jpg/250px-Indra_%28NXM%29.jpg",
-    "width": "250",
-    "height": "233"
-  },
-  "pageviews": 1503
+  "url": "https://en.wikipedia.org/wiki/Indra_(comics)"
 }

@@ -1,28 +1,20 @@
 {
-  "name": "Wolverine",
-  "url": "https://en.wikipedia.org/wiki/X-23",
-  "realName": "Laura Kinney",
+  "aliases": "Laura X, Talon, Captain Universe, X-23, Wolverine",
   "creators": [
     "Craig Kyle",
     "Christopher Yost"
   ],
-  "teams": [
-    "The Facility",
-    "New X-Men",
-    "Weapon X",
-    "Xavier Institute",
-    "X-Force",
-    "X-Men",
-    "X-Men-In-Training",
-    "Avengers Academy"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/X-23cover.jpg/250px-X-23cover.jpg",
+    "width": "250"
+  },
+  "name": "Wolverine",
+  "pageviews": 50139,
+  "partners": [
   ],
-  "aliases": "Laura X, Talon, Captain Universe, X-23, Wolverine",
-  "species": [
-    "Human Mutant",
-    "Clone"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Expert assassin",
     "martial artist",
@@ -39,10 +31,20 @@
     "Regenerative healing factor",
     "Retractable adamantium-coated bone claws in hands and feet"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/X-23cover.jpg/250px-X-23cover.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 50139
+  "realName": "Laura Kinney",
+  "species": [
+    "Human Mutant",
+    "Clone"
+  ],
+  "teams": [
+    "The Facility",
+    "New X-Men",
+    "Weapon X",
+    "Xavier Institute",
+    "X-Force",
+    "X-Men",
+    "X-Men-In-Training",
+    "Avengers Academy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/X-23"
 }

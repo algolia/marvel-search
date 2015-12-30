@@ -1,19 +1,19 @@
 {
-  "name": "Charcoal",
-  "url": "https://en.wikipedia.org/wiki/Charcoal_(comics)",
-  "realName": "Charlie Burlingame",
+  "aliases": "",
   "creators": [
     "Kurt Busiek",
     "Mark Bagley",
     "Scott Hanna"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Secret Empire"
+  "image": {
+    "height": "341",
+    "url": "https://upload.wikimedia.org/wikipedia/en/7/77/Thunderbolts53.jpg",
+    "width": "225"
+  },
+  "name": "Charcoal",
+  "pageviews": 1245,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Fire manipulation"
   ],
@@ -23,10 +23,12 @@
     "diamond",
     "etc.)"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/7/77/Thunderbolts53.jpg",
-    "width": "225",
-    "height": "341"
-  },
-  "pageviews": 1245
+  "realName": "Charlie Burlingame",
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Secret Empire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Charcoal_(comics)"
 }

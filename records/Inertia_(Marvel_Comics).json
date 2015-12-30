@@ -1,27 +1,30 @@
 {
-  "name": "Inertia",
-  "url": "https://en.wikipedia.org/wiki/Inertia_(Marvel_Comics)",
-  "realName": "Edith ''Eddy'' Freiberg",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Paul Ryan",
     "J. Michael Straczynski",
     "Gary Frank"
   ],
-  "teams": [
-    "America Redeemers",
-    "Squadron Supreme",
-    "The Squadron Supreme"
+  "image": {
+  },
+  "name": "Inertia",
+  "pageviews": 1381,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "kinetic energy"
   ],
   "powersText": [
     "transfer kinetic energy into object or person"
   ],
-  "image": {},
-  "pageviews": 1381
+  "realName": "Edith ''Eddy'' Freiberg",
+  "species": [
+  ],
+  "teams": [
+    "America Redeemers",
+    "Squadron Supreme",
+    "The Squadron Supreme"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Inertia_(Marvel_Comics)"
 }

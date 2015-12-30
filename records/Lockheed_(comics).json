@@ -1,10 +1,29 @@
 {
-  "name": "Lockheed",
-  "url": "https://en.wikipedia.org/wiki/Lockheed_(comics)",
-  "realName": "Lockheed",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Paul Smith"
+  ],
+  "image": {
+    "height": "327",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Lockheedx.PNG/250px-Lockheedx.PNG",
+    "width": "250"
+  },
+  "name": "Lockheed",
+  "pageviews": 9261,
+  "partners": [
+  ],
+  "powers": [
+    "Empathy"
+  ],
+  "powersText": [
+    "Fire projection",
+    "Flight",
+    "Empathy"
+  ],
+  "realName": "Lockheed",
+  "species": [
+    "Dragon"
   ],
   "teams": [
     "S.W.O.R.D.",
@@ -14,23 +33,5 @@
     "Excalibur",
     "Jean Grey School"
   ],
-  "aliases": "",
-  "species": [
-    "Dragon"
-  ],
-  "partners": [],
-  "powers": [
-    "Empathy"
-  ],
-  "powersText": [
-    "Fire projection",
-    "Flight",
-    "Empathy"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Lockheedx.PNG/250px-Lockheedx.PNG",
-    "width": "250",
-    "height": "327"
-  },
-  "pageviews": 9261
+  "url": "https://en.wikipedia.org/wiki/Lockheed_(comics)"
 }

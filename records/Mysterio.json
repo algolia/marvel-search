@@ -1,18 +1,18 @@
 {
-  "name": "Mysterio",
-  "url": "https://en.wikipedia.org/wiki/Mysterio",
-  "realName": "Quentin Beck",
+  "aliases": "Dr. Ludwig Rinehart",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Maggia",
-    "Sinister Six"
+  "image": {
+    "height": "301",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Quentin_Beck.jpg/200px-Quentin_Beck.jpg",
+    "width": "200"
+  },
+  "name": "Mysterio",
+  "pageviews": 20233,
+  "partners": [
   ],
-  "aliases": "Dr. Ludwig Rinehart",
-  "species": [],
-  "partners": [],
   "powers": [
     "illusion",
     "hypnotist",
@@ -27,10 +27,12 @@
     "Exceptional hand to hand combatant",
     "Use of weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Quentin_Beck.jpg/200px-Quentin_Beck.jpg",
-    "width": "200",
-    "height": "301"
-  },
-  "pageviews": 20233
+  "realName": "Quentin Beck",
+  "species": [
+  ],
+  "teams": [
+    "Maggia",
+    "Sinister Six"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mysterio"
 }

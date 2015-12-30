@@ -1,16 +1,17 @@
 {
-  "name": "Mister Jip",
-  "url": "https://en.wikipedia.org/wiki/Mister_Jip",
-  "realName": "unknown",
+  "aliases": "",
   "creators": [
     "Terry Austin",
     "Bret Blevins"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Mister Jip",
+  "pageviews": 994,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "vast ability to manipulate black magic (energy projection",
     "astral projection",
@@ -20,6 +21,10 @@
     "enhanced strength",
     "ability to take over host bodies extending his life."
   ],
-  "image": {},
-  "pageviews": 994
+  "realName": "unknown",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mister_Jip"
 }

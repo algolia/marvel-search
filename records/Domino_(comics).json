@@ -1,23 +1,16 @@
 {
-  "name": "Domino",
-  "url": "https://en.wikipedia.org/wiki/Domino_(comics)",
-  "realName": "Neena Thurman",
+  "aliases": "Neena Beatrice Thurman, Beatrice Thurman, Samantha Wu, Tamara Winter, Elena Vladescu, Jessica Marie Costello, Luisa Mendoza, Christina Elizabeth Alioso, Priscilla Sutherland, Hope Eldridge",
   "creators": [
     "Fabian Nicieza",
     "Rob Liefeld"
   ],
-  "teams": [
-    "X-Men",
-    "X-Force",
-    "The 198",
-    "X-Corporation",
-    "Underground",
-    "Six Pack"
-  ],
-  "aliases": "Neena Beatrice Thurman, Beatrice Thurman, Samantha Wu, Tamara Winter, Elena Vladescu, Jessica Marie Costello, Luisa Mendoza, Christina Elizabeth Alioso, Priscilla Sutherland, Hope Eldridge",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+    "height": "336",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/DominoX-Men.jpg/250px-DominoX-Men.jpg",
+    "width": "250"
+  },
+  "name": "Domino",
+  "pageviews": 24929,
   "partners": [
     "Cable"
   ],
@@ -29,10 +22,17 @@
     "Enhanced reflexes",
     "Expert markswoman"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/DominoX-Men.jpg/250px-DominoX-Men.jpg",
-    "width": "250",
-    "height": "336"
-  },
-  "pageviews": 24929
+  "realName": "Neena Thurman",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men",
+    "X-Force",
+    "The 198",
+    "X-Corporation",
+    "Underground",
+    "Six Pack"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Domino_(comics)"
 }

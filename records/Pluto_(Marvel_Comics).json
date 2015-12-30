@@ -1,19 +1,21 @@
 {
-  "name": "Pluto",
-  "url": "https://en.wikipedia.org/wiki/Pluto_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "Hayden P. Hellman, Aidoneus, Mr. Pluto, Dis",
   "creators": [
     "Hades",
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Gods of Olympus"
+  "image": {
+    "height": "367",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Hades2.png/250px-Hades2.png",
+    "width": "250"
+  },
+  "name": "Pluto",
+  "pageviews": 2695,
+  "partners": [
   ],
-  "aliases": "Hayden P. Hellman, Aidoneus, Mr. Pluto, Dis",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "stamina and durability",
@@ -24,10 +26,11 @@
     "Immortality",
     "Ability to order the spirits of the dead under his control"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Hades2.png/250px-Hades2.png",
-    "width": "250",
-    "height": "367"
-  },
-  "pageviews": 2695
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Gods of Olympus"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Pluto_(Marvel_Comics)"
 }

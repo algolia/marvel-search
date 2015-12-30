@@ -1,25 +1,28 @@
 {
-  "name": "Starr the Slayer",
-  "url": "https://en.wikipedia.org/wiki/Starr_the_Slayer",
-  "realName": "Starr",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Barry Windsor-Smith"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Starr.jpg/246px-Starr.jpg",
+    "width": "246"
+  },
+  "name": "Starr the Slayer",
+  "pageviews": 916,
+  "partners": [
+  ],
   "powers": [
     "swordsman"
   ],
   "powersText": [
     "Expert swordsman"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Starr.jpg/246px-Starr.jpg",
-    "width": "246",
-    "height": "450"
-  },
-  "pageviews": 916
+  "realName": "Starr",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Starr_the_Slayer"
 }

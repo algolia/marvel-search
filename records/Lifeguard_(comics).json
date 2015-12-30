@@ -1,31 +1,32 @@
 {
-  "name": "Lifeguard",
-  "url": "https://en.wikipedia.org/wiki/Lifeguard_(comics)",
-  "realName": "Heather Cameron",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Salvador Larroca"
   ],
-  "teams": [
-    "X-Men",
-    "X-Corporation"
+  "image": {
+    "height": "420",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Lifeguard.PNG/200px-Lifeguard.PNG",
+    "width": "200"
+  },
+  "name": "Lifeguard",
+  "pageviews": 3384,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant",
-    "Shi'ar"
-  ],
-  "partners": [],
   "powers": [
     "Reactive adaptation"
   ],
   "powersText": [
     "Reactive adaptation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Lifeguard.PNG/200px-Lifeguard.PNG",
-    "width": "200",
-    "height": "420"
-  },
-  "pageviews": 3384
+  "realName": "Heather Cameron",
+  "species": [
+    "Human Mutant",
+    "Shi'ar"
+  ],
+  "teams": [
+    "X-Men",
+    "X-Corporation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lifeguard_(comics)"
 }

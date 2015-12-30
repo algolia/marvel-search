@@ -1,27 +1,30 @@
 {
-  "name": "The Russian",
-  "url": "https://en.wikipedia.org/wiki/Russian_(comics)",
-  "realName": "",
+  "aliases": "The Ivan",
   "creators": [
     "Garth Ennis"
   ],
-  "teams": [],
-  "aliases": "The Ivan",
-  "species": [
-    "Cyborg"
+  "image": {
+    "height": "328",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Russian-assassin.jpg/250px-Russian-assassin.jpg",
+    "width": "250"
+  },
+  "name": "The Russian",
+  "pageviews": 5915,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Considerable strength",
     "stamina and durability",
     "Nigh-invulnerability",
     "Enhanced smell"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Russian-assassin.jpg/250px-Russian-assassin.jpg",
-    "width": "250",
-    "height": "328"
-  },
-  "pageviews": 5915
+  "realName": "",
+  "species": [
+    "Cyborg"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Russian_(comics)"
 }

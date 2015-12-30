@@ -1,24 +1,27 @@
 {
-  "name": "Gertrude Yorkes",
-  "url": "https://en.wikipedia.org/wiki/Gertrude_Yorkes",
-  "realName": "Gertrude Yorkes",
-  "creators": [],
-  "teams": [
-    "Runaways"
-  ],
   "aliases": "Arsenic, Heroine",
-  "species": [],
-  "partners": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "364",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/RUNAWY014_COV.jpg/250px-RUNAWY014_COV.jpg",
+    "width": "250"
+  },
+  "name": "Gertrude Yorkes",
+  "pageviews": 4101,
+  "partners": [
+  ],
   "powers": [
     "deinonychus"
   ],
   "powersText": [
     "Psychic link to genetically engineered deinonychus."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/RUNAWY014_COV.jpg/250px-RUNAWY014_COV.jpg",
-    "width": "250",
-    "height": "364"
-  },
-  "pageviews": 4101
+  "realName": "Gertrude Yorkes",
+  "species": [
+  ],
+  "teams": [
+    "Runaways"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gertrude_Yorkes"
 }

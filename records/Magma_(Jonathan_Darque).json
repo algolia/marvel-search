@@ -1,23 +1,27 @@
 {
-  "name": "Magma",
-  "url": "https://en.wikipedia.org/wiki/Magma_(Jonathan_Darque)",
-  "realName": "Jonathan Darque",
+  "aliases": "",
   "creators": [
     "Herb Trimpe",
     "David Michelinie",
     "Mike Esposito"
   ],
-  "teams": [
-    "Roxxon Oil Company"
+  "image": {
+  },
+  "name": "Magma",
+  "pageviews": 611,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genetically",
     "Extraordinary Armour"
   ],
-  "image": {},
-  "pageviews": 611
+  "realName": "Jonathan Darque",
+  "species": [
+  ],
+  "teams": [
+    "Roxxon Oil Company"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Magma_(Jonathan_Darque)"
 }

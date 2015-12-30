@@ -1,21 +1,18 @@
 {
-  "name": "Doctor Strange",
-  "url": "https://en.wikipedia.org/wiki/Doctor_Strange",
-  "realName": null,
+  "aliases": "Stephen Sanders, Vincent Stevens",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "New Avengers",
-    "Illuminati",
-    "Defenders",
-    "The Order",
-    "Midnight Sons"
+  "image": {
+    "height": "383",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg/250px-Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg",
+    "width": "250"
+  },
+  "name": "Doctor Strange",
+  "pageviews": 221089,
+  "partners": [
   ],
-  "aliases": "Stephen Sanders, Vincent Stevens",
-  "species": [],
-  "partners": [],
   "powers": [
     "magic",
     "medical science"
@@ -25,10 +22,15 @@
     "Genius-level intellect",
     "Trained in medical science"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg/250px-Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg",
-    "width": "250",
-    "height": "383"
-  },
-  "pageviews": 221089
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "New Avengers",
+    "Illuminati",
+    "Defenders",
+    "The Order",
+    "Midnight Sons"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Doctor_Strange"
 }

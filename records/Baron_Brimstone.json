@@ -1,19 +1,24 @@
 {
-  "name": "Baron Brimstone",
-  "url": "https://en.wikipedia.org/wiki/Baron_Brimstone",
-  "realName": "Baron Walther Theodoric",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Baron Brimstone",
+  "pageviews": 329,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Magic user"
   ],
-  "image": {},
-  "pageviews": 329
+  "realName": "Baron Walther Theodoric",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Baron_Brimstone"
 }

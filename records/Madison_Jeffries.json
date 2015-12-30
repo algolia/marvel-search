@@ -1,9 +1,26 @@
 {
-  "name": "Madison Jeffries",
-  "url": "https://en.wikipedia.org/wiki/Madison_Jeffries",
-  "realName": "Madison Jeffries",
+  "aliases": "Box, Gemini",
   "creators": [
     "John Byrne"
+  ],
+  "image": {
+  },
+  "name": "Madison Jeffries",
+  "pageviews": 3749,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Technokinetic ability to reshape plastic",
+    "metal",
+    "and glass to any shape desired",
+    "Technopathic ability to mentally communicate with AI",
+    "such as machines and robots."
+  ],
+  "realName": "Madison Jeffries",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Men",
@@ -13,19 +30,5 @@
     "Gamma Flight",
     "Zodiac"
   ],
-  "aliases": "Box, Gemini",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Technokinetic ability to reshape plastic",
-    "metal",
-    "and glass to any shape desired",
-    "Technopathic ability to mentally communicate with AI",
-    "such as machines and robots."
-  ],
-  "image": {},
-  "pageviews": 3749
+  "url": "https://en.wikipedia.org/wiki/Madison_Jeffries"
 }

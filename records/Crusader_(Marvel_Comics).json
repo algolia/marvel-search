@@ -1,16 +1,20 @@
 {
-  "name": "Crusader",
-  "url": "https://en.wikipedia.org/wiki/Crusader_(Marvel_Comics)",
-  "realName": "Arthur Charles Blackwood",
+  "aliases": "",
   "creators": [
     "Alan Zelenetz",
     "Bob Hall"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "341",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Cruseder.jpg/200px-Cruseder.jpg",
+    "width": "200"
+  },
+  "name": "Crusader",
+  "pageviews": 1607,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Master swordsman and jouster",
     "Superhuman strength",
@@ -22,10 +26,10 @@
     "Wears mystical body armor",
     "Use of mystical sword and shield"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Cruseder.jpg/200px-Cruseder.jpg",
-    "width": "200",
-    "height": "341"
-  },
-  "pageviews": 1607
+  "realName": "Arthur Charles Blackwood",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Crusader_(Marvel_Comics)"
 }

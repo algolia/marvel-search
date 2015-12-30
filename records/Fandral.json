@@ -1,21 +1,20 @@
 {
-  "name": "Fandral",
-  "url": "https://en.wikipedia.org/wiki/Fandral",
-  "realName": null,
+  "aliases": "Fandral the Dashing",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Warriors Three",
-    "Thor Corps"
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg",
+    "width": "250"
+  },
+  "name": "Fandral",
+  "pageviews": 17968,
+  "partners": [
   ],
-  "aliases": "Fandral the Dashing",
-  "species": [
-    "Asgardian"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -25,10 +24,13 @@
     "Extended lifespan",
     "Master swordsman"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 17968
+  "realName": null,
+  "species": [
+    "Asgardian"
+  ],
+  "teams": [
+    "Warriors Three",
+    "Thor Corps"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Fandral"
 }

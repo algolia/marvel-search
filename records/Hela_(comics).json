@@ -1,15 +1,18 @@
 {
-  "name": "Hela",
-  "url": "https://en.wikipedia.org/wiki/Hela_(comics)",
-  "realName": "Hela",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Cover_of_Thor-150.jpg/250px-Cover_of_Thor-150.jpg",
+    "width": "250"
+  },
+  "name": "Hela",
+  "pageviews": 11165,
+  "partners": [
+  ],
   "powers": [
     "Black magic",
     "Telepathy",
@@ -28,10 +31,10 @@
     "Deadly touch (Hand of Glory)",
     "High level mystical powers."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Cover_of_Thor-150.jpg/250px-Cover_of_Thor-150.jpg",
-    "width": "250",
-    "height": "382"
-  },
-  "pageviews": 11165
+  "realName": "Hela",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hela_(comics)"
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Janice Lincoln",
-  "url": "https://en.wikipedia.org/wiki/Janice_Lincoln",
-  "realName": "Janice Lincoln",
+  "aliases": "Lady Beetle",
   "creators": [
     "Ed Brubaker"
   ],
-  "teams": [
-    "Sinister Six"
-  ],
-  "aliases": "Lady Beetle",
-  "species": [],
+  "image": {
+    "height": "355",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Janice_Lincoln.png/250px-Janice_Lincoln.png",
+    "width": "250"
+  },
+  "name": "Janice Lincoln",
+  "pageviews": 2594,
   "partners": [
     "Tombstone"
   ],
@@ -23,10 +23,11 @@
     "Variety of weapon systems",
     "Ability to stick to walls"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Janice_Lincoln.png/250px-Janice_Lincoln.png",
-    "width": "250",
-    "height": "355"
-  },
-  "pageviews": 2594
+  "realName": "Janice Lincoln",
+  "species": [
+  ],
+  "teams": [
+    "Sinister Six"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Janice_Lincoln"
 }

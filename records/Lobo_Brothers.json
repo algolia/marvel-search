@@ -1,21 +1,25 @@
 {
-  "name": "Lobo Brothers",
-  "url": "https://en.wikipedia.org/wiki/Lobo_Brothers",
-  "realName": "Carlos and Eduardo Lobo",
+  "aliases": "Los Hermanos de Luna",
   "creators": [
     "Gerry Conway",
     "Sal Buscema"
   ],
-  "teams": [],
-  "aliases": "Los Hermanos de Luna",
-  "species": [
-    "Human Mutant"
+  "image": {
+  },
+  "name": "Lobo Brothers",
+  "pageviews": 752,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Lycanthropy (transform into werewolves during full moon)"
   ],
-  "image": {},
-  "pageviews": 752
+  "realName": "Carlos and Eduardo Lobo",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lobo_Brothers"
 }

@@ -1,18 +1,18 @@
 {
-  "name": "Toxin",
-  "url": "https://en.wikipedia.org/wiki/Toxin_(comics)",
-  "realName": null,
+  "aliases": "Son of Carnage",
   "creators": [
     "Peter Milligan",
     "Clayton Crain"
   ],
-  "teams": [
-    "NYPD",
-    "Savage Six"
+  "image": {
+    "height": "367",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/TOXIN3.jpg/250px-TOXIN3.jpg",
+    "width": "250"
+  },
+  "name": "Toxin",
+  "pageviews": 17844,
+  "partners": [
   ],
-  "aliases": "Son of Carnage",
-  "species": [],
-  "partners": [],
   "powers": [
     "Alien symbiote grants:"
   ],
@@ -30,10 +30,12 @@
     "Immunity to Spider Sense as well as Venom and Carnage tracking him down.",
     "Fangs and claws appear when he is angry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/TOXIN3.jpg/250px-TOXIN3.jpg",
-    "width": "250",
-    "height": "367"
-  },
-  "pageviews": 17844
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "NYPD",
+    "Savage Six"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Toxin_(comics)"
 }

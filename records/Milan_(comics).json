@@ -1,24 +1,27 @@
 {
-  "name": "Milan",
-  "url": "https://en.wikipedia.org/wiki/Milan_(comics)",
-  "realName": "Francisco Milan",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "John Romita, Jr."
   ],
-  "teams": [
-    "Acolytes"
+  "image": {
+  },
+  "name": "Milan",
+  "pageviews": 445,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Electropathy",
     "Technopathy"
   ],
-  "image": {},
-  "pageviews": 445
+  "realName": "Francisco Milan",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Acolytes"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Milan_(comics)"
 }

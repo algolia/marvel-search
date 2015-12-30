@@ -1,19 +1,18 @@
 {
-  "name": "Prime",
-  "url": "https://en.wikipedia.org/wiki/Prime_(comics)",
-  "realName": "Kevin Green",
+  "aliases": "",
   "creators": [
     "Gerard Jones",
     "Len Strazewski",
     "Norm Breyfogle"
   ],
-  "teams": [
-    "Ultraforce"
+  "image": {
+  },
+  "name": "Prime",
+  "pageviews": 2606,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Prime: Superhuman strength",
     "stamina",
@@ -22,6 +21,11 @@
     "Ability to concentrate and release energy as a concussive blast",
     "Kevin Green: Able to create Prime bodies around himself"
   ],
-  "image": {},
-  "pageviews": 2606
+  "realName": "Kevin Green",
+  "species": [
+  ],
+  "teams": [
+    "Ultraforce"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Prime_(comics)"
 }

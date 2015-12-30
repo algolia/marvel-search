@@ -1,18 +1,18 @@
 {
-  "name": "Slapstick",
-  "url": "https://en.wikipedia.org/wiki/Slapstick_(comics)",
-  "realName": "Steve Harmon",
-  "creators": [],
-  "teams": [
-    "New Warriors",
-    "The Initiative",
-    "Counter Force",
-    "Heroes for Hire"
-  ],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "385",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Slapstickmu0.png/250px-Slapstickmu0.png",
+    "width": "250"
+  },
+  "name": "Slapstick",
+  "pageviews": 2966,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Experienced practical joker",
     "\"Cartoon Physics\" grants:",
@@ -23,10 +23,14 @@
     "Virtually unlimited malleability",
     "Minimal reality manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Slapstickmu0.png/250px-Slapstickmu0.png",
-    "width": "250",
-    "height": "385"
-  },
-  "pageviews": 2966
+  "realName": "Steve Harmon",
+  "species": [
+  ],
+  "teams": [
+    "New Warriors",
+    "The Initiative",
+    "Counter Force",
+    "Heroes for Hire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Slapstick_(comics)"
 }

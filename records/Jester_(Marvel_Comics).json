@@ -1,16 +1,17 @@
 {
-  "name": "Jester",
-  "url": "https://en.wikipedia.org/wiki/Jester_(Marvel_Comics)",
-  "realName": "Jonathan Powers",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Gene Colan"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Jester",
+  "pageviews": 2797,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Well trained acrobat",
     "hand to hand combatant and fencer",
@@ -19,6 +20,10 @@
     "Possesses an arsenal of joke-themed weapons",
     "Use of armed miniature robots and a one-man submarine"
   ],
-  "image": {},
-  "pageviews": 2797
+  "realName": "Jonathan Powers",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jester_(Marvel_Comics)"
 }

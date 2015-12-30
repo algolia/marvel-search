@@ -1,19 +1,18 @@
 {
-  "name": "Squirrel Girl",
-  "url": "https://en.wikipedia.org/wiki/Squirrel_Girl",
-  "realName": "Doreen Green",
+  "aliases": "The Anti-Life, Slayer of All that Breathes",
   "creators": [
     "Steve Ditko",
     "Will Murray"
   ],
-  "teams": [
-    "A-Force",
-    "Great Lakes Avengers",
-    "New Avengers"
+  "image": {
+    "height": "218",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/SquirrelGirl.jpg/275px-SquirrelGirl.jpg",
+    "width": "275"
+  },
+  "name": "Squirrel Girl",
+  "pageviews": 58039,
+  "partners": [
   ],
-  "aliases": "The Anti-Life, Slayer of All that Breathes",
-  "species": [],
-  "partners": [],
   "powers": [
     "Superhuman agility",
     "senses",
@@ -28,10 +27,13 @@
     "Retractable knuckle spikes",
     "Ability to communicate with squirrels"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/SquirrelGirl.jpg/275px-SquirrelGirl.jpg",
-    "width": "275",
-    "height": "218"
-  },
-  "pageviews": 58039
+  "realName": "Doreen Green",
+  "species": [
+  ],
+  "teams": [
+    "A-Force",
+    "Great Lakes Avengers",
+    "New Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Squirrel_Girl"
 }

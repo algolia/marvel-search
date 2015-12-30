@@ -1,22 +1,26 @@
 {
-  "name": "Sean and Chris",
-  "url": "https://en.wikipedia.org/wiki/Sean_and_Chris",
-  "realName": "Sean Daniels <br> Chris Daniels",
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [
-    "Human"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "357",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Twins_new_gen.jpg",
+    "width": "285"
+  },
+  "name": "Sean and Chris",
+  "pageviews": 151,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Able to glimpse images of events taking place at other points in the time-space continuum"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Twins_new_gen.jpg",
-    "width": "285",
-    "height": "357"
-  },
-  "pageviews": 151
+  "realName": "Sean Daniels <br> Chris Daniels",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sean_and_Chris"
 }

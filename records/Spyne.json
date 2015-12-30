@@ -1,17 +1,15 @@
 {
-  "name": "Spyne",
-  "url": "https://en.wikipedia.org/wiki/Spyne",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "Dark Riders"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Spyne",
+  "pageviews": 850,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Reptilian body",
     "superhuman strength",
@@ -23,6 +21,12 @@
     "Razor-sharp claws and fangs",
     "Spiked tail."
   ],
-  "image": {},
-  "pageviews": 850
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Dark Riders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spyne"
 }

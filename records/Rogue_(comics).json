@@ -1,21 +1,16 @@
 {
-  "name": "Rogue",
-  "url": "https://en.wikipedia.org/wiki/Rogue_(comics)",
-  "realName": "Anna Marie (full name unrevealed)",
-  "creators": [],
-  "teams": [
-    "Avengers Unity Division",
-    "X-Men",
-    "XSE",
-    "Brotherhood of Evil Mutants",
-    "Xavier Institute",
-    "Jean Grey School"
-  ],
   "aliases": "{{Plain list|  Anna Raven  Dr. Kellogg  Miss Smith",
-  "species": [
-    "Human mutant"
+  "creators": [
   ],
-  "partners": [],
+  "image": {
+    "height": "339",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RogueCoverv3.jpg/250px-RogueCoverv3.jpg",
+    "width": "250"
+  },
+  "name": "Rogue",
+  "pageviews": 66296,
+  "partners": [
+  ],
   "powers": [
     "Super strength",
     "Flight",
@@ -30,10 +25,17 @@
     "Flight",
     "(Details)"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RogueCoverv3.jpg/250px-RogueCoverv3.jpg",
-    "width": "250",
-    "height": "339"
-  },
-  "pageviews": 66296
+  "realName": "Anna Marie (full name unrevealed)",
+  "species": [
+    "Human mutant"
+  ],
+  "teams": [
+    "Avengers Unity Division",
+    "X-Men",
+    "XSE",
+    "Brotherhood of Evil Mutants",
+    "Xavier Institute",
+    "Jean Grey School"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Rogue_(comics)"
 }

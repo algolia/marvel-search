@@ -1,14 +1,16 @@
 {
-  "name": "Deadalus",
-  "url": "https://en.wikipedia.org/wiki/Deadalus_(comics)",
-  "realName": "Sly <br> Sylvester Deadalus",
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [
-    "Human"
+  "creators": [
   ],
-  "partners": [],
+  "image": {
+    "height": "313",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Deadalus_new_gen.jpg/250px-Deadalus_new_gen.jpg",
+    "width": "250"
+  },
+  "name": "Deadalus",
+  "pageviews": 265,
+  "partners": [
+  ],
   "powers": [
     "Technopathy"
   ],
@@ -16,10 +18,11 @@
     "Technopathy",
     "Super strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Deadalus_new_gen.jpg/250px-Deadalus_new_gen.jpg",
-    "width": "250",
-    "height": "313"
-  },
-  "pageviews": 265
+  "realName": "Sly <br> Sylvester Deadalus",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Deadalus_(comics)"
 }

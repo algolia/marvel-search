@@ -1,20 +1,16 @@
 {
-  "name": "Hulkling",
-  "url": "https://en.wikipedia.org/wiki/Hulkling",
-  "realName": "Dorrek VIII",
+  "aliases": "Theodore \"Teddy\" Altman",
   "creators": [
     "Allan Heinberg",
     "Jim Cheung"
   ],
-  "teams": [
-    "Young Avengers",
-    "Avengers Idea Mechanics"
-  ],
-  "aliases": "Theodore \"Teddy\" Altman",
-  "species": [
-    "Kree",
-    "Skrull"
-  ],
+  "image": {
+    "height": "246",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Teddy_altman.jpg",
+    "width": "250"
+  },
+  "name": "Hulkling",
+  "pageviews": 30071,
   "partners": [
     "Billy Kaplan"
   ],
@@ -34,10 +30,14 @@
     "Accelerated healing factor",
     "Metamorphic adaptation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Teddy_altman.jpg",
-    "width": "250",
-    "height": "246"
-  },
-  "pageviews": 30071
+  "realName": "Dorrek VIII",
+  "species": [
+    "Kree",
+    "Skrull"
+  ],
+  "teams": [
+    "Young Avengers",
+    "Avengers Idea Mechanics"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hulkling"
 }

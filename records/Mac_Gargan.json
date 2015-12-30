@@ -1,21 +1,15 @@
 {
-  "name": "Mac Gargan",
-  "url": "https://en.wikipedia.org/wiki/Mac_Gargan",
-  "realName": "MacDonald \"Mac\" Gargan",
+  "aliases": "Scorpion Venom Spider-Man , \"Kilgore Trout\"",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Dark Avengers",
-    "Thunderbolts",
-    "Sinister Twelve",
-    "Masters of Evil",
-    "Alchemax"
+  "image": {
+  },
+  "name": "Mac Gargan",
+  "pageviews": 13686,
+  "partners": [
   ],
-  "aliases": "Scorpion Venom Spider-Man , \"Kilgore Trout\"",
-  "species": [],
-  "partners": [],
   "powers": [
     "Spider-Man's powers"
   ],
@@ -35,6 +29,15 @@
     "Limited shapeshifting",
     "Immunity to Spider-Sense"
   ],
-  "image": {},
-  "pageviews": 13686
+  "realName": "MacDonald \"Mac\" Gargan",
+  "species": [
+  ],
+  "teams": [
+    "Dark Avengers",
+    "Thunderbolts",
+    "Sinister Twelve",
+    "Masters of Evil",
+    "Alchemax"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mac_Gargan"
 }

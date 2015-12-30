@@ -1,15 +1,18 @@
 {
-  "name": "Ravage 2099",
-  "url": "https://en.wikipedia.org/wiki/Ravage_2099",
-  "realName": "Paul-Phillip Ravage",
+  "aliases": "Beast-Man",
   "creators": [
     "Stan Lee",
     "Paul Ryan"
   ],
-  "teams": [],
-  "aliases": "Beast-Man",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Ravage2099-1.jpg/250px-Ravage2099-1.jpg",
+    "width": "250"
+  },
+  "name": "Ravage 2099",
+  "pageviews": 1875,
+  "partners": [
+  ],
   "powers": [
     "Healing factor"
   ],
@@ -28,10 +31,10 @@
     "and claws on hands and feet",
     "Healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Ravage2099-1.jpg/250px-Ravage2099-1.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 1875
+  "realName": "Paul-Phillip Ravage",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ravage_2099"
 }

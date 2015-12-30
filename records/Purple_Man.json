@@ -1,28 +1,31 @@
 {
-  "name": "Purple Man",
-  "url": "https://en.wikipedia.org/wiki/Purple_Man",
-  "realName": "Zebediah Killgrave",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Joe Orlando"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutate"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Purple_Man.jpg/250px-Purple_Man.jpg",
+    "width": "250"
+  },
+  "name": "Purple Man",
+  "pageviews": 745613,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled manipulator",
     "High-level intellect",
     "Mind control",
     "Regenerative healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Purple_Man.jpg/250px-Purple_Man.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 745613
+  "realName": "Zebediah Killgrave",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Purple_Man"
 }

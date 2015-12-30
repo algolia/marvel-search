@@ -1,26 +1,29 @@
 {
-  "name": "Lady Gorgon",
-  "url": "https://en.wikipedia.org/wiki/Lady_Gorgon",
-  "realName": "",
+  "aliases": "Maria Castle",
   "creators": [
     "Matt Fraction",
     "Rick Remender",
     "Howard Chaykin"
   ],
-  "teams": [
-    "The Hand"
+  "image": {
+    "height": "306",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/LadyGorgonPunisher.jpg/250px-LadyGorgonPunisher.jpg",
+    "width": "250"
+  },
+  "name": "Lady Gorgon",
+  "pageviews": 1222,
+  "partners": [
   ],
-  "aliases": "Maria Castle",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Telepathy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/LadyGorgonPunisher.jpg/250px-LadyGorgonPunisher.jpg",
-    "width": "250",
-    "height": "306"
-  },
-  "pageviews": 1222
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "The Hand"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lady_Gorgon"
 }

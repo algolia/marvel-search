@@ -1,14 +1,13 @@
 {
-  "name": "Aries",
-  "url": "https://en.wikipedia.org/wiki/Aries_(comics)",
-  "realName": "Marcus Lassiter",
-  "creators": [],
-  "teams": [
-    "Zodiac Cartel"
-  ],
   "aliases": "",
-  "species": [],
-  "partners": [],
+  "creators": [
+  ],
+  "image": {
+  },
+  "name": "Aries",
+  "pageviews": 1124,
+  "partners": [
+  ],
   "powers": [
     "Zodiac Key"
   ],
@@ -18,6 +17,11 @@
     "and powered his ship's force field",
     "which he used to surround all of Manhattan."
   ],
-  "image": {},
-  "pageviews": 1124
+  "realName": "Marcus Lassiter",
+  "species": [
+  ],
+  "teams": [
+    "Zodiac Cartel"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Aries_(comics)"
 }

@@ -1,9 +1,25 @@
 {
-  "name": "Whizzer",
-  "url": "https://en.wikipedia.org/wiki/Whizzer_(Robert_Frank)",
-  "realName": "Robert L. Frank",
+  "aliases": "",
   "creators": [
     "Al Avison"
+  ],
+  "image": {
+    "height": "284",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/TheWhizzer.jpg/230px-TheWhizzer.jpg",
+    "width": "230"
+  },
+  "name": "Whizzer",
+  "pageviews": 5523,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Self-taught hand to hand combatant",
+    "Superhuman speed and reflexes"
+  ],
+  "realName": "Robert L. Frank",
+  "species": [
   ],
   "teams": [
     "Liberty Legion",
@@ -11,18 +27,5 @@
     "All-Winners Squad",
     "Avengers"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Self-taught hand to hand combatant",
-    "Superhuman speed and reflexes"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/TheWhizzer.jpg/230px-TheWhizzer.jpg",
-    "width": "230",
-    "height": "284"
-  },
-  "pageviews": 5523
+  "url": "https://en.wikipedia.org/wiki/Whizzer_(Robert_Frank)"
 }

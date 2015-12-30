@@ -1,20 +1,25 @@
 {
-  "name": "Rodstvow",
-  "url": "https://en.wikipedia.org/wiki/Rodstvow",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Archie Goodwin"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "388",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/PsiForce1.jpg/250px-PsiForce1.jpg",
-    "width": "250",
-    "height": "388"
+    "width": "250"
   },
-  "pageviews": 109
+  "name": "Rodstvow",
+  "pageviews": 109,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Rodstvow"
 }

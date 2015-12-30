@@ -1,26 +1,29 @@
 {
-  "name": "Pretty Persuasions",
-  "url": "https://en.wikipedia.org/wiki/Pretty_Persuasions",
-  "realName": "Heidi P. Franklin",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Mark Bagley"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Psionex"
+  "image": {
+  },
+  "name": "Pretty Persuasions",
+  "pageviews": 636,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutate"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "stimulate a person's pleasure centers in their brain",
     "creation of psionic",
     "energy weapons"
   ],
-  "image": {},
-  "pageviews": 636
+  "realName": "Heidi P. Franklin",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Psionex"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Pretty_Persuasions"
 }

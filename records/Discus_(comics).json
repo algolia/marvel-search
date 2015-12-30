@@ -1,23 +1,27 @@
 {
-  "name": "Discus",
-  "url": "https://en.wikipedia.org/wiki/Discus_(comics)",
-  "realName": "Tim Stuart",
+  "aliases": "",
   "creators": [
     "Tony Isabella",
     "Billy Graham"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+  },
+  "name": "Discus",
+  "pageviews": 1521,
   "partners": [
     "Stiletto",
     "Justin Hammer"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Uses throwing discs as weapons",
     "Other assorted weaponry"
   ],
-  "image": {},
-  "pageviews": 1521
+  "realName": "Tim Stuart",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Discus_(comics)"
 }

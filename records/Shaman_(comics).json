@@ -1,16 +1,17 @@
 {
-  "name": "Shaman",
-  "url": "https://en.wikipedia.org/wiki/Shaman_(comics)",
-  "realName": "Michael Twoyoungmen",
+  "aliases": "The Binder of Spirits, The Breaker of Dark Spells, The Promised One, Talisman",
   "creators": [
     "John Byrne"
   ],
-  "teams": [
-    "Alpha Flight"
+  "image": {
+    "height": "391",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Alphaflight27.jpg/250px-Alphaflight27.jpg",
+    "width": "250"
+  },
+  "name": "Shaman",
+  "pageviews": 2968,
+  "partners": [
   ],
-  "aliases": "The Binder of Spirits, The Breaker of Dark Spells, The Promised One, Talisman",
-  "species": [],
-  "partners": [],
   "powers": [
     "medicine bag"
   ],
@@ -18,10 +19,11 @@
     "Carries a medicine bag which contains a pocket dimension",
     "Can summon anything needed from the bag"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Alphaflight27.jpg/250px-Alphaflight27.jpg",
-    "width": "250",
-    "height": "391"
-  },
-  "pageviews": 2968
+  "realName": "Michael Twoyoungmen",
+  "species": [
+  ],
+  "teams": [
+    "Alpha Flight"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shaman_(comics)"
 }

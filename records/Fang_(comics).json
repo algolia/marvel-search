@@ -1,26 +1,29 @@
 {
-  "name": "Fang",
-  "url": "https://en.wikipedia.org/wiki/Fang_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
+  ],
+  "image": {
+    "height": "217",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fang_%28comics%29.jpg/150px-Fang_%28comics%29.jpg",
+    "width": "150"
+  },
+  "name": "Fang",
+  "pageviews": 753,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Highly developed feral senses"
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "Shi'ar Imperial Guard",
     "Brood"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Highly developed feral senses"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fang_%28comics%29.jpg/150px-Fang_%28comics%29.jpg",
-    "width": "150",
-    "height": "217"
-  },
-  "pageviews": 753
+  "url": "https://en.wikipedia.org/wiki/Fang_(comics)"
 }

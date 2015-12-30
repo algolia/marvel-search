@@ -1,25 +1,28 @@
 {
-  "name": "The Orb",
-  "url": "https://en.wikipedia.org/wiki/Orb_(comics)",
-  "realName": "Drake Shannon",
+  "aliases": "",
   "creators": [
     "Len Wein",
     "Ross Andru"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "355",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Orb_ghost.jpg/250px-Orb_ghost.jpg",
+    "width": "250"
+  },
+  "name": "The Orb",
+  "pageviews": 2199,
   "partners": [
     "Justin Hammer"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Helmet is capable of powerful laser blasts. Can also project illusions and hypnotize people."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Orb_ghost.jpg/250px-Orb_ghost.jpg",
-    "width": "250",
-    "height": "355"
-  },
-  "pageviews": 2199
+  "realName": "Drake Shannon",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Orb_(comics)"
 }

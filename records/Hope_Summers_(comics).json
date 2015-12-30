@@ -1,31 +1,32 @@
 {
-  "name": "Hope Summers",
-  "url": "https://en.wikipedia.org/wiki/Hope_Summers_(comics)",
-  "realName": "Hope Summers (born Spalding)",
+  "aliases": "Mutant Messiah, White Phoenix of the Crown, MeMe",
   "creators": [
     "Mike Carey",
     "Chris Bachalo"
+  ],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Hopeadult.jpg/250px-Hopeadult.jpg",
+    "width": "250"
+  },
+  "name": "Hope Summers",
+  "pageviews": 20680,
+  "partners": [
+    "Cable"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Power mimicry"
+  ],
+  "realName": "Hope Summers (born Spalding)",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Men",
     "Jean Grey School Students",
     "X-Force"
   ],
-  "aliases": "Mutant Messiah, White Phoenix of the Crown, MeMe",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [
-    "Cable"
-  ],
-  "powers": [],
-  "powersText": [
-    "Power mimicry"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Hopeadult.jpg/250px-Hopeadult.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 20680
+  "url": "https://en.wikipedia.org/wiki/Hope_Summers_(comics)"
 }

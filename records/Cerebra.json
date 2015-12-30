@@ -1,20 +1,18 @@
 {
-  "name": "Cerebra",
-  "url": "https://en.wikipedia.org/wiki/Cerebra",
-  "realName": "Shakti Haddad",
+  "aliases": "",
   "creators": [
     "John Francis Moore",
     "Ron Lim"
   ],
-  "teams": [
-    "X-Men 2099",
-    "X-Nation 2099"
+  "image": {
+    "height": "442",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a0/Xmen2099-30b.jpg",
+    "width": "200"
+  },
+  "name": "Cerebra",
+  "pageviews": 1723,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Telepathy"
   ],
@@ -24,10 +22,13 @@
     "Ability to manipulate a person's nervous system",
     "Ability to directly tap into the Cybernet"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a0/Xmen2099-30b.jpg",
-    "width": "200",
-    "height": "442"
-  },
-  "pageviews": 1723
+  "realName": "Shakti Haddad",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men 2099",
+    "X-Nation 2099"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cerebra"
 }

@@ -1,30 +1,31 @@
 {
-  "name": "Pyro",
-  "url": "https://en.wikipedia.org/wiki/Pyro_(comics)",
-  "realName": "St. John Allerdyce",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "teams": [
-    "Brotherhood of Evil Mutants",
-    "Freedom Force"
+  "image": {
+    "height": "309",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/2a/Pyro_%28St._John_Allerdyce%29.png",
+    "width": "250"
+  },
+  "name": "Pyro",
+  "pageviews": 12275,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Control of fire"
   ],
   "powersText": [
     "Control of fire"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/2a/Pyro_%28St._John_Allerdyce%29.png",
-    "width": "250",
-    "height": "309"
-  },
-  "pageviews": 12275
+  "realName": "St. John Allerdyce",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Brotherhood of Evil Mutants",
+    "Freedom Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Pyro_(comics)"
 }

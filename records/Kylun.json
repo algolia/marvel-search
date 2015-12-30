@@ -1,28 +1,30 @@
 {
-  "name": "Kylun",
-  "url": "https://en.wikipedia.org/wiki/Kylun",
-  "realName": "Colin McKay",
+  "aliases": "Chosen One",
   "creators": [
     "Chris Claremont",
     "Alan Davis"
   ],
-  "teams": [
-    "Excalibur"
+  "image": {
+    "height": "256",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Kylun_and_Princess_from_Excalibur_44.jpg/200px-Kylun_and_Princess_from_Excalibur_44.jpg",
+    "width": "200"
+  },
+  "name": "Kylun",
+  "pageviews": 962,
+  "partners": [
   ],
-  "aliases": "Chosen One",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Animal like appearance",
     "Sound mimicry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Kylun_and_Princess_from_Excalibur_44.jpg/200px-Kylun_and_Princess_from_Excalibur_44.jpg",
-    "width": "200",
-    "height": "256"
-  },
-  "pageviews": 962
+  "realName": "Colin McKay",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Excalibur"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kylun"
 }

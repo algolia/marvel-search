@@ -1,24 +1,28 @@
 {
-  "name": "Tatterdemalion",
-  "url": "https://en.wikipedia.org/wiki/Tatterdemalion",
-  "realName": "Arnold Paffenroth",
+  "aliases": "Michael Wyatt",
   "creators": [
     "Tom Sutton"
+  ],
+  "image": {
+  },
+  "name": "Tatterdemalion",
+  "pageviews": 1068,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Peak physical condition",
+    "''Costume'':",
+    "Special coating makes difficult to hold"
+  ],
+  "realName": "Arnold Paffenroth",
+  "species": [
   ],
   "teams": [
     "Thunderbolts",
     "Night Shift",
     "Committee"
   ],
-  "aliases": "Michael Wyatt",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Peak physical condition",
-    "''Costume'':",
-    "Special coating makes difficult to hold"
-  ],
-  "image": {},
-  "pageviews": 1068
+  "url": "https://en.wikipedia.org/wiki/Tatterdemalion"
 }

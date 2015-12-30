@@ -1,27 +1,30 @@
 {
-  "name": "Cassandra Lang",
-  "url": "https://en.wikipedia.org/wiki/Cassandra_Lang",
-  "realName": "Cassandra Eleanor \"Cassie\" Lang",
+  "aliases": "Stature, Ant-Girl, Giant-Girl",
   "creators": [
     "David Michelinie",
     "John Byrne"
+  ],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Youngavengerspresents5.PNG/250px-Youngavengerspresents5.PNG",
+    "width": "250"
+  },
+  "name": "Cassandra Lang",
+  "pageviews": 26815,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Size manipulation"
+  ],
+  "realName": "Cassandra Eleanor \"Cassie\" Lang",
+  "species": [
   ],
   "teams": [
     "The Initiative",
     "Mighty Avengers",
     "Young Avengers"
   ],
-  "aliases": "Stature, Ant-Girl, Giant-Girl",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Size manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Youngavengerspresents5.PNG/250px-Youngavengerspresents5.PNG",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 26815
+  "url": "https://en.wikipedia.org/wiki/Cassandra_Lang"
 }

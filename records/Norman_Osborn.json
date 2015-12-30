@@ -1,26 +1,18 @@
 {
-  "name": "Norman Osborn",
-  "url": "https://en.wikipedia.org/wiki/Norman_Osborn",
-  "realName": null,
+  "aliases": "Green Goblin Iron Patriot , Goblin King, Mason Banks",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Oscorp",
-    "Sinister Twelve",
-    "Daily Bugle",
-    "Commission on Superhuman Activities",
-    "Thunderbolts",
-    "Hellfire Club",
-    "X-Men",
-    "H.A.M.M.E.R.",
-    "Dark Avengers",
-    "Cabal"
+  "image": {
+    "height": "290",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Norman_Osborn.jpg/250px-Norman_Osborn.jpg",
+    "width": "250"
+  },
+  "name": "Norman Osborn",
+  "pageviews": 25784,
+  "partners": [
   ],
-  "aliases": "Green Goblin Iron Patriot , Goblin King, Mason Banks",
-  "species": [],
-  "partners": [],
   "powers": [
     "Goblin Formula",
     "healing factor",
@@ -37,10 +29,20 @@
     "Uses goblin-themed weapons and a Goblin Glider which has a variety of offensive weapons as paraphernalia",
     "Power of the Super-Adaptoid allows him to absorb the powers of any superhuman he makes physical contact with"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Norman_Osborn.jpg/250px-Norman_Osborn.jpg",
-    "width": "250",
-    "height": "290"
-  },
-  "pageviews": 25784
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Oscorp",
+    "Sinister Twelve",
+    "Daily Bugle",
+    "Commission on Superhuman Activities",
+    "Thunderbolts",
+    "Hellfire Club",
+    "X-Men",
+    "H.A.M.M.E.R.",
+    "Dark Avengers",
+    "Cabal"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Norman_Osborn"
 }

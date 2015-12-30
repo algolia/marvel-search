@@ -1,15 +1,18 @@
 {
-  "name": "Gabriel the Devil Hunter",
-  "url": "https://en.wikipedia.org/wiki/Gabriel_the_Devil_Hunter",
-  "realName": "Gabriel Rosetti, although some of his earlier appearances imply that \"Gabriel\" is his last name.",
+  "aliases": "",
   "creators": [
     "Doug Moench",
     "Billy Graham"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "320",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Gabriel_the_Devil_Hunter.png/175px-Gabriel_the_Devil_Hunter.png",
+    "width": "175"
+  },
+  "name": "Gabriel the Devil Hunter",
+  "pageviews": 452,
+  "partners": [
+  ],
   "powers": [
     "exorcism"
   ],
@@ -17,10 +20,10 @@
     "Magic user",
     "limited to exorcism"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Gabriel_the_Devil_Hunter.png/175px-Gabriel_the_Devil_Hunter.png",
-    "width": "175",
-    "height": "320"
-  },
-  "pageviews": 452
+  "realName": "Gabriel Rosetti, although some of his earlier appearances imply that \"Gabriel\" is his last name.",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gabriel_the_Devil_Hunter"
 }

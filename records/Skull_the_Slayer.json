@@ -1,23 +1,27 @@
 {
-  "name": "Skull the Slayer",
-  "url": "https://en.wikipedia.org/wiki/Skull_the_Slayer",
-  "realName": "Jim Scully",
+  "aliases": "Blazing Skull",
   "creators": [
     "Marv Wolfman"
   ],
-  "teams": [],
-  "aliases": "Blazing Skull",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "318",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Skull_the_Slayer_no_1.jpeg/200px-Skull_the_Slayer_no_1.jpeg",
+    "width": "200"
+  },
+  "name": "Skull the Slayer",
+  "pageviews": 1365,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Scorpion power belt grants:",
     "Enhanced strength and durability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Skull_the_Slayer_no_1.jpeg/200px-Skull_the_Slayer_no_1.jpeg",
-    "width": "200",
-    "height": "318"
-  },
-  "pageviews": 1365
+  "realName": "Jim Scully",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Skull_the_Slayer"
 }

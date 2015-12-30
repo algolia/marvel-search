@@ -1,27 +1,29 @@
 {
-  "name": "Mondo",
-  "url": "https://en.wikipedia.org/wiki/Mondo_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "Chris Bachalo"
   ],
-  "teams": [
-    "Generation X"
-  ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+  },
+  "name": "Mondo",
+  "pageviews": 2001,
   "partners": [
     "Black Tom Cassidy",
     "Juggernaut"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Capable of absorbing organic or inorganic material into his cellular structure to take on the properties of whatever he touches until it is \"digested\" from his system",
     "also capable of transport through organic matter such as dirt."
   ],
-  "image": {},
-  "pageviews": 2001
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Generation X"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mondo_(comics)"
 }

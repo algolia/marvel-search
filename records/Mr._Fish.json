@@ -1,26 +1,29 @@
 {
-  "name": "Mr. Fish",
-  "url": "https://en.wikipedia.org/wiki/Mr._Fish",
-  "realName": "Mortimer George Norris<br>Bill Norris",
+  "aliases": "Mr. Fish I:<br>Mort",
   "creators": [
     "Bill Mantlo",
     "George Tuska"
   ],
-  "teams": [
-    "Maggia"
+  "image": {
+    "height": "249",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Power029a.jpg/170px-Power029a.jpg",
+    "width": "170"
+  },
+  "name": "Mr. Fish",
+  "pageviews": 964,
+  "partners": [
   ],
-  "aliases": "Mr. Fish I:<br>Mort",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Amphibious physiology",
     "Enhanced strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Power029a.jpg/170px-Power029a.jpg",
-    "width": "170",
-    "height": "249"
-  },
-  "pageviews": 964
+  "realName": "Mortimer George Norris<br>Bill Norris",
+  "species": [
+  ],
+  "teams": [
+    "Maggia"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mr._Fish"
 }

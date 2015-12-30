@@ -1,29 +1,31 @@
 {
-  "name": "Catseye",
-  "url": "https://en.wikipedia.org/wiki/Catseye",
-  "realName": "Sharon Smith",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Sal Buscema"
+  ],
+  "image": {
+    "height": "383",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/CatseyeNM.JPG/160px-CatseyeNM.JPG",
+    "width": "160"
+  },
+  "name": "Catseye",
+  "pageviews": 1892,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Can transform herself into a purple",
+    "humanoid feline or a panther-like wildcat."
+  ],
+  "realName": "Sharon Smith",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Hellions",
     "New Mutants"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Can transform herself into a purple",
-    "humanoid feline or a panther-like wildcat."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/CatseyeNM.JPG/160px-CatseyeNM.JPG",
-    "width": "160",
-    "height": "383"
-  },
-  "pageviews": 1892
+  "url": "https://en.wikipedia.org/wiki/Catseye"
 }

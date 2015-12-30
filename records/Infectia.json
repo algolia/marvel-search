@@ -1,21 +1,25 @@
 {
-  "name": "Infectia",
-  "url": "https://en.wikipedia.org/wiki/Infectia",
-  "realName": "Josephine",
+  "aliases": "",
   "creators": [
     "Louise Simonson",
     "Walt Simonson"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "image": {
+  },
+  "name": "Infectia",
+  "pageviews": 1034,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to induce mutations in other beings"
   ],
-  "image": {},
-  "pageviews": 1034
+  "realName": "Josephine",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Infectia"
 }

@@ -1,24 +1,27 @@
 {
-  "name": "Projector",
-  "url": "https://en.wikipedia.org/wiki/Projector_(comics)",
-  "realName": "Zachary Williams",
-  "creators": [],
-  "teams": [
-    "Acolytes"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "349",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/XMEN-Projector.jpg/250px-XMEN-Projector.jpg",
+    "width": "250"
+  },
+  "name": "Projector",
+  "pageviews": 274,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Force-field generation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/XMEN-Projector.jpg/250px-XMEN-Projector.jpg",
-    "width": "250",
-    "height": "349"
-  },
-  "pageviews": 274
+  "realName": "Zachary Williams",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Acolytes"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Projector_(comics)"
 }

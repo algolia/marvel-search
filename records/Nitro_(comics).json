@@ -1,28 +1,31 @@
 {
-  "name": "Nitro",
-  "url": "https://en.wikipedia.org/wiki/Nitro_(comics)",
-  "realName": "Robert Hunter",
+  "aliases": "",
   "creators": [
     "Jim Starlin",
     "Steve Englehart"
   ],
-  "teams": [
-    "Defenders",
-    "Hardcore"
+  "image": {
+    "height": "372",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Cm34.jpg/250px-Cm34.jpg",
+    "width": "250"
+  },
+  "name": "Nitro",
+  "pageviews": 10240,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Immense self-detonation",
     "after which he exists as a diffused gaseous form",
     "Ability to reform at will"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Cm34.jpg/250px-Cm34.jpg",
-    "width": "250",
-    "height": "372"
-  },
-  "pageviews": 10240
+  "realName": "Robert Hunter",
+  "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "Hardcore"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nitro_(comics)"
 }

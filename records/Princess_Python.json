@@ -1,21 +1,20 @@
 {
-  "name": "Princess Python",
-  "url": "https://en.wikipedia.org/wiki/Princess_Python",
-  "realName": "Zelda DuBois",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Circus of Crime",
-    "Femizons",
-    "Serpent Squad",
-    "Serpent Society"
+  "image": {
+    "height": "288",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Pwj16.jpg/200px-Pwj16.jpg",
+    "width": "200"
+  },
+  "name": "Princess Python",
+  "pageviews": 2445,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Trained athlete",
     "Extremely talented snake charmer and handler",
@@ -23,10 +22,14 @@
     "electric cattle prod",
     "Use of pet snakes as sidekicks"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Pwj16.jpg/200px-Pwj16.jpg",
-    "width": "200",
-    "height": "288"
-  },
-  "pageviews": 2445
+  "realName": "Zelda DuBois",
+  "species": [
+  ],
+  "teams": [
+    "Circus of Crime",
+    "Femizons",
+    "Serpent Squad",
+    "Serpent Society"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Princess_Python"
 }

@@ -1,20 +1,20 @@
 {
-  "name": "U-Man",
-  "url": "https://en.wikipedia.org/wiki/U-Man",
-  "realName": "Meranno",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Frank Robbins"
   ],
-  "teams": [
-    "Super-Axis"
+  "image": {
+    "height": "333",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Invaders-39.jpg/225px-Invaders-39.jpg",
+    "width": "225"
+  },
+  "name": "U-Man",
+  "pageviews": 1124,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Homo mermanus"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Able to move and breathe underwater",
     "Superhuman strength",
@@ -22,10 +22,12 @@
     "and endurance",
     "Trained in warfare"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Invaders-39.jpg/225px-Invaders-39.jpg",
-    "width": "225",
-    "height": "333"
-  },
-  "pageviews": 1124
+  "realName": "Meranno",
+  "species": [
+    "Homo mermanus"
+  ],
+  "teams": [
+    "Super-Axis"
+  ],
+  "url": "https://en.wikipedia.org/wiki/U-Man"
 }

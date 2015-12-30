@@ -1,24 +1,27 @@
 {
-  "name": "Beef",
-  "url": "https://en.wikipedia.org/wiki/Beef_(comics)",
-  "realName": "Buford Wilson",
-  "creators": [],
-  "teams": [
-    "Hellions"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "210",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/39/Beef_%28Marvel_character%29.jpg",
+    "width": "200"
+  },
+  "name": "Beef",
+  "pageviews": 619,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Super-human strength and stamina."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/39/Beef_%28Marvel_character%29.jpg",
-    "width": "200",
-    "height": "210"
-  },
-  "pageviews": 619
+  "realName": "Buford Wilson",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hellions"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Beef_(comics)"
 }

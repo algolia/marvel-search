@@ -1,21 +1,21 @@
 {
-  "name": "Griffin",
-  "url": "https://en.wikipedia.org/wiki/Griffin_(Marvel_Comics)",
-  "realName": "Johnny Horton",
+  "aliases": "",
   "creators": [
     "Steve Englehart",
     "Tom Sutton"
   ],
-  "teams": [
-    "Secret Empire",
-    "Masters of Evil"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "297",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/John_Horton_%28Earth-616%29_%28Griffin%29.jpg/250px-John_Horton_%28Earth-616%29_%28Griffin%29.jpg",
+    "width": "250"
+  },
+  "name": "Griffin",
+  "pageviews": 3317,
   "partners": [
     "Headlok"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -26,10 +26,12 @@
     "Flight",
     "Telepathic ability to command birds"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/John_Horton_%28Earth-616%29_%28Griffin%29.jpg/250px-John_Horton_%28Earth-616%29_%28Griffin%29.jpg",
-    "width": "250",
-    "height": "297"
-  },
-  "pageviews": 3317
+  "realName": "Johnny Horton",
+  "species": [
+  ],
+  "teams": [
+    "Secret Empire",
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Griffin_(Marvel_Comics)"
 }

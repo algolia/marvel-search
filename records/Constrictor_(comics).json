@@ -1,10 +1,27 @@
 {
-  "name": "Constrictor",
-  "url": "https://en.wikipedia.org/wiki/Constrictor_(comics)",
-  "realName": "Frank Payne",
+  "aliases": "Frank Schlicting",
   "creators": [
     "Len Wein",
     "Sal Buscema"
+  ],
+  "image": {
+    "height": "307",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Constrictor1.jpg/250px-Constrictor1.jpg",
+    "width": "250"
+  },
+  "name": "Constrictor",
+  "pageviews": 4041,
+  "partners": [
+  ],
+  "powers": [
+    "vibranium"
+  ],
+  "powersText": [
+    "Skilled street fighter and unarmed combatant",
+    "Wears cybernetic coils made of vibranium"
+  ],
+  "realName": "Frank Payne",
+  "species": [
   ],
   "teams": [
     "Corporation",
@@ -16,20 +33,5 @@
     "Sinister Syndicate",
     "Six-Pack"
   ],
-  "aliases": "Frank Schlicting",
-  "species": [],
-  "partners": [],
-  "powers": [
-    "vibranium"
-  ],
-  "powersText": [
-    "Skilled street fighter and unarmed combatant",
-    "Wears cybernetic coils made of vibranium"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Constrictor1.jpg/250px-Constrictor1.jpg",
-    "width": "250",
-    "height": "307"
-  },
-  "pageviews": 4041
+  "url": "https://en.wikipedia.org/wiki/Constrictor_(comics)"
 }

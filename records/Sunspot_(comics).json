@@ -1,10 +1,30 @@
 {
-  "name": "Sunspot",
-  "url": "https://en.wikipedia.org/wiki/Sunspot_(comics)",
-  "realName": "Roberto \"Bobby\" da Costa",
+  "aliases": "Lord Imperial, Black Rook, Black King, 'Berto",
   "creators": [
     "Chris Claremont",
     "Bob McLeod"
+  ],
+  "image": {
+    "height": "406",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/db/XMN_Sunspot.jpg",
+    "width": "250"
+  },
+  "name": "Sunspot",
+  "pageviews": 19864,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Solar absorption and rechanneling",
+    "Superhuman strength",
+    "Flight",
+    "Heat and light projection",
+    "Concussive blasts"
+  ],
+  "realName": "Roberto \"Bobby\" da Costa",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Avengers",
@@ -19,23 +39,5 @@
     "X-Men",
     "Young X-Men"
   ],
-  "aliases": "Lord Imperial, Black Rook, Black King, 'Berto",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Solar absorption and rechanneling",
-    "Superhuman strength",
-    "Flight",
-    "Heat and light projection",
-    "Concussive blasts"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/db/XMN_Sunspot.jpg",
-    "width": "250",
-    "height": "406"
-  },
-  "pageviews": 19864
+  "url": "https://en.wikipedia.org/wiki/Sunspot_(comics)"
 }

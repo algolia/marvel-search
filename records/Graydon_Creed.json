@@ -1,27 +1,30 @@
 {
-  "name": "Graydon Creed",
-  "url": "https://en.wikipedia.org/wiki/Graydon_Creed",
-  "realName": "Graydon Creed",
+  "aliases": "Tribune",
   "creators": [
     "Scott Lobdell",
     "Brandon Peterson"
+  ],
+  "image": {
+    "height": "233",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Graydon_Creed.jpg/250px-Graydon_Creed.jpg",
+    "width": "250"
+  },
+  "name": "Graydon Creed",
+  "pageviews": 8566,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "None"
+  ],
+  "realName": "Graydon Creed",
+  "species": [
   ],
   "teams": [
     "Purifiers",
     "Upstarts",
     "Friends of Humanity"
   ],
-  "aliases": "Tribune",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "None"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Graydon_Creed.jpg/250px-Graydon_Creed.jpg",
-    "width": "250",
-    "height": "233"
-  },
-  "pageviews": 8566
+  "url": "https://en.wikipedia.org/wiki/Graydon_Creed"
 }

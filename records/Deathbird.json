@@ -1,21 +1,20 @@
 {
-  "name": "Deathbird",
-  "url": "https://en.wikipedia.org/wiki/Deathbird",
-  "realName": "Cal'syee Neramani-Summers",
+  "aliases": "War",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Shi'ar Imperium",
-    "The Brood",
-    "Horsemen of Apocalypse",
-    "Starforce"
+  "image": {
+    "height": "319",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/Xdeathbirdlee.jpg",
+    "width": "250"
+  },
+  "name": "Deathbird",
+  "pageviews": 6211,
+  "partners": [
   ],
-  "aliases": "War",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "stamina",
@@ -23,10 +22,14 @@
     "Natural wings",
     "Razor-sharp talons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/Xdeathbirdlee.jpg",
-    "width": "250",
-    "height": "319"
-  },
-  "pageviews": 6211
+  "realName": "Cal'syee Neramani-Summers",
+  "species": [
+  ],
+  "teams": [
+    "Shi'ar Imperium",
+    "The Brood",
+    "Horsemen of Apocalypse",
+    "Starforce"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Deathbird"
 }

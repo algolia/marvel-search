@@ -1,22 +1,26 @@
 {
-  "name": "Maximus Lobo",
-  "url": "https://en.wikipedia.org/wiki/Maximus_Lobo",
-  "realName": "Maximus Lobo",
+  "aliases": "",
   "creators": [
     "Chuck Austen",
     "Kia Asamiya"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "image": {
+  },
+  "name": "Maximus Lobo",
+  "pageviews": 940,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Lupine form",
     "enhanced senses."
   ],
-  "image": {},
-  "pageviews": 940
+  "realName": "Maximus Lobo",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Maximus_Lobo"
 }

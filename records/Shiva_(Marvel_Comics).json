@@ -1,22 +1,26 @@
 {
-  "name": "Shiva",
-  "url": "https://en.wikipedia.org/wiki/Shiva_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "The Destroyer",
   "creators": [
     "Larry Hama",
     "Marc Silvestri"
   ],
-  "teams": [
-    "Weapon X"
+  "image": {
+  },
+  "name": "Shiva",
+  "pageviews": 1735,
+  "partners": [
   ],
-  "aliases": "The Destroyer",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Adaptive evolution",
     "Superhuman strength and durability"
   ],
-  "image": {},
-  "pageviews": 1735
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Weapon X"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shiva_(Marvel_Comics)"
 }

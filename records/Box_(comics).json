@@ -1,18 +1,17 @@
 {
-  "name": "Box",
-  "url": "https://en.wikipedia.org/wiki/Box_(comics)",
-  "realName": "Roger Bochs",
+  "aliases": "Omega",
   "creators": [
     "John Byrne"
   ],
-  "teams": [
-    "Alpha Flight",
-    "Beta Flight",
-    "Gamma Flight"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Alphaflightbox.jpg/249px-Alphaflightbox.jpg",
+    "width": "249"
+  },
+  "name": "Box",
+  "pageviews": 1253,
+  "partners": [
   ],
-  "aliases": "Omega",
-  "species": [],
-  "partners": [],
   "powers": [
     "phase"
   ],
@@ -22,10 +21,13 @@
     "As Box:",
     "Superhuman strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Alphaflightbox.jpg/249px-Alphaflightbox.jpg",
-    "width": "249",
-    "height": "375"
-  },
-  "pageviews": 1253
+  "realName": "Roger Bochs",
+  "species": [
+  ],
+  "teams": [
+    "Alpha Flight",
+    "Beta Flight",
+    "Gamma Flight"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Box_(comics)"
 }

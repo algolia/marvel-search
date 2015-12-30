@@ -1,18 +1,20 @@
 {
-  "name": "Richard Fisk",
-  "url": "https://en.wikipedia.org/wiki/Richard_Fisk",
-  "realName": "Richard Fisk",
+  "aliases": "The Schemer, The Rose, The Blood Rose",
   "creators": [
     "Stan Lee",
     "John Romita, Sr."
   ],
-  "teams": [
-    "HYDRA"
+  "image": {
+    "height": "385",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Webofspiderman30.jpg/250px-Webofspiderman30.jpg",
+    "width": "250"
+  },
+  "name": "Richard Fisk",
+  "pageviews": 8180,
+  "partners": [
   ],
-  "aliases": "The Schemer, The Rose, The Blood Rose",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Good martial artist",
     "High-level intellect",
@@ -21,10 +23,11 @@
     "(As Rose):",
     "Wears a bulletproof suit"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Webofspiderman30.jpg/250px-Webofspiderman30.jpg",
-    "width": "250",
-    "height": "385"
-  },
-  "pageviews": 8180
+  "realName": "Richard Fisk",
+  "species": [
+  ],
+  "teams": [
+    "HYDRA"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Richard_Fisk"
 }

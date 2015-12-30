@@ -1,22 +1,20 @@
 {
-  "name": "Ragnarök",
-  "url": "https://en.wikipedia.org/wiki/Ragnarok_(comics)",
-  "realName": null,
+  "aliases": "Thor , Clor, Project Lightning",
   "creators": [
     "Mark Millar",
     "Steve Mcniven"
   ],
-  "teams": [
-    "Dark Avengers",
-    "Thunderbolts"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Ragnarok_Civil_War.jpg/250px-Ragnarok_Civil_War.jpg",
+    "width": "250"
+  },
+  "name": "Ragnarök",
+  "pageviews": 63744,
+  "partners": [
   ],
-  "aliases": "Thor , Clor, Project Lightning",
-  "species": [
-    "Cyborg",
-    "Clone"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Master hand to hand combatant",
     "Superhuman strength",
@@ -31,10 +29,14 @@
     "Flight",
     "Energy absorption and projection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Ragnarok_Civil_War.jpg/250px-Ragnarok_Civil_War.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 63744
+  "realName": null,
+  "species": [
+    "Cyborg",
+    "Clone"
+  ],
+  "teams": [
+    "Dark Avengers",
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ragnarok_(comics)"
 }

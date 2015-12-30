@@ -1,20 +1,19 @@
 {
-  "name": "Amphibian",
-  "url": "https://en.wikipedia.org/wiki/Amphibian_(comics)",
-  "realName": "- Kingsley Rice (male)<br> - Kingsley Rice (female)",
+  "aliases": "",
   "creators": [
     "Steve Engelhart",
     "J. Michael Straczynski",
     "Gary Frank"
   ],
-  "teams": [
-    "Squadron Supreme",
-    "Squadron Supreme of Earth-712",
-    "Squadron Supreme of Earth-31916"
+  "image": {
+    "height": "481",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Amphibiansqsup001.jpg/125px-Amphibiansqsup001.jpg",
+    "width": "125"
+  },
+  "name": "Amphibian",
+  "pageviews": 2307,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Telepathy"
   ],
@@ -26,10 +25,13 @@
     "Sharp claws",
     "Metamorphic abilities"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Amphibiansqsup001.jpg/125px-Amphibiansqsup001.jpg",
-    "width": "125",
-    "height": "481"
-  },
-  "pageviews": 2307
+  "realName": "- Kingsley Rice (male)<br> - Kingsley Rice (female)",
+  "species": [
+  ],
+  "teams": [
+    "Squadron Supreme",
+    "Squadron Supreme of Earth-712",
+    "Squadron Supreme of Earth-31916"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Amphibian_(comics)"
 }

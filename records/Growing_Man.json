@@ -1,26 +1,29 @@
 {
-  "name": "The Growing Man",
-  "url": "https://en.wikipedia.org/wiki/Growing_Man",
-  "realName": "Growing Man",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "HYDRA"
+  "image": {
+    "height": "372",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Growing_Man_on_the_cover_of_Thor.jpg/250px-Growing_Man_on_the_cover_of_Thor.jpg",
+    "width": "250"
+  },
+  "name": "The Growing Man",
+  "pageviews": 765,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to absorb kinetic energy",
     "Mass manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Growing_Man_on_the_cover_of_Thor.jpg/250px-Growing_Man_on_the_cover_of_Thor.jpg",
-    "width": "250",
-    "height": "372"
-  },
-  "pageviews": 765
+  "realName": "Growing Man",
+  "species": [
+  ],
+  "teams": [
+    "HYDRA"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Growing_Man"
 }

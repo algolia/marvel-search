@@ -1,20 +1,19 @@
 {
-  "name": "Dreadnought",
-  "url": "https://en.wikipedia.org/wiki/Dreadnought_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Jim Steranko"
   ],
-  "teams": [
-    "HYDRA",
-    "New Enforcers"
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/99/Nightstalkers16.jpg",
+    "width": "250"
+  },
+  "name": "Dreadnought",
+  "pageviews": 1031,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "robot"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Flame-throwing gauntlets",
     "Projectile spikes on knuckles",
@@ -22,10 +21,13 @@
     "Ability to cause radiation emission from eyes",
     "Freezing breath"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/99/Nightstalkers16.jpg",
-    "width": "250",
-    "height": "386"
-  },
-  "pageviews": 1031
+  "realName": null,
+  "species": [
+    "robot"
+  ],
+  "teams": [
+    "HYDRA",
+    "New Enforcers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dreadnought_(comics)"
 }

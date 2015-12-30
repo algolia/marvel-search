@@ -1,19 +1,21 @@
 {
-  "name": "Devil Hulk",
-  "url": "https://en.wikipedia.org/wiki/Devil_Hulk",
-  "realName": "Doctor Robert Bruce Banner",
+  "aliases": "The Devil",
   "creators": [
     "Paul Jenkins",
     "Ron Garney",
     "Sal Buscema"
   ],
-  "teams": [],
-  "aliases": "The Devil",
-  "species": [
-    "Mutate"
+  "image": {
+    "height": "240",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/DevilHulk.gif/250px-DevilHulk.gif",
+    "width": "250"
+  },
+  "name": "Devil Hulk",
+  "pageviews": 3355,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Illusion generation",
     "Super strength",
@@ -22,10 +24,11 @@
     "reflexes",
     "and durability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/DevilHulk.gif/250px-DevilHulk.gif",
-    "width": "250",
-    "height": "240"
-  },
-  "pageviews": 3355
+  "realName": "Doctor Robert Bruce Banner",
+  "species": [
+    "Mutate"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Devil_Hulk"
 }

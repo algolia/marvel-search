@@ -1,27 +1,30 @@
 {
-  "name": "Hybrid",
-  "url": "https://en.wikipedia.org/wiki/Hybrid_(Scott_Washington)",
-  "realName": "Scott Washington",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Mark Bagley",
     "Evan Skolnick",
     "Patrick Zircher"
   ],
-  "teams": [
-    "New Warriors",
-    "Guardsmen",
-    "NYPD"
+  "image": {
+  },
+  "name": "Hybrid",
+  "pageviews": 6951,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Alien symbiote"
   ],
   "powersText": [
     "Alien symbiote"
   ],
-  "image": {},
-  "pageviews": 6951
+  "realName": "Scott Washington",
+  "species": [
+  ],
+  "teams": [
+    "New Warriors",
+    "Guardsmen",
+    "NYPD"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hybrid_(Scott_Washington)"
 }

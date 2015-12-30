@@ -1,24 +1,27 @@
 {
-  "name": "Spike",
-  "url": "https://en.wikipedia.org/wiki/Spike_(Marvel_Comics)",
-  "realName": "Darian Elliott",
+  "aliases": "The Spike",
   "creators": [
     "Peter Milligan",
     "Mike Allred"
+  ],
+  "image": {
+  },
+  "name": "Spike",
+  "pageviews": 2615,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to generate bone spike projectiles"
+  ],
+  "realName": "Darian Elliott",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Force",
     "X-Statix"
   ],
-  "aliases": "The Spike",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to generate bone spike projectiles"
-  ],
-  "image": {},
-  "pageviews": 2615
+  "url": "https://en.wikipedia.org/wiki/Spike_(Marvel_Comics)"
 }

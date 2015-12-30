@@ -1,23 +1,27 @@
 {
-  "name": "Mariko Yashida",
-  "url": "https://en.wikipedia.org/wiki/Mariko_Yashida",
-  "realName": "Mariko Yashida",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/81/Mariko_Yashida%28comics%29.jpg",
+    "width": "163"
+  },
+  "name": "Mariko Yashida",
+  "pageviews": 13072,
   "partners": [
     "Wolverine"
   ],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/81/Mariko_Yashida%28comics%29.jpg",
-    "width": "163",
-    "height": "375"
-  },
-  "pageviews": 13072
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Mariko Yashida",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mariko_Yashida"
 }

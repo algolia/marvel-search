@@ -1,21 +1,17 @@
 {
-  "name": "Ahura",
-  "url": "https://en.wikipedia.org/wiki/Ahura_(comics)",
-  "realName": null,
+  "aliases": "Pope",
   "creators": [
     "Ann Nocenti",
     "Bret Blevins"
   ],
-  "teams": [
-    "Inhuman Royal Family",
-    "Future Foundation"
+  "image": {
+  },
+  "name": "Ahura",
+  "pageviews": 5718,
+  "partners": [
   ],
-  "aliases": "Pope",
-  "species": [
-    "Inhumans"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Initially",
     "hypersonic scream",
@@ -25,6 +21,13 @@
     "Telepathy",
     "limited mind control"
   ],
-  "image": {},
-  "pageviews": 5718
+  "realName": null,
+  "species": [
+    "Inhumans"
+  ],
+  "teams": [
+    "Inhuman Royal Family",
+    "Future Foundation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ahura_(comics)"
 }

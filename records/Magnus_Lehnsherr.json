@@ -1,18 +1,17 @@
 {
-  "name": "Magnus",
-  "url": "https://en.wikipedia.org/wiki/Magnus_Lehnsherr",
-  "realName": "Magnus Lehnsherr",
+  "aliases": "",
   "creators": [
     "Judd Winick",
     "Mike McKone"
   ],
-  "teams": [
-    "Exiles"
+  "image": {
+  },
+  "name": "Magnus",
+  "pageviews": 795,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Electromagnetic manipulation",
     "Force field generation",
@@ -20,6 +19,11 @@
     "Flight",
     "Ability to turn living beings to metal"
   ],
-  "image": {},
-  "pageviews": 795
+  "realName": "Magnus Lehnsherr",
+  "species": [
+  ],
+  "teams": [
+    "Exiles"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Magnus_Lehnsherr"
 }

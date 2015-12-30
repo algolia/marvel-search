@@ -1,16 +1,16 @@
 {
-  "name": "Comet Man",
-  "url": "https://en.wikipedia.org/wiki/Comet_Man",
-  "realName": "Dr. Stephen Beckley",
+  "aliases": "",
   "creators": [
     "Bill Mumy",
     "Miguel Ferrer",
     "Kelley Jones"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+  },
+  "name": "Comet Man",
+  "pageviews": 1009,
+  "partners": [
+  ],
   "powers": [
     "telekinesis"
   ],
@@ -23,6 +23,10 @@
     "Flight via telekinesis",
     "Accelerated healing factor"
   ],
-  "image": {},
-  "pageviews": 1009
+  "realName": "Dr. Stephen Beckley",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Comet_Man"
 }

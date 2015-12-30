@@ -1,10 +1,27 @@
 {
-  "name": "Black Mamba",
-  "url": "https://en.wikipedia.org/wiki/Black_Mamba_(comics)",
-  "realName": "Tanya Sealy",
+  "aliases": "Tanya Sweet",
   "creators": [
     "Mark Gruenwald",
     "Ralph Macchio"
+  ],
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Black_mamba_MarvelComics.jpg/198px-Black_mamba_MarvelComics.jpg",
+    "width": "198"
+  },
+  "name": "Black Mamba",
+  "pageviews": 3009,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Darkforce energy control",
+    "Illusion generation",
+    "Limited telepathy"
+  ],
+  "realName": "Tanya Sealy",
+  "species": [
   ],
   "teams": [
     "BAD Girls, Inc.",
@@ -14,19 +31,5 @@
     "Serpent Society",
     "Serpent Squad"
   ],
-  "aliases": "Tanya Sweet",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Darkforce energy control",
-    "Illusion generation",
-    "Limited telepathy"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Black_mamba_MarvelComics.jpg/198px-Black_mamba_MarvelComics.jpg",
-    "width": "198",
-    "height": "450"
-  },
-  "pageviews": 3009
+  "url": "https://en.wikipedia.org/wiki/Black_Mamba_(comics)"
 }

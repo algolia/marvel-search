@@ -1,26 +1,30 @@
 {
-  "name": "Gorilla-Man",
-  "url": "https://en.wikipedia.org/wiki/Gorilla-Man",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "Agents of Atlas",
-    "Nick Fury's Howling Commandos"
-  ],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "302",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Aoatlas002_cov_c.jpg/200px-Aoatlas002_cov_c.jpg",
+    "width": "200"
+  },
+  "name": "Gorilla-Man",
+  "pageviews": 2971,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Weapons expert",
     "Skilled hand to hand combatant",
     "Possesses the form of a gorilla",
     "Immortality"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Aoatlas002_cov_c.jpg/200px-Aoatlas002_cov_c.jpg",
-    "width": "200",
-    "height": "302"
-  },
-  "pageviews": 2971
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Agents of Atlas",
+    "Nick Fury's Howling Commandos"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gorilla-Man"
 }

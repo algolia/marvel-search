@@ -1,10 +1,27 @@
 {
-  "name": "Nick Fury",
-  "url": "https://en.wikipedia.org/wiki/Nick_Fury",
-  "realName": null,
+  "aliases": "Scorpio<br>Gemini<br>The Unseen",
   "creators": [
     "Jack Kirby",
     "Stan Lee"
+  ],
+  "image": {
+    "height": "383",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Nickfuryshield.jpg/250px-Nickfuryshield.jpg",
+    "width": "250"
+  },
+  "name": "Nick Fury",
+  "pageviews": 53747,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Extensive military training",
+    "Highly skilled in armed and unarmed combat",
+    "Longevity from the Infinity Formula"
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "Secret Warriors",
@@ -14,19 +31,5 @@
     "Howling Commandos",
     "\"Avengers\" (1959)"
   ],
-  "aliases": "Scorpio<br>Gemini<br>The Unseen",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Extensive military training",
-    "Highly skilled in armed and unarmed combat",
-    "Longevity from the Infinity Formula"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Nickfuryshield.jpg/250px-Nickfuryshield.jpg",
-    "width": "250",
-    "height": "383"
-  },
-  "pageviews": 53747
+  "url": "https://en.wikipedia.org/wiki/Nick_Fury"
 }

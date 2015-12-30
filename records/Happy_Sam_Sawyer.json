@@ -1,24 +1,28 @@
 {
-  "name": "Happy Sam Sawyer",
-  "url": "https://en.wikipedia.org/wiki/Happy_Sam_Sawyer",
-  "realName": "Samuel Sawyer",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "415",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Samsawyer.jpg/150px-Samsawyer.jpg",
+    "width": "150"
+  },
+  "name": "Happy Sam Sawyer",
+  "pageviews": 1636,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Samuel Sawyer",
+  "species": [
   ],
   "teams": [
     "Howling Commandos",
     "United States Army"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Samsawyer.jpg/150px-Samsawyer.jpg",
-    "width": "150",
-    "height": "415"
-  },
-  "pageviews": 1636
+  "url": "https://en.wikipedia.org/wiki/Happy_Sam_Sawyer"
 }

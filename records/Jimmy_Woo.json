@@ -1,24 +1,28 @@
 {
-  "name": "Jimmy Woo",
-  "url": "https://en.wikipedia.org/wiki/Jimmy_Woo",
-  "realName": "James Woo",
+  "aliases": "",
   "creators": [
     "Al Feldstein",
     "Joe Maneely"
+  ],
+  "image": {
+    "height": "227",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/AOATLAS001_COV.jpg/150px-AOATLAS001_COV.jpg",
+    "width": "150"
+  },
+  "name": "Jimmy Woo",
+  "pageviews": 3162,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "James Woo",
+  "species": [
   ],
   "teams": [
     "S.H.I.E.L.D.",
     "Agents of Atlas"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/AOATLAS001_COV.jpg/150px-AOATLAS001_COV.jpg",
-    "width": "150",
-    "height": "227"
-  },
-  "pageviews": 3162
+  "url": "https://en.wikipedia.org/wiki/Jimmy_Woo"
 }

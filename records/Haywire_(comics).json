@@ -1,26 +1,29 @@
 {
-  "name": "Haywire",
-  "url": "https://en.wikipedia.org/wiki/Haywire_(comics)",
-  "realName": "Harold Danforth",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Paul Ryan"
+  ],
+  "image": {
+    "height": "183",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Haywire.jpg/250px-Haywire.jpg",
+    "width": "250"
+  },
+  "name": "Haywire",
+  "pageviews": 654,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to form \"tanglewire\" filament"
+  ],
+  "realName": "Harold Danforth",
+  "species": [
   ],
   "teams": [
     "Squadron Supreme",
     "Redeemers"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to form \"tanglewire\" filament"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Haywire.jpg/250px-Haywire.jpg",
-    "width": "250",
-    "height": "183"
-  },
-  "pageviews": 654
+  "url": "https://en.wikipedia.org/wiki/Haywire_(comics)"
 }

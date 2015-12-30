@@ -1,20 +1,20 @@
 {
-  "name": "The Wrecker",
-  "url": "https://en.wikipedia.org/wiki/Wrecker_(comics)",
-  "realName": "Dirk Garthwaite",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Wrecking Crew",
-    "Masters of Evil",
-    "Frightful Four"
+  "image": {
+    "height": "407",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/25/Wreck3.png",
+    "width": "250"
+  },
+  "name": "The Wrecker",
+  "pageviews": 3751,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "stamina and durability",
@@ -26,10 +26,13 @@
     "Teleportation",
     "Ability to create minor earthquakes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/25/Wreck3.png",
-    "width": "250",
-    "height": "407"
-  },
-  "pageviews": 3751
+  "realName": "Dirk Garthwaite",
+  "species": [
+  ],
+  "teams": [
+    "Wrecking Crew",
+    "Masters of Evil",
+    "Frightful Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wrecker_(comics)"
 }

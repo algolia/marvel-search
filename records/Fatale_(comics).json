@@ -1,23 +1,19 @@
 {
-  "name": "Fatale",
-  "url": "https://en.wikipedia.org/wiki/Fatale_(comics)",
-  "realName": null,
+  "aliases": "Pamela Greenwood, Amy Johnson",
   "creators": [
     "Scott Lobdell",
     "Brandon Peterson",
     "John Francis Moore",
     "Jeff Matsuda"
   ],
-  "teams": [
-    "X-Cell",
-    "Brotherhood"
+  "image": {
+  },
+  "name": "Fatale",
+  "pageviews": 1613,
+  "partners": [
   ],
-  "aliases": "Pamela Greenwood, Amy Johnson",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Depowered",
     "formerly:",
@@ -25,6 +21,13 @@
     "Light-alteration",
     "Invisibility"
   ],
-  "image": {},
-  "pageviews": 1613
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Cell",
+    "Brotherhood"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Fatale_(comics)"
 }

@@ -1,18 +1,20 @@
 {
-  "name": "Dreadknight",
-  "url": "https://en.wikipedia.org/wiki/Dreadknight",
-  "realName": "Bram Velsing",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "George Tuska"
   ],
-  "teams": [
-    "Frightful Four"
+  "image": {
+    "height": "243",
+    "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/DreadknightIM102.jpg",
+    "width": "222"
+  },
+  "name": "Dreadknight",
+  "pageviews": 2486,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Gifted scientist",
     "Rides the \"Hellhorse\"",
@@ -20,10 +22,11 @@
     "Steel alloy body armor grants:",
     "Superhuman strength and durability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/DreadknightIM102.jpg",
-    "width": "222",
-    "height": "243"
-  },
-  "pageviews": 2486
+  "realName": "Bram Velsing",
+  "species": [
+  ],
+  "teams": [
+    "Frightful Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dreadknight"
 }

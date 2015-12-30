@@ -1,28 +1,31 @@
 {
-  "name": "Blue Shield",
-  "url": "https://en.wikipedia.org/wiki/Blue_Shield_(comics)",
-  "realName": "Joseph Cartelli",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Frank Springer"
   ],
-  "teams": [
-    "The Initiative",
-    "Project Pegasus"
+  "image": {
+    "height": "323",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Blue_shield.jpg/250px-Blue_shield.jpg",
+    "width": "250"
+  },
+  "name": "Blue Shield",
+  "pageviews": 663,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Wears a micro circuitry-lined belt that grants:",
     "Force field generation",
     "Superhuman physical attributes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Blue_shield.jpg/250px-Blue_shield.jpg",
-    "width": "250",
-    "height": "323"
-  },
-  "pageviews": 663
+  "realName": "Joseph Cartelli",
+  "species": [
+  ],
+  "teams": [
+    "The Initiative",
+    "Project Pegasus"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blue_Shield_(comics)"
 }

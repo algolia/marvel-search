@@ -1,17 +1,19 @@
 {
-  "name": "Devos the Devastator",
-  "url": "https://en.wikipedia.org/wiki/Devos_the_Devastator",
-  "realName": "Devos",
+  "aliases": "",
   "creators": [
     "Tom DeFalco"
   ],
-  "teams": [
-    "Fearsome Foursome"
+  "image": {
+    "height": "400",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Devosff.jpg/250px-Devosff.jpg",
+    "width": "250"
+  },
+  "name": "Devos the Devastator",
+  "pageviews": 584,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Power armor grants:",
     "High-level resistance to injury",
@@ -20,10 +22,11 @@
     "Assorted alien firearms",
     "Command of various space vessels"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Devosff.jpg/250px-Devosff.jpg",
-    "width": "250",
-    "height": "400"
-  },
-  "pageviews": 584
+  "realName": "Devos",
+  "species": [
+  ],
+  "teams": [
+    "Fearsome Foursome"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Devos_the_Devastator"
 }

@@ -1,7 +1,5 @@
 {
-  "name": "Ghoul",
-  "url": "https://en.wikipedia.org/wiki/Ghoul_(Ultraverse)",
-  "realName": "Jonathan Martin",
+  "aliases": "",
   "creators": [
     "Steve Gerber",
     "R.R. Phipps",
@@ -9,19 +7,25 @@
     "Chris Ulm",
     "Tom Mason"
   ],
-  "teams": [
-    "Ultraforce",
-    "Exiles"
+  "image": {
+  },
+  "name": "Ghoul",
+  "pageviews": 867,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Enhanced regeneration",
     "ability to speak to the dead",
     "ability to see imminent death"
   ],
-  "image": {},
-  "pageviews": 867
+  "realName": "Jonathan Martin",
+  "species": [
+  ],
+  "teams": [
+    "Ultraforce",
+    "Exiles"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ghoul_(Ultraverse)"
 }

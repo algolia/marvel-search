@@ -1,11 +1,29 @@
 {
-  "name": "Mercury",
-  "url": "https://en.wikipedia.org/wiki/Mercury_(Marvel_Comics)",
-  "realName": "Cessily Kincaid",
+  "aliases": "",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir",
     "Keron Grant"
+  ],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Mercuryprofile.jpg/250px-Mercuryprofile.jpg",
+    "width": "250"
+  },
+  "name": "Mercury",
+  "pageviews": 3608,
+  "partners": [
+  ],
+  "powers": [
+    "mercury"
+  ],
+  "powersText": [
+    "Body is composed of a non-toxic form of mercury",
+    "which she can reshape and stretch at will"
+  ],
+  "realName": "Cessily Kincaid",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Hellions training squad",
@@ -14,22 +32,5 @@
     "X-Men-In-Training",
     "Jean Grey School Students"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "mercury"
-  ],
-  "powersText": [
-    "Body is composed of a non-toxic form of mercury",
-    "which she can reshape and stretch at will"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Mercuryprofile.jpg/250px-Mercuryprofile.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 3608
+  "url": "https://en.wikipedia.org/wiki/Mercury_(Marvel_Comics)"
 }

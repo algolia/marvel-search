@@ -1,29 +1,21 @@
 {
-  "name": "Wonder Man",
-  "url": "https://en.wikipedia.org/wiki/Wonder_Man",
-  "realName": "Simon Williams",
+  "aliases": "Mr. Muscles, Hal Canutt",
   "creators": [
     "Stan Lee",
     "Jack Kirby",
     "Don Heck"
   ],
-  "teams": [
-    "Avengers Unity Squad",
-    "Avengers",
-    "The Mighty Avengers",
-    "Defenders",
-    "Force Works",
-    "S.H.I.E.L.D.",
-    "Lethal Legion",
-    "Masters of Evil",
-    "Legion of the Unliving",
-    "West Coast Avengers",
-    "Revengers"
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/WonderMan-1.jpg/250px-WonderMan-1.jpg",
+    "width": "250"
+  },
+  "name": "Wonder Man",
+  "pageviews": 28604,
+  "partners": [
   ],
-  "aliases": "Mr. Muscles, Hal Canutt",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ionic-energy empowered",
     "Flight",
@@ -39,10 +31,21 @@
     "Capable industrialist",
     "Experienced stuntman"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/WonderMan-1.jpg/250px-WonderMan-1.jpg",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 28604
+  "realName": "Simon Williams",
+  "species": [
+  ],
+  "teams": [
+    "Avengers Unity Squad",
+    "Avengers",
+    "The Mighty Avengers",
+    "Defenders",
+    "Force Works",
+    "S.H.I.E.L.D.",
+    "Lethal Legion",
+    "Masters of Evil",
+    "Legion of the Unliving",
+    "West Coast Avengers",
+    "Revengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wonder_Man"
 }

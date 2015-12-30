@@ -1,21 +1,21 @@
 {
-  "name": "Man-Ape",
-  "url": "https://en.wikipedia.org/wiki/Man-Ape",
-  "realName": "M'Baku",
+  "aliases": "White Gorilla",
   "creators": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "teams": [
-    "Lethal Legion",
-    "Masters of Evil"
-  ],
-  "aliases": "White Gorilla",
-  "species": [],
+  "image": {
+    "height": "396",
+    "url": "https://upload.wikimedia.org/wikipedia/en/6/63/Manape.png",
+    "width": "250"
+  },
+  "name": "Man-Ape",
+  "pageviews": 6556,
   "partners": [
     "Grim Reaper"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Expert hand to hand combatant",
     "Superhuman strength",
@@ -23,10 +23,12 @@
     "agility",
     "stamina and durability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/63/Manape.png",
-    "width": "250",
-    "height": "396"
-  },
-  "pageviews": 6556
+  "realName": "M'Baku",
+  "species": [
+  ],
+  "teams": [
+    "Lethal Legion",
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Man-Ape"
 }

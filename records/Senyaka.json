@@ -1,28 +1,30 @@
 {
-  "name": "Senyaka",
-  "url": "https://en.wikipedia.org/wiki/Senyaka",
-  "realName": "Suvik Senyaka",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "John Romita Jr."
   ],
-  "teams": [
-    "Acolytes"
-  ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+  },
+  "name": "Senyaka",
+  "pageviews": 1413,
   "partners": [
     "Selene"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to create life-force draining fire and energy whips",
     "life-draining gives him superhuman healing",
     "immortality",
     "and strength"
   ],
-  "image": {},
-  "pageviews": 1413
+  "realName": "Suvik Senyaka",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Acolytes"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Senyaka"
 }

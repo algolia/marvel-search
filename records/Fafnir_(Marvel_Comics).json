@@ -1,16 +1,20 @@
 {
-  "name": "Fafnir",
-  "url": "https://en.wikipedia.org/wiki/Fafnir_(Marvel_Comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "397",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Thorvs.Fafnir.jpg/260px-Thorvs.Fafnir.jpg",
+    "width": "260"
+  },
+  "name": "Fafnir",
+  "pageviews": 1713,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "stamina",
@@ -18,10 +22,10 @@
     "Fire Breath",
     "Illusion casting"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Thorvs.Fafnir.jpg/260px-Thorvs.Fafnir.jpg",
-    "width": "260",
-    "height": "397"
-  },
-  "pageviews": 1713
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Fafnir_(Marvel_Comics)"
 }

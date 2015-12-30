@@ -1,22 +1,18 @@
 {
-  "name": "Emplate",
-  "url": "https://en.wikipedia.org/wiki/Emplate",
-  "realName": "Marius St. Croix",
+  "aliases": "M-Plate",
   "creators": [
     "Scott Lobdell",
     "Chris Bachalo"
   ],
-  "teams": [
-    "Hellions"
-  ],
-  "aliases": "M-Plate",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+  },
+  "name": "Emplate",
+  "pageviews": 1835,
   "partners": [
     "Chimera"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Interdimensional travel",
     "Invisibility",
@@ -26,6 +22,12 @@
     "Ability to temporarily duplicate a mutant's abilities once he has sampled their marrow",
     "Able to transform others into beings like himself through vampire-like infection"
   ],
-  "image": {},
-  "pageviews": 1835
+  "realName": "Marius St. Croix",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hellions"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Emplate"
 }

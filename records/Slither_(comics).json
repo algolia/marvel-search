@@ -1,9 +1,24 @@
 {
-  "name": "Slither",
-  "url": "https://en.wikipedia.org/wiki/Slither_(comics)",
-  "realName": "Aaron Salomon",
+  "aliases": "",
   "creators": [
     "Jack Kirby"
+  ],
+  "image": {
+  },
+  "name": "Slither",
+  "pageviews": 887,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman strength",
+    "flexibility",
+    "endurance"
+  ],
+  "realName": "Aaron Salomon",
+  "species": [
+    "mutant"
   ],
   "teams": [
     "Brotherhood of Mutants",
@@ -11,17 +26,5 @@
     "Serpent Society",
     "Secret Empire"
   ],
-  "aliases": "",
-  "species": [
-    "mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman strength",
-    "flexibility",
-    "endurance"
-  ],
-  "image": {},
-  "pageviews": 887
+  "url": "https://en.wikipedia.org/wiki/Slither_(comics)"
 }

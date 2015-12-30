@@ -1,22 +1,26 @@
 {
-  "name": "Master Khan",
-  "url": "https://en.wikipedia.org/wiki/Master_Khan",
-  "realName": "Khan",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human"
+  "image": {
+  },
+  "name": "Master Khan",
+  "pageviews": 2797,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "magical powers",
     "leviate and shrink objects and beings"
   ],
-  "image": {},
-  "pageviews": 2797
+  "realName": "Khan",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Master_Khan"
 }

@@ -1,28 +1,31 @@
 {
-  "name": "Sentry",
-  "url": "https://en.wikipedia.org/wiki/Sentry_(Curtis_Elkins)",
-  "realName": "Curtis Elkins",
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "Mark Bagley"
   ],
-  "teams": [
-    "The Jury"
+  "image": {
+    "height": "364",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Sentry2.jpg/250px-Sentry2.jpg",
+    "width": "250"
+  },
+  "name": "Sentry",
+  "pageviews": 572,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "No superhuman powers",
     "body-armor",
     "jet-boots",
     "repulsor gun"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Sentry2.jpg/250px-Sentry2.jpg",
-    "width": "250",
-    "height": "364"
-  },
-  "pageviews": 572
+  "realName": "Curtis Elkins",
+  "species": [
+  ],
+  "teams": [
+    "The Jury"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sentry_(Curtis_Elkins)"
 }

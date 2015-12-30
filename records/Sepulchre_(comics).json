@@ -1,28 +1,30 @@
 {
-  "name": "Sepulchre",
-  "url": "https://en.wikipedia.org/wiki/Sepulchre_(comics)",
-  "realName": "Jillian Marie Woods",
+  "aliases": "Shadowoman",
   "creators": [
     "Mark Gruenwald",
     "Grant Miehm"
   ],
-  "teams": [
-    "Roxxon Energy Corporation",
-    "Secret Defenders"
+  "image": {
+    "height": "180",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Shdowwoman.jpg/250px-Shdowwoman.jpg",
+    "width": "250"
+  },
+  "name": "Sepulchre",
+  "pageviews": 1779,
+  "partners": [
   ],
-  "aliases": "Shadowoman",
-  "species": [],
-  "partners": [],
   "powers": [
     "Darkforce"
   ],
   "powersText": [
     "Darkforce manipulation."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Shdowwoman.jpg/250px-Shdowwoman.jpg",
-    "width": "250",
-    "height": "180"
-  },
-  "pageviews": 1779
+  "realName": "Jillian Marie Woods",
+  "species": [
+  ],
+  "teams": [
+    "Roxxon Energy Corporation",
+    "Secret Defenders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sepulchre_(comics)"
 }

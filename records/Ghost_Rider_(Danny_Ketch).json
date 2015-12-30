@@ -1,19 +1,19 @@
 {
-  "name": "Ghost Rider",
-  "url": "https://en.wikipedia.org/wiki/Ghost_Rider_(Danny_Ketch)",
-  "realName": "Daniel \"Danny\" Ketch",
+  "aliases": "The Spirit of Vengeance",
   "creators": [
     "Howard Mackie"
   ],
-  "teams": [
-    "Midnight Sons",
-    "Secret Defenders",
-    "New Fantastic Four"
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/GhostRider_vol_2_issue_1.jpg/250px-GhostRider_vol_2_issue_1.jpg",
+    "width": "250"
+  },
+  "name": "Ghost Rider",
+  "pageviews": 6886,
+  "partners": [
   ],
-  "aliases": "The Spirit of Vengeance",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "Ability to project regular and ethereal flame",
@@ -22,10 +22,13 @@
     "Rides flaming motorcycle",
     "Penance Stare"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/GhostRider_vol_2_issue_1.jpg/250px-GhostRider_vol_2_issue_1.jpg",
-    "width": "250",
-    "height": "386"
-  },
-  "pageviews": 6886
+  "realName": "Daniel \"Danny\" Ketch",
+  "species": [
+  ],
+  "teams": [
+    "Midnight Sons",
+    "Secret Defenders",
+    "New Fantastic Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ghost_Rider_(Danny_Ketch)"
 }

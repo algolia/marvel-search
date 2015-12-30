@@ -1,10 +1,31 @@
 {
-  "name": "Juggernaut",
-  "url": "https://en.wikipedia.org/wiki/Juggernaut_(comics)",
-  "realName": "Cain Marko",
+  "aliases": "Kuurth: Breaker of Stone",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "304",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Juggernaut2.PNG/250px-Juggernaut2.PNG",
+    "width": "250"
+  },
+  "name": "Juggernaut",
+  "pageviews": 41333,
+  "partners": [
+    "Black Tom Cassidy",
+    "Siryn"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman strength",
+    "Extreme durability",
+    "Force field generation",
+    "Virtually unstoppable momentum",
+    "Immunity to mental attacks via helmet"
+  ],
+  "realName": "Cain Marko",
+  "species": [
   ],
   "teams": [
     "The All-New Exiles",
@@ -15,24 +36,5 @@
     "The Worthy",
     "X-Men"
   ],
-  "aliases": "Kuurth: Breaker of Stone",
-  "species": [],
-  "partners": [
-    "Black Tom Cassidy",
-    "Siryn"
-  ],
-  "powers": [],
-  "powersText": [
-    "Superhuman strength",
-    "Extreme durability",
-    "Force field generation",
-    "Virtually unstoppable momentum",
-    "Immunity to mental attacks via helmet"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Juggernaut2.PNG/250px-Juggernaut2.PNG",
-    "width": "250",
-    "height": "304"
-  },
-  "pageviews": 41333
+  "url": "https://en.wikipedia.org/wiki/Juggernaut_(comics)"
 }

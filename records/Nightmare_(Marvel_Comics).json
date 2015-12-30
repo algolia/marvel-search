@@ -1,28 +1,31 @@
 {
-  "name": "Nightmare",
-  "url": "https://en.wikipedia.org/wiki/Nightmare_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Demon"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Tih_117.jpg/250px-Tih_117.jpg",
+    "width": "250"
+  },
+  "name": "Nightmare",
+  "pageviews": 8072,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to draw power from the psychic energies of the subconscious minds of dreaming beings",
     "Nigh-Omnipotence",
     "Nigh-Omniscience",
     "Nigh-Omnipresence"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Tih_117.jpg/250px-Tih_117.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 8072
+  "realName": null,
+  "species": [
+    "Demon"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nightmare_(Marvel_Comics)"
 }

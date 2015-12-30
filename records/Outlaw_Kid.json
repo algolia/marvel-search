@@ -1,20 +1,25 @@
 {
-  "name": "The Outlaw Kid",
-  "url": "https://en.wikipedia.org/wiki/Outlaw_Kid",
-  "realName": "Lance Temple",
+  "aliases": "",
   "creators": [
     "Doug Wildey"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "176",
     "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/OutlawKid11-pg2.png",
-    "width": "250",
-    "height": "176"
+    "width": "250"
   },
-  "pageviews": 741
+  "name": "The Outlaw Kid",
+  "pageviews": 741,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Lance Temple",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Outlaw_Kid"
 }

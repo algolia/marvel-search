@@ -1,10 +1,27 @@
 {
-  "name": "Hydro-Man",
-  "url": "https://en.wikipedia.org/wiki/Hydro-Man",
-  "realName": "Morris Bench",
+  "aliases": "",
   "creators": [
     "Dennis O'Neil",
     "John Romita, Jr."
+  ],
+  "image": {
+    "height": "282",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Hydro-Man.jpeg/260px-Hydro-Man.jpeg",
+    "width": "260"
+  },
+  "name": "Hydro-Man",
+  "pageviews": 6068,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Expert street fighter",
+    "Superhuman strength and durability",
+    "Water manipulation"
+  ],
+  "realName": "Morris Bench",
+  "species": [
   ],
   "teams": [
     "Frightful Four",
@@ -12,19 +29,5 @@
     "Sinister Syndicate",
     "Sinister Twelve"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Expert street fighter",
-    "Superhuman strength and durability",
-    "Water manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Hydro-Man.jpeg/260px-Hydro-Man.jpeg",
-    "width": "260",
-    "height": "282"
-  },
-  "pageviews": 6068
+  "url": "https://en.wikipedia.org/wiki/Hydro-Man"
 }

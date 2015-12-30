@@ -1,17 +1,23 @@
 {
-  "name": "Locust",
-  "url": "https://en.wikipedia.org/wiki/Locust_(comics)",
-  "realName": "August Hopper",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Werner Roth"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 302
+  "image": {
+  },
+  "name": "Locust",
+  "pageviews": 302,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "August Hopper",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Locust_(comics)"
 }

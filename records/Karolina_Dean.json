@@ -1,28 +1,30 @@
 {
-  "name": "Karolina Dean",
-  "url": "https://en.wikipedia.org/wiki/Karolina_Dean",
-  "realName": "Karolina Dean",
+  "aliases": "Lucy in the Sky",
   "creators": [
     "Brian K. Vaughan",
     "Adrian Alphona"
   ],
-  "teams": [
-    "Runaways"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Runaways007.jpg/250px-Runaways007.jpg",
+    "width": "250"
+  },
+  "name": "Karolina Dean",
+  "pageviews": 6295,
+  "partners": [
   ],
-  "aliases": "Lucy in the Sky",
-  "species": [
-    "Majesdanian"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Flight",
     "Solar light manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Runaways007.jpg/250px-Runaways007.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 6295
+  "realName": "Karolina Dean",
+  "species": [
+    "Majesdanian"
+  ],
+  "teams": [
+    "Runaways"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Karolina_Dean"
 }

@@ -1,20 +1,25 @@
 {
-  "name": "Blue Talon",
-  "url": "https://en.wikipedia.org/wiki/Blue_Talon",
-  "realName": "Itto Yamura",
+  "aliases": "",
   "creators": [
     "Gerry Conway",
     "Gene Colan"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Blue Talon",
+  "pageviews": 665,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Highly trained martial artist and mercenary",
     "Wears metal gauntlets that give his hands extra-power"
   ],
-  "image": {},
-  "pageviews": 665
+  "realName": "Itto Yamura",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blue_Talon"
 }

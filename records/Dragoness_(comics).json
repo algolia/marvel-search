@@ -1,24 +1,27 @@
 {
-  "name": "Dragoness",
-  "url": "https://en.wikipedia.org/wiki/Dragoness_(comics)",
-  "realName": "Tamara Kurtz",
+  "aliases": "",
   "creators": [
     "Louise Simonson",
     "Rob Liefeld"
+  ],
+  "image": {
+  },
+  "name": "Dragoness",
+  "pageviews": 1411,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to generate pyrotechnic flares"
+  ],
+  "realName": "Tamara Kurtz",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "The 198",
     "Mutant Liberation Front"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to generate pyrotechnic flares"
-  ],
-  "image": {},
-  "pageviews": 1411
+  "url": "https://en.wikipedia.org/wiki/Dragoness_(comics)"
 }

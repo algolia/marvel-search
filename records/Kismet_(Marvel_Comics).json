@@ -1,17 +1,18 @@
 {
-  "name": "Kismet",
-  "url": "https://en.wikipedia.org/wiki/Kismet_(Marvel_Comics)",
-  "realName": "N/A",
+  "aliases": "Paragon , Her, Ayesha, J'Ridia Starduster, She Who Must be Obeyed, She Whose Trail Dusts Hope",
   "creators": [
     "Len Wein",
     "David Kraft",
     "Herb Trimpe"
   ],
-  "teams": [],
-  "aliases": "Paragon , Her, Ayesha, J'Ridia Starduster, She Who Must be Obeyed, She Whose Trail Dusts Hope",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Kismet",
+  "pageviews": 2192,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Flight",
     "Unaided survival in vacuum",
@@ -19,6 +20,10 @@
     "Regeneration",
     "Super-strength and Durability"
   ],
-  "image": {},
-  "pageviews": 2192
+  "realName": "N/A",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kismet_(Marvel_Comics)"
 }

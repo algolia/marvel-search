@@ -1,22 +1,26 @@
 {
-  "name": "Flipside",
-  "url": "https://en.wikipedia.org/wiki/Flipside_(comics)",
-  "realName": "Flipside",
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [],
-  "partners": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "343",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Flipside_%28Spider-Man_2099%29.jpg/250px-Flipside_%28Spider-Man_2099%29.jpg",
+    "width": "250"
+  },
+  "name": "Flipside",
+  "pageviews": 890,
+  "partners": [
+  ],
   "powers": [
     "Power mimicry"
   ],
   "powersText": [
     "Power mimicry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Flipside_%28Spider-Man_2099%29.jpg/250px-Flipside_%28Spider-Man_2099%29.jpg",
-    "width": "250",
-    "height": "343"
-  },
-  "pageviews": 890
+  "realName": "Flipside",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Flipside_(comics)"
 }

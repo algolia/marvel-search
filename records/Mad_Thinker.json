@@ -1,19 +1,13 @@
 {
-  "name": "Mad Thinker",
-  "url": "https://en.wikipedia.org/wiki/Mad_Thinker",
-  "realName": null,
+  "aliases": "Dr. José Santini, The Thinker",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Maggia",
-    "Triumvirate of Terror",
-    "Intelligencia",
-    "Illuminati"
-  ],
-  "aliases": "Dr. José Santini, The Thinker",
-  "species": [],
+  "image": {
+  },
+  "name": "Mad Thinker",
+  "pageviews": 4936,
   "partners": [
     "Puppet Master",
     "Egghead",
@@ -29,6 +23,14 @@
     "Genius-level intellect",
     "Ability to project his mind into the body of Awesome Android and other robots"
   ],
-  "image": {},
-  "pageviews": 4936
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Maggia",
+    "Triumvirate of Terror",
+    "Intelligencia",
+    "Illuminati"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mad_Thinker"
 }

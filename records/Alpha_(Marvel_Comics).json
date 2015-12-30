@@ -1,16 +1,20 @@
 {
-  "name": "Alpha",
-  "url": "https://en.wikipedia.org/wiki/Alpha_(Marvel_Comics)",
-  "realName": "Andrew Maguire",
+  "aliases": "Andy Maguire, \"Speedball\", \"Nova\"",
   "creators": [
     "Dan Slott",
     "Humberto Ramos"
   ],
-  "teams": [],
-  "aliases": "Andy Maguire, \"Speedball\", \"Nova\"",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "332",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Alpha-Marvel.jpg/250px-Alpha-Marvel.jpg",
+    "width": "250"
+  },
+  "name": "Alpha",
+  "pageviews": 2001,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Exposure to Parker Particles",
     "able to protract energy blasts",
@@ -22,10 +26,10 @@
     "force fields",
     "and flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Alpha-Marvel.jpg/250px-Alpha-Marvel.jpg",
-    "width": "250",
-    "height": "332"
-  },
-  "pageviews": 2001
+  "realName": "Andrew Maguire",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Alpha_(Marvel_Comics)"
 }

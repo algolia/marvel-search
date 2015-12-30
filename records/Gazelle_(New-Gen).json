@@ -1,14 +1,16 @@
 {
-  "name": "Gazelle",
-  "url": "https://en.wikipedia.org/wiki/Gazelle_(New-Gen)",
-  "realName": "Elle",
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [
-    "Human"
+  "creators": [
   ],
-  "partners": [],
+  "image": {
+    "height": "250",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Gazelle_new_gen.jpg/200px-Gazelle_new_gen.jpg",
+    "width": "200"
+  },
+  "name": "Gazelle",
+  "pageviews": 303,
+  "partners": [
+  ],
   "powers": [
     "gazelle-like",
     "Superspeed"
@@ -18,10 +20,11 @@
     "Superspeed",
     "Enhanced reflexes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Gazelle_new_gen.jpg/200px-Gazelle_new_gen.jpg",
-    "width": "200",
-    "height": "250"
-  },
-  "pageviews": 303
+  "realName": "Elle",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gazelle_(New-Gen)"
 }

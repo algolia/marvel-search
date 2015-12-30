@@ -1,27 +1,29 @@
 {
-  "name": "Shinobi Shaw",
-  "url": "https://en.wikipedia.org/wiki/Shinobi_Shaw",
-  "realName": "Shinobi Shaw",
+  "aliases": "Black King",
   "creators": [
     "Chris Claremont"
+  ],
+  "image": {
+    "height": "374",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/XMN_Shinobi.jpg",
+    "width": "250"
+  },
+  "name": "Shinobi Shaw",
+  "pageviews": 3058,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Density control"
+  ],
+  "realName": "Shinobi Shaw",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Hellfire Club",
     "Upstarts"
   ],
-  "aliases": "Black King",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Density control"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/XMN_Shinobi.jpg",
-    "width": "250",
-    "height": "374"
-  },
-  "pageviews": 3058
+  "url": "https://en.wikipedia.org/wiki/Shinobi_Shaw"
 }

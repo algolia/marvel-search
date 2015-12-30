@@ -1,26 +1,29 @@
 {
-  "name": "Pulse",
-  "url": "https://en.wikipedia.org/wiki/Pulse_(Augustus)",
-  "realName": "Augustus",
+  "aliases": "\"Gus\", Pulsey\"",
   "creators": [
     "Peter Milligan",
     "Salvador Larroca"
   ],
-  "teams": [
-    "X-Men",
-    "The 198"
+  "image": {
+  },
+  "name": "Pulse",
+  "pageviews": 477,
+  "partners": [
   ],
-  "aliases": "\"Gus\", Pulsey\"",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ability to disable superpowers",
     "electronic systems",
     "and telepathic intrusions"
   ],
-  "image": {},
-  "pageviews": 477
+  "realName": "Augustus",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men",
+    "The 198"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Pulse_(Augustus)"
 }

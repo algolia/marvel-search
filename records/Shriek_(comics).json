@@ -1,7 +1,5 @@
 {
-  "name": "Shriek",
-  "url": "https://en.wikipedia.org/wiki/Shriek_(comics)",
-  "realName": "Frances Louise Barrison",
+  "aliases": "Sandra Deel",
   "creators": [
     "Ron Lim",
     "Mark Bagley",
@@ -10,18 +8,21 @@
     "Jerry Bingham",
     "Terry Kavanagh"
   ],
-  "teams": [
-    "Sinister Six"
-  ],
-  "aliases": "Sandra Deel",
-  "species": [],
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Shriek.png/250px-Shriek.png",
+    "width": "250"
+  },
+  "name": "Shriek",
+  "pageviews": 6469,
   "partners": [
     "Carrion",
     "Carnage",
     "Demogoblin",
     "Doppelganger"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Flight",
     "Sound manipulation",
@@ -31,10 +32,11 @@
     "shield herself with a sonic field",
     "and shoot sonic energy blasts from her hands"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Shriek.png/250px-Shriek.png",
-    "width": "250",
-    "height": "382"
-  },
-  "pageviews": 6469
+  "realName": "Frances Louise Barrison",
+  "species": [
+  ],
+  "teams": [
+    "Sinister Six"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shriek_(comics)"
 }

@@ -1,14 +1,21 @@
 {
-  "name": "Institute of Evil",
-  "url": "https://en.wikipedia.org/wiki/Institute_of_Evil",
-  "realName": null,
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 397
+  "creators": [
+  ],
+  "image": {
+  },
+  "name": "Institute of Evil",
+  "pageviews": 397,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Institute_of_Evil"
 }

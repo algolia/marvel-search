@@ -1,20 +1,16 @@
 {
-  "name": "Mad Jim Jaspers",
-  "url": "https://en.wikipedia.org/wiki/Mad_Jim_Jaspers",
-  "realName": "Sir James Jaspers",
+  "aliases": "The Reality Butcher, The Crooked Man",
   "creators": [
     "Dave Thorpe",
     "Alan Davis"
   ],
-  "teams": [
-    "UK parliament",
-    "the Hellfire Club",
-    "The Crazy Gang"
-  ],
-  "aliases": "The Reality Butcher, The Crooked Man",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+    "height": "286",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Mad_Jim_Jaspers.jpg/250px-Mad_Jim_Jaspers.jpg",
+    "width": "250"
+  },
+  "name": "Mad Jim Jaspers",
+  "pageviews": 5130,
   "partners": [
     "The Fury"
   ],
@@ -24,10 +20,14 @@
   "powersText": [
     "Reality warping"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Mad_Jim_Jaspers.jpg/250px-Mad_Jim_Jaspers.jpg",
-    "width": "250",
-    "height": "286"
-  },
-  "pageviews": 5130
+  "realName": "Sir James Jaspers",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "UK parliament",
+    "the Hellfire Club",
+    "The Crazy Gang"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mad_Jim_Jaspers"
 }

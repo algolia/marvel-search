@@ -1,21 +1,18 @@
 {
-  "name": "Leap-Frog",
-  "url": "https://en.wikipedia.org/wiki/Leap-Frog_(comics)",
-  "realName": null,
+  "aliases": "Vincent Colorito, Frog-Face, Frog-Man",
   "creators": [
     "Stan Lee",
     "Gene Colan",
     "Frank Giacoia"
   ],
-  "teams": [
-    "Defenders Impersonators",
-    "Emissaries of Evil",
-    "Damage Control"
+  "image": {
+  },
+  "name": "Leap-Frog",
+  "pageviews": 1978,
+  "partners": [
   ],
-  "aliases": "Vincent Colorito, Frog-Face, Frog-Man",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Exoskeleton frog suit grants:",
     "Enhanced strength and agility",
@@ -23,6 +20,13 @@
     "Computer-guided system for leaping accuracy",
     "Ability to leap great distances"
   ],
-  "image": {},
-  "pageviews": 1978
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Defenders Impersonators",
+    "Emissaries of Evil",
+    "Damage Control"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Leap-Frog_(comics)"
 }

@@ -1,27 +1,29 @@
 {
-  "name": "Satannish",
-  "url": "https://en.wikipedia.org/wiki/Satannish",
-  "realName": null,
+  "aliases": "Nick Cloot",
   "creators": [
     "Roy Thomas",
     "Gene Colan"
   ],
-  "teams": [
-    "Masters of Evil"
+  "image": {
+    "height": "437",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Satannish.jpg/250px-Satannish.jpg",
+    "width": "250"
+  },
+  "name": "Satannish",
+  "pageviews": 2977,
+  "partners": [
   ],
-  "aliases": "Nick Cloot",
-  "species": [
-    "Demon"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "vast supernatural powers"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Satannish.jpg/250px-Satannish.jpg",
-    "width": "250",
-    "height": "437"
-  },
-  "pageviews": 2977
+  "realName": null,
+  "species": [
+    "Demon"
+  ],
+  "teams": [
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Satannish"
 }

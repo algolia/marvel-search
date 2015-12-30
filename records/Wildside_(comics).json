@@ -1,21 +1,17 @@
 {
-  "name": "Wildside",
-  "url": "https://en.wikipedia.org/wiki/Wildside_(comics)",
-  "realName": "Richard Gill",
+  "aliases": "",
   "creators": [
     "Louise Simonson",
     "Rob Liefeld"
   ],
-  "teams": [
-    "Mutant Liberation Front",
-    "Weapon X Program"
+  "image": {
+  },
+  "name": "Wildside",
+  "pageviews": 1172,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Depowered",
     "formerly:",
@@ -23,6 +19,13 @@
     "Sharp claws and fangs",
     "Enhanced athletic ability"
   ],
-  "image": {},
-  "pageviews": 1172
+  "realName": "Richard Gill",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Mutant Liberation Front",
+    "Weapon X Program"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wildside_(comics)"
 }

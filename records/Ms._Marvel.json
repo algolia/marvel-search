@@ -1,18 +1,24 @@
 {
-  "name": "Ms. Marvel",
-  "url": "https://en.wikipedia.org/wiki/Ms._Marvel",
-  "realName": null,
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
+  "creators": [
+  ],
   "image": {
+    "height": "152",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Msmarvel1.jpg/100px-Msmarvel1.jpg",
-    "width": "100",
-    "height": "152"
+    "width": "100"
   },
-  "pageviews": 57905
+  "name": "Ms. Marvel",
+  "pageviews": 57905,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ms._Marvel"
 }

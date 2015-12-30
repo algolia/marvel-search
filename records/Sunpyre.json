@@ -1,31 +1,33 @@
 {
-  "name": "Sunpyre",
-  "url": "https://en.wikipedia.org/wiki/Sunpyre",
-  "realName": "Leyu Yoshida",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "Salvador Larroca"
   ],
-  "teams": [
-    "Genoshan Assault X-Men",
-    "X-Corps"
+  "image": {
+    "height": "280",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Sunpyre1.jpg/250px-Sunpyre1.jpg",
+    "width": "250"
+  },
+  "name": "Sunpyre",
+  "pageviews": 2924,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Flight",
     "Plasma blasts",
     "Ability to view infrared",
     "Radiation immunity"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Sunpyre1.jpg/250px-Sunpyre1.jpg",
-    "width": "250",
-    "height": "280"
-  },
-  "pageviews": 2924
+  "realName": "Leyu Yoshida",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Genoshan Assault X-Men",
+    "X-Corps"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sunpyre"
 }

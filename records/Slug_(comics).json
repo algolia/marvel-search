@@ -1,21 +1,26 @@
 {
-  "name": "Slug",
-  "url": "https://en.wikipedia.org/wiki/Slug_(comics)",
-  "realName": "Ulysses X. Lugman",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Paul Neary"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "391",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Slug-comics.jpg/249px-Slug-comics.jpg",
-    "width": "249",
-    "height": "391"
+    "width": "249"
   },
-  "pageviews": 993
+  "name": "Slug",
+  "pageviews": 993,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Ulysses X. Lugman",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Slug_(comics)"
 }

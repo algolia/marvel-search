@@ -1,26 +1,30 @@
 {
-  "name": "Fusion",
-  "url": "https://en.wikipedia.org/wiki/Fusion_(Marvel_Comics)",
-  "realName": "Hubert and Pinky Fusser (I)<br> Markley (First name unknown) (II)",
+  "aliases": "",
   "creators": [
     "Denny O'Neil",
     "John Romita, Jr.",
     "Paul Jenkins",
     "Mark Buckingham"
   ],
-  "teams": [
-    "Dr. Octopus"
+  "image": {
+  },
+  "name": "Fusion",
+  "pageviews": 652,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Enhanced strength",
     "emit radiation. (I)",
     "Expert acrobat",
     "controls people's perceptions and hi-tech equipment. (II)"
   ],
-  "image": {},
-  "pageviews": 652
+  "realName": "Hubert and Pinky Fusser (I)<br> Markley (First name unknown) (II)",
+  "species": [
+  ],
+  "teams": [
+    "Dr. Octopus"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Fusion_(Marvel_Comics)"
 }

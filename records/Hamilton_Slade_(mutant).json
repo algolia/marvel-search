@@ -1,28 +1,30 @@
 {
-  "name": "Hamilton Slade",
-  "url": "https://en.wikipedia.org/wiki/Hamilton_Slade_(mutant)",
-  "realName": "Hamilton Slade",
+  "aliases": "",
   "creators": [
     "Frank Tieri",
     "Clayton Henry"
   ],
-  "teams": [
-    "Clan Akkaba"
+  "image": {
+    "height": "443",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Slad_mom.JPG/250px-Slad_mom.JPG",
+    "width": "250"
+  },
+  "name": "Hamilton Slade",
+  "pageviews": 1050,
+  "partners": [
   ],
-  "aliases": "",
+  "powers": [
+  ],
+  "powersText": [
+    "Shape-shifting"
+  ],
+  "realName": "Hamilton Slade",
   "species": [
     "Vampire",
     "Human Mutant"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Shape-shifting"
+  "teams": [
+    "Clan Akkaba"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Slad_mom.JPG/250px-Slad_mom.JPG",
-    "width": "250",
-    "height": "443"
-  },
-  "pageviews": 1050
+  "url": "https://en.wikipedia.org/wiki/Hamilton_Slade_(mutant)"
 }

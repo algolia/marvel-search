@@ -1,23 +1,26 @@
 {
-  "name": "Tumbler",
-  "url": "https://en.wikipedia.org/wiki/Tumbler_(comics)",
-  "realName": "John Robert Keane",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Secret Empire"
+  "image": {
+  },
+  "name": "Tumbler",
+  "pageviews": 449,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "exceptional acrobatic skills."
   ],
-  "image": {},
-  "pageviews": 449
+  "realName": "John Robert Keane",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+    "Secret Empire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tumbler_(comics)"
 }

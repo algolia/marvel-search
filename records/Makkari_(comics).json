@@ -1,18 +1,17 @@
 {
-  "name": "Makkari",
-  "url": "https://en.wikipedia.org/wiki/Makkari_(comics)",
-  "realName": "Makkari",
+  "aliases": "Mike Khary, Frank Harper, Mark Curry, Jake Curtiss, Major Mercury, Hurricane Mercury , Adam Clayton, Mac Curry, Michael Gray, Thoth",
   "creators": [
     "Jack Kirby"
   ],
-  "teams": [
-    "Eternals",
-    "First Line",
-    "Monster Hunters"
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Makkari_1.jpg/250px-Makkari_1.jpg",
+    "width": "250"
+  },
+  "name": "Makkari",
+  "pageviews": 2834,
+  "partners": [
   ],
-  "aliases": "Mike Khary, Frank Harper, Mark Curry, Jake Curtiss, Major Mercury, Hurricane Mercury , Adam Clayton, Mac Curry, Michael Gray, Thoth",
-  "species": [],
-  "partners": [],
   "powers": [
     "healing factor",
     "Telekinesis",
@@ -36,10 +35,13 @@
     "Superhuman strength and speed",
     "Ability to communicate with the Dreaming Celestial"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Makkari_1.jpg/250px-Makkari_1.jpg",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 2834
+  "realName": "Makkari",
+  "species": [
+  ],
+  "teams": [
+    "Eternals",
+    "First Line",
+    "Monster Hunters"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Makkari_(comics)"
 }

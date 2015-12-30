@@ -1,29 +1,31 @@
 {
-  "name": "Transonic",
-  "url": "https://en.wikipedia.org/wiki/Transonic_(comics)",
-  "realName": "Laurie Tromette",
+  "aliases": "The First Light",
   "creators": [
     "Matt Fraction",
     "Kieron Gillen"
+  ],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/31/XMEN-Transonic.jpg",
+    "width": "250"
+  },
+  "name": "Transonic",
+  "pageviews": 1658,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Supersonic flight",
+    "General physiological enhancement"
+  ],
+  "realName": "Laurie Tromette",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "The Lights",
     "X-Men"
   ],
-  "aliases": "The First Light",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Supersonic flight",
-    "General physiological enhancement"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/31/XMEN-Transonic.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 1658
+  "url": "https://en.wikipedia.org/wiki/Transonic_(comics)"
 }

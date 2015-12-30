@@ -1,28 +1,31 @@
 {
-  "name": "Vindicator",
-  "url": "https://en.wikipedia.org/wiki/Vindicator_(comics)",
-  "realName": "Heather MacNeil Hudson",
+  "aliases": "Guardian",
   "creators": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "teams": [
-    "Department H",
-    "Alpha Flight"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Vindicator.jpg/200px-Vindicator.jpg",
+    "width": "200"
+  },
+  "name": "Vindicator",
+  "pageviews": 3906,
+  "partners": [
   ],
-  "aliases": "Guardian",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Flight",
     "Force field generation",
     "Ability to manipulate geothermal energies"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Vindicator.jpg/200px-Vindicator.jpg",
-    "width": "200",
-    "height": "450"
-  },
-  "pageviews": 3906
+  "realName": "Heather MacNeil Hudson",
+  "species": [
+  ],
+  "teams": [
+    "Department H",
+    "Alpha Flight"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Vindicator_(comics)"
 }

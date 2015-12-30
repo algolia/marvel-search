@@ -1,32 +1,33 @@
 {
-  "name": "Shard",
-  "url": "https://en.wikipedia.org/wiki/Shard_(comics)",
-  "realName": "Shard Bishop",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "John Romita, Jr."
+  ],
+  "image": {
+    "height": "396",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/94/X-factor147.jpg",
+    "width": "250"
+  },
+  "name": "Shard",
+  "pageviews": 1896,
+  "partners": [
+    "Chronomancer"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Energy blasts",
+    "intangibility (holographic Shard only)"
+  ],
+  "realName": "Shard Bishop",
+  "species": [
+    "Human Mutant",
+    "Holographic"
   ],
   "teams": [
     "Xavier Security Enforcers",
     "X-Factor"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant",
-    "Holographic"
-  ],
-  "partners": [
-    "Chronomancer"
-  ],
-  "powers": [],
-  "powersText": [
-    "Energy blasts",
-    "intangibility (holographic Shard only)"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/94/X-factor147.jpg",
-    "width": "250",
-    "height": "396"
-  },
-  "pageviews": 1896
+  "url": "https://en.wikipedia.org/wiki/Shard_(comics)"
 }

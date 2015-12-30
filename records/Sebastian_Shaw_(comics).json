@@ -1,20 +1,18 @@
 {
-  "name": "Sebastian Shaw",
-  "url": "https://en.wikipedia.org/wiki/Sebastian_Shaw_(comics)",
-  "realName": null,
+  "aliases": "Black King, Lord Imperial, Black Bishop",
   "creators": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "teams": [
-    "Hellfire Club",
-    "The Lights"
+  "image": {
+    "height": "402",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/SHAW.jpg/250px-SHAW.jpg",
+    "width": "250"
+  },
+  "name": "Sebastian Shaw",
+  "pageviews": 31560,
+  "partners": [
   ],
-  "aliases": "Black King, Lord Imperial, Black Bishop",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "energy"
   ],
@@ -22,10 +20,13 @@
     "Ability to absorb energy to enhance his physical attributes and healing",
     "Possesses access to sophisticated weaponry and telepathic blocking technology"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/SHAW.jpg/250px-SHAW.jpg",
-    "width": "250",
-    "height": "402"
-  },
-  "pageviews": 31560
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hellfire Club",
+    "The Lights"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sebastian_Shaw_(comics)"
 }

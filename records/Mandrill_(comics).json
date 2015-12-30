@@ -1,22 +1,20 @@
 {
-  "name": "Mandrill",
-  "url": "https://en.wikipedia.org/wiki/Mandrill_(comics)",
-  "realName": "Jerome Beechman",
+  "aliases": "Hensley Fargus, Monkey Face",
   "creators": [
     "Ross Andru"
   ],
-  "teams": [
-    "Black Spectre",
-    "Mutant Force"
-  ],
-  "aliases": "Hensley Fargus, Monkey Face",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+    "height": "347",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Mandrill_%28comics%29.png/250px-Mandrill_%28comics%29.png",
+    "width": "250"
+  },
+  "name": "Mandrill",
+  "pageviews": 1843,
   "partners": [
     "Nekra"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Gifted planner and strategist",
     "Skilled acrobat and hand to hand combatant",
@@ -31,10 +29,13 @@
     "Above-normal intellect",
     "Sex pheromones generation and manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Mandrill_%28comics%29.png/250px-Mandrill_%28comics%29.png",
-    "width": "250",
-    "height": "347"
-  },
-  "pageviews": 1843
+  "realName": "Jerome Beechman",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Black Spectre",
+    "Mutant Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mandrill_(comics)"
 }

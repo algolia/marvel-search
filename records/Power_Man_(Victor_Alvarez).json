@@ -1,10 +1,27 @@
 {
-  "name": "Power Man",
-  "url": "https://en.wikipedia.org/wiki/Power_Man_(Victor_Alvarez)",
-  "realName": "Victor Alvarez",
+  "aliases": "",
   "creators": [
     "Fred Van Lente",
     "Mahmud Asrar"
+  ],
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Power_man.jpg/250px-Power_man.jpg",
+    "width": "250"
+  },
+  "name": "Power Man",
+  "pageviews": 11820,
+  "partners": [
+    "Iron Fist"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman strength and fortitude via chi absorption"
+  ],
+  "realName": "Victor Alvarez",
+  "species": [
+    "Human"
   ],
   "teams": [
     "Avengers Academy",
@@ -12,21 +29,5 @@
     "Mighty Avengers",
     "Avengers Idea Mechanics"
   ],
-  "aliases": "",
-  "species": [
-    "Human"
-  ],
-  "partners": [
-    "Iron Fist"
-  ],
-  "powers": [],
-  "powersText": [
-    "Superhuman strength and fortitude via chi absorption"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Power_man.jpg/250px-Power_man.jpg",
-    "width": "250",
-    "height": "300"
-  },
-  "pageviews": 11820
+  "url": "https://en.wikipedia.org/wiki/Power_Man_(Victor_Alvarez)"
 }

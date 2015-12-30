@@ -1,7 +1,5 @@
 {
-  "name": "Wraith",
-  "url": "https://en.wikipedia.org/wiki/Wraith_(Marvel_Comics)",
-  "realName": "- Brian DeWolff<br>- Hector Rendoza<br>- Zak-Del<br>- Yuri Watanabe",
+  "aliases": "(Zak-Del)<br>Pale Rider, Kree with no name, \"Paleface\" (Watanabe) <br> \" Jean DeWolff \"",
   "creators": [
     "Bill Mantlo",
     "Sal Buscema",
@@ -12,19 +10,18 @@
     "Dan Slott",
     "John Romita, Jr."
   ],
-  "teams": [
-    "New York City Police Department",
-    "Genoshan Assault X-Men"
-  ],
-  "aliases": "(Zak-Del)<br>Pale Rider, Kree with no name, \"Paleface\" (Watanabe) <br> \" Jean DeWolff \"",
-  "species": [
-    "Human Mutant",
-    "Kree"
-  ],
+  "image": {
+    "height": "354",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Wraith.jpg/250px-Wraith.jpg",
+    "width": "250"
+  },
+  "name": "Wraith",
+  "pageviews": 4198,
   "partners": [
     "Iron Man"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(DeWolff)",
     "Thought reading",
@@ -47,10 +44,14 @@
     "Darkness manifestation",
     "Longevity via agelessness"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Wraith.jpg/250px-Wraith.jpg",
-    "width": "250",
-    "height": "354"
-  },
-  "pageviews": 3703
+  "realName": "- Brian DeWolff<br>- Hector Rendoza<br>- Zak-Del<br>- Yuri Watanabe",
+  "species": [
+    "Human Mutant",
+    "Kree"
+  ],
+  "teams": [
+    "New York City Police Department",
+    "Genoshan Assault X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wraith_(Marvel_Comics)"
 }

@@ -1,26 +1,29 @@
 {
-  "name": "Armory",
-  "url": "https://en.wikipedia.org/wiki/Armory_(comics)",
-  "realName": "Violet Lightner",
+  "aliases": "",
   "creators": [
     "Dan Slott",
     "Stefano Caselli"
   ],
-  "teams": [
-    "The Initiative"
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/27/AVNINITANN001_cov_col.jpg",
+    "width": "200"
+  },
+  "name": "Armory",
+  "pageviews": 1220,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to control the Tactigon",
     "an alien-created weapon worn on the arm that is seemingly able to transform into any weapon that she may need at a given time."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/27/AVNINITANN001_cov_col.jpg",
-    "width": "200",
-    "height": "300"
-  },
-  "pageviews": 1220
+  "realName": "Violet Lightner",
+  "species": [
+  ],
+  "teams": [
+    "The Initiative"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Armory_(comics)"
 }

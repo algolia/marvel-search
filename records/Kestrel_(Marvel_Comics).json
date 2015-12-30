@@ -1,19 +1,17 @@
 {
-  "name": "Kestrel",
-  "url": "https://en.wikipedia.org/wiki/Kestrel_(Marvel_Comics)",
-  "realName": "John Wraith",
+  "aliases": "Expediter",
   "creators": [
     "Larry Hama"
   ],
-  "teams": [
-    "Weapon X",
-    "Team X"
+  "image": {
+    "height": "225",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Johnwraith.jpg",
+    "width": "200"
+  },
+  "name": "Kestrel",
+  "pageviews": 11416,
+  "partners": [
   ],
-  "aliases": "Expediter",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Teleportation"
   ],
@@ -21,10 +19,13 @@
     "Teleportation",
     "Slowed aging"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Johnwraith.jpg",
-    "width": "200",
-    "height": "225"
-  },
-  "pageviews": 11416
+  "realName": "John Wraith",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Weapon X",
+    "Team X"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kestrel_(Marvel_Comics)"
 }

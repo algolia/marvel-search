@@ -1,16 +1,16 @@
 {
-  "name": "Alexander Bont",
-  "url": "https://en.wikipedia.org/wiki/Alexander_Bont",
-  "realName": null,
+  "aliases": "The Kingpin",
   "creators": [
     "Brian Michael Bendis",
     "Alex Maleev"
   ],
-  "teams": [
-    "New York City"
-  ],
-  "aliases": "The Kingpin",
-  "species": [],
+  "image": {
+    "height": "222",
+    "url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Bontsilverage.JPG",
+    "width": "133"
+  },
+  "name": "Alexander Bont",
+  "pageviews": 756,
   "partners": [
     "Gladiator",
     "Fixer"
@@ -22,10 +22,11 @@
     "Highly intelligent",
     "Extremely strong when on Mutant Growth Hormone"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Bontsilverage.JPG",
-    "width": "133",
-    "height": "222"
-  },
-  "pageviews": 756
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "New York City"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Alexander_Bont"
 }

@@ -1,25 +1,20 @@
 {
-  "name": "Human Torch",
-  "url": "https://en.wikipedia.org/wiki/Human_Torch",
-  "realName": "Jonathan Lowell Spencer \"Johnny\" Storm",
+  "aliases": "The Torch, Invisible Man",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Fantastic Four",
-    "Future Foundation",
-    "Fantastic Force",
-    "Herald of Galactus",
-    "Fantastic Four Incorporated",
-    "Avengers Unity Division"
+  "image": {
+    "height": "213",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Human_Torch.png/250px-Human_Torch.png",
+    "width": "250"
+  },
+  "name": "Human Torch",
+  "pageviews": 58878,
+  "partners": [
   ],
-  "aliases": "The Torch, Invisible Man",
-  "species": [
-    "Human Mutate"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Skilled race-car driver",
     "auto-mechanic and designer",
@@ -29,10 +24,17 @@
     "Heat energy absorption",
     "Resistance to extreme heat"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Human_Torch.png/250px-Human_Torch.png",
-    "width": "250",
-    "height": "213"
-  },
-  "pageviews": 58878
+  "realName": "Jonathan Lowell Spencer \"Johnny\" Storm",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+    "Fantastic Four",
+    "Future Foundation",
+    "Fantastic Force",
+    "Herald of Galactus",
+    "Fantastic Four Incorporated",
+    "Avengers Unity Division"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Human_Torch"
 }

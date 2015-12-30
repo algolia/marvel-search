@@ -1,29 +1,31 @@
 {
-  "name": "Cyttorak",
-  "url": "https://en.wikipedia.org/wiki/Cyttorak",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby",
     "Alex Toth"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Demon"
-  ],
+  "image": {
+    "height": "207",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Cyttorak.jpg/250px-Cyttorak.jpg",
+    "width": "250"
+  },
+  "name": "Cyttorak",
+  "pageviews": 8824,
   "partners": [
     "Octessence",
     "Juggernaut"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Nearly unlimited mystical abilities."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Cyttorak.jpg/250px-Cyttorak.jpg",
-    "width": "250",
-    "height": "207"
-  },
-  "pageviews": 8824
+  "realName": null,
+  "species": [
+    "Demon"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cyttorak"
 }

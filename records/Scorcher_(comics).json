@@ -1,19 +1,17 @@
 {
-  "name": "Scorcher",
-  "url": "https://en.wikipedia.org/wiki/Scorcher_(comics)",
-  "realName": "Steven Hudak",
+  "aliases": "",
   "creators": [
     "Kurt Busiek",
     "Pat Olliffe"
   ],
-  "teams": [
-    "Masters of Evil",
-    "Sinister Six"
+  "image": {
+  },
+  "name": "Scorcher",
+  "pageviews": 1353,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Insulated battlesuit grants:",
     "Flamethrowers",
@@ -21,6 +19,12 @@
     "flame and physical injuries",
     "Flight via jet pack"
   ],
-  "image": {},
-  "pageviews": 1353
+  "realName": "Steven Hudak",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Sinister Six"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scorcher_(comics)"
 }

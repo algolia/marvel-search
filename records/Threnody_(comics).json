@@ -1,19 +1,18 @@
 {
-  "name": "Threnody",
-  "url": "https://en.wikipedia.org/wiki/Threnody_(comics)",
-  "realName": "Melody Jacobs",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Richard Bennett"
   ],
-  "teams": [
-    "Marauders"
+  "image": {
+    "height": "383",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Xman13.jpg/250px-Xman13.jpg",
+    "width": "250"
+  },
+  "name": "Threnody",
+  "pageviews": 1023,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Zombie"
   ],
@@ -21,10 +20,12 @@
     "Ability to  sense the dead or dying and absorb the necro-energy",
     "then use that to release a concussive blast or Zombie creation."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Xman13.jpg/250px-Xman13.jpg",
-    "width": "250",
-    "height": "383"
-  },
-  "pageviews": 1023
+  "realName": "Melody Jacobs",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Marauders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Threnody_(comics)"
 }

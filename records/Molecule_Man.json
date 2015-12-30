@@ -1,25 +1,28 @@
 {
-  "name": "Molecule Man",
-  "url": "https://en.wikipedia.org/wiki/Molecule_Man",
-  "realName": "Owen Reece",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "198",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Molecule_Man.jpg/250px-Molecule_Man.jpg",
+    "width": "250"
+  },
+  "name": "Molecule Man",
+  "pageviews": 13318,
   "partners": [
     "Volcana"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Trans-multiversal scale molecular and energy manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Molecule_Man.jpg/250px-Molecule_Man.jpg",
-    "width": "250",
-    "height": "198"
-  },
-  "pageviews": 13318
+  "realName": "Owen Reece",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Molecule_Man"
 }

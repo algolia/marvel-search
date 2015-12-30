@@ -1,26 +1,29 @@
 {
-  "name": "Bolivar Trask",
-  "url": "https://en.wikipedia.org/wiki/Bolivar_Trask",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "219",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/BolivarTrask_ByValentineDeLandro.png",
+    "width": "296"
+  },
+  "name": "Bolivar Trask",
+  "pageviews": 17856,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Genius-level intellect"
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "Sentinels",
     "Purifiers"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Genius-level intellect"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/BolivarTrask_ByValentineDeLandro.png",
-    "width": "296",
-    "height": "219"
-  },
-  "pageviews": 17856
+  "url": "https://en.wikipedia.org/wiki/Bolivar_Trask"
 }

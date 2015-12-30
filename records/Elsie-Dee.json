@@ -1,27 +1,30 @@
 {
-  "name": "Elsie-Dee",
-  "url": "https://en.wikipedia.org/wiki/Elsie-Dee",
-  "realName": "Elsie-Dee",
+  "aliases": "",
   "creators": [
     "Larry Hama",
     "Marc Silvestri"
   ],
-  "teams": [
-    "Reavers"
+  "image": {
+    "height": "211",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Albert_and_elsie.jpg/200px-Albert_and_elsie.jpg",
+    "width": "200"
+  },
+  "name": "Elsie-Dee",
+  "pageviews": 980,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman computational",
     "analytical",
     "creative reasoning and strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Albert_and_elsie.jpg/200px-Albert_and_elsie.jpg",
-    "width": "200",
-    "height": "211"
-  },
-  "pageviews": 980
+  "realName": "Elsie-Dee",
+  "species": [
+  ],
+  "teams": [
+    "Reavers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Elsie-Dee"
 }

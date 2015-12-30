@@ -1,26 +1,29 @@
 {
-  "name": "Unus the Untouchable",
-  "url": "https://en.wikipedia.org/wiki/Unus_the_Untouchable",
-  "realName": "Angelo \"Unus\" Unuscione; legally changed to Gunther Bain",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+  },
+  "name": "Unus the Untouchable",
+  "pageviews": 2789,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Powerless: ''Before''",
+    "Force field generation"
+  ],
+  "realName": "Angelo \"Unus\" Unuscione; legally changed to Gunther Bain",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Factor Three",
     "Brotherhood of Mutants",
     "Secret Empire"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Powerless: ''Before''",
-    "Force field generation"
-  ],
-  "image": {},
-  "pageviews": 2789
+  "url": "https://en.wikipedia.org/wiki/Unus_the_Untouchable"
 }

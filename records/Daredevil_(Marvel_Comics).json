@@ -1,22 +1,16 @@
 {
-  "name": "Daredevil",
-  "url": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics)",
-  "realName": "Matthew Michael \"Matt\" Murdock",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Bill Everett"
   ],
-  "teams": [
-    "S.H.I.E.L.D.",
-    "The Chaste",
-    "Defenders",
-    "The Hand",
-    "New Avengers"
-  ],
-  "aliases": "",
-  "species": [
-    "Human Mutate"
-  ],
+  "image": {
+    "height": "370",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Daredevil_65.jpg/250px-Daredevil_65.jpg",
+    "width": "250"
+  },
+  "name": "Daredevil",
+  "pageviews": 184323,
   "partners": [
     "Black Widow",
     "Elektra"
@@ -30,10 +24,16 @@
     "Superhuman senses",
     "Utilization of specially-designed club"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Daredevil_65.jpg/250px-Daredevil_65.jpg",
-    "width": "250",
-    "height": "370"
-  },
-  "pageviews": 184323
+  "realName": "Matthew Michael \"Matt\" Murdock",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "The Chaste",
+    "Defenders",
+    "The Hand",
+    "New Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics)"
 }

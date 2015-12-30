@@ -1,18 +1,18 @@
 {
-  "name": "Barney Barton",
-  "url": "https://en.wikipedia.org/wiki/Barney_Barton",
-  "realName": "Charles Bernard \"Barney\" Barton",
+  "aliases": "Trickshot, Hawkeye",
   "creators": [
     "Roy Thomas",
     "Gene Colan"
   ],
-  "teams": [
-    "Dark Avengers",
-    "Federal Bureau of Investigation"
+  "image": {
+    "height": "483",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b5/Barney_Barton.jpg",
+    "width": "253"
+  },
+  "name": "Barney Barton",
+  "pageviews": 4612,
+  "partners": [
   ],
-  "aliases": "Trickshot, Hawkeye",
-  "species": [],
-  "partners": [],
   "powers": [
     "trick arrows"
   ],
@@ -23,10 +23,12 @@
     "Skilled hand to hand combatant",
     "Exceptional athlete"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/b5/Barney_Barton.jpg",
-    "width": "253",
-    "height": "483"
-  },
-  "pageviews": 4612
+  "realName": "Charles Bernard \"Barney\" Barton",
+  "species": [
+  ],
+  "teams": [
+    "Dark Avengers",
+    "Federal Bureau of Investigation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Barney_Barton"
 }

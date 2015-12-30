@@ -1,30 +1,18 @@
 {
-  "name": "Iron Man",
-  "url": "https://en.wikipedia.org/wiki/Iron_Man",
-  "realName": "Anthony \"Tony\" Edward Stark",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Larry Lieber",
     "Don Heck",
     "Jack Kirby"
   ],
-  "teams": [
-    "Avengers",
-    "Department of Defense",
-    "Force Works",
-    "New Avengers",
-    "Guardians of the Galaxy",
-    "Illuminati",
-    "The Mighty Avengers",
-    "S.H.I.E.L.D.",
-    "Stark Industries",
-    "Thunderbolts",
-    "West Coast Avengers"
-  ],
-  "aliases": "",
-  "species": [
-    "Human"
-  ],
+  "image": {
+    "height": "313",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Iron_Man_bleeding_edge.jpg/250px-Iron_Man_bleeding_edge.jpg",
+    "width": "250"
+  },
+  "name": "Iron Man",
+  "pageviews": 273155,
   "partners": [
     "War Machine",
     "Rescue"
@@ -54,10 +42,22 @@
     "Missiles",
     "Regenerative life support (sometimes powered by solar power)"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Iron_Man_bleeding_edge.jpg/250px-Iron_Man_bleeding_edge.jpg",
-    "width": "250",
-    "height": "313"
-  },
-  "pageviews": 273155
+  "realName": "Anthony \"Tony\" Edward Stark",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+    "Avengers",
+    "Department of Defense",
+    "Force Works",
+    "New Avengers",
+    "Guardians of the Galaxy",
+    "Illuminati",
+    "The Mighty Avengers",
+    "S.H.I.E.L.D.",
+    "Stark Industries",
+    "Thunderbolts",
+    "West Coast Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Iron_Man"
 }

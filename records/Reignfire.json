@@ -1,19 +1,17 @@
 {
-  "name": "Reignfire",
-  "url": "https://en.wikipedia.org/wiki/Reignfire",
-  "realName": null,
+  "aliases": "Sunspot , Project Nineteen",
   "creators": [
     "Fabian Nicieza"
   ],
-  "teams": [
-    "Mutant Liberation Front"
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Xforce43.jpg/250px-Xforce43.jpg",
+    "width": "250"
+  },
+  "name": "Reignfire",
+  "pageviews": 1057,
+  "partners": [
   ],
-  "aliases": "Sunspot , Project Nineteen",
-  "species": [
-    "Human Mutant",
-    "clone"
-  ],
-  "partners": [],
   "powers": [
     "telepathic link"
   ],
@@ -24,10 +22,13 @@
     "Projection of heat and light as concussive blasts or in a stream of fiery rain",
     "forge a telepathic link with genetic host."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Xforce43.jpg/250px-Xforce43.jpg",
-    "width": "250",
-    "height": "388"
-  },
-  "pageviews": 1057
+  "realName": null,
+  "species": [
+    "Human Mutant",
+    "clone"
+  ],
+  "teams": [
+    "Mutant Liberation Front"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Reignfire"
 }

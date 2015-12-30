@@ -1,20 +1,20 @@
 {
-  "name": "Sugar Man",
-  "url": "https://en.wikipedia.org/wiki/Sugar_Man",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "Chris Bachalo"
   ],
-  "teams": [
-    "Age of Apocalypse"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sugarman_marvel.jpg/249px-Sugarman_marvel.jpg",
+    "width": "249"
+  },
+  "name": "Sugar Man",
+  "pageviews": 5464,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Expert biologist and geneticist",
     "Superhuman strength",
@@ -25,10 +25,12 @@
     "Enhanced sense of smell",
     "Ability to alter body mass and size"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sugarman_marvel.jpg/249px-Sugarman_marvel.jpg",
-    "width": "249",
-    "height": "378"
-  },
-  "pageviews": 5464
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Age of Apocalypse"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sugar_Man"
 }

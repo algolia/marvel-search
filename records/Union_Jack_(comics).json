@@ -1,20 +1,20 @@
 {
-  "name": "Union Jack",
-  "url": "https://en.wikipedia.org/wiki/Union_Jack_(comics)",
-  "realName": null,
+  "aliases": "(Brian)<br>The Mighty Destroyer",
   "creators": [
     "Roy Thomas",
     "Frank Robbins"
   ],
-  "teams": [
-    "Invaders",
-    "British army",
-    "Freedom's Five"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/UNION_JACK_1.jpg/250px-UNION_JACK_1.jpg",
+    "width": "250"
+  },
+  "name": "Union Jack",
+  "pageviews": 9391,
+  "partners": [
   ],
-  "aliases": "(Brian)<br>The Mighty Destroyer",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(James)",
     "Superb athlete",
@@ -27,10 +27,13 @@
     "expert hand-to-hand combatant",
     "ability to project bolts of magical lightning"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/UNION_JACK_1.jpg/250px-UNION_JACK_1.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 9391
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Invaders",
+    "British army",
+    "Freedom's Five"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Union_Jack_(comics)"
 }

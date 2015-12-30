@@ -1,18 +1,18 @@
 {
-  "name": "Nimrod",
-  "url": "https://en.wikipedia.org/wiki/Nimrod_(comics)",
-  "realName": null,
+  "aliases": "Nicholas Hunter, Oracle, Rod Walker",
   "creators": [
     "Chris Claremont",
     "John Romita, Jr."
   ],
-  "teams": [
-    "Purifiers",
-    "Sentinels"
+  "image": {
+    "height": "265",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Nimrodxmen.PNG/250px-Nimrodxmen.PNG",
+    "width": "250"
+  },
+  "name": "Nimrod",
+  "pageviews": 8720,
+  "partners": [
   ],
-  "aliases": "Nicholas Hunter, Oracle, Rod Walker",
-  "species": [],
-  "partners": [],
   "powers": [
     "Shapeshifting",
     "Teleportation"
@@ -25,10 +25,12 @@
     "Shapeshifting",
     "Teleportation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Nimrodxmen.PNG/250px-Nimrodxmen.PNG",
-    "width": "250",
-    "height": "265"
-  },
-  "pageviews": 8720
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Purifiers",
+    "Sentinels"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nimrod_(comics)"
 }

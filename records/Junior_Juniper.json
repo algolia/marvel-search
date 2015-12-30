@@ -1,23 +1,27 @@
 {
-  "name": "Junior Juniper",
-  "url": "https://en.wikipedia.org/wiki/Junior_Juniper",
-  "realName": "Jonathan Juniper",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
+  "image": {
+    "height": "307",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Juniper_Junior_Howling_Commandos_1.jpg/180px-Juniper_Junior_Howling_Commandos_1.jpg",
+    "width": "180"
+  },
+  "name": "Junior Juniper",
+  "pageviews": 1671,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Jonathan Juniper",
+  "species": [
+  ],
   "teams": [
     "Howling Commandos"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Juniper_Junior_Howling_Commandos_1.jpg/180px-Juniper_Junior_Howling_Commandos_1.jpg",
-    "width": "180",
-    "height": "307"
-  },
-  "pageviews": 1671
+  "url": "https://en.wikipedia.org/wiki/Junior_Juniper"
 }

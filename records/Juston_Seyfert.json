@@ -1,14 +1,13 @@
 {
-  "name": "Juston Seyfert",
-  "url": "https://en.wikipedia.org/wiki/Juston_Seyfert",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "Avengers Academy"
-  ],
   "aliases": "",
-  "species": [],
-  "partners": [],
+  "creators": [
+  ],
+  "image": {
+  },
+  "name": "Juston Seyfert",
+  "pageviews": 1066,
+  "partners": [
+  ],
   "powers": [
     "mechanic",
     "programmer"
@@ -16,6 +15,11 @@
   "powersText": [
     "Gifted mechanic and programmer"
   ],
-  "image": {},
-  "pageviews": 1066
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Avengers Academy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Juston_Seyfert"
 }

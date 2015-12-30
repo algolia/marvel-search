@@ -1,16 +1,17 @@
 {
-  "name": "Spore",
-  "url": "https://en.wikipedia.org/wiki/Spore_(comics)",
-  "realName": "Spore",
+  "aliases": "",
   "creators": [
     "Archie Goodwin",
     "John Byrne"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Spore",
+  "pageviews": 544,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Super strength",
     "stamina",
@@ -19,6 +20,10 @@
     "Chemical Secretion",
     "Matter Absorption"
   ],
-  "image": {},
-  "pageviews": 544
+  "realName": "Spore",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spore_(comics)"
 }

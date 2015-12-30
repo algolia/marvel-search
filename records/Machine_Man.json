@@ -1,22 +1,17 @@
 {
-  "name": "Machine Man",
-  "url": "https://en.wikipedia.org/wiki/Machine_Man",
-  "realName": null,
+  "aliases": "X-51, Mister Machine",
   "creators": [
     "Jack Kirby"
   ],
-  "teams": [
-    "S.H.I.E.L.D.",
-    "Secret Avengers (Civil War)",
-    "Nextwave",
-    "Avengers",
-    "West Coast Avengers",
-    "Heavy Metal",
-    "A.R.M.O.R."
+  "image": {
+    "height": "372",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Machineman.PNG/250px-Machineman.PNG",
+    "width": "250"
+  },
+  "name": "Machine Man",
+  "pageviews": 9212,
+  "partners": [
   ],
-  "aliases": "X-51, Mister Machine",
-  "species": [],
-  "partners": [],
   "powers": [
     "anti-gravity"
   ],
@@ -30,10 +25,17 @@
     "Flight by usage of anti-gravity disks",
     "Various installed weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Machineman.PNG/250px-Machineman.PNG",
-    "width": "250",
-    "height": "372"
-  },
-  "pageviews": 9212
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Secret Avengers (Civil War)",
+    "Nextwave",
+    "Avengers",
+    "West Coast Avengers",
+    "Heavy Metal",
+    "A.R.M.O.R."
+  ],
+  "url": "https://en.wikipedia.org/wiki/Machine_Man"
 }

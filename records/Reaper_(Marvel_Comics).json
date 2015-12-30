@@ -1,10 +1,26 @@
 {
-  "name": "Reaper",
-  "url": "https://en.wikipedia.org/wiki/Reaper_(Marvel_Comics)",
-  "realName": "Pantu Hurageb",
+  "aliases": "",
   "creators": [
     "Rob Liefeld",
     "Louise Simonson"
+  ],
+  "image": {
+  },
+  "name": "Reaper",
+  "pageviews": 1579,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Generates neurosynaptic energy causing slowness",
+    "paralysis",
+    "and nerve damage",
+    "which he can channel through his scythes. Cybernetic hands and leg."
+  ],
+  "realName": "Pantu Hurageb",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Cell",
@@ -12,18 +28,5 @@
     "All-New Exiles",
     "Weapon X"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Generates neurosynaptic energy causing slowness",
-    "paralysis",
-    "and nerve damage",
-    "which he can channel through his scythes. Cybernetic hands and leg."
-  ],
-  "image": {},
-  "pageviews": 1579
+  "url": "https://en.wikipedia.org/wiki/Reaper_(Marvel_Comics)"
 }

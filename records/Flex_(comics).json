@@ -1,25 +1,28 @@
 {
-  "name": "Flex",
-  "url": "https://en.wikipedia.org/wiki/Flex_(comics)",
-  "realName": "Adrian Corbo",
+  "aliases": "",
   "creators": [
     "Steven T. Seagle",
     "Anthony Winn"
+  ],
+  "image": {
+  },
+  "name": "Flex",
+  "pageviews": 518,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to transmute limbs into razor sharp weapons"
+  ],
+  "realName": "Adrian Corbo",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Department H",
     "Beta Flight",
     "Alpha Flight"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to transmute limbs into razor sharp weapons"
-  ],
-  "image": {},
-  "pageviews": 518
+  "url": "https://en.wikipedia.org/wiki/Flex_(comics)"
 }

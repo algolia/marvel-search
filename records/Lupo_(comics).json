@@ -1,23 +1,26 @@
 {
-  "name": "Lupo",
-  "url": "https://en.wikipedia.org/wiki/Lupo_(comics)",
-  "realName": null,
+  "aliases": "Timberius",
   "creators": [
     "Roy Thomas",
     "Neal Adams"
   ],
-  "teams": [
-    "Savage Land Mutates"
+  "image": {
+  },
+  "name": "Lupo",
+  "pageviews": 346,
+  "partners": [
   ],
-  "aliases": "Timberius",
-  "species": [
-    "Savage Land Mutate"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Psionically command animals (notably wolves)"
   ],
-  "image": {},
-  "pageviews": 346
+  "realName": null,
+  "species": [
+    "Savage Land Mutate"
+  ],
+  "teams": [
+    "Savage Land Mutates"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lupo_(comics)"
 }

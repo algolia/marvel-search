@@ -1,17 +1,18 @@
 {
-  "name": "Champion of the Universe",
-  "url": "https://en.wikipedia.org/wiki/Champion_of_the_Universe",
-  "realName": "Tryco Slatterus",
+  "aliases": "Fallen One, Championpool",
   "creators": [
     "Tom DeFalco",
     "Ron Wilson"
   ],
-  "teams": [
-    "Elders of the Universe"
+  "image": {
+    "height": "374",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Champion1.png/250px-Champion1.png",
+    "width": "250"
+  },
+  "name": "Champion of the Universe",
+  "pageviews": 7410,
+  "partners": [
   ],
-  "aliases": "Fallen One, Championpool",
-  "species": [],
-  "partners": [],
   "powers": [
     "Invulnerability",
     "martial arts"
@@ -23,10 +24,11 @@
     "Invulnerability",
     "Master of countless fighting styles and martial arts forms"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Champion1.png/250px-Champion1.png",
-    "width": "250",
-    "height": "374"
-  },
-  "pageviews": 7410
+  "realName": "Tryco Slatterus",
+  "species": [
+  ],
+  "teams": [
+    "Elders of the Universe"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Champion_of_the_Universe"
 }

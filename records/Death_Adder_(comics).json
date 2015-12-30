@@ -1,29 +1,32 @@
 {
-  "name": "Death Adder",
-  "url": "https://en.wikipedia.org/wiki/Death_Adder_(comics)",
-  "realName": "Roland Burroughs",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Ralph Macchio"
+  ],
+  "image": {
+    "height": "309",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Death_adder_2.jpg/150px-Death_adder_2.jpg",
+    "width": "150"
+  },
+  "name": "Death Adder",
+  "pageviews": 1971,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Bionic tail with spikes",
+    "Poison-tipped talons",
+    "Ability to breathe underwater"
+  ],
+  "realName": "Roland Burroughs",
+  "species": [
   ],
   "teams": [
     "Serpent Society",
     "Serpent Squad",
     "Savage Six"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Bionic tail with spikes",
-    "Poison-tipped talons",
-    "Ability to breathe underwater"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Death_adder_2.jpg/150px-Death_adder_2.jpg",
-    "width": "150",
-    "height": "309"
-  },
-  "pageviews": 1971
+  "url": "https://en.wikipedia.org/wiki/Death_Adder_(comics)"
 }

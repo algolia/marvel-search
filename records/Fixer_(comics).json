@@ -1,10 +1,27 @@
 {
-  "name": "Fixer",
-  "url": "https://en.wikipedia.org/wiki/Fixer_(comics)",
-  "realName": "Paul Norbert Ebersol",
+  "aliases": "Mr. Fix, Techno, Ogre",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "425",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Fixer_%28comics%29.png/250px-Fixer_%28comics%29.png",
+    "width": "250"
+  },
+  "name": "Fixer",
+  "pageviews": 4125,
+  "partners": [
+    "Mentallo"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Electronics and mechanical genius",
+    "Robotic body"
+  ],
+  "realName": "Paul Norbert Ebersol",
+  "species": [
   ],
   "teams": [
     "Advanced Idea Mechanics",
@@ -15,20 +32,5 @@
     "Redeemers",
     "Thunderbolts"
   ],
-  "aliases": "Mr. Fix, Techno, Ogre",
-  "species": [],
-  "partners": [
-    "Mentallo"
-  ],
-  "powers": [],
-  "powersText": [
-    "Electronics and mechanical genius",
-    "Robotic body"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Fixer_%28comics%29.png/250px-Fixer_%28comics%29.png",
-    "width": "250",
-    "height": "425"
-  },
-  "pageviews": 4125
+  "url": "https://en.wikipedia.org/wiki/Fixer_(comics)"
 }

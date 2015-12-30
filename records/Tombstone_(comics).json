@@ -1,20 +1,20 @@
 {
-  "name": "Tombstone",
-  "url": "https://en.wikipedia.org/wiki/Tombstone_(comics)",
-  "realName": "Lonnie Thompson Lincoln",
+  "aliases": "Lonnie Tombstone",
   "creators": [
     "Gerry Conway",
     "Alex Saviuk"
   ],
-  "teams": [
-    "The Hand",
-    "Sinister Twelve",
-    "Hardcore"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Tombstone_comic.jpg",
+    "width": "250"
+  },
+  "name": "Tombstone",
+  "pageviews": 8139,
+  "partners": [
   ],
-  "aliases": "Lonnie Tombstone",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Excellent street fighter",
     "Highly skilled marksman",
@@ -24,10 +24,13 @@
     "High-level resistance to injury",
     "Razor sharp teeth"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Tombstone_comic.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 8139
+  "realName": "Lonnie Thompson Lincoln",
+  "species": [
+  ],
+  "teams": [
+    "The Hand",
+    "Sinister Twelve",
+    "Hardcore"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tombstone_(comics)"
 }

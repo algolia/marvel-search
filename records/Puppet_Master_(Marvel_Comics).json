@@ -1,14 +1,16 @@
 {
-  "name": "Puppet Master",
-  "url": "https://en.wikipedia.org/wiki/Puppet_Master_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "301",
+    "url": "https://upload.wikimedia.org/wikipedia/en/e/e2/Puppet_Master_comic.jpg",
+    "width": "250"
+  },
+  "name": "Puppet Master",
+  "pageviews": 4154,
   "partners": [
     "Mad Thinker",
     "Alicia Masters",
@@ -17,16 +19,17 @@
     "Doctor Doom",
     "Egghead"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius-level intellect",
     "Extremely talented craftsman",
     "Ability to construct dolls with radioactive clay which to physically control people"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/e2/Puppet_Master_comic.jpg",
-    "width": "250",
-    "height": "301"
-  },
-  "pageviews": 4154
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Puppet_Master_(Marvel_Comics)"
 }

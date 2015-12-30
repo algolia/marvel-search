@@ -1,17 +1,17 @@
 {
-  "name": "Ikaris",
-  "url": "https://en.wikipedia.org/wiki/Ikaris",
-  "realName": "Ikaris",
+  "aliases": "\"Iceberg\" Ike Harris, Sovereign, Isaac \"Ike\" Harris, Daedalus",
   "creators": [
     "Jack Kirby"
   ],
-  "teams": [
-    "Eternals",
-    "UCWF"
+  "image": {
+    "height": "372",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Eternals_v4.jpg/250px-Eternals_v4.jpg",
+    "width": "250"
+  },
+  "name": "Ikaris",
+  "pageviews": 3787,
+  "partners": [
   ],
-  "aliases": "\"Iceberg\" Ike Harris, Sovereign, Isaac \"Ike\" Harris, Daedalus",
-  "species": [],
-  "partners": [],
   "powers": [
     "healing factor"
   ],
@@ -28,10 +28,12 @@
     "Matter transmutation",
     "Teleportation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Eternals_v4.jpg/250px-Eternals_v4.jpg",
-    "width": "250",
-    "height": "372"
-  },
-  "pageviews": 3787
+  "realName": "Ikaris",
+  "species": [
+  ],
+  "teams": [
+    "Eternals",
+    "UCWF"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ikaris"
 }

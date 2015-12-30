@@ -1,22 +1,26 @@
 {
-  "name": "Feron",
-  "url": "https://en.wikipedia.org/wiki/Feron",
-  "realName": "Feron",
+  "aliases": "Executioner",
   "creators": [
     "Alan Davis"
+  ],
+  "image": {
+  },
+  "name": "Feron",
+  "pageviews": 2221,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Magic user",
+    "Levitation"
+  ],
+  "realName": "Feron",
+  "species": [
   ],
   "teams": [
     "Excalibur",
     "The Crazy Gang"
   ],
-  "aliases": "Executioner",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Magic user",
-    "Levitation"
-  ],
-  "image": {},
-  "pageviews": 2221
+  "url": "https://en.wikipedia.org/wiki/Feron"
 }

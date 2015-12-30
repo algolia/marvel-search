@@ -1,18 +1,22 @@
 {
-  "name": "Kraven the Hunter",
-  "url": "https://en.wikipedia.org/wiki/Kraven_the_Hunter_(Ana_Kravinoff)",
-  "realName": "Anastasia \"Ana\" Tatiana Kravinoff",
+  "aliases": "",
   "creators": [
     "Marc Guggenheim",
     "Joe Kelly",
     "Mike McKone",
     "Phil Jimenez"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "303",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Ana_Tatiana_Kravinoff.jpg/200px-Ana_Tatiana_Kravinoff.jpg",
+    "width": "200"
+  },
+  "name": "Kraven the Hunter",
+  "pageviews": 1601,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Expert martial artist and tracker",
     "Brilliant intellect",
@@ -20,10 +24,10 @@
     "Good medical knowledge",
     "Use of various weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Ana_Tatiana_Kravinoff.jpg/200px-Ana_Tatiana_Kravinoff.jpg",
-    "width": "200",
-    "height": "303"
-  },
-  "pageviews": 1601
+  "realName": "Anastasia \"Ana\" Tatiana Kravinoff",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kraven_the_Hunter_(Ana_Kravinoff)"
 }

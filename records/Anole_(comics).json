@@ -1,25 +1,18 @@
 {
-  "name": "Anole",
-  "url": "https://en.wikipedia.org/wiki/Anole_(comics)",
-  "realName": "Victor \"Vic\" Borkowski",
+  "aliases": "",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir"
   ],
-  "teams": [
-    "Alpha Squadron training squad",
-    "New X-Men",
-    "Xavier Institute",
-    "X-Men-In-Training",
-    "Young X-Men",
-    "Jean Grey School Students",
-    "X-Men"
+  "image": {
+    "height": "401",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Anole23.jpg/250px-Anole23.jpg",
+    "width": "250"
+  },
+  "name": "Anole",
+  "pageviews": 3935,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Wallcrawling"
   ],
@@ -37,10 +30,18 @@
     "Regeneration",
     "Camouflage"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Anole23.jpg/250px-Anole23.jpg",
-    "width": "250",
-    "height": "401"
-  },
-  "pageviews": 3935
+  "realName": "Victor \"Vic\" Borkowski",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Alpha Squadron training squad",
+    "New X-Men",
+    "Xavier Institute",
+    "X-Men-In-Training",
+    "Young X-Men",
+    "Jean Grey School Students",
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Anole_(comics)"
 }

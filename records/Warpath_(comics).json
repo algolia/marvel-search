@@ -1,24 +1,20 @@
 {
-  "name": "Warpath",
-  "url": "https://en.wikipedia.org/wiki/Warpath_(comics)",
-  "realName": "James Jonathan Proudstar",
+  "aliases": "Thunderbird, Running Sun",
   "creators": [
     "Chris Claremont",
     "Sal Buscema"
   ],
-  "teams": [
-    "X-Men",
-    "X-Force",
-    "Hellions",
-    "New Mutants",
-    "X-Corporation"
+  "image": {
+    "height": "341",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Warxforce.jpg/250px-Warxforce.jpg",
+    "width": "250"
+  },
+  "name": "Warpath",
+  "pageviews": 21931,
+  "partners": [
   ],
-  "aliases": "Thunderbird, Running Sun",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Trained armed/unarmed combatant",
     "Skilled hunter and tracker",
@@ -33,10 +29,16 @@
     "Flight",
     "Regenerative healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Warxforce.jpg/250px-Warxforce.jpg",
-    "width": "250",
-    "height": "341"
-  },
-  "pageviews": 21931
+  "realName": "James Jonathan Proudstar",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men",
+    "X-Force",
+    "Hellions",
+    "New Mutants",
+    "X-Corporation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Warpath_(comics)"
 }

@@ -1,26 +1,29 @@
 {
-  "name": "Coachwhip",
-  "url": "https://en.wikipedia.org/wiki/Coachwhip_(comics)",
-  "realName": "Beatrix Keener",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Kieron Dwyer"
   ],
-  "teams": [
-    "Serpent Society"
+  "image": {
+    "height": "370",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Coachwhip1.jpg",
+    "width": "250"
+  },
+  "name": "Coachwhip",
+  "pageviews": 851,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Wields electrically-charged steel link whips attached to wristbands",
     "Wears a polarized strip of material which protects her eyes from bright light"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Coachwhip1.jpg",
-    "width": "250",
-    "height": "370"
-  },
-  "pageviews": 851
+  "realName": "Beatrix Keener",
+  "species": [
+  ],
+  "teams": [
+    "Serpent Society"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Coachwhip_(comics)"
 }

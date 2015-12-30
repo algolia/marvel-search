@@ -1,18 +1,18 @@
 {
-  "name": "Captain Midlands",
-  "url": "https://en.wikipedia.org/wiki/Captain_Midlands",
-  "realName": "Sid Ridley",
+  "aliases": "",
   "creators": [
     "Paul Cornell",
     "Trevor Hairsine"
   ],
-  "teams": [
-    "MI-13",
-    "British Army"
+  "image": {
+    "height": "288",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/CaptainMidlands.png",
+    "width": "250"
+  },
+  "name": "Captain Midlands",
+  "pageviews": 946,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "martial artist",
     "tactician",
@@ -25,10 +25,12 @@
     "Master tactician and field commander",
     "Circular shield with anti-magic gloss"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/CaptainMidlands.png",
-    "width": "250",
-    "height": "288"
-  },
-  "pageviews": 946
+  "realName": "Sid Ridley",
+  "species": [
+  ],
+  "teams": [
+    "MI-13",
+    "British Army"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Captain_Midlands"
 }

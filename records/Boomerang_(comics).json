@@ -1,10 +1,31 @@
 {
-  "name": "Boomerang",
-  "url": "https://en.wikipedia.org/wiki/Boomerang_(comics)",
-  "realName": "Frederick \"Fred\" Myers",
+  "aliases": "Boomer, Fred Slade, Outback",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Spideyboomerang.jpg/250px-Spideyboomerang.jpg",
+    "width": "250"
+  },
+  "name": "Boomerang",
+  "pageviews": 6707,
+  "partners": [
+    "Viper",
+    "Silver Samurai",
+    "Kingpin"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "World-class baseball pitcher",
+    "Skilled marksman and street fighter",
+    "Wields variety of lethal and gimmicked boomerangs",
+    "Flight via jet boots"
+  ],
+  "realName": "Frederick \"Fred\" Myers",
+  "species": [
   ],
   "teams": [
     "Sinister Syndicate",
@@ -15,24 +36,5 @@
     "Sinister Six",
     "Sinister Sixteen"
   ],
-  "aliases": "Boomer, Fred Slade, Outback",
-  "species": [],
-  "partners": [
-    "Viper",
-    "Silver Samurai",
-    "Kingpin"
-  ],
-  "powers": [],
-  "powersText": [
-    "World-class baseball pitcher",
-    "Skilled marksman and street fighter",
-    "Wields variety of lethal and gimmicked boomerangs",
-    "Flight via jet boots"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Spideyboomerang.jpg/250px-Spideyboomerang.jpg",
-    "width": "250",
-    "height": "382"
-  },
-  "pageviews": 6707
+  "url": "https://en.wikipedia.org/wiki/Boomerang_(comics)"
 }

@@ -1,26 +1,16 @@
 {
-  "name": "Hawkeye",
-  "url": "https://en.wikipedia.org/wiki/Hawkeye_(comics)",
-  "realName": "Clinton Francis \"Clint\" Barton",
+  "aliases": "Captain America Golden Archer Goliath Ronin",
   "creators": [
     "Stan Lee",
     "Don Heck"
   ],
-  "teams": [
-    "Avengers",
-    "Avengers Academy",
-    "Defenders",
-    "Great Lakes Avengers",
-    "New Avengers",
-    "Secret Avengers",
-    "Thunderbolts",
-    "West Coast Avengers",
-    "Wild Pack",
-    "World Counter-terrorism Agency",
-    "Avengers Idea Mechanics"
-  ],
-  "aliases": "Captain America Golden Archer Goliath Ronin",
-  "species": [],
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/H-5.jpg/250px-H-5.jpg",
+    "width": "250"
+  },
+  "name": "Hawkeye",
+  "pageviews": 101042,
   "partners": [
     "Black Widow",
     "Mockingbird",
@@ -40,10 +30,21 @@
     "Superhuman strength and durability",
     "Size and mass manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/H-5.jpg/250px-H-5.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 101042
+  "realName": "Clinton Francis \"Clint\" Barton",
+  "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "Avengers Academy",
+    "Defenders",
+    "Great Lakes Avengers",
+    "New Avengers",
+    "Secret Avengers",
+    "Thunderbolts",
+    "West Coast Avengers",
+    "Wild Pack",
+    "World Counter-terrorism Agency",
+    "Avengers Idea Mechanics"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hawkeye_(comics)"
 }

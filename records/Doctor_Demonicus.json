@@ -1,25 +1,28 @@
 {
-  "name": "Doctor Demonicus",
-  "url": "https://en.wikipedia.org/wiki/Doctor_Demonicus",
-  "realName": "Douglas Birely",
+  "aliases": "",
   "creators": [
     "Doug Moench",
     "Tom Sutton"
   ],
-  "teams": [
-    "Pacific Overlords"
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Dr._demonicus.jpg/249px-Dr._demonicus.jpg",
+    "width": "249"
+  },
+  "name": "Doctor Demonicus",
+  "pageviews": 625,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Scientific genius"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Dr._demonicus.jpg/249px-Dr._demonicus.jpg",
-    "width": "249",
-    "height": "377"
-  },
-  "pageviews": 625
+  "realName": "Douglas Birely",
+  "species": [
+  ],
+  "teams": [
+    "Pacific Overlords"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Doctor_Demonicus"
 }

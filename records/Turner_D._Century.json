@@ -1,26 +1,30 @@
 {
-  "name": "Turner D. Century",
-  "url": "https://en.wikipedia.org/wiki/Turner_D._Century",
-  "realName": "Clifford F. Michaels",
+  "aliases": "",
   "creators": [
     "J.M. DeMatteis",
     "Steve Leialoha"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "339",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/48/Turnerdcentury.jpg",
+    "width": "150"
+  },
+  "name": "Turner D. Century",
+  "pageviews": 899,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "None:",
     "Flame-throwing umbrella",
     "Flying bicycle",
     "Magic horn that kills people under age 65"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/48/Turnerdcentury.jpg",
-    "width": "150",
-    "height": "339"
-  },
-  "pageviews": 899
+  "realName": "Clifford F. Michaels",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Turner_D._Century"
 }

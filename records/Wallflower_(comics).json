@@ -1,25 +1,28 @@
 {
-  "name": "Wallflower",
-  "url": "https://en.wikipedia.org/wiki/Wallflower_(comics)",
-  "realName": "Laurie Collins",
+  "aliases": "",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir",
     "Keron Grant"
   ],
+  "image": {
+  },
+  "name": "Wallflower",
+  "pageviews": 2769,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Pheromone manipulation"
+  ],
+  "realName": "Laurie Collins",
+  "species": [
+    "Human Mutant"
+  ],
   "teams": [
     "New Mutants training squad",
     "Xavier Institute"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Pheromone manipulation"
-  ],
-  "image": {},
-  "pageviews": 2769
+  "url": "https://en.wikipedia.org/wiki/Wallflower_(comics)"
 }

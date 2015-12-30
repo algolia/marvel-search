@@ -1,20 +1,21 @@
 {
-  "name": "Human Fly",
-  "url": "https://en.wikipedia.org/wiki/Human_Fly_(comics)",
-  "realName": "Richard Deacon",
+  "aliases": "Fly",
   "creators": [
     "Len Wein",
     "Bill Mantlo",
     "Gil Kane"
   ],
-  "teams": [
-    "Savage Six",
-    "Sinister Sixteen"
+  "image": {
+    "height": "372",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Amazing_Spider-Man_Annual_10.jpg/250px-Amazing_Spider-Man_Annual_10.jpg",
+    "width": "250"
+  },
+  "name": "Human Fly",
+  "pageviews": 2736,
+  "partners": [
   ],
-  "aliases": "Fly",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and agility",
     "Flight via sharp wings",
@@ -22,10 +23,12 @@
     "Compound eyes",
     "Acid vomit"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Amazing_Spider-Man_Annual_10.jpg/250px-Amazing_Spider-Man_Annual_10.jpg",
-    "width": "250",
-    "height": "372"
-  },
-  "pageviews": 2736
+  "realName": "Richard Deacon",
+  "species": [
+  ],
+  "teams": [
+    "Savage Six",
+    "Sinister Sixteen"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Human_Fly_(comics)"
 }

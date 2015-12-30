@@ -1,24 +1,27 @@
 {
-  "name": "Morrat",
-  "url": "https://en.wikipedia.org/wiki/Morrat",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby",
     "Chic Stone"
   ],
-  "teams": [
-    "Skrull"
+  "image": {
+  },
+  "name": "Morrat",
+  "pageviews": 632,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Skrull"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Shapeshifting"
   ],
-  "image": {},
-  "pageviews": 632
+  "realName": null,
+  "species": [
+    "Skrull"
+  ],
+  "teams": [
+    "Skrull"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Morrat"
 }

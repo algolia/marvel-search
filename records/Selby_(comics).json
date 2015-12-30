@@ -1,22 +1,25 @@
 {
-  "name": "Selby",
-  "url": "https://en.wikipedia.org/wiki/Selby_(comics)",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "Mutant Liberation Front"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
+  "image": {
+  },
+  "name": "Selby",
+  "pageviews": 273,
+  "partners": [
+  ],
   "powers": [
     "binary"
   ],
   "powersText": [
     "intuitive understanding of binary language"
   ],
-  "image": {},
-  "pageviews": 273
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Mutant Liberation Front"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Selby_(comics)"
 }

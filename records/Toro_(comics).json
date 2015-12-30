@@ -1,9 +1,27 @@
 {
-  "name": "Toro",
-  "url": "https://en.wikipedia.org/wiki/Toro_(comics)",
-  "realName": "Thomas Raymond",
+  "aliases": "The Flaming Kid, Human Torch",
   "creators": [
     "Carl Burgos"
+  ],
+  "image": {
+    "height": "341",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Toro-comics.jpg/250px-Toro-comics.jpg",
+    "width": "250"
+  },
+  "name": "Toro",
+  "pageviews": 3956,
+  "partners": [
+    "Human Torch"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Fire manipulation and resistance",
+    "Flight"
+  ],
+  "realName": "Thomas Raymond",
+  "species": [
+    "Inhuman"
   ],
   "teams": [
     "The Invaders",
@@ -12,22 +30,5 @@
     "All-Winners Squad",
     "Legion of the Unliving"
   ],
-  "aliases": "The Flaming Kid, Human Torch",
-  "species": [
-    "Inhuman"
-  ],
-  "partners": [
-    "Human Torch"
-  ],
-  "powers": [],
-  "powersText": [
-    "Fire manipulation and resistance",
-    "Flight"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Toro-comics.jpg/250px-Toro-comics.jpg",
-    "width": "250",
-    "height": "341"
-  },
-  "pageviews": 3956
+  "url": "https://en.wikipedia.org/wiki/Toro_(comics)"
 }

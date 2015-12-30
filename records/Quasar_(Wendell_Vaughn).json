@@ -1,11 +1,29 @@
 {
-  "name": "Quasar",
-  "url": "https://en.wikipedia.org/wiki/Quasar_(Wendell_Vaughn)",
-  "realName": "Wendell Elvis Vaughn",
+  "aliases": "Marvel Boy , Marvel Man",
   "creators": [
     "Don Glut",
     "Roy Thomas",
     "John Buscema"
+  ],
+  "image": {
+    "height": "372",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Annihilation_Nova_3_art.jpg/250px-Annihilation_Nova_3_art.jpg",
+    "width": "250"
+  },
+  "name": "Quasar",
+  "pageviews": 6866,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Energy manipulation.",
+    "Teleportation.",
+    "Solid light constructs.",
+    "Flight"
+  ],
+  "realName": "Wendell Elvis Vaughn",
+  "species": [
   ],
   "teams": [
     "The Avengers",
@@ -14,20 +32,5 @@
     "S.H.I.E.L.D.",
     "Annihilators"
   ],
-  "aliases": "Marvel Boy , Marvel Man",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Energy manipulation.",
-    "Teleportation.",
-    "Solid light constructs.",
-    "Flight"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Annihilation_Nova_3_art.jpg/250px-Annihilation_Nova_3_art.jpg",
-    "width": "250",
-    "height": "372"
-  },
-  "pageviews": 6866
+  "url": "https://en.wikipedia.org/wiki/Quasar_(Wendell_Vaughn)"
 }

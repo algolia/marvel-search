@@ -1,10 +1,27 @@
 {
-  "name": "Vance Astrovik",
-  "url": "https://en.wikipedia.org/wiki/Vance_Astrovik",
-  "realName": "Vance Astrovik",
+  "aliases": "Justice, Marvel Boy,  Manglin' John Mahoney,",
   "creators": [
     "Don Heck",
     "Gerry Conway"
+  ],
+  "image": {
+    "height": "464",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/8b/Vance_Astrovik.jpg",
+    "width": "158"
+  },
+  "name": "Vance Astrovik",
+  "pageviews": 5361,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Telekinesis",
+    "High-speed flight"
+  ],
+  "realName": "Vance Astrovik",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Counter Force",
@@ -15,20 +32,5 @@
     "UCWF",
     "Avengers Academy"
   ],
-  "aliases": "Justice, Marvel Boy,  Manglin' John Mahoney,",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Telekinesis",
-    "High-speed flight"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/8b/Vance_Astrovik.jpg",
-    "width": "158",
-    "height": "464"
-  },
-  "pageviews": 5361
+  "url": "https://en.wikipedia.org/wiki/Vance_Astrovik"
 }

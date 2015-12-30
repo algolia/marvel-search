@@ -1,14 +1,17 @@
 {
-  "name": "Aegis",
-  "url": "https://en.wikipedia.org/wiki/Aegis_(Lady_of_All_Sorrows)",
-  "realName": null,
+  "aliases": "Lady of All Sorrows, She of All Sorrows",
   "creators": [
     "Keith Giffen"
   ],
-  "teams": [],
-  "aliases": "Lady of All Sorrows, She of All Sorrows",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/e/ee/Aegis1.JPG",
+    "width": "200"
+  },
+  "name": "Aegis",
+  "pageviews": 2887,
+  "partners": [
+  ],
   "powers": [
     "omnipotence"
   ],
@@ -16,10 +19,10 @@
     "Indeterminable cosmic power",
     "Nigh omnipotence"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/ee/Aegis1.JPG",
-    "width": "200",
-    "height": "386"
-  },
-  "pageviews": 2887
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Aegis_(Lady_of_All_Sorrows)"
 }

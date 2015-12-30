@@ -1,20 +1,20 @@
 {
-  "name": "The Kingpin",
-  "url": "https://en.wikipedia.org/wiki/Kingpin_(comics)",
-  "realName": "Wilson Fisk",
+  "aliases": "The Brainwasher, Harold Howard",
   "creators": [
     "Stan Lee",
     "John Romita, Sr."
   ],
-  "teams": [
-    "HYDRA",
-    "The Hand",
-    "Emissaries of Evil"
+  "image": {
+    "height": "358",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Kingpinm.png/250px-Kingpinm.png",
+    "width": "250"
+  },
+  "name": "The Kingpin",
+  "pageviews": 96971,
+  "partners": [
   ],
-  "aliases": "The Brainwasher, Harold Howard",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Master armed/unarmed combatant and tactician",
     "Highly skilled planner and organizer",
@@ -23,10 +23,13 @@
     "Wears Kevlar armor",
     "Use of a laser gun-equipped walking stick and ornamental diamond stick-pin"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Kingpinm.png/250px-Kingpinm.png",
-    "width": "250",
-    "height": "358"
-  },
-  "pageviews": 96971
+  "realName": "Wilson Fisk",
+  "species": [
+  ],
+  "teams": [
+    "HYDRA",
+    "The Hand",
+    "Emissaries of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kingpin_(comics)"
 }

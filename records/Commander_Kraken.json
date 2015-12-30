@@ -1,23 +1,27 @@
 {
-  "name": "Commander Kraken",
-  "url": "https://en.wikipedia.org/wiki/Commander_Kraken",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Sal Buscema"
   ],
+  "image": {
+    "height": "374",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Cm.Kraken.jpg/250px-Cm.Kraken.jpg",
+    "width": "250"
+  },
+  "name": "Commander Kraken",
+  "pageviews": 1245,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
   "teams": [
     "HYDRA"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Cm.Kraken.jpg/250px-Cm.Kraken.jpg",
-    "width": "250",
-    "height": "374"
-  },
-  "pageviews": 1245
+  "url": "https://en.wikipedia.org/wiki/Commander_Kraken"
 }

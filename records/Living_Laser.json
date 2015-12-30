@@ -1,20 +1,21 @@
 {
-  "name": "The Living Laser",
-  "url": "https://en.wikipedia.org/wiki/Living_Laser",
-  "realName": "Arthur Parks",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Art Simek",
     "Don Heck"
   ],
-  "teams": [
-    "Lethal Legion",
-    "Mandarin's Minions"
+  "image": {
+    "height": "383",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Ironman211livinglaser.jpg/250px-Ironman211livinglaser.jpg",
+    "width": "250"
+  },
+  "name": "The Living Laser",
+  "pageviews": 4180,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Gifted research scientist",
     "Genius level intellect",
@@ -26,10 +27,12 @@
     "Three dimensional holographic image creation",
     "Ability to achieve solidification and travel at light speeds"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Ironman211livinglaser.jpg/250px-Ironman211livinglaser.jpg",
-    "width": "250",
-    "height": "383"
-  },
-  "pageviews": 4180
+  "realName": "Arthur Parks",
+  "species": [
+  ],
+  "teams": [
+    "Lethal Legion",
+    "Mandarin's Minions"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Living_Laser"
 }

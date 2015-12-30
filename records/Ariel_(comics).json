@@ -1,29 +1,31 @@
 {
-  "name": "Ariel",
-  "url": "https://en.wikipedia.org/wiki/Ariel_(comics)",
-  "realName": "Ariel",
+  "aliases": "",
   "creators": [
     "Jo Duffy",
     "Kerry Gammill"
+  ],
+  "image": {
+    "height": "400",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/1c/ArielC.png",
+    "width": "137"
+  },
+  "name": "Ariel",
+  "pageviews": 3866,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Psychic persuasion",
+    "Ability to link doorways through a sub-dimensional access"
+  ],
+  "realName": "Ariel",
+  "species": [
+    "Extraterrestrial Mutant"
   ],
   "teams": [
     "Fallen Angels",
     "X-Men"
   ],
-  "aliases": "",
-  "species": [
-    "Extraterrestrial Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Psychic persuasion",
-    "Ability to link doorways through a sub-dimensional access"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/1c/ArielC.png",
-    "width": "137",
-    "height": "400"
-  },
-  "pageviews": 3866
+  "url": "https://en.wikipedia.org/wiki/Ariel_(comics)"
 }

@@ -1,27 +1,30 @@
 {
-  "name": "Terror Inc.",
-  "url": "https://en.wikipedia.org/wiki/Terror_Inc.",
-  "realName": null,
+  "aliases": "Shreck, Terror",
   "creators": [
     "D. G. Chichester",
     "Klaus Janson"
   ],
-  "teams": [
-    "Heroes for Hire"
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Terror_Inc_01_cover.jpg/250px-Terror_Inc_01_cover.jpg",
+    "width": "250"
+  },
+  "name": "Terror Inc.",
+  "pageviews": 2282,
+  "partners": [
   ],
-  "aliases": "Shreck, Terror",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled unarmed combatant",
     "Immortality",
     "Ability to incorporate the body parts of others into his own form"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Terror_Inc_01_cover.jpg/250px-Terror_Inc_01_cover.jpg",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 2282
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Heroes for Hire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Terror_Inc."
 }

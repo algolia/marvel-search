@@ -1,16 +1,16 @@
 {
-  "name": "Ymir",
-  "url": "https://en.wikipedia.org/wiki/Ymir_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "Aurgelmir",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Aurgelmir",
-  "species": [
-    "Frost Giants"
-  ],
+  "image": {
+    "height": "278",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png/250px-Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png",
+    "width": "250"
+  },
+  "name": "Ymir",
+  "pageviews": 3976,
   "partners": [
     "Surtur"
   ],
@@ -26,10 +26,11 @@
     "Cold and ice manipulation",
     "Healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png/250px-Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png",
-    "width": "250",
-    "height": "278"
-  },
-  "pageviews": 3976
+  "realName": null,
+  "species": [
+    "Frost Giants"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ymir_(Marvel_Comics)"
 }

@@ -1,19 +1,18 @@
 {
-  "name": "Mandarin",
-  "url": "https://en.wikipedia.org/wiki/Mandarin_(comics)",
-  "realName": null,
+  "aliases": "Gene Khan, Zhang Tong, Tem Borjigin",
   "creators": [
     "Stan Lee",
     "Don Heck"
   ],
-  "teams": [
-    "Mandarin's Minions",
-    "Hand",
-    "Tong"
+  "image": {
+    "height": "370",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Mandrin1.jpg/250px-Mandrin1.jpg",
+    "width": "250"
+  },
+  "name": "Mandarin",
+  "pageviews": 29161,
+  "partners": [
   ],
-  "aliases": "Gene Khan, Zhang Tong, Tem Borjigin",
-  "species": [],
-  "partners": [],
   "powers": [
     "various powers"
   ],
@@ -25,10 +24,13 @@
     "Genius-level intellect",
     "Wears ten rings that grant various powers"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Mandrin1.jpg/250px-Mandrin1.jpg",
-    "width": "250",
-    "height": "370"
-  },
-  "pageviews": 29161
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Mandarin's Minions",
+    "Hand",
+    "Tong"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mandarin_(comics)"
 }

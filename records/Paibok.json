@@ -1,22 +1,21 @@
 {
-  "name": "Power Skrull",
-  "url": "https://en.wikipedia.org/wiki/Paibok",
-  "realName": "Paibok",
+  "aliases": "Paul Balk",
   "creators": [
     "Tom DeFalco",
     "Paul Ryan",
     "Danny Bulanadi"
   ],
-  "teams": [
-    "Annihilation Wave",
-    "Fearsome Foursome"
+  "image": {
+    "height": "497",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Paibokskrull3.jpg",
+    "width": "250"
+  },
+  "name": "Power Skrull",
+  "pageviews": 1749,
+  "partners": [
   ],
-  "aliases": "Paul Balk",
-  "species": [
-    "Skrull"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Expert armed/unarmed combatant",
     "Superhuman strength",
@@ -28,10 +27,13 @@
     "Immunity to the effects of his energy and ice blasts",
     "Ability to transform his skin into a durable steel-like substance"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Paibokskrull3.jpg",
-    "width": "250",
-    "height": "497"
-  },
-  "pageviews": 1749
+  "realName": "Paibok",
+  "species": [
+    "Skrull"
+  ],
+  "teams": [
+    "Annihilation Wave",
+    "Fearsome Foursome"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Paibok"
 }

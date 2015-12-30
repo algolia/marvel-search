@@ -1,21 +1,18 @@
 {
-  "name": "Komodo",
-  "url": "https://en.wikipedia.org/wiki/Komodo_(comics)",
-  "realName": "Melati Kusuma",
+  "aliases": "",
   "creators": [
     "Dan Slott",
     "Stefano Caselli"
   ],
-  "teams": [
-    "Shadow Initiative",
-    "The Initiative",
-    "Desert Stars"
+  "image": {
+    "height": "354",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Sinister_Syndicate.jpg/250px-Sinister_Syndicate.jpg",
+    "width": "250"
+  },
+  "name": "Komodo",
+  "pageviews": 2395,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human mutate"
-  ],
-  "partners": [],
   "powers": [
     "healing factor"
   ],
@@ -29,10 +26,14 @@
     "Razor sharp teeth and claws",
     "Genius chemist and genetics"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Sinister_Syndicate.jpg/250px-Sinister_Syndicate.jpg",
-    "width": "250",
-    "height": "354"
-  },
-  "pageviews": 2395
+  "realName": "Melati Kusuma",
+  "species": [
+    "Human mutate"
+  ],
+  "teams": [
+    "Shadow Initiative",
+    "The Initiative",
+    "Desert Stars"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Komodo_(comics)"
 }

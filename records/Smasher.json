@@ -1,28 +1,31 @@
 {
-  "name": "Smasher",
-  "url": "https://en.wikipedia.org/wiki/Smasher",
-  "realName": "Vril Rokk (I)<br/> Salac Tuur (II)<br/> Unrevealed (III)<br/> Isabel \"Izzy\" Kane (IV)",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Imperial Guard",
-    "Avengers"
+  "image": {
+    "height": "264",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Smasherwiki.jpg/250px-Smasherwiki.jpg",
+    "width": "250"
+  },
+  "name": "Smasher",
+  "pageviews": 1678,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength via cosmic radiation absorption",
     "Ability to download additional powers via exospex",
     "Flight via anti-gravity \"flight patches\""
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Smasherwiki.jpg/250px-Smasherwiki.jpg",
-    "width": "250",
-    "height": "264"
-  },
-  "pageviews": 1678
+  "realName": "Vril Rokk (I)<br/> Salac Tuur (II)<br/> Unrevealed (III)<br/> Isabel \"Izzy\" Kane (IV)",
+  "species": [
+  ],
+  "teams": [
+    "Imperial Guard",
+    "Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Smasher"
 }

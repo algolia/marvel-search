@@ -1,21 +1,16 @@
 {
-  "name": "Mesmero",
-  "url": "https://en.wikipedia.org/wiki/Mesmero",
-  "realName": "Vincent (last name unrevealed)",
+  "aliases": "Junichi, William P. Thorton",
   "creators": [
     "Arnold Drake",
     "Don Heck",
     "Werner Roth"
   ],
-  "teams": [
-    "Weapon X"
+  "image": {
+  },
+  "name": "Mesmero",
+  "pageviews": 3555,
+  "partners": [
   ],
-  "aliases": "Junichi, William P. Thorton",
-  "species": [
-    "Depowered",
-    "Human mutant"
-  ],
-  "partners": [],
   "powers": [
     "hypnotism"
   ],
@@ -23,6 +18,13 @@
     "Formerly hypnotism",
     "allowing the ability to psionically hypnotize others"
   ],
-  "image": {},
-  "pageviews": 3555
+  "realName": "Vincent (last name unrevealed)",
+  "species": [
+    "Depowered",
+    "Human mutant"
+  ],
+  "teams": [
+    "Weapon X"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mesmero"
 }

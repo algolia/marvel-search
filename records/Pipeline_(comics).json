@@ -1,27 +1,30 @@
 {
-  "name": "Pipeline",
-  "url": "https://en.wikipedia.org/wiki/Pipeline_(comics)",
-  "realName": "Cormick Grimshaw",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Rick Leonardi"
   ],
-  "teams": [
-    "Press Gang",
-    "Genoshan Magistrates"
+  "image": {
+  },
+  "name": "Pipeline",
+  "pageviews": 318,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Cybernetic Travel",
     "also called ''Cybernetic/Digital Conversion'' (ability to transport matter",
     "organic or inorganic",
     "through cybernetic media)"
   ],
-  "image": {},
-  "pageviews": 318
+  "realName": "Cormick Grimshaw",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Press Gang",
+    "Genoshan Magistrates"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Pipeline_(comics)"
 }

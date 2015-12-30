@@ -1,23 +1,26 @@
 {
-  "name": "Black Box",
-  "url": "https://en.wikipedia.org/wiki/Black_Box_(comics)",
-  "realName": "Garabed \"Gareb\" Bashur",
+  "aliases": "Commcast",
   "creators": [
     "Fabian Nicieza",
     "Joe Madureira"
   ],
-  "teams": [],
-  "aliases": "Commcast",
-  "species": [
-    "Human Mutant"
+  "image": {
+  },
+  "name": "Black Box",
+  "pageviews": 1458,
+  "partners": [
   ],
-  "partners": [],
   "powers": [
     "Technopathy"
   ],
   "powersText": [
     "Technopathy"
   ],
-  "image": {},
-  "pageviews": 1458
+  "realName": "Garabed \"Gareb\" Bashur",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Box_(comics)"
 }

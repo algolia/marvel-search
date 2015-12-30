@@ -1,18 +1,18 @@
 {
-  "name": "Batroc the Leaper",
-  "url": "https://en.wikipedia.org/wiki/Batroc_the_Leaper",
-  "realName": "Georges Batroc",
+  "aliases": "The Leaper",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Masters of Evil"
+  "image": {
+    "height": "203",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/88/Batroc.png",
+    "width": "250"
+  },
+  "name": "Batroc the Leaper",
+  "pageviews": 12894,
+  "partners": [
   ],
-  "aliases": "The Leaper",
-  "species": [],
-  "partners": [],
   "powers": [
     "savate"
   ],
@@ -26,10 +26,12 @@
     "Extraordinary agility",
     "flexibility and reflexes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/88/Batroc.png",
-    "width": "250",
-    "height": "203"
-  },
-  "pageviews": 12894
+  "realName": "Georges Batroc",
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Batroc_the_Leaper"
 }

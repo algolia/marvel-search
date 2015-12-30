@@ -1,22 +1,26 @@
 {
-  "name": "Futurist",
-  "url": "https://en.wikipedia.org/wiki/Futurist_(comics)",
-  "realName": "Randolph James",
+  "aliases": "",
   "creators": [
     "Marv Wolfman",
     "John Byrne"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+  },
+  "name": "Futurist",
+  "pageviews": 612,
   "partners": [
     "Alpha the Ultimate Mutant"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "fly",
     "superhuman mental abilities"
   ],
-  "image": {},
-  "pageviews": 612
+  "realName": "Randolph James",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Futurist_(comics)"
 }

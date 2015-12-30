@@ -1,23 +1,17 @@
 {
-  "name": "Toad",
-  "url": "https://en.wikipedia.org/wiki/Toad_(comics)",
-  "realName": "Mortimer Toynbee",
+  "aliases": "The Terrible Toad-King, Stranger",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "The 198",
-    "Brotherhood of Mutants",
-    "Defenders",
-    "Jean Grey School"
+  "image": {
+  },
+  "name": "Toad",
+  "pageviews": 12036,
+  "partners": [
   ],
-  "aliases": "The Terrible Toad-King, Stranger",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Expert kickboxer",
     "mechanic",
@@ -35,6 +29,15 @@
     "Ability to stick to walls",
     "expel gusts of air from his lungs and communicate with amphibious life"
   ],
-  "image": {},
-  "pageviews": 12036
+  "realName": "Mortimer Toynbee",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "The 198",
+    "Brotherhood of Mutants",
+    "Defenders",
+    "Jean Grey School"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Toad_(comics)"
 }

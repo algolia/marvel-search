@@ -1,27 +1,30 @@
 {
-  "name": "Junta",
-  "url": "https://en.wikipedia.org/wiki/Junta_(comics)",
-  "realName": "Manuel Diego Armand Vicente",
+  "aliases": "Junta, Danny Vincent",
   "creators": [
     "Christopher Priest",
     "Dan Fraga"
+  ],
+  "image": {
+    "height": "376",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Junta.png/250px-Junta.png",
+    "width": "250"
+  },
+  "name": "Junta",
+  "pageviews": 878,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Gravity control."
+  ],
+  "realName": "Manuel Diego Armand Vicente",
+  "species": [
   ],
   "teams": [
     "The Crew",
     "C.I.A",
     "Defenders"
   ],
-  "aliases": "Junta, Danny Vincent",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Gravity control."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Junta.png/250px-Junta.png",
-    "width": "250",
-    "height": "376"
-  },
-  "pageviews": 878
+  "url": "https://en.wikipedia.org/wiki/Junta_(comics)"
 }

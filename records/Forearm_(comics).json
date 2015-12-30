@@ -1,25 +1,28 @@
 {
-  "name": "Forearm",
-  "url": "https://en.wikipedia.org/wiki/Forearm_(comics)",
-  "realName": null,
+  "aliases": "Michael McBride",
   "creators": [
     "Louise Simonson",
     "Rob Liefeld"
   ],
-  "teams": [
-    "Mutant Liberation Front"
+  "image": {
+  },
+  "name": "Forearm",
+  "pageviews": 820,
+  "partners": [
   ],
-  "aliases": "Michael McBride",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Two additional arms",
     "Superhuman strength",
     "stamina and physical resistance"
   ],
-  "image": {},
-  "pageviews": 820
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Mutant Liberation Front"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Forearm_(comics)"
 }

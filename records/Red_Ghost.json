@@ -1,20 +1,21 @@
 {
-  "name": "Red Ghost",
-  "url": "https://en.wikipedia.org/wiki/Red_Ghost",
-  "realName": "Ivan Kragoff",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Intelligencia"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "376",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/FFFOES005_COV.jpg/250px-FFFOES005_COV.jpg",
+    "width": "250"
+  },
+  "name": "Red Ghost",
+  "pageviews": 3591,
   "partners": [
     "Attuma"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Scientific genius",
     "Expert radiologist",
@@ -23,10 +24,11 @@
     "Air-walking",
     "Use of devices and weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/FFFOES005_COV.jpg/250px-FFFOES005_COV.jpg",
-    "width": "250",
-    "height": "376"
-  },
-  "pageviews": 3591
+  "realName": "Ivan Kragoff",
+  "species": [
+  ],
+  "teams": [
+    "Intelligencia"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Red_Ghost"
 }

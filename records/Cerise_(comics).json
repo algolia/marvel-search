@@ -1,28 +1,30 @@
 {
-  "name": "Cerise",
-  "url": "https://en.wikipedia.org/wiki/Cerise_(comics)",
-  "realName": "Cerise",
+  "aliases": "",
   "creators": [
     "Alan Davis"
   ],
-  "teams": [
-    "Excalibur"
+  "image": {
+    "height": "184",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Cerise_excalibur57-jmadureira.jpg/250px-Cerise_excalibur57-jmadureira.jpg",
+    "width": "250"
+  },
+  "name": "Cerise",
+  "pageviews": 2330,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Shi'ar",
-    "Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ability to create and manipulate solid light constructs",
     "red spectrum energy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Cerise_excalibur57-jmadureira.jpg/250px-Cerise_excalibur57-jmadureira.jpg",
-    "width": "250",
-    "height": "184"
-  },
-  "pageviews": 2330
+  "realName": "Cerise",
+  "species": [
+    "Shi'ar",
+    "Mutant"
+  ],
+  "teams": [
+    "Excalibur"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cerise_(comics)"
 }

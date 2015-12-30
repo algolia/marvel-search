@@ -1,24 +1,28 @@
 {
-  "name": "Two-Gun Kid",
-  "url": "https://en.wikipedia.org/wiki/Two-Gun_Kid",
-  "realName": "Matthew J. Hawkins",
+  "aliases": "Matt Hawk, Matthew Liebowicz",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Matt Hawk, Matthew Liebowicz",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "340",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/ac/Two-Gun_Kid_01.jpg",
+    "width": "250"
+  },
+  "name": "Two-Gun Kid",
+  "pageviews": 3091,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Expert marksman",
     "Trained hand-to-hand combatant"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/ac/Two-Gun_Kid_01.jpg",
-    "width": "250",
-    "height": "340"
-  },
-  "pageviews": 3091
+  "realName": "Matthew J. Hawkins",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Two-Gun_Kid"
 }

@@ -1,17 +1,18 @@
 {
-  "name": "High Evolutionary",
-  "url": "https://en.wikipedia.org/wiki/High_Evolutionary",
-  "realName": "",
+  "aliases": "HE",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "New Men/Knights of Wundagore"
+  "image": {
+    "height": "351",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/HighEvoAnniConquest.jpg/250px-HighEvoAnniConquest.jpg",
+    "width": "250"
+  },
+  "name": "High Evolutionary",
+  "pageviews": 16540,
+  "partners": [
   ],
-  "aliases": "HE",
-  "species": [],
-  "partners": [],
   "powers": [
     "sentient"
   ],
@@ -23,10 +24,11 @@
     "Vast matter & energy manipulation abilities",
     "Wears a sentient superhumanly durable armor capable of regeneration"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/HighEvoAnniConquest.jpg/250px-HighEvoAnniConquest.jpg",
-    "width": "250",
-    "height": "351"
-  },
-  "pageviews": 16540
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "New Men/Knights of Wundagore"
+  ],
+  "url": "https://en.wikipedia.org/wiki/High_Evolutionary"
 }

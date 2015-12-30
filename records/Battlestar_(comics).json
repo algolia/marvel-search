@@ -1,17 +1,16 @@
 {
-  "name": "Battlestar",
-  "url": "https://en.wikipedia.org/wiki/Battlestar_(comics)",
-  "realName": "Lemar Hoskins",
+  "aliases": "Bucky",
   "creators": [
     "Mark Gruenwald",
     "Paul Neary"
   ],
-  "teams": [
-    "CSA",
-    "Wild Pack"
-  ],
-  "aliases": "Bucky",
-  "species": [],
+  "image": {
+    "height": "520",
+    "url": "https://upload.wikimedia.org/wikipedia/en/7/78/Battlestarm0.png",
+    "width": "225"
+  },
+  "name": "Battlestar",
+  "pageviews": 2187,
   "partners": [
     "U.S. Agent"
   ],
@@ -26,10 +25,12 @@
     "Highly trained acrobat and gymnast",
     "Wields a near indestructible adamantium shield"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/7/78/Battlestarm0.png",
-    "width": "225",
-    "height": "520"
-  },
-  "pageviews": 2187
+  "realName": "Lemar Hoskins",
+  "species": [
+  ],
+  "teams": [
+    "CSA",
+    "Wild Pack"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Battlestar_(comics)"
 }

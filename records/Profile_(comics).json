@@ -1,27 +1,30 @@
 {
-  "name": "The Profile",
-  "url": "https://en.wikipedia.org/wiki/Profile_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Charlie Huston",
     "David Finch"
   ],
-  "teams": [
-    "Committee"
+  "image": {
+    "height": "409",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/The_Profile.jpg/150px-The_Profile.jpg",
+    "width": "150"
+  },
+  "name": "The Profile",
+  "pageviews": 946,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Can profile people at a glance",
     "discovering relevant background information and important characteristics",
     "allowing him to predict their reactions to certain situations."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/The_Profile.jpg/150px-The_Profile.jpg",
-    "width": "150",
-    "height": "409"
-  },
-  "pageviews": 946
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Committee"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Profile_(comics)"
 }

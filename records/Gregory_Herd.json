@@ -1,17 +1,21 @@
 {
-  "name": "Gregory Herd",
-  "url": "https://en.wikipedia.org/wiki/Gregory_Herd",
-  "realName": "Gregory Herd",
+  "aliases": "Override, Shadrac",
   "creators": [
     "Todd Dezago",
     "Sal Buscema",
     "Jimmy Palmiotti"
   ],
-  "teams": [],
-  "aliases": "Override, Shadrac",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "247",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Gregory_Herd_Shadrac.JPG/150px-Gregory_Herd_Shadrac.JPG",
+    "width": "150"
+  },
+  "name": "Gregory Herd",
+  "pageviews": 469,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "(As Override)",
     "Cybernetically enhanced costume grants:",
@@ -20,10 +24,10 @@
     "Mystical burning flames",
     "Ability to override emotions"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Gregory_Herd_Shadrac.JPG/150px-Gregory_Herd_Shadrac.JPG",
-    "width": "150",
-    "height": "247"
-  },
-  "pageviews": 469
+  "realName": "Gregory Herd",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gregory_Herd"
 }

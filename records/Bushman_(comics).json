@@ -1,24 +1,28 @@
 {
-  "name": "Bushman",
-  "url": "https://en.wikipedia.org/wiki/Bushman_(comics)",
-  "realName": "Raoul Bushman",
+  "aliases": "Roald Bushman",
   "creators": [
     "Doug Moench"
   ],
-  "teams": [],
-  "aliases": "Roald Bushman",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "392",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/MOONKN4.jpg/250px-MOONKN4.jpg",
+    "width": "250"
+  },
+  "name": "Bushman",
+  "pageviews": 1913,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Peak human physical condition",
     "Razor-sharp metal teeth",
     "Carries various weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/MOONKN4.jpg/250px-MOONKN4.jpg",
-    "width": "250",
-    "height": "392"
-  },
-  "pageviews": 1913
+  "realName": "Raoul Bushman",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bushman_(comics)"
 }

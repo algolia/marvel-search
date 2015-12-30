@@ -1,27 +1,30 @@
 {
-  "name": "Kimura",
-  "url": "https://en.wikipedia.org/wiki/Kimura_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Craig Kyle",
     "Christopher Yost",
     "Paco Medina"
   ],
-  "teams": [
-    "The Facility"
+  "image": {
+    "height": "387",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/20/X23VOL2005.jpg",
+    "width": "250"
+  },
+  "name": "Kimura",
+  "pageviews": 2563,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Invulnerability",
     "Density control"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/20/X23VOL2005.jpg",
-    "width": "250",
-    "height": "387"
-  },
-  "pageviews": 2563
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "The Facility"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kimura_(comics)"
 }

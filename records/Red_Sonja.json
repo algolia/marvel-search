@@ -1,16 +1,19 @@
 {
-  "name": "Red Sonja",
-  "url": "https://en.wikipedia.org/wiki/Red_Sonja",
-  "realName": null,
+  "aliases": "Red Sonya of Rogatino",
   "creators": [
     "Robert E. Howard",
     "Roy Thomas",
     "Barry Windsor-Smith"
   ],
-  "teams": [],
-  "aliases": "Red Sonya of Rogatino",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "390",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Marvel_Feature_1_%281975%29.jpg/250px-Marvel_Feature_1_%281975%29.jpg",
+    "width": "250"
+  },
+  "name": "Red Sonja",
+  "pageviews": 20765,
+  "partners": [
+  ],
   "powers": [
     "martial arts"
   ],
@@ -19,10 +22,10 @@
     "martial arts expert",
     "as well as knowledge and experience of fighting the supernatural."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Marvel_Feature_1_%281975%29.jpg/250px-Marvel_Feature_1_%281975%29.jpg",
-    "width": "250",
-    "height": "390"
-  },
-  "pageviews": 20765
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Red_Sonja"
 }

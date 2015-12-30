@@ -1,26 +1,29 @@
 {
-  "name": "Rock Python",
-  "url": "https://en.wikipedia.org/wiki/Rock_Python",
-  "realName": "M'Gula",
+  "aliases": "Michael Gula, Curtis Harris",
   "creators": [
     "Mark Gruenwald",
     "Kieron Dwyer"
   ],
-  "teams": [
-    "Serpent Society"
+  "image": {
+  },
+  "name": "Rock Python",
+  "pageviews": 1306,
+  "partners": [
   ],
-  "aliases": "Michael Gula, Curtis Harris",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Rock-hard bones",
     "skin and muscles",
     "Resistance to injury",
     "Use of egg-shaped bombs which ensnare his enemies with steel ribbons or poisons them"
   ],
-  "image": {},
-  "pageviews": 1306
+  "realName": "M'Gula",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Serpent Society"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Rock_Python"
 }

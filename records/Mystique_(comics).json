@@ -1,10 +1,30 @@
 {
-  "name": "Mystique",
-  "url": "https://en.wikipedia.org/wiki/Mystique_(comics)",
-  "realName": "Raven Darkhölme",
+  "aliases": "Jean Grey Professor Charles Xavier Nick Fury Storm , Raven Wagner, Leni Zauber, Valerie Cooper , Mallory Brickman, Ronnie Lake, Holt Adler, Surge, Foxx, Amichai Benvenisti",
   "creators": [
     "Dave Cockrum",
     "Chris Claremont"
+  ],
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Mystique11.png/250px-Mystique11.png",
+    "width": "250"
+  },
+  "name": "Mystique",
+  "pageviews": 88955,
+  "partners": [
+  ],
+  "powers": [
+    "Shapeshifting",
+    "Superhuman agility and reflexes"
+  ],
+  "powersText": [
+    "Shapeshifting",
+    "Superhuman agility and reflexes",
+    "Agelessness"
+  ],
+  "realName": "Raven Darkhölme",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Astonishing Avengers",
@@ -22,24 +42,5 @@
     "X-Factor",
     "X-Men"
   ],
-  "aliases": "Jean Grey Professor Charles Xavier Nick Fury Storm , Raven Wagner, Leni Zauber, Valerie Cooper , Mallory Brickman, Ronnie Lake, Holt Adler, Surge, Foxx, Amichai Benvenisti",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "Shapeshifting",
-    "Superhuman agility and reflexes"
-  ],
-  "powersText": [
-    "Shapeshifting",
-    "Superhuman agility and reflexes",
-    "Agelessness"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Mystique11.png/250px-Mystique11.png",
-    "width": "250",
-    "height": "382"
-  },
-  "pageviews": 88955
+  "url": "https://en.wikipedia.org/wiki/Mystique_(comics)"
 }

@@ -1,10 +1,28 @@
 {
-  "name": "Rictor",
-  "url": "https://en.wikipedia.org/wiki/Rictor",
-  "realName": "Julio Esteban \"Ric\" Richter",
+  "aliases": "",
   "creators": [
     "Louise Simonson",
     "Walt Simonson"
+  ],
+  "image": {
+    "height": "446",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/40/Rictor_002.jpg",
+    "width": "250"
+  },
+  "name": "Rictor",
+  "pageviews": 6499,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Capable of releasing seismic energy through his fingertips",
+    "using it to create earthquakes",
+    "shockwaves or otherwise transport earth matter."
+  ],
+  "realName": "Julio Esteban \"Ric\" Richter",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Factor Investigations",
@@ -16,21 +34,5 @@
     "X-Force",
     "X-Corporation"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Capable of releasing seismic energy through his fingertips",
-    "using it to create earthquakes",
-    "shockwaves or otherwise transport earth matter."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/40/Rictor_002.jpg",
-    "width": "250",
-    "height": "446"
-  },
-  "pageviews": 6499
+  "url": "https://en.wikipedia.org/wiki/Rictor"
 }

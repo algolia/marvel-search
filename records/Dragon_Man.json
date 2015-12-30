@@ -1,10 +1,26 @@
 {
-  "name": "Dragon Man",
-  "url": "https://en.wikipedia.org/wiki/Dragon_Man",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+  },
+  "name": "Dragon Man",
+  "pageviews": 4496,
+  "partners": [
+    "Diablo"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman strength",
+    "durability and intelligence",
+    "Flight",
+    "Flame projection"
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "Future Foundation",
@@ -12,18 +28,5 @@
     "Frightful Four",
     "Circus of Crime"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [
-    "Diablo"
-  ],
-  "powers": [],
-  "powersText": [
-    "Superhuman strength",
-    "durability and intelligence",
-    "Flight",
-    "Flame projection"
-  ],
-  "image": {},
-  "pageviews": 4496
+  "url": "https://en.wikipedia.org/wiki/Dragon_Man"
 }

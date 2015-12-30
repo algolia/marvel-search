@@ -1,18 +1,17 @@
 {
-  "name": "Blackout",
-  "url": "https://en.wikipedia.org/wiki/Blackout_(comics)",
-  "realName": "Marcus Daniels",
+  "aliases": "",
   "creators": [
     "Marv Wolfman",
     "Carmine Infantino",
     "Tom Palmer"
   ],
-  "teams": [
-    "Masters of Evil",
-    "Thunderbolts"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "178",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Marcus_Daniels.jpg/250px-Marcus_Daniels.jpg",
+    "width": "250"
+  },
+  "name": "Blackout",
+  "pageviews": 13875,
   "partners": [
     "Baron Zemo",
     "Moonstone"
@@ -26,10 +25,12 @@
     "Portal creation",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Marcus_Daniels.jpg/250px-Marcus_Daniels.jpg",
-    "width": "250",
-    "height": "178"
-  },
-  "pageviews": 13875
+  "realName": "Marcus Daniels",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blackout_(comics)"
 }

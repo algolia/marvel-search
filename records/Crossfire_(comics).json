@@ -1,29 +1,32 @@
 {
-  "name": "Crossfire",
-  "url": "https://en.wikipedia.org/wiki/Crossfire_(comics)",
-  "realName": "William Cross",
+  "aliases": "Agent Cross, Prisoner V22503",
   "creators": [
     "Steven Grant"
   ],
-  "teams": [
-    "Central Intelligence Agency",
-    "Cross Technological Enterprises",
-    "Masters of Evil"
+  "image": {
+    "height": "317",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/87228-166129-crossfire.jpg/250px-87228-166129-crossfire.jpg",
+    "width": "250"
+  },
+  "name": "Crossfire",
+  "pageviews": 8591,
+  "partners": [
   ],
-  "aliases": "Agent Cross, Prisoner V22503",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled in various arts of espionage",
     "particularly brainwashing techniques",
     "Cybernetic enhancements",
     "Expert marksman"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/87228-166129-crossfire.jpg/250px-87228-166129-crossfire.jpg",
-    "width": "250",
-    "height": "317"
-  },
-  "pageviews": 8591
+  "realName": "William Cross",
+  "species": [
+  ],
+  "teams": [
+    "Central Intelligence Agency",
+    "Cross Technological Enterprises",
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Crossfire_(comics)"
 }

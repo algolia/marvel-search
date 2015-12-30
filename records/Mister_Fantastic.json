@@ -1,24 +1,20 @@
 {
-  "name": "Mister Fantastic",
-  "url": "https://en.wikipedia.org/wiki/Mister_Fantastic",
-  "realName": "Reed Richards",
+  "aliases": "Invincible Man, Reed Benjamin",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Future Foundation",
-    "Fantastic Four",
-    "Avengers",
-    "Defenders",
-    "Illuminati"
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Reedr.jpg/250px-Reedr.jpg",
+    "width": "250"
+  },
+  "name": "Mister Fantastic",
+  "pageviews": 41501,
+  "partners": [
   ],
-  "aliases": "Invincible Man, Reed Benjamin",
-  "species": [
-    "Human Mutate"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Genius-level intellect",
     "Extreme superhuman elasticity",
@@ -28,10 +24,16 @@
     "Resistance to most physical assaults and electricity",
     "Virtual immunity to psychic powers"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Reedr.jpg/250px-Reedr.jpg",
-    "width": "250",
-    "height": "388"
-  },
-  "pageviews": 41501
+  "realName": "Reed Richards",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+    "Future Foundation",
+    "Fantastic Four",
+    "Avengers",
+    "Defenders",
+    "Illuminati"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mister_Fantastic"
 }

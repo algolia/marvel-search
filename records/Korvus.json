@@ -1,26 +1,29 @@
 {
-  "name": "Korvus",
-  "url": "https://en.wikipedia.org/wiki/Korvus",
-  "realName": "Korvus Rook’Shir",
+  "aliases": "",
   "creators": [
     "Ed Brubaker",
     "Billy Tan"
   ],
-  "teams": [
-    "Starjammers"
+  "image": {
+  },
+  "name": "Korvus",
+  "pageviews": 903,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Shi'ar"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Shi'ar superhuman attributes.",
     "As Wielder of the Phoenix blade:",
     "Flight",
     "Energy Blasts"
   ],
-  "image": {},
-  "pageviews": 903
+  "realName": "Korvus Rook’Shir",
+  "species": [
+    "Shi'ar"
+  ],
+  "teams": [
+    "Starjammers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Korvus"
 }

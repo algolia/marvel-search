@@ -1,18 +1,21 @@
 {
-  "name": "Elektro",
-  "url": "https://en.wikipedia.org/wiki/Elektro_(comics)",
-  "realName": "Elektro",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/TOS-13.jpg/250px-TOS-13.jpg",
+    "width": "250"
+  },
+  "name": "Elektro",
+  "pageviews": 676,
   "partners": [
     "Fin Fang Foom"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "Gamma Ray Projection",
@@ -20,10 +23,10 @@
     "Telekinesis",
     "Forcefield"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/TOS-13.jpg/250px-TOS-13.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 676
+  "realName": "Elektro",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Elektro_(comics)"
 }

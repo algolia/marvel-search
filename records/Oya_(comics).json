@@ -1,10 +1,26 @@
 {
-  "name": "Oya",
-  "url": "https://en.wikipedia.org/wiki/Oya_(comics)",
-  "realName": null,
+  "aliases": "The Girl Who Wouldn't Burn, The Third Light",
   "creators": [
     "Matt Fraction",
     "Kieron Gillen"
+  ],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b5/XMEN_Oya.jpg",
+    "width": "250"
+  },
+  "name": "Oya",
+  "pageviews": 3794,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Temperature manipulation"
+  ],
+  "realName": null,
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "The Lights",
@@ -12,19 +28,5 @@
     "Jean Grey School Students",
     "Hellfire Academy"
   ],
-  "aliases": "The Girl Who Wouldn't Burn, The Third Light",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Temperature manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/b5/XMEN_Oya.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 3794
+  "url": "https://en.wikipedia.org/wiki/Oya_(comics)"
 }

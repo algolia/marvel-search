@@ -1,23 +1,28 @@
 {
-  "name": "Alkhema",
-  "url": "https://en.wikipedia.org/wiki/Alkhema",
-  "realName": "Alkhema",
+  "aliases": "Alkhema-2, War Toy",
   "creators": [
     "Roy Thomas",
     "Dann Thomas",
     "David Ross",
     "Tim Dzon"
   ],
-  "teams": [],
-  "aliases": "Alkhema-2, War Toy",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "288",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Alkhema.jpg/250px-Alkhema.jpg",
-    "width": "250",
-    "height": "288"
+    "width": "250"
   },
-  "pageviews": 2039
+  "name": "Alkhema",
+  "pageviews": 2039,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Alkhema",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Alkhema"
 }

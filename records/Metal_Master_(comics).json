@@ -1,25 +1,28 @@
 {
-  "name": "Metal Master",
-  "url": "https://en.wikipedia.org/wiki/Metal_Master_(comics)",
-  "realName": "Molyb",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Astran"
+  "image": {
+    "height": "284",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/55/Metal_Master_63.jpg",
+    "width": "205"
+  },
+  "name": "Metal Master",
+  "pageviews": 555,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to animate and control virtually all known forms of metal"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/55/Metal_Master_63.jpg",
-    "width": "205",
-    "height": "284"
-  },
-  "pageviews": 555
+  "realName": "Molyb",
+  "species": [
+    "Astran"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Metal_Master_(comics)"
 }

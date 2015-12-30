@@ -1,11 +1,26 @@
 {
-  "name": "Hank Pym",
-  "url": "https://en.wikipedia.org/wiki/Hank_Pym",
-  "realName": null,
+  "aliases": "Ant-Man Giant-Man Goliath Yellowjacket Wasp , Scientist Supreme, Ultron",
   "creators": [
     "Stan Lee",
     "Larry Lieber",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "385",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Hank_pym_1.jpg/250px-Hank_pym_1.jpg",
+    "width": "250"
+  },
+  "name": "Hank Pym",
+  "pageviews": 108936,
+  "partners": [
+    "Wasp (Janet van Dyne)"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "Avengers",
@@ -18,17 +33,5 @@
     "Avengers A.I.",
     "Illuminati"
   ],
-  "aliases": "Ant-Man Giant-Man Goliath Yellowjacket Wasp , Scientist Supreme, Ultron",
-  "species": [],
-  "partners": [
-    "Wasp (Janet van Dyne)"
-  ],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Hank_pym_1.jpg/250px-Hank_pym_1.jpg",
-    "width": "250",
-    "height": "385"
-  },
-  "pageviews": 108936
+  "url": "https://en.wikipedia.org/wiki/Hank_Pym"
 }

@@ -1,27 +1,30 @@
 {
-  "name": "Gladiatrix",
-  "url": "https://en.wikipedia.org/wiki/Gladiatrix_(comics)",
-  "realName": "Robin Braxton",
+  "aliases": "",
   "creators": [
     "Mike Carlin",
     "Ron Wilson"
+  ],
+  "image": {
+    "height": "139",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Gladiatrixmu0.png/200px-Gladiatrixmu0.png",
+    "width": "200"
+  },
+  "name": "Gladiatrix",
+  "pageviews": 889,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "superhuman strength",
+    "fighting skills and durability"
+  ],
+  "realName": "Robin Braxton",
+  "species": [
   ],
   "teams": [
     "Grapplers",
     "Femizons"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "superhuman strength",
-    "fighting skills and durability"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Gladiatrixmu0.png/200px-Gladiatrixmu0.png",
-    "width": "200",
-    "height": "139"
-  },
-  "pageviews": 889
+  "url": "https://en.wikipedia.org/wiki/Gladiatrix_(comics)"
 }

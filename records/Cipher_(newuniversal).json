@@ -1,25 +1,28 @@
 {
-  "name": "Cipher",
-  "url": "https://en.wikipedia.org/wiki/Cipher_(newuniversal)",
-  "realName": "Jennifer Swann",
+  "aliases": "",
   "creators": [
     "Warren Ellis",
     "Salvador Larroca"
   ],
-  "teams": [
-    "Project Spitfire"
+  "image": {
+    "height": "385",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Shockfront2.jpg/250px-Shockfront2.jpg",
+    "width": "250"
+  },
+  "name": "Cipher",
+  "pageviews": 519,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "The Cipher glyph grants its wielder advanced technological knowledge and perceptions that allow individuals to understand and construct advanced technology."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Shockfront2.jpg/250px-Shockfront2.jpg",
-    "width": "250",
-    "height": "385"
-  },
-  "pageviews": 519
+  "realName": "Jennifer Swann",
+  "species": [
+  ],
+  "teams": [
+    "Project Spitfire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cipher_(newuniversal)"
 }

@@ -1,20 +1,18 @@
 {
-  "name": "Ultron",
-  "url": "https://en.wikipedia.org/wiki/Ultron",
-  "realName": null,
+  "aliases": "Crimson Cowl , Ultron-5, Ultron-6, Ultron-7, Ultron-8, Ultron-9, Ultron-10, Ultron-11, Ultron-12, Ultron-13, Ultron-14, Ultron-15, Ultron-16, Ultron-17, Ultron-18",
   "creators": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "teams": [
-    "Masters of Evil",
-    "Phalanx",
-    "Lethal Legion",
-    "Sons of Yinsen"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Ultron2013.jpg",
+    "width": "250"
+  },
+  "name": "Ultron",
+  "pageviews": 97142,
+  "partners": [
   ],
-  "aliases": "Crimson Cowl , Ultron-5, Ultron-6, Ultron-7, Ultron-8, Ultron-9, Ultron-10, Ultron-11, Ultron-12, Ultron-13, Ultron-14, Ultron-15, Ultron-16, Ultron-17, Ultron-18",
-  "species": [],
-  "partners": [],
   "powers": [
     "Artificial intelligence"
   ],
@@ -25,10 +23,14 @@
     "superhuman strength",
     "durability and stamina and extreme projection of concussion blasts from his fingertips."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Ultron2013.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 97142
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Phalanx",
+    "Lethal Legion",
+    "Sons of Yinsen"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ultron"
 }

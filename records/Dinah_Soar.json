@@ -1,27 +1,30 @@
 {
-  "name": "Dinah Soar",
-  "url": "https://en.wikipedia.org/wiki/Dinah_Soar",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "John Byrne"
   ],
-  "teams": [
-    "Great Lakes Avengers"
+  "image": {
+    "height": "443",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Dinah_Soar.jpg/250px-Dinah_Soar.jpg",
+    "width": "250"
+  },
+  "name": "Dinah Soar",
+  "pageviews": 2172,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Flight via razor-tipped wings",
     "Limited sonic powers",
     "Empathic calming",
     "Agelessness"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Dinah_Soar.jpg/250px-Dinah_Soar.jpg",
-    "width": "250",
-    "height": "443"
-  },
-  "pageviews": 2172
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Great Lakes Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dinah_Soar"
 }

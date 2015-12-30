@@ -1,16 +1,20 @@
 {
-  "name": "Morlun",
-  "url": "https://en.wikipedia.org/wiki/Morlun",
-  "realName": null,
+  "aliases": "\"Devourer of Totems\"",
   "creators": [
     "J. Michael Straczynski",
     "John Romita, Jr."
   ],
-  "teams": [],
-  "aliases": "\"Devourer of Totems\"",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "301",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/94/Morlun.jpg",
+    "width": "250"
+  },
+  "name": "Morlun",
+  "pageviews": 9052,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "Enhanced speed",
@@ -19,10 +23,10 @@
     "Extended longevity",
     "Ability to absorb life-force via physical contact"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/94/Morlun.jpg",
-    "width": "250",
-    "height": "301"
-  },
-  "pageviews": 9052
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Morlun"
 }

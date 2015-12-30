@@ -1,28 +1,30 @@
 {
-  "name": "Nova",
-  "url": "https://en.wikipedia.org/wiki/Nova_(Frankie_Raye)",
-  "realName": "Frankie Raye",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "George Pérez"
   ],
-  "teams": [
-    "Heralds of Galactus",
-    "Fantastic Four"
+  "image": {
+    "height": "376",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/NovaFrankie.png/250px-NovaFrankie.png",
+    "width": "250"
+  },
+  "name": "Nova",
+  "pageviews": 6775,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Power Cosmic"
   ],
   "powersText": [
     "Use of Power Cosmic"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/NovaFrankie.png/250px-NovaFrankie.png",
-    "width": "250",
-    "height": "376"
-  },
-  "pageviews": 6775
+  "realName": "Frankie Raye",
+  "species": [
+  ],
+  "teams": [
+    "Heralds of Galactus",
+    "Fantastic Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nova_(Frankie_Raye)"
 }

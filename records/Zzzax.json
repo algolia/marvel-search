@@ -1,16 +1,20 @@
 {
-  "name": "Zzzax",
-  "url": "https://en.wikipedia.org/wiki/Zzzax",
-  "realName": null,
+  "aliases": "General \"Thunderbolt\" Ross , The Living Dynamo",
   "creators": [
     "Steve Englehart",
     "Herb Trimpe"
   ],
-  "teams": [],
-  "aliases": "General \"Thunderbolt\" Ross , The Living Dynamo",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/IH-183.jpg/250px-IH-183.jpg",
+    "width": "250"
+  },
+  "name": "Zzzax",
+  "pageviews": 5370,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Flight",
     "Electrical energy absorption",
@@ -18,10 +22,10 @@
     "Heat generation",
     "Ability to supposedly gain intellect"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/IH-183.jpg/250px-IH-183.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 5370
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Zzzax"
 }

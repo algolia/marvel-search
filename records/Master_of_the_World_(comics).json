@@ -1,17 +1,19 @@
 {
-  "name": "Master of the World",
-  "url": "https://en.wikipedia.org/wiki/Master_of_the_World_(comics)",
-  "realName": "Eshu",
+  "aliases": "Joshua Lord, Forever Man, Master of Time, Master of Life",
   "creators": [
     "John Byrne"
   ],
-  "teams": [
-    "Omega Flight"
+  "image": {
+    "height": "328",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Avengersv3-045pic2.png/300px-Avengersv3-045pic2.png",
+    "width": "300"
+  },
+  "name": "Master of the World",
+  "pageviews": 1344,
+  "partners": [
   ],
-  "aliases": "Joshua Lord, Forever Man, Master of Time, Master of Life",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius-level intellect",
     "Repressed aging",
@@ -22,10 +24,11 @@
     "strength",
     "agility and durability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Avengersv3-045pic2.png/300px-Avengersv3-045pic2.png",
-    "width": "300",
-    "height": "328"
-  },
-  "pageviews": 1344
+  "realName": "Eshu",
+  "species": [
+  ],
+  "teams": [
+    "Omega Flight"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Master_of_the_World_(comics)"
 }

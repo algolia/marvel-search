@@ -1,27 +1,30 @@
 {
-  "name": "Giganto",
-  "url": "https://en.wikipedia.org/wiki/Giganto",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "374",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Giganto1.jpg/250px-Giganto1.jpg",
+    "width": "250"
+  },
+  "name": "Giganto",
+  "pageviews": 2931,
   "partners": [
     "Kro",
     "Mole Man"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and endurance",
     "Ability to dig underground and hold his breath underwater"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Giganto1.jpg/250px-Giganto1.jpg",
-    "width": "250",
-    "height": "374"
-  },
-  "pageviews": 2931
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Giganto"
 }

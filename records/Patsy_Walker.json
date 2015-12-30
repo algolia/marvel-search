@@ -1,28 +1,32 @@
 {
-  "name": "Hellcat",
-  "url": "https://en.wikipedia.org/wiki/Patsy_Walker",
-  "realName": "Patricia \"Patsy\" Walker",
-  "creators": [],
-  "teams": [
-    "Defenders",
-    "Avengers",
-    "Lady Liberators",
-    "Legion of the Unliving"
-  ],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "305",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/06/Patsy_Walker_%28Hellcat%29.jpg",
+    "width": "200"
+  },
+  "name": "Hellcat",
+  "pageviews": 268210,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Well-trained martial artist and gymnast",
     "Psychic senses",
     "Force field generation",
     "Wrist-mounted retractable claws and grappling hooks"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/06/Patsy_Walker_%28Hellcat%29.jpg",
-    "width": "200",
-    "height": "305"
-  },
-  "pageviews": 268210
+  "realName": "Patricia \"Patsy\" Walker",
+  "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "Avengers",
+    "Lady Liberators",
+    "Legion of the Unliving"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Patsy_Walker"
 }

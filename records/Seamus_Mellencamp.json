@@ -1,20 +1,17 @@
 {
-  "name": "Seanus Mellencamp",
-  "url": "https://en.wikipedia.org/wiki/Seamus_Mellencamp",
-  "realName": "Seamus Mellencamp (sometimes spelled Melloncamp)",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "John Romita, Jr."
   ],
-  "teams": [
-    "Acolytes"
+  "image": {
+  },
+  "name": "Seanus Mellencamp",
+  "pageviews": 838,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Razorsharp claws and fangs",
     "superhuman senses",
@@ -27,6 +24,12 @@
     "invulnerability",
     "resistant to life draining"
   ],
-  "image": {},
-  "pageviews": 838
+  "realName": "Seamus Mellencamp (sometimes spelled Melloncamp)",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Acolytes"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Seamus_Mellencamp"
 }

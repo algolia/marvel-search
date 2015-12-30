@@ -1,22 +1,21 @@
 {
-  "name": "Spiral",
-  "url": "https://en.wikipedia.org/wiki/Spiral_(comics)",
-  "realName": "Rita Wayword",
+  "aliases": "\"Ricochet\" Rita, The Apocalypse",
   "creators": [
     "Ann Nocenti",
     "Art Adams"
   ],
-  "teams": [
-    "Sisterhood of Mutants",
-    "Freedom Force",
-    "X-Force"
-  ],
-  "aliases": "\"Ricochet\" Rita, The Apocalypse",
-  "species": [],
+  "image": {
+    "height": "336",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Spiral_%28Marvel_character%29.PNG",
+    "width": "144"
+  },
+  "name": "Spiral",
+  "pageviews": 7103,
   "partners": [
     "Mojo"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Multiple arms",
     "Enhanced strength",
@@ -26,10 +25,13 @@
     "Skilled in cybernetics and genetics",
     "Metamorphosis"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Spiral_%28Marvel_character%29.PNG",
-    "width": "144",
-    "height": "336"
-  },
-  "pageviews": 7103
+  "realName": "Rita Wayword",
+  "species": [
+  ],
+  "teams": [
+    "Sisterhood of Mutants",
+    "Freedom Force",
+    "X-Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spiral_(comics)"
 }

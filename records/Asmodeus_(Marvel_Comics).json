@@ -1,23 +1,27 @@
 {
-  "name": "Asmodeus",
-  "url": "https://en.wikipedia.org/wiki/Asmodeus_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Michael Fleisher",
     "Don Perlin"
   ],
-  "teams": [],
-  "aliases": "",
+  "image": {
+    "height": "184",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Asmodeus_-_Ghost_Rider.png/200px-Asmodeus_-_Ghost_Rider.png",
+    "width": "200"
+  },
+  "name": "Asmodeus",
+  "pageviews": 1397,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
   "species": [
     "Demon"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Asmodeus_-_Ghost_Rider.png/200px-Asmodeus_-_Ghost_Rider.png",
-    "width": "200",
-    "height": "184"
-  },
-  "pageviews": 1397
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Asmodeus_(Marvel_Comics)"
 }

@@ -1,19 +1,24 @@
 {
-  "name": "Dr. Farley Stillwell",
-  "url": "https://en.wikipedia.org/wiki/Farley_Stillwell",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Dr. Farley Stillwell",
+  "pageviews": 731,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Scientific genius"
   ],
-  "image": {},
-  "pageviews": 731
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Farley_Stillwell"
 }

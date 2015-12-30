@@ -1,20 +1,20 @@
 {
-  "name": "Korath the Pursuer",
-  "url": "https://en.wikipedia.org/wiki/Korath_the_Pursuer",
-  "realName": "Korath-Thak",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Greg Capullo"
   ],
-  "teams": [
-    "Starforce"
+  "image": {
+    "height": "428",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Korath_the_Pursuer.jpg",
+    "width": "250"
+  },
+  "name": "Korath the Pursuer",
+  "pageviews": 13356,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Kree"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Cyber-genetic engineering",
     "Superhuman strength",
@@ -22,10 +22,12 @@
     "and durability",
     "Psionically locate individuals by tracing their brain patterns"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Korath_the_Pursuer.jpg",
-    "width": "250",
-    "height": "428"
-  },
-  "pageviews": 13356
+  "realName": "Korath-Thak",
+  "species": [
+    "Kree"
+  ],
+  "teams": [
+    "Starforce"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Korath_the_Pursuer"
 }

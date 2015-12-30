@@ -1,16 +1,17 @@
 {
-  "name": "Grim Hunter",
-  "url": "https://en.wikipedia.org/wiki/Grim_Hunter",
-  "realName": "Vladimir \"Vlad\" Kravinoff",
+  "aliases": "\"Son of the Hunter\"",
   "creators": [
     "Howard Mackie",
     "Tom Lyle"
   ],
-  "teams": [],
-  "aliases": "\"Son of the Hunter\"",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Grim Hunter",
+  "pageviews": 1225,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Skilled weapons master",
     "Enhanced strength",
@@ -22,6 +23,10 @@
     "Superhuman strength and durability",
     "Carries a heavy stone axe"
   ],
-  "image": {},
-  "pageviews": 1225
+  "realName": "Vladimir \"Vlad\" Kravinoff",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Grim_Hunter"
 }

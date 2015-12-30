@@ -1,23 +1,26 @@
 {
-  "name": "Worm",
-  "url": "https://en.wikipedia.org/wiki/Worm_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Marc Silvestri"
   ],
-  "teams": [
-    "Savage Land Mutates"
+  "image": {
+  },
+  "name": "Worm",
+  "pageviews": 933,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Savage Land Mutate"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "mind control"
   ],
-  "image": {},
-  "pageviews": 933
+  "realName": null,
+  "species": [
+    "Savage Land Mutate"
+  ],
+  "teams": [
+    "Savage Land Mutates"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Worm_(comics)"
 }

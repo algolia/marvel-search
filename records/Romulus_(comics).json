@@ -1,20 +1,20 @@
 {
-  "name": "Romulus",
-  "url": "https://en.wikipedia.org/wiki/Romulus_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Jeph Loeb",
     "Simone Bianchi"
   ],
-  "teams": [
-    "Weapon X"
+  "image": {
+    "height": "391",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/RomulusWolverine.PNG/250px-RomulusWolverine.PNG",
+    "width": "250"
+  },
+  "name": "Romulus",
+  "pageviews": 4407,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Adamantium laced skeleton & claws",
     "Regenerative healing factor",
@@ -29,10 +29,12 @@
     "Telepathy",
     "Skilled combatant & strategist"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/RomulusWolverine.PNG/250px-RomulusWolverine.PNG",
-    "width": "250",
-    "height": "391"
-  },
-  "pageviews": 4407
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Weapon X"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Romulus_(comics)"
 }

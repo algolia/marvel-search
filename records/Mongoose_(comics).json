@@ -1,22 +1,17 @@
 {
-  "name": "Mongoose",
-  "url": "https://en.wikipedia.org/wiki/Mongoose_(comics)",
-  "realName": "Mongoose",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [
-    "New Men/Knights of Wundagore",
-    "Masters of Evil",
-    "Thunderbolts"
+  "image": {
+  },
+  "name": "Mongoose",
+  "pageviews": 1071,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Mongoose"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman senses",
     "strength",
@@ -27,6 +22,14 @@
     "Skilled hand-to-hand fighter",
     "Wears claws and gas pellets"
   ],
-  "image": {},
-  "pageviews": 1071
+  "realName": "Mongoose",
+  "species": [
+    "Mongoose"
+  ],
+  "teams": [
+    "New Men/Knights of Wundagore",
+    "Masters of Evil",
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mongoose_(comics)"
 }

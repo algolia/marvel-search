@@ -1,27 +1,30 @@
 {
-  "name": "Steel Wind",
-  "url": "https://en.wikipedia.org/wiki/Steel_Wind",
-  "realName": "Ruriko Tsumura",
+  "aliases": "",
   "creators": [
     "J. M. DeMatteis",
     "Bob Budiansky"
   ],
-  "teams": [
-    "Femizons"
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Steel_Wind.jpg/300px-Steel_Wind.jpg",
+    "width": "300"
+  },
+  "name": "Steel Wind",
+  "pageviews": 902,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "A cyborg",
     "Steel Wind has been rebuilt many times and much of her body is currently cybernetic",
     "granting her superhuman strength and durability. Her ultra-light metal components are bulletproof."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Steel_Wind.jpg/300px-Steel_Wind.jpg",
-    "width": "300",
-    "height": "300"
-  },
-  "pageviews": 902
+  "realName": "Ruriko Tsumura",
+  "species": [
+  ],
+  "teams": [
+    "Femizons"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Steel_Wind"
 }

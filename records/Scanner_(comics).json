@@ -1,29 +1,31 @@
 {
-  "name": "Scanner",
-  "url": "https://en.wikipedia.org/wiki/Scanner_(comics)",
-  "realName": "Sarah Ryall",
+  "aliases": "Screener",
   "creators": [
     "Scott Lobdell",
     "John Romita Jr."
   ],
-  "teams": [
-    "Acolytes"
+  "image": {
+    "height": "210",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/57/Scanner_xm86.jpg",
+    "width": "250"
+  },
+  "name": "Scanner",
+  "pageviews": 774,
+  "partners": [
   ],
-  "aliases": "Screener",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Depowered",
     "formerly: Psionic detection of mutants",
     "astral projection/electro-transitional state"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/57/Scanner_xm86.jpg",
-    "width": "250",
-    "height": "210"
-  },
-  "pageviews": 774
+  "realName": "Sarah Ryall",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Acolytes"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scanner_(comics)"
 }

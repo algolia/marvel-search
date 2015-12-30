@@ -1,20 +1,20 @@
 {
-  "name": "Hogun",
-  "url": "https://en.wikipedia.org/wiki/Hogun",
-  "realName": null,
+  "aliases": "Hogun the Grim",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Warriors Three"
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg",
+    "width": "250"
+  },
+  "name": "Hogun",
+  "pageviews": 6413,
+  "partners": [
   ],
-  "aliases": "Hogun the Grim",
-  "species": [
-    "Asgardian"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "stamina",
@@ -22,10 +22,12 @@
     "Skilled in Asgardian weapons",
     "Extended life-span"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 6413
+  "realName": null,
+  "species": [
+    "Asgardian"
+  ],
+  "teams": [
+    "Warriors Three"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hogun"
 }

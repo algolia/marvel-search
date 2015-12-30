@@ -1,22 +1,25 @@
 {
-  "name": "Baron Zemo",
-  "url": "https://en.wikipedia.org/wiki/Baron_Zemo",
-  "realName": "Dr. Heinrich Zemo<br>Helmut J. Zemo",
+  "aliases": "(Helmut)<br> Citizen V , Phoenix, Iron Cross, Mark Evanier",
   "creators": [
     "Stan Lee",
     "Jack Kirby",
     "Tony Isabella",
     "Sal Buscema"
   ],
-  "teams": [],
-  "aliases": "(Helmut)<br> Citizen V , Phoenix, Iron Cross, Mark Evanier",
-  "species": [],
+  "image": {
+    "height": "436",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Baron-zemo.jpg",
+    "width": "250"
+  },
+  "name": "Baron Zemo",
+  "pageviews": 133850,
   "partners": [
     "Mother Superior",
     "Primus",
     "Red Skull"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(Both):",
     "Scientific genius",
@@ -28,10 +31,10 @@
     "Slowed aging",
     "Possesses the Moonstones"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Baron-zemo.jpg",
-    "width": "250",
-    "height": "436"
-  },
-  "pageviews": 133850
+  "realName": "Dr. Heinrich Zemo<br>Helmut J. Zemo",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Baron_Zemo"
 }

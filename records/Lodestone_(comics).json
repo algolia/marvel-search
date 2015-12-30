@@ -1,25 +1,28 @@
 {
-  "name": "Lodestone",
-  "url": "https://en.wikipedia.org/wiki/Lodestone_(comics)",
-  "realName": "Andrea",
+  "aliases": "",
   "creators": [
     "Danny Fingeroth",
     "Mike Manley"
   ],
-  "teams": [
-    "Masters of Evil"
+  "image": {
+    "height": "184",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Lode_stone-1-.jpg/200px-Lode_stone-1-.jpg",
+    "width": "200"
+  },
+  "name": "Lodestone",
+  "pageviews": 598,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Manipulation of magnetic force."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Lode_stone-1-.jpg/200px-Lode_stone-1-.jpg",
-    "width": "200",
-    "height": "184"
-  },
-  "pageviews": 598
+  "realName": "Andrea",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lodestone_(comics)"
 }

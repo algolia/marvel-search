@@ -1,28 +1,30 @@
 {
-  "name": "Molly Hayes",
-  "url": "https://en.wikipedia.org/wiki/Molly_Hayes",
-  "realName": "Molly Hayes",
+  "aliases": "Bruiser, Princess Powerful",
   "creators": [
     "Brian K. Vaughan",
     "Adrian Alphona"
   ],
-  "teams": [
-    "Runaways"
+  "image": {
+    "height": "338",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/MOLLY_HAYES.jpg/250px-MOLLY_HAYES.jpg",
+    "width": "250"
+  },
+  "name": "Molly Hayes",
+  "pageviews": 6371,
+  "partners": [
   ],
-  "aliases": "Bruiser, Princess Powerful",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "Invulnerability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/MOLLY_HAYES.jpg/250px-MOLLY_HAYES.jpg",
-    "width": "250",
-    "height": "338"
-  },
-  "pageviews": 6371
+  "realName": "Molly Hayes",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Runaways"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Molly_Hayes"
 }

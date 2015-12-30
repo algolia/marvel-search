@@ -1,21 +1,22 @@
 {
-  "name": "Baron Mordo",
-  "url": "https://en.wikipedia.org/wiki/Baron_Mordo",
-  "realName": "Karl Amadeus Mordo",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Offenders"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "429",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Mordo.jpg/250px-Mordo.jpg",
+    "width": "250"
+  },
+  "name": "Baron Mordo",
+  "pageviews": 39453,
   "partners": [
     "Dormammu",
     "Ancient One"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Good martial artist",
     "Extensive knowledge of magical lore",
@@ -28,10 +29,11 @@
     "Magical energy manipulation",
     "Ability to conjure demons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Mordo.jpg/250px-Mordo.jpg",
-    "width": "250",
-    "height": "429"
-  },
-  "pageviews": 39453
+  "realName": "Karl Amadeus Mordo",
+  "species": [
+  ],
+  "teams": [
+    "Offenders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Baron_Mordo"
 }

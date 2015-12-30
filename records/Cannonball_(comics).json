@@ -1,10 +1,27 @@
 {
-  "name": "Cannonball",
-  "url": "https://en.wikipedia.org/wiki/Cannonball_(comics)",
-  "realName": "Samuel  Zachary \"Sam\" Guthrie",
+  "aliases": "Samson Guthry",
   "creators": [
     "Chris Claremont",
     "Bob McLeod"
+  ],
+  "image": {
+    "height": "216",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Cannonball.jpg/250px-Cannonball.jpg",
+    "width": "250"
+  },
+  "name": "Cannonball",
+  "pageviews": 11508,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Jet propulsion",
+    "Ability to create an impenetrable \"blast field\" while in flight"
+  ],
+  "realName": "Samuel  Zachary \"Sam\" Guthrie",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Men",
@@ -19,20 +36,5 @@
     "Jean Grey School",
     "Avengers"
   ],
-  "aliases": "Samson Guthry",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Jet propulsion",
-    "Ability to create an impenetrable \"blast field\" while in flight"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Cannonball.jpg/250px-Cannonball.jpg",
-    "width": "250",
-    "height": "216"
-  },
-  "pageviews": 11508
+  "url": "https://en.wikipedia.org/wiki/Cannonball_(comics)"
 }

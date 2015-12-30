@@ -1,21 +1,20 @@
 {
-  "name": "Vulcan",
-  "url": "https://en.wikipedia.org/wiki/Vulcan_(Marvel_Comics)",
-  "realName": "Gabriel Summers",
+  "aliases": "Kid Vulcan, Emperor Vulcan, Great Vulcan",
   "creators": [
     "Ed Brubaker",
     "Trevor Hairsine"
   ],
-  "teams": [
-    "Shi'ar Imperium",
-    "X-Men"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/X-Men_-_Kingbreaker_1.jpg/250px-X-Men_-_Kingbreaker_1.jpg",
+    "width": "250"
+  },
+  "name": "Vulcan",
+  "pageviews": 28881,
+  "partners": [
   ],
-  "aliases": "Kid Vulcan, Emperor Vulcan, Great Vulcan",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Vast energy absorption",
     "manipulation",
@@ -28,10 +27,13 @@
     "Energy siphon and disruption",
     "Psionic resistance"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/X-Men_-_Kingbreaker_1.jpg/250px-X-Men_-_Kingbreaker_1.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 28881
+  "realName": "Gabriel Summers",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Shi'ar Imperium",
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Vulcan_(Marvel_Comics)"
 }

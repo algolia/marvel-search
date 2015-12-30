@@ -1,23 +1,26 @@
 {
-  "name": "Ravonna",
-  "url": "https://en.wikipedia.org/wiki/Ravonna",
-  "realName": "Ravonna Lexus Renslayer",
+  "aliases": "Nebula , Terminatrix, Kang-Nebula, Hecate, Temptress",
   "creators": [
     "Stan Lee",
     "Don Heck"
   ],
-  "teams": [
-    "Anachronauts"
-  ],
-  "aliases": "Nebula , Terminatrix, Kang-Nebula, Hecate, Temptress",
-  "species": [],
+  "image": {
+  },
+  "name": "Ravonna",
+  "pageviews": 1628,
   "partners": [
     "Kang the Conqueror"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "None inherent"
   ],
-  "image": {},
-  "pageviews": 1628
+  "realName": "Ravonna Lexus Renslayer",
+  "species": [
+  ],
+  "teams": [
+    "Anachronauts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ravonna"
 }

@@ -1,18 +1,20 @@
 {
-  "name": "Galactus",
-  "url": "https://en.wikipedia.org/wiki/Galactus",
-  "realName": "Galan",
+  "aliases": "Ashta,",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "God Squad"
+  "image": {
+    "height": "441",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Galactus.PNG/250px-Galactus.PNG",
+    "width": "250"
+  },
+  "name": "Galactus",
+  "pageviews": 117929,
+  "partners": [
   ],
-  "aliases": "Ashta,",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Reality alteration",
     "Energy",
@@ -21,10 +23,11 @@
     "Telepathy",
     "Telekinesis"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Galactus.PNG/250px-Galactus.PNG",
-    "width": "250",
-    "height": "441"
-  },
-  "pageviews": 117929
+  "realName": "Galan",
+  "species": [
+  ],
+  "teams": [
+    "God Squad"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Galactus"
 }

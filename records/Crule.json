@@ -1,21 +1,20 @@
 {
-  "name": "Crule",
-  "url": "https://en.wikipedia.org/wiki/Crule",
-  "realName": null,
+  "aliases": "Krule",
   "creators": [
     "Rob Liefeld",
     "Fabian Nicieza"
   ],
-  "teams": [
-    "Externals",
-    "Third Reich"
+  "image": {
+    "height": "384",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Xforce12.jpg/250px-Xforce12.jpg",
+    "width": "250"
+  },
+  "name": "Crule",
+  "pageviews": 662,
+  "partners": [
   ],
-  "aliases": "Krule",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "enhanced senses",
     "strength",
@@ -29,10 +28,13 @@
     "fangs",
     "and gauntlet-covered claws"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Xforce12.jpg/250px-Xforce12.jpg",
-    "width": "250",
-    "height": "384"
-  },
-  "pageviews": 662
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Externals",
+    "Third Reich"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Crule"
 }

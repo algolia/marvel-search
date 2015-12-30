@@ -1,19 +1,17 @@
 {
-  "name": "Mother Night",
-  "url": "https://en.wikipedia.org/wiki/Mother_Night_(comics)",
-  "realName": "Susan Scarbo",
+  "aliases": "Suprema",
   "creators": [
     "Stan Lee",
     "Gene Colan"
   ],
-  "teams": [
-    "Skeleton Crew",
-    "Sisters of Sin"
+  "image": {
+  },
+  "name": "Mother Night",
+  "pageviews": 1089,
+  "partners": [
   ],
-  "aliases": "Suprema",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Illusions",
     "hypnosis",
@@ -21,6 +19,12 @@
     "can project ''dark light'' to vanish into shadows",
     "and possesses a necklace that emits a mind-subverting gas"
   ],
-  "image": {},
-  "pageviews": 1089
+  "realName": "Susan Scarbo",
+  "species": [
+  ],
+  "teams": [
+    "Skeleton Crew",
+    "Sisters of Sin"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mother_Night_(comics)"
 }

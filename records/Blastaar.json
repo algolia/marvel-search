@@ -1,19 +1,20 @@
 {
-  "name": "Blastaar",
-  "url": "https://en.wikipedia.org/wiki/Blastaar",
-  "realName": "Blastaar",
+  "aliases": "Living Bomb-Burst<br>Blasstaar",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Negative Zone",
-    "Frightful Four"
+  "image": {
+    "height": "372",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Thing006blastaar.jpg/250px-Thing006blastaar.jpg",
+    "width": "250"
+  },
+  "name": "Blastaar",
+  "pageviews": 4989,
+  "partners": [
   ],
-  "aliases": "Living Bomb-Burst<br>Blasstaar",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and endurance",
     "Enhanced durability and resistance to injury",
@@ -23,10 +24,12 @@
     "Highly trained in warfare",
     "Access to advanced technology"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Thing006blastaar.jpg/250px-Thing006blastaar.jpg",
-    "width": "250",
-    "height": "372"
-  },
-  "pageviews": 4892
+  "realName": "Blastaar",
+  "species": [
+  ],
+  "teams": [
+    "Negative Zone",
+    "Frightful Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blastaar"
 }

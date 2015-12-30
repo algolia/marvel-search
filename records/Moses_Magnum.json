@@ -1,25 +1,29 @@
 {
-  "name": "Moses Magnum",
-  "url": "https://en.wikipedia.org/wiki/Moses_Magnum",
-  "realName": "Moses Magnum",
+  "aliases": "",
   "creators": [
     "Gerry Conway",
     "Ross Andru"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "466",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Moses_Magnum_in_Dark_Wolverine_78.jpg/250px-Moses_Magnum_in_Dark_Wolverine_78.jpg",
+    "width": "250"
+  },
+  "name": "Moses Magnum",
+  "pageviews": 5346,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Releasing seismic energy through his fingertips",
     "using it to create earthquakes",
     "shockwaves or otherwise transport earth matter."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Moses_Magnum_in_Dark_Wolverine_78.jpg/250px-Moses_Magnum_in_Dark_Wolverine_78.jpg",
-    "width": "250",
-    "height": "466"
-  },
-  "pageviews": 5346
+  "realName": "Moses Magnum",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Moses_Magnum"
 }

@@ -1,21 +1,26 @@
 {
-  "name": "Morpheus",
-  "url": "https://en.wikipedia.org/wiki/Morpheus_(Marvel_Comics)",
-  "realName": "Robert Markham",
+  "aliases": "",
   "creators": [
     "Doug Moench",
     "Bill Sienkiewicz"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Morpheus",
+  "pageviews": 1527,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Mental projection",
     "psionic energy blast",
     "no need of sleep"
   ],
-  "image": {},
-  "pageviews": 1527
+  "realName": "Robert Markham",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Morpheus_(Marvel_Comics)"
 }

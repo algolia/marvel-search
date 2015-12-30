@@ -1,10 +1,26 @@
 {
-  "name": "Doctor Faustus",
-  "url": "https://en.wikipedia.org/wiki/Doctor_Faustus_(comics)",
-  "realName": "Johann Fennhoff",
+  "aliases": "Doctor Faustus, Master of Men's Minds, Edward Marlowe",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "404",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Faustuscap.PNG/250px-Faustuscap.PNG",
+    "width": "250"
+  },
+  "name": "Doctor Faustus",
+  "pageviews": 14776,
+  "partners": [
+    "Red Skull"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Expert in psychological warfare"
+  ],
+  "realName": "Johann Fennhoff",
+  "species": [
   ],
   "teams": [
     "Secret Empire",
@@ -12,19 +28,5 @@
     "National Force",
     "S.H.I.E.L.D."
   ],
-  "aliases": "Doctor Faustus, Master of Men's Minds, Edward Marlowe",
-  "species": [],
-  "partners": [
-    "Red Skull"
-  ],
-  "powers": [],
-  "powersText": [
-    "Expert in psychological warfare"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Faustuscap.PNG/250px-Faustuscap.PNG",
-    "width": "250",
-    "height": "404"
-  },
-  "pageviews": 14776
+  "url": "https://en.wikipedia.org/wiki/Doctor_Faustus_(comics)"
 }

@@ -1,25 +1,28 @@
 {
-  "name": "Torpedo",
-  "url": "https://en.wikipedia.org/wiki/Torpedo_(Marvel_Comics)",
-  "realName": "Brock Jones",
+  "aliases": "",
   "creators": [
     "Marv Wolfman",
     "John Romita, Sr."
   ],
-  "teams": [
-    "\"Defenders for a Day\""
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/MarvelPremiere-39.jpg/250px-MarvelPremiere-39.jpg",
+    "width": "250"
+  },
+  "name": "Torpedo",
+  "pageviews": 1522,
   "partners": [
     "Rom"
   ],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/MarvelPremiere-39.jpg/250px-MarvelPremiere-39.jpg",
-    "width": "250",
-    "height": "388"
-  },
-  "pageviews": 1522
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Brock Jones",
+  "species": [
+  ],
+  "teams": [
+    "\"Defenders for a Day\""
+  ],
+  "url": "https://en.wikipedia.org/wiki/Torpedo_(Marvel_Comics)"
 }

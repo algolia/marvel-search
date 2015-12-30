@@ -1,10 +1,26 @@
 {
-  "name": "Shang-Chi: Master of Kung Fu",
-  "url": "https://en.wikipedia.org/wiki/Shang-Chi",
-  "realName": "Shang-Chi",
+  "aliases": "Master of Kung-Fu",
   "creators": [
     "Steve Englehart",
     "Jim Starlin"
+  ],
+  "image": {
+    "height": "269",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Shang-Chi.jpg/250px-Shang-Chi.jpg",
+    "width": "250"
+  },
+  "name": "Shang-Chi: Master of Kung Fu",
+  "pageviews": 12093,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superb Athlete",
+    "Expert practitioner of the Chinese martial arts"
+  ],
+  "realName": "Shang-Chi",
+  "species": [
   ],
   "teams": [
     "Secret Avengers",
@@ -13,18 +29,5 @@
     "\"Marvel Knights\"",
     "Avengers"
   ],
-  "aliases": "Master of Kung-Fu",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superb Athlete",
-    "Expert practitioner of the Chinese martial arts"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Shang-Chi.jpg/250px-Shang-Chi.jpg",
-    "width": "250",
-    "height": "269"
-  },
-  "pageviews": 12093
+  "url": "https://en.wikipedia.org/wiki/Shang-Chi"
 }

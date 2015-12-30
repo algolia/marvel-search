@@ -1,27 +1,29 @@
 {
-  "name": "Morg",
-  "url": "https://en.wikipedia.org/wiki/Morg",
-  "realName": "Morg",
+  "aliases": "",
   "creators": [
     "Ron Marz",
     "Ron Lim"
   ],
-  "teams": [
-    "Heralds of Galactus"
+  "image": {
+    "height": "369",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Morg1.jpg/250px-Morg1.jpg",
+    "width": "250"
+  },
+  "name": "Morg",
+  "pageviews": 3354,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Power Cosmic"
   ],
   "powersText": [
     "Use of Power Cosmic"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Morg1.jpg/250px-Morg1.jpg",
-    "width": "250",
-    "height": "369"
-  },
-  "pageviews": 3354
+  "realName": "Morg",
+  "species": [
+  ],
+  "teams": [
+    "Heralds of Galactus"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Morg"
 }

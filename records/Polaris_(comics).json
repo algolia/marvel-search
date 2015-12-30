@@ -1,12 +1,30 @@
 {
-  "name": "Polaris",
-  "url": "https://en.wikipedia.org/wiki/Polaris_(comics)",
-  "realName": "Lorna Sally Dane",
+  "aliases": "M2, Magnetrix, Pestilence, Malice , Magneto the Second, Queen of the Mutants",
   "creators": [
     "Arnold Drake",
     "Don Heck",
     "Werner Roth",
     "Jim Steranko"
+  ],
+  "image": {
+    "height": "355",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/PolarisMagnetism.jpg/250px-PolarisMagnetism.jpg",
+    "width": "250"
+  },
+  "name": "Polaris",
+  "pageviews": 20095,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Electromagnetic Control",
+    "Flight",
+    "Magnetic Field Generation"
+  ],
+  "realName": "Lorna Sally Dane",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Factor (Serval Industries)",
@@ -19,21 +37,5 @@
     "Acolytes",
     "Horsemen of Apocalypse"
   ],
-  "aliases": "M2, Magnetrix, Pestilence, Malice , Magneto the Second, Queen of the Mutants",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Electromagnetic Control",
-    "Flight",
-    "Magnetic Field Generation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/PolarisMagnetism.jpg/250px-PolarisMagnetism.jpg",
-    "width": "250",
-    "height": "355"
-  },
-  "pageviews": 20095
+  "url": "https://en.wikipedia.org/wiki/Polaris_(comics)"
 }

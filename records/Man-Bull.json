@@ -1,27 +1,30 @@
 {
-  "name": "Man-Bull",
-  "url": "https://en.wikipedia.org/wiki/Man-Bull",
-  "realName": "William Taurens",
+  "aliases": "\"Bull Taurus\"",
   "creators": [
     "Gerry Conway",
     "Gary Friedrich"
   ],
-  "teams": [
-    "\"Death Squad\"",
-    "Frightful Four"
-  ],
-  "aliases": "\"Bull Taurus\"",
-  "species": [],
+  "image": {
+  },
+  "name": "Man-Bull",
+  "pageviews": 2398,
   "partners": [
     "Matador"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "agility and endurance",
     "High-level resistance to injury",
     "Set of horns"
   ],
-  "image": {},
-  "pageviews": 2398
+  "realName": "William Taurens",
+  "species": [
+  ],
+  "teams": [
+    "\"Death Squad\"",
+    "Frightful Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Man-Bull"
 }

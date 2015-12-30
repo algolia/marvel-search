@@ -1,22 +1,15 @@
 {
-  "name": "Stryfe",
-  "url": "https://en.wikipedia.org/wiki/Stryfe",
-  "realName": null,
+  "aliases": "Chaos Bringer, Scion of the Dark Lord, Cable",
   "creators": [
     "Louise Simonson",
     "Rob Liefeld"
   ],
-  "teams": [
-    "New Canaanites",
-    "Mutant Liberation Front",
-    "Dark Riders"
+  "image": {
+  },
+  "name": "Stryfe",
+  "pageviews": 10448,
+  "partners": [
   ],
-  "aliases": "Chaos Bringer, Scion of the Dark Lord, Cable",
-  "species": [
-    "Human Mutant",
-    "clone"
-  ],
-  "partners": [],
   "powers": [
     "Telekinesis",
     "Telepathy"
@@ -26,6 +19,15 @@
     "Telepathy",
     "Superhuman strength and durability"
   ],
-  "image": {},
-  "pageviews": 10448
+  "realName": null,
+  "species": [
+    "Human Mutant",
+    "clone"
+  ],
+  "teams": [
+    "New Canaanites",
+    "Mutant Liberation Front",
+    "Dark Riders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Stryfe"
 }

@@ -1,26 +1,29 @@
 {
-  "name": "Radian",
-  "url": "https://en.wikipedia.org/wiki/Radian_(Morituri)",
-  "realName": "Louis Armanetti",
+  "aliases": "",
   "creators": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "teams": [
-    "Strikeforce: Morituri"
+  "image": {
+    "height": "342",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Radian_Morituri.bmp/250px-Radian_Morituri.bmp.png",
+    "width": "250"
+  },
+  "name": "Radian",
+  "pageviews": 245,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Radiation blasts",
     "Enhanced strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Radian_Morituri.bmp/250px-Radian_Morituri.bmp.png",
-    "width": "250",
-    "height": "342"
-  },
-  "pageviews": 245
+  "realName": "Louis Armanetti",
+  "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Radian_(Morituri)"
 }

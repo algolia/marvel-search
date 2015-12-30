@@ -1,25 +1,28 @@
 {
-  "name": "Blue Eagle",
-  "url": "https://en.wikipedia.org/wiki/Blue_Eagle_(comics)",
-  "realName": "James Dore Junior",
+  "aliases": "American Eagle, Cap'n Hawk, Condor",
   "creators": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "teams": [
-    "Squadron Supreme"
+  "image": {
+    "height": "229",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BlueEagle.jpg/250px-BlueEagle.jpg",
+    "width": "250"
+  },
+  "name": "Blue Eagle",
+  "pageviews": 1260,
+  "partners": [
   ],
-  "aliases": "American Eagle, Cap'n Hawk, Condor",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Powers of flight derived from the special wings he wears"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BlueEagle.jpg/250px-BlueEagle.jpg",
-    "width": "250",
-    "height": "229"
-  },
-  "pageviews": 1260
+  "realName": "James Dore Junior",
+  "species": [
+  ],
+  "teams": [
+    "Squadron Supreme"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blue_Eagle_(comics)"
 }

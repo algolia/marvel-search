@@ -1,18 +1,22 @@
 {
-  "name": "The Kangaroo",
-  "url": "https://en.wikipedia.org/wiki/Kangaroo_(comics)",
-  "realName": "Frank Oliver",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "John Buscema",
     "Jim Mooney",
     "John Romita, Sr."
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "363",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Kanga1.jpg/249px-Kanga1.jpg",
+    "width": "249"
+  },
+  "name": "The Kangaroo",
+  "pageviews": 2183,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Professional boxer",
     "Peak physical condition",
@@ -20,10 +24,10 @@
     "Superhuman strength in his legs",
     "Ability to leap great heights and distances"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Kanga1.jpg/249px-Kanga1.jpg",
-    "width": "249",
-    "height": "363"
-  },
-  "pageviews": 2183
+  "realName": "Frank Oliver",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kangaroo_(comics)"
 }

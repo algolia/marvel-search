@@ -1,11 +1,27 @@
 {
-  "name": "Gauntlet",
-  "url": "https://en.wikipedia.org/wiki/Gauntlet_(comics)",
-  "realName": "Joseph Green",
+  "aliases": "",
   "creators": [
     "Dan Slott",
     "Stefano Caselli",
     "Eric Powell"
+  ],
+  "image": {
+    "height": "301",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/GauntletComicsPicture.png/200px-GauntletComicsPicture.png",
+    "width": "200"
+  },
+  "name": "Gauntlet",
+  "pageviews": 1509,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Right hand controls large",
+    "robotic gauntlet. Allows for projection of energy \"hand\"."
+  ],
+  "realName": "Joseph Green",
+  "species": [
   ],
   "teams": [
     "Avengers Resistance",
@@ -13,18 +29,5 @@
     "United States Army",
     "New Warriors"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Right hand controls large",
-    "robotic gauntlet. Allows for projection of energy \"hand\"."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/GauntletComicsPicture.png/200px-GauntletComicsPicture.png",
-    "width": "200",
-    "height": "301"
-  },
-  "pageviews": 1509
+  "url": "https://en.wikipedia.org/wiki/Gauntlet_(comics)"
 }

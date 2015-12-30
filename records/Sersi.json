@@ -1,20 +1,19 @@
 {
-  "name": "Sersi",
-  "url": "https://en.wikipedia.org/wiki/Sersi",
-  "realName": "Sersi",
+  "aliases": "Circe, Sylvia Sersi, Mesmer, Sorceress",
   "creators": [
     "Jack Kirby"
   ],
-  "teams": [
-    "Eternals",
-    "Avengers",
-    "Heroes for Hire",
-    "God Squad"
+  "image": {
+    "height": "364",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sersi_2.jpg/250px-Sersi_2.jpg",
+    "width": "250"
+  },
+  "name": "Sersi",
+  "pageviews": 7580,
+  "partners": [
   ],
-  "aliases": "Circe, Sylvia Sersi, Mesmer, Sorceress",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "Molecular and atomic manipulation",
@@ -22,10 +21,14 @@
     "Immortality",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sersi_2.jpg/250px-Sersi_2.jpg",
-    "width": "250",
-    "height": "364"
-  },
-  "pageviews": 7580
+  "realName": "Sersi",
+  "species": [
+  ],
+  "teams": [
+    "Eternals",
+    "Avengers",
+    "Heroes for Hire",
+    "God Squad"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sersi"
 }

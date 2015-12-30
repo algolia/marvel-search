@@ -1,10 +1,29 @@
 {
-  "name": "The Three-in-One",
-  "url": "https://en.wikipedia.org/wiki/Stepford_Cuckoos",
-  "realName": "Celeste Cuckoo<br>Esme Cuckoo (deceased)<br>Irma \"Mindee\" Cuckoo<br>Phoebe Cuckoo<br>Sophie Cuckoo (deceased)",
+  "aliases": "Three-in-One, Five-in-One, Thousand-in-One, Weapon XIV (Units 1 to 5)",
   "creators": [
     "Grant Morrison",
     "Ethan Van Sciver"
+  ],
+  "image": {
+    "height": "262",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Main_three-in-one.jpg/300px-Main_three-in-one.jpg",
+    "width": "300"
+  },
+  "name": "The Three-in-One",
+  "pageviews": 7766,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Telepathic hive-like super-mind",
+    "telekinesis",
+    "flawless diamond form impervious to destruction or emotion."
+  ],
+  "realName": "Celeste Cuckoo<br>Esme Cuckoo (deceased)<br>Irma \"Mindee\" Cuckoo<br>Phoebe Cuckoo<br>Sophie Cuckoo (deceased)",
+  "species": [
+    "Mutants",
+    "clones"
   ],
   "teams": [
     "Weapon Plus",
@@ -18,22 +37,5 @@
     "Chaos War",
     "Dead X-Men"
   ],
-  "aliases": "Three-in-One, Five-in-One, Thousand-in-One, Weapon XIV (Units 1 to 5)",
-  "species": [
-    "Mutants",
-    "clones"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Telepathic hive-like super-mind",
-    "telekinesis",
-    "flawless diamond form impervious to destruction or emotion."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Main_three-in-one.jpg/300px-Main_three-in-one.jpg",
-    "width": "300",
-    "height": "262"
-  },
-  "pageviews": 7766
+  "url": "https://en.wikipedia.org/wiki/Stepford_Cuckoos"
 }

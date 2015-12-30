@@ -1,22 +1,26 @@
 {
-  "name": "Hope Pym",
-  "url": "https://en.wikipedia.org/wiki/Hope_Pym",
-  "realName": null,
+  "aliases": "Red Queen",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [
-    "Revengers"
+  "image": {
+  },
+  "name": "Hope Pym",
+  "pageviews": 59909,
+  "partners": [
   ],
-  "aliases": "Red Queen",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Flight via implanted bio-wings",
     "Bio-electric blasters and extendable claws on her gloves"
   ],
-  "image": {},
-  "pageviews": 59909
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Revengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hope_Pym"
 }

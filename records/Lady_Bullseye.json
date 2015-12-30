@@ -1,28 +1,31 @@
 {
-  "name": "Lady Bullseye",
-  "url": "https://en.wikipedia.org/wiki/Lady_Bullseye",
-  "realName": "Maki Matsumoto",
+  "aliases": "",
   "creators": [
     "Ed Brubaker",
     "Marko Djurdjevic",
     "Clay Mann"
   ],
-  "teams": [
-    "The Hand"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/53/Lady_Bullseye.jpg",
+    "width": "250"
+  },
+  "name": "Lady Bullseye",
+  "pageviews": 4120,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Master martial artist",
     "Proficient hand to hand combatant",
     "Skilled lawyer"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/53/Lady_Bullseye.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 4120
+  "realName": "Maki Matsumoto",
+  "species": [
+  ],
+  "teams": [
+    "The Hand"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lady_Bullseye"
 }

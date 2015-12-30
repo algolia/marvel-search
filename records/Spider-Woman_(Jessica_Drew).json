@@ -1,23 +1,18 @@
 {
-  "name": "Spider-Woman",
-  "url": "https://en.wikipedia.org/wiki/Spider-Woman_(Jessica_Drew)",
-  "realName": "Jessica Miriam Drew",
+  "aliases": "Arachne, Ariadne Hyde, Hunter",
   "creators": [
     "Archie Goodwin",
     "Marie Severin"
   ],
-  "teams": [
-    "Avengers",
-    "HYDRA",
-    "Lady Liberators",
-    "New Avengers",
-    "S.H.I.E.L.D.",
-    "S.W.O.R.D.",
-    "Secret Avengers"
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Spider-Woman_v1_1.png/250px-Spider-Woman_v1_1.png",
+    "width": "250"
+  },
+  "name": "Spider-Woman",
+  "pageviews": 57105,
+  "partners": [
   ],
-  "aliases": "Arachne, Ariadne Hyde, Hunter",
-  "species": [],
-  "partners": [],
   "powers": [
     "Superhuman strength",
     "speed",
@@ -38,10 +33,17 @@
     "Bio-electric energy projection",
     "Wallcrawling"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Spider-Woman_v1_1.png/250px-Spider-Woman_v1_1.png",
-    "width": "250",
-    "height": "382"
-  },
-  "pageviews": 57105
+  "realName": "Jessica Miriam Drew",
+  "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "HYDRA",
+    "Lady Liberators",
+    "New Avengers",
+    "S.H.I.E.L.D.",
+    "S.W.O.R.D.",
+    "Secret Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spider-Woman_(Jessica_Drew)"
 }

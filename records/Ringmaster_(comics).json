@@ -1,27 +1,30 @@
 {
-  "name": "The Ringmaster",
-  "url": "https://en.wikipedia.org/wiki/Ringmaster_(comics)",
-  "realName": "Maynard Tiboldt",
+  "aliases": "Circus Master of Ceremonies; Martin Thraller",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Circus of Crime"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Ringmaster.png/201px-Ringmaster.png",
+    "width": "201"
+  },
+  "name": "The Ringmaster",
+  "pageviews": 2427,
+  "partners": [
   ],
-  "aliases": "Circus Master of Ceremonies; Martin Thraller",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Hypnotic mind control via device on his hat",
     "Formerly:",
     "Reality manipulation via cosmic powered ring"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Ringmaster.png/201px-Ringmaster.png",
-    "width": "201",
-    "height": "450"
-  },
-  "pageviews": 2427
+  "realName": "Maynard Tiboldt",
+  "species": [
+  ],
+  "teams": [
+    "Circus of Crime"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ringmaster_(comics)"
 }

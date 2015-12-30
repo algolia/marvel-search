@@ -1,26 +1,29 @@
 {
-  "name": "Nahrees",
-  "url": "https://en.wikipedia.org/wiki/Nahrees",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Paul Jenkins",
     "Jae Lee"
   ],
-  "teams": [
-    "Inhumans"
+  "image": {
+    "height": "359",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nahreesinhuman.jpg/225px-Nahreesinhuman.jpg",
+    "width": "225"
+  },
+  "name": "Nahrees",
+  "pageviews": 2102,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Generates electricity",
     "flight."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nahreesinhuman.jpg/225px-Nahreesinhuman.jpg",
-    "width": "225",
-    "height": "359"
-  },
-  "pageviews": 2102
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Inhumans"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nahrees"
 }

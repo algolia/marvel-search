@@ -1,20 +1,24 @@
 {
-  "name": "Dark Angel",
-  "url": "https://en.wikipedia.org/wiki/Dark_Angel_(Marvel_Comics)",
-  "realName": "Shevaun Haldane",
+  "aliases": "Hell's Angel",
   "creators": [
     "Geoff Senior"
+  ],
+  "image": {
+  },
+  "name": "Dark Angel",
+  "pageviews": 1090,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Shevaun Haldane",
+  "species": [
+    "Human Mutate"
   ],
   "teams": [
     "MI-13"
   ],
-  "aliases": "Hell's Angel",
-  "species": [
-    "Human Mutate"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 1090
+  "url": "https://en.wikipedia.org/wiki/Dark_Angel_(Marvel_Comics)"
 }

@@ -1,10 +1,26 @@
 {
-  "name": "Debrii",
-  "url": "https://en.wikipedia.org/wiki/Debrii",
-  "realName": "Deborah Fields",
+  "aliases": "",
   "creators": [
     "Zeb Wells",
     "Scottie Young"
+  ],
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/NEWWAR004cover.jpg/250px-NEWWAR004cover.jpg",
+    "width": "250"
+  },
+  "name": "Debrii",
+  "pageviews": 1257,
+  "partners": [
+  ],
+  "powers": [
+    "Telekinesis"
+  ],
+  "powersText": [
+    "Telekinesis"
+  ],
+  "realName": "Deborah Fields",
+  "species": [
   ],
   "teams": [
     "Secret Avengers (Civil War)",
@@ -12,19 +28,5 @@
     "The Initiative",
     "New Warriors"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [
-    "Telekinesis"
-  ],
-  "powersText": [
-    "Telekinesis"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/NEWWAR004cover.jpg/250px-NEWWAR004cover.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 1257
+  "url": "https://en.wikipedia.org/wiki/Debrii"
 }

@@ -1,27 +1,29 @@
 {
-  "name": "Nightside",
-  "url": "https://en.wikipedia.org/wiki/Nightside_(comics)",
-  "realName": null,
+  "aliases": "Nightshade",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Imperial Guard"
+  "image": {
+    "height": "370",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Nightsidewiki.jpg",
+    "width": "200"
+  },
+  "name": "Nightside",
+  "pageviews": 676,
+  "partners": [
   ],
-  "aliases": "Nightshade",
-  "species": [],
-  "partners": [],
   "powers": [
     "Darkforce"
   ],
   "powersText": [
     "Natural Darkforce dimension interface grants a wide range of darkness-based abilities."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Nightsidewiki.jpg",
-    "width": "200",
-    "height": "370"
-  },
-  "pageviews": 676
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nightside_(comics)"
 }

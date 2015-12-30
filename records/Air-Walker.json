@@ -1,28 +1,30 @@
 {
-  "name": "Air-Walker",
-  "url": "https://en.wikipedia.org/wiki/Air-Walker",
-  "realName": "Gabriel Lan",
+  "aliases": "Archangel Gabriel",
   "creators": [
     "Stan Lee",
     "John Buscema"
   ],
-  "teams": [
-    "Heralds of Galactus",
-    "Nova Corps"
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Thor-305.jpg/250px-Thor-305.jpg",
+    "width": "250"
+  },
+  "name": "Air-Walker",
+  "pageviews": 4934,
+  "partners": [
   ],
-  "aliases": "Archangel Gabriel",
-  "species": [],
-  "partners": [],
   "powers": [
     "Power Cosmic"
   ],
   "powersText": [
     "Power Cosmic"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Thor-305.jpg/250px-Thor-305.jpg",
-    "width": "250",
-    "height": "386"
-  },
-  "pageviews": 4934
+  "realName": "Gabriel Lan",
+  "species": [
+  ],
+  "teams": [
+    "Heralds of Galactus",
+    "Nova Corps"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Air-Walker"
 }

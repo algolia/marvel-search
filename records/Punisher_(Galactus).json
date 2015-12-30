@@ -1,29 +1,32 @@
 {
-  "name": "Punisher",
-  "url": "https://en.wikipedia.org/wiki/Punisher_(Galactus)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Heralds of Galactus",
-    "Frightful Four"
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/7/7e/Fantastic_Four_No._74.jpg",
+    "width": "200"
+  },
+  "name": "Punisher",
+  "pageviews": 1873,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman Strength",
     "Speed and Durability",
     "Self-Repair",
     "Force Field Generation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/7/7e/Fantastic_Four_No._74.jpg",
-    "width": "200",
-    "height": "300"
-  },
-  "pageviews": 1873
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Heralds of Galactus",
+    "Frightful Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Punisher_(Galactus)"
 }

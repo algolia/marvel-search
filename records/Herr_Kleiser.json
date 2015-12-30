@@ -1,24 +1,28 @@
 {
-  "name": "Herr Kleiser",
-  "url": "https://en.wikipedia.org/wiki/Herr_Kleiser",
-  "realName": null,
+  "aliases": "Herr Kameleon",
   "creators": [
     "Mark Millar",
     "Bryan Hitch"
   ],
-  "teams": [
-    "Chitauri",
-    "Nazi Germany"
+  "image": {
+  },
+  "name": "Herr Kleiser",
+  "pageviews": 1401,
+  "partners": [
   ],
-  "aliases": "Herr Kameleon",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and healing",
     "Shapeshifting",
     "Skilled hand to hand combatant"
   ],
-  "image": {},
-  "pageviews": 1401
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Chitauri",
+    "Nazi Germany"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Herr_Kleiser"
 }

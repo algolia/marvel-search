@@ -1,20 +1,21 @@
 {
-  "name": "Baron von Strucker",
-  "url": "https://en.wikipedia.org/wiki/Baron_Strucker",
-  "realName": "Wolfgang von Strucker",
+  "aliases": "Supreme Hydra, Grand Imperator of THEM, Don Guy Antonio Caballero, Emir Ali Bey, John Bronson, Sagittarius",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Hydra"
-  ],
-  "aliases": "Supreme Hydra, Grand Imperator of THEM, Don Guy Antonio Caballero, Emir Ali Bey, John Bronson, Sagittarius",
-  "species": [],
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Baronstrucker.png",
+    "width": "187"
+  },
+  "name": "Baron von Strucker",
+  "pageviews": 41078,
   "partners": [
     "Baron Helmut Zemo"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled military strategist and spy",
     "Master of disguise",
@@ -26,10 +27,11 @@
     "Healing factor and limited invulnerability via Death Spore virus in his blood",
     "Repressed aging"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Baronstrucker.png",
-    "width": "187",
-    "height": "450"
-  },
-  "pageviews": 41078
+  "realName": "Wolfgang von Strucker",
+  "species": [
+  ],
+  "teams": [
+    "Hydra"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Baron_Strucker"
 }

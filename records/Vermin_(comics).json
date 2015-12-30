@@ -1,19 +1,22 @@
 {
-  "name": "Vermin",
-  "url": "https://en.wikipedia.org/wiki/Vermin_(comics)",
-  "realName": "Edward Whelan",
+  "aliases": "",
   "creators": [
     "J. M. DeMatteis",
     "Mike Zeck"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "348",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Specv.jpg/225px-Specv.jpg",
+    "width": "225"
+  },
+  "name": "Vermin",
+  "pageviews": 3141,
   "partners": [
     "Baron Zemo",
     "Armin Zola"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Accomplished geneticist",
     "Superhuman strength",
@@ -25,10 +28,10 @@
     "Inch-long claw-like fingernails",
     "Ability to control rats and stray dogs and revert to human form at will"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Specv.jpg/225px-Specv.jpg",
-    "width": "225",
-    "height": "348"
-  },
-  "pageviews": 3141
+  "realName": "Edward Whelan",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Vermin_(comics)"
 }

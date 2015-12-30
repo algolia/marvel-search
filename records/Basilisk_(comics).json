@@ -1,21 +1,22 @@
 {
-  "name": "Basilisk",
-  "url": "https://en.wikipedia.org/wiki/Basilisk_(comics)",
-  "realName": "(Supervillain)  Basil Elks <br>(Mutant) Mike Columbus",
+  "aliases": "",
   "creators": [
     "Len Wein",
     "Gil Kane",
     "Grant Morrison",
     "Frank Quitely"
   ],
-  "teams": [
-    "Xavier Institute student body",
-    "Brotherhood of Mutants"
+  "image": {
+    "height": "383",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/MTU047011basilisk.png/225px-MTU047011basilisk.png",
+    "width": "225"
+  },
+  "name": "Basilisk",
+  "pageviews": 1820,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(Supervillain)",
     "Superhuman strength",
@@ -26,10 +27,12 @@
     "(Mutant)",
     "Paralyzing Pulse"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/MTU047011basilisk.png/225px-MTU047011basilisk.png",
-    "width": "225",
-    "height": "383"
-  },
-  "pageviews": 1820
+  "realName": "(Supervillain)  Basil Elks <br>(Mutant) Mike Columbus",
+  "species": [
+  ],
+  "teams": [
+    "Xavier Institute student body",
+    "Brotherhood of Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Basilisk_(comics)"
 }

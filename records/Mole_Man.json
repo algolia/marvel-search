@@ -1,17 +1,16 @@
 {
-  "name": "Mole Man",
-  "url": "https://en.wikipedia.org/wiki/Mole_Man",
-  "realName": "Harvey Rupert Elder",
+  "aliases": "Dr. Wrong",
   "creators": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "teams": [
-    "Subterranea",
-    "Outcasts"
-  ],
-  "aliases": "Dr. Wrong",
-  "species": [],
+  "image": {
+    "height": "314",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Mole_man.jpg/250px-Mole_man.jpg",
+    "width": "250"
+  },
+  "name": "Mole Man",
+  "pageviews": 6973,
   "partners": [
     "Thing",
     "Hulk",
@@ -28,10 +27,12 @@
     "Highly developed \"radar senses\" to help his weak normal vision",
     "Has developed a fighting style resembling the Japanese martial art of bōjutsu"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Mole_man.jpg/250px-Mole_man.jpg",
-    "width": "250",
-    "height": "314"
-  },
-  "pageviews": 6973
+  "realName": "Harvey Rupert Elder",
+  "species": [
+  ],
+  "teams": [
+    "Subterranea",
+    "Outcasts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mole_Man"
 }

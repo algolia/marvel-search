@@ -1,14 +1,16 @@
 {
-  "name": "Gabriel",
-  "url": "https://en.wikipedia.org/wiki/Gabriel_(New-Gen)",
-  "realName": "John Gabriel",
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [
-    "Human"
+  "creators": [
   ],
-  "partners": [],
+  "image": {
+    "height": "351",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Gabriel_New-Gen.jpg",
+    "width": "282"
+  },
+  "name": "Gabriel",
+  "pageviews": 150,
+  "partners": [
+  ],
   "powers": [
     "Technopathy",
     "Telekinesis",
@@ -23,10 +25,11 @@
     "Able to travel to any point in time and space",
     "Energy blasts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Gabriel_New-Gen.jpg",
-    "width": "282",
-    "height": "351"
-  },
-  "pageviews": 150
+  "realName": "John Gabriel",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gabriel_(New-Gen)"
 }

@@ -1,18 +1,21 @@
 {
-  "name": "Mister Fear",
-  "url": "https://en.wikipedia.org/wiki/Mister_Fear",
-  "realName": "Zoltan Drago",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Wally Wood"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "481",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Mrfear.jpg",
+    "width": "250"
+  },
+  "name": "Mister Fear",
+  "pageviews": 3215,
   "partners": [
     "Lucia von Bardas"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Accomplished wax sculptor",
     "Talented amateur chemist",
@@ -21,10 +24,10 @@
     "occasionally by syringe",
     "most recently by an aerosol sprayer"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Mrfear.jpg",
-    "width": "250",
-    "height": "481"
-  },
-  "pageviews": 3215
+  "realName": "Zoltan Drago",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mister_Fear"
 }

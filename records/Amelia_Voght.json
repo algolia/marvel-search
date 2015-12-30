@@ -1,29 +1,31 @@
 {
-  "name": "Amelia Voght",
-  "url": "https://en.wikipedia.org/wiki/Amelia_Voght",
-  "realName": "Amelia C. Voght",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "John Romita Jr"
+  ],
+  "image": {
+    "height": "331",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/cd/XMEN_AmeliaVoght.jpg",
+    "width": "250"
+  },
+  "name": "Amelia Voght",
+  "pageviews": 1990,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Teleportation",
+    "can turn herself and matter around her into a mist-like state."
+  ],
+  "realName": "Amelia C. Voght",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Acolytes",
     "Genoshan Cabinet"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Teleportation",
-    "can turn herself and matter around her into a mist-like state."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/cd/XMEN_AmeliaVoght.jpg",
-    "width": "250",
-    "height": "331"
-  },
-  "pageviews": 1990
+  "url": "https://en.wikipedia.org/wiki/Amelia_Voght"
 }

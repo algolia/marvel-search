@@ -1,29 +1,31 @@
 {
-  "name": "John the Skrull",
-  "url": "https://en.wikipedia.org/wiki/John_the_Skrull",
-  "realName": "",
+  "aliases": "John Lennon",
   "creators": [
     "Paul Cornell",
     "Trevor Hairsine"
+  ],
+  "image": {
+    "height": "308",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Johnskrull.jpg/150px-Johnskrull.jpg",
+    "width": "150"
+  },
+  "name": "John the Skrull",
+  "pageviews": 729,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Shapeshifting",
+    "Flight via wings"
+  ],
+  "realName": "",
+  "species": [
+    "Skrull"
   ],
   "teams": [
     "Skrull Empire",
     "MI-13"
   ],
-  "aliases": "John Lennon",
-  "species": [
-    "Skrull"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Shapeshifting",
-    "Flight via wings"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Johnskrull.jpg/150px-Johnskrull.jpg",
-    "width": "150",
-    "height": "308"
-  },
-  "pageviews": 729
+  "url": "https://en.wikipedia.org/wiki/John_the_Skrull"
 }

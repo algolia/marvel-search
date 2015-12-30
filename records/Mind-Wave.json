@@ -1,22 +1,26 @@
 {
-  "name": "Mind-Wave",
-  "url": "https://en.wikipedia.org/wiki/Mind-Wave",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Marv Wolfman",
     "Bob Brown",
     "Jim Mooney"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "human"
+  "image": {
+  },
+  "name": "Mind-Wave",
+  "pageviews": 466,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Psionic powers"
   ],
-  "image": {},
-  "pageviews": 466
+  "realName": null,
+  "species": [
+    "human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mind-Wave"
 }

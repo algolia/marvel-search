@@ -1,22 +1,26 @@
 {
-  "name": "Isbisa",
-  "url": "https://en.wikipedia.org/wiki/Isbisa",
-  "realName": "Simon Meke (also given as Merton Meke)",
+  "aliases": "Dr. I.S. Bishoff, Dr. Sanderson",
   "creators": [
     "Bill Finger"
   ],
-  "teams": [],
-  "aliases": "Dr. I.S. Bishoff, Dr. Sanderson",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "339",
+    "url": "https://upload.wikimedia.org/wikipedia/en/6/60/AllWinners19.jpg",
+    "width": "230"
+  },
+  "name": "Isbisa",
+  "pageviews": 486,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Expertise in chemistry and radioactivity"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/60/AllWinners19.jpg",
-    "width": "230",
-    "height": "339"
-  },
-  "pageviews": 486
+  "realName": "Simon Meke (also given as Merton Meke)",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Isbisa"
 }

@@ -1,28 +1,31 @@
 {
-  "name": "Steel Serpent",
-  "url": "https://en.wikipedia.org/wiki/Steel_Serpent",
-  "realName": "Davos",
+  "aliases": "Steel Phoenix",
   "creators": [
     "Tony Isabella",
     "Frank McLaughlin"
   ],
-  "teams": [
-    "HYDRA",
-    "Immortal Weapons"
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Steel_serpent.jpg",
+    "width": "176"
+  },
+  "name": "Steel Serpent",
+  "pageviews": 9904,
+  "partners": [
   ],
-  "aliases": "Steel Phoenix",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "The power of the Serpent's Sting",
     "master of the martial arts",
     "capable of draining the power the Iron Fist from its wielder"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Steel_serpent.jpg",
-    "width": "176",
-    "height": "300"
-  },
-  "pageviews": 9904
+  "realName": "Davos",
+  "species": [
+  ],
+  "teams": [
+    "HYDRA",
+    "Immortal Weapons"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Steel_Serpent"
 }

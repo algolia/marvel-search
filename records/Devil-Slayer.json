@@ -1,28 +1,31 @@
 {
-  "name": "Devil-Slayer",
-  "url": "https://en.wikipedia.org/wiki/Devil-Slayer",
-  "realName": "Eric Simon Payne",
+  "aliases": "Agent of Death, The Reaper of Souls, \"Cape Man\"",
   "creators": [
     "Rich Buckler"
+  ],
+  "image": {
+    "height": "212",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Devil-Slayer.jpg/250px-Devil-Slayer.jpg",
+    "width": "250"
+  },
+  "name": "Devil-Slayer",
+  "pageviews": 2355,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Telepathy",
+    "Telekinesis",
+    "Teleportation"
+  ],
+  "realName": "Eric Simon Payne",
+  "species": [
   ],
   "teams": [
     "Defenders",
     "Agents of Fortune",
     "Revengers"
   ],
-  "aliases": "Agent of Death, The Reaper of Souls, \"Cape Man\"",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Telepathy",
-    "Telekinesis",
-    "Teleportation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Devil-Slayer.jpg/250px-Devil-Slayer.jpg",
-    "width": "250",
-    "height": "212"
-  },
-  "pageviews": 2355
+  "url": "https://en.wikipedia.org/wiki/Devil-Slayer"
 }

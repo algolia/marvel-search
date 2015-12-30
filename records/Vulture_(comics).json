@@ -1,30 +1,33 @@
 {
-  "name": "Vulture",
-  "url": "https://en.wikipedia.org/wiki/Vulture_(comics)",
-  "realName": "Adrian Toomes",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Sinister Twelve",
-    "Sinister Six",
-    "Legion Accursed"
+  "image": {
+    "height": "374",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Vulturecomics.jpg/250px-Vulturecomics.jpg",
+    "width": "250"
+  },
+  "name": "Vulture",
+  "pageviews": 15396,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius electrical engineer",
     "Electromagnetic tailored body-harness grants:",
     "Enhanced physical attributes",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Vulturecomics.jpg/250px-Vulturecomics.jpg",
-    "width": "250",
-    "height": "374"
-  },
-  "pageviews": 15396
+  "realName": "Adrian Toomes",
+  "species": [
+  ],
+  "teams": [
+    "Sinister Twelve",
+    "Sinister Six",
+    "Legion Accursed"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Vulture_(comics)"
 }

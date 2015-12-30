@@ -1,28 +1,31 @@
 {
-  "name": "The Vision",
-  "url": "https://en.wikipedia.org/wiki/Vision_(Timely_Comics)",
-  "realName": "Aarkus",
+  "aliases": "",
   "creators": [
     "Joe Simon",
     "Jack Kirby"
   ],
-  "teams": [
-    "Invaders"
+  "image": {
+    "height": "373",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/GoldenAgeVision.jpg/220px-GoldenAgeVision.jpg",
+    "width": "220"
+  },
+  "name": "The Vision",
+  "pageviews": 5768,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Flight",
     "Cold and ice generation",
     "Limited teleportation",
     "Generate illusory images of himself"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/GoldenAgeVision.jpg/220px-GoldenAgeVision.jpg",
-    "width": "220",
-    "height": "373"
-  },
-  "pageviews": 5768
+  "realName": "Aarkus",
+  "species": [
+  ],
+  "teams": [
+    "Invaders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Vision_(Timely_Comics)"
 }

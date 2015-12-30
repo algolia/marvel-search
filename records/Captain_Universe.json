@@ -1,22 +1,20 @@
 {
-  "name": "Captain Universe",
-  "url": "https://en.wikipedia.org/wiki/Captain_Universe",
-  "realName": "Various hosts",
+  "aliases": "Guardian of Eternity, The Avenging Angel, The Hero That Could Be You",
   "creators": [
     "Bill Mantlo",
     "Michael Golden"
   ],
-  "teams": [
-    "Kree",
-    "Micronauts",
-    "Badoon",
-    "Guardians of the Galaxy",
-    "Avengers"
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Captain_Universe.jpg/240px-Captain_Universe.jpg",
+    "width": "240"
+  },
+  "name": "Captain Universe",
+  "pageviews": 8453,
+  "partners": [
   ],
-  "aliases": "Guardian of Eternity, The Avenging Angel, The Hero That Could Be You",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -29,10 +27,15 @@
     "Telekinesis",
     "Time Travel"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Captain_Universe.jpg/240px-Captain_Universe.jpg",
-    "width": "240",
-    "height": "377"
-  },
-  "pageviews": 8453
+  "realName": "Various hosts",
+  "species": [
+  ],
+  "teams": [
+    "Kree",
+    "Micronauts",
+    "Badoon",
+    "Guardians of the Galaxy",
+    "Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Captain_Universe"
 }

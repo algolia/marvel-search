@@ -1,25 +1,28 @@
 {
-  "name": "Goldballs",
-  "url": "https://en.wikipedia.org/wiki/Goldballs",
-  "realName": "Fabio Medina",
+  "aliases": "Goldballs",
   "creators": [
     "Brian Michael Bendis",
     "Chris Bachalo"
   ],
-  "teams": [
-    "X-Men"
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Fabio_Medina_X-Men.png",
+    "width": "250"
+  },
+  "name": "Goldballs",
+  "pageviews": 845,
+  "partners": [
   ],
-  "aliases": "Goldballs",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to project golden balls from skin"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Fabio_Medina_X-Men.png",
-    "width": "250",
-    "height": "386"
-  },
-  "pageviews": 845
+  "realName": "Fabio Medina",
+  "species": [
+  ],
+  "teams": [
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Goldballs"
 }

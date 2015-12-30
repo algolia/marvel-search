@@ -1,19 +1,18 @@
 {
-  "name": "Firebird",
-  "url": "https://en.wikipedia.org/wiki/Firebird_(Marvel_Comics)",
-  "realName": "Bonita Juarez",
+  "aliases": "La Espirita",
   "creators": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "teams": [
-    "Rangers",
-    "Avengers West Coast",
-    "Avengers"
+  "image": {
+    "height": "435",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/38/FirebirdMarvel.jpg",
+    "width": "200"
+  },
+  "name": "Firebird",
+  "pageviews": 4378,
+  "partners": [
   ],
-  "aliases": "La Espirita",
-  "species": [],
-  "partners": [],
   "powers": [
     "Fire manipulation",
     "precognition"
@@ -25,10 +24,13 @@
     "Immunity to poison",
     "radiation and demonic magic"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/38/FirebirdMarvel.jpg",
-    "width": "200",
-    "height": "435"
-  },
-  "pageviews": 4378
+  "realName": "Bonita Juarez",
+  "species": [
+  ],
+  "teams": [
+    "Rangers",
+    "Avengers West Coast",
+    "Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Firebird_(Marvel_Comics)"
 }

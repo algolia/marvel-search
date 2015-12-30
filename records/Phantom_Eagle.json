@@ -1,26 +1,29 @@
 {
-  "name": "Phantom Eagle (Marvel Comics)",
-  "url": "https://en.wikipedia.org/wiki/Phantom_Eagle",
-  "realName": "Karl Kaufman",
+  "aliases": "",
   "creators": [
     "Gary Friedrich",
     "Herb Trimpe"
   ],
-  "teams": [
-    "Freedom's Five"
+  "image": {
+    "height": "328",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/MarvelSuper-Heroes16.jpg/220px-MarvelSuper-Heroes16.jpg",
+    "width": "220"
+  },
+  "name": "Phantom Eagle (Marvel Comics)",
+  "pageviews": 1983,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "None: Ace World War I pilot",
     "Good hand to hand combatant"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/MarvelSuper-Heroes16.jpg/220px-MarvelSuper-Heroes16.jpg",
-    "width": "220",
-    "height": "328"
-  },
-  "pageviews": 1983
+  "realName": "Karl Kaufman",
+  "species": [
+  ],
+  "teams": [
+    "Freedom's Five"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Phantom_Eagle"
 }

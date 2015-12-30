@@ -1,18 +1,23 @@
 {
-  "name": "Jane Smythe",
-  "url": "https://en.wikipedia.org/wiki/Jane_Smythe",
-  "realName": "Jane Smythe",
-  "creators": [],
-  "teams": [
-    "Brotherhood of Mutants"
-  ],
   "aliases": "",
+  "creators": [
+  ],
+  "image": {
+  },
+  "name": "Jane Smythe",
+  "pageviews": 446,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Jane Smythe",
   "species": [
     "Human Mutant"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 446
+  "teams": [
+    "Brotherhood of Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jane_Smythe"
 }

@@ -1,26 +1,29 @@
 {
-  "name": "The Blood Brothers",
-  "url": "https://en.wikipedia.org/wiki/Blood_Brothers_(comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Jim Starlin",
     "Mike Friedrich"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Roclite"
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Iron_Man_v1_055_-_00.jpg/250px-Iron_Man_v1_055_-_00.jpg",
+    "width": "250"
+  },
+  "name": "The Blood Brothers",
+  "pageviews": 1906,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability (increased when in proximity to one another)",
     "Vampiric need to drain blood"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Iron_Man_v1_055_-_00.jpg/250px-Iron_Man_v1_055_-_00.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 1906
+  "realName": "",
+  "species": [
+    "Roclite"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blood_Brothers_(comics)"
 }

@@ -1,22 +1,20 @@
 {
-  "name": "Darkhawk",
-  "url": "https://en.wikipedia.org/wiki/Darkhawk",
-  "realName": "Christopher \"Chris\" Powell",
+  "aliases": "The Powell, Falconer, Edge-Man",
   "creators": [
     "Tom DeFalco",
     "Mike Manley"
   ],
-  "teams": [
-    "Loners",
-    "New Warriors",
-    "Project Pegasus",
-    "Secret Defenders",
-    "West Coast Avengers"
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Darkhawk_1.jpg/250px-Darkhawk_1.jpg",
+    "width": "250"
+  },
+  "name": "Darkhawk",
+  "pageviews": 7529,
+  "partners": [
   ],
-  "aliases": "The Powell, Falconer, Edge-Man",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Energy blasts",
     "Energy shield",
@@ -26,10 +24,15 @@
     "Accelerated healing factor",
     "Superhuman strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Darkhawk_1.jpg/250px-Darkhawk_1.jpg",
-    "width": "250",
-    "height": "386"
-  },
-  "pageviews": 7529
+  "realName": "Christopher \"Chris\" Powell",
+  "species": [
+  ],
+  "teams": [
+    "Loners",
+    "New Warriors",
+    "Project Pegasus",
+    "Secret Defenders",
+    "West Coast Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Darkhawk"
 }

@@ -1,18 +1,17 @@
 {
-  "name": "Diamanda Nero",
-  "url": "https://en.wikipedia.org/wiki/Diamanda_Nero",
-  "realName": "Diamanda Nero",
+  "aliases": "",
   "creators": [
     "John Francis Moore",
     "Pascal Alixe"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "image": {
+  },
+  "name": "Diamanda Nero",
+  "pageviews": 403,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Duplicates the powers of those who die close to her",
     "Enhanced speed",
@@ -23,6 +22,11 @@
     "Generates electricity",
     "Phoenix Force (briefly)"
   ],
-  "image": {},
-  "pageviews": 403
+  "realName": "Diamanda Nero",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Diamanda_Nero"
 }

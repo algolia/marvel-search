@@ -1,21 +1,26 @@
 {
-  "name": "Goblin",
-  "url": "https://en.wikipedia.org/wiki/Goblin_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "305",
     "url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Superior-Spider-Man-26.jpg",
-    "width": "200",
-    "height": "305"
+    "width": "200"
   },
-  "pageviews": 2023
+  "name": "Goblin",
+  "pageviews": 2023,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Goblin_(Marvel_Comics)"
 }

@@ -1,26 +1,30 @@
 {
-  "name": "The Fin",
-  "url": "https://en.wikipedia.org/wiki/Fin_(comics)",
-  "realName": "Peter Noble",
-  "creators": [],
-  "teams": [
-    "United States Navy",
-    "Invaders",
-    "Initiative"
-  ],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "340",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Fin-comics.jpg/250px-Fin-comics.jpg",
+    "width": "250"
+  },
+  "name": "The Fin",
+  "pageviews": 1685,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and speed",
     "Underwater adaptation",
     "Wields magical cutlass that can cut through nearly anything and stops aging process"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Fin-comics.jpg/250px-Fin-comics.jpg",
-    "width": "250",
-    "height": "340"
-  },
-  "pageviews": 1685
+  "realName": "Peter Noble",
+  "species": [
+  ],
+  "teams": [
+    "United States Navy",
+    "Invaders",
+    "Initiative"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Fin_(comics)"
 }

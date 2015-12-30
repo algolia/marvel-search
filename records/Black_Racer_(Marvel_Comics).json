@@ -1,26 +1,29 @@
 {
-  "name": "Black Racer",
-  "url": "https://en.wikipedia.org/wiki/Black_Racer_(Marvel_Comics)",
-  "realName": "Ariana",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Tom Morgan"
+  ],
+  "image": {
+    "height": "289",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/1d/Black_racer_marvel.jpg",
+    "width": "191"
+  },
+  "name": "Black Racer",
+  "pageviews": 1585,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to move at superhuman speeds"
+  ],
+  "realName": "Ariana",
+  "species": [
   ],
   "teams": [
     "Serpent Society",
     "Serpent Squad"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to move at superhuman speeds"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/1d/Black_racer_marvel.jpg",
-    "width": "191",
-    "height": "289"
-  },
-  "pageviews": 1585
+  "url": "https://en.wikipedia.org/wiki/Black_Racer_(Marvel_Comics)"
 }

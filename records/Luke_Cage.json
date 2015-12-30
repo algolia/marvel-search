@@ -1,24 +1,16 @@
 {
-  "name": "Luke Cage",
-  "url": "https://en.wikipedia.org/wiki/Luke_Cage",
-  "realName": "Carl Lucas",
+  "aliases": "Power Man",
   "creators": [
     "Archie Goodwin",
     "John Romita, Sr."
   ],
-  "teams": [
-    "Avengers",
-    "New Avengers",
-    "Heroes for Hire",
-    "Fantastic Four",
-    "Defenders",
-    "Marvel Knights",
-    "Thunderbolts",
-    "Dark Avengers",
-    "Mighty Avengers"
-  ],
-  "aliases": "Power Man",
-  "species": [],
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/50/Mighty_Avengers_Volume_2_Issue_1_Cover.jpg",
+    "width": "250"
+  },
+  "name": "Luke Cage",
+  "pageviews": 707713,
   "partners": [
     "Iron Fist",
     "Jessica Jones",
@@ -35,10 +27,19 @@
     "Unbreakable skin that is impervious to damage and temperature",
     "Accelerated healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/50/Mighty_Avengers_Volume_2_Issue_1_Cover.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 707713
+  "realName": "Carl Lucas",
+  "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "New Avengers",
+    "Heroes for Hire",
+    "Fantastic Four",
+    "Defenders",
+    "Marvel Knights",
+    "Thunderbolts",
+    "Dark Avengers",
+    "Mighty Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Luke_Cage"
 }

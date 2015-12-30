@@ -1,20 +1,16 @@
 {
-  "name": "Nate Grey",
-  "url": "https://en.wikipedia.org/wiki/Nate_Grey",
-  "realName": "Nathaniel Grey",
+  "aliases": "19X, Shaman of the Mutant Tribe, X-Man",
   "creators": [
     "Jeph Loeb",
     "Steve Skroce"
   ],
-  "teams": [
-    "Brotherhood of Mutants",
-    "New Mutants",
-    "X-Men"
-  ],
-  "aliases": "19X, Shaman of the Mutant Tribe, X-Man",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+    "height": "302",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/X-man1-1995.jpg/200px-X-man1-1995.jpg",
+    "width": "200"
+  },
+  "name": "Nate Grey",
+  "pageviews": 20914,
   "partners": [
     "Madelyne Pryor",
     "Threnody"
@@ -34,10 +30,14 @@
     "Ability to exist incorporeal as living psychic energy",
     "Cross-dimensional travel"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/X-man1-1995.jpg/200px-X-man1-1995.jpg",
-    "width": "200",
-    "height": "302"
-  },
-  "pageviews": 20914
+  "realName": "Nathaniel Grey",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Brotherhood of Mutants",
+    "New Mutants",
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nate_Grey"
 }

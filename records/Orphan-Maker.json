@@ -1,25 +1,28 @@
 {
-  "name": "Orphan-Maker",
-  "url": "https://en.wikipedia.org/wiki/Orphan-Maker",
-  "realName": "Peter",
+  "aliases": "",
   "creators": [
     "Louise Simonson",
     "Walt Simonson"
   ],
-  "teams": [
-    "Nanny"
+  "image": {
+  },
+  "name": "Orphan-Maker",
+  "pageviews": 652,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Armor provides:",
     "Superhuman strength and resistance",
     "Wields energy weapons"
   ],
-  "image": {},
-  "pageviews": 652
+  "realName": "Peter",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Nanny"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Orphan-Maker"
 }

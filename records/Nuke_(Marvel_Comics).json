@@ -1,19 +1,20 @@
 {
-  "name": "Nuke",
-  "url": "https://en.wikipedia.org/wiki/Nuke_(Marvel_Comics)",
-  "realName": "Frank Simpson",
+  "aliases": "Agent Simpson, Scourge",
   "creators": [
     "Frank Miller",
     "David Mazzucchelli"
   ],
-  "teams": [
-    "Weapon Plus",
-    "Thunderbolts"
+  "image": {
+    "height": "446",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Ddnuke.png",
+    "width": "250"
+  },
+  "name": "Nuke",
+  "pageviews": 267756,
+  "partners": [
   ],
-  "aliases": "Agent Simpson, Scourge",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Cybernetic enhancements grant superhuman strength",
     "speed",
@@ -22,10 +23,12 @@
     "Second heart",
     "Remote-controlled vital functions."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Ddnuke.png",
-    "width": "250",
-    "height": "446"
-  },
-  "pageviews": 267756
+  "realName": "Frank Simpson",
+  "species": [
+  ],
+  "teams": [
+    "Weapon Plus",
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nuke_(Marvel_Comics)"
 }

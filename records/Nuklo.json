@@ -1,20 +1,19 @@
 {
-  "name": "Nuklo",
-  "url": "https://en.wikipedia.org/wiki/Nuklo",
-  "realName": "Robert Frank, Jr",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Rich Buckler",
     "Dan Adkins"
   ],
-  "teams": [
-    "V-Battalion"
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Nuklo.jpg/249px-Nuklo.jpg",
+    "width": "249"
+  },
+  "name": "Nuklo",
+  "pageviews": 764,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Radiation generation"
   ],
@@ -24,10 +23,12 @@
     "(formerly) Growth",
     "self-duplication"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Nuklo.jpg/249px-Nuklo.jpg",
-    "width": "249",
-    "height": "381"
-  },
-  "pageviews": 764
+  "realName": "Robert Frank, Jr",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "V-Battalion"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nuklo"
 }

@@ -1,27 +1,30 @@
 {
-  "name": "Shriker",
-  "url": "https://en.wikipedia.org/wiki/Shriker",
-  "realName": "Jack D'Auria",
+  "aliases": "",
   "creators": [
     "Howard Mackie",
     "Javier Saltares"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "184",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/JackShriker.jpg/150px-JackShriker.jpg",
+    "width": "150"
+  },
+  "name": "Shriker",
+  "pageviews": 496,
   "partners": [
     "Ghost Rider",
     "John Blaze",
     "Caretaker"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Extensive Martial Arts Training"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/JackShriker.jpg/150px-JackShriker.jpg",
-    "width": "150",
-    "height": "184"
-  },
-  "pageviews": 496
+  "realName": "Jack D'Auria",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shriker"
 }

@@ -1,23 +1,26 @@
 {
-  "name": "Mountjoy",
-  "url": "https://en.wikipedia.org/wiki/Mountjoy_(comics)",
-  "realName": "Mountebank",
+  "aliases": "Scribe",
   "creators": [
     "John Ostrander",
     "Carlos Pacheco"
   ],
-  "teams": [
-    "Hellfire Club"
+  "image": {
+  },
+  "name": "Mountjoy",
+  "pageviews": 388,
+  "partners": [
   ],
-  "aliases": "Scribe",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "merge with and/or possess others."
   ],
-  "image": {},
-  "pageviews": 388
+  "realName": "Mountebank",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hellfire Club"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mountjoy_(comics)"
 }

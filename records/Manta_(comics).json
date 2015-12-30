@@ -1,27 +1,30 @@
 {
-  "name": "Manta",
-  "url": "https://en.wikipedia.org/wiki/Manta_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "teams": [
-    "Imperial Guard"
+  "image": {
+    "height": "221",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/Mantawiki.jpg",
+    "width": "250"
+  },
+  "name": "Manta",
+  "pageviews": 509,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Flight",
     "infrared vision",
     "generates flashes of blinding light"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/Mantawiki.jpg",
-    "width": "250",
-    "height": "221"
-  },
-  "pageviews": 509
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Manta_(comics)"
 }

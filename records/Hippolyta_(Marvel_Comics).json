@@ -1,20 +1,20 @@
 {
-  "name": "Hippolyta",
-  "url": "https://en.wikipedia.org/wiki/Hippolyta_(Marvel_Comics)",
-  "realName": "Hippolyta",
+  "aliases": "Warrior Woman",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Bacchae",
-    "Gods of Olympus",
-    "Valkyrior"
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Warrior_Woman.jpg/250px-Warrior_Woman.jpg",
+    "width": "250"
+  },
+  "name": "Hippolyta",
+  "pageviews": 3105,
+  "partners": [
   ],
-  "aliases": "Warrior Woman",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "enhanced strength",
     "enhanced speed",
@@ -22,10 +22,13 @@
     "ageless immortality",
     "and highly developed fighting skills. With the ''Gauntlet of Ares'' her strength increases by 100 times."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Warrior_Woman.jpg/250px-Warrior_Woman.jpg",
-    "width": "250",
-    "height": "386"
-  },
-  "pageviews": 3105
+  "realName": "Hippolyta",
+  "species": [
+  ],
+  "teams": [
+    "Bacchae",
+    "Gods of Olympus",
+    "Valkyrior"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hippolyta_(Marvel_Comics)"
 }

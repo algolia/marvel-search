@@ -1,12 +1,31 @@
 {
-  "name": "Husk",
-  "url": "https://en.wikipedia.org/wiki/Husk_(comics)",
-  "realName": "Paige Elisabeth Guthrie",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "william johnson",
     "Fabian Nicieza",
     "Tony Daniel"
+  ],
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/35/Uncannyxmen432.jpg",
+    "width": "250"
+  },
+  "name": "Husk",
+  "pageviews": 7413,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Shedding: the ability to shed skin into a different composition",
+    "shape",
+    "or size beneath",
+    "Experienced in martial arts"
+  ],
+  "realName": "Paige Elisabeth Guthrie",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Men",
@@ -15,22 +34,5 @@
     "Xavier Institute",
     "Jean Grey School"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Shedding: the ability to shed skin into a different composition",
-    "shape",
-    "or size beneath",
-    "Experienced in martial arts"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/35/Uncannyxmen432.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 7413
+  "url": "https://en.wikipedia.org/wiki/Husk_(comics)"
 }

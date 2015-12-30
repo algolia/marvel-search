@@ -1,22 +1,20 @@
 {
-  "name": "Moondragon",
-  "url": "https://en.wikipedia.org/wiki/Moondragon",
-  "realName": null,
+  "aliases": "Madame MacEvil, H.D. Steckley",
   "creators": [
     "Bill Everett",
     "Mike Friedrich",
     "George Tuska",
     "Jim Starlin"
   ],
-  "teams": [
-    "Infinity Watch",
-    "Defenders",
-    "Avengers",
-    "Guardians of the Galaxy"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Moondragon.jpg/187px-Moondragon.jpg",
+    "width": "187"
+  },
+  "name": "Moondragon",
+  "pageviews": 20917,
+  "partners": [
   ],
-  "aliases": "Madame MacEvil, H.D. Steckley",
-  "species": [],
-  "partners": [],
   "powers": [
     "telepath",
     "telekinetic",
@@ -29,10 +27,14 @@
     "Highly skilled geneticist and engineer",
     "Experienced starship pilot"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Moondragon.jpg/187px-Moondragon.jpg",
-    "width": "187",
-    "height": "450"
-  },
-  "pageviews": 20917
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Infinity Watch",
+    "Defenders",
+    "Avengers",
+    "Guardians of the Galaxy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Moondragon"
 }

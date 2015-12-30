@@ -1,22 +1,20 @@
 {
-  "name": "Karima Shapandar",
-  "url": "https://en.wikipedia.org/wiki/Karima_Shapandar",
-  "realName": "Karima Shapandar",
+  "aliases": "Malice, Omega Sentinel",
   "creators": [
     "Chris Claremont",
     "Brett Booth"
   ],
-  "teams": [
-    "Acolytes",
-    "Marauders",
-    "X-Men",
-    "Genoshan Excalibur",
-    "Omega Prime Sentinels"
+  "image": {
+    "height": "305",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/31/Karima_Shapandar.jpg",
+    "width": "200"
+  },
+  "name": "Karima Shapandar",
+  "pageviews": 4712,
+  "partners": [
   ],
-  "aliases": "Malice, Omega Sentinel",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "As a Prime Sentinel",
     "Superhuman strength.",
@@ -25,10 +23,15 @@
     "Flight.",
     "Selection of unspecified weapons and mechanisms that retract into body."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/31/Karima_Shapandar.jpg",
-    "width": "200",
-    "height": "305"
-  },
-  "pageviews": 4712
+  "realName": "Karima Shapandar",
+  "species": [
+  ],
+  "teams": [
+    "Acolytes",
+    "Marauders",
+    "X-Men",
+    "Genoshan Excalibur",
+    "Omega Prime Sentinels"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Karima_Shapandar"
 }

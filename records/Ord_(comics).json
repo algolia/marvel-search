@@ -1,16 +1,20 @@
 {
-  "name": "Ord of the Breakworld",
-  "url": "https://en.wikipedia.org/wiki/Ord_(comics)",
-  "realName": "Ord",
+  "aliases": "",
   "creators": [
     "Joss Whedon",
     "John Cassaday"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "291",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Ord_of_the_Breakworld.jpg/250px-Ord_of_the_Breakworld.jpg",
+    "width": "250"
+  },
+  "name": "Ord of the Breakworld",
+  "pageviews": 1393,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength speed and endurance",
     "Enhanced durability",
@@ -19,10 +23,10 @@
     "Master martial artist",
     "Highly skilled in use of bladed weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Ord_of_the_Breakworld.jpg/250px-Ord_of_the_Breakworld.jpg",
-    "width": "250",
-    "height": "291"
-  },
-  "pageviews": 1393
+  "realName": "Ord",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ord_(comics)"
 }

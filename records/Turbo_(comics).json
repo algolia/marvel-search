@@ -1,19 +1,16 @@
 {
-  "name": "Turbo",
-  "url": "https://en.wikipedia.org/wiki/Turbo_(comics)",
-  "realName": "(I) Michiko \"Mickey\" Musashi<br>(II) Michael Brent \"Mike\" Jeffries",
+  "aliases": "(I) Torpedo Sue",
   "creators": [
     "Evan Skolnick"
   ],
-  "teams": [
-    "Avengers Academy",
-    "Loners",
-    "New Warriors"
+  "image": {
+  },
+  "name": "Turbo",
+  "pageviews": 1857,
+  "partners": [
   ],
-  "aliases": "(I) Torpedo Sue",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(I&II) None:",
     "Suit grants:",
@@ -22,6 +19,13 @@
     "Air blasts",
     "Superhuman Strength"
   ],
-  "image": {},
-  "pageviews": 1857
+  "realName": "(I) Michiko \"Mickey\" Musashi<br>(II) Michael Brent \"Mike\" Jeffries",
+  "species": [
+  ],
+  "teams": [
+    "Avengers Academy",
+    "Loners",
+    "New Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Turbo_(comics)"
 }

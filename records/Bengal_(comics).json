@@ -1,19 +1,20 @@
 {
-  "name": "Bengal",
-  "url": "https://en.wikipedia.org/wiki/Bengal_(comics)",
-  "realName": "Duc No Tranh",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Ron Lim"
   ],
-  "teams": [
-    "The Initiative",
-    "Shadow Initiative"
+  "image": {
+    "height": "210",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Bengsl.jpg/250px-Bengsl.jpg",
+    "width": "250"
+  },
+  "name": "Bengal",
+  "pageviews": 1301,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Master martial artist",
     "Exceptional athlete",
@@ -21,10 +22,12 @@
     "Skilled archer and tracker",
     "Enhanced sense of smell"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Bengsl.jpg/250px-Bengsl.jpg",
-    "width": "250",
-    "height": "210"
-  },
-  "pageviews": 1301
+  "realName": "Duc No Tranh",
+  "species": [
+  ],
+  "teams": [
+    "The Initiative",
+    "Shadow Initiative"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bengal_(comics)"
 }

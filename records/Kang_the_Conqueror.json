@@ -1,16 +1,20 @@
 {
-  "name": "Kang the Conqueror",
-  "url": "https://en.wikipedia.org/wiki/Kang_the_Conqueror",
-  "realName": "Nathaniel Richards",
+  "aliases": "Iron Lad , Rama-Tut, Victor Timely, Scarlet Centurion, Immortus",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Iron Lad , Rama-Tut, Victor Timely, Scarlet Centurion, Immortus",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "344",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Uncanny_Avengers_Vol_1%2C12.jpg/250px-Uncanny_Avengers_Vol_1%2C12.jpg",
+    "width": "250"
+  },
+  "name": "Kang the Conqueror",
+  "pageviews": 44002,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Expert historical scholar",
     "Master physicist",
@@ -30,10 +34,10 @@
     "As Rama-Tut:",
     "Use of \"ultra-diode\" ray-gun"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Uncanny_Avengers_Vol_1%2C12.jpg/250px-Uncanny_Avengers_Vol_1%2C12.jpg",
-    "width": "250",
-    "height": "344"
-  },
-  "pageviews": 44002
+  "realName": "Nathaniel Richards",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kang_the_Conqueror"
 }

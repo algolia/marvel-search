@@ -1,19 +1,18 @@
 {
-  "name": "Mantis",
-  "url": "https://en.wikipedia.org/wiki/Mantis_(Marvel_Comics)",
-  "realName": "Brandt, first name unknown",
+  "aliases": "Willow, Lorelei, Mandy Celestine",
   "creators": [
     "Steve Englehart",
     "Don Heck"
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "Avengers",
-    "West Coast Avengers"
+  "image": {
+    "height": "346",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/8c/Mantismadona.jpg",
+    "width": "250"
+  },
+  "name": "Mantis",
+  "pageviews": 36253,
+  "partners": [
   ],
-  "aliases": "Willow, Lorelei, Mandy Celestine",
-  "species": [],
-  "partners": [],
   "powers": [
     "healing factor"
   ],
@@ -25,10 +24,13 @@
     "Accelerated healing factor",
     "Astral projection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/8c/Mantismadona.jpg",
-    "width": "250",
-    "height": "346"
-  },
-  "pageviews": 36253
+  "realName": "Brandt, first name unknown",
+  "species": [
+  ],
+  "teams": [
+    "Guardians of the Galaxy",
+    "Avengers",
+    "West Coast Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mantis_(Marvel_Comics)"
 }

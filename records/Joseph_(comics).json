@@ -1,7 +1,5 @@
 {
-  "name": "Joseph",
-  "url": "https://en.wikipedia.org/wiki/Joseph_(comics)",
-  "realName": "Joseph",
+  "aliases": "Magneto",
   "creators": [
     "Scott Lobdell",
     "Roger Cruz",
@@ -9,24 +7,28 @@
     "Stan Lee",
     "Jack Kirby"
   ],
+  "image": {
+    "height": "153",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Joseph_%28Magneto%27s_Clone%29.jpg/225px-Joseph_%28Magneto%27s_Clone%29.jpg",
+    "width": "225"
+  },
+  "name": "Joseph",
+  "pageviews": 2411,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Generation and manipulation of magnetic fields"
+  ],
+  "realName": "Joseph",
+  "species": [
+    "Human Mutant"
+  ],
   "teams": [
     "X-Men",
     "Acolytes",
     "Brotherhood of Evil Mutants"
   ],
-  "aliases": "Magneto",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Generation and manipulation of magnetic fields"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Joseph_%28Magneto%27s_Clone%29.jpg/225px-Joseph_%28Magneto%27s_Clone%29.jpg",
-    "width": "225",
-    "height": "153"
-  },
-  "pageviews": 2411
+  "url": "https://en.wikipedia.org/wiki/Joseph_(comics)"
 }

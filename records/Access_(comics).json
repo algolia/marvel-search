@@ -1,23 +1,28 @@
 {
-  "name": "Access",
-  "url": "https://en.wikipedia.org/wiki/Access_(comics)",
-  "realName": "Axel Asher",
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/8c/DCM_AllAccess.jpg",
+    "width": "250"
+  },
+  "name": "Access",
+  "pageviews": 3257,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Cross-dimensional awareness",
     "Dimensional transportation",
     "Merge",
     "Time travel"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/8c/DCM_AllAccess.jpg",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 3257
+  "realName": "Axel Asher",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Access_(comics)"
 }

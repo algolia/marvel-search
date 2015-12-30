@@ -1,20 +1,19 @@
 {
-  "name": "The Hood",
-  "url": "https://en.wikipedia.org/wiki/Hood_(comics)",
-  "realName": "Parker Robbins",
+  "aliases": "",
   "creators": [
     "Brian K. Vaughan",
     "Kyle Hotz",
     "Eric Powell"
   ],
-  "teams": [
-    "The Cabal",
-    "The Initiative",
-    "Illuminati"
+  "image": {
+    "height": "269",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/The_hood.jpg/250px-The_hood.jpg",
+    "width": "250"
+  },
+  "name": "The Hood",
+  "pageviews": 13810,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Infinity Gems"
   ],
@@ -25,10 +24,13 @@
     "magical cloak and boots for invisibility and air walking",
     "demon transformation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/The_hood.jpg/250px-The_hood.jpg",
-    "width": "250",
-    "height": "269"
-  },
-  "pageviews": 13810
+  "realName": "Parker Robbins",
+  "species": [
+  ],
+  "teams": [
+    "The Cabal",
+    "The Initiative",
+    "Illuminati"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hood_(comics)"
 }

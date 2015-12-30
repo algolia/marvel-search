@@ -1,21 +1,26 @@
 {
-  "name": "Fenris Wolf",
-  "url": "https://en.wikipedia.org/wiki/Fenris_Wolf_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "379",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Cover_of_Warriors_Three-3.jpg/250px-Cover_of_Warriors_Three-3.jpg",
-    "width": "250",
-    "height": "379"
+    "width": "250"
   },
-  "pageviews": 2385
+  "name": "Fenris Wolf",
+  "pageviews": 2385,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Fenris_Wolf_(Marvel_Comics)"
 }

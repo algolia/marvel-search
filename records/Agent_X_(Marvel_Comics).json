@@ -1,15 +1,18 @@
 {
-  "name": "Agent X",
-  "url": "https://en.wikipedia.org/wiki/Agent_X_(Marvel_Comics)",
-  "realName": "Nijo Minamiyori",
+  "aliases": "Alex Hayden",
   "creators": [
     "Gail Simone",
     "Alvin Lee"
   ],
-  "teams": [],
-  "aliases": "Alex Hayden",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/Agent_X_03_Udon_Studios.jpg",
+    "width": "250"
+  },
+  "name": "Agent X",
+  "pageviews": 18147,
+  "partners": [
+  ],
   "powers": [
     "healing factor"
   ],
@@ -24,10 +27,10 @@
     "Expert marksman",
     "Subconscious telepathic blocking"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/Agent_X_03_Udon_Studios.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 18147
+  "realName": "Nijo Minamiyori",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Agent_X_(Marvel_Comics)"
 }

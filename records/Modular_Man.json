@@ -1,25 +1,28 @@
 {
-  "name": "Modular Man",
-  "url": "https://en.wikipedia.org/wiki/Modular_Man",
-  "realName": "Stephen Weems",
+  "aliases": "",
   "creators": [
     "John Warner",
     "Val Mayerik"
   ],
-  "teams": [
-    "Roxxon Energy Corporation"
+  "image": {
+    "height": "304",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Marvel_Team_Up_90.png/200px-Marvel_Team_Up_90.png",
+    "width": "200"
+  },
+  "name": "Modular Man",
+  "pageviews": 298,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Detachable and reassemblable body.  Superhuman strength.  Ability to absorb microwave radiation."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Marvel_Team_Up_90.png/200px-Marvel_Team_Up_90.png",
-    "width": "200",
-    "height": "304"
-  },
-  "pageviews": 298
+  "realName": "Stephen Weems",
+  "species": [
+  ],
+  "teams": [
+    "Roxxon Energy Corporation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Modular_Man"
 }

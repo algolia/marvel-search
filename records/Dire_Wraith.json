@@ -1,25 +1,29 @@
 {
-  "name": "Dire Wraith",
-  "url": "https://en.wikipedia.org/wiki/Dire_Wraith",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Al Milgrom"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "295",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Dire_Wraith.jpg/180px-Dire_Wraith.jpg",
+    "width": "180"
+  },
+  "name": "Dire Wraith",
+  "pageviews": 4685,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Super strength",
     "shapeshifting",
     "magic"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Dire_Wraith.jpg/180px-Dire_Wraith.jpg",
-    "width": "180",
-    "height": "295"
-  },
-  "pageviews": 4685
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dire_Wraith"
 }

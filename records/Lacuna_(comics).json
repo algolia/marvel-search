@@ -1,23 +1,26 @@
 {
-  "name": "Lacuna",
-  "url": "https://en.wikipedia.org/wiki/Lacuna_(comics)",
-  "realName": "Woodstock Schumaker",
+  "aliases": "",
   "creators": [
     "Peter Milligan",
     "Mike Allred"
   ],
-  "teams": [
-    "X-Statix"
+  "image": {
+  },
+  "name": "Lacuna",
+  "pageviews": 689,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Time manipulation"
   ],
-  "image": {},
-  "pageviews": 689
+  "realName": "Woodstock Schumaker",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Statix"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lacuna_(comics)"
 }

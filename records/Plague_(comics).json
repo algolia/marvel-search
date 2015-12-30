@@ -1,25 +1,28 @@
 {
-  "name": "Plague",
-  "url": "https://en.wikipedia.org/wiki/Plague_(comics)",
-  "realName": "",
+  "aliases": "Pestilence",
   "creators": [
     "Chris Claremont",
     "Paul Smith"
+  ],
+  "image": {
+  },
+  "name": "Plague",
+  "pageviews": 5366,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "adapt to and absorb any disease",
+    "then spread it through touch"
+  ],
+  "realName": "",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Horsemen of Apocalypse",
     "Morlocks"
   ],
-  "aliases": "Pestilence",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "adapt to and absorb any disease",
-    "then spread it through touch"
-  ],
-  "image": {},
-  "pageviews": 5366
+  "url": "https://en.wikipedia.org/wiki/Plague_(comics)"
 }

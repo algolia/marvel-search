@@ -1,29 +1,31 @@
 {
-  "name": "Albert",
-  "url": "https://en.wikipedia.org/wiki/Albert_(comics)",
-  "realName": "Albert Wright",
+  "aliases": "",
   "creators": [
     "Larry Hama",
     "Marc Silvestri"
   ],
-  "teams": [
-    "Reavers"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "211",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Albert_and_elsie.jpg/200px-Albert_and_elsie.jpg",
+    "width": "200"
+  },
+  "name": "Albert",
+  "pageviews": 1173,
   "partners": [
     "Elsie-Dee"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "computational",
     "analytical and creative reasoning abilities"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Albert_and_elsie.jpg/200px-Albert_and_elsie.jpg",
-    "width": "200",
-    "height": "211"
-  },
-  "pageviews": 1173
+  "realName": "Albert Wright",
+  "species": [
+  ],
+  "teams": [
+    "Reavers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Albert_(comics)"
 }

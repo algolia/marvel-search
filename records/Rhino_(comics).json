@@ -1,23 +1,20 @@
 {
-  "name": "Rhino",
-  "url": "https://en.wikipedia.org/wiki/Rhino_(comics)",
-  "realName": "Aleksei Sytsevich",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "John Romita, Sr."
   ],
-  "teams": [
-    "Sinister Syndicate",
-    "Sinister Six",
-    "Secret Defenders",
-    "Klaw",
-    "Emissaries of Evil",
-    "S.H.I.E.L.D."
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/fc/Rhinopreview.jpg",
+    "width": "250"
+  },
+  "name": "Rhino",
+  "pageviews": 19299,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -27,10 +24,16 @@
     "Razor sharp horns",
     "Ability to enhance his superhuman physical attributes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/fc/Rhinopreview.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 19299
+  "realName": "Aleksei Sytsevich",
+  "species": [
+  ],
+  "teams": [
+    "Sinister Syndicate",
+    "Sinister Six",
+    "Secret Defenders",
+    "Klaw",
+    "Emissaries of Evil",
+    "S.H.I.E.L.D."
+  ],
+  "url": "https://en.wikipedia.org/wiki/Rhino_(comics)"
 }

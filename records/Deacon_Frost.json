@@ -1,23 +1,27 @@
 {
-  "name": "Deacon Frost",
-  "url": "https://en.wikipedia.org/wiki/Deacon_Frost",
-  "realName": null,
+  "aliases": "Whitehair",
   "creators": [
     "Marv Wolfman",
     "Gene Colan"
   ],
-  "teams": [],
-  "aliases": "Whitehair",
+  "image": {
+    "height": "399",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Deaconfrost.png/250px-Deaconfrost.png",
+    "width": "250"
+  },
+  "name": "Deacon Frost",
+  "pageviews": 6404,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
   "species": [
     "Vampire"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Deaconfrost.png/250px-Deaconfrost.png",
-    "width": "250",
-    "height": "399"
-  },
-  "pageviews": 6404
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Deacon_Frost"
 }

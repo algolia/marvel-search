@@ -1,19 +1,15 @@
 {
-  "name": "Sway",
-  "url": "https://en.wikipedia.org/wiki/Sway_(comics)",
-  "realName": "Suzanne Chan",
+  "aliases": "",
   "creators": [
     "Ed Brubaker",
     "Pete Woods"
   ],
-  "teams": [
-    "X-Men"
+  "image": {
+  },
+  "name": "Sway",
+  "pageviews": 3682,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Time manipulation",
     "Psychometric/Retrocognitive Projection"
@@ -22,6 +18,12 @@
     "Time manipulation",
     "Psychometric/Retrocognitive Projection"
   ],
-  "image": {},
-  "pageviews": 3682
+  "realName": "Suzanne Chan",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sway_(comics)"
 }

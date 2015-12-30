@@ -1,10 +1,27 @@
 {
-  "name": "Kitty Pryde",
-  "url": "https://en.wikipedia.org/wiki/Kitty_Pryde",
-  "realName": "Katherine Anne \"Kitty\" Pryde",
+  "aliases": "Ariel, Sprite, Shadowcat, Star-Lord",
   "creators": [
     "Chris Claremont",
     "John Byrne"
+  ],
+  "image": {
+    "height": "387",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Kitty_Pryde_by_Paul_Smith.jpg",
+    "width": "256"
+  },
+  "name": "Kitty Pryde",
+  "pageviews": 67766,
+  "partners": [
+  ],
+  "powers": [
+    "Intangibility"
+  ],
+  "powersText": [
+    "Intangibility"
+  ],
+  "realName": "Katherine Anne \"Kitty\" Pryde",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "All-New X-Men",
@@ -16,21 +33,5 @@
     "New Xavier School",
     "Guardians of the Galaxy"
   ],
-  "aliases": "Ariel, Sprite, Shadowcat, Star-Lord",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "Intangibility"
-  ],
-  "powersText": [
-    "Intangibility"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Kitty_Pryde_by_Paul_Smith.jpg",
-    "width": "256",
-    "height": "387"
-  },
-  "pageviews": 67766
+  "url": "https://en.wikipedia.org/wiki/Kitty_Pryde"
 }

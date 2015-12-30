@@ -1,18 +1,18 @@
 {
-  "name": "Hannibal King",
-  "url": "https://en.wikipedia.org/wiki/Hannibal_King",
-  "realName": "Unknown (probably Hannibal King)",
+  "aliases": "Henry Kagle",
   "creators": [
     "Gene Colan",
     "Marv Wolfman"
   ],
-  "teams": [
-    "Nightstalkers",
-    "Midnight Sons"
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/HannibalKingB8.jpg/250px-HannibalKingB8.jpg",
+    "width": "250"
+  },
+  "name": "Hannibal King",
+  "pageviews": 10711,
+  "partners": [
   ],
-  "aliases": "Henry Kagle",
-  "species": [],
-  "partners": [],
   "powers": [
     "healing factor"
   ],
@@ -25,10 +25,12 @@
     "Flight",
     "Skilled detective and marksman"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/HannibalKingB8.jpg/250px-HannibalKingB8.jpg",
-    "width": "250",
-    "height": "388"
-  },
-  "pageviews": 10711
+  "realName": "Unknown (probably Hannibal King)",
+  "species": [
+  ],
+  "teams": [
+    "Nightstalkers",
+    "Midnight Sons"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hannibal_King"
 }

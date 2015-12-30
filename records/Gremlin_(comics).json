@@ -1,20 +1,17 @@
 {
-  "name": "Gremlin",
-  "url": "https://en.wikipedia.org/wiki/Gremlin_(comics)",
-  "realName": "Kondrati Yurivich Topolov",
+  "aliases": "Titanium Man",
   "creators": [
     "Steve Englehart",
     "Herb Trimpe"
   ],
-  "teams": [
-    "Soviet Super-Soldiers"
+  "image": {
+  },
+  "name": "Gremlin",
+  "pageviews": 1771,
+  "partners": [
   ],
-  "aliases": "Titanium Man",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Accomplished genetic engineer",
     "Superhuman intelligence",
@@ -27,6 +24,12 @@
     "Projection of constrictive force \"rings\" and electromagnetically paralytic beams",
     "Resistance to conventional artillery"
   ],
-  "image": {},
-  "pageviews": 1771
+  "realName": "Kondrati Yurivich Topolov",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Soviet Super-Soldiers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gremlin_(comics)"
 }

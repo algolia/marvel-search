@@ -1,27 +1,30 @@
 {
-  "name": "Morgan le Fay",
-  "url": "https://en.wikipedia.org/wiki/Morgan_le_Fay_(Marvel_Comics)",
-  "realName": "Morgan le Fay",
+  "aliases": "Morganna Le Fay",
   "creators": [
     "Stan Lee",
     "Joe Maneely"
   ],
-  "teams": [
-    "Darkhold"
+  "image": {
+    "height": "244",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Morgan_le_Fay.jpg/250px-Morgan_le_Fay.jpg",
+    "width": "250"
+  },
+  "name": "Morgan le Fay",
+  "pageviews": 12061,
+  "partners": [
   ],
-  "aliases": "Morganna Le Fay",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Gifted intellect",
     "Magic manipulation",
     "Virtual immortality"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Morgan_le_Fay.jpg/250px-Morgan_le_Fay.jpg",
-    "width": "250",
-    "height": "244"
-  },
-  "pageviews": 12061
+  "realName": "Morgan le Fay",
+  "species": [
+  ],
+  "teams": [
+    "Darkhold"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Morgan_le_Fay_(Marvel_Comics)"
 }

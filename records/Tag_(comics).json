@@ -1,31 +1,33 @@
 {
-  "name": "Tag",
-  "url": "https://en.wikipedia.org/wiki/Tag_(comics)",
-  "realName": "Brian Cruz",
+  "aliases": "",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir",
     "Carlo Barberi"
   ],
-  "teams": [
-    "Hellions training squad",
-    "Xavier Institute"
+  "image": {
+    "height": "333",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Tag_%28comics%29.png/250px-Tag_%28comics%29.png",
+    "width": "250"
+  },
+  "name": "Tag",
+  "pageviews": 1090,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Depowered",
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Through physical contact can \"tag\" others",
     "temporarily leaving a psionic signature on them"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Tag_%28comics%29.png/250px-Tag_%28comics%29.png",
-    "width": "250",
-    "height": "333"
-  },
-  "pageviews": 1090
+  "realName": "Brian Cruz",
+  "species": [
+    "Depowered",
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hellions training squad",
+    "Xavier Institute"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tag_(comics)"
 }

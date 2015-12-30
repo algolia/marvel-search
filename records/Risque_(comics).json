@@ -1,28 +1,30 @@
 {
-  "name": "Risque",
-  "url": "https://en.wikipedia.org/wiki/Risque_(comics)",
-  "realName": "Gloria Dolores Muñoz",
+  "aliases": "",
   "creators": [
     "Jeph Loeb",
     "Adam Pollina"
+  ],
+  "image": {
+    "height": "240",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Risquexforce65.jpg/260px-Risquexforce65.jpg",
+    "width": "260"
+  },
+  "name": "Risque",
+  "pageviews": 1187,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Geometrically compress and implode matter."
+  ],
+  "realName": "Gloria Dolores Muñoz",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Corporation",
     "X-Force"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Geometrically compress and implode matter."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Risquexforce65.jpg/260px-Risquexforce65.jpg",
-    "width": "260",
-    "height": "240"
-  },
-  "pageviews": 1187
+  "url": "https://en.wikipedia.org/wiki/Risque_(comics)"
 }

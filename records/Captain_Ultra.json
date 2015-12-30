@@ -1,21 +1,21 @@
 {
-  "name": "Captain Ultra",
-  "url": "https://en.wikipedia.org/wiki/Captain_Ultra",
-  "realName": "Griffin Gogol",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "George Pérez",
     "Joe Sinnott"
   ],
-  "teams": [
-    "Defenders",
-    "Initiative",
-    "Revengers"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/CaptainUltra500.jpg/250px-CaptainUltra500.jpg",
+    "width": "250"
+  },
+  "name": "Captain Ultra",
+  "pageviews": 2299,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "durability",
@@ -26,10 +26,13 @@
     "Intangibility",
     "Ability to tap his \"ultra potential\""
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/CaptainUltra500.jpg/250px-CaptainUltra500.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 2299
+  "realName": "Griffin Gogol",
+  "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "Initiative",
+    "Revengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Captain_Ultra"
 }

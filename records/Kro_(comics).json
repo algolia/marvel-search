@@ -1,17 +1,17 @@
 {
-  "name": "Kro",
-  "url": "https://en.wikipedia.org/wiki/Kro_(comics)",
-  "realName": "Kro",
+  "aliases": "Warlord Kro, Mr. Pluto, Prince of Darkness",
   "creators": [
     "Jack Kirby"
   ],
-  "teams": [
-    "Deviants",
-    "Eternals"
+  "image": {
+    "height": "360",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Kro_from_Thor_-_The_Deviants_Saga_05.jpg/200px-Kro_from_Thor_-_The_Deviants_Saga_05.jpg",
+    "width": "200"
+  },
+  "name": "Kro",
+  "pageviews": 1517,
+  "partners": [
   ],
-  "aliases": "Warlord Kro, Mr. Pluto, Prince of Darkness",
-  "species": [],
-  "partners": [],
   "powers": [
     "Shape-shifting",
     "healing factor"
@@ -22,10 +22,12 @@
     "Immortal",
     "Superhuman physical attributes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Kro_from_Thor_-_The_Deviants_Saga_05.jpg/200px-Kro_from_Thor_-_The_Deviants_Saga_05.jpg",
-    "width": "200",
-    "height": "360"
-  },
-  "pageviews": 1517
+  "realName": "Kro",
+  "species": [
+  ],
+  "teams": [
+    "Deviants",
+    "Eternals"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kro_(comics)"
 }

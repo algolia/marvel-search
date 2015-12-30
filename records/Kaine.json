@@ -1,19 +1,20 @@
 {
-  "name": "Kaine Parker",
-  "url": "https://en.wikipedia.org/wiki/Kaine",
-  "realName": null,
+  "aliases": "Peter Parker , Tarantula, Scarlet Spider , The Other",
   "creators": [
     "Terry Kavanagh",
     "Steven Butler"
   ],
-  "teams": [
-    "New Warriors",
-    "''New Warriors'' vol. 5"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg/250px-Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg",
+    "width": "250"
+  },
+  "name": "Kaine Parker",
+  "pageviews": 14733,
+  "partners": [
   ],
-  "aliases": "Peter Parker , Tarantula, Scarlet Spider , The Other",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(As Kaine):",
     "Superhuman strength",
@@ -43,10 +44,12 @@
     "Invisibility",
     "Immunity to sonic-based attacks"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg/250px-Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 14733
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "New Warriors",
+    "''New Warriors'' vol. 5"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kaine"
 }

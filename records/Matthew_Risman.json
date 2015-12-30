@@ -1,24 +1,28 @@
 {
-  "name": "Matthew Risman",
-  "url": "https://en.wikipedia.org/wiki/Matthew_Risman",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Christopher Yost",
     "Craig Kyle",
     "Mark Brooks"
   ],
+  "image": {
+    "height": "482",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/4a/Matthewrisman.jpg",
+    "width": "200"
+  },
+  "name": "Matthew Risman",
+  "pageviews": 554,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
   "teams": [
     "Purifiers"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4a/Matthewrisman.jpg",
-    "width": "200",
-    "height": "482"
-  },
-  "pageviews": 554
+  "url": "https://en.wikipedia.org/wiki/Matthew_Risman"
 }

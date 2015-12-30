@@ -1,21 +1,25 @@
 {
+  "aliases": "",
+  "creators": [
+  ],
+  "image": {
+  },
   "name": "Eli Bard",
-  "url": "https://en.wikipedia.org/wiki/Eli_Bard",
+  "pageviews": 1776,
+  "partners": [
+    "Selene"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
   "realName": "Eliphas",
-  "creators": [],
+  "species": [
+    "Vampire"
+  ],
   "teams": [
     "Purifiers",
     "Roman Senate"
   ],
-  "aliases": "",
-  "species": [
-    "Vampire"
-  ],
-  "partners": [
-    "Selene"
-  ],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 1776
+  "url": "https://en.wikipedia.org/wiki/Eli_Bard"
 }

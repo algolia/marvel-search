@@ -1,23 +1,27 @@
 {
-  "name": "Lord Shingen Yashida<br>矢志田信玄",
-  "url": "https://en.wikipedia.org/wiki/Shingen_Yashida",
-  "realName": "Shingen Yashida",
+  "aliases": "Shingen Harada, Shingen Yoshida",
   "creators": [
     "Chris Claremont",
     "Frank Miller"
   ],
-  "teams": [
-    "The Hand"
+  "image": {
+  },
+  "name": "Lord Shingen Yashida<br>矢志田信玄",
+  "pageviews": 4616,
+  "partners": [
   ],
-  "aliases": "Shingen Harada, Shingen Yoshida",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Highly intelligent",
     "Peak human physical condition",
     "Master swordsman and Martial artist"
   ],
-  "image": {},
-  "pageviews": 4616
+  "realName": "Shingen Yashida",
+  "species": [
+  ],
+  "teams": [
+    "The Hand"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shingen_Yashida"
 }

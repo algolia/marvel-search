@@ -1,7 +1,5 @@
 {
-  "name": "Baron Blood",
-  "url": "https://en.wikipedia.org/wiki/Baron_Blood",
-  "realName": "-John Falsworth<br>-Victor Strange<br>-Kenneth Crichton",
+  "aliases": "-John Falsworth, Jr.<br>-Dr. Jacob Cromwell",
   "creators": [
     "Roy Thomas",
     "Frank Robbins",
@@ -11,12 +9,15 @@
     "Ben Raab",
     "John Cassaday"
   ],
-  "teams": [
-    "Super-Axis"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Invaders-7.jpg/250px-Invaders-7.jpg",
+    "width": "250"
+  },
+  "name": "Baron Blood",
+  "pageviews": 3063,
+  "partners": [
   ],
-  "aliases": "-John Falsworth, Jr.<br>-Dr. Jacob Cromwell",
-  "species": [],
-  "partners": [],
   "powers": [
     "Hypnosis",
     "Flight"
@@ -28,10 +29,11 @@
     "Animal and weather control",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Invaders-7.jpg/250px-Invaders-7.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 3063
+  "realName": "-John Falsworth<br>-Victor Strange<br>-Kenneth Crichton",
+  "species": [
+  ],
+  "teams": [
+    "Super-Axis"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Baron_Blood"
 }

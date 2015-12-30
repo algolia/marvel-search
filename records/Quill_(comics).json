@@ -1,26 +1,29 @@
 {
-  "name": "Quill",
-  "url": "https://en.wikipedia.org/wiki/Quill_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Jamie Delano",
     "Alan Davis"
+  ],
+  "image": {
+    "height": "418",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/91/Quill%28comics%29.jpg",
+    "width": "150"
+  },
+  "name": "Quill",
+  "pageviews": 3905,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Warpies",
     "Cherubim"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/91/Quill%28comics%29.jpg",
-    "width": "150",
-    "height": "418"
-  },
-  "pageviews": 3905
+  "url": "https://en.wikipedia.org/wiki/Quill_(comics)"
 }

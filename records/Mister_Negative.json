@@ -1,16 +1,20 @@
 {
-  "name": "Mister Negative",
-  "url": "https://en.wikipedia.org/wiki/Mister_Negative",
-  "realName": "Martin Li",
+  "aliases": "",
   "creators": [
     "Dan Slott",
     "Phil Jimenez"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "323",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Mister_Negative.jpg/250px-Mister_Negative.jpg",
+    "width": "250"
+  },
+  "name": "Mister Negative",
+  "pageviews": 4854,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and reflexes",
     "Mental domination",
@@ -18,10 +22,10 @@
     "Access to advanced technology and secret laboratories",
     "Ability to switch between reversed and regular appearance and charge up knives and swords with black electrical energy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Mister_Negative.jpg/250px-Mister_Negative.jpg",
-    "width": "250",
-    "height": "323"
-  },
-  "pageviews": 4854
+  "realName": "Martin Li",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mister_Negative"
 }

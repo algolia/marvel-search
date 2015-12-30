@@ -1,24 +1,28 @@
 {
-  "name": "Nightwind",
-  "url": "https://en.wikipedia.org/wiki/Nightwind",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Jay Faerber",
     "Terry Dodson"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "image": {
+  },
+  "name": "Nightwind",
+  "pageviews": 632,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Depowered",
     "Formerly:",
     "Darkforce manipulation",
     "Ability to create darkforce sword with various effects"
   ],
-  "image": {},
-  "pageviews": 632
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nightwind"
 }

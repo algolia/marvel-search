@@ -1,21 +1,26 @@
 {
-  "name": "Beetle",
-  "url": "https://en.wikipedia.org/wiki/Beetle_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Carl Burgos"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "384",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Spider-Man_Web_of_Doom_3.jpg/250px-Spider-Man_Web_of_Doom_3.jpg",
-    "width": "250",
-    "height": "384"
+    "width": "250"
   },
-  "pageviews": 6841
+  "name": "Beetle",
+  "pageviews": 6841,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Beetle_(comics)"
 }

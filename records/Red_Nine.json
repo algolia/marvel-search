@@ -1,17 +1,19 @@
 {
-  "name": "Red Nine",
-  "url": "https://en.wikipedia.org/wiki/Red_Nine",
-  "realName": "Wallace Jackson",
+  "aliases": "",
   "creators": [
     "Paty Cockrum"
   ],
-  "teams": [
-    "Fifty State Initiative"
+  "image": {
+    "height": "270",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Red9.jpg/250px-Red9.jpg",
+    "width": "250"
+  },
+  "name": "Red Nine",
+  "pageviews": 888,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Wears a costume that grants:",
     "Superhuman strength",
@@ -19,10 +21,11 @@
     "Force field generation",
     "Energy bolt projection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Red9.jpg/250px-Red9.jpg",
-    "width": "250",
-    "height": "270"
-  },
-  "pageviews": 888
+  "realName": "Wallace Jackson",
+  "species": [
+  ],
+  "teams": [
+    "Fifty State Initiative"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Red_Nine"
 }

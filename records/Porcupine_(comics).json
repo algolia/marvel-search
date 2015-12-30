@@ -1,20 +1,20 @@
 {
-  "name": "Porcupine",
-  "url": "https://en.wikipedia.org/wiki/Porcupine_(comics)",
-  "realName": "Alexander Gentry",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Don Heck"
   ],
-  "teams": [
-    "United States Army",
-    "Lethal Legion",
-    "Maggia"
+  "image": {
+    "height": "177",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/PorcupineMarvel.jpg/250px-PorcupineMarvel.jpg",
+    "width": "250"
+  },
+  "name": "Porcupine",
+  "pageviews": 2557,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled automotive mechanic",
     "Porcupine suit grants:",
@@ -23,10 +23,13 @@
     "Short-distance flight via belt jets",
     "Wide variety of offensive and defensive weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/PorcupineMarvel.jpg/250px-PorcupineMarvel.jpg",
-    "width": "250",
-    "height": "177"
-  },
-  "pageviews": 2557
+  "realName": "Alexander Gentry",
+  "species": [
+  ],
+  "teams": [
+    "United States Army",
+    "Lethal Legion",
+    "Maggia"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Porcupine_(comics)"
 }

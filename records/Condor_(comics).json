@@ -1,24 +1,28 @@
 {
-  "name": "Condor",
-  "url": "https://en.wikipedia.org/wiki/Condor_(comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Marv Wolfman",
     "John Buscema"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "98",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Condor_HCV.jpg/200px-Condor_HCV.jpg",
+    "width": "200"
+  },
+  "name": "Condor",
+  "pageviews": 596,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Enhanced strength",
     "agility and reflexes. Flight via wings."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Condor_HCV.jpg/200px-Condor_HCV.jpg",
-    "width": "200",
-    "height": "98"
-  },
-  "pageviews": 596
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Condor_(comics)"
 }

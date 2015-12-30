@@ -1,20 +1,25 @@
 {
-  "name": "Stunt-Master",
-  "url": "https://en.wikipedia.org/wiki/Stunt-Master_(comics)",
-  "realName": "George Smith",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Gene Colan"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Stunt-Master",
+  "pageviews": 499,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Skilled stuntman and motorcyclist",
     "Use of a flying motorcycle"
   ],
-  "image": {},
-  "pageviews": 499
+  "realName": "George Smith",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Stunt-Master_(comics)"
 }

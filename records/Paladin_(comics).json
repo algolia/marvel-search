@@ -1,22 +1,20 @@
 {
-  "name": "Paladin",
-  "url": "https://en.wikipedia.org/wiki/Paladin_(comics)",
-  "realName": null,
+  "aliases": "Paul Dennis, Paul Denning",
   "creators": [
     "Jim Shooter",
     "Carmine Infantino"
   ],
-  "teams": [
-    "Defenders",
-    "Heroes for Hire",
-    "The Intruders",
-    "Thunderbolts",
-    "Wild Pack"
+  "image": {
+    "height": "219",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Pladin.jpg/250px-Pladin.jpg",
+    "width": "250"
+  },
+  "name": "Paladin",
+  "pageviews": 5334,
+  "partners": [
   ],
-  "aliases": "Paul Dennis, Paul Denning",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Highly skilled hand-to-hand combatant",
     "Skilled marksman",
@@ -34,10 +32,15 @@
     "Helmet with belt activated faceplate",
     "Infrared vision via helmet's lenses"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Pladin.jpg/250px-Pladin.jpg",
-    "width": "250",
-    "height": "219"
-  },
-  "pageviews": 5334
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "Heroes for Hire",
+    "The Intruders",
+    "Thunderbolts",
+    "Wild Pack"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Paladin_(comics)"
 }

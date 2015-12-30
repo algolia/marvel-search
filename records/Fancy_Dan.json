@@ -1,19 +1,24 @@
 {
-  "name": "Fancy Dan",
-  "url": "https://en.wikipedia.org/wiki/Fancy_Dan",
-  "realName": "Daniel Brito",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
+  "image": {
+  },
+  "name": "Fancy Dan",
+  "pageviews": 1652,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Daniel Brito",
+  "species": [
+  ],
   "teams": [
     "Enforcers"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 1652
+  "url": "https://en.wikipedia.org/wiki/Fancy_Dan"
 }

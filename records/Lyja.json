@@ -1,21 +1,20 @@
 {
-  "name": "Lyja",
-  "url": "https://en.wikipedia.org/wiki/Lyja",
-  "realName": "Lyja",
+  "aliases": "Alicia Masters Storm , The Lazerfist, Bridget O'Neil, Laura Green",
   "creators": [
     "Tom DeFalco",
     "Paul Ryan"
   ],
-  "teams": [
-    "Fantastic Four",
-    "Skrull Empire"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Secret_Invasion_Fantastic_Four_2.jpg/250px-Secret_Invasion_Fantastic_Four_2.jpg",
+    "width": "250"
+  },
+  "name": "Lyja",
+  "pageviews": 3870,
+  "partners": [
   ],
-  "aliases": "Alicia Masters Storm , The Lazerfist, Bridget O'Neil, Laura Green",
-  "species": [
-    "Skrull"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Trained actress and armed/unarmed combatant",
     "Talented creator of abstract sculptures",
@@ -24,10 +23,13 @@
     "Heat and flame resistance",
     "Flight via dragon-like wings"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Secret_Invasion_Fantastic_Four_2.jpg/250px-Secret_Invasion_Fantastic_Four_2.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 3870
+  "realName": "Lyja",
+  "species": [
+    "Skrull"
+  ],
+  "teams": [
+    "Fantastic Four",
+    "Skrull Empire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lyja"
 }

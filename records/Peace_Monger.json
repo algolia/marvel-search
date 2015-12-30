@@ -1,18 +1,23 @@
 {
-  "name": "Peace Monger",
-  "url": "https://en.wikipedia.org/wiki/Peace_Monger",
-  "realName": "Dr. Cobbleskill",
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Peace Monger",
+  "pageviews": 237,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Ability to absorb hatred from others to increase size and strength"
   ],
-  "image": {},
-  "pageviews": 237
+  "realName": "Dr. Cobbleskill",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Peace_Monger"
 }

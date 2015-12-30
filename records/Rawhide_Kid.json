@@ -1,24 +1,28 @@
 {
-  "name": "The Rawhide Kid",
-  "url": "https://en.wikipedia.org/wiki/Rawhide_Kid",
-  "realName": "Johnny Bart",
+  "aliases": "Johnny Clay",
   "creators": [
     "Stan Lee",
     "Bob Brown"
+  ],
+  "image": {
+    "height": "384",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/c9/RawhideKid.jpg",
+    "width": "250"
+  },
+  "name": "The Rawhide Kid",
+  "pageviews": 3153,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Johnny Bart",
+  "species": [
   ],
   "teams": [
     "Avengers",
     "West Coast Avengers"
   ],
-  "aliases": "Johnny Clay",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/c9/RawhideKid.jpg",
-    "width": "250",
-    "height": "384"
-  },
-  "pageviews": 3153
+  "url": "https://en.wikipedia.org/wiki/Rawhide_Kid"
 }

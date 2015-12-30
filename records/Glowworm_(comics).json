@@ -1,23 +1,27 @@
 {
-  "name": "Glowworm",
-  "url": "https://en.wikipedia.org/wiki/Glowworm_(comics)",
-  "realName": "William Blake",
+  "aliases": "Race Killer, White Devil",
   "creators": [
     "Jim Owsley",
     "Mark Bright",
     "Jerry Acerno"
   ],
-  "teams": [],
-  "aliases": "Race Killer, White Devil",
-  "species": [
-    "Human"
+  "image": {
+  },
+  "name": "Glowworm",
+  "pageviews": 300,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and steel hard skin",
     "shrug off double"
   ],
-  "image": {},
-  "pageviews": 300
+  "realName": "William Blake",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Glowworm_(comics)"
 }

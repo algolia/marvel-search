@@ -1,25 +1,29 @@
 {
-  "name": "Steel Spider",
-  "url": "https://en.wikipedia.org/wiki/Steel_Spider",
-  "realName": "Oliver \"Ollie\" Osnick",
+  "aliases": "Kid Ock, Spider-Kid",
   "creators": [
     "Bill Mantlo",
     "Ed Hannigan"
   ],
-  "teams": [],
-  "aliases": "Kid Ock, Spider-Kid",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "206",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Steelspider.jpg/250px-Steelspider.jpg",
+    "width": "250"
+  },
+  "name": "Steel Spider",
+  "pageviews": 3869,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Gifted inventor",
     "Genius intelligence",
     "Wears mechanical spider legs and gauntlets containing a grappling hook launcher and pepper spray blasters"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Steelspider.jpg/250px-Steelspider.jpg",
-    "width": "250",
-    "height": "206"
-  },
-  "pageviews": 3869
+  "realName": "Oliver \"Ollie\" Osnick",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Steel_Spider"
 }

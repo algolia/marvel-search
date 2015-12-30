@@ -1,17 +1,19 @@
 {
-  "name": "Raza",
-  "url": "https://en.wikipedia.org/wiki/Raza_Longknife",
-  "realName": "Raza Longknife",
+  "aliases": "",
   "creators": [
     "Dave Cockrum"
   ],
-  "teams": [
-    "Starjammers"
+  "image": {
+    "height": "253",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Longknife.jpg/250px-Longknife.jpg",
+    "width": "250"
+  },
+  "name": "Raza",
+  "pageviews": 951,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "enhanced agility",
@@ -19,10 +21,11 @@
     "reflexes",
     "Skilled hand-to-hand combatant."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Longknife.jpg/250px-Longknife.jpg",
-    "width": "250",
-    "height": "253"
-  },
-  "pageviews": 951
+  "realName": "Raza Longknife",
+  "species": [
+  ],
+  "teams": [
+    "Starjammers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Raza_Longknife"
 }

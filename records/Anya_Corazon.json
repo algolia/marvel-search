@@ -1,21 +1,16 @@
 {
-  "name": "Anya Corazon",
-  "url": "https://en.wikipedia.org/wiki/Anya_Corazon",
-  "realName": "Anya Sofia Corazon",
+  "aliases": "Arañita, the Hunter, Spider-Girl, Araña",
   "creators": [
     "Fiona Avery",
     "Mark Brooks"
   ],
-  "teams": [
-    "A-Force",
-    "Young Allies (Heroic Age)",
-    "SHRA Training Program",
-    "The Spider Society",
-    "Avengers Academy",
-    "Web Warriors"
-  ],
-  "aliases": "Arañita, the Hunter, Spider-Girl, Araña",
-  "species": [],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Spider-Girl_%28Anya%29_1cover.jpg/250px-Spider-Girl_%28Anya%29_1cover.jpg",
+    "width": "250"
+  },
+  "name": "Anya Corazon",
+  "pageviews": 11583,
   "partners": [
     "Ms. Marvel",
     "Spider-Man",
@@ -34,10 +29,16 @@
     "balance and endurance",
     "Ability to stick to solid surfaces and create a blue symbiote-like protective exoskeleton"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Spider-Girl_%28Anya%29_1cover.jpg/250px-Spider-Girl_%28Anya%29_1cover.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 11583
+  "realName": "Anya Sofia Corazon",
+  "species": [
+  ],
+  "teams": [
+    "A-Force",
+    "Young Allies (Heroic Age)",
+    "SHRA Training Program",
+    "The Spider Society",
+    "Avengers Academy",
+    "Web Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Anya_Corazon"
 }

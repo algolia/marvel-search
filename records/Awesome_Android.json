@@ -1,32 +1,34 @@
 {
-  "name": "Awesome Android",
-  "url": "https://en.wikipedia.org/wiki/Awesome_Android",
-  "realName": "",
+  "aliases": "Awesome Andy",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Goodman, Lieber, Kurtzberg & Holliway",
-    "Heavy Metal",
-    "Intelligencia"
-  ],
-  "aliases": "Awesome Andy",
-  "species": [],
+  "image": {
+    "height": "383",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg/250px-ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg",
+    "width": "250"
+  },
+  "name": "Awesome Android",
+  "pageviews": 2951,
   "partners": [
     "Mad Thinker"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "Ability to mimic surfaces",
     "textures and abilities via physical contact",
     "and emit close-range gale-force wind blasts from its mouth"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg/250px-ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg",
-    "width": "250",
-    "height": "383"
-  },
-  "pageviews": 2951
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Goodman, Lieber, Kurtzberg & Holliway",
+    "Heavy Metal",
+    "Intelligencia"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Awesome_Android"
 }

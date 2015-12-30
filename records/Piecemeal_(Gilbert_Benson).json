@@ -1,27 +1,29 @@
 {
-  "name": "Piecemeal",
-  "url": "https://en.wikipedia.org/wiki/Piecemeal_(Gilbert_Benson)",
-  "realName": "Gilbert Benson",
+  "aliases": "Proteus, Kevin MacTaggert",
   "creators": [
     "Fabian Nicieza",
     "Guang Yap"
   ],
-  "teams": [
-    "Alliance of Evil"
+  "image": {
+    "height": "319",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Newmutantsann7.jpg",
+    "width": "204"
+  },
+  "name": "Piecemeal",
+  "pageviews": 742,
+  "partners": [
   ],
-  "aliases": "Proteus, Kevin MacTaggert",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Absorb energy frequencies and store them within his body."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Newmutantsann7.jpg",
-    "width": "204",
-    "height": "319"
-  },
-  "pageviews": 742
+  "realName": "Gilbert Benson",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Alliance of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Piecemeal_(Gilbert_Benson)"
 }

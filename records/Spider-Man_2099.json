@@ -1,7 +1,5 @@
 {
-  "name": "Spider-Man 2099",
-  "url": "https://en.wikipedia.org/wiki/Spider-Man_2099",
-  "realName": "Miguel O'Hara",
+  "aliases": "",
   "creators": [
     "Peter David",
     "Rick Leonardi",
@@ -9,14 +7,17 @@
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Exiles",
-    "Alchemax"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Sman2099.jpg/250px-Sman2099.jpg",
+    "width": "250"
+  },
+  "name": "Spider-Man 2099",
+  "pageviews": 24531,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -34,10 +35,12 @@
     "Temporary-paralysis venom from fangs",
     "Wears indestructible costume of unstable molecule fabric with air-foil that allows gliding"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Sman2099.jpg/250px-Sman2099.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 24531
+  "realName": "Miguel O'Hara",
+  "species": [
+  ],
+  "teams": [
+    "Exiles",
+    "Alchemax"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spider-Man_2099"
 }

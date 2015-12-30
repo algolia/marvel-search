@@ -1,28 +1,31 @@
 {
-  "name": "Mainframe",
-  "url": "https://en.wikipedia.org/wiki/Mainframe_(comics)",
-  "realName": "Mainframe",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [
-    "A-Next"
+  "image": {
+    "height": "221",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Mainframe_HCV.jpg/160px-Mainframe_HCV.jpg",
+    "width": "160"
+  },
+  "name": "Mainframe",
+  "pageviews": 1579,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "flight",
     "energy blasts",
     "projectile weaponry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Mainframe_HCV.jpg/160px-Mainframe_HCV.jpg",
-    "width": "160",
-    "height": "221"
-  },
-  "pageviews": 1579
+  "realName": "Mainframe",
+  "species": [
+  ],
+  "teams": [
+    "A-Next"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mainframe_(comics)"
 }

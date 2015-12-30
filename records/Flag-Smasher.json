@@ -1,17 +1,18 @@
 {
-  "name": "Flag-Smasher",
-  "url": "https://en.wikipedia.org/wiki/Flag-Smasher",
-  "realName": "Karl Morgenthau",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Paul Neary"
   ],
-  "teams": [
-    "ULTIMATUM"
+  "image": {
+    "height": "309",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/FlagSmasherMarvel.jpg",
+    "width": "250"
+  },
+  "name": "Flag-Smasher",
+  "pageviews": 3078,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "ULTIMATUM"
   ],
@@ -20,10 +21,11 @@
     "Gifted hand to hand combatant",
     "Arsenal of weapons provided by ULTIMATUM"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/FlagSmasherMarvel.jpg",
-    "width": "250",
-    "height": "309"
-  },
-  "pageviews": 3078
+  "realName": "Karl Morgenthau",
+  "species": [
+  ],
+  "teams": [
+    "ULTIMATUM"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Flag-Smasher"
 }

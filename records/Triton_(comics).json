@@ -1,21 +1,20 @@
 {
-  "name": "Triton",
-  "url": "https://en.wikipedia.org/wiki/Triton_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Inhuman Royal Family",
-    "Deep Six"
+  "image": {
+    "height": "400",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/df/Triton_-_sii_04.png",
+    "width": "132"
+  },
+  "name": "Triton",
+  "pageviews": 10904,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Inhuman"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Underwater breathing",
     "Aquatic vision",
@@ -26,10 +25,13 @@
     "agility",
     "and reflexes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/df/Triton_-_sii_04.png",
-    "width": "132",
-    "height": "400"
-  },
-  "pageviews": 10904
+  "realName": null,
+  "species": [
+    "Inhuman"
+  ],
+  "teams": [
+    "Inhuman Royal Family",
+    "Deep Six"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Triton_(comics)"
 }

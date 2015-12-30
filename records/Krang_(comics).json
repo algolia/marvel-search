@@ -1,19 +1,16 @@
 {
-  "name": "Krang",
-  "url": "https://en.wikipedia.org/wiki/Krang_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Defenders",
-    "Serpent Squad"
-  ],
-  "aliases": "",
-  "species": [
-    "Homo mermanus"
-  ],
+  "image": {
+    "height": "281",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Krang1.jpg/250px-Krang1.jpg",
+    "width": "250"
+  },
+  "name": "Krang",
+  "pageviews": 1994,
   "partners": [
     "Attuma",
     "Byrrah",
@@ -21,17 +18,21 @@
     "Puppet Master",
     "Orka"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to breathe underwater",
     "Skilled strategist",
     "Expert fencer",
     "Wields electric sword"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Krang1.jpg/250px-Krang1.jpg",
-    "width": "250",
-    "height": "281"
-  },
-  "pageviews": 1994
+  "realName": null,
+  "species": [
+    "Homo mermanus"
+  ],
+  "teams": [
+    "Defenders",
+    "Serpent Squad"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Krang_(comics)"
 }

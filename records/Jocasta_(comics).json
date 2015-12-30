@@ -1,24 +1,22 @@
 {
-  "name": "Jocasta",
-  "url": "https://en.wikipedia.org/wiki/Jocasta_(comics)",
-  "realName": "Jocasta",
+  "aliases": "Bride of Ultron",
   "creators": [
     "Jim Shooter",
     "George Pérez"
   ],
-  "teams": [
-    "Mighty Avengers",
-    "Mavericks",
-    "Avengers",
-    "Avengers Academy"
-  ],
-  "aliases": "Bride of Ultron",
-  "species": [],
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Jocasta_%28Marvel_Character%29_Full_Figure_Profile_Picture.jpg/140px-Jocasta_%28Marvel_Character%29_Full_Figure_Profile_Picture.jpg",
+    "width": "140"
+  },
+  "name": "Jocasta",
+  "pageviews": 8535,
   "partners": [
     "Hank Pym",
     "Ultron"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Computer Integration",
     "Superhuman Strength",
@@ -27,10 +25,14 @@
     "Force Field Generation",
     "Holographic Disguise Projector"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Jocasta_%28Marvel_Character%29_Full_Figure_Profile_Picture.jpg/140px-Jocasta_%28Marvel_Character%29_Full_Figure_Profile_Picture.jpg",
-    "width": "140",
-    "height": "450"
-  },
-  "pageviews": 8535
+  "realName": "Jocasta",
+  "species": [
+  ],
+  "teams": [
+    "Mighty Avengers",
+    "Mavericks",
+    "Avengers",
+    "Avengers Academy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jocasta_(comics)"
 }

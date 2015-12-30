@@ -1,22 +1,25 @@
 {
-  "name": "X-Cutioner",
-  "url": "https://en.wikipedia.org/wiki/X-Cutioner",
-  "realName": "Carl Denti",
+  "aliases": "",
   "creators": [
     "Scott Lobdell"
+  ],
+  "image": {
+  },
+  "name": "X-Cutioner",
+  "pageviews": 1387,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "used to have an exoskeleton that gave him enhanced strength and various other weapons"
+  ],
+  "realName": "Carl Denti",
+  "species": [
+    "Human"
   ],
   "teams": [
     "FBI"
   ],
-  "aliases": "",
-  "species": [
-    "Human"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "used to have an exoskeleton that gave him enhanced strength and various other weapons"
-  ],
-  "image": {},
-  "pageviews": 1387
+  "url": "https://en.wikipedia.org/wiki/X-Cutioner"
 }

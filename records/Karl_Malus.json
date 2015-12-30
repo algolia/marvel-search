@@ -1,21 +1,25 @@
 {
-  "name": "Dr. Karl Malus",
-  "url": "https://en.wikipedia.org/wiki/Karl_Malus",
-  "realName": "Karl Malus",
+  "aliases": "",
   "creators": [
     "Michael Fleisher",
     "Steve Leialoha"
   ],
-  "teams": [
-    "Corporation"
+  "image": {
+  },
+  "name": "Dr. Karl Malus",
+  "pageviews": 1965,
+  "partners": [
   ],
-  "aliases": "",
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Karl Malus",
   "species": [
     "Human"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 1965
+  "teams": [
+    "Corporation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Karl_Malus"
 }

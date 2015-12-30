@@ -1,23 +1,18 @@
 {
-  "name": "M",
-  "url": "https://en.wikipedia.org/wiki/M_(comics)",
-  "realName": "Monet Yvette Clarisse Maria Therese St. Croix",
+  "aliases": "M-Plate, Penance",
   "creators": [
     "Scott Lobdell",
     "Chris Bachalo"
   ],
-  "teams": [
-    "Generation X",
-    "X-Corporation: Paris",
-    "X-Corps",
-    "X-Factor Investigations",
-    "X-Men"
+  "image": {
+    "height": "440",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/Monet_Yvette_M.png",
+    "width": "280"
+  },
+  "name": "M",
+  "pageviews": 7506,
+  "partners": [
   ],
-  "aliases": "M-Plate, Penance",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "healing factor"
   ],
@@ -39,10 +34,16 @@
     "Telepathy",
     "Ability to perceive mutant auras"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/Monet_Yvette_M.png",
-    "width": "280",
-    "height": "440"
-  },
-  "pageviews": 7506
+  "realName": "Monet Yvette Clarisse Maria Therese St. Croix",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Generation X",
+    "X-Corporation: Paris",
+    "X-Corps",
+    "X-Factor Investigations",
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/M_(comics)"
 }

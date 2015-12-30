@@ -1,27 +1,30 @@
 {
-  "name": "Gary Wilton, Jr.",
-  "url": "https://en.wikipedia.org/wiki/Raptor_(Marvel_Comics)",
-  "realName": "Gary Wilton, Jr.",
-  "creators": [],
-  "teams": [
-    "Avengers"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "308",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Raptor_%28Gary_Wilton_Jr%29.jpg/200px-Raptor_%28Gary_Wilton_Jr%29.jpg",
+    "width": "200"
+  },
+  "name": "Gary Wilton, Jr.",
+  "pageviews": 1406,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Shapeshifter that can transform himself into bird-like form",
     "Superhuman strength",
     "and durability",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Raptor_%28Gary_Wilton_Jr%29.jpg/200px-Raptor_%28Gary_Wilton_Jr%29.jpg",
-    "width": "200",
-    "height": "308"
-  },
-  "pageviews": 1406
+  "realName": "Gary Wilton, Jr.",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Raptor_(Marvel_Comics)"
 }

@@ -1,24 +1,28 @@
 {
-  "name": "Abdul Alhazred",
-  "url": "https://en.wikipedia.org/wiki/Abdul_Alhazred_(comics)",
-  "realName": "Abdul Alhazred",
+  "aliases": "The Mad Arab, Death God, Master",
   "creators": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "teams": [],
-  "aliases": "The Mad Arab, Death God, Master",
-  "species": [
-    "Human"
+  "image": {
+  },
+  "name": "Abdul Alhazred",
+  "pageviews": 897,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "mystical and psionic abilities",
     "teleportation",
     "hypnotism",
     "superhuman strength"
   ],
-  "image": {},
-  "pageviews": 897
+  "realName": "Abdul Alhazred",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Abdul_Alhazred_(comics)"
 }

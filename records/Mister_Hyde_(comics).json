@@ -1,25 +1,24 @@
 {
-  "name": "Mister Hyde",
-  "url": "https://en.wikipedia.org/wiki/Mister_Hyde_(comics)",
-  "realName": "Dr. Calvin Zabo",
+  "aliases": "Thor",
   "creators": [
     "Stan Lee",
     "Don Heck"
   ],
-  "teams": [
-    "Masters of Evil",
-    "Lethal Legion",
-    "Thunderbolts"
-  ],
-  "aliases": "Thor",
-  "species": [],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/MisterHyde.png/250px-MisterHyde.png",
+    "width": "250"
+  },
+  "name": "Mister Hyde",
+  "pageviews": 30358,
   "partners": [
     "Cobra",
     "Jester",
     "Scorpion",
     "Batroc"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "As Calvin Zabo:",
     "Brilliant medical researcher",
@@ -30,10 +29,13 @@
     "stamina",
     "durability and resistance to injury"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/MisterHyde.png/250px-MisterHyde.png",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 30358
+  "realName": "Dr. Calvin Zabo",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Lethal Legion",
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mister_Hyde_(comics)"
 }

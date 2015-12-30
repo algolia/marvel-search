@@ -1,21 +1,26 @@
 {
-  "name": "Plunderer",
-  "url": "https://en.wikipedia.org/wiki/Plunderer",
-  "realName": "Parnival Plunder",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "382",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Daredevil_cover_-_number_14.jpg/250px-Daredevil_cover_-_number_14.jpg",
-    "width": "250",
-    "height": "382"
+    "width": "250"
   },
-  "pageviews": 1453
+  "name": "Plunderer",
+  "pageviews": 1453,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Parnival Plunder",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Plunderer"
 }

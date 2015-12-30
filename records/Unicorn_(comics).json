@@ -1,24 +1,24 @@
 {
-  "name": "Unicorn",
-  "url": "https://en.wikipedia.org/wiki/Unicorn_(comics)",
-  "realName": "Milos Masaryk",
+  "aliases": "Uncanny Unicorn",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Maggia",
-    "KGB"
-  ],
-  "aliases": "Uncanny Unicorn",
-  "species": [],
+  "image": {
+    "height": "372",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/IronMan-154.jpg/250px-IronMan-154.jpg",
+    "width": "250"
+  },
+  "name": "Unicorn",
+  "pageviews": 2736,
   "partners": [
     "Count Nefaria",
     "Red Ghost",
     "Titanium Man",
     "Mandarin"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Formidable hand-to-hand combatant and marksman",
     "Highly proficient in the use of knives",
@@ -28,10 +28,12 @@
     "Energy projection",
     "force field generation and magnetic levitation via emitter on brow of suit"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/IronMan-154.jpg/250px-IronMan-154.jpg",
-    "width": "250",
-    "height": "372"
-  },
-  "pageviews": 2736
+  "realName": "Milos Masaryk",
+  "species": [
+  ],
+  "teams": [
+    "Maggia",
+    "KGB"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Unicorn_(comics)"
 }

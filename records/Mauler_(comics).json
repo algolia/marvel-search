@@ -1,16 +1,20 @@
 {
-  "name": "Mauler",
-  "url": "https://en.wikipedia.org/wiki/Mauler_(comics)",
-  "realName": "Aaron Soames<br>Turk Barrett<br>Brendan Doyle<br>Unnamed criminal",
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "Frank Miller"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/IronMan-156.jpg/250px-IronMan-156.jpg",
+    "width": "250"
+  },
+  "name": "Mauler",
+  "pageviews": 965,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Armored suit grants:",
     "Superhuman strength",
@@ -20,10 +24,10 @@
     "Laser cannon on left arm",
     "Electric shock generator on right arm"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/IronMan-156.jpg/250px-IronMan-156.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 965
+  "realName": "Aaron Soames<br>Turk Barrett<br>Brendan Doyle<br>Unnamed criminal",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mauler_(comics)"
 }

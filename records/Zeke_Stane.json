@@ -1,26 +1,29 @@
 {
-  "name": "Zeke Stane",
-  "url": "https://en.wikipedia.org/wiki/Zeke_Stane",
-  "realName": "Ezekiel \"Zeke\" Stane",
+  "aliases": "Iron Monger Iron Man 2.0",
   "creators": [
     "Matt Fraction",
     "Barry Kitson"
   ],
-  "teams": [
-    "Hellfire Club"
+  "image": {
+    "height": "223",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Zekestane.jpg/250px-Zekestane.jpg",
+    "width": "250"
+  },
+  "name": "Zeke Stane",
+  "pageviews": 2919,
+  "partners": [
   ],
-  "aliases": "Iron Monger Iron Man 2.0",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius-level intellect",
     "Superhuman abilities derived from bio-upgrades"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Zekestane.jpg/250px-Zekestane.jpg",
-    "width": "250",
-    "height": "223"
-  },
-  "pageviews": 2919
+  "realName": "Ezekiel \"Zeke\" Stane",
+  "species": [
+  ],
+  "teams": [
+    "Hellfire Club"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Zeke_Stane"
 }

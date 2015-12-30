@@ -1,28 +1,31 @@
 {
-  "name": "Roma",
-  "url": "https://en.wikipedia.org/wiki/Roma_(comics)",
-  "realName": "Roma",
+  "aliases": "Lady of the Northern Skies, the Goddess of the Northern Skies",
   "creators": [
     "Chris Claremont",
     "Herb Trimpe",
     "Fred Kida"
   ],
-  "teams": [
-    "Captain Britain Corps"
+  "image": {
+    "height": "440",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Roma_-_uncanny_x-men_462.png",
+    "width": "200"
+  },
+  "name": "Roma",
+  "pageviews": 3714,
+  "partners": [
   ],
-  "aliases": "Lady of the Northern Skies, the Goddess of the Northern Skies",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Immortality",
     "Mystic powers",
     "Energy manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Roma_-_uncanny_x-men_462.png",
-    "width": "200",
-    "height": "440"
-  },
-  "pageviews": 3714
+  "realName": "Roma",
+  "species": [
+  ],
+  "teams": [
+    "Captain Britain Corps"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Roma_(comics)"
 }

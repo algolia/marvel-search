@@ -1,22 +1,18 @@
 {
-  "name": "Match",
-  "url": "https://en.wikipedia.org/wiki/Match_(Marvel_Comics)",
-  "realName": "Benjamin \"Ben\" Hamill",
+  "aliases": "",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir"
   ],
-  "teams": [
-    "Paragons training squad",
-    "Xavier Institute",
-    "X-Men-In-Training",
-    "Jean Grey School Students"
+  "image": {
+    "height": "250",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Match%28NXM_39%29.jpg/250px-Match%28NXM_39%29.jpg",
+    "width": "250"
+  },
+  "name": "Match",
+  "pageviews": 898,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Fire manipulation"
   ],
@@ -26,10 +22,15 @@
     "Fire manipulation",
     "Immunity to extreme heat"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Match%28NXM_39%29.jpg/250px-Match%28NXM_39%29.jpg",
-    "width": "250",
-    "height": "250"
-  },
-  "pageviews": 898
+  "realName": "Benjamin \"Ben\" Hamill",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Paragons training squad",
+    "Xavier Institute",
+    "X-Men-In-Training",
+    "Jean Grey School Students"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Match_(Marvel_Comics)"
 }

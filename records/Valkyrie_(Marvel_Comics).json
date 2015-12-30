@@ -1,20 +1,18 @@
 {
-  "name": "Valkyrie",
-  "url": "https://en.wikipedia.org/wiki/Valkyrie_(Marvel_Comics)",
-  "realName": "Brunnhilde",
+  "aliases": "Barbara Denton-Norris, Sian Bowen, Brunnhilde of Asgard",
   "creators": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "teams": [
-    "Asgardians",
-    "Valkyrior",
-    "Defenders",
-    "Secret Avengers"
+  "image": {
+    "height": "298",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Valkyrie.jpeg/200px-Valkyrie.jpeg",
+    "width": "200"
+  },
+  "name": "Valkyrie",
+  "pageviews": 27691,
+  "partners": [
   ],
-  "aliases": "Barbara Denton-Norris, Sian Bowen, Brunnhilde of Asgard",
-  "species": [],
-  "partners": [],
   "powers": [
     "Superhuman strength",
     "endurance",
@@ -26,10 +24,14 @@
     "and longevity",
     "Ability to convey spirits of the dead"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Valkyrie.jpeg/200px-Valkyrie.jpeg",
-    "width": "200",
-    "height": "298"
-  },
-  "pageviews": 27553
+  "realName": "Brunnhilde",
+  "species": [
+  ],
+  "teams": [
+    "Asgardians",
+    "Valkyrior",
+    "Defenders",
+    "Secret Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Valkyrie_(Marvel_Comics)"
 }

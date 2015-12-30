@@ -1,9 +1,35 @@
 {
-  "name": "Namor the Sub-Mariner",
-  "url": "https://en.wikipedia.org/wiki/Namor",
-  "realName": "Namor McKenzie",
+  "aliases": "Namor the First, The Avenging Son, Imperius Rex, The Sub-Mariner",
   "creators": [
     "Bill Everett"
+  ],
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/f7/NAMOR1cover-CMYKcrop.jpg",
+    "width": "198"
+  },
+  "name": "Namor the Sub-Mariner",
+  "pageviews": 55503,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Aquatic adaptation",
+    "Superhuman strength",
+    "speed",
+    "agility and reflexes",
+    "Mild invulnerability",
+    "Flight via tiny wings on his ankles",
+    "Longevity",
+    "Formerly:",
+    "Telepathic control over sea creatures",
+    "Ability to copy the powers of sea creatures"
+  ],
+  "realName": "Namor McKenzie",
+  "species": [
+    "Atlantean",
+    "Human Mutant"
   ],
   "teams": [
     "Invaders",
@@ -19,29 +45,5 @@
     "Heroes for Hire",
     "Phoenix Five"
   ],
-  "aliases": "Namor the First, The Avenging Son, Imperius Rex, The Sub-Mariner",
-  "species": [
-    "Atlantean",
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Aquatic adaptation",
-    "Superhuman strength",
-    "speed",
-    "agility and reflexes",
-    "Mild invulnerability",
-    "Flight via tiny wings on his ankles",
-    "Longevity",
-    "Formerly:",
-    "Telepathic control over sea creatures",
-    "Ability to copy the powers of sea creatures"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/f7/NAMOR1cover-CMYKcrop.jpg",
-    "width": "198",
-    "height": "300"
-  },
-  "pageviews": 55503
+  "url": "https://en.wikipedia.org/wiki/Namor"
 }

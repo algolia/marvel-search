@@ -1,21 +1,16 @@
 {
-  "name": "Grim Reaper",
-  "url": "https://en.wikipedia.org/wiki/Grim_Reaper_(comics)",
-  "realName": "Eric Williams",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "teams": [
-    "Legion of the Unliving",
-    "Maggia",
-    "HYDRA",
-    "Lethal Legion",
-    "Sinister Six",
-    "Horsemen of Death"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Grimreapermu0.png/250px-Grimreapermu0.png",
+    "width": "250"
+  },
+  "name": "Grim Reaper",
+  "pageviews": 11396,
   "partners": [
     "Space Phantom",
     "Ultron",
@@ -45,10 +40,16 @@
     "Wields magically sharp scythe replaced with right hand that can drain energy and project energy blasts",
     "Ability to summon demons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Grimreapermu0.png/250px-Grimreapermu0.png",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 11396
+  "realName": "Eric Williams",
+  "species": [
+  ],
+  "teams": [
+    "Legion of the Unliving",
+    "Maggia",
+    "HYDRA",
+    "Lethal Legion",
+    "Sinister Six",
+    "Horsemen of Death"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Grim_Reaper_(comics)"
 }

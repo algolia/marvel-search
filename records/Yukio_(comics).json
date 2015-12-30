@@ -1,16 +1,16 @@
 {
-  "name": "Yukio",
-  "url": "https://en.wikipedia.org/wiki/Yukio_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Frank Miller"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Mutant"
-  ],
+  "image": {
+    "height": "275",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/46/Yukio_Profile.jpg",
+    "width": "250"
+  },
+  "name": "Yukio",
+  "pageviews": 8450,
   "partners": [
     "Gambit",
     "Wolverine",
@@ -26,10 +26,11 @@
     "Death precognition (''film only'')",
     "Genius-level intellect"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/46/Yukio_Profile.jpg",
-    "width": "250",
-    "height": "275"
-  },
-  "pageviews": 8450
+  "realName": null,
+  "species": [
+    "Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Yukio_(comics)"
 }

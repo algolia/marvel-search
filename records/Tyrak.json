@@ -1,21 +1,25 @@
 {
-  "name": "Tyrak",
-  "url": "https://en.wikipedia.org/wiki/Tyrak",
-  "realName": "Tyrak",
+  "aliases": "",
   "creators": [
     "Gerry Conway",
     "George Pérez"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Homo mermanus"
+  "image": {
+  },
+  "name": "Tyrak",
+  "pageviews": 921,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Size-Shifting"
   ],
-  "image": {},
-  "pageviews": 921
+  "realName": "Tyrak",
+  "species": [
+    "Homo mermanus"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tyrak"
 }

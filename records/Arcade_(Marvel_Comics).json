@@ -1,21 +1,22 @@
 {
-  "name": "Arcade",
-  "url": "https://en.wikipedia.org/wiki/Arcade_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "Mister A, \"Mad Monk,\" Pinball Wizard, A.R. Cadenski",
   "creators": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "teams": [
-    "Crazy Gang"
-  ],
-  "aliases": "Mister A, \"Mad Monk,\" Pinball Wizard, A.R. Cadenski",
-  "species": [],
+  "image": {
+    "height": "441",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/X-FactorVol330.jpg/300px-X-FactorVol330.jpg",
+    "width": "300"
+  },
+  "name": "Arcade",
+  "pageviews": 6578,
   "partners": [
     "White Rabbit",
     "Mastermind (Martinique Jason)"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius intelligence",
     "Via technology",
@@ -27,10 +28,11 @@
     "Matter manipulation",
     "Ability to blow apart anyone with a simple gesture"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/X-FactorVol330.jpg/300px-X-FactorVol330.jpg",
-    "width": "300",
-    "height": "441"
-  },
-  "pageviews": 6578
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Crazy Gang"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Arcade_(Marvel_Comics)"
 }

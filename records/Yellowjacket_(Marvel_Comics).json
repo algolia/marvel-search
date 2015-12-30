@@ -1,21 +1,17 @@
 {
-  "name": "Yellowjacket",
-  "url": "https://en.wikipedia.org/wiki/Yellowjacket_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "teams": [
-    "Avengers",
-    "Hank Pym",
-    "Defenders",
-    "Illuminati"
+  "image": {
+  },
+  "name": "Yellowjacket",
+  "pageviews": 53156,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius-level intellect",
     "Size-shifting from nearly microscopic to ~100 feet gigantic (both at extremes)",
@@ -25,6 +21,14 @@
     "Flight using grafted wings",
     "Superhuman strength."
   ],
-  "image": {},
-  "pageviews": 53156
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "Hank Pym",
+    "Defenders",
+    "Illuminati"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Yellowjacket_(Marvel_Comics)"
 }

@@ -1,25 +1,29 @@
 {
-  "name": "Deathwatch",
-  "url": "https://en.wikipedia.org/wiki/Deathwatch_(comics)",
-  "realName": null,
+  "aliases": "Stephen Lords",
   "creators": [
     "Howard Mackie"
   ],
-  "teams": [],
-  "aliases": "Stephen Lords",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Deathwatch_002.jpg",
+    "width": "164"
+  },
+  "name": "Deathwatch",
+  "pageviews": 1504,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
     "agility",
     "reflexes. Ability to absorb life essence upon the death of another being to enhance his physiology. Ability to psychically view others' short-term memories."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Deathwatch_002.jpg",
-    "width": "164",
-    "height": "450"
-  },
-  "pageviews": 1504
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Deathwatch_(comics)"
 }

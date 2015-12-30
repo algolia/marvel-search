@@ -1,29 +1,32 @@
 {
-  "name": "Dweller-in-Darkness",
-  "url": "https://en.wikipedia.org/wiki/Dweller-in-Darkness",
-  "realName": "",
+  "aliases": "He Who Dwells in Darkness",
   "creators": [
     "Gerry Conway",
     "Rich Buckler",
     "Roger Stern",
     "Tom Sutton"
   ],
-  "teams": [
-    "Fear Lords"
+  "image": {
+    "height": "413",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/12/Dwellerdarkness.jpg",
+    "width": "250"
+  },
+  "name": "Dweller-in-Darkness",
+  "pageviews": 2378,
+  "partners": [
   ],
-  "aliases": "He Who Dwells in Darkness",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Fear generation",
     "Immortality",
     "Superhuman strength."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/12/Dwellerdarkness.jpg",
-    "width": "250",
-    "height": "413"
-  },
-  "pageviews": 2378
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Fear Lords"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dweller-in-Darkness"
 }

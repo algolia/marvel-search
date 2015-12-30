@@ -1,18 +1,21 @@
 {
-  "name": "Mangog",
-  "url": "https://en.wikipedia.org/wiki/Mangog",
-  "realName": "",
+  "aliases": "Odin",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Odin",
-  "species": [],
+  "image": {
+    "height": "383",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Mangog.jpg/250px-Mangog.jpg",
+    "width": "250"
+  },
+  "name": "Mangog",
+  "pageviews": 3550,
   "partners": [
     "Thanos"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "stamina",
@@ -21,10 +24,10 @@
     "Immortality",
     "Empathic ability to feed on the hatred of sentient beings"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Mangog.jpg/250px-Mangog.jpg",
-    "width": "250",
-    "height": "383"
-  },
-  "pageviews": 3550
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mangog"
 }

@@ -1,28 +1,31 @@
 {
-  "name": "Spider-Man",
-  "url": "https://en.wikipedia.org/wiki/Spider-Man_Noir",
-  "realName": "Peter Parker",
+  "aliases": "",
   "creators": [
     "David Hine",
     "Fabrice Sapolsky",
     "Carmine Di Giandomenico"
   ],
-  "teams": [
-    "Web Warriors"
+  "image": {
+    "height": "314",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Spider-Man_Noir.png/250px-Spider-Man_Noir.png",
+    "width": "250"
+  },
+  "name": "Spider-Man",
+  "pageviews": 9357,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "The proportionate strength",
     "speed and agility of a spider",
     "a spider-sense and the ability to spray organic webbing from his hands. Uses his webbing as nets to both stun and capture his enemies"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Spider-Man_Noir.png/250px-Spider-Man_Noir.png",
-    "width": "250",
-    "height": "314"
-  },
-  "pageviews": 9357
+  "realName": "Peter Parker",
+  "species": [
+  ],
+  "teams": [
+    "Web Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spider-Man_Noir"
 }

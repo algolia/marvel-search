@@ -1,20 +1,25 @@
 {
-  "name": "Tracer",
-  "url": "https://en.wikipedia.org/wiki/Tracer_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "Tommy",
   "creators": [
     "Peter David",
     "Mike Wieringo"
   ],
-  "teams": [],
-  "aliases": "Tommy",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Tracer",
+  "pageviews": 439,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Mental control over seemingly all mechanical or machine based devices no matter how simple or elaborate.",
     "Analysing sensors can protract from fingertips that puncture a persons flesh to gain DNA samples."
   ],
-  "image": {},
-  "pageviews": 439
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tracer_(Marvel_Comics)"
 }

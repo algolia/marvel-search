@@ -1,25 +1,20 @@
 {
-  "name": "Barnell Bohusk",
-  "url": "https://en.wikipedia.org/wiki/Barnell_Bohusk",
-  "realName": "Barnell Bohusk",
+  "aliases": "Beak, Blackwing",
   "creators": [
     "Grant Morrison",
     "Ethan Van Sciver"
   ],
-  "teams": [
-    "Teen Brigade",
-    "New Warriors",
-    "Exiles",
-    "Street Team X-Men",
-    "Xavier Institute",
-    "Brotherhood of Mutants"
+  "image": {
+    "height": "221",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Blackwing.jpg/220px-Blackwing.jpg",
+    "width": "220"
+  },
+  "name": "Barnell Bohusk",
+  "pageviews": 3386,
+  "partners": [
   ],
-  "aliases": "Beak, Blackwing",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Currently:",
     "Advanced bird suit grants:",
@@ -35,10 +30,17 @@
     "Finger talons",
     "Wings that fold up along his arms and allow limited flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Blackwing.jpg/220px-Blackwing.jpg",
-    "width": "220",
-    "height": "221"
-  },
-  "pageviews": 3386
+  "realName": "Barnell Bohusk",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Teen Brigade",
+    "New Warriors",
+    "Exiles",
+    "Street Team X-Men",
+    "Xavier Institute",
+    "Brotherhood of Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Barnell_Bohusk"
 }

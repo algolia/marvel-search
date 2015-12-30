@@ -1,28 +1,31 @@
 {
-  "name": "Trauma",
-  "url": "https://en.wikipedia.org/wiki/Trauma_(comics)",
-  "realName": "Thow Mah",
+  "aliases": "",
   "creators": [
     "Peter David",
     "Gary Frank"
   ],
-  "teams": [
-    "Armageddon"
+  "image": {
+    "height": "440",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Shadow_Initiative.jpg/300px-Shadow_Initiative.jpg",
+    "width": "300"
+  },
+  "name": "Trauma",
+  "pageviews": 1800,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Experienced warrior and strategist",
     "Superhuman strength and durability",
     "Cosmic energy generation and projection",
     "Wears body armor with numerous weapons triggered by thoughts and special lenses attached to his eyes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Shadow_Initiative.jpg/300px-Shadow_Initiative.jpg",
-    "width": "300",
-    "height": "440"
-  },
-  "pageviews": 1800
+  "realName": "Thow Mah",
+  "species": [
+  ],
+  "teams": [
+    "Armageddon"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Trauma_(comics)"
 }

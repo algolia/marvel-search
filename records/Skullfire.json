@@ -1,29 +1,31 @@
 {
-  "name": "Skullfire",
-  "url": "https://en.wikipedia.org/wiki/Skullfire",
-  "realName": "Timothy Fitzgerald",
+  "aliases": "",
   "creators": [
     "John Francis Moore",
     "Ron Lim"
   ],
-  "teams": [
-    "X-Men 2099"
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Xmen2099-29.jpg/250px-Xmen2099-29.jpg",
+    "width": "250"
+  },
+  "name": "Skullfire",
+  "pageviews": 951,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Made of pure energy",
     "Ability to absorb and rechannel energy around him",
     "Levitation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Xmen2099-29.jpg/250px-Xmen2099-29.jpg",
-    "width": "250",
-    "height": "382"
-  },
-  "pageviews": 951
+  "realName": "Timothy Fitzgerald",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men 2099"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Skullfire"
 }

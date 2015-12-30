@@ -1,29 +1,31 @@
 {
-  "name": "Cloud 9",
-  "url": "https://en.wikipedia.org/wiki/Cloud_9_(comics)",
-  "realName": "Abigail \"Abby\" Boylen.",
+  "aliases": "",
   "creators": [
     "Dan Slott",
     "Stefano Caselli"
+  ],
+  "image": {
+    "height": "343",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Cloud_9_%28comics%29.jpg/250px-Cloud_9_%28comics%29.jpg",
+    "width": "250"
+  },
+  "name": "Cloud 9",
+  "pageviews": 2930,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Expert markswoman",
+    "Ability to manipulate an unidentified cloud-like gas form on which she can fly"
+  ],
+  "realName": "Abigail \"Abby\" Boylen.",
+  "species": [
+    "Human Mutate"
   ],
   "teams": [
     "Freedom Force",
     "The Initiative"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutate"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Expert markswoman",
-    "Ability to manipulate an unidentified cloud-like gas form on which she can fly"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Cloud_9_%28comics%29.jpg/250px-Cloud_9_%28comics%29.jpg",
-    "width": "250",
-    "height": "343"
-  },
-  "pageviews": 2930
+  "url": "https://en.wikipedia.org/wiki/Cloud_9_(comics)"
 }

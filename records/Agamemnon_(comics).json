@@ -1,20 +1,20 @@
 {
-  "name": "Agamemnon",
-  "url": "https://en.wikipedia.org/wiki/Agamemnon_(comics)",
-  "realName": null,
+  "aliases": "James, Vali Halfling",
   "creators": [
     "Peter David",
     "Dale Keown"
   ],
-  "teams": [
-    "Pantheon"
+  "image": {
+    "height": "261",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/18/AgamemnonC.jpg",
+    "width": "200"
+  },
+  "name": "Agamemnon",
+  "pageviews": 1531,
+  "partners": [
   ],
-  "aliases": "James, Vali Halfling",
-  "species": [
-    "Asgardian"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Genius analyzer and forecaster of future development of social structures",
     "Master battle strategist",
@@ -23,10 +23,12 @@
     "Immortality",
     "Access to highly advanced technology"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/18/AgamemnonC.jpg",
-    "width": "200",
-    "height": "261"
-  },
-  "pageviews": 1531
+  "realName": null,
+  "species": [
+    "Asgardian"
+  ],
+  "teams": [
+    "Pantheon"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Agamemnon_(comics)"
 }

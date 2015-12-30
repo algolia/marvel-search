@@ -1,17 +1,23 @@
 {
-  "name": "Nth Man",
-  "url": "https://en.wikipedia.org/wiki/Nth_Man",
-  "realName": "Thomas Lightner",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Ron Wilson"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 748
+  "image": {
+  },
+  "name": "Nth Man",
+  "pageviews": 748,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Thomas Lightner",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nth_Man"
 }

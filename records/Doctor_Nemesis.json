@@ -1,32 +1,34 @@
 {
-  "name": "Doctor Nemesis",
-  "url": "https://en.wikipedia.org/wiki/Doctor_Nemesis",
-  "realName": "James Nicola Bradley",
+  "aliases": "Doctor Death",
   "creators": [
     "Ace Magazines",
     "Marvel Comics",
     "Roy Thomas",
     "Dave Hoover"
   ],
-  "teams": [
-    "X-Men"
+  "image": {
+    "height": "387",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/XMN_Nemesis.jpg/250px-XMN_Nemesis.jpg",
+    "width": "250"
+  },
+  "name": "Doctor Nemesis",
+  "pageviews": 6285,
+  "partners": [
   ],
-  "aliases": "Doctor Death",
-  "species": [
-    "Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Accomplished investigator and hand to hand combatant",
     "\"Self-evolved\" intellect",
     "Enhanced immune system and eyesight",
     "Prolonged longevity"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/XMN_Nemesis.jpg/250px-XMN_Nemesis.jpg",
-    "width": "250",
-    "height": "387"
-  },
-  "pageviews": 6285
+  "realName": "James Nicola Bradley",
+  "species": [
+    "Mutant"
+  ],
+  "teams": [
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Doctor_Nemesis"
 }

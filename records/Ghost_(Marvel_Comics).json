@@ -1,19 +1,20 @@
 {
-  "name": "Ghost",
-  "url": "https://en.wikipedia.org/wiki/Ghost_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "Bob Layton"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Roxxon Oil"
+  "image": {
+    "height": "355",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Ghost_%28Marvel_character%29.jpg/250px-Ghost_%28Marvel_character%29.jpg",
+    "width": "250"
+  },
+  "name": "Ghost",
+  "pageviews": 4771,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled marksman",
     "Brilliant inventor",
@@ -24,10 +25,12 @@
     "Intangibility",
     "Stealth technology"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Ghost_%28Marvel_character%29.jpg/250px-Ghost_%28Marvel_character%29.jpg",
-    "width": "250",
-    "height": "355"
-  },
-  "pageviews": 4771
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Roxxon Oil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ghost_(Marvel_Comics)"
 }

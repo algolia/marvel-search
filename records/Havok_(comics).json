@@ -1,11 +1,30 @@
 {
-  "name": "Havok",
-  "url": "https://en.wikipedia.org/wiki/Havok_(comics)",
-  "realName": "Alexander \"Alex\" Summers",
+  "aliases": "Mutant X, Magistrate Summers, Goblin Prince",
   "creators": [
     "Arnold Drake",
     "Don Heck",
     "Neal Adams"
+  ],
+  "image": {
+    "height": "344",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Havok.jpg/250px-Havok.jpg",
+    "width": "250"
+  },
+  "name": "Havok",
+  "pageviews": 54559,
+  "partners": [
+  ],
+  "powers": [
+    "Cyclops'"
+  ],
+  "powersText": [
+    "Energy blasts",
+    "Immunity to Cyclops' optic blasts",
+    "Ability to absorb cosmic energy"
+  ],
+  "realName": "Alexander \"Alex\" Summers",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Avengers Unity Squad",
@@ -18,23 +37,5 @@
     "Genoshan Magistrates",
     "\"Defenders for a Day\""
   ],
-  "aliases": "Mutant X, Magistrate Summers, Goblin Prince",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "Cyclops'"
-  ],
-  "powersText": [
-    "Energy blasts",
-    "Immunity to Cyclops' optic blasts",
-    "Ability to absorb cosmic energy"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Havok.jpg/250px-Havok.jpg",
-    "width": "250",
-    "height": "344"
-  },
-  "pageviews": 54559
+  "url": "https://en.wikipedia.org/wiki/Havok_(comics)"
 }

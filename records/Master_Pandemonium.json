@@ -1,18 +1,20 @@
 {
-  "name": "Master Pandemonium",
-  "url": "https://en.wikipedia.org/wiki/Master_Pandemonium",
-  "realName": "Martin Preston",
+  "aliases": "",
   "creators": [
     "Steve Englehart",
     "Al Milgrom"
   ],
-  "teams": [
-    "Hellfire Club"
+  "image": {
+    "height": "350",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/West_Coast_Avengers_9.png",
+    "width": "231"
+  },
+  "name": "Master Pandemonium",
+  "pageviews": 1335,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to summon demons",
     "Ability to turn limbs into demons",
@@ -21,10 +23,11 @@
     "Amulet of Azmodeus grants:",
     "Teleportation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/West_Coast_Avengers_9.png",
-    "width": "231",
-    "height": "350"
-  },
-  "pageviews": 1335
+  "realName": "Martin Preston",
+  "species": [
+  ],
+  "teams": [
+    "Hellfire Club"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Master_Pandemonium"
 }

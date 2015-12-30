@@ -1,20 +1,25 @@
 {
-  "name": "Danger Room",
-  "url": "https://en.wikipedia.org/wiki/Danger_Room",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "178",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Danger_room.jpg/220px-Danger_room.jpg",
-    "width": "220",
-    "height": "178"
+    "width": "220"
   },
-  "pageviews": 4534
+  "name": "Danger Room",
+  "pageviews": 4534,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Danger_Room"
 }

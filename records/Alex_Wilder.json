@@ -1,19 +1,18 @@
 {
-  "name": "Alex Wilder",
-  "url": "https://en.wikipedia.org/wiki/Alex_Wilder",
-  "realName": "Alex Wilder",
+  "aliases": "",
   "creators": [
     "Brian K. Vaughan",
     "Adrian Alphona"
   ],
-  "teams": [
-    "Runaways",
-    "The Pride",
-    "Young Masters"
+  "image": {
+    "height": "371",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Runaways09.jpg/250px-Runaways09.jpg",
+    "width": "250"
+  },
+  "name": "Alex Wilder",
+  "pageviews": 3755,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "logic",
     "strategy"
@@ -21,10 +20,13 @@
   "powersText": [
     "Advanced skill with logic and strategy."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Runaways09.jpg/250px-Runaways09.jpg",
-    "width": "250",
-    "height": "371"
-  },
-  "pageviews": 3755
+  "realName": "Alex Wilder",
+  "species": [
+  ],
+  "teams": [
+    "Runaways",
+    "The Pride",
+    "Young Masters"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Alex_Wilder"
 }

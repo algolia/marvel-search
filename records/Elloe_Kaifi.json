@@ -1,25 +1,28 @@
 {
-  "name": "Elloe Kaifi",
-  "url": "https://en.wikipedia.org/wiki/Elloe_Kaifi",
-  "realName": "Elloe Kaifi",
+  "aliases": "",
   "creators": [
     "Greg Pak",
     "Carlo Pagulayan"
   ],
-  "teams": [
-    "Warbound"
+  "image": {
+    "height": "368",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Wwhaswb5.jpg/250px-Wwhaswb5.jpg",
+    "width": "250"
+  },
+  "name": "Elloe Kaifi",
+  "pageviews": 2798,
+  "partners": [
   ],
-  "aliases": "",
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Elloe Kaifi",
   "species": [
     "Sakaar"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Wwhaswb5.jpg/250px-Wwhaswb5.jpg",
-    "width": "250",
-    "height": "368"
-  },
-  "pageviews": 2798
+  "teams": [
+    "Warbound"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Elloe_Kaifi"
 }

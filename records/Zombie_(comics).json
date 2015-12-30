@@ -1,26 +1,29 @@
 {
-  "name": "Zombie",
-  "url": "https://en.wikipedia.org/wiki/Zombie_(comics)",
-  "realName": "Simon William Garth",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Bill Everett"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Zombie"
+  "image": {
+    "height": "338",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/TalesOfTheZombie1.jpg/250px-TalesOfTheZombie1.jpg",
+    "width": "250"
+  },
+  "name": "Zombie",
+  "pageviews": 2302,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Super strength",
     "magical healing"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/TalesOfTheZombie1.jpg/250px-TalesOfTheZombie1.jpg",
-    "width": "250",
-    "height": "338"
-  },
-  "pageviews": 2302
+  "realName": "Simon William Garth",
+  "species": [
+    "Zombie"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Zombie_(comics)"
 }

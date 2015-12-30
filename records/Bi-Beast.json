@@ -1,31 +1,33 @@
 {
-  "name": "Bi-Beast",
-  "url": "https://en.wikipedia.org/wiki/Bi-Beast",
-  "realName": "",
+  "aliases": "Skull-Brother",
   "creators": [
     "Steve Englehart",
     "Herb Trimpe"
   ],
-  "teams": [
-    "Masters of Evil",
-    "Sinister Sixteen"
-  ],
-  "aliases": "Skull-Brother",
-  "species": [],
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/H-169.jpg/250px-H-169.jpg",
+    "width": "250"
+  },
+  "name": "Bi-Beast",
+  "pageviews": 3009,
   "partners": [
     "Red Raven",
     "Man-Beast"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "stamina and durability",
     "Extensive knowledge of Avian warfare and culture"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/H-169.jpg/250px-H-169.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 3009
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Sinister Sixteen"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bi-Beast"
 }

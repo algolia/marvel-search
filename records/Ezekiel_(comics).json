@@ -1,18 +1,20 @@
 {
-  "name": "Ezekiel",
-  "url": "https://en.wikipedia.org/wiki/Ezekiel_(comics)",
-  "realName": "Ezekiel Sims",
+  "aliases": "Zeke",
   "creators": [
     "J. Michael Straczynski",
     "John Romita, Jr."
   ],
-  "teams": [
-    "The Spider Society"
+  "image": {
+    "height": "336",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Eziekelspiderman.jpg/200px-Eziekelspiderman.jpg",
+    "width": "200"
+  },
+  "name": "Ezekiel",
+  "pageviews": 4308,
+  "partners": [
   ],
-  "aliases": "Zeke",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Highly skilled businessman",
     "Formidable hand to hand combatant",
@@ -25,10 +27,11 @@
     "Knowledge of the nature of totems",
     "Ability to stick to any solid surface"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Eziekelspiderman.jpg/200px-Eziekelspiderman.jpg",
-    "width": "200",
-    "height": "336"
-  },
-  "pageviews": 4308
+  "realName": "Ezekiel Sims",
+  "species": [
+  ],
+  "teams": [
+    "The Spider Society"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ezekiel_(comics)"
 }

@@ -1,24 +1,27 @@
 {
-  "name": "Lois London",
-  "url": "https://en.wikipedia.org/wiki/Lois_London",
-  "realName": "Lois London",
-  "creators": [],
-  "teams": [],
   "aliases": "Mortis",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
+  "image": {
+    "height": "372",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Mortis.PNG/175px-Mortis.PNG",
+    "width": "175"
+  },
+  "name": "Lois London",
+  "pageviews": 706,
   "partners": [
     "Selene"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Creates an energy field that disrupts solid matter."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Mortis.PNG/175px-Mortis.PNG",
-    "width": "175",
-    "height": "372"
-  },
-  "pageviews": 706
+  "realName": "Lois London",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lois_London"
 }

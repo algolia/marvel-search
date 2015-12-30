@@ -1,25 +1,28 @@
 {
-  "name": "Velocidad",
-  "url": "https://en.wikipedia.org/wiki/Velocidad_(comics)",
-  "realName": "Gabriel Cohuelo",
+  "aliases": "The Second Light",
   "creators": [
     "Matt Fraction",
     "Kieron Gillen"
+  ],
+  "image": {
+  },
+  "name": "Velocidad",
+  "pageviews": 1758,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Localized time manipulation creating the appearance of super-speed"
+  ],
+  "realName": "Gabriel Cohuelo",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "The Lights",
     "X-Men",
     "Jean Grey School Students"
   ],
-  "aliases": "The Second Light",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Localized time manipulation creating the appearance of super-speed"
-  ],
-  "image": {},
-  "pageviews": 1758
+  "url": "https://en.wikipedia.org/wiki/Velocidad_(comics)"
 }

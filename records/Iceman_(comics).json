@@ -1,10 +1,30 @@
 {
-  "name": "Iceman",
-  "url": "https://en.wikipedia.org/wiki/Iceman_(comics)",
-  "realName": "Robert Louis \"Bobby\" Drake",
+  "aliases": "Drake Roberts, Mister Friese, Frosty",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "340",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/ad/Iceman_%28Bobby_Drake%29.png",
+    "width": "250"
+  },
+  "name": "Iceman",
+  "pageviews": 43330,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Causes water vapor to freeze",
+    "generating ice and snow",
+    "Transformation of body into solid ice",
+    "Superhuman strength and durability in ice form",
+    "Thermal vision"
+  ],
+  "realName": "Robert Louis \"Bobby\" Drake",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Men",
@@ -17,23 +37,5 @@
     "Jean Grey School",
     "All New X-Men"
   ],
-  "aliases": "Drake Roberts, Mister Friese, Frosty",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Causes water vapor to freeze",
-    "generating ice and snow",
-    "Transformation of body into solid ice",
-    "Superhuman strength and durability in ice form",
-    "Thermal vision"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/ad/Iceman_%28Bobby_Drake%29.png",
-    "width": "250",
-    "height": "340"
-  },
-  "pageviews": 43330
+  "url": "https://en.wikipedia.org/wiki/Iceman_(comics)"
 }

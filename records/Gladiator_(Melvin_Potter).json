@@ -1,19 +1,20 @@
 {
-  "name": "The Gladiator",
-  "url": "https://en.wikipedia.org/wiki/Gladiator_(Melvin_Potter)",
-  "realName": "Melvin Potter",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "John Romita Sr."
   ],
-  "teams": [
-    "Emissaries of Evil",
-    "Maggia"
+  "image": {
+    "height": "277",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Thegladiatordaredevil.jpg/250px-Thegladiatordaredevil.jpg",
+    "width": "250"
+  },
+  "name": "The Gladiator",
+  "pageviews": 14991,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Accomplished clothing designer",
     "Superb martial artist",
@@ -21,10 +22,12 @@
     "Wears thick metal armor",
     "Possesses arsenal of edged weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Thegladiatordaredevil.jpg/250px-Thegladiatordaredevil.jpg",
-    "width": "250",
-    "height": "277"
-  },
-  "pageviews": 14991
+  "realName": "Melvin Potter",
+  "species": [
+  ],
+  "teams": [
+    "Emissaries of Evil",
+    "Maggia"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gladiator_(Melvin_Potter)"
 }

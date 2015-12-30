@@ -1,10 +1,30 @@
 {
-  "name": "Noh-Varr",
-  "url": "https://en.wikipedia.org/wiki/Noh-Varr",
-  "realName": null,
+  "aliases": "Marvel Boy Captain Marvel , Protector",
   "creators": [
     "Grant Morrison",
     "J. G. Jones"
+  ],
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MarvelBoy1-2000.jpg/250px-MarvelBoy1-2000.jpg",
+    "width": "250"
+  },
+  "name": "Noh-Varr",
+  "pageviews": 10855,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Enhanced reflexes",
+    "strength",
+    "speed",
+    "and stamina",
+    "knowledge of advanced Kree technology and weaponry"
+  ],
+  "realName": null,
+  "species": [
+    "Kree"
   ],
   "teams": [
     "Plex",
@@ -13,23 +33,5 @@
     "Avengers",
     "Young Avengers"
   ],
-  "aliases": "Marvel Boy Captain Marvel , Protector",
-  "species": [
-    "Kree"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Enhanced reflexes",
-    "strength",
-    "speed",
-    "and stamina",
-    "knowledge of advanced Kree technology and weaponry"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MarvelBoy1-2000.jpg/250px-MarvelBoy1-2000.jpg",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 10855
+  "url": "https://en.wikipedia.org/wiki/Noh-Varr"
 }

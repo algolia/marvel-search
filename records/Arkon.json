@@ -1,18 +1,21 @@
 {
-  "name": "Arkon",
-  "url": "https://en.wikipedia.org/wiki/Arkon",
-  "realName": null,
+  "aliases": "Arkon the Imperion, Arkon the Magnificent",
   "creators": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "teams": [],
-  "aliases": "Arkon the Imperion, Arkon the Magnificent",
-  "species": [],
+  "image": {
+    "height": "400",
+    "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/ArkonC.png",
+    "width": "171"
+  },
+  "name": "Arkon",
+  "pageviews": 3761,
   "partners": [
     "Enchantress"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Cunning military strategist",
     "Extraordinary hand-to-hand combatant and swordsman",
@@ -26,10 +29,10 @@
     "Possesses three lightning-shaped energy weapons and a shield",
     "Rides on various dinosaur-like mounts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/ArkonC.png",
-    "width": "171",
-    "height": "400"
-  },
-  "pageviews": 3761
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Arkon"
 }

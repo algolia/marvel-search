@@ -1,29 +1,31 @@
 {
-  "name": "Flatman",
-  "url": "https://en.wikipedia.org/wiki/Flatman_(comics)",
-  "realName": "Val Ventura",
+  "aliases": "2-D Avenger",
   "creators": [
     "John Byrne"
   ],
-  "teams": [
-    "Great Lakes Avengers"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Flatman.PNG/222px-Flatman.PNG",
+    "width": "222"
+  },
+  "name": "Flatman",
+  "pageviews": 3333,
+  "partners": [
   ],
-  "aliases": "2-D Avenger",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Excellent hand to hand combatant",
     "Elasticity",
     "Flat body",
     "Origami shapeshifting"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Flatman.PNG/222px-Flatman.PNG",
-    "width": "222",
-    "height": "450"
-  },
-  "pageviews": 3333
+  "realName": "Val Ventura",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Great Lakes Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Flatman_(comics)"
 }

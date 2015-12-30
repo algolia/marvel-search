@@ -1,21 +1,19 @@
 {
-  "name": "Spider-Girl",
-  "url": "https://en.wikipedia.org/wiki/Spider-Girl",
-  "realName": "May \"Mayday\" Parker",
+  "aliases": "Spidey, Spider-Girl Red",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz",
     "Mark Bagley"
   ],
-  "teams": [
-    "A-Next",
-    "Fantastic Five",
-    "New Warriors",
-    "Web Warriors"
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Spider-girl-continues.jpg/250px-Spider-girl-continues.jpg",
+    "width": "250"
+  },
+  "name": "Spider-Girl",
+  "pageviews": 22686,
+  "partners": [
   ],
-  "aliases": "Spidey, Spider-Girl Red",
-  "species": [],
-  "partners": [],
   "powers": [
     "Bio-magnetism"
   ],
@@ -32,10 +30,14 @@
     "Bio-magnetism manipulation",
     "Ability to sense the weak points in her enemies"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Spider-girl-continues.jpg/250px-Spider-girl-continues.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 22686
+  "realName": "May \"Mayday\" Parker",
+  "species": [
+  ],
+  "teams": [
+    "A-Next",
+    "Fantastic Five",
+    "New Warriors",
+    "Web Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spider-Girl"
 }

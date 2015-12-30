@@ -1,21 +1,25 @@
 {
-  "name": "Great Gambonnos",
-  "url": "https://en.wikipedia.org/wiki/Great_Gambonnos",
-  "realName": "Ernesto and Luigi Gambonno",
+  "aliases": "Kings of the High Trapeze, The Flying Gambonnos",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Circus of Crime"
+  "image": {
+  },
+  "name": "Great Gambonnos",
+  "pageviews": 768,
+  "partners": [
   ],
-  "aliases": "Kings of the High Trapeze, The Flying Gambonnos",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Expert acrobats and aerialists"
   ],
-  "image": {},
-  "pageviews": 768
+  "realName": "Ernesto and Luigi Gambonno",
+  "species": [
+  ],
+  "teams": [
+    "Circus of Crime"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Great_Gambonnos"
 }

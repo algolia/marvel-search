@@ -1,25 +1,22 @@
 {
-  "name": "Orka",
-  "url": "https://en.wikipedia.org/wiki/Orka_(comics)",
-  "realName": "Orka",
+  "aliases": "Killer Whale",
   "creators": [
     "Roy Thomas",
     "Marie Severin"
   ],
-  "teams": [
-    "Heroes for Hire",
-    "Deep Six",
-    "Brand Corporation"
-  ],
-  "aliases": "Killer Whale",
-  "species": [
-    "Homo mermanus"
-  ],
+  "image": {
+    "height": "373",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Sub-mariner23.jpg/250px-Sub-mariner23.jpg",
+    "width": "250"
+  },
+  "name": "Orka",
+  "pageviews": 1963,
   "partners": [
     "Warlord Krang",
     "Virago"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -30,10 +27,14 @@
     "Formerly:",
     "Land adaptation via belt"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Sub-mariner23.jpg/250px-Sub-mariner23.jpg",
-    "width": "250",
-    "height": "373"
-  },
-  "pageviews": 1963
+  "realName": "Orka",
+  "species": [
+    "Homo mermanus"
+  ],
+  "teams": [
+    "Heroes for Hire",
+    "Deep Six",
+    "Brand Corporation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Orka_(comics)"
 }

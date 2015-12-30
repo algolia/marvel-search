@@ -1,20 +1,25 @@
 {
-  "name": "Hangman",
-  "url": "https://en.wikipedia.org/wiki/Hangman_(Marvel_Comics)",
-  "realName": "Harlan Krueger",
+  "aliases": "",
   "creators": [
     "Marv Wolfman",
     "Gil Kane"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Hangman",
+  "pageviews": 644,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Skilled in use of rope and scythe",
     "Extensive knowledge of American cinema"
   ],
-  "image": {},
-  "pageviews": 644
+  "realName": "Harlan Krueger",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hangman_(Marvel_Comics)"
 }

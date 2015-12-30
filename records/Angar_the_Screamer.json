@@ -1,21 +1,22 @@
 {
-  "name": "Angar the Screamer",
-  "url": "https://en.wikipedia.org/wiki/Angar_the_Screamer",
-  "realName": "David Alan Angar",
+  "aliases": "Scream, Voice, Master of the Mindstorm",
   "creators": [
     "Steve Gerber",
     "Gene Colan",
     "John Tartaglione"
   ],
-  "teams": [
-    "Redeemers"
-  ],
-  "aliases": "Scream, Voice, Master of the Mindstorm",
-  "species": [],
+  "image": {
+    "height": "369",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Daredevil_cover_-_number_101.jpg/250px-Daredevil_cover_-_number_101.jpg",
+    "width": "250"
+  },
+  "name": "Angar the Screamer",
+  "pageviews": 3669,
   "partners": [
     "Screaming Mimi"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "As Angar the Screamer:",
     "Superhuman scream",
@@ -27,10 +28,11 @@
     "Flight",
     "Sonokinesis"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Daredevil_cover_-_number_101.jpg/250px-Daredevil_cover_-_number_101.jpg",
-    "width": "250",
-    "height": "369"
-  },
-  "pageviews": 3669
+  "realName": "David Alan Angar",
+  "species": [
+  ],
+  "teams": [
+    "Redeemers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Angar_the_Screamer"
 }

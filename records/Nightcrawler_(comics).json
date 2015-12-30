@@ -1,24 +1,20 @@
 {
-  "name": "Nightcrawler",
-  "url": "https://en.wikipedia.org/wiki/Nightcrawler_(comics)",
-  "realName": "Kurt Wagner",
+  "aliases": "",
   "creators": [
     "Len Wein",
     "Dave Cockrum"
   ],
-  "teams": [
-    "X-Men",
-    "Vatican",
-    "Archdiocese of New York",
-    "Excalibur",
-    "X-Treme Sanctions Executive"
+  "image": {
+    "height": "333",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Nightcrawler.PNG/250px-Nightcrawler.PNG",
+    "width": "250"
+  },
+  "name": "Nightcrawler",
+  "pageviews": 61212,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superb fencer",
     "Superhuman agility",
@@ -31,10 +27,16 @@
     "Prehensile tail",
     "Ability to stick to walls and blend into shadows"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Nightcrawler.PNG/250px-Nightcrawler.PNG",
-    "width": "250",
-    "height": "333"
-  },
-  "pageviews": 61212
+  "realName": "Kurt Wagner",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men",
+    "Vatican",
+    "Archdiocese of New York",
+    "Excalibur",
+    "X-Treme Sanctions Executive"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nightcrawler_(comics)"
 }

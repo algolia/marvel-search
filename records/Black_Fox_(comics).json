@@ -1,19 +1,24 @@
 {
-  "name": "Black Fox",
-  "url": "https://en.wikipedia.org/wiki/Black_Fox_(comics)",
-  "realName": null,
+  "aliases": "Raul Chalmers",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [],
-  "aliases": "Raul Chalmers",
-  "species": [],
+  "image": {
+  },
+  "name": "Black Fox",
+  "pageviews": 935,
   "partners": [
     "Red Ghost"
   ],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 935
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Fox_(comics)"
 }

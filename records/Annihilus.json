@@ -1,20 +1,21 @@
 {
-  "name": "Annihilus",
-  "url": "https://en.wikipedia.org/wiki/Annihilus",
-  "realName": "",
+  "aliases": "Lord of the Negative Zone, the Living Death that Walks, Ahmyor",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Annihilation Wave"
-  ],
-  "aliases": "Lord of the Negative Zone, the Living Death that Walks, Ahmyor",
-  "species": [],
+  "image": {
+    "height": "269",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/30/Annihilus.png",
+    "width": "250"
+  },
+  "name": "Annihilus",
+  "pageviews": 14594,
   "partners": [
     "Blastaar"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "stamina and durability",
@@ -23,10 +24,11 @@
     "Energy and molecular manipulation",
     "Slowed aging process"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/30/Annihilus.png",
-    "width": "250",
-    "height": "269"
-  },
-  "pageviews": 14594
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Annihilation Wave"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Annihilus"
 }

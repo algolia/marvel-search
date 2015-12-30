@@ -1,28 +1,31 @@
 {
-  "name": "Doctor Druid",
-  "url": "https://en.wikipedia.org/wiki/Doctor_Druid",
-  "realName": "Anthony Ludgate Druid",
+  "aliases": "Druid, Doctor Droom",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "313",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/DoctorDruidClassic.jpeg/250px-DoctorDruidClassic.jpeg",
+    "width": "250"
+  },
+  "name": "Doctor Druid",
+  "pageviews": 6073,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Telepathy",
+    "Magic manipulation"
+  ],
+  "realName": "Anthony Ludgate Druid",
+  "species": [
   ],
   "teams": [
     "Monster Hunters",
     "Avengers",
     "Legion of the Unliving"
   ],
-  "aliases": "Druid, Doctor Droom",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Telepathy",
-    "Magic manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/DoctorDruidClassic.jpeg/250px-DoctorDruidClassic.jpeg",
-    "width": "250",
-    "height": "313"
-  },
-  "pageviews": 6073
+  "url": "https://en.wikipedia.org/wiki/Doctor_Druid"
 }

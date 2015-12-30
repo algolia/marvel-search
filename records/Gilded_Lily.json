@@ -1,18 +1,23 @@
 {
-  "name": "Gilded Lily",
-  "url": "https://en.wikipedia.org/wiki/Gilded_Lily",
-  "realName": "Lillian von Loont",
+  "aliases": "",
   "creators": [
     "John Byrne"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Gilded Lily",
+  "pageviews": 939,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Wide array of alchemical weaponry. Immortality."
   ],
-  "image": {},
-  "pageviews": 939
+  "realName": "Lillian von Loont",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gilded_Lily"
 }

@@ -1,23 +1,18 @@
 {
-  "name": "Moon Knight",
-  "url": "https://en.wikipedia.org/wiki/Moon_Knight",
-  "realName": "Marc Spector",
+  "aliases": "Steven Grant, Jake Lockley, The Fist of Khonshu, Yitzak Topol, Mr. Knight",
   "creators": [
     "Doug Moench",
     "Don Perlin"
   ],
-  "teams": [
-    "Secret Avengers",
-    "Avengers",
-    "West Coast Avengers",
-    "Defenders",
-    "Marvel Knights",
-    "Heroes for Hire",
-    "United States Marine Corps"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Moon_Knight_1cover.jpg/250px-Moon_Knight_1cover.jpg",
+    "width": "250"
+  },
+  "name": "Moon Knight",
+  "pageviews": 65091,
+  "partners": [
   ],
-  "aliases": "Steven Grant, Jake Lockley, The Fist of Khonshu, Yitzak Topol, Mr. Knight",
-  "species": [],
-  "partners": [],
   "powers": [
     "Increased strength",
     "endurance",
@@ -29,10 +24,17 @@
     "Increased strengthendurance",
     "and agility depending on the lunar cycle"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Moon_Knight_1cover.jpg/250px-Moon_Knight_1cover.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 65091
+  "realName": "Marc Spector",
+  "species": [
+  ],
+  "teams": [
+    "Secret Avengers",
+    "Avengers",
+    "West Coast Avengers",
+    "Defenders",
+    "Marvel Knights",
+    "Heroes for Hire",
+    "United States Marine Corps"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Moon_Knight"
 }

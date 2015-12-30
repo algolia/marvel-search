@@ -1,10 +1,26 @@
 {
-  "name": "Cameron Hodge",
-  "url": "https://en.wikipedia.org/wiki/Cameron_Hodge",
-  "realName": null,
+  "aliases": "The Commander",
   "creators": [
     "Bob Layton",
     "Jackson Guice"
+  ],
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/UncannyX-Men271.jpg/250px-UncannyX-Men271.jpg",
+    "width": "250"
+  },
+  "name": "Cameron Hodge",
+  "pageviews": 3378,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Immortality",
+    "Superhuman physical attributes through cybernetic body"
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "Phalanx",
@@ -14,18 +30,5 @@
     "Genoshan Cabinet",
     "X-Factor"
   ],
-  "aliases": "The Commander",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Immortality",
-    "Superhuman physical attributes through cybernetic body"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/UncannyX-Men271.jpg/250px-UncannyX-Men271.jpg",
-    "width": "250",
-    "height": "382"
-  },
-  "pageviews": 3378
+  "url": "https://en.wikipedia.org/wiki/Cameron_Hodge"
 }

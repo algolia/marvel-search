@@ -1,30 +1,31 @@
 {
-  "name": "Abigail Brand",
-  "url": "https://en.wikipedia.org/wiki/Abigail_Brand",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Joss Whedon",
     "John Cassaday"
   ],
-  "teams": [
-    "S.W.O.R.D.",
-    "X-Men"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/AbigailBrand.png/250px-AbigailBrand.png",
+    "width": "250"
+  },
+  "name": "Abigail Brand",
+  "pageviews": 7430,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Pyrokinesis"
   ],
   "powersText": [
     "Pyrokinesis"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/AbigailBrand.png/250px-AbigailBrand.png",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 7430
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "S.W.O.R.D.",
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Abigail_Brand"
 }

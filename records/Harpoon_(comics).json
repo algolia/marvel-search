@@ -1,24 +1,27 @@
 {
-  "name": "Harpoon",
-  "url": "https://en.wikipedia.org/wiki/Harpoon_(comics)",
-  "realName": "Kodiak Noatak",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "John Romita, Jr.",
     "Dan Green"
   ],
-  "teams": [
-    "Marauders"
+  "image": {
+  },
+  "name": "Harpoon",
+  "pageviews": 1800,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ability to charge metal with bio-energy"
   ],
-  "image": {},
-  "pageviews": 1800
+  "realName": "Kodiak Noatak",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Marauders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Harpoon_(comics)"
 }

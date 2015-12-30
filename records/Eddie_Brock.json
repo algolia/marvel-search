@@ -1,18 +1,18 @@
 {
-  "name": "Eddie Brock",
-  "url": "https://en.wikipedia.org/wiki/Eddie_Brock",
-  "realName": "Eddie Brock",
+  "aliases": "Venom , Anti-Venom, Toxin",
   "creators": [
     "David Michelinie",
     "Todd McFarlane"
   ],
-  "teams": [
-    "Sinister Six",
-    "Revengers"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/EddieBrock.jpg/221px-EddieBrock.jpg",
+    "width": "221"
+  },
+  "name": "Eddie Brock",
+  "pageviews": 29030,
+  "partners": [
   ],
-  "aliases": "Venom , Anti-Venom, Toxin",
-  "species": [],
-  "partners": [],
   "powers": [
     "Alien symbiote"
   ],
@@ -27,10 +27,12 @@
     "Limited shapeshifting and camouflage",
     "Knowledge of the previous host"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/EddieBrock.jpg/221px-EddieBrock.jpg",
-    "width": "221",
-    "height": "450"
-  },
-  "pageviews": 29030
+  "realName": "Eddie Brock",
+  "species": [
+  ],
+  "teams": [
+    "Sinister Six",
+    "Revengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Eddie_Brock"
 }

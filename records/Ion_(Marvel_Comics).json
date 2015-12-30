@@ -1,17 +1,15 @@
 {
-  "name": "Ion",
-  "url": "https://en.wikipedia.org/wiki/Ion_(Marvel_Comics)",
-  "realName": "Voletta Todd",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Steve Ditko"
   ],
-  "teams": [
-    "Femizons"
+  "image": {
+  },
+  "name": "Ion",
+  "pageviews": 659,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "electromagnetic",
     "flight"
@@ -21,6 +19,11 @@
     "can manipulate electromagnetic energy",
     "flight"
   ],
-  "image": {},
-  "pageviews": 659
+  "realName": "Voletta Todd",
+  "species": [
+  ],
+  "teams": [
+    "Femizons"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ion_(Marvel_Comics)"
 }

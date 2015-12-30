@@ -1,26 +1,29 @@
 {
-  "name": "Mojo",
-  "url": "https://en.wikipedia.org/wiki/Mojo_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Ann Nocenti",
     "Art Adams"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/05/Uncanny_X-Men_461.jpg",
+    "width": "250"
+  },
+  "name": "Mojo",
+  "pageviews": 7657,
   "partners": [
     "Spiral"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman physical attributes",
     "Mystical powers"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/05/Uncanny_X-Men_461.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 7657
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mojo_(comics)"
 }

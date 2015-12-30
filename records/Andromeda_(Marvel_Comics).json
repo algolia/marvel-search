@@ -1,32 +1,33 @@
 {
-  "name": "Andromeda",
-  "url": "https://en.wikipedia.org/wiki/Andromeda_(Marvel_Comics)",
-  "realName": "Andromeda Attumasen",
+  "aliases": "Andrea McPhee, Genevieve Cross, Lady Andromeda",
   "creators": [
     "Peter B. Gillis",
     "Don Perlin",
     "Kim DeMulder"
   ],
-  "teams": [
-    "Defenders",
-    "Deep Six"
-  ],
-  "aliases": "Andrea McPhee, Genevieve Cross, Lady Andromeda",
-  "species": [
-    "Homo mermanus"
-  ],
+  "image": {
+    "height": "400",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/2d/Andromeda616.jpg",
+    "width": "186"
+  },
+  "name": "Andromeda",
+  "pageviews": 3609,
   "partners": [
     "Namor the Sub-Mariner"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "Ability to breathe underwater"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/2d/Andromeda616.jpg",
-    "width": "186",
-    "height": "400"
-  },
-  "pageviews": 3609
+  "realName": "Andromeda Attumasen",
+  "species": [
+    "Homo mermanus"
+  ],
+  "teams": [
+    "Defenders",
+    "Deep Six"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Andromeda_(Marvel_Comics)"
 }

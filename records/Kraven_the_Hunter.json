@@ -1,19 +1,20 @@
 {
-  "name": "Kraven the Hunter",
-  "url": "https://en.wikipedia.org/wiki/Kraven_the_Hunter",
-  "realName": "Sergei Nikolaevich Kravinoff",
+  "aliases": "Spider-Man",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Sinister Six",
-    "\"Avengers\" (1959)"
+  "image": {
+    "height": "451",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/KravenTheHunterByJohnRomitaSr.gif/250px-KravenTheHunterByJohnRomitaSr.gif",
+    "width": "250"
+  },
+  "name": "Kraven the Hunter",
+  "pageviews": 19631,
+  "partners": [
   ],
-  "aliases": "Spider-Man",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Olympic-level athlete",
     "Gifted tactician",
@@ -26,10 +27,12 @@
     "senses and reflexes",
     "Longevity"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/KravenTheHunterByJohnRomitaSr.gif/250px-KravenTheHunterByJohnRomitaSr.gif",
-    "width": "250",
-    "height": "451"
-  },
-  "pageviews": 19631
+  "realName": "Sergei Nikolaevich Kravinoff",
+  "species": [
+  ],
+  "teams": [
+    "Sinister Six",
+    "\"Avengers\" (1959)"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kraven_the_Hunter"
 }

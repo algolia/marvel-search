@@ -1,17 +1,16 @@
 {
-  "name": "Brother Voodoo",
-  "url": "https://en.wikipedia.org/wiki/Brother_Voodoo",
-  "realName": "Jericho Drumm",
-  "creators": [],
-  "teams": [
-    "Avengers Unity Division",
-    "Heroes for Hire",
-    "S.H.I.E.L.D. Paranormal Containment Unit",
-    "New Avengers"
-  ],
   "aliases": "Doctor Voodoo, Sorcerer Supreme Houngan Supreme , Lord of the Loa, He-Who-Has-Died-Twice, Voodoo Lord; Master of All Reptiles, the Voudoun, and the Spirit World",
-  "species": [],
-  "partners": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/BrotherVoodoo.png/225px-BrotherVoodoo.png",
+    "width": "225"
+  },
+  "name": "Brother Voodoo",
+  "pageviews": 9628,
+  "partners": [
+  ],
   "powers": [
     "Superhuman strength",
     "Spirit possession",
@@ -40,10 +39,14 @@
     "Sorcerer Supreme and bearer of the Eye of Agamotto",
     "the Cloak of Levitation and the Books of Knowledge"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/BrotherVoodoo.png/225px-BrotherVoodoo.png",
-    "width": "225",
-    "height": "450"
-  },
-  "pageviews": 9628
+  "realName": "Jericho Drumm",
+  "species": [
+  ],
+  "teams": [
+    "Avengers Unity Division",
+    "Heroes for Hire",
+    "S.H.I.E.L.D. Paranormal Containment Unit",
+    "New Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Brother_Voodoo"
 }

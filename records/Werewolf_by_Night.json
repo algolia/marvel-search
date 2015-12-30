@@ -1,21 +1,21 @@
 {
-  "name": "Werewolf By Night",
-  "url": "https://en.wikipedia.org/wiki/Werewolf_by_Night",
-  "realName": "Jacob Russoff (given name)",
+  "aliases": "Jack Russell (adopted name)",
   "creators": [
     "Roy Thomas",
     "Gerry Conway",
     "Mike Ploog"
   ],
-  "teams": [
-    "Legion of Monsters",
-    "Midnight Sons",
-    "Night Shift"
+  "image": {
+    "height": "305",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Werewolf_by_Night_cover.JPG/190px-Werewolf_by_Night_cover.JPG",
+    "width": "190"
+  },
+  "name": "Werewolf By Night",
+  "pageviews": 9295,
+  "partners": [
   ],
-  "aliases": "Jack Russell (adopted name)",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "In werewolf form:",
     "Superhuman strength",
@@ -27,10 +27,13 @@
     "Accelerated healing factor",
     "Razor sharp claws and teeth"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Werewolf_by_Night_cover.JPG/190px-Werewolf_by_Night_cover.JPG",
-    "width": "190",
-    "height": "305"
-  },
-  "pageviews": 9295
+  "realName": "Jacob Russoff (given name)",
+  "species": [
+  ],
+  "teams": [
+    "Legion of Monsters",
+    "Midnight Sons",
+    "Night Shift"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Werewolf_by_Night"
 }

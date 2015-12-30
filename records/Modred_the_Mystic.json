@@ -1,24 +1,28 @@
 {
-  "name": "Modred the Mystic",
-  "url": "https://en.wikipedia.org/wiki/Modred_the_Mystic",
-  "realName": "Modred",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Yong Montano",
     "Marv Wolfman"
   ],
+  "image": {
+    "height": "313",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/MODREDTHEMYSTIC.jpg/200px-MODREDTHEMYSTIC.jpg",
+    "width": "200"
+  },
+  "name": "Modred the Mystic",
+  "pageviews": 1210,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Modred",
+  "species": [
+  ],
   "teams": [
     "Midnight Sons"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/MODREDTHEMYSTIC.jpg/200px-MODREDTHEMYSTIC.jpg",
-    "width": "200",
-    "height": "313"
-  },
-  "pageviews": 1210
+  "url": "https://en.wikipedia.org/wiki/Modred_the_Mystic"
 }

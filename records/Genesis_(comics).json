@@ -1,29 +1,31 @@
 {
-  "name": "Genesis",
-  "url": "https://en.wikipedia.org/wiki/Genesis_(comics)",
-  "realName": "Tyler Dayspring",
+  "aliases": "Mr. Tolliver, The Other",
   "creators": [
     "Fabian Nicieza",
     "Rob Liefeld"
+  ],
+  "image": {
+    "height": "387",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Cable_19.jpg/250px-Cable_19.jpg",
+    "width": "250"
+  },
+  "name": "Genesis",
+  "pageviews": 6475,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Could project solid holograms of memories of others",
+    "advanced knowledge of technology"
+  ],
+  "realName": "Tyler Dayspring",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Dark Riders",
     "Askani Clan Chosen"
   ],
-  "aliases": "Mr. Tolliver, The Other",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Could project solid holograms of memories of others",
-    "advanced knowledge of technology"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Cable_19.jpg/250px-Cable_19.jpg",
-    "width": "250",
-    "height": "387"
-  },
-  "pageviews": 6475
+  "url": "https://en.wikipedia.org/wiki/Genesis_(comics)"
 }

@@ -1,22 +1,20 @@
 {
-  "name": "Cassandra Nova",
-  "url": "https://en.wikipedia.org/wiki/Cassandra_Nova",
-  "realName": "Cassandra Nova Xavier",
+  "aliases": "Charles Xavier, The Immensity (by Shi'ar)",
   "creators": [
     "Grant Morrison",
     "Frank Quitely"
   ],
-  "teams": [
-    "Shi'ar",
-    "X-Men",
-    "Charles Xavier"
+  "image": {
+    "height": "374",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Newxmen121.jpg/250px-Newxmen121.jpg",
+    "width": "250"
+  },
+  "name": "Cassandra Nova",
+  "pageviews": 9733,
+  "partners": [
   ],
-  "aliases": "Charles Xavier, The Immensity (by Shi'ar)",
-  "species": [
-    "Mummudrai"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Telepathy",
     "Telekinesis",
@@ -32,10 +30,14 @@
     "Souls gathering",
     "Dematerialization"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Newxmen121.jpg/250px-Newxmen121.jpg",
-    "width": "250",
-    "height": "374"
-  },
-  "pageviews": 9733
+  "realName": "Cassandra Nova Xavier",
+  "species": [
+    "Mummudrai"
+  ],
+  "teams": [
+    "Shi'ar",
+    "X-Men",
+    "Charles Xavier"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cassandra_Nova"
 }

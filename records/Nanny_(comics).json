@@ -1,26 +1,29 @@
 {
-  "name": "Nanny",
-  "url": "https://en.wikipedia.org/wiki/Nanny_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Louise Simonson",
     "Walt Simonson"
   ],
-  "teams": [
-    "The Right"
+  "image": {
+  },
+  "name": "Nanny",
+  "pageviews": 1070,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Mind control",
     "Ability to de-age mutants",
     "Genius inventor",
     "Wears Cybernetic armor"
   ],
-  "image": {},
-  "pageviews": 1070
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "The Right"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nanny_(comics)"
 }

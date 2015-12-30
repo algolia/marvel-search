@@ -1,29 +1,31 @@
 {
-  "name": "Squid",
-  "url": "https://en.wikipedia.org/wiki/Squid_(Marvel_Comics)",
-  "realName": "Don Callahan",
+  "aliases": "",
   "creators": [
     "Howard Mackie",
     "John Romita Jr."
+  ],
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Squid-comics.jpg/249px-Squid-comics.jpg",
+    "width": "249"
+  },
+  "name": "Squid",
+  "pageviews": 1068,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to turn into a mouthless squid-like creature with extendable tentacles and emit a foul-smelling ink from his hands and body"
+  ],
+  "realName": "Don Callahan",
+  "species": [
+    "Human Mutate"
   ],
   "teams": [
     "Masters of Evil",
     "Sinister Sixteen",
     "Sinister Six"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutate"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to turn into a mouthless squid-like creature with extendable tentacles and emit a foul-smelling ink from his hands and body"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Squid-comics.jpg/249px-Squid-comics.jpg",
-    "width": "249",
-    "height": "378"
-  },
-  "pageviews": 1068
+  "url": "https://en.wikipedia.org/wiki/Squid_(Marvel_Comics)"
 }

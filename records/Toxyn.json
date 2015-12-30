@@ -1,27 +1,30 @@
 {
-  "name": "Toxyn",
-  "url": "https://en.wikipedia.org/wiki/Toxyn",
-  "realName": "Ruth Mastorakis",
+  "aliases": "",
   "creators": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "teams": [
-    "Strikeforce: Morituri"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Toxyn.bmp/103px-Toxyn.bmp.png",
+    "width": "191"
+  },
+  "name": "Toxyn",
+  "pageviews": 225,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Poison synthesis",
     "Biochemistry analysis through physical touch",
     "Enhanced strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Toxyn.bmp/103px-Toxyn.bmp.png",
-    "width": "191",
-    "height": "450"
-  },
-  "pageviews": 225
+  "realName": "Ruth Mastorakis",
+  "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Toxyn"
 }

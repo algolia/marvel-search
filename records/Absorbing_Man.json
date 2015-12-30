@@ -1,29 +1,31 @@
 {
-  "name": "Absorbing Man",
-  "url": "https://en.wikipedia.org/wiki/Absorbing_Man",
-  "realName": "Carl \"Crusher\" Creel",
+  "aliases": "Rocky Davis, Lightningbolt, Greithoth: Breaker of Wills",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "389",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Thor-376.jpg/250px-Thor-376.jpg",
+    "width": "250"
+  },
+  "name": "Absorbing Man",
+  "pageviews": 21345,
+  "partners": [
+    "Titania"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to mimic any form of matter or energy via physical contact"
+  ],
+  "realName": "Carl \"Crusher\" Creel",
+  "species": [
   ],
   "teams": [
     "Masters of Evil",
     "Worthy",
     "Astonishing Avengers"
   ],
-  "aliases": "Rocky Davis, Lightningbolt, Greithoth: Breaker of Wills",
-  "species": [],
-  "partners": [
-    "Titania"
-  ],
-  "powers": [],
-  "powersText": [
-    "Ability to mimic any form of matter or energy via physical contact"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Thor-376.jpg/250px-Thor-376.jpg",
-    "width": "250",
-    "height": "389"
-  },
-  "pageviews": 21345
+  "url": "https://en.wikipedia.org/wiki/Absorbing_Man"
 }

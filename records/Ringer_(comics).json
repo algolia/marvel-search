@@ -1,18 +1,21 @@
 {
-  "name": "The Ringer",
-  "url": "https://en.wikipedia.org/wiki/Ringer_(comics)",
-  "realName": "Anthony \"Tony\" Davis",
+  "aliases": "Strikeback",
   "creators": [
     "David Kraft",
     "Keith Giffen"
   ],
-  "teams": [],
-  "aliases": "Strikeback",
-  "species": [],
+  "image": {
+    "height": "338",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/RingerMarvel.jpg/200px-RingerMarvel.jpg",
+    "width": "200"
+  },
+  "name": "The Ringer",
+  "pageviews": 1389,
   "partners": [
     "Beetle"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled inventor and engineer",
     "Wears battlesuit that grants him the ability to condense and use several ring-based weapons",
@@ -22,10 +25,10 @@
     "Energy projection",
     "Teleportation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/RingerMarvel.jpg/200px-RingerMarvel.jpg",
-    "width": "200",
-    "height": "338"
-  },
-  "pageviews": 1389
+  "realName": "Anthony \"Tony\" Davis",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ringer_(comics)"
 }

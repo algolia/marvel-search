@@ -1,25 +1,28 @@
 {
-  "name": "Captain Atlas",
-  "url": "https://en.wikipedia.org/wiki/Captain_Atlas",
-  "realName": "Att-Lass",
+  "aliases": "Mr. Atlas, Titanium Man",
   "creators": [
     "Mark Gruenwald",
     "Mike Manley"
   ],
-  "teams": [
-    "Starforce"
+  "image": {
+  },
+  "name": "Captain Atlas",
+  "pageviews": 1494,
+  "partners": [
   ],
-  "aliases": "Mr. Atlas, Titanium Man",
-  "species": [
-    "Kree"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "Durability",
     "Flight"
   ],
-  "image": {},
-  "pageviews": 1494
+  "realName": "Att-Lass",
+  "species": [
+    "Kree"
+  ],
+  "teams": [
+    "Starforce"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Captain_Atlas"
 }

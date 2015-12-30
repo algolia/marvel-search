@@ -1,28 +1,30 @@
 {
-  "name": "Dirtnap",
-  "url": "https://en.wikipedia.org/wiki/Dirtnap_(comics)",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "Dark Riders",
-    "Hellions"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
+  "image": {
+    "height": "222",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Dirtnap_genx38_tdodson.jpg/250px-Dirtnap_genx38_tdodson.jpg",
+    "width": "250"
+  },
+  "name": "Dirtnap",
+  "pageviews": 572,
   "partners": [
     "Chimera",
     "Generation X"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to consume a person and take their form"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Dirtnap_genx38_tdodson.jpg/250px-Dirtnap_genx38_tdodson.jpg",
-    "width": "250",
-    "height": "222"
-  },
-  "pageviews": 572
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Dark Riders",
+    "Hellions"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dirtnap_(comics)"
 }

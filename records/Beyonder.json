@@ -1,19 +1,18 @@
 {
-  "name": "The Beyonder",
-  "url": "https://en.wikipedia.org/wiki/Beyonder",
-  "realName": "Beyonder",
+  "aliases": "Frank, Kosmos",
   "creators": [
     "Jim Shooter",
     "Mike Zeck"
   ],
-  "teams": [
-    "Beyonders"
+  "image": {
+    "height": "376",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/SecretwarsII3.png/250px-SecretwarsII3.png",
+    "width": "250"
+  },
+  "name": "The Beyonder",
+  "pageviews": 26355,
+  "partners": [
   ],
-  "aliases": "Frank, Kosmos",
-  "species": [
-    "Cosmic entity"
-  ],
-  "partners": [],
   "powers": [
     "Omnipotence",
     "Omniscience",
@@ -26,10 +25,12 @@
     "Omnipresence (Pre-Retcon)",
     "Reality warping (Post-Retcon)"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/SecretwarsII3.png/250px-SecretwarsII3.png",
-    "width": "250",
-    "height": "376"
-  },
-  "pageviews": 26355
+  "realName": "Beyonder",
+  "species": [
+    "Cosmic entity"
+  ],
+  "teams": [
+    "Beyonders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Beyonder"
 }

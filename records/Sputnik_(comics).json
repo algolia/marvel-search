@@ -1,26 +1,29 @@
 {
-  "name": "Sputnik",
-  "url": "https://en.wikipedia.org/wiki/Sputnik_(comics)",
-  "realName": null,
+  "aliases": "Vostok",
   "creators": [
     "Mark Gruenwald",
     "Kieron Dwyer"
+  ],
+  "image": {
+    "height": "495",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Sputnik_-_captain_america_353.png",
+    "width": "188"
+  },
+  "name": "Sputnik",
+  "pageviews": 1123,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to manipulate mechanical systems"
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "Supreme Soviets",
     "Winter Guard"
   ],
-  "aliases": "Vostok",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to manipulate mechanical systems"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Sputnik_-_captain_america_353.png",
-    "width": "188",
-    "height": "495"
-  },
-  "pageviews": 1123
+  "url": "https://en.wikipedia.org/wiki/Sputnik_(comics)"
 }

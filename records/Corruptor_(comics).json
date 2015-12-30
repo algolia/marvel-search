@@ -1,16 +1,17 @@
 {
-  "name": "Corruptor",
-  "url": "https://en.wikipedia.org/wiki/Corruptor_(comics)",
-  "realName": "Jackson Day",
+  "aliases": "",
   "creators": [
     "Marv Wolfman",
     "Sal Buscema"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Corruptor",
+  "pageviews": 588,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Ability to release a victim's inhibitions",
     "Formerly:",
@@ -18,6 +19,10 @@
     "Eye beams",
     "Teleportation"
   ],
-  "image": {},
-  "pageviews": 588
+  "realName": "Jackson Day",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Corruptor_(comics)"
 }

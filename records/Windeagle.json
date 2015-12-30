@@ -1,24 +1,27 @@
 {
-  "name": "Windeagle",
-  "url": "https://en.wikipedia.org/wiki/Windeagle",
-  "realName": "Hector Santiago Ruiz",
+  "aliases": "",
   "creators": [
     "Don McGregor",
     "Rich Buckler",
     "Keith Pollard"
   ],
-  "teams": [
-    "Dragon Circle"
+  "image": {
+  },
+  "name": "Windeagle",
+  "pageviews": 594,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "anti-gravity costume"
   ],
-  "image": {},
-  "pageviews": 594
+  "realName": "Hector Santiago Ruiz",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+    "Dragon Circle"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Windeagle"
 }

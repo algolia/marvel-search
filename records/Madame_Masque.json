@@ -1,31 +1,33 @@
 {
-  "name": "Madame Masque",
-  "url": "https://en.wikipedia.org/wiki/Madame_Masque",
-  "realName": "Giulietta Nefaria (originally), Whitney Frost (legally changed)",
+  "aliases": "Big M, the Director, Kristine \"Krissy\" Longfellow Bethany Cabe",
   "creators": [
     "Stan Lee",
     "Gene Colan"
   ],
-  "teams": [
-    "Maggia",
-    "Inner Guard"
-  ],
-  "aliases": "Big M, the Director, Kristine \"Krissy\" Longfellow Bethany Cabe",
-  "species": [],
+  "image": {
+    "height": "451",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Madame_Masque.jpg",
+    "width": "250"
+  },
+  "name": "Madame Masque",
+  "pageviews": 20858,
   "partners": [
     "Hood"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled hand to hand combatant",
     "Expert markswoman",
     "Master strategist and organizer",
     "Proficiency with robotics"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Madame_Masque.jpg",
-    "width": "250",
-    "height": "451"
-  },
-  "pageviews": 20858
+  "realName": "Giulietta Nefaria (originally), Whitney Frost (legally changed)",
+  "species": [
+  ],
+  "teams": [
+    "Maggia",
+    "Inner Guard"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Madame_Masque"
 }

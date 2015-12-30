@@ -1,10 +1,28 @@
 {
-  "name": "Anaconda",
-  "url": "https://en.wikipedia.org/wiki/Anaconda_(comics)",
-  "realName": "Blanche Sitznski",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Ralph Macchio"
+  ],
+  "image": {
+    "height": "508",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/3f/Anaconda_Battle_Scars.jpg",
+    "width": "250"
+  },
+  "name": "Anaconda",
+  "pageviews": 2929,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Limb Elongation (allowing Hyperconstriction)",
+    "Superhuman Strength",
+    "Underwater Breathing",
+    "Rapid Regeneration"
+  ],
+  "realName": "Blanche Sitznski",
+  "species": [
   ],
   "teams": [
     "Six Pack",
@@ -12,20 +30,5 @@
     "Serpent Society",
     "Femizons"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Limb Elongation (allowing Hyperconstriction)",
-    "Superhuman Strength",
-    "Underwater Breathing",
-    "Rapid Regeneration"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/3f/Anaconda_Battle_Scars.jpg",
-    "width": "250",
-    "height": "508"
-  },
-  "pageviews": 2929
+  "url": "https://en.wikipedia.org/wiki/Anaconda_(comics)"
 }

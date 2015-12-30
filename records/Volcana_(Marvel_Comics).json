@@ -1,24 +1,28 @@
 {
-  "name": "Volcana",
-  "url": "https://en.wikipedia.org/wiki/Volcana_(Marvel_Comics)",
-  "realName": "Marsha Rosenberg",
+  "aliases": "",
   "creators": [
     "Jim Shooter",
     "Mike Zeck"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "483",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Volcana_%28Marvel%29.jpg",
+    "width": "205"
+  },
+  "name": "Volcana",
+  "pageviews": 2532,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Can become volcanic stone",
     "fire or ash"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Volcana_%28Marvel%29.jpg",
-    "width": "205",
-    "height": "483"
-  },
-  "pageviews": 2532
+  "realName": "Marsha Rosenberg",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Volcana_(Marvel_Comics)"
 }

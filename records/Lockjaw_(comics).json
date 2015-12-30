@@ -1,32 +1,34 @@
 {
-  "name": "Lockjaw",
-  "url": "https://en.wikipedia.org/wiki/Lockjaw_(comics)",
-  "realName": "",
+  "aliases": "Sparky",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Inhumans",
-    "Fantastic Four",
-    "Pet Avengers"
+  "image": {
+    "height": "365",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/30/Lockjaw.PNG",
+    "width": "250"
+  },
+  "name": "Lockjaw",
+  "pageviews": 15354,
+  "partners": [
   ],
-  "aliases": "Sparky",
-  "species": [
-    "Inhuman"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Super-canine strength in his jaw",
     "Teleportation",
     "Precognition",
     "Matter ingestion"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/30/Lockjaw.PNG",
-    "width": "250",
-    "height": "365"
-  },
-  "pageviews": 15354
+  "realName": "",
+  "species": [
+    "Inhuman"
+  ],
+  "teams": [
+    "Inhumans",
+    "Fantastic Four",
+    "Pet Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lockjaw_(comics)"
 }

@@ -1,19 +1,18 @@
 {
-  "name": "Saul",
-  "url": "https://en.wikipedia.org/wiki/Saul_(comics)",
-  "realName": "Garbha-hsien",
+  "aliases": "",
   "creators": [
     "Rob Liefeld",
     "Fabian Nicieza",
     "Mark Pacella"
   ],
-  "teams": [
-    "Externals"
+  "image": {
+  },
+  "name": "Saul",
+  "pageviews": 609,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to channel bio-plasma energy into explosive force",
     "levitation",
@@ -21,6 +20,11 @@
     "sorcery",
     "immortality"
   ],
-  "image": {},
-  "pageviews": 609
+  "realName": "Garbha-hsien",
+  "species": [
+  ],
+  "teams": [
+    "Externals"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Saul_(comics)"
 }

@@ -1,25 +1,28 @@
 {
-  "name": "Orator",
-  "url": "https://en.wikipedia.org/wiki/Orator_(comics)",
-  "realName": "Victor Ludwig",
+  "aliases": "",
   "creators": [
     "Peter Milligan",
     "Jorge Gonzales",
     "Kelley Jones"
   ],
-  "teams": [
-    "Acolytes"
+  "image": {
+  },
+  "name": "Orator",
+  "pageviews": 234,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Empathy",
     "Ability to enhance emotional impressions"
   ],
-  "image": {},
-  "pageviews": 234
+  "realName": "Victor Ludwig",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Acolytes"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Orator_(comics)"
 }

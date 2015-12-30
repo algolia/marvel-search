@@ -1,26 +1,29 @@
 {
-  "name": "Silverclaw",
-  "url": "https://en.wikipedia.org/wiki/Silverclaw",
-  "realName": "Maria De Guadalupe \"Lupe\" Santiago",
+  "aliases": "La Garra Argentado, Daughter of the Volcano God",
   "creators": [
     "Kurt Busiek",
     "George Pérez"
+  ],
+  "image": {
+    "height": "238",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Silverclaw.jpeg/250px-Silverclaw.jpeg",
+    "width": "250"
+  },
+  "name": "Silverclaw",
+  "pageviews": 2951,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to change into various metal were-animal forms"
+  ],
+  "realName": "Maria De Guadalupe \"Lupe\" Santiago",
+  "species": [
   ],
   "teams": [
     "Avengers",
     "Empire State University"
   ],
-  "aliases": "La Garra Argentado, Daughter of the Volcano God",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to change into various metal were-animal forms"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Silverclaw.jpeg/250px-Silverclaw.jpeg",
-    "width": "250",
-    "height": "238"
-  },
-  "pageviews": 2951
+  "url": "https://en.wikipedia.org/wiki/Silverclaw"
 }

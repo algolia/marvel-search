@@ -1,18 +1,18 @@
 {
-  "name": "Leper Queen",
-  "url": "https://en.wikipedia.org/wiki/Leper_Queen",
-  "realName": "Page (first name unknown)",
+  "aliases": "",
   "creators": [
     "Peter Milligan",
     "Salvador Larroca"
   ],
-  "teams": [
-    "Sapien League",
-    "Purifiers"
+  "image": {
+    "height": "363",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/XFORCE013_cov.jpg/250px-XFORCE013_cov.jpg",
+    "width": "250"
+  },
+  "name": "Leper Queen",
+  "pageviews": 1292,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Transmode Virus"
   ],
@@ -20,10 +20,12 @@
     "Competent ability with weapons and skilled fighter.",
     "Infected with the Transmode Virus."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/XFORCE013_cov.jpg/250px-XFORCE013_cov.jpg",
-    "width": "250",
-    "height": "363"
-  },
-  "pageviews": 1292
+  "realName": "Page (first name unknown)",
+  "species": [
+  ],
+  "teams": [
+    "Sapien League",
+    "Purifiers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Leper_Queen"
 }

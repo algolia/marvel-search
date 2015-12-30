@@ -1,23 +1,27 @@
 {
-  "name": "Justice",
-  "url": "https://en.wikipedia.org/wiki/Justice_(New_Universe)",
-  "realName": "John Roger Tensen",
+  "aliases": "Net Prophet, the Prophet of Thor , the Justice Killer, Justice Warrior Tensen",
   "creators": [
     "Archie Goodwin",
     "Geof Isherwood"
+  ],
+  "image": {
+  },
+  "name": "Justice",
+  "pageviews": 1330,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to create psionic \"shields\" and psionic \"swords\"",
+    "Ability to read auras"
+  ],
+  "realName": "John Roger Tensen",
+  "species": [
   ],
   "teams": [
     "NSA",
     "DEA"
   ],
-  "aliases": "Net Prophet, the Prophet of Thor , the Justice Killer, Justice Warrior Tensen",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to create psionic \"shields\" and psionic \"swords\"",
-    "Ability to read auras"
-  ],
-  "image": {},
-  "pageviews": 1330
+  "url": "https://en.wikipedia.org/wiki/Justice_(New_Universe)"
 }

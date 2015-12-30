@@ -1,32 +1,34 @@
 {
-  "name": "Voice",
-  "url": "https://en.wikipedia.org/wiki/Voice_(comics)",
-  "realName": "Jason Lorne Cragg",
+  "aliases": "The Man with the Voice of Doom, The Voice of Doom, The Voice of Truth",
   "creators": [
     "Stan Lee",
     "Larry Lieber",
     "Don Heck"
   ],
-  "teams": [
-    "Skeleton Crew",
-    "People's Defense Force"
-  ],
-  "aliases": "The Man with the Voice of Doom, The Voice of Doom, The Voice of Truth",
-  "species": [],
+  "image": {
+    "height": "346",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/The_Voice_from_Avengers_Assemble_One-Shot_July_2010.jpg/200px-The_Voice_from_Avengers_Assemble_One-Shot_July_2010.jpg",
+    "width": "200"
+  },
+  "name": "Voice",
+  "pageviews": 1131,
   "partners": [
     "Quicksilver",
     "Scarlet Beetle",
     "Controller",
     "Red Skull"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "His voice can make people who hear him believe that he's speaking the truth."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/The_Voice_from_Avengers_Assemble_One-Shot_July_2010.jpg/200px-The_Voice_from_Avengers_Assemble_One-Shot_July_2010.jpg",
-    "width": "200",
-    "height": "346"
-  },
-  "pageviews": 1131
+  "realName": "Jason Lorne Cragg",
+  "species": [
+  ],
+  "teams": [
+    "Skeleton Crew",
+    "People's Defense Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Voice_(comics)"
 }

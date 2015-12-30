@@ -1,23 +1,18 @@
 {
-  "name": "Doctor Octopus",
-  "url": "https://en.wikipedia.org/wiki/Doctor_Octopus",
-  "realName": "Otto Gunther Octavius",
+  "aliases": "Master Planner, Master Programmer, Doc Ock, Bowrey Bum, Prisoner #4756689, Superior Spider-Man (Peter Parker)",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Sinister Six",
-    "Masters of Evil",
-    "Thunderbolts",
-    "Avengers",
-    "Mighty Avengers",
-    "Parker Industries",
-    "Superior Six"
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Doctoroctopus.png/250px-Doctoroctopus.png",
+    "width": "250"
+  },
+  "name": "Doctor Octopus",
+  "pageviews": 27752,
+  "partners": [
   ],
-  "aliases": "Master Planner, Master Programmer, Doc Ock, Bowrey Bum, Prisoner #4756689, Superior Spider-Man (Peter Parker)",
-  "species": [],
-  "partners": [],
   "powers": [
     "Genius",
     "Carbonadium"
@@ -40,10 +35,17 @@
     "Slightly different spider-motif on his back",
     "Enhanced lenses"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Doctoroctopus.png/250px-Doctoroctopus.png",
-    "width": "250",
-    "height": "386"
-  },
-  "pageviews": 27752
+  "realName": "Otto Gunther Octavius",
+  "species": [
+  ],
+  "teams": [
+    "Sinister Six",
+    "Masters of Evil",
+    "Thunderbolts",
+    "Avengers",
+    "Mighty Avengers",
+    "Parker Industries",
+    "Superior Six"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Doctor_Octopus"
 }

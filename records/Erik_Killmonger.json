@@ -1,21 +1,26 @@
 {
-  "name": "Erik Killmonger",
-  "url": "https://en.wikipedia.org/wiki/Erik_Killmonger",
-  "realName": "",
+  "aliases": "Erik Killmonger",
   "creators": [
     "Don McGregor",
     "Rich Buckler"
   ],
-  "teams": [],
-  "aliases": "Erik Killmonger",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Erik Killmonger",
+  "pageviews": 3611,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Peak human strength",
     "expert martial artist",
     "genius level intellect"
   ],
-  "image": {},
-  "pageviews": 3611
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Erik_Killmonger"
 }

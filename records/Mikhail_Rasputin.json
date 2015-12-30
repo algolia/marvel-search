@@ -1,22 +1,18 @@
 {
-  "name": "Mikhail Rasputin",
-  "url": "https://en.wikipedia.org/wiki/Mikhail_Rasputin",
-  "realName": "Mikhail Nikolaievitch Rasputin",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Russian Cosmonaut program",
-    "Morlocks",
-    "Gene Nation",
-    "The Twelve"
+  "image": {
+    "height": "160",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/99/Mikhail_Rasputin.jpg",
+    "width": "238"
+  },
+  "name": "Mikhail Rasputin",
+  "pageviews": 4596,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Energy blast",
     "Portal Creation"
@@ -26,10 +22,15 @@
     "Energy blasts",
     "Portal Creation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/99/Mikhail_Rasputin.jpg",
-    "width": "238",
-    "height": "160"
-  },
-  "pageviews": 4596
+  "realName": "Mikhail Nikolaievitch Rasputin",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Russian Cosmonaut program",
+    "Morlocks",
+    "Gene Nation",
+    "The Twelve"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mikhail_Rasputin"
 }

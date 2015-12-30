@@ -1,24 +1,27 @@
 {
-  "name": "Professor Phobos",
-  "url": "https://en.wikipedia.org/wiki/Professor_Phobos",
-  "realName": "Piotr Phobos",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "teams": [
-    "Soviet Super-Soldiers"
+  "image": {
+  },
+  "name": "Professor Phobos",
+  "pageviews": 433,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "telepathy",
     "telekinesis"
   ],
-  "image": {},
-  "pageviews": 433
+  "realName": "Piotr Phobos",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Soviet Super-Soldiers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Professor_Phobos"
 }

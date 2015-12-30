@@ -1,23 +1,27 @@
 {
-  "name": "Nebulon",
-  "url": "https://en.wikipedia.org/wiki/Nebulon_(comics)",
-  "realName": null,
+  "aliases": "The Celestial Man, Mr. Nebul, Dorma",
   "creators": [
     "Len Wein",
     "Sal Buscema"
   ],
-  "teams": [],
-  "aliases": "The Celestial Man, Mr. Nebul, Dorma",
+  "image": {
+    "height": "389",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Defenders_34.jpg/250px-Defenders_34.jpg",
+    "width": "250"
+  },
+  "name": "Nebulon",
+  "pageviews": 929,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
   "species": [
     "Ul'lula'n"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Defenders_34.jpg/250px-Defenders_34.jpg",
-    "width": "250",
-    "height": "389"
-  },
-  "pageviews": 929
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nebulon_(comics)"
 }

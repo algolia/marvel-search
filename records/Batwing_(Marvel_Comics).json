@@ -1,21 +1,20 @@
 {
-  "name": "Batwing",
-  "url": "https://en.wikipedia.org/wiki/Batwing_(Marvel_Comics)",
-  "realName": "James \"Jimmy\" Santini",
+  "aliases": "",
   "creators": [
     "Kurt Busiek",
     "Pat Olliffe"
   ],
-  "teams": [
-    "The Initiative",
-    "Avengers Academy"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Untold_spiderm2.jpg/250px-Untold_spiderm2.jpg",
+    "width": "250"
+  },
+  "name": "Batwing",
+  "pageviews": 2176,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutate"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman speed",
     "Flight via bat wings",
@@ -24,10 +23,13 @@
     "Night vision",
     "Sharp claws and fangs"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Untold_spiderm2.jpg/250px-Untold_spiderm2.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 2176
+  "realName": "James \"Jimmy\" Santini",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+    "The Initiative",
+    "Avengers Academy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Batwing_(Marvel_Comics)"
 }

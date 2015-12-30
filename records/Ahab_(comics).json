@@ -1,10 +1,26 @@
 {
-  "name": "Ahab",
-  "url": "https://en.wikipedia.org/wiki/Ahab_(comics)",
-  "realName": "Roderick \"Rory\" Campbell",
+  "aliases": "Famine",
   "creators": [
     "Walt Simonson",
     "Jackson Guice"
+  ],
+  "image": {
+    "height": "444",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/XMEN_04122005_0001.jpg",
+    "width": "225"
+  },
+  "name": "Ahab",
+  "pageviews": 3491,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Energy harpoons",
+    "Superhuman strength"
+  ],
+  "realName": "Roderick \"Rory\" Campbell",
+  "species": [
   ],
   "teams": [
     "Horsemen of Apocalypse",
@@ -12,18 +28,5 @@
     "MI-13",
     "Hounds"
   ],
-  "aliases": "Famine",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Energy harpoons",
-    "Superhuman strength"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/XMEN_04122005_0001.jpg",
-    "width": "225",
-    "height": "444"
-  },
-  "pageviews": 3491
+  "url": "https://en.wikipedia.org/wiki/Ahab_(comics)"
 }

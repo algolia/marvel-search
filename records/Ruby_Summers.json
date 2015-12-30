@@ -1,26 +1,29 @@
 {
-  "name": "Ruby Summers",
-  "url": "https://en.wikipedia.org/wiki/Ruby_Summers",
-  "realName": "Ruby Summers",
+  "aliases": "",
   "creators": [
     "Peter David",
     "Valentine De Landro"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "image": {
+    "height": "393",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/15/Ruby_Summers.jpg",
+    "width": "250"
+  },
+  "name": "Ruby Summers",
+  "pageviews": 1901,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Optic force beams",
     "Capable of shapeshifting into a ruby form"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/15/Ruby_Summers.jpg",
-    "width": "250",
-    "height": "393"
-  },
-  "pageviews": 1901
+  "realName": "Ruby Summers",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ruby_Summers"
 }

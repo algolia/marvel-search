@@ -1,21 +1,25 @@
 {
-  "name": "Hammer",
-  "url": "https://en.wikipedia.org/wiki/Hammer_(comics)",
-  "realName": "Eisenhower Canty",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "John Romita, Jr."
   ],
-  "teams": [
-    "Six Pack"
+  "image": {
+  },
+  "name": "Hammer",
+  "pageviews": 576,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Technological genius"
   ],
-  "image": {},
-  "pageviews": 576
+  "realName": "Eisenhower Canty",
+  "species": [
+  ],
+  "teams": [
+    "Six Pack"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hammer_(comics)"
 }

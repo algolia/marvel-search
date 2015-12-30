@@ -1,16 +1,20 @@
 {
-  "name": "Stegron",
-  "url": "https://en.wikipedia.org/wiki/Stegron",
-  "realName": "",
+  "aliases": "The Dinosaur Man",
   "creators": [
     "Len Wein",
     "Gil Kane"
   ],
-  "teams": [],
-  "aliases": "The Dinosaur Man",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "219",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/StegronDinosaur.jpg/250px-StegronDinosaur.jpg",
+    "width": "250"
+  },
+  "name": "Stegron",
+  "pageviews": 1750,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Transforms into a large bipedal stegosaurus-like creature",
     "When transformed:",
@@ -18,10 +22,10 @@
     "Superhuman strength and resistance",
     "Genius level intellect"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/StegronDinosaur.jpg/250px-StegronDinosaur.jpg",
-    "width": "250",
-    "height": "219"
-  },
-  "pageviews": 1750
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Stegron"
 }

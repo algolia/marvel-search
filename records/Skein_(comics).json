@@ -1,21 +1,18 @@
 {
-  "name": "Skein",
-  "url": "https://en.wikipedia.org/wiki/Skein_(comics)",
-  "realName": "Sybil Dvorak",
+  "aliases": "Gypsy Moth, Sybarite",
   "creators": [
     "Mark Gruenwald",
     "Carmine Infantino"
   ],
-  "teams": [
-    "Masters of Evil",
-    "Night Shift",
-    "Thunderbolts"
+  "image": {
+    "height": "518",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Skein.png/250px-Skein.png",
+    "width": "250"
+  },
+  "name": "Skein",
+  "pageviews": 1549,
+  "partners": [
   ],
-  "aliases": "Gypsy Moth, Sybarite",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Telekinesis"
   ],
@@ -23,10 +20,14 @@
     "Telekinesis",
     "Levitation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Skein.png/250px-Skein.png",
-    "width": "250",
-    "height": "518"
-  },
-  "pageviews": 1549
+  "realName": "Sybil Dvorak",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Night Shift",
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Skein_(comics)"
 }

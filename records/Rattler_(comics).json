@@ -1,19 +1,17 @@
 {
-  "name": "Rattler",
-  "url": "https://en.wikipedia.org/wiki/Rattler_(comics)",
-  "realName": "Gustav Krueger",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Paul Neary"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Serpent Society"
+  "image": {
+  },
+  "name": "Rattler",
+  "pageviews": 786,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Wears electronic hearing aids in his cowl",
     "Bionic tail that generates sonic vibrations used to create shockwaves",
@@ -25,6 +23,12 @@
     "and possible death to people",
     "Fang-like teeth"
   ],
-  "image": {},
-  "pageviews": 786
+  "realName": "Gustav Krueger",
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Serpent Society"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Rattler_(comics)"
 }

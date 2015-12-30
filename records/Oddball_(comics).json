@@ -1,26 +1,29 @@
 {
-  "name": "Oddball",
-  "url": "https://en.wikipedia.org/wiki/Oddball_(comics)",
-  "realName": "Elton Healey",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald"
+  ],
+  "image": {
+    "height": "168",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Oddball.jpg",
+    "width": "171"
+  },
+  "name": "Oddball",
+  "pageviews": 795,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Expert juggler",
+    "Experienced street fighter"
+  ],
+  "realName": "Elton Healey",
+  "species": [
   ],
   "teams": [
     "Death-Throws",
     "Masters of Evil"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Expert juggler",
-    "Experienced street fighter"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Oddball.jpg",
-    "width": "171",
-    "height": "168"
-  },
-  "pageviews": 795
+  "url": "https://en.wikipedia.org/wiki/Oddball_(comics)"
 }

@@ -1,25 +1,28 @@
 {
-  "name": "Powerhouse",
-  "url": "https://en.wikipedia.org/wiki/Powerhouse_(comics)",
-  "realName": "Rieg Davan",
+  "aliases": "",
   "creators": [
     "Marv Wolfman",
     "John Buscema",
     "Joe Sinnott"
   ],
-  "teams": [
-    "Champions of Xandar"
+  "image": {
+  },
+  "name": "Powerhouse",
+  "pageviews": 844,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Xandar"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "Ability to siphon the energies of any power-source"
   ],
-  "image": {},
-  "pageviews": 844
+  "realName": "Rieg Davan",
+  "species": [
+    "Xandar"
+  ],
+  "teams": [
+    "Champions of Xandar"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Powerhouse_(comics)"
 }

@@ -1,16 +1,22 @@
 {
-  "name": "American Ace",
-  "url": "https://en.wikipedia.org/wiki/American_Ace",
-  "realName": "Perry Webb",
+  "aliases": "",
   "creators": [
     "Paul Lauretta"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 1059
+  "image": {
+  },
+  "name": "American Ace",
+  "pageviews": 1059,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Perry Webb",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/American_Ace"
 }

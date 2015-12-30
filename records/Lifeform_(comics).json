@@ -1,22 +1,27 @@
 {
-  "name": "Lifeform",
-  "url": "https://en.wikipedia.org/wiki/Lifeform_(comics)",
-  "realName": null,
-  "creators": [],
-  "teams": [],
   "aliases": "Hunger, Night Stalker",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "242",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/LifeformMarvelComics.jpg/250px-LifeformMarvelComics.jpg",
+    "width": "250"
+  },
+  "name": "Lifeform",
+  "pageviews": 428,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "Body is in a state of constant mutation",
     "Capable of spreading its mutation like a virus which ultimately kills those infected by it"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/LifeformMarvelComics.jpg/250px-LifeformMarvelComics.jpg",
-    "width": "250",
-    "height": "242"
-  },
-  "pageviews": 428
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lifeform_(comics)"
 }

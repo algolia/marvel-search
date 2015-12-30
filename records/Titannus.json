@@ -1,18 +1,20 @@
 {
-  "name": "Titannus",
-  "url": "https://en.wikipedia.org/wiki/Titannus",
-  "realName": "Titannus",
+  "aliases": "",
   "creators": [
     "Robert Kirkman",
     "Scott Kolins"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Skrull"
+  "image": {
+    "height": "364",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/MARVTU012cov.jpg/250px-MARVTU012cov.jpg",
+    "width": "250"
+  },
+  "name": "Titannus",
+  "pageviews": 1079,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and stamina",
     "Invulnerability",
@@ -20,10 +22,11 @@
     "Energy projection",
     "Healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/MARVTU012cov.jpg/250px-MARVTU012cov.jpg",
-    "width": "250",
-    "height": "364"
-  },
-  "pageviews": 1079
+  "realName": "Titannus",
+  "species": [
+    "Skrull"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Titannus"
 }

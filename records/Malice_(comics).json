@@ -1,25 +1,28 @@
 {
-  "name": "Malice",
-  "url": "https://en.wikipedia.org/wiki/Malice_(comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Rick Leonardi"
   ],
-  "teams": [
-    "Marauders"
+  "image": {
+    "height": "276",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Malicewiki.jpg",
+    "width": "235"
+  },
+  "name": "Malice",
+  "pageviews": 4958,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Possession"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Malicewiki.jpg",
-    "width": "235",
-    "height": "276"
-  },
-  "pageviews": 4958
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Marauders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Malice_(comics)"
 }

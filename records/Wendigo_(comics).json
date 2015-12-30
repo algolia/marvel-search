@@ -1,19 +1,20 @@
 {
-  "name": "Wendigo",
-  "url": "https://en.wikipedia.org/wiki/Wendigo_(comics)",
-  "realName": "Paul Cartier<br>Georges Baptiste<br>Francois Lartigue<br>Yeti<br>Lorenzo<br>Jean-Pierre Beaubier (Mauvais)<br>Michael Fleet",
+  "aliases": "Various names in Native Canadian folklore",
   "creators": [
     "Steve Englehart",
     "Herb Trimpe"
   ],
-  "teams": [
-    "Department H",
-    "Weapon P.R.I.M.E."
+  "image": {
+    "height": "384",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Uxm140.png/250px-Uxm140.png",
+    "width": "250"
+  },
+  "name": "Wendigo",
+  "pageviews": 12875,
+  "partners": [
   ],
-  "aliases": "Various names in Native Canadian folklore",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "stamina",
@@ -22,10 +23,12 @@
     "Regenerative healing factor",
     "Hardened talons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Uxm140.png/250px-Uxm140.png",
-    "width": "250",
-    "height": "384"
-  },
-  "pageviews": 12875
+  "realName": "Paul Cartier<br>Georges Baptiste<br>Francois Lartigue<br>Yeti<br>Lorenzo<br>Jean-Pierre Beaubier (Mauvais)<br>Michael Fleet",
+  "species": [
+  ],
+  "teams": [
+    "Department H",
+    "Weapon P.R.I.M.E."
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wendigo_(comics)"
 }

@@ -1,27 +1,29 @@
 {
-  "name": "Mr. Immortal",
-  "url": "https://en.wikipedia.org/wiki/Mister_Immortal",
-  "realName": "Craig Hollis",
+  "aliases": "",
   "creators": [
     "John Byrne"
   ],
-  "teams": [
-    "Great Lakes Avengers"
+  "image": {
+    "height": "322",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/92/Mister_Immortal.png",
+    "width": "250"
+  },
+  "name": "Mr. Immortal",
+  "pageviews": 4654,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Highly skilled acrobat and athlete",
     "Immortality via resurrection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/92/Mister_Immortal.png",
-    "width": "250",
-    "height": "322"
-  },
-  "pageviews": 4654
+  "realName": "Craig Hollis",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Great Lakes Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mister_Immortal"
 }

@@ -1,19 +1,18 @@
 {
-  "name": "Redneck",
-  "url": "https://en.wikipedia.org/wiki/Redneck_(comics)",
-  "realName": "Vincent \"Vin\" Stewart",
+  "aliases": "Skybolt",
   "creators": [
     "Grant Morrison",
     "Frank Quitely"
   ],
-  "teams": [
-    "New Warriors",
-    "Xavier Institute",
-    "Omega Gang"
+  "image": {
+    "height": "240",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Skybolt1.jpg/250px-Skybolt1.jpg",
+    "width": "250"
+  },
+  "name": "Redneck",
+  "pageviews": 1363,
+  "partners": [
   ],
-  "aliases": "Skybolt",
-  "species": [],
-  "partners": [],
   "powers": [
     "the Beetle"
   ],
@@ -23,10 +22,13 @@
     "formerly:",
     "Heat generation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Skybolt1.jpg/250px-Skybolt1.jpg",
-    "width": "250",
-    "height": "240"
-  },
-  "pageviews": 1363
+  "realName": "Vincent \"Vin\" Stewart",
+  "species": [
+  ],
+  "teams": [
+    "New Warriors",
+    "Xavier Institute",
+    "Omega Gang"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Redneck_(comics)"
 }

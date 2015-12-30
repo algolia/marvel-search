@@ -1,20 +1,20 @@
 {
-  "name": "Cyber",
-  "url": "https://en.wikipedia.org/wiki/Cyber_(comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Peter David",
     "Sam Kieth"
   ],
-  "teams": [
-    "Hell's Belles"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Wolverine15.jpg/250px-Wolverine15.jpg",
+    "width": "250"
+  },
+  "name": "Cyber",
+  "pageviews": 4193,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Original Body:",
     "Superhuman strength and stamina",
@@ -26,10 +26,12 @@
     "Adamantium skin and retractable claws",
     "Psionic ability to track individual brain patterns"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Wolverine15.jpg/250px-Wolverine15.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 4193
+  "realName": "",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hell's Belles"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cyber_(comics)"
 }

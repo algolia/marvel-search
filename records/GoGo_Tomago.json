@@ -1,28 +1,31 @@
 {
-  "name": "GoGo Tomago",
-  "url": "https://en.wikipedia.org/wiki/GoGo_Tomago",
-  "realName": "Leiko Tanaka",
+  "aliases": "",
   "creators": [
     "Steven T. Seagle",
     "Duncan Rouleau"
   ],
-  "teams": [
-    "Big Hero 6"
+  "image": {
+    "height": "249",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/GoGo_Tomago_%28Marvel_Comics%29.jpg/250px-GoGo_Tomago_%28Marvel_Comics%29.jpg",
+    "width": "250"
+  },
+  "name": "GoGo Tomago",
+  "pageviews": 13535,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled motorcyclist",
     "Accomplished racer and stunt driver",
     "Armored suit grants:",
     "Ability to transform body into explosive ball of energy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/GoGo_Tomago_%28Marvel_Comics%29.jpg/250px-GoGo_Tomago_%28Marvel_Comics%29.jpg",
-    "width": "250",
-    "height": "249"
-  },
-  "pageviews": 13535
+  "realName": "Leiko Tanaka",
+  "species": [
+  ],
+  "teams": [
+    "Big Hero 6"
+  ],
+  "url": "https://en.wikipedia.org/wiki/GoGo_Tomago"
 }

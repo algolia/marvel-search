@@ -1,21 +1,17 @@
 {
-  "name": "Thunderbird",
-  "url": "https://en.wikipedia.org/wiki/Thunderbird_(comics)",
-  "realName": "John Proudstar",
+  "aliases": "",
   "creators": [
     "Len Wein",
     "Dave Cockrum"
   ],
-  "teams": [
-    "X-Men",
-    "United States Marine Corps"
+  "image": {
+  },
+  "name": "Thunderbird",
+  "pageviews": 6651,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman senses",
     "strength",
@@ -24,6 +20,13 @@
     "durability",
     "endurance and sturdiness"
   ],
-  "image": {},
-  "pageviews": 6651
+  "realName": "John Proudstar",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men",
+    "United States Marine Corps"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thunderbird_(comics)"
 }

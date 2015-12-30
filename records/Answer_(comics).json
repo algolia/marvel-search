@@ -1,24 +1,28 @@
 {
-  "name": "Answer",
-  "url": "https://en.wikipedia.org/wiki/Answer_(comics)",
-  "realName": "Aaron Nicholson",
+  "aliases": "",
   "creators": [
     "Al Milgrom",
     "Jim Mooney"
   ],
-  "teams": [
-    "HYDRA"
+  "image": {
+  },
+  "name": "Answer",
+  "pageviews": 1458,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman intelligence and intuition",
     "Ability to temporarily develop whatever ability he needs for any situation",
     "Body armor grants:",
     "Ability to slip from any grasp or prevent anything from adhering to him"
   ],
-  "image": {},
-  "pageviews": 1458
+  "realName": "Aaron Nicholson",
+  "species": [
+  ],
+  "teams": [
+    "HYDRA"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Answer_(comics)"
 }

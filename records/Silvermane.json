@@ -1,19 +1,20 @@
 {
-  "name": "Silvermane",
-  "url": "https://en.wikipedia.org/wiki/Silvermane",
-  "realName": "Silvio Manfredi",
+  "aliases": "Supreme Hydra",
   "creators": [
     "Stan Lee",
     "John Buscema"
   ],
-  "teams": [
-    "The Maggia",
-    "HYDRA"
+  "image": {
+    "height": "200",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Silvermane-head.jpg",
+    "width": "201"
+  },
+  "name": "Silvermane",
+  "pageviews": 5607,
+  "partners": [
   ],
-  "aliases": "Supreme Hydra",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superb hand to hand combatant",
     "Excellent marksman",
@@ -21,10 +22,12 @@
     "Superhuman strength and senses derived from cyborg body",
     "Use of various handguns"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Silvermane-head.jpg",
-    "width": "201",
-    "height": "200"
-  },
-  "pageviews": 5607
+  "realName": "Silvio Manfredi",
+  "species": [
+  ],
+  "teams": [
+    "The Maggia",
+    "HYDRA"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Silvermane"
 }

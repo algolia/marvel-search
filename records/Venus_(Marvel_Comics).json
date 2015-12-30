@@ -1,28 +1,31 @@
 {
-  "name": "Venus",
-  "url": "https://en.wikipedia.org/wiki/Venus_(Marvel_Comics)",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "Agents of Atlas",
-    "God Squad"
-  ],
   "aliases": "\"V\", \"Goddess\", \"Aphrodite\", Victoria Nutley Starr, others",
-  "species": [
-    "Siren"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "337",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Venus-comics-leonardkirk.jpg/250px-Venus-comics-leonardkirk.jpg",
+    "width": "250"
+  },
+  "name": "Venus",
+  "pageviews": 4147,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Immortality",
     "Emotion control",
     "Illusion generation",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Venus-comics-leonardkirk.jpg/250px-Venus-comics-leonardkirk.jpg",
-    "width": "250",
-    "height": "337"
-  },
-  "pageviews": 4147
+  "realName": null,
+  "species": [
+    "Siren"
+  ],
+  "teams": [
+    "Agents of Atlas",
+    "God Squad"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Venus_(Marvel_Comics)"
 }

@@ -1,27 +1,30 @@
 {
-  "name": "Googam",
-  "url": "https://en.wikipedia.org/wiki/Googam",
-  "realName": "Googam",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Fin Fang Four"
+  "image": {
+    "height": "374",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/TOS-17.jpg/250px-TOS-17.jpg",
+    "width": "250"
+  },
+  "name": "Googam",
+  "pageviews": 591,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "Telekinesis",
     "Ability to shrink matter"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/TOS-17.jpg/250px-TOS-17.jpg",
-    "width": "250",
-    "height": "374"
-  },
-  "pageviews": 591
+  "realName": "Googam",
+  "species": [
+  ],
+  "teams": [
+    "Fin Fang Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Googam"
 }

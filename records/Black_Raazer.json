@@ -1,22 +1,26 @@
 {
-  "name": "Black Raazer",
-  "url": "https://en.wikipedia.org/wiki/Black_Raazer",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Bill Mantlo"
   ],
-  "teams": [
-    "Desert Sword"
+  "image": {
+  },
+  "name": "Black Raazer",
+  "pageviews": 814,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "wraith powers",
     "limited sorcery",
     "control of a mystic weapon."
   ],
-  "image": {},
-  "pageviews": 814
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Desert Sword"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Raazer"
 }

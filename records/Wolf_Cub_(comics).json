@@ -1,10 +1,27 @@
 {
-  "name": "Wolf Cub",
-  "url": "https://en.wikipedia.org/wiki/Wolf_Cub_(comics)",
-  "realName": "Nicholas Gleason",
+  "aliases": "",
   "creators": [
     "Brian K. Vaughan",
     "Lee Ferguson"
+  ],
+  "image": {
+    "height": "244",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a0/Wolf_Cub_%28Nicholas_Gleason%29.png",
+    "width": "156"
+  },
+  "name": "Wolf Cub",
+  "pageviews": 1935,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Lupine form",
+    "enhanced senses"
+  ],
+  "realName": "Nicholas Gleason",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Paragons training squad",
@@ -12,20 +29,5 @@
     "X-Men-In-Training",
     "Young X-Men"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Lupine form",
-    "enhanced senses"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a0/Wolf_Cub_%28Nicholas_Gleason%29.png",
-    "width": "156",
-    "height": "244"
-  },
-  "pageviews": 1935
+  "url": "https://en.wikipedia.org/wiki/Wolf_Cub_(comics)"
 }

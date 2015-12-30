@@ -1,25 +1,29 @@
 {
-  "name": "Scarlet Spider",
-  "url": "https://en.wikipedia.org/wiki/Felicity_Hardy",
-  "realName": "Felicity Hardy",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Pat Olliffe"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Spg46.jpg/250px-Spg46.jpg",
+    "width": "250"
+  },
+  "name": "Scarlet Spider",
+  "pageviews": 1891,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Skilled martial artist and gymnast",
     "Wields web-shooters that fire smoke bombs and sonic blasts and a high-tech cat o'nine tails whip",
     "Great investigative skills"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Spg46.jpg/250px-Spg46.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 1891
+  "realName": "Felicity Hardy",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Felicity_Hardy"
 }

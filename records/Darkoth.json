@@ -1,24 +1,28 @@
 {
-  "name": "Darkoth",
-  "url": "https://en.wikipedia.org/wiki/Darkoth",
-  "realName": "Desmond Pitt",
+  "aliases": "Death Demon",
   "creators": [
     "Gerry Conway",
     "Rich Buckler"
   ],
-  "teams": [
-    "NASA",
-    "United States Air Force"
+  "image": {
+  },
+  "name": "Darkoth",
+  "pageviews": 408,
+  "partners": [
   ],
-  "aliases": "Death Demon",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "Flight",
     "Density control"
   ],
-  "image": {},
-  "pageviews": 408
+  "realName": "Desmond Pitt",
+  "species": [
+  ],
+  "teams": [
+    "NASA",
+    "United States Air Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Darkoth"
 }

@@ -1,24 +1,28 @@
 {
-  "name": "Nikki",
-  "url": "https://en.wikipedia.org/wiki/Nikki_(comics)",
-  "realName": "Nicholette Gold",
+  "aliases": "",
   "creators": [
     "Steve Gerber",
     "Al Milgrom"
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "Avengers"
+  "image": {
+  },
+  "name": "Nikki",
+  "pageviews": 2098,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "superhuman ability to withstand heat and ultraviolet radiation",
     "can see clearly in very bright light",
     "good acrobat and sharpshooter"
   ],
-  "image": {},
-  "pageviews": 2098
+  "realName": "Nicholette Gold",
+  "species": [
+  ],
+  "teams": [
+    "Guardians of the Galaxy",
+    "Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nikki_(comics)"
 }

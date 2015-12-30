@@ -1,22 +1,16 @@
 {
-  "name": "Mentallo",
-  "url": "https://en.wikipedia.org/wiki/Mentallo",
-  "realName": "Marvin Flumm",
+  "aliases": "Think Tank",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "A.I.M.",
-    "S.H.I.E.L.D.",
-    "HYDRA",
-    "Resistants",
-    "New Enforcers"
-  ],
-  "aliases": "Think Tank",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+    "height": "431",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/Mentallo.gif",
+    "width": "152"
+  },
+  "name": "Mentallo",
+  "pageviews": 2038,
   "partners": [
     "Fixer"
   ],
@@ -27,10 +21,16 @@
     "Telepathy",
     "mental probes that function as a radar-sense."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/Mentallo.gif",
-    "width": "152",
-    "height": "431"
-  },
-  "pageviews": 2038
+  "realName": "Marvin Flumm",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "A.I.M.",
+    "S.H.I.E.L.D.",
+    "HYDRA",
+    "Resistants",
+    "New Enforcers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mentallo"
 }

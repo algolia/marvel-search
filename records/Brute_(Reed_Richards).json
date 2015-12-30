@@ -1,19 +1,24 @@
 {
-  "name": "Brute",
-  "url": "https://en.wikipedia.org/wiki/Brute_(Reed_Richards)",
-  "realName": "Reed Richards",
+  "aliases": "Mister Fantastic",
   "creators": [
     "Roy Thomas",
     "Gil Kane"
   ],
+  "image": {
+  },
+  "name": "Brute",
+  "pageviews": 1689,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Reed Richards",
+  "species": [
+  ],
   "teams": [
     "Frightful Four"
   ],
-  "aliases": "Mister Fantastic",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 1689
+  "url": "https://en.wikipedia.org/wiki/Brute_(Reed_Richards)"
 }

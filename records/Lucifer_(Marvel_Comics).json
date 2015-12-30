@@ -1,22 +1,26 @@
 {
-  "name": "Lucifer",
-  "url": "https://en.wikipedia.org/wiki/Lucifer_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "Agent One",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Agent One",
-  "species": [
-    "Quist"
+  "image": {
+  },
+  "name": "Lucifer",
+  "pageviews": 3562,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Telepathy",
     "Ionic manipulation"
   ],
-  "image": {},
-  "pageviews": 3562
+  "realName": null,
+  "species": [
+    "Quist"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lucifer_(Marvel_Comics)"
 }

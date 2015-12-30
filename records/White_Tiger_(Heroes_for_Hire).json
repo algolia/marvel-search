@@ -1,19 +1,20 @@
 {
-  "name": "White Tiger",
-  "url": "https://en.wikipedia.org/wiki/White_Tiger_(Heroes_for_Hire)",
-  "realName": null,
+  "aliases": "Tiger",
   "creators": [
     "Roger Stern",
     "Pascual Ferry"
   ],
-  "teams": [
-    "Heroes for Hire",
-    "U-Foes"
+  "image": {
+    "height": "121",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/WhiteTigerH4H4.jpg/250px-WhiteTigerH4H4.jpg",
+    "width": "250"
+  },
+  "name": "White Tiger",
+  "pageviews": 1545,
+  "partners": [
   ],
-  "aliases": "Tiger",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Martial arts skills",
     "cat-like speed",
@@ -22,10 +23,12 @@
     "ability to become a tiger or a weretiger",
     "resistance to mental powers."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/WhiteTigerH4H4.jpg/250px-WhiteTigerH4H4.jpg",
-    "width": "250",
-    "height": "121"
-  },
-  "pageviews": 1545
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Heroes for Hire",
+    "U-Foes"
+  ],
+  "url": "https://en.wikipedia.org/wiki/White_Tiger_(Heroes_for_Hire)"
 }

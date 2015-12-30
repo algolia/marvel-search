@@ -1,18 +1,24 @@
 {
-  "name": "Vibrania",
-  "url": "https://en.wikipedia.org/wiki/Vibrania",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "Ron Wilson",
     "Don Perlin"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 812
+  "image": {
+  },
+  "name": "Vibrania",
+  "pageviews": 812,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Vibrania"
 }

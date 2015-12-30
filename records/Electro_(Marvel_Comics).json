@@ -1,19 +1,18 @@
 {
-  "name": "Electro",
-  "url": "https://en.wikipedia.org/wiki/Electro_(Marvel_Comics)",
-  "realName": "Maxwell \"Max\" Dillon",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Sinister Six",
-    "Emissaries of Evil",
-    "Frightful Four"
+  "image": {
+    "height": "362",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/35/Electro.png",
+    "width": "250"
+  },
+  "name": "Electro",
+  "pageviews": 24686,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Electric manipulation"
   ],
@@ -22,10 +21,13 @@
     "Electric manipulation",
     "Superhuman strength and speed when fully charged"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/35/Electro.png",
-    "width": "250",
-    "height": "362"
-  },
-  "pageviews": 24686
+  "realName": "Maxwell \"Max\" Dillon",
+  "species": [
+  ],
+  "teams": [
+    "Sinister Six",
+    "Emissaries of Evil",
+    "Frightful Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Electro_(Marvel_Comics)"
 }

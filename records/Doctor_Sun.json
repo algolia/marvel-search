@@ -1,20 +1,25 @@
 {
-  "name": "Doctor Sun",
-  "url": "https://en.wikipedia.org/wiki/Doctor_Sun",
-  "realName": null,
+  "aliases": "H.E.R.B.I.E.",
   "creators": [
     "Marv Wolfman",
     "Gene Colan"
   ],
-  "teams": [],
-  "aliases": "H.E.R.B.I.E.",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Doctor Sun",
+  "pageviews": 1316,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "psionic power",
     "mind transfer and control"
   ],
-  "image": {},
-  "pageviews": 1316
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Doctor_Sun"
 }

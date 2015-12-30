@@ -1,28 +1,31 @@
 {
-  "name": "Honey Lemon",
-  "url": "https://en.wikipedia.org/wiki/Honey_Lemon",
-  "realName": "Aiko Miyazaki",
+  "aliases": "",
   "creators": [
     "Steven T. Seagle",
     "Duncan Rouleau"
   ],
-  "teams": [
-    "Big Hero 6"
+  "image": {
+    "height": "250",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Honey_Lemon_%28Marvel_Comics%29.jpg/250px-Honey_Lemon_%28Marvel_Comics%29.jpg",
+    "width": "250"
+  },
+  "name": "Honey Lemon",
+  "pageviews": 11696,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Brilliant scientist",
     "Extensively trained martial artist",
     "Purse grants:",
     "Ability to access another dimension and pull any item out of it"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Honey_Lemon_%28Marvel_Comics%29.jpg/250px-Honey_Lemon_%28Marvel_Comics%29.jpg",
-    "width": "250",
-    "height": "250"
-  },
-  "pageviews": 11696
+  "realName": "Aiko Miyazaki",
+  "species": [
+  ],
+  "teams": [
+    "Big Hero 6"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Honey_Lemon"
 }

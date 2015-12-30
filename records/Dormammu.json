@@ -1,31 +1,33 @@
 {
-  "name": "Dormammu",
-  "url": "https://en.wikipedia.org/wiki/Dormammu",
-  "realName": null,
+  "aliases": "The Dread One; Lord of Chaos; The Great Enigma; Master of the Mindless Ones",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Mindless Ones"
-  ],
-  "aliases": "The Dread One; Lord of Chaos; The Great Enigma; Master of the Mindless Ones",
-  "species": [],
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/85/Dormammu.jpg",
+    "width": "210"
+  },
+  "name": "Dormammu",
+  "pageviews": 24828,
   "partners": [
     "Umar",
     "Satannish"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Mystic energy manipulation",
     "Mastery of dark magic",
     "Dimensional teleportation",
     "Immortality"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/85/Dormammu.jpg",
-    "width": "210",
-    "height": "450"
-  },
-  "pageviews": 24828
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Mindless Ones"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dormammu"
 }

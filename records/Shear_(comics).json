@@ -1,26 +1,29 @@
 {
-  "name": "Shear",
-  "url": "https://en.wikipedia.org/wiki/Shear_(comics)",
-  "realName": "Walther Feyzioglu",
+  "aliases": "",
   "creators": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "teams": [
-    "Strikeforce: Morituri"
+  "image": {
+    "height": "223",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Shear_comics.jpg/250px-Shear_comics.jpg",
+    "width": "250"
+  },
+  "name": "Shear",
+  "pageviews": 226,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Disruption of molecular bonds",
     "Enhanced strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Shear_comics.jpg/250px-Shear_comics.jpg",
-    "width": "250",
-    "height": "223"
-  },
-  "pageviews": 226
+  "realName": "Walther Feyzioglu",
+  "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shear_(comics)"
 }

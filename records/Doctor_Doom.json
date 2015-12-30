@@ -1,23 +1,18 @@
 {
-  "name": "Doctor Doom",
-  "url": "https://en.wikipedia.org/wiki/Doctor_Doom",
-  "realName": "Dr. Victor Von Doom",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Terrible Trio",
-    "The Cabal",
-    "Intelligencia",
-    "Future Foundation",
-    "Astonishing Avengers"
+  "image": {
+    "height": "384",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Ff247.png/250px-Ff247.png",
+    "width": "250"
+  },
+  "name": "Doctor Doom",
+  "pageviews": 93741,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human"
-  ],
-  "partners": [],
   "powers": [
     "Armor"
   ],
@@ -33,10 +28,16 @@
     "Rocket boots for flight",
     "Force field generation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Ff247.png/250px-Ff247.png",
-    "width": "250",
-    "height": "384"
-  },
-  "pageviews": 93741
+  "realName": "Dr. Victor Von Doom",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+    "Terrible Trio",
+    "The Cabal",
+    "Intelligencia",
+    "Future Foundation",
+    "Astonishing Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Doctor_Doom"
 }

@@ -1,28 +1,31 @@
 {
-  "name": "Sphinx",
-  "url": "https://en.wikipedia.org/wiki/Sphinx_(Marvel_Comics)",
-  "realName": "Anath-Na Mut",
+  "aliases": "The Dreaded One",
   "creators": [
     "Marv Wolfman",
     "Sal Buscema"
   ],
-  "teams": [],
-  "aliases": "The Dreaded One",
-  "species": [
-    "Human mutant"
+  "image": {
+    "height": "383",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Thing-34.jpg/250px-Thing-34.jpg",
+    "width": "250"
+  },
+  "name": "Sphinx",
+  "pageviews": 1380,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Via Ka Stone:",
     "Superhuman strength and durability",
     "Energy projection",
     "Reality manipulation Telepathy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Thing-34.jpg/250px-Thing-34.jpg",
-    "width": "250",
-    "height": "383"
-  },
-  "pageviews": 1380
+  "realName": "Anath-Na Mut",
+  "species": [
+    "Human mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sphinx_(Marvel_Comics)"
 }

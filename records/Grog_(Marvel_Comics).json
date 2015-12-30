@@ -1,19 +1,24 @@
 {
-  "name": "Grog",
-  "url": "https://en.wikipedia.org/wiki/Grog_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "The God-Slayer, Grog the God-Crusher",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [],
-  "aliases": "The God-Slayer, Grog the God-Crusher",
-  "species": [],
+  "image": {
+  },
+  "name": "Grog",
+  "pageviews": 391,
   "partners": [
     "Seth"
   ],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 391
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Grog_(Marvel_Comics)"
 }

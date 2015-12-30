@@ -1,18 +1,18 @@
 {
-  "name": "Bullseye",
-  "url": "https://en.wikipedia.org/wiki/Bullseye_(comics)",
-  "realName": "Lester",
+  "aliases": "Benjamin Poindexter, Leonard, Daredevil Hawkeye",
   "creators": [
     "Marv Wolfman",
     "John Romita, Sr."
   ],
-  "teams": [
-    "Thunderbolts",
-    "Dark Avengers"
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bullseye5.jpg/250px-Bullseye5.jpg",
+    "width": "250"
+  },
+  "name": "Bullseye",
+  "pageviews": 32172,
+  "partners": [
   ],
-  "aliases": "Benjamin Poindexter, Leonard, Daredevil Hawkeye",
-  "species": [],
-  "partners": [],
   "powers": [
     "adamantium"
   ],
@@ -21,10 +21,12 @@
     "Highly skilled hand-to-hand combatant",
     "Spinal column and various other bones laced with adamantium"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bullseye5.jpg/250px-Bullseye5.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 32172
+  "realName": "Lester",
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Dark Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bullseye_(comics)"
 }

@@ -1,29 +1,31 @@
 {
-  "name": "Marrina Smallwood",
-  "url": "https://en.wikipedia.org/wiki/Marrina_Smallwood",
-  "realName": null,
+  "aliases": "Leviathan",
   "creators": [
     "John Byrne"
+  ],
+  "image": {
+    "height": "274",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Marrina.jpg/200px-Marrina.jpg",
+    "width": "200"
+  },
+  "name": "Marrina Smallwood",
+  "pageviews": 2281,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Underwater breathing",
+    "Transformation"
+  ],
+  "realName": null,
+  "species": [
+    "Plodex"
   ],
   "teams": [
     "Alpha Flight",
     "Beta Flight",
     "Avengers"
   ],
-  "aliases": "Leviathan",
-  "species": [
-    "Plodex"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Underwater breathing",
-    "Transformation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Marrina.jpg/200px-Marrina.jpg",
-    "width": "200",
-    "height": "274"
-  },
-  "pageviews": 2281
+  "url": "https://en.wikipedia.org/wiki/Marrina_Smallwood"
 }

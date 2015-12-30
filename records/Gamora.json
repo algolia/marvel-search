@@ -1,20 +1,19 @@
 {
-  "name": "Gamora",
-  "url": "https://en.wikipedia.org/wiki/Gamora",
-  "realName": "Gamora",
+  "aliases": "The Most Dangerous Woman in the Universe, Bambi Long",
   "creators": [
     "Jim Starlin"
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "Infinity Watch",
-    "Phalanx",
-    "United Front"
+  "image": {
+    "height": "357",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Nova_6.jpg",
+    "width": "250"
+  },
+  "name": "Gamora",
+  "pageviews": 38014,
+  "partners": [
   ],
-  "aliases": "The Most Dangerous Woman in the Universe, Bambi Long",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Highly skilled assassin and gymnast",
     "Skilled martial artist",
@@ -23,10 +22,14 @@
     "agility and durability",
     "Accelerated healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Nova_6.jpg",
-    "width": "250",
-    "height": "357"
-  },
-  "pageviews": 38014
+  "realName": "Gamora",
+  "species": [
+  ],
+  "teams": [
+    "Guardians of the Galaxy",
+    "Infinity Watch",
+    "Phalanx",
+    "United Front"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gamora"
 }

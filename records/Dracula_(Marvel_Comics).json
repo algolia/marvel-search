@@ -1,22 +1,20 @@
 {
-  "name": "Dracula",
-  "url": "https://en.wikipedia.org/wiki/Dracula_(Marvel_Comics)",
-  "realName": "Vlad Țepeș Dracula",
+  "aliases": "Count Dracula, Justin Drake, Dr. Vlad, Vlad III the Impaler, Dagon, Count Orlok, Alucard, Dondora, Frank Drake",
   "creators": [
     "Gerry Conway",
     "Gene Colan"
   ],
-  "teams": [
-    "Vampires",
-    "Legion of the Unliving",
-    "Defenders"
+  "image": {
+    "height": "302",
+    "url": "https://upload.wikimedia.org/wikipedia/en/7/78/Dracula_Comic.jpg",
+    "width": "223"
+  },
+  "name": "Dracula",
+  "pageviews": 13091,
+  "partners": [
   ],
-  "aliases": "Count Dracula, Justin Drake, Dr. Vlad, Vlad III the Impaler, Dagon, Count Orlok, Alucard, Dondora, Frank Drake",
-  "species": [
-    "Vampire"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Skilled swordsman and hand-to-hand combatant",
     "Genius-level intellect",
@@ -34,10 +32,14 @@
     "Immortality",
     "Ability to defy gravity"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/7/78/Dracula_Comic.jpg",
-    "width": "223",
-    "height": "302"
-  },
-  "pageviews": 13091
+  "realName": "Vlad Țepeș Dracula",
+  "species": [
+    "Vampire"
+  ],
+  "teams": [
+    "Vampires",
+    "Legion of the Unliving",
+    "Defenders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dracula_(Marvel_Comics)"
 }

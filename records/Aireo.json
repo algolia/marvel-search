@@ -1,23 +1,27 @@
 {
-  "name": "Aireo",
-  "url": "https://en.wikipedia.org/wiki/Aireo",
-  "realName": "Aireo",
+  "aliases": "Skybreaker",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+  },
+  "name": "Aireo",
+  "pageviews": 1433,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Aerokinesis (Air/Wind Manipulation)",
+    "Flight"
+  ],
+  "realName": "Aireo",
+  "species": [
   ],
   "teams": [
     "Inhumans",
     "Force of Nature"
   ],
-  "aliases": "Skybreaker",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Aerokinesis (Air/Wind Manipulation)",
-    "Flight"
-  ],
-  "image": {},
-  "pageviews": 1433
+  "url": "https://en.wikipedia.org/wiki/Aireo"
 }

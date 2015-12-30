@@ -1,22 +1,26 @@
 {
-  "name": "Zaran",
-  "url": "https://en.wikipedia.org/wiki/Zaran",
-  "realName": "Maximillian Zaran",
+  "aliases": "The Weapons Master",
   "creators": [
     "Mike Zeck"
+  ],
+  "image": {
+  },
+  "name": "Zaran",
+  "pageviews": 939,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Expert armed/unarmed combatant",
+    "Extensive knowledge of weapons"
+  ],
+  "realName": "Maximillian Zaran",
+  "species": [
   ],
   "teams": [
     "Thunderbolts",
     "Batroc's Brigade"
   ],
-  "aliases": "The Weapons Master",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Expert armed/unarmed combatant",
-    "Extensive knowledge of weapons"
-  ],
-  "image": {},
-  "pageviews": 939
+  "url": "https://en.wikipedia.org/wiki/Zaran"
 }

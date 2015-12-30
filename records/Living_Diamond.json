@@ -1,22 +1,27 @@
 {
-  "name": "Living Diamond",
-  "url": "https://en.wikipedia.org/wiki/Living_Diamond",
-  "realName": "Jack Winters",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Werner Roth"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Living Diamond",
+  "pageviews": 500,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Telepathy",
     "Perspicuity (resistance to psychic attack)",
     "Diamond Form (in normal form it only extended to the hands)",
     "Teleportation (perhaps lost)"
   ],
-  "image": {},
-  "pageviews": 500
+  "realName": "Jack Winters",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Living_Diamond"
 }

@@ -1,13 +1,15 @@
 {
-  "name": "Malekith the Accursed",
-  "url": "https://en.wikipedia.org/wiki/Malekith_the_Accursed",
-  "realName": "Malekith",
+  "aliases": "Angel, Master of the Hounds, Malcolm Keith, Dark Elf, Balder",
   "creators": [
     "Walt Simonson"
   ],
-  "teams": [],
-  "aliases": "Angel, Master of the Hounds, Malcolm Keith, Dark Elf, Balder",
-  "species": [],
+  "image": {
+    "height": "336",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Malekith_the_Accursed_Profile.jpg/250px-Malekith_the_Accursed_Profile.jpg",
+    "width": "250"
+  },
+  "name": "Malekith the Accursed",
+  "pageviews": 22642,
   "partners": [
     "Loki",
     "Surtur"
@@ -25,10 +27,10 @@
     "Wields Dark Faerie magic",
     "Ability to summon the Wild Hunt"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Malekith_the_Accursed_Profile.jpg/250px-Malekith_the_Accursed_Profile.jpg",
-    "width": "250",
-    "height": "336"
-  },
-  "pageviews": 22642
+  "realName": "Malekith",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Malekith_the_Accursed"
 }

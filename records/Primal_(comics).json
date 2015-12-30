@@ -1,30 +1,32 @@
 {
-  "name": "Primal",
-  "url": "https://en.wikipedia.org/wiki/Primal_(comics)",
-  "realName": "Teon Macik",
+  "aliases": "The Fourth Light, The Modern Primitive, Instinct",
   "creators": [
     "Matt Fraction",
     "Kieron Gillen"
+  ],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/4a/XMEN-Primal.jpg",
+    "width": "250"
+  },
+  "name": "Primal",
+  "pageviews": 1551,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman physical ability",
+    "Hyperinstinct"
+  ],
+  "realName": "Teon Macik",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "The Lights",
     "X-Men",
     "Jean Grey School Students"
   ],
-  "aliases": "The Fourth Light, The Modern Primitive, Instinct",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman physical ability",
-    "Hyperinstinct"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4a/XMEN-Primal.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 1551
+  "url": "https://en.wikipedia.org/wiki/Primal_(comics)"
 }

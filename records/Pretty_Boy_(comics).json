@@ -1,26 +1,29 @@
 {
-  "name": "Pretty Boy",
-  "url": "https://en.wikipedia.org/wiki/Pretty_Boy_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Marc Silvestri"
   ],
-  "teams": [
-    "Reavers"
+  "image": {
+    "height": "154",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/84/PrettyBoyReavers.jpg",
+    "width": "138"
+  },
+  "name": "Pretty Boy",
+  "pageviews": 968,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Cybernetic body",
     "Robotic weaponry."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/84/PrettyBoyReavers.jpg",
-    "width": "138",
-    "height": "154"
-  },
-  "pageviews": 968
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Reavers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Pretty_Boy_(comics)"
 }

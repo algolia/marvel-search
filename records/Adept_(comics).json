@@ -1,27 +1,30 @@
 {
-  "name": "Adept",
-  "url": "https://en.wikipedia.org/wiki/Adept_(comics)",
-  "realName": "Jelene Anderson",
+  "aliases": "",
   "creators": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "teams": [
-    "Strikeforce: Morituri"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/Adept_Morituri.jpg",
+    "width": "246"
+  },
+  "name": "Adept",
+  "pageviews": 476,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Hyper-invention/ hyper-intelligence",
     "Chemical mimicry/ creation",
     "Enhanced strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/Adept_Morituri.jpg",
-    "width": "246",
-    "height": "450"
-  },
-  "pageviews": 476
+  "realName": "Jelene Anderson",
+  "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Adept_(comics)"
 }

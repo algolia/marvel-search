@@ -1,26 +1,17 @@
 {
-  "name": "Black Widow",
-  "url": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)",
-  "realName": "Natalia Alianovna \"Natasha\" Romanova",
+  "aliases": "Natalie Rushman, Laura Matthers, Mary Farrell, Natasha Romanoff, Oktober, Yelena Belova",
   "creators": [
     "Stan Lee",
     "Don Rico",
     "Don Heck"
   ],
-  "teams": [
-    "S.H.I.E.L.D.",
-    "Avengers",
-    "Champions",
-    "KGB",
-    "Marvel Knights",
-    "Mighty Avengers",
-    "Lady Liberators",
-    "Thunderbolts",
-    "Secret Avengers",
-    "Heroes for Hire"
-  ],
-  "aliases": "Natalie Rushman, Laura Matthers, Mary Farrell, Natasha Romanoff, Oktober, Yelena Belova",
-  "species": [],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Black_Widow_1.jpg/250px-Black_Widow_1.jpg",
+    "width": "250"
+  },
+  "name": "Black Widow",
+  "pageviews": 43082,
   "partners": [
     "Daredevil",
     "Hawkeye",
@@ -45,10 +36,20 @@
     "tear gas pellets",
     "radio transmitter"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Black_Widow_1.jpg/250px-Black_Widow_1.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 43082
+  "realName": "Natalia Alianovna \"Natasha\" Romanova",
+  "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Avengers",
+    "Champions",
+    "KGB",
+    "Marvel Knights",
+    "Mighty Avengers",
+    "Lady Liberators",
+    "Thunderbolts",
+    "Secret Avengers",
+    "Heroes for Hire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
 }

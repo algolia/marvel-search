@@ -1,17 +1,23 @@
 {
-  "name": "Crime Master I",
-  "url": "https://en.wikipedia.org/wiki/Crime_Master",
-  "realName": "Nicholas \"Nick\" \"Lucky\" Lewis",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 1700
+  "image": {
+  },
+  "name": "Crime Master I",
+  "pageviews": 1700,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Nicholas \"Nick\" \"Lucky\" Lewis",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Crime_Master"
 }

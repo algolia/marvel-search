@@ -1,19 +1,15 @@
 {
-  "name": "Wild Thing",
-  "url": "https://en.wikipedia.org/wiki/Wild_Thing_(comics)",
-  "realName": "Rina Logan",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Ron Lim"
   ],
-  "teams": [
-    "X-People"
+  "image": {
+  },
+  "name": "Wild Thing",
+  "pageviews": 3082,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "healing factor",
     "Psionic"
@@ -31,6 +27,12 @@
     "Regenerative healing factor",
     "Psionic claws"
   ],
-  "image": {},
-  "pageviews": 3082
+  "realName": "Rina Logan",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-People"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wild_Thing_(comics)"
 }

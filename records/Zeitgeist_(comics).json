@@ -1,23 +1,26 @@
 {
-  "name": "Zeitgeist",
-  "url": "https://en.wikipedia.org/wiki/Zeitgeist_(comics)",
-  "realName": "Axel Cluney",
+  "aliases": "",
   "creators": [
     "Peter Milligan",
     "Mike Allred"
   ],
-  "teams": [
-    "X-Force"
+  "image": {
+  },
+  "name": "Zeitgeist",
+  "pageviews": 1100,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "can spew acidic vomit."
   ],
-  "image": {},
-  "pageviews": 1100
+  "realName": "Axel Cluney",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Zeitgeist_(comics)"
 }

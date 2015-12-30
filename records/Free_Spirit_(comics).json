@@ -1,26 +1,29 @@
 {
-  "name": "Free Spirit",
-  "url": "https://en.wikipedia.org/wiki/Free_Spirit_(comics)",
-  "realName": "Cathy Webster",
+  "aliases": "Coachwhip",
   "creators": [
     "Mark Gruenwald",
     "Dave Hoover"
   ],
-  "teams": [],
-  "aliases": "Coachwhip",
-  "species": [],
+  "image": {
+    "height": "302",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Freespiritmu0.jpg/200px-Freespiritmu0.jpg",
+    "width": "200"
+  },
+  "name": "Free Spirit",
+  "pageviews": 2010,
   "partners": [
     "Captain America"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Peak human strength",
     "stamina and physical resistance"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Freespiritmu0.jpg/200px-Freespiritmu0.jpg",
-    "width": "200",
-    "height": "302"
-  },
-  "pageviews": 2010
+  "realName": "Cathy Webster",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Free_Spirit_(comics)"
 }

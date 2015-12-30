@@ -1,18 +1,20 @@
 {
-  "name": "Bushmaster",
-  "url": "https://en.wikipedia.org/wiki/Bushmaster_(Marvel_Comics)",
-  "realName": "John McIver",
+  "aliases": "John Bushmaster, Power Master",
   "creators": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "teams": [
-    "Maggia"
+  "image": {
+    "height": "401",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d5/Bushmaster_Avengers_vs_XMen.jpg",
+    "width": "250"
+  },
+  "name": "Bushmaster",
+  "pageviews": 3222,
+  "partners": [
   ],
-  "aliases": "John Bushmaster, Power Master",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(As Bushmaster):",
     "Skilled street fighter",
@@ -20,10 +22,11 @@
     "(As Power Master):",
     "Energy absorption"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d5/Bushmaster_Avengers_vs_XMen.jpg",
-    "width": "250",
-    "height": "401"
-  },
-  "pageviews": 3222
+  "realName": "John McIver",
+  "species": [
+  ],
+  "teams": [
+    "Maggia"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bushmaster_(Marvel_Comics)"
 }

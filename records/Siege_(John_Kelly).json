@@ -1,21 +1,17 @@
 {
-  "name": "Siege",
-  "url": "https://en.wikipedia.org/wiki/Siege_(John_Kelly)",
-  "realName": "John Kelly",
+  "aliases": "Deathlok",
   "creators": [
     "Dwayne McDuffie",
     "Gregory Wright"
   ],
-  "teams": [
-    "S.H.I.E.L.D.",
-    "Fifty State Initiative"
+  "image": {
+  },
+  "name": "Siege",
+  "pageviews": 936,
+  "partners": [
   ],
-  "aliases": "Deathlok",
-  "species": [
-    "Cyborg"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "superhuman durability",
@@ -23,6 +19,13 @@
     "variety of weapons systems and sensor arrays built into his body",
     "vast library of information stored in his information databanks"
   ],
-  "image": {},
-  "pageviews": 936
+  "realName": "John Kelly",
+  "species": [
+    "Cyborg"
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Fifty State Initiative"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Siege_(John_Kelly)"
 }

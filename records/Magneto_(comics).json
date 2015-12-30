@@ -1,10 +1,29 @@
 {
-  "name": "Magneto",
-  "url": "https://en.wikipedia.org/wiki/Magneto_(comics)",
-  "realName": "Max Eisenhardt",
+  "aliases": "Magnus,",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "353",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/MagnetoYardin.png/250px-MagnetoYardin.png",
+    "width": "250"
+  },
+  "name": "Magneto",
+  "pageviews": 76623,
+  "partners": [
+  ],
+  "powers": [
+    "Magnetism"
+  ],
+  "powersText": [
+    "Magnetism manipulation and generation of magnetic force fields",
+    "Flight through magnetic fields",
+    "Helmet shields against telepathic attacks"
+  ],
+  "realName": "Max Eisenhardt",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Brotherhood of Evil Mutants",
@@ -17,23 +36,5 @@
     "Savage Land Mutates",
     "Astonishing Avengers"
   ],
-  "aliases": "Magnus,",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "Magnetism"
-  ],
-  "powersText": [
-    "Magnetism manipulation and generation of magnetic force fields",
-    "Flight through magnetic fields",
-    "Helmet shields against telepathic attacks"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/MagnetoYardin.png/250px-MagnetoYardin.png",
-    "width": "250",
-    "height": "353"
-  },
-  "pageviews": 76623
+  "url": "https://en.wikipedia.org/wiki/Magneto_(comics)"
 }

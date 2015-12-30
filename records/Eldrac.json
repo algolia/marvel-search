@@ -1,23 +1,26 @@
 {
-  "name": "Eldrac",
-  "url": "https://en.wikipedia.org/wiki/Eldrac",
-  "realName": null,
+  "aliases": "Eldrac the Door",
   "creators": [
     "Jonathan Hickman",
     "Dale Eaglesham"
   ],
-  "teams": [
-    "Inhumans"
+  "image": {
+  },
+  "name": "Eldrac",
+  "pageviews": 1542,
+  "partners": [
   ],
-  "aliases": "Eldrac the Door",
-  "species": [
-    "Inhuman"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Can teleport anyone"
   ],
-  "image": {},
-  "pageviews": 1542
+  "realName": null,
+  "species": [
+    "Inhuman"
+  ],
+  "teams": [
+    "Inhumans"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Eldrac"
 }

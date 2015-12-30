@@ -1,26 +1,30 @@
 {
-  "name": "Bushwacker",
-  "url": "https://en.wikipedia.org/wiki/Bushwacker_(comics)",
-  "realName": "Carl Burbank",
+  "aliases": "",
   "creators": [
     "Ann Nocenti",
     "Rick Leonardi"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Daredevil_cover_-_number_335.jpg/250px-Daredevil_cover_-_number_335.jpg",
+    "width": "250"
+  },
+  "name": "Bushwacker",
+  "pageviews": 2815,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Trained assassin",
     "hand to hand combatant and infiltrator",
     "Familiarity with the workings of international intelligence agencies and their methods",
     "Ability to reshape cybernetic arms into various ballistic weapons and a flamethrower"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Daredevil_cover_-_number_335.jpg/250px-Daredevil_cover_-_number_335.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 2815
+  "realName": "Carl Burbank",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bushwacker_(comics)"
 }

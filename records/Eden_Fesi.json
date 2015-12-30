@@ -1,20 +1,18 @@
 {
-  "name": "Manifold",
-  "url": "https://en.wikipedia.org/wiki/Eden_Fesi",
-  "realName": "Eden Fesi",
+  "aliases": "",
   "creators": [
     "Jonathan Hickman",
     "Stefano Caselli"
   ],
-  "teams": [
-    "Secret Warriors",
-    "Avengers"
+  "image": {
+    "height": "438",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/c1/Eden_Fesi_AvengersVol5No5_Variant.jpg",
+    "width": "250"
+  },
+  "name": "Manifold",
+  "pageviews": 5936,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "teleport"
   ],
@@ -22,10 +20,13 @@
     "Bending reality",
     "allowing him to teleport"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/c1/Eden_Fesi_AvengersVol5No5_Variant.jpg",
-    "width": "250",
-    "height": "438"
-  },
-  "pageviews": 5936
+  "realName": "Eden Fesi",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Secret Warriors",
+    "Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Eden_Fesi"
 }

@@ -1,25 +1,29 @@
 {
-  "name": "Freedom Ring",
-  "url": "https://en.wikipedia.org/wiki/Freedom_Ring",
-  "realName": "Curtis Doyle",
+  "aliases": "",
   "creators": [
     "Robert Kirkman"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "402",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Freedomring.png/150px-Freedomring.png",
+    "width": "150"
+  },
+  "name": "Freedom Ring",
+  "pageviews": 849,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
     "stamina and durability",
     "Reality manipulation via cosmic powered ring"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Freedomring.png/150px-Freedomring.png",
-    "width": "150",
-    "height": "402"
-  },
-  "pageviews": 849
+  "realName": "Curtis Doyle",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Freedom_Ring"
 }

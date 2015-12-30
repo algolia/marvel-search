@@ -1,24 +1,28 @@
 {
-  "name": "Mettle",
-  "url": "https://en.wikipedia.org/wiki/Mettle_(comics)",
-  "realName": "Ken Mack",
+  "aliases": "Fortress",
   "creators": [
     "Christos Gage",
     "Mike McKone"
   ],
-  "teams": [
-    "Avengers Academy"
+  "image": {
+  },
+  "name": "Mettle",
+  "pageviews": 2180,
+  "partners": [
   ],
-  "aliases": "Fortress",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Experienced surfer",
     "Iridium body grants:",
     "Superhuman strength and durability",
     "Virtual indestructibility"
   ],
-  "image": {},
-  "pageviews": 2180
+  "realName": "Ken Mack",
+  "species": [
+  ],
+  "teams": [
+    "Avengers Academy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mettle_(comics)"
 }

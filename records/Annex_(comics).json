@@ -1,28 +1,31 @@
 {
-  "name": "Annex",
-  "url": "https://en.wikipedia.org/wiki/Annex_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Jack C. Harris",
     "Tom Lyle"
   ],
-  "teams": [
-    "Initiative"
+  "image": {
+    "height": "329",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Annex_%28Marvel_Comics_character%29.jpg/250px-Annex_%28Marvel_Comics_character%29.jpg",
+    "width": "250"
+  },
+  "name": "Annex",
+  "pageviews": 1060,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "superhuman athletic ability",
     "weapon creation",
     "flight",
     "informational downloading methods"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Annex_%28Marvel_Comics_character%29.jpg/250px-Annex_%28Marvel_Comics_character%29.jpg",
-    "width": "250",
-    "height": "329"
-  },
-  "pageviews": 1060
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Initiative"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Annex_(comics)"
 }

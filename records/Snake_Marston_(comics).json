@@ -1,23 +1,27 @@
 {
-  "name": "Snake Marston",
-  "url": "https://en.wikipedia.org/wiki/Snake_Marston_(comics)",
-  "realName": "Sylvester Marston",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Steve Ditko"
+  ],
+  "image": {
+  },
+  "name": "Snake Marston",
+  "pageviews": 532,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "human contortionist"
+  ],
+  "realName": "Sylvester Marston",
+  "species": [
   ],
   "teams": [
     "Thunderbolts",
     "Satan Squad",
     "Enforcers"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "human contortionist"
-  ],
-  "image": {},
-  "pageviews": 532
+  "url": "https://en.wikipedia.org/wiki/Snake_Marston_(comics)"
 }

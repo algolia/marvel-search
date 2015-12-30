@@ -1,20 +1,25 @@
 {
-  "name": "Occulus",
-  "url": "https://en.wikipedia.org/wiki/Occulus",
-  "realName": "Occulus",
+  "aliases": "the Unforgiving One<br/>Doc Occulus",
   "creators": [
     "Tom DeFalco",
     "Paul Ryan"
   ],
-  "teams": [],
-  "aliases": "the Unforgiving One<br/>Doc Occulus",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Occulus",
+  "pageviews": 1350,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "can form force fields",
     "project energy blasts and detect various forms of energy."
   ],
-  "image": {},
-  "pageviews": 1350
+  "realName": "Occulus",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Occulus"
 }

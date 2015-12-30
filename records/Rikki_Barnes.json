@@ -1,26 +1,29 @@
 {
-  "name": "Rikki Barnes",
-  "url": "https://en.wikipedia.org/wiki/Rikki_Barnes",
-  "realName": "",
+  "aliases": "Bucky Nomad , Rikki Baines",
   "creators": [
     "Jeph Loeb",
     "Rob Liefeld"
+  ],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Nomad_Girl_Without_a_World_1.jpg/250px-Nomad_Girl_Without_a_World_1.jpg",
+    "width": "250"
+  },
+  "name": "Rikki Barnes",
+  "pageviews": 3299,
+  "partners": [
+    "Captain America"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "",
+  "species": [
   ],
   "teams": [
     "Young Allies (Counter-Earth)",
     "Young Allies (Heroic Age)"
   ],
-  "aliases": "Bucky Nomad , Rikki Baines",
-  "species": [],
-  "partners": [
-    "Captain America"
-  ],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Nomad_Girl_Without_a_World_1.jpg/250px-Nomad_Girl_Without_a_World_1.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 3299
+  "url": "https://en.wikipedia.org/wiki/Rikki_Barnes"
 }

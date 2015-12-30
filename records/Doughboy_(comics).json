@@ -1,21 +1,26 @@
 {
-  "name": "Doughboy",
-  "url": "https://en.wikipedia.org/wiki/Doughboy_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Doughboy",
+  "pageviews": 927,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Super-Strength",
     "Durability",
     "Agility",
     "Malleable Body"
   ],
-  "image": {},
-  "pageviews": 927
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Doughboy_(comics)"
 }

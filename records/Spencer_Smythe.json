@@ -1,26 +1,29 @@
 {
-  "name": "Spencer Smythe",
-  "url": "https://en.wikipedia.org/wiki/Spencer_Smythe",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human"
+  "image": {
+    "height": "254",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/SpiderSlayers.jpg/220px-SpiderSlayers.jpg",
+    "width": "220"
+  },
+  "name": "Spencer Smythe",
+  "pageviews": 2518,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Robotics",
     "Arachnid expert"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/SpiderSlayers.jpg/220px-SpiderSlayers.jpg",
-    "width": "220",
-    "height": "254"
-  },
-  "pageviews": 2518
+  "realName": null,
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spencer_Smythe"
 }

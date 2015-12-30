@@ -1,9 +1,27 @@
 {
-  "name": "Micromax",
-  "url": "https://en.wikipedia.org/wiki/Micromax",
-  "realName": "Scott Wright",
+  "aliases": "Mr. Right",
   "creators": [
     "Alan Davis"
+  ],
+  "image": {
+    "height": "204",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Micromax.jpg/250px-Micromax.jpg",
+    "width": "250"
+  },
+  "name": "Micromax",
+  "pageviews": 11690,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Mass and size manipulation",
+    "Strength proportionate to size",
+    "Limited shapeshifting"
+  ],
+  "realName": "Scott Wright",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "MI-13",
@@ -12,21 +30,5 @@
     "R.C.X.",
     "MI16"
   ],
-  "aliases": "Mr. Right",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Mass and size manipulation",
-    "Strength proportionate to size",
-    "Limited shapeshifting"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Micromax.jpg/250px-Micromax.jpg",
-    "width": "250",
-    "height": "204"
-  },
-  "pageviews": 11690
+  "url": "https://en.wikipedia.org/wiki/Micromax"
 }

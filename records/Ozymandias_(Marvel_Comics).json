@@ -1,26 +1,29 @@
 {
-  "name": "Ozymandias",
-  "url": "https://en.wikipedia.org/wiki/Ozymandias_(Marvel_Comics)",
-  "realName": "Ozymandias",
+  "aliases": "",
   "creators": [
     "Joe Madureira"
   ],
-  "teams": [
-    "Clan Akkaba"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/01/OzymandiasMarvel1.png",
+    "width": "203"
+  },
+  "name": "Ozymandias",
+  "pageviews": 19863,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Psychic powers",
     "Immortality",
     "Superhuman durability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/01/OzymandiasMarvel1.png",
-    "width": "203",
-    "height": "375"
-  },
-  "pageviews": 19863
+  "realName": "Ozymandias",
+  "species": [
+  ],
+  "teams": [
+    "Clan Akkaba"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ozymandias_(Marvel_Comics)"
 }

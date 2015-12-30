@@ -1,23 +1,27 @@
 {
-  "name": "Jackhammer",
-  "url": "https://en.wikipedia.org/wiki/Jackhammer_(comics)",
-  "realName": "Matthew Banham",
+  "aliases": "",
   "creators": [
     "Tony Isabella",
     "Bob Brown"
+  ],
+  "image": {
+  },
+  "name": "Jackhammer",
+  "pageviews": 672,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "super-strength."
+  ],
+  "realName": "Matthew Banham",
+  "species": [
   ],
   "teams": [
     "HYDRA",
     "Power Tools",
     "Masters of Evil"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "super-strength."
-  ],
-  "image": {},
-  "pageviews": 672
+  "url": "https://en.wikipedia.org/wiki/Jackhammer_(comics)"
 }

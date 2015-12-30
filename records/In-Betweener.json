@@ -1,13 +1,15 @@
 {
-  "name": "In-Betweener",
-  "url": "https://en.wikipedia.org/wiki/In-Betweener",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Jim Starlin"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "383",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Galanvsinbetween-silver-surfer_400.jpg/250px-Galanvsinbetween-silver-surfer_400.jpg",
+    "width": "250"
+  },
+  "name": "In-Betweener",
+  "pageviews": 5780,
   "partners": [
     "Lord Chaos",
     "Master Order"
@@ -19,10 +21,10 @@
     "Immortality",
     "Reality alteration and manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Galanvsinbetween-silver-surfer_400.jpg/250px-Galanvsinbetween-silver-surfer_400.jpg",
-    "width": "250",
-    "height": "383"
-  },
-  "pageviews": 5780
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/In-Betweener"
 }

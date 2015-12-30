@@ -1,17 +1,18 @@
 {
-  "name": "Jack Frost",
-  "url": "https://en.wikipedia.org/wiki/Jack_Frost_(Marvel_Comics)",
-  "realName": "unrevealed<br><small> (possibly Jack Frost)</small>",
+  "aliases": "The God in the Ice",
   "creators": [
     "Stan Lee",
     "Frank Giacoia"
   ],
-  "teams": [
-    "Liberty Legion"
+  "image": {
+    "height": "354",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/JackFrost_Marvel.jpg/150px-JackFrost_Marvel.jpg",
+    "width": "150"
+  },
+  "name": "Jack Frost",
+  "pageviews": 2871,
+  "partners": [
   ],
-  "aliases": "The God in the Ice",
-  "species": [],
-  "partners": [],
   "powers": [
     "Cold and ice manipulation"
   ],
@@ -19,10 +20,11 @@
     "Cold and ice manipulation",
     "Superhuman stamina and durability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/JackFrost_Marvel.jpg/150px-JackFrost_Marvel.jpg",
-    "width": "150",
-    "height": "354"
-  },
-  "pageviews": 2871
+  "realName": "unrevealed<br><small> (possibly Jack Frost)</small>",
+  "species": [
+  ],
+  "teams": [
+    "Liberty Legion"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jack_Frost_(Marvel_Comics)"
 }

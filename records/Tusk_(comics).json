@@ -1,25 +1,28 @@
 {
-  "name": "Tusk",
-  "url": "https://en.wikipedia.org/wiki/Tusk_(comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Jim Lee",
     "Chris Claremont",
     "Whilce Portacio"
   ],
-  "teams": [
-    "Dark Riders"
+  "image": {
+  },
+  "name": "Tusk",
+  "pageviews": 1604,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Inhuman"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Generation of miniature genetic duplicates",
     "Superhuman strength"
   ],
-  "image": {},
-  "pageviews": 1604
+  "realName": "",
+  "species": [
+    "Inhuman"
+  ],
+  "teams": [
+    "Dark Riders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tusk_(comics)"
 }

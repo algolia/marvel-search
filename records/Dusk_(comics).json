@@ -1,14 +1,16 @@
 {
-  "name": "Dusk",
-  "url": "https://en.wikipedia.org/wiki/Dusk_(comics)",
-  "realName": "Cassie St. Commons",
-  "creators": [],
-  "teams": [
-    "Slingers"
-  ],
   "aliases": "",
-  "species": [],
-  "partners": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "250",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/DuskCassie.jpg/250px-DuskCassie.jpg",
+    "width": "250"
+  },
+  "name": "Dusk",
+  "pageviews": 2217,
+  "partners": [
+  ],
   "powers": [
     "Teleportation",
     "Darkforce",
@@ -21,10 +23,11 @@
     "Regenerative healing factor",
     "Clairvoyance"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/DuskCassie.jpg/250px-DuskCassie.jpg",
-    "width": "250",
-    "height": "250"
-  },
-  "pageviews": 2217
+  "realName": "Cassie St. Commons",
+  "species": [
+  ],
+  "teams": [
+    "Slingers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dusk_(comics)"
 }

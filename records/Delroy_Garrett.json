@@ -1,25 +1,18 @@
 {
-  "name": "Delroy Garrett",
-  "url": "https://en.wikipedia.org/wiki/Delroy_Garrett",
-  "realName": "Delroy Garrett, Jr.",
+  "aliases": "Triathlon, 3-D Man",
   "creators": [
     "Kurt Busiek",
     "George Pérez"
   ],
-  "teams": [
-    "Skrull Kill Krew",
-    "The Initiative",
-    "Point Men",
-    "Avengers",
-    "Triune Understanding",
-    "Agents of Atlas",
-    "Astonishing Avengers"
+  "image": {
+    "height": "361",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/ce/Ati_si_16.jpg",
+    "width": "250"
+  },
+  "name": "Delroy Garrett",
+  "pageviews": 2364,
+  "partners": [
   ],
-  "aliases": "Triathlon, 3-D Man",
-  "species": [
-    "Human Mutate"
-  ],
-  "partners": [],
   "powers": [
     "possessions"
   ],
@@ -37,10 +30,18 @@
     "possessions",
     "etc."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/ce/Ati_si_16.jpg",
-    "width": "250",
-    "height": "361"
-  },
-  "pageviews": 2364
+  "realName": "Delroy Garrett, Jr.",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+    "Skrull Kill Krew",
+    "The Initiative",
+    "Point Men",
+    "Avengers",
+    "Triune Understanding",
+    "Agents of Atlas",
+    "Astonishing Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Delroy_Garrett"
 }

@@ -1,10 +1,26 @@
 {
-  "name": "Diamondback",
-  "url": "https://en.wikipedia.org/wiki/Diamondback_(comics)",
-  "realName": "Rachel Leighton",
+  "aliases": "Diamond Girl<br>Snapdragon",
   "creators": [
     "Mark Gruenwald",
     "Paul Neary"
+  ],
+  "image": {
+    "height": "372",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/05/Diamondbackwiki.jpg",
+    "width": "250"
+  },
+  "name": "Diamondback",
+  "pageviews": 17086,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Skilled in throwing sharp diamond tips",
+    "Skilled gymnast"
+  ],
+  "realName": "Rachel Leighton",
+  "species": [
   ],
   "teams": [
     "Avengers Resistance",
@@ -14,18 +30,5 @@
     "Femizons",
     "S.H.I.E.L.D."
   ],
-  "aliases": "Diamond Girl<br>Snapdragon",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Skilled in throwing sharp diamond tips",
-    "Skilled gymnast"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/05/Diamondbackwiki.jpg",
-    "width": "250",
-    "height": "372"
-  },
-  "pageviews": 17086
+  "url": "https://en.wikipedia.org/wiki/Diamondback_(comics)"
 }

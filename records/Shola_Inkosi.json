@@ -1,19 +1,15 @@
 {
-  "name": "Shola Inkosi",
-  "url": "https://en.wikipedia.org/wiki/Shola_Inkosi",
-  "realName": "Shola Inkosi",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Juan Bobillo"
   ],
-  "teams": [
-    "Genoshan Excalibur"
+  "image": {
+  },
+  "name": "Shola Inkosi",
+  "pageviews": 478,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Telekinesis",
     "Telepathy"
@@ -22,6 +18,12 @@
     "Telekinesis",
     "low-level Telepathy"
   ],
-  "image": {},
-  "pageviews": 478
+  "realName": "Shola Inkosi",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Genoshan Excalibur"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shola_Inkosi"
 }

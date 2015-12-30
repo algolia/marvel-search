@@ -1,17 +1,18 @@
 {
-  "name": "Mercy",
-  "url": "https://en.wikipedia.org/wiki/Mercy_(comics)",
-  "realName": "Abigail Mercy Wright",
+  "aliases": "Angel of Mercy",
   "creators": [
     "Peter David",
     "Todd McFarlane"
   ],
-  "teams": [
-    "Thunderbolts"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Mercyhulk.jpg/249px-Mercyhulk.jpg",
+    "width": "249"
+  },
+  "name": "Mercy",
+  "pageviews": 2649,
+  "partners": [
   ],
-  "aliases": "Angel of Mercy",
-  "species": [],
-  "partners": [],
   "powers": [
     "Flight",
     "Teleportation",
@@ -30,10 +31,11 @@
     "Astral projection",
     "Extrasensory perceptions"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Mercyhulk.jpg/249px-Mercyhulk.jpg",
-    "width": "249",
-    "height": "380"
-  },
-  "pageviews": 2649
+  "realName": "Abigail Mercy Wright",
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mercy_(comics)"
 }

@@ -1,17 +1,18 @@
 {
-  "name": "Proteus",
-  "url": "https://en.wikipedia.org/wiki/Proteus_(Marvel_Comics)",
-  "realName": "Kevin MacTaggert",
+  "aliases": "Mutant X",
   "creators": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "teams": [],
-  "aliases": "Mutant X",
-  "species": [
-    "Human Mutant"
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Proteus.PNG/250px-Proteus.PNG",
+    "width": "250"
+  },
+  "name": "Proteus",
+  "pageviews": 7895,
+  "partners": [
   ],
-  "partners": [],
   "powers": [
     "Reality warping",
     "Body possession"
@@ -21,10 +22,11 @@
     "Body possession",
     "Psionic energy composition"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Proteus.PNG/250px-Proteus.PNG",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 7895
+  "realName": "Kevin MacTaggert",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Proteus_(Marvel_Comics)"
 }

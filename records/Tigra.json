@@ -1,7 +1,5 @@
 {
-  "name": "Tigra",
-  "url": "https://en.wikipedia.org/wiki/Tigra",
-  "realName": "Greer Grant Nelson",
+  "aliases": "The Cat, Greer Sorenson, The Werecat, Werewoman",
   "creators": [
     "Wally Wood",
     "Tony Isabella",
@@ -9,6 +7,27 @@
     "Gil Kane",
     "Don Perlin",
     "John Romita, Sr."
+  ],
+  "image": {
+    "height": "197",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Tigra4.jpg/250px-Tigra4.jpg",
+    "width": "250"
+  },
+  "name": "Tigra",
+  "pageviews": 19091,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman strength",
+    "speed",
+    "senses and agility",
+    "Retractable claws",
+    "Limited mystical abilities"
+  ],
+  "realName": "Greer Grant Nelson",
+  "species": [
   ],
   "teams": [
     "Avengers Resistance",
@@ -20,21 +39,5 @@
     "New Warriors",
     "Fearless Defenders"
   ],
-  "aliases": "The Cat, Greer Sorenson, The Werecat, Werewoman",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman strength",
-    "speed",
-    "senses and agility",
-    "Retractable claws",
-    "Limited mystical abilities"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Tigra4.jpg/250px-Tigra4.jpg",
-    "width": "250",
-    "height": "197"
-  },
-  "pageviews": 19091
+  "url": "https://en.wikipedia.org/wiki/Tigra"
 }

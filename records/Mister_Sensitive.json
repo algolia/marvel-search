@@ -1,21 +1,20 @@
 {
-  "name": "Mister Sensitive",
-  "url": "https://en.wikipedia.org/wiki/Mister_Sensitive",
-  "realName": "Guy Smith",
+  "aliases": "Orphan",
   "creators": [
     "Peter Milligan",
     "Mike Allred"
   ],
-  "teams": [
-    "X-Force",
-    "X-Statix"
+  "image": {
+    "height": "315",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Xforce117.jpg/225px-Xforce117.jpg",
+    "width": "225"
+  },
+  "name": "Mister Sensitive",
+  "pageviews": 1117,
+  "partners": [
   ],
-  "aliases": "Orphan",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Super-human senses",
     "reflexes/reactions",
@@ -23,10 +22,13 @@
     "mastery of martial arts",
     "levitation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Xforce117.jpg/225px-Xforce117.jpg",
-    "width": "225",
-    "height": "315"
-  },
-  "pageviews": 1117
+  "realName": "Guy Smith",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Force",
+    "X-Statix"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mister_Sensitive"
 }

@@ -1,21 +1,18 @@
 {
-  "name": "Daisy Johnson",
-  "url": "https://en.wikipedia.org/wiki/Daisy_Johnson",
-  "realName": null,
+  "aliases": "Quake, Cory Sutter, Gabrielle Wewer, Skye",
   "creators": [
     "Brian Michael Bendis",
     "Gabriele Dell'Otto"
   ],
-  "teams": [
-    "Secret Warriors",
-    "S.H.I.E.L.D.",
-    "Avengers"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Secret_Warriors_22_textless.jpg/250px-Secret_Warriors_22_textless.jpg",
+    "width": "250"
+  },
+  "name": "Daisy Johnson",
+  "pageviews": 109488,
+  "partners": [
   ],
-  "aliases": "Quake, Cory Sutter, Gabrielle Wewer, Skye",
-  "species": [
-    "Inhuman"
-  ],
-  "partners": [],
   "powers": [
     "Earthquake generation"
   ],
@@ -24,10 +21,14 @@
     "Immunity to the harmful effects of the vibrations",
     "Psychic shielding"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Secret_Warriors_22_textless.jpg/250px-Secret_Warriors_22_textless.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 109488
+  "realName": null,
+  "species": [
+    "Inhuman"
+  ],
+  "teams": [
+    "Secret Warriors",
+    "S.H.I.E.L.D.",
+    "Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Daisy_Johnson"
 }

@@ -1,23 +1,27 @@
 {
-  "name": "Hippo",
-  "url": "https://en.wikipedia.org/wiki/Hippo_(comics)",
-  "realName": "",
+  "aliases": "Mrs. Fluffy Lumpkins",
   "creators": [
     "Brian Reed",
     "Chris Bachalo"
   ],
-  "teams": [],
-  "aliases": "Mrs. Fluffy Lumpkins",
-  "species": [
-    "Hippopotamus"
+  "image": {
+  },
+  "name": "Hippo",
+  "pageviews": 865,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "Hard hide",
     "Water adaptation"
   ],
-  "image": {},
-  "pageviews": 865
+  "realName": "",
+  "species": [
+    "Hippopotamus"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hippo_(comics)"
 }

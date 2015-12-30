@@ -1,26 +1,29 @@
 {
-  "name": "Helix",
-  "url": "https://en.wikipedia.org/wiki/Helix_(Marvel_Comics)",
-  "realName": "Rafael Carago",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Todd DeZago",
     "Ron Lim"
   ],
-  "teams": [
-    "New Warriors"
+  "image": {
+    "height": "344",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Helixnw.png/225px-Helixnw.png",
+    "width": "225"
+  },
+  "name": "Helix",
+  "pageviews": 460,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Reactive Adaptoid."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Helixnw.png/225px-Helixnw.png",
-    "width": "225",
-    "height": "344"
-  },
-  "pageviews": 460
+  "realName": "Rafael Carago",
+  "species": [
+  ],
+  "teams": [
+    "New Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Helix_(Marvel_Comics)"
 }

@@ -1,24 +1,28 @@
 {
-  "name": "Captain",
-  "url": "https://en.wikipedia.org/wiki/Captain_(comics)",
-  "realName": null,
+  "aliases": "Captain ☠☠☠☠, Captain Power Captain Ron , Captain L. Ron Captain Universe Captain Ultra , Captain Avenger , Captain Avalon Captain Marvel , Captain Kerosene",
   "creators": [
     "Warren Ellis",
     "Stuart Immonen"
   ],
-  "teams": [
-    "H.A.T.E.",
-    "Nextwave"
+  "image": {
+  },
+  "name": "Captain",
+  "pageviews": 1750,
+  "partners": [
   ],
-  "aliases": "Captain ☠☠☠☠, Captain Power Captain Ron , Captain L. Ron Captain Universe Captain Ultra , Captain Avenger , Captain Avalon Captain Marvel , Captain Kerosene",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "The generic powers of Superhuman strength",
     "endurance",
     "flight & enhanced sight"
   ],
-  "image": {},
-  "pageviews": 1750
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "H.A.T.E.",
+    "Nextwave"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Captain_(comics)"
 }

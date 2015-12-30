@@ -1,26 +1,29 @@
 {
-  "name": "Amphibion",
-  "url": "https://en.wikipedia.org/wiki/Amphibion",
-  "realName": "Qnax",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Xantarean"
+  "image": {
+    "height": "318",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Amphibion.jpg/250px-Amphibion.jpg",
+    "width": "250"
+  },
+  "name": "Amphibion",
+  "pageviews": 991,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "Ability to breathe underwater and on the surface"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Amphibion.jpg/250px-Amphibion.jpg",
-    "width": "250",
-    "height": "318"
-  },
-  "pageviews": 991
+  "realName": "Qnax",
+  "species": [
+    "Xantarean"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Amphibion"
 }

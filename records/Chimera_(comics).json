@@ -1,32 +1,33 @@
 {
-  "name": "Chimera",
-  "url": "https://en.wikipedia.org/wiki/Chimera_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Larry Hama",
     "Adam Kubert"
+  ],
+  "image": {
+    "height": "221",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/ChimeraX-Men.jpg/250px-ChimeraX-Men.jpg",
+    "width": "250"
+  },
+  "name": "Chimera",
+  "pageviews": 2326,
+  "partners": [
+    "Dirtnap",
+    "Emplate"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Generate telekinetic dragon-shaped flares",
+    "Telepathy"
+  ],
+  "realName": null,
+  "species": [
+    "Mutate"
   ],
   "teams": [
     "Sisterhood of Mutants",
     "Marauders"
   ],
-  "aliases": "",
-  "species": [
-    "Mutate"
-  ],
-  "partners": [
-    "Dirtnap",
-    "Emplate"
-  ],
-  "powers": [],
-  "powersText": [
-    "Generate telekinetic dragon-shaped flares",
-    "Telepathy"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/ChimeraX-Men.jpg/250px-ChimeraX-Men.jpg",
-    "width": "250",
-    "height": "221"
-  },
-  "pageviews": 2326
+  "url": "https://en.wikipedia.org/wiki/Chimera_(comics)"
 }

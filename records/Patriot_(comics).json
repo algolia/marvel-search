@@ -1,19 +1,20 @@
 {
-  "name": "Patriot",
-  "url": "https://en.wikipedia.org/wiki/Patriot_(comics)",
-  "realName": "Elijah \"Eli\" Bradley",
+  "aliases": "Lieutenant America",
   "creators": [
     "Allan Heinberg",
     "Jim Cheung"
   ],
-  "teams": [
-    "Young Avengers",
-    "\"Secret Avengers\" (Civil War)"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Patriotya.png",
+    "width": "225"
+  },
+  "name": "Patriot",
+  "pageviews": 6208,
+  "partners": [
   ],
-  "aliases": "Lieutenant America",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Enhanced strength",
     "speed",
@@ -23,10 +24,12 @@
     "healing and endurance",
     "Carries triangular shield and metallic throwing stars"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Patriotya.png",
-    "width": "225",
-    "height": "380"
-  },
-  "pageviews": 6208
+  "realName": "Elijah \"Eli\" Bradley",
+  "species": [
+  ],
+  "teams": [
+    "Young Avengers",
+    "\"Secret Avengers\" (Civil War)"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Patriot_(comics)"
 }

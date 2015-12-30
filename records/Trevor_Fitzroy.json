@@ -1,31 +1,33 @@
 {
-  "name": "Trevor Fitzroy",
-  "url": "https://en.wikipedia.org/wiki/Trevor_Fitzroy",
-  "realName": "Trevor Fitzroy",
+  "aliases": "The Chronomancer, White Rook",
   "creators": [
     "John Byrne",
     "Jim Lee",
     "Whilce Portacio"
+  ],
+  "image": {
+    "height": "341",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/c5/Fitzroy%27s_picture.jpg",
+    "width": "250"
+  },
+  "name": "Trevor Fitzroy",
+  "pageviews": 3139,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to absorb life-energy from humans",
+    "time/space teleportal generation"
+  ],
+  "realName": "Trevor Fitzroy",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Xavier's Security Enforcers",
     "Upstarts",
     "Hellfire Club"
   ],
-  "aliases": "The Chronomancer, White Rook",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to absorb life-energy from humans",
-    "time/space teleportal generation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/c5/Fitzroy%27s_picture.jpg",
-    "width": "250",
-    "height": "341"
-  },
-  "pageviews": 3139
+  "url": "https://en.wikipedia.org/wiki/Trevor_Fitzroy"
 }

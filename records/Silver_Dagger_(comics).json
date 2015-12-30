@@ -1,17 +1,23 @@
 {
-  "name": "Silver Dagger",
-  "url": "https://en.wikipedia.org/wiki/Silver_Dagger_(comics)",
-  "realName": "Isaiah Curwen",
+  "aliases": "",
   "creators": [
     "Steve Englehart",
     "Frank Brunner"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 726
+  "image": {
+  },
+  "name": "Silver Dagger",
+  "pageviews": 726,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Isaiah Curwen",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Silver_Dagger_(comics)"
 }

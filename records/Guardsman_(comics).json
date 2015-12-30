@@ -1,24 +1,28 @@
 {
-  "name": "Guardsman",
-  "url": "https://en.wikipedia.org/wiki/Guardsman_(comics)",
-  "realName": "Kevin O'Brien",
+  "aliases": "",
   "creators": [
     "Allyn Brodsky",
     "Don Heck"
   ],
-  "teams": [
-    "Stark Industries"
+  "image": {
+  },
+  "name": "Guardsman",
+  "pageviews": 1950,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Powered armor grants:",
     "Superhuman stamina and physical resistance",
     "Flight",
     "Repulsor rays"
   ],
-  "image": {},
-  "pageviews": 1950
+  "realName": "Kevin O'Brien",
+  "species": [
+  ],
+  "teams": [
+    "Stark Industries"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Guardsman_(comics)"
 }

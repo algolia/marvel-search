@@ -1,17 +1,18 @@
 {
-  "name": "Americop",
-  "url": "https://en.wikipedia.org/wiki/Americop",
-  "realName": "Bartholomew \"Bart\" Gallows",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Dave Hoover"
   ],
-  "teams": [
-    "Houston Police Department"
+  "image": {
+    "height": "316",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Americop.jpg/250px-Americop.jpg",
+    "width": "250"
+  },
+  "name": "Americop",
+  "pageviews": 1103,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "marksman",
     "martial artist"
@@ -19,10 +20,11 @@
   "powersText": [
     "Trained marksman and martial artist."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Americop.jpg/250px-Americop.jpg",
-    "width": "250",
-    "height": "316"
-  },
-  "pageviews": 1103
+  "realName": "Bartholomew \"Bart\" Gallows",
+  "species": [
+  ],
+  "teams": [
+    "Houston Police Department"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Americop"
 }

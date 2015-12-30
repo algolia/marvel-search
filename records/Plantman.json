@@ -1,20 +1,19 @@
 {
-  "name": "Plantman",
-  "url": "https://en.wikipedia.org/wiki/Plantman",
-  "realName": "Samuel Smithers",
+  "aliases": "Blackheath",
   "creators": [
     "Stan Lee",
     "Jerry Siegel",
     "Dick Ayers"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Maggia",
-    "New Enforcers"
+  "image": {
+    "height": "149",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Plant_man.jpg/200px-Plant_man.jpg",
+    "width": "200"
+  },
+  "name": "Plantman",
+  "pageviews": 1778,
+  "partners": [
   ],
-  "aliases": "Blackheath",
-  "species": [],
-  "partners": [],
   "powers": [
     "Plant manipulation"
   ],
@@ -22,10 +21,13 @@
     "Plant manipulation",
     "Plant-based weaponry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Plant_man.jpg/200px-Plant_man.jpg",
-    "width": "200",
-    "height": "149"
-  },
-  "pageviews": 1778
+  "realName": "Samuel Smithers",
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Maggia",
+    "New Enforcers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Plantman"
 }

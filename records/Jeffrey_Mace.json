@@ -1,17 +1,18 @@
 {
-  "name": "Jeffrey Mace",
-  "url": "https://en.wikipedia.org/wiki/Jeffrey_Mace",
-  "realName": "Jeffrey Solomon Mace",
-  "creators": [],
-  "teams": [
-    "Liberty Legion",
-    "All-Winners Squad",
-    "Daily Bugle"
-  ],
   "aliases": "Captain America",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "281",
+    "url": "https://upload.wikimedia.org/wikipedia/en/6/67/Patriot_Mace.PNG",
+    "width": "170"
+  },
+  "name": "Jeffrey Mace",
+  "pageviews": 2726,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Exceptional athlete",
     "Superb hand to hand combatant",
@@ -19,10 +20,13 @@
     "As Captain America:",
     "Carries a titanium shield"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/67/Patriot_Mace.PNG",
-    "width": "170",
-    "height": "281"
-  },
-  "pageviews": 2726
+  "realName": "Jeffrey Solomon Mace",
+  "species": [
+  ],
+  "teams": [
+    "Liberty Legion",
+    "All-Winners Squad",
+    "Daily Bugle"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jeffrey_Mace"
 }

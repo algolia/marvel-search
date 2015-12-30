@@ -1,20 +1,24 @@
 {
-  "name": "Machine Teen",
-  "url": "https://en.wikipedia.org/wiki/Machine_Teen",
-  "realName": "A.D.A.M<BR>(''Autonomously Decisive Automated Mechanism'')",
-  "creators": [],
-  "teams": [
-    "Avengers Academy"
-  ],
   "aliases": "Adam Aaronson",
-  "species": [],
-  "partners": [],
+  "creators": [
+  ],
+  "image": {
+  },
+  "name": "Machine Teen",
+  "pageviews": 733,
+  "partners": [
+  ],
   "powers": [
     "Robot"
   ],
   "powersText": [
     "Robotic body"
   ],
-  "image": {},
-  "pageviews": 733
+  "realName": "A.D.A.M<BR>(''Autonomously Decisive Automated Mechanism'')",
+  "species": [
+  ],
+  "teams": [
+    "Avengers Academy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Machine_Teen"
 }

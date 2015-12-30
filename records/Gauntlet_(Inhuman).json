@@ -1,30 +1,32 @@
 {
-  "name": "Gauntlet",
-  "url": "https://en.wikipedia.org/wiki/Gauntlet_(Inhuman)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Jim Lee",
     "Chris Claremont",
     "Whilce Portacio"
   ],
-  "teams": [
-    "Dark Riders"
+  "image": {
+    "height": "355",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Gauntlet_Inhumans.jpg/250px-Gauntlet_Inhumans.jpg",
+    "width": "250"
+  },
+  "name": "Gauntlet",
+  "pageviews": 2263,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Inhuman"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Cybernetically enhanced with various high-tech weapons",
     "such as a flamethrower",
     "high-powered rifle and missiles"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Gauntlet_Inhumans.jpg/250px-Gauntlet_Inhumans.jpg",
-    "width": "250",
-    "height": "355"
-  },
-  "pageviews": 2263
+  "realName": "",
+  "species": [
+    "Inhuman"
+  ],
+  "teams": [
+    "Dark Riders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gauntlet_(Inhuman)"
 }

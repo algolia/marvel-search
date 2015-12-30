@@ -1,24 +1,21 @@
 {
-  "name": "Spymaster",
-  "url": "https://en.wikipedia.org/wiki/Spymaster_(comics)",
-  "realName": "Sinclair Abbot",
+  "aliases": "I: Cobalt Man, Iron Knight, Hogan Potts, Spare Parts Man, Golden Avenger, Shellhead, Ted Calloway, Jake Jordan, Anthony Stark <br/>II: Number One, Santa Claus, Harmon Taylor",
   "creators": [
     "Don Heck",
     "Stan Lee"
   ],
-  "teams": [
-    "AIM",
-    "The Maggia",
-    "Roxxon Oil",
-    "S.H.I.E.L.D.",
-    "Zodiac"
-  ],
-  "aliases": "I: Cobalt Man, Iron Knight, Hogan Potts, Spare Parts Man, Golden Avenger, Shellhead, Ted Calloway, Jake Jordan, Anthony Stark <br/>II: Number One, Santa Claus, Harmon Taylor",
-  "species": [],
+  "image": {
+    "height": "339",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/88/Spymaster.png",
+    "width": "199"
+  },
+  "name": "Spymaster",
+  "pageviews": 1938,
   "partners": [
     "Justin Hammer"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Exceptional strategist",
     "Excellent hand to hand combatant",
@@ -33,10 +30,15 @@
     "Minimal protection from physical attacks",
     "Various pockets for holding weaponry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/88/Spymaster.png",
-    "width": "199",
-    "height": "339"
-  },
-  "pageviews": 1938
+  "realName": "Sinclair Abbot",
+  "species": [
+  ],
+  "teams": [
+    "AIM",
+    "The Maggia",
+    "Roxxon Oil",
+    "S.H.I.E.L.D.",
+    "Zodiac"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spymaster_(comics)"
 }

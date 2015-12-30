@@ -1,19 +1,24 @@
 {
-  "name": "Crusher I",
-  "url": "https://en.wikipedia.org/wiki/Crusher_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Crusher I",
+  "pageviews": 788,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Super-Strength"
   ],
-  "image": {},
-  "pageviews": 788
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Crusher_(comics)"
 }

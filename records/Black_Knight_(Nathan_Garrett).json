@@ -1,19 +1,20 @@
 {
-  "name": "Black Knight",
-  "url": "https://en.wikipedia.org/wiki/Black_Knight_(Nathan_Garrett)",
-  "realName": "Nathan Garrett",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Dick Ayers"
   ],
-  "teams": [
-    "Masters of Evil",
-    "Legion of the Unliving"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tales_of_Suspense_73.jpg/250px-Tales_of_Suspense_73.jpg",
+    "width": "250"
+  },
+  "name": "Black Knight",
+  "pageviews": 2277,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius geneticist",
     "Brilliant biologist",
@@ -23,10 +24,12 @@
     "Rides a flying horse",
     "Use of advanced weaponry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tales_of_Suspense_73.jpg/250px-Tales_of_Suspense_73.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 2277
+  "realName": "Nathan Garrett",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Legion of the Unliving"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Knight_(Nathan_Garrett)"
 }

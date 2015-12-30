@@ -1,27 +1,30 @@
 {
-  "name": "Mercurio the 4-D Man",
-  "url": "https://en.wikipedia.org/wiki/Mercurio_the_4-D_Man",
-  "realName": "None",
+  "aliases": "The Fourth-Dimensional Man, Karl Sarron",
   "creators": [
     "Gerry Conway",
     "John Buscema"
   ],
-  "teams": [],
-  "aliases": "The Fourth-Dimensional Man, Karl Sarron",
-  "species": [
-    "Gramosian"
+  "image": {
+    "height": "397",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/CaptainMarvel51.jpg/260px-CaptainMarvel51.jpg",
+    "width": "260"
+  },
+  "name": "Mercurio the 4-D Man",
+  "pageviews": 534,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "Ability to generate extremes of heat and cold",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/CaptainMarvel51.jpg/260px-CaptainMarvel51.jpg",
-    "width": "260",
-    "height": "397"
-  },
-  "pageviews": 534
+  "realName": "None",
+  "species": [
+    "Gramosian"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mercurio_the_4-D_Man"
 }

@@ -1,29 +1,31 @@
 {
-  "name": "Harness",
-  "url": "https://en.wikipedia.org/wiki/Harness_(comics)",
-  "realName": "Erika Benson",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Guang Yap"
+  ],
+  "image": {
+    "height": "319",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Newmutantsann7.jpg",
+    "width": "204"
+  },
+  "name": "Harness",
+  "pageviews": 915,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Concentrated energy handcuffs links her to her victims",
+    "restraining or paralysing them and causing intense pain."
+  ],
+  "realName": "Erika Benson",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Alliance of Evil",
     "A.I.M."
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Concentrated energy handcuffs links her to her victims",
-    "restraining or paralysing them and causing intense pain."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Newmutantsann7.jpg",
-    "width": "204",
-    "height": "319"
-  },
-  "pageviews": 915
+  "url": "https://en.wikipedia.org/wiki/Harness_(comics)"
 }

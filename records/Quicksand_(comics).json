@@ -1,20 +1,20 @@
 {
-  "name": "Quicksand",
-  "url": "https://en.wikipedia.org/wiki/Quicksand_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [
-    "Femizons",
-    "Masters of Evil",
-    "Thunderbolts"
+  "image": {
+    "height": "373",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Cover_of_The_Mighty_Thor-392.jpg/250px-Cover_of_The_Mighty_Thor-392.jpg",
+    "width": "250"
+  },
+  "name": "Quicksand",
+  "pageviews": 1393,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Enhanced strength",
     "speed",
@@ -25,10 +25,13 @@
     "Size and mass manipulation",
     "Ability to transform into a malleable sand-like substance"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Cover_of_The_Mighty_Thor-392.jpg/250px-Cover_of_The_Mighty_Thor-392.jpg",
-    "width": "250",
-    "height": "373"
-  },
-  "pageviews": 1393
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Femizons",
+    "Masters of Evil",
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Quicksand_(comics)"
 }

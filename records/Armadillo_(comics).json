@@ -1,21 +1,20 @@
 {
-  "name": "Armadillo",
-  "url": "https://en.wikipedia.org/wiki/Armadillo_(comics)",
-  "realName": "Antonio Rodriguez",
+  "aliases": "Awesome Armadillo, 'Dillo, Mr. A, Tony",
   "creators": [
     "Mark Gruenwald",
     "Paul Neary"
   ],
-  "teams": [
-    "Unlimited Class Wrestling Federation",
-    "The Rangers",
-    "Sinister Six",
-    "HYDRA"
+  "image": {
+    "height": "319",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/ArmadilloC.png/250px-ArmadilloC.png",
+    "width": "250"
+  },
+  "name": "Armadillo",
+  "pageviews": 2366,
+  "partners": [
   ],
-  "aliases": "Awesome Armadillo, 'Dillo, Mr. A, Tony",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled street fighter",
     "Superhuman strength",
@@ -23,10 +22,14 @@
     "Hardened talons",
     "Armored hide"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/ArmadilloC.png/250px-ArmadilloC.png",
-    "width": "250",
-    "height": "319"
-  },
-  "pageviews": 2366
+  "realName": "Antonio Rodriguez",
+  "species": [
+  ],
+  "teams": [
+    "Unlimited Class Wrestling Federation",
+    "The Rangers",
+    "Sinister Six",
+    "HYDRA"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Armadillo_(comics)"
 }

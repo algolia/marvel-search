@@ -1,21 +1,25 @@
 {
-  "name": "Yeti",
-  "url": "https://en.wikipedia.org/wiki/Yeti_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "First Line"
+  "image": {
+  },
+  "name": "Yeti",
+  "pageviews": 1083,
+  "partners": [
   ],
-  "aliases": "",
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
   "species": [
     "Inhuman"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 1083
+  "teams": [
+    "First Line"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Yeti_(comics)"
 }

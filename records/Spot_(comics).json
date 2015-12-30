@@ -1,27 +1,30 @@
 {
-  "name": "The Spot",
-  "url": "https://en.wikipedia.org/wiki/Spot_(comics)",
-  "realName": "Dr. Jonathan Ohnn",
+  "aliases": "",
   "creators": [
     "Al Milgrom",
     "Herb Trimpe"
+  ],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/SVTU-3.jpg/250px-SVTU-3.jpg",
+    "width": "250"
+  },
+  "name": "The Spot",
+  "pageviews": 3975,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to create portals that lead to an alternate dimension and instantly cross short distances"
+  ],
+  "realName": "Dr. Jonathan Ohnn",
+  "species": [
   ],
   "teams": [
     "The Hand",
     "Legion of Losers",
     "Sinister Six"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to create portals that lead to an alternate dimension and instantly cross short distances"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/SVTU-3.jpg/250px-SVTU-3.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 3975
+  "url": "https://en.wikipedia.org/wiki/Spot_(comics)"
 }

@@ -1,21 +1,19 @@
 {
-  "name": "Arcanna",
-  "url": "https://en.wikipedia.org/wiki/Arcanna",
-  "realName": null,
+  "aliases": "(Arcanna (Earth-712))<br> Moonglow",
   "creators": [
     "J. M. DeMatteis",
     "Don Perlin",
     "J. Michael Straczynski",
     "Gary Frank"
   ],
-  "teams": [
-    "Squadron Supreme (Earth-712)",
-    "Squadron Supreme (Earth-31916)"
+  "image": {
+  },
+  "name": "Arcanna",
+  "pageviews": 1770,
+  "partners": [
   ],
-  "aliases": "(Arcanna (Earth-712))<br> Moonglow",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(Arcanna (Earth-712))",
     "Psychic awareness",
@@ -23,6 +21,12 @@
     "Flight<BR> (Arcanna (Earth-31916))",
     "Ability to perceive and influence parallel quantum dimensions"
   ],
-  "image": {},
-  "pageviews": 1770
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Squadron Supreme (Earth-712)",
+    "Squadron Supreme (Earth-31916)"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Arcanna"
 }

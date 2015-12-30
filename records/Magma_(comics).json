@@ -1,25 +1,18 @@
 {
-  "name": "Magma",
-  "url": "https://en.wikipedia.org/wiki/Magma_(comics)",
-  "realName": "Amara Juliana Olivians Aquilla",
+  "aliases": "Allison Crestmere",
   "creators": [
     "Chris Claremont",
     "Bob McLeod"
   ],
-  "teams": [
-    "Hellions",
-    "New Hellions",
-    "New Mutants",
-    "The 198",
-    "X-Corporation",
-    "X-Men",
-    "X-Treme Sanctions Executive"
+  "image": {
+    "height": "385",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/MarvelComicsMagma.jpg/250px-MarvelComicsMagma.jpg",
+    "width": "250"
+  },
+  "name": "Magma",
+  "pageviews": 7197,
+  "partners": [
   ],
-  "aliases": "Allison Crestmere",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Fire manipulation",
     "Earth manipulation"
@@ -30,10 +23,18 @@
     "Fire manipulation",
     "Earth manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/MarvelComicsMagma.jpg/250px-MarvelComicsMagma.jpg",
-    "width": "250",
-    "height": "385"
-  },
-  "pageviews": 7197
+  "realName": "Amara Juliana Olivians Aquilla",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hellions",
+    "New Hellions",
+    "New Mutants",
+    "The 198",
+    "X-Corporation",
+    "X-Men",
+    "X-Treme Sanctions Executive"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Magma_(comics)"
 }

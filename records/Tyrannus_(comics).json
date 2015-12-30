@@ -1,16 +1,20 @@
 {
-  "name": "Tyrannus",
-  "url": "https://en.wikipedia.org/wiki/Tyrannus_(comics)",
-  "realName": "Romulus Augustulus",
+  "aliases": "Dr. Tyrone",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Dr. Tyrone",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "188",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/HulkVTyrannus.jpg/250px-HulkVTyrannus.jpg",
+    "width": "250"
+  },
+  "name": "Tyrannus",
+  "pageviews": 3242,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Extraordinary scientific genius",
     "Psychic powers",
@@ -18,10 +22,10 @@
     "Immortality",
     "Use of Roman and Deviant weaponry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/HulkVTyrannus.jpg/250px-HulkVTyrannus.jpg",
-    "width": "250",
-    "height": "188"
-  },
-  "pageviews": 3242
+  "realName": "Romulus Augustulus",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tyrannus_(comics)"
 }

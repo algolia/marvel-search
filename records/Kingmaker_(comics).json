@@ -1,25 +1,28 @@
 {
-  "name": "Kingmaker",
-  "url": "https://en.wikipedia.org/wiki/Kingmaker_(comics)",
-  "realName": "Wallace",
+  "aliases": "",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir",
     "Clayton Henry"
   ],
-  "teams": [
-    "Hellfire Club"
+  "image": {
+  },
+  "name": "Kingmaker",
+  "pageviews": 460,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Unknown",
     "has access to high-tech personal equipment and a network of powerful associates."
   ],
-  "image": {},
-  "pageviews": 460
+  "realName": "Wallace",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+    "Hellfire Club"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kingmaker_(comics)"
 }

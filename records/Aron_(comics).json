@@ -1,18 +1,17 @@
 {
-  "name": "Aron the Rogue Watcher",
-  "url": "https://en.wikipedia.org/wiki/Aron_(comics)",
-  "realName": "Aron",
+  "aliases": "The Renegade Watcher",
   "creators": [
     "Steve Englehart",
     "Al Milgrom"
   ],
-  "teams": [
-    "Watchers"
+  "image": {
+  },
+  "name": "Aron the Rogue Watcher",
+  "pageviews": 1447,
+  "partners": [
   ],
-  "aliases": "The Renegade Watcher",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman level intellect",
     "Cosmic energy manipulation",
@@ -21,6 +20,11 @@
     "Access to various alien artifacts and technology",
     "Wears special armor that shields him from detection"
   ],
-  "image": {},
-  "pageviews": 1447
+  "realName": "Aron",
+  "species": [
+  ],
+  "teams": [
+    "Watchers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Aron_(comics)"
 }

@@ -1,18 +1,17 @@
 {
-  "name": "Fenris",
-  "url": "https://en.wikipedia.org/wiki/Fenris_(comics)",
-  "realName": "Andrea von Strucker (female)<br/>Andreas von Strucker (male)",
+  "aliases": "(Andrea von Strucker): Fenris<br>(Andreas von Strucker): Fenris, Swordsman Baron Strucker",
   "creators": [
     "Chris Claremont",
     "John Romita, Jr."
   ],
-  "teams": [],
-  "aliases": "(Andrea von Strucker): Fenris<br>(Andreas von Strucker): Fenris, Swordsman Baron Strucker",
-  "species": [
-    "Human Mutants"
+  "image": {
+  },
+  "name": "Fenris",
+  "pageviews": 7553,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(Andrea von Strucker):",
     "Disintegrative energy projection",
@@ -26,6 +25,11 @@
     "(Swordsman):",
     "Sword usage"
   ],
-  "image": {},
-  "pageviews": 7553
+  "realName": "Andrea von Strucker (female)<br/>Andreas von Strucker (male)",
+  "species": [
+    "Human Mutants"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Fenris_(comics)"
 }

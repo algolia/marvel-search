@@ -1,19 +1,24 @@
 {
-  "name": "Mayhem",
-  "url": "https://en.wikipedia.org/wiki/Mayhem_(comics)",
-  "realName": "Brigid O'Rielly",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Rick Leonardi"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+  },
+  "name": "Mayhem",
+  "pageviews": 460,
   "partners": [
     "Cloak and Dagger"
   ],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 460
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Brigid O'Rielly",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mayhem_(comics)"
 }

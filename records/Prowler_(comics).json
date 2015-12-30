@@ -1,20 +1,20 @@
 {
-  "name": "Prowler",
-  "url": "https://en.wikipedia.org/wiki/Prowler_(comics)",
-  "realName": "Hobie Brown (first incarnation)<br>Unnamed cat burglar (second incarnation)<br>Rick Lawson (third incarnation)",
+  "aliases": "(Hobie Brown):<br>Spider-Man",
   "creators": [
     "Stan Lee",
     "John Buscema"
   ],
-  "teams": [
-    "Defenders",
-    "The Outlaws",
-    "Wild Pack"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Prowlermu0.png/250px-Prowlermu0.png",
+    "width": "250"
+  },
+  "name": "Prowler",
+  "pageviews": 7022,
+  "partners": [
   ],
-  "aliases": "(Hobie Brown):<br>Spider-Man",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Technological genius",
     "Skilled hand-to-hand combatant",
@@ -26,10 +26,13 @@
     "Gauntlets capable of shooting compressed air blasts",
     "sleeping pellets and other projectiles"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Prowlermu0.png/250px-Prowlermu0.png",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 7022
+  "realName": "Hobie Brown (first incarnation)<br>Unnamed cat burglar (second incarnation)<br>Rick Lawson (third incarnation)",
+  "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "The Outlaws",
+    "Wild Pack"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Prowler_(comics)"
 }

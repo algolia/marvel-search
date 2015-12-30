@@ -1,29 +1,16 @@
 {
-  "name": "Captain America",
-  "url": "https://en.wikipedia.org/wiki/Captain_America",
-  "realName": "Steven \"Steve\" Rogers",
+  "aliases": "Nomad , The Captain",
   "creators": [
     "Joe Simon",
     "Jack Kirby"
   ],
-  "teams": [
-    "All-Winners Squad",
-    "Avengers",
-    "Avengers Unity Division",
-    "Illuminati",
-    "Invaders",
-    "Landau, Luckman, and Lake",
-    "New Avengers",
-    "Project: Rebirth",
-    "Redeemers",
-    "S.H.I.E.L.D.",
-    "\"Secret Avengers\"",
-    "Secret Avengers",
-    "Secret Defenders",
-    "U.S. Army"
-  ],
-  "aliases": "Nomad , The Captain",
-  "species": [],
+  "image": {
+    "height": "353",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/CaptainAmerica109.jpg/250px-CaptainAmerica109.jpg",
+    "width": "250"
+  },
+  "name": "Captain America",
+  "pageviews": 250259,
   "partners": [
     "Bucky (James Barnes)",
     "Falcon",
@@ -45,10 +32,24 @@
     "Owns vibranium-steel alloy shield",
     "Master tactician and field commander"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/CaptainAmerica109.jpg/250px-CaptainAmerica109.jpg",
-    "width": "250",
-    "height": "353"
-  },
-  "pageviews": 250259
+  "realName": "Steven \"Steve\" Rogers",
+  "species": [
+  ],
+  "teams": [
+    "All-Winners Squad",
+    "Avengers",
+    "Avengers Unity Division",
+    "Illuminati",
+    "Invaders",
+    "Landau, Luckman, and Lake",
+    "New Avengers",
+    "Project: Rebirth",
+    "Redeemers",
+    "S.H.I.E.L.D.",
+    "\"Secret Avengers\"",
+    "Secret Avengers",
+    "Secret Defenders",
+    "U.S. Army"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Captain_America"
 }

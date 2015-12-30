@@ -1,19 +1,18 @@
 {
-  "name": "Blacklash",
-  "url": "https://en.wikipedia.org/wiki/Whiplash_(comics)",
-  "realName": "Marco Scarlotti",
+  "aliases": "Whiplash",
   "creators": [
     "Stan Lee",
     "Gene Colan"
   ],
-  "teams": [
-    "Maggia",
-    "Death Squad",
-    "Sinister Syndicate"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MarvelTeam-Up145.jpg/250px-MarvelTeam-Up145.jpg",
+    "width": "250"
+  },
+  "name": "Blacklash",
+  "pageviews": 16274,
+  "partners": [
   ],
-  "aliases": "Whiplash",
-  "species": [],
-  "partners": [],
   "powers": [
     "bulletproof"
   ],
@@ -22,10 +21,13 @@
     "Wields a pair of cybernetically-controlled titanium whips",
     "Carries a variety of devices in a weapons pouch"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MarvelTeam-Up145.jpg/250px-MarvelTeam-Up145.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 16274
+  "realName": "Marco Scarlotti",
+  "species": [
+  ],
+  "teams": [
+    "Maggia",
+    "Death Squad",
+    "Sinister Syndicate"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Whiplash_(comics)"
 }

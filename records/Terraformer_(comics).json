@@ -1,22 +1,26 @@
 {
-  "name": "Terraformer",
-  "url": "https://en.wikipedia.org/wiki/Terraformer_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Mark Bagley",
     "Larry Mahlstedt"
   ],
-  "teams": [
-    "Force of Nature"
+  "image": {
+  },
+  "name": "Terraformer",
+  "pageviews": 553,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Plant manipulation"
   ],
-  "image": {},
-  "pageviews": 553
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Force of Nature"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Terraformer_(comics)"
 }

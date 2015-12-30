@@ -1,31 +1,33 @@
 {
-  "name": "Black Bolt",
-  "url": "https://en.wikipedia.org/wiki/Black_Bolt",
-  "realName": "Blackagar Boltagon",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Inhuman Royal Family",
-    "Illuminati"
+  "image": {
+    "height": "350",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/WarofKings-5.jpg/250px-WarofKings-5.jpg",
+    "width": "250"
+  },
+  "name": "Black Bolt",
+  "pageviews": 69604,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Inhuman"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman physical attributes",
     "Flight",
     "Destructive hypersonic voice",
     "Molecular manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/WarofKings-5.jpg/250px-WarofKings-5.jpg",
-    "width": "250",
-    "height": "350"
-  },
-  "pageviews": 69604
+  "realName": "Blackagar Boltagon",
+  "species": [
+    "Inhuman"
+  ],
+  "teams": [
+    "Inhuman Royal Family",
+    "Illuminati"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Bolt"
 }

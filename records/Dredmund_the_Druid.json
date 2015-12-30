@@ -1,17 +1,23 @@
 {
-  "name": "Dredmund Druid",
-  "url": "https://en.wikipedia.org/wiki/Dredmund_the_Druid",
-  "realName": "Dredmund Cromwell",
+  "aliases": "Druid, Starwolf",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Druid, Starwolf",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 451
+  "image": {
+  },
+  "name": "Dredmund Druid",
+  "pageviews": 451,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Dredmund Cromwell",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dredmund_the_Druid"
 }

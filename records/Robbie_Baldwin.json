@@ -1,10 +1,28 @@
 {
-  "name": "Robbie Baldwin",
-  "url": "https://en.wikipedia.org/wiki/Robbie_Baldwin",
-  "realName": "Robert \"Robbie\" Baldwin",
+  "aliases": "Speedball, Penance, Masked Marvel",
   "creators": [
     "Steve Ditko",
     "Tom DeFalco"
+  ],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/AmazingSpider-ManAnnual22.png/250px-AmazingSpider-ManAnnual22.png",
+    "width": "250"
+  },
+  "name": "Robbie Baldwin",
+  "pageviews": 14815,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "(As Speedball):",
+    "Force field generation",
+    "(As Penance):",
+    "Energy blasts"
+  ],
+  "realName": "Robert \"Robbie\" Baldwin",
+  "species": [
   ],
   "teams": [
     "New Warriors",
@@ -13,20 +31,5 @@
     "Thunderbolts",
     "Shadow Initiative"
   ],
-  "aliases": "Speedball, Penance, Masked Marvel",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "(As Speedball):",
-    "Force field generation",
-    "(As Penance):",
-    "Energy blasts"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/AmazingSpider-ManAnnual22.png/250px-AmazingSpider-ManAnnual22.png",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 14815
+  "url": "https://en.wikipedia.org/wiki/Robbie_Baldwin"
 }

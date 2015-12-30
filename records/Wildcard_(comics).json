@@ -1,26 +1,29 @@
 {
-  "name": "Wildcard",
-  "url": "https://en.wikipedia.org/wiki/Wildcard_(comics)",
-  "realName": "John Crenella",
+  "aliases": "",
   "creators": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "teams": [
-    "Strikeforce: Morituri"
+  "image": {
+    "height": "358",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/2a/Wildcard_comics.jpg",
+    "width": "250"
+  },
+  "name": "Wildcard",
+  "pageviews": 348,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Power mimicry",
     "Enhanced strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/2a/Wildcard_comics.jpg",
-    "width": "250",
-    "height": "358"
-  },
-  "pageviews": 348
+  "realName": "John Crenella",
+  "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wildcard_(comics)"
 }

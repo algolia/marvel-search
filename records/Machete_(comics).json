@@ -1,24 +1,28 @@
 {
-  "name": "Machete",
-  "url": "https://en.wikipedia.org/wiki/Machete_(comics)",
-  "realName": "Ferdinand Lopez",
+  "aliases": "",
   "creators": [
     "Mike Carlin",
     "Paul Neary"
   ],
-  "teams": [
-    "Batroc's Brigade"
+  "image": {
+  },
+  "name": "Machete",
+  "pageviews": 1042,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Expert with bladed and throwing weapons",
     "Experienced tactician",
     "Wears Kevlar flak jacket",
     "Possesses various weapons"
   ],
-  "image": {},
-  "pageviews": 1042
+  "realName": "Ferdinand Lopez",
+  "species": [
+  ],
+  "teams": [
+    "Batroc's Brigade"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Machete_(comics)"
 }

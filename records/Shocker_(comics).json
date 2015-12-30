@@ -1,10 +1,28 @@
 {
-  "name": "Shocker",
-  "url": "https://en.wikipedia.org/wiki/Shocker_(comics)",
-  "realName": "Herman Schultz",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "John Romita, Sr."
+  ],
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/28/AmazingSpider-Man046.jpg",
+    "width": "250"
+  },
+  "name": "Shocker",
+  "pageviews": 10559,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Self invented suit provides:",
+    "Deflection of physical attacks",
+    "Resistance to being grasped",
+    "Gauntlets that project concentrated vibrational air blasts"
+  ],
+  "realName": "Herman Schultz",
+  "species": [
   ],
   "teams": [
     "Sinister Six",
@@ -13,20 +31,5 @@
     "Thunderbolts",
     "Villains for Hire"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Self invented suit provides:",
-    "Deflection of physical attacks",
-    "Resistance to being grasped",
-    "Gauntlets that project concentrated vibrational air blasts"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/28/AmazingSpider-Man046.jpg",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 10559
+  "url": "https://en.wikipedia.org/wiki/Shocker_(comics)"
 }

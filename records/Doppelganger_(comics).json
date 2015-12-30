@@ -1,22 +1,25 @@
 {
-  "name": "Doppelganger",
-  "url": "https://en.wikipedia.org/wiki/Doppelganger_(comics)",
-  "realName": null,
+  "aliases": "Spider-Doppelganger",
   "creators": [
     "Jim Starlin",
     "Ron Lim",
     "Al Milgrom"
   ],
-  "teams": [],
-  "aliases": "Spider-Doppelganger",
-  "species": [],
+  "image": {
+    "height": "400",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/36/Spiderdoppelganger.png",
+    "width": "250"
+  },
+  "name": "Doppelganger",
+  "pageviews": 4597,
   "partners": [
     "Shriek",
     "Carnage",
     "Demogoblin",
     "Carrion"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "agility",
@@ -26,10 +29,10 @@
     "Ability to produce razor-sharp organic webbing",
     "Hardened talons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/36/Spiderdoppelganger.png",
-    "width": "250",
-    "height": "400"
-  },
-  "pageviews": 4597
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Doppelganger_(comics)"
 }

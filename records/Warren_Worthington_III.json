@@ -1,10 +1,33 @@
 {
-  "name": "Warren Worthington III",
-  "url": "https://en.wikipedia.org/wiki/Warren_Worthington_III",
-  "realName": "Warren Kenneth Worthington III",
+  "aliases": "Angel, Avenging Angel, Archangel, Dark Angel, Death",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "384",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/WarrenWorthingtonAngel.jpg/250px-WarrenWorthingtonAngel.jpg",
+    "width": "250"
+  },
+  "name": "Warren Worthington III",
+  "pageviews": 69652,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "As Angel:",
+    "Flight via feathered wings and hollow bones",
+    "Aerial adaptation As Archangel:",
+    "Flight via metal wings",
+    "Razor sharp feather projection",
+    "Healing factor",
+    "Aerial adaptation",
+    "Near immunity to injury"
+  ],
+  "realName": "Warren Kenneth Worthington III",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Men",
@@ -19,26 +42,5 @@
     "Cheyarafim",
     "Jean Grey School Students"
   ],
-  "aliases": "Angel, Avenging Angel, Archangel, Dark Angel, Death",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "As Angel:",
-    "Flight via feathered wings and hollow bones",
-    "Aerial adaptation As Archangel:",
-    "Flight via metal wings",
-    "Razor sharp feather projection",
-    "Healing factor",
-    "Aerial adaptation",
-    "Near immunity to injury"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/WarrenWorthingtonAngel.jpg/250px-WarrenWorthingtonAngel.jpg",
-    "width": "250",
-    "height": "384"
-  },
-  "pageviews": 69652
+  "url": "https://en.wikipedia.org/wiki/Warren_Worthington_III"
 }

@@ -1,24 +1,28 @@
 {
-  "name": "Phaeder",
-  "url": "https://en.wikipedia.org/wiki/Phaeder",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Ralph Macchio",
     "Ron Wilson"
   ],
-  "teams": [],
-  "aliases": "",
+  "image": {
+    "height": "368",
+    "url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sinistermeets12.jpg",
+    "width": "250"
+  },
+  "name": "Phaeder",
+  "pageviews": 1752,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "",
   "species": [
     "Inhuman"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sinistermeets12.jpg",
-    "width": "250",
-    "height": "368"
-  },
-  "pageviews": 1752
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Phaeder"
 }

@@ -1,10 +1,28 @@
 {
-  "name": "The Vanisher",
-  "url": "https://en.wikipedia.org/wiki/Vanisher",
-  "realName": "Telford Porter",
+  "aliases": "El Hombre que Desaparece",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Xforce69.jpg/250px-Xforce69.jpg",
+    "width": "250"
+  },
+  "name": "The Vanisher",
+  "pageviews": 3329,
+  "partners": [
+  ],
+  "powers": [
+    "Teleportation"
+  ],
+  "powersText": [
+    "Teleportation",
+    "Use of guns that fire gas or energy beams"
+  ],
+  "realName": "Telford Porter",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Marauders",
@@ -14,22 +32,5 @@
     "Fallen Angels",
     "Factor Three"
   ],
-  "aliases": "El Hombre que Desaparece",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "Teleportation"
-  ],
-  "powersText": [
-    "Teleportation",
-    "Use of guns that fire gas or energy beams"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Xforce69.jpg/250px-Xforce69.jpg",
-    "width": "250",
-    "height": "386"
-  },
-  "pageviews": 3329
+  "url": "https://en.wikipedia.org/wiki/Vanisher"
 }

@@ -1,27 +1,29 @@
 {
-  "name": "Famine",
-  "url": "https://en.wikipedia.org/wiki/Famine_(comics)",
-  "realName": "Autumn Rolfson",
+  "aliases": "",
   "creators": [
     "Louise Simonson",
     "Walter Simonson"
   ],
-  "teams": [
-    "Four Horsemen of Apocalypse"
+  "image": {
+    "height": "374",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Xforce16_001.jpg/175px-Xforce16_001.jpg",
+    "width": "175"
+  },
+  "name": "Famine",
+  "pageviews": 5770,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ability to disintegrate organic matter"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Xforce16_001.jpg/175px-Xforce16_001.jpg",
-    "width": "175",
-    "height": "374"
-  },
-  "pageviews": 5770
+  "realName": "Autumn Rolfson",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Four Horsemen of Apocalypse"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Famine_(comics)"
 }

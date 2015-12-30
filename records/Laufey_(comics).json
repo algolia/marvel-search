@@ -1,28 +1,31 @@
 {
-  "name": "Laufey",
-  "url": "https://en.wikipedia.org/wiki/Laufey_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Frost Giants"
+  "image": {
+    "height": "305",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/LaufeyMarvel.jpg/250px-LaufeyMarvel.jpg",
+    "width": "250"
+  },
+  "name": "Laufey",
+  "pageviews": 6025,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and resistance to injury",
     "Cryokinesis",
     "Resistance to Earthly diseases",
     "Immunity to hypothermia and frostbite"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/LaufeyMarvel.jpg/250px-LaufeyMarvel.jpg",
-    "width": "250",
-    "height": "305"
-  },
-  "pageviews": 6025
+  "realName": null,
+  "species": [
+    "Frost Giants"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Laufey_(comics)"
 }

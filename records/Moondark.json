@@ -1,20 +1,16 @@
 {
-  "name": "Moondark",
-  "url": "https://en.wikipedia.org/wiki/Moondark",
-  "realName": "Unrevealed",
+  "aliases": "Moondark the Magician<br/>Gina Langtree",
   "creators": [
     "Gerry Conway",
     "Len Wein",
     "Ross Andru"
   ],
-  "teams": [
-    "Freaks"
+  "image": {
+  },
+  "name": "Moondark",
+  "pageviews": 610,
+  "partners": [
   ],
-  "aliases": "Moondark the Magician<br/>Gina Langtree",
-  "species": [
-    "Human"
-  ],
-  "partners": [],
   "powers": [
     "magic",
     "hypnosis",
@@ -27,6 +23,12 @@
     "teleport",
     "mesmerize"
   ],
-  "image": {},
-  "pageviews": 610
+  "realName": "Unrevealed",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+    "Freaks"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Moondark"
 }

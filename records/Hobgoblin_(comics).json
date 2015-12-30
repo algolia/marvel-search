@@ -1,21 +1,26 @@
 {
-  "name": "Hobgoblin",
-  "url": "https://en.wikipedia.org/wiki/Hobgoblin_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Roger Stern",
     "John Romita, Jr."
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "313",
     "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Hobgoblin_%28Marvel_Comics%29.png",
-    "width": "250",
-    "height": "313"
+    "width": "250"
   },
-  "pageviews": 16489
+  "name": "Hobgoblin",
+  "pageviews": 16489,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hobgoblin_(comics)"
 }

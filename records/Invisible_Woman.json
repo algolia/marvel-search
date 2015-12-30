@@ -1,23 +1,18 @@
 {
-  "name": "Invisible Woman",
-  "url": "https://en.wikipedia.org/wiki/Invisible_Woman",
-  "realName": "Susan \"Sue\" Storm Richards",
+  "aliases": "Invisible Girl, Captain Universe, Susan Benjamin, Malice , Mistress of Hate, Baroness Von Doom, Tabitha Deneuve",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Fantastic Four",
-    "Lady Liberators",
-    "Avengers",
-    "Fantastic Four Incorporated",
-    "Future Foundation"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Cover_for_Marvel_Knights_%224%22%2C_no._5.jpg/250px-Cover_for_Marvel_Knights_%224%22%2C_no._5.jpg",
+    "width": "250"
+  },
+  "name": "Invisible Woman",
+  "pageviews": 32862,
+  "partners": [
   ],
-  "aliases": "Invisible Girl, Captain Universe, Susan Benjamin, Malice , Mistress of Hate, Baroness Von Doom, Tabitha Deneuve",
-  "species": [
-    "Human Mutate"
-  ],
-  "partners": [],
   "powers": [
     "Invisibility",
     "invisibility",
@@ -30,10 +25,16 @@
     "Projected invisibility",
     "Invisible force field projection (which bestows the ability to generate protective invisible shields and invisible energy constructs as well as the power to control and manipulate objects)"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Cover_for_Marvel_Knights_%224%22%2C_no._5.jpg/250px-Cover_for_Marvel_Knights_%224%22%2C_no._5.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 32862
+  "realName": "Susan \"Sue\" Storm Richards",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+    "Fantastic Four",
+    "Lady Liberators",
+    "Avengers",
+    "Fantastic Four Incorporated",
+    "Future Foundation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Invisible_Woman"
 }

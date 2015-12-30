@@ -1,10 +1,26 @@
 {
-  "name": "Joanna Cargill",
-  "url": "https://en.wikipedia.org/wiki/Joanna_Cargill",
-  "realName": "Joanna Cargill",
+  "aliases": "Frenzy",
   "creators": [
     "Bob Layton",
     "Keith Pollard"
+  ],
+  "image": {
+    "height": "290",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Cargill_1.jpg",
+    "width": "188"
+  },
+  "name": "Joanna Cargill",
+  "pageviews": 3782,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman strength and durability"
+  ],
+  "realName": "Joanna Cargill",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Acolytes",
@@ -14,19 +30,5 @@
     "X-Men",
     "Jean Grey School"
   ],
-  "aliases": "Frenzy",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman strength and durability"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Cargill_1.jpg",
-    "width": "188",
-    "height": "290"
-  },
-  "pageviews": 3782
+  "url": "https://en.wikipedia.org/wiki/Joanna_Cargill"
 }

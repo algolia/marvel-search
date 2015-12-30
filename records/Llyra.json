@@ -1,33 +1,34 @@
 {
-  "name": "Llyra",
-  "url": "https://en.wikipedia.org/wiki/Llyra",
-  "realName": "Llyra Morris",
+  "aliases": "Lady Dorma , Laura \"Laurie\" Morris",
   "creators": [
     "Roy Thomas",
     "Sal Buscema"
   ],
-  "teams": [
-    "Frightful Four"
-  ],
-  "aliases": "Lady Dorma , Laura \"Laurie\" Morris",
-  "species": [
-    "Lemurian Mutant"
-  ],
+  "image": {
+    "height": "376",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Sub-Mariner-32.jpg/250px-Sub-Mariner-32.jpg",
+    "width": "250"
+  },
+  "name": "Llyra",
+  "pageviews": 1289,
   "partners": [
     "Ghaur",
     "Set"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Fully amphibious physiology",
     "Superhuman strength",
     "Ability to control sea creatures",
     "Shape/color shifting"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Sub-Mariner-32.jpg/250px-Sub-Mariner-32.jpg",
-    "width": "250",
-    "height": "376"
-  },
-  "pageviews": 1289
+  "realName": "Llyra Morris",
+  "species": [
+    "Lemurian Mutant"
+  ],
+  "teams": [
+    "Frightful Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Llyra"
 }

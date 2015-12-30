@@ -1,25 +1,28 @@
 {
-  "name": "Dirk Anger",
-  "url": "https://en.wikipedia.org/wiki/Dirk_Anger",
-  "realName": "Dirk Anger",
+  "aliases": "",
   "creators": [
     "Warren Ellis",
     "Stuart Immonen"
   ],
-  "teams": [
-    "H.A.T.E."
+  "image": {
+    "height": "228",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/One_Crazy_MammaJamma.jpg/250px-One_Crazy_MammaJamma.jpg",
+    "width": "250"
+  },
+  "name": "Dirk Anger",
+  "pageviews": 1355,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Chemically retarded aging process"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/One_Crazy_MammaJamma.jpg/250px-One_Crazy_MammaJamma.jpg",
-    "width": "250",
-    "height": "228"
-  },
-  "pageviews": 1355
+  "realName": "Dirk Anger",
+  "species": [
+  ],
+  "teams": [
+    "H.A.T.E."
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dirk_Anger"
 }

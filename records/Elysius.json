@@ -1,17 +1,23 @@
 {
-  "name": "Elysius",
-  "url": "https://en.wikipedia.org/wiki/Elysius",
-  "realName": null,
+  "aliases": "Mistress of Paradise",
   "creators": [
     "Doug Moench",
     "Pat Broderick"
   ],
-  "teams": [],
-  "aliases": "Mistress of Paradise",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 1243
+  "image": {
+  },
+  "name": "Elysius",
+  "pageviews": 1243,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Elysius"
 }

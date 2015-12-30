@@ -1,14 +1,21 @@
 {
-  "name": "Merlin",
-  "url": "https://en.wikipedia.org/wiki/Merlin_(Marvel_Comics)",
-  "realName": "Merlin",
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 2315
+  "creators": [
+  ],
+  "image": {
+  },
+  "name": "Merlin",
+  "pageviews": 2315,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Merlin",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Merlin_(Marvel_Comics)"
 }

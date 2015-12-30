@@ -1,27 +1,29 @@
 {
-  "name": "Brainchild",
-  "url": "https://en.wikipedia.org/wiki/Brainchild_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Neal Adams"
   ],
-  "teams": [
-    "Savage Land Mutates"
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/24/Brain_Child_from_X-treme_X-Men.png",
+    "width": "237"
+  },
+  "name": "Brainchild",
+  "pageviews": 804,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Savage Land Mutate"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman intelligence"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/24/Brain_Child_from_X-treme_X-Men.png",
-    "width": "237",
-    "height": "300"
-  },
-  "pageviews": 804
+  "realName": null,
+  "species": [
+    "Savage Land Mutate"
+  ],
+  "teams": [
+    "Savage Land Mutates"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Brainchild_(comics)"
 }

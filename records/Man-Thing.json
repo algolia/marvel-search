@@ -1,34 +1,36 @@
 {
-  "name": "Man-Thing",
-  "url": "https://en.wikipedia.org/wiki/Man-Thing",
-  "realName": "Dr. Theodore \"Ted\" Sallis",
+  "aliases": "Vorgornus Koth",
   "creators": [
     "Stan Lee",
     "Roy Thomas",
     "Gerry Conway",
     "Gray Morrow"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Legion of Monsters",
-    "S.T.A.K.E"
-  ],
-  "aliases": "Vorgornus Koth",
-  "species": [],
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Man-Thing_1_%281974%29.jpg/250px-Man-Thing_1_%281974%29.jpg",
+    "width": "250"
+  },
+  "name": "Man-Thing",
+  "pageviews": 18249,
   "partners": [
     "Howard the Duck"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "Empathic senses",
     "Ability to secrete a powerful corrosive chemical agent and a counter agent",
     "teleport himself or others through 'the nexus of all realities' and speak the Universal Language"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Man-Thing_1_%281974%29.jpg/250px-Man-Thing_1_%281974%29.jpg",
-    "width": "250",
-    "height": "386"
-  },
-  "pageviews": 18249
+  "realName": "Dr. Theodore \"Ted\" Sallis",
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Legion of Monsters",
+    "S.T.A.K.E"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Man-Thing"
 }

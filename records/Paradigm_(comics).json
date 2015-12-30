@@ -1,24 +1,28 @@
 {
-  "name": "Paradigm image",
-  "url": "https://en.wikipedia.org/wiki/Paradigm_(comics)",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "New Hellions",
-    "Phalanx race"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant",
-    "Phalanx"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Paradigm image",
+  "pageviews": 535,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Ability to restructure techno-organic frame to various shapes",
     "Ability to communicate and interface with technology",
     "Ability to control the minds of people that are covered with techno-matter"
   ],
-  "image": {},
-  "pageviews": 535
+  "realName": null,
+  "species": [
+    "Human Mutant",
+    "Phalanx"
+  ],
+  "teams": [
+    "New Hellions",
+    "Phalanx race"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Paradigm_(comics)"
 }

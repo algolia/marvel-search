@@ -1,21 +1,18 @@
 {
-  "name": "Union Jack",
-  "url": "https://en.wikipedia.org/wiki/Union_Jack_(Joseph_Chapman)",
-  "realName": "Joseph \"Joe\" Chapman",
+  "aliases": "",
   "creators": [
     "Roger Stern",
     "John Byrne"
   ],
-  "teams": [
-    "Knights of Pendragon",
-    "New Invaders",
-    "MI5",
-    "Invaders",
-    "MI-13"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/UNION_JACK_1.jpg/250px-UNION_JACK_1.jpg",
+    "width": "250"
+  },
+  "name": "Union Jack",
+  "pageviews": 2010,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "martial arts"
   ],
@@ -26,10 +23,15 @@
     "martial arts and hand-to-hand combatant",
     "highly skilled with a knife and handgun."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/UNION_JACK_1.jpg/250px-UNION_JACK_1.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 2010
+  "realName": "Joseph \"Joe\" Chapman",
+  "species": [
+  ],
+  "teams": [
+    "Knights of Pendragon",
+    "New Invaders",
+    "MI5",
+    "Invaders",
+    "MI-13"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Union_Jack_(Joseph_Chapman)"
 }

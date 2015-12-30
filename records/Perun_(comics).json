@@ -1,25 +1,28 @@
 {
-  "name": "Perun",
-  "url": "https://en.wikipedia.org/wiki/Perun_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Kieron Dwyer"
   ],
-  "teams": [
-    "People's Protectorate"
+  "image": {
+    "height": "260",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/12/Perun_avengers_v1_320.png",
+    "width": "257"
+  },
+  "name": "Perun",
+  "pageviews": 1700,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Control over thunder and lightning"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/12/Perun_avengers_v1_320.png",
-    "width": "257",
-    "height": "260"
-  },
-  "pageviews": 1700
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "People's Protectorate"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Perun_(comics)"
 }

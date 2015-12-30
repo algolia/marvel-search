@@ -1,10 +1,23 @@
 {
-  "name": "Kane",
-  "url": "https://en.wikipedia.org/wiki/Garrison_Kane",
-  "realName": "Garrison Kane",
+  "aliases": "Weapon X",
   "creators": [
     "Fabian Nicieza",
     "Rob Liefeld"
+  ],
+  "image": {
+  },
+  "name": "Kane",
+  "pageviews": 5350,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to transform weapons attached on body armor",
+    "Ability to access all recorded mutant powers and use them"
+  ],
+  "realName": "Garrison Kane",
+  "species": [
   ],
   "teams": [
     "Weapon X",
@@ -13,14 +26,5 @@
     "Department K",
     "Clan Chosen"
   ],
-  "aliases": "Weapon X",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to transform weapons attached on body armor",
-    "Ability to access all recorded mutant powers and use them"
-  ],
-  "image": {},
-  "pageviews": 5350
+  "url": "https://en.wikipedia.org/wiki/Garrison_Kane"
 }

@@ -1,20 +1,24 @@
 {
-  "name": "Supernova",
-  "url": "https://en.wikipedia.org/wiki/Supernova_(Marvel_Comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Tom DeFalco"
+  ],
+  "image": {
+  },
+  "name": "Supernova",
+  "pageviews": 3536,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Gravametric manipulation"
+  ],
+  "realName": "",
+  "species": [
   ],
   "teams": [
     "Nova Corps"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Gravametric manipulation"
-  ],
-  "image": {},
-  "pageviews": 3536
+  "url": "https://en.wikipedia.org/wiki/Supernova_(Marvel_Comics)"
 }

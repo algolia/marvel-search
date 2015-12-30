@@ -1,19 +1,24 @@
 {
-  "name": "Agent Axis",
-  "url": "https://en.wikipedia.org/wiki/Agent_Axis",
-  "realName": "",
+  "aliases": "Sigrid",
   "creators": [
     "Jack Kirby",
     "Joe Simon"
   ],
-  "teams": [],
-  "aliases": "Sigrid",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Agent Axis",
+  "pageviews": 869,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "None"
   ],
-  "image": {},
-  "pageviews": 869
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Agent_Axis"
 }

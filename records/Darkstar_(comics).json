@@ -1,10 +1,33 @@
 {
-  "name": "Darkstar",
-  "url": "https://en.wikipedia.org/wiki/Darkstar_(comics)",
-  "realName": "Laynia Sergeievna Petrovna (Krylova)",
+  "aliases": "Tyomni Zvesda (Russian translation of codename); formerly \"Great Beast\" (with Vanguard & Ursa Major )",
   "creators": [
     "Tony Isabella",
     "George Tuska"
+  ],
+  "image": {
+    "height": "400",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/DarkStar.jpg",
+    "width": "200"
+  },
+  "name": "Darkstar",
+  "pageviews": 5735,
+  "partners": [
+    "Titanium Man",
+    "Crimson Dynamo",
+    "Griffin"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Darkforce manipulation",
+    "Flight",
+    "Teleportation",
+    "Concussive blasts",
+    "Ability to create solid constructs composed of Darkforce energy"
+  ],
+  "realName": "Laynia Sergeievna Petrovna (Krylova)",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Corporation",
@@ -13,27 +36,5 @@
     "Champions of Los Angeles",
     "KGB"
   ],
-  "aliases": "Tyomni Zvesda (Russian translation of codename); formerly \"Great Beast\" (with Vanguard & Ursa Major )",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [
-    "Titanium Man",
-    "Crimson Dynamo",
-    "Griffin"
-  ],
-  "powers": [],
-  "powersText": [
-    "Darkforce manipulation",
-    "Flight",
-    "Teleportation",
-    "Concussive blasts",
-    "Ability to create solid constructs composed of Darkforce energy"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/DarkStar.jpg",
-    "width": "200",
-    "height": "400"
-  },
-  "pageviews": 5735
+  "url": "https://en.wikipedia.org/wiki/Darkstar_(comics)"
 }

@@ -1,28 +1,31 @@
 {
-  "name": "Super-Adaptoid",
-  "url": "https://en.wikipedia.org/wiki/Super-Adaptoid",
-  "realName": "Super-Adaptoid",
+  "aliases": "Adaptoid, Alessandro Brannex",
   "creators": [
     "Stan Lee",
     "Gene Colan",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Avengers_no._45_%281967%29_%28front_cover%29.jpg/250px-Avengers_no._45_%281967%29_%28front_cover%29.jpg",
+    "width": "250"
+  },
+  "name": "Super-Adaptoid",
+  "pageviews": 4714,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to mimic superhuman abilities"
+  ],
+  "realName": "Super-Adaptoid",
+  "species": [
   ],
   "teams": [
     "A.I.M.",
     "Heavy Metal",
     "Phalanx"
   ],
-  "aliases": "Adaptoid, Alessandro Brannex",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to mimic superhuman abilities"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Avengers_no._45_%281967%29_%28front_cover%29.jpg/250px-Avengers_no._45_%281967%29_%28front_cover%29.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 4714
+  "url": "https://en.wikipedia.org/wiki/Super-Adaptoid"
 }

@@ -1,22 +1,21 @@
 {
-  "name": "The Sentry",
-  "url": "https://en.wikipedia.org/wiki/Sentry_(Robert_Reynolds)",
-  "realName": "Robert Reynolds",
+  "aliases": "The Void, Death",
   "creators": [
     "Paul Jenkins",
     "Jae Lee",
     "Rick Veitch"
   ],
-  "teams": [
-    "New Avengers",
-    "Mighty Avengers",
-    "Dark Avengers",
-    "Horsemen of Death"
+  "image": {
+    "height": "170",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Sentry%28Robert_Reynolds%29.jpg/250px-Sentry%28Robert_Reynolds%29.jpg",
+    "width": "250"
+  },
+  "name": "The Sentry",
+  "pageviews": 38583,
+  "partners": [
   ],
-  "aliases": "The Void, Death",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Sentry:",
     "Superhuman strength",
@@ -29,10 +28,14 @@
     "Void:",
     "Molecule Manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Sentry%28Robert_Reynolds%29.jpg/250px-Sentry%28Robert_Reynolds%29.jpg",
-    "width": "250",
-    "height": "170"
-  },
-  "pageviews": 38583
+  "realName": "Robert Reynolds",
+  "species": [
+  ],
+  "teams": [
+    "New Avengers",
+    "Mighty Avengers",
+    "Dark Avengers",
+    "Horsemen of Death"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sentry_(Robert_Reynolds)"
 }

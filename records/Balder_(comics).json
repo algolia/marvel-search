@@ -1,17 +1,18 @@
 {
-  "name": "Balder the Brave",
-  "url": "https://en.wikipedia.org/wiki/Balder_(comics)",
-  "realName": "Balder Odinson",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Asgardian"
+  "image": {
+    "height": "429",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Balder_%28comics%29.jpg/250px-Balder_%28comics%29.jpg",
+    "width": "250"
+  },
+  "name": "Balder the Brave",
+  "pageviews": 6497,
+  "partners": [
   ],
-  "partners": [],
   "powers": [
     "Superhuman strength",
     "speed",
@@ -24,10 +25,11 @@
     "and longevity",
     "Light manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Balder_%28comics%29.jpg/250px-Balder_%28comics%29.jpg",
-    "width": "250",
-    "height": "429"
-  },
-  "pageviews": 6497
+  "realName": "Balder Odinson",
+  "species": [
+    "Asgardian"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Balder_(comics)"
 }

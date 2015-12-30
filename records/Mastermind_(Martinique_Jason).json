@@ -1,21 +1,18 @@
 {
-  "name": "Mastermind",
-  "url": "https://en.wikipedia.org/wiki/Mastermind_(Martinique_Jason)",
-  "realName": "Martinique Wyngarde",
+  "aliases": "Martinique Jason, The Goddess",
   "creators": [
     "Jeph Loeb",
     "Tim Sale"
   ],
-  "teams": [
-    "X-Corps",
-    "Brotherhood of Mutants",
-    "Sisterhood of Mutants"
+  "image": {
+    "height": "438",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Martinique.png/250px-Martinique.png",
+    "width": "250"
+  },
+  "name": "Mastermind",
+  "pageviews": 1538,
+  "partners": [
   ],
-  "aliases": "Martinique Jason, The Goddess",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Illusion"
   ],
@@ -23,10 +20,14 @@
     "Illusion casting",
     "Telepathy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Martinique.png/250px-Martinique.png",
-    "width": "250",
-    "height": "438"
-  },
-  "pageviews": 1538
+  "realName": "Martinique Wyngarde",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Corps",
+    "Brotherhood of Mutants",
+    "Sisterhood of Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mastermind_(Martinique_Jason)"
 }

@@ -1,10 +1,30 @@
 {
-  "name": "Storm",
-  "url": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)",
-  "realName": "Ororo Munroe",
+  "aliases": "Ororo Iquadi T'Challa",
   "creators": [
     "Len Wein",
     "Dave Cockrum"
+  ],
+  "image": {
+    "height": "339",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/X-Men_Storm_Main.png/250px-X-Men_Storm_Main.png",
+    "width": "250"
+  },
+  "name": "Storm",
+  "pageviews": 68527,
+  "partners": [
+  ],
+  "powers": [
+    "Weather manipulation",
+    "Flight"
+  ],
+  "powersText": [
+    "Weather manipulation",
+    "Flight",
+    "Ecological empathy"
+  ],
+  "realName": "Ororo Munroe",
+  "species": [
+    "Human mutant"
   ],
   "teams": [
     "A-Force",
@@ -18,24 +38,5 @@
     "Hellfire Club",
     "X-Treme Sanctions Executive"
   ],
-  "aliases": "Ororo Iquadi T'Challa",
-  "species": [
-    "Human mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "Weather manipulation",
-    "Flight"
-  ],
-  "powersText": [
-    "Weather manipulation",
-    "Flight",
-    "Ecological empathy"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/X-Men_Storm_Main.png/250px-X-Men_Storm_Main.png",
-    "width": "250",
-    "height": "339"
-  },
-  "pageviews": 68527
+  "url": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
 }

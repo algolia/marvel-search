@@ -1,17 +1,19 @@
 {
-  "name": "Ultimo",
-  "url": "https://en.wikipedia.org/wiki/Ultimo_(Marvel_Comics)",
-  "realName": "Ultimo",
+  "aliases": "The Living Holocaust, Doomsday Machine",
   "creators": [
     "Stan Lee"
   ],
-  "teams": [
-    "Mandarin's Minions"
+  "image": {
+    "height": "350",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/be/Ultimo_%28robot%29.jpg",
+    "width": "198"
+  },
+  "name": "Ultimo",
+  "pageviews": 3250,
+  "partners": [
   ],
-  "aliases": "The Living Holocaust, Doomsday Machine",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed and durability",
@@ -21,10 +23,11 @@
     "Self-repair",
     "Ability to adapt his defenses"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/be/Ultimo_%28robot%29.jpg",
-    "width": "198",
-    "height": "350"
-  },
-  "pageviews": 3250
+  "realName": "Ultimo",
+  "species": [
+  ],
+  "teams": [
+    "Mandarin's Minions"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ultimo_(Marvel_Comics)"
 }

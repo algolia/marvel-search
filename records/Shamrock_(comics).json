@@ -1,23 +1,27 @@
 {
-  "name": "Shamrock",
-  "url": "https://en.wikipedia.org/wiki/Shamrock_(comics)",
-  "realName": "Molly Fitzgerald",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Bill Mantlo",
     "Steven Grant",
     "John Romita, Jr."
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mystic Mutant"
+  "image": {
+  },
+  "name": "Shamrock",
+  "pageviews": 1157,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "probability manipulation."
   ],
-  "image": {},
-  "pageviews": 1157
+  "realName": "Molly Fitzgerald",
+  "species": [
+    "Human Mystic Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shamrock_(comics)"
 }

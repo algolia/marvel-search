@@ -1,17 +1,23 @@
 {
-  "name": "Trump",
-  "url": "https://en.wikipedia.org/wiki/Trump_(comics)",
-  "realName": "Carlton Sanders",
+  "aliases": "",
   "creators": [
     "Steven Grant",
     "Geof Isherwood"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 242
+  "image": {
+  },
+  "name": "Trump",
+  "pageviews": 242,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Carlton Sanders",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Trump_(comics)"
 }

@@ -1,18 +1,15 @@
 {
-  "name": "Naga",
-  "url": "https://en.wikipedia.org/wiki/Naga_(Marvel_Comics)",
-  "realName": "Naga",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Marie Severin"
   ],
-  "teams": [
-    "Lemuria",
-    "Set"
+  "image": {
+  },
+  "name": "Naga",
+  "pageviews": 1053,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Serpent Crown",
     "mind control"
@@ -27,6 +24,12 @@
     "further increased strength levels",
     "immortality."
   ],
-  "image": {},
-  "pageviews": 1053
+  "realName": "Naga",
+  "species": [
+  ],
+  "teams": [
+    "Lemuria",
+    "Set"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Naga_(Marvel_Comics)"
 }

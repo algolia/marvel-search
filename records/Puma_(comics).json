@@ -1,23 +1,22 @@
 {
-  "name": "Puma",
-  "url": "https://en.wikipedia.org/wiki/Puma_(comics)",
-  "realName": "Thomas Fireheart",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [
-    "Daily Bugle",
-    "The Outlaws",
-    "MODOK"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "240",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Pumapicaf9.jpg/250px-Pumapicaf9.jpg",
+    "width": "250"
+  },
+  "name": "Puma",
+  "pageviews": 4696,
   "partners": [
     "Spider-Man",
     "Black Cat"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Extraordinary hand to hand combatant",
     "Skilled businessman",
@@ -37,10 +36,13 @@
     "Superhumanly acute senses",
     "Razor sharp claws and fangs"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Pumapicaf9.jpg/250px-Pumapicaf9.jpg",
-    "width": "250",
-    "height": "240"
-  },
-  "pageviews": 4696
+  "realName": "Thomas Fireheart",
+  "species": [
+  ],
+  "teams": [
+    "Daily Bugle",
+    "The Outlaws",
+    "MODOK"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Puma_(comics)"
 }

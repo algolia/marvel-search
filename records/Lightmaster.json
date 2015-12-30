@@ -1,18 +1,15 @@
 {
-  "name": "Lightmaster",
-  "url": "https://en.wikipedia.org/wiki/Lightmaster",
-  "realName": "Dr. Edward Lansky",
+  "aliases": "",
   "creators": [
     "Jim Shooter",
     "Sal Buscema"
   ],
-  "teams": [
-    "Masters of Evil",
-    "Empire State University"
+  "image": {
+  },
+  "name": "Lightmaster",
+  "pageviews": 935,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Light manipulation"
   ],
@@ -20,6 +17,12 @@
     "Power suit grants:",
     "Light manipulation"
   ],
-  "image": {},
-  "pageviews": 935
+  "realName": "Dr. Edward Lansky",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Empire State University"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lightmaster"
 }

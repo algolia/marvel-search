@@ -1,16 +1,20 @@
 {
-  "name": "Arsenal",
-  "url": "https://en.wikipedia.org/wiki/Arsenal_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Keith Giffen"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/AvengersAnnual-9.jpg/250px-AvengersAnnual-9.jpg",
+    "width": "250"
+  },
+  "name": "Arsenal",
+  "pageviews": 5780,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "Durability",
@@ -18,10 +22,10 @@
     "Laser Cannon",
     "Advanced Sensors"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/AvengersAnnual-9.jpg/250px-AvengersAnnual-9.jpg",
-    "width": "250",
-    "height": "386"
-  },
-  "pageviews": 5780
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Arsenal_(Marvel_Comics)"
 }

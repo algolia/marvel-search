@@ -1,21 +1,25 @@
 {
-  "name": "Flashfire",
-  "url": "https://en.wikipedia.org/wiki/Flashfire_(comics)",
-  "realName": "Grannz",
+  "aliases": "Tempest",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Imperial Guard"
+  "image": {
+  },
+  "name": "Flashfire",
+  "pageviews": 628,
+  "partners": [
   ],
-  "aliases": "Tempest",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "energy bolts"
   ],
-  "image": {},
-  "pageviews": 628
+  "realName": "Grannz",
+  "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Flashfire_(comics)"
 }

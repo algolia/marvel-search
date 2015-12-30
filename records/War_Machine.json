@@ -1,10 +1,33 @@
 {
-  "name": "War Machine",
-  "url": "https://en.wikipedia.org/wiki/War_Machine",
-  "realName": "James Rupert \"Rhodey\" Rhodes",
+  "aliases": "Iron Man Iron Patriot",
   "creators": [
     "David Michelinie",
     "Bob Layton"
+  ],
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/IROMcover33F.jpg/250px-IROMcover33F.jpg",
+    "width": "250"
+  },
+  "name": "War Machine",
+  "pageviews": 54186,
+  "partners": [
+  ],
+  "powers": [
+    "missile",
+    "laser blasters"
+  ],
+  "powersText": [
+    "Experienced soldier trained in armed and unarmed combat",
+    "Pilot and aviation engineer",
+    "Armor grants:",
+    "Superhuman strength",
+    "Supersonic flight at Mach 3",
+    "Energy repulsors",
+    "Variety of offensive and defensive weapons including missiles and laser blasters"
+  ],
+  "realName": "James Rupert \"Rhodey\" Rhodes",
+  "species": [
   ],
   "teams": [
     "United States Marine Corps",
@@ -20,26 +43,5 @@
     "Secret Avengers",
     "United States Department of Defense"
   ],
-  "aliases": "Iron Man Iron Patriot",
-  "species": [],
-  "partners": [],
-  "powers": [
-    "missile",
-    "laser blasters"
-  ],
-  "powersText": [
-    "Experienced soldier trained in armed and unarmed combat",
-    "Pilot and aviation engineer",
-    "Armor grants:",
-    "Superhuman strength",
-    "Supersonic flight at Mach 3",
-    "Energy repulsors",
-    "Variety of offensive and defensive weapons including missiles and laser blasters"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/IROMcover33F.jpg/250px-IROMcover33F.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 54186
+  "url": "https://en.wikipedia.org/wiki/War_Machine"
 }

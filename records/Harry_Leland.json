@@ -1,27 +1,29 @@
 {
-  "name": "Harry Leland",
-  "url": "https://en.wikipedia.org/wiki/Harry_Leland",
-  "realName": "Harold Leland",
+  "aliases": "Black Bishop",
   "creators": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "teams": [
-    "Hellfire Club"
+  "image": {
+    "height": "270",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/c8/Harry_Leland.jpg",
+    "width": "150"
+  },
+  "name": "Harry Leland",
+  "pageviews": 2672,
+  "partners": [
   ],
-  "aliases": "Black Bishop",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Able to increase mass"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/c8/Harry_Leland.jpg",
-    "width": "150",
-    "height": "270"
-  },
-  "pageviews": 2672
+  "realName": "Harold Leland",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hellfire Club"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Harry_Leland"
 }

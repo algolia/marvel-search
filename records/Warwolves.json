@@ -1,21 +1,26 @@
 {
-  "name": "Warwolves",
-  "url": "https://en.wikipedia.org/wiki/Warwolves",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Alan Davis"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "250",
     "url": "https://upload.wikimedia.org/wikipedia/en/0/00/Warwolf.jpg",
-    "width": "250",
-    "height": "250"
+    "width": "250"
   },
-  "pageviews": 593
+  "name": "Warwolves",
+  "pageviews": 593,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Warwolves"
 }

@@ -1,18 +1,19 @@
 {
-  "name": "Sleepwalker",
-  "url": "https://en.wikipedia.org/wiki/Sleepwalker_(comics)",
-  "realName": null,
+  "aliases": "Sleepy",
   "creators": [
     "Bob Budiansky"
   ],
-  "teams": [
-    "S.H.I.E.L.D.",
-    "Secret Defenders"
+  "image": {
+    "height": "282",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Sleepwalker_%28Marvel_comics%29.jpg/250px-Sleepwalker_%28Marvel_comics%29.jpg",
+    "width": "250"
+  },
+  "name": "Sleepwalker",
+  "pageviews": 3135,
+  "partners": [
   ],
-  "aliases": "Sleepy",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "enhanced agility",
@@ -24,10 +25,12 @@
     "Substance altering eyebeams.",
     "Immunity to sleep and other resistances due to alien physiology."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Sleepwalker_%28Marvel_comics%29.jpg/250px-Sleepwalker_%28Marvel_comics%29.jpg",
-    "width": "250",
-    "height": "282"
-  },
-  "pageviews": 3135
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Secret Defenders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sleepwalker_(comics)"
 }

@@ -1,21 +1,26 @@
 {
-  "name": "Space Phantom",
-  "url": "https://en.wikipedia.org/wiki/Space_Phantom",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Space Phantom",
+  "pageviews": 2951,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Shapeshifting",
     "Knowledge of sophisticated alien technology",
     "Advanced knowledge of time and time travel"
   ],
-  "image": {},
-  "pageviews": 2951
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Space_Phantom"
 }

@@ -1,23 +1,26 @@
 {
-  "name": "Whiteout",
-  "url": "https://en.wikipedia.org/wiki/Whiteout_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Marc Silvestri"
   ],
-  "teams": [
-    "Savage Land Mutates"
+  "image": {
+  },
+  "name": "Whiteout",
+  "pageviews": 345,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Savage Land Mutate"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "blinding flash."
   ],
-  "image": {},
-  "pageviews": 345
+  "realName": null,
+  "species": [
+    "Savage Land Mutate"
+  ],
+  "teams": [
+    "Savage Land Mutates"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Whiteout_(Marvel_Comics)"
 }

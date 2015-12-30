@@ -1,21 +1,18 @@
 {
-  "name": "Tattoo",
-  "url": "https://en.wikipedia.org/wiki/Tattoo_(comics)",
-  "realName": "Christine Cord",
+  "aliases": "Longstrike",
   "creators": [
     "Grant Morrison",
     "Frank Quitely"
   ],
-  "teams": [
-    "New Warriors",
-    "Xavier Institute",
-    "Omega Gang"
+  "image": {
+    "height": "315",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Longstrike.jpg/200px-Longstrike.jpg",
+    "width": "200"
+  },
+  "name": "Tattoo",
+  "pageviews": 2221,
+  "partners": [
   ],
-  "aliases": "Longstrike",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Stilt-Man"
   ],
@@ -26,10 +23,14 @@
     "Ability to form words or pictures on skin",
     "disrupt neurochemistry of others by phasing through them."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Longstrike.jpg/200px-Longstrike.jpg",
-    "width": "200",
-    "height": "315"
-  },
-  "pageviews": 2221
+  "realName": "Christine Cord",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "New Warriors",
+    "Xavier Institute",
+    "Omega Gang"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tattoo_(comics)"
 }

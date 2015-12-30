@@ -1,19 +1,22 @@
 {
-  "name": "The Walrus",
-  "url": "https://en.wikipedia.org/wiki/Walrus_(comics)",
-  "realName": "Hubert Carpenter",
+  "aliases": "",
   "creators": [
     "J.M. DeMatteis",
     "Peter Gillis",
     "Alan Kupperberg"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "237",
+    "url": "https://upload.wikimedia.org/wikipedia/en/e/ec/Walrus_comics.jpg",
+    "width": "238"
+  },
+  "name": "The Walrus",
+  "pageviews": 926,
   "partners": [
     "White Rabbit"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Minimal superhuman strength",
     "agility and endurance",
@@ -21,10 +24,10 @@
     "Ability to distract enemies by making them laugh uncontrollably",
     "hold his breath much longer than humans and survive in freezing water via his layer of blubber"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/ec/Walrus_comics.jpg",
-    "width": "238",
-    "height": "237"
-  },
-  "pageviews": 926
+  "realName": "Hubert Carpenter",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Walrus_(comics)"
 }

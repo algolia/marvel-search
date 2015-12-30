@@ -1,19 +1,18 @@
 {
-  "name": "Bloodhawk",
-  "url": "https://en.wikipedia.org/wiki/Bloodhawk",
-  "realName": "Lemuel",
+  "aliases": "",
   "creators": [
     "John Francis Moore",
     "Ron Lim"
   ],
-  "teams": [
-    "X-Men 2099"
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Wot6.jpg/250px-Wot6.jpg",
+    "width": "250"
+  },
+  "name": "Bloodhawk",
+  "pageviews": 1235,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "hawk"
   ],
@@ -25,10 +24,12 @@
     "Radiation immunity",
     "Razor-sharp claws and teeth"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Wot6.jpg/250px-Wot6.jpg",
-    "width": "250",
-    "height": "300"
-  },
-  "pageviews": 1235
+  "realName": "Lemuel",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men 2099"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bloodhawk"
 }

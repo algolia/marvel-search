@@ -1,23 +1,21 @@
 {
-  "name": "Mister Sinister",
-  "url": "https://en.wikipedia.org/wiki/Mister_Sinister",
-  "realName": "Nathaniel Essex",
+  "aliases": "Nathan Milbury, Robert Windsor",
   "creators": [
     "Chris Claremont",
     "Marc Silvestri"
   ],
-  "teams": [
-    "Marauders",
-    "Nasty Boys"
-  ],
-  "aliases": "Nathan Milbury, Robert Windsor",
-  "species": [
-    "Human Mutate"
-  ],
+  "image": {
+    "height": "373",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Sinister89ohtmu.png/250px-Sinister89ohtmu.png",
+    "width": "250"
+  },
+  "name": "Mister Sinister",
+  "pageviews": 38481,
   "partners": [
     "Apocalypse"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Master manipulator and planner",
     "Superhuman strength and durability",
@@ -31,10 +29,13 @@
     "Teleportation via tesseract headquarters",
     "Prolonged longevity"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Sinister89ohtmu.png/250px-Sinister89ohtmu.png",
-    "width": "250",
-    "height": "373"
-  },
-  "pageviews": 38481
+  "realName": "Nathaniel Essex",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+    "Marauders",
+    "Nasty Boys"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mister_Sinister"
 }

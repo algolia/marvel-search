@@ -1,16 +1,17 @@
 {
-  "name": "Armless Tiger Man",
-  "url": "https://en.wikipedia.org/wiki/Armless_Tiger_Man",
-  "realName": "Gustav Hertz",
+  "aliases": "",
   "creators": [
     "Paul Gustavson",
     "Al Bellman"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Armless Tiger Man",
+  "pageviews": 1232,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Sharp teeth that allow for grabbing on to a chain",
     "swing on a rope and bite people",
@@ -18,6 +19,10 @@
     "hurl knives from between his toes",
     "and carry heavy weights with his feet"
   ],
-  "image": {},
-  "pageviews": 1232
+  "realName": "Gustav Hertz",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Armless_Tiger_Man"
 }

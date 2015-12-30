@@ -1,15 +1,18 @@
 {
-  "name": "Firebrand",
-  "url": "https://en.wikipedia.org/wiki/Firebrand_(Marvel_Comics)",
-  "realName": "Gary Gilbert",
+  "aliases": "",
   "creators": [
     "Archie Goodwin",
     "Don Heck"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "350",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Firebrand_001.jpg",
+    "width": "211"
+  },
+  "name": "Firebrand",
+  "pageviews": 2394,
+  "partners": [
+  ],
   "powers": [
     "Powered armor"
   ],
@@ -20,10 +23,10 @@
     "Thermal blasts via flamethrowers",
     "Resistance to fire"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Firebrand_001.jpg",
-    "width": "211",
-    "height": "350"
-  },
-  "pageviews": 2394
+  "realName": "Gary Gilbert",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Firebrand_(Marvel_Comics)"
 }

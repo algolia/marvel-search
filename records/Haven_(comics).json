@@ -1,26 +1,29 @@
 {
-  "name": "Haven",
-  "url": "https://en.wikipedia.org/wiki/Haven_(comics)",
-  "realName": "Rahda Dastoor",
+  "aliases": "",
   "creators": [
     "J.M. DeMatteis",
     "Greg Luzniak"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "image": {
+    "height": "340",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/84/Haven%28comics%29.jpg",
+    "width": "250"
+  },
+  "name": "Haven",
+  "pageviews": 842,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to open dimensional portals",
     "Reality manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/84/Haven%28comics%29.jpg",
-    "width": "250",
-    "height": "340"
-  },
-  "pageviews": 842
+  "realName": "Rahda Dastoor",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Haven_(comics)"
 }

@@ -1,31 +1,33 @@
 {
-  "name": "Blaquesmith",
-  "url": "https://en.wikipedia.org/wiki/Blaquesmith",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Jeph Loeb",
     "Ian Churchill"
   ],
-  "teams": [
-    "Askani",
-    "Underground"
+  "image": {
+    "height": "198",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/440px-Blaqsmth.jpg/250px-440px-Blaqsmth.jpg",
+    "width": "250"
+  },
+  "name": "Blaquesmith",
+  "pageviews": 1121,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Telepathy",
     "Telekinesis",
     "Time travel",
     "Superhuman intelligence"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/440px-Blaqsmth.jpg/250px-440px-Blaqsmth.jpg",
-    "width": "250",
-    "height": "198"
-  },
-  "pageviews": 1121
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Askani",
+    "Underground"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blaquesmith"
 }

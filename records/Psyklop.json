@@ -1,18 +1,19 @@
 {
-  "name": "Psyklop",
-  "url": "https://en.wikipedia.org/wiki/Psyklop",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Harlan Ellison",
     "Roy Thomas",
     "Sal Buscema",
     "Jim Mooney"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Psyklop",
+  "pageviews": 600,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Genius-level intellect",
     "Project energy blasts and hypnotize people via his single eye",
@@ -25,6 +26,10 @@
     "Clawed digits",
     "Double-jointed limbs"
   ],
-  "image": {},
-  "pageviews": 600
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Psyklop"
 }

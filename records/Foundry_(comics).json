@@ -1,22 +1,26 @@
 {
-  "name": "Foundry",
-  "url": "https://en.wikipedia.org/wiki/Foundry_(comics)",
-  "realName": "unknown",
-  "creators": [],
-  "teams": [
-    "Mandarin's Avengers"
-  ],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "170",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/Foundry-marvel.jpg",
+    "width": "250"
+  },
+  "name": "Foundry",
+  "pageviews": 327,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "fires eyeblasts and can morph hands into weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/Foundry-marvel.jpg",
-    "width": "250",
-    "height": "170"
-  },
-  "pageviews": 327
+  "realName": "unknown",
+  "species": [
+  ],
+  "teams": [
+    "Mandarin's Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Foundry_(comics)"
 }

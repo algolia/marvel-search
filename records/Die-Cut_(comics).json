@@ -1,19 +1,24 @@
 {
-  "name": "Die-Cut",
-  "url": "https://en.wikipedia.org/wiki/Die-Cut_(comics)",
-  "realName": "Czorn Yson",
+  "aliases": "",
   "creators": [
     "Glenn Dakin",
     "John Royle"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Die-Cut",
+  "pageviews": 350,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "A blade called the \"Pscythe\" that can cut through any material"
   ],
-  "image": {},
-  "pageviews": 350
+  "realName": "Czorn Yson",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Die-Cut_(comics)"
 }

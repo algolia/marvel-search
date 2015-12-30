@@ -1,21 +1,26 @@
 {
-  "name": "Black Spectre",
-  "url": "https://en.wikipedia.org/wiki/Black_Spectre",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Steve Gerber",
     "Bob Brown"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "298",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Black_Spectre_%281974%29.jpg/250px-Black_Spectre_%281974%29.jpg",
-    "width": "250",
-    "height": "298"
+    "width": "250"
   },
-  "pageviews": 2990
+  "name": "Black Spectre",
+  "pageviews": 2990,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Spectre"
 }

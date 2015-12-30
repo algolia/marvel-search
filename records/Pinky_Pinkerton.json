@@ -1,20 +1,25 @@
 {
-  "name": "Pinky Pinkerton",
-  "url": "https://en.wikipedia.org/wiki/Pinky_Pinkerton",
-  "realName": "Percival Pinkerton",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+  },
+  "name": "Pinky Pinkerton",
+  "pageviews": 1708,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Percival Pinkerton",
+  "species": [
   ],
   "teams": [
     "Howling Commandos",
     "S.H.I.E.L.D."
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 1708
+  "url": "https://en.wikipedia.org/wiki/Pinky_Pinkerton"
 }

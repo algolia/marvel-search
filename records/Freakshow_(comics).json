@@ -1,26 +1,28 @@
 {
-  "name": "Freakshow",
-  "url": "https://en.wikipedia.org/wiki/Freakshow_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont"
+  ],
+  "image": {
+    "height": "335",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b8/Freakshow-by-Aaron-Lopresti.jpg",
+    "width": "250"
+  },
+  "name": "Freakshow",
+  "pageviews": 702,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to transform into a variety of monstrous forms with unique abilities"
+  ],
+  "realName": null,
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Genoshan Excalibur"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to transform into a variety of monstrous forms with unique abilities"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/b8/Freakshow-by-Aaron-Lopresti.jpg",
-    "width": "250",
-    "height": "335"
-  },
-  "pageviews": 702
+  "url": "https://en.wikipedia.org/wiki/Freakshow_(comics)"
 }

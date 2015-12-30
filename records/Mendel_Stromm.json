@@ -1,25 +1,28 @@
 {
-  "name": "Dr. Mendel Stromm",
-  "url": "https://en.wikipedia.org/wiki/Mendel_Stromm",
-  "realName": "",
+  "aliases": "Robot-Master, Gaunt",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Oscorp"
+  "image": {
+    "height": "374",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Stromm.jpg/249px-Stromm.jpg",
+    "width": "249"
+  },
+  "name": "Dr. Mendel Stromm",
+  "pageviews": 2521,
+  "partners": [
   ],
-  "aliases": "Robot-Master, Gaunt",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Cybernetic implants that provide superhuman strength and regenerative powers."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Stromm.jpg/249px-Stromm.jpg",
-    "width": "249",
-    "height": "374"
-  },
-  "pageviews": 2521
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Oscorp"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mendel_Stromm"
 }

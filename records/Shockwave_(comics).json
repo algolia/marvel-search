@@ -1,26 +1,30 @@
 {
-  "name": "Shockwave",
-  "url": "https://en.wikipedia.org/wiki/Shockwave_(comics)",
-  "realName": "Lancaster Sneed",
+  "aliases": "",
   "creators": [
     "Tom Sutton",
     "Doug Moench",
     "Paul Gulacy"
+  ],
+  "image": {
+  },
+  "name": "Shockwave",
+  "pageviews": 1337,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "wears exoskeleton",
+    "enhanced strength",
+    "generate electric shock on contact"
+  ],
+  "realName": "Lancaster Sneed",
+  "species": [
   ],
   "teams": [
     "MI6",
     "S.H.I.E.L.D.",
     "Masters of Evil"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "wears exoskeleton",
-    "enhanced strength",
-    "generate electric shock on contact"
-  ],
-  "image": {},
-  "pageviews": 1337
+  "url": "https://en.wikipedia.org/wiki/Shockwave_(comics)"
 }

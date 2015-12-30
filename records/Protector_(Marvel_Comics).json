@@ -1,24 +1,27 @@
 {
-  "name": "Protector",
-  "url": "https://en.wikipedia.org/wiki/Protector_(Marvel_Comics)",
-  "realName": "Thoral Rul",
+  "aliases": "",
   "creators": [
     "Marv Wolfman",
     "Keith Pollard",
     "Joe Sinnott"
   ],
-  "teams": [
-    "Champions of Xandar"
+  "image": {
+  },
+  "name": "Protector",
+  "pageviews": 529,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Xandar"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "various psionic powers"
   ],
-  "image": {},
-  "pageviews": 529
+  "realName": "Thoral Rul",
+  "species": [
+    "Xandar"
+  ],
+  "teams": [
+    "Champions of Xandar"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Protector_(Marvel_Comics)"
 }

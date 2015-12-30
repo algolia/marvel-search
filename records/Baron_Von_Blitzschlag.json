@@ -1,27 +1,30 @@
 {
-  "name": "Baron Von Blitzschlag",
-  "url": "https://en.wikipedia.org/wiki/Baron_Von_Blitzschlag",
-  "realName": "Werner Von Blitzschlag",
+  "aliases": "",
   "creators": [
     "Dan Slott",
     "Stefano Caselli"
+  ],
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/BVonBlitzschlag.jpg",
+    "width": "243"
+  },
+  "name": "Baron Von Blitzschlag",
+  "pageviews": 2177,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Genius level intellect and an ability to generate and control electricity"
+  ],
+  "realName": "Werner Von Blitzschlag",
+  "species": [
   ],
   "teams": [
     "Avengers: The Initiative",
     "Nazi Party",
     "Commission on Superhuman Activities"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Genius level intellect and an ability to generate and control electricity"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/BVonBlitzschlag.jpg",
-    "width": "243",
-    "height": "450"
-  },
-  "pageviews": 2177
+  "url": "https://en.wikipedia.org/wiki/Baron_Von_Blitzschlag"
 }

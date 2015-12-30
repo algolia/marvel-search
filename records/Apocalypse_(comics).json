@@ -1,22 +1,16 @@
 {
-  "name": "Apocalypse",
-  "url": "https://en.wikipedia.org/wiki/Apocalypse_(comics)",
-  "realName": null,
+  "aliases": "The First One, Genesis, En Sabah Nur<br />Various mythological deities",
   "creators": [
     "Louise Simonson",
     "Jackson Guice"
   ],
-  "teams": [
-    "Four Horsemen",
-    "Dark Riders",
-    "Clan Akkaba",
-    "Alliance of Evil",
-    "S.H.I.E.L.D."
-  ],
-  "aliases": "The First One, Genesis, En Sabah Nur<br />Various mythological deities",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+    "height": "329",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/48/Apocmessiahwar1.png",
+    "width": "250"
+  },
+  "name": "Apocalypse",
+  "pageviews": 397365,
   "partners": [
     "Mister Sinister",
     "Ozymandias"
@@ -42,10 +36,16 @@
     "DNAmanipulation",
     "Psionic Manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/48/Apocmessiahwar1.png",
-    "width": "250",
-    "height": "329"
-  },
-  "pageviews": 397365
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Four Horsemen",
+    "Dark Riders",
+    "Clan Akkaba",
+    "Alliance of Evil",
+    "S.H.I.E.L.D."
+  ],
+  "url": "https://en.wikipedia.org/wiki/Apocalypse_(comics)"
 }

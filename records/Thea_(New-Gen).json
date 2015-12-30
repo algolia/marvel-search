@@ -1,14 +1,16 @@
 {
-  "name": "Thea",
-  "url": "https://en.wikipedia.org/wiki/Thea_(New-Gen)",
-  "realName": "None",
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [
-    "Human"
+  "creators": [
   ],
-  "partners": [],
+  "image": {
+    "height": "329",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/54/Thea_New_Gen.jpg",
+    "width": "201"
+  },
+  "name": "Thea",
+  "pageviews": 95,
+  "partners": [
+  ],
   "powers": [
     "Levitation"
   ],
@@ -16,10 +18,11 @@
     "Precognition",
     "Levitation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/54/Thea_New_Gen.jpg",
-    "width": "201",
-    "height": "329"
-  },
-  "pageviews": 95
+  "realName": "None",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thea_(New-Gen)"
 }

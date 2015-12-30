@@ -1,21 +1,25 @@
 {
-  "name": "Black Dwarf",
-  "url": "https://en.wikipedia.org/wiki/Black_Dwarf_(comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Jonathan Hickman",
     "Jerome Opeña"
   ],
-  "teams": [
-    "Black Order"
+  "image": {
+  },
+  "name": "Black Dwarf",
+  "pageviews": 3472,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Super-Strength"
   ],
-  "image": {},
-  "pageviews": 3472
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Black Order"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Dwarf_(comics)"
 }

@@ -1,20 +1,21 @@
 {
-  "name": "Nefarius",
-  "url": "https://en.wikipedia.org/wiki/Nefarius",
-  "realName": "Lloyd Bloch",
+  "aliases": "Moonstone, Byron Becton",
   "creators": [
     "Steve Englehart",
     "Mike Friedrich",
     "Sal Buscema"
   ],
-  "teams": [
-    "Secret Empire",
-    "Maggia"
+  "image": {
+    "height": "302",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Cap_170.gif/200px-Cap_170.gif",
+    "width": "200"
+  },
+  "name": "Nefarius",
+  "pageviews": 1041,
+  "partners": [
   ],
-  "aliases": "Moonstone, Byron Becton",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(As Nefarius) Seemingly unlimited superhuman Strength",
     "speed and Stamina",
@@ -22,10 +23,12 @@
     "invulnerability",
     "(As Moonstone) Gravimetric powers derived from alien gem"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Cap_170.gif/200px-Cap_170.gif",
-    "width": "200",
-    "height": "302"
-  },
-  "pageviews": 1041
+  "realName": "Lloyd Bloch",
+  "species": [
+  ],
+  "teams": [
+    "Secret Empire",
+    "Maggia"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nefarius"
 }

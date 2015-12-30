@@ -1,28 +1,30 @@
 {
-  "name": "Matador",
-  "url": "https://en.wikipedia.org/wiki/Matador_(Marvel_Comics)",
-  "realName": "Manuel Eloganto",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Wally Wood"
   ],
-  "teams": [
-    "Emissaries of Evil"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Daredevil_cover_-_number_5.jpg/250px-Daredevil_cover_-_number_5.jpg",
+    "width": "250"
+  },
+  "name": "Matador",
+  "pageviews": 1342,
   "partners": [
     "Man-Bull"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled swordsman",
     "Trained bullfighter"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Daredevil_cover_-_number_5.jpg/250px-Daredevil_cover_-_number_5.jpg",
-    "width": "250",
-    "height": "382"
-  },
-  "pageviews": 1342
+  "realName": "Manuel Eloganto",
+  "species": [
+  ],
+  "teams": [
+    "Emissaries of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Matador_(Marvel_Comics)"
 }

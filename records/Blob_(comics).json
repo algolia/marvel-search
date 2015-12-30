@@ -1,10 +1,32 @@
 {
-  "name": "Blob",
-  "url": "https://en.wikipedia.org/wiki/Blob_(comics)",
-  "realName": "Frederick J. \"Fred\" Dukes",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "341",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Blobm.PNG/250px-Blobm.PNG",
+    "width": "250"
+  },
+  "name": "Blob",
+  "pageviews": 17927,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Currently depowered",
+    "Previously:",
+    "Superhuman strength",
+    "endurance",
+    "durability and resilience",
+    "Personal gravity field",
+    "Near impenetrable skin"
+  ],
+  "realName": "Frederick J. \"Fred\" Dukes",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Secret Empire",
@@ -15,25 +37,5 @@
     "Freedom Force",
     "Defenders"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Currently depowered",
-    "Previously:",
-    "Superhuman strength",
-    "endurance",
-    "durability and resilience",
-    "Personal gravity field",
-    "Near impenetrable skin"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Blobm.PNG/250px-Blobm.PNG",
-    "width": "250",
-    "height": "341"
-  },
-  "pageviews": 17927
+  "url": "https://en.wikipedia.org/wiki/Blob_(comics)"
 }

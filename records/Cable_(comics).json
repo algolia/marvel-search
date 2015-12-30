@@ -1,27 +1,18 @@
 {
-  "name": "Cable",
-  "url": "https://en.wikipedia.org/wiki/Cable_(comics)",
-  "realName": "Nathan Christopher Charles Summers",
+  "aliases": "Nathan Winters, Nathan Dayspring, Askani'son, Soldier X, Chosen One, Traveler",
   "creators": [
     "Chris Claremont",
     "Rick Leonardi",
     "Louise Simonson",
     "Rob Liefeld"
   ],
-  "teams": [
-    "X-Men",
-    "X-Force",
-    "Askani",
-    "Six Pack",
-    "The Twelve",
-    "New Mutants",
-    "Avengers Unity Division",
-    "The Underground"
-  ],
-  "aliases": "Nathan Winters, Nathan Dayspring, Askani'son, Soldier X, Chosen One, Traveler",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Cable-promo-image.jpg/250px-Cable-promo-image.jpg",
+    "width": "250"
+  },
+  "name": "Cable",
+  "pageviews": 63612,
   "partners": [
     "Domino",
     "Rachel Summers",
@@ -41,10 +32,19 @@
     "Technopathy",
     "Expert marksman"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Cable-promo-image.jpg/250px-Cable-promo-image.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 63612
+  "realName": "Nathan Christopher Charles Summers",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men",
+    "X-Force",
+    "Askani",
+    "Six Pack",
+    "The Twelve",
+    "New Mutants",
+    "Avengers Unity Division",
+    "The Underground"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cable_(comics)"
 }

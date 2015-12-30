@@ -1,10 +1,30 @@
 {
-  "name": "Taskmaster",
-  "url": "https://en.wikipedia.org/wiki/Taskmaster",
-  "realName": "Anthony \"Tony\" Masters",
+  "aliases": "Contingency T",
   "creators": [
     "David Michelinie",
     "George Pérez"
+  ],
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Cover_of_Avengers-196.jpg/250px-Cover_of_Avengers-196.jpg",
+    "width": "250"
+  },
+  "name": "Taskmaster",
+  "pageviews": 36500,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Highly skilled athlete",
+    "Exceptional martial artist",
+    "Skilled swordsman",
+    "Accurate marksman",
+    "Photographic reflexes",
+    "Voice mimicry"
+  ],
+  "realName": "Anthony \"Tony\" Masters",
+  "species": [
   ],
   "teams": [
     "A.I.M.",
@@ -17,22 +37,5 @@
     "S.H.I.E.L.D.",
     "Thunderbolts"
   ],
-  "aliases": "Contingency T",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Highly skilled athlete",
-    "Exceptional martial artist",
-    "Skilled swordsman",
-    "Accurate marksman",
-    "Photographic reflexes",
-    "Voice mimicry"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Cover_of_Avengers-196.jpg/250px-Cover_of_Avengers-196.jpg",
-    "width": "250",
-    "height": "388"
-  },
-  "pageviews": 36500
+  "url": "https://en.wikipedia.org/wiki/Taskmaster"
 }

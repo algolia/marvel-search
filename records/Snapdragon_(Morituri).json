@@ -1,26 +1,29 @@
 {
-  "name": "Snapdragon",
-  "url": "https://en.wikipedia.org/wiki/Snapdragon_(Morituri)",
-  "realName": "Lorna Leigh Raeburn",
+  "aliases": "",
   "creators": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "teams": [
-    "Strikeforce: Morituri"
+  "image": {
+    "height": "288",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Snapdragon_Morituri.jpg/250px-Snapdragon_Morituri.jpg",
+    "width": "250"
+  },
+  "name": "Snapdragon",
+  "pageviews": 196,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Plasma bursts",
     "Enhanced strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Snapdragon_Morituri.jpg/250px-Snapdragon_Morituri.jpg",
-    "width": "250",
-    "height": "288"
-  },
-  "pageviews": 196
+  "realName": "Lorna Leigh Raeburn",
+  "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Snapdragon_(Morituri)"
 }

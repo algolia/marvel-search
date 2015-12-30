@@ -1,21 +1,26 @@
 {
-  "name": "Copperhead",
-  "url": "https://en.wikipedia.org/wiki/Copperhead_(Marvel_Comics)",
-  "realName": "Lawrence Chesney",
+  "aliases": "",
   "creators": [
     "Len Wein",
     "Marv Wolfman",
     "Gene Colan"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Copperhead",
+  "pageviews": 1158,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Wears a suit of copper armor",
     "Use of a gun that shoots paralyzing or lethal darts"
   ],
-  "image": {},
-  "pageviews": 1158
+  "realName": "Lawrence Chesney",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Copperhead_(Marvel_Comics)"
 }

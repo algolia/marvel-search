@@ -1,21 +1,20 @@
 {
-  "name": "Titanium Man",
-  "url": "https://en.wikipedia.org/wiki/Titanium_Man",
-  "realName": "(I) Boris Bullski<br>(II) Kondrati \"Gremlin\" Topolov",
+  "aliases": "(I) Boris the Merciless, the Other, the Commander",
   "creators": [
     "Stan Lee",
     "Don Heck"
   ],
-  "teams": [
-    "KGB",
-    "Titanic Three",
-    "Secret Defenders",
-    "Soviet Super-Soldiers"
+  "image": {
+    "height": "376",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/af/Titaniummanwarmachine.png",
+    "width": "250"
+  },
+  "name": "Titanium Man",
+  "pageviews": 6992,
+  "partners": [
   ],
-  "aliases": "(I) Boris the Merciless, the Other, the Commander",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(Boris Bullski):",
     "Enhanced strength",
@@ -31,10 +30,14 @@
     "Projection of constrictive force \"rings\" and electromagnetically paralytic beams",
     "Resistance to conventional artillery"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/af/Titaniummanwarmachine.png",
-    "width": "250",
-    "height": "376"
-  },
-  "pageviews": 6992
+  "realName": "(I) Boris Bullski<br>(II) Kondrati \"Gremlin\" Topolov",
+  "species": [
+  ],
+  "teams": [
+    "KGB",
+    "Titanic Three",
+    "Secret Defenders",
+    "Soviet Super-Soldiers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Titanium_Man"
 }

@@ -1,15 +1,18 @@
 {
-  "name": "Iron Patriot",
-  "url": "https://en.wikipedia.org/wiki/Iron_Patriot",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "Dark Avengers"
-  ],
   "aliases": "American Son",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/22/Iron_Patriot.jpg",
+    "width": "250"
+  },
+  "name": "Iron Patriot",
+  "pageviews": 16759,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "Flight",
@@ -19,10 +22,11 @@
     "Flamethrowers",
     "Communications system via helmet"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/22/Iron_Patriot.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 16759
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Dark Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Iron_Patriot"
 }

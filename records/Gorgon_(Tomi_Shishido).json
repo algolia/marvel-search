@@ -1,22 +1,18 @@
 {
-  "name": "The Gorgon",
-  "url": "https://en.wikipedia.org/wiki/Gorgon_(Tomi_Shishido)",
-  "realName": "Tomi Shishido",
+  "aliases": "Wolverine",
   "creators": [
     "Mark Millar",
     "John Romita, Jr."
   ],
-  "teams": [
-    "Hydra",
-    "Hand",
-    "H.A.M.M.E.R.",
-    "Dark Avengers"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Wolverine30.jpg/250px-Wolverine30.jpg",
+    "width": "250"
+  },
+  "name": "The Gorgon",
+  "pageviews": 7678,
+  "partners": [
   ],
-  "aliases": "Wolverine",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "healing factor",
     "Telepathy"
@@ -38,10 +34,15 @@
     "Extraordinary hand to hand combatant",
     "Expert swordsman"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Wolverine30.jpg/250px-Wolverine30.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 7678
+  "realName": "Tomi Shishido",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hydra",
+    "Hand",
+    "H.A.M.M.E.R.",
+    "Dark Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gorgon_(Tomi_Shishido)"
 }

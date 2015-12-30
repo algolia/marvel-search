@@ -1,17 +1,18 @@
 {
-  "name": "Shooting Star",
-  "url": "https://en.wikipedia.org/wiki/Shooting_Star_(comics)",
-  "realName": "Victoria Star",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "teams": [
-    "The Rangers"
+  "image": {
+    "height": "293",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Shootingstarh265.jpg/225px-Shootingstarh265.jpg",
+    "width": "225"
+  },
+  "name": "Shooting Star",
+  "pageviews": 652,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "gyroscope"
   ],
@@ -19,10 +20,11 @@
     "Expert markswoman and rodeo rider",
     "Wears specially-designed \"star shooters\" and boots which contain miniature gyroscopes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Shootingstarh265.jpg/225px-Shootingstarh265.jpg",
-    "width": "225",
-    "height": "293"
-  },
-  "pageviews": 652
+  "realName": "Victoria Star",
+  "species": [
+  ],
+  "teams": [
+    "The Rangers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shooting_Star_(comics)"
 }

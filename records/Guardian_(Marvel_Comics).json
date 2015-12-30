@@ -1,29 +1,32 @@
 {
-  "name": "Guardian",
-  "url": "https://en.wikipedia.org/wiki/Guardian_(Marvel_Comics)",
-  "realName": "James MacDonald Hudson, Jr.",
+  "aliases": "Weapon Alpha, Vindicator",
   "creators": [
     "John Byrne"
   ],
-  "teams": [
-    "Alpha Flight",
-    "Beta Flight",
-    "Department H"
+  "image": {
+    "height": "424",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Alpha_flight_89_guardian.jpg/250px-Alpha_flight_89_guardian.jpg",
+    "width": "250"
+  },
+  "name": "Guardian",
+  "pageviews": 7046,
+  "partners": [
   ],
-  "aliases": "Weapon Alpha, Vindicator",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Physical attributes enhanced to peak of human potential",
     "Flight",
     "Personal force field",
     "Ability to fire energy blasts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Alpha_flight_89_guardian.jpg/250px-Alpha_flight_89_guardian.jpg",
-    "width": "250",
-    "height": "424"
-  },
-  "pageviews": 7046
+  "realName": "James MacDonald Hudson, Jr.",
+  "species": [
+  ],
+  "teams": [
+    "Alpha Flight",
+    "Beta Flight",
+    "Department H"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Guardian_(Marvel_Comics)"
 }

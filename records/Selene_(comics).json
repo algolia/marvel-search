@@ -1,20 +1,16 @@
 {
-  "name": "Selene",
-  "url": "https://en.wikipedia.org/wiki/Selene_(comics)",
-  "realName": "Selene Gallio",
+  "aliases": "Black Queen , Black Priestess",
   "creators": [
     "Chris Claremont",
     "Sal Buscema"
   ],
-  "teams": [
-    "Hellfire Club",
-    "Externals",
-    "Sisterhood of Mutants"
-  ],
-  "aliases": "Black Queen , Black Priestess",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+    "height": "408",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/SELENEx.png/155px-SELENEx.png",
+    "width": "155"
+  },
+  "name": "Selene",
+  "pageviews": 33573,
   "partners": [
     "Eli Bard",
     "Wither",
@@ -35,10 +31,14 @@
     "Reality warping",
     "Extensive magical knowledge and powers"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/SELENEx.png/155px-SELENEx.png",
-    "width": "155",
-    "height": "408"
-  },
-  "pageviews": 33573
+  "realName": "Selene Gallio",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hellfire Club",
+    "Externals",
+    "Sisterhood of Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Selene_(comics)"
 }

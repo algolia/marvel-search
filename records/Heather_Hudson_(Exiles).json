@@ -1,19 +1,17 @@
 {
-  "name": "Heather Hudson",
-  "url": "https://en.wikipedia.org/wiki/Heather_Hudson_(Exiles)",
-  "realName": "Heather McDaniel Hudson",
+  "aliases": "Sasquatch",
   "creators": [
     "Judd Winick",
     "Mike McKone"
   ],
-  "teams": [
-    "Exiles",
-    "Alpha Flight"
+  "image": {
+  },
+  "name": "Heather Hudson",
+  "pageviews": 788,
+  "partners": [
   ],
-  "aliases": "Sasquatch",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Formerly: Capable of assuming the form of the Great Beast Tanaraq",
     "In form:",
@@ -21,6 +19,12 @@
     "stamina and resistance",
     "-Regenerative factor"
   ],
-  "image": {},
-  "pageviews": 788
+  "realName": "Heather McDaniel Hudson",
+  "species": [
+  ],
+  "teams": [
+    "Exiles",
+    "Alpha Flight"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Heather_Hudson_(Exiles)"
 }

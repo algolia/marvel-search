@@ -1,19 +1,18 @@
 {
-  "name": "Alpha the Ultimate Mutant",
-  "url": "https://en.wikipedia.org/wiki/Alpha_the_Ultimate_Mutant",
-  "realName": "Alpha",
+  "aliases": "",
   "creators": [
     "Len Wein",
     "Sal Buscema"
   ],
-  "teams": [
-    "Brotherhood of Evil Mutants"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/AlphaMutant.jpg/250px-AlphaMutant.jpg",
+    "width": "250"
+  },
+  "name": "Alpha the Ultimate Mutant",
+  "pageviews": 2503,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Force field",
     "Teleportation",
@@ -27,10 +26,12 @@
     "Telepathy",
     "Continuously increasing intellect"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/AlphaMutant.jpg/250px-AlphaMutant.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 2503
+  "realName": "Alpha",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Brotherhood of Evil Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Alpha_the_Ultimate_Mutant"
 }

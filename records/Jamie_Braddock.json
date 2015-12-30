@@ -1,17 +1,17 @@
 {
-  "name": "Jamie Braddock",
-  "url": "https://en.wikipedia.org/wiki/Jamie_Braddock",
-  "realName": "James \"Jamie\" Braddock Jr.",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Herb Trimpe",
     "Fred Kida"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+    "height": "158",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Jamie_Braddock.jpg/200px-Jamie_Braddock.jpg",
+    "width": "200"
+  },
+  "name": "Jamie Braddock",
+  "pageviews": 2705,
   "partners": [
     "Psylocke",
     "Foursaken",
@@ -23,10 +23,11 @@
   "powersText": [
     "Reality warping"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Jamie_Braddock.jpg/200px-Jamie_Braddock.jpg",
-    "width": "200",
-    "height": "158"
-  },
-  "pageviews": 2705
+  "realName": "James \"Jamie\" Braddock Jr.",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jamie_Braddock"
 }

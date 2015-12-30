@@ -1,14 +1,16 @@
 {
-  "name": "The Shiver Man",
-  "url": "https://en.wikipedia.org/wiki/Shiver_Man",
-  "realName": "Caleb Jackson",
+  "aliases": "Shiv",
   "creators": [
     "Frank Tieri",
     "Mark Texeira"
   ],
-  "teams": [],
-  "aliases": "Shiv",
-  "species": [],
+  "image": {
+    "height": "291",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Shiverma4.jpg/250px-Shiverma4.jpg",
+    "width": "250"
+  },
+  "name": "The Shiver Man",
+  "pageviews": 401,
   "partners": [
     "Wolverine",
     "Nick Fury",
@@ -26,10 +28,10 @@
     "-Ability to reattach severed limbs with no permanent damage",
     "-Immortality(?)"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Shiverma4.jpg/250px-Shiverma4.jpg",
-    "width": "250",
-    "height": "291"
-  },
-  "pageviews": 401
+  "realName": "Caleb Jackson",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shiver_Man"
 }

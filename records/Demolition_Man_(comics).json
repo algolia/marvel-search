@@ -1,10 +1,29 @@
 {
-  "name": "Demolition Man",
-  "url": "https://en.wikipedia.org/wiki/Demolition_Man_(comics)",
-  "realName": "Dennis Dunphy",
+  "aliases": "D-Man, Demolition Dunphy, Scourge of the Underworld",
   "creators": [
     "Mike Carlin",
     "Ron Wilson"
+  ],
+  "image": {
+    "height": "431",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/DennisDunphyDman.gif/250px-DennisDunphyDman.gif",
+    "width": "250"
+  },
+  "name": "Demolition Man",
+  "pageviews": 7395,
+  "partners": [
+    "Captain America"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Skilled aircraft pilot",
+    "Excellent hand to hand combatant",
+    "Superhuman strength",
+    "stamina and durability"
+  ],
+  "realName": "Dennis Dunphy",
+  "species": [
   ],
   "teams": [
     "Avengers",
@@ -14,22 +33,5 @@
     "US Military",
     "Revengers"
   ],
-  "aliases": "D-Man, Demolition Dunphy, Scourge of the Underworld",
-  "species": [],
-  "partners": [
-    "Captain America"
-  ],
-  "powers": [],
-  "powersText": [
-    "Skilled aircraft pilot",
-    "Excellent hand to hand combatant",
-    "Superhuman strength",
-    "stamina and durability"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/DennisDunphyDman.gif/250px-DennisDunphyDman.gif",
-    "width": "250",
-    "height": "431"
-  },
-  "pageviews": 7395
+  "url": "https://en.wikipedia.org/wiki/Demolition_Man_(comics)"
 }

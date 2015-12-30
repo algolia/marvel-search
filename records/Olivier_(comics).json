@@ -1,23 +1,22 @@
 {
-  "name": "Olivier",
-  "url": "https://en.wikipedia.org/wiki/Olivier_(comics)",
-  "realName": "",
+  "aliases": "Frank Costa",
   "creators": [
     "Tony DeZuniga",
     "Archie Goodwin",
     "Christopher Golden",
     "Thomas E. Sniegoski"
   ],
-  "teams": [
-    "Hell-lords",
-    "Costa Family"
+  "image": {
+    "height": "120",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Olivierpun1.jpg/250px-Olivierpun1.jpg",
+    "width": "250"
+  },
+  "name": "Olivier",
+  "pageviews": 2928,
+  "partners": [
   ],
-  "aliases": "Frank Costa",
-  "species": [
-    "Demon"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Portal generation",
     "Hellfire projection",
@@ -27,10 +26,13 @@
     "Ability to command lesser demons",
     "Illusion creation and manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Olivierpun1.jpg/250px-Olivierpun1.jpg",
-    "width": "250",
-    "height": "120"
-  },
-  "pageviews": 2928
+  "realName": "",
+  "species": [
+    "Demon"
+  ],
+  "teams": [
+    "Hell-lords",
+    "Costa Family"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Olivier_(comics)"
 }

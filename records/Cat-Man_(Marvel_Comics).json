@@ -1,19 +1,18 @@
 {
-  "name": "Cat-Man",
-  "url": "https://en.wikipedia.org/wiki/Cat-Man_(Marvel_Comics)",
-  "realName": "Towshend Horgan",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Wally Wood",
     "Bob Powell"
   ],
-  "teams": [
-    "Ani-Men"
+  "image": {
+  },
+  "name": "Cat-Man",
+  "pageviews": 866,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Considerable agility and reflexes",
     "Extraordinary acrobatic skills",
@@ -22,6 +21,11 @@
     "Superhuman agility",
     "Natural razor-sharp claws"
   ],
-  "image": {},
-  "pageviews": 866
+  "realName": "Towshend Horgan",
+  "species": [
+  ],
+  "teams": [
+    "Ani-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cat-Man_(Marvel_Comics)"
 }

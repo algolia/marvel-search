@@ -1,31 +1,33 @@
 {
-  "name": "Random",
-  "url": "https://en.wikipedia.org/wiki/Random_(comics)",
-  "realName": "Marshall Evan Stone III",
+  "aliases": "Alex",
   "creators": [
     "Peter David",
     "Joe Quesada"
+  ],
+  "image": {
+    "height": "359",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Random_%28Marvel_character%29.png/250px-Random_%28Marvel_character%29.png",
+    "width": "250"
+  },
+  "name": "Random",
+  "pageviews": 2067,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Body composed of a form of protoplasm which he can reconstruct at will to change his size and shape",
+    "alter to counteract any mutant force that is directed at him (within a certain perimeter)",
+    "and shoot as bio-matter projectiles."
+  ],
+  "realName": "Marshall Evan Stone III",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Acolytes",
     "Brotherhood of Mutants",
     "X-Factor"
   ],
-  "aliases": "Alex",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Body composed of a form of protoplasm which he can reconstruct at will to change his size and shape",
-    "alter to counteract any mutant force that is directed at him (within a certain perimeter)",
-    "and shoot as bio-matter projectiles."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Random_%28Marvel_character%29.png/250px-Random_%28Marvel_character%29.png",
-    "width": "250",
-    "height": "359"
-  },
-  "pageviews": 2067
+  "url": "https://en.wikipedia.org/wiki/Random_(comics)"
 }

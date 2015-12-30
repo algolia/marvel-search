@@ -1,10 +1,28 @@
 {
-  "name": "Veranke",
-  "url": "https://en.wikipedia.org/wiki/Veranke",
-  "realName": "Veranke",
+  "aliases": "Skrull Queen, Spider-Woman (Jessica Drew), Sybil Dvorak",
   "creators": [
     "Brian Michael Bendis",
     "Jim Cheung"
+  ],
+  "image": {
+    "height": "193",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Queenveranke.jpg/250px-Queenveranke.jpg",
+    "width": "250"
+  },
+  "name": "Veranke",
+  "pageviews": 7542,
+  "partners": [
+  ],
+  "powers": [
+    "Spider-Woman's powers"
+  ],
+  "powersText": [
+    "Shapeshifting",
+    "Spider-Woman's powers"
+  ],
+  "realName": "Veranke",
+  "species": [
+    "Skrull"
   ],
   "teams": [
     "Skrull Empire",
@@ -13,22 +31,5 @@
     "S.H.I.E.L.D.",
     "HYDRA"
   ],
-  "aliases": "Skrull Queen, Spider-Woman (Jessica Drew), Sybil Dvorak",
-  "species": [
-    "Skrull"
-  ],
-  "partners": [],
-  "powers": [
-    "Spider-Woman's powers"
-  ],
-  "powersText": [
-    "Shapeshifting",
-    "Spider-Woman's powers"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Queenveranke.jpg/250px-Queenveranke.jpg",
-    "width": "250",
-    "height": "193"
-  },
-  "pageviews": 7542
+  "url": "https://en.wikipedia.org/wiki/Veranke"
 }

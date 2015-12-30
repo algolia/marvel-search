@@ -1,28 +1,31 @@
 {
-  "name": "Blue Streak",
-  "url": "https://en.wikipedia.org/wiki/Blue_Streak_(comics)",
-  "realName": "Don Thomas",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "teams": [
-    "S.H.I.E.L.D.",
-    "Corporation"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Blue-streak.jpg/249px-Blue-streak.jpg",
+    "width": "249"
+  },
+  "name": "Blue Streak",
+  "pageviews": 1460,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Jet-skating suit grants:",
     "Various built in weapons",
     "Rapid healing"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Blue-streak.jpg/249px-Blue-streak.jpg",
-    "width": "249",
-    "height": "380"
-  },
-  "pageviews": 1460
+  "realName": "Don Thomas",
+  "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Corporation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blue_Streak_(comics)"
 }

@@ -1,18 +1,20 @@
 {
-  "name": "Looter",
-  "url": "https://en.wikipedia.org/wiki/Looter_(comics)",
-  "realName": "Norton G. Fester",
+  "aliases": "Meteor Man",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Defenders Impersonators"
+  "image": {
+    "height": "362",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Looter.jpg/250px-Looter.jpg",
+    "width": "250"
+  },
+  "name": "Looter",
+  "pageviews": 1002,
+  "partners": [
   ],
-  "aliases": "Meteor Man",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Use of gadgets and weapons",
     "Exposure to meteor gas grants:",
@@ -20,10 +22,11 @@
     "Extraordinary leaping ability",
     "High degree of durability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Looter.jpg/250px-Looter.jpg",
-    "width": "250",
-    "height": "362"
-  },
-  "pageviews": 1002
+  "realName": "Norton G. Fester",
+  "species": [
+  ],
+  "teams": [
+    "Defenders Impersonators"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Looter_(comics)"
 }

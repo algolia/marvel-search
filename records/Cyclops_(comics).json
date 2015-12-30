@@ -1,10 +1,27 @@
 {
-  "name": "Cyclops",
-  "url": "https://en.wikipedia.org/wiki/Cyclops_(comics)",
-  "realName": "Scott Summers",
+  "aliases": "Slim, Slym Dayspring, Eric the Red , Mutate #007, Phoenix, Dark Phoenix",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Cyclopsjc.jpg/212px-Cyclopsjc.jpg",
+    "width": "212"
+  },
+  "name": "Cyclops",
+  "pageviews": 60388,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Optic force blasts",
+    "Spatial awareness"
+  ],
+  "realName": "Scott Summers",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "New Xavier School",
@@ -17,20 +34,5 @@
     "Phoenix Five",
     "All-New X-Men"
   ],
-  "aliases": "Slim, Slym Dayspring, Eric the Red , Mutate #007, Phoenix, Dark Phoenix",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Optic force blasts",
-    "Spatial awareness"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Cyclopsjc.jpg/212px-Cyclopsjc.jpg",
-    "width": "212",
-    "height": "450"
-  },
-  "pageviews": 60388
+  "url": "https://en.wikipedia.org/wiki/Cyclops_(comics)"
 }

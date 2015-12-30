@@ -1,14 +1,16 @@
 {
-  "name": "Roboduck",
-  "url": "https://en.wikipedia.org/wiki/Roboduck",
-  "realName": "None",
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [
-    "Robot"
+  "creators": [
   ],
-  "partners": [],
+  "image": {
+    "height": "313",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Roboduck_new_gen.jpg/250px-Roboduck_new_gen.jpg",
+    "width": "250"
+  },
+  "name": "Roboduck",
+  "pageviews": 246,
+  "partners": [
+  ],
   "powers": [
     "plasma"
   ],
@@ -17,10 +19,11 @@
     "flight",
     "powerful plasma burp"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Roboduck_new_gen.jpg/250px-Roboduck_new_gen.jpg",
-    "width": "250",
-    "height": "313"
-  },
-  "pageviews": 246
+  "realName": "None",
+  "species": [
+    "Robot"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Roboduck"
 }

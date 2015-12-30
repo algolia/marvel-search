@@ -1,23 +1,17 @@
 {
-  "name": "Killer Shrike",
-  "url": "https://en.wikipedia.org/wiki/Killer_Shrike",
-  "realName": "Simon Maddicks",
+  "aliases": "Harold Simmons",
   "creators": [
     "John Warner",
     "John Buscema"
   ],
-  "teams": [
-    "Masters of Evil",
-    "Roxxon Oil Company",
-    "Sinister Six",
-    "Thunderbolts",
-    "United States Air Force",
-    "United States Army"
+  "image": {
+  },
+  "name": "Killer Shrike",
+  "pageviews": 2049,
+  "partners": [
   ],
-  "aliases": "Harold Simmons",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Expert hand to hand combatant and martial artist",
     "Possesses various weapons",
@@ -28,6 +22,16 @@
     "Resistance to injury",
     "Electrical bolt projection via twin power-blasters"
   ],
-  "image": {},
-  "pageviews": 2049
+  "realName": "Simon Maddicks",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Roxxon Oil Company",
+    "Sinister Six",
+    "Thunderbolts",
+    "United States Air Force",
+    "United States Army"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Killer_Shrike"
 }

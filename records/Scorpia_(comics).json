@@ -1,22 +1,27 @@
 {
-  "name": "Scorpia",
-  "url": "https://en.wikipedia.org/wiki/Scorpia_(comics)",
-  "realName": "Elaine Colls",
+  "aliases": "",
   "creators": [
     "Gregory Wright",
     "Darick Robertson"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Scorpia",
+  "pageviews": 1510,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Cybernetic suit provides:",
     "Superhuman physical attributes derived from that of Scorpion",
     "Energy blasts",
     "Micro-thin force field generation"
   ],
-  "image": {},
-  "pageviews": 1510
+  "realName": "Elaine Colls",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scorpia_(comics)"
 }

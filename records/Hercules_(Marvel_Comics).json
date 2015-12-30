@@ -1,28 +1,16 @@
 {
-  "name": "Hercules",
-  "url": "https://en.wikipedia.org/wiki/Hercules_(Marvel_Comics)",
-  "realName": "Heracles",
+  "aliases": "The Prince of Power; The Lion of Olympus; Harry Cleese; Victor Tegler",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Avengers",
-    "Avengers Academy",
-    "Champions",
-    "Damage Control",
-    "Defenders",
-    "God Squad",
-    "Heroes for Hire",
-    "The Mighty Avengers",
-    "Olympian Pantheon",
-    "Renegades",
-    "Secret Avengers (Civil War)"
-  ],
-  "aliases": "The Prince of Power; The Lion of Olympus; Harry Cleese; Victor Tegler",
-  "species": [
-    "Olympian"
-  ],
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Hercules126.jpg/250px-Hercules126.jpg",
+    "width": "250"
+  },
+  "name": "Hercules",
+  "pageviews": 24483,
   "partners": [
     "Amadeus Cho"
   ],
@@ -45,10 +33,22 @@
     "Exceptional physical condition",
     "Use of mystical weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Hercules126.jpg/250px-Hercules126.jpg",
-    "width": "250",
-    "height": "388"
-  },
-  "pageviews": 24483
+  "realName": "Heracles",
+  "species": [
+    "Olympian"
+  ],
+  "teams": [
+    "Avengers",
+    "Avengers Academy",
+    "Champions",
+    "Damage Control",
+    "Defenders",
+    "God Squad",
+    "Heroes for Hire",
+    "The Mighty Avengers",
+    "Olympian Pantheon",
+    "Renegades",
+    "Secret Avengers (Civil War)"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hercules_(Marvel_Comics)"
 }

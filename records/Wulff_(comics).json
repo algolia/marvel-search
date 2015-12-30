@@ -1,21 +1,26 @@
 {
-  "name": "Wulff",
-  "url": "https://en.wikipedia.org/wiki/Wulff_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Tom Peyer",
     "Humberto Ramos"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "380",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Xnation2099-2.jpg/250px-Xnation2099-2.jpg",
-    "width": "250",
-    "height": "380"
+    "width": "250"
   },
-  "pageviews": 215
+  "name": "Wulff",
+  "pageviews": 215,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wulff_(comics)"
 }

@@ -1,20 +1,24 @@
 {
-  "name": "Johnny Dee",
-  "url": "https://en.wikipedia.org/wiki/Johnny_Dee",
-  "realName": "John D.",
-  "creators": [],
-  "teams": [
-    "The 198"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Johnny Dee",
+  "pageviews": 1084,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Has a living being on his chest that can produce \"voodoo dolls\""
   ],
-  "image": {},
-  "pageviews": 1084
+  "realName": "John D.",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "The 198"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Johnny_Dee"
 }

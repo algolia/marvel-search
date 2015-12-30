@@ -1,28 +1,31 @@
 {
-  "name": "Machinesmith",
-  "url": "https://en.wikipedia.org/wiki/Machinesmith",
-  "realName": "Samuel \"Starr\" Saxon",
+  "aliases": "Mister Fear",
   "creators": [
     "Stan Lee",
     "Gene Colan"
   ],
-  "teams": [
-    "Masters of Evil",
-    "Skeleton Crew"
+  "image": {
+    "height": "594",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/18/Machinesmith.jpg",
+    "width": "250"
+  },
+  "name": "Machinesmith",
+  "pageviews": 1399,
+  "partners": [
   ],
-  "aliases": "Mister Fear",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Scientific and robotic genius",
     "Robotic Suits",
     "Ability to transfer mind into other machines"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/18/Machinesmith.jpg",
-    "width": "250",
-    "height": "594"
-  },
-  "pageviews": 1399
+  "realName": "Samuel \"Starr\" Saxon",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Skeleton Crew"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Machinesmith"
 }

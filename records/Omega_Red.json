@@ -1,20 +1,18 @@
 {
-  "name": "Omega Red",
-  "url": "https://en.wikipedia.org/wiki/Omega_Red",
-  "realName": "Arkady Rossovich",
+  "aliases": "Arkady Gregorivich, Vasyliev Arkady",
   "creators": [
     "Jim Lee",
     "John Byrne"
   ],
-  "teams": [
-    "The Hand",
-    "Red Mafia"
+  "image": {
+    "height": "323",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Xmen18omegared.jpg/250px-Xmen18omegared.jpg",
+    "width": "250"
+  },
+  "name": "Omega Red",
+  "pageviews": 14047,
+  "partners": [
   ],
-  "aliases": "Arkady Gregorivich, Vasyliev Arkady",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Carbonadium"
   ],
@@ -32,10 +30,13 @@
     "Life Force absorption",
     "Ability to secrete pheromones that result in sickness and death"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Xmen18omegared.jpg/250px-Xmen18omegared.jpg",
-    "width": "250",
-    "height": "323"
-  },
-  "pageviews": 13932
+  "realName": "Arkady Rossovich",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "The Hand",
+    "Red Mafia"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Omega_Red"
 }

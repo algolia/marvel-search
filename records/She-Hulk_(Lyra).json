@@ -1,19 +1,17 @@
 {
-  "name": "She-Hulk",
-  "url": "https://en.wikipedia.org/wiki/She-Hulk_(Lyra)",
-  "realName": "Lyra",
+  "aliases": "Lyra Walters",
   "creators": [
     "Jeff Parker"
   ],
-  "teams": [
-    "A.R.M.O.R.",
-    "Frightful Four",
-    "Defenders",
-    "Avengers Academy"
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/All_New_Savage_She-Hulk.jpg/250px-All_New_Savage_She-Hulk.jpg",
+    "width": "250"
+  },
+  "name": "She-Hulk",
+  "pageviews": 5914,
+  "partners": [
   ],
-  "aliases": "Lyra Walters",
-  "species": [],
-  "partners": [],
   "powers": [
     "Venom symbiote"
   ],
@@ -27,10 +25,14 @@
     "Immunity to the Venom symbiote",
     "Knowledge of future tech and history"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/All_New_Savage_She-Hulk.jpg/250px-All_New_Savage_She-Hulk.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 5914
+  "realName": "Lyra",
+  "species": [
+  ],
+  "teams": [
+    "A.R.M.O.R.",
+    "Frightful Four",
+    "Defenders",
+    "Avengers Academy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/She-Hulk_(Lyra)"
 }

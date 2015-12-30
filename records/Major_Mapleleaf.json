@@ -1,23 +1,27 @@
 {
-  "name": "Major Mapleleaf",
-  "url": "https://en.wikipedia.org/wiki/Major_Mapleleaf",
-  "realName": "Louis Sadler",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "Mark Pacella"
   ],
+  "image": {
+    "height": "250",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Majormaple.png/250px-Majormaple.png",
+    "width": "250"
+  },
+  "name": "Major Mapleleaf",
+  "pageviews": 1511,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Louis Sadler",
+  "species": [
+  ],
   "teams": [
     "Invaders"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Majormaple.png/250px-Majormaple.png",
-    "width": "250",
-    "height": "250"
-  },
-  "pageviews": 1511
+  "url": "https://en.wikipedia.org/wiki/Major_Mapleleaf"
 }

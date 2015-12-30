@@ -1,27 +1,18 @@
 {
-  "name": "Sabretooth",
-  "url": "https://en.wikipedia.org/wiki/Sabretooth_(comics)",
-  "realName": "Victor Creed",
+  "aliases": "Slasher, El Tigre, Der Schlächter (\"The Butcher\" in German)",
   "creators": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "teams": [
-    "X-Men",
-    "Brotherhood of Evil Mutants",
-    "Team X",
-    "Marauders",
-    "X-Factor",
-    "Weapon X",
-    "\"Avengers\" (1959)",
-    "Hand",
-    "Astonishing Avengers"
+  "image": {
+    "height": "325",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Sabretooth_X-Men162.jpg/250px-Sabretooth_X-Men162.jpg",
+    "width": "250"
+  },
+  "name": "Sabretooth",
+  "pageviews": 43472,
+  "partners": [
   ],
-  "aliases": "Slasher, El Tigre, Der Schlächter (\"The Butcher\" in German)",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "healing factor",
     "Superhuman strength",
@@ -36,10 +27,20 @@
     "and feline-like attributes",
     "Extended longevity"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Sabretooth_X-Men162.jpg/250px-Sabretooth_X-Men162.jpg",
-    "width": "250",
-    "height": "325"
-  },
-  "pageviews": 43472
+  "realName": "Victor Creed",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men",
+    "Brotherhood of Evil Mutants",
+    "Team X",
+    "Marauders",
+    "X-Factor",
+    "Weapon X",
+    "\"Avengers\" (1959)",
+    "Hand",
+    "Astonishing Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sabretooth_(comics)"
 }

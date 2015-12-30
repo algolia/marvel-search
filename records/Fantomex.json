@@ -1,23 +1,20 @@
 {
-  "name": "Fantomex",
-  "url": "https://en.wikipedia.org/wiki/Fantomex",
-  "realName": "Charlie-Cluster 7",
+  "aliases": "Jean-Phillipe, Weapon XIII",
   "creators": [
     "Grant Morrison",
     "Igor Kordey"
   ],
-  "teams": [
-    "X-Force",
-    "X-Men",
-    "Weapon Plus Program",
-    "Super-Sentinels"
+  "image": {
+    "height": "384",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Xmen143.jpg/250px-Xmen143.jpg",
+    "width": "250"
+  },
+  "name": "Fantomex",
+  "pageviews": 15516,
+  "partners": [
   ],
-  "aliases": "Jean-Phillipe, Weapon XIII",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Illusion casting",
     "Possesses multiple brains",
@@ -28,10 +25,15 @@
     "able to read body language",
     "auto-hypnosis"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Xmen143.jpg/250px-Xmen143.jpg",
-    "width": "250",
-    "height": "384"
-  },
-  "pageviews": 15516
+  "realName": "Charlie-Cluster 7",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Force",
+    "X-Men",
+    "Weapon Plus Program",
+    "Super-Sentinels"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Fantomex"
 }

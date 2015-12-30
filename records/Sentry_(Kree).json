@@ -1,27 +1,30 @@
 {
-  "name": "Sentry",
-  "url": "https://en.wikipedia.org/wiki/Sentry_(Kree)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Kree"
+  "image": {
+    "height": "376",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MSH-13.jpg/250px-MSH-13.jpg",
+    "width": "250"
+  },
+  "name": "Sentry",
+  "pageviews": 2035,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Super Strength and durability",
     "Magnetism",
     "Energy Projection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MSH-13.jpg/250px-MSH-13.jpg",
-    "width": "250",
-    "height": "376"
-  },
-  "pageviews": 2035
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Kree"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sentry_(Kree)"
 }

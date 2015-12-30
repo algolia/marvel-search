@@ -1,29 +1,31 @@
 {
-  "name": "Gideon",
-  "url": "https://en.wikipedia.org/wiki/Gideon_(comics)",
-  "realName": "Gideon",
+  "aliases": "",
   "creators": [
     "Rob Liefeld",
     "Fabian Nicieza"
   ],
-  "teams": [
-    "Externals"
+  "image": {
+    "height": "384",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Xforce12.jpg/250px-Xforce12.jpg",
+    "width": "250"
+  },
+  "name": "Gideon",
+  "pageviews": 2940,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ability to copy and amplify the advanced skills",
     "talents",
     "or powers of nearby people or mechanical beings and redirect them"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Xforce12.jpg/250px-Xforce12.jpg",
-    "width": "250",
-    "height": "384"
-  },
-  "pageviews": 2940
+  "realName": "Gideon",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Externals"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gideon_(comics)"
 }

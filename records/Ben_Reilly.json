@@ -1,7 +1,5 @@
 {
-  "name": "Ben Reilly",
-  "url": "https://en.wikipedia.org/wiki/Ben_Reilly",
-  "realName": "Benjamin \"Ben\" Reilly",
+  "aliases": "Scarlet Spider Spider-Man , Spider-Carnage, Peter Parker, Henry Jones",
   "creators": [
     "Gerry Conway",
     "Ross Andru",
@@ -9,13 +7,17 @@
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "New Warriors"
+  "image": {
+    "height": "275",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Scarlet_Spider_%28Ben_Reilly%29.jpg/250px-Scarlet_Spider_%28Ben_Reilly%29.jpg",
+    "width": "250"
+  },
+  "name": "Ben Reilly",
+  "pageviews": 14787,
+  "partners": [
   ],
-  "aliases": "Scarlet Spider Spider-Man , Spider-Carnage, Peter Parker, Henry Jones",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -31,10 +33,11 @@
     "Expert swordsman",
     "Master hand-to-hand combatant"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Scarlet_Spider_%28Ben_Reilly%29.jpg/250px-Scarlet_Spider_%28Ben_Reilly%29.jpg",
-    "width": "250",
-    "height": "275"
-  },
-  "pageviews": 14787
+  "realName": "Benjamin \"Ben\" Reilly",
+  "species": [
+  ],
+  "teams": [
+    "New Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ben_Reilly"
 }

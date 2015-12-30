@@ -1,25 +1,20 @@
 {
-  "name": "Armor",
-  "url": "https://en.wikipedia.org/wiki/Armor_(comics)",
-  "realName": "Hisako Ichiki",
+  "aliases": "",
   "creators": [
     "Joss Whedon",
     "John Cassaday"
   ],
-  "teams": [
-    "Paladins training squad",
-    "Xavier Institute",
-    "New X-Men",
-    "X-Men-In-Training",
-    "X-Men",
-    "Jean Grey School Students"
+  "image": {
+    "height": "408",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ArmorX-Men.png/250px-ArmorX-Men.png",
+    "width": "250"
+  },
+  "name": "Armor",
+  "pageviews": 6401,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ability to generate an impenetrable psionic exoskeleton body armor that grants superhuman strength",
     "invulnerability",
@@ -30,10 +25,17 @@
     "dexterity",
     "and durability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ArmorX-Men.png/250px-ArmorX-Men.png",
-    "width": "250",
-    "height": "408"
-  },
-  "pageviews": 6401
+  "realName": "Hisako Ichiki",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Paladins training squad",
+    "Xavier Institute",
+    "New X-Men",
+    "X-Men-In-Training",
+    "X-Men",
+    "Jean Grey School Students"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Armor_(comics)"
 }

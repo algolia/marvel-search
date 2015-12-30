@@ -1,27 +1,30 @@
 {
-  "name": "Crimson Curse",
-  "url": "https://en.wikipedia.org/wiki/Crimson_Curse",
-  "realName": "Aerika Harkness",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Brent Anderson"
+  ],
+  "image": {
+    "height": "187",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/CrimsonCurse.jpg/220px-CrimsonCurse.jpg",
+    "width": "220"
+  },
+  "name": "Crimson Curse",
+  "pageviews": 1678,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Magical element manipulation",
+    "Flight"
+  ],
+  "realName": "Aerika Harkness",
+  "species": [
   ],
   "teams": [
     "A-Next",
     "Dream Team"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Magical element manipulation",
-    "Flight"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/CrimsonCurse.jpg/220px-CrimsonCurse.jpg",
-    "width": "220",
-    "height": "187"
-  },
-  "pageviews": 1678
+  "url": "https://en.wikipedia.org/wiki/Crimson_Curse"
 }

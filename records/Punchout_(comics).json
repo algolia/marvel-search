@@ -1,24 +1,27 @@
 {
-  "name": "Punchout",
-  "url": "https://en.wikipedia.org/wiki/Punchout_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Rick Leonardi"
+  ],
+  "image": {
+  },
+  "name": "Punchout",
+  "pageviews": 383,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman strength and endurance"
+  ],
+  "realName": null,
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Press Gang",
     "Genoshan Magistrates"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman strength and endurance"
-  ],
-  "image": {},
-  "pageviews": 383
+  "url": "https://en.wikipedia.org/wiki/Punchout_(comics)"
 }

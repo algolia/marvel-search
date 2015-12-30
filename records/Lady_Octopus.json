@@ -1,15 +1,15 @@
 {
-  "name": "Lady Octopus",
-  "url": "https://en.wikipedia.org/wiki/Lady_Octopus",
-  "realName": "Carolyn Trainer",
+  "aliases": "Doctor Octopus II",
   "creators": [
     "J.M. DeMatteis",
     "Angel Medina"
   ],
-  "teams": [],
-  "aliases": "Doctor Octopus II",
-  "species": [],
-  "partners": [],
+  "image": {
+  },
+  "name": "Lady Octopus",
+  "pageviews": 2048,
+  "partners": [
+  ],
   "powers": [
     "Genius"
   ],
@@ -19,6 +19,10 @@
     "impervious to conventional attacks and armed with lasers",
     "Force-field generation via harness"
   ],
-  "image": {},
-  "pageviews": 2048
+  "realName": "Carolyn Trainer",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lady_Octopus"
 }

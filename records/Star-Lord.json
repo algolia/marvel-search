@@ -1,19 +1,19 @@
 {
-  "name": "Star-Lord",
-  "url": "https://en.wikipedia.org/wiki/Star-Lord",
-  "realName": "Peter Jason Quill",
+  "aliases": "",
   "creators": [
     "Steve Englehart"
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "United Front",
-    "Shi'ar Imperial Guard"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/ST1.PNG/250px-ST1.PNG",
+    "width": "250"
+  },
+  "name": "Star-Lord",
+  "pageviews": 97160,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Master strategist and problem solver",
     "Skilled marksman and fencer",
@@ -23,10 +23,13 @@
     "Flight",
     "Ability to travel through space"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/ST1.PNG/250px-ST1.PNG",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 97160
+  "realName": "Peter Jason Quill",
+  "species": [
+  ],
+  "teams": [
+    "Guardians of the Galaxy",
+    "United Front",
+    "Shi'ar Imperial Guard"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Star-Lord"
 }

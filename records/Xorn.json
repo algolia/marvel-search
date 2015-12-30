@@ -1,18 +1,20 @@
 {
-  "name": "Xorn",
-  "url": "https://en.wikipedia.org/wiki/Xorn",
-  "realName": "Kuan-Yin Xorn<br/>Shen Xorn",
+  "aliases": "(Kuan-Yin)<br/> Magneto , The Collective, Michael Pointer",
   "creators": [
     "Grant Morrison",
     "Frank Quitely"
   ],
-  "teams": [],
-  "aliases": "(Kuan-Yin)<br/> Magneto , The Collective, Michael Pointer",
-  "species": [
-    "Human Mutant"
+  "image": {
+    "height": "350",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Kuan-Yin_Xorn_%28Earth-616%29.png",
+    "width": "273"
+  },
+  "name": "Xorn",
+  "pageviews": 8699,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(Kuan-Yin)",
     "Healing powers",
@@ -23,10 +25,11 @@
     "Black Hole/Portal to different dimension in head",
     "Can cause black hole to turn into a sun"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Kuan-Yin_Xorn_%28Earth-616%29.png",
-    "width": "273",
-    "height": "350"
-  },
-  "pageviews": 8699
+  "realName": "Kuan-Yin Xorn<br/>Shen Xorn",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Xorn"
 }

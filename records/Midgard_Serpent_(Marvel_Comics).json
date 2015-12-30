@@ -1,22 +1,27 @@
 {
-  "name": "The Midgard Serpent",
-  "url": "https://en.wikipedia.org/wiki/Midgard_Serpent_(Marvel_Comics)",
-  "realName": "",
-  "creators": [],
-  "teams": [],
   "aliases": "World Serpent, Fin Fang Foom",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "385",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/WorldSerpent.jpg/250px-WorldSerpent.jpg",
+    "width": "250"
+  },
+  "name": "The Midgard Serpent",
+  "pageviews": 3202,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and stamina",
     "Fire and poison generation",
     "Illusion projection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/WorldSerpent.jpg/250px-WorldSerpent.jpg",
-    "width": "250",
-    "height": "385"
-  },
-  "pageviews": 3202
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Midgard_Serpent_(Marvel_Comics)"
 }

@@ -1,10 +1,27 @@
 {
-  "name": "Ogun",
-  "url": "https://en.wikipedia.org/wiki/Ogun_(comics)",
-  "realName": "unrevealed",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Al Milgrom"
+  ],
+  "image": {
+    "height": "338",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/11/Ogun_%28comics%29.jpg",
+    "width": "160"
+  },
+  "name": "Ogun",
+  "pageviews": 3132,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Telepathic ability to switch bodies and control minds which is derived from either a mutation or mystical powers",
+    "Superhuman agility and reflexes",
+    "Slowed or halted aging."
+  ],
+  "realName": "unrevealed",
+  "species": [
   ],
   "teams": [
     "Imperial Japanese Army",
@@ -12,19 +29,5 @@
     "Viper",
     "Mister X"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Telepathic ability to switch bodies and control minds which is derived from either a mutation or mystical powers",
-    "Superhuman agility and reflexes",
-    "Slowed or halted aging."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/11/Ogun_%28comics%29.jpg",
-    "width": "160",
-    "height": "338"
-  },
-  "pageviews": 3132
+  "url": "https://en.wikipedia.org/wiki/Ogun_(comics)"
 }

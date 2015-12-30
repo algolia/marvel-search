@@ -1,23 +1,26 @@
 {
-  "name": "Friedrich Von Roehm",
-  "url": "https://en.wikipedia.org/wiki/Friedrich_Von_Roehm",
-  "realName": "Friedrich Von Roehm",
+  "aliases": "Black Rook",
   "creators": [
     "Chris Claremont",
     "Bill Sienkiewicz"
   ],
-  "teams": [
-    "Hellfire Club"
+  "image": {
+  },
+  "name": "Friedrich Von Roehm",
+  "pageviews": 593,
+  "partners": [
   ],
-  "aliases": "Black Rook",
-  "species": [],
-  "partners": [],
   "powers": [
     "lycanthropy"
   ],
   "powersText": [
     "state resembling lycanthropy"
   ],
-  "image": {},
-  "pageviews": 593
+  "realName": "Friedrich Von Roehm",
+  "species": [
+  ],
+  "teams": [
+    "Hellfire Club"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Friedrich_Von_Roehm"
 }

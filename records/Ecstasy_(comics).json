@@ -1,24 +1,27 @@
 {
-  "name": "Ecstasy",
-  "url": "https://en.wikipedia.org/wiki/Ecstasy_(comics)",
-  "realName": "Renee Deladier",
+  "aliases": "Madame Deladier",
   "creators": [
     "Peter B. Gillis"
   ],
-  "teams": [],
-  "aliases": "Madame Deladier",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "410",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/93/Ecstasy_%28Renee_Deladier%29.png",
+    "width": "250"
+  },
+  "name": "Ecstasy",
+  "pageviews": 944,
+  "partners": [
+  ],
   "powers": [
     "Darkforce"
   ],
   "powersText": [
     "Darkforce manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/93/Ecstasy_%28Renee_Deladier%29.png",
-    "width": "250",
-    "height": "410"
-  },
-  "pageviews": 944
+  "realName": "Renee Deladier",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ecstasy_(comics)"
 }

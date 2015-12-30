@@ -1,19 +1,20 @@
 {
-  "name": "Bug",
-  "url": "https://en.wikipedia.org/wiki/Bug_(comics)",
-  "realName": null,
+  "aliases": "Galactic Warrior, Lover Bug",
   "creators": [
     "Bill Mantlo",
     "Michael Golden"
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "Micronauts"
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/80/BugOneShot1.jpg",
+    "width": "200"
+  },
+  "name": "Bug",
+  "pageviews": 3518,
+  "partners": [
   ],
-  "aliases": "Galactic Warrior, Lover Bug",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to cling to walls",
     "Exceptional agility",
@@ -23,10 +24,12 @@
     "Communication with others bearing antennae",
     "Heightened sensory awareness with a limited degree of danger sense"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/80/BugOneShot1.jpg",
-    "width": "200",
-    "height": "300"
-  },
-  "pageviews": 3518
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Guardians of the Galaxy",
+    "Micronauts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bug_(comics)"
 }

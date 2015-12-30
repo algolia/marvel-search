@@ -1,29 +1,32 @@
 {
-  "name": "Scorpion",
-  "url": "https://en.wikipedia.org/wiki/Scorpion_(Carmilla_Black)",
-  "realName": "Carmilla Black (born Thasanee Rappaccini)",
+  "aliases": "",
   "creators": [
     "Fred Van Lente",
     "Leonard Kirk"
   ],
-  "teams": [
-    "S.H.I.E.L.D.",
-    "HYDRA"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Am_Fantasy_7.jpg/250px-Am_Fantasy_7.jpg",
+    "width": "250"
+  },
+  "name": "Scorpion",
+  "pageviews": 4110,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Trained martial artist",
     "Immunity to poisons",
     "Left arm delivers \"sting\" ranging from causing mild discomfort to killing with a touch",
     "Semi-organic tail"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Am_Fantasy_7.jpg/250px-Am_Fantasy_7.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 4110
+  "realName": "Carmilla Black (born Thasanee Rappaccini)",
+  "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "HYDRA"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scorpion_(Carmilla_Black)"
 }

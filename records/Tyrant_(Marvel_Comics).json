@@ -1,16 +1,19 @@
 {
-  "name": "Tyrant",
-  "url": "https://en.wikipedia.org/wiki/Tyrant_(Marvel_Comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Ron Marz",
     "Ron Lim",
     "Tom Christopher"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/TyrantCosmic49iyxwh.jpg/250px-TyrantCosmic49iyxwh.jpg",
+    "width": "250"
+  },
+  "name": "Tyrant",
+  "pageviews": 3480,
+  "partners": [
+  ],
   "powers": [
     "Biospheric",
     "energy manipulation",
@@ -25,10 +28,10 @@
     "Technopathy",
     "Immortality"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/TyrantCosmic49iyxwh.jpg/250px-TyrantCosmic49iyxwh.jpg",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 3480
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tyrant_(Marvel_Comics)"
 }

@@ -1,17 +1,18 @@
 {
-  "name": "Korvac",
-  "url": "https://en.wikipedia.org/wiki/Korvac",
-  "realName": "Michael Korvac",
+  "aliases": "The Enemy, Jaboa Murphy",
   "creators": [
     "Steve Gerber",
     "Jim Starlin"
   ],
-  "teams": [
-    "Brotherhood of Badoon"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/KorvacSaga.jpg/250px-KorvacSaga.jpg",
+    "width": "250"
+  },
+  "name": "Korvac",
+  "pageviews": 9410,
+  "partners": [
   ],
-  "aliases": "The Enemy, Jaboa Murphy",
-  "species": [],
-  "partners": [],
   "powers": [
     "Power Cosmic"
   ],
@@ -21,10 +22,11 @@
     "Energy manipulation via specialized computer module",
     "Wielder of the Power Cosmic"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/KorvacSaga.jpg/250px-KorvacSaga.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 9410
+  "realName": "Michael Korvac",
+  "species": [
+  ],
+  "teams": [
+    "Brotherhood of Badoon"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Korvac"
 }

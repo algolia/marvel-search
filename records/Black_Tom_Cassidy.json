@@ -1,18 +1,16 @@
 {
-  "name": "Black Tom Cassidy",
-  "url": "https://en.wikipedia.org/wiki/Black_Tom_Cassidy",
-  "realName": "Thomas Samuel Eamon Cassidy",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Brotherhood of Mutants"
-  ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+    "height": "238",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Blacktom.PNG/200px-Blacktom.PNG",
+    "width": "200"
+  },
+  "name": "Black Tom Cassidy",
+  "pageviews": 5088,
   "partners": [
     "Juggernaut",
     "Siryn"
@@ -26,10 +24,12 @@
     "Plant manipulation",
     "Immunity to powers of Banshee"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Blacktom.PNG/200px-Blacktom.PNG",
-    "width": "200",
-    "height": "238"
-  },
-  "pageviews": 5088
+  "realName": "Thomas Samuel Eamon Cassidy",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Brotherhood of Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Tom_Cassidy"
 }

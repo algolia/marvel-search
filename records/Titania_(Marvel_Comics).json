@@ -1,10 +1,30 @@
 {
-  "name": "Titania",
-  "url": "https://en.wikipedia.org/wiki/Titania_(Marvel_Comics)",
-  "realName": "Mary MacPherran",
+  "aliases": "\"Skeeter\", Skirn: Breaker of Men",
   "creators": [
     "Jim Shooter",
     "Mike Zeck"
+  ],
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/10/Web_of_Spider-Man_Vol._1_59_page_9_Titania.jpg",
+    "width": "202"
+  },
+  "name": "Titania",
+  "pageviews": 5978,
+  "partners": [
+    "Doctor Doom",
+    "Absorbing Man"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Expert street fighter",
+    "Immense superhuman strength",
+    "Superhuman stamina",
+    "High-level resistance to physical injury"
+  ],
+  "realName": "Mary MacPherran",
+  "species": [
   ],
   "teams": [
     "Masters of Evil",
@@ -13,23 +33,5 @@
     "The Worthy",
     "Illuminati"
   ],
-  "aliases": "\"Skeeter\", Skirn: Breaker of Men",
-  "species": [],
-  "partners": [
-    "Doctor Doom",
-    "Absorbing Man"
-  ],
-  "powers": [],
-  "powersText": [
-    "Expert street fighter",
-    "Immense superhuman strength",
-    "Superhuman stamina",
-    "High-level resistance to physical injury"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/10/Web_of_Spider-Man_Vol._1_59_page_9_Titania.jpg",
-    "width": "202",
-    "height": "450"
-  },
-  "pageviews": 5978
+  "url": "https://en.wikipedia.org/wiki/Titania_(Marvel_Comics)"
 }

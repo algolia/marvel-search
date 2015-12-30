@@ -1,19 +1,20 @@
 {
-  "name": "Humbug",
-  "url": "https://en.wikipedia.org/wiki/Humbug_(comics)",
-  "realName": "Buck Mitty",
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "Marc Silvestri"
   ],
-  "teams": [
-    "Heroes for Hire",
-    "Empire State University"
+  "image": {
+    "height": "352",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Wwh_hfh11.jpg/250px-Wwh_hfh11.jpg",
+    "width": "250"
+  },
+  "name": "Humbug",
+  "pageviews": 1735,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -22,10 +23,12 @@
     "Ability to communicate with all insectoids on a planetary scale.",
     "Formerly used audio tapes to communicate with insects"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Wwh_hfh11.jpg/250px-Wwh_hfh11.jpg",
-    "width": "250",
-    "height": "352"
-  },
-  "pageviews": 1735
+  "realName": "Buck Mitty",
+  "species": [
+  ],
+  "teams": [
+    "Heroes for Hire",
+    "Empire State University"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Humbug_(comics)"
 }

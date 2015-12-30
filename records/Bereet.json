@@ -1,23 +1,27 @@
 {
-  "name": "Bereet",
-  "url": "https://en.wikipedia.org/wiki/Bereet",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Doug Moench",
     "Walt Simonson"
   ],
-  "teams": [],
-  "aliases": "",
+  "image": {
+    "height": "432",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Bereet.jpg",
+    "width": "200"
+  },
+  "name": "Bereet",
+  "pageviews": 2600,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
   "species": [
     "Krylorian"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Bereet.jpg",
-    "width": "200",
-    "height": "432"
-  },
-  "pageviews": 2600
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bereet"
 }

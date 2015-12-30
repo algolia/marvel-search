@@ -1,27 +1,30 @@
 {
-  "name": "Temujin",
-  "url": "https://en.wikipedia.org/wiki/Temugin",
-  "realName": "Temujin",
+  "aliases": "Son of the Ugudei, Mongol Empire, Genghis Khan",
   "creators": [
     "Ryan Odagawa",
     "Mike Grell"
   ],
-  "teams": [
-    "Agents of Atlas"
+  "image": {
+    "height": "345",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b1/Temujin.jpg",
+    "width": "250"
+  },
+  "name": "Temujin",
+  "pageviews": 2026,
+  "partners": [
   ],
-  "aliases": "Son of the Ugudei, Mongol Empire, Genghis Khan",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed and reflexes",
     "Enhanced resistance to injury"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/b1/Temujin.jpg",
-    "width": "250",
-    "height": "345"
-  },
-  "pageviews": 2026
+  "realName": "Temujin",
+  "species": [
+  ],
+  "teams": [
+    "Agents of Atlas"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Temugin"
 }

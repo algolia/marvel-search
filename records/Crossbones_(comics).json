@@ -1,24 +1,23 @@
 {
-  "name": "Crossbones",
-  "url": "https://en.wikipedia.org/wiki/Crossbones_(comics)",
-  "realName": "Brock Rumlow",
+  "aliases": "Bingo, Frag, Mr. Bones",
   "creators": [
     "Mark Gruenwald",
     "Kieron Dwyer"
   ],
-  "teams": [
-    "Skeleton Crew",
-    "Thunderbolts",
-    "HYDRA"
-  ],
-  "aliases": "Bingo, Frag, Mr. Bones",
-  "species": [],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Cover_art_for_Captain_America_%28vol._5%29_16.jpg/250px-Cover_art_for_Captain_America_%28vol._5%29_16.jpg",
+    "width": "250"
+  },
+  "name": "Crossbones",
+  "pageviews": 123056,
   "partners": [
     "Red Skull (Albert Malik)",
     "Red Skull",
     "Sin"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Brilliant military tactician and strategist",
     "Expert marksman",
@@ -27,10 +26,13 @@
     "Formerly:",
     "Ability to generate a circle of energy in front of his face which could fire energy beams"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Cover_art_for_Captain_America_%28vol._5%29_16.jpg/250px-Cover_art_for_Captain_America_%28vol._5%29_16.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 123056
+  "realName": "Brock Rumlow",
+  "species": [
+  ],
+  "teams": [
+    "Skeleton Crew",
+    "Thunderbolts",
+    "HYDRA"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Crossbones_(comics)"
 }

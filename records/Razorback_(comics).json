@@ -1,21 +1,18 @@
 {
-  "name": "Razorback",
-  "url": "https://en.wikipedia.org/wiki/Razorback_(comics)",
-  "realName": "Buford T. Hollis",
+  "aliases": "",
   "creators": [
     "Archie Goodwin",
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "teams": [
-    "Fifty State Initiative"
+  "image": {
+  },
+  "name": "Razorback",
+  "pageviews": 899,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Skilled mechanic",
     "Self-taught engineer",
@@ -28,6 +25,12 @@
     "pilot",
     "and drive any vehicle"
   ],
-  "image": {},
-  "pageviews": 899
+  "realName": "Buford T. Hollis",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Fifty State Initiative"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Razorback_(comics)"
 }

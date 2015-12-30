@@ -1,22 +1,26 @@
 {
-  "name": "Victorius",
-  "url": "https://en.wikipedia.org/wiki/Victorius_(comics)",
-  "realName": "Victor Conrad",
+  "aliases": "",
   "creators": [
     "Mike Friedrich",
     "Dan Adkins"
   ],
-  "teams": [
-    "A.I.M."
+  "image": {
+  },
+  "name": "Victorius",
+  "pageviews": 489,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Peak physical abilities due to the super-soldier serum",
     "trained various forms of combat"
   ],
-  "image": {},
-  "pageviews": 489
+  "realName": "Victor Conrad",
+  "species": [
+  ],
+  "teams": [
+    "A.I.M."
+  ],
+  "url": "https://en.wikipedia.org/wiki/Victorius_(comics)"
 }

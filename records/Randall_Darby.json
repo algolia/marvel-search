@@ -1,9 +1,22 @@
 {
-  "name": "Randall Darby",
-  "url": "https://en.wikipedia.org/wiki/Randall_Darby",
-  "realName": "Randall Darby",
+  "aliases": "Shocker, Paralyzer",
   "creators": [
     "Jack Kirby"
+  ],
+  "image": {
+  },
+  "name": "Randall Darby",
+  "pageviews": 717,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Bio-EM generation / manipulation"
+  ],
+  "realName": "Randall Darby",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Brotherhood of Mutants",
@@ -11,15 +24,5 @@
     "Mutant Force",
     "Secret Empire"
   ],
-  "aliases": "Shocker, Paralyzer",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Bio-EM generation / manipulation"
-  ],
-  "image": {},
-  "pageviews": 717
+  "url": "https://en.wikipedia.org/wiki/Randall_Darby"
 }

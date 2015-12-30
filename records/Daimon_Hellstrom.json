@@ -1,10 +1,30 @@
 {
-  "name": "Daimon Hellstrom",
-  "url": "https://en.wikipedia.org/wiki/Daimon_Hellstrom",
-  "realName": "Daimon Hellstrom",
+  "aliases": "Son of Satan, Hellstorm",
   "creators": [
     "Gary Friedrich",
     "Roy Thomas"
+  ],
+  "image": {
+    "height": "343",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Daimon_Hellstrom.jpg/250px-Daimon_Hellstrom.jpg",
+    "width": "250"
+  },
+  "name": "Daimon Hellstrom",
+  "pageviews": 24203,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Dark magic user",
+    "Fire projection",
+    "Ability to heal others",
+    "Peak human physical capabilities"
+  ],
+  "realName": "Daimon Hellstrom",
+  "species": [
+    "Human",
+    "Demon"
   ],
   "teams": [
     "Defenders",
@@ -14,23 +34,5 @@
     "Midnight Sons",
     "S.H.I.E.L.D. Paranormal Containment Unit"
   ],
-  "aliases": "Son of Satan, Hellstorm",
-  "species": [
-    "Human",
-    "Demon"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Dark magic user",
-    "Fire projection",
-    "Ability to heal others",
-    "Peak human physical capabilities"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Daimon_Hellstrom.jpg/250px-Daimon_Hellstrom.jpg",
-    "width": "250",
-    "height": "343"
-  },
-  "pageviews": 24203
+  "url": "https://en.wikipedia.org/wiki/Daimon_Hellstrom"
 }

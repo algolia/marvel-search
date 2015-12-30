@@ -1,28 +1,31 @@
 {
-  "name": "Red Guardian",
-  "url": "https://en.wikipedia.org/wiki/Red_Guardian",
-  "realName": "Alexei Shostakov",
+  "aliases": "Ronin",
   "creators": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "teams": [
-    "KGB"
+  "image": {
+    "height": "373",
+    "url": "https://upload.wikimedia.org/wikipedia/en/6/69/Avengers-43.jpg",
+    "width": "250"
+  },
+  "name": "Red Guardian",
+  "pageviews": 6838,
+  "partners": [
   ],
-  "aliases": "Ronin",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Highly skilled athlete",
     "Master hand to hand combatant",
     "Expert pilot",
     "Use of \"belt-buckle\" disc"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/69/Avengers-43.jpg",
-    "width": "250",
-    "height": "373"
-  },
-  "pageviews": 6838
+  "realName": "Alexei Shostakov",
+  "species": [
+  ],
+  "teams": [
+    "KGB"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Red_Guardian"
 }

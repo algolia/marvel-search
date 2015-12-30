@@ -1,19 +1,18 @@
 {
-  "name": "Frog-Man",
-  "url": "https://en.wikipedia.org/wiki/Frog-Man_(Ani-Men)",
-  "realName": "Francois LeBlanc",
+  "aliases": "\"Frog\" LeBlanc, Croaker",
   "creators": [
     "Stan Lee",
     "Wally Wood",
     "Bob Powell"
   ],
-  "teams": [
-    "Ani-Men"
+  "image": {
+  },
+  "name": "Frog-Man",
+  "pageviews": 587,
+  "partners": [
   ],
-  "aliases": "\"Frog\" LeBlanc, Croaker",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Excellent hand-to-hand combatant",
     "Expert French kickboxer",
@@ -24,6 +23,11 @@
     "stamina and leaping",
     "Frog-like legs"
   ],
-  "image": {},
-  "pageviews": 587
+  "realName": "Francois LeBlanc",
+  "species": [
+  ],
+  "teams": [
+    "Ani-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Frog-Man_(Ani-Men)"
 }

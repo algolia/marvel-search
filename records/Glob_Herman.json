@@ -1,10 +1,28 @@
 {
-  "name": "Glob Herman",
-  "url": "https://en.wikipedia.org/wiki/Glob_Herman",
-  "realName": "Robert Herman",
+  "aliases": "",
   "creators": [
     "Grant Morrison",
     "Ethan Van Sciver"
+  ],
+  "image": {
+    "height": "352",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Omega_gang_full.jpg/250px-Omega_gang_full.jpg",
+    "width": "250"
+  },
+  "name": "Glob Herman",
+  "pageviews": 2320,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman strength",
+    "speed and resilience",
+    "Bio-paraffin body"
+  ],
+  "realName": "Robert Herman",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "The 198",
@@ -13,21 +31,5 @@
     "Jean Grey School Students",
     "Hellfire Academy"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman strength",
-    "speed and resilience",
-    "Bio-paraffin body"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Omega_gang_full.jpg/250px-Omega_gang_full.jpg",
-    "width": "250",
-    "height": "352"
-  },
-  "pageviews": 2320
+  "url": "https://en.wikipedia.org/wiki/Glob_Herman"
 }

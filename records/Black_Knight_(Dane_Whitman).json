@@ -1,10 +1,30 @@
 {
-  "name": "Black Knight",
-  "url": "https://en.wikipedia.org/wiki/Black_Knight_(Dane_Whitman)",
-  "realName": "Dane Whitman",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "John Buscema"
+  ],
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/40/Avengers48.jpg",
+    "width": "250"
+  },
+  "name": "Black Knight",
+  "pageviews": 12398,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Excellent swordsman and hand to hand combatant",
+    "Expert horseman",
+    "Genius physicists",
+    "Strong strategist and tactician",
+    "Magic senses",
+    "Wields the Sword of Light and Shield of Night"
+  ],
+  "realName": "Dane Whitman",
+  "species": [
   ],
   "teams": [
     "MI-13",
@@ -15,22 +35,5 @@
     "Heroes for Hire",
     "Masters of Evil"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Excellent swordsman and hand to hand combatant",
-    "Expert horseman",
-    "Genius physicists",
-    "Strong strategist and tactician",
-    "Magic senses",
-    "Wields the Sword of Light and Shield of Night"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/40/Avengers48.jpg",
-    "width": "250",
-    "height": "388"
-  },
-  "pageviews": 12398
+  "url": "https://en.wikipedia.org/wiki/Black_Knight_(Dane_Whitman)"
 }

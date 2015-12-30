@@ -1,20 +1,18 @@
 {
-  "name": "Phoenix Force",
-  "url": "https://en.wikipedia.org/wiki/Phoenix_Force_(comics)",
-  "realName": "",
+  "aliases": "Phoenix Jean Grey , White Phoenix of the Crown, Star-Child, The Black Angel, Chaos-Bringer, Black Queen , Dark Phoenix, Child of the M'Kraan Crystal",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "X-Men",
-    "Hellfire Club",
-    "Galactic Guardians",
-    "Phoenix Corps"
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Classic-X-Men-008-back.jpg/200px-Classic-X-Men-008-back.jpg",
+    "width": "200"
+  },
+  "name": "Phoenix Force",
+  "pageviews": 29618,
+  "partners": [
   ],
-  "aliases": "Phoenix Jean Grey , White Phoenix of the Crown, Star-Child, The Black Angel, Chaos-Bringer, Black Queen , Dark Phoenix, Child of the M'Kraan Crystal",
-  "species": [],
-  "partners": [],
   "powers": [
     "Empathy",
     "Telepathy",
@@ -30,10 +28,14 @@
     "Cosmic awareness",
     "Prescience"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Classic-X-Men-008-back.jpg/200px-Classic-X-Men-008-back.jpg",
-    "width": "200",
-    "height": "300"
-  },
-  "pageviews": 29618
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "Hellfire Club",
+    "Galactic Guardians",
+    "Phoenix Corps"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Phoenix_Force_(comics)"
 }

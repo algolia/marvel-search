@@ -1,21 +1,19 @@
 {
-  "name": "Thor",
-  "url": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "Siegmund, Siegfried, Dr. Donald Blake, Jake Olson, Sigurd Jarlson, Eric Masterson , Odinson",
   "creators": [
     "Stan Lee",
     "Larry Lieber",
     "Jack Kirby"
   ],
-  "teams": [
-    "Avengers",
-    "Warriors Three",
-    "God Squad",
-    "Avengers Unity Squad"
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Thor-272.jpg/250px-Thor-272.jpg",
+    "width": "250"
+  },
+  "name": "Thor",
+  "pageviews": 101536,
+  "partners": [
   ],
-  "aliases": "Siegmund, Siegfried, Dr. Donald Blake, Jake Olson, Sigurd Jarlson, Eric Masterson , Odinson",
-  "species": [],
-  "partners": [],
   "powers": [
     "Superhuman strength",
     "endurance",
@@ -35,10 +33,14 @@
     "Flight",
     "Weather manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Thor-272.jpg/250px-Thor-272.jpg",
-    "width": "250",
-    "height": "386"
-  },
-  "pageviews": 101536
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "Warriors Three",
+    "God Squad",
+    "Avengers Unity Squad"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
 }

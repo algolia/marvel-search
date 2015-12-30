@@ -1,17 +1,18 @@
 {
-  "name": "Marvel Boy",
-  "url": "https://en.wikipedia.org/wiki/Marvel_Boy_(Robert_Grayson)",
-  "realName": "Robert Grayson",
+  "aliases": "The Crusader , the Uranian, Blue Marvel",
   "creators": [
     "Stan Lee",
     "Russ Heath"
   ],
-  "teams": [
-    "Agents of Atlas"
+  "image": {
+    "height": "376",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/AOATLAS003.jpg",
+    "width": "250"
+  },
+  "name": "Marvel Boy",
+  "pageviews": 2022,
+  "partners": [
   ],
-  "aliases": "The Crusader , the Uranian, Blue Marvel",
-  "species": [],
-  "partners": [],
   "powers": [
     "Telepathy"
   ],
@@ -24,10 +25,11 @@
     "Accomplished athlete",
     "Expert pilot"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/AOATLAS003.jpg",
-    "width": "250",
-    "height": "376"
-  },
-  "pageviews": 2022
+  "realName": "Robert Grayson",
+  "species": [
+  ],
+  "teams": [
+    "Agents of Atlas"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Marvel_Boy_(Robert_Grayson)"
 }

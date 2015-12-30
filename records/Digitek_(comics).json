@@ -1,20 +1,18 @@
 {
-  "name": "Digitek",
-  "url": "https://en.wikipedia.org/wiki/Digitek_(comics)",
-  "realName": "Jonathan Bryant",
+  "aliases": "The Singularity",
   "creators": [
     "John Tomlinson",
     "Andy Lanning",
     "Dermot Power"
   ],
-  "teams": [
-    "MI-13",
-    "Psi-Key"
+  "image": {
+  },
+  "name": "Digitek",
+  "pageviews": 487,
+  "partners": [
   ],
-  "aliases": "The Singularity",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Energy analogue",
     "can create armor and a vast amount of weapons",
@@ -22,6 +20,12 @@
     "travel through phone lines",
     "create holograms."
   ],
-  "image": {},
-  "pageviews": 487
+  "realName": "Jonathan Bryant",
+  "species": [
+  ],
+  "teams": [
+    "MI-13",
+    "Psi-Key"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Digitek_(comics)"
 }

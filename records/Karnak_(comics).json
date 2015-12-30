@@ -1,30 +1,32 @@
 {
-  "name": "Karnak",
-  "url": "https://en.wikipedia.org/wiki/Karnak_(comics)",
-  "realName": "",
+  "aliases": "The Shatterer",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Inhuman Royal Family"
+  "image": {
+    "height": "195",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Karnak_sih_02.png/250px-Karnak_sih_02.png",
+    "width": "250"
+  },
+  "name": "Karnak",
+  "pageviews": 21350,
+  "partners": [
   ],
-  "aliases": "The Shatterer",
-  "species": [
-    "Inhumans"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ability to sense weak points",
     "Enhanced physical attributes",
     "Master martial artist",
     "Experienced hand-to-hand combatant"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Karnak_sih_02.png/250px-Karnak_sih_02.png",
-    "width": "250",
-    "height": "195"
-  },
-  "pageviews": 21350
+  "realName": "",
+  "species": [
+    "Inhumans"
+  ],
+  "teams": [
+    "Inhuman Royal Family"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Karnak_(comics)"
 }

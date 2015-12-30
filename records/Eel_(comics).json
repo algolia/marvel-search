@@ -1,10 +1,26 @@
 {
-  "name": "Eel",
-  "url": "https://en.wikipedia.org/wiki/Eel_(comics)",
-  "realName": "Leopold Stryke",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
+  ],
+  "image": {
+    "height": "348",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Serpent_Squad.jpg/250px-Serpent_Squad.jpg",
+    "width": "250"
+  },
+  "name": "Eel",
+  "pageviews": 1808,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Wears electrified lubricated costume",
+    "Use of various weapons"
+  ],
+  "realName": "Leopold Stryke",
+  "species": [
   ],
   "teams": [
     "Maggia",
@@ -12,18 +28,5 @@
     "Emissaries of Evil",
     "Fellowship of Fear"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Wears electrified lubricated costume",
-    "Use of various weapons"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Serpent_Squad.jpg/250px-Serpent_Squad.jpg",
-    "width": "250",
-    "height": "348"
-  },
-  "pageviews": 1808
+  "url": "https://en.wikipedia.org/wiki/Eel_(comics)"
 }

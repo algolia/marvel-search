@@ -1,30 +1,32 @@
 {
-  "name": "Speed",
-  "url": "https://en.wikipedia.org/wiki/Speed_(comics)",
-  "realName": "Thomas \"Tommy\" Shepherd",
+  "aliases": "",
   "creators": [
     "Allan Heinberg",
     "Jim Cheung"
   ],
-  "teams": [
-    "Young Avengers"
+  "image": {
+    "height": "360",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Speed.png/250px-Speed.png",
+    "width": "250"
+  },
+  "name": "Speed",
+  "pageviews": 9300,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman speed",
     "Molecular acceleration",
     "Superhumanly fast reflexes",
     "Fast metabolism"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Speed.png/250px-Speed.png",
-    "width": "250",
-    "height": "360"
-  },
-  "pageviews": 9300
+  "realName": "Thomas \"Tommy\" Shepherd",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Young Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Speed_(comics)"
 }

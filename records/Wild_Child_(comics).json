@@ -1,22 +1,17 @@
 {
-  "name": "Wild Child",
-  "url": "https://en.wikipedia.org/wiki/Wild_Child_(comics)",
-  "realName": "Kyle Gibney",
+  "aliases": "Weapon Omega,",
   "creators": [
     "John Byrne"
   ],
-  "teams": [
-    "Weapon X",
-    "Alpha Flight",
-    "X-Factor",
-    "Omega Flight",
-    "Gamma Flight"
+  "image": {
+    "height": "399",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Wild_child.jpg/250px-Wild_child.jpg",
+    "width": "250"
+  },
+  "name": "Wild Child",
+  "pageviews": 4722,
+  "partners": [
   ],
-  "aliases": "Weapon Omega,",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "healing factor"
   ],
@@ -34,10 +29,16 @@
     "Olympic-level trained acrobat/gymnast",
     "special ops-trained hand-to-hand fighter"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Wild_child.jpg/250px-Wild_child.jpg",
-    "width": "250",
-    "height": "399"
-  },
-  "pageviews": 4722
+  "realName": "Kyle Gibney",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Weapon X",
+    "Alpha Flight",
+    "X-Factor",
+    "Omega Flight",
+    "Gamma Flight"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wild_Child_(comics)"
 }

@@ -1,24 +1,27 @@
 {
-  "name": "Jetstream",
-  "url": "https://en.wikipedia.org/wiki/Jetstream_(comics)",
-  "realName": "Haroum ibn Sallah al-Rashid",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Sal Buscema"
   ],
-  "teams": [
-    "Hellions"
+  "image": {
+  },
+  "name": "Jetstream",
+  "pageviews": 672,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Concentrates thermo-kinetic energy beneath his feet to aid him in jet-like propulsion",
     "also has various technological components surgically inserted into his legs and back which help to focus his abilities and direct his flight path"
   ],
-  "image": {},
-  "pageviews": 672
+  "realName": "Haroum ibn Sallah al-Rashid",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hellions"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jetstream_(comics)"
 }

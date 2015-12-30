@@ -1,10 +1,28 @@
 {
-  "name": "Bling!",
-  "url": "https://en.wikipedia.org/wiki/Bling!",
-  "realName": "Roxanne \"Roxy\" Washington",
+  "aliases": "",
   "creators": [
     "Peter Milligan",
     "Salvador Larroca"
+  ],
+  "image": {
+    "height": "359",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Bling%28x-men%29.jpg/200px-Bling%28x-men%29.jpg",
+    "width": "200"
+  },
+  "name": "Bling!",
+  "pageviews": 1411,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman durability",
+    "Diamond form",
+    "Projection of diamond shards from skin"
+  ],
+  "realName": "Roxanne \"Roxy\" Washington",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Chevaliers training squad",
@@ -12,21 +30,5 @@
     "X-Men-In-Training",
     "Jean Grey School Students"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman durability",
-    "Diamond form",
-    "Projection of diamond shards from skin"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Bling%28x-men%29.jpg/200px-Bling%28x-men%29.jpg",
-    "width": "200",
-    "height": "359"
-  },
-  "pageviews": 1411
+  "url": "https://en.wikipedia.org/wiki/Bling!"
 }

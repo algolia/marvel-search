@@ -1,20 +1,15 @@
 {
-  "name": "Hemingway",
-  "url": "https://en.wikipedia.org/wiki/Hemingway_(comics)",
-  "realName": null,
+  "aliases": "Pain",
   "creators": [
     "Chris Bachalo",
     "Scott Lobdell"
   ],
-  "teams": [
-    "Gene Nation",
-    "Morlocks"
+  "image": {
+  },
+  "name": "Hemingway",
+  "pageviews": 365,
+  "partners": [
   ],
-  "aliases": "Pain",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "exoskeletal",
     "superhuman"
@@ -24,6 +19,13 @@
     "greatly increase his size to immense proportions",
     "superhuman strength and durability"
   ],
-  "image": {},
-  "pageviews": 365
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Gene Nation",
+    "Morlocks"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hemingway_(comics)"
 }

@@ -1,19 +1,20 @@
 {
-  "name": "Challenger",
-  "url": "https://en.wikipedia.org/wiki/Challenger_(comics)",
-  "realName": "William \"Bill\" Waring",
+  "aliases": "",
   "creators": [
     "Ray Gill",
     "George Klein"
   ],
-  "teams": [
-    "The Initiative",
-    "Freedom Force"
+  "image": {
+    "height": "274",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/5c/Challenger-DaringMystery7.jpg",
+    "width": "193"
+  },
+  "name": "Challenger",
+  "pageviews": 658,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Master of several martial arts",
     "chemistry",
@@ -24,10 +25,12 @@
     "and pilot",
     "Immunity to pain"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/5c/Challenger-DaringMystery7.jpg",
-    "width": "193",
-    "height": "274"
-  },
-  "pageviews": 658
+  "realName": "William \"Bill\" Waring",
+  "species": [
+  ],
+  "teams": [
+    "The Initiative",
+    "Freedom Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Challenger_(comics)"
 }

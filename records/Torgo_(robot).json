@@ -1,22 +1,26 @@
 {
-  "name": "Torgo",
-  "url": "https://en.wikipedia.org/wiki/Torgo_(robot)",
-  "realName": "",
+  "aliases": "\"Robot Man\"<br>The Ultimate Weapon",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "\"Robot Man\"<br>The Ultimate Weapon",
-  "species": [
-    "Robot"
+  "image": {
+  },
+  "name": "Torgo",
+  "pageviews": 1072,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Super-Strength",
     "Durability"
   ],
-  "image": {},
-  "pageviews": 1072
+  "realName": "",
+  "species": [
+    "Robot"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Torgo_(robot)"
 }

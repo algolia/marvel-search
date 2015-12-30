@@ -1,7 +1,5 @@
 {
-  "name": "Nomad",
-  "url": "https://en.wikipedia.org/wiki/Nomad_(comics)",
-  "realName": null,
+  "aliases": "Bucky Scourge , Jack Barnes",
   "creators": [
     "Steve Englehart",
     "Sal Buscema",
@@ -9,18 +7,21 @@
     "Mike Zeck",
     "Fabian Nicieza"
   ],
-  "teams": [
-    "Secret Defenders"
-  ],
-  "aliases": "Bucky Scourge , Jack Barnes",
-  "species": [],
+  "image": {
+    "height": "392",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/NomadLS-1.jpg/250px-NomadLS-1.jpg",
+    "width": "250"
+  },
+  "name": "Nomad",
+  "pageviews": 8245,
   "partners": [
     "1950s \"Captain America\"",
     "Captain America",
     "Falcon",
     "D-Man"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Artificially enhanced physiology at a slightly higher level than Captain America",
     "Expert marksman",
@@ -28,10 +29,11 @@
     "Primary weapons are throwing discs called \"stun discs\"",
     "and later in his career used firearms"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/NomadLS-1.jpg/250px-NomadLS-1.jpg",
-    "width": "250",
-    "height": "392"
-  },
-  "pageviews": 8245
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Secret Defenders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nomad_(comics)"
 }

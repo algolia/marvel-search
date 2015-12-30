@@ -1,17 +1,23 @@
 {
-  "name": "Midas",
-  "url": "https://en.wikipedia.org/wiki/Midas_(comics)",
-  "realName": "Mordecai Midas",
+  "aliases": "",
   "creators": [
     "Archie Goodwin",
     "George Tuska"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 773
+  "image": {
+  },
+  "name": "Midas",
+  "pageviews": 773,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Mordecai Midas",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Midas_(comics)"
 }

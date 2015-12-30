@@ -1,24 +1,28 @@
 {
-  "name": "Miracle Man",
-  "url": "https://en.wikipedia.org/wiki/Miracle_Man",
-  "realName": null,
+  "aliases": "Brother Joshua, Professor",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Brother Joshua, Professor",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "146",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/82/FF_3_panel.jpg",
+    "width": "275"
+  },
+  "name": "Miracle Man",
+  "pageviews": 2347,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Hypnotism",
     "Ability to manipulate and animate matter"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/82/FF_3_panel.jpg",
-    "width": "275",
-    "height": "146"
-  },
-  "pageviews": 2347
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Miracle_Man"
 }

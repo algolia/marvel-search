@@ -1,28 +1,31 @@
 {
-  "name": "Silver Sable",
-  "url": "https://en.wikipedia.org/wiki/Silver_Sable",
-  "realName": "Silver Sablinova",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [
-    "Wild Pack",
-    "Heroes for Hire"
+  "image": {
+    "height": "366",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/SilverSable3.gif",
+    "width": "236"
+  },
+  "name": "Silver Sable",
+  "pageviews": 9477,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Highly trained in hand-to-hand combat",
     "Very skilled with fire weapons and blades",
     "Excellent strategist"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/SilverSable3.gif",
-    "width": "236",
-    "height": "366"
-  },
-  "pageviews": 9477
+  "realName": "Silver Sablinova",
+  "species": [
+  ],
+  "teams": [
+    "Wild Pack",
+    "Heroes for Hire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Silver_Sable"
 }

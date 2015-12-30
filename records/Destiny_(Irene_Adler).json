@@ -1,29 +1,31 @@
 {
-  "name": "Destiny",
-  "url": "https://en.wikipedia.org/wiki/Destiny_(Irene_Adler)",
-  "realName": "Irene Adler",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "John Byrne"
+  ],
+  "image": {
+    "height": "325",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Destiny1.jpg/150px-Destiny1.jpg",
+    "width": "150"
+  },
+  "name": "Destiny",
+  "pageviews": 12078,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Precognition"
+  ],
+  "realName": "Irene Adler",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Brotherhood of Mutants",
     "Freedom Force",
     "HYDRA"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Precognition"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Destiny1.jpg/150px-Destiny1.jpg",
-    "width": "150",
-    "height": "325"
-  },
-  "pageviews": 12078
+  "url": "https://en.wikipedia.org/wiki/Destiny_(Irene_Adler)"
 }

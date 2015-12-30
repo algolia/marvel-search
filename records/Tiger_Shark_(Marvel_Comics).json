@@ -1,20 +1,18 @@
 {
-  "name": "Tiger Shark",
-  "url": "https://en.wikipedia.org/wiki/Tiger_Shark_(Marvel_Comics)",
-  "realName": "Todd Arliss",
+  "aliases": "Arlys Tigershark",
   "creators": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "teams": [
-    "Masters of Evil",
-    "Deep Six",
-    "Offenders",
-    "Lethal Legion"
+  "image": {
+    "height": "369",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/SM-5.jpg/250px-SM-5.jpg",
+    "width": "250"
+  },
+  "name": "Tiger Shark",
+  "pageviews": 4878,
+  "partners": [
   ],
-  "aliases": "Arlys Tigershark",
-  "species": [],
-  "partners": [],
   "powers": [
     "adamantium"
   ],
@@ -26,10 +24,14 @@
     "razor-sharp adamantium teeth",
     "innate hunting instinct"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/SM-5.jpg/250px-SM-5.jpg",
-    "width": "250",
-    "height": "369"
-  },
-  "pageviews": 4878
+  "realName": "Todd Arliss",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Deep Six",
+    "Offenders",
+    "Lethal Legion"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tiger_Shark_(Marvel_Comics)"
 }

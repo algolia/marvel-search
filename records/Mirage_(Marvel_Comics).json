@@ -1,27 +1,30 @@
 {
-  "name": "Mirage",
-  "url": "https://en.wikipedia.org/wiki/Mirage_(Marvel_Comics)",
-  "realName": "Desmond Charne",
+  "aliases": "Master of Illusion",
   "creators": [
     "Len Wein",
     "Ross Andru"
   ],
-  "teams": [
-    "Grapplers",
-    "Sinister Sixteen"
+  "image": {
+  },
+  "name": "Mirage",
+  "pageviews": 964,
+  "partners": [
   ],
-  "aliases": "Master of Illusion",
-  "species": [
-    "Human"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Genius electrician",
     "physicist and laser technologist",
     "Carries a handgun and tranquilizer gun",
     "Costume grants three dimensional holographic image projection"
   ],
-  "image": {},
-  "pageviews": 964
+  "realName": "Desmond Charne",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+    "Grapplers",
+    "Sinister Sixteen"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mirage_(Marvel_Comics)"
 }

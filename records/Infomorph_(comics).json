@@ -1,22 +1,27 @@
 {
-  "name": "Infomorph",
-  "url": "https://en.wikipedia.org/wiki/Infomorph_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "D. G. Chichester",
     "Scott McDaniel",
     "Bill Oakley"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "398",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/System_Crash.png/250px-System_Crash.png",
-    "width": "250",
-    "height": "398"
+    "width": "250"
   },
-  "pageviews": 85
+  "name": "Infomorph",
+  "pageviews": 85,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Infomorph_(comics)"
 }

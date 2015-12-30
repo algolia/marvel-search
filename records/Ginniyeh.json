@@ -1,17 +1,23 @@
 {
-  "name": "Ginniyeh",
-  "url": "https://en.wikipedia.org/wiki/Ginniyeh",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 41
+  "image": {
+  },
+  "name": "Ginniyeh",
+  "pageviews": 41,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ginniyeh"
 }

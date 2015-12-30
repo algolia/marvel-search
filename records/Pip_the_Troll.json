@@ -1,31 +1,32 @@
 {
-  "name": "Pip the Troll",
-  "url": "https://en.wikipedia.org/wiki/Pip_the_Troll",
-  "realName": "Pip Gofern",
+  "aliases": "Ralph Bunker",
   "creators": [
     "Jim Starlin"
+  ],
+  "image": {
+    "height": "370",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/PipTheTroll.png/150px-PipTheTroll.png",
+    "width": "150"
+  },
+  "name": "Pip the Troll",
+  "pageviews": 3096,
+  "partners": [
+    "Adam Warlock",
+    "Thanos"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Teleportation",
+    "superhuman strength"
+  ],
+  "realName": "Pip Gofern",
+  "species": [
+    "Laxidazian"
   ],
   "teams": [
     "Infinity Watch",
     "X-Factor Investigations"
   ],
-  "aliases": "Ralph Bunker",
-  "species": [
-    "Laxidazian"
-  ],
-  "partners": [
-    "Adam Warlock",
-    "Thanos"
-  ],
-  "powers": [],
-  "powersText": [
-    "Teleportation",
-    "superhuman strength"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/PipTheTroll.png/150px-PipTheTroll.png",
-    "width": "150",
-    "height": "370"
-  },
-  "pageviews": 3096
+  "url": "https://en.wikipedia.org/wiki/Pip_the_Troll"
 }

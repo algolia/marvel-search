@@ -1,25 +1,28 @@
 {
-  "name": "Talon",
-  "url": "https://en.wikipedia.org/wiki/Talon_(Marvel_Comics)",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "Guardians of the Galaxy"
-  ],
   "aliases": "",
-  "species": [
-    "Inhuman",
-    "werecat"
+  "creators": [
   ],
+  "image": {
+  },
+  "name": "Talon",
+  "pageviews": 1861,
   "partners": [
     "Sorcerer Supreme"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Feline attributes",
     "ability to fire claws",
     "minor mystical talents such as levitation"
   ],
-  "image": {},
-  "pageviews": 1861
+  "realName": null,
+  "species": [
+    "Inhuman",
+    "werecat"
+  ],
+  "teams": [
+    "Guardians of the Galaxy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Talon_(Marvel_Comics)"
 }

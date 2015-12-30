@@ -1,21 +1,26 @@
 {
-  "name": "Dragon Lord",
-  "url": "https://en.wikipedia.org/wiki/Dragon_Lord_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Bill Everett",
     "Mike Friedrich"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "388",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Dragonlordc.jpg/249px-Dragonlordc.jpg",
-    "width": "249",
-    "height": "388"
+    "width": "249"
   },
-  "pageviews": 1052
+  "name": "Dragon Lord",
+  "pageviews": 1052,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Dragon_Lord_(comics)"
 }

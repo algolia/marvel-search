@@ -1,27 +1,29 @@
 {
-  "name": "Ani-Mator",
-  "url": "https://en.wikipedia.org/wiki/Ani-Mator",
-  "realName": "Dr. Frederick Animus",
+  "aliases": "",
   "creators": [
     "Louise Simonson",
     "Bret Blevins"
   ],
-  "teams": [
-    "The Right"
+  "image": {
+    "height": "372",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/05/AniMator.png",
+    "width": "161"
+  },
+  "name": "Ani-Mator",
+  "pageviews": 608,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "human"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "None"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/05/AniMator.png",
-    "width": "161",
-    "height": "372"
-  },
-  "pageviews": 608
+  "realName": "Dr. Frederick Animus",
+  "species": [
+    "human"
+  ],
+  "teams": [
+    "The Right"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ani-Mator"
 }

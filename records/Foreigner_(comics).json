@@ -1,24 +1,28 @@
 {
-  "name": "Foreigner",
-  "url": "https://en.wikipedia.org/wiki/Foreigner_(comics)",
-  "realName": null,
+  "aliases": "Kris Keating",
   "creators": [
     "Peter David"
   ],
-  "teams": [],
-  "aliases": "Kris Keating",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "306",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/SpideyForeigner209.jpg/200px-SpideyForeigner209.jpg",
+    "width": "200"
+  },
+  "name": "Foreigner",
+  "pageviews": 1373,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Master assassin",
     "Peak physical condition",
     "Minor hypnotic abilities"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/SpideyForeigner209.jpg/200px-SpideyForeigner209.jpg",
-    "width": "200",
-    "height": "306"
-  },
-  "pageviews": 1373
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Foreigner_(comics)"
 }

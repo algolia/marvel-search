@@ -1,25 +1,29 @@
 {
-  "name": "Black Crow",
-  "url": "https://en.wikipedia.org/wiki/Black_Crow_(comics)",
-  "realName": "Jesse Black Crow",
+  "aliases": "",
   "creators": [
     "J.M. DeMatteis",
     "Paul Neary"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "313",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Black_Crow_%28Marvel_character%29.jpg/250px-Black_Crow_%28Marvel_character%29.jpg",
+    "width": "250"
+  },
+  "name": "Black Crow",
+  "pageviews": 791,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Various mystical powers",
     "superhuman agility",
     "skilled combatant"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Black_Crow_%28Marvel_character%29.jpg/250px-Black_Crow_%28Marvel_character%29.jpg",
-    "width": "250",
-    "height": "313"
-  },
-  "pageviews": 791
+  "realName": "Jesse Black Crow",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Crow_(comics)"
 }

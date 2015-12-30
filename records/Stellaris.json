@@ -1,23 +1,27 @@
 {
-  "name": "Stellaris",
-  "url": "https://en.wikipedia.org/wiki/Stellaris",
-  "realName": null,
+  "aliases": "The Celestial Slayer",
   "creators": [
     "Tom DeFalco",
     "Gary Hartle"
   ],
-  "teams": [],
-  "aliases": "The Celestial Slayer",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "213",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Stellaris_-_Thor_420_detail.png",
+    "width": "221"
+  },
+  "name": "Stellaris",
+  "pageviews": 1107,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "possesses living armor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Stellaris_-_Thor_420_detail.png",
-    "width": "221",
-    "height": "213"
-  },
-  "pageviews": 1107
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Stellaris"
 }

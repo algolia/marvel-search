@@ -1,24 +1,28 @@
 {
-  "name": "Psynapse",
-  "url": "https://en.wikipedia.org/wiki/Psynapse_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Jim Lee"
+  ],
+  "image": {
+    "height": "284",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Psynapse.jpg/150px-Psynapse.jpg",
+    "width": "150"
+  },
+  "name": "Psynapse",
+  "pageviews": 974,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "Dark Riders",
     "Inhumans"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Psynapse.jpg/150px-Psynapse.jpg",
-    "width": "150",
-    "height": "284"
-  },
-  "pageviews": 974
+  "url": "https://en.wikipedia.org/wiki/Psynapse_(comics)"
 }

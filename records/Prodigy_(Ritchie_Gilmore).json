@@ -1,22 +1,19 @@
 {
-  "name": "Prodigy",
-  "url": "https://en.wikipedia.org/wiki/Prodigy_(Ritchie_Gilmore)",
-  "realName": "Ritchie Gilmore",
+  "aliases": "",
   "creators": [
     "Adam Pollina"
   ],
-  "teams": [
-    "Slingers",
-    "Initiative",
-    "Heavy Hitters",
-    "New Warriors"
+  "image": {
+    "height": "250",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Prodigy_Gilmore.jpg/250px-Prodigy_Gilmore.jpg",
+    "width": "250"
+  },
+  "name": "Prodigy",
+  "pageviews": 2541,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Adept wrestler",
     "Mystically infused costume grants:",
@@ -25,10 +22,15 @@
     "Near-flight leaping",
     "Gliding via cape"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Prodigy_Gilmore.jpg/250px-Prodigy_Gilmore.jpg",
-    "width": "250",
-    "height": "250"
-  },
-  "pageviews": 2541
+  "realName": "Ritchie Gilmore",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+    "Slingers",
+    "Initiative",
+    "Heavy Hitters",
+    "New Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Prodigy_(Ritchie_Gilmore)"
 }

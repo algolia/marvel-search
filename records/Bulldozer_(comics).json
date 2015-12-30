@@ -1,30 +1,33 @@
 {
-  "name": "Bulldozer",
-  "url": "https://en.wikipedia.org/wiki/Bulldozer_(comics)",
-  "realName": "Henry Camp",
+  "aliases": "",
   "creators": [
     "Len Wein",
     "Sal Buscema"
   ],
-  "teams": [
-    "Wrecking Crew",
-    "Masters of Evil",
-    "United States Army"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/HenryCampBulldozer.jpg",
+    "width": "232"
+  },
+  "name": "Bulldozer",
+  "pageviews": 2849,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "durability and endurance",
     "Wears a specially-made armored helmet",
     "neck and shoulder apparatus"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/HenryCampBulldozer.jpg",
-    "width": "232",
-    "height": "450"
-  },
-  "pageviews": 2849
+  "realName": "Henry Camp",
+  "species": [
+  ],
+  "teams": [
+    "Wrecking Crew",
+    "Masters of Evil",
+    "United States Army"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bulldozer_(comics)"
 }

@@ -1,29 +1,32 @@
 {
-  "name": "MODAM",
-  "url": "https://en.wikipedia.org/wiki/MODAM",
-  "realName": "Olinka Barankova",
+  "aliases": "Maria Trovaya Pym, SODAM",
   "creators": [
     "Steve Englehart",
     "Al Milgrom"
   ],
-  "teams": [
-    "AIM",
-    "Femizons"
+  "image": {
+    "height": "315",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Quasar9.jpg/200px-Quasar9.jpg",
+    "width": "200"
+  },
+  "name": "MODAM",
+  "pageviews": 2642,
+  "partners": [
   ],
-  "aliases": "Maria Trovaya Pym, SODAM",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman intelligence",
     "Various psionic abilities",
     "Telepathy",
     "Powered exo-skeleton"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Quasar9.jpg/200px-Quasar9.jpg",
-    "width": "200",
-    "height": "315"
-  },
-  "pageviews": 2642
+  "realName": "Olinka Barankova",
+  "species": [
+  ],
+  "teams": [
+    "AIM",
+    "Femizons"
+  ],
+  "url": "https://en.wikipedia.org/wiki/MODAM"
 }

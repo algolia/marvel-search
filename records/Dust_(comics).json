@@ -1,11 +1,27 @@
 {
-  "name": "Dust",
-  "url": "https://en.wikipedia.org/wiki/Dust_(comics)",
-  "realName": "Sooraya Qadir",
+  "aliases": "",
   "creators": [
     "Grant Morrison",
     "Frank Quitely",
     "Ethan Van Sciver"
+  ],
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/DustProfile.jpg/250px-DustProfile.jpg",
+    "width": "250"
+  },
+  "name": "Dust",
+  "pageviews": 6960,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Able to transform into and control a malleable sand form"
+  ],
+  "realName": "Sooraya Qadir",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Hellions training squad",
@@ -15,19 +31,5 @@
     "Young X-Men",
     "Jean Grey School Students"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Able to transform into and control a malleable sand form"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/DustProfile.jpg/250px-DustProfile.jpg",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 6960
+  "url": "https://en.wikipedia.org/wiki/Dust_(comics)"
 }

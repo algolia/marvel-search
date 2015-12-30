@@ -1,29 +1,31 @@
 {
-  "name": "Delphyne Gorgon",
-  "url": "https://en.wikipedia.org/wiki/Delphyne_Gorgon",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Greg Pak",
     "Fred Van Lente",
     "Clayton Henry"
   ],
-  "teams": [
-    "Amazons"
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/1c/Delphyne.jpg",
+    "width": "150"
+  },
+  "name": "Delphyne Gorgon",
+  "pageviews": 1789,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Gorgon"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Skilled combatant",
     "poison administered through fangs."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/1c/Delphyne.jpg",
-    "width": "150",
-    "height": "300"
-  },
-  "pageviews": 1789
+  "realName": null,
+  "species": [
+    "Gorgon"
+  ],
+  "teams": [
+    "Amazons"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Delphyne_Gorgon"
 }

@@ -1,26 +1,30 @@
 {
-  "name": "Cyclone",
-  "url": "https://en.wikipedia.org/wiki/Cyclone_(Marvel_Comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Gerry Conway",
     "Ross Andru"
   ],
-  "teams": [
-    "Hood",
-    "Maggia",
-    "NATO"
+  "image": {
+  },
+  "name": "Cyclone",
+  "pageviews": 1636,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Expert engineer",
     "Gifted intellect",
     "Costume grants:",
     "Ability to create whirlwinds"
   ],
-  "image": {},
-  "pageviews": 1636
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Hood",
+    "Maggia",
+    "NATO"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cyclone_(Marvel_Comics)"
 }

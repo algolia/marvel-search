@@ -1,27 +1,30 @@
 {
-  "name": "Anthem",
-  "url": "https://en.wikipedia.org/wiki/Anthem_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Matt Fraction",
     "Barry Kitson"
   ],
-  "teams": [
-    "The Order"
+  "image": {
+    "height": "447",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Anthem_%28comics%29.jpg/250px-Anthem_%28comics%29.jpg",
+    "width": "250"
+  },
+  "name": "Anthem",
+  "pageviews": 266,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Blast Power",
     "Electricity Control",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Anthem_%28comics%29.jpg/250px-Anthem_%28comics%29.jpg",
-    "width": "250",
-    "height": "447"
-  },
-  "pageviews": 266
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "The Order"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Anthem_(comics)"
 }

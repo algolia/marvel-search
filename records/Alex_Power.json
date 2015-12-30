@@ -1,20 +1,20 @@
 {
-  "name": "Alex Power",
-  "url": "https://en.wikipedia.org/wiki/Alex_Power",
-  "realName": "Alexander Power",
+  "aliases": "Gee, Destroyer, Mass Master, Powerpax, Powerhouse, Zero-G",
   "creators": [
     "Louise Simonson",
     "June Brigman"
   ],
-  "teams": [
-    "Power Pack",
-    "New Warriors",
-    "Future Foundation"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Alex_Power_%28by_Gurihiru%29.jpg/130px-Alex_Power_%28by_Gurihiru%29.jpg",
+    "width": "130"
+  },
+  "name": "Alex Power",
+  "pageviews": 3587,
+  "partners": [
   ],
-  "aliases": "Gee, Destroyer, Mass Master, Powerpax, Powerhouse, Zero-G",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Gravity manipulation",
     "Healing powers",
@@ -24,10 +24,13 @@
     "Energy absorption",
     "projection and disintegration"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Alex_Power_%28by_Gurihiru%29.jpg/130px-Alex_Power_%28by_Gurihiru%29.jpg",
-    "width": "130",
-    "height": "380"
-  },
-  "pageviews": 3587
+  "realName": "Alexander Power",
+  "species": [
+  ],
+  "teams": [
+    "Power Pack",
+    "New Warriors",
+    "Future Foundation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Alex_Power"
 }

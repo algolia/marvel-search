@@ -1,27 +1,19 @@
 {
-  "name": "Rachel Summers",
-  "url": "https://en.wikipedia.org/wiki/Rachel_Summers",
-  "realName": null,
+  "aliases": "Rachel Grey, Phoenix , Mother Askani, Bright Lady, Alyzr'n Summerset, \"Hound\", the Celestial Avatar, the Cosmic Avatar, R'Chell, Revenant, Marvel Girl",
   "creators": [
     "Chris Claremont",
     "John Byrne",
     "John Romita, Jr."
   ],
-  "teams": [
-    "Hounds",
-    "X-Men",
-    "New Mutants (Earth-811)",
-    "Excalibur",
-    "Clan Askani",
-    "X-Treme Sanctions Executive",
-    "Starjammers",
-    "Jean Grey School"
+  "image": {
+    "height": "350",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Rachelempvulc.PNG/250px-Rachelempvulc.PNG",
+    "width": "250"
+  },
+  "name": "Rachel Summers",
+  "pageviews": 30465,
+  "partners": [
   ],
-  "aliases": "Rachel Grey, Phoenix , Mother Askani, Bright Lady, Alyzr'n Summerset, \"Hound\", the Celestial Avatar, the Cosmic Avatar, R'Chell, Revenant, Marvel Girl",
-  "species": [
-    "Human mutant"
-  ],
-  "partners": [],
   "powers": [
     "Empathy",
     "Telepathy",
@@ -36,10 +28,19 @@
     "Formerly:",
     "Phoenix Force abilities"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Rachelempvulc.PNG/250px-Rachelempvulc.PNG",
-    "width": "250",
-    "height": "350"
-  },
-  "pageviews": 30465
+  "realName": null,
+  "species": [
+    "Human mutant"
+  ],
+  "teams": [
+    "Hounds",
+    "X-Men",
+    "New Mutants (Earth-811)",
+    "Excalibur",
+    "Clan Askani",
+    "X-Treme Sanctions Executive",
+    "Starjammers",
+    "Jean Grey School"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Rachel_Summers"
 }

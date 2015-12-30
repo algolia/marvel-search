@@ -1,18 +1,17 @@
 {
-  "name": "Circuit Breaker",
-  "url": "https://en.wikipedia.org/wiki/Circuit_Breaker_(Transformers)",
-  "realName": "Josephine \"Josie\" Beller",
+  "aliases": "Emulator, \"Sephie\"",
   "creators": [
     "Marvel Comics"
   ],
-  "teams": [
-    "Neo-Knights",
-    "Rapid Anti-Robot Attack Team",
-    "G.B. Blackrock"
+  "image": {
+    "height": "140",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Circuitbreaker-autobots.jpg/200px-Circuitbreaker-autobots.jpg",
+    "width": "200"
+  },
+  "name": "Circuit Breaker",
+  "pageviews": 1351,
+  "partners": [
   ],
-  "aliases": "Emulator, \"Sephie\"",
-  "species": [],
-  "partners": [],
   "powers": [
     "robot",
     "circuitry"
@@ -21,10 +20,13 @@
     "Her suit allows her to disrupt a robot's circuitry",
     "causing it to malfunction and break down."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Circuitbreaker-autobots.jpg/200px-Circuitbreaker-autobots.jpg",
-    "width": "200",
-    "height": "140"
-  },
-  "pageviews": 1351
+  "realName": "Josephine \"Josie\" Beller",
+  "species": [
+  ],
+  "teams": [
+    "Neo-Knights",
+    "Rapid Anti-Robot Attack Team",
+    "G.B. Blackrock"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Circuit_Breaker_(Transformers)"
 }

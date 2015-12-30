@@ -1,20 +1,20 @@
 {
-  "name": "Julie Power",
-  "url": "https://en.wikipedia.org/wiki/Julie_Power",
-  "realName": "Julie Power",
+  "aliases": "Lightspeed, Molecula, Mistress of Density, Starstreak",
   "creators": [
     "Louise Simonson",
     "June Brigman"
   ],
-  "teams": [
-    "Loners",
-    "Power Pack",
-    "Avengers Academy"
+  "image": {
+    "height": "329",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/LightSpeedJulie.JPG/160px-LightSpeedJulie.JPG",
+    "width": "160"
+  },
+  "name": "Julie Power",
+  "pageviews": 4508,
+  "partners": [
   ],
-  "aliases": "Lightspeed, Molecula, Mistress of Density, Starstreak",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Acceleration/Flight",
     "Healing powers",
@@ -22,10 +22,13 @@
     "Density and size manipulation",
     "Teleportation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/LightSpeedJulie.JPG/160px-LightSpeedJulie.JPG",
-    "width": "160",
-    "height": "329"
-  },
-  "pageviews": 4508
+  "realName": "Julie Power",
+  "species": [
+  ],
+  "teams": [
+    "Loners",
+    "Power Pack",
+    "Avengers Academy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Julie_Power"
 }

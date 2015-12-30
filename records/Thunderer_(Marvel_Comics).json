@@ -1,19 +1,24 @@
 {
-  "name": "Thunderer",
-  "url": "https://en.wikipedia.org/wiki/Thunderer_(Marvel_Comics)",
-  "realName": "Jerry Carstairs",
+  "aliases": "Black Avenger",
   "creators": [
     "Carl Burgos"
   ],
-  "teams": [],
-  "aliases": "Black Avenger",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Thunderer",
+  "pageviews": 1302,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Good hand to hand combatant",
     "High-impact voice amplification"
   ],
-  "image": {},
-  "pageviews": 1302
+  "realName": "Jerry Carstairs",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thunderer_(Marvel_Comics)"
 }

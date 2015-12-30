@@ -1,25 +1,18 @@
 {
-  "name": "Leech",
-  "url": "https://en.wikipedia.org/wiki/Leech_(comics)",
-  "realName": "James 'Jimmy'",
+  "aliases": "The Cure",
   "creators": [
     "Chris Claremont",
     "John Romita Jr"
   ],
-  "teams": [
-    "Future Foundation",
-    "Weapon X",
-    "The 198",
-    "Generation X",
-    "X-Terminators",
-    "X-Factor",
-    "Morlocks"
+  "image": {
+    "height": "259",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/X198leech.jpg/250px-X198leech.jpg",
+    "width": "250"
+  },
+  "name": "Leech",
+  "pageviews": 9318,
+  "partners": [
   ],
-  "aliases": "The Cure",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Power negation"
   ],
@@ -30,10 +23,18 @@
     "Ability Suppression",
     "Superpower Cancellation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/X198leech.jpg/250px-X198leech.jpg",
-    "width": "250",
-    "height": "259"
-  },
-  "pageviews": 9318
+  "realName": "James 'Jimmy'",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Future Foundation",
+    "Weapon X",
+    "The 198",
+    "Generation X",
+    "X-Terminators",
+    "X-Factor",
+    "Morlocks"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Leech_(comics)"
 }

@@ -1,22 +1,26 @@
 {
-  "name": "Foxfire",
-  "url": "https://en.wikipedia.org/wiki/Foxfire_(comics)",
-  "realName": "Olivia Underwood",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald"
+  ],
+  "image": {
+  },
+  "name": "Foxfire",
+  "pageviews": 1098,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to disintegrate matter"
+  ],
+  "realName": "Olivia Underwood",
+  "species": [
   ],
   "teams": [
     "Institute of Evil",
     "Squadron Supreme",
     "America Redeemers"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to disintegrate matter"
-  ],
-  "image": {},
-  "pageviews": 1098
+  "url": "https://en.wikipedia.org/wiki/Foxfire_(comics)"
 }

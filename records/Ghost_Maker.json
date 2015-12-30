@@ -1,21 +1,25 @@
 {
-  "name": "Ghost Maker",
-  "url": "https://en.wikipedia.org/wiki/Ghost_Maker",
-  "realName": "Grigori Sovchencko",
+  "aliases": "",
   "creators": [
     "Doug Moench",
     "Gene Day"
   ],
-  "teams": [
-    "The Hand"
+  "image": {
+  },
+  "name": "Ghost Maker",
+  "pageviews": 517,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled martial artist"
   ],
-  "image": {},
-  "pageviews": 517
+  "realName": "Grigori Sovchencko",
+  "species": [
+  ],
+  "teams": [
+    "The Hand"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ghost_Maker"
 }

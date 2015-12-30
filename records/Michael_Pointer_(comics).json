@@ -1,29 +1,31 @@
 {
-  "name": "Omega",
-  "url": "https://en.wikipedia.org/wiki/Michael_Pointer_(comics)",
-  "realName": "Michael Pointer",
+  "aliases": "Omega, Weapon Omega, The Collective, Captain Canada",
   "creators": [
     "Brian Michael Bendis",
     "Steve McNiven"
+  ],
+  "image": {
+    "height": "364",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Mcp4.jpg/250px-Mcp4.jpg",
+    "width": "250"
+  },
+  "name": "Omega",
+  "pageviews": 2860,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Mutant energy absorption and manipulation",
+    "Flight"
+  ],
+  "realName": "Michael Pointer",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Omega Flight",
     "Dark X-Men"
   ],
-  "aliases": "Omega, Weapon Omega, The Collective, Captain Canada",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Mutant energy absorption and manipulation",
-    "Flight"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Mcp4.jpg/250px-Mcp4.jpg",
-    "width": "250",
-    "height": "364"
-  },
-  "pageviews": 2860
+  "url": "https://en.wikipedia.org/wiki/Michael_Pointer_(comics)"
 }

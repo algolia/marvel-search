@@ -1,19 +1,18 @@
 {
-  "name": "Rom",
-  "url": "https://en.wikipedia.org/wiki/Rom_(comics)",
-  "realName": "Rom of Galador/Artour",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "teams": [
-    "Spaceknights"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Rom-1.jpg/250px-Rom-1.jpg",
+    "width": "250"
+  },
+  "name": "Rom",
+  "pageviews": 12709,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Galadorian"
-  ],
-  "partners": [],
   "powers": [
     "Space"
   ],
@@ -27,10 +26,12 @@
     "Self-repair capabilities",
     "Use of high tech weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Rom-1.jpg/250px-Rom-1.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 12709
+  "realName": "Rom of Galador/Artour",
+  "species": [
+    "Galadorian"
+  ],
+  "teams": [
+    "Spaceknights"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Rom_(comics)"
 }

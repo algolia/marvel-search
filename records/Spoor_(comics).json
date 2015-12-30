@@ -1,24 +1,27 @@
 {
-  "name": "Spoor",
-  "url": "https://en.wikipedia.org/wiki/Spoor_(comics)",
-  "realName": "Andrew Hamish Graves",
+  "aliases": "Amos",
   "creators": [
     "Scott Lobdell",
     "John Romita, Jr."
   ],
-  "teams": [
-    "Acolytes"
+  "image": {
+  },
+  "name": "Spoor",
+  "pageviews": 359,
+  "partners": [
   ],
-  "aliases": "Amos",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Pheromone manipulation",
     "generates and amplifies feelings of violence and hatred in others"
   ],
-  "image": {},
-  "pageviews": 359
+  "realName": "Andrew Hamish Graves",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Acolytes"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spoor_(comics)"
 }

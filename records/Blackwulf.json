@@ -1,29 +1,31 @@
 {
-  "name": "Blackwulf (Lucian)",
-  "url": "https://en.wikipedia.org/wiki/Blackwulf",
-  "realName": "Blackwulf I (Pelops), Blackwulf II (Lucian)",
+  "aliases": "",
   "creators": [
     "Glenn Herdling",
     "Angel Medina"
+  ],
+  "image": {
+    "height": "271",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Blackwulf1_HCV.jpg/200px-Blackwulf1_HCV.jpg",
+    "width": "200"
+  },
+  "name": "Blackwulf (Lucian)",
+  "pageviews": 785,
+  "partners": [
+    "Giant-Man"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Enhanced strength",
+    "durability. Black Legacy energy manipulation."
+  ],
+  "realName": "Blackwulf I (Pelops), Blackwulf II (Lucian)",
+  "species": [
   ],
   "teams": [
     "Avengers",
     "Code: Blue"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [
-    "Giant-Man"
-  ],
-  "powers": [],
-  "powersText": [
-    "Enhanced strength",
-    "durability. Black Legacy energy manipulation."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Blackwulf1_HCV.jpg/200px-Blackwulf1_HCV.jpg",
-    "width": "200",
-    "height": "271"
-  },
-  "pageviews": 785
+  "url": "https://en.wikipedia.org/wiki/Blackwulf"
 }

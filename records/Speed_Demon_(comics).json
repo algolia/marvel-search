@@ -1,10 +1,27 @@
 {
-  "name": "Speed Demon",
-  "url": "https://en.wikipedia.org/wiki/Speed_Demon_(comics)",
-  "realName": "James Sanders",
+  "aliases": "Whizzer, Harvey James",
   "creators": [
     "Roy Thomas",
     "Sal Buscema"
+  ],
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Speed_Demon_Superior_Foes_of_Spider-Man_Vol_1_3.jpg/250px-Speed_Demon_Superior_Foes_of_Spider-Man_Vol_1_3.jpg",
+    "width": "250"
+  },
+  "name": "Speed Demon",
+  "pageviews": 5198,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Genius chemist",
+    "Superhuman speed",
+    "stamina and reflexes"
+  ],
+  "realName": "James Sanders",
+  "species": [
   ],
   "teams": [
     "Squadron Sinister",
@@ -12,19 +29,5 @@
     "Thunderbolts",
     "Sinister Six"
   ],
-  "aliases": "Whizzer, Harvey James",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Genius chemist",
-    "Superhuman speed",
-    "stamina and reflexes"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Speed_Demon_Superior_Foes_of_Spider-Man_Vol_1_3.jpg/250px-Speed_Demon_Superior_Foes_of_Spider-Man_Vol_1_3.jpg",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 5198
+  "url": "https://en.wikipedia.org/wiki/Speed_Demon_(comics)"
 }

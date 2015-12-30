@@ -1,22 +1,27 @@
 {
-  "name": "Firepower",
-  "url": "https://en.wikipedia.org/wiki/Firepower_(comics)",
-  "realName": "Jack Taggert",
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "Bob Layton",
     "Mark Bright"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "327",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Firepower_supervillain.jpg/250px-Firepower_supervillain.jpg",
-    "width": "250",
-    "height": "327"
+    "width": "250"
   },
-  "pageviews": 3729
+  "name": "Firepower",
+  "pageviews": 3729,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Jack Taggert",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Firepower_(comics)"
 }

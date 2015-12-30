@@ -1,24 +1,16 @@
 {
-  "name": "Enchantress",
-  "url": "https://en.wikipedia.org/wiki/Enchantress_(Marvel_Comics)",
-  "realName": "Amora",
+  "aliases": "Christine Collins, Helen Eve, Amora Incantare, Amora Lorelei, Leena Moran, Valkyrie",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Asgard",
-    "Masters of Evil",
-    "Lady Liberators",
-    "Mandarin's Minions",
-    "Sisterhood of Mutants",
-    "Astonishing Avengers",
-    "Illuminati"
-  ],
-  "aliases": "Christine Collins, Helen Eve, Amora Incantare, Amora Lorelei, Leena Moran, Valkyrie",
-  "species": [
-    "Asgardian"
-  ],
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Thor-sonofasgard8.jpg/250px-Thor-sonofasgard8.jpg",
+    "width": "250"
+  },
+  "name": "Enchantress",
+  "pageviews": 27263,
   "partners": [
     "Loki",
     "Executioner",
@@ -54,10 +46,18 @@
     "Transmutation",
     "Time manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Thor-sonofasgard8.jpg/250px-Thor-sonofasgard8.jpg",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 27263
+  "realName": "Amora",
+  "species": [
+    "Asgardian"
+  ],
+  "teams": [
+    "Asgard",
+    "Masters of Evil",
+    "Lady Liberators",
+    "Mandarin's Minions",
+    "Sisterhood of Mutants",
+    "Astonishing Avengers",
+    "Illuminati"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Enchantress_(Marvel_Comics)"
 }

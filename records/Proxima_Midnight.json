@@ -1,18 +1,16 @@
 {
-  "name": "Proxima Midnight",
-  "url": "https://en.wikipedia.org/wiki/Proxima_Midnight",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Jonathan Hickman"
   ],
-  "teams": [
-    "Black Order",
-    "Cabal"
+  "image": {
+  },
+  "name": "Proxima Midnight",
+  "pageviews": 5097,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -20,6 +18,12 @@
     "and endurance",
     "Master hand to hand combatant"
   ],
-  "image": {},
-  "pageviews": 5097
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Black Order",
+    "Cabal"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Proxima_Midnight"
 }

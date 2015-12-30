@@ -1,20 +1,21 @@
 {
-  "name": "Nightshade",
-  "url": "https://en.wikipedia.org/wiki/Nightshade_(Marvel_Comics)",
-  "realName": "Tilda Johnson",
+  "aliases": "Deadly Nightshade, Queen of the Werewolves",
   "creators": [
     "Steve Englehart",
     "Alan Lee Weiss"
   ],
-  "teams": [
-    "Femizons"
-  ],
-  "aliases": "Deadly Nightshade, Queen of the Werewolves",
-  "species": [],
+  "image": {
+    "height": "302",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/CaptainAmerica164.jpg/200px-CaptainAmerica164.jpg",
+    "width": "200"
+  },
+  "name": "Nightshade",
+  "pageviews": 2018,
   "partners": [
     "Yellow Claw"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Extraordinary genius",
     "Wears protective battle armor",
@@ -24,10 +25,11 @@
     "Chemical pheromones in her body allows her to affect the will of certain animals",
     "including werewolves"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/CaptainAmerica164.jpg/200px-CaptainAmerica164.jpg",
-    "width": "200",
-    "height": "302"
-  },
-  "pageviews": 2018
+  "realName": "Tilda Johnson",
+  "species": [
+  ],
+  "teams": [
+    "Femizons"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nightshade_(Marvel_Comics)"
 }

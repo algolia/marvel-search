@@ -1,26 +1,29 @@
 {
-  "name": "Silencer",
-  "url": "https://en.wikipedia.org/wiki/Silencer_(comics)",
-  "realName": "Akiya Badaranaike",
+  "aliases": "",
   "creators": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "teams": [
-    "Strikeforce: Morituri"
+  "image": {
+    "height": "276",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Silencer_comics.jpg",
+    "width": "250"
+  },
+  "name": "Silencer",
+  "pageviews": 374,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Nullifies sound waves",
     "Enhanced strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Silencer_comics.jpg",
-    "width": "250",
-    "height": "276"
-  },
-  "pageviews": 374
+  "realName": "Akiya Badaranaike",
+  "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Silencer_(comics)"
 }

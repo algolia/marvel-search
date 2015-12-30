@@ -1,15 +1,18 @@
 {
-  "name": "Bloodscream",
-  "url": "https://en.wikipedia.org/wiki/Bloodscream",
-  "realName": null,
+  "aliases": "Bloodsport",
   "creators": [
     "Chris Claremont",
     "John Buscema"
   ],
-  "teams": [],
-  "aliases": "Bloodsport",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "149",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Bloodscream.jpg/250px-Bloodscream.jpg",
+    "width": "250"
+  },
+  "name": "Bloodscream",
+  "pageviews": 1417,
+  "partners": [
+  ],
   "powers": [
     "healing factor"
   ],
@@ -25,10 +28,10 @@
     "Good hand to hand combatant",
     "Many underworld connections"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Bloodscream.jpg/250px-Bloodscream.jpg",
-    "width": "250",
-    "height": "149"
-  },
-  "pageviews": 1417
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bloodscream"
 }

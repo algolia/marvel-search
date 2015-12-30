@@ -1,18 +1,14 @@
 {
-  "name": "Shape",
-  "url": "https://en.wikipedia.org/wiki/Shape_(comics)",
-  "realName": "Raleigh Lund",
+  "aliases": "",
   "creators": [
     "Mark Gruenwald"
   ],
-  "teams": [
-    "Institute of Evil",
-    "Squadron Supreme",
-    "Redeemers"
+  "image": {
+  },
+  "name": "Shape",
+  "pageviews": 698,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Blob"
   ],
@@ -20,6 +16,13 @@
     "malleable",
     "putty-like body<BR>Blob"
   ],
-  "image": {},
-  "pageviews": 698
+  "realName": "Raleigh Lund",
+  "species": [
+  ],
+  "teams": [
+    "Institute of Evil",
+    "Squadron Supreme",
+    "Redeemers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shape_(comics)"
 }

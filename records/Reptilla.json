@@ -1,20 +1,25 @@
 {
-  "name": "Reptilla",
-  "url": "https://en.wikipedia.org/wiki/Reptilla",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Len Wein",
     "George Pérez"
+  ],
+  "image": {
+  },
+  "name": "Reptilla",
+  "pageviews": 293,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "Salem's Seven",
     "Frightful Four"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 293
+  "url": "https://en.wikipedia.org/wiki/Reptilla"
 }

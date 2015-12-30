@@ -1,19 +1,20 @@
 {
-  "name": "Slyde",
-  "url": "https://en.wikipedia.org/wiki/Slyde",
-  "realName": "Jalome Beacher",
+  "aliases": "'The Teflon Coated Man'",
   "creators": [
     "Tom DeFalco",
     "Sal Buscema"
   ],
-  "teams": [
-    "Masters of Evil",
-    "Thunderbolts"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Slyde1stapp.jpg/250px-Slyde1stapp.jpg",
+    "width": "250"
+  },
+  "name": "Slyde",
+  "pageviews": 1302,
+  "partners": [
   ],
-  "aliases": "'The Teflon Coated Man'",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled chemist",
     "Wears chemical laced suit that grants:",
@@ -21,10 +22,12 @@
     "Incredible maneuverability",
     "Ability to easily escape from a grappling hold"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Slyde1stapp.jpg/250px-Slyde1stapp.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 1302
+  "realName": "Jalome Beacher",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Slyde"
 }

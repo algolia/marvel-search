@@ -1,17 +1,18 @@
 {
-  "name": "Mikaboshi",
-  "url": "https://en.wikipedia.org/wiki/Amatsu-Mikaboshi_(comics)",
-  "realName": "Amatsu-Mikaboshi",
+  "aliases": "Ama-no-kagaseo, Chaos King",
   "creators": [
     "Michael Oeming",
     "Scott Kolins"
   ],
-  "teams": [
-    "God Squad"
+  "image": {
+    "height": "286",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Mikaboshi2.jpg/200px-Mikaboshi2.jpg",
+    "width": "200"
+  },
+  "name": "Mikaboshi",
+  "pageviews": 8126,
+  "partners": [
   ],
-  "aliases": "Ama-no-kagaseo, Chaos King",
-  "species": [],
-  "partners": [],
   "powers": [
     "Strength",
     "Speed",
@@ -31,10 +32,11 @@
     "Power to absorb & enslave anything & anyone into void",
     "including immortals"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Mikaboshi2.jpg/200px-Mikaboshi2.jpg",
-    "width": "200",
-    "height": "286"
-  },
-  "pageviews": 8126
+  "realName": "Amatsu-Mikaboshi",
+  "species": [
+  ],
+  "teams": [
+    "God Squad"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Amatsu-Mikaboshi_(comics)"
 }

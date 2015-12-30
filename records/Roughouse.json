@@ -1,18 +1,20 @@
 {
-  "name": "Roughouse",
-  "url": "https://en.wikipedia.org/wiki/Roughouse",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "John Buscema"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Asgardian"
+  "image": {
+    "height": "125",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Roughouse.jpg/250px-Roughouse.jpg",
+    "width": "250"
+  },
+  "name": "Roughouse",
+  "pageviews": 830,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "stamina",
@@ -20,10 +22,11 @@
     "Formidable hand to hand combatant",
     "Many criminal underworld connections"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Roughouse.jpg/250px-Roughouse.jpg",
-    "width": "250",
-    "height": "125"
-  },
-  "pageviews": 830
+  "realName": null,
+  "species": [
+    "Asgardian"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Roughouse"
 }

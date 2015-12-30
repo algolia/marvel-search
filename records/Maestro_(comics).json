@@ -1,15 +1,18 @@
 {
-  "name": "The Maestro",
-  "url": "https://en.wikipedia.org/wiki/Maestro_(comics)",
-  "realName": "Dr. Robert Bruce Banner",
+  "aliases": "",
   "creators": [
     "Peter David",
     "George Pérez"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/The_Maestro_-_Future_Imperfect_2.jpg/250px-The_Maestro_-_Future_Imperfect_2.jpg",
+    "width": "250"
+  },
+  "name": "The Maestro",
+  "pageviews": 17092,
+  "partners": [
+  ],
   "powers": [
     "astral forms"
   ],
@@ -23,10 +26,10 @@
     "Resistance to mind control",
     "Ability to see astral forms"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/The_Maestro_-_Future_Imperfect_2.jpg/250px-The_Maestro_-_Future_Imperfect_2.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 17092
+  "realName": "Dr. Robert Bruce Banner",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Maestro_(comics)"
 }

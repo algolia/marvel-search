@@ -1,10 +1,26 @@
 {
-  "name": "Blackwing",
-  "url": "https://en.wikipedia.org/wiki/Blackwing",
-  "realName": "Joseph Manfredi",
+  "aliases": "Guiseppi Manfredi, Joe Silvermane",
   "creators": [
     "Gerry Conway",
     "Don Heck"
+  ],
+  "image": {
+  },
+  "name": "Blackwing",
+  "pageviews": 5126,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Expert bat trainer",
+    "Skilled marksman",
+    "Specially mutated bats",
+    "Wears costume made of synthetic stretch fabric over chain mail body armor that grants:",
+    "Short distanced flight via directed motion hovering"
+  ],
+  "realName": "Joseph Manfredi",
+  "species": [
   ],
   "teams": [
     "Masters of Evil",
@@ -14,17 +30,5 @@
     "Maggia",
     "Heavy Mettle"
   ],
-  "aliases": "Guiseppi Manfredi, Joe Silvermane",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Expert bat trainer",
-    "Skilled marksman",
-    "Specially mutated bats",
-    "Wears costume made of synthetic stretch fabric over chain mail body armor that grants:",
-    "Short distanced flight via directed motion hovering"
-  ],
-  "image": {},
-  "pageviews": 5126
+  "url": "https://en.wikipedia.org/wiki/Blackwing"
 }

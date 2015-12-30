@@ -1,21 +1,22 @@
 {
-  "name": "Adam Warlock",
-  "url": "https://en.wikipedia.org/wiki/Adam_Warlock",
-  "realName": "originally Him; changed to Adam Warlock",
+  "aliases": "Magus",
   "creators": [
     "Stan Lee",
     "Jack Kirby",
     "Roy Thomas",
     "Gil Kane"
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "Infinity Watch"
+  "image": {
+    "height": "387",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Warlock_9.jpg/250px-Warlock_9.jpg",
+    "width": "250"
+  },
+  "name": "Adam Warlock",
+  "pageviews": 58152,
+  "partners": [
   ],
-  "aliases": "Magus",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "stamina",
@@ -24,10 +25,12 @@
     "flight",
     "Energy manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Warlock_9.jpg/250px-Warlock_9.jpg",
-    "width": "250",
-    "height": "387"
-  },
-  "pageviews": 58152
+  "realName": "originally Him; changed to Adam Warlock",
+  "species": [
+  ],
+  "teams": [
+    "Guardians of the Galaxy",
+    "Infinity Watch"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Adam_Warlock"
 }

@@ -1,23 +1,27 @@
 {
-  "name": "Scaleface",
-  "url": "https://en.wikipedia.org/wiki/Scaleface",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Louise Simonson",
     "Walter Simonson"
   ],
-  "teams": [
-    "Morlocks"
+  "image": {
+  },
+  "name": "Scaleface",
+  "pageviews": 791,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Can transform into a large",
     "sentient",
     "dragon-like reptilian creature."
   ],
-  "image": {},
-  "pageviews": 791
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Morlocks"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scaleface"
 }

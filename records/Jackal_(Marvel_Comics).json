@@ -1,25 +1,26 @@
 {
-  "name": "Jackal",
-  "url": "https://en.wikipedia.org/wiki/Jackal_(Marvel_Comics)",
-  "realName": "Miles Warren",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko",
     "Gerry Conway",
     "Ross Andru"
   ],
-  "teams": [
-    "Empire State University"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "347",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Thejackalamazingspiderman146.jpg/250px-Thejackalamazingspiderman146.jpg",
+    "width": "250"
+  },
+  "name": "Jackal",
+  "pageviews": 9044,
   "partners": [
     "Spidercide",
     "Punisher",
     "Grizzly",
     "Tarantula"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius geneticist",
     "biochemist and cloner",
@@ -27,10 +28,11 @@
     "Superhuman strength",
     "speed and agility"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Thejackalamazingspiderman146.jpg/250px-Thejackalamazingspiderman146.jpg",
-    "width": "250",
-    "height": "347"
-  },
-  "pageviews": 9044
+  "realName": "Miles Warren",
+  "species": [
+  ],
+  "teams": [
+    "Empire State University"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jackal_(Marvel_Comics)"
 }

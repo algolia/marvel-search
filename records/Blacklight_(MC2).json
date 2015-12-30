@@ -1,27 +1,30 @@
 {
-  "name": "Blacklight",
-  "url": "https://en.wikipedia.org/wiki/Blacklight_(MC2)",
-  "realName": "Kandra Freeman",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [
-    "A-Next"
+  "image": {
+    "height": "253",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/BlacklightAN.jpg/250px-BlacklightAN.jpg",
+    "width": "250"
+  },
+  "name": "Blacklight",
+  "pageviews": 1348,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "High speed flight",
     "Energy projection",
     "Control over solid light constructs"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/BlacklightAN.jpg/250px-BlacklightAN.jpg",
-    "width": "250",
-    "height": "253"
-  },
-  "pageviews": 1348
+  "realName": "Kandra Freeman",
+  "species": [
+  ],
+  "teams": [
+    "A-Next"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blacklight_(MC2)"
 }

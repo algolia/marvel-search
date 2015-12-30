@@ -1,27 +1,29 @@
 {
-  "name": "Umar",
-  "url": "https://en.wikipedia.org/wiki/Umar_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "Umar the Unrelenting",
   "creators": [
     "Roy Thomas",
     "Bill Everett"
   ],
-  "teams": [
-    "Lords of the Splinter Realms"
-  ],
-  "aliases": "Umar the Unrelenting",
-  "species": [],
+  "image": {
+    "height": "355",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/StrangeTales_150.jpg/240px-StrangeTales_150.jpg",
+    "width": "240"
+  },
+  "name": "Umar",
+  "pageviews": 4807,
   "partners": [
     "Dormammu"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Vast control of magic and cosmic energy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/StrangeTales_150.jpg/240px-StrangeTales_150.jpg",
-    "width": "240",
-    "height": "355"
-  },
-  "pageviews": 4807
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Lords of the Splinter Realms"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Umar_(Marvel_Comics)"
 }

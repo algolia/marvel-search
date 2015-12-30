@@ -1,16 +1,17 @@
 {
-  "name": "Man-Elephant",
-  "url": "https://en.wikipedia.org/wiki/Man-Elephant",
-  "realName": null,
+  "aliases": "Behemoth",
   "creators": [
     "David Anthony Kraft",
     "Ed Hannigan"
   ],
-  "teams": [],
-  "aliases": "Behemoth",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Man-Elephant",
+  "pageviews": 704,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "(As Man-Elephant):",
     "Elephant-themed suit grants:",
@@ -18,6 +19,10 @@
     "(As Behemoth):",
     "Superhuman strength and durability"
   ],
-  "image": {},
-  "pageviews": 704
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Man-Elephant"
 }

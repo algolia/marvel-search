@@ -1,28 +1,30 @@
 {
-  "name": "Aminedi",
-  "url": "https://en.wikipedia.org/wiki/Aminedi",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Kirk Jarvinen"
   ],
-  "teams": [
-    "Desert Sword"
+  "image": {
+    "height": "225",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Aminedi_001.jpg",
+    "width": "222"
+  },
+  "name": "Aminedi",
+  "pageviews": 654,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "can transform himself into air particles",
     "superhuman speed."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Aminedi_001.jpg",
-    "width": "222",
-    "height": "225"
-  },
-  "pageviews": 654
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Desert Sword"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Aminedi"
 }

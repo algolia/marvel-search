@@ -1,24 +1,28 @@
 {
-  "name": "Mathemanic",
-  "url": "https://en.wikipedia.org/wiki/Mathemanic",
-  "realName": "Thomas Sorenson",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Mark Bagley"
+  ],
+  "image": {
+  },
+  "name": "Mathemanic",
+  "pageviews": 332,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Psionically based",
+    "undetermined capabillities"
+  ],
+  "realName": "Thomas Sorenson",
+  "species": [
   ],
   "teams": [
     "Thunderbolts",
     "Psionex",
     "New Warriors"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Psionically based",
-    "undetermined capabillities"
-  ],
-  "image": {},
-  "pageviews": 332
+  "url": "https://en.wikipedia.org/wiki/Mathemanic"
 }

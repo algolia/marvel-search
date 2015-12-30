@@ -1,16 +1,17 @@
 {
-  "name": "Paragon",
-  "url": "https://en.wikipedia.org/wiki/Paragon_(comics)",
-  "realName": "Maya",
+  "aliases": "",
   "creators": [
     "Marvel Comics"
   ],
-  "teams": [
-    "Imperfects"
+  "image": {
+    "height": "408",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Paragon%28Maya%29.jpg/200px-Paragon%28Maya%29.jpg",
+    "width": "200"
+  },
+  "name": "Paragon",
+  "pageviews": 1625,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Teleportation"
   ],
@@ -25,10 +26,11 @@
     "Energy blasts",
     "Retractable blades capable of draining organic life-force"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Paragon%28Maya%29.jpg/200px-Paragon%28Maya%29.jpg",
-    "width": "200",
-    "height": "408"
-  },
-  "pageviews": 1625
+  "realName": "Maya",
+  "species": [
+  ],
+  "teams": [
+    "Imperfects"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Paragon_(comics)"
 }

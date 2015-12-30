@@ -1,25 +1,28 @@
 {
-  "name": "Pandemic",
-  "url": "https://en.wikipedia.org/wiki/Pandemic_(comics)",
-  "realName": "Richard Palance",
+  "aliases": "",
   "creators": [
     "Mike Carey",
     "Humberto Ramos"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutate"
+  "image": {
+    "height": "367",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Xmen-195.jpg/250px-Xmen-195.jpg",
+    "width": "250"
+  },
+  "name": "Pandemic",
+  "pageviews": 562,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "The ability to copy other mutants' powers"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Xmen-195.jpg/250px-Xmen-195.jpg",
-    "width": "250",
-    "height": "367"
-  },
-  "pageviews": 562
+  "realName": "Richard Palance",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Pandemic_(comics)"
 }

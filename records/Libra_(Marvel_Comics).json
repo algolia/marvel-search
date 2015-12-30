@@ -1,23 +1,27 @@
 {
-  "name": "Libra",
-  "url": "https://en.wikipedia.org/wiki/Libra_(Marvel_Comics)",
-  "realName": "Gustav Brandt",
+  "aliases": "Master of the Balance, Lloyd Willoughby",
   "creators": [
     "Roy Thomas",
     "Sal Buscema"
+  ],
+  "image": {
+  },
+  "name": "Libra",
+  "pageviews": 1519,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Psychic senses",
+    "teleportation into the Between."
+  ],
+  "realName": "Gustav Brandt",
+  "species": [
   ],
   "teams": [
     "The Zodiac",
     "Avengers"
   ],
-  "aliases": "Master of the Balance, Lloyd Willoughby",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Psychic senses",
-    "teleportation into the Between."
-  ],
-  "image": {},
-  "pageviews": 1519
+  "url": "https://en.wikipedia.org/wiki/Libra_(Marvel_Comics)"
 }

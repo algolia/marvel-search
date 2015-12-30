@@ -1,7 +1,5 @@
 {
-  "name": "Foolkiller",
-  "url": "https://en.wikipedia.org/wiki/Foolkiller",
-  "realName": "(I) Ross G. Everbest<br>(II) Greg Salinger<br>(III) Kurt Gerhardt<br>(IV) Mike Trace",
+  "aliases": "(II) Ian Byrd<br>(III)Miles Fish<br>Gregory Ross Curtis",
   "creators": [
     "Steve Gerber",
     "Val Mayerik",
@@ -9,14 +7,21 @@
     "J.J. Birch",
     "Gregg Hurwitz"
   ],
-  "teams": [],
-  "aliases": "(II) Ian Byrd<br>(III)Miles Fish<br>Gregory Ross Curtis",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Foolkiller",
+  "pageviews": 3102,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Wields \"purification gun\" capable of firing a disintegrating ray"
   ],
-  "image": {},
-  "pageviews": 3102
+  "realName": "(I) Ross G. Everbest<br>(II) Greg Salinger<br>(III) Kurt Gerhardt<br>(IV) Mike Trace",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Foolkiller"
 }

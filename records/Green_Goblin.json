@@ -1,21 +1,26 @@
 {
-  "name": "Green Goblin",
-  "url": "https://en.wikipedia.org/wiki/Green_Goblin",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "320",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Green_goblin2.jpg/250px-Green_goblin2.jpg",
-    "width": "250",
-    "height": "320"
+    "width": "250"
   },
-  "pageviews": 35886
+  "name": "Green Goblin",
+  "pageviews": 35886,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Green_Goblin"
 }

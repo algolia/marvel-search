@@ -1,24 +1,27 @@
 {
-  "name": "Murmur",
-  "url": "https://en.wikipedia.org/wiki/Murmur_(Marvel_Comics)",
-  "realName": "Allan Rennie",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "Todd Dezago",
     "Tom Grummett"
   ],
-  "teams": [
-    "Emplate's Hellions"
+  "image": {
+  },
+  "name": "Murmur",
+  "pageviews": 985,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Teleportation"
   ],
-  "image": {},
-  "pageviews": 985
+  "realName": "Allan Rennie",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Emplate's Hellions"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Murmur_(Marvel_Comics)"
 }

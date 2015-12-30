@@ -1,10 +1,29 @@
 {
-  "name": "Wolfsbane",
-  "url": "https://en.wikipedia.org/wiki/Wolfsbane_(comics)",
-  "realName": "Rahne Sinclair",
+  "aliases": "Princess/Queen Rain of Gesham, Grimfang, Mutate #490 (in Genosha)",
   "creators": [
     "Chris Claremont",
     "Bob McLeod"
+  ],
+  "image": {
+    "height": "340",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/XFACT011_color_cov.jpg/250px-XFACT011_color_cov.jpg",
+    "width": "250"
+  },
+  "name": "Wolfsbane",
+  "pageviews": 9975,
+  "partners": [
+  ],
+  "powers": [
+    "shapeshift",
+    "lycanthropy"
+  ],
+  "powersText": [
+    "Ability to shapeshift into a wolf-like humanoid",
+    "or into a full wolf at will (lycanthropy)"
+  ],
+  "realName": "Rahne Sinclair",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Force",
@@ -16,23 +35,5 @@
     "Hellions",
     "Xavier Institute"
   ],
-  "aliases": "Princess/Queen Rain of Gesham, Grimfang, Mutate #490 (in Genosha)",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "shapeshift",
-    "lycanthropy"
-  ],
-  "powersText": [
-    "Ability to shapeshift into a wolf-like humanoid",
-    "or into a full wolf at will (lycanthropy)"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/XFACT011_color_cov.jpg/250px-XFACT011_color_cov.jpg",
-    "width": "250",
-    "height": "340"
-  },
-  "pageviews": 9975
+  "url": "https://en.wikipedia.org/wiki/Wolfsbane_(comics)"
 }

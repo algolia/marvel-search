@@ -1,7 +1,5 @@
 {
-  "name": "Ultimate Wolverine",
-  "url": "https://en.wikipedia.org/wiki/Ultimate_Wolverine",
-  "realName": "James \"Lucky Jim\" Howlett",
+  "aliases": "Logan, Cable",
   "creators": [
     "Mark Millar",
     "Adam Kubert",
@@ -10,15 +8,12 @@
     "Len Wein",
     "John Romita, Sr."
   ],
-  "teams": [
-    "Brotherhood of Mutant Supremacy",
-    "The Ultimates"
+  "image": {
+  },
+  "name": "Ultimate Wolverine",
+  "pageviews": 3456,
+  "partners": [
   ],
-  "aliases": "Logan, Cable",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "healing factor",
     "Adamantium"
@@ -33,6 +28,13 @@
     "Adamantium-laced skeletal structure with retractable claws",
     "Expert martial artist"
   ],
-  "image": {},
-  "pageviews": 3456
+  "realName": "James \"Lucky Jim\" Howlett",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Brotherhood of Mutant Supremacy",
+    "The Ultimates"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ultimate_Wolverine"
 }

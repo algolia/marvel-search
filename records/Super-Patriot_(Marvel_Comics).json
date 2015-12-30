@@ -1,24 +1,28 @@
 {
-  "name": "Super-Patriot",
-  "url": "https://en.wikipedia.org/wiki/Super-Patriot_(Marvel_Comics)",
-  "realName": "unknown",
+  "aliases": "",
   "creators": [
     "Gary Friedrich",
     "Herb Trimpe"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "258",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Super-Patriot.jpg/200px-Super-Patriot.jpg",
+    "width": "200"
+  },
+  "name": "Super-Patriot",
+  "pageviews": 724,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "None",
     "although has access to various high-tech weapons."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Super-Patriot.jpg/200px-Super-Patriot.jpg",
-    "width": "200",
-    "height": "258"
-  },
-  "pageviews": 724
+  "realName": "unknown",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Super-Patriot_(Marvel_Comics)"
 }

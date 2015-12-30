@@ -1,16 +1,20 @@
 {
-  "name": "Hyperion",
-  "url": "https://en.wikipedia.org/wiki/Hyperion_(comics)",
-  "realName": "",
+  "aliases": "Mr. Kant, King Hyperion",
   "creators": [
     "Roy Thomas",
     "Sal Buscema"
   ],
-  "teams": [],
-  "aliases": "Mr. Kant, King Hyperion",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "466",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Hyperionmarvel.png/250px-Hyperionmarvel.png",
+    "width": "250"
+  },
+  "name": "Hyperion",
+  "pageviews": 26632,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "(All)",
     "Superhuman strength",
@@ -23,10 +27,10 @@
     "Skilled journalist",
     "Great longevity and regenerative healing factor via cosmic energy manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Hyperionmarvel.png/250px-Hyperionmarvel.png",
-    "width": "250",
-    "height": "466"
-  },
-  "pageviews": 26632
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hyperion_(comics)"
 }

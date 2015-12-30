@@ -1,29 +1,30 @@
 {
-  "name": "Frederick Slade",
-  "url": "https://en.wikipedia.org/wiki/Frederick_Slade",
-  "realName": "Frederick Slade",
+  "aliases": "Dr. Hartley",
   "creators": [
     "Frank Tieri",
     "Clayton Henry"
   ],
-  "teams": [
-    "Clan Akkaba"
+  "image": {
+    "height": "418",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Fredrich_slade_profile.JPG/200px-Fredrich_slade_profile.JPG",
+    "width": "200"
+  },
+  "name": "Frederick Slade",
+  "pageviews": 970,
+  "partners": [
   ],
-  "aliases": "Dr. Hartley",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Teleportation"
   ],
   "powersText": [
     "Teleportation and molecular rearrangement"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Fredrich_slade_profile.JPG/200px-Fredrich_slade_profile.JPG",
-    "width": "200",
-    "height": "418"
-  },
-  "pageviews": 970
+  "realName": "Frederick Slade",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Clan Akkaba"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Frederick_Slade"
 }

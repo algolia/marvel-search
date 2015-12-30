@@ -1,26 +1,30 @@
 {
-  "name": "Viper",
-  "url": "https://en.wikipedia.org/wiki/Viper_(Marvel_Comics)",
-  "realName": "Jordan Stryke",
+  "aliases": "Jordan Dixon",
   "creators": [
     "Steve Englehart",
     "Steve Gerber",
     "Sal Buscema",
     "John Verpoorten"
   ],
-  "teams": [
-    "Serpent Squad",
-    "Secret Empire"
+  "image": {
+  },
+  "name": "Viper",
+  "pageviews": 4710,
+  "partners": [
   ],
-  "aliases": "Jordan Dixon",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled advertiser",
     "chemist and debater",
     "Venom-tipped claws and darts"
   ],
-  "image": {},
-  "pageviews": 4710
+  "realName": "Jordan Stryke",
+  "species": [
+  ],
+  "teams": [
+    "Serpent Squad",
+    "Secret Empire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Viper_(Marvel_Comics)"
 }

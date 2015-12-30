@@ -1,19 +1,16 @@
 {
-  "name": "The Abomination",
-  "url": "https://en.wikipedia.org/wiki/Abomination_(comics)",
-  "realName": "Emil Blonsky",
+  "aliases": "Agent R-7, The Ravager of Worlds",
   "creators": [
     "Stan Lee",
     "Gil Kane"
   ],
-  "teams": [
-    "KGB",
-    "Masters of Evil"
-  ],
-  "aliases": "Agent R-7, The Ravager of Worlds",
-  "species": [
-    "Human Mutate"
-  ],
+  "image": {
+    "height": "369",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Hulk-159.jpg/250px-Hulk-159.jpg",
+    "width": "250"
+  },
+  "name": "The Abomination",
+  "pageviews": 36891,
   "partners": [
     "The Leader",
     "Rhino"
@@ -30,10 +27,13 @@
     "Hellfire projection",
     "Ability to enter suspended animation for a long period of time"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Hulk-159.jpg/250px-Hulk-159.jpg",
-    "width": "250",
-    "height": "369"
-  },
-  "pageviews": 36891
+  "realName": "Emil Blonsky",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+    "KGB",
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Abomination_(comics)"
 }

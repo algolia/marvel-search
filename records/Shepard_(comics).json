@@ -1,23 +1,26 @@
 {
-  "name": "Shepard",
-  "url": "https://en.wikipedia.org/wiki/Shepard_(comics)",
-  "realName": "Francis Leighton",
+  "aliases": "",
   "creators": [
     "Brian K. Vaughan",
     "Jorge Lucas"
   ],
-  "teams": [
-    "X-Corporation"
+  "image": {
+  },
+  "name": "Shepard",
+  "pageviews": 237,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Project concussive ''black bile'' from his eyes. Unconfirmed regenerative powers"
   ],
-  "image": {},
-  "pageviews": 237
+  "realName": "Francis Leighton",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Corporation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shepard_(comics)"
 }

@@ -1,17 +1,23 @@
 {
-  "name": "Maha Yogi",
-  "url": "https://en.wikipedia.org/wiki/Maha_Yogi",
-  "realName": null,
+  "aliases": "Mad Merlin, The Warlock, the Maha Yogi",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Mad Merlin, The Warlock, the Maha Yogi",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 1105
+  "image": {
+  },
+  "name": "Maha Yogi",
+  "pageviews": 1105,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Maha_Yogi"
 }

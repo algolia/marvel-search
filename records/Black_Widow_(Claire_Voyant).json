@@ -1,18 +1,20 @@
 {
-  "name": "Black Widow",
-  "url": "https://en.wikipedia.org/wiki/Black_Widow_(Claire_Voyant)",
-  "realName": "Claire Voyant",
+  "aliases": "",
   "creators": [
     "George Kapitan",
     "Harry Sahle"
   ],
-  "teams": [
-    "The Twelve"
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b3/Black-Widow.jpg",
+    "width": "257"
+  },
+  "name": "Black Widow",
+  "pageviews": 4965,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "Enhanced endurance",
@@ -25,10 +27,11 @@
     "Immortality",
     "Ability to communicate with the dead and mystically regenerate or heal others"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/b3/Black-Widow.jpg",
-    "width": "257",
-    "height": "388"
-  },
-  "pageviews": 4965
+  "realName": "Claire Voyant",
+  "species": [
+  ],
+  "teams": [
+    "The Twelve"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Widow_(Claire_Voyant)"
 }

@@ -1,7 +1,5 @@
 {
-  "name": "Iron Lad",
-  "url": "https://en.wikipedia.org/wiki/Iron_Lad",
-  "realName": "Nathaniel Richards",
+  "aliases": "Kang the Conqueror , Kid Immortus",
   "creators": [
     "Allan Heinberg",
     "Jim Cheung",
@@ -9,13 +7,17 @@
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Young Avengers"
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/IronLad.jpg/200px-IronLad.jpg",
+    "width": "200"
+  },
+  "name": "Iron Lad",
+  "pageviews": 15649,
+  "partners": [
   ],
-  "aliases": "Kang the Conqueror , Kid Immortus",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Wears neurokinetic armor which responds to his thoughts and grants him:",
     "Superhuman strength",
@@ -26,10 +28,11 @@
     "Shapeshifting",
     "Ability to hack into computer systems"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/IronLad.jpg/200px-IronLad.jpg",
-    "width": "200",
-    "height": "382"
-  },
-  "pageviews": 15649
+  "realName": "Nathaniel Richards",
+  "species": [
+  ],
+  "teams": [
+    "Young Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Iron_Lad"
 }

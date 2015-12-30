@@ -1,11 +1,28 @@
 {
-  "name": "Living Lightning",
-  "url": "https://en.wikipedia.org/wiki/Living_Lightning",
-  "realName": "Miguel Santos",
+  "aliases": "Relampago Vivo",
   "creators": [
     "Dann Thomas",
     "Roy Thomas",
     "Paul Ryan"
+  ],
+  "image": {
+    "height": "400",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/03/LivingLightning001.jpg",
+    "width": "228"
+  },
+  "name": "Living Lightning",
+  "pageviews": 2413,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Skilled street fighter",
+    "Flight at sub-light speeds",
+    "Electrical manipulation"
+  ],
+  "realName": "Miguel Santos",
+  "species": [
   ],
   "teams": [
     "Pacific Overlords",
@@ -13,19 +30,5 @@
     "Secret Avengers (Civil War)",
     "Rangers"
   ],
-  "aliases": "Relampago Vivo",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Skilled street fighter",
-    "Flight at sub-light speeds",
-    "Electrical manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/03/LivingLightning001.jpg",
-    "width": "228",
-    "height": "400"
-  },
-  "pageviews": 2413
+  "url": "https://en.wikipedia.org/wiki/Living_Lightning"
 }

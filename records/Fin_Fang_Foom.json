@@ -1,20 +1,20 @@
 {
-  "name": "Fin Fang Foom",
-  "url": "https://en.wikipedia.org/wiki/Fin_Fang_Foom",
-  "realName": null,
+  "aliases": "\"He Whose Limbs Shatter Mountains and Whose Back Scrapes the Sun\"",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Fin Fang Four"
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/ST-89.jpg/250px-ST-89.jpg",
+    "width": "250"
+  },
+  "name": "Fin Fang Foom",
+  "pageviews": 12600,
+  "partners": [
   ],
-  "aliases": "\"He Whose Limbs Shatter Mountains and Whose Back Scrapes the Sun\"",
-  "species": [
-    "Makluan/Axonn-Karr"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "Supersonic flight via wings",
@@ -26,10 +26,12 @@
     "Gifted intellect",
     "Possesses advanced alien technology"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/ST-89.jpg/250px-ST-89.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 12600
+  "realName": null,
+  "species": [
+    "Makluan/Axonn-Karr"
+  ],
+  "teams": [
+    "Fin Fang Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Fin_Fang_Foom"
 }

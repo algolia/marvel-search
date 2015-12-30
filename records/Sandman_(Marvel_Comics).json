@@ -1,24 +1,20 @@
 {
-  "name": "Sandman",
-  "url": "https://en.wikipedia.org/wiki/Sandman_(Marvel_Comics)",
-  "realName": "William Baker",
+  "aliases": "Flint Marko, Sylvester Mann, Quarryman",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Sinister Six",
-    "Frightful Four",
-    "Avengers",
-    "Wild Pack",
-    "Enforcers",
-    "The Outlaws",
-    "The Intruders"
+  "image": {
+    "height": "294",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Tboltssandman.jpg/250px-Tboltssandman.jpg",
+    "width": "250"
+  },
+  "name": "Sandman",
+  "pageviews": 23673,
+  "partners": [
   ],
-  "aliases": "Flint Marko, Sylvester Mann, Quarryman",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "durability and endurance",
@@ -29,10 +25,17 @@
     "Completely organic sand within body",
     "Earth manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Tboltssandman.jpg/250px-Tboltssandman.jpg",
-    "width": "250",
-    "height": "294"
-  },
-  "pageviews": 23673
+  "realName": "William Baker",
+  "species": [
+  ],
+  "teams": [
+    "Sinister Six",
+    "Frightful Four",
+    "Avengers",
+    "Wild Pack",
+    "Enforcers",
+    "The Outlaws",
+    "The Intruders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sandman_(Marvel_Comics)"
 }

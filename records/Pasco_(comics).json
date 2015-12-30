@@ -1,25 +1,28 @@
 {
-  "name": "Pasco",
-  "url": "https://en.wikipedia.org/wiki/Pasco_(comics)",
-  "realName": "Pasco",
+  "aliases": "",
   "creators": [
     "Mike Carey",
     "Clayton Henry"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+  },
+  "name": "Pasco",
+  "pageviews": 240,
   "partners": [
     "Sabretooth"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Depowered",
     "formerly:",
     "Force field generation"
   ],
-  "image": {},
-  "pageviews": 240
+  "realName": "Pasco",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Pasco_(comics)"
 }

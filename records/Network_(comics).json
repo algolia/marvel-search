@@ -1,28 +1,30 @@
 {
-  "name": "Network",
-  "url": "https://en.wikipedia.org/wiki/Network_(comics)",
-  "realName": "Sarah Vale",
-  "creators": [],
-  "teams": [
-    "Alpha Squadron training squad",
-    "Xavier Institute"
-  ],
   "aliases": "",
-  "species": [
-    "Depowered",
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
+  "image": {
+    "height": "310",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Network_%28NXM%29.jpg/130px-Network_%28NXM%29.jpg",
+    "width": "130"
+  },
+  "name": "Network",
+  "pageviews": 839,
+  "partners": [
+  ],
   "powers": [
     "Technopathy"
   ],
   "powersText": [
     "Technopathy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Network_%28NXM%29.jpg/130px-Network_%28NXM%29.jpg",
-    "width": "130",
-    "height": "310"
-  },
-  "pageviews": 839
+  "realName": "Sarah Vale",
+  "species": [
+    "Depowered",
+    "Human Mutant"
+  ],
+  "teams": [
+    "Alpha Squadron training squad",
+    "Xavier Institute"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Network_(comics)"
 }

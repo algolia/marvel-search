@@ -1,18 +1,17 @@
 {
-  "name": "Crimson Cowl",
-  "url": "https://en.wikipedia.org/wiki/Crimson_Cowl_(Justine_Hammer)",
-  "realName": "Justine Hammer",
+  "aliases": "",
   "creators": [
     "Kurt Busiek",
     "Mark Bagley"
   ],
-  "teams": [
-    "Masters of Evil"
+  "image": {
+  },
+  "name": "Crimson Cowl",
+  "pageviews": 2742,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Adept athlete and unarmed combatant",
     "Shrewd businesswoman and negotiator",
@@ -21,6 +20,11 @@
     "Shapeshifting",
     "Teleportation"
   ],
-  "image": {},
-  "pageviews": 2742
+  "realName": "Justine Hammer",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Crimson_Cowl_(Justine_Hammer)"
 }

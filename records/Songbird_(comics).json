@@ -1,24 +1,21 @@
 {
-  "name": "Songbird",
-  "url": "https://en.wikipedia.org/wiki/Songbird_(comics)",
-  "realName": "Melissa Joan Gold",
+  "aliases": "Mimi Schwartz, Screaming Mimi",
   "creators": [
     "Mark Gruenwald",
     "Ralph Macchio",
     "John Byrne"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Grapplers",
-    "UCWF",
-    "Masters of Evil",
-    "Femizons",
-    "Avengers Idea Mechanics"
+  "image": {
+    "height": "335",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/Songbirdtboltsx.png",
+    "width": "250"
+  },
+  "name": "Songbird",
+  "pageviews": 10596,
+  "partners": [
   ],
-  "aliases": "Mimi Schwartz, Screaming Mimi",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Supersonic speed",
     "Sound and vocal manipulation",
@@ -31,10 +28,16 @@
     "Hypnotic song",
     "Ability to create \"solid sound\" constructs"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/Songbirdtboltsx.png",
-    "width": "250",
-    "height": "335"
-  },
-  "pageviews": 10596
+  "realName": "Melissa Joan Gold",
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Grapplers",
+    "UCWF",
+    "Masters of Evil",
+    "Femizons",
+    "Avengers Idea Mechanics"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Songbird_(comics)"
 }

@@ -1,25 +1,28 @@
 {
-  "name": "Henrietta Hunter",
-  "url": "https://en.wikipedia.org/wiki/Henrietta_Hunter",
-  "realName": "Henrietta Hunter",
+  "aliases": "",
   "creators": [
     "Peter Milligan",
     "Mike Allred"
   ],
-  "teams": [
-    "X-Statix"
+  "image": {
+  },
+  "name": "Henrietta Hunter",
+  "pageviews": 793,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Empathy",
     "enhanced physical abilities",
     "can communicate with ghosts."
   ],
-  "image": {},
-  "pageviews": 793
+  "realName": "Henrietta Hunter",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Statix"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Henrietta_Hunter"
 }

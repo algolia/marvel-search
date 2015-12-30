@@ -1,10 +1,31 @@
 {
-  "name": "She-Hulk",
-  "url": "https://en.wikipedia.org/wiki/She-Hulk",
-  "realName": "Jennifer Walters",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "John Buscema"
+  ],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/She-Hulk_vol_2_7_textless.jpg/250px-She-Hulk_vol_2_7_textless.jpg",
+    "width": "250"
+  },
+  "name": "She-Hulk",
+  "pageviews": 50705,
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength",
+    "speed",
+    "durability and endurance",
+    "healing factor"
+  ],
+  "powersText": [
+    "Superhuman strengthspeeddurability and endurance",
+    "Regenerative healing factor"
+  ],
+  "realName": "Jennifer Walters",
+  "species": [
+    "Human Mutate"
   ],
   "teams": [
     "Avengers",
@@ -22,25 +43,5 @@
     "Hulkbusters",
     "A-Force"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutate"
-  ],
-  "partners": [],
-  "powers": [
-    "Superhuman strength",
-    "speed",
-    "durability and endurance",
-    "healing factor"
-  ],
-  "powersText": [
-    "Superhuman strengthspeeddurability and endurance",
-    "Regenerative healing factor"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/She-Hulk_vol_2_7_textless.jpg/250px-She-Hulk_vol_2_7_textless.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 50705
+  "url": "https://en.wikipedia.org/wiki/She-Hulk"
 }

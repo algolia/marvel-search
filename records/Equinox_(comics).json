@@ -1,23 +1,27 @@
 {
-  "name": "Equinox",
-  "url": "https://en.wikipedia.org/wiki/Equinox_(comics)",
-  "realName": "Terrance \"Terry\" Sorenson",
+  "aliases": "Thermodynamic Man",
   "creators": [
     "Len Wein",
     "Gil Kane"
   ],
-  "teams": [
-    "Freedom Force"
+  "image": {
+  },
+  "name": "Equinox",
+  "pageviews": 1896,
+  "partners": [
   ],
-  "aliases": "Thermodynamic Man",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "Pyrokinesis",
     "Cryokinesis"
   ],
-  "image": {},
-  "pageviews": 1896
+  "realName": "Terrance \"Terry\" Sorenson",
+  "species": [
+  ],
+  "teams": [
+    "Freedom Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Equinox_(comics)"
 }

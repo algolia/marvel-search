@@ -1,17 +1,23 @@
 {
-  "name": "Reptyl",
-  "url": "https://en.wikipedia.org/wiki/Reptyl",
-  "realName": null,
+  "aliases": "Reptyl Prime, Cap'n Reptyl, the Non-human",
   "creators": [
     "Steve Englehart",
     "Joe Staton"
   ],
-  "teams": [],
-  "aliases": "Reptyl Prime, Cap'n Reptyl, the Non-human",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 858
+  "image": {
+  },
+  "name": "Reptyl",
+  "pageviews": 858,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Reptyl"
 }

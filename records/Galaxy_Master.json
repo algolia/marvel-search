@@ -1,28 +1,31 @@
 {
-  "name": "Galaxy Master",
-  "url": "https://en.wikipedia.org/wiki/Galaxy_Master",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Herb Trimpe"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "108",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/GalaxyMasterTwo.png/250px-GalaxyMasterTwo.png",
+    "width": "250"
+  },
+  "name": "Galaxy Master",
+  "pageviews": 711,
   "partners": [
     "Abomination"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Shapeshifting",
     "Capable of manipulating and firing beams of energy",
     "Capable of manipulating objects telekinetically",
     "Capable of regenerating injuries and damage done to it"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/GalaxyMasterTwo.png/250px-GalaxyMasterTwo.png",
-    "width": "250",
-    "height": "108"
-  },
-  "pageviews": 711
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Galaxy_Master"
 }

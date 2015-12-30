@@ -1,24 +1,18 @@
 {
-  "name": "Cypher",
-  "url": "https://en.wikipedia.org/wiki/Cypher_(Marvel_Comics)",
-  "realName": "Douglas Aaron \"Doug\" Ramsey",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Sal Buscema"
   ],
-  "teams": [
-    "New Mutants",
-    "Hellions",
-    "X-Force",
-    "X-Men",
-    "Official Handbook of the Marvel Universe A to Z",
-    "X-Factor"
+  "image": {
+    "height": "398",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Cypher_from_X-Men_Legacy_235.jpg/250px-Cypher_from_X-Men_Legacy_235.jpg",
+    "width": "250"
+  },
+  "name": "Cypher",
+  "pageviews": 5226,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "body language"
   ],
@@ -29,10 +23,17 @@
     "computer",
     "or body language)."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Cypher_from_X-Men_Legacy_235.jpg/250px-Cypher_from_X-Men_Legacy_235.jpg",
-    "width": "250",
-    "height": "398"
-  },
-  "pageviews": 5226
+  "realName": "Douglas Aaron \"Doug\" Ramsey",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "New Mutants",
+    "Hellions",
+    "X-Force",
+    "X-Men",
+    "Official Handbook of the Marvel Universe A to Z",
+    "X-Factor"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cypher_(Marvel_Comics)"
 }

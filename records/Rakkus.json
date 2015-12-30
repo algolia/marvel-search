@@ -1,20 +1,24 @@
 {
-  "name": "Rakkus",
-  "url": "https://en.wikipedia.org/wiki/Rakkus",
-  "realName": "David Anthony Rice",
-  "creators": [],
-  "teams": [
-    "Acolytes"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Rakkus",
+  "pageviews": 318,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and endurance"
   ],
-  "image": {},
-  "pageviews": 318
+  "realName": "David Anthony Rice",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Acolytes"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Rakkus"
 }

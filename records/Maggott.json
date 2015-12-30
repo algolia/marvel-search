@@ -1,26 +1,29 @@
 {
-  "name": "Maggott",
-  "url": "https://en.wikipedia.org/wiki/Maggott",
-  "realName": "Japheth",
-  "creators": [],
-  "teams": [
-    "X-Men",
-    "Generation X"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "351",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Maggottproflie.jpg/250px-Maggottproflie.jpg",
+    "width": "250"
+  },
+  "name": "Maggott",
+  "pageviews": 3216,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Slug-based digestive system",
     "Psychometry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Maggottproflie.jpg/250px-Maggottproflie.jpg",
-    "width": "250",
-    "height": "351"
-  },
-  "pageviews": 3216
+  "realName": "Japheth",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men",
+    "Generation X"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Maggott"
 }

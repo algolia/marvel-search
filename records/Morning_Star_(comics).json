@@ -1,23 +1,27 @@
 {
-  "name": "Morning Star",
-  "url": "https://en.wikipedia.org/wiki/Morning_Star_(comics)",
-  "realName": "Schuyler Belial",
+  "aliases": "",
   "creators": [
     "Doug Moench",
     "Bill Sienkiewicz"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Schuyler_Belial.png",
+    "width": "208"
+  },
+  "name": "Morning Star",
+  "pageviews": 392,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Arm-mounted energy weapon"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Schuyler_Belial.png",
-    "width": "208",
-    "height": "300"
-  },
-  "pageviews": 392
+  "realName": "Schuyler Belial",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Morning_Star_(comics)"
 }

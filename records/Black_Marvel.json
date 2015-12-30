@@ -1,25 +1,28 @@
 {
-  "name": "Black Marvel",
-  "url": "https://en.wikipedia.org/wiki/Black_Marvel",
-  "realName": "Dan Lyons",
+  "aliases": "",
   "creators": [
     "Al Gabriele"
   ],
-  "teams": [
-    "Slingers"
+  "image": {
+    "height": "308",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/MysticComics5.jpg/220px-MysticComics5.jpg",
+    "width": "220"
+  },
+  "name": "Black Marvel",
+  "pageviews": 3012,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Excellent hand to hand combatant",
     "Peak physical condition"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/MysticComics5.jpg/220px-MysticComics5.jpg",
-    "width": "220",
-    "height": "308"
-  },
-  "pageviews": 3012
+  "realName": "Dan Lyons",
+  "species": [
+  ],
+  "teams": [
+    "Slingers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Marvel"
 }

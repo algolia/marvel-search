@@ -1,19 +1,17 @@
 {
-  "name": "Zero",
-  "url": "https://en.wikipedia.org/wiki/Zero_(Marvel_Comics)",
-  "realName": "ADAM unit Zero",
+  "aliases": "",
   "creators": [
     "Louise Simonson",
     "Rob Liefeld"
   ],
-  "teams": [
-    "Mutant Liberation Front",
-    "New Canaanites"
+  "image": {
+  },
+  "name": "Zero",
+  "pageviews": 2139,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Enhanced strength",
     "computerized intelligence",
@@ -21,6 +19,12 @@
     "energy damping and absorption",
     "scan for bio-mechanical and technological weapons and neutralize them."
   ],
-  "image": {},
-  "pageviews": 2139
+  "realName": "ADAM unit Zero",
+  "species": [
+  ],
+  "teams": [
+    "Mutant Liberation Front",
+    "New Canaanites"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Zero_(Marvel_Comics)"
 }

@@ -1,23 +1,27 @@
 {
-  "name": "Powderkeg",
-  "url": "https://en.wikipedia.org/wiki/Powderkeg",
-  "realName": "Frank Skorina",
+  "aliases": "",
   "creators": [
     "Dwayne McDuffie",
     "Mark D. Bright"
   ],
-  "teams": [
-    "Masters of Evil"
+  "image": {
+  },
+  "name": "Powderkeg",
+  "pageviews": 505,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "High-level resistance to injury",
     "Ability to sweat a nitroglycerin like compound which can detonate on impact"
   ],
-  "image": {},
-  "pageviews": 505
+  "realName": "Frank Skorina",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Powderkeg"
 }

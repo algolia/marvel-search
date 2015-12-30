@@ -1,18 +1,20 @@
 {
-  "name": "Ajax",
-  "url": "https://en.wikipedia.org/wiki/Ajax_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Peter David",
     "Dale Keown"
   ],
-  "teams": [
-    "Pantheon"
+  "image": {
+    "height": "282",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Ajazpantheon.jpg/200px-Ajazpantheon.jpg",
+    "width": "200"
+  },
+  "name": "Ajax",
+  "pageviews": 53127,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Accelerated healing factor",
     "Extended lifespan",
@@ -20,10 +22,11 @@
     "Superhuman strength",
     "durability and reflexes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Ajazpantheon.jpg/200px-Ajazpantheon.jpg",
-    "width": "200",
-    "height": "282"
-  },
-  "pageviews": 53127
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Pantheon"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ajax_(comics)"
 }

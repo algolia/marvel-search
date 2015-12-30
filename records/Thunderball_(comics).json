@@ -1,22 +1,20 @@
 {
-  "name": "Thunderball",
-  "url": "https://en.wikipedia.org/wiki/Thunderball_(comics)",
-  "realName": "Eliot Franklin",
+  "aliases": "",
   "creators": [
     "Len Wein",
     "Sal Buscema"
   ],
-  "teams": [
-    "Wrecking Crew",
-    "Frightful Four",
-    "Masters of Evil",
-    "Secret Empire",
-    "Illuminati"
+  "image": {
+    "height": "415",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Thunderball_001-1-.jpg/250px-Thunderball_001-1-.jpg",
+    "width": "250"
+  },
+  "name": "Thunderball",
+  "pageviews": 4786,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Gifted physicist",
     "Experienced planner and tactician",
@@ -25,10 +23,15 @@
     "High-level intellect",
     "Wields a virtually indestructible wrecking ball"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Thunderball_001-1-.jpg/250px-Thunderball_001-1-.jpg",
-    "width": "250",
-    "height": "415"
-  },
-  "pageviews": 4786
+  "realName": "Eliot Franklin",
+  "species": [
+  ],
+  "teams": [
+    "Wrecking Crew",
+    "Frightful Four",
+    "Masters of Evil",
+    "Secret Empire",
+    "Illuminati"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thunderball_(comics)"
 }

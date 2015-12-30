@@ -1,7 +1,5 @@
 {
-  "name": "Ultimate Iron Man",
-  "url": "https://en.wikipedia.org/wiki/Ultimate_Iron_Man_(character)",
-  "realName": "Antonio \"Tony\" Stark",
+  "aliases": "",
   "creators": [
     "Brian Michael Bendis",
     "Mike Allred",
@@ -11,14 +9,13 @@
     "Heck",
     "Kirby"
   ],
-  "teams": [
-    "Stark Industries",
-    "S.H.I.E.L.D.",
-    "Ultimates",
-    "New Ultimates"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Ultimate_AR.jpg/250px-Ultimate_AR.jpg",
+    "width": "250"
+  },
+  "name": "Ultimate Iron Man",
+  "pageviews": 1854,
   "partners": [
     "Captain America",
     "Thor",
@@ -43,10 +40,14 @@
     "Missiles",
     "Durability and regenerative life support but sometimes powered by solar power"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Ultimate_AR.jpg/250px-Ultimate_AR.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 1854
+  "realName": "Antonio \"Tony\" Stark",
+  "species": [
+  ],
+  "teams": [
+    "Stark Industries",
+    "S.H.I.E.L.D.",
+    "Ultimates",
+    "New Ultimates"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ultimate_Iron_Man_(character)"
 }

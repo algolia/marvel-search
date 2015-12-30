@@ -1,17 +1,18 @@
 {
-  "name": "The Blue Diamond",
-  "url": "https://en.wikipedia.org/wiki/Blue_Diamond_(comics)",
-  "realName": "Elton T. Morrow",
-  "creators": [],
-  "teams": [
-    "Liberty Legion",
-    "Crazy Sues",
-    "New Invaders"
-  ],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "184",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/92/Blue_Diamond001.jpg",
+    "width": "200"
+  },
+  "name": "The Blue Diamond",
+  "pageviews": 1424,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "Nigh-invulnerability",
@@ -20,10 +21,13 @@
     "Slow aging",
     "Ability to survive the vacuum of space"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/92/Blue_Diamond001.jpg",
-    "width": "200",
-    "height": "184"
-  },
-  "pageviews": 1424
+  "realName": "Elton T. Morrow",
+  "species": [
+  ],
+  "teams": [
+    "Liberty Legion",
+    "Crazy Sues",
+    "New Invaders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blue_Diamond_(comics)"
 }

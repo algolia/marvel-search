@@ -1,21 +1,26 @@
 {
-  "name": "Mauler",
-  "url": "https://en.wikipedia.org/wiki/Raiders_(comics)",
-  "realName": "Unknown",
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "Bob Layton"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "388",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/IronMan-145.jpg/250px-IronMan-145.jpg",
-    "width": "250",
-    "height": "388"
+    "width": "250"
   },
-  "pageviews": 462
+  "name": "Mauler",
+  "pageviews": 462,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Unknown",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Raiders_(comics)"
 }

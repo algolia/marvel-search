@@ -1,11 +1,28 @@
 {
-  "name": "Elixir",
-  "url": "https://en.wikipedia.org/wiki/Elixir_(comics)",
-  "realName": "Joshua \"Josh\" Foley",
+  "aliases": "",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir",
     "Keron Grant"
+  ],
+  "image": {
+    "height": "649",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Elixirprofile.jpg",
+    "width": "200"
+  },
+  "name": "Elixir",
+  "pageviews": 10886,
+  "partners": [
+  ],
+  "powers": [
+    "Biological manipulation"
+  ],
+  "powersText": [
+    "Biological manipulation"
+  ],
+  "realName": "Joshua \"Josh\" Foley",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "New Mutants training squad",
@@ -15,21 +32,5 @@
     "X-Force",
     "X-Men-In-Training"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "Biological manipulation"
-  ],
-  "powersText": [
-    "Biological manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Elixirprofile.jpg",
-    "width": "200",
-    "height": "649"
-  },
-  "pageviews": 10886
+  "url": "https://en.wikipedia.org/wiki/Elixir_(comics)"
 }

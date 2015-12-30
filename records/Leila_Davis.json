@@ -1,18 +1,17 @@
 {
-  "name": "Leila Davis",
-  "url": "https://en.wikipedia.org/wiki/Leila_Davis",
-  "realName": "Leila Davis",
+  "aliases": "Hardshell, Beetle",
   "creators": [
     "Danny Fingeroth",
     "Kerry Gammill",
     "Al Milgrom"
   ],
-  "teams": [
-    "The Redeemers",
-    "Sinister Syndicate"
-  ],
-  "aliases": "Hardshell, Beetle",
-  "species": [],
+  "image": {
+    "height": "385",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Thunderbolts35.jpg/250px-Thunderbolts35.jpg",
+    "width": "250"
+  },
+  "name": "Leila Davis",
+  "pageviews": 1427,
   "partners": [
     "Ringer",
     "Rhino",
@@ -28,10 +27,12 @@
     "Flight via artificial wings",
     "Variety of weapon systems"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Thunderbolts35.jpg/250px-Thunderbolts35.jpg",
-    "width": "250",
-    "height": "385"
-  },
-  "pageviews": 1427
+  "realName": "Leila Davis",
+  "species": [
+  ],
+  "teams": [
+    "The Redeemers",
+    "Sinister Syndicate"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Leila_Davis"
 }

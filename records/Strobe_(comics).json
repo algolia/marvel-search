@@ -1,22 +1,26 @@
 {
-  "name": "Strobe",
-  "url": "https://en.wikipedia.org/wiki/Strobe_(comics)",
-  "realName": "Juliana Worthing",
-  "creators": [],
-  "teams": [
-    "Mutant Liberation Front"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Strobe",
+  "pageviews": 375,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Depowered",
     "formerly:",
     "Heat/light generation"
   ],
-  "image": {},
-  "pageviews": 375
+  "realName": "Juliana Worthing",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Mutant Liberation Front"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Strobe_(comics)"
 }

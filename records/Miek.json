@@ -1,25 +1,28 @@
 {
-  "name": "King Miek",
-  "url": "https://en.wikipedia.org/wiki/Miek",
-  "realName": "Miek",
+  "aliases": "",
   "creators": [
     "Greg Pak",
     "Carlo Pagulayan"
   ],
-  "teams": [
-    "Warbound"
+  "image": {
+    "height": "229",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Miek.jpg/250px-Miek.jpg",
+    "width": "250"
+  },
+  "name": "King Miek",
+  "pageviews": 3147,
+  "partners": [
   ],
-  "aliases": "",
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Miek",
   "species": [
     "Sakaar"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Miek.jpg/250px-Miek.jpg",
-    "width": "250",
-    "height": "229"
-  },
-  "pageviews": 3147
+  "teams": [
+    "Warbound"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Miek"
 }

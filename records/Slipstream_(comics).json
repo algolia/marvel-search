@@ -1,32 +1,34 @@
 {
-  "name": "Slipstream",
-  "url": "https://en.wikipedia.org/wiki/Slipstream_(comics)",
-  "realName": "Davis Cameron",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Salvador Larroca"
   ],
-  "teams": [
-    "X-Men"
+  "image": {
+    "height": "264",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Slipstream_%28Davis_Cameron%29.png",
+    "width": "212"
+  },
+  "name": "Slipstream",
+  "pageviews": 2042,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Depowered",
-    "Human Mutant",
-    "Shi'ar"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Limited space-time manipulation and reality warping capabilities that enables him to conjure a \"Warp Wave\"",
     "Psychic navigation",
     "Use of a shortened metal surfboard",
     "Ability to take other people through the Warp Wave through increased concentration to maintain the wave"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Slipstream_%28Davis_Cameron%29.png",
-    "width": "212",
-    "height": "264"
-  },
-  "pageviews": 2042
+  "realName": "Davis Cameron",
+  "species": [
+    "Depowered",
+    "Human Mutant",
+    "Shi'ar"
+  ],
+  "teams": [
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Slipstream_(comics)"
 }

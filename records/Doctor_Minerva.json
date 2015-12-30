@@ -1,21 +1,25 @@
 {
-  "name": "Doctor Minerva",
-  "url": "https://en.wikipedia.org/wiki/Doctor_Minerva",
-  "realName": "Minn-Erva",
+  "aliases": "",
   "creators": [
     "Scott Edelman",
     "Al Milgrom"
   ],
-  "teams": [
-    "Starforce"
+  "image": {
+  },
+  "name": "Doctor Minerva",
+  "pageviews": 1335,
+  "partners": [
   ],
-  "aliases": "",
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Minn-Erva",
   "species": [
     "Kree"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 1335
+  "teams": [
+    "Starforce"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Doctor_Minerva"
 }

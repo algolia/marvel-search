@@ -1,19 +1,18 @@
 {
-  "name": "Bird-Man",
-  "url": "https://en.wikipedia.org/wiki/Bird-Man",
-  "realName": "Henry Hawk",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Wally Wood",
     "Bob Powell"
   ],
-  "teams": [
-    "Ani-Men"
+  "image": {
+  },
+  "name": "Bird-Man",
+  "pageviews": 2457,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Use of T-Ray gun",
     "Exoskeleton costume grants:",
@@ -28,6 +27,11 @@
     "Flight via natural wings",
     "Hollowed bones"
   ],
-  "image": {},
-  "pageviews": 2457
+  "realName": "Henry Hawk",
+  "species": [
+  ],
+  "teams": [
+    "Ani-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bird-Man"
 }

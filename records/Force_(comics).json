@@ -1,26 +1,30 @@
 {
-  "name": "Force",
-  "url": "https://en.wikipedia.org/wiki/Force_(comics)",
-  "realName": "Clayton Wilson",
+  "aliases": "Taylor, Carl Walker",
   "creators": [
     "Steve Gerber",
     "Don Heck"
   ],
-  "teams": [],
-  "aliases": "Taylor, Carl Walker",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "390",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/IronMan-224.jpg/250px-IronMan-224.jpg",
+    "width": "250"
+  },
+  "name": "Force",
+  "pageviews": 1096,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Via suit:",
     "Enhanced strength",
     "Force field projection",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/IronMan-224.jpg/250px-IronMan-224.jpg",
-    "width": "250",
-    "height": "390"
-  },
-  "pageviews": 1096
+  "realName": "Clayton Wilson",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Force_(comics)"
 }

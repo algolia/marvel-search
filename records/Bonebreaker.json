@@ -1,18 +1,17 @@
 {
-  "name": "Bonebreaker",
-  "url": "https://en.wikipedia.org/wiki/Bonebreaker",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Marc Silvestri"
   ],
-  "teams": [
-    "Reavers"
+  "image": {
+  },
+  "name": "Bonebreaker",
+  "pageviews": 1198,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Cybernetic body",
     "Robotic weaponry",
@@ -20,6 +19,11 @@
     "stamina",
     "and reflexes"
   ],
-  "image": {},
-  "pageviews": 1198
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Reavers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bonebreaker"
 }

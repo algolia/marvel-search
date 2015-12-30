@@ -1,21 +1,20 @@
 {
-  "name": "Swordsman",
-  "url": "https://en.wikipedia.org/wiki/Swordsman_(comics)",
-  "realName": "Jacques Duquesne",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Don Heck"
   ],
-  "teams": [
-    "Avengers",
-    "Emissaries of Evil",
-    "Legion of the Unliving",
-    "Lethal Legion"
+  "image": {
+    "height": "370",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Avengers19.jpg/250px-Avengers19.jpg",
+    "width": "250"
+  },
+  "name": "Swordsman",
+  "pageviews": 9474,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Olympic-level athlete",
     "Master swordsman",
@@ -24,10 +23,14 @@
     "Uses a modified sword that projects various energy beams",
     "Carries various throwing knives and daggers"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Avengers19.jpg/250px-Avengers19.jpg",
-    "width": "250",
-    "height": "370"
-  },
-  "pageviews": 9474
+  "realName": "Jacques Duquesne",
+  "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "Emissaries of Evil",
+    "Legion of the Unliving",
+    "Lethal Legion"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Swordsman_(comics)"
 }

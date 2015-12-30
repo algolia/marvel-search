@@ -1,16 +1,20 @@
 {
-  "name": "Bloodaxe",
-  "url": "https://en.wikipedia.org/wiki/Bloodaxe_(comics)",
-  "realName": "Jackie Lukus",
+  "aliases": "Executioner",
   "creators": [
     "Tom DeFalco",
     "Pat Olliffe"
   ],
-  "teams": [],
-  "aliases": "Executioner",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "250",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Bloodaxe.jpg/250px-Bloodaxe.jpg",
+    "width": "250"
+  },
+  "name": "Bloodaxe",
+  "pageviews": 1324,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -19,10 +23,10 @@
     "Invulnerability to conventional firearms and incendiary or ballistic devices",
     "Wields enchanted and virtually indestructible axe"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Bloodaxe.jpg/250px-Bloodaxe.jpg",
-    "width": "250",
-    "height": "250"
-  },
-  "pageviews": 1324
+  "realName": "Jackie Lukus",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bloodaxe_(comics)"
 }

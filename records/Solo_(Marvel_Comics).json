@@ -1,19 +1,17 @@
 {
-  "name": "Solo",
-  "url": "https://en.wikipedia.org/wiki/Solo_(Marvel_Comics)",
-  "realName": "James Bourne",
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "Marc Silvestri"
   ],
-  "teams": [
-    "Six Pack",
-    "Heroes for Hire"
+  "image": {
+  },
+  "name": "Solo",
+  "pageviews": 2199,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Master hand to hand combatant",
     "Expert marksman",
@@ -22,6 +20,12 @@
     "Wears a bullet-proof quilted Kevlar armor",
     "Use of conventional weapons and firearms"
   ],
-  "image": {},
-  "pageviews": 2199
+  "realName": "James Bourne",
+  "species": [
+  ],
+  "teams": [
+    "Six Pack",
+    "Heroes for Hire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Solo_(Marvel_Comics)"
 }

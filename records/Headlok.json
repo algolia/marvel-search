@@ -1,19 +1,24 @@
 {
-  "name": "Headlok",
-  "url": "https://en.wikipedia.org/wiki/Headlok",
-  "realName": "unrevealed",
+  "aliases": "",
   "creators": [
     "Steve Englehart",
     "Al Milgrom"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Headlok",
+  "pageviews": 391,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Mind Control"
   ],
-  "image": {},
-  "pageviews": 391
+  "realName": "unrevealed",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Headlok"
 }

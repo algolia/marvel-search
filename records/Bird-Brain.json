@@ -1,25 +1,28 @@
 {
-  "name": "Bird-Brain",
-  "url": "https://en.wikipedia.org/wiki/Bird-Brain",
-  "realName": "Bird-Brain",
+  "aliases": "Bird Boy",
   "creators": [
     "Louise Simonson",
     "June Brigman"
   ],
-  "teams": [
-    "New Mutants"
+  "image": {
+    "height": "404",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/ad/BirdB.png",
+    "width": "184"
+  },
+  "name": "Bird-Brain",
+  "pageviews": 1292,
+  "partners": [
   ],
-  "aliases": "Bird Boy",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/ad/BirdB.png",
-    "width": "184",
-    "height": "404"
-  },
-  "pageviews": 1292
+  "realName": "Bird-Brain",
+  "species": [
+  ],
+  "teams": [
+    "New Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bird-Brain"
 }

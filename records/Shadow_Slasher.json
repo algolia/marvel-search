@@ -1,16 +1,16 @@
 {
-  "name": "Shadow Slasher",
-  "url": "https://en.wikipedia.org/wiki/Shadow_Slasher",
-  "realName": "Xi-shan Hao",
+  "aliases": "",
   "creators": [
     "Doug Moench",
     "Mick Zeck",
     "Gene Day"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+  },
+  "name": "Shadow Slasher",
+  "pageviews": 236,
+  "partners": [
+  ],
   "powers": [
     "nunchaku",
     "Asian"
@@ -19,6 +19,10 @@
     "None: Highly proficient martial artist",
     "Uses nunchaku and other Asian weapons"
   ],
-  "image": {},
-  "pageviews": 236
+  "realName": "Xi-shan Hao",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shadow_Slasher"
 }

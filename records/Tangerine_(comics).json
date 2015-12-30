@@ -1,16 +1,17 @@
 {
-  "name": "Tangerine",
-  "url": "https://en.wikipedia.org/wiki/Tangerine_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Alan Davis"
   ],
-  "teams": [
-    "MI-13"
+  "image": {
+    "height": "462",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/TaniaReen.JPG/180px-TaniaReen.JPG",
+    "width": "180"
+  },
+  "name": "Tangerine",
+  "pageviews": 517,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Telepathy",
     "Psychometry",
@@ -22,10 +23,11 @@
     "Empathy",
     "Psionic-electric blasts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/TaniaReen.JPG/180px-TaniaReen.JPG",
-    "width": "180",
-    "height": "462"
-  },
-  "pageviews": 517
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "MI-13"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tangerine_(comics)"
 }

@@ -1,22 +1,27 @@
 {
-  "name": "Iron Man 2020",
-  "url": "https://en.wikipedia.org/wiki/Iron_Man_2020",
-  "realName": "Arno Stark",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Herb Trimpe"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Iron Man 2020",
+  "pageviews": 8063,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Armor grants:",
     "Flight",
     "Superhuman strength and physical resistance",
     "Energy blasts"
   ],
-  "image": {},
-  "pageviews": 8063
+  "realName": "Arno Stark",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Iron_Man_2020"
 }

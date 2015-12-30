@@ -1,26 +1,29 @@
 {
-  "name": "Caiera",
-  "url": "https://en.wikipedia.org/wiki/Caiera",
-  "realName": "Caiera",
+  "aliases": "Lieutenant, Caiera the Oldstrong",
   "creators": [
     "Greg Pak",
     "Carlo Pagulayan"
   ],
-  "teams": [
-    "Warbound"
+  "image": {
+    "height": "432",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Caiera.PNG/200px-Caiera.PNG",
+    "width": "200"
+  },
+  "name": "Caiera",
+  "pageviews": 10197,
+  "partners": [
   ],
-  "aliases": "Lieutenant, Caiera the Oldstrong",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "limited invulnerability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Caiera.PNG/200px-Caiera.PNG",
-    "width": "200",
-    "height": "432"
-  },
-  "pageviews": 10197
+  "realName": "Caiera",
+  "species": [
+  ],
+  "teams": [
+    "Warbound"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Caiera"
 }

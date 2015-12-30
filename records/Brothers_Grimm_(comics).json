@@ -1,23 +1,27 @@
 {
-  "name": "Brothers Grimm",
-  "url": "https://en.wikipedia.org/wiki/Brothers_Grimm_(comics)",
-  "realName": "Jake and William Dolly",
+  "aliases": "",
   "creators": [
     "Marv Wolfman",
     "Carmine Infantino"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "215",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Brothers-Grimm-Marvel.jpg/225px-Brothers-Grimm-Marvel.jpg",
+    "width": "225"
+  },
+  "name": "Brothers Grimm",
+  "pageviews": 1530,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Costume granted matter production"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Brothers-Grimm-Marvel.jpg/225px-Brothers-Grimm-Marvel.jpg",
-    "width": "225",
-    "height": "215"
-  },
-  "pageviews": 1530
+  "realName": "Jake and William Dolly",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Brothers_Grimm_(comics)"
 }

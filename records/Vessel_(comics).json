@@ -1,20 +1,18 @@
 {
-  "name": "Vessel",
-  "url": "https://en.wikipedia.org/wiki/Vessel_(comics)",
-  "realName": null,
+  "aliases": "Snow",
   "creators": [
     "Scott Lobdell",
     "Bryan Hitch"
   ],
-  "teams": [
-    "Gene Nation",
-    "Morlocks"
+  "image": {
+    "height": "133",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/25/Vessel2.jpg",
+    "width": "250"
+  },
+  "name": "Vessel",
+  "pageviews": 243,
+  "partners": [
   ],
-  "aliases": "Snow",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "superhuman"
   ],
@@ -25,10 +23,13 @@
     "resistance to injury",
     "and healing ability to superhuman proportions"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/25/Vessel2.jpg",
-    "width": "250",
-    "height": "133"
-  },
-  "pageviews": 243
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Gene Nation",
+    "Morlocks"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Vessel_(comics)"
 }

@@ -1,23 +1,18 @@
 {
-  "name": "Franklin Richards",
-  "url": "https://en.wikipedia.org/wiki/Franklin_Richards",
-  "realName": "Franklin Benjamin Richards",
+  "aliases": "Ego-Spawn, Avatar, Tattletale, Franklin Benjamin, Richard Franklin",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Future Foundation",
-    "Fantastic Four",
-    "Fantastic Force",
-    "Power Pack",
-    "Generation X"
+  "image": {
+    "height": "342",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Franklin_richards.jpg",
+    "width": "250"
+  },
+  "name": "Franklin Richards",
+  "pageviews": 37386,
+  "partners": [
   ],
-  "aliases": "Ego-Spawn, Avatar, Tattletale, Franklin Benjamin, Richard Franklin",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Reality warping",
     "Telekinesis",
@@ -31,10 +26,16 @@
     "Telepathy",
     "Precognition"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Franklin_richards.jpg",
-    "width": "250",
-    "height": "342"
-  },
-  "pageviews": 37386
+  "realName": "Franklin Benjamin Richards",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Future Foundation",
+    "Fantastic Four",
+    "Fantastic Force",
+    "Power Pack",
+    "Generation X"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Franklin_Richards"
 }

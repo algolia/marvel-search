@@ -1,20 +1,21 @@
 {
-  "name": "Groot",
-  "url": "https://en.wikipedia.org/wiki/Groot",
-  "realName": "Groot",
+  "aliases": "Monarch of Planet X",
   "creators": [
     "Stan Lee",
     "Jack Kirby",
     "Dick Ayers"
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "S.H.I.E.L.D. Paranormal Containment Unit"
+  "image": {
+    "height": "406",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Gotg_2.jpg/250px-Gotg_2.jpg",
+    "width": "250"
+  },
+  "name": "Groot",
+  "pageviews": 53094,
+  "partners": [
   ],
-  "aliases": "Monarch of Planet X",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to absorb wood to feed",
     "rebuild self",
@@ -22,10 +23,12 @@
     "Regeneration",
     "Resistance to fire"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Gotg_2.jpg/250px-Gotg_2.jpg",
-    "width": "250",
-    "height": "406"
-  },
-  "pageviews": 53094
+  "realName": "Groot",
+  "species": [
+  ],
+  "teams": [
+    "Guardians of the Galaxy",
+    "S.H.I.E.L.D. Paranormal Containment Unit"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Groot"
 }

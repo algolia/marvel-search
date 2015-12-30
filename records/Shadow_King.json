@@ -1,18 +1,15 @@
 {
-  "name": "Shadow King",
-  "url": "https://en.wikipedia.org/wiki/Shadow_King",
-  "realName": "Amahl Farouk",
+  "aliases": "Amahl Farouk, Jacob Reisz, Ananasi, Cypher Karma",
   "creators": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "teams": [
-    "Dark X-Men",
-    "Brotherhood of Mutants"
+  "image": {
+  },
+  "name": "Shadow King",
+  "pageviews": 8331,
+  "partners": [
   ],
-  "aliases": "Amahl Farouk, Jacob Reisz, Ananasi, Cypher Karma",
-  "species": [],
-  "partners": [],
   "powers": [
     "Telepathy",
     "Possession",
@@ -23,6 +20,12 @@
     "Possession",
     "Immortality"
   ],
-  "image": {},
-  "pageviews": 8331
+  "realName": "Amahl Farouk",
+  "species": [
+  ],
+  "teams": [
+    "Dark X-Men",
+    "Brotherhood of Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shadow_King"
 }

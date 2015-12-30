@@ -1,18 +1,18 @@
 {
-  "name": "Amber Hunt",
-  "url": "https://en.wikipedia.org/wiki/Amber_Hunt_(comics)",
-  "realName": "Amber Hunt",
+  "aliases": "En Flame, Moonchild, The Phoenix",
   "creators": [
     "Steve Gerber",
     "R.R. Phipps"
   ],
-  "teams": [
-    "The All-New Exiles",
-    "Exiles"
+  "image": {
+    "height": "213",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Amber_Hunt.jpg/220px-Amber_Hunt.jpg",
+    "width": "220"
+  },
+  "name": "Amber Hunt",
+  "pageviews": 970,
+  "partners": [
   ],
-  "aliases": "En Flame, Moonchild, The Phoenix",
-  "species": [],
-  "partners": [],
   "powers": [
     "Pyrokinesis",
     "Precognition",
@@ -29,10 +29,12 @@
     "Astral projection",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Amber_Hunt.jpg/220px-Amber_Hunt.jpg",
-    "width": "220",
-    "height": "213"
-  },
-  "pageviews": 970
+  "realName": "Amber Hunt",
+  "species": [
+  ],
+  "teams": [
+    "The All-New Exiles",
+    "Exiles"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Amber_Hunt_(comics)"
 }

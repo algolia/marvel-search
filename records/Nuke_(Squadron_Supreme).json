@@ -1,30 +1,33 @@
 {
-  "name": "Nuke",
-  "url": "https://en.wikipedia.org/wiki/Nuke_(Squadron_Supreme)",
-  "realName": "Albert Gaines",
+  "aliases": "",
   "creators": [
     "J. M. DeMatteis",
     "Don Perlin",
     "J. Michael Straczynski",
     "Gary Frank"
   ],
-  "teams": [
-    "Squadron Supreme"
+  "image": {
+    "height": "179",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Nuke1.jpg/225px-Nuke1.jpg",
+    "width": "225"
+  },
+  "name": "Nuke",
+  "pageviews": 4696,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "invulnerability",
     "flight",
     "superhuman strength",
     "radiation projection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Nuke1.jpg/225px-Nuke1.jpg",
-    "width": "225",
-    "height": "179"
-  },
-  "pageviews": 4696
+  "realName": "Albert Gaines",
+  "species": [
+  ],
+  "teams": [
+    "Squadron Supreme"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nuke_(Squadron_Supreme)"
 }

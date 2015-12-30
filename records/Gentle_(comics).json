@@ -1,11 +1,28 @@
 {
-  "name": "Gentle",
-  "url": "https://en.wikipedia.org/wiki/Gentle_(comics)",
-  "realName": "Nezhno \"Nez\" Abidemi",
+  "aliases": "",
   "creators": [
     "Craig Kyle",
     "Chris Yost",
     "Mark Brooks"
+  ],
+  "image": {
+    "height": "267",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Gentleprofile.jpg/250px-Gentleprofile.jpg",
+    "width": "250"
+  },
+  "name": "Gentle",
+  "pageviews": 2613,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "extreme strength",
+    "by temporarily increasing his muscle mass"
+  ],
+  "realName": "Nezhno \"Nez\" Abidemi",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "New X-Men",
@@ -14,20 +31,5 @@
     "X-Men-In-Training",
     "Jean Grey School Students"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "extreme strength",
-    "by temporarily increasing his muscle mass"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Gentleprofile.jpg/250px-Gentleprofile.jpg",
-    "width": "250",
-    "height": "267"
-  },
-  "pageviews": 2613
+  "url": "https://en.wikipedia.org/wiki/Gentle_(comics)"
 }

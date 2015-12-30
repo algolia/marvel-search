@@ -1,23 +1,27 @@
 {
-  "name": "Nebula",
-  "url": "https://en.wikipedia.org/wiki/Nebula_(comics)",
-  "realName": "",
+  "aliases": "Captain Nebula, Ms. Peale",
   "creators": [
     "Roger Stern",
     "John Buscema"
   ],
-  "teams": [],
-  "aliases": "Captain Nebula, Ms. Peale",
+  "image": {
+    "height": "383",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Avengers_318.jpg/250px-Avengers_318.jpg",
+    "width": "250"
+  },
+  "name": "Nebula",
+  "pageviews": 31947,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "",
   "species": [
     "Luphomoid"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Avengers_318.jpg/250px-Avengers_318.jpg",
-    "width": "250",
-    "height": "383"
-  },
-  "pageviews": 31813
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nebula_(comics)"
 }

@@ -1,25 +1,22 @@
 {
-  "name": "Nighthawk",
-  "url": "https://en.wikipedia.org/wiki/Nighthawk_(Marvel_Comics)",
-  "realName": "- Kyle Richmond (616)<br> - Joaquin Pennysworth (616)",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Sal Buscema",
     "Joe Casey",
     "Keith Giffen"
   ],
-  "teams": [
-    "Squadron Sinister",
-    "Defenders",
-    "Thunderbolts",
-    "Legion of the Unliving",
-    "Squadron Supreme",
-    "America Redeemers"
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Nighthawk-1.jpg/250px-Nighthawk-1.jpg",
+    "width": "250"
+  },
+  "name": "Nighthawk",
+  "pageviews": 28601,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Kyle (Earth-616):",
     "Superb athlete",
@@ -38,10 +35,16 @@
     "Genius-level intellect",
     "Advanced weaponry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Nighthawk-1.jpg/250px-Nighthawk-1.jpg",
-    "width": "250",
-    "height": "382"
-  },
-  "pageviews": 28601
+  "realName": "- Kyle Richmond (616)<br> - Joaquin Pennysworth (616)",
+  "species": [
+  ],
+  "teams": [
+    "Squadron Sinister",
+    "Defenders",
+    "Thunderbolts",
+    "Legion of the Unliving",
+    "Squadron Supreme",
+    "America Redeemers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nighthawk_(Marvel_Comics)"
 }

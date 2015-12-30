@@ -1,22 +1,27 @@
 {
-  "name": "The Adversary",
-  "url": "https://en.wikipedia.org/wiki/Adversary_(comics)",
-  "realName": null,
+  "aliases": "The Great Trickster, Nazé",
   "creators": [
     "Chris Claremont",
     "John Romita, Jr."
   ],
-  "teams": [],
-  "aliases": "The Great Trickster, Nazé",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "The Adversary",
+  "pageviews": 1395,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "magical powers",
     "superhuman durability",
     "superhuman speed",
     "superhuman strength"
   ],
-  "image": {},
-  "pageviews": 1395
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Adversary_(comics)"
 }

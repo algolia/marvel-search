@@ -1,23 +1,27 @@
 {
-  "name": "Skornn",
-  "url": "https://en.wikipedia.org/wiki/Skornn",
-  "realName": "Skornn",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Rob Liefeld"
   ],
-  "teams": [
-    "Helix"
+  "image": {
+  },
+  "name": "Skornn",
+  "pageviews": 380,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "monstrous appearance",
     "heightened strength",
     "razorsharp claws"
   ],
-  "image": {},
-  "pageviews": 380
+  "realName": "Skornn",
+  "species": [
+  ],
+  "teams": [
+    "Helix"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Skornn"
 }

@@ -1,25 +1,28 @@
 {
-  "name": "Empath",
-  "url": "https://en.wikipedia.org/wiki/Empath_(comics)",
-  "realName": "Manuel Alfonso Rodrigo de la Rocha",
+  "aliases": "Mr. Roache",
   "creators": [
     "Chris Claremont",
     "Sal Buscema"
   ],
-  "teams": [],
-  "aliases": "Mr. Roache",
-  "species": [
-    "Human Mutant"
+  "image": {
+    "height": "392",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/NewMutants_62.jpg/250px-NewMutants_62.jpg",
+    "width": "250"
+  },
+  "name": "Empath",
+  "pageviews": 2407,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Psionic ability to sense and control emotions of others"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/NewMutants_62.jpg/250px-NewMutants_62.jpg",
-    "width": "250",
-    "height": "392"
-  },
-  "pageviews": 2407
+  "realName": "Manuel Alfonso Rodrigo de la Rocha",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Empath_(comics)"
 }

@@ -1,23 +1,27 @@
 {
-  "name": "Merlyn",
-  "url": "https://en.wikipedia.org/wiki/Merlyn_(Marvel_Comics)",
-  "realName": "Merlyn",
+  "aliases": "Merlin, Myrdh, the Magus, Myrrdin and many more",
   "creators": [
     "Chris Claremont",
     "Herb Trimpe",
     "Fred Kida"
   ],
-  "teams": [
-    "Captain Britain Corps"
+  "image": {
+  },
+  "name": "Merlyn",
+  "pageviews": 3123,
+  "partners": [
   ],
-  "aliases": "Merlin, Myrdh, the Magus, Myrrdin and many more",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Immortality",
     "vast magical powers"
   ],
-  "image": {},
-  "pageviews": 3123
+  "realName": "Merlyn",
+  "species": [
+  ],
+  "teams": [
+    "Captain Britain Corps"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Merlyn_(Marvel_Comics)"
 }

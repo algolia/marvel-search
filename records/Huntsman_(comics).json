@@ -1,24 +1,28 @@
 {
-  "name": "Huntsman",
-  "url": "https://en.wikipedia.org/wiki/Huntsman_(comics)",
-  "realName": "Zona Cluster-6",
+  "aliases": "Weapon XII",
   "creators": [
     "Grant Morrison",
     "Igor Kordey"
   ],
-  "teams": [
-    "Weapon Plus Program",
-    "Super-Sentinels"
+  "image": {
+  },
+  "name": "Huntsman",
+  "pageviews": 2101,
+  "partners": [
   ],
-  "aliases": "Weapon XII",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Viral consciousness that spreads through touch",
     "superhuman strength and stamina",
     "psychic immunity"
   ],
-  "image": {},
-  "pageviews": 2101
+  "realName": "Zona Cluster-6",
+  "species": [
+  ],
+  "teams": [
+    "Weapon Plus Program",
+    "Super-Sentinels"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Huntsman_(comics)"
 }

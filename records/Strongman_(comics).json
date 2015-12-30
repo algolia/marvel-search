@@ -1,21 +1,25 @@
 {
-  "name": "Strongman",
-  "url": "https://en.wikipedia.org/wiki/Strongman_(comics)",
-  "realName": "Bruce Olafsen",
+  "aliases": "Bruto",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Circus of Crime"
+  "image": {
+  },
+  "name": "Strongman",
+  "pageviews": 759,
+  "partners": [
   ],
-  "aliases": "Bruto",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled wrestler"
   ],
-  "image": {},
-  "pageviews": 759
+  "realName": "Bruce Olafsen",
+  "species": [
+  ],
+  "teams": [
+    "Circus of Crime"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Strongman_(comics)"
 }

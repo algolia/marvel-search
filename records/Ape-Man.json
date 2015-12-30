@@ -1,18 +1,20 @@
 {
-  "name": "Ape-Man",
-  "url": "https://en.wikipedia.org/wiki/Ape-Man",
-  "realName": "Gordon Keefer",
+  "aliases": "Monk Keefer, Gort",
   "creators": [
     "Stan Lee",
     "Don Heck"
   ],
-  "teams": [
-    "Ani-Men"
+  "image": {
+    "height": "254",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/af/ApeMan.jpg",
+    "width": "200"
+  },
+  "name": "Ape-Man",
+  "pageviews": 1013,
+  "partners": [
   ],
-  "aliases": "Monk Keefer, Gort",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Excellent boxer and wrestler",
     "Considerable strength",
@@ -23,10 +25,11 @@
     "Enhanced agility",
     "durability and reflexes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/af/ApeMan.jpg",
-    "width": "200",
-    "height": "254"
-  },
-  "pageviews": 1013
+  "realName": "Gordon Keefer",
+  "species": [
+  ],
+  "teams": [
+    "Ani-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ape-Man"
 }

@@ -1,24 +1,28 @@
 {
-  "name": "Foxbat",
-  "url": "https://en.wikipedia.org/wiki/Foxbat_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Jim Lee"
+  ],
+  "image": {
+    "height": "203",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Foxbat.JPG/150px-Foxbat.JPG",
+    "width": "150"
+  },
+  "name": "Foxbat",
+  "pageviews": 686,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "Dark Riders",
     "Inhuman"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Foxbat.JPG/150px-Foxbat.JPG",
-    "width": "150",
-    "height": "203"
-  },
-  "pageviews": 686
+  "url": "https://en.wikipedia.org/wiki/Foxbat_(comics)"
 }

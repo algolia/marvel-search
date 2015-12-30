@@ -1,18 +1,20 @@
 {
-  "name": "Spider-Woman",
-  "url": "https://en.wikipedia.org/wiki/Spider-Woman_(Mattie_Franklin)",
-  "realName": "Martha \"Mattie\" Franklin",
+  "aliases": "Spider-Man",
   "creators": [
     "John Byrne",
     "Rafael Kayanan"
   ],
-  "teams": [
-    "Loners"
+  "image": {
+    "height": "367",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/da/Spiderwomanmattie.PNG",
+    "width": "250"
+  },
+  "name": "Spider-Woman",
+  "pageviews": 5470,
+  "partners": [
   ],
-  "aliases": "Spider-Man",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -26,10 +28,11 @@
     "Precognitive \"Spider sense\"",
     "Telepathy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/da/Spiderwomanmattie.PNG",
-    "width": "250",
-    "height": "367"
-  },
-  "pageviews": 5470
+  "realName": "Martha \"Mattie\" Franklin",
+  "species": [
+  ],
+  "teams": [
+    "Loners"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spider-Woman_(Mattie_Franklin)"
 }

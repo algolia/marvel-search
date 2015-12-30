@@ -1,26 +1,30 @@
 {
-  "name": "Omega the Unknown",
-  "url": "https://en.wikipedia.org/wiki/Omega_the_Unknown",
-  "realName": null,
+  "aliases": "\"Sam\"",
   "creators": [
     "Steve Gerber",
     "Mary Skrenes",
     "Jim Mooney"
   ],
-  "teams": [],
-  "aliases": "\"Sam\"",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/ae/Omega_the_Unknown_1.jpg",
+    "width": "194"
+  },
+  "name": "Omega the Unknown",
+  "pageviews": 2579,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "Flight",
     "Energy Burst Projection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/ae/Omega_the_Unknown_1.jpg",
-    "width": "194",
-    "height": "300"
-  },
-  "pageviews": 2579
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Omega_the_Unknown"
 }

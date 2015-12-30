@@ -1,27 +1,24 @@
 {
-  "name": "Bucky",
-  "url": "https://en.wikipedia.org/wiki/Bucky",
-  "realName": "James Buchanan Barnes",
+  "aliases": "Winter Soldier, Captain America",
   "creators": [
     "Joe Simon",
     "Jack Kirby",
     "Ed Brubaker",
     "Steve Epting"
   ],
-  "teams": [
-    "Invaders",
-    "Young Allies",
-    "Kid Commandos",
-    "Avengers",
-    "Legion of the Unliving"
-  ],
-  "aliases": "Winter Soldier, Captain America",
-  "species": [],
+  "image": {
+    "height": "323",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Bucky.PNG/250px-Bucky.PNG",
+    "width": "250"
+  },
+  "name": "Bucky",
+  "pageviews": 143515,
   "partners": [
     "Captain America",
     "Black Widow"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Master hand to hand combatant and martial artist",
     "Gifted advance scout",
@@ -39,10 +36,15 @@
     "Wears a shock absorbing costume",
     "Use of conventional weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Bucky.PNG/250px-Bucky.PNG",
-    "width": "250",
-    "height": "323"
-  },
-  "pageviews": 143515
+  "realName": "James Buchanan Barnes",
+  "species": [
+  ],
+  "teams": [
+    "Invaders",
+    "Young Allies",
+    "Kid Commandos",
+    "Avengers",
+    "Legion of the Unliving"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bucky"
 }

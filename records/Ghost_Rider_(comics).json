@@ -1,17 +1,21 @@
 {
-  "name": "Ghost Rider",
-  "url": "https://en.wikipedia.org/wiki/Ghost_Rider_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Gary Friedrich",
     "Roy Thomas",
     "Mike Ploog"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "370",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Marvel_Comics_Ghost_Rider.jpg/250px-Marvel_Comics_Ghost_Rider.jpg",
+    "width": "250"
+  },
+  "name": "Ghost Rider",
+  "pageviews": 42499,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Immense superhuman strength",
     "stamina",
@@ -30,10 +34,10 @@
     "Accelerated healing factor",
     "Ability to project regular/ethereal flame and travel between interdimensional realms and along any surface"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Marvel_Comics_Ghost_Rider.jpg/250px-Marvel_Comics_Ghost_Rider.jpg",
-    "width": "250",
-    "height": "370"
-  },
-  "pageviews": 42499
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ghost_Rider_(comics)"
 }

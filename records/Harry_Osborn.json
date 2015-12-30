@@ -1,31 +1,33 @@
 {
-  "name": "Harry Osborn",
-  "url": "https://en.wikipedia.org/wiki/Harry_Osborn",
-  "realName": null,
+  "aliases": "Green Goblin , New Goblin, American Son , Harry Lyman",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Oscorp",
-    "Parker Industries"
-  ],
-  "aliases": "Green Goblin , New Goblin, American Son , Harry Lyman",
-  "species": [],
+  "image": {
+    "height": "337",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Harryosb.PNG/200px-Harryosb.PNG",
+    "width": "200"
+  },
+  "name": "Harry Osborn",
+  "pageviews": 20987,
   "partners": [
     "Spider-Man"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Goblin serum grants:",
     "Superhuman physical attributes",
     "Enhanced intelligence",
     "Use of goblin-themed weapons and paraphernalia"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Harryosb.PNG/200px-Harryosb.PNG",
-    "width": "200",
-    "height": "337"
-  },
-  "pageviews": 20987
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Oscorp",
+    "Parker Industries"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Harry_Osborn"
 }

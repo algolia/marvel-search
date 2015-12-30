@@ -1,16 +1,17 @@
 {
-  "name": "Mallen",
-  "url": "https://en.wikipedia.org/wiki/Mallen_(comics)",
-  "realName": "Mallen",
+  "aliases": "Madden, Extremis",
   "creators": [
     "Warren Ellis",
     "Adi Granov"
   ],
-  "teams": [],
-  "aliases": "Madden, Extremis",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Mallen",
+  "pageviews": 1455,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "superhuman speed",
@@ -18,6 +19,10 @@
     "claws",
     "electricity generation"
   ],
-  "image": {},
-  "pageviews": 1455
+  "realName": "Mallen",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mallen_(comics)"
 }

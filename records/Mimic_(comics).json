@@ -1,20 +1,18 @@
 {
-  "name": "Mimic",
-  "url": "https://en.wikipedia.org/wiki/Mimic_(comics)",
-  "realName": "Calvin Montgomery Rankin",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Werner Roth"
   ],
-  "teams": [
-    "Brotherhood of Mutants",
-    "Dark X-Men",
-    "Jean Grey School",
-    "X-Men"
+  "image": {
+    "height": "207",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Mimic%28comic%29.jpg/250px-Mimic%28comic%29.jpg",
+    "width": "250"
+  },
+  "name": "Mimic",
+  "pageviews": 6806,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Angel",
     "Beast",
@@ -32,10 +30,14 @@
     "Xavier's and Jean Grey's psychic powers",
     "Iceman's ice control and manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Mimic%28comic%29.jpg/250px-Mimic%28comic%29.jpg",
-    "width": "250",
-    "height": "207"
-  },
-  "pageviews": 6806
+  "realName": "Calvin Montgomery Rankin",
+  "species": [
+  ],
+  "teams": [
+    "Brotherhood of Mutants",
+    "Dark X-Men",
+    "Jean Grey School",
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mimic_(comics)"
 }

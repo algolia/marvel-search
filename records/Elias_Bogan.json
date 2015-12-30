@@ -1,19 +1,18 @@
 {
-  "name": "Elias Bogan",
-  "url": "https://en.wikipedia.org/wiki/Elias_Bogan",
-  "realName": null,
+  "aliases": "Lord Imperial",
   "creators": [
     "Chris Claremont",
     "Salvador Larroca"
   ],
-  "teams": [
-    "Hellfire Club"
+  "image": {
+    "height": "43",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/Elias_Bogan.jpg",
+    "width": "250"
+  },
+  "name": "Elias Bogan",
+  "pageviews": 1016,
+  "partners": [
   ],
-  "aliases": "Lord Imperial",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Telepathy"
   ],
@@ -21,10 +20,12 @@
     "Telepathy",
     "Mental possession"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/Elias_Bogan.jpg",
-    "width": "250",
-    "height": "43"
-  },
-  "pageviews": 1016
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hellfire Club"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Elias_Bogan"
 }

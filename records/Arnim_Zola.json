@@ -1,17 +1,20 @@
 {
-  "name": "Arnim Zola",
-  "url": "https://en.wikipedia.org/wiki/Arnim_Zola",
-  "realName": null,
+  "aliases": "The Bio-Fanatic",
   "creators": [
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "The Bio-Fanatic",
-  "species": [],
+  "image": {
+    "height": "144",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Arnim_Zola.PNG/225px-Arnim_Zola.PNG",
+    "width": "225"
+  },
+  "name": "Arnim Zola",
+  "pageviews": 20821,
   "partners": [
     "Red Skull"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius biochemist and scientist",
     "Specially-modified robot body grants:",
@@ -20,10 +23,10 @@
     "Mind ray",
     "Mind transfer"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Arnim_Zola.PNG/225px-Arnim_Zola.PNG",
-    "width": "225",
-    "height": "144"
-  },
-  "pageviews": 20821
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Arnim_Zola"
 }

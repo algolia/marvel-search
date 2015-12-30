@@ -1,26 +1,29 @@
 {
-  "name": "Sunset Bain",
-  "url": "https://en.wikipedia.org/wiki/Sunset_Bain",
-  "realName": "Sunset Bain",
+  "aliases": "Madame Menace",
   "creators": [
     "Tom DeFalco",
     "Steve Ditko"
   ],
-  "teams": [
-    "New Enforcers"
+  "image": {
+    "height": "315",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/SunsetBain.jpg/250px-SunsetBain.jpg",
+    "width": "250"
+  },
+  "name": "Sunset Bain",
+  "pageviews": 953,
+  "partners": [
   ],
-  "aliases": "Madame Menace",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius intellect",
     "Skilled inventor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/SunsetBain.jpg/250px-SunsetBain.jpg",
-    "width": "250",
-    "height": "315"
-  },
-  "pageviews": 953
+  "realName": "Sunset Bain",
+  "species": [
+  ],
+  "teams": [
+    "New Enforcers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sunset_Bain"
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Silk",
-  "url": "https://en.wikipedia.org/wiki/Silk_(comics)",
-  "realName": "Cindy Moon",
+  "aliases": "",
   "creators": [
     "Dan Slott",
     "Humberto Ramos"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutate"
-  ],
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Silk-comic_cover.jpg/250px-Silk-comic_cover.jpg",
+    "width": "250"
+  },
+  "name": "Silk",
+  "pageviews": 22692,
   "partners": [
     "Spider-Man",
     "Spider-Woman"
@@ -36,10 +36,11 @@
     "Master hand-to-hand combatant",
     "Eidetic memory"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Silk-comic_cover.jpg/250px-Silk-comic_cover.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 22692
+  "realName": "Cindy Moon",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Silk_(comics)"
 }

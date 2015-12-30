@@ -1,29 +1,30 @@
 {
-  "name": "Isolationist",
-  "url": "https://en.wikipedia.org/wiki/Isolationist_(comics)",
-  "realName": "Josef Huber",
+  "aliases": "",
   "creators": [
     "Peter David"
   ],
-  "teams": [
-    "X-Cell",
-    "Singularity Investigations"
+  "image": {
+    "height": "354",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Isolationist.jpg",
+    "width": "250"
+  },
+  "name": "Isolationist",
+  "pageviews": 506,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Peter David"
-  ],
-  "partners": [],
   "powers": [
     "mutants"
   ],
   "powersText": [
     "Possesses the powers of all living mutants."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Isolationist.jpg",
-    "width": "250",
-    "height": "354"
-  },
-  "pageviews": 506
+  "realName": "Josef Huber",
+  "species": [
+    "Peter David"
+  ],
+  "teams": [
+    "X-Cell",
+    "Singularity Investigations"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Isolationist_(comics)"
 }

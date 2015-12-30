@@ -1,20 +1,18 @@
 {
-  "name": "Princess-Majestrix Lilandra Neramani",
-  "url": "https://en.wikipedia.org/wiki/Lilandra_Neramani",
-  "realName": "Lilandra Neramani",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Shi'ar Imperium",
-    "Starjammers"
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Xmen122.png/250px-Xmen122.png",
+    "width": "250"
+  },
+  "name": "Princess-Majestrix Lilandra Neramani",
+  "pageviews": 4414,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Shi'ar"
-  ],
-  "partners": [],
   "powers": [
     "telepathy"
   ],
@@ -22,10 +20,13 @@
     "Limited telepathy",
     "Shi'ar armor and ceremonial staff"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Xmen122.png/250px-Xmen122.png",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 4414
+  "realName": "Lilandra Neramani",
+  "species": [
+    "Shi'ar"
+  ],
+  "teams": [
+    "Shi'ar Imperium",
+    "Starjammers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lilandra_Neramani"
 }

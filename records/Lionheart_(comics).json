@@ -1,30 +1,33 @@
 {
-  "name": "Lionheart",
-  "url": "https://en.wikipedia.org/wiki/Lionheart_(comics)",
-  "realName": "Kelsey Leigh Kirkland",
+  "aliases": "Captain Britain , Lionheart of Avalon",
   "creators": [
     "Chuck Austen",
     "Olivier Coipel"
   ],
-  "teams": [
-    "The Avengers",
-    "Captain Britain Corps",
-    "New Excalibur"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Lionheart.png",
+    "width": "207"
+  },
+  "name": "Lionheart",
+  "pageviews": 3430,
+  "partners": [
   ],
-  "aliases": "Captain Britain , Lionheart of Avalon",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Sword of Might grants:",
     "Superhuman physical attributes",
     "Force field generation",
     "Energy bolts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Lionheart.png",
-    "width": "207",
-    "height": "375"
-  },
-  "pageviews": 3430
+  "realName": "Kelsey Leigh Kirkland",
+  "species": [
+  ],
+  "teams": [
+    "The Avengers",
+    "Captain Britain Corps",
+    "New Excalibur"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lionheart_(comics)"
 }

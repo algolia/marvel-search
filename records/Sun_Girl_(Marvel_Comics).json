@@ -1,22 +1,27 @@
 {
-  "name": "Sun Girl",
-  "url": "https://en.wikipedia.org/wiki/Sun_Girl_(Marvel_Comics)",
-  "realName": "Mary Mitchell",
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/5c/Sun_Girl_no.1_-_August_1948.jpg",
+    "width": "250"
+  },
+  "name": "Sun Girl",
+  "pageviews": 3303,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Good acrobat",
     "Expert martial artist",
     "Wields a sunbeam ray gun"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/5c/Sun_Girl_no.1_-_August_1948.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 3303
+  "realName": "Mary Mitchell",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sun_Girl_(Marvel_Comics)"
 }

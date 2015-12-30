@@ -1,15 +1,18 @@
 {
-  "name": "Psycho-Man",
-  "url": "https://en.wikipedia.org/wiki/Psycho-Man",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "384",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/FantasticFour-283.jpg/250px-FantasticFour-283.jpg",
+    "width": "250"
+  },
+  "name": "Psycho-Man",
+  "pageviews": 4435,
+  "partners": [
+  ],
   "powers": [
     "powered armor",
     "Emotion manipulation"
@@ -20,10 +23,10 @@
     "Possesses a futuristic space vessel",
     "Emotion manipulation via emotion-controlling device"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/FantasticFour-283.jpg/250px-FantasticFour-283.jpg",
-    "width": "250",
-    "height": "384"
-  },
-  "pageviews": 4435
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Psycho-Man"
 }

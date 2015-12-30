@@ -1,28 +1,30 @@
 {
-  "name": "El Guapo",
-  "url": "https://en.wikipedia.org/wiki/El_Guapo_(comics)",
-  "realName": "Robert Rodriguez",
+  "aliases": "",
   "creators": [
     "Peter Milligan",
     "Mike Allred"
   ],
-  "teams": [
-    "X-Statix"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/XSTATIX_11.jpg/250px-XSTATIX_11.jpg",
+    "width": "250"
+  },
+  "name": "El Guapo",
+  "pageviews": 1123,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Symbiotic relationship with a sentient",
     "super-powered skateboard"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/XSTATIX_11.jpg/250px-XSTATIX_11.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 1123
+  "realName": "Robert Rodriguez",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Statix"
+  ],
+  "url": "https://en.wikipedia.org/wiki/El_Guapo_(comics)"
 }

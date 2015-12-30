@@ -1,19 +1,15 @@
 {
-  "name": "Silver Fox",
-  "url": "https://en.wikipedia.org/wiki/Silver_Fox_(comics)",
-  "realName": "Kayla",
+  "aliases": "Zorra de Plata",
   "creators": [
     "Chris Claremont",
     "John Buscema"
   ],
-  "teams": [
-    "HYDRA",
-    "Weapon X",
-    "Team X"
+  "image": {
+  },
+  "name": "Silver Fox",
+  "pageviews": 16927,
+  "partners": [
   ],
-  "aliases": "Zorra de Plata",
-  "species": [],
-  "partners": [],
   "powers": [
     "healing factor"
   ],
@@ -21,6 +17,13 @@
     "Artificial healing factor",
     "age suppressant and ability to control people by touch"
   ],
-  "image": {},
-  "pageviews": 16927
+  "realName": "Kayla",
+  "species": [
+  ],
+  "teams": [
+    "HYDRA",
+    "Weapon X",
+    "Team X"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Silver_Fox_(comics)"
 }

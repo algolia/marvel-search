@@ -1,26 +1,30 @@
 {
-  "name": "Doctor Lemuel Dorcas",
-  "url": "https://en.wikipedia.org/wiki/Lemuel_Dorcas",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+  },
+  "name": "Doctor Lemuel Dorcas",
+  "pageviews": 834,
   "partners": [
     "Attuma",
     "Byrrah",
     "Krang",
     "Tiger Shark"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Scientific knowledge",
     "Wields many devices",
     "Regenerative healing factor"
   ],
-  "image": {},
-  "pageviews": 834
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lemuel_Dorcas"
 }

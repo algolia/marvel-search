@@ -1,21 +1,26 @@
 {
-  "name": "Kofi Whitemane",
-  "url": "https://en.wikipedia.org/wiki/Kofi_Whitemane",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Louise Simonson",
     "June Brigman"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "383",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/NewPowerPack1.jpg/250px-NewPowerPack1.jpg",
-    "width": "250",
-    "height": "383"
+    "width": "250"
   },
-  "pageviews": 296
+  "name": "Kofi Whitemane",
+  "pageviews": 296,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kofi_Whitemane"
 }

@@ -1,28 +1,31 @@
 {
-  "name": "G.W. Bridge",
-  "url": "https://en.wikipedia.org/wiki/G._W._Bridge",
-  "realName": "George Washington Bridge",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Rob Liefeld"
+  ],
+  "image": {
+    "height": "293",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Gebridge.jpg/250px-Gebridge.jpg",
+    "width": "250"
+  },
+  "name": "G.W. Bridge",
+  "pageviews": 2510,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Skilled in hand-to-hand combat and firearms",
+    "Skilled strategist"
+  ],
+  "realName": "George Washington Bridge",
+  "species": [
   ],
   "teams": [
     "Six Pack",
     "S.H.I.E.L.D.",
     "Weapon P.R.I.M.E."
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Skilled in hand-to-hand combat and firearms",
-    "Skilled strategist"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Gebridge.jpg/250px-Gebridge.jpg",
-    "width": "250",
-    "height": "293"
-  },
-  "pageviews": 2510
+  "url": "https://en.wikipedia.org/wiki/G._W._Bridge"
 }

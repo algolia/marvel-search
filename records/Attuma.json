@@ -1,21 +1,16 @@
 {
-  "name": "Attuma",
-  "url": "https://en.wikipedia.org/wiki/Attuma",
-  "realName": "Attuma",
+  "aliases": "Attuma the Barbarian, Lords of the Murky Depths, Nerkkod: Breaker of Oceans",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Atlantis",
-    "Lethal Legion",
-    "Deep Six",
-    "The Worthy"
-  ],
-  "aliases": "Attuma the Barbarian, Lords of the Murky Depths, Nerkkod: Breaker of Oceans",
-  "species": [
-    "Homo mermanus"
-  ],
+  "image": {
+    "height": "214",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/X-factoran4.jpg",
+    "width": "179"
+  },
+  "name": "Attuma",
+  "pageviews": 5720,
   "partners": [
     "Warlord Krang",
     "Ghaur",
@@ -26,7 +21,8 @@
     "Red Ghost",
     "Dr. Dorcas"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Expert hand-to-hand combatant",
     "Superhuman strength",
@@ -39,10 +35,15 @@
     "Underwater and land adaptation",
     "Access to highly advanced weaponry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/X-factoran4.jpg",
-    "width": "179",
-    "height": "214"
-  },
-  "pageviews": 5720
+  "realName": "Attuma",
+  "species": [
+    "Homo mermanus"
+  ],
+  "teams": [
+    "Atlantis",
+    "Lethal Legion",
+    "Deep Six",
+    "The Worthy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Attuma"
 }

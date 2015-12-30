@@ -1,23 +1,20 @@
 {
-  "name": "Ronan the Accuser",
-  "url": "https://en.wikipedia.org/wiki/Ronan_the_Accuser",
-  "realName": "Ronan",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Starforce",
-    "United Front",
-    "Phalanx",
-    "Annihilators"
+  "image": {
+    "height": "395",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/80/RonantheAccuser.jpg",
+    "width": "250"
+  },
+  "name": "Ronan the Accuser",
+  "pageviews": 50380,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Kree"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Brilliant military strategist",
     "Superhuman strength",
@@ -35,10 +32,15 @@
     "Interstellar teleportation",
     "Creation of \"time-motion displacement fields\""
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/80/RonantheAccuser.jpg",
-    "width": "250",
-    "height": "395"
-  },
-  "pageviews": 50380
+  "realName": "Ronan",
+  "species": [
+    "Kree"
+  ],
+  "teams": [
+    "Starforce",
+    "United Front",
+    "Phalanx",
+    "Annihilators"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ronan_the_Accuser"
 }

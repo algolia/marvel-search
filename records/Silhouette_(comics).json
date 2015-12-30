@@ -1,22 +1,20 @@
 {
-  "name": "Silhouette",
-  "url": "https://en.wikipedia.org/wiki/Silhouette_(comics)",
-  "realName": "Silhouette Chord (Silhouette is the English translation of her Cambodian name)",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Mark Bagley"
   ],
-  "teams": [
-    "Secret Avengers (Civil War)",
-    "Folding Circle",
-    "New Warriors"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Silhouetteani.png",
+    "width": "194"
+  },
+  "name": "Silhouette",
+  "pageviews": 2010,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutate"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superb hand to hand combatant",
     "Expert martial artist",
@@ -26,10 +24,14 @@
     "Darkforce energy manipulation",
     "Ability to become a living shadow"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Silhouetteani.png",
-    "width": "194",
-    "height": "450"
-  },
-  "pageviews": 2010
+  "realName": "Silhouette Chord (Silhouette is the English translation of her Cambodian name)",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+    "Secret Avengers (Civil War)",
+    "Folding Circle",
+    "New Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Silhouette_(comics)"
 }

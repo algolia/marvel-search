@@ -1,17 +1,21 @@
 {
-  "name": "Nemesis",
-  "url": "https://en.wikipedia.org/wiki/Nemesis_(Alpha_Flight)",
-  "realName": "-Isabel St. Ives<br>-Jane Thorne<br>-Amelia Weatherly",
+  "aliases": "",
   "creators": [
     "John Byrne",
     "James Hudnall",
     "Scott Lobdell"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "451",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/14/Nemesis_%28Alpha_Flight%29.jpg",
+    "width": "250"
+  },
+  "name": "Nemesis",
+  "pageviews": 1522,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "(all)",
     "Flight",
@@ -20,10 +24,10 @@
     "Teleportation",
     "time travel"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/14/Nemesis_%28Alpha_Flight%29.jpg",
-    "width": "250",
-    "height": "451"
-  },
-  "pageviews": 1522
+  "realName": "-Isabel St. Ives<br>-Jane Thorne<br>-Amelia Weatherly",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nemesis_(Alpha_Flight)"
 }

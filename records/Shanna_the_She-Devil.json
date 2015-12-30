@@ -1,18 +1,21 @@
 {
-  "name": "Shanna the She-Devil",
-  "url": "https://en.wikipedia.org/wiki/Shanna_the_She-Devil",
-  "realName": "",
+  "aliases": "Lady Plunder",
   "creators": [
     "Carole Seuling",
     "George Tuska"
   ],
-  "teams": [],
-  "aliases": "Lady Plunder",
-  "species": [],
+  "image": {
+    "height": "414",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Shanna1.jpg/250px-Shanna1.jpg",
+    "width": "250"
+  },
+  "name": "Shanna the She-Devil",
+  "pageviews": 5866,
   "partners": [
     "Ka-Zar"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Well-trained veterinarian",
     "Olympic-level athlete",
@@ -20,10 +23,10 @@
     "Peak-level strength",
     "Extraordinary agility"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Shanna1.jpg/250px-Shanna1.jpg",
-    "width": "250",
-    "height": "414"
-  },
-  "pageviews": 5866
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shanna_the_She-Devil"
 }

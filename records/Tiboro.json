@@ -1,21 +1,25 @@
 {
-  "name": "Tiboro",
-  "url": "https://en.wikipedia.org/wiki/Tiboro",
-  "realName": "Tiboro",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Sorcerer"
+  "image": {
+  },
+  "name": "Tiboro",
+  "pageviews": 700,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "powerful magic sorcerer"
   ],
-  "image": {},
-  "pageviews": 700
+  "realName": "Tiboro",
+  "species": [
+    "Sorcerer"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tiboro"
 }

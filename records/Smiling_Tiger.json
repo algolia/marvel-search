@@ -1,22 +1,26 @@
 {
-  "name": "Smiling Tiger",
-  "url": "https://en.wikipedia.org/wiki/Smiling_Tiger",
-  "realName": "Conrad Mack",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Mark Bagley"
+  ],
+  "image": {
+  },
+  "name": "Smiling Tiger",
+  "pageviews": 355,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "razor sharp claws."
+  ],
+  "realName": "Conrad Mack",
+  "species": [
   ],
   "teams": [
     "Folding Circle",
     "Thunderbolts"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "razor sharp claws."
-  ],
-  "image": {},
-  "pageviews": 355
+  "url": "https://en.wikipedia.org/wiki/Smiling_Tiger"
 }

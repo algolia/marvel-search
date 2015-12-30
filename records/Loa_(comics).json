@@ -1,9 +1,26 @@
 {
-  "name": "Loa",
-  "url": "https://en.wikipedia.org/wiki/Loa_(comics)",
-  "realName": "Alani Ryan",
+  "aliases": "",
   "creators": [
     "Michael Ryan"
+  ],
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Loa_skottieyoung.jpg/150px-Loa_skottieyoung.jpg",
+    "width": "150"
+  },
+  "name": "Loa",
+  "pageviews": 1930,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to \"swim\" through solid matter causing it to crumble afterwards.",
+    "Ability to breathe underwater"
+  ],
+  "realName": "Alani Ryan",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Alpha Squadron training squad",
@@ -12,20 +29,5 @@
     "X-Men-In-Training",
     "Avengers Academy"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to \"swim\" through solid matter causing it to crumble afterwards.",
-    "Ability to breathe underwater"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Loa_skottieyoung.jpg/150px-Loa_skottieyoung.jpg",
-    "width": "150",
-    "height": "388"
-  },
-  "pageviews": 1930
+  "url": "https://en.wikipedia.org/wiki/Loa_(comics)"
 }

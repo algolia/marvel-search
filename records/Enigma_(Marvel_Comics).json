@@ -1,23 +1,27 @@
 {
-  "name": "Enigma",
-  "url": "https://en.wikipedia.org/wiki/Enigma_(Marvel_Comics)",
-  "realName": "Tara Virango",
+  "aliases": "Enigma",
   "creators": [
     "Paul Jenkins",
     "Mark Buckingham"
   ],
-  "teams": [],
-  "aliases": "Enigma",
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Tarabuddhism.jpg/130px-Tarabuddhism.jpg",
+    "width": "130"
+  },
+  "name": "Enigma",
+  "pageviews": 843,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Tara Virango",
   "species": [
     "Human mutant"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Tarabuddhism.jpg/130px-Tarabuddhism.jpg",
-    "width": "130",
-    "height": "450"
-  },
-  "pageviews": 843
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Enigma_(Marvel_Comics)"
 }

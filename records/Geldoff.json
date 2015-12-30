@@ -1,23 +1,27 @@
 {
-  "name": "Geldoff",
-  "url": "https://en.wikipedia.org/wiki/Geldoff",
-  "realName": "Geldoff",
+  "aliases": "Proton",
   "creators": [
     "Brian Michael Bendis",
     "Mark Bagley"
   ],
-  "teams": [],
-  "aliases": "Proton",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "327",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Ulgeldoff.jpg/150px-Ulgeldoff.jpg",
+    "width": "150"
+  },
+  "name": "Geldoff",
+  "pageviews": 1262,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Can generate and discharge explosive energy balls"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Ulgeldoff.jpg/150px-Ulgeldoff.jpg",
-    "width": "150",
-    "height": "327"
-  },
-  "pageviews": 1262
+  "realName": "Geldoff",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Geldoff"
 }

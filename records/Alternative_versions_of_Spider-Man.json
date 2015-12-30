@@ -1,21 +1,26 @@
 {
-  "name": "Alternative versions of Spider-Man",
-  "url": "https://en.wikipedia.org/wiki/Alternative_versions_of_Spider-Man",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "74",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Spider-Verse_Spider-Men.jpg/250px-Spider-Verse_Spider-Men.jpg",
-    "width": "250",
-    "height": "74"
+    "width": "250"
   },
-  "pageviews": 16825
+  "name": "Alternative versions of Spider-Man",
+  "pageviews": 16825,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Alternative_versions_of_Spider-Man"
 }

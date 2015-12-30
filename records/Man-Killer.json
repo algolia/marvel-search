@@ -1,10 +1,26 @@
 {
-  "name": "Man-Killer",
-  "url": "https://en.wikipedia.org/wiki/Man-Killer",
-  "realName": "Katrina Luisa Van Horn",
+  "aliases": "Amazon, Wilma",
   "creators": [
     "Jim Mooney",
     "Gerry Conway"
+  ],
+  "image": {
+    "height": "404",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Man-Killer.jpg/250px-Man-Killer.jpg",
+    "width": "250"
+  },
+  "name": "Man-Killer",
+  "pageviews": 1985,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman strength and durability",
+    "and size-alteration through Pym Particle exposure"
+  ],
+  "realName": "Katrina Luisa Van Horn",
+  "species": [
   ],
   "teams": [
     "HYDRA",
@@ -12,18 +28,5 @@
     "Masters of Evil",
     "Thunderbolts"
   ],
-  "aliases": "Amazon, Wilma",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman strength and durability",
-    "and size-alteration through Pym Particle exposure"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Man-Killer.jpg/250px-Man-Killer.jpg",
-    "width": "250",
-    "height": "404"
-  },
-  "pageviews": 1985
+  "url": "https://en.wikipedia.org/wiki/Man-Killer"
 }

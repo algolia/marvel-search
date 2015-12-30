@@ -1,32 +1,33 @@
 {
-  "name": "Nekra",
-  "url": "https://en.wikipedia.org/wiki/Nekra",
-  "realName": "Nekra Sinclair",
+  "aliases": "Adrienne Hatros",
   "creators": [
     "Steve Gerber",
     "Ross Andru"
   ],
-  "teams": [
-    "Lethal Legion",
-    "Black Spectre"
-  ],
-  "aliases": "Adrienne Hatros",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/Nekra%28comics%29.jpg",
+    "width": "229"
+  },
+  "name": "Nekra",
+  "pageviews": 1600,
   "partners": [
     "Mandrill"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Hate and rage build superhuman power and invulnerability",
     "Magical knowledge and skills for creating zombies",
     "fangs and claws"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/Nekra%28comics%29.jpg",
-    "width": "229",
-    "height": "375"
-  },
-  "pageviews": 1600
+  "realName": "Nekra Sinclair",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Lethal Legion",
+    "Black Spectre"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nekra"
 }

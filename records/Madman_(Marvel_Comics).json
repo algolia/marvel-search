@@ -1,27 +1,30 @@
 {
-  "name": "Madman",
-  "url": "https://en.wikipedia.org/wiki/Madman_(Marvel_Comics)",
-  "realName": "Phillip Sterns",
+  "aliases": "",
   "creators": [
     "Peter David"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "287",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Madman_%28Marvel_Comics%29.jpg/250px-Madman_%28Marvel_Comics%29.jpg",
+    "width": "250"
+  },
+  "name": "Madman",
+  "pageviews": 2079,
   "partners": [
     "The Leader"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Vast superhuman strength",
     "Density control",
     "Size manipulation",
     "Shapeshifting"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Madman_%28Marvel_Comics%29.jpg/250px-Madman_%28Marvel_Comics%29.jpg",
-    "width": "250",
-    "height": "287"
-  },
-  "pageviews": 2079
+  "realName": "Phillip Sterns",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Madman_(Marvel_Comics)"
 }

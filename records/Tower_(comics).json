@@ -1,24 +1,27 @@
 {
-  "name": "Tower",
-  "url": "https://en.wikipedia.org/wiki/Tower_(comics)",
-  "realName": "Edward Pasternak",
+  "aliases": "",
   "creators": [
     "Bob Layton",
     "Jackson Guice"
   ],
-  "teams": [
-    "Alliance of Evil"
+  "image": {
+  },
+  "name": "Tower",
+  "pageviews": 1126,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "increase his size",
     "mass and strength"
   ],
-  "image": {},
-  "pageviews": 1126
+  "realName": "Edward Pasternak",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Alliance of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tower_(comics)"
 }

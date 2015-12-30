@@ -1,33 +1,35 @@
 {
-  "name": "The Leader",
-  "url": "https://en.wikipedia.org/wiki/Leader_(comics)",
-  "realName": "Samuel Sterns",
+  "aliases": "Red Leader",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
+  ],
+  "image": {
+    "height": "404",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/29/Leaderhulk.PNG",
+    "width": "208"
+  },
+  "name": "The Leader",
+  "pageviews": 17488,
+  "partners": [
+    "Abomination",
+    "Chameleon",
+    "Madman"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Genius-level genetic engineer and mastermind",
+    "Superhuman intelligence and probability evaluation",
+    "Psionic powers"
+  ],
+  "realName": "Samuel Sterns",
+  "species": [
   ],
   "teams": [
     "Intelligencia",
     "Riot Squad",
     "Thunderbolts"
   ],
-  "aliases": "Red Leader",
-  "species": [],
-  "partners": [
-    "Abomination",
-    "Chameleon",
-    "Madman"
-  ],
-  "powers": [],
-  "powersText": [
-    "Genius-level genetic engineer and mastermind",
-    "Superhuman intelligence and probability evaluation",
-    "Psionic powers"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/29/Leaderhulk.PNG",
-    "width": "208",
-    "height": "404"
-  },
-  "pageviews": 17488
+  "url": "https://en.wikipedia.org/wiki/Leader_(comics)"
 }

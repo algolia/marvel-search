@@ -1,24 +1,21 @@
 {
-  "name": "Ghost Rider",
-  "url": "https://en.wikipedia.org/wiki/Ghost_Rider_(Johnny_Blaze)",
-  "realName": "Johnny Blaze",
+  "aliases": "Frank Ryder",
   "creators": [
     "Roy Thomas",
     "Gary Friedrich",
     "Mike Ploog"
   ],
-  "teams": [
-    "Champions",
-    "Defenders",
-    "Heroes for Hire",
-    "Legion of Monsters",
-    "Midnight Sons",
-    "Thunderbolts"
+  "image": {
+    "height": "385",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/GhostRiderCVR001b.jpg/250px-GhostRiderCVR001b.jpg",
+    "width": "250"
+  },
+  "name": "Ghost Rider",
+  "pageviews": 18221,
+  "partners": [
   ],
-  "aliases": "Frank Ryder",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "agility",
@@ -40,10 +37,16 @@
     "Wields shotgun that can produce Hellfire",
     "Regeneration"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/GhostRiderCVR001b.jpg/250px-GhostRiderCVR001b.jpg",
-    "width": "250",
-    "height": "385"
-  },
-  "pageviews": 18221
+  "realName": "Johnny Blaze",
+  "species": [
+  ],
+  "teams": [
+    "Champions",
+    "Defenders",
+    "Heroes for Hire",
+    "Legion of Monsters",
+    "Midnight Sons",
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ghost_Rider_(Johnny_Blaze)"
 }

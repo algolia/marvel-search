@@ -1,29 +1,32 @@
 {
-  "name": "Cipher (Marvel Comics)",
-  "url": "https://en.wikipedia.org/wiki/Cipher_(comics)",
-  "realName": "Alisa Tager",
+  "aliases": "",
   "creators": [
     "Marc Guggenheim",
     "Rafa Sandoval"
+  ],
+  "image": {
+    "height": "341",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/X-men_Cipher_main.jpg/250px-X-men_Cipher_main.jpg",
+    "width": "250"
+  },
+  "name": "Cipher (Marvel Comics)",
+  "pageviews": 2530,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Invisibility",
+    "phasing/intangibility",
+    "complete stealth"
+  ],
+  "realName": "Alisa Tager",
+  "species": [
   ],
   "teams": [
     "X-Men-In-Training",
     "Young X-Men",
     "Jean Grey School Students"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Invisibility",
-    "phasing/intangibility",
-    "complete stealth"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/X-men_Cipher_main.jpg/250px-X-men_Cipher_main.jpg",
-    "width": "250",
-    "height": "341"
-  },
-  "pageviews": 2530
+  "url": "https://en.wikipedia.org/wiki/Cipher_(comics)"
 }

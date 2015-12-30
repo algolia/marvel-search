@@ -1,27 +1,29 @@
 {
-  "name": "Blue Blade",
-  "url": "https://en.wikipedia.org/wiki/Blue_Blade",
-  "realName": "Roy Chambers",
+  "aliases": "",
   "creators": [
     "Syd Shores",
     "Charles Nicholas"
   ],
-  "teams": [
-    "The Twelve"
+  "image": {
+    "height": "344",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Blue_Blade.jpg",
+    "width": "250"
+  },
+  "name": "Blue Blade",
+  "pageviews": 825,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "fencer"
   ],
   "powersText": [
     "Expert fencer"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Blue_Blade.jpg",
-    "width": "250",
-    "height": "344"
-  },
-  "pageviews": 825
+  "realName": "Roy Chambers",
+  "species": [
+  ],
+  "teams": [
+    "The Twelve"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Blue_Blade"
 }

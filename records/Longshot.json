@@ -1,22 +1,18 @@
 {
-  "name": "Longshot",
-  "url": "https://en.wikipedia.org/wiki/Longshot",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Ann Nocenti",
     "Art Adams"
   ],
-  "teams": [
-    "X-Factor Investigations",
-    "New Excalibur",
-    "Exiles",
-    "X-Men"
+  "image": {
+    "height": "294",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Longshot2.JPG/249px-Longshot2.JPG",
+    "width": "249"
+  },
+  "name": "Longshot",
+  "pageviews": 11228,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "mutant"
-  ],
-  "partners": [],
   "powers": [
     "Psychometry",
     "Probability manipulation",
@@ -36,10 +32,15 @@
     "Proficient in the use of firearms",
     "Healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Longshot2.JPG/249px-Longshot2.JPG",
-    "width": "249",
-    "height": "294"
-  },
-  "pageviews": 11228
+  "realName": null,
+  "species": [
+    "mutant"
+  ],
+  "teams": [
+    "X-Factor Investigations",
+    "New Excalibur",
+    "Exiles",
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Longshot"
 }

@@ -1,26 +1,29 @@
 {
-  "name": "Golden Girl",
-  "url": "https://en.wikipedia.org/wiki/Golden_Girl",
-  "realName": "Betsy Ross",
+  "aliases": "",
   "creators": [
     "Joe Simon",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "323",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GoldenGirl.jpg/200px-GoldenGirl.jpg",
+    "width": "200"
+  },
+  "name": "Golden Girl",
+  "pageviews": 5116,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Wears bulletproof cape"
+  ],
+  "realName": "Betsy Ross",
+  "species": [
   ],
   "teams": [
     "Women's Auxiliary Army Corps",
     "All-Winners Squad"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Wears bulletproof cape"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GoldenGirl.jpg/200px-GoldenGirl.jpg",
-    "width": "200",
-    "height": "323"
-  },
-  "pageviews": 5116
+  "url": "https://en.wikipedia.org/wiki/Golden_Girl"
 }

@@ -1,24 +1,27 @@
 {
-  "name": "Charlotte Jones",
-  "url": "https://en.wikipedia.org/wiki/Charlotte_Jones_(comics)",
-  "realName": "Charlotte Jones",
+  "aliases": "",
   "creators": [
     "Louise Simonson",
     "Terry Shoemaker"
+  ],
+  "image": {
+  },
+  "name": "Charlotte Jones",
+  "pageviews": 619,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "unknown."
+  ],
+  "realName": "Charlotte Jones",
+  "species": [
+    "Human Latent Mutant"
   ],
   "teams": [
     "NYPD",
     "X-Men"
   ],
-  "aliases": "",
-  "species": [
-    "Human Latent Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "unknown."
-  ],
-  "image": {},
-  "pageviews": 619
+  "url": "https://en.wikipedia.org/wiki/Charlotte_Jones_(comics)"
 }

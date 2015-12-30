@@ -1,23 +1,27 @@
 {
-  "name": "Kazann",
-  "url": "https://en.wikipedia.org/wiki/Kazann",
-  "realName": "Micah",
+  "aliases": "",
   "creators": [
     "Garth Ennis",
     "Clayton Crain"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Demon"
+  "image": {
+  },
+  "name": "Kazann",
+  "pageviews": 524,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Naturally bodiless",
     "but able to manifest by constructing a physical form from the bodies of others. Able to heal others. Extensive magical powers",
     "exact limits undefined."
   ],
-  "image": {},
-  "pageviews": 524
+  "realName": "Micah",
+  "species": [
+    "Demon"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kazann"
 }

@@ -1,15 +1,15 @@
 {
-  "name": "T-Ray",
-  "url": "https://en.wikipedia.org/wiki/T-Ray_(comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Joe Kelly",
     "Ed McGuiness"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+  },
+  "name": "T-Ray",
+  "pageviews": 4323,
+  "partners": [
+  ],
   "powers": [
     "Zombie",
     "voodoo",
@@ -21,6 +21,10 @@
     "knowledge of magical voodoo rituals",
     "fourth wall awareness"
   ],
-  "image": {},
-  "pageviews": 4323
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/T-Ray_(comics)"
 }

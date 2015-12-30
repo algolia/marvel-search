@@ -1,17 +1,23 @@
 {
-  "name": "Omega",
-  "url": "https://en.wikipedia.org/wiki/Omega_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Ross Andru"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 577
+  "image": {
+  },
+  "name": "Omega",
+  "pageviews": 577,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Omega_(Marvel_Comics)"
 }

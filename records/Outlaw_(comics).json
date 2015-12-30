@@ -1,30 +1,32 @@
 {
-  "name": "Outlaw",
-  "url": "https://en.wikipedia.org/wiki/Outlaw_(comics)",
-  "realName": "Inez Temple",
+  "aliases": "Crazy Inez",
   "creators": [
     "Gail Simone"
   ],
-  "teams": [
-    "Agency X",
-    "The 198"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/6/61/Agent_X_02_Udon_Studios.jpg",
+    "width": "250"
+  },
+  "name": "Outlaw",
+  "pageviews": 3514,
+  "partners": [
   ],
-  "aliases": "Crazy Inez",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Minimal superhuman strength",
     "Enhanced resistance to injury",
     "Healing factor",
     "Use of firearms and a lasso"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/61/Agent_X_02_Udon_Studios.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 3514
+  "realName": "Inez Temple",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Agency X",
+    "The 198"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Outlaw_(comics)"
 }

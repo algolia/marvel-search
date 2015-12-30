@@ -1,32 +1,34 @@
 {
-  "name": "Spyke",
-  "url": "https://en.wikipedia.org/wiki/Spyke",
-  "realName": "Evan Daniels",
+  "aliases": "Armadillo, Porcupine",
   "creators": [
     "Robert N. Skir",
     "Steven E. Gordon"
   ],
-  "teams": [
-    "The Morlocks",
-    "X-Men",
-    "Brotherhood of Mutants"
+  "image": {
+    "height": "337",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Spyke.jpg/220px-Spyke.jpg",
+    "width": "220"
+  },
+  "name": "Spyke",
+  "pageviews": 4942,
+  "partners": [
   ],
-  "aliases": "Armadillo, Porcupine",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Can extend self-repairing exoskeleton",
     "Projectile spikes",
     "Later able to produce flaming spikes",
     "Enhanced strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Spyke.jpg/220px-Spyke.jpg",
-    "width": "220",
-    "height": "337"
-  },
-  "pageviews": 4942
+  "realName": "Evan Daniels",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "The Morlocks",
+    "X-Men",
+    "Brotherhood of Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spyke"
 }

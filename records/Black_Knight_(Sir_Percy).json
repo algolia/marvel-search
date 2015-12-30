@@ -1,15 +1,18 @@
 {
-  "name": "Black Knight",
-  "url": "https://en.wikipedia.org/wiki/Black_Knight_(Sir_Percy)",
-  "realName": "Sir Percy of Scandia",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Joe Maneely"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "336",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/BlackKnight_Atlas1.jpg/220px-BlackKnight_Atlas1.jpg",
+    "width": "220"
+  },
+  "name": "Black Knight",
+  "pageviews": 1255,
+  "partners": [
+  ],
   "powers": [
     "Ebony Blade"
   ],
@@ -22,10 +25,10 @@
     "Wears impenetrable body armor and helmet",
     "Wields enchanted Ebony Blade"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/BlackKnight_Atlas1.jpg/220px-BlackKnight_Atlas1.jpg",
-    "width": "220",
-    "height": "336"
-  },
-  "pageviews": 1255
+  "realName": "Sir Percy of Scandia",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Knight_(Sir_Percy)"
 }

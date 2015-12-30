@@ -1,25 +1,28 @@
 {
-  "name": "Bob",
-  "url": "https://en.wikipedia.org/wiki/Bob,_Agent_of_Hydra",
-  "realName": "Robert",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza"
+  ],
+  "image": {
+    "height": "439",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/BobAgentofHydra.jpg/250px-BobAgentofHydra.jpg",
+    "width": "250"
+  },
+  "name": "Bob",
+  "pageviews": 174808,
+  "partners": [
+    "Deadpool"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Robert",
+  "species": [
   ],
   "teams": [
     "Agency X",
     "Hydra"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [
-    "Deadpool"
-  ],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/BobAgentofHydra.jpg/250px-BobAgentofHydra.jpg",
-    "width": "250",
-    "height": "439"
-  },
-  "pageviews": 174808
+  "url": "https://en.wikipedia.org/wiki/Bob,_Agent_of_Hydra"
 }

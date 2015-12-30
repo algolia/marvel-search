@@ -1,19 +1,20 @@
 {
-  "name": "Thunderstrike",
-  "url": "https://en.wikipedia.org/wiki/Thunderstrike_(Kevin_Masterson)",
-  "realName": "Kevin \"The\" Masterson",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [
-    "A-Next",
-    "Avengers Academy"
+  "image": {
+    "height": "409",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/ThunderstrikeHA.jpg/250px-ThunderstrikeHA.jpg",
+    "width": "250"
+  },
+  "name": "Thunderstrike",
+  "pageviews": 2042,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(MC2)",
     "Superhuman strength and durability",
@@ -30,10 +31,12 @@
     "Flight",
     "Dimensional travel"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/ThunderstrikeHA.jpg/250px-ThunderstrikeHA.jpg",
-    "width": "250",
-    "height": "409"
-  },
-  "pageviews": 2042
+  "realName": "Kevin \"The\" Masterson",
+  "species": [
+  ],
+  "teams": [
+    "A-Next",
+    "Avengers Academy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thunderstrike_(Kevin_Masterson)"
 }

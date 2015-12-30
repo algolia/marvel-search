@@ -1,23 +1,27 @@
 {
-  "name": "Magician",
-  "url": "https://en.wikipedia.org/wiki/Magician_(comics)",
-  "realName": "Lee Guardineer",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Dick Ayers"
   ],
-  "teams": [],
-  "aliases": "",
+  "image": {
+    "height": "385",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/XMEN_Magician.jpg",
+    "width": "250"
+  },
+  "name": "Magician",
+  "pageviews": 1444,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Lee Guardineer",
   "species": [
     "Human"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/XMEN_Magician.jpg",
-    "width": "250",
-    "height": "385"
-  },
-  "pageviews": 1444
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Magician_(comics)"
 }

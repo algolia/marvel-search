@@ -1,10 +1,31 @@
 {
-  "name": "Sunfire",
-  "url": "https://en.wikipedia.org/wiki/Sunfire_(comics)",
-  "realName": "Shiro Yoshida",
+  "aliases": "Famine",
   "creators": [
     "Roy Thomas",
     "Don Heck"
+  ],
+  "image": {
+    "height": "237",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Sunfirex.PNG/225px-Sunfirex.PNG",
+    "width": "225"
+  },
+  "name": "Sunfire",
+  "pageviews": 14816,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Flight",
+    "Plasma blasts",
+    "Ability to view infrared",
+    "Radiation immunity As Horsemen of Famine:",
+    "Ability to emit hunger-inducing light"
+  ],
+  "realName": "Shiro Yoshida",
+  "species": [
+    "Human Mutant",
+    "Human Mutate"
   ],
   "teams": [
     "Avengers Unity Squad",
@@ -17,24 +38,5 @@
     "Big Hero 6",
     "Marauders"
   ],
-  "aliases": "Famine",
-  "species": [
-    "Human Mutant",
-    "Human Mutate"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Flight",
-    "Plasma blasts",
-    "Ability to view infrared",
-    "Radiation immunity As Horsemen of Famine:",
-    "Ability to emit hunger-inducing light"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Sunfirex.PNG/225px-Sunfirex.PNG",
-    "width": "225",
-    "height": "237"
-  },
-  "pageviews": 14816
+  "url": "https://en.wikipedia.org/wiki/Sunfire_(comics)"
 }

@@ -1,26 +1,29 @@
 {
-  "name": "Ink",
-  "url": "https://en.wikipedia.org/wiki/Ink_(comics)",
-  "realName": "Eric Gitter",
+  "aliases": "",
   "creators": [
     "Marc Guggenheim",
     "Yanick Paquette"
+  ],
+  "image": {
+    "height": "315",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Ink_Wiki.png/200px-Ink_Wiki.png",
+    "width": "200"
+  },
+  "name": "Ink",
+  "pageviews": 5147,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Iconic tattoos on his body grant him several abilities."
+  ],
+  "realName": "Eric Gitter",
+  "species": [
   ],
   "teams": [
     "X-Men-In-Training",
     "Young X-Men"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Iconic tattoos on his body grant him several abilities."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Ink_Wiki.png/200px-Ink_Wiki.png",
-    "width": "200",
-    "height": "315"
-  },
-  "pageviews": 5147
+  "url": "https://en.wikipedia.org/wiki/Ink_(comics)"
 }

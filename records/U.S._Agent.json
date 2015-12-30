@@ -1,10 +1,34 @@
 {
-  "name": "U.S. Agent",
-  "url": "https://en.wikipedia.org/wiki/U.S._Agent",
-  "realName": "John F. Walker",
+  "aliases": "Jack Daniels, Super-Patriot, Captain America",
   "creators": [
     "Mark Gruenwald",
     "Paul Neary"
+  ],
+  "image": {
+    "height": "354",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Usagent.jpg/250px-Usagent.jpg",
+    "width": "250"
+  },
+  "name": "U.S. Agent",
+  "pageviews": 17356,
+  "partners": [
+    "Battlestar"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Exceptional hand-to-hand combatant",
+    "Highly trained acrobat and gymnast",
+    "Superhuman strength",
+    "agility",
+    "reflexes/reactions and endurance",
+    "Peak-level speed",
+    "dexterity",
+    "coordination and balance",
+    "Use of nearly indestructible shield and firearms"
+  ],
+  "realName": "John F. Walker",
+  "species": [
   ],
   "teams": [
     "Mighty Avengers",
@@ -18,27 +42,5 @@
     "Commission on Superhuman Activities",
     "Astonishing Avengers"
   ],
-  "aliases": "Jack Daniels, Super-Patriot, Captain America",
-  "species": [],
-  "partners": [
-    "Battlestar"
-  ],
-  "powers": [],
-  "powersText": [
-    "Exceptional hand-to-hand combatant",
-    "Highly trained acrobat and gymnast",
-    "Superhuman strength",
-    "agility",
-    "reflexes/reactions and endurance",
-    "Peak-level speed",
-    "dexterity",
-    "coordination and balance",
-    "Use of nearly indestructible shield and firearms"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Usagent.jpg/250px-Usagent.jpg",
-    "width": "250",
-    "height": "354"
-  },
-  "pageviews": 17356
+  "url": "https://en.wikipedia.org/wiki/U.S._Agent"
 }

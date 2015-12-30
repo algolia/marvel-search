@@ -1,26 +1,30 @@
 {
-  "name": "Cardinal",
-  "url": "https://en.wikipedia.org/wiki/Cardinal_(comics)",
-  "realName": "Donald Joshua Clendenon",
+  "aliases": "Harrier",
   "creators": [
     "Fabian Nicieza",
     "Darick Robertson"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Masters of Evil",
-    "United States Air Force"
+  "image": {
+  },
+  "name": "Cardinal",
+  "pageviews": 873,
+  "partners": [
   ],
-  "aliases": "Harrier",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Powered armor grants:",
     "Superhuman strength and physical resistance",
     "Flight",
     "Various offensive weaponry"
   ],
-  "image": {},
-  "pageviews": 873
+  "realName": "Donald Joshua Clendenon",
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Masters of Evil",
+    "United States Air Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cardinal_(comics)"
 }

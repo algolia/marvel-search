@@ -1,7 +1,5 @@
 {
-  "name": "Marvel Boy",
-  "url": "https://en.wikipedia.org/wiki/Marvel_Boy",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Joe Simon",
     "Jack Kirby",
@@ -9,10 +7,15 @@
     "Stan Lee",
     "Russ Heath"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "295",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/MarvelBoy1-1950.jpg/210px-MarvelBoy1-1950.jpg",
+    "width": "210"
+  },
+  "name": "Marvel Boy",
+  "pageviews": 2489,
+  "partners": [
+  ],
   "powers": [
     "Telepathy"
   ],
@@ -20,10 +23,10 @@
     "Telepathy",
     "Light blasts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/MarvelBoy1-1950.jpg/210px-MarvelBoy1-1950.jpg",
-    "width": "210",
-    "height": "295"
-  },
-  "pageviews": 2489
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Marvel_Boy"
 }

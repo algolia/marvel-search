@@ -1,20 +1,21 @@
 {
-  "name": "Maelstrom",
-  "url": "https://en.wikipedia.org/wiki/Maelstrom_(comics)",
-  "realName": null,
+  "aliases": "Anomaly, Cosmic Assassin, Malcolm Stromberg",
   "creators": [
     "Mark Gruenwald",
     "Ralph Macchio",
     "Ron Wilson"
   ],
-  "teams": [],
-  "aliases": "Anomaly, Cosmic Assassin, Malcolm Stromberg",
-  "species": [
-    "Deviant",
-    "Inhuman"
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/MTIO-72.png/250px-MTIO-72.png",
+    "width": "250"
+  },
+  "name": "Maelstrom",
+  "pageviews": 3569,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius biologist and geneticist",
     "Kinetic energy manipulation",
@@ -22,10 +23,12 @@
     "Formerly:",
     "Use of quantum bands that absorbed virtually unlimited energy from the \"quantum zone\""
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/MTIO-72.png/250px-MTIO-72.png",
-    "width": "250",
-    "height": "388"
-  },
-  "pageviews": 3569
+  "realName": null,
+  "species": [
+    "Deviant",
+    "Inhuman"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Maelstrom_(comics)"
 }

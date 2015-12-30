@@ -1,31 +1,32 @@
 {
-  "name": "Revolutionary",
-  "url": "https://en.wikipedia.org/wiki/Revolutionary_(comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Dan Slott",
     "Christos Gage",
     "Patrick Scherberger"
   ],
-  "teams": [
-    "Skrull Empire",
-    "Liberteens"
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Revolutionary.jpg/250px-Revolutionary.jpg",
+    "width": "250"
+  },
+  "name": "Revolutionary",
+  "pageviews": 520,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Skrull"
-  ],
-  "partners": [],
   "powers": [
     "Shapeshifter"
   ],
   "powersText": [
     "Shapeshifter"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Revolutionary.jpg/250px-Revolutionary.jpg",
-    "width": "250",
-    "height": "300"
-  },
-  "pageviews": 520
+  "realName": "",
+  "species": [
+    "Skrull"
+  ],
+  "teams": [
+    "Skrull Empire",
+    "Liberteens"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Revolutionary_(comics)"
 }

@@ -1,23 +1,27 @@
 {
-  "name": "Null",
-  "url": "https://en.wikipedia.org/wiki/Null_(comics)",
-  "realName": null,
+  "aliases": "Adam Henderson, the Over-Mind",
   "creators": [
     "J. M. DeMatteis",
     "Don Perlin"
   ],
-  "teams": [],
-  "aliases": "Adam Henderson, the Over-Mind",
-  "species": [
-    "Demon"
+  "image": {
+  },
+  "name": "Null",
+  "pageviews": 732,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Nearly unlimited magic manipulation",
     "Immeasurable intelligence",
     "Enhanced stamina and durability"
   ],
-  "image": {},
-  "pageviews": 732
+  "realName": null,
+  "species": [
+    "Demon"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Null_(comics)"
 }

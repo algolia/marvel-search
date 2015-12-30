@@ -1,21 +1,25 @@
 {
-  "name": "Venomm",
-  "url": "https://en.wikipedia.org/wiki/Venomm",
-  "realName": "Horatio Walters",
+  "aliases": "",
   "creators": [
     "Don McGregor",
     "Rich Buckler"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human"
-  ],
+  "image": {
+  },
+  "name": "Venomm",
+  "pageviews": 795,
   "partners": [
     "Killmonger"
   ],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 795
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Horatio Walters",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Venomm"
 }

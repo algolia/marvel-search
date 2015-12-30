@@ -1,25 +1,29 @@
 {
-  "name": "The Clown",
-  "url": "https://en.wikipedia.org/wiki/Clown_(comics)",
-  "realName": "Eliot Franklin",
+  "aliases": "Crafty, Griffin, Funny Man, Crafty Clown",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Circus of Crime",
-    "Gamma Corps"
+  "image": {
+  },
+  "name": "The Clown",
+  "pageviews": 1341,
+  "partners": [
   ],
-  "aliases": "Crafty, Griffin, Funny Man, Crafty Clown",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Use of clown paraphernalia",
     "(As a Harpy-like man):",
     "Sharp claws and talons",
     "Ability to spit a slimy corrosive venom"
   ],
-  "image": {},
-  "pageviews": 1341
+  "realName": "Eliot Franklin",
+  "species": [
+  ],
+  "teams": [
+    "Circus of Crime",
+    "Gamma Corps"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Clown_(comics)"
 }

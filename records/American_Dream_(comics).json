@@ -1,19 +1,20 @@
 {
-  "name": "American Dream",
-  "url": "https://en.wikipedia.org/wiki/American_Dream_(comics)",
-  "realName": "Shannon Carter",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Brent Anderson"
   ],
-  "teams": [
-    "A-Next",
-    "Dream Team"
+  "image": {
+    "height": "298",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/American_Dream_%28Shannon_Carter%29.jpg/200px-American_Dream_%28Shannon_Carter%29.jpg",
+    "width": "200"
+  },
+  "name": "American Dream",
+  "pageviews": 5660,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Olympic level athlete",
     "Skilled martial artist",
@@ -22,10 +23,12 @@
     "Carries an indestructible shield",
     "Use of disc weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/American_Dream_%28Shannon_Carter%29.jpg/200px-American_Dream_%28Shannon_Carter%29.jpg",
-    "width": "200",
-    "height": "298"
-  },
-  "pageviews": 5660
+  "realName": "Shannon Carter",
+  "species": [
+  ],
+  "teams": [
+    "A-Next",
+    "Dream Team"
+  ],
+  "url": "https://en.wikipedia.org/wiki/American_Dream_(comics)"
 }

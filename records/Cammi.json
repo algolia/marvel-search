@@ -1,17 +1,23 @@
 {
-  "name": "Cammi",
-  "url": "https://en.wikipedia.org/wiki/Cammi",
-  "realName": "Camille Benally",
+  "aliases": "",
   "creators": [
     "Keith Giffen",
     "Mitch Breitweiser"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 880
+  "image": {
+  },
+  "name": "Cammi",
+  "pageviews": 880,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Camille Benally",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cammi"
 }

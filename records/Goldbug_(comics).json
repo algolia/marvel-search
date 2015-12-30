@@ -1,18 +1,17 @@
 {
-  "name": "Goldbug",
-  "url": "https://en.wikipedia.org/wiki/Goldbug_(comics)",
-  "realName": "Matthew Gilden",
+  "aliases": "Jack Smith",
   "creators": [
     "Marv Wolfman",
     "Lee Elias"
   ],
-  "teams": [
-    "Maggia"
+  "image": {
+  },
+  "name": "Goldbug",
+  "pageviews": 890,
+  "partners": [
   ],
-  "aliases": "Jack Smith",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Talented inventor",
     "Criminal strategist",
@@ -25,6 +24,11 @@
     "Superhuman strength",
     "Wafer-thin parachute"
   ],
-  "image": {},
-  "pageviews": 890
+  "realName": "Matthew Gilden",
+  "species": [
+  ],
+  "teams": [
+    "Maggia"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Goldbug_(comics)"
 }

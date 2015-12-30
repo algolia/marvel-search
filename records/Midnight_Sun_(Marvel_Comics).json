@@ -1,19 +1,21 @@
 {
-  "name": "Midnight Sun",
-  "url": "https://en.wikipedia.org/wiki/Midnight_Sun_(Marvel_Comics)",
-  "realName": "M'Nai",
+  "aliases": "Midnight",
   "creators": [
     "Steve Englehart",
     "Jim Starlin",
     "Al Milgrom"
   ],
-  "teams": [
-    "Legion of the Unliving"
+  "image": {
+    "height": "365",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/MidnightSun02.JPG/250px-MidnightSun02.JPG",
+    "width": "250"
+  },
+  "name": "Midnight Sun",
+  "pageviews": 1404,
+  "partners": [
   ],
-  "aliases": "Midnight",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Expert in martial arts and stealth",
     "Superhuman strength",
@@ -22,10 +24,11 @@
     "and reflexes",
     "Ability to travel and survive vacuum of space"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/MidnightSun02.JPG/250px-MidnightSun02.JPG",
-    "width": "250",
-    "height": "365"
-  },
-  "pageviews": 1404
+  "realName": "M'Nai",
+  "species": [
+  ],
+  "teams": [
+    "Legion of the Unliving"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Midnight_Sun_(Marvel_Comics)"
 }

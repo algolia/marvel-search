@@ -1,10 +1,30 @@
 {
-  "name": "Beast",
-  "url": "https://en.wikipedia.org/wiki/Beast_(comics)",
-  "realName": "Henry Philip \"Hank\" McCoy",
+  "aliases": "Blue Gorilla, Kreature, Mutate #666",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "318",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/HenryMcCoy-Beast.jpg/250px-HenryMcCoy-Beast.jpg",
+    "width": "250"
+  },
+  "name": "Beast",
+  "pageviews": 37394,
+  "partners": [
+  ],
+  "powers": [
+    "Genius"
+  ],
+  "powersText": [
+    "Animal-like physiology with razor sharp claws and teeth",
+    "Genius-level intellect",
+    "Enhanced physical attributes",
+    "Pheromone manipulation"
+  ],
+  "realName": "Henry Philip \"Hank\" McCoy",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Men",
@@ -19,24 +39,5 @@
     "Jean Grey School",
     "All New X-Men"
   ],
-  "aliases": "Blue Gorilla, Kreature, Mutate #666",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "Genius"
-  ],
-  "powersText": [
-    "Animal-like physiology with razor sharp claws and teeth",
-    "Genius-level intellect",
-    "Enhanced physical attributes",
-    "Pheromone manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/HenryMcCoy-Beast.jpg/250px-HenryMcCoy-Beast.jpg",
-    "width": "250",
-    "height": "318"
-  },
-  "pageviews": 37394
+  "url": "https://en.wikipedia.org/wiki/Beast_(comics)"
 }

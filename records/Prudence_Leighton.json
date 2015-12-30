@@ -1,24 +1,27 @@
 {
-  "name": "Quiet Man",
-  "url": "https://en.wikipedia.org/wiki/Prudence_Leighton",
-  "realName": "Prudence Leighton / Steinbeck",
+  "aliases": "Agent 16",
   "creators": [
     "Brian K. Vaughan",
     "Jorge Lucas"
   ],
-  "teams": [
-    "X-Corporation"
+  "image": {
+  },
+  "name": "Quiet Man",
+  "pageviews": 550,
+  "partners": [
   ],
-  "aliases": "Agent 16",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Prudence: Telepath capable of projecting her consciousness into the body of other women",
     "Steinbeck: Pyrokinetic capable of spewing flames from his throat"
   ],
-  "image": {},
-  "pageviews": 550
+  "realName": "Prudence Leighton / Steinbeck",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Corporation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Prudence_Leighton"
 }

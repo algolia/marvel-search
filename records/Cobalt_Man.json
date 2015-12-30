@@ -1,25 +1,28 @@
 {
-  "name": "Cobalt Man",
-  "url": "https://en.wikipedia.org/wiki/Cobalt_Man",
-  "realName": "Ralph Roberts",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Werner Roth"
   ],
-  "teams": [
-    "Emissaries of Evil"
+  "image": {
+    "height": "263",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cobalt_Man.jpg/250px-Cobalt_Man.jpg",
+    "width": "250"
+  },
+  "name": "Cobalt Man",
+  "pageviews": 1856,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Power armor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cobalt_Man.jpg/250px-Cobalt_Man.jpg",
-    "width": "250",
-    "height": "263"
-  },
-  "pageviews": 1856
+  "realName": "Ralph Roberts",
+  "species": [
+  ],
+  "teams": [
+    "Emissaries of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cobalt_Man"
 }

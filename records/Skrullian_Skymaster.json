@@ -1,19 +1,16 @@
 {
-  "name": "Skrullian Skymaster",
-  "url": "https://en.wikipedia.org/wiki/Skrullian_Skymaster",
-  "realName": "Sk'ym'x",
+  "aliases": "James Doe, the Skrull, Skymax.",
   "creators": [
     "Mark Gruenwald"
   ],
-  "teams": [
-    "Squadron Supreme"
+  "image": {
+  },
+  "name": "Skrullian Skymaster",
+  "pageviews": 2045,
+  "partners": [
   ],
-  "aliases": "James Doe, the Skrull, Skymax.",
-  "species": [
-    "Skrull"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength greater than a normal Skrull",
     "Flight",
@@ -25,6 +22,12 @@
     "Excellent hand-to-hand combatant",
     "Accomplished pilot"
   ],
-  "image": {},
-  "pageviews": 2045
+  "realName": "Sk'ym'x",
+  "species": [
+    "Skrull"
+  ],
+  "teams": [
+    "Squadron Supreme"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Skrullian_Skymaster"
 }

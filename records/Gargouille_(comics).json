@@ -1,21 +1,21 @@
 {
-  "name": "Gargouille",
-  "url": "https://en.wikipedia.org/wiki/Gargouille_(comics)",
-  "realName": "Lavinia LeBlanc",
+  "aliases": "",
   "creators": [
     "John Ostrander",
     "Joe Edkin",
     "Ivan Reis"
   ],
-  "teams": [
-    "Acolytes"
+  "image": {
+    "height": "245",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/87/XMEN-Gargouille.jpg",
+    "width": "250"
+  },
+  "name": "Gargouille",
+  "pageviews": 484,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -28,10 +28,12 @@
     "Flight",
     "Talons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/87/XMEN-Gargouille.jpg",
-    "width": "250",
-    "height": "245"
-  },
-  "pageviews": 484
+  "realName": "Lavinia LeBlanc",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Acolytes"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gargouille_(comics)"
 }

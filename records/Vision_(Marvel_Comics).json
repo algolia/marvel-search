@@ -1,7 +1,5 @@
 {
-  "name": "Vision",
-  "url": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "Golden Age Vision:<br />Aarkus<br />Silver Age Vision:<br />Victor Shade<br />Modern Age Vision:<br />Jonas",
   "creators": [
     "Joe Simon",
     "Jack Kirby",
@@ -9,17 +7,15 @@
     "Stan Lee",
     "John Buscema"
   ],
-  "teams": [
-    "Avengers",
-    "West Coast Avengers",
-    "Avengers A.I.",
-    "Defenders",
-    "Young Avengers",
-    "Mighty Avengers"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Avengers_Vol_4_24.1.jpg/250px-Avengers_Vol_4_24.1.jpg",
+    "width": "250"
+  },
+  "name": "Vision",
+  "pageviews": 219072,
+  "partners": [
   ],
-  "aliases": "Golden Age Vision:<br />Aarkus<br />Silver Age Vision:<br />Victor Shade<br />Modern Age Vision:<br />Jonas",
-  "species": [],
-  "partners": [],
   "powers": [
     "Superhuman agility",
     "intelligence",
@@ -45,10 +41,16 @@
     "Solar energy projection",
     "Technopathy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Avengers_Vol_4_24.1.jpg/250px-Avengers_Vol_4_24.1.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 219072
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "West Coast Avengers",
+    "Avengers A.I.",
+    "Defenders",
+    "Young Avengers",
+    "Mighty Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)"
 }

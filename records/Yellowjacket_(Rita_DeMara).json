@@ -1,21 +1,20 @@
 {
-  "name": "Yellowjacket",
-  "url": "https://en.wikipedia.org/wiki/Yellowjacket_(Rita_DeMara)",
-  "realName": "Rita DeMara",
+  "aliases": "",
   "creators": [
     "Roger Stern",
     "John Buscema"
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "Masters of Evil",
-    "Femizons",
-    "Avengers"
+  "image": {
+    "height": "355",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/YellowjacketII.jpg/150px-YellowjacketII.jpg",
+    "width": "150"
+  },
+  "name": "Yellowjacket",
+  "pageviews": 5751,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Cybernetics expert",
     "Suit grants:",
@@ -23,10 +22,14 @@
     "Size manipulation",
     "Electrical bolt projection via stinger blasts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/YellowjacketII.jpg/150px-YellowjacketII.jpg",
-    "width": "150",
-    "height": "355"
-  },
-  "pageviews": 5751
+  "realName": "Rita DeMara",
+  "species": [
+  ],
+  "teams": [
+    "Guardians of the Galaxy",
+    "Masters of Evil",
+    "Femizons",
+    "Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Yellowjacket_(Rita_DeMara)"
 }

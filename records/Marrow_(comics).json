@@ -1,26 +1,19 @@
 {
-  "name": "Marrow",
-  "url": "https://en.wikipedia.org/wiki/Marrow_(comics)",
-  "realName": "Sarah",
+  "aliases": "Sarah Rushman",
   "creators": [
     "Jeph Loeb",
     "Scott Lobdell",
     "Joe Madureira"
   ],
-  "teams": [
-    "X-Cell",
-    "Morlocks",
-    "Gene Nation",
-    "X-Men",
-    "S.H.I.E.L.D.",
-    "Weapon X",
-    "X-Force"
+  "image": {
+    "height": "318",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/X-Men_Marrow.jpg/210px-X-Men_Marrow.jpg",
+    "width": "210"
+  },
+  "name": "Marrow",
+  "pageviews": 8564,
+  "partners": [
   ],
-  "aliases": "Sarah Rushman",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "controlled bone growth",
     "healing factor"
@@ -32,10 +25,18 @@
     "durability",
     "and agility"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/X-Men_Marrow.jpg/210px-X-Men_Marrow.jpg",
-    "width": "210",
-    "height": "318"
-  },
-  "pageviews": 8564
+  "realName": "Sarah",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Cell",
+    "Morlocks",
+    "Gene Nation",
+    "X-Men",
+    "S.H.I.E.L.D.",
+    "Weapon X",
+    "X-Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Marrow_(comics)"
 }

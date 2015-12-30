@@ -1,30 +1,32 @@
 {
-  "name": "Lash",
-  "url": "https://en.wikipedia.org/wiki/Lash_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Charles Soule",
     "Joe Madureira"
   ],
-  "teams": [
-    "Inhumans"
+  "image": {
+    "height": "322",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Lash_Marvel_Comics.png/250px-Lash_Marvel_Comics.png",
+    "width": "250"
+  },
+  "name": "Lash",
+  "pageviews": 96739,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Inhuman"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Energy conversion",
     "Energy manipulation",
     "Energy absorption",
     "Energy shield"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Lash_Marvel_Comics.png/250px-Lash_Marvel_Comics.png",
-    "width": "250",
-    "height": "322"
-  },
-  "pageviews": 96739
+  "realName": null,
+  "species": [
+    "Inhuman"
+  ],
+  "teams": [
+    "Inhumans"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lash_(comics)"
 }

@@ -1,20 +1,20 @@
 {
-  "name": "Ares",
-  "url": "https://en.wikipedia.org/wiki/Ares_(Marvel_Comics)",
-  "realName": "Ares",
+  "aliases": "Mars, Mister Talon, John Aaron, God of War, The Warhawk",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Dark Avengers",
-    "Mighty Avengers",
-    "Gods of Olympus"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/2c/Aresherc.png",
+    "width": "250"
+  },
+  "name": "Ares",
+  "pageviews": 9698,
+  "partners": [
   ],
-  "aliases": "Mars, Mister Talon, John Aaron, God of War, The Warhawk",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Expert armed combatant with weaponry",
     "Superhuman strength",
@@ -28,10 +28,13 @@
     "Virtual immortality",
     "Shapeshifting"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/2c/Aresherc.png",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 9698
+  "realName": "Ares",
+  "species": [
+  ],
+  "teams": [
+    "Dark Avengers",
+    "Mighty Avengers",
+    "Gods of Olympus"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ares_(Marvel_Comics)"
 }

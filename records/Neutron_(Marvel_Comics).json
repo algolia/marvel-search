@@ -1,26 +1,29 @@
 {
-  "name": "Neutron",
-  "url": "https://en.wikipedia.org/wiki/Neutron_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "Quasar",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Imperial Guard"
+  "image": {
+    "height": "171",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Nuetronwiki.jpg/250px-Nuetronwiki.jpg",
+    "width": "250"
+  },
+  "name": "Neutron",
+  "pageviews": 1320,
+  "partners": [
   ],
-  "aliases": "Quasar",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Super-Strength",
     "Enhanced Durability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Nuetronwiki.jpg/250px-Nuetronwiki.jpg",
-    "width": "250",
-    "height": "171"
-  },
-  "pageviews": 1320
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Neutron_(Marvel_Comics)"
 }

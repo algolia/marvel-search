@@ -1,19 +1,21 @@
 {
-  "name": "Shuma-Gorath",
-  "url": "https://en.wikipedia.org/wiki/Shuma-Gorath",
-  "realName": null,
+  "aliases": "Lord of Chaos",
   "creators": [
     "Robert E. Howard",
     "Steve Englehart",
     "Frank Brunner"
   ],
-  "teams": [],
-  "aliases": "Lord of Chaos",
-  "species": [
-    "Demon"
+  "image": {
+    "height": "223",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Shuma_Gorath.jpg/250px-Shuma_Gorath.jpg",
+    "width": "250"
+  },
+  "name": "Shuma-Gorath",
+  "pageviews": 12413,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Immortality",
     "Reality warping",
@@ -22,10 +24,11 @@
     "Teleportation",
     "Vast mystical powers"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Shuma_Gorath.jpg/250px-Shuma_Gorath.jpg",
-    "width": "250",
-    "height": "223"
-  },
-  "pageviews": 12413
+  "realName": null,
+  "species": [
+    "Demon"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shuma-Gorath"
 }

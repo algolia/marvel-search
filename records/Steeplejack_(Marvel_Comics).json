@@ -1,21 +1,26 @@
 {
-  "name": "Steeplejack",
-  "url": "https://en.wikipedia.org/wiki/Steeplejack_(Marvel_Comics)",
-  "realName": "Jake Mallard",
+  "aliases": "",
   "creators": [
     "Len Wein",
     "George Tuska"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Steeplejack",
+  "pageviews": 875,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Use of a multipurpose acetylene gun",
     "Body suit grants:",
     "Protection from physical attacks"
   ],
-  "image": {},
-  "pageviews": 875
+  "realName": "Jake Mallard",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Steeplejack_(Marvel_Comics)"
 }

@@ -1,10 +1,27 @@
 {
-  "name": "Gravity",
-  "url": "https://en.wikipedia.org/wiki/Gravity_(comics)",
-  "realName": "Gregory Willis",
+  "aliases": "",
   "creators": [
     "Sean McKeever",
     "Mike Norton"
+  ],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Gravity_%28comic_cover_art%29.jpg/250px-Gravity_%28comic_cover_art%29.jpg",
+    "width": "250"
+  },
+  "name": "Gravity",
+  "pageviews": 3139,
+  "partners": [
+  ],
+  "powers": [
+    "Gravity manipulation"
+  ],
+  "powersText": [
+    "Gravity manipulation"
+  ],
+  "realName": "Gregory Willis",
+  "species": [
+    "Human Mutate"
   ],
   "teams": [
     "Great Lakes Avengers",
@@ -12,21 +29,5 @@
     "Young Avengers",
     "New Warriors"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutate"
-  ],
-  "partners": [],
-  "powers": [
-    "Gravity manipulation"
-  ],
-  "powersText": [
-    "Gravity manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Gravity_%28comic_cover_art%29.jpg/250px-Gravity_%28comic_cover_art%29.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 3139
+  "url": "https://en.wikipedia.org/wiki/Gravity_(comics)"
 }

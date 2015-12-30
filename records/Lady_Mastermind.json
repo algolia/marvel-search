@@ -1,23 +1,18 @@
 {
-  "name": "Lady Mastermind",
-  "url": "https://en.wikipedia.org/wiki/Lady_Mastermind",
-  "realName": "Regan Wyngarde",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Salvador Larroca"
   ],
-  "teams": [
-    "Brotherhood of Mutants",
-    "Hellfire Club",
-    "Marauders",
-    "Sisterhood of Mutants",
-    "X-Men"
+  "image": {
+    "height": "284",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/3c/Lady_Mastermind.jpg",
+    "width": "180"
+  },
+  "name": "Lady Mastermind",
+  "pageviews": 3752,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Illusion",
     "telepathy"
@@ -26,10 +21,16 @@
     "Illusion casting",
     "Limited telepathy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/3c/Lady_Mastermind.jpg",
-    "width": "180",
-    "height": "284"
-  },
-  "pageviews": 3752
+  "realName": "Regan Wyngarde",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Brotherhood of Mutants",
+    "Hellfire Club",
+    "Marauders",
+    "Sisterhood of Mutants",
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lady_Mastermind"
 }

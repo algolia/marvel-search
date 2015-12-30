@@ -1,27 +1,30 @@
 {
-  "name": "Onyxx",
-  "url": "https://en.wikipedia.org/wiki/Onyxx",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Peter Milligan",
     "Salvador Larroca"
+  ],
+  "image": {
+    "height": "240",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Onyxx.jpg/250px-Onyxx.jpg",
+    "width": "250"
+  },
+  "name": "Onyxx",
+  "pageviews": 1010,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman strength and durability"
+  ],
+  "realName": "",
+  "species": [
   ],
   "teams": [
     "Chevaliers training squad",
     "Xavier Institute",
     "X-Men-In-Training"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman strength and durability"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Onyxx.jpg/250px-Onyxx.jpg",
-    "width": "250",
-    "height": "240"
-  },
-  "pageviews": 1010
+  "url": "https://en.wikipedia.org/wiki/Onyxx"
 }

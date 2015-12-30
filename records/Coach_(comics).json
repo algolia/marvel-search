@@ -1,20 +1,24 @@
 {
-  "name": "The Coach",
-  "url": "https://en.wikipedia.org/wiki/Coach_(comics)",
-  "realName": "unrevealed",
-  "creators": [],
-  "teams": [
-    "X-Force"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "The Coach",
+  "pageviews": 560,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength"
   ],
-  "image": {},
-  "pageviews": 560
+  "realName": "unrevealed",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Coach_(comics)"
 }

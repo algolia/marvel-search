@@ -1,22 +1,22 @@
 {
-  "name": "Vengeance",
-  "url": "https://en.wikipedia.org/wiki/Vengeance_(comics)",
-  "realName": "Lt. Michael Badilino / Deputy Kowalski",
+  "aliases": "Ghost Rider",
   "creators": [
     "Howard Mackie"
   ],
-  "teams": [
-    "New York Police Department",
-    "Midnight Sons"
-  ],
-  "aliases": "Ghost Rider",
-  "species": [],
+  "image": {
+    "height": "391",
+    "url": "https://upload.wikimedia.org/wikipedia/en/6/60/Ghost_Rider_vol_2_no_46.png",
+    "width": "250"
+  },
+  "name": "Vengeance",
+  "pageviews": 3053,
   "partners": [
     "Ghost Rider",
     "John Blaze",
     "Eddie Brock"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "Immune to most Non Magical Attack",
@@ -27,10 +27,12 @@
     "Rides flaming motorcycle",
     "\"Penance Stare\""
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/60/Ghost_Rider_vol_2_no_46.png",
-    "width": "250",
-    "height": "391"
-  },
-  "pageviews": 3053
+  "realName": "Lt. Michael Badilino / Deputy Kowalski",
+  "species": [
+  ],
+  "teams": [
+    "New York Police Department",
+    "Midnight Sons"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Vengeance_(comics)"
 }

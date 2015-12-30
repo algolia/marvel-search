@@ -1,22 +1,18 @@
 {
-  "name": "Kid Omega",
-  "url": "https://en.wikipedia.org/wiki/Quentin_Quire",
-  "realName": "Quintavius \"Quentin\" Quirinius Quire",
+  "aliases": "Kid Omega",
   "creators": [
     "Grant Morrison",
     "Frank Quitely"
   ],
-  "teams": [
-    "Hellfire Academy",
-    "Jean Grey School for Higher Learning",
-    "Omega Gang",
-    "Xavier Institute"
+  "image": {
+    "height": "421",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/QuentinQuire.jpg/150px-QuentinQuire.jpg",
+    "width": "150"
+  },
+  "name": "Kid Omega",
+  "pageviews": 15985,
+  "partners": [
   ],
-  "aliases": "Kid Omega",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Omega level",
     "psionic",
@@ -27,10 +23,15 @@
     "Omega levelpsionic powers including telepathy and telekinesis",
     "Superhuman intellect"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/QuentinQuire.jpg/150px-QuentinQuire.jpg",
-    "width": "150",
-    "height": "421"
-  },
-  "pageviews": 15985
+  "realName": "Quintavius \"Quentin\" Quirinius Quire",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hellfire Academy",
+    "Jean Grey School for Higher Learning",
+    "Omega Gang",
+    "Xavier Institute"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Quentin_Quire"
 }

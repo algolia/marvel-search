@@ -1,23 +1,27 @@
 {
-  "name": "Joystick",
-  "url": "https://en.wikipedia.org/wiki/Joystick_(comics)",
-  "realName": "Janice Olivia Yanizeski",
+  "aliases": "The living embodiment of action",
   "creators": [
     "Tom DeFalco",
     "Mark Bagley"
+  ],
+  "image": {
+  },
+  "name": "Joystick",
+  "pageviews": 1633,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman athletic abilities",
+    "Energy manipulation"
+  ],
+  "realName": "Janice Olivia Yanizeski",
+  "species": [
   ],
   "teams": [
     "Thunderbolts",
     "Masters of Evil"
   ],
-  "aliases": "The living embodiment of action",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman athletic abilities",
-    "Energy manipulation"
-  ],
-  "image": {},
-  "pageviews": 1633
+  "url": "https://en.wikipedia.org/wiki/Joystick_(comics)"
 }

@@ -1,23 +1,27 @@
 {
-  "name": "The Fabulous Frog-Man",
-  "url": "https://en.wikipedia.org/wiki/Frog-Man",
-  "realName": "Eugene Paul Patilio",
+  "aliases": "Eugene Colorito, Frogicus Mega-Foolicus, Kermit, Frog-Man Jr.",
   "creators": [
     "J. M. DeMatteis",
     "Kerry Gammill"
   ],
-  "teams": [
-    "Action Pack"
+  "image": {
+  },
+  "name": "The Fabulous Frog-Man",
+  "pageviews": 1736,
+  "partners": [
   ],
-  "aliases": "Eugene Colorito, Frogicus Mega-Foolicus, Kermit, Frog-Man Jr.",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Frog suit grants:",
     "Ability to leap great distances",
     "Internal padding that allows him to bounce off objects"
   ],
-  "image": {},
-  "pageviews": 1736
+  "realName": "Eugene Paul Patilio",
+  "species": [
+  ],
+  "teams": [
+    "Action Pack"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Frog-Man"
 }

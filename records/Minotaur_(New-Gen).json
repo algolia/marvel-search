@@ -1,14 +1,16 @@
 {
-  "name": "Mini",
-  "url": "https://en.wikipedia.org/wiki/Minotaur_(New-Gen)",
-  "realName": "None",
-  "creators": [],
-  "teams": [],
   "aliases": "Minotaur",
-  "species": [
-    "Human"
+  "creators": [
   ],
-  "partners": [],
+  "image": {
+    "height": "313",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Minatour_new_gen.jpg/250px-Minatour_new_gen.jpg",
+    "width": "250"
+  },
+  "name": "Mini",
+  "pageviews": 292,
+  "partners": [
+  ],
   "powers": [
     "Super-strength"
   ],
@@ -17,10 +19,11 @@
     "Super-strength",
     "Superhuman durability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Minatour_new_gen.jpg/250px-Minatour_new_gen.jpg",
-    "width": "250",
-    "height": "313"
-  },
-  "pageviews": 292
+  "realName": "None",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Minotaur_(New-Gen)"
 }

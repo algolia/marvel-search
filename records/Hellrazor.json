@@ -1,23 +1,27 @@
 {
-  "name": "Hellrazor",
-  "url": "https://en.wikipedia.org/wiki/Hellrazor",
-  "realName": "",
+  "aliases": "Black Panther",
   "creators": [
     "Steven Grant",
     "Gene Colan"
   ],
+  "image": {
+    "height": "384",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Hellrazor_Marvel_Comics.png",
+    "width": "223"
+  },
+  "name": "Hellrazor",
+  "pageviews": 531,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "",
+  "species": [
+  ],
   "teams": [
     "Roxxon Oil"
   ],
-  "aliases": "Black Panther",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Hellrazor_Marvel_Comics.png",
-    "width": "223",
-    "height": "384"
-  },
-  "pageviews": 531
+  "url": "https://en.wikipedia.org/wiki/Hellrazor"
 }

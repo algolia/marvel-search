@@ -1,7 +1,5 @@
 {
-  "name": "The Destroyer",
-  "url": "https://en.wikipedia.org/wiki/Destroyer_(Marvel_Comics)",
-  "realName": "- Kevin \"Keen\" Marlow<br> - Brian Falsworth<br> - Roger Aubrey",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Binder",
@@ -9,19 +7,25 @@
     "Roy Thomas",
     "Frank Robbins"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "344",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Mystic_Comics_8.jpg/250px-Mystic_Comics_8.jpg",
+    "width": "250"
+  },
+  "name": "The Destroyer",
+  "pageviews": 2199,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Peak human physical condition",
     "Skilled fighter and marksman"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Mystic_Comics_8.jpg/250px-Mystic_Comics_8.jpg",
-    "width": "250",
-    "height": "344"
-  },
-  "pageviews": 2199
+  "realName": "- Kevin \"Keen\" Marlow<br> - Brian Falsworth<br> - Roger Aubrey",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Destroyer_(Marvel_Comics)"
 }

@@ -1,28 +1,31 @@
 {
-  "name": "Hummingbird",
-  "url": "https://en.wikipedia.org/wiki/Hummingbird_(comics)",
-  "realName": "Aracely Penalba",
+  "aliases": "",
   "creators": [
     "Ryan Stegman",
     "Christopher Yost"
   ],
-  "teams": [
-    "New Warriors"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Hummingbird_Aracely_Penalba_New_Warriors_02_2014.png/240px-Hummingbird_Aracely_Penalba_New_Warriors_02_2014.png",
+    "width": "240"
+  },
+  "name": "Hummingbird",
+  "pageviews": 2013,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Manipulation of emotions",
     "Telepathy",
     "Self-powered levitation",
     "Invoking and hurtling sacred fire"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Hummingbird_Aracely_Penalba_New_Warriors_02_2014.png/240px-Hummingbird_Aracely_Penalba_New_Warriors_02_2014.png",
-    "width": "240",
-    "height": "450"
-  },
-  "pageviews": 2013
+  "realName": "Aracely Penalba",
+  "species": [
+  ],
+  "teams": [
+    "New Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hummingbird_(comics)"
 }

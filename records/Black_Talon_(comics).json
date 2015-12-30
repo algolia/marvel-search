@@ -1,23 +1,27 @@
 {
-  "name": "Black Talon",
-  "url": "https://en.wikipedia.org/wiki/Black_Talon_(comics)",
-  "realName": "Desmond Drew",
+  "aliases": "",
   "creators": [
     "Gene Colan",
     "Len Wein"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Shehulk35.png/250px-Shehulk35.png",
+    "width": "250"
+  },
+  "name": "Black Talon",
+  "pageviews": 1763,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Voodoo magic manipulation that allows him to create and control zombies"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Shehulk35.png/250px-Shehulk35.png",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 1683
+  "realName": "Desmond Drew",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Talon_(comics)"
 }

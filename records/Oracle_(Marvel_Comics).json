@@ -1,25 +1,28 @@
 {
-  "name": "Oracle",
-  "url": "https://en.wikipedia.org/wiki/Oracle_(Marvel_Comics)",
-  "realName": "Sybil",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Imperial Guard"
+  "image": {
+    "height": "366",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/8b/Oraclewiki.jpg",
+    "width": "250"
+  },
+  "name": "Oracle",
+  "pageviews": 2053,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "high-level telepathy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/8b/Oraclewiki.jpg",
-    "width": "250",
-    "height": "366"
-  },
-  "pageviews": 2053
+  "realName": "Sybil",
+  "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Oracle_(Marvel_Comics)"
 }

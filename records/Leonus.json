@@ -1,21 +1,25 @@
 {
-  "name": "Leonus",
-  "url": "https://en.wikipedia.org/wiki/Leonus",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Gary Friedrich",
     "Marie Severin"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Inhuman"
+  "image": {
+  },
+  "name": "Leonus",
+  "pageviews": 1042,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Lion-like attributes"
   ],
-  "image": {},
-  "pageviews": 1042
+  "realName": null,
+  "species": [
+    "Inhuman"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Leonus"
 }

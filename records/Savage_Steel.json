@@ -1,26 +1,30 @@
 {
-  "name": "Savage Steel",
-  "url": "https://en.wikipedia.org/wiki/Savage_Steel",
-  "realName": "(I) Harry Lennox<br> (II) Arthur Vale<br>(III) James \"Jimmy\" Zafar<br>(IV) Unknown",
+  "aliases": "",
   "creators": [
     "Danny Fingeroth",
     "Mike Manley"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "413",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Original_Savage_Steel_Armor.jpg/250px-Original_Savage_Steel_Armor.jpg",
+    "width": "250"
+  },
+  "name": "Savage Steel",
+  "pageviews": 549,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "enhanced durability",
     "flight",
     "energy manipulation (all derived from powered battle armor)."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Original_Savage_Steel_Armor.jpg/250px-Original_Savage_Steel_Armor.jpg",
-    "width": "250",
-    "height": "413"
-  },
-  "pageviews": 549
+  "realName": "(I) Harry Lennox<br> (II) Arthur Vale<br>(III) James \"Jimmy\" Zafar<br>(IV) Unknown",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Savage_Steel"
 }

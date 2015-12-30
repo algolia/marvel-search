@@ -1,7 +1,5 @@
 {
-  "name": "Lady Deathstrike",
-  "url": "https://en.wikipedia.org/wiki/Lady_Deathstrike",
-  "realName": "Yuriko Oyama",
+  "aliases": "",
   "creators": [
     "Dennis O'Neil",
     "Larry Hama",
@@ -10,15 +8,17 @@
     "Chris Claremont",
     "Barry Windsor-Smith"
   ],
-  "teams": [
-    "Sisterhood of Mutants",
-    "Reavers",
-    "Thunderbolts"
+  "image": {
+    "height": "359",
+    "url": "https://upload.wikimedia.org/wikipedia/en/7/7e/LadyArtistsStrike.jpg",
+    "width": "250"
+  },
+  "name": "Lady Deathstrike",
+  "pageviews": 20740,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Excellent athlete and hand-to-hand combatant",
     "Superhuman strength",
@@ -28,10 +28,13 @@
     "Adamantium skeleton and retractable claw nails",
     "Accelerated healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/7/7e/LadyArtistsStrike.jpg",
-    "width": "250",
-    "height": "359"
-  },
-  "pageviews": 20740
+  "realName": "Yuriko Oyama",
+  "species": [
+  ],
+  "teams": [
+    "Sisterhood of Mutants",
+    "Reavers",
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lady_Deathstrike"
 }

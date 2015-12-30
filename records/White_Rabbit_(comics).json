@@ -1,19 +1,22 @@
 {
-  "name": "The White Rabbit",
-  "url": "https://en.wikipedia.org/wiki/White_Rabbit_(comics)",
-  "realName": "Lorina Dodson",
+  "aliases": "",
   "creators": [
     "J.M. DeMatteis",
     "Kerry Gammill",
     "Mike Esposito"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/WhiteRabbitMarvel.jpg/250px-WhiteRabbitMarvel.jpg",
+    "width": "250"
+  },
+  "name": "The White Rabbit",
+  "pageviews": 3023,
   "partners": [
     "Walrus"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Good martial artist",
     "Use of a giant",
@@ -23,10 +26,10 @@
     "and an umbrella that fires explosive and razor tipped carrots",
     "Flight via rocket boots"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/WhiteRabbitMarvel.jpg/250px-WhiteRabbitMarvel.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 3023
+  "realName": "Lorina Dodson",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/White_Rabbit_(comics)"
 }

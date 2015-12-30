@@ -1,24 +1,20 @@
 {
-  "name": "Exodus",
-  "url": "https://en.wikipedia.org/wiki/Exodus_(comics)",
-  "realName": "Bennet du Paris",
+  "aliases": "Paris Bennet",
   "creators": [
     "Scott Lobdell",
     "Joe Quesada"
   ],
-  "teams": [
-    "Marauders",
-    "Acolytes",
-    "The 198",
-    "Crusaders",
-    "Brotherhood of Mutants"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/c4/Exodusx.png",
+    "width": "229"
+  },
+  "name": "Exodus",
+  "pageviews": 10364,
+  "partners": [
   ],
-  "aliases": "Paris Bennet",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Telepathy",
     "Telekinesis",
@@ -27,10 +23,16 @@
     "Superhuman physical attributes",
     "Healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/c4/Exodusx.png",
-    "width": "229",
-    "height": "450"
-  },
-  "pageviews": 10364
+  "realName": "Bennet du Paris",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Marauders",
+    "Acolytes",
+    "The 198",
+    "Crusaders",
+    "Brotherhood of Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Exodus_(comics)"
 }

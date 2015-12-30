@@ -1,24 +1,27 @@
 {
-  "name": "Bulwark",
-  "url": "https://en.wikipedia.org/wiki/Bulwark_(comics)",
-  "realName": "Oswald Boeglin",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "Todd Dezago",
     "Tom Grummett"
   ],
-  "teams": [
-    "Emplate's Hellions"
+  "image": {
+  },
+  "name": "Bulwark",
+  "pageviews": 430,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "superhuman strength."
   ],
-  "image": {},
-  "pageviews": 430
+  "realName": "Oswald Boeglin",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Emplate's Hellions"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bulwark_(comics)"
 }

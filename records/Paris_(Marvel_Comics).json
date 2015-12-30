@@ -1,21 +1,25 @@
 {
-  "name": "Paris",
-  "url": "https://en.wikipedia.org/wiki/Paris_(Marvel_Comics)",
-  "realName": "Nathan Taylor",
+  "aliases": "",
   "creators": [
     "Peter David",
     "Dale Keown"
   ],
-  "teams": [
-    "Pantheon"
+  "image": {
+  },
+  "name": "Paris",
+  "pageviews": 257,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "empath"
   ],
-  "image": {},
-  "pageviews": 257
+  "realName": "Nathan Taylor",
+  "species": [
+  ],
+  "teams": [
+    "Pantheon"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Paris_(Marvel_Comics)"
 }

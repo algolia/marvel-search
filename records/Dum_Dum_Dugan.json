@@ -1,10 +1,25 @@
 {
-  "name": "Dum Dum Dugan",
-  "url": "https://en.wikipedia.org/wiki/Dum_Dum_Dugan",
-  "realName": null,
+  "aliases": "Libra",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Cover_of_Secret_Warriors_2008_04.jpg/250px-Cover_of_Secret_Warriors_2008_04.jpg",
+    "width": "250"
+  },
+  "name": "Dum Dum Dugan",
+  "pageviews": 27745,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Skilled marksman"
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "S.H.I.E.L.D.",
@@ -15,17 +30,5 @@
     "Godzilla Squad",
     "S.T.A.K.E"
   ],
-  "aliases": "Libra",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Skilled marksman"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Cover_of_Secret_Warriors_2008_04.jpg/250px-Cover_of_Secret_Warriors_2008_04.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 27745
+  "url": "https://en.wikipedia.org/wiki/Dum_Dum_Dugan"
 }

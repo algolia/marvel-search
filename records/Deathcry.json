@@ -1,20 +1,20 @@
 {
-  "name": "Deathcry",
-  "url": "https://en.wikipedia.org/wiki/Deathcry",
-  "realName": "Sharra Neramani",
+  "aliases": "Lifecry{{cn|date",
   "creators": [
     "Bob Harras",
     "Steve Epting"
   ],
-  "teams": [
-    "Avengers"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b4/DeathcryMarvel.jpg",
+    "width": "203"
+  },
+  "name": "Deathcry",
+  "pageviews": 1833,
+  "partners": [
   ],
-  "aliases": "Lifecry{{cn|date",
-  "species": [
-    "Shi'ar"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Super-strength",
     "stamina",
@@ -22,10 +22,12 @@
     "sharp talons",
     "enhanced senses."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/b4/DeathcryMarvel.jpg",
-    "width": "203",
-    "height": "450"
-  },
-  "pageviews": 1833
+  "realName": "Sharra Neramani",
+  "species": [
+    "Shi'ar"
+  ],
+  "teams": [
+    "Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Deathcry"
 }

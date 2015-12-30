@@ -1,18 +1,21 @@
 {
-  "name": "Doc Samson",
-  "url": "https://en.wikipedia.org/wiki/Doc_Samson",
-  "realName": "Dr. Leonard \"Leo\" Samson",
+  "aliases": "Dr. Leonard \"Leo\" Skivorski Jr.",
   "creators": [
     "Roy Thomas",
     "Herb Trimpe"
   ],
-  "teams": [],
-  "aliases": "Dr. Leonard \"Leo\" Skivorski Jr.",
-  "species": [],
+  "image": {
+    "height": "247",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Docsamson.jpg/250px-Docsamson.jpg",
+    "width": "250"
+  },
+  "name": "Doc Samson",
+  "pageviews": 12179,
   "partners": [
     "Dr. Bruce Banner"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius psychiatrist",
     "Highly skilled hand to hand combatant",
@@ -24,10 +27,10 @@
     "Resistance to telepathy",
     "Ability to leap great distances"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Docsamson.jpg/250px-Docsamson.jpg",
-    "width": "250",
-    "height": "247"
-  },
-  "pageviews": 12179
+  "realName": "Dr. Leonard \"Leo\" Samson",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Doc_Samson"
 }

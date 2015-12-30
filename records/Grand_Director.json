@@ -1,21 +1,22 @@
 {
-  "name": "The Grand Director",
-  "url": "https://en.wikipedia.org/wiki/Grand_Director",
-  "realName": "William Burnside; legally changed to Steven \"Steve\" Rogers",
+  "aliases": "Captain America",
   "creators": [
     "Steve Englehart",
     "Sal Buscema",
     "Roger McKenzie",
     "Jim Shooter"
   ],
-  "teams": [
-    "United States Government",
-    "National Force"
+  "image": {
+    "height": "264",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Grand_Director.jpg/250px-Grand_Director.jpg",
+    "width": "250"
+  },
+  "name": "The Grand Director",
+  "pageviews": 4072,
+  "partners": [
   ],
-  "aliases": "Captain America",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Trained boxer",
     "Superhuman strength",
@@ -32,10 +33,12 @@
     "(Briefly):",
     "Use of an \"atom-blaster\" weapon"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Grand_Director.jpg/250px-Grand_Director.jpg",
-    "width": "250",
-    "height": "264"
-  },
-  "pageviews": 4072
+  "realName": "William Burnside; legally changed to Steven \"Steve\" Rogers",
+  "species": [
+  ],
+  "teams": [
+    "United States Government",
+    "National Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Grand_Director"
 }

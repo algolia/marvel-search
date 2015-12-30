@@ -1,16 +1,17 @@
 {
-  "name": "Styx and Stone",
-  "url": "https://en.wikipedia.org/wiki/Styx_and_Stone",
-  "realName": "Jacob Eishorn (Styx) and Gerald Stone",
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "Todd McFarlane"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Styx and Stone",
+  "pageviews": 1608,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "(Styx):",
     "Lethal touch",
@@ -18,6 +19,10 @@
     "(Stone):",
     "Wears two large weapons on his shoulders"
   ],
-  "image": {},
-  "pageviews": 1608
+  "realName": "Jacob Eishorn (Styx) and Gerald Stone",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Styx_and_Stone"
 }

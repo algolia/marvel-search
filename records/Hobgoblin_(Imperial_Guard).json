@@ -1,25 +1,28 @@
 {
-  "name": "Hobgoblin",
-  "url": "https://en.wikipedia.org/wiki/Hobgoblin_(Imperial_Guard)",
-  "realName": null,
+  "aliases": "Shapeshifter, Shifter, Shift",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Imperial Guard"
+  "image": {
+    "height": "115",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Hobgoblin_%28Imperial_Guard%29.jpg/175px-Hobgoblin_%28Imperial_Guard%29.jpg",
+    "width": "175"
+  },
+  "name": "Hobgoblin",
+  "pageviews": 643,
+  "partners": [
   ],
-  "aliases": "Shapeshifter, Shifter, Shift",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Shapeshifting"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Hobgoblin_%28Imperial_Guard%29.jpg/175px-Hobgoblin_%28Imperial_Guard%29.jpg",
-    "width": "175",
-    "height": "115"
-  },
-  "pageviews": 643
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hobgoblin_(Imperial_Guard)"
 }

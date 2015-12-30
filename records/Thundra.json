@@ -1,22 +1,20 @@
 {
-  "name": "Thundra",
-  "url": "https://en.wikipedia.org/wiki/Thundra",
-  "realName": "Thundra",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Gerry Conway"
   ],
-  "teams": [
-    "Lady Liberators",
-    "Frightful Four",
-    "The Grapplers",
-    "Roxxon Oil",
-    "Squadron Supreme"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Hulkrt_cvr.jpg/250px-Hulkrt_cvr.jpg",
+    "width": "250"
+  },
+  "name": "Thundra",
+  "pageviews": 7471,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Vast superhuman strength and resistance to injury",
     "Peak level speed",
@@ -26,10 +24,15 @@
     "Superior hand to hand combatant",
     "Carries a sword and a three-foot linked chain as weapons"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Hulkrt_cvr.jpg/250px-Hulkrt_cvr.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 7471
+  "realName": "Thundra",
+  "species": [
+  ],
+  "teams": [
+    "Lady Liberators",
+    "Frightful Four",
+    "The Grapplers",
+    "Roxxon Oil",
+    "Squadron Supreme"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thundra"
 }

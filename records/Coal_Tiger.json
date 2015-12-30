@@ -1,30 +1,32 @@
 {
-  "name": "Coal Tiger",
-  "url": "https://en.wikipedia.org/wiki/Coal_Tiger",
-  "realName": "T'Chaka",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Brent Anderson"
   ],
-  "teams": [
-    "A-Next"
+  "image": {
+    "height": "148",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Coaltiger.jpg/250px-Coaltiger.jpg",
+    "width": "250"
+  },
+  "name": "Coal Tiger",
+  "pageviews": 1102,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "(As a feline humanoid):",
     "Superhuman strength and agility",
     "Enhanced senses",
     "Retractable razor sharp claws"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Coaltiger.jpg/250px-Coaltiger.jpg",
-    "width": "250",
-    "height": "148"
-  },
-  "pageviews": 1102
+  "realName": "T'Chaka",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "A-Next"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Coal_Tiger"
 }

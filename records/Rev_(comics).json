@@ -1,25 +1,28 @@
 {
-  "name": "Rev",
-  "url": "https://en.wikipedia.org/wiki/Rev_(comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Mike Baron",
     "Klaus Janson"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "253",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RevPunisher.jpg/250px-RevPunisher.jpg",
+    "width": "250"
+  },
+  "name": "Rev",
+  "pageviews": 1072,
   "partners": [
     "Jigsaw"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Healing"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RevPunisher.jpg/250px-RevPunisher.jpg",
-    "width": "250",
-    "height": "253"
-  },
-  "pageviews": 1072
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Rev_(comics)"
 }

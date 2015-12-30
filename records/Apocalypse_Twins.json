@@ -1,18 +1,20 @@
 {
-  "name": "Apocalypse Twins",
-  "url": "https://en.wikipedia.org/wiki/Apocalypse_Twins",
-  "realName": "Uriel and Eimin Worthington",
+  "aliases": "",
   "creators": [
     "Rick Remender",
     "Olivier Coipel"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "image": {
+    "height": "98",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Apocalypse_Twins.jpg/225px-Apocalypse_Twins.jpg",
+    "width": "225"
+  },
+  "name": "Apocalypse Twins",
+  "pageviews": 8800,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Uriel: Flight",
     "Energy Razors",
@@ -22,10 +24,11 @@
     "Chronokinetic Augmentation",
     "Time-Space Synesthesia"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Apocalypse_Twins.jpg/225px-Apocalypse_Twins.jpg",
-    "width": "225",
-    "height": "98"
-  },
-  "pageviews": 8800
+  "realName": "Uriel and Eimin Worthington",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Apocalypse_Twins"
 }

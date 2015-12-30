@@ -1,22 +1,18 @@
 {
-  "name": "Nova",
-  "url": "https://en.wikipedia.org/wiki/Nova_(Richard_Rider)",
-  "realName": "Richard Rider",
+  "aliases": "Nova Prime, Kid Nova, Nova #11249-44396, The Human Rocket, Quasar",
   "creators": [
     "Marv Wolfman",
     "John Buscema"
   ],
-  "teams": [
-    "United Front",
-    "New Warriors",
-    "Defenders",
-    "Champions of Xandar",
-    "Secret Avengers",
-    "Nova Corps"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Nova1adigranov.jpg/250px-Nova1adigranov.jpg",
+    "width": "250"
+  },
+  "name": "Nova",
+  "pageviews": 26480,
+  "partners": [
   ],
-  "aliases": "Nova Prime, Kid Nova, Nova #11249-44396, The Human Rocket, Quasar",
-  "species": [],
-  "partners": [],
   "powers": [
     "Xandar",
     "gravitational force",
@@ -33,10 +29,16 @@
     "of the Xandarian Worldmind which allows him near infinite control over the Nova Force granting energy projection and absorption",
     "Ability to exert influence over gravitational forces and open wormholes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Nova1adigranov.jpg/250px-Nova1adigranov.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 26480
+  "realName": "Richard Rider",
+  "species": [
+  ],
+  "teams": [
+    "United Front",
+    "New Warriors",
+    "Defenders",
+    "Champions of Xandar",
+    "Secret Avengers",
+    "Nova Corps"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nova_(Richard_Rider)"
 }

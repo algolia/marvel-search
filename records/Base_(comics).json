@@ -1,25 +1,28 @@
 {
-  "name": "Base",
-  "url": "https://en.wikipedia.org/wiki/Base_(comics)",
-  "realName": "Hiro Sokuto",
-  "creators": [],
-  "teams": [
-    "Genetix"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "339",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/3e/Base-HiroSokuto.gif",
+    "width": "250"
+  },
+  "name": "Base",
+  "pageviews": 177,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Control over the four elements",
     "superhuman strength."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/3e/Base-HiroSokuto.gif",
-    "width": "250",
-    "height": "339"
-  },
-  "pageviews": 177
+  "realName": "Hiro Sokuto",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Genetix"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Base_(comics)"
 }

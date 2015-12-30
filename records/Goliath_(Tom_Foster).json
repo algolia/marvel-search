@@ -1,29 +1,32 @@
 {
-  "name": "Goliath",
-  "url": "https://en.wikipedia.org/wiki/Goliath_(Tom_Foster)",
-  "realName": "Thomas \"Tom\" Foster",
+  "aliases": "",
   "creators": [
     "Reginald Hudlin",
     "Greg Pak",
     "Koi Turnbull"
+  ],
+  "image": {
+    "height": "373",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/TomFoster.jpg/250px-TomFoster.jpg",
+    "width": "250"
+  },
+  "name": "Goliath",
+  "pageviews": 2758,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman strength and durability",
+    "Size and mass manipulation"
+  ],
+  "realName": "Thomas \"Tom\" Foster",
+  "species": [
   ],
   "teams": [
     "Damage Control",
     "M.I.T.",
     "Revengers"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman strength and durability",
-    "Size and mass manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/TomFoster.jpg/250px-TomFoster.jpg",
-    "width": "250",
-    "height": "373"
-  },
-  "pageviews": 2758
+  "url": "https://en.wikipedia.org/wiki/Goliath_(Tom_Foster)"
 }

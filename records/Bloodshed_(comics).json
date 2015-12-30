@@ -1,15 +1,16 @@
 {
-  "name": "Bloodshed",
-  "url": "https://en.wikipedia.org/wiki/Bloodshed_(comics)",
-  "realName": "Wyndell Dichinson",
+  "aliases": "",
   "creators": [
     "Kurt Busiek"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Bloodshed",
+  "pageviews": 455,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Trained mercenary",
     "Skilled hand to hand combatant",
@@ -17,6 +18,10 @@
     "Specialized armored suit grants:",
     "Retractable bladed weapons"
   ],
-  "image": {},
-  "pageviews": 455
+  "realName": "Wyndell Dichinson",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bloodshed_(comics)"
 }

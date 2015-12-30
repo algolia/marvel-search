@@ -1,23 +1,27 @@
 {
-  "name": "Director Colcord",
-  "url": "https://en.wikipedia.org/wiki/Malcolm_Colcord",
-  "realName": "Malcolm Colcord",
+  "aliases": "The Director",
   "creators": [
     "Frank Tieri",
     "Sean Chen"
   ],
+  "image": {
+    "height": "283",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Director_Colcord.jpg/250px-Director_Colcord.jpg",
+    "width": "250"
+  },
+  "name": "Director Colcord",
+  "pageviews": 1433,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Malcolm Colcord",
+  "species": [
+  ],
   "teams": [
     "Weapon X"
   ],
-  "aliases": "The Director",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Director_Colcord.jpg/250px-Director_Colcord.jpg",
-    "width": "250",
-    "height": "283"
-  },
-  "pageviews": 1433
+  "url": "https://en.wikipedia.org/wiki/Malcolm_Colcord"
 }

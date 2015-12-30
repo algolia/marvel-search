@@ -1,17 +1,19 @@
 {
-  "name": "Jackpot",
-  "url": "https://en.wikipedia.org/wiki/Jackpot_(comics)",
-  "realName": "Sara Ehret<br>Alana Jobson",
+  "aliases": "",
   "creators": [
     "Dan Slott"
   ],
-  "teams": [
-    "The Initiative"
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Jackpot_Marvel_Comics.JPG/250px-Jackpot_Marvel_Comics.JPG",
+    "width": "250"
+  },
+  "name": "Jackpot",
+  "pageviews": 1658,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Sara Ehret",
     "Superhuman strength",
@@ -22,10 +24,11 @@
     "Limited hand-to-hand combatant",
     "Possesses some invulnerability to injury"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Jackpot_Marvel_Comics.JPG/250px-Jackpot_Marvel_Comics.JPG",
-    "width": "250",
-    "height": "382"
-  },
-  "pageviews": 1658
+  "realName": "Sara Ehret<br>Alana Jobson",
+  "species": [
+  ],
+  "teams": [
+    "The Initiative"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jackpot_(comics)"
 }

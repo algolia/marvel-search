@@ -1,24 +1,28 @@
 {
-  "name": "Big Wheel",
-  "url": "https://en.wikipedia.org/wiki/Big_Wheel_(comics)",
-  "realName": "Jackson Weele",
+  "aliases": "",
   "creators": [
     "Marv Wolfman",
     "Ross Andru",
     "Mike Esposito"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "273",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Big_Wheel_Marvel.png/250px-Big_Wheel_Marvel.png",
+    "width": "250"
+  },
+  "name": "Big Wheel",
+  "pageviews": 1803,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Drives a large metal wheel equipped with guns and waldo-arms"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Big_Wheel_Marvel.png/250px-Big_Wheel_Marvel.png",
-    "width": "250",
-    "height": "273"
-  },
-  "pageviews": 1803
+  "realName": "Jackson Weele",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Big_Wheel_(comics)"
 }

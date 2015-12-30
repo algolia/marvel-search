@@ -1,28 +1,31 @@
 {
-  "name": "Kurse",
-  "url": "https://en.wikipedia.org/wiki/Kurse",
-  "realName": "Algrim",
+  "aliases": "Algrim the Strong, Valgoth",
   "creators": [
     "Walter Simonson"
   ],
-  "teams": [],
-  "aliases": "Algrim the Strong, Valgoth",
-  "species": [],
+  "image": {
+    "height": "391",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thor363.jpg/250px-Thor363.jpg",
+    "width": "250"
+  },
+  "name": "Kurse",
+  "pageviews": 10390,
   "partners": [
     "Thor",
     "Malekith the Accursed"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
     "stamina and durability",
     "Ability to mystically track and locate enemies over large distances"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thor363.jpg/250px-Thor363.jpg",
-    "width": "250",
-    "height": "391"
-  },
-  "pageviews": 10390
+  "realName": "Algrim",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kurse"
 }

@@ -1,21 +1,26 @@
 {
-  "name": "Freak",
-  "url": "https://en.wikipedia.org/wiki/Freak_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Gene Colan"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "375",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/IronMan-3.jpg/250px-IronMan-3.jpg",
-    "width": "250",
-    "height": "375"
+    "width": "250"
   },
-  "pageviews": 1107
+  "name": "Freak",
+  "pageviews": 1107,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Freak_(Marvel_Comics)"
 }

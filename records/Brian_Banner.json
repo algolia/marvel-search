@@ -1,23 +1,27 @@
 {
-  "name": "Brian Banner",
-  "url": "https://en.wikipedia.org/wiki/Brian_Banner",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "249",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BrianBanner.JPG/170px-BrianBanner.JPG",
+    "width": "170"
+  },
+  "name": "Brian Banner",
+  "pageviews": 6782,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Genius-level intellect"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BrianBanner.JPG/170px-BrianBanner.JPG",
-    "width": "170",
-    "height": "249"
-  },
-  "pageviews": 6782
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Brian_Banner"
 }

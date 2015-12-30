@@ -1,10 +1,26 @@
 {
-  "name": "Tabitha Smith",
-  "url": "https://en.wikipedia.org/wiki/Tabitha_Smith",
-  "realName": null,
+  "aliases": "Time Bomb, Boom-Boom, Boomer, Meltdown, Firecracker, Mutate #35",
   "creators": [
     "Jim Shooter",
     "Al Milgrom"
+  ],
+  "image": {
+    "height": "384",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Meltdown01.jpg/250px-Meltdown01.jpg",
+    "width": "250"
+  },
+  "name": "Tabitha Smith",
+  "pageviews": 10244,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Creates variably-sized orbs of pure psionic energy that explode with concussive and destructive force"
+  ],
+  "realName": null,
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Fallen Angels",
@@ -15,19 +31,5 @@
     "Nextwave",
     "X-Men"
   ],
-  "aliases": "Time Bomb, Boom-Boom, Boomer, Meltdown, Firecracker, Mutate #35",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Creates variably-sized orbs of pure psionic energy that explode with concussive and destructive force"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Meltdown01.jpg/250px-Meltdown01.jpg",
-    "width": "250",
-    "height": "384"
-  },
-  "pageviews": 10244
+  "url": "https://en.wikipedia.org/wiki/Tabitha_Smith"
 }

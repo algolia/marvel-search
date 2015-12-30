@@ -1,20 +1,20 @@
 {
-  "name": "Kraven the Hunter",
-  "url": "https://en.wikipedia.org/wiki/Kraven_the_Hunter_(Alyosha_Kravinoff)",
-  "realName": "Alexei Sergeevich \"Alyosha\" Kravinoff",
+  "aliases": "Al Kraven",
   "creators": [
     "J. M. DeMatteis",
     "Luke Ross"
   ],
-  "teams": [
-    "Sinister Six"
+  "image": {
+    "height": "209",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Alyosha_Kravinoff.jpg/250px-Alyosha_Kravinoff.jpg",
+    "width": "250"
+  },
+  "name": "Kraven the Hunter",
+  "pageviews": 2080,
+  "partners": [
   ],
-  "aliases": "Al Kraven",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Expert weapons master",
     "Exceptional hand-to-hand combatant",
@@ -29,10 +29,12 @@
     "Healing factor",
     "Ability to communicate with and control animals"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Alyosha_Kravinoff.jpg/250px-Alyosha_Kravinoff.jpg",
-    "width": "250",
-    "height": "209"
-  },
-  "pageviews": 2080
+  "realName": "Alexei Sergeevich \"Alyosha\" Kravinoff",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Sinister Six"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kraven_the_Hunter_(Alyosha_Kravinoff)"
 }

@@ -1,17 +1,23 @@
 {
-  "name": "Evilhawk",
-  "url": "https://en.wikipedia.org/wiki/Evilhawk",
-  "realName": "Dargin Bokk",
+  "aliases": "",
   "creators": [
     "Danny Fingeroth",
     "Mike Manley"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 437
+  "image": {
+  },
+  "name": "Evilhawk",
+  "pageviews": 437,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Dargin Bokk",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Evilhawk"
 }

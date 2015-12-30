@@ -1,23 +1,27 @@
 {
-  "name": "Moon-Boy",
-  "url": "https://en.wikipedia.org/wiki/Moon-Boy",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "294",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/DevilDinosaurandMoonBoy.jpg/250px-DevilDinosaurandMoonBoy.jpg",
+    "width": "250"
+  },
+  "name": "Moon-Boy",
+  "pageviews": 4398,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "Fallen Angels",
     "Circus of Crime"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/DevilDinosaurandMoonBoy.jpg/250px-DevilDinosaurandMoonBoy.jpg",
-    "width": "250",
-    "height": "294"
-  },
-  "pageviews": 4398
+  "url": "https://en.wikipedia.org/wiki/Moon-Boy"
 }

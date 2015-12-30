@@ -1,17 +1,23 @@
 {
-  "name": "Wind Warrior",
-  "url": "https://en.wikipedia.org/wiki/Wind_Warrior",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 164
+  "image": {
+  },
+  "name": "Wind Warrior",
+  "pageviews": 164,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wind_Warrior"
 }

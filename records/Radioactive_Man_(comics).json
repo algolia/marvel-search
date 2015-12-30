@@ -1,19 +1,18 @@
 {
-  "name": "Radioactive Man",
-  "url": "https://en.wikipedia.org/wiki/Radioactive_Man_(comics)",
-  "realName": "Chen Lu",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Masters of Evil",
-    "Titanic Three"
+  "image": {
+    "height": "359",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Radioactive_Man.jpg/250px-Radioactive_Man.jpg",
+    "width": "250"
+  },
+  "name": "Radioactive Man",
+  "pageviews": 7133,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Radiation manipulation"
   ],
@@ -21,10 +20,13 @@
     "Genius nuclear physicist",
     "Radiation manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Radioactive_Man.jpg/250px-Radioactive_Man.jpg",
-    "width": "250",
-    "height": "359"
-  },
-  "pageviews": 7133
+  "realName": "Chen Lu",
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Masters of Evil",
+    "Titanic Three"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Radioactive_Man_(comics)"
 }

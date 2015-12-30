@@ -1,19 +1,17 @@
 {
-  "name": "Everyman",
-  "url": "https://en.wikipedia.org/wiki/Everyman_(Marvel_Comics)",
-  "realName": "Larry Ekler",
+  "aliases": "Zeitgeist",
   "creators": [
     "J. M. DeMatteis",
     "Mike Zeck"
   ],
-  "teams": [
-    "Schutz Heiliggruppe",
-    "Secret Empire"
+  "image": {
+  },
+  "name": "Everyman",
+  "pageviews": 1331,
+  "partners": [
   ],
-  "aliases": "Zeitgeist",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "As Everyman:",
     "Use of sword",
@@ -24,6 +22,12 @@
     "Shapeshifting",
     "Invisibility"
   ],
-  "image": {},
-  "pageviews": 1331
+  "realName": "Larry Ekler",
+  "species": [
+  ],
+  "teams": [
+    "Schutz Heiliggruppe",
+    "Secret Empire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Everyman_(Marvel_Comics)"
 }

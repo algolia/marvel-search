@@ -1,26 +1,29 @@
 {
-  "name": "John Carik",
-  "url": "https://en.wikipedia.org/wiki/John_Carik",
-  "realName": null,
+  "aliases": "Bible John",
   "creators": [
     "Ian Edginton",
     "Douglas H. Wheatley"
   ],
-  "teams": [
-    "Blade"
+  "image": {
+    "height": "349",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/BladeVH4BibleJohn.jpg",
+    "width": "225"
+  },
+  "name": "John Carik",
+  "pageviews": 652,
+  "partners": [
   ],
-  "aliases": "Bible John",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Precognition",
     "holy symbols in his flesh provide limited protection against the supernatural"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/BladeVH4BibleJohn.jpg",
-    "width": "225",
-    "height": "349"
-  },
-  "pageviews": 652
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Blade"
+  ],
+  "url": "https://en.wikipedia.org/wiki/John_Carik"
 }

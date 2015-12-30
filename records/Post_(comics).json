@@ -1,19 +1,15 @@
 {
-  "name": "Post",
-  "url": "https://en.wikipedia.org/wiki/Post_(comics)",
-  "realName": "Kevin Tremain",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "Andy Kubert"
   ],
-  "teams": [
-    "Brotherhood of Evil Mutants"
+  "image": {
+  },
+  "name": "Post",
+  "pageviews": 844,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "superhuman strength",
     "genius",
@@ -27,6 +23,12 @@
     "able to manipulate energy",
     "and a variety of other powers"
   ],
-  "image": {},
-  "pageviews": 844
+  "realName": "Kevin Tremain",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Brotherhood of Evil Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Post_(comics)"
 }

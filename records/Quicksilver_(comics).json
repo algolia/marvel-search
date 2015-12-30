@@ -1,10 +1,32 @@
 {
-  "name": "Quicksilver",
-  "url": "https://en.wikipedia.org/wiki/Quicksilver_(comics)",
-  "realName": "Pietro Django Maximoff",
+  "aliases": "Pietro Frank, Mateo Maximoff",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "439",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Quicksilver%21.jpg/250px-Quicksilver%21.jpg",
+    "width": "250"
+  },
+  "name": "Quicksilver",
+  "pageviews": 127746,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman speed and reflexes",
+    "Enhanced strength and agility",
+    "Increased stamina",
+    "Fast metabolism",
+    "Superhuman cognitive speed",
+    "Vibration induction",
+    "Cyclone and highwind generation"
+  ],
+  "realName": "Pietro Django Maximoff",
+  "species": [
+    "Human Mutate"
   ],
   "teams": [
     "Avengers Unity Division",
@@ -16,25 +38,5 @@
     "Brotherhood of Evil Mutants",
     "X-Factor"
   ],
-  "aliases": "Pietro Frank, Mateo Maximoff",
-  "species": [
-    "Human Mutate"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Superhuman speed and reflexes",
-    "Enhanced strength and agility",
-    "Increased stamina",
-    "Fast metabolism",
-    "Superhuman cognitive speed",
-    "Vibration induction",
-    "Cyclone and highwind generation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Quicksilver%21.jpg/250px-Quicksilver%21.jpg",
-    "width": "250",
-    "height": "439"
-  },
-  "pageviews": 127746
+  "url": "https://en.wikipedia.org/wiki/Quicksilver_(comics)"
 }

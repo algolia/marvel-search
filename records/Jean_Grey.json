@@ -1,23 +1,18 @@
 {
-  "name": "Jean Grey",
-  "url": "https://en.wikipedia.org/wiki/Jean_Grey",
-  "realName": "Jean Grey-Summers",
+  "aliases": "Marvel Girl , Red, Phoenix , Dark Phoenix, White Phoenix of the Crown, Redd Dayspring",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "The Twelve",
-    "X-Factor",
-    "X-Men",
-    "X-Terminators",
-    "All-New X-Men"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/JeanGreyPhoenix.png/250px-JeanGreyPhoenix.png",
+    "width": "250"
+  },
+  "name": "Jean Grey",
+  "pageviews": 96155,
+  "partners": [
   ],
-  "aliases": "Marvel Girl , Red, Phoenix , Dark Phoenix, White Phoenix of the Crown, Redd Dayspring",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Phoenix Force"
   ],
@@ -36,10 +31,16 @@
     "Disintegration energy",
     "Resurrection from death and manipulation of life energy in others"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/JeanGreyPhoenix.png/250px-JeanGreyPhoenix.png",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 96155
+  "realName": "Jean Grey-Summers",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "The Twelve",
+    "X-Factor",
+    "X-Men",
+    "X-Terminators",
+    "All-New X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jean_Grey"
 }

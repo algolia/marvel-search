@@ -1,24 +1,28 @@
 {
-  "name": "Dragonfly",
-  "url": "https://en.wikipedia.org/wiki/Dragonfly_(Marvel_Comics)",
-  "realName": "Veronica Dultry",
+  "aliases": "",
   "creators": [
     "Len Wein",
     "Chris Claremont"
+  ],
+  "image": {
+  },
+  "name": "Dragonfly",
+  "pageviews": 1356,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Flight",
+    "Hypnotic gaze"
+  ],
+  "realName": "Veronica Dultry",
+  "species": [
   ],
   "teams": [
     "Ani-Men",
     "Femizons",
     "Masters of Evil"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Flight",
-    "Hypnotic gaze"
-  ],
-  "image": {},
-  "pageviews": 1356
+  "url": "https://en.wikipedia.org/wiki/Dragonfly_(Marvel_Comics)"
 }

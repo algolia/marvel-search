@@ -1,23 +1,27 @@
 {
-  "name": "Centurious",
-  "url": "https://en.wikipedia.org/wiki/Centurious",
-  "realName": null,
+  "aliases": "The Man Without a Soul",
   "creators": [
     "J. M. DeMatteis",
     "Bob Budiansky"
   ],
-  "teams": [],
-  "aliases": "The Man Without a Soul",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "268",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Centurious1.jpg",
+    "width": "250"
+  },
+  "name": "Centurious",
+  "pageviews": 1459,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Immortality<BR> Practitioner of Magical Arts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Centurious1.jpg",
-    "width": "250",
-    "height": "268"
-  },
-  "pageviews": 1459
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Centurious"
 }

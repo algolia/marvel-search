@@ -1,19 +1,24 @@
 {
-  "name": "Icemaster",
-  "url": "https://en.wikipedia.org/wiki/Icemaster",
-  "realName": "Bradley Koone",
-  "creators": [],
-  "teams": [
-    "Masters of Evil"
-  ],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+  },
+  "name": "Icemaster",
+  "pageviews": 342,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Ice & cold generation",
     "Ability to reform hands into weapons"
   ],
-  "image": {},
-  "pageviews": 342
+  "realName": "Bradley Koone",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Icemaster"
 }

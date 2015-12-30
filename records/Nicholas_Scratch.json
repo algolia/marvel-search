@@ -1,26 +1,29 @@
 {
-  "name": "Nicholas Scratch",
-  "url": "https://en.wikipedia.org/wiki/Nicholas_Scratch",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Len Wein",
     "George Pérez"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "111",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Four27.jpg/250px-Four27.jpg",
+    "width": "250"
+  },
+  "name": "Nicholas Scratch",
+  "pageviews": 1286,
   "partners": [
     "Dormammu",
     "Salem's Seven"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Vast magical powers"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Four27.jpg/250px-Four27.jpg",
-    "width": "250",
-    "height": "111"
-  },
-  "pageviews": 1286
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Nicholas_Scratch"
 }

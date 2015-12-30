@@ -1,18 +1,23 @@
 {
-  "name": "The Black Rider",
-  "url": "https://en.wikipedia.org/wiki/Black_Rider_(comics)",
-  "realName": "Matthew \"Doc\" Masters",
+  "aliases": "The Cactus Kid, Black Mask",
   "creators": [
     "Syd Shores"
   ],
-  "teams": [],
-  "aliases": "The Cactus Kid, Black Mask",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "The Black Rider",
+  "pageviews": 1864,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Skilled horseman and marksman"
   ],
-  "image": {},
-  "pageviews": 1864
+  "realName": "Matthew \"Doc\" Masters",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Rider_(comics)"
 }

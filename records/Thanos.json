@@ -1,22 +1,19 @@
 {
-  "name": "Thanos",
-  "url": "https://en.wikipedia.org/wiki/Thanos",
-  "realName": null,
+  "aliases": "The Mad Titan, Avatar of Death",
   "creators": [
     "Jim Starlin"
   ],
-  "teams": [
-    "Infinity Watch",
-    "Secret Defenders",
-    "Annihilation Wave",
-    "Cabal"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/e/e4/ThanosAvengersAssemble.jpg",
+    "width": "250"
+  },
+  "name": "Thanos",
+  "pageviews": 188570,
+  "partners": [
   ],
-  "aliases": "The Mad Titan, Avatar of Death",
-  "species": [
-    "Titanian Eternal (Mutant)"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "durability",
@@ -26,10 +23,15 @@
     "Teleportation",
     "Longevity"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/e4/ThanosAvengersAssemble.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 188570
+  "realName": null,
+  "species": [
+    "Titanian Eternal (Mutant)"
+  ],
+  "teams": [
+    "Infinity Watch",
+    "Secret Defenders",
+    "Annihilation Wave",
+    "Cabal"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thanos"
 }

@@ -1,11 +1,28 @@
 {
-  "name": "Atlas",
-  "url": "https://en.wikipedia.org/wiki/Erik_Josten",
-  "realName": "Erik Stephan Josten",
+  "aliases": "Power Man , Smuggler, Goliath",
   "creators": [
     "Stan Lee",
     "Don Heck",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "190",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Atlas_Marvel_Comics.jpg/240px-Atlas_Marvel_Comics.jpg",
+    "width": "240"
+  },
+  "name": "Atlas",
+  "pageviews": 7785,
+  "partners": [
+    "Swordsman"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Superhuman strength and durability",
+    "Size and mass manipulation"
+  ],
+  "realName": "Erik Stephan Josten",
+  "species": [
   ],
   "teams": [
     "Thunderbolts",
@@ -15,20 +32,5 @@
     "Defenders",
     "Revengers"
   ],
-  "aliases": "Power Man , Smuggler, Goliath",
-  "species": [],
-  "partners": [
-    "Swordsman"
-  ],
-  "powers": [],
-  "powersText": [
-    "Superhuman strength and durability",
-    "Size and mass manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Atlas_Marvel_Comics.jpg/240px-Atlas_Marvel_Comics.jpg",
-    "width": "240",
-    "height": "190"
-  },
-  "pageviews": 7785
+  "url": "https://en.wikipedia.org/wiki/Erik_Josten"
 }

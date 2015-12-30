@@ -1,27 +1,29 @@
 {
-  "name": "Scrambler",
-  "url": "https://en.wikipedia.org/wiki/Scrambler_(comics)",
-  "realName": "Kim Il Sung",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "John Romita, Jr."
   ],
-  "teams": [
-    "Marauders"
+  "image": {
+    "height": "225",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Scramblerwiki.jpg/250px-Scramblerwiki.jpg",
+    "width": "250"
+  },
+  "name": "Scrambler",
+  "pageviews": 1257,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Power and system manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Scramblerwiki.jpg/250px-Scramblerwiki.jpg",
-    "width": "250",
-    "height": "225"
-  },
-  "pageviews": 1257
+  "realName": "Kim Il Sung",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Marauders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scrambler_(comics)"
 }

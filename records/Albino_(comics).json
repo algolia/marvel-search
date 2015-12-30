@@ -1,23 +1,27 @@
 {
-  "name": "Albino",
-  "url": "https://en.wikipedia.org/wiki/Albino_(comics)",
-  "realName": "Augusta Seger",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Jeff Johnson"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "197",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Albino.png",
+    "width": "151"
+  },
+  "name": "Albino",
+  "pageviews": 412,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Invisibility"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Albino.png",
-    "width": "151",
-    "height": "197"
-  },
-  "pageviews": 412
+  "realName": "Augusta Seger",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Albino_(comics)"
 }

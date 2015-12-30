@@ -1,29 +1,31 @@
 {
-  "name": "Timeslip",
-  "url": "https://en.wikipedia.org/wiki/Timeslip_(comics)",
-  "realName": "Rina Patel",
+  "aliases": "",
   "creators": [
     "Evan Skolnick",
     "Patrick Zircher"
   ],
-  "teams": [
-    "New Warriors"
+  "image": {
+    "height": "416",
+    "url": "https://upload.wikimedia.org/wikipedia/en/6/64/Timeslip_001.jpg",
+    "width": "200"
+  },
+  "name": "Timeslip",
+  "pageviews": 997,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Limited time travel",
     "Time manipulation",
     "Ability to send her consciousness through time"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/64/Timeslip_001.jpg",
-    "width": "200",
-    "height": "416"
-  },
-  "pageviews": 997
+  "realName": "Rina Patel",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "New Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Timeslip_(comics)"
 }

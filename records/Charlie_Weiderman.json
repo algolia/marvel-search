@@ -1,15 +1,15 @@
 {
-  "name": "Charlie Weiderman",
-  "url": "https://en.wikipedia.org/wiki/Charlie_Weiderman",
-  "realName": "Charles Weiderman",
+  "aliases": "\"Weinerman\", \"Whiney-Man\",",
   "creators": [
     "J. Michael Straczynski",
     "Mike Deodato"
   ],
-  "teams": [],
-  "aliases": "\"Weinerman\", \"Whiney-Man\",",
-  "species": [],
-  "partners": [],
+  "image": {
+  },
+  "name": "Charlie Weiderman",
+  "pageviews": 457,
+  "partners": [
+  ],
   "powers": [
     "Vibranium"
   ],
@@ -17,6 +17,10 @@
     "Superhuman speed and stamina derived Vibranium skinsuit",
     "which grants superhuman speed and strength."
   ],
-  "image": {},
-  "pageviews": 457
+  "realName": "Charles Weiderman",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Charlie_Weiderman"
 }

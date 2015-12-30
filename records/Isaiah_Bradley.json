@@ -1,7 +1,5 @@
 {
-  "name": "Isaiah Bradley",
-  "url": "https://en.wikipedia.org/wiki/Isaiah_Bradley",
-  "realName": "Isaiah Bradley",
+  "aliases": "Captain America",
   "creators": [
     "Kyle Baker",
     "Axel Alonso",
@@ -9,11 +7,17 @@
     "Joe Simon",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Captain America",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "223",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/IsaiahBradley.jpg/250px-IsaiahBradley.jpg",
+    "width": "250"
+  },
+  "name": "Isaiah Bradley",
+  "pageviews": 8496,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Trained unarmed combatant",
     "Peak physical attributes",
@@ -21,10 +25,10 @@
     "Extraordinary immunity to disease",
     "Carries a concave triangular metal shield"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/IsaiahBradley.jpg/250px-IsaiahBradley.jpg",
-    "width": "250",
-    "height": "223"
-  },
-  "pageviews": 8496
+  "realName": "Isaiah Bradley",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Isaiah_Bradley"
 }

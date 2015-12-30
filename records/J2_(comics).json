@@ -1,19 +1,17 @@
 {
-  "name": "J2",
-  "url": "https://en.wikipedia.org/wiki/J2_(comics)",
-  "realName": "Zane Yama-Marko",
+  "aliases": "Masked Midget, Juggernaut, Zane Marko",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [
-    "A-Next",
-    "X-People"
+  "image": {
+  },
+  "name": "J2",
+  "pageviews": 1702,
+  "partners": [
   ],
-  "aliases": "Masked Midget, Juggernaut, Zane Marko",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to transform into a being with superhuman strength",
     "speed",
@@ -21,6 +19,12 @@
     "durability and endurance",
     "Immunity to psychic attacks via durable yet mystical helmet"
   ],
-  "image": {},
-  "pageviews": 1702
+  "realName": "Zane Yama-Marko",
+  "species": [
+  ],
+  "teams": [
+    "A-Next",
+    "X-People"
+  ],
+  "url": "https://en.wikipedia.org/wiki/J2_(comics)"
 }

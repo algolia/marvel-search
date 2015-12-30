@@ -1,20 +1,25 @@
 {
-  "name": "Mahkizmo",
-  "url": "https://en.wikipedia.org/wiki/Mahkizmo",
-  "realName": "Mahkizmo",
+  "aliases": "The Nuclear Man",
   "creators": [
     "Gerry Conway",
     "Rich Buckler"
   ],
-  "teams": [],
-  "aliases": "The Nuclear Man",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Mahkizmo",
+  "pageviews": 310,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability",
     "ability to release explosive energy with his punch (\"nuclear punch\")"
   ],
-  "image": {},
-  "pageviews": 310
+  "realName": "Mahkizmo",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mahkizmo"
 }

@@ -1,21 +1,25 @@
 {
-  "name": "Rhapsody",
-  "url": "https://en.wikipedia.org/wiki/Rhapsody_(comics)",
-  "realName": "Rachel Argosy",
+  "aliases": "",
   "creators": [
     "Peter David"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "image": {
+  },
+  "name": "Rhapsody",
+  "pageviews": 357,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "flight",
     "musical mental manipulation"
   ],
-  "image": {},
-  "pageviews": 357
+  "realName": "Rachel Argosy",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Rhapsody_(comics)"
 }

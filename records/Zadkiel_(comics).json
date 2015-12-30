@@ -1,25 +1,28 @@
 {
-  "name": "Zadkiel",
-  "url": "https://en.wikipedia.org/wiki/Zadkiel_(comics)",
-  "realName": "",
+  "aliases": "Angel of Vengeance, The New Morningstar, He of the Ineffable Sefiroth, Chief of the Order of Dominions, Lord of the Black Host{{Issue|date",
   "creators": [
     "Jason Aaron"
   ],
-  "teams": [],
-  "aliases": "Angel of Vengeance, The New Morningstar, He of the Ineffable Sefiroth, Chief of the Order of Dominions, Lord of the Black Host{{Issue|date",
-  "species": [
-    "Archangel"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/2f/Zadkiel_Head.jpg",
+    "width": "199"
+  },
+  "name": "Zadkiel",
+  "pageviews": 1569,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Unknown",
     "but briefly possessed the powers of God."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/2f/Zadkiel_Head.jpg",
-    "width": "199",
-    "height": "450"
-  },
-  "pageviews": 1569
+  "realName": "",
+  "species": [
+    "Archangel"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Zadkiel_(comics)"
 }

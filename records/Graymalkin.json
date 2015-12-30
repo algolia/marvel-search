@@ -1,22 +1,20 @@
 {
-  "name": "Graymalkin",
-  "url": "https://en.wikipedia.org/wiki/Graymalkin",
-  "realName": "Jonas Graymalkin",
+  "aliases": "",
   "creators": [
     "Marc Guggenheim",
     "Yanick Paquette"
   ],
-  "teams": [
-    "X-Men-In-Training",
-    "Young X-Men",
-    "Jean Grey School Students"
+  "image": {
+    "height": "322",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/300219-123649-greymalkin_large.jpg/200px-300219-123649-greymalkin_large.jpg",
+    "width": "200"
+  },
+  "name": "Graymalkin",
+  "pageviews": 2246,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "(When in darkness)",
     "Longevity",
@@ -24,10 +22,14 @@
     "Superhuman strength",
     "Invulnerability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/300219-123649-greymalkin_large.jpg/200px-300219-123649-greymalkin_large.jpg",
-    "width": "200",
-    "height": "322"
-  },
-  "pageviews": 2246
+  "realName": "Jonas Graymalkin",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men-In-Training",
+    "Young X-Men",
+    "Jean Grey School Students"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Graymalkin"
 }

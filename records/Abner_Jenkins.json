@@ -1,19 +1,16 @@
 {
-  "name": "Abner Jenkins",
-  "url": "https://en.wikipedia.org/wiki/Abner_Jenkins",
-  "realName": "Abner Ronald Jenkins",
+  "aliases": "Beetle , MACH-1, MACH-2, Abe Jenkins, Matthew Davis, MACH-3, MACH-IV, MACH-VII",
   "creators": [
     "Stan Lee",
     "Carl Burgos"
   ],
-  "teams": [
-    "Commission on Superhuman Activities",
-    "Thunderbolts",
-    "Masters of Evil",
-    "Sinister Syndicate"
-  ],
-  "aliases": "Beetle , MACH-1, MACH-2, Abe Jenkins, Matthew Davis, MACH-3, MACH-IV, MACH-VII",
-  "species": [],
+  "image": {
+    "height": "365",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Abner_Jenkins_Mach-VII.jpg/250px-Abner_Jenkins_Mach-VII.jpg",
+    "width": "250"
+  },
+  "name": "Abner Jenkins",
+  "pageviews": 4556,
   "partners": [
     "Collector",
     "Justin Hammer",
@@ -31,10 +28,14 @@
     "Flight via artificial wings",
     "Variety of weapons systems"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Abner_Jenkins_Mach-VII.jpg/250px-Abner_Jenkins_Mach-VII.jpg",
-    "width": "250",
-    "height": "365"
-  },
-  "pageviews": 4556
+  "realName": "Abner Ronald Jenkins",
+  "species": [
+  ],
+  "teams": [
+    "Commission on Superhuman Activities",
+    "Thunderbolts",
+    "Masters of Evil",
+    "Sinister Syndicate"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Abner_Jenkins"
 }

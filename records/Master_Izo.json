@@ -1,29 +1,32 @@
 {
-  "name": "Master Izo",
-  "url": "https://en.wikipedia.org/wiki/Master_Izo",
-  "realName": "Izo",
+  "aliases": "",
   "creators": [
     "Ed Brubaker",
     "Michael Lark"
   ],
-  "teams": [
-    "The Chaste",
-    "The Hand"
+  "image": {
+    "height": "411",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/3e/Master_Izo.jpg",
+    "width": "250"
+  },
+  "name": "Master Izo",
+  "pageviews": 4831,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman radar senses",
     "Echolocation",
     "Formidable martial artist",
     "Immortality"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/3e/Master_Izo.jpg",
-    "width": "250",
-    "height": "411"
-  },
-  "pageviews": 4831
+  "realName": "Izo",
+  "species": [
+  ],
+  "teams": [
+    "The Chaste",
+    "The Hand"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Master_Izo"
 }

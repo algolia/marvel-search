@@ -1,24 +1,28 @@
 {
-  "name": "Brent Jackson",
-  "url": "https://en.wikipedia.org/wiki/Brent_Jackson",
-  "realName": "Brent Montgomery Jackson",
+  "aliases": "Agent Jackson, Director Jackson",
   "creators": [
     "Frank Tieri",
     "Sean Chen"
+  ],
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Agent_Brent_Jackson.jpg",
+    "width": "200"
+  },
+  "name": "Brent Jackson",
+  "pageviews": 1088,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Brent Montgomery Jackson",
+  "species": [
   ],
   "teams": [
     "Weapon X",
     "S.H.I.E.L.D."
   ],
-  "aliases": "Agent Jackson, Director Jackson",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Agent_Brent_Jackson.jpg",
-    "width": "200",
-    "height": "300"
-  },
-  "pageviews": 1088
+  "url": "https://en.wikipedia.org/wiki/Brent_Jackson"
 }

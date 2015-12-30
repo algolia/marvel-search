@@ -1,25 +1,18 @@
 {
-  "name": "Feral",
-  "url": "https://en.wikipedia.org/wiki/Feral_(comics)",
-  "realName": "Maria Callasantos",
+  "aliases": "",
   "creators": [
     "Rob Liefeld",
     "Fabian Nicieza"
   ],
-  "teams": [
-    "Selene",
-    "X-Corporation",
-    "New Hellions",
-    "Mutant Liberation Front",
-    "New Mutants",
-    "X-Force",
-    "Morlocks"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Feral01.jpg/193px-Feral01.jpg",
+    "width": "193"
+  },
+  "name": "Feral",
+  "pageviews": 4076,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "human mutant"
-  ],
-  "partners": [],
   "powers": [
     "Feline",
     "prehensile"
@@ -31,10 +24,18 @@
     "sharp claws",
     "fangs and prehensile tail."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Feral01.jpg/193px-Feral01.jpg",
-    "width": "193",
-    "height": "450"
-  },
-  "pageviews": 4076
+  "realName": "Maria Callasantos",
+  "species": [
+    "human mutant"
+  ],
+  "teams": [
+    "Selene",
+    "X-Corporation",
+    "New Hellions",
+    "Mutant Liberation Front",
+    "New Mutants",
+    "X-Force",
+    "Morlocks"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Feral_(comics)"
 }

@@ -1,16 +1,20 @@
 {
-  "name": "Straw Man",
-  "url": "https://en.wikipedia.org/wiki/Straw_Man_(comics)",
-  "realName": null,
+  "aliases": "Scarecrow,  Skirra Corvus",
   "creators": [
     "Scott Edelman",
     "Rico Rival"
   ],
-  "teams": [],
-  "aliases": "Scarecrow,  Skirra Corvus",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/96/StrawMan.jpg",
+    "width": "201"
+  },
+  "name": "Straw Man",
+  "pageviews": 1262,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman Strength",
     "Invulnerable",
@@ -20,10 +24,10 @@
     "Portal creation",
     "Weather manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/96/StrawMan.jpg",
-    "width": "201",
-    "height": "300"
-  },
-  "pageviews": 1262
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Straw_Man_(comics)"
 }

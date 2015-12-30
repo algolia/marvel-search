@@ -1,17 +1,18 @@
 {
-  "name": "Detroit Steel",
-  "url": "https://en.wikipedia.org/wiki/Detroit_Steel",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Matt Fraction",
     "Salvador Larocca"
   ],
-  "teams": [
-    "Hammer Industries"
+  "image": {
+    "height": "297",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/DetroitSteel.jpg/250px-DetroitSteel.jpg",
+    "width": "250"
+  },
+  "name": "Detroit Steel",
+  "pageviews": 1754,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Super-strength",
     "Flight",
@@ -25,10 +26,11 @@
     "rockets",
     "giant chainsaw"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/DetroitSteel.jpg/250px-DetroitSteel.jpg",
-    "width": "250",
-    "height": "297"
-  },
-  "pageviews": 1754
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Hammer Industries"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Detroit_Steel"
 }

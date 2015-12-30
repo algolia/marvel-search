@@ -1,18 +1,20 @@
 {
-  "name": "Skaar",
-  "url": "https://en.wikipedia.org/wiki/Skaar_(comics)",
-  "realName": "Skaar Banner",
+  "aliases": "Son of Hulk, Sakaarson, World Breaker, Killer of Killers, Hulk",
   "creators": [
     "Greg Pak",
     "John Romita, Jr."
   ],
-  "teams": [
-    "Dark Avengers"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Skaar.jpg/250px-Skaar.jpg",
+    "width": "250"
+  },
+  "name": "Skaar",
+  "pageviews": 3,
+  "partners": [
   ],
-  "aliases": "Son of Hulk, Sakaarson, World Breaker, Killer of Killers, Hulk",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled swordsman",
     "Superhuman strength",
@@ -22,10 +24,11 @@
     "Immunity to fire and high temperatures",
     "Ability to draw power from the planet"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Skaar.jpg/250px-Skaar.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 3
+  "realName": "Skaar Banner",
+  "species": [
+  ],
+  "teams": [
+    "Dark Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Skaar_(comics)"
 }

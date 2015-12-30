@@ -1,22 +1,18 @@
 {
-  "name": "Vance Astro",
-  "url": "https://en.wikipedia.org/wiki/Vance_Astro",
-  "realName": "Vance Astrovik; legally changed to Vance Astro",
+  "aliases": "Major Victory",
   "creators": [
     "Arnold Drake",
     "Gene Colan"
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "U.S. Air Force",
-    "Avengers",
-    "Guardians of the Galaxy"
+  "image": {
+    "height": "392",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Vanceastro.jpg/250px-Vanceastro.jpg",
+    "width": "250"
+  },
+  "name": "Vance Astro",
+  "pageviews": 7934,
+  "partners": [
   ],
-  "aliases": "Major Victory",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Psychokinesis"
   ],
@@ -31,10 +27,15 @@
     "Use of indestructible shield",
     "Wears copper alloy bodysuit"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Vanceastro.jpg/250px-Vanceastro.jpg",
-    "width": "250",
-    "height": "392"
-  },
-  "pageviews": 7934
+  "realName": "Vance Astrovik; legally changed to Vance Astro",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Guardians of the Galaxy",
+    "U.S. Air Force",
+    "Avengers",
+    "Guardians of the Galaxy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Vance_Astro"
 }

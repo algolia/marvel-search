@@ -1,22 +1,21 @@
 {
-  "name": "Sin",
-  "url": "https://en.wikipedia.org/wiki/Sin_(Marvel_Comics)",
-  "realName": "Sinthea Shmidt",
+  "aliases": "Mother Superior, Sister Sin, Erica Holstein, Red Skull , Skadi: Herald of the \"Serpent\"",
   "creators": [
     "J.M. DeMatteis",
     "Paul Neary"
   ],
-  "teams": [
-    "Serpent Squad",
-    "Sisters of Sin",
-    "The Worthy"
-  ],
-  "aliases": "Mother Superior, Sister Sin, Erica Holstein, Red Skull , Skadi: Herald of the \"Serpent\"",
-  "species": [],
+  "image": {
+    "height": "348",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Serpent_Squad.jpg/250px-Serpent_Squad.jpg",
+    "width": "250"
+  },
+  "name": "Sin",
+  "pageviews": 10024,
   "partners": [
     "Crossbones"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Expert hand to hand combatant and martial artist",
     "Highly skilled markswoman",
@@ -27,10 +26,13 @@
     "Teleportation",
     "Intangibility"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Serpent_Squad.jpg/250px-Serpent_Squad.jpg",
-    "width": "250",
-    "height": "348"
-  },
-  "pageviews": 10024
+  "realName": "Sinthea Shmidt",
+  "species": [
+  ],
+  "teams": [
+    "Serpent Squad",
+    "Sisters of Sin",
+    "The Worthy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sin_(Marvel_Comics)"
 }

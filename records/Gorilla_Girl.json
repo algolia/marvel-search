@@ -1,25 +1,28 @@
 {
-  "name": "Gorilla Girl",
-  "url": "https://en.wikipedia.org/wiki/Gorilla_Girl",
-  "realName": "Fahnbullah Eddy",
+  "aliases": "Gorilla Woman",
   "creators": [
     "Steven Grant",
     "Pat Broderick"
   ],
-  "teams": [
-    "Initiative"
+  "image": {
+    "height": "290",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Gorila_girl.jpg/250px-Gorila_girl.jpg",
+    "width": "250"
+  },
+  "name": "Gorilla Girl",
+  "pageviews": 1404,
+  "partners": [
   ],
-  "aliases": "Gorilla Woman",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to shapeshift into a super-strong and highly agile gorilla"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Gorila_girl.jpg/250px-Gorila_girl.jpg",
-    "width": "250",
-    "height": "290"
-  },
-  "pageviews": 1404
+  "realName": "Fahnbullah Eddy",
+  "species": [
+  ],
+  "teams": [
+    "Initiative"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gorilla_Girl"
 }

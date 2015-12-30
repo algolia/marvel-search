@@ -1,20 +1,20 @@
 {
-  "name": "Bloke",
-  "url": "https://en.wikipedia.org/wiki/Bloke_(comics)",
-  "realName": "Mickey Tork",
+  "aliases": "Rainbow",
   "creators": [
     "Peter Milligan",
     "Mike Allred"
   ],
-  "teams": [
-    "X-Force"
+  "image": {
+    "height": "191",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Bloke_Marvel.jpg/250px-Bloke_Marvel.jpg",
+    "width": "250"
+  },
+  "name": "Bloke",
+  "pageviews": 826,
+  "partners": [
   ],
-  "aliases": "Rainbow",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "endurance",
@@ -22,10 +22,12 @@
     "and durability",
     "Camouflage"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Bloke_Marvel.jpg/250px-Bloke_Marvel.jpg",
-    "width": "250",
-    "height": "191"
-  },
-  "pageviews": 826
+  "realName": "Mickey Tork",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bloke_(comics)"
 }

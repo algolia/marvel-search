@@ -1,23 +1,27 @@
 {
-  "name": "Black Swan",
-  "url": "https://en.wikipedia.org/wiki/Black_Swan_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Gail Simone",
     "Udon Studios"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "image": {
+  },
+  "name": "Black Swan",
+  "pageviews": 4668,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Ability to implant a telepathic virus in the minds of others which disrupts the natural functions of their brains to cut off access to and override motor coordination",
     "disorient their concentration",
     "etc."
   ],
-  "image": {},
-  "pageviews": 4668
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Black_Swan_(comics)"
 }

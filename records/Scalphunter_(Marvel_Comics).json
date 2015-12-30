@@ -1,30 +1,32 @@
 {
-  "name": "Scalphunter",
-  "url": "https://en.wikipedia.org/wiki/Scalphunter_(Marvel_Comics)",
-  "realName": "John Greycrow",
+  "aliases": "John Riverwind",
   "creators": [
     "Chris Claremont",
     "Marc Silvestri"
   ],
-  "teams": [
-    "Marauders",
-    "United States Army"
+  "image": {
+    "height": "358",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/ScalphunterUncanny.jpg",
+    "width": "200"
+  },
+  "name": "Scalphunter",
+  "pageviews": 1712,
+  "partners": [
   ],
-  "aliases": "John Riverwind",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Accelerated Healing factor",
     "Technomorphic powers allow him to control and manipulate mechanical constructs into any configuration he desires",
     "Master marksmanship"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/ScalphunterUncanny.jpg",
-    "width": "200",
-    "height": "358"
-  },
-  "pageviews": 1712
+  "realName": "John Greycrow",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Marauders",
+    "United States Army"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scalphunter_(Marvel_Comics)"
 }

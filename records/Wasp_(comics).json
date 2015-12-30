@@ -1,10 +1,29 @@
 {
-  "name": "Wasp",
-  "url": "https://en.wikipedia.org/wiki/Wasp_(comics)",
-  "realName": "Janet van Dyne",
+  "aliases": "Winsome Wasp",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/c0/AVEN071.jpg",
+    "width": "192"
+  },
+  "name": "Wasp",
+  "pageviews": 87942,
+  "partners": [
+    "Hank Pym"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Size manipulation",
+    "Flight",
+    "Bio-electric energy blasts",
+    "Telepathic insect control"
+  ],
+  "realName": "Janet van Dyne",
+  "species": [
   ],
   "teams": [
     "Avengers Unity Squad",
@@ -13,22 +32,5 @@
     "West Coast Avengers",
     "Mighty Avengers"
   ],
-  "aliases": "Winsome Wasp",
-  "species": [],
-  "partners": [
-    "Hank Pym"
-  ],
-  "powers": [],
-  "powersText": [
-    "Size manipulation",
-    "Flight",
-    "Bio-electric energy blasts",
-    "Telepathic insect control"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/c0/AVEN071.jpg",
-    "width": "192",
-    "height": "300"
-  },
-  "pageviews": 87942
+  "url": "https://en.wikipedia.org/wiki/Wasp_(comics)"
 }

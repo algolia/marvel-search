@@ -1,29 +1,31 @@
 {
-  "name": "Wildstreak",
-  "url": "https://en.wikipedia.org/wiki/Wildstreak",
-  "realName": "Tamika Bowden",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Herb Trimpe"
   ],
-  "teams": [
-    "Fantastic Four"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "174",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Wildstreakmu0.jpg/225px-Wildstreakmu0.jpg",
+    "width": "225"
+  },
+  "name": "Wildstreak",
+  "pageviews": 424,
   "partners": [
     "Thunderstrike"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "exo-skeleton and gauntlets giving her advanced strength",
     "speed",
     "agility"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Wildstreakmu0.jpg/225px-Wildstreakmu0.jpg",
-    "width": "225",
-    "height": "174"
-  },
-  "pageviews": 424
+  "realName": "Tamika Bowden",
+  "species": [
+  ],
+  "teams": [
+    "Fantastic Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wildstreak"
 }

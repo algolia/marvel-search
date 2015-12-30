@@ -1,21 +1,18 @@
 {
-  "name": "Vampire By Night",
-  "url": "https://en.wikipedia.org/wiki/Vampire_by_Night",
-  "realName": "Nina Price",
+  "aliases": "",
   "creators": [
     "Jeff Parker",
     "Federica Manfredi"
   ],
-  "teams": [
-    "S.H.I.E.L.D.'s Paranormal Containment Unit",
-    "S.T.A.K.E"
+  "image": {
+    "height": "282",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/NinaPrice_HCV.jpg/200px-NinaPrice_HCV.jpg",
+    "width": "200"
+  },
+  "name": "Vampire By Night",
+  "pageviews": 2638,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Vampire",
-    "Werewolf"
-  ],
-  "partners": [],
   "powers": [
     "Immortality",
     "Superhuman Strength",
@@ -38,10 +35,14 @@
     "Hypnosis",
     "Shapeshifting (wolf and bat)"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/NinaPrice_HCV.jpg/200px-NinaPrice_HCV.jpg",
-    "width": "200",
-    "height": "282"
-  },
-  "pageviews": 2638
+  "realName": "Nina Price",
+  "species": [
+    "Vampire",
+    "Werewolf"
+  ],
+  "teams": [
+    "S.H.I.E.L.D.'s Paranormal Containment Unit",
+    "S.T.A.K.E"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Vampire_by_Night"
 }

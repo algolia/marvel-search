@@ -1,24 +1,28 @@
 {
-  "name": "Smuggler",
-  "url": "https://en.wikipedia.org/wiki/Smuggler_(comics)",
-  "realName": "Conrad Josten",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Redeemers"
+  "image": {
+  },
+  "name": "Smuggler",
+  "pageviews": 695,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Darkforce suit grants:",
     "Portal generation",
     "Limb and extremities elongation",
     "Ability to create tendril-like grappling claws"
   ],
-  "image": {},
-  "pageviews": 695
+  "realName": "Conrad Josten",
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Redeemers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Smuggler_(comics)"
 }

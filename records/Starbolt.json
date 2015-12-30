@@ -1,23 +1,27 @@
 {
-  "name": "Starbolt",
-  "url": "https://en.wikipedia.org/wiki/Starbolt",
-  "realName": null,
+  "aliases": "Bolt",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Imperial Guard"
+  "image": {
+  },
+  "name": "Starbolt",
+  "pageviews": 1215,
+  "partners": [
   ],
-  "aliases": "Bolt",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Fire immunity",
     "Generates high heated plasma",
     "Supersonic flight"
   ],
-  "image": {},
-  "pageviews": 1215
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Starbolt"
 }

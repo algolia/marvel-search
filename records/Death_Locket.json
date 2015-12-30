@@ -1,17 +1,23 @@
 {
-  "name": "Death Locket",
-  "url": "https://en.wikipedia.org/wiki/Death_Locket",
-  "realName": "Rebecca Ryker",
+  "aliases": "",
   "creators": [
     "Dennis Hopeless",
     "Kev Walker"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 1039
+  "image": {
+  },
+  "name": "Death Locket",
+  "pageviews": 1039,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Rebecca Ryker",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Death_Locket"
 }

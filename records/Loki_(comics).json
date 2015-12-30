@@ -1,23 +1,19 @@
 {
-  "name": "Loki",
-  "url": "https://en.wikipedia.org/wiki/Loki_(comics)",
-  "realName": null,
+  "aliases": "Loki Odinson, Scarlet Witch , Serrure, Ikol",
   "creators": [
     "Stan Lee",
     "Larry Lieber",
     "Jack Kirby"
   ],
-  "teams": [
-    "Acts of Vengeance",
-    "Astonishing Avengers",
-    "Cabal",
-    "Young Avengers"
+  "image": {
+    "height": "310",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Loki_Laufeyson_Earth_616.jpg/225px-Loki_Laufeyson_Earth_616.jpg",
+    "width": "225"
+  },
+  "name": "Loki",
+  "pageviews": 53786,
+  "partners": [
   ],
-  "aliases": "Loki Odinson, Scarlet Witch , Serrure, Ikol",
-  "species": [
-    "Jötunn (Frost Giant)"
-  ],
-  "partners": [],
   "powers": [
     "Superhuman intelligence",
     "strength",
@@ -43,10 +39,15 @@
     "Shapeshifting",
     "Telepathy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Loki_Laufeyson_Earth_616.jpg/225px-Loki_Laufeyson_Earth_616.jpg",
-    "width": "225",
-    "height": "310"
-  },
-  "pageviews": 53786
+  "realName": null,
+  "species": [
+    "Jötunn (Frost Giant)"
+  ],
+  "teams": [
+    "Acts of Vengeance",
+    "Astonishing Avengers",
+    "Cabal",
+    "Young Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Loki_(comics)"
 }

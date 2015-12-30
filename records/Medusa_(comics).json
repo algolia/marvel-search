@@ -1,26 +1,20 @@
 {
-  "name": "Medusa",
-  "url": "https://en.wikipedia.org/wiki/Medusa_(comics)",
-  "realName": null,
+  "aliases": "Madame Medusa",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Inhuman Royal Family",
-    "Fantastic Four",
-    "Frightful Four",
-    "Lady Liberators",
-    "Illuminati",
-    "Future Foundation",
-    "A-Force"
+  "image": {
+    "height": "306",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Medusa_profile.JPG/250px-Medusa_profile.JPG",
+    "width": "250"
+  },
+  "name": "Medusa",
+  "pageviews": 27020,
+  "partners": [
   ],
-  "aliases": "Madame Medusa",
-  "species": [
-    "Inhuman"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Accomplished thief",
     "Prehensile hair",
@@ -31,10 +25,18 @@
     "agility",
     "and reflexes (common among the Inhumans)"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Medusa_profile.JPG/250px-Medusa_profile.JPG",
-    "width": "250",
-    "height": "306"
-  },
-  "pageviews": 27020
+  "realName": null,
+  "species": [
+    "Inhuman"
+  ],
+  "teams": [
+    "Inhuman Royal Family",
+    "Fantastic Four",
+    "Frightful Four",
+    "Lady Liberators",
+    "Illuminati",
+    "Future Foundation",
+    "A-Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Medusa_(comics)"
 }

@@ -1,25 +1,29 @@
 {
-  "name": "Tinkerer",
-  "url": "https://en.wikipedia.org/wiki/Tinkerer",
-  "realName": "Phineas Mason",
+  "aliases": "Terrible Tinkerer",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "Terrible Tinkerer",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "232",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Tinkerer.jpg/100px-Tinkerer.jpg",
+    "width": "100"
+  },
+  "name": "Tinkerer",
+  "pageviews": 5462,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Expert weapons designer and manufacturer",
     "Genius intellect",
     "Extensive scientific knowledge"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Tinkerer.jpg/100px-Tinkerer.jpg",
-    "width": "100",
-    "height": "232"
-  },
-  "pageviews": 5462
+  "realName": "Phineas Mason",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tinkerer"
 }

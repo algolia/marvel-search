@@ -1,16 +1,16 @@
 {
-  "name": "Ghaur",
-  "url": "https://en.wikipedia.org/wiki/Ghaur",
-  "realName": "Ghaur",
+  "aliases": "Lord Ghaur",
   "creators": [
     "Peter B. Gillis",
     "Sal Buscema"
   ],
-  "teams": [
-    "Deviants"
-  ],
-  "aliases": "Lord Ghaur",
-  "species": [],
+  "image": {
+    "height": "384",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/AvengersWestCoastAnnual4.jpg",
+    "width": "250"
+  },
+  "name": "Ghaur",
+  "pageviews": 910,
   "partners": [
     "Llyra",
     "Kro",
@@ -24,10 +24,11 @@
     "Mind control of other deviants",
     "Shapeshifting"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/AvengersWestCoastAnnual4.jpg",
-    "width": "250",
-    "height": "384"
-  },
-  "pageviews": 910
+  "realName": "Ghaur",
+  "species": [
+  ],
+  "teams": [
+    "Deviants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ghaur"
 }

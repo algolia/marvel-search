@@ -1,18 +1,20 @@
 {
-  "name": "Crimson Dynamo",
-  "url": "https://en.wikipedia.org/wiki/Crimson_Dynamo",
-  "realName": "Anton Vanko",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Don Heck"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human"
+  "image": {
+    "height": "309",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/97/Crimson_Dynamo_Armor_MK_I.jpg",
+    "width": "244"
+  },
+  "name": "Crimson Dynamo",
+  "pageviews": 15796,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Armored suit grants:",
     "Superhuman strength and durability",
@@ -21,10 +23,11 @@
     "Small missiles on the back shoulder area",
     "Computer and radio transmitter and receiver"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/97/Crimson_Dynamo_Armor_MK_I.jpg",
-    "width": "244",
-    "height": "309"
-  },
-  "pageviews": 15796
+  "realName": "Anton Vanko",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Crimson_Dynamo"
 }

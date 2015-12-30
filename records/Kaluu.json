@@ -1,24 +1,27 @@
 {
-  "name": "Kaluu",
-  "url": "https://en.wikipedia.org/wiki/Kaluu",
-  "realName": "Kaluu",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Denny O'Neill",
     "Bill Everett"
   ],
-  "teams": [
-    "The Mighty Avengers"
+  "image": {
+  },
+  "name": "Kaluu",
+  "pageviews": 4821,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Mastery of magic"
   ],
-  "image": {},
-  "pageviews": 4821
+  "realName": "Kaluu",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+    "The Mighty Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kaluu"
 }

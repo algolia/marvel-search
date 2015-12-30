@@ -1,19 +1,17 @@
 {
-  "name": "Pink Pearl",
-  "url": "https://en.wikipedia.org/wiki/Pink_Pearl_(comics)",
-  "realName": "Pearl Gross",
+  "aliases": "",
   "creators": [
     "John Byrne"
   ],
-  "teams": [
-    "Femizons",
-    "Masters of Evil"
+  "image": {
+    "height": "389",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Pinkpearl.jpg/249px-Pinkpearl.jpg",
+    "width": "249"
+  },
+  "name": "Pink Pearl",
+  "pageviews": 1032,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human"
-  ],
-  "partners": [],
   "powers": [
     "super strength",
     "invulnerability",
@@ -24,10 +22,13 @@
     "invulnerability",
     "agility"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Pinkpearl.jpg/249px-Pinkpearl.jpg",
-    "width": "249",
-    "height": "389"
-  },
-  "pageviews": 1032
+  "realName": "Pearl Gross",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+    "Femizons",
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Pink_Pearl_(comics)"
 }

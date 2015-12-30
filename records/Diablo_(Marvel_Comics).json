@@ -1,27 +1,30 @@
 {
-  "name": "Diablo",
-  "url": "https://en.wikipedia.org/wiki/Diablo_(Marvel_Comics)",
-  "realName": "Esteban Corazón De Ablo",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Masters of Evil"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+  },
+  "name": "Diablo",
+  "pageviews": 3044,
   "partners": [
     "Gilded Lily",
     "Dragon Man"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Master alchemist",
     "Genius-level intellect",
     "Arsenal of alchemical potions",
     "Extended lifespan"
   ],
-  "image": {},
-  "pageviews": 3044
+  "realName": "Esteban Corazón De Ablo",
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Diablo_(Marvel_Comics)"
 }

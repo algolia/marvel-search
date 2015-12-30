@@ -1,21 +1,20 @@
 {
-  "name": "Stacy X",
-  "url": "https://en.wikipedia.org/wiki/Stacy_X",
-  "realName": "Miranda Leevald",
+  "aliases": "Ripcord",
   "creators": [
     "Joe Casey",
     "Tom Raney"
   ],
-  "teams": [
-    "New Warriors",
-    "X-Men"
+  "image": {
+    "height": "328",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Stacy_X_%28Miranda_Leevald%29.png",
+    "width": "180"
+  },
+  "name": "Stacy X",
+  "pageviews": 4359,
+  "partners": [
   ],
-  "aliases": "Ripcord",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Natural skill :",
     "Skilled hand-to-hand fighter",
@@ -27,10 +26,13 @@
     "As Ripcord:",
     "Extendable wrist tentacles"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Stacy_X_%28Miranda_Leevald%29.png",
-    "width": "180",
-    "height": "328"
-  },
-  "pageviews": 4359
+  "realName": "Miranda Leevald",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "New Warriors",
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Stacy_X"
 }

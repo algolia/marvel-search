@@ -1,14 +1,16 @@
 {
-  "name": "Diamond",
-  "url": "https://en.wikipedia.org/wiki/Diamond_(comics)",
-  "realName": "Kent Chang",
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [
-    "Human"
+  "creators": [
   ],
-  "partners": [],
+  "image": {
+    "height": "313",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Diamond_new_gen.jpg/250px-Diamond_new_gen.jpg",
+    "width": "250"
+  },
+  "name": "Diamond",
+  "pageviews": 306,
+  "partners": [
+  ],
   "powers": [
     "diamond",
     "martial artist"
@@ -18,10 +20,11 @@
     "Limited super strength",
     "Elite martial artist"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Diamond_new_gen.jpg/250px-Diamond_new_gen.jpg",
-    "width": "250",
-    "height": "313"
-  },
-  "pageviews": 306
+  "realName": "Kent Chang",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Diamond_(comics)"
 }

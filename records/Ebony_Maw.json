@@ -1,22 +1,26 @@
 {
-  "name": "Ebony Maw",
-  "url": "https://en.wikipedia.org/wiki/Ebony_Maw",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Jonathan Hickman",
     "Jerome Opeña"
   ],
-  "teams": [
-    "Black Order"
+  "image": {
+  },
+  "name": "Ebony Maw",
+  "pageviews": 3776,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Genius-Level Intellect",
     "Master manipulator who can control minds through his Speech."
   ],
-  "image": {},
-  "pageviews": 3776
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Black Order"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ebony_Maw"
 }

@@ -1,25 +1,28 @@
 {
-  "name": "Silk Fever",
-  "url": "https://en.wikipedia.org/wiki/Silk_Fever",
-  "realName": "Min Li Ng",
+  "aliases": "Firewall, Theary",
   "creators": [
     "Fabian Nicieza",
     "Mark Bagley"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Folding Circle",
-    "Force of Nature"
+  "image": {
+  },
+  "name": "Silk Fever",
+  "pageviews": 611,
+  "partners": [
   ],
-  "aliases": "Firewall, Theary",
-  "species": [],
-  "partners": [],
   "powers": [
     "Pyrokinesis"
   ],
   "powersText": [
     "Pyrokinesis"
   ],
-  "image": {},
-  "pageviews": 611
+  "realName": "Min Li Ng",
+  "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Folding Circle",
+    "Force of Nature"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Silk_Fever"
 }

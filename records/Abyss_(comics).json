@@ -1,29 +1,32 @@
 {
-  "name": "Abyss",
-  "url": "https://en.wikipedia.org/wiki/Abyss_(comics)",
-  "realName": "Nils Styger",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "Mark Waid",
     "Roger Cruz",
     "Steve Epting"
   ],
-  "teams": [
-    "X-Cell",
-    "X-Corps"
+  "image": {
+  },
+  "name": "Abyss",
+  "pageviews": 5826,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Dimensional Form",
     "Dimensional transportation",
     "Shapeshifting",
     "Empathy"
   ],
-  "image": {},
-  "pageviews": 5826
+  "realName": "Nils Styger",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Cell",
+    "X-Corps"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Abyss_(comics)"
 }

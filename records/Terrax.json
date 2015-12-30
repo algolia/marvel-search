@@ -1,22 +1,19 @@
 {
-  "name": "Terrax",
-  "url": "https://en.wikipedia.org/wiki/Terrax",
-  "realName": "Tyros",
+  "aliases": "Tyros the Terrible, Terrax the Tamer",
   "creators": [
     "Marv Wolfman",
     "John Byrne",
     "Joe Sinnott"
   ],
-  "teams": [
-    "Heralds of Galactus",
-    "Offenders",
-    "Legion of the Unliving"
+  "image": {
+    "height": "428",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/85/FantasticFour-242.jpg",
+    "width": "250"
+  },
+  "name": "Terrax",
+  "pageviews": 8706,
+  "partners": [
   ],
-  "aliases": "Tyros the Terrible, Terrax the Tamer",
-  "species": [
-    "Birjan"
-  ],
-  "partners": [],
   "powers": [
     "Power Cosmic"
   ],
@@ -31,10 +28,14 @@
     "Use of Power Cosmic",
     "Ability to fly at warp speed"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/85/FantasticFour-242.jpg",
-    "width": "250",
-    "height": "428"
-  },
-  "pageviews": 8351
+  "realName": "Tyros",
+  "species": [
+    "Birjan"
+  ],
+  "teams": [
+    "Heralds of Galactus",
+    "Offenders",
+    "Legion of the Unliving"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Terrax"
 }

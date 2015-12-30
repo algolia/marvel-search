@@ -1,17 +1,18 @@
 {
-  "name": "Solarman",
-  "url": "https://en.wikipedia.org/wiki/Solarman",
-  "realName": "Benjamin Tucker",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jim Mooney",
     "Mike Zeck"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Solarman",
+  "pageviews": 1864,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "superhuman strength",
     "supersonic flight",
@@ -20,6 +21,10 @@
     "heat",
     "and other forms of energy"
   ],
-  "image": {},
-  "pageviews": 1864
+  "realName": "Benjamin Tucker",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Solarman"
 }

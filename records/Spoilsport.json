@@ -1,24 +1,28 @@
 {
-  "name": "Spoilsport",
-  "url": "https://en.wikipedia.org/wiki/Spoilsport",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Jay Faerber",
     "Terry Dodson"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "image": {
+  },
+  "name": "Spoilsport",
+  "pageviews": 348,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Depowered",
     "Formerly:",
     "Ability to defy gravity via inline skates",
     "Ability to travel on any surface at high speeds"
   ],
-  "image": {},
-  "pageviews": 348
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spoilsport"
 }

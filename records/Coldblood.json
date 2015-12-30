@@ -1,18 +1,18 @@
 {
-  "name": "Coldblood",
-  "url": "https://en.wikipedia.org/wiki/Coldblood",
-  "realName": "Eric Savin",
+  "aliases": "Coldblood-7",
   "creators": [
     "Doug Moench",
     "Paul Gulacy"
   ],
-  "teams": [
-    "S.H.I.E.L.D.",
-    "Roxxon Oil"
+  "image": {
+    "height": "385",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Coldbloodmu0.png/250px-Coldbloodmu0.png",
+    "width": "250"
+  },
+  "name": "Coldblood",
+  "pageviews": 5387,
+  "partners": [
   ],
-  "aliases": "Coldblood-7",
-  "species": [],
-  "partners": [],
   "powers": [
     "Cyborg"
   ],
@@ -21,10 +21,12 @@
     "Excellent hand to hand combatant",
     "Superb marksman"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Coldbloodmu0.png/250px-Coldbloodmu0.png",
-    "width": "250",
-    "height": "385"
-  },
-  "pageviews": 5387
+  "realName": "Eric Savin",
+  "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Roxxon Oil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Coldblood"
 }

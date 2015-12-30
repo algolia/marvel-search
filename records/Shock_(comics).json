@@ -1,21 +1,26 @@
 {
-  "name": "Shock",
-  "url": "https://en.wikipedia.org/wiki/Shock_(comics)",
-  "realName": "Ariel Tremmore",
+  "aliases": "Mistress of Fear, Ariel Fagan",
   "creators": [
     "Dan G. Chichester",
     "Scott McDaniel"
   ],
-  "teams": [],
-  "aliases": "Mistress of Fear, Ariel Fagan",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Shock",
+  "pageviews": 303,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Emotion manipulation via pheromones",
     "Fear-inducing hallucination generation",
     "Razor-sharp teeth and talons"
   ],
-  "image": {},
-  "pageviews": 303
+  "realName": "Ariel Tremmore",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shock_(comics)"
 }

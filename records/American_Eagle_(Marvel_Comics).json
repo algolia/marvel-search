@@ -1,18 +1,20 @@
 {
-  "name": "American Eagle",
-  "url": "https://en.wikipedia.org/wiki/American_Eagle_(Marvel_Comics)",
-  "realName": "Jason Strongbow",
+  "aliases": "",
   "creators": [
     "Doug Moench",
     "Ron Wilson"
   ],
-  "teams": [
-    "H.A.M.M.E.R."
+  "image": {
+    "height": "533",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/NewEagle.jpg/250px-NewEagle.jpg",
+    "width": "250"
+  },
+  "name": "American Eagle",
+  "pageviews": 2076,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -21,10 +23,11 @@
     "Enhanced senses",
     "Carries a crossbow which fires special bolts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/NewEagle.jpg/250px-NewEagle.jpg",
-    "width": "250",
-    "height": "533"
-  },
-  "pageviews": 2076
+  "realName": "Jason Strongbow",
+  "species": [
+  ],
+  "teams": [
+    "H.A.M.M.E.R."
+  ],
+  "url": "https://en.wikipedia.org/wiki/American_Eagle_(Marvel_Comics)"
 }

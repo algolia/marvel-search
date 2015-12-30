@@ -1,7 +1,5 @@
 {
-  "name": "Scarlet Scarab",
-  "url": "https://en.wikipedia.org/wiki/Scarlet_Scarab",
-  "realName": "First:<br/>Abdul Faoul<br/>Second:<br/>Mehemet Faoul",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Archie Goodwin",
@@ -9,12 +7,20 @@
     "Doug Moench",
     "Alan Kupperberg"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 375
+  "image": {
+  },
+  "name": "Scarlet Scarab",
+  "pageviews": 375,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "First:<br/>Abdul Faoul<br/>Second:<br/>Mehemet Faoul",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scarlet_Scarab"
 }

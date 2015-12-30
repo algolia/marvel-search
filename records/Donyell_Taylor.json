@@ -1,20 +1,19 @@
 {
-  "name": "Donyell Taylor",
-  "url": "https://en.wikipedia.org/wiki/Donyell_Taylor",
-  "realName": "Donyell Taylor",
+  "aliases": "Bandit, Night Thrasher",
   "creators": [
     "Fabian Nicieza"
   ],
-  "teams": [
-    "New Warriors",
-    "Taylor Foundation"
+  "image": {
+    "height": "366",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Newwarv2010.jpg/250px-Newwarv2010.jpg",
+    "width": "250"
+  },
+  "name": "Donyell Taylor",
+  "pageviews": 1266,
+  "partners": [
   ],
-  "aliases": "Bandit, Night Thrasher",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Accomplished acrobat",
     "marksman",
@@ -26,10 +25,13 @@
     "Use of weapons",
     "Ability to generate a contact based bioelectric charge"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Newwarv2010.jpg/250px-Newwarv2010.jpg",
-    "width": "250",
-    "height": "366"
-  },
-  "pageviews": 1266
+  "realName": "Donyell Taylor",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "New Warriors",
+    "Taylor Foundation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Donyell_Taylor"
 }

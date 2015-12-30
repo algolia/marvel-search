@@ -1,10 +1,28 @@
 {
-  "name": "Bill Foster",
-  "url": "https://en.wikipedia.org/wiki/Bill_Foster_(comics)",
-  "realName": "Dr. William Barrett \"Bill\" Foster",
+  "aliases": "Black Goliath, Giant-Man Goliath , Rockwell Dodsworth",
   "creators": [
     "Stan Lee",
     "Don Heck"
+  ],
+  "image": {
+    "height": "303",
+    "url": "https://upload.wikimedia.org/wikipedia/en/7/77/GoliathWiki.jpg",
+    "width": "200"
+  },
+  "name": "Bill Foster",
+  "pageviews": 32507,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Brilliant biochemist",
+    "Gifted intellect",
+    "Superhuman strength",
+    "Size and mass manipulation"
+  ],
+  "realName": "Dr. William Barrett \"Bill\" Foster",
+  "species": [
   ],
   "teams": [
     "Centers for Disease Control",
@@ -12,20 +30,5 @@
     "Defenders",
     "Champions"
   ],
-  "aliases": "Black Goliath, Giant-Man Goliath , Rockwell Dodsworth",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Brilliant biochemist",
-    "Gifted intellect",
-    "Superhuman strength",
-    "Size and mass manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/7/77/GoliathWiki.jpg",
-    "width": "200",
-    "height": "303"
-  },
-  "pageviews": 32507
+  "url": "https://en.wikipedia.org/wiki/Bill_Foster_(comics)"
 }

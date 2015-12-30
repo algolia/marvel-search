@@ -1,26 +1,30 @@
 {
-  "name": "Dominic Fortune",
-  "url": "https://en.wikipedia.org/wiki/Dominic_Fortune",
-  "realName": "Duvid Jerome \"David\" Fortunov",
+  "aliases": "Davey Fortunov",
   "creators": [
     "Howard Chaykin",
     "J. M. DeMatteis",
     "Kerry Gammill"
+  ],
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/DominicFortune.jpg/250px-DominicFortune.jpg",
+    "width": "250"
+  },
+  "name": "Dominic Fortune",
+  "pageviews": 2293,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Duvid Jerome \"David\" Fortunov",
+  "species": [
   ],
   "teams": [
     "Vanguard",
     "World Counter-terrorism Agency",
     "\"Avengers\" (1959)"
   ],
-  "aliases": "Davey Fortunov",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/DominicFortune.jpg/250px-DominicFortune.jpg",
-    "width": "250",
-    "height": "388"
-  },
-  "pageviews": 2293
+  "url": "https://en.wikipedia.org/wiki/Dominic_Fortune"
 }

@@ -1,32 +1,34 @@
 {
-  "name": "Windshear",
-  "url": "https://en.wikipedia.org/wiki/Windshear_(comics)",
-  "realName": "Colin Ashworth Hume",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Michael Bair"
   ],
-  "teams": [
-    "Alpha Flight",
-    "Beta Flight",
-    "Roxxon Oil"
+  "image": {
+    "height": "352",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/aa/Windshear.jpg",
+    "width": "180"
+  },
+  "name": "Windshear",
+  "pageviews": 598,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Depowered",
     "formerly:",
     "Hard Air Manipulation",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/aa/Windshear.jpg",
-    "width": "180",
-    "height": "352"
-  },
-  "pageviews": 598
+  "realName": "Colin Ashworth Hume",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Alpha Flight",
+    "Beta Flight",
+    "Roxxon Oil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Windshear_(comics)"
 }

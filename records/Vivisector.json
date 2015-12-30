@@ -1,31 +1,33 @@
 {
-  "name": "Vivisector",
-  "url": "https://en.wikipedia.org/wiki/Vivisector",
-  "realName": "Myles Alfred",
+  "aliases": "",
   "creators": [
     "Peter Milligan",
     "Mike Allred"
   ],
-  "teams": [
-    "X-Force",
-    "X-Statix"
+  "image": {
+    "height": "352",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Vivisector.jpg/250px-Vivisector.jpg",
+    "width": "250"
+  },
+  "name": "Vivisector",
+  "pageviews": 1033,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ability to transform into wolf-like creature:",
     "Superhuman strength",
     "agility and senses",
     "Sharp claws"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Vivisector.jpg/250px-Vivisector.jpg",
-    "width": "250",
-    "height": "352"
-  },
-  "pageviews": 1033
+  "realName": "Myles Alfred",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Force",
+    "X-Statix"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Vivisector"
 }

@@ -1,25 +1,29 @@
 {
-  "name": "Painter",
-  "url": "https://en.wikipedia.org/wiki/Painter_(comics)",
-  "realName": "",
+  "aliases": "Painter of 1000 Perils",
   "creators": [
     "Stan Lee",
     "Robert Bernstein",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Painter of 1000 Perils",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "363",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Strang_Tales_108_cover.jpg/250px-Strang_Tales_108_cover.jpg",
+    "width": "250"
+  },
+  "name": "Painter",
+  "pageviews": 270,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Matter manipulation",
     "superhuman speed"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Strang_Tales_108_cover.jpg/250px-Strang_Tales_108_cover.jpg",
-    "width": "250",
-    "height": "363"
-  },
-  "pageviews": 270
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Painter_(comics)"
 }

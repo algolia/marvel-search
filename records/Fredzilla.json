@@ -1,27 +1,29 @@
 {
-  "name": "Fredzilla",
-  "url": "https://en.wikipedia.org/wiki/Fredzilla",
-  "realName": "Fred",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "David Nakayama"
   ],
-  "teams": [
-    "Big Hero 6"
+  "image": {
+    "height": "250",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Fred_%28Marvel_Comics%29.jpg/250px-Fred_%28Marvel_Comics%29.jpg",
+    "width": "250"
+  },
+  "name": "Fredzilla",
+  "pageviews": 8343,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Kaiju"
   ],
   "powersText": [
     "Kaiju aura generation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Fred_%28Marvel_Comics%29.jpg/250px-Fred_%28Marvel_Comics%29.jpg",
-    "width": "250",
-    "height": "250"
-  },
-  "pageviews": 8343
+  "realName": "Fred",
+  "species": [
+  ],
+  "teams": [
+    "Big Hero 6"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Fredzilla"
 }

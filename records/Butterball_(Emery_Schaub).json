@@ -1,28 +1,31 @@
 {
-  "name": "Butterball",
-  "url": "https://en.wikipedia.org/wiki/Butterball_(Emery_Schaub)",
-  "realName": null,
+  "aliases": "Boulder",
   "creators": [
     "Christos N. Gage",
     "Steve Uy"
   ],
-  "teams": [
-    "Initiative",
-    "Avengers Academy"
+  "image": {
+    "height": "404",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Butterball.jpg/250px-Butterball.jpg",
+    "width": "250"
+  },
+  "name": "Butterball",
+  "pageviews": 2108,
+  "partners": [
   ],
-  "aliases": "Boulder",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Total invulnerability",
     "Complete numbness to physical sensation",
     "Unlimited stamina"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Butterball.jpg/250px-Butterball.jpg",
-    "width": "250",
-    "height": "404"
-  },
-  "pageviews": 2108
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Initiative",
+    "Avengers Academy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Butterball_(Emery_Schaub)"
 }

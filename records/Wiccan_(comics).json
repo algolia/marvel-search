@@ -1,17 +1,16 @@
 {
-  "name": "Wiccan",
-  "url": "https://en.wikipedia.org/wiki/Wiccan_(comics)",
-  "realName": "William \"Billy\" Kaplan",
+  "aliases": "Asgardian",
   "creators": [
     "Allan Heinberg",
     "Jim Cheung"
   ],
-  "teams": [
-    "Young Avengers",
-    "Avengers Idea Mechanics"
-  ],
-  "aliases": "Asgardian",
-  "species": [],
+  "image": {
+    "height": "279",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/YA_Wiccan.png/250px-YA_Wiccan.png",
+    "width": "250"
+  },
+  "name": "Wiccan",
+  "pageviews": 19246,
   "partners": [
     "Hulkling"
   ],
@@ -46,10 +45,12 @@
     "Telekinesis",
     "Telepathy"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/YA_Wiccan.png/250px-YA_Wiccan.png",
-    "width": "250",
-    "height": "279"
-  },
-  "pageviews": 19246
+  "realName": "William \"Billy\" Kaplan",
+  "species": [
+  ],
+  "teams": [
+    "Young Avengers",
+    "Avengers Idea Mechanics"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wiccan_(comics)"
 }

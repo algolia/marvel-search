@@ -1,28 +1,30 @@
 {
-  "name": "Big Bertha",
-  "url": "https://en.wikipedia.org/wiki/Big_Bertha_(comics)",
-  "realName": "Ashley Crawford",
+  "aliases": "",
   "creators": [
     "John Byrne"
   ],
-  "teams": [
-    "Great Lakes Avengers"
+  "image": {
+    "height": "168",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Big_Bertha_from_GLA_1_June_2005.jpg/230px-Big_Bertha_from_GLA_1_June_2005.jpg",
+    "width": "230"
+  },
+  "name": "Big Bertha",
+  "pageviews": 5171,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Skilled aircraft pilot",
     "Superhuman strength and durability",
     "Ability to alter size and mass of her body and leap great distances"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Big_Bertha_from_GLA_1_June_2005.jpg/230px-Big_Bertha_from_GLA_1_June_2005.jpg",
-    "width": "230",
-    "height": "168"
-  },
-  "pageviews": 5171
+  "realName": "Ashley Crawford",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Great Lakes Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Big_Bertha_(comics)"
 }

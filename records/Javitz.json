@@ -1,24 +1,27 @@
 {
-  "name": "Javitz",
-  "url": "https://en.wikipedia.org/wiki/Javitz",
-  "realName": "Isaac Javitz",
+  "aliases": "",
   "creators": [
     "John Romita Jr.",
     "Brandon Peterson",
     "Scott Lobdell"
   ],
-  "teams": [
-    "Acolytes"
+  "image": {
+  },
+  "name": "Javitz",
+  "pageviews": 380,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength and durability"
   ],
-  "image": {},
-  "pageviews": 380
+  "realName": "Isaac Javitz",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Acolytes"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Javitz"
 }

@@ -1,18 +1,24 @@
 {
-  "name": "Hazmat",
-  "url": "https://en.wikipedia.org/wiki/Hazmat_(Marvel_Nemesis:_Rise_of_the_Imperfects)",
-  "realName": null,
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
+  "creators": [
+  ],
   "image": {
+    "height": "409",
     "url": "https://upload.wikimedia.org/wikipedia/en/1/19/Marvel_Nemesis.jpg",
-    "width": "243",
-    "height": "409"
+    "width": "243"
   },
-  "pageviews": 60
+  "name": "Hazmat",
+  "pageviews": 60,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hazmat_(Marvel_Nemesis:_Rise_of_the_Imperfects)"
 }

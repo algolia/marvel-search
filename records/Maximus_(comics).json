@@ -1,20 +1,20 @@
 {
-  "name": "Maximus",
-  "url": "https://en.wikipedia.org/wiki/Maximus_(comics)",
-  "realName": null,
+  "aliases": "Maximus the Mad, Maximus the Magnificent",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Cabal"
+  "image": {
+    "height": "347",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Maximus.jpg/250px-Maximus.jpg",
+    "width": "250"
+  },
+  "name": "Maximus",
+  "pageviews": 21142,
+  "partners": [
   ],
-  "aliases": "Maximus the Mad, Maximus the Magnificent",
-  "species": [
-    "Inhuman"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Extraordinarily gifted inventor",
     "Superhuman intellect",
@@ -22,10 +22,12 @@
     "Advanced knowledge of physics",
     "mechanics and biology"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Maximus.jpg/250px-Maximus.jpg",
-    "width": "250",
-    "height": "347"
-  },
-  "pageviews": 21142
+  "realName": null,
+  "species": [
+    "Inhuman"
+  ],
+  "teams": [
+    "Cabal"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Maximus_(comics)"
 }

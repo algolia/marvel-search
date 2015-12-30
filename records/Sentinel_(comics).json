@@ -1,21 +1,26 @@
 {
-  "name": "Sentinel",
-  "url": "https://en.wikipedia.org/wiki/Sentinel_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "312",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/First_Sentinel.jpg/250px-First_Sentinel.jpg",
-    "width": "250",
-    "height": "312"
+    "width": "250"
   },
-  "pageviews": 19490
+  "name": "Sentinel",
+  "pageviews": 19490,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sentinel_(comics)"
 }

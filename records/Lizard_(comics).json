@@ -1,21 +1,20 @@
 {
-  "name": "The Lizard",
-  "url": "https://en.wikipedia.org/wiki/Lizard_(comics)",
-  "realName": "Curtis \"Curt\" Connors",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [
-    "Sinister Six",
-    "Sinister Twelve"
+  "image": {
+    "height": "151",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/19/The-Lizard-Comic-Book-Character.jpg",
+    "width": "200"
+  },
+  "name": "The Lizard",
+  "pageviews": 16394,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutate"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ferocious hand to hand combatant",
     "Superhuman strength",
@@ -32,10 +31,13 @@
     "6-foot-long tail capable of shattering concrete",
     "Ability to bring out nearby creatures' primitive reptilian instincts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/19/The-Lizard-Comic-Book-Character.jpg",
-    "width": "200",
-    "height": "151"
-  },
-  "pageviews": 16394
+  "realName": "Curtis \"Curt\" Connors",
+  "species": [
+    "Human Mutate"
+  ],
+  "teams": [
+    "Sinister Six",
+    "Sinister Twelve"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Lizard_(comics)"
 }

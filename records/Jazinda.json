@@ -1,27 +1,30 @@
 {
-  "name": "Jazinda",
-  "url": "https://en.wikipedia.org/wiki/Jazinda",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "Lady Liberators"
-  ],
   "aliases": "",
-  "species": [
-    "Skrull"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "341",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Twoofclubs_jazinda.jpg/250px-Twoofclubs_jazinda.jpg",
+    "width": "250"
+  },
+  "name": "Jazinda",
+  "pageviews": 1446,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Trained infiltrator and bounty hunter",
     "Shapeshifting",
     "Mystically induced immortality",
     "Regenerative healing factor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Twoofclubs_jazinda.jpg/250px-Twoofclubs_jazinda.jpg",
-    "width": "250",
-    "height": "341"
-  },
-  "pageviews": 1446
+  "realName": null,
+  "species": [
+    "Skrull"
+  ],
+  "teams": [
+    "Lady Liberators"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jazinda"
 }

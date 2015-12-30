@@ -1,27 +1,31 @@
 {
-  "name": "Asbestos Man",
-  "url": "https://en.wikipedia.org/wiki/Asbestos_Man",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Ernest Hart",
     "Dick Ayers"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Strange_Tales_111_cover.jpg/250px-Strange_Tales_111_cover.jpg",
+    "width": "250"
+  },
+  "name": "Asbestos Man",
+  "pageviews": 1861,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Genius chemist",
     "Wears asbestos suit that is highly toxic and resistant to heat",
     "Possesses iron shield that can block out flames",
     "Energy manipulation via metal net"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Strange_Tales_111_cover.jpg/250px-Strange_Tales_111_cover.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 1861
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Asbestos_Man"
 }

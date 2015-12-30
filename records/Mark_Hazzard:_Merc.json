@@ -1,14 +1,14 @@
 {
-  "name": "Mark Hazzard",
-  "url": "https://en.wikipedia.org/wiki/Mark_Hazzard:_Merc",
-  "realName": "Mark Hazzard",
+  "aliases": "",
   "creators": [
     "Archie Goodwin"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+  },
+  "name": "Mark Hazzard",
+  "pageviews": 555,
+  "partners": [
+  ],
   "powers": [
     "West Point",
     "combat experience"
@@ -16,6 +16,10 @@
   "powersText": [
     "West Point graduate<BR>Years of combat experience"
   ],
-  "image": {},
-  "pageviews": 555
+  "realName": "Mark Hazzard",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mark_Hazzard:_Merc"
 }

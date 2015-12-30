@@ -1,19 +1,18 @@
 {
-  "name": "Ebon Samurai",
-  "url": "https://en.wikipedia.org/wiki/Ebon_Samurai",
-  "realName": "Kioshi Keishicho",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "Clayton Henry"
   ],
-  "teams": [
-    "Big Hero 6"
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Ebon_Samurai_%28Marvel_Comics%29.jpg/250px-Ebon_Samurai_%28Marvel_Comics%29.jpg",
+    "width": "250"
+  },
+  "name": "Ebon Samurai",
+  "pageviews": 2336,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "yūrei"
-  ],
-  "partners": [],
   "powers": [
     "hand-to-hand combat"
   ],
@@ -21,10 +20,12 @@
     "undead warrior with cursed samurai long sword",
     "Superb hand-to-hand combatant"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Ebon_Samurai_%28Marvel_Comics%29.jpg/250px-Ebon_Samurai_%28Marvel_Comics%29.jpg",
-    "width": "250",
-    "height": "388"
-  },
-  "pageviews": 2336
+  "realName": "Kioshi Keishicho",
+  "species": [
+    "yūrei"
+  ],
+  "teams": [
+    "Big Hero 6"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ebon_Samurai"
 }

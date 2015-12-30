@@ -1,23 +1,18 @@
 {
-  "name": "Trapster",
-  "url": "https://en.wikipedia.org/wiki/Trapster",
-  "realName": "Peter Petruski",
+  "aliases": "Paste-Pot Pete",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Frightful Four",
-    "Intelligencia",
-    "Maggia",
-    "Sinister Six"
-  ],
-  "aliases": "Paste-Pot Pete",
-  "species": [],
+  "image": {
+  },
+  "name": "Trapster",
+  "pageviews": 5199,
   "partners": [
     "Zodiac"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Expert chemist",
     "Skilled marksman",
@@ -28,6 +23,14 @@
     "Wall crawling",
     "Various trap-based weapons"
   ],
-  "image": {},
-  "pageviews": 5199
+  "realName": "Peter Petruski",
+  "species": [
+  ],
+  "teams": [
+    "Frightful Four",
+    "Intelligencia",
+    "Maggia",
+    "Sinister Six"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Trapster"
 }

@@ -1,11 +1,37 @@
 {
-  "name": "Wolverine",
-  "url": "https://en.wikipedia.org/wiki/Wolverine_(character)",
-  "realName": "James Howlett",
+  "aliases": "Logan, Logan Howlett, Patch, Weapon X (Ten), Death, Mutate #9601, Emilio Garra, Weapon Chi, Experiment X, Agent Ten, Peter Richards, Mai' keth, Black Dragon, Captain Terror, John Logan, Jim Logan,",
   "creators": [
     "Roy Thomas",
     "Len Wein",
     "John Romita, Sr."
+  ],
+  "image": {
+    "height": "372",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/c8/Marvelwolverine.jpg",
+    "width": "250"
+  },
+  "name": "Wolverine",
+  "pageviews": 144651,
+  "partners": [
+  ],
+  "powers": [
+    "healing factor",
+    "Adamantium",
+    "Superhuman senses",
+    "reflexes",
+    "longevity"
+  ],
+  "powersText": [
+    "Master martial artist",
+    "Regenerative healing factor",
+    "Adamantium-plated skeletal structure and retractable claws",
+    "Superhuman sensesreflexes",
+    "and animal-like attributes",
+    "Extended longevity"
+  ],
+  "realName": "James Howlett",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Canadian Army",
@@ -30,30 +56,5 @@
     "X-Men",
     "X-Treme Sanctions Executive"
   ],
-  "aliases": "Logan, Logan Howlett, Patch, Weapon X (Ten), Death, Mutate #9601, Emilio Garra, Weapon Chi, Experiment X, Agent Ten, Peter Richards, Mai' keth, Black Dragon, Captain Terror, John Logan, Jim Logan,",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "healing factor",
-    "Adamantium",
-    "Superhuman senses",
-    "reflexes",
-    "longevity"
-  ],
-  "powersText": [
-    "Master martial artist",
-    "Regenerative healing factor",
-    "Adamantium-plated skeletal structure and retractable claws",
-    "Superhuman sensesreflexes",
-    "and animal-like attributes",
-    "Extended longevity"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/c8/Marvelwolverine.jpg",
-    "width": "250",
-    "height": "372"
-  },
-  "pageviews": 144651
+  "url": "https://en.wikipedia.org/wiki/Wolverine_(character)"
 }

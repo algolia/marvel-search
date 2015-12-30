@@ -1,10 +1,24 @@
 {
-  "name": "Asp",
-  "url": "https://en.wikipedia.org/wiki/Asp_(comics)",
-  "realName": "Cleo Nefertiti",
+  "aliases": "The Temptress (stage names)",
   "creators": [
     "Mark Gruenwald",
     "Paul Neary"
+  ],
+  "image": {
+  },
+  "name": "Asp",
+  "pageviews": 1689,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Accomplished dancer",
+    "Ability to generate and project \"venom bolts\" of bioelectric energy that can paralyze or kill living beings"
+  ],
+  "realName": "Cleo Nefertiti",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "BAD Girls, Inc.",
@@ -12,16 +26,5 @@
     "Secret Avengers",
     "Serpent Society"
   ],
-  "aliases": "The Temptress (stage names)",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Accomplished dancer",
-    "Ability to generate and project \"venom bolts\" of bioelectric energy that can paralyze or kill living beings"
-  ],
-  "image": {},
-  "pageviews": 1689
+  "url": "https://en.wikipedia.org/wiki/Asp_(comics)"
 }

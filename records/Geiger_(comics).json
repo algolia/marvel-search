@@ -1,26 +1,29 @@
 {
-  "name": "Geiger",
-  "url": "https://en.wikipedia.org/wiki/Geiger_(comics)",
-  "realName": "Delilah Dearborn",
+  "aliases": "",
   "creators": [
     "Dan Slott",
     "Ken Lashley"
+  ],
+  "image": {
+    "height": "422",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Geiger2.jpg/250px-Geiger2.jpg",
+    "width": "250"
+  },
+  "name": "Geiger",
+  "pageviews": 812,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Can mimic the powers of any gamma-powered beings in her immediate vicinity"
+  ],
+  "realName": "Delilah Dearborn",
+  "species": [
   ],
   "teams": [
     "The Initiative",
     "Empire State University"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Can mimic the powers of any gamma-powered beings in her immediate vicinity"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Geiger2.jpg/250px-Geiger2.jpg",
-    "width": "250",
-    "height": "422"
-  },
-  "pageviews": 812
+  "url": "https://en.wikipedia.org/wiki/Geiger_(comics)"
 }

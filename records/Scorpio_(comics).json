@@ -1,23 +1,27 @@
 {
-  "name": "Scorpio",
-  "url": "https://en.wikipedia.org/wiki/Scorpio_(comics)",
-  "realName": "Jacob \"Jake\" Fury",
+  "aliases": "Flip Mason, Count Julio Scarlotti, Nick Fury",
   "creators": [
     "Jim Steranko"
+  ],
+  "image": {
+    "height": "268",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/NickFuryScorpioTPB.jpg/175px-NickFuryScorpioTPB.jpg",
+    "width": "175"
+  },
+  "name": "Scorpio",
+  "pageviews": 3636,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Jacob \"Jake\" Fury",
+  "species": [
   ],
   "teams": [
     "Zodiac",
     "HYDRA"
   ],
-  "aliases": "Flip Mason, Count Julio Scarlotti, Nick Fury",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/NickFuryScorpioTPB.jpg/175px-NickFuryScorpioTPB.jpg",
-    "width": "175",
-    "height": "268"
-  },
-  "pageviews": 3636
+  "url": "https://en.wikipedia.org/wiki/Scorpio_(comics)"
 }

@@ -1,10 +1,27 @@
 {
-  "name": "Lila Cheney",
-  "url": "https://en.wikipedia.org/wiki/Lila_Cheney",
-  "realName": "Lila Cheney",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Bob McLeod"
+  ],
+  "image": {
+    "height": "201",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Lila_Cheney.jpg/200px-Lila_Cheney.jpg",
+    "width": "200"
+  },
+  "name": "Lila Cheney",
+  "pageviews": 1884,
+  "partners": [
+  ],
+  "powers": [
+    "Teleportation"
+  ],
+  "powersText": [
+    "Teleportation"
+  ],
+  "realName": "Lila Cheney",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Men",
@@ -12,21 +29,5 @@
     "New Mutants",
     "Gladiators"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "Teleportation"
-  ],
-  "powersText": [
-    "Teleportation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Lila_Cheney.jpg/200px-Lila_Cheney.jpg",
-    "width": "200",
-    "height": "201"
-  },
-  "pageviews": 1884
+  "url": "https://en.wikipedia.org/wiki/Lila_Cheney"
 }

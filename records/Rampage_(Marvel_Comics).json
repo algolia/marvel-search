@@ -1,18 +1,19 @@
 {
-  "name": "Stuart Clarke",
-  "url": "https://en.wikipedia.org/wiki/Rampage_(Marvel_Comics)",
-  "realName": "Stuart Clarke",
+  "aliases": "Rampage, Capitan Action Figure",
   "creators": [
     "Tony Isabella",
     "Don Heck",
     "John Tartag"
   ],
-  "teams": [],
-  "aliases": "Rampage, Capitan Action Figure",
-  "species": [
-    "Human"
+  "image": {
+    "height": "357",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Stuartclarke.jpg/250px-Stuartclarke.jpg",
+    "width": "250"
+  },
+  "name": "Stuart Clarke",
+  "pageviews": 1468,
+  "partners": [
   ],
-  "partners": [],
   "powers": [
     "Genius",
     "powered armor",
@@ -23,10 +24,11 @@
     "Genius-level intelligence.",
     "Used to have a powered armor that granted him super-strength and durability."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Stuartclarke.jpg/250px-Stuartclarke.jpg",
-    "width": "250",
-    "height": "357"
-  },
-  "pageviews": 1468
+  "realName": "Stuart Clarke",
+  "species": [
+    "Human"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Rampage_(Marvel_Comics)"
 }

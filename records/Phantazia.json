@@ -1,29 +1,31 @@
 {
-  "name": "Phantazia",
-  "url": "https://en.wikipedia.org/wiki/Phantazia",
-  "realName": "Eileen Harsaw",
+  "aliases": "",
   "creators": [
     "Fabian Nicieza",
     "Rob Liefeld"
   ],
-  "teams": [
-    "Brotherhood of Mutants"
+  "image": {
+    "height": "472",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Phantazia_without_costume_from_X-Men_Unlimited.jpg/150px-Phantazia_without_costume_from_X-Men_Unlimited.jpg",
+    "width": "150"
+  },
+  "name": "Phantazia",
+  "pageviews": 891,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Depowered Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Electromagnetic energy wavelength manipulation/disruption",
     "invisibility",
     "flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Phantazia_without_costume_from_X-Men_Unlimited.jpg/150px-Phantazia_without_costume_from_X-Men_Unlimited.jpg",
-    "width": "150",
-    "height": "472"
-  },
-  "pageviews": 891
+  "realName": "Eileen Harsaw",
+  "species": [
+    "Depowered Mutant"
+  ],
+  "teams": [
+    "Brotherhood of Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Phantazia"
 }

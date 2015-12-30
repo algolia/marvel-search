@@ -1,18 +1,19 @@
 {
-  "name": "Sunturion",
-  "url": "https://en.wikipedia.org/wiki/Sunturion",
-  "realName": "- Arthur Dearborn",
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "John Romita, Jr.",
     "Bob Layton"
   ],
-  "teams": [
-    "Roxxon Oil"
+  "image": {
+    "height": "450",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sunturion.jpg/159px-Sunturion.jpg",
+    "width": "159"
+  },
+  "name": "Sunturion",
+  "pageviews": 749,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Density",
     "Microwave",
@@ -27,10 +28,11 @@
     "flight",
     "teleportation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sunturion.jpg/159px-Sunturion.jpg",
-    "width": "159",
-    "height": "450"
-  },
-  "pageviews": 749
+  "realName": "- Arthur Dearborn",
+  "species": [
+  ],
+  "teams": [
+    "Roxxon Oil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sunturion"
 }

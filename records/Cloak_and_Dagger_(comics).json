@@ -1,25 +1,18 @@
 {
-  "name": "Cloak and Dagger",
-  "url": "https://en.wikipedia.org/wiki/Cloak_and_Dagger_(comics)",
-  "realName": "(Cloak) Tyrone \"Ty\" Johnson<br>(Dagger) Tandy Bowen",
+  "aliases": "",
   "creators": [
     "Bill Mantlo",
     "Ed Hannigan"
   ],
-  "teams": [
-    "X-Men",
-    "Dark X-Men",
-    "Secret Avengers (Civil War)",
-    "Runaways",
-    "New Warriors",
-    "Secret Defenders",
-    "Marvel Knights"
+  "image": {
+    "height": "303",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/27/Cloak_and_Dagger_1_%281983%29.jpg",
+    "width": "200"
+  },
+  "name": "Cloak and Dagger",
+  "pageviews": 23852,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutates"
-  ],
-  "partners": [],
   "powers": [
     "Teleportation",
     "Darkforce"
@@ -33,10 +26,18 @@
     "Ability to purge addictions from people",
     "Ability to heal with her light daggers"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/27/Cloak_and_Dagger_1_%281983%29.jpg",
-    "width": "200",
-    "height": "303"
-  },
-  "pageviews": 23852
+  "realName": "(Cloak) Tyrone \"Ty\" Johnson<br>(Dagger) Tandy Bowen",
+  "species": [
+    "Human Mutates"
+  ],
+  "teams": [
+    "X-Men",
+    "Dark X-Men",
+    "Secret Avengers (Civil War)",
+    "Runaways",
+    "New Warriors",
+    "Secret Defenders",
+    "Marvel Knights"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Cloak_and_Dagger_(comics)"
 }

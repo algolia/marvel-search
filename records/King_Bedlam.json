@@ -1,27 +1,29 @@
 {
-  "name": "King Bedlam",
-  "url": "https://en.wikipedia.org/wiki/King_Bedlam",
-  "realName": "Christopher Terrence Aaronson",
+  "aliases": "Terry Aaronson",
   "creators": [
     "John Francis",
     "Jim Cheung"
   ],
-  "teams": [
-    "New Hellions"
+  "image": {
+    "height": "446",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/KingBedlam_X-Force_88.jpg/200px-KingBedlam_X-Force_88.jpg",
+    "width": "200"
+  },
+  "name": "King Bedlam",
+  "pageviews": 607,
+  "partners": [
   ],
-  "aliases": "Terry Aaronson",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ability to generate telepathic static"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/KingBedlam_X-Force_88.jpg/200px-KingBedlam_X-Force_88.jpg",
-    "width": "200",
-    "height": "446"
-  },
-  "pageviews": 607
+  "realName": "Christopher Terrence Aaronson",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "New Hellions"
+  ],
+  "url": "https://en.wikipedia.org/wiki/King_Bedlam"
 }

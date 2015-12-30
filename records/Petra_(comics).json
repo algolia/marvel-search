@@ -1,29 +1,30 @@
 {
-  "name": "Petra",
-  "url": "https://en.wikipedia.org/wiki/Petra_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Ed Brubaker",
     "Pete Woods"
   ],
-  "teams": [
-    "X-Men"
+  "image": {
+    "height": "419",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Petra_%28comics%29.JPG/225px-Petra_%28comics%29.JPG",
+    "width": "225"
+  },
+  "name": "Petra",
+  "pageviews": 4598,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Earth manipulation"
   ],
   "powersText": [
     "Earth manipulation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Petra_%28comics%29.JPG/225px-Petra_%28comics%29.JPG",
-    "width": "225",
-    "height": "419"
-  },
-  "pageviews": 4598
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Petra_(comics)"
 }

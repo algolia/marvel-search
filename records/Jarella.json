@@ -1,24 +1,28 @@
 {
-  "name": "Jarella",
-  "url": "https://en.wikipedia.org/wiki/Jarella",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Harlan Ellison",
     "Roy Thomas",
     "Herb Trimpe"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "350",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/54/Jarella_001.jpg",
+    "width": "130"
+  },
+  "name": "Jarella",
+  "pageviews": 2826,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Skilled swordswoman and strategist."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/54/Jarella_001.jpg",
-    "width": "130",
-    "height": "350"
-  },
-  "pageviews": 2826
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jarella"
 }

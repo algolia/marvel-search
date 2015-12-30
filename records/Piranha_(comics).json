@@ -1,24 +1,28 @@
 {
-  "name": "Piranha",
-  "url": "https://en.wikipedia.org/wiki/Piranha_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Marv Wolfman",
     "George Tuska"
   ],
-  "teams": [
-    "Deep Six"
+  "image": {
+  },
+  "name": "Piranha",
+  "pageviews": 760,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "Human intellect",
     "Sharp teeth",
     "Fish telepathy"
   ],
-  "image": {},
-  "pageviews": 760
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Deep Six"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Piranha_(comics)"
 }

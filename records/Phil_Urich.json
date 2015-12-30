@@ -1,17 +1,18 @@
 {
-  "name": "Phil Urich",
-  "url": "https://en.wikipedia.org/wiki/Phil_Urich",
-  "realName": "Philip Benjamin \"Phil\" Urich",
-  "creators": [],
-  "teams": [
-    "Loners",
-    "Daily Bugle",
-    "The Hand"
-  ],
   "aliases": "Green Goblin Hobgoblin , Goblin Knight",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "201",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Phil_Urich_Hobgoblin.jpg/250px-Phil_Urich_Hobgoblin.jpg",
+    "width": "250"
+  },
+  "name": "Phil Urich",
+  "pageviews": 4309,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "(As Green Goblin):",
     "Superhuman strength",
@@ -25,10 +26,13 @@
     "Wears a costume with wings on the back that allow him to fly",
     "Use of goblin-themed weapons and flaming sword"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Phil_Urich_Hobgoblin.jpg/250px-Phil_Urich_Hobgoblin.jpg",
-    "width": "250",
-    "height": "201"
-  },
-  "pageviews": 4309
+  "realName": "Philip Benjamin \"Phil\" Urich",
+  "species": [
+  ],
+  "teams": [
+    "Loners",
+    "Daily Bugle",
+    "The Hand"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Phil_Urich"
 }

@@ -1,23 +1,20 @@
 {
-  "name": "Stingray",
-  "url": "https://en.wikipedia.org/wiki/Stingray_(comics)",
-  "realName": "Dr. Walter Newell",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Bill Everett"
   ],
-  "teams": [
-    "Avengers",
-    "Defenders",
-    "Heroes for Hire",
-    "\"Secret Avengers\"",
-    "The Initiative",
-    "Astonishing Avengers"
+  "image": {
+    "height": "473",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/cc/Stingray1.jpg",
+    "width": "217"
+  },
+  "name": "Stingray",
+  "pageviews": 3756,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Experienced oceanographer",
     "Skilled inventor of oceanographic equipment",
@@ -29,10 +26,16 @@
     "Gliding via streamlined wings",
     "Electrical bolt projection via gloves"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/cc/Stingray1.jpg",
-    "width": "217",
-    "height": "473"
-  },
-  "pageviews": 3756
+  "realName": "Dr. Walter Newell",
+  "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "Heroes for Hire",
+    "\"Secret Avengers\"",
+    "The Initiative",
+    "Astonishing Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Stingray_(comics)"
 }

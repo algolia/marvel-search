@@ -1,24 +1,22 @@
 {
-  "name": "Thunderbolt Ross",
-  "url": "https://en.wikipedia.org/wiki/Thunderbolt_Ross",
-  "realName": "Thaddeus E. \"Thunderbolt\" Ross",
+  "aliases": "Red Hulk, Rulk, The Thing (future Imperfect)",
   "creators": [
     "Stan Lee",
     "Jack Kirby",
     "Jeph Loeb",
     "Ed McGuiness"
   ],
-  "teams": [
-    "Hulkbusters",
-    "United States Air Force",
-    "Offenders",
-    "Avengers",
-    "Thunderbolts"
+  "image": {
+    "height": "225",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/ThunderboltRoss.jpg",
+    "width": "160"
+  },
+  "name": "Thunderbolt Ross",
+  "pageviews": 106662,
+  "partners": [
   ],
-  "aliases": "Red Hulk, Rulk, The Thing (future Imperfect)",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "As Ross:",
     "Expert military strategist",
@@ -31,10 +29,15 @@
     "Energy absorption",
     "Heat generation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/ThunderboltRoss.jpg",
-    "width": "160",
-    "height": "225"
-  },
-  "pageviews": 106662
+  "realName": "Thaddeus E. \"Thunderbolt\" Ross",
+  "species": [
+  ],
+  "teams": [
+    "Hulkbusters",
+    "United States Air Force",
+    "Offenders",
+    "Avengers",
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thunderbolt_Ross"
 }

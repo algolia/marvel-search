@@ -1,22 +1,20 @@
 {
-  "name": "Rage",
-  "url": "https://en.wikipedia.org/wiki/Rage_(comics)",
-  "realName": "Elvin Daryl Haliday",
+  "aliases": "",
   "creators": [
     "Larry Hama",
     "Paul Ryan"
   ],
-  "teams": [
-    "Counter Force",
-    "The Initiative",
-    "New Warriors",
-    "Avengers",
-    "Psionex"
+  "image": {
+    "height": "252",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Ragecomics.jpg/250px-Ragecomics.jpg",
+    "width": "250"
+  },
+  "name": "Rage",
+  "pageviews": 3243,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Skilled street fighter",
     "Superhuman strength",
@@ -25,10 +23,15 @@
     "durability and resistance to injury",
     "Great leaping ability"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Ragecomics.jpg/250px-Ragecomics.jpg",
-    "width": "250",
-    "height": "252"
-  },
-  "pageviews": 3243
+  "realName": "Elvin Daryl Haliday",
+  "species": [
+  ],
+  "teams": [
+    "Counter Force",
+    "The Initiative",
+    "New Warriors",
+    "Avengers",
+    "Psionex"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Rage_(comics)"
 }

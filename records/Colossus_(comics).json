@@ -1,24 +1,18 @@
 {
-  "name": "Colossus",
-  "url": "https://en.wikipedia.org/wiki/Colossus_(comics)",
-  "realName": "Piotr \"Peter\" Nikolaievitch Rasputin",
+  "aliases": "Rasputin, Peter Nicholas, Juggernaut",
   "creators": [
     "Len Wein",
     "Dave Cockrum"
   ],
-  "teams": [
-    "X-Men",
-    "Defenders",
-    "Excalibur",
-    "Acolytes",
-    "Phoenix Five",
-    "X-Force"
+  "image": {
+    "height": "579",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/AstonColossus.png",
+    "width": "250"
+  },
+  "name": "Colossus",
+  "pageviews": 122898,
+  "partners": [
   ],
-  "aliases": "Rasputin, Peter Nicholas, Juggernaut",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "steel"
   ],
@@ -30,10 +24,17 @@
     "Additional superhuman strength and resistance to injury",
     "Unstoppable momentum"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/AstonColossus.png",
-    "width": "250",
-    "height": "579"
-  },
-  "pageviews": 122898
+  "realName": "Piotr \"Peter\" Nikolaievitch Rasputin",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men",
+    "Defenders",
+    "Excalibur",
+    "Acolytes",
+    "Phoenix Five",
+    "X-Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Colossus_(comics)"
 }

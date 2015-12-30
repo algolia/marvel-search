@@ -1,23 +1,27 @@
 {
-  "name": "Guilt Hulk",
-  "url": "https://en.wikipedia.org/wiki/Guilt_Hulk",
-  "realName": "Doctor Robert Bruce Banner",
+  "aliases": "The Beast <br> Brian Banner",
   "creators": [
     "Peter David",
     "Dale Keown"
   ],
-  "teams": [],
-  "aliases": "The Beast <br> Brian Banner",
+  "image": {
+    "height": "316",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/GuiltHulk.gif/250px-GuiltHulk.gif",
+    "width": "250"
+  },
+  "name": "Guilt Hulk",
+  "pageviews": 1686,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Doctor Robert Bruce Banner",
   "species": [
     "Mutate"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/GuiltHulk.gif/250px-GuiltHulk.gif",
-    "width": "250",
-    "height": "316"
-  },
-  "pageviews": 1686
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Guilt_Hulk"
 }

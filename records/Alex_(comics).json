@@ -1,21 +1,26 @@
 {
-  "name": "Alex",
-  "url": "https://en.wikipedia.org/wiki/Alex_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Paul Smith"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "350",
     "url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Callistox.jpg",
-    "width": "250",
-    "height": "350"
+    "width": "250"
   },
-  "pageviews": 361
+  "name": "Alex",
+  "pageviews": 361,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Alex_(comics)"
 }

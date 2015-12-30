@@ -1,19 +1,18 @@
 {
-  "name": "Angela",
-  "url": "https://en.wikipedia.org/wiki/Angela_(comics)",
-  "realName": "Angela Odinsdottir",
+  "aliases": "The Hunter",
   "creators": [
     "Neil Gaiman",
     "Todd McFarlane"
   ],
-  "teams": [
-    "Guardians of the Galaxy"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Angelamarveluniverse.jpg/250px-Angelamarveluniverse.jpg",
+    "width": "250"
+  },
+  "name": "Angela",
+  "pageviews": 25468,
+  "partners": [
   ],
-  "aliases": "The Hunter",
-  "species": [
-    "Asgardian"
-  ],
-  "partners": [],
   "powers": [
     "Immortality",
     "Superhuman strength",
@@ -31,10 +30,12 @@
     "Flight",
     "Master hand-to-hand combatant"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Angelamarveluniverse.jpg/250px-Angelamarveluniverse.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 25468
+  "realName": "Angela Odinsdottir",
+  "species": [
+    "Asgardian"
+  ],
+  "teams": [
+    "Guardians of the Galaxy"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Angela_(comics)"
 }

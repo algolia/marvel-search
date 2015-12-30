@@ -1,21 +1,26 @@
 {
-  "name": "Spitfire",
-  "url": "https://en.wikipedia.org/wiki/Spitfire_(New_Universe)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Eliot R. Brown",
     "Jack Morelli"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "376",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/SpitfireTroubleshooters1.jpg/250px-SpitfireTroubleshooters1.jpg",
-    "width": "250",
-    "height": "376"
+    "width": "250"
   },
-  "pageviews": 809
+  "name": "Spitfire",
+  "pageviews": 809,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spitfire_(New_Universe)"
 }

@@ -1,19 +1,20 @@
 {
-  "name": "Sublime",
-  "url": "https://en.wikipedia.org/wiki/Sublime_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "John Sublime, Dr. Sublime, Michael Grand, Kick",
   "creators": [
     "Grant Morrison",
     "Leinil Francis Yu"
   ],
-  "teams": [
-    "Weapon Plus Project",
-    "U-Men"
+  "image": {
+    "height": "373",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/John_sublime.jpg/250px-John_sublime.jpg",
+    "width": "250"
+  },
+  "name": "Sublime",
+  "pageviews": 3442,
+  "partners": [
   ],
-  "aliases": "John Sublime, Dr. Sublime, Michael Grand, Kick",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Mind control",
     "Biokinesis",
@@ -22,10 +23,12 @@
     "Power enhancement",
     "Possession"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/John_sublime.jpg/250px-John_sublime.jpg",
-    "width": "250",
-    "height": "373"
-  },
-  "pageviews": 3442
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Weapon Plus Project",
+    "U-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sublime_(Marvel_Comics)"
 }

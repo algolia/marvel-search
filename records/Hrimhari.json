@@ -1,10 +1,24 @@
 {
-  "name": "Hrimhari",
-  "url": "https://en.wikipedia.org/wiki/Hrimhari",
-  "realName": "Hrimhari",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Art Adams"
+  ],
+  "image": {
+  },
+  "name": "Hrimhari",
+  "pageviews": 1377,
+  "partners": [
+  ],
+  "powers": [
+    "shapeshift"
+  ],
+  "powersText": [
+    "Ability to shapeshift between human and grey wolf with various in between forms"
+  ],
+  "realName": "Hrimhari",
+  "species": [
+    "Asgardian"
   ],
   "teams": [
     "Asgard",
@@ -12,17 +26,5 @@
     "New Mutants",
     "Xavier Institute"
   ],
-  "aliases": "",
-  "species": [
-    "Asgardian"
-  ],
-  "partners": [],
-  "powers": [
-    "shapeshift"
-  ],
-  "powersText": [
-    "Ability to shapeshift between human and grey wolf with various in between forms"
-  ],
-  "image": {},
-  "pageviews": 1377
+  "url": "https://en.wikipedia.org/wiki/Hrimhari"
 }

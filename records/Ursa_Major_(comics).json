@@ -1,21 +1,20 @@
 {
-  "name": "Ursa Major",
-  "url": "https://en.wikipedia.org/wiki/Ursa_Major_(comics)",
-  "realName": "Mikhail Uriokovitch Ursus",
+  "aliases": "Большая Медведица (Bolsaja Medvedica, \"Great Bear\"), Major Ursus",
   "creators": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "teams": [
-    "Winter Guard",
-    "Soviet Super-Soldiers"
+  "image": {
+    "height": "231",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/URSAMAJOR_the_bear.jpg/200px-URSAMAJOR_the_bear.jpg",
+    "width": "200"
+  },
+  "name": "Ursa Major",
+  "pageviews": 2546,
+  "partners": [
   ],
-  "aliases": "Большая Медведица (Bolsaja Medvedica, \"Great Bear\"), Major Ursus",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "As a humanoid bear:",
     "Superhuman strength",
@@ -23,10 +22,13 @@
     "senses and resistance to injury",
     "Non-retractable claws"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/URSAMAJOR_the_bear.jpg/200px-URSAMAJOR_the_bear.jpg",
-    "width": "200",
-    "height": "231"
-  },
-  "pageviews": 2546
+  "realName": "Mikhail Uriokovitch Ursus",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Winter Guard",
+    "Soviet Super-Soldiers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ursa_Major_(comics)"
 }

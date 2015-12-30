@@ -1,27 +1,29 @@
 {
-  "name": "War",
-  "url": "https://en.wikipedia.org/wiki/War_(Marvel_Comics)",
-  "realName": "Abraham Lincoln Kieros",
+  "aliases": "",
   "creators": [
     "Louise Simonson",
     "Walter Simonson"
   ],
-  "teams": [
-    "Four Horsemen of Apocalypse"
+  "image": {
+    "height": "328",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Xfactor19_005.jpg/199px-Xfactor19_005.jpg",
+    "width": "199"
+  },
+  "name": "War",
+  "pageviews": 742,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ability to create explosions through kinetic contact"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Xfactor19_005.jpg/199px-Xfactor19_005.jpg",
-    "width": "199",
-    "height": "328"
-  },
-  "pageviews": 742
+  "realName": "Abraham Lincoln Kieros",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Four Horsemen of Apocalypse"
+  ],
+  "url": "https://en.wikipedia.org/wiki/War_(Marvel_Comics)"
 }

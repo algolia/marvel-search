@@ -1,26 +1,29 @@
 {
-  "name": "Human Top",
-  "url": "https://en.wikipedia.org/wiki/Human_Top_(David_Mitchell)",
-  "realName": "David Mitchell",
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Frank Robbins"
+  ],
+  "image": {
+    "height": "382",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Goldengrrl.jpg",
+    "width": "250"
+  },
+  "name": "Human Top",
+  "pageviews": 559,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to spin like a top at superhuman speeds"
+  ],
+  "realName": "David Mitchell",
+  "species": [
   ],
   "teams": [
     "Kid Commandos",
     "V-Battalion"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to spin like a top at superhuman speeds"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Goldengrrl.jpg",
-    "width": "250",
-    "height": "382"
-  },
-  "pageviews": 559
+  "url": "https://en.wikipedia.org/wiki/Human_Top_(David_Mitchell)"
 }

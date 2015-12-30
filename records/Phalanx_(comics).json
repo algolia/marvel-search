@@ -1,26 +1,30 @@
 {
-  "name": "Phalanx",
-  "url": "https://en.wikipedia.org/wiki/Phalanx_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Bill Sienkiewicz",
     "Scott Lobdell",
     "Joe Madureira"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Phalanx_Marvel.jpg/250px-Phalanx_Marvel.jpg",
+    "width": "250"
+  },
+  "name": "Phalanx",
+  "pageviews": 6619,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Transforms sentient beings into techno-organic lifeforms and assimilates them into its collective. Superhumanly strong",
     "also possess ability to teleport and shapeshift - molding their limbs into weapons or mimicking the appearance of others."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Phalanx_Marvel.jpg/250px-Phalanx_Marvel.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 6619
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Phalanx_(comics)"
 }

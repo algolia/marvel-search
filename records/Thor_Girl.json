@@ -1,18 +1,20 @@
 {
-  "name": "Thor Girl",
-  "url": "https://en.wikipedia.org/wiki/Thor_Girl",
-  "realName": "Tarene Tara Olson",
+  "aliases": "The Designate, the Supreme, Hammer Girl, Thorita, Hammerette, Thor Lass, Asgard Lass, Thoretta, Hammer Lass",
   "creators": [
     "Dan Jurgens",
     "John Romita, Jr."
   ],
-  "teams": [
-    "The Initiative"
+  "image": {
+    "height": "352",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Thor_Girl.jpg/250px-Thor_Girl.jpg",
+    "width": "250"
+  },
+  "name": "Thor Girl",
+  "pageviews": 9551,
+  "partners": [
   ],
-  "aliases": "The Designate, the Supreme, Hammer Girl, Thorita, Hammerette, Thor Lass, Asgard Lass, Thoretta, Hammer Lass",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Asgardian superhuman strength",
     "durability and endurance",
@@ -27,10 +29,11 @@
     "Formerly:",
     "Virtually limitless cosmic power via the use of the Chalice of Ruins and the Illumination Stone"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Thor_Girl.jpg/250px-Thor_Girl.jpg",
-    "width": "250",
-    "height": "352"
-  },
-  "pageviews": 9551
+  "realName": "Tarene Tara Olson",
+  "species": [
+  ],
+  "teams": [
+    "The Initiative"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thor_Girl"
 }

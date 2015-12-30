@@ -1,18 +1,18 @@
 {
-  "name": "Starfox",
-  "url": "https://en.wikipedia.org/wiki/Starfox_(comics)",
-  "realName": "Eros of Titan, originally Eron",
+  "aliases": "",
   "creators": [
     "Jim Starlin",
     "Mike Friedrich"
   ],
-  "teams": [
-    "Eternals",
-    "Avengers"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/SHEHULK006.jpg/250px-SHEHULK006.jpg",
+    "width": "250"
+  },
+  "name": "Starfox",
+  "pageviews": 14864,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Healing factor"
   ],
@@ -24,10 +24,12 @@
     "Halted aging",
     "Psychic control over the emotions of others"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/SHEHULK006.jpg/250px-SHEHULK006.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 14864
+  "realName": "Eros of Titan, originally Eron",
+  "species": [
+  ],
+  "teams": [
+    "Eternals",
+    "Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Starfox_(comics)"
 }

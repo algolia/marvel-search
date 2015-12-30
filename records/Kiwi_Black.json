@@ -1,22 +1,26 @@
 {
-  "name": "Kiwi Black",
-  "url": "https://en.wikipedia.org/wiki/Kiwi_Black",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "Neyaphem"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Kiwi Black",
+  "pageviews": 2674,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Ability to focus energy through physical forms for multiple uses",
     "has large information and knowledge on all energies as well as physics",
     "and science"
   ],
-  "image": {},
-  "pageviews": 2674
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Neyaphem"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kiwi_Black"
 }

@@ -1,25 +1,28 @@
 {
-  "name": "Reaper",
-  "url": "https://en.wikipedia.org/wiki/Reaper_(Gunther_Strauss)",
-  "realName": "Gunther Strauss",
+  "aliases": "The Man the Law Could Not Touch",
   "creators": [
     "Stan Lee",
     "Al Avison"
   ],
-  "teams": [
-    "Nazis"
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Reaper_%28World_War_II_Captain_America_foe%29.png",
+    "width": "231"
+  },
+  "name": "Reaper",
+  "pageviews": 275,
+  "partners": [
   ],
-  "aliases": "The Man the Law Could Not Touch",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "None"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Reaper_%28World_War_II_Captain_America_foe%29.png",
-    "width": "231",
-    "height": "300"
-  },
-  "pageviews": 275
+  "realName": "Gunther Strauss",
+  "species": [
+  ],
+  "teams": [
+    "Nazis"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Reaper_(Gunther_Strauss)"
 }

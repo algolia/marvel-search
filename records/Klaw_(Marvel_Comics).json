@@ -1,10 +1,27 @@
 {
-  "name": "Klaw",
-  "url": "https://en.wikipedia.org/wiki/Klaw_(Marvel_Comics)",
-  "realName": "Ulysses Klaw",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/FantasticFour_056.jpg/250px-FantasticFour_056.jpg",
+    "width": "250"
+  },
+  "name": "Klaw",
+  "pageviews": 34840,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Expert physicist",
+    "Superhuman strength and durability",
+    "Sound manipulation"
+  ],
+  "realName": "Ulysses Klaw",
+  "species": [
   ],
   "teams": [
     "Frightful Four",
@@ -12,19 +29,5 @@
     "A.I.M.",
     "Fearsome Foursome"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Expert physicist",
-    "Superhuman strength and durability",
-    "Sound manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/FantasticFour_056.jpg/250px-FantasticFour_056.jpg",
-    "width": "250",
-    "height": "375"
-  },
-  "pageviews": 34840
+  "url": "https://en.wikipedia.org/wiki/Klaw_(Marvel_Comics)"
 }

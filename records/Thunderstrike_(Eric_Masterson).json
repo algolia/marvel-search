@@ -1,21 +1,20 @@
 {
-  "name": "Thunderstrike",
-  "url": "https://en.wikipedia.org/wiki/Thunderstrike_(Eric_Masterson)",
-  "realName": "Eric Kevin Masterson",
+  "aliases": "Thor",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [
-    "Asgard",
-    "Avengers",
-    "Secret Defenders",
-    "Legion of the Unliving"
+  "image": {
+    "height": "369",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Thunderstrike.jpg/250px-Thunderstrike.jpg",
+    "width": "250"
+  },
+  "name": "Thunderstrike",
+  "pageviews": 9070,
+  "partners": [
   ],
-  "aliases": "Thor",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Formidable hand to hand combatant",
     "Highly skilled architect",
@@ -29,10 +28,14 @@
     "Dimensional travel",
     "Energy blasts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Thunderstrike.jpg/250px-Thunderstrike.jpg",
-    "width": "250",
-    "height": "369"
-  },
-  "pageviews": 9070
+  "realName": "Eric Kevin Masterson",
+  "species": [
+  ],
+  "teams": [
+    "Asgard",
+    "Avengers",
+    "Secret Defenders",
+    "Legion of the Unliving"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thunderstrike_(Eric_Masterson)"
 }

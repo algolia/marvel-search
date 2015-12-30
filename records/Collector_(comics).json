@@ -1,17 +1,18 @@
 {
-  "name": "The Collector",
-  "url": "https://en.wikipedia.org/wiki/Collector_(comics)",
-  "realName": "Taneleer Tivan",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Don Heck"
   ],
-  "teams": [
-    "Elders of the Universe"
+  "image": {
+    "height": "367",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Avengers_119.jpg/250px-Avengers_119.jpg",
+    "width": "250"
+  },
+  "name": "The Collector",
+  "pageviews": 47006,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Power Primordial"
   ],
@@ -23,10 +24,11 @@
     "Effective immortality",
     "Armored suit"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Avengers_119.jpg/250px-Avengers_119.jpg",
-    "width": "250",
-    "height": "367"
-  },
-  "pageviews": 47006
+  "realName": "Taneleer Tivan",
+  "species": [
+  ],
+  "teams": [
+    "Elders of the Universe"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Collector_(comics)"
 }

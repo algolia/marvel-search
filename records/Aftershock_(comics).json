@@ -1,14 +1,16 @@
 {
-  "name": "Aftershock",
-  "url": "https://en.wikipedia.org/wiki/Aftershock_(comics)",
-  "realName": "Allison Dillon",
+  "aliases": "Electra",
   "creators": [
     "Sean McKeever",
     "Casey Jones"
   ],
-  "teams": [],
-  "aliases": "Electra",
-  "species": [],
+  "image": {
+    "height": "303",
+    "url": "https://upload.wikimedia.org/wikipedia/en/e/ea/MC2Aftershock.jpg",
+    "width": "180"
+  },
+  "name": "Aftershock",
+  "pageviews": 1115,
   "partners": [
     "Electro"
   ],
@@ -20,10 +22,10 @@
     "force field generation",
     "magnetic levitation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/ea/MC2Aftershock.jpg",
-    "width": "180",
-    "height": "303"
-  },
-  "pageviews": 1115
+  "realName": "Allison Dillon",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Aftershock_(comics)"
 }

@@ -1,19 +1,19 @@
 {
-  "name": "Thin Man",
-  "url": "https://en.wikipedia.org/wiki/Thin_Man_(comics)",
-  "realName": "Bruce Dickson",
+  "aliases": "",
   "creators": [
     "Klaus Nordling"
   ],
-  "teams": [
-    "Invaders",
-    "Liberty Legion",
-    "New Invaders"
+  "image": {
+    "height": "390",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/MarvelPremeire29.jpg/249px-MarvelPremeire29.jpg",
+    "width": "249"
+  },
+  "name": "Thin Man",
+  "pageviews": 1774,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Accomplished airplane pilot",
     "Elasticity",
@@ -24,10 +24,13 @@
     "Advanced knowledge of Kalahian science and technology",
     "Ability to become nearly two-dimensional"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/MarvelPremeire29.jpg/249px-MarvelPremeire29.jpg",
-    "width": "249",
-    "height": "390"
-  },
-  "pageviews": 1774
+  "realName": "Bruce Dickson",
+  "species": [
+  ],
+  "teams": [
+    "Invaders",
+    "Liberty Legion",
+    "New Invaders"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thin_Man_(comics)"
 }

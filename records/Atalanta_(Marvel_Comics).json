@@ -1,21 +1,25 @@
 {
-  "name": "Atalanta",
-  "url": "https://en.wikipedia.org/wiki/Atalanta_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Peter David",
     "Dale Keown"
   ],
-  "teams": [
-    "Pantheon"
+  "image": {
+  },
+  "name": "Atalanta",
+  "pageviews": 389,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Energy bow"
   ],
-  "image": {},
-  "pageviews": 389
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Pantheon"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Atalanta_(Marvel_Comics)"
 }

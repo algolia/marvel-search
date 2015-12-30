@@ -1,31 +1,33 @@
 {
-  "name": "Starhawk",
-  "url": "https://en.wikipedia.org/wiki/Starhawk_(comics)",
-  "realName": "Stakar of the House of Ogord",
+  "aliases": "\"One Who Knows,\" \"Giver of Light\"",
   "creators": [
     "Steve Gerber",
     "Sal Buscema"
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "Avengers"
+  "image": {
+    "height": "482",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Starhawk.jpg/250px-Starhawk.jpg",
+    "width": "250"
+  },
+  "name": "Starhawk",
+  "pageviews": 6122,
+  "partners": [
   ],
-  "aliases": "\"One Who Knows,\" \"Giver of Light\"",
-  "species": [
-    "Arcturan"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Invulnerability",
     "Energy manipulation",
     "Flight",
     "Precognition"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Starhawk.jpg/250px-Starhawk.jpg",
-    "width": "250",
-    "height": "482"
-  },
-  "pageviews": 6122
+  "realName": "Stakar of the House of Ogord",
+  "species": [
+    "Arcturan"
+  ],
+  "teams": [
+    "Guardians of the Galaxy",
+    "Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Starhawk_(comics)"
 }

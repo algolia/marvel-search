@@ -1,28 +1,31 @@
 {
-  "name": "Piledriver",
-  "url": "https://en.wikipedia.org/wiki/Piledriver_(comics)",
-  "realName": "Brian Philip Calusky",
+  "aliases": "",
   "creators": [
     "Len Wein",
     "Sal Buscema"
   ],
-  "teams": [
-    "Wrecking Crew",
-    "Masters of Evil"
+  "image": {
+    "height": "414",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/BrianCaluskyPiledriver.png/250px-BrianCaluskyPiledriver.png",
+    "width": "250"
+  },
+  "name": "Piledriver",
+  "pageviews": 2176,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "durability and endurance",
     "Oversized hands"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/BrianCaluskyPiledriver.png/250px-BrianCaluskyPiledriver.png",
-    "width": "250",
-    "height": "414"
-  },
-  "pageviews": 2176
+  "realName": "Brian Philip Calusky",
+  "species": [
+  ],
+  "teams": [
+    "Wrecking Crew",
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Piledriver_(comics)"
 }

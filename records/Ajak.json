@@ -1,17 +1,17 @@
 {
-  "name": "Ajak",
-  "url": "https://en.wikipedia.org/wiki/Ajak",
-  "realName": null,
+  "aliases": "Quetzacoatl, Tecumotzin, Lord of Flight, Ajax the Greater, He Who Talks To Celestials",
   "creators": [
     "Jack Kirby"
   ],
-  "teams": [
-    "Eternals",
-    "God Squad"
+  "image": {
+    "height": "232",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Ajak.jpg/250px-Ajak.jpg",
+    "width": "250"
+  },
+  "name": "Ajak",
+  "pageviews": 2644,
+  "partners": [
   ],
-  "aliases": "Quetzacoatl, Tecumotzin, Lord of Flight, Ajax the Greater, He Who Talks To Celestials",
-  "species": [],
-  "partners": [],
   "powers": [
     "healing factor"
   ],
@@ -23,10 +23,12 @@
     "Flight",
     "Teleportation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Ajak.jpg/250px-Ajak.jpg",
-    "width": "250",
-    "height": "232"
-  },
-  "pageviews": 2644
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Eternals",
+    "God Squad"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Ajak"
 }

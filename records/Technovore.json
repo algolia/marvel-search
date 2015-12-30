@@ -1,22 +1,26 @@
 {
-  "name": "Technovore",
-  "url": "https://en.wikipedia.org/wiki/Technovore",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Len Kaminski",
     "Kevin Hopgood"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [
-    "Nanobot"
+  "image": {
+  },
+  "name": "Technovore",
+  "pageviews": 1835,
+  "partners": [
   ],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Assimilation",
     "Adaption"
   ],
-  "image": {},
-  "pageviews": 1835
+  "realName": "",
+  "species": [
+    "Nanobot"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Technovore"
 }

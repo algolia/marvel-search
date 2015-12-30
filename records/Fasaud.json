@@ -1,15 +1,18 @@
 {
-  "name": "Fasaud",
-  "url": "https://en.wikipedia.org/wiki/Fasaud",
-  "realName": "Sheikh Farouk Al-Fasaud",
+  "aliases": "",
   "creators": [
     "Steve Englehart",
     "John Buscema"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "270",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fasaud_2.jpg/200px-Fasaud_2.jpg",
+    "width": "200"
+  },
+  "name": "Fasaud",
+  "pageviews": 419,
+  "partners": [
+  ],
   "powers": [
     "Electrical manipulation"
   ],
@@ -18,10 +21,10 @@
     "Electrical manipulation",
     "Teleportation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fasaud_2.jpg/200px-Fasaud_2.jpg",
-    "width": "200",
-    "height": "270"
-  },
-  "pageviews": 419
+  "realName": "Sheikh Farouk Al-Fasaud",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Fasaud"
 }

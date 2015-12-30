@@ -1,11 +1,28 @@
 {
-  "name": "Surge",
-  "url": "https://en.wikipedia.org/wiki/Surge_(comics)",
-  "realName": "Noriko \"Nori\" Ashida",
+  "aliases": "",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir",
     "Keron Grant"
+  ],
+  "image": {
+    "height": "418",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Surge.JPG/200px-Surge.JPG",
+    "width": "200"
+  },
+  "name": "Surge",
+  "pageviews": 3925,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Electrical generation and manipulation",
+    "superhuman speed"
+  ],
+  "realName": "Noriko \"Nori\" Ashida",
+  "species": [
+    "Human mutant"
   ],
   "teams": [
     "New Mutants training squad",
@@ -14,20 +31,5 @@
     "X-Men-In-Training",
     "Jean Grey School Students"
   ],
-  "aliases": "",
-  "species": [
-    "Human mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Electrical generation and manipulation",
-    "superhuman speed"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Surge.JPG/200px-Surge.JPG",
-    "width": "200",
-    "height": "418"
-  },
-  "pageviews": 3925
+  "url": "https://en.wikipedia.org/wiki/Surge_(comics)"
 }

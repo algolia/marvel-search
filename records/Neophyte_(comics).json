@@ -1,27 +1,29 @@
 {
-  "name": "Neophyte",
-  "url": "https://en.wikipedia.org/wiki/Neophyte_(comics)",
-  "realName": "Simon Hall",
+  "aliases": "",
   "creators": [
     "Scott Lobdell",
     "John Romita, Jr."
   ],
-  "teams": [
-    "Acolytes"
+  "image": {
+    "height": "361",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/c0/XMEN_Neophyte.jpg",
+    "width": "250"
+  },
+  "name": "Neophyte",
+  "pageviews": 621,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ability to phase his body with an object and appear on the other side."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/c0/XMEN_Neophyte.jpg",
-    "width": "250",
-    "height": "361"
-  },
-  "pageviews": 621
+  "realName": "Simon Hall",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Acolytes"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Neophyte_(comics)"
 }

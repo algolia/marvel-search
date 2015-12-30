@@ -1,23 +1,18 @@
 {
-  "name": "Bastion",
-  "url": "https://en.wikipedia.org/wiki/Bastion_(comics)",
-  "realName": null,
+  "aliases": "Sebastion Gilberti, Nicolas Hunter, Master Mold, Arnold Rodriguez, Template, The Oracle",
   "creators": [
     "Scott Lobdell",
     "Pascual Ferry"
   ],
-  "teams": [
-    "Purifiers",
-    "Friends of Humanity",
-    "Operation: Zero Tolerance",
-    "Humanity's Last Stand"
+  "image": {
+    "height": "497",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/14/Bastion.PNG",
+    "width": "250"
+  },
+  "name": "Bastion",
+  "pageviews": 5921,
+  "partners": [
   ],
-  "aliases": "Sebastion Gilberti, Nicolas Hunter, Master Mold, Arnold Rodriguez, Template, The Oracle",
-  "species": [
-    "Android",
-    "Artificial intelligence"
-  ],
-  "partners": [],
   "powers": [
     "Prime Sentinels",
     "Sentinels"
@@ -31,10 +26,16 @@
     "Superhuman strength and durability",
     "Flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/14/Bastion.PNG",
-    "width": "250",
-    "height": "497"
-  },
-  "pageviews": 5921
+  "realName": null,
+  "species": [
+    "Android",
+    "Artificial intelligence"
+  ],
+  "teams": [
+    "Purifiers",
+    "Friends of Humanity",
+    "Operation: Zero Tolerance",
+    "Humanity's Last Stand"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Bastion_(comics)"
 }

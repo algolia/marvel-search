@@ -1,23 +1,27 @@
 {
-  "name": "Montana",
-  "url": "https://en.wikipedia.org/wiki/Montana_(comics)",
-  "realName": "Jackson W. Brice",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Daredevil_vol._2%2C_102_%28Jan%2C_2008%29_artwork.jpg/250px-Daredevil_vol._2%2C_102_%28Jan%2C_2008%29_artwork.jpg",
+    "width": "250"
+  },
+  "name": "Montana",
+  "pageviews": 1568,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Jackson W. Brice",
+  "species": [
+  ],
   "teams": [
     "Enforcers"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Daredevil_vol._2%2C_102_%28Jan%2C_2008%29_artwork.jpg/250px-Daredevil_vol._2%2C_102_%28Jan%2C_2008%29_artwork.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 1568
+  "url": "https://en.wikipedia.org/wiki/Montana_(comics)"
 }

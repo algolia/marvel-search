@@ -1,26 +1,29 @@
 {
-  "name": "Scatterbrain",
-  "url": "https://en.wikipedia.org/wiki/Scatterbrain_(Morituri)",
-  "realName": "William Deguchi",
+  "aliases": "",
   "creators": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "teams": [
-    "Strikeforce: Morituri"
+  "image": {
+    "height": "296",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Scatterbrain_Morituri.jpg/250px-Scatterbrain_Morituri.jpg",
+    "width": "250"
+  },
+  "name": "Scatterbrain",
+  "pageviews": 175,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Telepathy",
     "Enhanced strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Scatterbrain_Morituri.jpg/250px-Scatterbrain_Morituri.jpg",
-    "width": "250",
-    "height": "296"
-  },
-  "pageviews": 175
+  "realName": "William Deguchi",
+  "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scatterbrain_(Morituri)"
 }

@@ -1,18 +1,16 @@
 {
-  "name": "Scarecrow",
-  "url": "https://en.wikipedia.org/wiki/Scarecrow_(Marvel_Comics)",
-  "realName": "Ebenezer Laughton",
+  "aliases": "Umberto the Uncanny",
   "creators": [
     "Stan Lee",
     "Don Heck"
   ],
-  "teams": [
-    "Maggia",
-    "The Firm",
-    "Exterminators"
-  ],
-  "aliases": "Umberto the Uncanny",
-  "species": [],
+  "image": {
+    "height": "186",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Scare_crow-1-.jpg/250px-Scare_crow-1-.jpg",
+    "width": "250"
+  },
+  "name": "Scarecrow",
+  "pageviews": 4386,
   "partners": [
     "Count Nefaria",
     "Unicorn",
@@ -21,7 +19,8 @@
     "Plantman",
     "Cowled Commander"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Trained acrobat",
     "escapologist",
@@ -34,10 +33,13 @@
     "Healing factor",
     "Ability to induce fear in his victims"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Scare_crow-1-.jpg/250px-Scare_crow-1-.jpg",
-    "width": "250",
-    "height": "186"
-  },
-  "pageviews": 4386
+  "realName": "Ebenezer Laughton",
+  "species": [
+  ],
+  "teams": [
+    "Maggia",
+    "The Firm",
+    "Exterminators"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scarecrow_(Marvel_Comics)"
 }

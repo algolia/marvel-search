@@ -1,9 +1,25 @@
 {
-  "name": "Silver Surfer",
-  "url": "https://en.wikipedia.org/wiki/Silver_Surfer",
-  "realName": "Norrin Radd",
+  "aliases": "",
   "creators": [
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Toss.png/250px-Toss.png",
+    "width": "250"
+  },
+  "name": "Silver Surfer",
+  "pageviews": 54687,
+  "partners": [
+  ],
+  "powers": [
+    "Power Cosmic"
+  ],
+  "powersText": [
+    "Endowed with the Power Cosmic"
+  ],
+  "realName": "Norrin Radd",
+  "species": [
   ],
   "teams": [
     "Heralds of Galactus",
@@ -13,19 +29,5 @@
     "God Squad",
     "Annihilators"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [
-    "Power Cosmic"
-  ],
-  "powersText": [
-    "Endowed with the Power Cosmic"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Toss.png/250px-Toss.png",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 54687
+  "url": "https://en.wikipedia.org/wiki/Silver_Surfer"
 }

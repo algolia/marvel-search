@@ -1,10 +1,25 @@
 {
-  "name": "Fever Pitch",
-  "url": "https://en.wikipedia.org/wiki/Fever_Pitch_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Jay Faerber",
     "Terry Dodson"
+  ],
+  "image": {
+  },
+  "name": "Fever Pitch",
+  "pageviews": 1094,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Body composed completely of organic flame",
+    "Fire bursts",
+    "Flight"
+  ],
+  "realName": null,
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "The 198",
@@ -13,17 +28,5 @@
     "Morlocks",
     "X-Corps"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Body composed completely of organic flame",
-    "Fire bursts",
-    "Flight"
-  ],
-  "image": {},
-  "pageviews": 1094
+  "url": "https://en.wikipedia.org/wiki/Fever_Pitch_(comics)"
 }

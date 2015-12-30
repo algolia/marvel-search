@@ -1,24 +1,28 @@
 {
-  "name": "Massacre",
-  "url": "https://en.wikipedia.org/wiki/Massacre_(Marvel_Comics)",
-  "realName": "Marcus Lyman",
+  "aliases": "",
   "creators": [
     "Dan Slott",
     "Marcos Martin"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "310",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Massacre%2C_as_he_appears_on_the_cover_of_Superior_Spider-Man.jpg/204px-Massacre%2C_as_he_appears_on_the_cover_of_Superior_Spider-Man.jpg",
+    "width": "204"
+  },
+  "name": "Massacre",
+  "pageviews": 1025,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Lack of emotion",
     "Genius level intellect"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Massacre%2C_as_he_appears_on_the_cover_of_Superior_Spider-Man.jpg/204px-Massacre%2C_as_he_appears_on_the_cover_of_Superior_Spider-Man.jpg",
-    "width": "204",
-    "height": "310"
-  },
-  "pageviews": 1025
+  "realName": "Marcus Lyman",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Massacre_(Marvel_Comics)"
 }

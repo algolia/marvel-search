@@ -1,21 +1,25 @@
 {
-  "name": "Hindsight",
-  "url": "https://en.wikipedia.org/wiki/Hindsight_(comics)",
-  "realName": "Carlton LaFroyge",
+  "aliases": "Hindsight Lad",
   "creators": [
     "Fabian Nicieza",
     "Darick Robertson"
   ],
-  "teams": [
-    "New Warriors"
+  "image": {
+  },
+  "name": "Hindsight",
+  "pageviews": 1278,
+  "partners": [
   ],
-  "aliases": "Hindsight Lad",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "None"
   ],
-  "image": {},
-  "pageviews": 1278
+  "realName": "Carlton LaFroyge",
+  "species": [
+  ],
+  "teams": [
+    "New Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hindsight_(comics)"
 }

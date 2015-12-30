@@ -1,28 +1,30 @@
 {
-  "name": "Doctor Cornelius",
-  "url": "https://en.wikipedia.org/wiki/Abraham_Cornelius",
-  "realName": "Dr. Abraham B. Cornelius",
+  "aliases": "",
   "creators": [
     "Barry Windsor-Smith"
+  ],
+  "image": {
+    "height": "100",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/AbeCornelius.jpg",
+    "width": "90"
+  },
+  "name": "Doctor Cornelius",
+  "pageviews": 3459,
+  "partners": [
+    "Matsu'o Tsurayaba",
+    "Fenris"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Scientific genius"
+  ],
+  "realName": "Dr. Abraham B. Cornelius",
+  "species": [
   ],
   "teams": [
     "Weapon X",
     "The Hand"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [
-    "Matsu'o Tsurayaba",
-    "Fenris"
-  ],
-  "powers": [],
-  "powersText": [
-    "Scientific genius"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/AbeCornelius.jpg",
-    "width": "90",
-    "height": "100"
-  },
-  "pageviews": 3459
+  "url": "https://en.wikipedia.org/wiki/Abraham_Cornelius"
 }

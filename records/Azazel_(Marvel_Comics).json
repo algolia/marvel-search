@@ -1,19 +1,18 @@
 {
-  "name": "Azazel",
-  "url": "https://en.wikipedia.org/wiki/Azazel_(Marvel_Comics)",
-  "realName": "Azazel",
+  "aliases": "Satan <br> Beelzebub <br> Beliar <br> Gadreel",
   "creators": [
     "Chuck Austen",
     "Sean Phillips"
   ],
-  "teams": [
-    "Neyaphem"
+  "image": {
+    "height": "330",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Azazel_HCV.jpg/200px-Azazel_HCV.jpg",
+    "width": "200"
+  },
+  "name": "Azazel",
+  "pageviews": 24356,
+  "partners": [
   ],
-  "aliases": "Satan <br> Beelzebub <br> Beliar <br> Gadreel",
-  "species": [
-    "Demonic Humanoid Mutant"
-  ],
-  "partners": [],
   "powers": [
     "Shapeshifting",
     "Dark Arts"
@@ -31,10 +30,12 @@
     "Master Swordsman",
     "Master of Dark Arts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Azazel_HCV.jpg/200px-Azazel_HCV.jpg",
-    "width": "200",
-    "height": "330"
-  },
-  "pageviews": 24356
+  "realName": "Azazel",
+  "species": [
+    "Demonic Humanoid Mutant"
+  ],
+  "teams": [
+    "Neyaphem"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Azazel_(Marvel_Comics)"
 }

@@ -1,17 +1,18 @@
 {
-  "name": "Chase Stein",
-  "url": "https://en.wikipedia.org/wiki/Chase_Stein",
-  "realName": "Chase Stein",
+  "aliases": "Talkback, Neo, Darkhawk , Chasehawk",
   "creators": [
     "Brian K. Vaughan",
     "Adrian Alphona"
   ],
-  "teams": [
-    "Runaways"
+  "image": {
+    "height": "355",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/RUNAWAYV3008_COV.jpg/250px-RUNAWAYV3008_COV.jpg",
+    "width": "250"
+  },
+  "name": "Chase Stein",
+  "pageviews": 4241,
+  "partners": [
   ],
-  "aliases": "Talkback, Neo, Darkhawk , Chasehawk",
-  "species": [],
-  "partners": [],
   "powers": [
     "pilot",
     "mechanic",
@@ -22,10 +23,11 @@
     "Telepathic link to a genetically-engineered Deinonychus",
     "Energy-conjuring gauntlets and boots"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/RUNAWAYV3008_COV.jpg/250px-RUNAWAYV3008_COV.jpg",
-    "width": "250",
-    "height": "355"
-  },
-  "pageviews": 4241
+  "realName": "Chase Stein",
+  "species": [
+  ],
+  "teams": [
+    "Runaways"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Chase_Stein"
 }

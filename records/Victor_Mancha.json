@@ -1,18 +1,18 @@
 {
-  "name": "Victor Mancha",
-  "url": "https://en.wikipedia.org/wiki/Victor_Mancha",
-  "realName": "Victor Mancha",
+  "aliases": "",
   "creators": [
     "Brian K. Vaughan",
     "Adrian Alphona"
   ],
-  "teams": [
-    "Runaways",
-    "Avengers A.I."
+  "image": {
+    "height": "376",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Runaways22.jpg/250px-Runaways22.jpg",
+    "width": "250"
+  },
+  "name": "Victor Mancha",
+  "pageviews": 5190,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Photographic memory",
     "Electromagnetic manipulation",
@@ -24,10 +24,12 @@
     "Photographic memory.",
     "Electromagnetic manipulation.<br/ > Technopathy."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Runaways22.jpg/250px-Runaways22.jpg",
-    "width": "250",
-    "height": "376"
-  },
-  "pageviews": 5190
+  "realName": "Victor Mancha",
+  "species": [
+  ],
+  "teams": [
+    "Runaways",
+    "Avengers A.I."
+  ],
+  "url": "https://en.wikipedia.org/wiki/Victor_Mancha"
 }

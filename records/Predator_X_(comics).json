@@ -1,19 +1,19 @@
 {
-  "name": "Predator X",
-  "url": "https://en.wikipedia.org/wiki/Predator_X_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Christopher Yost",
     "Craig Kyle",
     "Paco Medina"
   ],
-  "teams": [
-    "The Facility",
-    "HYDRA"
+  "image": {
+    "height": "300",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/5f/Predatorx.jpg",
+    "width": "186"
+  },
+  "name": "Predator X",
+  "pageviews": 3143,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "mercury"
   ],
@@ -25,10 +25,12 @@
     "accelerated healing",
     "body covered in non-toxic inorganic mercury"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/5f/Predatorx.jpg",
-    "width": "186",
-    "height": "300"
-  },
-  "pageviews": 3143
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "The Facility",
+    "HYDRA"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Predator_X_(comics)"
 }

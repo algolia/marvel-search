@@ -1,19 +1,16 @@
 {
-  "name": "Jessica Jones",
-  "url": "https://en.wikipedia.org/wiki/Jessica_Jones",
-  "realName": null,
+  "aliases": "Jewel, Knightress, Power Woman",
   "creators": [
     "Brian Michael Bendis",
     "Michael Gaydos"
   ],
-  "teams": [
-    "New Avengers",
-    "The Pulse Magazine",
-    "Alias Private Investigations",
-    "Daily Bugle"
-  ],
-  "aliases": "Jewel, Knightress, Power Woman",
-  "species": [],
+  "image": {
+    "height": "388",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Pulse14.jpg/250px-Pulse14.jpg",
+    "width": "250"
+  },
+  "name": "Jessica Jones",
+  "pageviews": 2449154,
   "partners": [
     "Luke Cage",
     "Carol Danvers"
@@ -28,10 +25,14 @@
     "Flight",
     "Psionic protection"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Pulse14.jpg/250px-Pulse14.jpg",
-    "width": "250",
-    "height": "388"
-  },
-  "pageviews": 2449154
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "New Avengers",
+    "The Pulse Magazine",
+    "Alias Private Investigations",
+    "Daily Bugle"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jessica_Jones"
 }

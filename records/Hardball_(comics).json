@@ -1,29 +1,32 @@
 {
-  "name": "Hardball",
-  "url": "https://en.wikipedia.org/wiki/Hardball_(comics)",
-  "realName": "Roger Brokeridge",
+  "aliases": "",
   "creators": [
     "Dan Slott",
     "Stefano Caselli"
+  ],
+  "image": {
+    "height": "355",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Ati_specil_1.jpg",
+    "width": "250"
+  },
+  "name": "Hardball",
+  "pageviews": 1801,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to create a variety of energy balls",
+    "normally originating from his hand",
+    "including \"hard energy\" and electro-magnetic energy."
+  ],
+  "realName": "Roger Brokeridge",
+  "species": [
   ],
   "teams": [
     "HYDRA",
     "Heavy Hitters",
     "The Initiative"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to create a variety of energy balls",
-    "normally originating from his hand",
-    "including \"hard energy\" and electro-magnetic energy."
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Ati_specil_1.jpg",
-    "width": "250",
-    "height": "355"
-  },
-  "pageviews": 1801
+  "url": "https://en.wikipedia.org/wiki/Hardball_(comics)"
 }

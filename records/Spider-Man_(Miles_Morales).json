@@ -1,18 +1,18 @@
 {
-  "name": "Spider-Man",
-  "url": "https://en.wikipedia.org/wiki/Spider-Man_(Miles_Morales)",
-  "realName": "Miles Morales",
+  "aliases": "",
   "creators": [
     "Brian Michael Bendis",
     "Sara Pichelli"
   ],
-  "teams": [
-    "Avengers",
-    "The Ultimates"
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Spider-man_NU.jpg",
+    "width": "250"
+  },
+  "name": "Spider-Man",
+  "pageviews": 62512,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Superhuman strength",
     "speed",
@@ -31,10 +31,12 @@
     "Venom blast",
     "Camouflage"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Spider-man_NU.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 62512
+  "realName": "Miles Morales",
+  "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "The Ultimates"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spider-Man_(Miles_Morales)"
 }

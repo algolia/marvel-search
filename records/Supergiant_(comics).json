@@ -1,22 +1,26 @@
 {
-  "name": "Supergiant",
-  "url": "https://en.wikipedia.org/wiki/Supergiant_(comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Jonathan Hickman",
     "Jerome Opeña"
   ],
-  "teams": [
-    "Black Order"
+  "image": {
+  },
+  "name": "Supergiant",
+  "pageviews": 4175,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Telepathy",
     "Mind-Control"
   ],
-  "image": {},
-  "pageviews": 4175
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Black Order"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Supergiant_(comics)"
 }

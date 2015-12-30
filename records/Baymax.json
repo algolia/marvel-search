@@ -1,16 +1,16 @@
 {
-  "name": "Baymax",
-  "url": "https://en.wikipedia.org/wiki/Baymax",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Steven T. Seagle",
     "Duncan Rouleau"
   ],
-  "teams": [
-    "Big Hero 6"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "263",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Baymax_%28Marvel_Comics%29.jpg/250px-Baymax_%28Marvel_Comics%29.jpg",
+    "width": "250"
+  },
+  "name": "Baymax",
+  "pageviews": 32244,
   "partners": [
     "Hiro Takachiho"
   ],
@@ -21,10 +21,11 @@
   "powersText": [
     "Morph body into dragon or mecha"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Baymax_%28Marvel_Comics%29.jpg/250px-Baymax_%28Marvel_Comics%29.jpg",
-    "width": "250",
-    "height": "263"
-  },
-  "pageviews": 32244
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Big Hero 6"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Baymax"
 }

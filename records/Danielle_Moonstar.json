@@ -1,29 +1,18 @@
 {
-  "name": "Danielle Moonstar",
-  "url": "https://en.wikipedia.org/wiki/Danielle_Moonstar",
-  "realName": null,
+  "aliases": "Psyche, Mirage, Moonstar, Spellbinder, Dark Rider",
   "creators": [
     "Chris Claremont",
     "Bob McLeod"
   ],
-  "teams": [
-    "Hellions",
-    "The Initiative",
-    "Mutant Liberation Front",
-    "New Mutants",
-    "S.H.I.E.L.D.",
-    "Valkyrior",
-    "Xavier Institute",
-    "X-Force",
-    "X-Men",
-    "Young X-Men"
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Moonstar_fearless.jpg/250px-Moonstar_fearless.jpg",
+    "width": "250"
+  },
+  "name": "Danielle Moonstar",
+  "pageviews": 10054,
+  "partners": [
   ],
-  "aliases": "Psyche, Mirage, Moonstar, Spellbinder, Dark Rider",
-  "species": [
-    "Depowered",
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "psionic"
   ],
@@ -41,10 +30,22 @@
     "Ability to create solid objects out of pure psionic energy",
     "Superhuman strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Moonstar_fearless.jpg/250px-Moonstar_fearless.jpg",
-    "width": "250",
-    "height": "386"
-  },
-  "pageviews": 10054
+  "realName": null,
+  "species": [
+    "Depowered",
+    "Human Mutant"
+  ],
+  "teams": [
+    "Hellions",
+    "The Initiative",
+    "Mutant Liberation Front",
+    "New Mutants",
+    "S.H.I.E.L.D.",
+    "Valkyrior",
+    "Xavier Institute",
+    "X-Force",
+    "X-Men",
+    "Young X-Men"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Danielle_Moonstar"
 }

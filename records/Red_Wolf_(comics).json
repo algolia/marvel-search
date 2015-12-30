@@ -1,7 +1,5 @@
 {
-  "name": "Red Wolf",
-  "url": "https://en.wikipedia.org/wiki/Red_Wolf_(comics)",
-  "realName": "- Wildrun<br>- Johnny Wakely<br>- Thomas Thunderhead<br>-William Talltrees",
+  "aliases": "(Talltrees)<br> Owayodata",
   "creators": [
     "Roy Thomas",
     "John Buscema",
@@ -10,14 +8,14 @@
     "Mark Gruenwald",
     "Herb Trimpe"
   ],
-  "teams": [
-    "The Anachronauts",
-    "The Rangers"
+  "image": {
+  },
+  "name": "Red Wolf",
+  "pageviews": 6387,
+  "partners": [
   ],
-  "aliases": "(Talltrees)<br> Owayodata",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "(Talltrees)",
     "Highly skilled hand-to-hand combatant",
@@ -28,6 +26,12 @@
     "Skilled animal trainer",
     "Superhuman strength and sensory acuity"
   ],
-  "image": {},
-  "pageviews": 6387
+  "realName": "- Wildrun<br>- Johnny Wakely<br>- Thomas Thunderhead<br>-William Talltrees",
+  "species": [
+  ],
+  "teams": [
+    "The Anachronauts",
+    "The Rangers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Red_Wolf_(comics)"
 }

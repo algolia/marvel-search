@@ -1,22 +1,27 @@
 {
-  "name": "Chance",
-  "url": "https://en.wikipedia.org/wiki/Chance_(comics)",
-  "realName": "Nicholas Powell",
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "Mike Harris"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Chance",
+  "pageviews": 1800,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Armored suit grants:",
     "Flight via ankle jets",
     "Wrist-mounted blasters",
     "Scanning devices via cybernetic helmet"
   ],
-  "image": {},
-  "pageviews": 1800
+  "realName": "Nicholas Powell",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Chance_(comics)"
 }

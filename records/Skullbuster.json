@@ -1,27 +1,30 @@
 {
-  "name": "Skullbuster",
-  "url": "https://en.wikipedia.org/wiki/Skullbuster",
-  "realName": "(First Skullbuster)<br>Unrevealed<br>(Second Skullbuster)<br>Cylla Markham<br>(Third Skullbuster)<br>Unrevealed",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Marc Silvestri",
     "Salvador Larroca"
   ],
-  "teams": [
-    "Reavers"
+  "image": {
+    "height": "195",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Skullbuster.jpg",
+    "width": "140"
+  },
+  "name": "Skullbuster",
+  "pageviews": 656,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Cybernetic body",
     "Robotic weaponry."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Skullbuster.jpg",
-    "width": "140",
-    "height": "195"
-  },
-  "pageviews": 656
+  "realName": "(First Skullbuster)<br>Unrevealed<br>(Second Skullbuster)<br>Cylla Markham<br>(Third Skullbuster)<br>Unrevealed",
+  "species": [
+  ],
+  "teams": [
+    "Reavers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Skullbuster"
 }

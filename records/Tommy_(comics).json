@@ -1,27 +1,29 @@
 {
-  "name": "Tommy",
-  "url": "https://en.wikipedia.org/wiki/Tommy_(comics)",
-  "realName": "unrevealed",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "John Romita, Jr."
   ],
-  "teams": [
-    "Morlocks"
+  "image": {
+    "height": "500",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Tommymorlock1.jpg/200px-Tommymorlock1.jpg",
+    "width": "200"
+  },
+  "name": "Tommy",
+  "pageviews": 759,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "ability to become two-dimensional."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Tommymorlock1.jpg/200px-Tommymorlock1.jpg",
-    "width": "200",
-    "height": "500"
-  },
-  "pageviews": 759
+  "realName": "unrevealed",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Morlocks"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tommy_(comics)"
 }

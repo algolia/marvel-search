@@ -1,33 +1,35 @@
 {
-  "name": "Night Thrasher",
-  "url": "https://en.wikipedia.org/wiki/Night_Thrasher_(Dwayne_Taylor)",
-  "realName": "Dwayne Michael Taylor",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "teams": [
-    "New Warriors",
-    "Taylor Foundation",
-    "Folding Circle"
-  ],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "390",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nightthrasherfc.png/250px-Nightthrasherfc.png",
+    "width": "250"
+  },
+  "name": "Night Thrasher",
+  "pageviews": 3429,
   "partners": [
     "Midnight's Fire",
     "Silhouette"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Excellent acrobat",
     "Skilled martial artist and computer hacker",
     "Immunity to telepathy",
     "Wears advanced body armor"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nightthrasherfc.png/250px-Nightthrasherfc.png",
-    "width": "250",
-    "height": "390"
-  },
-  "pageviews": 3429
+  "realName": "Dwayne Michael Taylor",
+  "species": [
+  ],
+  "teams": [
+    "New Warriors",
+    "Taylor Foundation",
+    "Folding Circle"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Night_Thrasher_(Dwayne_Taylor)"
 }

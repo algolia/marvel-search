@@ -1,26 +1,29 @@
 {
-  "name": "Asylum",
-  "url": "https://en.wikipedia.org/wiki/Asylum_(comics)",
-  "realName": "- Unknown<br> - Henrique Manuel Gallante",
-  "creators": [],
-  "teams": [
-    "Psionex"
-  ],
   "aliases": "(Gallante)<br> Darkling",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "400",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/DarklingC.jpg",
+    "width": "205"
+  },
+  "name": "Asylum",
+  "pageviews": 945,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Harness Darkforce",
     "teleport",
     "create weapons."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/DarklingC.jpg",
-    "width": "205",
-    "height": "400"
-  },
-  "pageviews": 945
+  "realName": "- Unknown<br> - Henrique Manuel Gallante",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Psionex"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Asylum_(comics)"
 }

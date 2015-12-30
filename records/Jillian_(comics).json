@@ -1,17 +1,23 @@
 {
-  "name": "Jillian",
-  "url": "https://en.wikipedia.org/wiki/Jillian_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 53
+  "image": {
+  },
+  "name": "Jillian",
+  "pageviews": 53,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jillian_(comics)"
 }

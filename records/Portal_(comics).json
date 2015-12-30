@@ -1,24 +1,27 @@
 {
-  "name": "Portal",
-  "url": "https://en.wikipedia.org/wiki/Portal_(comics)",
-  "realName": "Charles Little Sky",
+  "aliases": "",
   "creators": [
     "Danny Fingeroth",
     "Rich Buckler"
   ],
-  "teams": [
-    "A.R.M.O.R."
+  "image": {
+  },
+  "name": "Portal",
+  "pageviews": 973,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Dimensional teleportation and manipulation",
     "Alien weaponry"
   ],
-  "image": {},
-  "pageviews": 973
+  "realName": "Charles Little Sky",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "A.R.M.O.R."
+  ],
+  "url": "https://en.wikipedia.org/wiki/Portal_(comics)"
 }

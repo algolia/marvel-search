@@ -1,17 +1,23 @@
 {
-  "name": "Spider-X",
-  "url": "https://en.wikipedia.org/wiki/Spider-X",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 729
+  "image": {
+  },
+  "name": "Spider-X",
+  "pageviews": 729,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spider-X"
 }

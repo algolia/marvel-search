@@ -1,17 +1,15 @@
 {
-  "name": "Immortus",
-  "url": "https://en.wikipedia.org/wiki/Immortus",
-  "realName": "Nathaniel Richards",
+  "aliases": "Pharaoh Rama-Tut , Victor Timely, Iron Lad Kang the Conqueror , Whisperer, Scarlet Centurion",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "The Brotherhood of Badoon"
+  "image": {
+  },
+  "name": "Immortus",
+  "pageviews": 6129,
+  "partners": [
   ],
-  "aliases": "Pharaoh Rama-Tut , Victor Timely, Iron Lad Kang the Conqueror , Whisperer, Scarlet Centurion",
-  "species": [],
-  "partners": [],
   "powers": [
     "Time manipulation"
   ],
@@ -21,6 +19,11 @@
     "Superhuman strength intelligence and endurance",
     "Immortality"
   ],
-  "image": {},
-  "pageviews": 6129
+  "realName": "Nathaniel Richards",
+  "species": [
+  ],
+  "teams": [
+    "The Brotherhood of Badoon"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Immortus"
 }

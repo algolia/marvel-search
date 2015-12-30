@@ -1,21 +1,25 @@
 {
-  "name": "Solarr",
-  "url": "https://en.wikipedia.org/wiki/Solarr",
-  "realName": "Silas King",
+  "aliases": "",
   "creators": [
     "Steve Englehart",
     "Sal Buscema"
   ],
-  "teams": [
-    "Emissaries of Evil"
+  "image": {
+  },
+  "name": "Solarr",
+  "pageviews": 887,
+  "partners": [
   ],
-  "aliases": "",
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Silas King",
   "species": [
     "Human Mutant"
   ],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 887
+  "teams": [
+    "Emissaries of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Solarr"
 }

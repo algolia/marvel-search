@@ -1,28 +1,31 @@
 {
-  "name": "Aegis",
-  "url": "https://en.wikipedia.org/wiki/Aegis_(comics)",
-  "realName": "Trey Jason Rollins",
+  "aliases": "",
   "creators": [
     "Jay Faerber",
     "Steve Scott"
   ],
-  "teams": [
-    "New Warriors"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/New_Warriors_1_%281999%29.jpg/250px-New_Warriors_1_%281999%29.jpg",
+    "width": "250"
+  },
+  "name": "Aegis",
+  "pageviews": 1118,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Aegis breastplate grants:",
     "energy blasts",
     "energy conversion",
     "force field generation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/New_Warriors_1_%281999%29.jpg/250px-New_Warriors_1_%281999%29.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 1118
+  "realName": "Trey Jason Rollins",
+  "species": [
+  ],
+  "teams": [
+    "New Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Aegis_(comics)"
 }

@@ -1,24 +1,17 @@
 {
-  "name": "Red Skull",
-  "url": "https://en.wikipedia.org/wiki/Red_Skull",
-  "realName": "Johann Schmidt",
+  "aliases": "Der Rote Schädel (German name), Dell Rusk, Bettman P. Lyles, the Agent of a Thousand Faces (impersonated in Europe during World War II), The Man (head of the People's Militia), Cyrus Fenton, John Smith, Teacher, Tod March (president and owner of Galactic Pictures), Aleksander Lukin , White Skull",
   "creators": [
     "Joe Simon",
     "Jack Kirby",
     "France Herron"
   ],
-  "teams": [
-    "Kronas Corporation",
-    "Exiles",
-    "Nazi Germany",
-    "Hydra",
-    "AIM",
-    "ULTIMATUM",
-    "Skeleton Crew",
-    "Astonishing Avengers"
-  ],
-  "aliases": "Der Rote Schädel (German name), Dell Rusk, Bettman P. Lyles, the Agent of a Thousand Faces (impersonated in Europe during World War II), The Man (head of the People's Militia), Cyrus Fenton, John Smith, Teacher, Tod March (president and owner of Galactic Pictures), Aleksander Lukin , White Skull",
-  "species": [],
+  "image": {
+    "height": "278",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Capa038.jpg/200px-Capa038.jpg",
+    "width": "200"
+  },
+  "name": "Red Skull",
+  "pageviews": 46845,
   "partners": [
     "Sin",
     "Baron Strucker",
@@ -36,10 +29,18 @@
     "Expert marksman",
     "Possesses cloned body of Captain America (including the Super-Soldier formula)"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Capa038.jpg/200px-Capa038.jpg",
-    "width": "200",
-    "height": "278"
-  },
-  "pageviews": 46612
+  "realName": "Johann Schmidt",
+  "species": [
+  ],
+  "teams": [
+    "Kronas Corporation",
+    "Exiles",
+    "Nazi Germany",
+    "Hydra",
+    "AIM",
+    "ULTIMATUM",
+    "Skeleton Crew",
+    "Astonishing Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Red_Skull"
 }

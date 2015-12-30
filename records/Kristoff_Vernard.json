@@ -1,16 +1,17 @@
 {
-  "name": "Kristoff Vernard",
-  "url": "https://en.wikipedia.org/wiki/Kristoff_Vernard",
-  "realName": "Kristoff Vernard",
+  "aliases": "Dr. Doom; Victor Von Doom; Kristoff Von Doom",
   "creators": [
     "John Byrne"
   ],
-  "teams": [
-    "Fantastic Four"
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b0/Kristoff.png",
+    "width": "250"
+  },
+  "name": "Kristoff Vernard",
+  "pageviews": 2827,
+  "partners": [
   ],
-  "aliases": "Dr. Doom; Victor Von Doom; Kristoff Von Doom",
-  "species": [],
-  "partners": [],
   "powers": [
     "Powered armor"
   ],
@@ -19,10 +20,11 @@
     "Powered armor grants a certain degree of superhuman strength and durability",
     "Energy projection and flight"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/b0/Kristoff.png",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 2827
+  "realName": "Kristoff Vernard",
+  "species": [
+  ],
+  "teams": [
+    "Fantastic Four"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kristoff_Vernard"
 }

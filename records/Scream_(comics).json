@@ -1,27 +1,29 @@
 {
-  "name": "Scream",
-  "url": "https://en.wikipedia.org/wiki/Scream_(comics)",
-  "realName": "Donna Diego",
+  "aliases": "",
   "creators": [
     "David Michelinie",
     "Ron Lim"
   ],
-  "teams": [
-    "Sinister Syndicate"
+  "image": {
+    "height": "190",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Scream_sym.jpg/200px-Scream_sym.jpg",
+    "width": "200"
+  },
+  "name": "Scream",
+  "pageviews": 7575,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
   "powers": [
     "Alien symbiote"
   ],
   "powersText": [
     "Alien symbiote"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Scream_sym.jpg/200px-Scream_sym.jpg",
-    "width": "200",
-    "height": "190"
-  },
-  "pageviews": 7575
+  "realName": "Donna Diego",
+  "species": [
+  ],
+  "teams": [
+    "Sinister Syndicate"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scream_(comics)"
 }

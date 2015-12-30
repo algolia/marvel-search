@@ -1,25 +1,28 @@
 {
-  "name": "Angel Dust",
-  "url": "https://en.wikipedia.org/wiki/Angel_Dust_(comics)",
-  "realName": "Christine",
+  "aliases": "Dusty",
   "creators": [
     "Geoff Johns"
   ],
-  "teams": [
-    "Morlocks"
+  "image": {
+  },
+  "name": "Angel Dust",
+  "pageviews": 63353,
+  "partners": [
   ],
-  "aliases": "Dusty",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Formerly:",
     "Superhuman strength",
     "Enhanced speed",
     "agility and stamina"
   ],
-  "image": {},
-  "pageviews": 63353
+  "realName": "Christine",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Morlocks"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Angel_Dust_(comics)"
 }

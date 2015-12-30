@@ -1,27 +1,30 @@
 {
-  "name": "Hiroim",
-  "url": "https://en.wikipedia.org/wiki/Hiroim",
-  "realName": "Hiroim the Oldstrong",
+  "aliases": "Hiroim the Shamed, Hiroim the Last Oldstrong",
   "creators": [
     "Greg Pak",
     "Carlo Pagulayan"
   ],
-  "teams": [
-    "Warbound"
+  "image": {
+    "height": "318",
+    "url": "https://upload.wikimedia.org/wikipedia/en/e/e3/Hiroim_the_Shamed.jpg",
+    "width": "250"
+  },
+  "name": "Hiroim",
+  "pageviews": 2825,
+  "partners": [
   ],
-  "aliases": "Hiroim the Shamed, Hiroim the Last Oldstrong",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Oldstrong power.",
     "Shadow Warrior martial techniques",
     "and strategic skills."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/e3/Hiroim_the_Shamed.jpg",
-    "width": "250",
-    "height": "318"
-  },
-  "pageviews": 2825
+  "realName": "Hiroim the Oldstrong",
+  "species": [
+  ],
+  "teams": [
+    "Warbound"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hiroim"
 }

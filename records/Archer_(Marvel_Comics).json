@@ -1,28 +1,30 @@
 {
-  "name": "Archer",
-  "url": "https://en.wikipedia.org/wiki/Archer_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "Jude Black",
   "creators": [
     "Howard Mackie"
   ],
-  "teams": [
-    "Xavier Security Enforcers"
+  "image": {
+    "height": "266",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Archerxf140.jpg",
+    "width": "200"
+  },
+  "name": "Archer",
+  "pageviews": 1004,
+  "partners": [
   ],
-  "aliases": "Jude Black",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Energy form",
     "Energy blasts",
     "Superhuman agility"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Archerxf140.jpg",
-    "width": "200",
-    "height": "266"
-  },
-  "pageviews": 1004
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Xavier Security Enforcers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Archer_(Marvel_Comics)"
 }

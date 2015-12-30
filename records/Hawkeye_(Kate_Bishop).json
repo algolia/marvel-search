@@ -1,24 +1,24 @@
 {
-  "name": "Hawkeye",
-  "url": "https://en.wikipedia.org/wiki/Hawkeye_(Kate_Bishop)",
-  "realName": "Katherine Elizabeth \"Kate\" Bishop",
+  "aliases": "Hawkeye",
   "creators": [
     "Allan Heinberg",
     "Jim Cheung"
   ],
-  "teams": [
-    "A-Force",
-    "Young Avengers"
-  ],
-  "aliases": "Hawkeye",
-  "species": [],
+  "image": {
+    "height": "325",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Katebishop.png/250px-Katebishop.png",
+    "width": "250"
+  },
+  "name": "Hawkeye",
+  "pageviews": 18104,
   "partners": [
     "Hawkeye (Clint Barton)",
     "Patriot (Eli Bradley)",
     "Speed",
     "Marvel Boy"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Highly skilled archer",
     "fencer",
@@ -31,10 +31,12 @@
     "a bow",
     "and trick arrows"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Katebishop.png/250px-Katebishop.png",
-    "width": "250",
-    "height": "325"
-  },
-  "pageviews": 18104
+  "realName": "Katherine Elizabeth \"Kate\" Bishop",
+  "species": [
+  ],
+  "teams": [
+    "A-Force",
+    "Young Avengers"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hawkeye_(Kate_Bishop)"
 }

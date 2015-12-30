@@ -1,10 +1,32 @@
 {
-  "name": "The Thing",
-  "url": "https://en.wikipedia.org/wiki/Thing_(comics)",
-  "realName": "Benjamin Jacob \"Ben\" Grimm",
+  "aliases": "Blackbeard the Pirate , Angrir: Breaker of Souls, Dr. Josiah Verpoorteen, El Morrito",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Thing_v2_1_coverart.jpg/250px-Thing_v2_1_coverart.jpg",
+    "width": "250"
+  },
+  "name": "The Thing",
+  "pageviews": 41828,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Skilled street fighter and hand to hand combatant",
+    "Superhuman strength",
+    "stamina and durability",
+    "Rock-like skin",
+    "Excellent dexterity",
+    "Above-average reflexes",
+    "Enhanced lung capacity"
+  ],
+  "realName": "Benjamin Jacob \"Ben\" Grimm",
+  "species": [
+    "Human Mutate"
   ],
   "teams": [
     "Future Foundation",
@@ -18,25 +40,5 @@
     "Guardians of the Galaxy",
     "The Worthy"
   ],
-  "aliases": "Blackbeard the Pirate , Angrir: Breaker of Souls, Dr. Josiah Verpoorteen, El Morrito",
-  "species": [
-    "Human Mutate"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Skilled street fighter and hand to hand combatant",
-    "Superhuman strength",
-    "stamina and durability",
-    "Rock-like skin",
-    "Excellent dexterity",
-    "Above-average reflexes",
-    "Enhanced lung capacity"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Thing_v2_1_coverart.jpg/250px-Thing_v2_1_coverart.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 41828
+  "url": "https://en.wikipedia.org/wiki/Thing_(comics)"
 }

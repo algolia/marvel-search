@@ -1,20 +1,21 @@
 {
-  "name": "Wizard",
-  "url": "https://en.wikipedia.org/wiki/Wizard_(Marvel_Comics)",
-  "realName": "Bentley Wittman",
+  "aliases": "The Wingless Wizard",
   "creators": [
     "Stan Lee",
     "Larry Lieber",
     "Jack Kirby"
   ],
-  "teams": [
-    "Frightful Four",
-    "Intelligencia"
+  "image": {
+    "height": "273",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/The_wizard.jpg/250px-The_wizard.jpg",
+    "width": "250"
+  },
+  "name": "Wizard",
+  "pageviews": 4594,
+  "partners": [
   ],
-  "aliases": "The Wingless Wizard",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Talented escape artist and stage magician",
     "Master of disguise",
@@ -23,10 +24,12 @@
     "Electrical blasts via power gloves",
     "Mind control via helmet"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/The_wizard.jpg/250px-The_wizard.jpg",
-    "width": "250",
-    "height": "273"
-  },
-  "pageviews": 4594
+  "realName": "Bentley Wittman",
+  "species": [
+  ],
+  "teams": [
+    "Frightful Four",
+    "Intelligencia"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wizard_(Marvel_Comics)"
 }

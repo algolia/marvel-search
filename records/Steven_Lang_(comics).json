@@ -1,23 +1,27 @@
 {
+  "aliases": "Master Mold, Template",
+  "creators": [
+  ],
+  "image": {
+    "height": "414",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/XMN_StevenLang.jpg",
+    "width": "250"
+  },
   "name": "Steven Lang",
-  "url": "https://en.wikipedia.org/wiki/Steven_Lang_(comics)",
+  "pageviews": 2098,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Cybernetic organism"
+  ],
   "realName": "Steven Lang",
-  "creators": [],
+  "species": [
+  ],
   "teams": [
     "Purifiers",
     "Phalanx"
   ],
-  "aliases": "Master Mold, Template",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Cybernetic organism"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/XMN_StevenLang.jpg",
-    "width": "250",
-    "height": "414"
-  },
-  "pageviews": 2098
+  "url": "https://en.wikipedia.org/wiki/Steven_Lang_(comics)"
 }

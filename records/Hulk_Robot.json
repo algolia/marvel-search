@@ -1,22 +1,27 @@
 {
-  "name": "Hulk Robot",
-  "url": "https://en.wikipedia.org/wiki/Hulk_Robot",
-  "realName": "Hulk Robot",
-  "creators": [],
-  "teams": [
-    "Assembly of Evil",
-    "Intelligencia"
-  ],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+  },
+  "name": "Hulk Robot",
+  "pageviews": 703,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
     "stamina",
     "and durability"
   ],
-  "image": {},
-  "pageviews": 703
+  "realName": "Hulk Robot",
+  "species": [
+  ],
+  "teams": [
+    "Assembly of Evil",
+    "Intelligencia"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hulk_Robot"
 }

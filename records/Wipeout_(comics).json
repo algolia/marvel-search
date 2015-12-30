@@ -1,23 +1,26 @@
 {
-  "name": "Wipeout",
-  "url": "https://en.wikipedia.org/wiki/Wipeout_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Marc Silvestri"
   ],
-  "teams": [
-    "Press Gang"
+  "image": {
+  },
+  "name": "Wipeout",
+  "pageviews": 360,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "remove powers from mutants or other superhumans."
   ],
-  "image": {},
-  "pageviews": 360
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Press Gang"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wipeout_(comics)"
 }

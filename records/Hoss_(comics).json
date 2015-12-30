@@ -1,22 +1,26 @@
 {
-  "name": "Hoss",
-  "url": "https://en.wikipedia.org/wiki/Hoss_(comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Garth Ennis",
     "Clayton Crain"
   ],
-  "teams": [
-    "Ghost Rider"
+  "image": {
+  },
+  "name": "Hoss",
+  "pageviews": 504,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and durability. Able to repair his own body and to rebuild humans into new forms. Able to track other demons. Able to extrude tentacles. Other magical powers",
     "exact extent unknown."
   ],
-  "image": {},
-  "pageviews": 504
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Ghost Rider"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hoss_(comics)"
 }

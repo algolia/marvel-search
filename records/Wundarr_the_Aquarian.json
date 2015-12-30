@@ -1,23 +1,22 @@
 {
-  "name": "Wundarr the Aquarian",
-  "url": "https://en.wikipedia.org/wiki/Wundarr_the_Aquarian",
-  "realName": "Wundarr",
+  "aliases": "Herald of the New Age",
   "creators": [
     "Steve Gerber",
     "Val Mayerik",
     "Mark Gruenwald",
     "Ralph Macchio"
   ],
-  "teams": [
-    "Initiative",
-    "Project Pegasus"
+  "image": {
+    "height": "398",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Wundarr_the_Aquarian.png",
+    "width": "259"
+  },
+  "name": "Wundarr the Aquarian",
+  "pageviews": 1495,
+  "partners": [
   ],
-  "aliases": "Herald of the New Age",
-  "species": [
-    "Dakkamite"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "Limited flight",
@@ -27,10 +26,13 @@
     "Vast knowledge",
     "Transmitting knowledge through touch"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Wundarr_the_Aquarian.png",
-    "width": "259",
-    "height": "398"
-  },
-  "pageviews": 1495
+  "realName": "Wundarr",
+  "species": [
+    "Dakkamite"
+  ],
+  "teams": [
+    "Initiative",
+    "Project Pegasus"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Wundarr_the_Aquarian"
 }

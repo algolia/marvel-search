@@ -1,15 +1,18 @@
 {
-  "name": "Doom 2099",
-  "url": "https://en.wikipedia.org/wiki/Doom_2099",
-  "realName": "Victor Von Doom",
+  "aliases": "Doctor Doom, Erik Czerny",
   "creators": [
     "John Francis Moore",
     "Pat Broderick"
   ],
-  "teams": [],
-  "aliases": "Doctor Doom, Erik Czerny",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "386",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Doom-2099.jpg/250px-Doom-2099.jpg",
+    "width": "250"
+  },
+  "name": "Doom 2099",
+  "pageviews": 4468,
+  "partners": [
+  ],
   "powers": [
     "Nanomachines",
     "cyberpathy",
@@ -28,10 +31,10 @@
     "Energy blast projection via gauntlets",
     "Wide array of sensors and scanners"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Doom-2099.jpg/250px-Doom-2099.jpg",
-    "width": "250",
-    "height": "386"
-  },
-  "pageviews": 4468
+  "realName": "Victor Von Doom",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Doom_2099"
 }

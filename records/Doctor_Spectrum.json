@@ -1,20 +1,20 @@
 {
-  "name": "Doctor Spectrum",
-  "url": "https://en.wikipedia.org/wiki/Doctor_Spectrum",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "teams": [
-    "Squadron Sinister",
-    "Squadron Supreme",
-    "Squadron Supreme"
+  "image": {
+    "height": "372",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/IronMan-63.jpg/250px-IronMan-63.jpg",
+    "width": "250"
+  },
+  "name": "Doctor Spectrum",
+  "pageviews": 10350,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Via Power Prism:",
     "Flight",
@@ -22,10 +22,13 @@
     "Ability to survive in space",
     "Intangibility"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/IronMan-63.jpg/250px-IronMan-63.jpg",
-    "width": "250",
-    "height": "372"
-  },
-  "pageviews": 10193
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Squadron Sinister",
+    "Squadron Supreme",
+    "Squadron Supreme"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Doctor_Spectrum"
 }

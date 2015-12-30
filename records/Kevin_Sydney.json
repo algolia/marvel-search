@@ -1,21 +1,18 @@
 {
-  "name": "Kevin Sydney",
-  "url": "https://en.wikipedia.org/wiki/Kevin_Sydney",
-  "realName": "Kevin Sydney",
+  "aliases": "<nowiki>#2</nowiki>, Kevin MacTaggert , John Askegren, Jack Bolton, Martina Johanssen, Werner Reiman, Charles Sage, Francisco Zerilli, Professor Charles Xavier",
   "creators": [
     "Roy Thomas",
     "Werner Roth"
   ],
-  "teams": [
-    "X-Men",
-    "Factor Three",
-    "Exiles"
+  "image": {
+    "height": "247",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/3e/Morpexilesjpg.jpg",
+    "width": "250"
+  },
+  "name": "Kevin Sydney",
+  "pageviews": 6719,
+  "partners": [
   ],
-  "aliases": "<nowiki>#2</nowiki>, Kevin MacTaggert , John Askegren, Jack Bolton, Martina Johanssen, Werner Reiman, Charles Sage, Francisco Zerilli, Professor Charles Xavier",
-  "species": [
-    "Human mutant"
-  ],
-  "partners": [],
   "powers": [
     "Shapeshifting",
     "Telepathy",
@@ -30,10 +27,14 @@
     "Good prankster",
     "Expert computer engineer"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/3e/Morpexilesjpg.jpg",
-    "width": "250",
-    "height": "247"
-  },
-  "pageviews": 6719
+  "realName": "Kevin Sydney",
+  "species": [
+    "Human mutant"
+  ],
+  "teams": [
+    "X-Men",
+    "Factor Three",
+    "Exiles"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Kevin_Sydney"
 }

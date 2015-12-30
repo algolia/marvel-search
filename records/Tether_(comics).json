@@ -1,18 +1,15 @@
 {
-  "name": "Tether",
-  "url": "https://en.wikipedia.org/wiki/Tether_(comics)",
-  "realName": null,
-  "creators": [],
-  "teams": [
-    "Morlocks",
-    "Gene Nation"
-  ],
   "aliases": "",
-  "species": [
-    "Human Mutant"
+  "creators": [
   ],
-  "partners": [],
-  "powers": [],
+  "image": {
+  },
+  "name": "Tether",
+  "pageviews": 243,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Depowered",
     "formerly:",
@@ -20,6 +17,13 @@
     "Electrified tail",
     "Razor-sharp fangs and claws"
   ],
-  "image": {},
-  "pageviews": 243
+  "realName": null,
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Morlocks",
+    "Gene Nation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Tether_(comics)"
 }

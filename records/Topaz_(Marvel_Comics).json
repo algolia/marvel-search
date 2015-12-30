@@ -1,29 +1,32 @@
 {
-  "name": "Topaz",
-  "url": "https://en.wikipedia.org/wiki/Topaz_(Marvel_Comics)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Marv Wolfman",
     "Mike Ploog"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
+  "image": {
+    "height": "264",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/DeodatoTopaz.jpg/250px-DeodatoTopaz.jpg",
+    "width": "250"
+  },
+  "name": "Topaz",
+  "pageviews": 1636,
   "partners": [
     "Jack Russell",
     "Doctor Strange"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Empathy",
     "Telepathy",
     "Telekinesis",
     "Demonic magic"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/DeodatoTopaz.jpg/250px-DeodatoTopaz.jpg",
-    "width": "250",
-    "height": "264"
-  },
-  "pageviews": 1636
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Topaz_(Marvel_Comics)"
 }

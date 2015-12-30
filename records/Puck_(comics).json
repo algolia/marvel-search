@@ -1,21 +1,19 @@
 {
-  "name": "Puck",
-  "url": "https://en.wikipedia.org/wiki/Puck_(comics)",
-  "realName": "Eugene Milton Judd",
+  "aliases": "Geno",
   "creators": [
     "John Byrne"
   ],
-  "teams": [
-    "Alpha Flight",
-    "Beta Flight",
-    "X-Force"
+  "image": {
+    "height": "351",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Alphaflight5.jpg/225px-Alphaflight5.jpg",
+    "width": "225"
+  },
+  "name": "Puck",
+  "pageviews": 5419,
+  "partners": [
   ],
-  "aliases": "Geno",
-  "species": [
-    "Altered Human"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "agility",
@@ -24,10 +22,14 @@
     "Superhuman longevity",
     "Skilled fighter"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Alphaflight5.jpg/225px-Alphaflight5.jpg",
-    "width": "225",
-    "height": "351"
-  },
-  "pageviews": 5419
+  "realName": "Eugene Milton Judd",
+  "species": [
+    "Altered Human"
+  ],
+  "teams": [
+    "Alpha Flight",
+    "Beta Flight",
+    "X-Force"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Puck_(comics)"
 }

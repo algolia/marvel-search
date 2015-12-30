@@ -1,10 +1,29 @@
 {
-  "name": "Northstar",
-  "url": "https://en.wikipedia.org/wiki/Northstar",
-  "realName": "Jean-Paul Beaubier",
+  "aliases": "Jean-Paul Martin",
   "creators": [
     "Chris Claremont",
     "John Byrne"
+  ],
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Xmen392.PNG/250px-Xmen392.PNG",
+    "width": "250"
+  },
+  "name": "Northstar",
+  "pageviews": 20806,
+  "partners": [
+  ],
+  "powers": [
+    "Light manipulation"
+  ],
+  "powersText": [
+    "Superhuman speed and durability",
+    "Flight",
+    "Light manipulation"
+  ],
+  "realName": "Jean-Paul Beaubier",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Men",
@@ -15,23 +34,5 @@
     "FLQ",
     "Alpha Squadron"
   ],
-  "aliases": "Jean-Paul Martin",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "Light manipulation"
-  ],
-  "powersText": [
-    "Superhuman speed and durability",
-    "Flight",
-    "Light manipulation"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Xmen392.PNG/250px-Xmen392.PNG",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 20806
+  "url": "https://en.wikipedia.org/wiki/Northstar"
 }

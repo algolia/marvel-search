@@ -1,22 +1,19 @@
 {
-  "name": "Chondu the Mystic",
-  "url": "https://en.wikipedia.org/wiki/Chondu_the_Mystic",
-  "realName": null,
+  "aliases": "Nighthawk, Bambi, Chondu the Magician, Chondu the Yogi",
   "creators": [
     "Doug Wildley",
     "George Evans",
     "Steve Gerber",
     "Sal Buscema"
   ],
-  "teams": [
-    "Headmen",
-    "A.I.M.",
-    "Circus of Crime"
+  "image": {
+  },
+  "name": "Chondu the Mystic",
+  "pageviews": 831,
+  "partners": [
   ],
-  "aliases": "Nighthawk, Bambi, Chondu the Magician, Chondu the Yogi",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Minor magic manipulation",
     "(Monstrous form):",
@@ -24,6 +21,13 @@
     "Flight",
     "Ability to constrict objects with his tentacle-like arms"
   ],
-  "image": {},
-  "pageviews": 831
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Headmen",
+    "A.I.M.",
+    "Circus of Crime"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Chondu_the_Mystic"
 }

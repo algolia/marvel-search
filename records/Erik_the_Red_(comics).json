@@ -1,30 +1,33 @@
 {
-  "name": "Eric the Red",
-  "url": "https://en.wikipedia.org/wiki/Erik_the_Red_(comics)",
-  "realName": "(I) Scott Summers, (II) Davan Shakari, (III) Erik Magnus Lehnsherr",
+  "aliases": "",
   "creators": [
     "Arnold Drake",
     "Jim Steranko",
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "teams": [
-    "Shi'ar"
+  "image": {
+    "height": "385",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Xmen97erikthesmall.jpg/250px-Xmen97erikthesmall.jpg",
+    "width": "250"
+  },
+  "name": "Eric the Red",
+  "pageviews": 2949,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength and agility",
     "Hollow bones",
     "Mind control",
     "Force blasts"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Xmen97erikthesmall.jpg/250px-Xmen97erikthesmall.jpg",
-    "width": "250",
-    "height": "385"
-  },
-  "pageviews": 2949
+  "realName": "(I) Scott Summers, (II) Davan Shakari, (III) Erik Magnus Lehnsherr",
+  "species": [
+  ],
+  "teams": [
+    "Shi'ar"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Erik_the_Red_(comics)"
 }

@@ -1,28 +1,31 @@
 {
-  "name": "Perrikus",
-  "url": "https://en.wikipedia.org/wiki/Perrikus",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Dan Jurgens",
     "John Romita, Jr."
   ],
-  "teams": [
-    "Dark Gods"
+  "image": {
+    "height": "375",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Perrikus.jpg/249px-Perrikus.jpg",
+    "width": "249"
+  },
+  "name": "Perrikus",
+  "pageviews": 924,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "durability and endurance",
     "Advanced fighting skills",
     "Energy projection via magical scythe"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Perrikus.jpg/249px-Perrikus.jpg",
-    "width": "249",
-    "height": "375"
-  },
-  "pageviews": 924
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Dark Gods"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Perrikus"
 }

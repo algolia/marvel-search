@@ -1,25 +1,29 @@
 {
-  "name": "Zarrko, the Tomorrow Man",
-  "url": "https://en.wikipedia.org/wiki/Zarrko",
-  "realName": "Artur Zarrko",
+  "aliases": "Boris, The Tomorrow Man",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Boris, The Tomorrow Man",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "332",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Journey_into_Mystery_101.jpg/220px-Journey_into_Mystery_101.jpg",
+    "width": "220"
+  },
+  "name": "Zarrko, the Tomorrow Man",
+  "pageviews": 1649,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Genius-level intellect",
     "Advanced scientific and technological skills",
     "Possesses an arsenal of futuristic weaponry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Journey_into_Mystery_101.jpg/220px-Journey_into_Mystery_101.jpg",
-    "width": "220",
-    "height": "332"
-  },
-  "pageviews": 1649
+  "realName": "Artur Zarrko",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Zarrko"
 }

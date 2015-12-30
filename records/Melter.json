@@ -1,27 +1,30 @@
 {
-  "name": "Melter",
-  "url": "https://en.wikipedia.org/wiki/Melter",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
+  ],
+  "image": {
+    "height": "355",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Melter.jpg/240px-Melter.jpg",
+    "width": "240"
+  },
+  "name": "Melter",
+  "pageviews": 3149,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Extensive knowledge of weapons and munitions",
+    "Ability to melt iron and almost all types of substances via melting device"
+  ],
+  "realName": null,
+  "species": [
   ],
   "teams": [
     "Masters of Evil",
     "Death Squad"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Extensive knowledge of weapons and munitions",
-    "Ability to melt iron and almost all types of substances via melting device"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Melter.jpg/240px-Melter.jpg",
-    "width": "240",
-    "height": "355"
-  },
-  "pageviews": 3149
+  "url": "https://en.wikipedia.org/wiki/Melter"
 }

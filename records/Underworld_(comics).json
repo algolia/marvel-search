@@ -1,15 +1,18 @@
 {
-  "name": "Underworld",
-  "url": "https://en.wikipedia.org/wiki/Underworld_(comics)",
-  "realName": "Jackie Dio",
+  "aliases": "",
   "creators": [
     "Frank Tieri",
     "Staz Johnson"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
+  "image": {
+    "height": "379",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/UNDRWLD005_FLCOV.jpg/250px-UNDRWLD005_FLCOV.jpg",
+    "width": "250"
+  },
+  "name": "Underworld",
+  "pageviews": 1353,
+  "partners": [
+  ],
   "powers": [
     "healing factor",
     "adamantium",
@@ -22,10 +25,10 @@
     "weapons with adamantium bullets",
     "and a titanium-lined coat"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/UNDRWLD005_FLCOV.jpg/250px-UNDRWLD005_FLCOV.jpg",
-    "width": "250",
-    "height": "379"
-  },
-  "pageviews": 1353
+  "realName": "Jackie Dio",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Underworld_(comics)"
 }

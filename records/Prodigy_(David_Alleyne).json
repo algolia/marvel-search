@@ -1,25 +1,19 @@
 {
-  "name": "Prodigy",
-  "url": "https://en.wikipedia.org/wiki/Prodigy_(David_Alleyne)",
-  "realName": "David Alleyne",
+  "aliases": "",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir",
     "Keron Grant"
   ],
-  "teams": [
-    "Young Avengers",
-    "New Mutants training squad",
-    "New X-Men",
-    "Xavier Institute",
-    "X-Men-In-Training"
+  "image": {
+    "height": "247",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Prodigy_%28David_Alleyne%29_in_New_X-Men.jpg/200px-Prodigy_%28David_Alleyne%29_in_New_X-Men.jpg",
+    "width": "200"
+  },
+  "name": "Prodigy",
+  "pageviews": 6654,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Depowered",
-    "Human Mutant"
-  ],
-  "partners": [],
   "powers": [
     "M-Day"
   ],
@@ -30,10 +24,17 @@
     "Formerly:",
     "Ability to mimic the knowledge possessed by others"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Prodigy_%28David_Alleyne%29_in_New_X-Men.jpg/200px-Prodigy_%28David_Alleyne%29_in_New_X-Men.jpg",
-    "width": "200",
-    "height": "247"
-  },
-  "pageviews": 6654
+  "realName": "David Alleyne",
+  "species": [
+    "Depowered",
+    "Human Mutant"
+  ],
+  "teams": [
+    "Young Avengers",
+    "New Mutants training squad",
+    "New X-Men",
+    "Xavier Institute",
+    "X-Men-In-Training"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Prodigy_(David_Alleyne)"
 }

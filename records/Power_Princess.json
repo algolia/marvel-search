@@ -1,19 +1,20 @@
 {
-  "name": "Power Princess",
-  "url": "https://en.wikipedia.org/wiki/Power_Princess",
-  "realName": "Zarda Shelton",
+  "aliases": "Claire Debussy",
   "creators": [
     "J. M. DeMatteis",
     "Don Perlin"
   ],
-  "teams": [
-    "Squadron Supreme",
-    "Exiles"
+  "image": {
+    "height": "402",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Zarda_Ultimate_Hulk_Annual.jpg/180px-Zarda_Ultimate_Hulk_Annual.jpg",
+    "width": "180"
+  },
+  "name": "Power Princess",
+  "pageviews": 9065,
+  "partners": [
   ],
-  "aliases": "Claire Debussy",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "speed",
@@ -24,10 +25,12 @@
     "Extended longevity",
     "Experienced armed and unarmed combatant"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Zarda_Ultimate_Hulk_Annual.jpg/180px-Zarda_Ultimate_Hulk_Annual.jpg",
-    "width": "180",
-    "height": "402"
-  },
-  "pageviews": 9065
+  "realName": "Zarda Shelton",
+  "species": [
+  ],
+  "teams": [
+    "Squadron Supreme",
+    "Exiles"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Power_Princess"
 }

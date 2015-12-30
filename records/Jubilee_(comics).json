@@ -1,24 +1,18 @@
 {
-  "name": "Jubilee",
-  "url": "https://en.wikipedia.org/wiki/Jubilee_(comics)",
-  "realName": "Jubilation \"Jubilee\" Lee",
+  "aliases": "Wondra",
   "creators": [
     "Chris Claremont",
     "Marc Silvestri"
   ],
-  "teams": [
-    "New Warriors",
-    "X-Men",
-    "X-Corps",
-    "Generation X",
-    "Xavier Institute"
+  "image": {
+    "height": "380",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Jubileedecimation.jpg/250px-Jubileedecimation.jpg",
+    "width": "250"
+  },
+  "name": "Jubilee",
+  "pageviews": 67946,
+  "partners": [
   ],
-  "aliases": "Wondra",
-  "species": [
-    "Vampire",
-    "Mutant"
-  ],
-  "partners": [],
   "powers": [
     "plasmoid"
   ],
@@ -28,10 +22,17 @@
     "Ability to explosively charge objects",
     "Ability to evade the detection of telepaths"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Jubileedecimation.jpg/250px-Jubileedecimation.jpg",
-    "width": "250",
-    "height": "380"
-  },
-  "pageviews": 67946
+  "realName": "Jubilation \"Jubilee\" Lee",
+  "species": [
+    "Vampire",
+    "Mutant"
+  ],
+  "teams": [
+    "New Warriors",
+    "X-Men",
+    "X-Corps",
+    "Generation X",
+    "Xavier Institute"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jubilee_(comics)"
 }

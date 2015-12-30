@@ -1,31 +1,33 @@
 {
-  "name": "Mammomax",
-  "url": "https://en.wikipedia.org/wiki/Mammomax",
-  "realName": "Maximus Jensen",
+  "aliases": "",
   "creators": [
     "Chuck Austen",
     "Salvador Larroca"
   ],
-  "teams": [
-    "The 198",
-    "Brotherhood of Mutants"
+  "image": {
+    "height": "442",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/XMEN_Mammomax.jpg/200px-XMEN_Mammomax.jpg",
+    "width": "200"
+  },
+  "name": "Mammomax",
+  "pageviews": 1309,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman strength",
     "endurance and durability",
     "Ivory tusks",
     "Corrosive stomach acids"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/XMEN_Mammomax.jpg/200px-XMEN_Mammomax.jpg",
-    "width": "200",
-    "height": "442"
-  },
-  "pageviews": 1309
+  "realName": "Maximus Jensen",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "The 198",
+    "Brotherhood of Mutants"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Mammomax"
 }

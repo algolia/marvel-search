@@ -1,19 +1,24 @@
 {
-  "name": "Magique",
-  "url": "https://en.wikipedia.org/wiki/Magique",
-  "realName": null,
+  "aliases": "Magic",
   "creators": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
+  "image": {
+  },
+  "name": "Magique",
+  "pageviews": 743,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
   "teams": [
     "Imperial Guard"
   ],
-  "aliases": "Magic",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 743
+  "url": "https://en.wikipedia.org/wiki/Magique"
 }

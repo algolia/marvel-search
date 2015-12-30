@@ -1,21 +1,20 @@
 {
-  "name": "Thunderbird",
-  "url": "https://en.wikipedia.org/wiki/Thunderbird_(Neal_Shaara)",
-  "realName": "Neal Shaara",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Leinil Francis Yu"
   ],
-  "teams": [
-    "X-Men",
-    "X-Corporation"
+  "image": {
+    "height": "210",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/ThunderIII.png/200px-ThunderIII.png",
+    "width": "200"
+  },
+  "name": "Thunderbird",
+  "pageviews": 2019,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Generation of superheated plasma",
     "superstrengh",
@@ -23,10 +22,13 @@
     "durability",
     "stamina"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/ThunderIII.png/200px-ThunderIII.png",
-    "width": "200",
-    "height": "210"
-  },
-  "pageviews": 2019
+  "realName": "Neal Shaara",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "X-Men",
+    "X-Corporation"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Thunderbird_(Neal_Shaara)"
 }

@@ -1,24 +1,28 @@
 {
-  "name": "Gog",
-  "url": "https://en.wikipedia.org/wiki/Gog_(Marvel_Comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Roy Thomas",
     "Gil Kane"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "381",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/56/AmazingSpider-Man103.jpg",
+    "width": "250"
+  },
+  "name": "Gog",
+  "pageviews": 2022,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman strength",
     "Interdimensional teleportation via bracelets"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/56/AmazingSpider-Man103.jpg",
-    "width": "250",
-    "height": "381"
-  },
-  "pageviews": 2022
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Gog_(Marvel_Comics)"
 }

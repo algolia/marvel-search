@@ -1,27 +1,30 @@
 {
-  "name": "Breeze Barton",
-  "url": "https://en.wikipedia.org/wiki/Breeze_Barton",
-  "realName": "Kurt Barton",
+  "aliases": "",
   "creators": [
     "Jack Binder"
   ],
-  "teams": [
-    "A.R.M.O.R.",
-    "S.H.I.E.L.D."
+  "image": {
+    "height": "285",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Breeze_Barton1.jpg/200px-Breeze_Barton1.jpg",
+    "width": "200"
+  },
+  "name": "Breeze Barton",
+  "pageviews": 766,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Exceptional hand-to-hand combatant",
     "Enhanced endurance",
     "Use of jetpacks and ray guns"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Breeze_Barton1.jpg/200px-Breeze_Barton1.jpg",
-    "width": "200",
-    "height": "285"
-  },
-  "pageviews": 766
+  "realName": "Kurt Barton",
+  "species": [
+  ],
+  "teams": [
+    "A.R.M.O.R.",
+    "S.H.I.E.L.D."
+  ],
+  "url": "https://en.wikipedia.org/wiki/Breeze_Barton"
 }

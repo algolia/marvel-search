@@ -1,28 +1,31 @@
 {
-  "name": "Aragorn",
-  "url": "https://en.wikipedia.org/wiki/Aragorn_(comics)",
-  "realName": "Aragorn",
+  "aliases": "Hellhorse",
   "creators": [
     "Roy Thomas",
     "George Tuska"
   ],
-  "teams": [],
-  "aliases": "Hellhorse",
-  "species": [],
+  "image": {
+    "height": "298",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/ValkyrieDefenders4.jpg/200px-ValkyrieDefenders4.jpg",
+    "width": "200"
+  },
+  "name": "Aragorn",
+  "pageviews": 1496,
   "partners": [
     "Black Knight",
     "Valkyrie"
   ],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Flight via feathered wings",
     "Enhanced intelligence",
     "Experienced battle steed"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/ValkyrieDefenders4.jpg/200px-ValkyrieDefenders4.jpg",
-    "width": "200",
-    "height": "298"
-  },
-  "pageviews": 1496
+  "realName": "Aragorn",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Aragorn_(comics)"
 }

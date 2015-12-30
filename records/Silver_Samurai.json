@@ -1,20 +1,16 @@
 {
-  "name": "Silver Samurai",
-  "url": "https://en.wikipedia.org/wiki/Silver_Samurai",
-  "realName": "Kenuichio Harada",
+  "aliases": "",
   "creators": [
     "Steve Gerber",
     "Bob Brown"
   ],
-  "teams": [
-    "HYDRA",
-    "Big Hero 6",
-    "Legion Accursed"
-  ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
+  "image": {
+    "height": "200",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Silversumor.jpg/250px-Silversumor.jpg",
+    "width": "250"
+  },
+  "name": "Silver Samurai",
+  "pageviews": 18818,
   "partners": [
     "Viper",
     "Mandrill",
@@ -34,10 +30,14 @@
     "Ability to generate a tachyon field (capable of cutting through apparently anything",
     "except adamantium)"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Silversumor.jpg/250px-Silversumor.jpg",
-    "width": "250",
-    "height": "200"
-  },
-  "pageviews": 18818
+  "realName": "Kenuichio Harada",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "HYDRA",
+    "Big Hero 6",
+    "Legion Accursed"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Silver_Samurai"
 }

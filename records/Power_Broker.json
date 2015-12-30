@@ -1,20 +1,24 @@
 {
-  "name": "Power Broker",
-  "url": "https://en.wikipedia.org/wiki/Power_Broker",
-  "realName": "Curtiss Jackson",
+  "aliases": "",
   "creators": [
     "Jack Kirby"
+  ],
+  "image": {
+  },
+  "name": "Power Broker",
+  "pageviews": 2657,
+  "partners": [
+    "Red Skull"
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Curtiss Jackson",
+  "species": [
   ],
   "teams": [
     "The Corporation"
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [
-    "Red Skull"
-  ],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 2657
+  "url": "https://en.wikipedia.org/wiki/Power_Broker"
 }

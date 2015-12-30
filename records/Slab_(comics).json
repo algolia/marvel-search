@@ -1,25 +1,28 @@
 {
-  "name": "Slab",
-  "url": "https://en.wikipedia.org/wiki/Slab_(comics)",
-  "realName": "Christopher Anderson",
+  "aliases": "",
   "creators": [
     "Peter David",
     "Larry Stroman"
+  ],
+  "image": {
+  },
+  "name": "Slab",
+  "pageviews": 700,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Ability to increase size",
+    "strength and resistance to injury"
+  ],
+  "realName": "Christopher Anderson",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Nasty Boys",
     "Mutant Liberation Front"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Ability to increase size",
-    "strength and resistance to injury"
-  ],
-  "image": {},
-  "pageviews": 700
+  "url": "https://en.wikipedia.org/wiki/Slab_(comics)"
 }

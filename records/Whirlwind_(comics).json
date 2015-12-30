@@ -1,22 +1,20 @@
 {
-  "name": "Whirlwind",
-  "url": "https://en.wikipedia.org/wiki/Whirlwind_(comics)",
-  "realName": "David Cannon",
+  "aliases": "Human Top, Charles Matthews",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [
-    "Mandarin's Minions",
-    "Thunderbolts",
-    "Masters of Evil"
+  "image": {
+    "height": "306",
+    "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Avengers-139.jpg",
+    "width": "200"
+  },
+  "name": "Whirlwind",
+  "pageviews": 4780,
+  "partners": [
   ],
-  "aliases": "Human Top, Charles Matthews",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Superhuman agility",
     "reflexes",
@@ -27,10 +25,14 @@
     "Ability to spin at subsonic speeds",
     "focus air currents into a jet stream and a windscreen and create small tornadoes"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Avengers-139.jpg",
-    "width": "200",
-    "height": "306"
-  },
-  "pageviews": 4780
+  "realName": "David Cannon",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Mandarin's Minions",
+    "Thunderbolts",
+    "Masters of Evil"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Whirlwind_(comics)"
 }

@@ -1,11 +1,28 @@
 {
-  "name": "Hellion",
-  "url": "https://en.wikipedia.org/wiki/Hellion",
-  "realName": "Julian Keller",
+  "aliases": "",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir",
     "Keron Grant"
+  ],
+  "image": {
+    "height": "373",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Hellion.JPG/250px-Hellion.JPG",
+    "width": "250"
+  },
+  "name": "Hellion",
+  "pageviews": 3476,
+  "partners": [
+  ],
+  "powers": [
+    "Telekinesis"
+  ],
+  "powersText": [
+    "Telekinesis"
+  ],
+  "realName": "Julian Keller",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Hellions training squad",
@@ -14,21 +31,5 @@
     "X-Men-In-Training",
     "Jean Grey School Students"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [
-    "Telekinesis"
-  ],
-  "powersText": [
-    "Telekinesis"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Hellion.JPG/250px-Hellion.JPG",
-    "width": "250",
-    "height": "373"
-  },
-  "pageviews": 3476
+  "url": "https://en.wikipedia.org/wiki/Hellion"
 }

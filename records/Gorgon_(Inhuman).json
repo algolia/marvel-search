@@ -1,29 +1,31 @@
 {
-  "name": "Gorgon",
-  "url": "https://en.wikipedia.org/wiki/Gorgon_(Inhuman)",
-  "realName": "",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
+  ],
+  "image": {
+    "height": "385",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Gorgon_%28Inhuman%29.jpg/250px-Gorgon_%28Inhuman%29.jpg",
+    "width": "250"
+  },
+  "name": "Gorgon",
+  "pageviews": 15059,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Enhanced strength and durability",
+    "Ability to generate seismic shockwaves via bull-like legs and hooves"
+  ],
+  "realName": "",
+  "species": [
+    "Inhuman"
   ],
   "teams": [
     "Inhuman Royal Family",
     "Fantastic Four"
   ],
-  "aliases": "",
-  "species": [
-    "Inhuman"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Enhanced strength and durability",
-    "Ability to generate seismic shockwaves via bull-like legs and hooves"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Gorgon_%28Inhuman%29.jpg/250px-Gorgon_%28Inhuman%29.jpg",
-    "width": "250",
-    "height": "385"
-  },
-  "pageviews": 15059
+  "url": "https://en.wikipedia.org/wiki/Gorgon_(Inhuman)"
 }

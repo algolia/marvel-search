@@ -1,20 +1,20 @@
 {
-  "name": "Shroud",
-  "url": "https://en.wikipedia.org/wiki/Shroud_(comics)",
-  "realName": "Maximillian Quincy Coleridge",
+  "aliases": "Master of Darkness, Michael Wyatt",
   "creators": [
     "Steve Englehart",
     "Herb Trimpe"
   ],
-  "teams": [
-    "Cult of Kali",
-    "Heroes for Hire",
-    "Night Shift"
+  "image": {
+    "height": "313",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/The_shroud.jpg/250px-The_shroud.jpg",
+    "width": "250"
+  },
+  "name": "Shroud",
+  "pageviews": 3725,
+  "partners": [
   ],
-  "aliases": "Master of Darkness, Michael Wyatt",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Olympic-level athlete",
     "Adept acrobat and infiltrator",
@@ -24,10 +24,13 @@
     "Flight at walking speed",
     "Ability to transform Darkforce dimension energy into anything imaginable and \"see\" through walls and darkness"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/The_shroud.jpg/250px-The_shroud.jpg",
-    "width": "250",
-    "height": "313"
-  },
-  "pageviews": 3725
+  "realName": "Maximillian Quincy Coleridge",
+  "species": [
+  ],
+  "teams": [
+    "Cult of Kali",
+    "Heroes for Hire",
+    "Night Shift"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Shroud_(comics)"
 }

@@ -1,21 +1,22 @@
 {
-  "name": "Phobos",
-  "url": "https://en.wikipedia.org/wiki/Phobos_(Marvel_Comics)",
-  "realName": "",
+  "aliases": "Original:<br />God of Fear<br />Current:<br />''Pre-Retcon:''<br />God of War",
   "creators": [
     "Roy Thomas",
     "Jean-Marc Lofficier",
     "Michael Avon Oeming",
     "Travel Foreman"
   ],
-  "teams": [
-    "Olympians",
-    "Secret Warriors"
+  "image": {
+    "height": "258",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Phobos-Comics.jpg/200px-Phobos-Comics.jpg",
+    "width": "200"
+  },
+  "name": "Phobos",
+  "pageviews": 4790,
+  "partners": [
   ],
-  "aliases": "Original:<br />God of Fear<br />Current:<br />''Pre-Retcon:''<br />God of War",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Original:",
     "Ability to Instill Fear and Control Others",
@@ -23,10 +24,12 @@
     "''Pre-Retcon:''",
     "Mastery of All Forms of Weaponry"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Phobos-Comics.jpg/200px-Phobos-Comics.jpg",
-    "width": "200",
-    "height": "258"
-  },
-  "pageviews": 4790
+  "realName": "",
+  "species": [
+  ],
+  "teams": [
+    "Olympians",
+    "Secret Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Phobos_(Marvel_Comics)"
 }

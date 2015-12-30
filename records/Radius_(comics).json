@@ -1,10 +1,23 @@
 {
-  "name": "Radius",
-  "url": "https://en.wikipedia.org/wiki/Radius_(comics)",
-  "realName": "Jared Corbo",
+  "aliases": "",
   "creators": [
     "Steven Seagle",
     "Scott Clark"
+  ],
+  "image": {
+  },
+  "name": "Radius",
+  "pageviews": 541,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Force-Field generation"
+  ],
+  "realName": "Jared Corbo",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "Department H",
@@ -12,15 +25,5 @@
     "X-Corps",
     "Beta Flight"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Force-Field generation"
-  ],
-  "image": {},
-  "pageviews": 541
+  "url": "https://en.wikipedia.org/wiki/Radius_(comics)"
 }

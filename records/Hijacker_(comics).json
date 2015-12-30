@@ -1,18 +1,24 @@
 {
-  "name": "Hijacker",
-  "url": "https://en.wikipedia.org/wiki/Hijacker_(comics)",
-  "realName": "Howard Mitchell",
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Larry Lieber",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
-  "image": {},
-  "pageviews": 449
+  "image": {
+  },
+  "name": "Hijacker",
+  "pageviews": 449,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": "Howard Mitchell",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Hijacker_(comics)"
 }

@@ -1,21 +1,26 @@
 {
-  "name": "Spider-Man 2211",
-  "url": "https://en.wikipedia.org/wiki/Spider-Man_2211",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
-  "powersText": [],
   "image": {
+    "height": "74",
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Spider-Verse_Spider-Men.jpg/250px-Spider-Verse_Spider-Men.jpg",
-    "width": "250",
-    "height": "74"
+    "width": "250"
   },
-  "pageviews": 916
+  "name": "Spider-Man 2211",
+  "pageviews": 916,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+  ],
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Spider-Man_2211"
 }

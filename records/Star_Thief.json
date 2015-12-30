@@ -1,17 +1,23 @@
 {
-  "name": "Star Thief",
-  "url": "https://en.wikipedia.org/wiki/Star_Thief",
-  "realName": "Ditmal Pirval",
-  "creators": [],
-  "teams": [],
   "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "creators": [
+  ],
+  "image": {
+  },
+  "name": "Star Thief",
+  "pageviews": 393,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Flight",
     "Energy projection"
   ],
-  "image": {},
-  "pageviews": 393
+  "realName": "Ditmal Pirval",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Star_Thief"
 }

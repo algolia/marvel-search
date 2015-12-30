@@ -1,14 +1,16 @@
 {
-  "name": "Junzo Muto",
-  "url": "https://en.wikipedia.org/wiki/Junzo_Muto",
-  "realName": "Junzo Nuto",
-  "creators": [],
-  "teams": [
-    "Hand"
-  ],
   "aliases": "Iron Fist",
-  "species": [],
-  "partners": [],
+  "creators": [
+  ],
+  "image": {
+    "height": "451",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Junzo_profile.jpg/250px-Junzo_profile.jpg",
+    "width": "250"
+  },
+  "name": "Junzo Muto",
+  "pageviews": 780,
+  "partners": [
+  ],
   "powers": [
     "Fire manipulation",
     "Air manipulation",
@@ -27,10 +29,11 @@
     "Water manipulation",
     "and Teleportation"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Junzo_profile.jpg/250px-Junzo_profile.jpg",
-    "width": "250",
-    "height": "451"
-  },
-  "pageviews": 780
+  "realName": "Junzo Nuto",
+  "species": [
+  ],
+  "teams": [
+    "Hand"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Junzo_Muto"
 }

@@ -1,16 +1,20 @@
 {
-  "name": "John Jameson",
-  "url": "https://en.wikipedia.org/wiki/John_Jameson_(comics)",
-  "realName": "John Jonah Jameson III",
+  "aliases": "Colonel Jupiter, Man-Wolf, Stargod",
   "creators": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "teams": [],
-  "aliases": "Colonel Jupiter, Man-Wolf, Stargod",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "255",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/JohnJameson-Marvel.png/108px-JohnJameson-Marvel.png",
+    "width": "108"
+  },
+  "name": "John Jameson",
+  "pageviews": 8844,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Skilled pilot and astronaut",
     "Experienced hand-to-hand combatant",
@@ -31,10 +35,10 @@
     "dagger",
     "short bow and arrows"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/JohnJameson-Marvel.png/108px-JohnJameson-Marvel.png",
-    "width": "108",
-    "height": "255"
-  },
-  "pageviews": 8844
+  "realName": "John Jonah Jameson III",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/John_Jameson_(comics)"
 }

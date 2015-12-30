@@ -1,27 +1,30 @@
 {
-  "name": "Scaredycat",
-  "url": "https://en.wikipedia.org/wiki/Scaredycat",
-  "realName": "Pilar Lisieux",
+  "aliases": "",
   "creators": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "teams": [
-    "Strikeforce: Morituri"
+  "image": {
+    "height": "354",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Scaredycat.jpg",
+    "width": "250"
+  },
+  "name": "Scaredycat",
+  "pageviews": 263,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Superhuman speed",
     "Shock/panic projection",
     "Enhanced strength"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Scaredycat.jpg",
-    "width": "250",
-    "height": "354"
-  },
-  "pageviews": 263
+  "realName": "Pilar Lisieux",
+  "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Scaredycat"
 }

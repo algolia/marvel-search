@@ -1,10 +1,29 @@
 {
-  "name": "Pixie",
-  "url": "https://en.wikipedia.org/wiki/Pixie_(X-Men)",
-  "realName": "Megan Gwynn",
+  "aliases": "",
   "creators": [
     "Nunzio DeFilippis",
     "Christina Weir"
+  ],
+  "image": {
+    "height": "357",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/PixieWiki.png/250px-PixieWiki.png",
+    "width": "250"
+  },
+  "name": "Pixie",
+  "pageviews": 8270,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Flight via insect wings",
+    "\"Pixie dust\" which causes hallucinations on targets",
+    "Limited magic manipulation (primarily used for teleportation)",
+    "Wields a soul dagger"
+  ],
+  "realName": "Megan Gwynn",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "The Lights",
@@ -15,22 +34,5 @@
     "X-Men-In-Training",
     "Jean Grey School Students"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Flight via insect wings",
-    "\"Pixie dust\" which causes hallucinations on targets",
-    "Limited magic manipulation (primarily used for teleportation)",
-    "Wields a soul dagger"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/PixieWiki.png/250px-PixieWiki.png",
-    "width": "250",
-    "height": "357"
-  },
-  "pageviews": 8270
+  "url": "https://en.wikipedia.org/wiki/Pixie_(X-Men)"
 }

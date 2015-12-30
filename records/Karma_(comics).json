@@ -1,10 +1,28 @@
 {
-  "name": "Karma",
-  "url": "https://en.wikipedia.org/wiki/Karma_(comics)",
-  "realName": "Xi'an Coy Manh",
+  "aliases": "",
   "creators": [
     "Chris Claremont",
     "Frank Miller"
+  ],
+  "image": {
+    "height": "459",
+    "url": "https://upload.wikimedia.org/wikipedia/en/e/ef/Karma_in_uniform.jpg",
+    "width": "180"
+  },
+  "name": "Karma",
+  "pageviews": 7275,
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "powersText": [
+    "Psychic possession",
+    "Protection from mental attacks",
+    "Telepathy"
+  ],
+  "realName": "Xi'an Coy Manh",
+  "species": [
+    "Human Mutant"
   ],
   "teams": [
     "X-Men",
@@ -13,21 +31,5 @@
     "Hellions",
     "Jean Grey School"
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
-  ],
-  "partners": [],
-  "powers": [],
-  "powersText": [
-    "Psychic possession",
-    "Protection from mental attacks",
-    "Telepathy"
-  ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/ef/Karma_in_uniform.jpg",
-    "width": "180",
-    "height": "459"
-  },
-  "pageviews": 7275
+  "url": "https://en.wikipedia.org/wiki/Karma_(comics)"
 }

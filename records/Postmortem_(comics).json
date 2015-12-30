@@ -1,28 +1,31 @@
 {
-  "name": "Postmortem",
-  "url": "https://en.wikipedia.org/wiki/Postmortem_(comics)",
-  "realName": null,
+  "aliases": "Project: Postmortem",
   "creators": [
     "Terry Kavanagh",
     "Douglas H. Wheatley",
     "Steve Moncuse"
   ],
-  "teams": [
-    "Dracula"
+  "image": {
+    "height": "287",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Postmortem_%28comics%29.png/200px-Postmortem_%28comics%29.png",
+    "width": "200"
+  },
+  "name": "Postmortem",
+  "pageviews": 683,
+  "partners": [
   ],
-  "aliases": "Project: Postmortem",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Cybernetic body that grants him immortality",
     "and superhuman strength and endurance. One arm is a chainsaw",
     "the other a collection of scalpels and knives."
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Postmortem_%28comics%29.png/200px-Postmortem_%28comics%29.png",
-    "width": "200",
-    "height": "287"
-  },
-  "pageviews": 683
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Dracula"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Postmortem_(comics)"
 }

@@ -1,28 +1,31 @@
 {
-  "name": "Madcap",
-  "url": "https://en.wikipedia.org/wiki/Madcap_(comics)",
-  "realName": null,
+  "aliases": "",
   "creators": [
     "Mark Gruenwald",
     "Paul Neary"
   ],
-  "teams": [
-    "Masters of Evil",
-    "Heroes for Hire"
+  "image": {
+    "height": "378",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Madcap_Roland_Boschi.jpg/250px-Madcap_Roland_Boschi.jpg",
+    "width": "250"
+  },
+  "name": "Madcap",
+  "pageviews": 6730,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Accelerated healing factor",
     "Insanity inducement (temporary or permanent)",
     "Use of a distracting toy soap bubble-gun"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Madcap_Roland_Boschi.jpg/250px-Madcap_Roland_Boschi.jpg",
-    "width": "250",
-    "height": "378"
-  },
-  "pageviews": 6730
+  "realName": null,
+  "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Heroes for Hire"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Madcap_(comics)"
 }

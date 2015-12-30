@@ -1,17 +1,18 @@
 {
-  "name": "Sif",
-  "url": "https://en.wikipedia.org/wiki/Sif_(comics)",
-  "realName": null,
+  "aliases": "Sylvan",
   "creators": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "teams": [],
-  "aliases": "Sylvan",
-  "species": [
-    "Asgardian"
+  "image": {
+    "height": "377",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Sif.jpg/250px-Sif.jpg",
+    "width": "250"
+  },
+  "name": "Sif",
+  "pageviews": 31021,
+  "partners": [
   ],
-  "partners": [],
   "powers": [
     "Superhuman strength",
     "endurance",
@@ -21,10 +22,11 @@
     "Superhuman strengthendurance",
     "and longevity"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Sif.jpg/250px-Sif.jpg",
-    "width": "250",
-    "height": "377"
-  },
-  "pageviews": 31021
+  "realName": null,
+  "species": [
+    "Asgardian"
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Sif_(comics)"
 }

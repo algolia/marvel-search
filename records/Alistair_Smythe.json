@@ -1,15 +1,19 @@
 {
-  "name": "Alistair Smythe",
-  "url": "https://en.wikipedia.org/wiki/Alistair_Smythe",
-  "realName": "Alistair Alphonso Smythe",
+  "aliases": "The Ultimate Spider Slayer, Spider-Slayer",
   "creators": [
     "Louise Simonson"
   ],
-  "teams": [],
-  "aliases": "The Ultimate Spider Slayer, Spider-Slayer",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "image": {
+    "height": "319",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg/250px-Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg",
+    "width": "250"
+  },
+  "name": "Alistair Smythe",
+  "pageviews": 8392,
+  "partners": [
+  ],
+  "powers": [
+  ],
   "powersText": [
     "Expert robotics",
     "cybernetics and geneticist",
@@ -23,10 +27,10 @@
     "Web-shooter",
     "Ability to walk"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg/250px-Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg",
-    "width": "250",
-    "height": "319"
-  },
-  "pageviews": 8392
+  "realName": "Alistair Alphonso Smythe",
+  "species": [
+  ],
+  "teams": [
+  ],
+  "url": "https://en.wikipedia.org/wiki/Alistair_Smythe"
 }

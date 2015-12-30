@@ -1,18 +1,20 @@
 {
-  "name": "Jack Power",
-  "url": "https://en.wikipedia.org/wiki/Jack_Power",
-  "realName": "Jack Power",
+  "aliases": "Mass Master, Counterweight, Destroyer",
   "creators": [
     "Louise Simonson",
     "June Brigman"
   ],
-  "teams": [
-    "Power Pack"
+  "image": {
+    "height": "269",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/24/MassMasterCloud1.jpg",
+    "width": "149"
+  },
+  "name": "Jack Power",
+  "pageviews": 1763,
+  "partners": [
   ],
-  "aliases": "Mass Master, Counterweight, Destroyer",
-  "species": [],
-  "partners": [],
-  "powers": [],
+  "powers": [
+  ],
   "powersText": [
     "Density and size manipulation",
     "Healing powers",
@@ -21,10 +23,11 @@
     "Energy absorption",
     "projection and disintegration"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/24/MassMasterCloud1.jpg",
-    "width": "149",
-    "height": "269"
-  },
-  "pageviews": 1763
+  "realName": "Jack Power",
+  "species": [
+  ],
+  "teams": [
+    "Power Pack"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Jack_Power"
 }

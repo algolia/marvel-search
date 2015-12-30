@@ -1,27 +1,29 @@
 {
-  "name": "Humus Sapien",
-  "url": "https://en.wikipedia.org/wiki/Humus_Sapien",
-  "realName": "Sonny Baredo",
+  "aliases": "Humus Sapiens",
   "creators": [
     "Fabian Nicieza",
     "Patrick Zircher"
   ],
-  "teams": [
-    "Thunderbolts"
+  "image": {
+    "height": "276",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/HumusSapiens.jpg/250px-HumusSapiens.jpg",
+    "width": "250"
+  },
+  "name": "Humus Sapien",
+  "pageviews": 605,
+  "partners": [
   ],
-  "aliases": "Humus Sapiens",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Ability to destroy all non-natural substances"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/HumusSapiens.jpg/250px-HumusSapiens.jpg",
-    "width": "250",
-    "height": "276"
-  },
-  "pageviews": 605
+  "realName": "Sonny Baredo",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "Thunderbolts"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Humus_Sapien"
 }

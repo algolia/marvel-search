@@ -1,20 +1,20 @@
 {
-  "name": "Darkdevil",
-  "url": "https://en.wikipedia.org/wiki/Darkdevil",
-  "realName": "Reilly Tyne",
+  "aliases": "",
   "creators": [
     "Tom DeFalco",
     "Pat Olliffe"
   ],
-  "teams": [
-    "New Warriors"
+  "image": {
+    "height": "329",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Darkdevil.png/250px-Darkdevil.png",
+    "width": "250"
+  },
+  "name": "Darkdevil",
+  "pageviews": 2490,
+  "partners": [
   ],
-  "aliases": "",
-  "species": [
-    "Human Mutant"
+  "powers": [
   ],
-  "partners": [],
-  "powers": [],
   "powersText": [
     "Excellent hand-to-hand combatant and free style fighter",
     "Superhuman strength and agility",
@@ -24,10 +24,12 @@
     "change his appearance from demon to human",
     "cling to any surface and turn any body part into flame"
   ],
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Darkdevil.png/250px-Darkdevil.png",
-    "width": "250",
-    "height": "329"
-  },
-  "pageviews": 2490
+  "realName": "Reilly Tyne",
+  "species": [
+    "Human Mutant"
+  ],
+  "teams": [
+    "New Warriors"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Darkdevil"
 }
