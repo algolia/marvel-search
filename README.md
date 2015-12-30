@@ -28,7 +28,8 @@ All intermediate files are stored in `./download`
 
 ## TODO
 
-- Remove duplicates due to redirects (Red Skull)
 - Get real name for heroes (cf Spider-man Noir) (Use url name?)
-- Facet sidebar
+- Allow click on authors to filter faceting
+- Find a way to better display a large list of powers
+- Add "Show all" to facets?
 

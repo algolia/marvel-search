@@ -52,6 +52,42 @@ search.addWidget(
 );
 
 search.addWidget(
+  instantsearch.widgets.refinementList({
+    container: '#creators',
+    attributeName: 'creators',
+    operator: 'and',
+    limit: 10
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.refinementList({
+    container: '#teams',
+    attributeName: 'teams',
+    operator: 'and',
+    limit: 8
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.refinementList({
+    container: '#species',
+    attributeName: 'species',
+    operator: 'and',
+    limit: 5
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.refinementList({
+    container: '#powers',
+    attributeName: 'powers',
+    operator: 'and',
+    limit: 8
+  })
+);
+
+search.addWidget(
   instantsearch.widgets.pagination({
     container: '#pagination',
     cssClasses: {
