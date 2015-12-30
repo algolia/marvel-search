@@ -21,7 +21,7 @@ let indexSettings = {
     'name',
     'aliases',
     'realName',
-    'powers',
+    'powersText',
     'teams'
   ],
   attributesForFacetting: [

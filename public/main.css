@@ -160,9 +160,9 @@ a {
   float: left;
   width: 500px;
   background: #eff0f1;
-  overflow: hidden;
   margin:0px 10px 10px 0px;
   height: 200px;
+  overflow: hidden;
 }
 .hit--picture-wrapper {
   float: left;
@@ -199,19 +199,11 @@ a {
 }
 .hit--creators {
   font-size: 1rem;
+  padding-bottom: .5rem;
 }
-.hit--dl {
-  margin-top: 10px;
-  font-size:1.2rem;
-}
-.hit--dl dt {
-  width: 100px;
-}
-.hit--dl dt:after {
-  content: ":";
-}
-.hit--dl dd {
-  margin-left: 110px;
+.hit--powers {
+  margin-top: .5rem;
+  font-size: 1.3rem;
 }
 .hit em {
   color: #000000;

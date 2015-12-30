@@ -57,6 +57,10 @@
       </div>
       <div class="hit--desc-wrapper">
         <a class="hit--name" href="{{url}}">{{{_highlightResult.name.value}}}</a>
+        {{#creators}}
+        <div class="hit--creators">Authors: {{creators}}</div>
+        {{/creators}}
+
         {{#realName}}
         <div class="hit--realname">Real name: {{{_highlightResult.realName.value}}}</div>
         {{/realName}}
@@ -69,21 +73,15 @@
         <div class="hit--species">Race: {{species}}</div>
         {{/species}}
 
-        {{#creators}}
-        <div class="hit--creators">Authors: {{creators}}</div>
-        {{/creators}}
-
-        <dl class="hit--dl dl-horizontal">
-          {{#powersText}}
-          <dt>Powers</dt>
-          <dd>{{{powersText}}}</dd>
-          {{/powersText}}
-        </dl>
+        {{#powersText}}
+        <div class="hit--powers">{{{powersText}}}</div>
+        {{/powersText}}
       </div>
     </article>
   </script>
   <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
   <script src="https://cdn.jsdelivr.net/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/lodash/3.10.1/lodash.min.js"></script>
   <script src="search.js"></script>
 </body>
 </html>

@@ -34,8 +34,8 @@ search.addWidget(
       if (data.species) {
         data.species = data.species.join(', ');
       }
-      if (data.powersText) {
-        data.powersText = data.powersText.join('<br>');
+      if (data._highlightResult.powersText) {
+        data.powersText = _.map(data._highlightResult.powersText, 'value').join('<br>');
       }
       if (!data.image.url) {
         data.image.url = './default.jpg';
