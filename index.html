@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Marvel</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css" />
+  <link rel="stylesheet" type="text/css" href="main.css" />
+  <!--[if lte IE 9]>
+  <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+  <div class="container-fluid">
+
+    <header class="header content-wrapper">
+      <img src="logo.png" class="header--logo"/>
+      <div class="header--input-group">
+        <input type="text" class="header--input form-control" id="q" />
+      </div>
+      <div id="stats" class="header--stats"></div>
+      <a href="https://www.algolia.com/" class="header--algolia">
+        Search powered by <img src="algolia-logo.svg" class="header--algolia-logo"/>
+      </a>
+    </header>
+
+    <aside class="sidebar">
+      <!-- <div id="clear-all"></div> -->
+      <section class="facet-wrapper">
+        <h3 class="facet--title">Teams</h3>
+        <div id="teams" class="facet"></div>
+        <h3 class="facet--title">Powers</h3>
+        <div id="powers" class="facet"></div>
+        <h3 class="facet--title">Race</h3>
+        <div id="species" class="facet"></div>
+        <h3 class="facet--title">Creators</h3>
+        <div id="creators" class="facet"></div>
+      </section>
+      <div class="thank-you">Data from <a href="https://en.wikipedia.org/">Wikipedia</a></div>
+    </aside>
+
+
+    <div class="results">
+      <div class="hits" id="hits"></div>
+      <div class="pagination" id="pagination"></div>
+    </div>
+  </div>
+
+  <script id="hitTemplate" language="x-template">
+    <article class="hit">
+      <div class="hit--picture-wrapper">
+        <img src="{{image.url}}" />
+      </div>
+      <div class="hit--desc-wrapper">
+        <a class="hit--name" href="{{url}}">{{{_highlightResult.name.value}}}</a>
+        {{#creators}}
+        <div class="hit--creators">Authors: {{creators}}</div>
+        {{/creators}}
+
+        {{#realName}}
+        <div class="hit--realname">Real name: {{{_highlightResult.realName.value}}}</div>
+        {{/realName}}
+
+        {{#aliases}}
+        <div class="hit--aliases">A.K.A: {{{_highlightResult.aliases.value}}}</div>
+        {{/aliases}}
+
+        {{#species}}
+        <div class="hit--species">Race: {{species}}</div>
+        {{/species}}
+
+        {{#powersText}}
+        <div class="hit--powers">{{{powersText}}}</div>
+        {{/powersText}}
+      </div>
+    </article>
+  </script>
+  <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/lodash/3.10.1/lodash.min.js"></script>
+  <script src="search.js"></script>
+</body>
+</html>
+
