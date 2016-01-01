@@ -74,6 +74,11 @@ a {
   background: #FFFFFF; 
 }
 
+/* CLEAR ALL */
+.ais-clear-all {
+  margin-bottom: 10px;
+}
+
 /* FACETS */
 .facet--title {
   font-size: 1.2em;

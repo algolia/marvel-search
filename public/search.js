@@ -3,7 +3,8 @@
 var search = instantsearch({
   appId: 'O3F8QXYK6R',
   apiKey: '78e45b023b7ff7d8ba88c59c9db19890',
-  indexName: 'marvel'
+  indexName: 'marvel',
+  urlSync: true
 });
 
 search.addWidget(
@@ -101,7 +102,18 @@ search.addWidget(
   })
 );
 
-
+search.addWidget(
+  instantsearch.widgets.clearAll({
+    container: '#clear-all',
+    templates: {
+      link: '<i class="fa fa-eraser"></i> Clear all filters'
+    },
+    cssClasses: {
+      root: 'btn btn-block btn-default'
+    },
+    autoHideContainer: true
+  })
+);
 
 search.start();
 
