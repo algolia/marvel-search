@@ -26,7 +26,7 @@
     "test": "BABEL_ENV=test mocha --reporter dot ./test/helpers.js ./test/*-test.js",
     "test:watch": "BABEL_ENV=test mocha --reporter min --watch ./test/helpers.js ./test/*-test.js",
     "serve": "http-server ./public",
-    "gh-pages": "./scripts/gh-pages"
+    "deploy": "./scripts/gh-pages"
   },
   "devDependencies": {
     "algoliasearch": "^3.10.2",
