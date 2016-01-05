@@ -39,8 +39,11 @@ search.addWidget(
         data.powersText = _.map(data._highlightResult.powersText, 'value').join('<br>');
       }
       if (!data.image.url) {
-        data.image.url = './default.jpg';
+        data.image.url = 'http://pixelastic.github.io/marvel/default.jpg';
       }
+      // Use cloudinary to load smaller images
+      let cloudinaryPrefix = 'http://res.cloudinary.com/demo/image/fetch/h_190,q_100,c_scale,f_auto/';
+      data.image.url = `${cloudinaryPrefix}${data.image.url}`;
       return data;
     }
   })
