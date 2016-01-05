@@ -42,7 +42,7 @@ search.addWidget(
         data.image.url = 'http://pixelastic.github.io/marvel/default.jpg';
       }
       // Use cloudinary to load smaller images
-      let cloudinaryPrefix = 'http://res.cloudinary.com/demo/image/fetch/h_190,q_100,c_scale,f_auto/';
+      let cloudinaryPrefix = 'http://res.cloudinary.com/pixelastic/image/fetch/h_190,q_100,c_scale,f_auto/';
       data.image.url = `${cloudinaryPrefix}${data.image.url}`;
       return data;
     }
