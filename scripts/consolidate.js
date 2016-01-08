@@ -9,12 +9,12 @@ import helper from './utils/helper.js';
 import RecordCleaner from './utils/record-cleaner.js';
 import stringify from 'json-stable-stringify';
 
-// CONSOLIDATE: We take infobox, image and pageviews and we build the
-// records
+// CONSOLIDATE: We take all the disparate info, and build a coherent record
 const urlsPath = './download/step1-urls/';
 const infoboxesPath = './download/step2-infoboxes/';
 const imagesPath = './download/step3-images/';
 const pageviewsPath = './download/step4-pageviews/';
+const marvelPath = './download/step5-marvel/';
 const distPath = './records/';
 
 // We clear all ./records/*.json
@@ -33,7 +33,7 @@ glob(`${distPath}/*.json`, (errGlob, files) => {
 });
 
 // We grab all the Wikipedia urls in a list
-const getAllWikipediaUrls = () => {
+function getAllWikipediaUrls() {
   glob(`${urlsPath}/*.json`, (errGlob, files) => {
     let urlList = [];
     forEach(files, (file) => {
@@ -43,10 +43,10 @@ const getAllWikipediaUrls = () => {
     console.info(`Getting all the ${urlList.length} urls`);
     getAllInfoboxes(urlList);
   });
-};
+}
 
 // We grab all the infoboxes for those urls
-const getAllInfoboxes = (urlList) => {
+function getAllInfoboxes(urlList) {
   let promiseList = [];
   urlList.forEach((url) => {
     let infoboxPath = helper.getJSONFilepathFromUrl(url, infoboxesPath);
@@ -63,10 +63,10 @@ const getAllInfoboxes = (urlList) => {
     console.info(`Getting infoboxes for only ${data.length} existing infoboxes`);
     cleanupInfoboxes(data);
   });
-};
+}
 
 // We create a key:value list of data based on the infoboxes
-const cleanupInfoboxes = (infoboxesList) => {
+function cleanupInfoboxes(infoboxesList) {
   let data = {};
   infoboxesList.forEach((infoboxData) => {
     let url = infoboxData.url;
@@ -80,10 +80,10 @@ const cleanupInfoboxes = (infoboxesList) => {
 
   console.info(`Cleaning up list of infoboxes`);
   groupDuplicates(data);
-};
+}
 
 // Group pages that are identical
-const groupDuplicates = (allCharacters) => {
+function groupDuplicates(allCharacters) {
   let groupedCharacters = _.groupBy(allCharacters, (item) => {
     let hashedItem = _.clone(item);
     delete hashedItem.url;
@@ -92,13 +92,12 @@ const groupDuplicates = (allCharacters) => {
 
   groupedCharacters = _.values(groupedCharacters);
 
-
   console.info(`Found ${groupedCharacters.length} unique characters`);
   getPageViews(groupedCharacters);
-};
+}
 
 // Add pageviews as the sum of all pageviews for duplicated
-const getPageViews = (groupedCharacters) => {
+function getPageViews(groupedCharacters) {
   let promiseList = [];
   groupedCharacters.forEach((duplicates) => {
     promiseList.push((callback) => {
@@ -110,13 +109,13 @@ const getPageViews = (groupedCharacters) => {
 
   async.parallel(promiseList, (_err, response) => {
     console.info(`Adding pageview count to all ${response.length} characters`);
-    getImages(response);
+    mergeWithMarvelData(response);
   });
-};
+}
 
 // Given an array of character data, will return only one, with the sum of
 // pageviews
-const mergeDuplicatesWithPageviews = (duplicates, finalCallback) => {
+function mergeDuplicatesWithPageviews(duplicates, finalCallback) {
   // Building the promise list
   let promiseList = [];
   duplicates.forEach((character) => {
@@ -139,10 +138,50 @@ const mergeDuplicatesWithPageviews = (duplicates, finalCallback) => {
     };
     finalCallback(mergedData);
   });
-};
+}
+
+// Get all the Marvel data, ordered by character name
+function getAllMarvelData(finalCallback) {
+  // Reading all files in ./step5-marvel
+  glob(`${marvelPath}/*.json`, (errGlob, files) => {
+    // Building the array of read promises
+    let promiseList = _.map(files, (file) => {
+      return (callback) => {
+        jsonfile.readFile(file, callback);
+      }
+    });
+
+    async.parallel(promiseList, (_err, characters) => {
+      // Building an object where each key is the char name and each value the
+      // interesting data
+      let marvelData = {};
+      _.each(characters, (character) => {
+        let key = helper.getMarvelKeyFromName(character.name);
+        let value = helper.getMarvelDataFromRaw(character);
+        marvelData[key] = value;
+      });
+      finalCallback(marvelData);
+    });
+  });
+}
+
+// Will find the matching character in the marvel dataset and merge it with the
+// character
+function mergeWithMarvelData(characterList) {
+  getAllMarvelData((marvelData) => {
+    // console.info(marvelData);
+    // TODO:
+    // - Remove utm from urls
+    // - Fix front-end, search for something with no results will bug
+    // - Link cloudinary to https images
+    // - Manage to link Marvel data to own data
+    getImages(characterList);
+  });
+
+}
 
 // Grab image url and dimensions and add them to the list
-const getImages = (characterList) => {
+function getImages(characterList) {
   let promiseList = [];
   characterList.forEach((character) => {
     let url = character.url;
@@ -159,9 +198,9 @@ const getImages = (characterList) => {
     console.info(`Adding image to all ${data.length} characters`);
     saveRecords(data);
   });
-};
+}
 
-const saveRecords = (recordList) => {
+function saveRecords(recordList) {
   let promiseList = [];
   recordList.forEach((record) => {
     let url = record.url;

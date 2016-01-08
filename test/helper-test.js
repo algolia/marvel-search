@@ -117,4 +117,136 @@ describe('Helper', () => {
       expect(actual).toEqual('Iron Man');
     });
   });
+
+  describe('getMarvelKeyFromName', () => {
+    it('should return a lower case name', () => {
+      // Given
+      let input = 'Magneto';
+
+      // When
+      let actual = Helper.getMarvelKeyFromName(input);
+
+      // Then
+      expect(actual).toEqual('magneto');
+    });
+    it('should replace spaces with underscore', () => {
+      // Given
+      let input = 'Jessica Jones';
+
+      // When
+      let actual = Helper.getMarvelKeyFromName(input);
+
+      // Then
+      expect(actual).toEqual('jessica_jones');
+    });
+  });
+
+  describe('getMarvelDataFromRaw', () => {
+    it('should contain the basic fields', () => {
+      // Given
+      let input = {
+        name: 'Magneto',
+        description: 'Evil guy',
+        id: 42
+      };
+
+      // When
+      let actual = Helper.getMarvelDataFromRaw(input);
+
+      // Then
+      expect(actual.name).toEqual('Magneto');
+      expect(actual.description).toEqual('Evil guy');
+      expect(actual.id).toEqual(42);
+    });
+    it('should contain the image url', () => {
+      // Given
+      let input = {
+        thumbnail: {
+          extension: 'jpg',
+          path: 'http://www.marvel.com/path/to/file'
+        }
+      };
+
+      // When
+      let actual = Helper.getMarvelDataFromRaw(input);
+
+      // Then
+      expect(actual.image).toEqual('http://www.marvel.com/path/to/file.jpg');
+    });
+    it('should not contain the image url if not found', () => {
+      // Given
+      let input = {
+        thumbnail: {
+          extension: 'jpg',
+          path: 'http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'
+        }
+      };
+
+      // When
+      let actual = Helper.getMarvelDataFromRaw(input);
+
+      // Then
+      expect(actual.image).toEqual(null);
+    });
+    it('should contain the comics, events, series and stories count', () => {
+      // Given
+      let input = {
+        comics: {
+          available: 1
+        },
+        events: {
+          available: 2
+        },
+        series: {
+          available: 3
+        },
+        stories: {
+          available: 4
+        }
+      };
+
+      // When
+      let actual = Helper.getMarvelDataFromRaw(input);
+
+      // Then
+      expect(actual.counts.comics).toEqual(1);
+      expect(actual.counts.events).toEqual(2);
+      expect(actual.counts.series).toEqual(3);
+      expect(actual.counts.stories).toEqual(4);
+    });
+    it('should contain the wiki url', () => {
+      // Given
+      let input = {
+        urls: [
+          {
+            type: 'wiki',
+            url: 'http://www.marvel.com/wiki/magneto'
+          }
+        ]
+      };
+
+      // When
+      let actual = Helper.getMarvelDataFromRaw(input);
+
+      // Then
+      expect(actual.url).toEqual('http://www.marvel.com/wiki/magneto');
+    });
+    it('should not contain the wiki url if not found', () => {
+      // Given
+      let input = {
+        urls: [
+          {
+            type: 'detail',
+            url: 'http://www.marvel.com/wiki/magneto'
+          }
+        ]
+      };
+
+      // When
+      let actual = Helper.getMarvelDataFromRaw(input);
+
+      // Then
+      expect(actual.url).toEqual(null);
+    });
+  });
 });

@@ -1,3 +1,4 @@
+import _ from 'lodash';
 import URL from 'url';
 import Path from 'path';
 import jsonfile from 'jsonfile';
@@ -53,7 +54,49 @@ const Helper = {
       }
       console.info(`Saving ${filepath} to disk`);
     });
+  },
+  // Get a unique string key form a marvel character name
+  getMarvelKeyFromName(originalName) {
+    let name = originalName.replace(/ /g, '_');
+    name = name.toLowerCase();
+    return name;
+  },
+  getMarvelDataFromRaw(input) {
+    let image = null;
+    if (input.thumbnail) {
+      image = `${input.thumbnail.path}.${input.thumbnail.extension}`;
+      if (/image_not_available/.test(image)) {
+        image = null;
+      }
+    }
+
+    let counts = {};
+    _.each(['comics', 'events', 'series', 'stories'], (type) => {
+      let count = 0;
+      if (input[type] && input[type].available) {
+        count = input[type].available;
+      }
+      counts[type] = count;
+    });
+
+    let url = null;
+    if (input.urls) {
+      let wiki = _.find(input.urls, {type: 'wiki'});
+      if (wiki) {
+        url = wiki.url;
+      }
+    }
+
+    return {
+      name: input.name,
+      description: input.description,
+      id: input.id,
+      url,
+      image,
+      counts
+    };
   }
+
 };
 
 export default Helper;
