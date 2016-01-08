@@ -2,3 +2,5 @@ node_modules
 npm-debug.log
 tmp
 download/**/*.json
+_marvel_api_key
+_marvel_api_key_private

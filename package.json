@@ -20,6 +20,7 @@
     "step2": "babel-node ./scripts/step2-download-infoboxes.js",
     "step3": "babel-node ./scripts/step3-download-images.js",
     "step4": "babel-node ./scripts/step4-download-pageviews.js",
+    "step5": "babel-node ./scripts/step5-download-marvel.js",
     "consolidate": "babel-node ./scripts/consolidate.js",
     "push": "babel-node ./scripts/push.js",
     "lint": "eslint ./scripts/*.js",
