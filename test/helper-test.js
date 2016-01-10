@@ -248,5 +248,35 @@ describe('Helper', () => {
       // Then
       expect(actual.url).toEqual(null);
     });
+    it('should remove utm tracking from the urls', () => {
+      // Given
+      let input = {
+        urls: [
+          {
+            type: 'wiki',
+            url: 'http://www.marvel.com/wiki/magneto?utm_campaign=apiRef&utm_source=aabbccddeeff'
+          }
+        ]
+      };
+
+      // When
+      let actual = Helper.getMarvelDataFromRaw(input);
+
+      // Then
+      expect(actual.url).toEqual('http://www.marvel.com/wiki/magneto');
+    });
+  });
+
+  describe('removeUTMFromUrl', () => {
+    it('should remove utm tags from url', () => {
+      // Given
+      let input = 'http://www.example.com/?utm_a=42&utm_2=test';
+
+      // When
+      let actual = Helper.removeUTMFromUrl(input);
+
+      // Then
+      expect(actual).toEqual('http://www.example.com/');
+    });
   });
 });

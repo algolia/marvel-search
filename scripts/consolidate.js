@@ -171,7 +171,6 @@ function mergeWithMarvelData(characterList) {
   getAllMarvelData((marvelData) => {
     // console.info(marvelData);
     // TODO:
-    // - Remove utm from urls
     // - Manage to link Marvel data to own data
     getImages(characterList);
   });

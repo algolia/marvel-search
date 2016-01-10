@@ -85,6 +85,9 @@ const Helper = {
       if (wiki) {
         url = wiki.url;
       }
+      if (url) {
+        url = this.removeUTMFromUrl(url);
+      }
     }
 
     return {
@@ -95,6 +98,25 @@ const Helper = {
       image,
       counts
     };
+  },
+  removeUTMFromUrl(url) {
+    let parsedUrl = URL.parse(url, true);
+
+    let query = {};
+    _.each(parsedUrl.query, (value, key) => {
+      if (/^utm_/.test(key)) {
+        return;
+      }
+      query[key] = value;
+    });
+
+    return URL.format({
+      protocol: parsedUrl.protocol,
+      host: parsedUrl.host,
+      pathname: parsedUrl.pathname,
+      query,
+      hash: parsedUrl.hash
+    });
   }
 
 };
