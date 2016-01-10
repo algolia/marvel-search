@@ -172,8 +172,6 @@ function mergeWithMarvelData(characterList) {
     // console.info(marvelData);
     // TODO:
     // - Remove utm from urls
-    // - Fix front-end, search for something with no results will bug
-    // - Link cloudinary to https images
     // - Manage to link Marvel data to own data
     getImages(characterList);
   });
