@@ -53,29 +53,14 @@
   <script id="hitTemplate" language="x-template">
     <article class="hit">
       <div class="hit--picture-wrapper">
-        <img src="{{image.url}}" />
+        <img src="{{image}}" />
       </div>
       <div class="hit--desc-wrapper">
         <a class="hit--name" href="{{url}}">{{{_highlightResult.name.value}}}</a>
-        {{#creators}}
-        <div class="hit--creators">Authors: {{creators}}</div>
-        {{/creators}}
 
-        {{#realName}}
-        <div class="hit--realname">Real name: {{{_highlightResult.realName.value}}}</div>
-        {{/realName}}
-
-        {{#aliases}}
-        <div class="hit--aliases">A.K.A: {{{_highlightResult.aliases.value}}}</div>
-        {{/aliases}}
-
-        {{#species}}
-        <div class="hit--species">Race: {{species}}</div>
-        {{/species}}
-
-        {{#powersText}}
-        <div class="hit--powers">{{{powersText}}}</div>
-        {{/powersText}}
+        {{#description}}
+        <div class="hit--description">{{{description}}}</div>
+        {{/description}}
       </div>
     </article>
   </script>

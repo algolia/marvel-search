@@ -19,6 +19,31 @@ var hitTemplate = $('#hitTemplate').html();
 var noResultsTemplate =
   '<div class="text-center">No results for <strong>{{query}}</strong>.</div>';
 
+// Returns the Marvel image if available, otherwise the one from Wikipedia.
+// Back to default if none is found
+function getImage(record) {
+  if (record.marvel && record.marvel.image) {
+    return record.marvel.image;
+  }
+  if (record.image.url) {
+    return record.image.url;
+  }
+  return 'https://pixelastic.github.io/marvel/default.jpg';
+}
+
+// Returns Marvel description if found, list of powers otherwise
+function getDescription(record) {
+  // Si description on l'affiche
+  // sinon on affiche le power text
+  if (record.marvel && record.marvel.description) {
+    if (record._highlightResult.marvel.description) {
+      return record._highlightResult.marvel.description.value;
+    }
+    return record.marvel.description;
+  }
+  return record.powersText.join('<br>');
+}
+
 
 search.addWidget(
   instantsearch.widgets.hits({
@@ -36,15 +61,13 @@ search.addWidget(
         if (data.species) {
           data.species = data.species.join(', ');
         }
-        if (data._highlightResult.powersText) {
-          data.powersText = _.map(data._highlightResult.powersText, 'value').join('<br>');
-        }
-        if (!data.image.url) {
-          data.image.url = 'https://pixelastic.github.io/marvel/default.jpg';
-        }
+
+        data.description = getDescription(data);
+
         // Use cloudinary to load smaller images
         var cloudinaryPrefix = 'http://res.cloudinary.com/pixelastic/image/fetch/h_190,q_100,c_scale,f_auto/';
-        data.image.url = cloudinaryPrefix + data.image.url;
+        data.image = cloudinaryPrefix + getImage(data);
+
         return data;
       }
     }
