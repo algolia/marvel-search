@@ -167,14 +167,40 @@ function getAllMarvelData(finalCallback) {
 
 // Will find the matching character in the marvel dataset and merge it with the
 // character
-function mergeWithMarvelData(characterList) {
-  getAllMarvelData((marvelData) => {
-    // console.info(marvelData);
-    // TODO:
-    // - Manage to link Marvel data to own data
-    getImages(characterList);
-  });
+function mergeWithMarvelData(charactersList) {
+  // Grab also all Marvel chars
+  let marvelCount = 0;
+  getAllMarvelData((marvelList) => {
+    // Build a key:value object of all characters
+    let charactersHashMarvel = _.indexBy(marvelList, 'name');
+    // Build a list of all Marvel character names
+    let marvelNamesList = _.pluck(marvelList, 'name');
+    console.info('Merging with Marvel data');
+    charactersList = _.map(charactersList, (wikiData) => {
+      let matchingMarvelName = _.find(marvelNamesList, (marvelName) => {
+        return helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+      });
+      // Nothing matches, so we keep the same content
+      if (!matchingMarvelName) {
+        return wikiData;
+      }
 
+      marvelCount++;
+      // Otherwise we merge the content with the marvel data
+      let marvelData = charactersHashMarvel[matchingMarvelName];
+      wikiData.marvel = {
+        description: marvelData.description,
+        id: marvelData.id,
+        url: marvelData.url,
+        image: marvelData.image,
+        counts: marvelData.counts
+      };
+      return wikiData;
+    });
+
+    console.info(`Marvel data added to ${marvelCount} characters`);
+    getImages(charactersList);
+  });
 }
 
 // Grab image url and dimensions and add them to the list

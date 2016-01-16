@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import URL from 'url';
+import URL from 'fast-url-parser';
 import Path from 'path';
 import jsonfile from 'jsonfile';
 
@@ -21,7 +21,8 @@ const Helper = {
     return results;
   },
   getWikipediaName(url) {
-    return Path.basename(URL.parse(url).pathname);
+    let pathname = URL.parse(url).pathname;
+    return pathname.split('/').pop();
   },
   getCharacterNameFromUrl(url) {
     let name = this.getWikipediaName(url);
@@ -61,6 +62,8 @@ const Helper = {
     name = name.toLowerCase();
     return name;
   },
+  // Given a raw character response from the Marvel API, returns a formatted and
+  // curated object
   getMarvelDataFromRaw(input) {
     let image = null;
     if (input.thumbnail) {
@@ -99,6 +102,7 @@ const Helper = {
       counts
     };
   },
+  // Given a url, returns the utm_ parameters
   removeUTMFromUrl(url) {
     let parsedUrl = URL.parse(url, true);
 
@@ -117,6 +121,53 @@ const Helper = {
       query,
       hash: parsedUrl.hash
     });
+  },
+
+  isMarvelNameEqualToWikiData(marvelName, wikiData) {
+    let name = wikiData.name;
+    name = name.replace('The ', '');
+
+    let realName = wikiData.realName;
+    let aliases = wikiData.aliases;
+    let url = wikiData.url;
+
+    // Abomination (Emil Blonsky)
+    let matches = marvelName.match(/^(.*) \((.*)\)$/) || [];
+    let marvelBase = matches[1]; // Abomination
+    let marvelSuffix = matches[2]; // Emil Blonsky
+
+    // Abomination
+    // The Abomination
+    if (name === marvelName) {
+      return true;
+    }
+
+    // Abomination (Emil Blonsky)
+    let nameEqualsMarvelBase = (name === marvelBase);
+    let realNameEqualsMarvelSuffix = (realName === marvelSuffix);
+    if (nameEqualsMarvelBase && realNameEqualsMarvelSuffix) {
+      return true;
+    }
+
+    // Angel (Warren Worthington III)
+    if (aliases) {
+      let aliasesMatchesMarvelBase = aliases.match(new RegExp(marvelBase, 'i'));
+      let nameEqualsMarvelSuffix = (name === marvelSuffix);
+      if (aliasesMatchesMarvelBase && nameEqualsMarvelSuffix) {
+        return true;
+      }
+    }
+
+    // Ant-Man (Scott Lang)
+    if (url) {
+      let urlName = this.getWikipediaName(url);
+      let underscoredMarvelName = marvelName.replace(/ /g, '_');
+      if (urlName === underscoredMarvelName) {
+        return true;
+      }
+    }
+
+    return false;
   }
 
 };

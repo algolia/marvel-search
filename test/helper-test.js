@@ -279,4 +279,115 @@ describe('Helper', () => {
       expect(actual).toEqual('http://www.example.com/');
     });
   });
+
+  describe('isMarvelNameEqualToWikiData', () => {
+    it('should return false if not found', () => {
+      // Given
+      let wikiData = {
+        name: 'John Doe'
+      };
+      let marvelName = 'Apocalypse';
+
+      // When
+      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+
+      // Then
+      expect(actual).toEqual(false);
+    });
+    it('should return true if same name', () => {
+      // Given
+      let wikiData = {
+        name: 'Apocalypse'
+      };
+      let marvelName = 'Apocalypse';
+
+      // When
+      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+    it('should match even with spaces', () => {
+      // Given
+      let wikiData = {
+        name: 'Absorbing Man'
+      };
+      let marvelName = 'Absorbing Man';
+
+      // When
+      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+    it('should not be confused by "The"', () => {
+      // Given
+      let wikiData = {
+        name: 'The Abomination'
+      };
+      let marvelName = 'Abomination';
+
+      // When
+      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+    it('should match if same secret identity', () => {
+      // Given
+      let wikiData = {
+        name: 'Abomination',
+        realName: 'Emil Blonsky'
+      };
+      let marvelName = 'Abomination (Emil Blonsky)';
+
+      // When
+      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+    it('should match if marvelName is wiki url', () => {
+      // Given
+      let wikiData = {
+        name: 'Ant-Man',
+        url: 'https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)'
+      };
+      let marvelName = 'Ant-Man (Scott Lang)';
+
+      // When
+      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+    it('should match when name and aliases are reversed', () => {
+      // Given
+      let wikiData = {
+        name: 'Warren Worthington III',
+        aliases: 'Angel'
+      };
+      let marvelName = 'Angel (Warren Worthington III)';
+
+      // When
+      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+    it('should match even if multiple aliases', () => {
+      // Given
+      let wikiData = {
+        name: 'Warren Worthington III',
+        aliases: 'Angel, Darkangel, Death'
+      };
+      let marvelName = 'Angel (Warren Worthington III)';
+
+      // When
+      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+  });
 });
