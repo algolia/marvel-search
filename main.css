@@ -176,9 +176,9 @@ input.ais-refinement-list--checkbox {
   font-size: 1rem;
   padding-bottom: .5rem;
 }
-.hit--powers {
+.hit--description {
   margin-top: .5rem;
-  font-size: 1.3rem;
+  font-size: 1.1rem;
 }
 .hit em {
   color: #000000;
