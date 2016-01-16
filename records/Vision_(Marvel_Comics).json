@@ -12,6 +12,18 @@
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Avengers_Vol_4_24.1.jpg/250px-Avengers_Vol_4_24.1.jpg",
     "width": "250"
   },
+  "marvel": {
+    "counts": {
+      "comics": 267,
+      "events": 11,
+      "series": 92,
+      "stories": 302
+    },
+    "description": "The metal monstrosity called Ultron created the synthetic humanoid known as the Vision from the remains of the original android Human Torch of the 1940s to serve as a vehicle of vengeance against the Avengers.",
+    "id": 1009697,
+    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594.jpg",
+    "url": "http://marvel.com/universe/Vision_(Victor_Shade)"
+  },
   "name": "Vision",
   "pageviews": 219072,
   "partners": [

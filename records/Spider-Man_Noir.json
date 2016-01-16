@@ -10,6 +10,18 @@
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Spider-Man_Noir.png/250px-Spider-Man_Noir.png",
     "width": "250"
   },
+  "marvel": {
+    "counts": {
+      "comics": 2573,
+      "events": 29,
+      "series": 531,
+      "stories": 4166
+    },
+    "description": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.",
+    "id": 1009610,
+    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b.jpg",
+    "url": "http://marvel.com/universe/Spider-Man_(Peter_Parker)"
+  },
   "name": "Spider-Man",
   "pageviews": 9357,
   "partners": [

@@ -11,6 +11,18 @@
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Warlock_9.jpg/250px-Warlock_9.jpg",
     "width": "250"
   },
+  "marvel": {
+    "counts": {
+      "comics": 104,
+      "events": 10,
+      "series": 46,
+      "stories": 124
+    },
+    "description": "Adam Warlock is an artificially created human who was born in a cocoon at a scientific complex called The Beehive.",
+    "id": 1010354,
+    "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/5202887448860.jpg",
+    "url": "http://marvel.com/universe/Warlock,_Adam"
+  },
   "name": "Adam Warlock",
   "pageviews": 58152,
   "partners": [

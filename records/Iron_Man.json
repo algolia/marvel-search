@@ -11,6 +11,18 @@
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Iron_Man_bleeding_edge.jpg/250px-Iron_Man_bleeding_edge.jpg",
     "width": "250"
   },
+  "marvel": {
+    "counts": {
+      "comics": 1965,
+      "events": 24,
+      "series": 441,
+      "stories": 2885
+    },
+    "description": "Wounded, captured and forced to build a weapon by his enemies, billionaire industrialist Tony Stark instead created an advanced suit of armor to save his life and escape captivity. Now with a new outlook on life, Tony uses his money and intelligence to make the world a safer, better place as Iron Man.",
+    "id": 1009368,
+    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/527bb7b37ff55.jpg",
+    "url": "http://marvel.com/universe/Iron_Man_(Anthony_Stark)"
+  },
   "name": "Iron Man",
   "pageviews": 273155,
   "partners": [

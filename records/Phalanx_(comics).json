@@ -11,6 +11,18 @@
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Phalanx_Marvel.jpg/250px-Phalanx_Marvel.jpg",
     "width": "250"
   },
+  "marvel": {
+    "counts": {
+      "comics": 0,
+      "events": 0,
+      "series": 0,
+      "stories": 0
+    },
+    "description": "",
+    "id": 1011021,
+    "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/527411987e35d.jpg",
+    "url": "http://marvel.com/universe/Phalanx"
+  },
   "name": "Phalanx",
   "pageviews": 6619,
   "partners": [

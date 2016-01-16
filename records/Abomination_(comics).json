@@ -9,6 +9,18 @@
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Hulk-159.jpg/250px-Hulk-159.jpg",
     "width": "250"
   },
+  "marvel": {
+    "counts": {
+      "comics": 43,
+      "events": 2,
+      "series": 24,
+      "stories": 39
+    },
+    "description": "Formerly known as Emil Blonsky, a spy of Soviet Yugoslavian origin working for the KGB, the Abomination gained his powers after receiving a dose of gamma radiation similar to that which transformed Bruce Banner into the incredible Hulk.",
+    "id": 1009146,
+    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce18691cbf04.jpg",
+    "url": "http://marvel.com/universe/Abomination"
+  },
   "name": "The Abomination",
   "pageviews": 36891,
   "partners": [

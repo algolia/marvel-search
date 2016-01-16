@@ -10,6 +10,18 @@
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Tag_%28comics%29.png/250px-Tag_%28comics%29.png",
     "width": "250"
   },
+  "marvel": {
+    "counts": {
+      "comics": 2,
+      "events": 0,
+      "series": 1,
+      "stories": 1
+    },
+    "description": "",
+    "id": 1011042,
+    "image": null,
+    "url": "http://marvel.com/universe/Tag"
+  },
   "name": "Tag",
   "pageviews": 1090,
   "partners": [
