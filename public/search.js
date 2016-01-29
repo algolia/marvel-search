@@ -48,7 +48,7 @@ function getDescription(record) {
 search.addWidget(
   instantsearch.widgets.hits({
     container: '#hits',
-    hitsPerPage: 200,
+    hitsPerPage: 80,
     templates: {
       empty: noResultsTemplate,
       item: hitTemplate
@@ -65,7 +65,7 @@ search.addWidget(
         data.description = getDescription(data);
 
         // Use cloudinary to load smaller images
-        var cloudinaryPrefix = 'http://res.cloudinary.com/pixelastic/image/fetch/h_190,q_100,c_scale,f_auto/';
+        var cloudinaryPrefix = 'http://res.cloudinary.com/pixelastic-marvel/image/fetch/h_190,q_100,c_scale,f_auto/';
         data.image = cloudinaryPrefix + getImage(data);
 
         return data;
