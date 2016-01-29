@@ -3,7 +3,7 @@
 import expect from 'expect';
 import sinon from 'sinon';
 import _ from 'lodash';
-import Cleaner from '../scripts/utils/record-cleaner.js';
+import Cleaner from '../lib/utils/record-cleaner.js';
 
 describe('Cleaner', () => {
   afterEach(() => {

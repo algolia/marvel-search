@@ -2,7 +2,7 @@
 
 import expect from 'expect';
 import _ from 'lodash';
-import Helper from '../scripts/utils/helper.js';
+import Helper from '../lib/utils/helper.js';
 
 describe('Helper', () => {
   afterEach(() => {
@@ -14,16 +14,48 @@ describe('Helper', () => {
     });
   });
 
-  describe('getWikipediaName', () => {
+  describe('getWikipediaPageName', () => {
     it('should return the name from the url', () => {
       // Given
       let input = 'http://www.foo.com/Magneto';
 
       // When
-      let actual = Helper.getWikipediaName(input);
+      let actual = Helper.getWikipediaPageName(input);
 
       // Then
       expect(actual).toEqual('Magneto');
+    });
+  });
+
+  describe('isWikidataMissing', () => {
+    it('should return true if one entity is -1', () => {
+      // Given
+      let input = {
+        entities: {
+          '-1': {}
+        }
+      };
+
+      // When
+      let actual = Helper.isWikidataMissing(input);
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+
+    it('should return false if entities are present', () => {
+      // Given
+      let input = {
+        entities: {
+          'Q1735229': {}
+        }
+      };
+
+      // When
+      let actual = Helper.isWikidataMissing(input);
+
+      // Then
+      expect(actual).toEqual(false);
     });
   });
 

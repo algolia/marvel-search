@@ -1,5 +1,4 @@
 #!/usr/bin/env sh
 
-npm run step1
-
-
+npm run step1 && \
+npm run step2
