@@ -20,11 +20,11 @@
     "wikidata": "./scripts/download-wikidata",
     "dbpedia": "./scripts/download-dbpedia",
     "images": "./scripts/download-images",
+    "pageviews": "./scripts/download-pageviews",
     "build": "./scripts/build",
 
 
 
-    "step4": "babel-node ./scripts/step4-download-pageviews.js",
     "step5": "babel-node ./scripts/step5-download-marvel.js",
     "consolidate": "babel-node ./scripts/consolidate.js",
     "push": "babel-node ./scripts/push.js",
