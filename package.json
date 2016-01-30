@@ -19,6 +19,7 @@
     "init": "./scripts/download-urls",
     "wikidata": "./scripts/download-wikidata",
     "dbpedia": "./scripts/download-dbpedia",
+    "images": "./scripts/download-images",
     "build": "./scripts/build",
 
 

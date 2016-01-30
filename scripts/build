@@ -2,4 +2,5 @@
 
 npm run init && \
 npm run wikidata && \
-npm run dbpedia
+npm run dbpedia && \
+npm run images
