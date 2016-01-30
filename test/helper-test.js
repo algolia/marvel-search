@@ -47,7 +47,7 @@ describe('Helper', () => {
       // Given
       let input = {
         entities: {
-          'Q1735229': {}
+          Q1735229: {}
         }
       };
 
@@ -57,6 +57,69 @@ describe('Helper', () => {
       // Then
       expect(actual).toEqual(false);
     });
+  });
+
+  describe('isDBPediaMissing', () => {
+    it('should return true if no empty object', () => {
+      // Given
+      let input = {};
+
+      // When
+      let actual = Helper.isDBPediaMissing(input);
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+
+    it('should return false if no redirect set', () => {
+      // Given
+      let input = {
+        'http://dbpedia.org/resource/foo': {}
+      };
+
+      // When
+      let actual = Helper.isDBPediaMissing(input);
+
+      // Then
+      expect(actual).toEqual(false);
+    });
+
+    it('should return true if redirects to main list', () => {
+      // Given
+      let input = {
+        'http://dbpedia.org/resource/foo': {
+          'http://dbpedia.org/ontology/wikiPageRedirects': [{
+            type: 'uri',
+            value: 'http://dbpedia.org/resource/List_of_Marvel_Comics_characters'
+          }]
+        }
+      };
+
+      // When
+      let actual = Helper.isDBPediaMissing(input, 'foo');
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+
+    it('should return true if redirects to any letter in the list', () => {
+      // Given
+      let input = {
+        'http://dbpedia.org/resource/foo': {
+          'http://dbpedia.org/ontology/wikiPageRedirects': [{
+            type: 'uri',
+            value: 'http://dbpedia.org/resource/List_of_Marvel_Comics_characters:_F'
+          }]
+        }
+      };
+
+      // When
+      let actual = Helper.isDBPediaMissing(input, 'foo');
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+
   });
 
   describe('getJSONFilepathFromUrl', () => {

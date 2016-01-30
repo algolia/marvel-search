@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
 
-npm run step1 && \
-npm run step2
+npm run init && \
+npm run wikidata && \
+npm run dbpedia
