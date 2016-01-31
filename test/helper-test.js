@@ -122,6 +122,41 @@ describe('Helper', () => {
 
   });
 
+  describe('sanitizeFilename', () => {
+    it('should remove all subdirs', () => {
+      // Given
+      let input = 'foo/bar';
+
+      // When
+      let actual = Helper.sanitizeFilename(input);
+
+      // Then
+      expect(actual).toEqual('foobar');
+    });
+
+    it('should replace spaces with underscores', () => {
+      // Given
+      let input = 'foo bar';
+
+      // When
+      let actual = Helper.sanitizeFilename(input);
+
+      // Then
+      expect(actual).toEqual('foo_bar');
+    });
+
+    it('should remove trailing dot', () => {
+      // Given
+      let input = 'foo.';
+
+      // When
+      let actual = Helper.sanitizeFilename(input);
+
+      // Then
+      expect(actual).toEqual('foo');
+    });
+  });
+
   describe('getJSONFilepathFromUrl', () => {
     it('should only return basename if no filepath specified', () => {
       // Given

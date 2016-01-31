@@ -21,11 +21,8 @@
     "dbpedia": "./scripts/download-dbpedia",
     "images": "./scripts/download-images",
     "pageviews": "./scripts/download-pageviews",
+    "marvel": "./scripts/download-marvel",
     "build": "./scripts/build",
-
-
-
-    "step5": "babel-node ./scripts/step5-download-marvel.js",
     "consolidate": "babel-node ./scripts/consolidate.js",
     "push": "babel-node ./scripts/push.js",
     "cloudinary": "babel-node ./scripts/cloudinary.js",
@@ -60,6 +57,7 @@
     "mocha": "^2.3.4",
     "object-hash": "^1.0.0",
     "request": "^2.67.0",
+    "sanitize-filename": "^1.5.3",
     "sinon": "^1.17.2",
     "wiki-infobox": "pixelastic/wiki-infobox#51d2a91e6a35360e70f4f93d23f50687f7c58b7d",
     "wikidata-sdk": "^2.2.1",
