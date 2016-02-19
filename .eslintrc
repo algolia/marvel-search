@@ -1,4 +1,7 @@
 {
+ "globals": {
+    "cleanUpStubs": true
+  },
   "extends": "algolia",
   "rules": {
     "no-var": 2,

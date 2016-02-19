@@ -26,4 +26,84 @@ describe('HelperString', () => {
     });
   });
 
+  describe('splitEnglish', () => {
+    it('splits on " and "', () => {
+      // Given
+      let input = 'Tom and Jerry';
+
+      // When
+      let actual = Helper.splitEnglish(input);
+
+      // Then
+      expect(actual).toEqual(['Tom', 'Jerry']);
+    });
+
+    it('splits on "&"', () => {
+      // Given
+      let input = 'Laurel & Hardy';
+
+      // When
+      let actual = Helper.splitEnglish(input);
+
+      // Then
+      expect(actual).toEqual(['Laurel', 'Hardy']);
+    });
+
+    it('splits on ", "', () => {
+      // Given
+      let input = 'Huey, Dewey and Louie';
+
+      // When
+      let actual = Helper.splitEnglish(input);
+
+      // Then
+      expect(actual).toEqual(['Huey', 'Dewey', 'Louie']);
+    });
+
+    it('splits on ","', () => {
+      // Given
+      let input = 'foo,bar';
+
+      // When
+      let actual = Helper.splitEnglish(input);
+
+      // Then
+      expect(actual).toEqual(['foo', 'bar']);
+    });
+
+    it('removes last dot', () => {
+      // Given
+      let input = 'Me and you.';
+
+      // When
+      let actual = Helper.splitEnglish(input);
+
+      // Then
+      expect(actual).toEqual(['Me', 'you']);
+    });
+
+    it('handles John Romita Jr', () => {
+      // Given
+      let input = 'John Romita, Jr';
+
+      // When
+      let actual = Helper.splitEnglish(input);
+
+      // Then
+      expect(actual).toEqual(['John Romita Jr']);
+    });
+
+    it('returns undefined if empty', () => {
+      // Given
+      let input = '';
+
+      // When
+      let actual = Helper.splitEnglish(input);
+
+      // Then
+      expect(actual).toEqual(undefined);
+    });
+  
+
+  });
 });
