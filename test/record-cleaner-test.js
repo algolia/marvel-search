@@ -5,7 +5,7 @@ import sinon from 'sinon';
 import _ from 'lodash';
 import Cleaner from '../lib/utils/record-cleaner.js';
 
-describe('Cleaner', () => {
+xdescribe('Cleaner', () => {
   afterEach(() => {
     // Cleanup stubs by sinon if any
     _.keys(Cleaner).forEach((method) => {

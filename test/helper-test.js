@@ -1,523 +1,572 @@
-/* eslint-env mocha */
-
-import expect from 'expect';
-import _ from 'lodash';
-import Helper from '../lib/utils/helper.js';
-
-describe('Helper', () => {
-  afterEach(() => {
-    // Cleanup stubs by sinon if any
-    _.keys(Helper).forEach((method) => {
-      if (Helper[method].restore) {
-        Helper[method].restore();
-      }
-    });
-  });
-
-  describe('getWikipediaPageName', () => {
-    it('should return the name from the url', () => {
-      // Given
-      let input = 'http://www.foo.com/Magneto';
-
-      // When
-      let actual = Helper.getWikipediaPageName(input);
-
-      // Then
-      expect(actual).toEqual('Magneto');
-    });
-  });
-
-  describe('isWikidataMissing', () => {
-    it('should return true if one entity is -1', () => {
-      // Given
-      let input = {
-        entities: {
-          '-1': {}
-        }
-      };
-
-      // When
-      let actual = Helper.isWikidataMissing(input);
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-
-    it('should return false if entities are present', () => {
-      // Given
-      let input = {
-        entities: {
-          Q1735229: {}
-        }
-      };
-
-      // When
-      let actual = Helper.isWikidataMissing(input);
-
-      // Then
-      expect(actual).toEqual(false);
-    });
-  });
-
-  describe('isDBPediaMissing', () => {
-    it('should return true if no empty object', () => {
-      // Given
-      let input = {};
-
-      // When
-      let actual = Helper.isDBPediaMissing(input);
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-
-    it('should return false if no redirect set', () => {
-      // Given
-      let input = {
-        'http://dbpedia.org/resource/foo': {}
-      };
-
-      // When
-      let actual = Helper.isDBPediaMissing(input);
-
-      // Then
-      expect(actual).toEqual(false);
-    });
-
-    it('should return true if redirects to main list', () => {
-      // Given
-      let input = {
-        'http://dbpedia.org/resource/foo': {
-          'http://dbpedia.org/ontology/wikiPageRedirects': [{
-            type: 'uri',
-            value: 'http://dbpedia.org/resource/List_of_Marvel_Comics_characters'
-          }]
-        }
-      };
-
-      // When
-      let actual = Helper.isDBPediaMissing(input, 'foo');
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-
-    it('should return true if redirects to any letter in the list', () => {
-      // Given
-      let input = {
-        'http://dbpedia.org/resource/foo': {
-          'http://dbpedia.org/ontology/wikiPageRedirects': [{
-            type: 'uri',
-            value: 'http://dbpedia.org/resource/List_of_Marvel_Comics_characters:_F'
-          }]
-        }
-      };
-
-      // When
-      let actual = Helper.isDBPediaMissing(input, 'foo');
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-
-  });
-
-  describe('sanitizeFilename', () => {
-    it('should remove all subdirs', () => {
-      // Given
-      let input = 'foo/bar';
-
-      // When
-      let actual = Helper.sanitizeFilename(input);
-
-      // Then
-      expect(actual).toEqual('foobar');
-    });
-
-    it('should replace spaces with underscores', () => {
-      // Given
-      let input = 'foo bar';
-
-      // When
-      let actual = Helper.sanitizeFilename(input);
-
-      // Then
-      expect(actual).toEqual('foo_bar');
-    });
-
-    it('should remove trailing dot', () => {
-      // Given
-      let input = 'foo.';
-
-      // When
-      let actual = Helper.sanitizeFilename(input);
-
-      // Then
-      expect(actual).toEqual('foo');
-    });
-  });
-
-  describe('getJSONFilepathFromUrl', () => {
-    it('should only return basename if no filepath specified', () => {
-      // Given
-      let input = 'http://www.foo.com/Magneto';
-
-      // When
-      let actual = Helper.getJSONFilepathFromUrl(input);
-
-      // Then
-      expect(actual).toEqual('Magneto.json');
-    });
-    it('should prepend the passed filepath if one is given', () => {
-      // Given
-      let input = 'http://www.foo.com/Magneto';
-      let filepath = './foobar/';
-
-      // When
-      let actual = Helper.getJSONFilepathFromUrl(input, filepath);
-
-      // Then
-      expect(actual).toEqual('./foobar/Magneto.json');
-    });
-    it('should add a slash if missing from the filepatj', () => {
-      // Given
-      let input = 'http://www.foo.com/Magneto';
-      let filepath = './foobar';
-
-      // When
-      let actual = Helper.getJSONFilepathFromUrl(input, filepath);
-
-      // Then
-      expect(actual).toEqual('./foobar/Magneto.json');
-    });
-  });
-
-  describe('multiSplit', () => {
-    it('split an array with one separator', () => {
-      // Given
-      let input = 'foo/bar/baz';
-
-      // When
-      let actual = Helper.multiSplit(input, '/');
-
-      // Then
-      expect(actual).toEqual(['foo', 'bar', 'baz']);
-    });
-    it('split an array with two separator', () => {
-      // Given
-      let input = 'foo/bar|baz/magic';
-
-      // When
-      let actual = Helper.multiSplit(input, '/', '|');
-
-      // Then
-      expect(actual).toEqual(['foo', 'bar', 'baz', 'magic']);
-    });
-  });
-
-  describe('getCharacterNameFromUrl', () => {
-    it('should get the basename', () => {
-      // Given
-      let input = 'http://www.foo.bar/Magneto';
-
-      // When
-      let actual = Helper.getCharacterNameFromUrl(input);
-
-      // Then
-      expect(actual).toEqual('Magneto');
-    });
-    it('should remove parenthesis', () => {
-      // Given
-      let input = 'http://www.foo.bar/Magneto_(Marvel_comics)';
-
-      // When
-      let actual = Helper.getCharacterNameFromUrl(input);
-
-      // Then
-      expect(actual).toEqual('Magneto');
-    });
-    it('should replace underscore with space', () => {
-      // Given
-      let input = 'http://www.foo.bar/Iron_Man';
-
-      // When
-      let actual = Helper.getCharacterNameFromUrl(input);
-
-      // Then
-      expect(actual).toEqual('Iron Man');
-    });
-  });
-
-  describe('getMarvelKeyFromName', () => {
-    it('should return a lower case name', () => {
-      // Given
-      let input = 'Magneto';
-
-      // When
-      let actual = Helper.getMarvelKeyFromName(input);
-
-      // Then
-      expect(actual).toEqual('magneto');
-    });
-    it('should replace spaces with underscore', () => {
-      // Given
-      let input = 'Jessica Jones';
-
-      // When
-      let actual = Helper.getMarvelKeyFromName(input);
-
-      // Then
-      expect(actual).toEqual('jessica_jones');
-    });
-  });
-
-  describe('getMarvelDataFromRaw', () => {
-    it('should contain the basic fields', () => {
-      // Given
-      let input = {
-        name: 'Magneto',
-        description: 'Evil guy',
-        id: 42
-      };
-
-      // When
-      let actual = Helper.getMarvelDataFromRaw(input);
-
-      // Then
-      expect(actual.name).toEqual('Magneto');
-      expect(actual.description).toEqual('Evil guy');
-      expect(actual.id).toEqual(42);
-    });
-    it('should contain the image url', () => {
-      // Given
-      let input = {
-        thumbnail: {
-          extension: 'jpg',
-          path: 'http://www.marvel.com/path/to/file'
-        }
-      };
-
-      // When
-      let actual = Helper.getMarvelDataFromRaw(input);
-
-      // Then
-      expect(actual.image).toEqual('http://www.marvel.com/path/to/file.jpg');
-    });
-    it('should not contain the image url if not found', () => {
-      // Given
-      let input = {
-        thumbnail: {
-          extension: 'jpg',
-          path: 'http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'
-        }
-      };
-
-      // When
-      let actual = Helper.getMarvelDataFromRaw(input);
-
-      // Then
-      expect(actual.image).toEqual(null);
-    });
-    it('should contain the comics, events, series and stories count', () => {
-      // Given
-      let input = {
-        comics: {
-          available: 1
-        },
-        events: {
-          available: 2
-        },
-        series: {
-          available: 3
-        },
-        stories: {
-          available: 4
-        }
-      };
-
-      // When
-      let actual = Helper.getMarvelDataFromRaw(input);
-
-      // Then
-      expect(actual.counts.comics).toEqual(1);
-      expect(actual.counts.events).toEqual(2);
-      expect(actual.counts.series).toEqual(3);
-      expect(actual.counts.stories).toEqual(4);
-    });
-    it('should contain the wiki url', () => {
-      // Given
-      let input = {
-        urls: [
-          {
-            type: 'wiki',
-            url: 'http://www.marvel.com/wiki/magneto'
-          }
-        ]
-      };
-
-      // When
-      let actual = Helper.getMarvelDataFromRaw(input);
-
-      // Then
-      expect(actual.url).toEqual('http://www.marvel.com/wiki/magneto');
-    });
-    it('should not contain the wiki url if not found', () => {
-      // Given
-      let input = {
-        urls: [
-          {
-            type: 'detail',
-            url: 'http://www.marvel.com/wiki/magneto'
-          }
-        ]
-      };
-
-      // When
-      let actual = Helper.getMarvelDataFromRaw(input);
-
-      // Then
-      expect(actual.url).toEqual(null);
-    });
-    it('should remove utm tracking from the urls', () => {
-      // Given
-      let input = {
-        urls: [
-          {
-            type: 'wiki',
-            url: 'http://www.marvel.com/wiki/magneto?utm_campaign=apiRef&utm_source=aabbccddeeff'
-          }
-        ]
-      };
-
-      // When
-      let actual = Helper.getMarvelDataFromRaw(input);
-
-      // Then
-      expect(actual.url).toEqual('http://www.marvel.com/wiki/magneto');
-    });
-  });
-
-  describe('removeUTMFromUrl', () => {
-    it('should remove utm tags from url', () => {
-      // Given
-      let input = 'http://www.example.com/?utm_a=42&utm_2=test';
-
-      // When
-      let actual = Helper.removeUTMFromUrl(input);
-
-      // Then
-      expect(actual).toEqual('http://www.example.com/');
-    });
-  });
-
-  describe('isMarvelNameEqualToWikiData', () => {
-    it('should return false if not found', () => {
-      // Given
-      let wikiData = {
-        name: 'John Doe'
-      };
-      let marvelName = 'Apocalypse';
-
-      // When
-      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
-
-      // Then
-      expect(actual).toEqual(false);
-    });
-    it('should return true if same name', () => {
-      // Given
-      let wikiData = {
-        name: 'Apocalypse'
-      };
-      let marvelName = 'Apocalypse';
-
-      // When
-      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-    it('should match even with spaces', () => {
-      // Given
-      let wikiData = {
-        name: 'Absorbing Man'
-      };
-      let marvelName = 'Absorbing Man';
-
-      // When
-      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-    it('should not be confused by "The"', () => {
-      // Given
-      let wikiData = {
-        name: 'The Abomination'
-      };
-      let marvelName = 'Abomination';
-
-      // When
-      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-    it('should match if same secret identity', () => {
-      // Given
-      let wikiData = {
-        name: 'Abomination',
-        realName: 'Emil Blonsky'
-      };
-      let marvelName = 'Abomination (Emil Blonsky)';
-
-      // When
-      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-    it('should match if marvelName is wiki url', () => {
-      // Given
-      let wikiData = {
-        name: 'Ant-Man',
-        url: 'https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)'
-      };
-      let marvelName = 'Ant-Man (Scott Lang)';
-
-      // When
-      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-    it('should match when name and aliases are reversed', () => {
-      // Given
-      let wikiData = {
-        name: 'Warren Worthington III',
-        aliases: 'Angel'
-      };
-      let marvelName = 'Angel (Warren Worthington III)';
-
-      // When
-      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-    it('should match even if multiple aliases', () => {
-      // Given
-      let wikiData = {
-        name: 'Warren Worthington III',
-        aliases: 'Angel, Darkangel, Death'
-      };
-      let marvelName = 'Angel (Warren Worthington III)';
-
-      // When
-      let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-  });
-});
+// /* eslint-env mocha */
+// 
+// import expect from 'expect';
+// import sinon from 'sinon';
+// import _ from 'lodash';
+// import Helper from '../lib/utils/helper.js';
+// 
+// describe('Helper', () => {
+//   afterEach(() => {
+//     // Cleanup stubs by sinon if any
+//     _.keys(Helper).forEach((method) => {
+//       if (Helper[method].restore) {
+//         Helper[method].restore();
+//       }
+//     });
+//   });
+// 
+//   describe('getJSONFilepathFromUrl', () => {
+//     it('should only return basename if no filepath specified', () => {
+//       // Given
+//       let input = 'http://www.foo.com/Magneto';
+// 
+//       // When
+//       let actual = Helper.getJSONFilepathFromUrl(input);
+// 
+//       // Then
+//       expect(actual).toEqual('Magneto.json');
+//     });
+//     it('should prepend the passed filepath if one is given', () => {
+//       // Given
+//       let input = 'http://www.foo.com/Magneto';
+//       let filepath = './foobar/';
+// 
+//       // When
+//       let actual = Helper.getJSONFilepathFromUrl(input, filepath);
+// 
+//       // Then
+//       expect(actual).toEqual('./foobar/Magneto.json');
+//     });
+//     it('should add a slash if missing from the filepatj', () => {
+//       // Given
+//       let input = 'http://www.foo.com/Magneto';
+//       let filepath = './foobar';
+// 
+//       // When
+//       let actual = Helper.getJSONFilepathFromUrl(input, filepath);
+// 
+//       // Then
+//       expect(actual).toEqual('./foobar/Magneto.json');
+//     });
+//   });
+// 
+// 
+//   describe('getCharacterNameFromUrl', () => {
+//     it('should get the basename', () => {
+//       // Given
+//       let input = 'http://www.foo.bar/Magneto';
+// 
+//       // When
+//       let actual = Helper.getCharacterNameFromUrl(input);
+// 
+//       // Then
+//       expect(actual).toEqual('Magneto');
+//     });
+//     it('should remove parenthesis', () => {
+//       // Given
+//       let input = 'http://www.foo.bar/Magneto_(Marvel_comics)';
+// 
+//       // When
+//       let actual = Helper.getCharacterNameFromUrl(input);
+// 
+//       // Then
+//       expect(actual).toEqual('Magneto');
+//     });
+//     it('should replace underscore with space', () => {
+//       // Given
+//       let input = 'http://www.foo.bar/Iron_Man';
+// 
+//       // When
+//       let actual = Helper.getCharacterNameFromUrl(input);
+// 
+//       // Then
+//       expect(actual).toEqual('Iron Man');
+//     });
+//   });
+// 
+//   describe('getMarvelKeyFromName', () => {
+//     it('should return a lower case name', () => {
+//       // Given
+//       let input = 'Magneto';
+// 
+//       // When
+//       let actual = Helper.getMarvelKeyFromName(input);
+// 
+//       // Then
+//       expect(actual).toEqual('magneto');
+//     });
+//     it('should replace spaces with underscore', () => {
+//       // Given
+//       let input = 'Jessica Jones';
+// 
+//       // When
+//       let actual = Helper.getMarvelKeyFromName(input);
+// 
+//       // Then
+//       expect(actual).toEqual('jessica_jones');
+//     });
+//   });
+// 
+//   describe('getMarvelDataFromRaw', () => {
+//     it('should contain the basic fields', () => {
+//       // Given
+//       let input = {
+//         name: 'Magneto',
+//         description: 'Evil guy',
+//         id: 42
+//       };
+// 
+//       // When
+//       let actual = Helper.getMarvelDataFromRaw(input);
+// 
+//       // Then
+//       expect(actual.name).toEqual('Magneto');
+//       expect(actual.description).toEqual('Evil guy');
+//       expect(actual.id).toEqual(42);
+//     });
+//     it('should contain the image url', () => {
+//       // Given
+//       let input = {
+//         thumbnail: {
+//           extension: 'jpg',
+//           path: 'http://www.marvel.com/path/to/file'
+//         }
+//       };
+// 
+//       // When
+//       let actual = Helper.getMarvelDataFromRaw(input);
+// 
+//       // Then
+//       expect(actual.image).toEqual('http://www.marvel.com/path/to/file.jpg');
+//     });
+//     it('should not contain the image url if not found', () => {
+//       // Given
+//       let input = {
+//         thumbnail: {
+//           extension: 'jpg',
+//           path: 'http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'
+//         }
+//       };
+// 
+//       // When
+//       let actual = Helper.getMarvelDataFromRaw(input);
+// 
+//       // Then
+//       expect(actual.image).toEqual(null);
+//     });
+//     it('should contain the comics, events, series and stories count', () => {
+//       // Given
+//       let input = {
+//         comics: {
+//           available: 1
+//         },
+//         events: {
+//           available: 2
+//         },
+//         series: {
+//           available: 3
+//         },
+//         stories: {
+//           available: 4
+//         }
+//       };
+// 
+//       // When
+//       let actual = Helper.getMarvelDataFromRaw(input);
+// 
+//       // Then
+//       expect(actual.counts.comics).toEqual(1);
+//       expect(actual.counts.events).toEqual(2);
+//       expect(actual.counts.series).toEqual(3);
+//       expect(actual.counts.stories).toEqual(4);
+//     });
+//     it('should contain the wiki url', () => {
+//       // Given
+//       let input = {
+//         urls: [
+//           {
+//             type: 'wiki',
+//             url: 'http://www.marvel.com/wiki/magneto'
+//           }
+//         ]
+//       };
+// 
+//       // When
+//       let actual = Helper.getMarvelDataFromRaw(input);
+// 
+//       // Then
+//       expect(actual.url).toEqual('http://www.marvel.com/wiki/magneto');
+//     });
+//     it('should not contain the wiki url if not found', () => {
+//       // Given
+//       let input = {
+//         urls: [
+//           {
+//             type: 'detail',
+//             url: 'http://www.marvel.com/wiki/magneto'
+//           }
+//         ]
+//       };
+// 
+//       // When
+//       let actual = Helper.getMarvelDataFromRaw(input);
+// 
+//       // Then
+//       expect(actual.url).toEqual(null);
+//     });
+//     it('should remove utm tracking from the urls', () => {
+//       // Given
+//       let input = {
+//         urls: [
+//           {
+//             type: 'wiki',
+//             url: 'http://www.marvel.com/wiki/magneto?utm_campaign=apiRef&utm_source=aabbccddeeff'
+//           }
+//         ]
+//       };
+// 
+//       // When
+//       let actual = Helper.getMarvelDataFromRaw(input);
+// 
+//       // Then
+//       expect(actual.url).toEqual('http://www.marvel.com/wiki/magneto');
+//     });
+//   });
+// 
+//   describe('removeUTMFromUrl', () => {
+//     it('should remove utm tags from url', () => {
+//       // Given
+//       let input = 'http://www.example.com/?utm_a=42&utm_2=test';
+// 
+//       // When
+//       let actual = Helper.removeUTMFromUrl(input);
+// 
+//       // Then
+//       expect(actual).toEqual('http://www.example.com/');
+//     });
+//   });
+// 
+//   describe('isMarvelNameEqualToWikiData', () => {
+//     it('should return false if not found', () => {
+//       // Given
+//       let wikiData = {
+//         name: 'John Doe'
+//       };
+//       let marvelName = 'Apocalypse';
+// 
+//       // When
+//       let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+// 
+//       // Then
+//       expect(actual).toEqual(false);
+//     });
+//     it('should return true if same name', () => {
+//       // Given
+//       let wikiData = {
+//         name: 'Apocalypse'
+//       };
+//       let marvelName = 'Apocalypse';
+// 
+//       // When
+//       let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+// 
+//       // Then
+//       expect(actual).toEqual(true);
+//     });
+//     it('should match even with spaces', () => {
+//       // Given
+//       let wikiData = {
+//         name: 'Absorbing Man'
+//       };
+//       let marvelName = 'Absorbing Man';
+// 
+//       // When
+//       let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+// 
+//       // Then
+//       expect(actual).toEqual(true);
+//     });
+//     it('should not be confused by "The"', () => {
+//       // Given
+//       let wikiData = {
+//         name: 'The Abomination'
+//       };
+//       let marvelName = 'Abomination';
+// 
+//       // When
+//       let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+// 
+//       // Then
+//       expect(actual).toEqual(true);
+//     });
+//     it('should match if same secret identity', () => {
+//       // Given
+//       let wikiData = {
+//         name: 'Abomination',
+//         realName: 'Emil Blonsky'
+//       };
+//       let marvelName = 'Abomination (Emil Blonsky)';
+// 
+//       // When
+//       let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+// 
+//       // Then
+//       expect(actual).toEqual(true);
+//     });
+//     it('should match if marvelName is wiki url', () => {
+//       // Given
+//       let wikiData = {
+//         name: 'Ant-Man',
+//         url: 'https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)'
+//       };
+//       let marvelName = 'Ant-Man (Scott Lang)';
+// 
+//       // When
+//       let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+// 
+//       // Then
+//       expect(actual).toEqual(true);
+//     });
+//     it('should match when name and aliases are reversed', () => {
+//       // Given
+//       let wikiData = {
+//         name: 'Warren Worthington III',
+//         aliases: 'Angel'
+//       };
+//       let marvelName = 'Angel (Warren Worthington III)';
+// 
+//       // When
+//       let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+// 
+//       // Then
+//       expect(actual).toEqual(true);
+//     });
+//     it('should match even if multiple aliases', () => {
+//       // Given
+//       let wikiData = {
+//         name: 'Warren Worthington III',
+//         aliases: 'Angel, Darkangel, Death'
+//       };
+//       let marvelName = 'Angel (Warren Worthington III)';
+// 
+//       // When
+//       let actual = Helper.isMarvelNameEqualToWikiData(marvelName, wikiData);
+// 
+//       // Then
+//       expect(actual).toEqual(true);
+//     });
+//   });
+// 
+//   describe('simplifyDBPedia', () => {
+//     it('should return null if no data for the specified page', () => {
+//       // Given
+//       let input = {
+//         'http://dbpedia.org/resource/Foobar': {
+//         }
+//       };
+//       let pageName = 'Magneto';
+// 
+//       // When
+//       let actual = Helper.simplifyDBPedia(pageName, input);
+// 
+//       // Then
+//       expect(actual).toEqual(null);
+//     });
+// 
+//     it('should extract basic DBPedia data', () => {
+//       // Given
+//       let input = {
+//         'http://dbpedia.org/resource/Foobar': {
+//           'http://dbpedia.org/category/key': [
+//             {
+//               value: 42
+//             }
+//           ]
+//         }
+//       };
+//       let pageName = 'Foobar';
+// 
+//       // When
+//       let actual = Helper.simplifyDBPedia(pageName, input);
+// 
+//       // Then
+//       expect(actual).toEqual({
+//         category: {
+//           key: 42
+//         }
+//       });
+//     });
+// 
+//     it('should extract multiple data as array', () => {
+//       // Given
+//       let input = {
+//         'http://dbpedia.org/resource/Foobar': {
+//           'http://dbpedia.org/category/key': [
+//             {
+//               value: 42
+//             },
+//             {
+//               value: 43
+//             }
+//           ]
+//         }
+//       };
+//       let pageName = 'Foobar';
+// 
+//       // When
+//       let actual = Helper.simplifyDBPedia(pageName, input);
+// 
+//       // Then
+//       expect(actual).toEqual({
+//         category: {
+//           key: [42, 43]
+//         }
+//       });
+//     });
+// 
+//     it('should not extract multiple data in deep array', () => {
+//       // Given
+//       let input = {
+//         'http://dbpedia.org/resource/Foobar': {
+//           'http://dbpedia.org/category/key': [
+//             {
+//               value: 42
+//             },
+//             {
+//               value: 43
+//             },
+//             {
+//               value: 44
+//             }
+//           ]
+//         }
+//       };
+//       let pageName = 'Foobar';
+// 
+//       // When
+//       let actual = Helper.simplifyDBPedia(pageName, input);
+// 
+//       // Then
+//       expect(actual).toEqual({
+//         category: {
+//           key: [42, 43, 44]
+//         }
+//       });
+//     });
+// 
+//     it('should only keep english keys if several languages', () => {
+//       // Given
+//       let input = {
+//         'http://dbpedia.org/resource/Foobar': {
+//           'http://dbpedia.org/category/key': [
+//             {
+//               lang: 'en',
+//               value: 42
+//             },
+//             {
+//               lang: 'fr',
+//               value: 43
+//             }
+//           ]
+//         }
+//       };
+//       let pageName = 'Foobar';
+// 
+//       // When
+//       let actual = Helper.simplifyDBPedia(pageName, input);
+// 
+//       // Then
+//       expect(actual).toEqual({
+//         category: {
+//           key: 42
+//         }
+//       });
+//     });
+// 
+//     it('should only keep dbpedia entries', () => {
+//       // Given
+//       let input = {
+//         'http://dbpedia.org/resource/Foobar': {
+//           'http://www.w3.org/2000/01/rdf-schema#comment': [
+//             {
+//               value: 42
+//             }
+//           ]
+//         }
+//       };
+//       let pageName = 'Foobar';
+// 
+//       // When
+//       let actual = Helper.simplifyDBPedia(pageName, input);
+// 
+//       // Then
+//       expect(actual).toEqual({});
+//     });
+//   });
+// 
+//   describe('cleanDBPedia', () => {
+//     it('should remove http://dbpedia.org/resource/ from the values', () => {
+//       // Given
+//       let input = {
+//         key: 'http://dbpedia.org/resource/Magneto'
+//       };
+// 
+//       // When
+//       let actual = Helper.cleanDBPedia(input);
+// 
+//       // Then
+//       expect(actual).toEqual({
+//         key: 'Magneto'
+//       });
+//     });
+// 
+//     it('should remove dbpedia url from arrays as well', () => {
+//       // Given
+//       let input = {
+//         key: [
+//           'http://dbpedia.org/resource/Magneto',
+//           'http://dbpedia.org/resource/FooBar'
+//         ]
+//       };
+// 
+//       // When
+//       let actual = Helper.cleanDBPedia(input);
+// 
+//       // Then
+//       expect(actual).toEqual({
+//         key: [
+//           'Magneto',
+//           'FooBar'
+//         ]
+//       });
+//     });
+// 
+//     it('should call readablePageName on some fields', () => {
+//       // Given
+//       let input = {
+//         alliances: 'http://dbpedia.org/resource/Cassandra_Nova'
+//       };
+//       sinon.stub(Helper, 'readablePageName').returns('Cassandra Nova');
+// 
+//       // When
+//       let actual = Helper.cleanDBPedia(input);
+// 
+//       // Then
+//       expect(actual.alliances).toEqual('Cassandra Nova');
+//     });
+// 
+//     it('should split string fields in arrays', () => {
+//       // Given
+//       let input = {
+//         authors: 'Tom and Jerry'
+//       };
+//       sinon.stub(Helper, 'multiSplit').returns(['Tom', 'Jerry']);
+// 
+//       // When
+//       let actual = Helper.cleanDBPedia(input);
+// 
+//       // Then
+//       expect(actual.authors).toEqual(['Tom', 'Jerry']);
+//     });
+//   });
+// });
