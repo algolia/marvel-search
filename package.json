@@ -16,15 +16,15 @@
     "npm": "1.3.11"
   },
   "scripts": {
-    "init": "./scripts/download-urls",
+    "init": "./scripts/init",
     "wikidata": "./scripts/download-wikidata",
     "dbpedia": "./scripts/download-dbpedia",
     "images": "./scripts/download-images",
     "pageviews": "./scripts/download-pageviews",
     "marvel": "./scripts/download-marvel",
     "consolidate": "./scripts/consolidate",
-    "build": "./scripts/build",
 
+    "build": "./scripts/build",
     "push": "babel-node ./scripts/push.js",
     "cloudinary": "babel-node ./scripts/cloudinary.js",
     "lint": "eslint ./scripts/*.js",
