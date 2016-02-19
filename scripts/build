@@ -5,4 +5,5 @@ npm run wikidata && \
 npm run dbpedia && \
 npm run images &&
 npm run pageviews && \
-npm run marvel
+npm run marvel &&
+npm run consolidate

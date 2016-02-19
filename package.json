@@ -22,8 +22,9 @@
     "images": "./scripts/download-images",
     "pageviews": "./scripts/download-pageviews",
     "marvel": "./scripts/download-marvel",
+    "consolidate": "./scripts/consolidate",
     "build": "./scripts/build",
-    "consolidate": "babel-node ./scripts/consolidate.js",
+
     "push": "babel-node ./scripts/push.js",
     "cloudinary": "babel-node ./scripts/cloudinary.js",
     "lint": "eslint ./scripts/*.js",
