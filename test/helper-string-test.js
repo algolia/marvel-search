@@ -14,6 +14,7 @@ describe('HelperString', () => {
       // Then
       expect(actual).toEqual(['foo', 'bar', 'baz']);
     });
+
     it('split an array with two separator', () => {
       // Given
       let input = 'foo/bar|baz/magic';
@@ -24,86 +25,31 @@ describe('HelperString', () => {
       // Then
       expect(actual).toEqual(['foo', 'bar', 'baz', 'magic']);
     });
-  });
 
-  describe('splitEnglish', () => {
-    it('splits on " and "', () => {
+    it('can accept arrays as input', () => {
       // Given
-      let input = 'Tom and Jerry';
+      let input = [
+        'foo',
+        'bar/baz',
+        'magic'
+      ];
 
       // When
-      let actual = Helper.splitEnglish(input);
+      let actual = Helper.multiSplit(input, '/');
 
       // Then
-      expect(actual).toEqual(['Tom', 'Jerry']);
+      expect(actual).toEqual(['foo', 'bar', 'baz', 'magic']);
     });
 
-    it('splits on "&"', () => {
+    it('returns an empty array for empty input', () => {
       // Given
-      let input = 'Laurel & Hardy';
+      let input = null;
 
       // When
-      let actual = Helper.splitEnglish(input);
+      let actual = Helper.multiSplit(input, '/');
 
       // Then
-      expect(actual).toEqual(['Laurel', 'Hardy']);
+      expect(actual).toEqual([]);
     });
-
-    it('splits on ", "', () => {
-      // Given
-      let input = 'Huey, Dewey and Louie';
-
-      // When
-      let actual = Helper.splitEnglish(input);
-
-      // Then
-      expect(actual).toEqual(['Huey', 'Dewey', 'Louie']);
-    });
-
-    it('splits on ","', () => {
-      // Given
-      let input = 'foo,bar';
-
-      // When
-      let actual = Helper.splitEnglish(input);
-
-      // Then
-      expect(actual).toEqual(['foo', 'bar']);
-    });
-
-    it('removes last dot', () => {
-      // Given
-      let input = 'Me and you.';
-
-      // When
-      let actual = Helper.splitEnglish(input);
-
-      // Then
-      expect(actual).toEqual(['Me', 'you']);
-    });
-
-    it('handles John Romita Jr', () => {
-      // Given
-      let input = 'John Romita, Jr';
-
-      // When
-      let actual = Helper.splitEnglish(input);
-
-      // Then
-      expect(actual).toEqual(['John Romita Jr']);
-    });
-
-    it('returns undefined if empty', () => {
-      // Given
-      let input = '';
-
-      // When
-      let actual = Helper.splitEnglish(input);
-
-      // Then
-      expect(actual).toEqual(undefined);
-    });
-  
-
   });
 });
