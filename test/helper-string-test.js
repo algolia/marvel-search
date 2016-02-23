@@ -41,6 +41,22 @@ describe('HelperString', () => {
       expect(actual).toEqual(['foo', 'bar', 'baz', 'magic']);
     });
 
+    it('can accept numbers as input', () => {
+      // Given
+      let input = [
+        'foo',
+        8,
+        'bar/baz',
+        'magic'
+      ];
+
+      // When
+      let actual = Helper.multiSplit(input, '/');
+
+      // Then
+      expect(actual).toEqual(['foo', '8', 'bar', 'baz', 'magic']);
+    });
+
     it('returns an empty array for empty input', () => {
       // Given
       let input = null;

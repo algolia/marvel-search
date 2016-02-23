@@ -11,6 +11,7 @@ describe('HelperDBPedia', () => {
   });
 
   afterEach(() => {
+    cleanUpStubs(Helper);
     cleanUpStubs(HelperWikipedia);
   });
 
@@ -319,6 +320,22 @@ describe('HelperDBPedia', () => {
     });
   });
 
+  describe('getRecordData', () => {
+    it('should return null if no name found', () => {
+      // Given
+      let pageName = 'pageName';
+      let rawData = {};
+      sinon.stub(Helper, 'simplifyRaw');
+      sinon.stub(Helper, 'getName').returns(null);
+
+      // When
+      let actual = Helper.getRecordData(pageName, rawData);
+
+      // Then
+      expect(actual).toEqual(null);
+    });
+  });
+
   describe('getAuthors', () => {
     it('should understand "A and B"', () => {
       // Given
@@ -397,6 +414,57 @@ describe('HelperDBPedia', () => {
       // Then
       expect(actual).toEqual(['Paul Gustavson', 'Tyler Curtis Duncan']);
     });
+
+    it('should split on commas', () => {
+      // Given
+      let input = {
+        property: {
+          creators: [
+            'Roy Thomas, Gary Friedrich',
+            'Mike Ploog'
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.getAuthors(input);
+
+      // Then
+      expect(actual).toEqual(['Roy Thomas', 'Gary Friedrich', 'Mike Ploog']);
+    });
+
+    it('should trim commas', () => {
+      // Given
+      let input = {
+        property: {
+          creators: [
+            'Roy Thomas,',
+            'Mike Ploog'
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.getAuthors(input);
+
+      // Then
+      expect(actual).toEqual(['Roy Thomas', 'Mike Ploog']);
+    });
+
+    it('should handle John Romita, Jr.', () => {
+      // Given
+      let input = {
+        property: {
+          creators: 'John Romita, Jr.'
+        }
+      };
+
+      // When
+      let actual = Helper.getAuthors(input);
+
+      // Then
+      expect(actual).toEqual(['John Romita, Jr.']);
+    });
   });
 
   describe('getPowers', () => {
@@ -413,6 +481,21 @@ describe('HelperDBPedia', () => {
 
       // Then
       expect(actual).toEqual(['Super strength', 'Invulnerability']);
+    });
+
+    it('should split on semi-colon', () => {
+      // Given
+      let input = {
+        property: {
+          powers: 'Superhuman strength; stamina;'
+        }
+      };
+
+      // When
+      let actual = Helper.getPowers(input);
+
+      // Then
+      expect(actual).toEqual(['Superhuman strength', 'stamina']);
     });
 
     it('should cleanup * for bullets', () => {
@@ -533,6 +616,42 @@ describe('HelperDBPedia', () => {
       // Then
       expect(actual).toEqual(['Superhuman speed', 'strength', 'durability']);
     });
+
+    it('should remove empty elements', () => {
+      // Given
+      let input = {
+        property: {
+          powers: [
+            'Speed',
+            ''
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.getPowers(input);
+
+      // Then
+      expect(actual).toEqual(['Speed']);
+    });
+
+    it('should remove elements only containing a quote', () => {
+      // Given
+      let input = {
+        property: {
+          powers: [
+            'Speed',
+            "'"
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.getPowers(input);
+
+      // Then
+      expect(actual).toEqual(['Speed']);
+    });
   });
 
   describe('getSpecies', () => {
@@ -643,8 +762,38 @@ describe('HelperDBPedia', () => {
       expect(actual).toEqual([]);
     });
 
+    it('should split on new lines', () => {
+      // Given
+      let input = {
+        property: {
+          partners: 'Mister Sinister\nOzymandias'
+        }
+      };
+
+      // When
+      let actual = Helper.getPartners(input);
+
+      // Then
+      expect(actual).toEqual(['Mister Sinister', 'Ozymandias']);
+    });
+
+    it('should cleanup * for bullets', () => {
+      // Given
+      let input = {
+        property: {
+          partners: '* Mister Sinister\n* Ozymandias'
+        }
+      };
+
+      // When
+      let actual = Helper.getPartners(input);
+
+      // Then
+      expect(actual).toEqual(['Mister Sinister', 'Ozymandias']);
+    });
 
   });
+
   describe('getAlliances', () => {
     it('should split on new lines', () => {
       // Given
@@ -690,6 +839,24 @@ describe('HelperDBPedia', () => {
       // Then
       expect(actual).toEqual(['New X-Men', 'X-Men']);
     });
+
+    it('should remove empty elements', () => {
+      // Given
+      let input = {
+        property: {
+          alliances: [
+            'X-Men',
+            ''
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.getAlliances(input);
+
+      // Then
+      expect(actual).toEqual(['X-Men']);
+    });
   });
 
   describe('getAliases', () => {
@@ -722,6 +889,7 @@ describe('HelperDBPedia', () => {
       // Then
       expect(actual).toInclude('Spider-Girl');
     });
+
     it('should take aliases from sortKey', () => {
       // Given
       let input = {
@@ -767,6 +935,18 @@ describe('HelperDBPedia', () => {
       expect(actual).toInclude('Spider-Girl');
     });
 
+    it('should take aliases from pageName', () => {
+      // Given
+      let input = {};
+      let pageName = 'Abner_Jenkins';
+
+      // When
+      let actual = Helper.getAliases(input, pageName);
+
+      // Then
+      expect(actual).toInclude('Abner Jenkins');
+    });
+
     it('should remove duplicates', () => {
       // Given
       let input = {
@@ -784,6 +964,23 @@ describe('HelperDBPedia', () => {
 
       // Then
       expect(actual).toEqual(['Spider-Girl']);
+    });
+
+    it('should remove bad [[# at the start', () => {
+      // Given
+      let input = {
+        property: {
+          aliases: [
+            '[[#The Magus'
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.getAliases(input);
+
+      // Then
+      expect(actual).toEqual(['The Magus']);
     });
   });
 
@@ -850,6 +1047,66 @@ describe('HelperDBPedia', () => {
 
       // Then
       expect(actual).toEqual('Nova');
+    });
+
+    it('should always return a string', () => {
+      // Given
+      let input = {
+        property: {
+          characterName: 8
+        }
+      };
+
+      // When
+      let actual = Helper.getName(input);
+
+      // Then
+      expect(actual).toEqual('8');
+    });
+
+    it('should fallback to pageName if no suitable name found', () => {
+      // Given
+      let input = {
+        property: {}
+      };
+      let pageName = 'Adam_Warlock';
+
+      // When
+      let actual = Helper.getName(input, pageName);
+
+      // Then
+      expect(actual).toEqual('Adam Warlock');
+    });
+
+    it('should fallback to pageName if name is composed of several names', () => {
+      // Given
+      let input = {
+        property: {
+          characterName: 'Ape-Man I,Ape-Man III,Ape-Man II'
+        }
+      };
+      let pageName = 'Ape-Man';
+
+      // When
+      let actual = Helper.getName(input, pageName);
+
+      // Then
+      expect(actual).toEqual('Ape-Man');
+    });
+
+    it('should remove the "The" particle if any', () => {
+      // Given
+      let input = {
+        property: {
+          characterName: 'The Absorbing Man'
+        }
+      };
+
+      // When
+      let actual = Helper.getName(input);
+
+      // Then
+      expect(actual).toEqual('Absorbing Man');
     });
   });
 
@@ -965,84 +1222,35 @@ describe('HelperDBPedia', () => {
       // Then
       expect(actual).toEqual(['Peter Parker']);
     });
+
+    it('should split on commas', () => {
+      // Given
+      let input = {
+        property: {
+          realName: 'Foo, Bar, Baz'
+        }
+      };
+
+      // When
+      let actual = Helper.getSecretIdentities(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should split on " and "', () => {
+      // Given
+      let input = {
+        property: {
+          realName: 'Foo, Bar and Baz'
+        }
+      };
+
+      // When
+      let actual = Helper.getSecretIdentities(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
   });
-
-  // xdescribe('splitEnglish', () => {
-  //   it('splits on " and "', () => {
-  //     // Given
-  //     let input = 'Tom and Jerry';
-
-  //     // When
-  //     let actual = Helper.splitEnglish(input);
-
-  //     // Then
-  //     expect(actual).toEqual(['Tom', 'Jerry']);
-  //   });
-
-  //   it('splits on "&"', () => {
-  //     // Given
-  //     let input = 'Laurel & Hardy';
-
-  //     // When
-  //     let actual = Helper.splitEnglish(input);
-
-  //     // Then
-  //     expect(actual).toEqual(['Laurel', 'Hardy']);
-  //   });
-
-  //   it('splits on ", "', () => {
-  //     // Given
-  //     let input = 'Huey, Dewey and Louie';
-
-  //     // When
-  //     let actual = Helper.splitEnglish(input);
-
-  //     // Then
-  //     expect(actual).toEqual(['Huey', 'Dewey', 'Louie']);
-  //   });
-
-  //   it('splits on ","', () => {
-  //     // Given
-  //     let input = 'foo,bar';
-
-  //     // When
-  //     let actual = Helper.splitEnglish(input);
-
-  //     // Then
-  //     expect(actual).toEqual(['foo', 'bar']);
-  //   });
-
-  //   it('removes last dot', () => {
-  //     // Given
-  //     let input = 'Me and you.';
-
-  //     // When
-  //     let actual = Helper.splitEnglish(input);
-
-  //     // Then
-  //     expect(actual).toEqual(['Me', 'you']);
-  //   });
-
-  //   it('handles John Romita Jr', () => {
-  //     // Given
-  //     let input = 'John Romita, Jr';
-
-  //     // When
-  //     let actual = Helper.splitEnglish(input);
-
-  //     // Then
-  //     expect(actual).toEqual(['John Romita Jr']);
-  //   });
-
-  //   it('returns undefined if empty', () => {
-  //     // Given
-  //     let input = '';
-
-  //     // When
-  //     let actual = Helper.splitEnglish(input);
-
-  //     // Then
-  //     expect(actual).toEqual(undefined);
-  //   });
-  // });
 });
