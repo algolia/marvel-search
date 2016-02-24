@@ -19,6 +19,7 @@
     "init": "./scripts/init",
     "wikidata": "./scripts/download-wikidata",
     "dbpedia": "./scripts/download-dbpedia",
+    "infobox": "./scripts/download-infobox",
     "images": "./scripts/download-images",
     "pageviews": "./scripts/download-pageviews",
     "marvel": "./scripts/download-marvel",
