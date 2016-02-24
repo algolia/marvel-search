@@ -1,0 +1,37 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Mike Baron",
+    "Klaus Janson"
+  ],
+  "description": "The Rev (Samuel Smith) is a fictional character, a comic book supervillain in the Marvel Comics Universe.The Rev is a Satanist and recurring foe of the vigilante the Punisher.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RevPunisher.jpg/250px-RevPunisher.jpg",
+  "isHero": false,
+  "isVillain": true,
+  "name": "Rev",
+  "partners": [
+  ],
+  "powers": [
+    "Capable of healing injuries",
+    "resurrecting the dead"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 769,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Samuel Smith"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rev_(comics)"
+  }
+}

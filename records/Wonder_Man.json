@@ -1,63 +1,63 @@
 {
-  "aliases": "Mr. Muscles, Hal Canutt",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby",
-    "Don Heck"
+  "aliases": [
   ],
-  "image": {
-    "height": "381",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/WonderMan-1.jpg/250px-WonderMan-1.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 173,
-      "events": 7,
-      "series": 71,
-      "stories": 215
-    },
-    "description": "Simon Williams agreed to undergo an experiment to give him superhuman powers, and Baron Zemo gave him the costumed guise of Wonder Man, warning Simon that he would die without further treatments from Zemo in order to ensure his loyalty, but Simon betrayed Zemo to the Avengers and ultimately joined their ranks.",
-    "id": 1009719,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4ce5a205a2322.jpg",
-    "url": "http://marvel.com/universe/Wonder_Man_(Simon_Williams)"
-  },
+  "alliances": [
+    "Revengers",
+    "Legion of the Unliving",
+    "Force Works",
+    "Williams Innovations",
+    "West Coast Avengers",
+    "S.H.I.E.L.D.",
+    "Masters of Evil",
+    "Avengers",
+    "Defenders",
+    "Uncanny Avengers",
+    "The Mighty Avengers",
+    "Lethal Legion"
+  ],
+  "authors": [
+    "Don Heck",
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Simon Williams agreed to undergo an experiment to give him superhuman powers, and Baron Zemo gave him the costumed guise of Wonder Man, warning Simon that he would die without further treatments from Zemo in order to ensure his loyalty, but Simon betrayed Zemo to the Avengers and ultimately joined their ranks.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4ce5a205a2322/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Wonder Man",
-  "pageviews": 28604,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Ionic-energy empowered",
     "Flight",
-    "Extended life span",
-    "Virtual invulnerability",
+    "Trained electrical engineer",
     "Superhuman strength",
     "speed",
+    "stamina",
     "agility",
-    "and reflexes",
-    "Enhanced vision and hearing",
-    "Trained electrical engineer",
-    "Talented actor",
+    "reflexes",
+    "durability",
+    "Extended life span",
+    "Virtual invulnerability",
+    "Experienced stuntman",
     "Capable industrialist",
-    "Experienced stuntman"
+    "Talented actor",
+    "Ionic-energy empowered"
   ],
-  "realName": "Simon Williams",
+  "ranking": {
+    "comicCount": 172,
+    "eventCount": 7,
+    "pageviewCount": 20253,
+    "pageviewRank": -1,
+    "serieCount": 70,
+    "storyCount": 215
+  },
+  "secretIdentities": [
+    "Simon Williams"
+  ],
   "species": [
   ],
-  "teams": [
-    "Avengers Unity Squad",
-    "Avengers",
-    "The Mighty Avengers",
-    "Defenders",
-    "Force Works",
-    "S.H.I.E.L.D.",
-    "Lethal Legion",
-    "Masters of Evil",
-    "Legion of the Unliving",
-    "West Coast Avengers",
-    "Revengers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Wonder_Man"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2594/wonder_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wonder_Man"
+  }
 }

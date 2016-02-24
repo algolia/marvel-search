@@ -1,47 +1,50 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "New X-Men",
+    "X-Mansion",
+    "Hellions"
+  ],
+  "authors": [
     "Nunzio DeFilippis",
     "Christina Weir",
     "Keron Grant"
   ],
-  "image": {
-    "height": "373",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Hellion.JPG/250px-Hellion.JPG",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 13,
-      "events": 1,
-      "series": 7,
-      "stories": 9
-    },
-    "description": "",
-    "id": 1010678,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4c0038ee5a898.jpg",
-    "url": "http://marvel.com/universe/Hellion"
-  },
+  "description": "Hellion (Julian Keller) is a fictional character, a mutant appearing in comic books published by Marvel Comics. He was a member of the student body of the Xavier Institute before its closing and is a member of the X-Men's training squad. He first appeared in New Mutants, vol. 2 #2.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4c0038ee5a898/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Hellion",
-  "pageviews": 3476,
   "partners": [
   ],
   "powers": [
-    "Telekinesis"
+    "Telekinetic shields",
+    "barriers",
+    "Telekinetic bolts",
+    "Telekinetic waves",
+    "Telekinetic aura",
+    "Telekinetic crushing",
+    "Telekinetic projectiles",
+    "Telekinetic blasts",
+    "Psychokinesis"
   ],
-  "powersText": [
-    "Telekinesis"
+  "ranking": {
+    "comicCount": 13,
+    "eventCount": 1,
+    "pageviewCount": 2485,
+    "pageviewRank": -1,
+    "serieCount": 7,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "Julian Keller"
   ],
-  "realName": "Julian Keller",
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Hellions training squad",
-    "New X-Men",
-    "Xavier Institute",
-    "X-Men-In-Training",
-    "Jean Grey School Students"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Hellion"
+  "urls": {
+    "marvel": "http://marvel.com/characters/945/hellion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hellion"
+  }
 }

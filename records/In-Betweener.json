@@ -1,42 +1,37 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Jim Starlin"
   ],
-  "image": {
-    "height": "383",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Galanvsinbetween-silver-surfer_400.jpg/250px-Galanvsinbetween-silver-surfer_400.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 3,
-      "events": 0,
-      "series": 3,
-      "stories": 2
-    },
-    "description": "",
-    "id": 1011063,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4c0030f999ecb.jpg",
-    "url": "http://marvel.com/universe/In-Betweener"
-  },
+  "description": "The In-Betweener is a fictional character that appears in comic books published by Marvel Comics. The character first appeared in Warlock #9 (Oct. 1974) and was created by Jim Starlin.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4c0030f999ecb/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "In-Betweener",
-  "pageviews": 5780,
   "partners": [
     "Lord Chaos",
     "Master Order"
   ],
   "powers": [
-    "Reality alteration and manipulation"
+    "Immortality"
   ],
-  "powersText": [
-    "Immortality",
-    "Reality alteration and manipulation"
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 0,
+    "pageviewCount": 3921,
+    "pageviewRank": -1,
+    "serieCount": 3,
+    "storyCount": 2
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/In-Betweener"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1031/in-betweener",
+    "wikipedia": "https://en.wikipedia.org/wiki/In-Betweener"
+  }
 }

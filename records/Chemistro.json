@@ -1,31 +1,42 @@
 {
-  "aliases": "High-Tech",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Kurt Busiek",
+    "Ernie Chan",
+    "Marv Wolfman",
+    "Ron Wilson",
     "Steve Englehart",
     "George Tuska"
   ],
-  "image": {
-  },
+  "description": "Three people have taken the moniker of the supervillain Chemistro in the fictional Marvel Comics universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Chemistro",
-  "pageviews": 2380,
   "partners": [
   ],
   "powers": [
+    "Wields alchemy gun",
+    "could later transmute substances through contact with his right hand"
   ],
-  "powersText": [
-    "Gifted research scientist",
-    "Highly skilled inventor",
-    "Wields alchemy gun and a \"nullifier\" rifle",
-    "Ability to transmute substances through contact with his left hand",
-    "(As High-Tech):",
-    "Wears armored exoskeleton suit",
-    "Use of various devices"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1822,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Archibald Morton",
+    "Curtis Carr",
+    "Calvin Carr"
   ],
-  "realName": "Curtis Carr",
   "species": [
   ],
-  "teams": [
-    "Stark Industries"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Chemistro"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chemistro"
+  }
 }

@@ -1,47 +1,48 @@
 {
-  "aliases": "The Most Dangerous Woman in the Universe, Bambi Long",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Infinity Watch",
+    "Guardians of the Galaxy (2008 team)",
+    "Annihilation",
+    "Phalanx"
+  ],
+  "authors": [
     "Jim Starlin"
   ],
-  "image": {
-    "height": "357",
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Nova_6.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 10,
-      "events": 3,
-      "series": 5,
-      "stories": 10
-    },
-    "description": "",
-    "id": 1010763,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/526032a2cce62.jpg",
-    "url": "http://marvel.com/universe/Gamora"
-  },
+  "description": "Gamora is a fictional character, an antiheroine that appears in comic books published by Marvel Comics. Created by Jim Starlin, the character first appeared in Strange Tales #180 (June 1975). Gamora is the adopted daughter of the supervillain Thanos, and the last of her species. Her powers include superhuman strength and agility and an accelerated healing factor. She has appeared as the occasional love interest of the superheroes Adam Warlock and Nova, and a member of the group known as the Infinity Watch.The character played a role in the 2007 crossover comic book event Annihilation: Conquest, and became a member of the titular team in its spin-off comic, Guardians of the Galaxy. She has been featured in a variety of associated Marvel merchandise. Zoe Saldana plays the character in the 2014 live-action film Guardians of the Galaxy.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/526032a2cce62/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Gamora",
-  "pageviews": 38014,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Highly skilled assassin and gymnast",
-    "Skilled martial artist",
+    "Accelerated healing factor",
+    "Highly skilled assassin",
+    "gymnast",
     "Superhuman strength",
     "speed",
-    "agility and durability",
-    "Accelerated healing factor"
+    "agility",
+    "durability",
+    "Skilled martial artist"
   ],
-  "realName": "Gamora",
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 3,
+    "pageviewCount": 25626,
+    "pageviewRank": -1,
+    "serieCount": 5,
+    "storyCount": 10
+  },
+  "secretIdentities": [
+    "Gamora"
+  ],
   "species": [
+    "Zen Whoberi"
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "Infinity Watch",
-    "Phalanx",
-    "United Front"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Gamora"
+  "urls": {
+    "marvel": "http://marvel.com/characters/20/gamora",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gamora"
+  }
 }

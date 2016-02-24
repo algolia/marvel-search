@@ -1,33 +1,40 @@
 {
-  "aliases": "Blackheath",
-  "creators": [
-    "Stan Lee",
-    "Jerry Siegel",
-    "Dick Ayers"
+  "aliases": [
   ],
-  "image": {
-    "height": "149",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Plant_man.jpg/200px-Plant_man.jpg",
-    "width": "200"
-  },
+  "alliances": [
+    "Thunderbolts",
+    "New Enforcers",
+    "Maggia"
+  ],
+  "authors": [
+    "Dick Ayers",
+    "Jerry Siegel",
+    "Stan Lee"
+  ],
+  "description": "Plantman (Samuel Smithers) aka Blackheath is a fictional character, a supervillain in the Marvel Comics universe. The character first appeared in Strange Tales vol. 1 #113.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Plant_man.jpg/200px-Plant_man.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Plantman",
-  "pageviews": 1778,
   "partners": [
   ],
   "powers": [
-    "Plant manipulation"
-  ],
-  "powersText": [
-    "Plant manipulation",
     "Plant-based weaponry"
   ],
-  "realName": "Samuel Smithers",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1378,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Samuel Smithers"
+  ],
   "species": [
   ],
-  "teams": [
-    "Thunderbolts",
-    "Maggia",
-    "New Enforcers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Plantman"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Plantman"
+  }
 }

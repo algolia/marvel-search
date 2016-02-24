@@ -1,26 +1,31 @@
 {
-  "aliases": "",
-  "creators": [
-    "Louise Simonson",
-    "June Brigman"
+  "aliases": [
   ],
-  "image": {
-    "height": "383",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/NewPowerPack1.jpg/250px-NewPowerPack1.jpg",
-    "width": "250"
-  },
+  "alliances": [
+  ],
+  "authors": [
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/NewPowerPack1.jpg/250px-NewPowerPack1.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Kofi Whitemane",
-  "pageviews": 296,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 221,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Kofi_Whitemane"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kofi_Whitemane"
+  }
 }

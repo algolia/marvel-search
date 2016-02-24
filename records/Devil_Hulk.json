@@ -1,34 +1,43 @@
 {
-  "aliases": "The Devil",
-  "creators": [
-    "Paul Jenkins",
-    "Ron Garney",
-    "Sal Buscema"
+  "aliases": [
   ],
-  "image": {
-    "height": "240",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/DevilHulk.gif/250px-DevilHulk.gif",
-    "width": "250"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Paul Jenkins",
+    "Sal Buscema",
+    "Ron Garney"
+  ],
+  "description": "Devil Hulk is a fictional villain in the Marvel Comics Universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/DevilHulk.gif/250px-DevilHulk.gif",
+  "isHero": false,
+  "isVillain": true,
   "name": "Devil Hulk",
-  "pageviews": 3355,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Illusion generation",
     "Super strength",
     "speed",
     "endurance",
     "reflexes",
-    "and durability"
+    "durability"
   ],
-  "realName": "Doctor Robert Bruce Banner",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2248,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Doctor Robert Bruce Banner"
+  ],
   "species": [
-    "Mutate"
+    "Human Mutate"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Devil_Hulk"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Devil_Hulk"
+  }
 }

@@ -1,26 +1,37 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+    "Mutant"
+  ],
+  "authors": [
+  ],
+  "description": "Kiwi Black is a mutant from Marvel Comics. His first appearance was in Uncanny X-Men #429.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Kiwi Black",
-  "pageviews": 2674,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Ability to focus energy through physical forms for multiple uses",
-    "has large information and knowledge on all energies as well as physics",
-    "and science"
+    "has large information",
+    "knowledge on all energies as well as physics",
+    "science"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2173,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Neyaphem"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Kiwi_Black"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kiwi_Black"
+  }
 }

@@ -1,39 +1,38 @@
 {
-  "aliases": "Arsenic, Heroine",
-  "creators": [
+  "aliases": [
   ],
-  "image": {
-    "height": "364",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/RUNAWY014_COV.jpg/250px-RUNAWY014_COV.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 6,
-      "events": 0,
-      "series": 3,
-      "stories": 4
-    },
-    "description": "",
-    "id": 1010749,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c00359a2be7b.jpg",
-    "url": "http://marvel.com/universe/Arsenic_%28and_Old_Lace%29"
-  },
+  "alliances": [
+    "Runaways"
+  ],
+  "authors": [
+    "Adrian Alphona",
+    "Brian K. Vaughan"
+  ],
+  "description": "Gertrude Yorkes (self-referred to as Arsenic), is a fictional character in the Marvel Comics Runaways. She was created by author Brian K. Vaughan & artist Adrian Alphona, and debuted in Runaways vol. 1 #1 with most of the other main characters. Like every member of the original Runaways, she is the daughter of evil villains with special abilities; in Gert's case, time-travellers. Gertrude, often called \"Gert\" for short, is often regarded as the most \"book-smart\" of the Runaways yet also the most sarcastic and cynical. She has socialist leanings and is ethnically Jewish but spiritually agnostic. Gert is known for her sarcastic one-liners, a pair of glasses, and brown dyed purple hair. She stands at a rough height of 5'1\" and weighs 125 lb (57 kg).In 2008, Marvel.com named Gert's death as the sixth out of ten best deaths in Marvel Comics history.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c00359a2be7b/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Gertrude Yorkes",
-  "pageviews": 4101,
   "partners": [
   ],
   "powers": [
-    "deinonychus"
-  ],
-  "powersText": [
     "Psychic link to genetically engineered deinonychus."
   ],
-  "realName": "Gertrude Yorkes",
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 2754,
+    "pageviewRank": -1,
+    "serieCount": 3,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Gertrude Yorkes"
+  ],
   "species": [
   ],
-  "teams": [
-    "Runaways"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Gertrude_Yorkes"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2817/gertrude_yorkes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gertrude_Yorkes"
+  }
 }

@@ -1,30 +1,37 @@
 {
-  "aliases": "Davey Fortunov",
-  "creators": [
-    "Howard Chaykin",
-    "J. M. DeMatteis",
-    "Kerry Gammill"
+  "aliases": [
   ],
-  "image": {
-    "height": "388",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/DominicFortune.jpg/250px-DominicFortune.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "World Counter-terrorism Agency"
+  ],
+  "authors": [
+    "Jerry Fortunov: J. M. DeMatteis",
+    "Kerry Gammill",
+    "David Fortunov: Howard Chaykin"
+  ],
+  "description": "Dominic Fortune is a fictional comic book character, owned by Marvel Comics.Created by Howard Chaykin and based on the Scorpion, Chaykin's character for the failed Atlas/Seaboard Comics company, Dominic Fortune was originally a 1930s costumed, fortune-seeking adventurer.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/DominicFortune.jpg/250px-DominicFortune.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Dominic Fortune",
-  "pageviews": 2293,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1516,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Duvid Jerome \"David\" Fortunov"
   ],
-  "realName": "Duvid Jerome \"David\" Fortunov",
   "species": [
   ],
-  "teams": [
-    "Vanguard",
-    "World Counter-terrorism Agency",
-    "\"Avengers\" (1959)"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Dominic_Fortune"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominic_Fortune"
+  }
 }

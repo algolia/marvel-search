@@ -1,0 +1,39 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Thunderbolts",
+    "Folding Circle"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Mark Bagley"
+  ],
+  "description": "Bloodstrike (Eric Conroy) is a mutate supervillain in the Marvel Comics universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Bloodstrike.jpg/250px-Bloodstrike.jpg",
+  "isHero": false,
+  "isVillain": true,
+  "name": "Bloodstrike",
+  "partners": [
+  ],
+  "powers": [
+    "Super-strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 339,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eric Conroy"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/322/bloodstrike",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bloodstrike_(Marvel_Comics)"
+  }
+}

@@ -1,24 +1,36 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "The New Paramounts"
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-  },
+  "description": "Forbush Man (spelled Forbush-Man in his early appearances), is a fictional character published by Marvel Comics. Originally the mascot of Marvel Comics' Not Brand Echh, he is the alter-ego of Irving Forbush, a fictional employee of Marvel Comics. Forbush was dreamed up in 1955 by Marvel editor Stan Lee to refer to an imaginary low-grade colleague who was often the butt of Lee's jokes. In his guise of Forbush-Man, he first appeared in 1967.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Forbush Man",
-  "pageviews": 1525,
   "partners": [
   ],
   "powers": [
+    "Forbush vision"
   ],
-  "powersText": [
-    "Forbush vision (shows the recipient a hell of their own creation)"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1174,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Irving Forbush"
   ],
-  "realName": "Irving Forbush",
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Forbush_Man"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Forbush_Man"
+  }
 }

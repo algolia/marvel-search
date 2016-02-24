@@ -1,67 +1,46 @@
 {
-  "aliases": "Nomad , The Captain",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Joe Simon",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "353",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/CaptainAmerica109.jpg/250px-CaptainAmerica109.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 1379,
-      "events": 19,
-      "series": 373,
-      "stories": 2285
-    },
-    "description": "Vowing to serve his country any way he could, young Steve Rogers took the super soldier serum to become America's one-man army. Fighting for the red, white and blue for over 60 years, Captain America is the living, breathing symbol of freedom and liberty.",
-    "id": 1009220,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087.jpg",
-    "url": "http://marvel.com/universe/Captain_America_(Steve_Rogers)"
-  },
+  "description": "Vowing to serve his country any way he could, young Steve Rogers took the super soldier serum to become America's one-man army. Fighting for the red, white and blue for over 60 years, Captain America is the living, breathing symbol of freedom and liberty.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Captain America",
-  "pageviews": 250259,
   "partners": [
-    "Bucky (James Barnes)",
-    "Falcon",
-    "Black Widow",
-    "Bucky (Rick Jones)",
-    "Nomad (Jack Monroe)",
-    "Free Spirit",
-    "Jack Flag",
-    "Demolition Man",
-    "Bucky (Rikki Barnes)",
-    "Sharon Carter"
   ],
   "powers": [
-    "vibranium-steel alloy shield"
   ],
-  "powersText": [
-    "Enhanced physical condition",
-    "Master martial artist and hand-to-hand combatant",
-    "Owns vibranium-steel alloy shield",
-    "Master tactician and field commander"
+  "ranking": {
+    "comicCount": 1408,
+    "eventCount": 19,
+    "pageviewCount": 3818,
+    "pageviewRank": -1,
+    "serieCount": 381,
+    "storyCount": 2321
+  },
+  "secretIdentities": [
   ],
-  "realName": "Steven \"Steve\" Rogers",
   "species": [
   ],
-  "teams": [
-    "All-Winners Squad",
-    "Avengers",
-    "Avengers Unity Division",
-    "Illuminati",
-    "Invaders",
-    "Landau, Luckman, and Lake",
-    "New Avengers",
-    "Project: Rebirth",
-    "Redeemers",
-    "S.H.I.E.L.D.",
-    "\"Secret Avengers\"",
-    "Secret Avengers",
-    "Secret Defenders",
-    "U.S. Army"
+  "urls": {
+    "marvel": "http://marvel.com/characters/8/captain_america",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_incarnations_of_Captain_America"
+  }
+}": 2321
+  },
+  "secretIdentities": [
+    "Steven \"Steve\" Rogers"
   ],
-  "url": "https://en.wikipedia.org/wiki/Captain_America"
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/8/captain_america",
+    "wikipedia": "https://en.wikipedia.org/wiki/Captain_America"
+  }
 }

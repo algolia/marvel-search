@@ -1,47 +1,46 @@
 {
-  "aliases": "",
-  "creators": [
-    "Brian K. Vaughan",
-    "Adrian Alphona"
+  "aliases": [
   ],
-  "image": {
-    "height": "376",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Xavincover.jpg/250px-Xavincover.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1011094,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4ce5a49743462.jpg",
-    "url": "http://marvel.com/universe/Xavin"
-  },
+  "alliances": [
+    "Runaways"
+  ],
+  "authors": [
+    "Adrian Alphona",
+    "Brian K. Vaughan"
+  ],
+  "description": "Xavin is a fictional character in the Marvel Comics Runaways. She is a Super-Skrull in training, created by author Brian K. Vaughan & artist Adrian Alphona, and debuted in Runaways vol. 2 #7. Although Alphona was the series' artist at the time, artist Takeshi Miyazawa first drew the character on print.Xavin had first appeared to the Runaways, taking on the form of a black male, but changed into a black female just for the sake of Karolina Dean, a lesbian whom she was to marry. Regardless, Xavin is also often seen as a male, simply to be \"intimidating\". Xavin, often called \"Xav\" for short, is known for her obnoxious and warlike personality. She had originally found it hard to fit in with the runaways because of her constant gender switching, and adapted to the group fairly slowly. She is the daughter of the famed Skrull Prince De'zean.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4ce5a49743462/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Xavin",
-  "pageviews": 4077,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Superhuman strength and durability",
-    "Shapeshifting",
-    "Flight",
     "Fire manipulation",
+    "Superhuman strength",
+    "durability",
     "Elasticity",
+    "Flight",
+    "Force field projection",
     "Invisibility",
-    "Force field projection"
+    "Shapeshifting"
   ],
-  "realName": "Xavin",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2823,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Xavin"
+  ],
   "species": [
     "Skrull"
   ],
-  "teams": [
-    "Runaways"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Xavin"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2626/xavin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Xavin"
+  }
 }

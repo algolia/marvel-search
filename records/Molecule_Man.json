@@ -1,40 +1,39 @@
 {
-  "aliases": "",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
   ],
-  "image": {
-    "height": "198",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Molecule_Man.jpg/250px-Molecule_Man.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1011019,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/528d33c2a72b2.jpg",
-    "url": "http://marvel.com/universe/Molecule_Man"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Molecule Man (Owen Reece) is a fictional comic book character appearing in books published by Marvel Comics. He is often portrayed as a supervillain, but sometimes takes the role of a reformed outlaw or reluctant hero.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/528d33c2a72b2/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Molecule Man",
-  "pageviews": 13318,
   "partners": [
     "Volcana"
   ],
   "powers": [
+    "Trans-multiversal scale molecular",
+    "energy manipulation"
   ],
-  "powersText": [
-    "Trans-multiversal scale molecular and energy manipulation"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 11332,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Owen Reece"
   ],
-  "realName": "Owen Reece",
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Molecule_Man"
+  "urls": {
+    "marvel": "http://marvel.com/comics/characters/1011019/molecule_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Molecule_Man"
+  }
 }

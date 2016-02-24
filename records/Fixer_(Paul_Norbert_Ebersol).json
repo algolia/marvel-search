@@ -1,0 +1,47 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Redeemers",
+    "Features of the Marvel Universe",
+    "Hydra",
+    "Advanced Idea Mechanics",
+    "Masters of Evil",
+    "Thunderbolts",
+    "New Enforcers"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Fixer is a fictional character, a supervillain in Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Fixer_%28comics%29.png/250px-Fixer_%28comics%29.png",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Fixer (Paul Norbert Ebersol)",
+  "partners": [
+    "Mentallo"
+  ],
+  "powers": [
+    "Electronics",
+    "mechanical genius",
+    "Robotic body"
+  ],
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 3203,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "Paul Norbert Ebersol"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/704/fixer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fixer_(comics)"
+  }
+}

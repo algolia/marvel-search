@@ -1,31 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
-    "Fabian Nicieza",
-    "Rob Liefeld"
+  "aliases": [
   ],
-  "image": {
-    "height": "293",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Gebridge.jpg/250px-Gebridge.jpg",
-    "width": "250"
-  },
-  "name": "G.W. Bridge",
-  "pageviews": 2510,
+  "alliances": [
+    "Weapon P.R.I.M.E.",
+    "S.H.I.E.L.D.",
+    "Six Pack"
+  ],
+  "authors": [
+    "Rob Liefeld",
+    "Fabian Nicieza"
+  ],
+  "description": "George Washington \"G. W.\" Bridge is a fictional character in the Marvel Comics Universe, created by Fabian Nicieza and Rob Liefeld. He is a former mercenary and high-ranking agent of S.H.I.E.L.D.. He first appeared as an antagonist in X-Force (vol. 1) #1.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Gebridge.jpg/250px-Gebridge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "G. W. Bridge",
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Skilled in hand-to-hand combat and firearms",
+    "Skilled in hand-to-hand combat",
+    "firearms",
     "Skilled strategist"
   ],
-  "realName": "George Washington Bridge",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1754,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "George Washington Bridge"
+  ],
   "species": [
   ],
-  "teams": [
-    "Six Pack",
-    "S.H.I.E.L.D.",
-    "Weapon P.R.I.M.E."
-  ],
-  "url": "https://en.wikipedia.org/wiki/G._W._Bridge"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/G._W._Bridge"
+  }
 }

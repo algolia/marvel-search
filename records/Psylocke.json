@@ -1,64 +1,59 @@
 {
-  "aliases": "Captain Britain , Lady Briton, Lady Mandarin",
-  "creators": [
-    "Chris Claremont",
-    "Herb Trimpe"
+  "aliases": [
+    "Betsy Braddock",
+    "Elizabeth Braddock"
   ],
-  "image": {
-    "height": "377",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Uncanny_Psylocke.jpg/250px-Uncanny_Psylocke.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 257,
-      "events": 15,
-      "series": 70,
-      "stories": 287
-    },
-    "description": "",
-    "id": 1009512,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/526961ce86539.jpg",
-    "url": "http://marvel.com/universe/Psylocke"
-  },
+  "alliances": [
+    "Captain Britain Corps",
+    "Exiles",
+    "Brotherhood of Mutants",
+    "Crimson Dawn",
+    "Horsemen of Apocalypse",
+    "Excalibur",
+    "X-Force",
+    "Features of the Marvel Universe",
+    "Hellfire Club",
+    "X-Men",
+    "S.T.R.I.K.E.",
+    "The Hand"
+  ],
+  "authors": [
+    "Herb Trimpe",
+    "Chris Claremont"
+  ],
+  "description": "Psylocke (also known as Elizabeth \"Betsy\" Braddock) is a fictional character and superhero depicted in comic books published by Marvel Comics, most notably those featuring the superhero team X-Men. Created by writer Chris Claremont and artist Herb Trimpe in 1976, she first appeared in the Marvel UK series Captain Britain. Betsy was initially a supporting character in the adventures of her twin brother, Captain Britain, even briefly substituting for him in the role, before becoming the mutant superheroine and X-Men member Psylocke in 1986.Originally presented as a precognitive in the pages of Captain Britain and then as a telepath, the character eventually acquired the body, skills and elements of personality of a Japanese female ninja known as Kwannon. Later, Psylocke somehow acquired the telekinesis of Jean Grey. Many alternative versions of Psylocke have also appeared in several comics series of Marvel Multiverse, as well as in various other media and merchandise, notably in numerous video games.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/526961ce86539/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Psylocke",
-  "pageviews": 123698,
   "partners": [
   ],
   "powers": [
-    "Telekinesis",
-    "Telepathy",
-    "Precognition",
-    "Empathy",
+    "Psychic knife",
     "Psychic",
-    "katana"
-  ],
-  "powersText": [
-    "Telekinesis",
-    "Telepathy",
     "Precognition",
+    "Katana",
+    "Telepathy",
+    "Highly skilled martial artist",
     "Empathy",
-    "Psychickatana and knife",
-    "Martial arts"
+    "Psychokinesis"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 257,
+    "eventCount": 15,
+    "pageviewCount": 113871,
+    "pageviewRank": -1,
+    "serieCount": 70,
+    "storyCount": 287
+  },
+  "secretIdentities": [
+    "Elizabeth \"Betsy\" Braddock"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Captain Britain Corps",
-    "Crimson Dawn",
-    "The Hand",
-    "Hellfire Club",
-    "Horsemen of Apocalypse",
-    "Excalibur",
-    "Exiles",
-    "R.C.X.",
-    "S.T.R.I.K.E.",
-    "Sisterhood of Mutants",
-    "X-Club",
-    "X-Force",
-    "X-Men"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Psylocke"
+  "urls": {
+    "marvel": "http://marvel.com/characters/42/psylocke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Psylocke"
+  }
 }

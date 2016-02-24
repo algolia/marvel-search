@@ -1,48 +1,52 @@
 {
-  "aliases": "Vorgornus Koth",
-  "creators": [
-    "Stan Lee",
-    "Roy Thomas",
-    "Gerry Conway",
-    "Gray Morrow"
+  "aliases": [
   ],
-  "image": {
-    "height": "386",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Man-Thing_1_%281974%29.jpg/250px-Man-Thing_1_%281974%29.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 57,
-      "events": 3,
-      "series": 24,
-      "stories": 74
-    },
-    "description": "",
-    "id": 1009420,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4ce5a043191dc.jpg",
-    "url": "http://marvel.com/universe/Man-Thing"
-  },
+  "alliances": [
+    "Avengers of the Supernatural",
+    "Daydreamers",
+    "Thunderbolts",
+    "Nexus of All Realities",
+    "Ancient Order of the Shield",
+    "Legion of Monsters"
+  ],
+  "authors": [
+    "Gerry Conway",
+    "Stan Lee",
+    "Gray Morrow",
+    "Roy Thomas"
+  ],
+  "description": "The Man-Thing (Dr. Theodore \"Ted\" Sallis) is a fictional monster, appearing in books published by Marvel Comics. Created by writers Stan Lee, Roy Thomas, and Gerry Conway and artist Gray Morrow, the character first appeared in Savage Tales #1 (May 1971), and went on to be featured in various titles and in his own series, including Adventure into Fear, which introduced the character Howard the Duck.Steve Gerber's 39-issue run on the series is a cult classic that was influential on such writers as Neil Gaiman.Man-Thing is a large, slow-moving, empathic, humanoid creature living in the Florida Everglades near the Seminole reservation and the fictitious town of Citrusville. He was portrayed by Mark Stevens in the 2005 made-for-TV film Man-Thing.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4ce5a043191dc/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Man-Thing",
-  "pageviews": 18249,
   "partners": [
     "Howard the Duck"
   ],
   "powers": [
+    "speaks the Universal Language",
+    "Ability to teleport himself or others through 'the nexus of all realities'",
+    "Ability to secrete a powerful corrosive chemical agent",
+    "a counter agent",
+    "Superhuman strength",
+    "durability",
+    "Empathic Senses"
   ],
-  "powersText": [
-    "Superhuman strength and durability",
-    "Empathic senses",
-    "Ability to secrete a powerful corrosive chemical agent and a counter agent",
-    "teleport himself or others through 'the nexus of all realities' and speak the Universal Language"
+  "ranking": {
+    "comicCount": 57,
+    "eventCount": 3,
+    "pageviewCount": 12518,
+    "pageviewRank": -1,
+    "serieCount": 24,
+    "storyCount": 74
+  },
+  "secretIdentities": [
+    "Theodore \"Ted\" Sallis"
   ],
-  "realName": "Dr. Theodore \"Ted\" Sallis",
   "species": [
   ],
-  "teams": [
-    "Thunderbolts",
-    "Legion of Monsters",
-    "S.T.A.K.E"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Man-Thing"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1353/man-thing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Man-Thing"
+  }
 }

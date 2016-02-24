@@ -1,27 +1,34 @@
 {
-  "aliases": "",
-  "creators": [
-    "Chris Claremont",
-    "Herb Trimpe",
-    "Earth-616"
+  "aliases": [
   ],
-  "image": {
-    "height": "378",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Future_Past_Psylocke.png/250px-Future_Past_Psylocke.png",
-    "width": "250"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Herb Trimpe"
+  ],
+  "description": "In addition to her mainstream incarnation, the Marvel Comics character Psylocke (Elizabeth \"Betsy\" Braddock) has had been depicted in other fictional universes and alternate timelines. These alternative representations usually differ considerably from the details and events of the main story set on Earth-616, without affecting that story's narrative continuity.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Future_Past_Psylocke.png/250px-Future_Past_Psylocke.png",
+  "isHero": false,
+  "isVillain": false,
   "name": "Alternative versions of Psylocke",
-  "pageviews": 1849,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1319,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Alternative_versions_of_Psylocke"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alternative_versions_of_Psylocke"
+  }
 }

@@ -1,46 +1,43 @@
 {
-  "aliases": "Quetzacoatl, Tecumotzin, Lord of Flight, Ajax the Greater, He Who Talks To Celestials",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "God Squad",
+    "Eternals"
+  ],
+  "authors": [
     "Jack Kirby"
   ],
-  "image": {
-    "height": "232",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Ajak.jpg/250px-Ajak.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1011176,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4c002f35c5215.jpg",
-    "url": "http://marvel.com/universe/Ajak"
-  },
+  "description": "Ajak is a fictional character, a member of the Eternals, a race in the Marvel Comics universe.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4c002f35c5215/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Ajak",
-  "pageviews": 2644,
   "partners": [
   ],
   "powers": [
-    "healing factor"
-  ],
-  "powersText": [
-    "Superhuman speed",
-    "strength and durability",
     "Accelerated healing factor",
     "Energy blasts",
-    "Flight",
-    "Teleportation"
+    "Teleportation",
+    "Superhuman speed",
+    "strength",
+    "durability",
+    "Flight"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1869,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
   ],
-  "teams": [
-    "Eternals",
-    "God Squad"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Ajak"
+  "urls": {
+    "marvel": "http://marvel.com/characters/111/ajak",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ajak"
+  }
 }

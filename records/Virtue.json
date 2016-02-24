@@ -1,0 +1,45 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Revengers",
+    "Daily Bugle"
+  ],
+  "authors": [
+    "Reginald Hudlin",
+    "Billy Tan"
+  ],
+  "description": "Virtue (Ethan Edwards) is a fictional character, a superhero in the Marvel Comics universe. He is a pastiche of the DC Comics character Superman. He first appeared in Marvel Knights Spider-Man #13.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/MKSM018.jpg/250px-MKSM018.jpg",
+  "isHero": true,
+  "isVillain": false,
+  "name": "Virtue",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Healing powers",
+    "Superhuman strength",
+    "Shapeshifting",
+    "Invulnerability",
+    "Ability to see every frequency in the light spectrum",
+    "Energy projection"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1162,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ethan T. Edwards"
+  ],
+  "species": [
+    "Skrull"
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethan_Edwards"
+  }
+}

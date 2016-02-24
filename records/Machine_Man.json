@@ -1,53 +1,52 @@
 {
-  "aliases": "X-51, Mister Machine",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Civil War",
+    "S.H.I.E.L.D.",
+    "Ancient Order of the Shield",
+    "Operation: Lightning Storm",
+    "Avengers",
+    "West Coast Avengers",
+    "Nextwave"
+  ],
+  "authors": [
     "Jack Kirby"
   ],
-  "image": {
-    "height": "372",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Machineman.PNG/250px-Machineman.PNG",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 35,
-      "events": 0,
-      "series": 13,
-      "stories": 38
-    },
-    "description": "",
-    "id": 1010805,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4c003727804b4.jpg",
-    "url": "http://marvel.com/universe/Machine_Man"
-  },
+  "description": "Machine Man (Aaron Stack, serial number Z2P45-9-X-51 or X-51 for short) is a fictional character, an android superhero in the Marvel Comics Universe. The character was created by Jack Kirby for 2001: A Space Odyssey #8 (July 1977), a comic written and drawn by Kirby featuring concepts based on the eponymous Stanley Kubrick film and Arthur C. Clarke novel.  Shortly thereafter, Machine Man spun off into his own Kirby-created series.  He is a robot, the only survivor of a series, raised as a human son of scientist Abel Stack, who was killed removing his auto-destruct mechanism, and further evolved to sentience by a Monolith.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4c003727804b4/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Machine Man",
-  "pageviews": 9212,
   "partners": [
   ],
   "powers": [
-    "anti-gravity"
-  ],
-  "powersText": [
+    "Telescoping arms",
+    "legs",
+    "Flight by usage of anti-gravity disks",
+    "Various installed weapons",
     "Superhuman strength",
     "speed",
     "stamina",
     "durability",
-    "reflexes and accuracy",
-    "Telescoping arms and legs",
-    "Flight by usage of anti-gravity disks",
-    "Various installed weapons"
+    "reflexes",
+    "accuracy"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 35,
+    "eventCount": 0,
+    "pageviewCount": 6154,
+    "pageviewRank": -1,
+    "serieCount": 13,
+    "storyCount": 38
+  },
+  "secretIdentities": [
+    "Aaron Stack"
+  ],
   "species": [
   ],
-  "teams": [
-    "S.H.I.E.L.D.",
-    "Secret Avengers (Civil War)",
-    "Nextwave",
-    "Avengers",
-    "West Coast Avengers",
-    "Heavy Metal",
-    "A.R.M.O.R."
-  ],
-  "url": "https://en.wikipedia.org/wiki/Machine_Man"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1306/machine_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Machine_Man"
+  }
 }

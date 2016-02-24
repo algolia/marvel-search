@@ -1,29 +1,38 @@
 {
-  "aliases": "Michael Gula, Curtis Harris",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Serpent Society"
+  ],
+  "authors": [
     "Mark Gruenwald",
     "Kieron Dwyer"
   ],
-  "image": {
-  },
+  "description": "Rock Python (M'Gula) is a fictional super villain in the Marvel Comics Universe, and is a member of the Serpent Society.  He first appeared in Captain America vol. 1 #341 in May 1988.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Rock Python",
-  "pageviews": 1306,
   "partners": [
   ],
   "powers": [
+    "Rock-hard skin",
+    "uses egg-shaped bombs which ensnare his enemies with steel ribbons or poisons them."
   ],
-  "powersText": [
-    "Rock-hard bones",
-    "skin and muscles",
-    "Resistance to injury",
-    "Use of egg-shaped bombs which ensnare his enemies with steel ribbons or poisons them"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 899,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "M'Gula"
   ],
-  "realName": "M'Gula",
   "species": [
-    "Human Mutant"
+    "Human Mutant or Mutate"
   ],
-  "teams": [
-    "Serpent Society"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Rock_Python"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rock_Python"
+  }
 }

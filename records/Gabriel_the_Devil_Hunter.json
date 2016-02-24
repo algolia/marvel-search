@@ -1,29 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Doug Moench",
     "Billy Graham"
   ],
-  "image": {
-    "height": "320",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Gabriel_the_Devil_Hunter.png/175px-Gabriel_the_Devil_Hunter.png",
-    "width": "175"
-  },
+  "description": "Gabriel the Devil Hunter is a fictional character in the Marvel Universe who appeared as an exorcist in several of Marvel's occult titles.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Gabriel_the_Devil_Hunter.png/175px-Gabriel_the_Devil_Hunter.png",
+  "isHero": false,
+  "isVillain": false,
   "name": "Gabriel the Devil Hunter",
-  "pageviews": 452,
   "partners": [
   ],
   "powers": [
-    "exorcism"
-  ],
-  "powersText": [
     "Magic user",
     "limited to exorcism"
   ],
-  "realName": "Gabriel Rosetti, although some of his earlier appearances imply that \"Gabriel\" is his last name.",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 266,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gabriel Rosetti",
+    "although some of his earlier appearances imply that \"Gabriel\" is his last name."
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Gabriel_the_Devil_Hunter"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_the_Devil_Hunter"
+  }
 }

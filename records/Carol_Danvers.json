@@ -1,62 +1,59 @@
 {
-  "aliases": "Ms. Marvel , Binary, Warbird, Catherine Donovan, Captain Marvel",
-  "creators": [
+  "aliases": [
+    "Ms. Marvel",
+    "Captail Marvel"
+  ],
+  "alliances": [
+    "NASA",
+    "Guardians of the Galaxy (2008 team)",
+    "S.H.I.E.L.D.",
+    "Defenders",
+    "X-Men",
+    "Avengers",
+    "The New Avengers",
+    "Operation: Lightning Storm",
+    "The Mighty Avengers",
+    "United States Air Force",
+    "Starjammers"
+  ],
+  "authors": [
     "Roy Thomas",
     "Gene Colan"
   ],
-  "image": {
-    "height": "388",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Ms.Marvel1.jpg/250px-Ms.Marvel1.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1009261,
-    "image": null,
-    "url": null
-  },
-  "name": "Ms. Marvel",
-  "pageviews": 200608,
+  "description": "Carol Danvers is a fictional character, a superhero that appears in comic books published by Marvel Comics. Created by writer Roy Thomas and designed by artist Gene Colan, Major Carol Danvers first appeared as a member of the United States Air Force in Marvel Super-Heroes #13 (March 1968) and debuted as the first incarnation of Ms. Marvel in Ms. Marvel #1 (January 1977) after a fusion of alien Kree and human genes gives her superhuman powers, which occurred in Captain Marvel #18 (November 1969).Debuting in the Silver Age of comics, the character was featured in a self-titled series in the late 1970s before becoming associated with superhero teams the Avengers and the X-Men. The character has also been known as Binary, Warbird, and Captain Marvel at various points in her history, and has been featured in other Marvel licensed products including video games, animated television series, and merchandise such as trading cards. In the 2000s, the increased use of her as a character eventually prompted one commentator to note that \"she's now the House of Ideas' premier heroine.\" Marvel Studios announced a live-action film starring the character, titled Captain Marvel, which is scheduled for release on July 6, 2018.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Ms.Marvel1.jpg/250px-Ms.Marvel1.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Carol Danvers",
   "partners": [
-    "Araña"
+    "Anya Corazon"
   ],
   "powers": [
     "Superhuman strength",
     "speed",
-    "durability",
-    "Energy projection and absorption",
-    "Flight"
-  ],
-  "powersText": [
-    "Superhuman strengthspeed",
     "stamina",
-    "and durability",
-    "Energy projection and absorption",
+    "durability",
+    "Energy projection",
+    "absorption",
     "Flight"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 168087,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Carol Susan Jane Danvers"
+  ],
   "species": [
-    "Kree"
+    "Human ",
+    " Kree hybrid"
   ],
-  "teams": [
-    "United States Air Force",
-    "NASA",
-    "S.H.I.E.L.D.",
-    "X-Men",
-    "\"Defenders for a Day\"",
-    "Starjammers",
-    "Avengers",
-    "Mighty Avengers",
-    "New Avengers",
-    "Guardians of the Galaxy",
-    "Ultimates",
-    "A-Force"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Carol_Danvers"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2701/carol_danvers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carol_Danvers"
+  }
 }

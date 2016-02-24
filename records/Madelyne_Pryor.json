@@ -1,52 +1,49 @@
 {
-  "aliases": "Anodyne, Goblin Queen,<br>Black Rook, Red Queen",
-  "creators": [
-    "Chris Claremont",
-    "Paul Smith"
+  "aliases": [
+    "Madelyne Jennifer Pryor-Summers",
+    "Maddie Pryor"
   ],
-  "image": {
-    "height": "342",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Madelyne_PryorX-Men11.jpg/180px-Madelyne_PryorX-Men11.jpg",
-    "width": "180"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 4,
-      "events": 2,
-      "series": 4,
-      "stories": 3
-    },
-    "description": "",
-    "id": 1009509,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/528d33ddaef70.jpg",
-    "url": "http://marvel.com/universe/Pryor%2C_Madelyne"
-  },
+  "alliances": [
+    "X-Men",
+    "Brotherhood of Mutants",
+    "Hellfire Club",
+    "Hellfire Cult"
+  ],
+  "authors": [
+    "Paul Smith",
+    "Chris Claremont"
+  ],
+  "description": "Madelyne \"Maddie\" Jennifer Pryor-Summers is a fictional character, a supervillain in books published by Marvel Comics, in particular those featuring the X-Men. As the love interest and first wife of X-Men leader Cyclops (Scott Summers), she became a long-standing member of the X-Men supporting cast, until a series of traumas—being abandoned by her husband, losing her infant son, and discovering that she was a clone of Jean Grey—eventually led to her being manipulated into becoming a supervillain. She and Cyclops are the parents of Nathan Summers.Her biography has been rendered particularly complicated because of the many retcons involved in the publication history of both her character and that of Jean Grey.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/528d33ddaef70/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Madelyne Pryor",
-  "pageviews": 19055,
   "partners": [
   ],
   "powers": [
-    "Telepathy",
-    "Telekinesis",
     "Teleportation",
-    "Psionic"
-  ],
-  "powersText": [
     "Telepathy",
-    "Telekinesis",
-    "Teleportation",
-    "Psionic energy channeling",
-    "Magic abilities"
+    "Psychokinesis",
+    "Magic abilities",
+    "Psionic energy channeling"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 2,
+    "pageviewCount": 16911,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Madelyne \"Maddie\" Jennifer Pryor-Summers"
+  ],
   "species": [
-    "Human mutant (latent)",
-    "clone"
+    "Mutant",
+    "Molecular cloning"
   ],
-  "teams": [
-    "X-Men",
-    "Hellfire Club",
-    "Sisterhood of Mutants"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Madelyne_Pryor"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2741/madelyne_pryor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madelyne_Pryor"
+  }
 }

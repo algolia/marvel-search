@@ -1,27 +1,37 @@
 {
-  "aliases": "Proton",
-  "creators": [
-    "Brian Michael Bendis",
-    "Mark Bagley"
+  "aliases": [
   ],
-  "image": {
-    "height": "327",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Ulgeldoff.jpg/150px-Ulgeldoff.jpg",
-    "width": "150"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Mark Bagley",
+    "Brian Michael Bendis"
+  ],
+  "description": "Geldoff is a fictional character in Marvel Comics who first appeared in the Ultimate Marvel Universe's Ultimate Spider-Man #40 (July 2003) written by Brian Michael Bendis with art from Mark Bagley. Geldoff was brought into Earth-616 by Dan Slott and Christos N. Gage in Avengers: The Initiative #8 (February 2008) where he was given the code name Proton.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Ulgeldoff.jpg/150px-Ulgeldoff.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Geldoff",
-  "pageviews": 1262,
   "partners": [
   ],
   "powers": [
+    "Can generate",
+    "discharge explosive energy balls"
   ],
-  "powersText": [
-    "Can generate and discharge explosive energy balls"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 796,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Geldoff"
   ],
-  "realName": "Geldoff",
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Geldoff"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Geldoff"
+  }
 }

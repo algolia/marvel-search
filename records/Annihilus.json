@@ -1,46 +1,42 @@
 {
-  "aliases": "Lord of the Negative Zone, the Living Death that Walks, Ahmyor",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
   ],
-  "image": {
-    "height": "269",
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/30/Annihilus.png",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 33,
-      "events": 0,
-      "series": 18,
-      "stories": 33
-    },
-    "description": "",
-    "id": 1009154,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/528d31f20a2f6.jpg",
-    "url": "http://marvel.com/universe/Annihilus"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Gene Colan",
+    "Stan Lee"
+  ],
+  "description": "Yon-Rogg is a character in Marvel Comics. He is an alien Kree, a military commander whose weakness is his jealousy of others accomplishments and his love for the medic Una. He is sent to supervise the troublesome planet Earth.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/528d31f20a2f6/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Annihilus",
-  "pageviews": 14594,
   "partners": [
-    "Blastaar"
   ],
   "powers": [
+    "Agility",
+    "Super-Strength",
+    "Stamina"
   ],
-  "powersText": [
-    "Superhuman strength",
-    "stamina and durability",
-    "Flight",
-    "Wields Cosmic Control Rod:",
-    "Energy and molecular manipulation",
-    "Slowed aging process"
+  "ranking": {
+    "comicCount": 33,
+    "eventCount": 0,
+    "pageviewCount": 1145,
+    "pageviewRank": -1,
+    "serieCount": 18,
+    "storyCount": 33
+  },
+  "secretIdentities": [
   ],
-  "realName": "",
   "species": [
+    "Kree"
   ],
-  "teams": [
-    "Annihilation Wave"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Annihilus"
+  "urls": {
+    "marvel": "http://marvel.com/characters/154/annihilus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yon-Rogg"
+  }
+}tp://marvel.com/characters/154/annihilus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annihilus"
+  }
 }

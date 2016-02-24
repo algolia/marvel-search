@@ -1,39 +1,47 @@
 {
-  "aliases": "-John Falsworth, Jr.<br>-Dr. Jacob Cromwell",
-  "creators": [
-    "Roy Thomas",
+  "aliases": [
+  ],
+  "alliances": [
+    "Super-Axis"
+  ],
+  "authors": [
     "Frank Robbins",
-    "Jackson Guice",
+    "Roy Thomas",
     "Roger Stern",
     "John Byrne",
-    "Ben Raab",
-    "John Cassaday"
+    "Jackson Guice"
   ],
-  "image": {
-    "height": "380",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Invaders-7.jpg/250px-Invaders-7.jpg",
-    "width": "250"
-  },
+  "description": "Baron Blood is the name of several fictional characters that appear in comic books published by Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Invaders-7.jpg/250px-Invaders-7.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Baron Blood",
-  "pageviews": 3063,
   "partners": [
   ],
   "powers": [
-    "Hypnosis",
-    "Flight"
+    "Animal",
+    "weather control",
+    "Flight",
+    "Superhuman strength",
+    "durability",
+    "Hypnosis"
   ],
-  "powersText": [
-    "(All)",
-    "Superhuman strength and durability",
-    "Hypnosis",
-    "Animal and weather control",
-    "Flight"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1770,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Victor Strange",
+    "Lord John Falsworth",
+    "Kenneth Chrichton"
   ],
-  "realName": "-John Falsworth<br>-Victor Strange<br>-Kenneth Crichton",
   "species": [
   ],
-  "teams": [
-    "Super-Axis"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Baron_Blood"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Baron_Blood"
+  }
 }

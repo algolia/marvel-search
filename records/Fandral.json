@@ -1,36 +1,45 @@
 {
-  "aliases": "Fandral the Dashing",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
   ],
-  "image": {
-    "height": "377",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "Warriors Three",
+    "Asgard",
+    "Thor Corps"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Fandral the Dashing is a Marvel Comics character and a charter member of the Warriors Three, a trio of Asgardian adventurers consisting of Fandral, Hogun the Grim, and Volstagg the Valiant. They are members of the supporting cast in Marvel's Thor comics and usually provide comic relief and side-adventures.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Fandral",
-  "pageviews": 17968,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Superhuman strength",
     "speed",
     "agility",
     "stamina",
-    "and durability",
-    "Extended lifespan",
-    "Master swordsman"
+    "durability",
+    "Master swordsman",
+    "Extended lifespan"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 10918,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Fandral"
+  ],
   "species": [
-    "Asgardian"
   ],
-  "teams": [
-    "Warriors Three",
-    "Thor Corps"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Fandral"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fandral"
+  }
 }

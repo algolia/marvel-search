@@ -1,28 +1,36 @@
 {
-  "aliases": "",
-  "creators": [
-    "Mark Gruenwald",
-    "Ralph Macchio",
-    "Ron Wilson"
+  "aliases": [
   ],
-  "image": {
-    "height": "368",
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sinistermeets12.jpg",
-    "width": "250"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Ron Wilson",
+    "Ralph Macchio",
+    "Mark Gruenwald"
+  ],
+  "description": "Phaeder is a fictional supervillain in the Marvel Comics universe.  He is the father of Maelstrom.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sinistermeets12.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Phaeder",
-  "pageviews": 1752,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1165,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": "",
   "species": [
-    "Inhuman"
+    "Inhumans"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Phaeder"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Phaeder"
+  }
 }

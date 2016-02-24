@@ -1,25 +1,35 @@
 {
-  "aliases": "Tamara of the Sisterhood",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Deep Six"
+  ],
+  "authors": [
     "Bill Everett",
     "Steve Gerber",
-    "Sam Kweskin"
+    "and Sam Kweskin"
   ],
-  "image": {
-  },
+  "description": "Tamara Rahn is a fictional character in the Marvel Universe.Tamara Rahn is an alien of the water-breathing extraterrestrial Banari race from the planet Laab.  She is a red-skinned humanoid with blonde hair.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Tamara Rahn",
-  "pageviews": 575,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 382,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-    "Deep Six"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Tamara_Rahn"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tamara_Rahn"
+  }
 }

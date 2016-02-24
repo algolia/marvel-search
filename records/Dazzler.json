@@ -1,52 +1,54 @@
 {
-  "aliases": "The Disco Dazzler",
-  "creators": [
-    "Marvel Comics",
-    "Tom DeFalco",
+  "aliases": [
+    "Disco Dazzler",
+    "Alison Blaire"
+  ],
+  "alliances": [
+    "S.H.I.E.L.D.",
+    "Excalibur",
+    "X-Men",
+    "Wildways Rebellion",
+    "Gladiators",
+    "X-Men: The 198"
+  ],
+  "authors": [
+    "Group of Marvel Comics staff: Tom DeFalco",
     "John Romita, Jr.",
     "Louise Simonson",
-    "Roger Stern"
+    "and Roger Stern"
   ],
-  "image": {
-    "height": "348",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Dazzler_wiki.png/250px-Dazzler_wiki.png",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 157,
-      "events": 6,
-      "series": 51,
-      "stories": 200
-    },
-    "description": "",
-    "id": 1009267,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4fe364b0a2177.jpg",
-    "url": "http://marvel.com/universe/Dazzler_(Alison_Blaire)"
-  },
+  "description": "Dazzler (Alison Blaire) is a Marvel Comics superheroine, usually associated with the X-Men. She first appeared in Uncanny X-Men #130 (February 1980).A mutant with the ability to convert sound vibrations into light and energy beams, Dazzler was originally developed as a cross-promotional, multi-media creation between Casablanca Records and Marvel Comics until the tie-ins were dropped in 1980. The character was created by a committee of Marvel staff, principally writer/editor Tom DeFalco and illustrator John Romita, Jr.Despite the fact that Dazzler was originally commissioned as a disco singer, the character shifted to other musical genres, including rock and adult contemporary. She starred in a self-titled solo series in the early 1980s which lasted forty-two issues, a Marvel Graphic Novel titled Dazzler: The Movie, a four-issue limited series co-starring The Beast titled Beauty and the Beast, and later joined the cast of the X-Men. She was briefly a member of the spin-off group Excalibur but has since re-joined the X-Men.  Dazzler was ranked 83rd in Comics Buyer's Guide's \"100 Sexiest Women in Comics\" list.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4fe364b0a2177/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Dazzler",
-  "pageviews": 17873,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Highly skilled athlete",
     "Trained singer",
-    "actress and dancer",
-    "Highly accomplished roller-skater",
-    "Ability to convert sound into light beams of various forms and intensity"
+    "actress",
+    "dancer",
+    "Highly skilled athlete",
+    "Ability to convert sound into light beams of various forms",
+    "intensity",
+    "Highly accomplished roller-skater"
   ],
-  "realName": "Alison \"Ali\" Blaire",
+  "ranking": {
+    "comicCount": 157,
+    "eventCount": 6,
+    "pageviewCount": 11831,
+    "pageviewRank": 1746,
+    "serieCount": 51,
+    "storyCount": 200
+  },
+  "secretIdentities": [
+    "Alison \"Ali\" Blaire"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "New Excalibur",
-    "The 198",
-    "S.H.I.E.L.D.",
-    "X-Men",
-    "A-Force"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Dazzler"
+  "urls": {
+    "marvel": "http://marvel.com/characters/516/dazzler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dazzler"
+  }
 }

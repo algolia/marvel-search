@@ -1,0 +1,44 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Reavers",
+    "Purifiers",
+    "Hellfire Club"
+  ],
+  "authors": [
+    "John Byrne",
+    "Chris Claremont"
+  ],
+  "description": "Donald Pierce is a comic book supervillain in the Marvel Comics universe. He is a cyborg and is commonly an enemy of the X-Men.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/53176b8fe1dfa/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Cyclops (Ultimate)",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength",
+    "reflexes",
+    "Able to create numerous types of energy",
+    "Cyborg body",
+    "Mechanical genius"
+  ],
+  "ranking": {
+    "comicCount": 44,
+    "eventCount": 0,
+    "pageviewCount": 2673,
+    "pageviewRank": -1,
+    "serieCount": 17,
+    "storyCount": 58
+  },
+  "secretIdentities": [
+    "Donald Pierce"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/10/cyclops",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Pierce"
+  }
+}

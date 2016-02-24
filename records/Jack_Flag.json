@@ -1,43 +1,40 @@
 {
-  "aliases": "King Cobra, AZ-1260",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Guardians of the Galaxy (2008 team)"
+  ],
+  "authors": [
     "Mark Gruenwald",
     "Dave Hoover"
   ],
-  "image": {
-    "height": "319",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Jackflag.PNG/250px-Jackflag.PNG",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1010736,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4c003787cd7e1.jpg",
-    "url": "http://marvel.com/universe/Jack_Flag"
-  },
+  "description": "Jack Flag (Jack Harrison) is a fictional character, a superhero in the Marvel Comics universe.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4c003787cd7e1/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Jack Flag",
-  "pageviews": 4183,
   "partners": [
-    "Captain America"
   ],
   "powers": [
-  ],
-  "powersText": [
     "Superhuman strength",
     "speed",
     "stamina"
   ],
-  "realName": "Jack Harrison",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2981,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jack Harrison"
+  ],
   "species": [
   ],
-  "teams": [
-    "Guardians of the Galaxy"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Jack_Flag"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2814/jack_flag",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Flag"
+  }
 }

@@ -1,27 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Roy Thomas",
     "Werner Roth"
   ],
-  "image": {
-  },
+  "description": "Living Diamond is a fictional character in the Marvel Universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Living Diamond",
-  "pageviews": 500,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Perspicuity",
     "Telepathy",
-    "Perspicuity (resistance to psychic attack)",
-    "Diamond Form (in normal form it only extended to the hands)",
-    "Teleportation (perhaps lost)"
+    "Diamond Form",
+    "Teleportation"
   ],
-  "realName": "Jack Winters",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 390,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jack Winters"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Living_Diamond"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Living_Diamond"
+  }
 }

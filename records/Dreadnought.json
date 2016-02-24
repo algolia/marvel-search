@@ -1,0 +1,41 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Hydra",
+    "New Enforcers"
+  ],
+  "authors": [
+    "Jim Steranko"
+  ],
+  "description": "Dreadnoughts are a type of fictional robot found in the Marvel Comics universe. They are frequently employed by villainous organizations. Different forms of the robots are depicted by organizations such as HYDRA and the Maggia.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Nightstalkers16.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Dreadnought",
+  "partners": [
+  ],
+  "powers": [
+    "Freezing breath",
+    "Electrifying touch",
+    "Projectile spikes on knuckles",
+    "Ability to cause radiation emission from eyes",
+    "Flame-throwing gauntlets"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 776,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Robot"
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dreadnought_(comics)"
+  }
+}

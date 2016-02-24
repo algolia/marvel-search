@@ -1,0 +1,42 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Brotherhood of Mutants",
+    "Project: Black Womb",
+    "Freedom Force",
+    "Hydra"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "John Byrne"
+  ],
+  "description": "Destiny (Irene Adler) is a Marvel Comics fictional character, known as an adversary of the X-Men.Although blind, Destiny was a mutant precognitive able to accurately predict future events.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Destiny1.jpg/150px-Destiny1.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Destiny",
+  "partners": [
+  ],
+  "powers": [
+    "Precognition"
+  ],
+  "ranking": {
+    "comicCount": 40,
+    "eventCount": 4,
+    "pageviewCount": 8931,
+    "pageviewRank": -1,
+    "serieCount": 20,
+    "storyCount": 37
+  },
+  "secretIdentities": [
+    "Irene Adler"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/543/destiny",
+    "wikipedia": "https://en.wikipedia.org/wiki/Destiny_(Irene_Adler)"
+  }
+}

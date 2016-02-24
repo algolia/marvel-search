@@ -1,34 +1,47 @@
 {
-  "aliases": "White Gorilla",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Villans for Hire",
+    "Masters of Evil",
+    "Lethal Legion"
+  ],
+  "authors": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "image": {
-    "height": "396",
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/63/Manape.png",
-    "width": "250"
-  },
+  "description": "Man-Ape is a fictional character, a supervillain in the Marvel Comics Universe, and frequent enemy of the Black Panther. He first appeared in Avengers #62 (March 1969).",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/63/Manape.png",
+  "isHero": false,
+  "isVillain": false,
   "name": "Man-Ape",
-  "pageviews": 6556,
   "partners": [
-    "Grim Reaper"
+    "Grim Reaper",
+    "Saboteur"
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Expert hand to hand combatant",
     "Superhuman strength",
     "speed",
     "agility",
-    "stamina and durability"
+    "stamina",
+    "durability",
+    "Expert hand to hand combatant"
   ],
-  "realName": "M'Baku",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5294,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "M'Baku"
+  ],
   "species": [
+    "Human Mutate"
   ],
-  "teams": [
-    "Lethal Legion",
-    "Masters of Evil"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Man-Ape"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Man-Ape"
+  }
 }

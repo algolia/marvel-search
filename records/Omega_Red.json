@@ -1,54 +1,52 @@
 {
-  "aliases": "Arkady Gregorivich, Vasyliev Arkady",
-  "creators": [
-    "Jim Lee",
-    "John Byrne"
+  "aliases": [
   ],
-  "image": {
-    "height": "323",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Xmen18omegared.jpg/250px-Xmen18omegared.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 20,
-      "events": 0,
-      "series": 9,
-      "stories": 25
-    },
-    "description": "",
-    "id": 1009482,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003d09267ae.jpg",
-    "url": "http://marvel.com/universe/Omega_Red"
-  },
+  "alliances": [
+    "The Hand",
+    "Russian mafia"
+  ],
+  "authors": [
+    "John Byrne",
+    "Jim Lee"
+  ],
+  "description": "Omega Red is a fictional character that appears in comic books published by Marvel Comics. The character first appeared in X-Men #4 (vol. 2, January 1992), and was created by Jim Lee and John Byrne. In 2009, Omega Red was ranked as IGN's 95th Greatest Comic Book Villain of All Time.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003d09267ae/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Omega Red",
-  "pageviews": 14047,
   "partners": [
   ],
   "powers": [
-    "Carbonadium"
-  ],
-  "powersText": [
-    "Excellent hand-to-hand combatant and military tactician",
-    "Highly skilled criminal organizer",
     "Superhuman strength",
     "speed",
-    "agility",
     "stamina",
-    "durability and reflexes",
-    "High-level intellect",
-    "Regenerative healing factor",
+    "durability",
+    "agility",
+    "reflexes",
+    "Regenerative Healing factor",
     "Carbonadium retractable tentacles housed within each arm",
+    "Ability to secrete pheromones that result in sickness",
+    "death",
     "Life Force absorption",
-    "Ability to secrete pheromones that result in sickness and death"
+    "Skilled hand-to-hand combatant",
+    "military tactician"
   ],
-  "realName": "Arkady Rossovich",
+  "ranking": {
+    "comicCount": 20,
+    "eventCount": 0,
+    "pageviewCount": 10732,
+    "pageviewRank": -1,
+    "serieCount": 9,
+    "storyCount": 25
+  },
+  "secretIdentities": [
+    "Arkady Rossovich"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "The Hand",
-    "Red Mafia"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Omega_Red"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1652/omega_red",
+    "wikipedia": "https://en.wikipedia.org/wiki/Omega_Red"
+  }
 }

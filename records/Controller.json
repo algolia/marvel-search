@@ -1,0 +1,48 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "New Enforcers"
+  ],
+  "authors": [
+    "George Tuska",
+    "Archie Goodwin"
+  ],
+  "description": "The Controller, real name Basil Sandhurst, is a fictional character, a supervillain appearing in Marvel Comics. He specializes in mind control, and is a frequent foe of Iron Man.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/4c003923719ff/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Controller",
+  "partners": [
+  ],
+  "powers": [
+    "Wields control discs",
+    "Highly skilled chemist",
+    "mechanical engineer",
+    "Mind control",
+    "Flight via boot jets",
+    "Mental force bolt projection via helmet",
+    "Limited psychokinesis",
+    "telepathy",
+    "Ability to drain mental energy from controlled pawns to power & enhance exoskeleton",
+    "Superhuman strength",
+    "endurance"
+  ],
+  "ranking": {
+    "comicCount": 7,
+    "eventCount": 0,
+    "pageviewCount": 1466,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Basil Sandhurst"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/458/controller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Controller_(Marvel_Comics)"
+  }
+}

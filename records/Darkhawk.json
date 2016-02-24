@@ -1,50 +1,48 @@
 {
-  "aliases": "The Powell, Falconer, Edge-Man",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Loners",
+    "Defenders",
+    "New Warriors",
+    "Features of the Marvel Universe",
+    "West Coast Avengers"
+  ],
+  "authors": [
     "Tom DeFalco",
     "Mike Manley"
   ],
-  "image": {
-    "height": "386",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Darkhawk_1.jpg/250px-Darkhawk_1.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 6,
-      "events": 0,
-      "series": 2,
-      "stories": 7
-    },
-    "description": "",
-    "id": 1011020,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5269553f4bc6a.jpg",
-    "url": "http://marvel.com/universe/Darkhawk"
-  },
+  "description": "Darkhawk (Christopher Powell) is a fictional comic book superhero who first appeared in Darkhawk #1 (1991). He was created by writer Tom DeFalco and artist Mike Manley.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5269553f4bc6a/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Darkhawk",
-  "pageviews": 7529,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Energy blasts",
-    "Energy shield",
-    "Flight",
-    "Night vision",
-    "Claw cable",
     "Accelerated healing factor",
-    "Superhuman strength"
+    "Night vision",
+    "Flight",
+    "Energy blasts",
+    "Superhuman strength",
+    "Energy shield",
+    "Claw cable"
   ],
-  "realName": "Christopher \"Chris\" Powell",
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 5453,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 7
+  },
+  "secretIdentities": [
+    "Christopher \"Chris\" Powell"
+  ],
   "species": [
   ],
-  "teams": [
-    "Loners",
-    "New Warriors",
-    "Project Pegasus",
-    "Secret Defenders",
-    "West Coast Avengers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Darkhawk"
+  "urls": {
+    "marvel": "http://marvel.com/characters/509/darkhawk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darkhawk"
+  }
 }

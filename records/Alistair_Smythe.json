@@ -1,36 +1,37 @@
 {
-  "aliases": "The Ultimate Spider Slayer, Spider-Slayer",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Mary Wilshire",
     "Louise Simonson"
   ],
-  "image": {
-    "height": "319",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg/250px-Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg",
-    "width": "250"
-  },
+  "description": "Alistair Smythe is a comic book supervillain, owned by Marvel Comics. He was one of Spider-Man's enemies. At one point Alistair used a wheelchair, but he later gained the ability to walk after transforming himself into what he called the Ultimate Spider-Slayer.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg/250px-Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Alistair Smythe",
-  "pageviews": 8392,
   "partners": [
   ],
   "powers": [
+    "Expert in robotics",
+    "Biorganic carapace grants superhuman physical attributes"
   ],
-  "powersText": [
-    "Expert robotics",
-    "cybernetics and geneticist",
-    "Bio-organic carapace grants:",
-    "Superhuman strength",
-    "speed",
-    "agility and durability",
-    "Bird-like talons",
-    "Curved bladed weapon jutting from each shoulder",
-    "Jagged blades on each forearm",
-    "Web-shooter",
-    "Ability to walk"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 6208,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Alistair Alphonso Smythe"
   ],
-  "realName": "Alistair Alphonso Smythe",
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Alistair_Smythe"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alistair_Smythe"
+  }
 }

@@ -1,45 +1,42 @@
 {
-  "aliases": "Talkback, Neo, Darkhawk , Chasehawk",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Runaways"
+  ],
+  "authors": [
     "Brian K. Vaughan",
     "Adrian Alphona"
   ],
-  "image": {
-    "height": "355",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/RUNAWAYV3008_COV.jpg/250px-RUNAWAYV3008_COV.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "Chase Stein is the son of mad scientists Victor and Janet Stein and is the tech genius of the Runaways.",
-    "id": 1010753,
-    "image": null,
-    "url": "http://marvel.com/universe/Talkback%20(Chase%20Stein)"
-  },
+  "description": "Chase Stein is the son of mad scientists Victor and Janet Stein and is the tech genius of the Runaways.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4ce5a2e831d0c/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Chase Stein",
-  "pageviews": 4241,
   "partners": [
   ],
   "powers": [
-    "pilot",
+    "Skilled pilot",
     "mechanic",
-    "Deinonychus"
+    "Energy-conjuring gauntlets",
+    "boots",
+    "Telepathic link to a genetically-engineered Deinonychus"
   ],
-  "powersText": [
-    "Skilled pilot and mechanic",
-    "Telepathic link to a genetically-engineered Deinonychus",
-    "Energy-conjuring gauntlets and boots"
+  "ranking": {
+    "comicCount": 7,
+    "eventCount": 0,
+    "pageviewCount": 3007,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "Chase Stein"
   ],
-  "realName": "Chase Stein",
   "species": [
   ],
-  "teams": [
-    "Runaways"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Chase_Stein"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2819/chase_stein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chase_Stein"
+  }
 }

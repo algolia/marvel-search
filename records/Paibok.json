@@ -1,51 +1,52 @@
 {
-  "aliases": "Paul Balk",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Fearsome Foursome",
+    "Annihilation"
+  ],
+  "authors": [
     "Tom DeFalco",
-    "Paul Ryan",
+    "Paul Ryan (cartoonist)",
     "Danny Bulanadi"
   ],
-  "image": {
-    "height": "497",
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Paibokskrull3.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1011150,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4c002f617817e.jpg",
-    "url": "http://marvel.com/universe/Paibok"
-  },
-  "name": "Power Skrull",
-  "pageviews": 1749,
+  "description": "Paibok the Power Skrull is a fictional alien, a comic book supervillain appearing in the Marvel Comics universe. He is a foe of the Fantastic Four.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4c002f617817e/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Paibok",
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Expert armed/unarmed combatant",
-    "Superhuman strength",
-    "stamina and durability",
-    "Flight",
+    "Energy",
+    "ice projection",
     "Shapeshifting",
+    "Flight",
+    "Ability to transform skin into a durable steel-like substance",
     "Hypnosis",
-    "Energy and ice projection",
-    "Immunity to the effects of his energy and ice blasts",
-    "Ability to transform his skin into a durable steel-like substance"
+    "Superhuman strength",
+    "stamina",
+    "durability",
+    "Immunity to effects of his energy",
+    "ice blasts",
+    "Expert armed/unarmed combatant"
   ],
-  "realName": "Paibok",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1127,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Paibok"
+  ],
   "species": [
     "Skrull"
   ],
-  "teams": [
-    "Annihilation Wave",
-    "Fearsome Foursome"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Paibok"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1685/paibok",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paibok"
+  }
 }

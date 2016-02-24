@@ -1,45 +1,43 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Exterminators http://www.marvunapp.com/Appendix4/exterminatorschamln.htm"
+  ],
+  "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "image": {
-    "height": "371",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Moltenman.jpg/250px-Moltenman.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 2,
-      "events": 0,
-      "series": 1,
-      "stories": 3
-    },
-    "description": "",
-    "id": 1011370,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4c002e34d7cdc.jpg",
-    "url": "http://marvel.com/universe/Molten%20Man"
-  },
+  "description": "Molten Man (Mark Raxton) is a fictional character, a supervillain in the Marvel Universe.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4c002e34d7cdc/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Molten Man",
-  "pageviews": 4583,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Genius chemical engineer",
-    "Organic-liquid metal alloy grants:",
-    "Superhuman strength",
-    "durability and endurance",
     "Radiation projection",
+    "Genius chemical engineer",
+    "Superhuman strength",
+    "durability",
+    "endurance",
     "Heat generation"
   ],
-  "realName": "Mark Raxton",
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 3068,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Mark Raxton"
+  ],
   "species": [
   ],
-  "teams": [
-    "Alchemax"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Molten_Man"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1487/molten_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Molten_Man"
+  }
 }

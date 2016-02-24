@@ -1,33 +1,46 @@
 {
-  "aliases": "",
-  "creators": [
-    "Jeph Loeb",
-    "Ian Churchill"
+  "aliases": [
   ],
-  "image": {
-    "height": "198",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/440px-Blaqsmth.jpg/250px-440px-Blaqsmth.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "Underground",
+    "Askani"
+  ],
+  "authors": [
+    "Jeph Loeb",
+    "Ian Churchill",
+    "Igor Kordey",
+    "Darko Macan"
+  ],
+  "description": "Blaquesmith is the name of two characters in the Marvel Comics universe.  One is a mutant from the future and an ally of Cable, the other is a man hired to impersonate the former when he was presumed dead.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/440px-Blaqsmth.jpg/250px-440px-Blaqsmth.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Blaquesmith",
-  "pageviews": 1121,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Superhuman intelligence",
     "Telepathy",
-    "Telekinesis",
     "Time travel",
-    "Superhuman intelligence"
+    "Unknown",
+    "possibly none",
+    "Telekinesis"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 863,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nigel Novotny"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Askani",
-    "Underground"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Blaquesmith"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Blaquesmith"
+  }
 }

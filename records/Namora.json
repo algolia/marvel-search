@@ -1,49 +1,50 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "World War Hulk",
+    "Agents of Atlas",
+    "Monster Hunters"
+  ],
+  "authors": [
     "Ken Bald",
     "Syd Shores"
   ],
-  "image": {
-    "height": "377",
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/e2/AOATLAS004_COV.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 34,
-      "events": 2,
-      "series": 12,
-      "stories": 62
-    },
-    "description": "",
-    "id": 1009468,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c003d248f331.jpg",
-    "url": "http://marvel.com/universe/Namora_%28Earth-2189%29"
-  },
+  "description": "Namora is a fictional character, a superhero in the Marvel Comics Universe. She is from Atlantis and is the daughter of an Atlantean father and a human mother. She is the cousin of Namor the Sub-Mariner.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c003d248f331/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Namora",
-  "pageviews": 4581,
   "partners": [
   ],
   "powers": [
+    "Superhuman strength",
+    "limited invulnerability",
+    "swim at superhuman speeds",
+    "ability to breathe both water",
+    "air",
+    "slowed aging process",
+    "wings-like appendages on her ankles that allow her to fly."
   ],
-  "powersText": [
-    "Superhuman strength and durability invulnerability",
-    "Ability to swim at superhuman speeds",
-    "Ability to breathe both water and air",
-    "Slowed aging process",
-    "Wings-like appendages on her ankles allow her to fly"
+  "ranking": {
+    "comicCount": 35,
+    "eventCount": 2,
+    "pageviewCount": 2998,
+    "pageviewRank": -1,
+    "serieCount": 12,
+    "storyCount": 63
+  },
+  "secretIdentities": [
+    "Aquaria Nautica Neptunia; later changed to Namora"
   ],
-  "realName": "Aquaria Nautica Neptunia; later changed to Namora",
   "species": [
     "Atlantean",
-    "Human Mutant"
+    "Human Mutant Hybrid",
+    "Human-Atlantean",
+    "Human Mutant hybrid"
   ],
-  "teams": [
-    "Agents of Atlas",
-    "Renegades",
-    "Monster Hunters",
-    "\"Avengers\" (1959)"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Namora"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1561/namora",
+    "wikipedia": "https://en.wikipedia.org/wiki/Namora"
+  }
 }

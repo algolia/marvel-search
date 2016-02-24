@@ -1,31 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
-    "Scott Lobdell",
-    "John Romita Jr"
+  "aliases": [
   ],
-  "image": {
-    "height": "331",
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/cd/XMEN_AmeliaVoght.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "Acolytes",
+    "Genosha"
+  ],
+  "authors": [
+    "Scott Lobdell",
+    "John Romita, Jr."
+  ],
+  "description": "Amelia C. Voght is a Marvel Comics character, associated with the X-Men franchise.A mutant with the ability to turn her body into mist, Amelia was a love interest of Professor X before he founded the X-Men. Unable to believe in his mission, she eventually joined Magneto’s Acolytes, becoming one of Magneto's most trusted lieutenants.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/c/cd/XMEN_AmeliaVoght.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Amelia Voght",
-  "pageviews": 1990,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Teleportation",
-    "can turn herself and matter around her into a mist-like state."
+    "can turn herself",
+    "matter around her into a mist-like state."
   ],
-  "realName": "Amelia C. Voght",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1489,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Amelia C. Voght"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Acolytes",
-    "Genoshan Cabinet"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Amelia_Voght"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Voght"
+  }
 }

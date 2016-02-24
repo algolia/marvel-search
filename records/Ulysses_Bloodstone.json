@@ -1,32 +1,39 @@
 {
-  "aliases": "Ulysses Bloodstone, Captain Achab, Redstone Kid",
-  "creators": [
-    "Len Wein",
-    "Marv Wolfman",
-    "John Warner"
+  "aliases": [
   ],
-  "image": {
-    "height": "139",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Bloodstone_Ulysses.jpg/200px-Bloodstone_Ulysses.jpg",
-    "width": "200"
-  },
+  "alliances": [
+    "Monster Hunters"
+  ],
+  "authors": [
+    "John Warner",
+    "Marv Wolfman",
+    "Len Wein"
+  ],
+  "description": "Ulysses Bloodstone is a fictional character, an immortal monster-hunter in Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Bloodstone_Ulysses.jpg/200px-Bloodstone_Ulysses.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Ulysses Bloodstone",
-  "pageviews": 3958,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Superhuman strength",
     "immortality"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2259,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
     "Human"
   ],
-  "teams": [
-    "Monster Hunters",
-    "\"Avengers\" (1959)"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Ulysses_Bloodstone"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulysses_Bloodstone"
+  }
 }

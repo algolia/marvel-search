@@ -1,28 +1,36 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "One World Church",
+    "Empire State University"
+  ],
+  "authors": [
     "Jim Shooter",
     "Sal Buscema"
   ],
-  "image": {
-  },
+  "description": "Lightmaster (real name Dr. Edward Lansky) is a fictional character, a supervillain in the Marvel Comics universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Lightmaster",
-  "pageviews": 935,
   "partners": [
   ],
   "powers": [
-    "Light manipulation"
   ],
-  "powersText": [
-    "Power suit grants:",
-    "Light manipulation"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 655,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dr. Edward Lansky"
   ],
-  "realName": "Dr. Edward Lansky",
   "species": [
   ],
-  "teams": [
-    "Masters of Evil",
-    "Empire State University"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Lightmaster"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lightmaster"
+  }
 }

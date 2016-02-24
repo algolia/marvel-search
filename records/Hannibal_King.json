@@ -1,48 +1,47 @@
 {
-  "aliases": "Henry Kagle",
-  "creators": [
-    "Gene Colan",
-    "Marv Wolfman"
+  "aliases": [
   ],
-  "image": {
-    "height": "388",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/HannibalKingB8.jpg/250px-HannibalKingB8.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1011091,
-    "image": null,
-    "url": "http://marvel.com/universe/Hannibal%20King"
-  },
-  "name": "Hannibal King",
-  "pageviews": 10711,
-  "partners": [
-  ],
-  "powers": [
-    "healing factor"
-  ],
-  "powersText": [
-    "Regenerative healing factor",
-    "Superhuman strength and speed",
-    "Halted aging",
-    "Ability to turn into mist",
-    "Ability to transform into a werewolf",
-    "Flight",
-    "Skilled detective and marksman"
-  ],
-  "realName": "Unknown (probably Hannibal King)",
-  "species": [
-  ],
-  "teams": [
+  "alliances": [
     "Nightstalkers",
     "Midnight Sons"
   ],
-  "url": "https://en.wikipedia.org/wiki/Hannibal_King"
+  "authors": [
+    "Gene Colan",
+    "Marv Wolfman"
+  ],
+  "description": "Hannibal King is a fictional character, a supernatural detective appearing in publications from Marvel Comics. He first appeared as a supporting character in the 1970s comic book The Tomb of Dracula.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/HannibalKingB8.jpg/250px-HannibalKingB8.jpg",
+  "isHero": true,
+  "isVillain": false,
+  "name": "Hannibal King",
+  "partners": [
+  ],
+  "powers": [
+    "Regenerative healing factor",
+    "Ability to turn into mist",
+    "Skilled detective",
+    "marksman",
+    "Halted aging",
+    "Flight",
+    "Superhuman strength",
+    "speed",
+    "Ability to transform into a werewolf"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 8500,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Unknown"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2871/hannibal_king",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannibal_King"
+  }
 }

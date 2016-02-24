@@ -1,50 +1,46 @@
 {
-  "aliases": "Ripcord",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "New Warriors",
+    "X-Ranch",
+    "X-Men"
+  ],
+  "authors": [
     "Joe Casey",
     "Tom Raney"
   ],
-  "image": {
-    "height": "328",
-    "url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Stacy_X_%28Miranda_Leevald%29.png",
-    "width": "180"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 38,
-      "events": 0,
-      "series": 20,
-      "stories": 33
-    },
-    "description": "",
-    "id": 1009618,
-    "image": null,
-    "url": null
-  },
+  "description": "Stacy X is an alias of Miranda Leevald, a fictional character in the Marvel Comics universe. She is a mutant prostitute who was briefly affiliated with the X-Men and was more recently known as a member of the latest incarnation of the now disbanded New Warriors. She first appeared in Uncanny X-Men #399 (November 2001) by Joe Casey and Tom Raney. More recently she has been known as Ripcord.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/Stacy_X_%28Miranda_Leevald%29.png",
+  "isHero": false,
+  "isVillain": false,
   "name": "Stacy X",
-  "pageviews": 4359,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Natural skill :",
     "Skilled hand-to-hand fighter",
-    "As Stacy X :",
     "Pheromone control through touch",
     "Ability to determine people's emotions based on their pheromones",
     "Scaly",
     "protective skin",
-    "As Ripcord:",
     "Extendable wrist tentacles"
   ],
-  "realName": "Miranda Leevald",
+  "ranking": {
+    "comicCount": 38,
+    "eventCount": 0,
+    "pageviewCount": 3011,
+    "pageviewRank": -1,
+    "serieCount": 20,
+    "storyCount": 33
+  },
+  "secretIdentities": [
+    "Miranda Leevald"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "New Warriors",
-    "X-Men"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Stacy_X"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2193/stacy_x",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stacy_X"
+  }
 }

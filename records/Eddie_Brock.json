@@ -1,50 +1,49 @@
 {
-  "aliases": "Venom , Anti-Venom, Toxin",
-  "creators": [
-    "David Michelinie",
-    "Todd McFarlane"
+  "aliases": [
   ],
-  "image": {
-    "height": "450",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/EddieBrock.jpg/221px-EddieBrock.jpg",
-    "width": "221"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 66,
-      "events": 2,
-      "series": 28,
-      "stories": 76
-    },
-    "description": "",
-    "id": 1009692,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/52bc827d4ed09.jpg",
-    "url": "http://marvel.com/universe/Brock,_Eddie"
-  },
+  "alliances": [
+    "Sinister Six",
+    "Savage Six",
+    "Revengers"
+  ],
+  "authors": [
+    "Todd McFarlane",
+    "David Michelinie"
+  ],
+  "description": "Eddie Brock is a fictional character created by David Michelinie and Todd McFarlane. Originally a comic book supervillain, Brock's earliest appearance is a cameo in Web of Spider-Man #18 (September 1986) before making his first full appearance in The Amazing Spider-Man #299 (April 1988) as Venom. The character has since appeared in many Marvel Comics publications including his own series Venom. Introduced as the first incarnation of the Spider-Man villain Venom, the character becomes an anti-hero, working with and against superheroes.In the original version of the story, Brock is a journalist who exposes the identity of a serial killer only for the real killer to be caught by Spider-Man, Brock having accused the wrong man. Disgraced and suicidal, Brock comes into contact with an alien Symbiote, rejected by Peter Parker. The Symbiote bonds with Brock becoming Venom and together they seek out revenge against their mutual enemy. Though Brock repeatedly comes into conflict with Spider-Man, he also attempts to operate as a hero, albeit a violent one, seeking to save those he deems \"innocent\". In 2008, after being separated from the Venom Symbiote, Brock gains a new Symbiote and becomes the anti-hero Anti-Venom. However, that symbiote is sacrificed to help cure the \"Spider-Island\" epidemic during the 2011 storyline. In 2012 he is bonded to the Toxin symbiote. Though Brock is a human with no powers, the Symbiote suit bestows upon him a range of abilities including many of the powers belonging to Spider-Man, the Symbiote's original host.Debuting in the Modern Age of Comic Books, the character of Eddie Brock has featured in other Marvel-endorsed products such as animated television series; video games; merchandise such as action figures, and trading cards; and the Spider-Man 3 feature film in which he was played by actor Topher Grace. Eddie Brock's incarnation of Venom was rated 33rd on Empire's 50 Greatest Comic Book Characters, and was the 22nd greatest villain on IGN's 100 Greatest Comic Villains of all time. Comics journalist and historian Mike Conroy writes of the character: \"What started out as a replacement costume for Spider-Man turned into one of the Marvel web-slinger's greatest nightmares.\"",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4de932f1a298a/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": true,
   "name": "Eddie Brock",
-  "pageviews": 29030,
   "partners": [
   ],
   "powers": [
-    "Alien symbiote"
-  ],
-  "powersText": [
-    "Alien symbiote grants:",
     "Superhuman strength",
     "agility",
-    "reflexes and endurance",
+    "reflexes",
+    "endurance",
     "Organic webbing",
     "Ability to cling to most surfaces",
     "Immunity to Spider Sense",
-    "Limited shapeshifting and camouflage",
+    "Limited shapeshifting",
+    "camouflage",
     "Knowledge of the previous host"
   ],
-  "realName": "Eddie Brock",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 19641,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eddie Brock"
+  ],
   "species": [
   ],
-  "teams": [
-    "Sinister Six",
-    "Revengers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Eddie_Brock"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2829/eddie_brock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Brock"
+  }
 }

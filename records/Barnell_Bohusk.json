@@ -1,46 +1,50 @@
 {
-  "aliases": "Beak, Blackwing",
-  "creators": [
-    "Grant Morrison",
-    "Ethan Van Sciver"
+  "aliases": [
   ],
-  "image": {
-    "height": "221",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Blackwing.jpg/220px-Blackwing.jpg",
-    "width": "220"
-  },
+  "alliances": [
+    "Teen Brigade",
+    "X-Mansion",
+    "Brotherhood of Mutants",
+    "New Warriors",
+    "Exiles"
+  ],
+  "authors": [
+    "Ethan Van Sciver",
+    "Grant Morrison"
+  ],
+  "description": "Barnell Bohusk, currently known as Blackwing, formerly known as Beak, is a fictional character, a superhero associated with the X-Men and its spinoff the Exiles. Beak first appeared in New X-Men #117 and was created by Grant Morrison and Ethan Van Sciver.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Blackwing.jpg/220px-Blackwing.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Barnell Bohusk",
-  "pageviews": 3386,
   "partners": [
   ],
   "powers": [
+    "Bird-like mutation which gives him heightened agility",
+    "a beaked nose",
+    "finger talons",
+    "wings that fold up along his arms",
+    "allow limited flight",
+    "Advanced bird suit allowing flight",
+    "superhuman strength",
+    "energy blasts",
+    "enhanced protection"
   ],
-  "powersText": [
-    "Currently:",
-    "Advanced bird suit grants:",
-    "Superhuman strength",
-    "Flight",
-    "Energy blasts",
-    "Enhanced protection",
-    "Formerly:",
-    "Bird-like mutation which grants:",
-    "Enhanced agility and endurance",
-    "Hollow bones",
-    "Beaked nose",
-    "Finger talons",
-    "Wings that fold up along his arms and allow limited flight"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2713,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Barnell Bohusk"
   ],
-  "realName": "Barnell Bohusk",
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Teen Brigade",
-    "New Warriors",
-    "Exiles",
-    "Street Team X-Men",
-    "Xavier Institute",
-    "Brotherhood of Mutants"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Barnell_Bohusk"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Barnell_Bohusk"
+  }
 }

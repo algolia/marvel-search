@@ -1,35 +1,51 @@
 {
-  "aliases": "",
-  "creators": [
-    "Bill Mantlo",
-    "Sal Buscema"
+  "aliases": [
   ],
-  "image": {
-    "height": "246",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Collective_Man.jpg/250px-Collective_Man.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "3",
+    "Marvel Super Hero Contest of Champions",
+    "Mutant Liberation Front",
+    "X-Men: The 198",
+    "People's Defense Force (China)"
+  ],
+  "authors": [
+    "Sal Buscema",
+    "Bill Mantlo"
+  ],
+  "description": "The Collective Man (Sun, Chang, Ho, Lin, and Han Tao-Yu) is a fictional character, a Chinese superhero in the Marvel Comics universe. The Collective Man is actually an identity shared by the Tao-Yu brothers, a set of quintuplets. They possess the mutant power to merge into one body, which variously possesses the collective abilities of all five men or of all of the people of China. The brothers also share a psychic/spiritual link that allows them to telepathically communicate and teleport to one another.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Collective_Man.jpg/250px-Collective_Man.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Collective Man",
-  "pageviews": 1333,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Ability to merge into a single being possessing five times the physical and mental ability of a single Tao-Yu brother",
     "Ability to temporarily increase the limits these powers by mentally drawing upon outside energy",
     "while in a collective state",
-    "Ability to communicate telepathically and teleport to each other via psychic/spiritual-link."
+    "Ability to communicate telepathically",
+    "teleport to each other via psychic/spiritual-link.",
+    "Ability to merge into a single being possessing five times the physical",
+    "mental ability of a single Tao-Yu brother"
   ],
-  "realName": "Sun, Chang, Ho, Lin, and Han Tao-Yu",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 998,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sun",
+    "Chang",
+    "Ho",
+    "Lin,",
+    "Han Tao-Yu"
+  ],
   "species": [
-    "Human Mutants"
+    "Mutant"
   ],
-  "teams": [
-    "People's Defense Force",
-    "The 198",
-    "Mutant Liberation Front",
-    "Death's Champions"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Collective_Man"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Collective_Man"
+  }
 }

@@ -1,33 +1,44 @@
 {
-  "aliases": "James Doe, the Skrull, Skymax.",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Squadron Supreme"
+  ],
+  "authors": [
     "Mark Gruenwald"
   ],
-  "image": {
-  },
+  "description": "The Skrullian Skymaster is a fictional comic book superhero appearing in books published by Marvel Comics, usually those featuring the Squadron Supreme, a superhero team of which Skymaster is a member. The character is the Squadron's counterpart of the Martian Manhunter, a member of DC Comics' superhero team, the Justice League of America.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Skrullian Skymaster",
-  "pageviews": 2045,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Shape-shifting",
+    "Fire projection",
+    "Elasticity",
+    "Accomplished pilot",
     "Superhuman strength greater than a normal Skrull",
     "Flight",
-    "Fire projection",
     "Invisibility",
-    "Shape-shifting",
-    "Telepathy",
-    "Elasticity",
     "Excellent hand-to-hand combatant",
-    "Accomplished pilot"
+    "Telepathy"
   ],
-  "realName": "Sk'ym'x",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1452,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sk'ym'x"
+  ],
   "species": [
     "Skrull"
   ],
-  "teams": [
-    "Squadron Supreme"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Skrullian_Skymaster"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Skrullian_Skymaster"
+  }
 }

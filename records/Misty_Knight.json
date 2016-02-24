@@ -1,53 +1,49 @@
 {
-  "aliases": "Maya Corday, Control",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Heroes for Hire",
+    "New York City Police Department",
+    "Nightwing Restorations Ltd",
+    "Daughters of the Dragon"
+  ],
+  "authors": [
     "Tony Isabella",
     "Arvell Jones"
   ],
-  "image": {
-    "height": "376",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Mistyknight0.png/200px-Mistyknight0.png",
-    "width": "200"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 30,
-      "events": 5,
-      "series": 16,
-      "stories": 27
-    },
-    "description": "",
-    "id": 1010682,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/511151789a863.jpg",
-    "url": "http://marvel.com/universe/Knight%2C_Misty"
-  },
+  "description": "Misty Knight is a fictional character in Marvel Comics' Marvel Universe.  She was first mentioned (by name) in Marvel Premiere #20 (January 1975) and appeared in the next issue. She appears frequently with Colleen Wing.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/511151789a863/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Misty Knight",
-  "pageviews": 47859,
   "partners": [
-    "Iron Fist",
     "Colleen Wing",
-    "Luke Cage"
+    "Iron Fist"
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Highly skilled martial artist",
-    "Proficient hand-to-hand combatant",
     "Superb detective",
-    "Near perfect aim",
-    "Via bionic right arm:",
     "Superhuman strength",
-    "Technopathy",
-    "Magnetism",
-    "Concussive blasts"
+    "technopathy",
+    "weapons in right bionic arm",
+    "Proficient hand-to-hand combatant",
+    "Highly skilled martial artist",
+    "Near-perfect aim"
   ],
-  "realName": "Mercedes \"Misty\" Knight",
+  "ranking": {
+    "comicCount": 31,
+    "eventCount": 5,
+    "pageviewCount": 40349,
+    "pageviewRank": -1,
+    "serieCount": 16,
+    "storyCount": 28
+  },
+  "secretIdentities": [
+    "Mercedes \"Misty\" Knight"
+  ],
   "species": [
   ],
-  "teams": [
-    "New York Police Department",
-    "Heroes for Hire",
-    "Daughters of the Dragon"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Misty_Knight"
+  "urls": {
+    "marvel": "http://marvel.com/comics/characters/1010682/misty_knight",
+    "wikipedia": "https://en.wikipedia.org/wiki/Misty_Knight"
+  }
 }

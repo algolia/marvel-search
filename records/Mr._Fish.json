@@ -1,41 +1,41 @@
 {
-  "aliases": "Mr. Fish I:<br>Mort",
-  "creators": [
-    "Bill Mantlo",
-    "George Tuska"
+  "aliases": [
   ],
-  "image": {
-    "height": "249",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Power029a.jpg/170px-Power029a.jpg",
-    "width": "170"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1010900,
-    "image": null,
-    "url": null
-  },
+  "alliances": [
+    "Maggia",
+    "Flashmob"
+  ],
+  "authors": [
+    "George Tuska",
+    "Bill Mantlo"
+  ],
+  "description": "Mr. Fish is the name of two Marvel Comics supervillains.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Power029a.jpg/170px-Power029a.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Mr. Fish",
-  "pageviews": 964,
   "partners": [
   ],
   "powers": [
+    "Enhanced strength",
+    "Amphibious physiology"
   ],
-  "powersText": [
-    "Amphibious physiology",
-    "Enhanced strength"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 854,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Mortimer George Norris",
+    "Bill Norris"
   ],
-  "realName": "Mortimer George Norris<br>Bill Norris",
   "species": [
   ],
-  "teams": [
-    "Maggia"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Mr._Fish"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1525/mr_fish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mr._Fish"
+  }
 }

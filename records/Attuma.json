@@ -1,49 +1,57 @@
 {
-  "aliases": "Attuma the Barbarian, Lords of the Murky Depths, Nerkkod: Breaker of Oceans",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Lethal Legion",
+    "Features of the Marvel Universe",
+    "Fear Itself",
+    "Deep Six"
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "214",
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/X-factoran4.jpg",
-    "width": "179"
-  },
+  "description": "Attuma is a fictional character, a supervillain in the Marvel Comics universe. He is an Atlantean nomadic warlord who is an enemy of Namor the Sub-Mariner, and is the father of the superhero Andromeda. He believes he is the prophesied conqueror of the Atlantean Empire.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/d3/X-factoran4.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Attuma",
-  "pageviews": 5720,
   "partners": [
-    "Warlord Krang",
+    "Krang",
     "Ghaur",
-    "Llyra",
     "Tiger Shark",
     "Tyrak",
-    "Byrrah",
     "Red Ghost",
-    "Dr. Dorcas"
+    "Lemuel Dorcas",
+    "Llyra"
   ],
   "powers": [
-  ],
-  "powersText": [
     "Expert hand-to-hand combatant",
+    "Self-propelled flight",
+    "Underwater",
+    "land adaptation",
+    "High level swimming speed",
     "Superhuman strength",
     "agility",
     "stamina",
-    "reflexes and endurance",
-    "High level swimming speed",
-    "Specially developed vision",
-    "Self-propelled flight",
-    "Underwater and land adaptation",
-    "Access to highly advanced weaponry"
+    "reflexes",
+    "endurance"
   ],
-  "realName": "Attuma",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3945,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Attuma"
+  ],
   "species": [
     "Homo mermanus"
   ],
-  "teams": [
-    "Atlantis",
-    "Lethal Legion",
-    "Deep Six",
-    "The Worthy"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Attuma"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Attuma"
+  }
 }

@@ -1,45 +1,43 @@
 {
-  "aliases": "",
-  "creators": [
-    "Peter Milligan",
-    "Mike Allred"
+  "aliases": [
   ],
-  "image": {
-    "height": "352",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Vivisector.jpg/250px-Vivisector.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 20,
-      "events": 0,
-      "series": 5,
-      "stories": 20
-    },
-    "description": "",
-    "id": 1009698,
-    "image": null,
-    "url": null
-  },
-  "name": "Vivisector",
-  "pageviews": 1033,
-  "partners": [
-  ],
-  "powers": [
-  ],
-  "powersText": [
-    "Ability to transform into wolf-like creature:",
-    "Superhuman strength",
-    "agility and senses",
-    "Sharp claws"
-  ],
-  "realName": "Myles Alfred",
-  "species": [
-    "Human Mutant"
-  ],
-  "teams": [
+  "alliances": [
     "X-Force",
     "X-Statix"
   ],
-  "url": "https://en.wikipedia.org/wiki/Vivisector"
+  "authors": [
+    "Mike Allred",
+    "Peter Milligan"
+  ],
+  "description": "This article is about the Marvel Comics character. Vivisector can also refer to a person who engages in vivisection.For the novel, see The Vivisector. For the first-person shooter, see Vivisector: Beast Inside.Vivisector (Myles Alfred) is a fictional character, an openly gay intellectual mutant featured as a member of X-Statix by Marvel Comics. He first appeared in X-Force #116 and was created by Peter Milligan and Mike Allred.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Vivisector.jpg/250px-Vivisector.jpg",
+  "isHero": true,
+  "isVillain": false,
+  "name": "Vivisector",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength",
+    "agility",
+    "senses",
+    "Sharp claws"
+  ],
+  "ranking": {
+    "comicCount": 20,
+    "eventCount": 0,
+    "pageviewCount": 765,
+    "pageviewRank": -1,
+    "serieCount": 5,
+    "storyCount": 20
+  },
+  "secretIdentities": [
+    "Myles Alfred"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2498/vivisector",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vivisector"
+  }
 }

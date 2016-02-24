@@ -1,50 +1,58 @@
 {
-  "aliases": "Kang the Conqueror , Kid Immortus",
-  "creators": [
-    "Allan Heinberg",
-    "Jim Cheung",
-    "Kang the Conqueror",
+  "aliases": [
+  ],
+  "alliances": [
+    "Cross-Time Kangs",
+    "Council of Kangs"
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "382",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/IronLad.jpg/200px-IronLad.jpg",
-    "width": "200"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 7,
-      "events": 0,
-      "series": 4,
-      "stories": 6
-    },
-    "description": "",
-    "id": 1010704,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c0038c9c6580.jpg",
-    "url": "http://marvel.com/universe/Iron_Lad"
-  },
+  "description": "Kang the Conqueror is a fictional character, a supervillain that appears in comic books published by Marvel Comics. In 2009, Kang was ranked as IGN's 65th Greatest Comic Book Villain of All Time.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c0038c9c6580/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Iron Lad",
-  "pageviews": 15649,
   "partners": [
   ],
   "powers": [
+    "Genius-level intellect",
+    "Slowed aging through time travel",
+    "Skilled armed/unarmed combatant",
+    "Access to advanced technology",
+    "Master tactician",
+    "strategist"
   ],
-  "powersText": [
-    "Wears neurokinetic armor which responds to his thoughts and grants him:",
-    "Superhuman strength",
-    "Flight",
-    "Energy blast projection",
-    "Magnetic field creation",
-    "Time travel",
-    "Shapeshifting",
-    "Ability to hack into computer systems"
+  "ranking": {
+    "comicCount": 7,
+    "eventCount": 0,
+    "pageviewCount": 37046,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Nathaniel Richards"
   ],
-  "realName": "Nathaniel Richards",
   "species": [
   ],
-  "teams": [
-    "Young Avengers"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1051/iron_lad",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kang_the_Conqueror"
+  }
+}iewCount": 9996,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Nathaniel Richards"
   ],
-  "url": "https://en.wikipedia.org/wiki/Iron_Lad"
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1051/iron_lad",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iron_Lad"
+  }
 }

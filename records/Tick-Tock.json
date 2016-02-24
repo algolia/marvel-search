@@ -1,26 +1,36 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Night Shift"
+  ],
+  "authors": [
     "Ann Nocenti",
     "Brian Postman"
   ],
-  "image": {
-  },
+  "description": "Tick-Tock is a fictional character, a mutant in the Marvel Comics Universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Tick-Tock",
-  "pageviews": 568,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "low level precognition."
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 424,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Night Shift"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Tick-Tock"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tick-Tock"
+  }
 }

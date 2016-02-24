@@ -1,51 +1,49 @@
 {
-  "aliases": "\"Iceberg\" Ike Harris, Sovereign, Isaac \"Ike\" Harris, Daedalus",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Eternals",
+    "Unlimited Class Wrestling Federation"
+  ],
+  "authors": [
     "Jack Kirby"
   ],
-  "image": {
-    "height": "372",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Eternals_v4.jpg/250px-Eternals_v4.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1011077,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4c0030d8df78e.jpg",
-    "url": "http://marvel.com/universe/Ikaris"
-  },
+  "description": "Ikaris is a fictional character, a member of an alien race known as the Eternals in the Marvel Comics universe. Both Ikaris and the Eternals were created by Jack Kirby.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4c0030d8df78e/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Ikaris",
-  "pageviews": 3787,
   "partners": [
   ],
   "powers": [
-    "healing factor"
-  ],
-  "powersText": [
+    "Psionic powers",
+    "Flight",
+    "Cosmic energy manipulation",
+    "Matter transmutation",
+    "Regenerative healing factor",
     "Superhuman strength",
     "speed",
     "stamina",
     "agility",
-    "reflexes and durability",
-    "Regenerative healing factor",
-    "Cosmic energy manipulation",
-    "Flight",
-    "Psionic powers",
-    "Matter transmutation",
+    "reflexes",
+    "durability",
     "Teleportation"
   ],
-  "realName": "Ikaris",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3383,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ikaris"
+  ],
   "species": [
   ],
-  "teams": [
-    "Eternals",
-    "UCWF"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Ikaris"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1020/ikaris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ikaris"
+  }
 }

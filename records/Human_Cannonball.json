@@ -1,0 +1,40 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Circus of Crime",
+    "The Masters of Menace"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "The Human Cannonball is a fictional character, a supervillain in the Marvel Universe.",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Human Cannonball",
+  "partners": [
+  ],
+  "powers": [
+    "Carries a mace to hit opponents while flying",
+    "Padded steel armor grants minimal protection from physical attacks",
+    "Use of a trailer mounted air-cannon"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 629,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+    "Jack Pulver"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/989/human_cannonball",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Cannonball_(Marvel_Comics)"
+  }
+}

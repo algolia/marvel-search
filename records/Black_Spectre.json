@@ -1,26 +1,37 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Doug Moench",
+    "Bill Sienkiewicz",
     "Steve Gerber",
     "Bob Brown"
   ],
-  "image": {
-    "height": "298",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Black_Spectre_%281974%29.jpg/250px-Black_Spectre_%281974%29.jpg",
-    "width": "250"
-  },
+  "description": "Black Spectre has two meanings in the Marvel Universe. The first Black Spectre is the name of a fictional organization which first appeared in Daredevil #108 (March 1974) and was created by writer Steve Gerber and penciller Bob Brown. It was a league of costumed female commandos, entranced by the Mandrill into doing his bidding, and led by Nekra. The second Black Spectre is a fictional supervillain who first appeared in Moon Knight #25 (November 1982) and was created by writer Doug Moench and penciller Bill Sienkiewicz. The character is one of the greatest enemies of the vigilante Moon Knight.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Black_Spectre_%281974%29.jpg/250px-Black_Spectre_%281974%29.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Black Spectre",
-  "pageviews": 2990,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1885,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Carson Knowles"
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Black_Spectre"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Spectre"
+  }
 }

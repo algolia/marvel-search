@@ -1,25 +1,40 @@
 {
-  "aliases": "the Unforgiving One<br/>Doc Occulus",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "The Gem Guild"
+  ],
+  "authors": [
     "Tom DeFalco",
     "Paul Ryan"
   ],
-  "image": {
-  },
+  "description": "Occulus is a fictional character in the Marvel Universe.Occulus is an enemy of the Fantastic Four. He was one of the first villains imprisoned in the Negative Zone prison.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Occulus",
-  "pageviews": 1350,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "can form force fields",
-    "project energy blasts and detect various forms of energy."
+    "project energy blasts",
+    "detect various forms of energy."
   ],
-  "realName": "Occulus",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 945,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Occulus"
+  ],
   "species": [
+    "Extradimensional  mutant",
+    "mutate"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Occulus"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Occulus"
+  }
 }

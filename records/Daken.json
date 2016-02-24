@@ -1,50 +1,49 @@
 {
-  "aliases": "Daken, Wolverine, Dark Wolverine, \"Daken Akihiro\", Death",
-  "creators": [
+  "aliases": [
+    "Dark Wolverine"
+  ],
+  "alliances": [
+    "Dark X-Men",
+    "Horsemen of Apocalypse",
+    "Dark Avengers",
+    "Brotherhood of Mutants"
+  ],
+  "authors": [
     "Daniel Way",
     "Steve Dillon"
   ],
-  "image": {
-    "height": "359",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Daken_Dark_Wolverine.jpg/250px-Daken_Dark_Wolverine.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 25,
-      "events": 1,
-      "series": 10,
-      "stories": 26
-    },
-    "description": "",
-    "id": 1011001,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/520289a920fd9.jpg",
-    "url": "http://marvel.com/universe/Daken"
-  },
+  "description": "Akihiro, codename Daken is a fictional comic book supervillain licensed by Marvel Comics. Daken is the mutant son of Wolverine and his deceased wife Itsu. He possesses superhuman abilities similar to his father (e.g., healing factor, retractable claws), and was a member of the Dark Avengers under the name Wolverine until the conclusion of the 2010 storyline, \"Siege\".  Daken was ranked sixth in Comics Alliance's \"50 Sexiest Male Characters in Comics\" list and is often recognized for his sex appeal.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/520289a920fd9/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": true,
   "name": "Daken",
-  "pageviews": 26679,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Excellent martial artist",
-    "Superhuman physical attributes",
-    "Accelerated healing factor",
-    "Retractable claws",
     "Hyper senses",
+    "Superhuman physical ability",
     "Pheromone manipulation",
-    "Immunity to telepathy"
+    "Immune to telepathy.",
+    "Excellent martial artist",
+    "Retractable claws",
+    "Regenerative healing factor"
   ],
-  "realName": "Akihiro",
+  "ranking": {
+    "comicCount": 33,
+    "eventCount": 1,
+    "pageviewCount": 19551,
+    "pageviewRank": -1,
+    "serieCount": 11,
+    "storyCount": 35
+  },
+  "secretIdentities": [
+    "Akihiro"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Dark Avengers",
-    "Dark X-Men",
-    "Brotherhood of Mutants",
-    "Horsemen of Death"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Daken"
+  "urls": {
+    "marvel": "http://marvel.com/comics/characters/1011001/daken",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daken"
+  }
 }

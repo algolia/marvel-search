@@ -1,0 +1,43 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "The Lights",
+    "X-Force",
+    "X-Men"
+  ],
+  "authors": [
+    "Mike Carey (writer)",
+    "Matt Fraction",
+    "Chris Bachalo"
+  ],
+  "description": "Hope Summers is a superheroine appearing in books published by Marvel Comics. The character first appeared in X-Men #205 in 2007 (Chapter five of the \"X-Men: Messiah Complex\" storyline). She is the first mutant born after the events of the \"House of M\" and \"Decimation\" storyline.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/511155f5015e0/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
+  "name": "Hope Summers",
+  "partners": [
+    "Cable"
+  ],
+  "powers": [
+    "Power mimicry"
+  ],
+  "ranking": {
+    "comicCount": 66,
+    "eventCount": 5,
+    "pageviewCount": 17144,
+    "pageviewRank": -1,
+    "serieCount": 12,
+    "storyCount": 88
+  },
+  "secretIdentities": [
+    "Hope Summers"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/24/hope",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hope_Summers_(comics)"
+  }
+}

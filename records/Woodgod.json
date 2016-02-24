@@ -1,29 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "The Community of the Changelings"
+  ],
+  "authors": [
     "Bill Mantlo",
     "Keith Giffen"
   ],
-  "image": {
-    "height": "386",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Woodgod.jpg/249px-Woodgod.jpg",
-    "width": "249"
-  },
+  "description": "Woodgod is a fictional character in the Marvel Comics. Woodgod is a genetically-engineered sentient life-form. He physically resembles a satyr, and was created using cloning techniques by combining human and animal DNA.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Woodgod.jpg/249px-Woodgod.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Woodgod",
-  "pageviews": 577,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Superhuman Strength",
     "enhanced senses",
-    "knowledge of advanced genetic engineering techniques. Immunity to nerve gas."
+    "knowledge of advanced genetic engineering techniques.",
+    "Immunity to nerve gas."
   ],
-  "realName": "Woodgod",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 419,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Woodgod"
+  ],
   "species": [
+    "Genetic Construct"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Woodgod"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Woodgod"
+  }
 }

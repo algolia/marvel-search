@@ -1,0 +1,41 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Morlocks"
+  ],
+  "authors": [
+    "Chris Bachalo",
+    "Scott Lobdell"
+  ],
+  "description": "Hemingway is a fictional villain created by Marvel Comics for their team called Gene Nation. His first appearance was in Generation X #5. He is one of the few members to remain in all three incarnations of the team.",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Hemingway",
+  "partners": [
+  ],
+  "powers": [
+    "exoskeletal mutation gives him razor-sharp bony protrusion from his back",
+    "arms that can be used for weapons",
+    "greatly increase his size to immense proportions",
+    "superhuman strength",
+    "durability"
+  ],
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 280,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/948/hemingway",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hemingway_(comics)"
+  }
+}

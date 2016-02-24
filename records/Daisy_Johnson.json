@@ -1,34 +1,38 @@
 {
-  "aliases": "Quake, Cory Sutter, Gabrielle Wewer, Skye",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Brian Michael Bendis",
     "Gabriele Dell'Otto"
   ],
-  "image": {
-    "height": "380",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Secret_Warriors_22_textless.jpg/250px-Secret_Warriors_22_textless.jpg",
-    "width": "250"
-  },
+  "description": "Daisy Johnson, also known as Quake, is a fictional character appearing in comic books published by Marvel Comics. Created by writer Brian Michael Bendis and artist Gabriele Dell'Otto, the character first appeared in Secret War #2 (July 2004). The daughter of the supervillain Mister Hyde, she is a secret agent of the intelligence organization S.H.I.E.L.D. with the power to generate earthquakes. In the television series Agents of S.H.I.E.L.D., Chloe Bennet portrays the Marvel Cinematic Universe version of the character.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Secret_Warriors_22_textless.jpg/250px-Secret_Warriors_22_textless.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Daisy Johnson",
-  "pageviews": 109488,
   "partners": [
   ],
   "powers": [
-    "Earthquake generation"
-  ],
-  "powersText": [
     "Earthquake generation",
     "Immunity to the harmful effects of the vibrations",
     "Psychic shielding"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 51762,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Daisy Louise Johnson"
+  ],
   "species": [
-    "Inhuman"
   ],
-  "teams": [
-    "Secret Warriors",
-    "S.H.I.E.L.D.",
-    "Avengers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Daisy_Johnson"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Daisy_Johnson"
+  }
 }

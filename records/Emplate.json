@@ -1,45 +1,48 @@
 {
-  "aliases": "M-Plate",
-  "creators": [
-    "Scott Lobdell",
-    "Chris Bachalo"
+  "aliases": [
   ],
-  "image": {
-  },
-  "marvel": {
-    "counts": {
-      "comics": 2,
-      "events": 1,
-      "series": 2,
-      "stories": 1
-    },
-    "description": "",
-    "id": 1009292,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bb3bcffb8325.jpg",
-    "url": "http://marvel.com/universe/Emplate"
-  },
+  "alliances": [
+    "Hellions"
+  ],
+  "authors": [
+    "Chris Bachalo",
+    "Scott Lobdell"
+  ],
+  "description": "Emplate (Marius St. Croix) is a fictional character, a mutant supervillain appearing in the Marvel Comics universe. He first appeared in Generation X #1, and was created by Scott Lobdell and Chris Bachalo. Emplate would serve as one of the major antagonists to the Generation X comic book series during its run.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bb3bcffb8325/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Emplate",
-  "pageviews": 1835,
   "partners": [
+    "D.O.A.",
     "Chimera"
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Interdimensional travel",
     "Invisibility",
+    "Interdimensional travel",
     "Density control",
-    "Fanged mouths in the palms of hands",
-    "Ability to see and \"read\" mutant auras",
+    "Able to transform others into beings like himself through vampire-like infection",
     "Ability to temporarily duplicate a mutant's abilities once he has sampled their marrow",
-    "Able to transform others into beings like himself through vampire-like infection"
+    "Fanged mouths in the palms of hands",
+    "Ability to see",
+    "\"read\" mutant auras"
   ],
-  "realName": "Marius St. Croix",
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 1,
+    "pageviewCount": 1359,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Marius St. Croix"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Hellions"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Emplate"
+  "urls": {
+    "marvel": "http://marvel.com/characters/615/emplate",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emplate"
+  }
 }

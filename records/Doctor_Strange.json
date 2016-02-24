@@ -1,48 +1,44 @@
 {
-  "aliases": "Stephen Sanders, Vincent Stevens",
-  "creators": [
-    "Stan Lee",
+  "aliases": [
+  ],
+  "alliances": [
+    "The New Avengers",
+    "Midnight Sons",
+    "Defenders",
+    "Illuminati",
+    "The Order"
+  ],
+  "authors": [
     "Steve Ditko"
   ],
-  "image": {
-    "height": "383",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg/250px-Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 412,
-      "events": 12,
-      "series": 123,
-      "stories": 562
-    },
-    "description": "",
-    "id": 1009282,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5261a85a501fe.jpg",
-    "url": "http://marvel.com/universe/Doctor_Strange_(Stephen_Strange)"
-  },
+  "description": "Doctor Stephen Vincent Strange, best known under his alias Doctor Strange, is a superhero that appears in comic books published by Marvel Comics. A former neurosurgeon, Strange serves as the Sorcerer Supreme, the primary protector of Earth against magical and mystical threats. Debuting in the Silver Age of comics, the character has been featured in several eponymous comics series and licensed derivative media including video games, an animated television show, films, and merchandise such as trading cards and figurines. A Marvel Studios live-action film adaptation, starring Benedict Cumberbatch in the titular role, is set for a 2016 theatrical release.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5261a85a501fe/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Doctor Strange",
-  "pageviews": 221089,
   "partners": [
   ],
   "powers": [
-    "magic",
-    "medical science"
-  ],
-  "powersText": [
     "Mastery of magic",
     "Genius-level intellect",
-    "Trained in medical science"
+    "Trained martial artist",
+    "Skilled neurosurgeon"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 417,
+    "eventCount": 13,
+    "pageviewCount": 263686,
+    "pageviewRank": -1,
+    "serieCount": 125,
+    "storyCount": 567
+  },
+  "secretIdentities": [
+    "Stephen Vincent Strange"
+  ],
   "species": [
   ],
-  "teams": [
-    "New Avengers",
-    "Illuminati",
-    "Defenders",
-    "The Order",
-    "Midnight Sons"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Doctor_Strange"
+  "urls": {
+    "marvel": "http://marvel.com/characters/14/dr_strange",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Strange"
+  }
 }

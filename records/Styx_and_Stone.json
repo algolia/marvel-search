@@ -1,28 +1,37 @@
 {
-  "aliases": "",
-  "creators": [
-    "David Michelinie",
-    "Todd McFarlane"
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Todd McFarlane",
+    "David Michelinie"
+  ],
+  "description": "Styx and Stone (Jacob Eishorn and Gerald Stone) are two fictional comic book characters in the Marvel Comics universe.  They are a criminal duo that have crossed Spider-Man's path on a number of occasions. They were created by David Michelinie and Todd McFarlane and first appeared in The Amazing Spider-Man #309. They reappeared in issues #332-333 and #376-377 of the same series.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Styx and Stone",
-  "pageviews": 1608,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "(Styx):",
     "Lethal touch",
-    "Claw-like hands that disintegrate all organic material within seconds",
-    "(Stone):",
-    "Wears two large weapons on his shoulders"
+    "his clawlike hands disintegrate all organic material within seconds"
   ],
-  "realName": "Jacob Eishorn (Styx) and Gerald Stone",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1218,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jacob Eishorn ",
+    "Gerald Stone"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Styx_and_Stone"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Styx_and_Stone"
+  }
 }

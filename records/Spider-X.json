@@ -1,23 +1,46 @@
 {
-  "aliases": "",
-  "creators": [
-    "Stan Lee",
-    "Steve Ditko"
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "John Czop",
+    "Vincent Giarrano",
+    "Ken Meyer Jr",
+    "Javier Saltares",
+    "Mort Todd"
+  ],
+  "description": "Spider-X (Brian Kornfield) is a fictional character and supervillain in the Marvel Universe. He first appeared in Midnight Sons Unlimited #3 (October 1993).As Spider-X was seen by many wearing Spider-Man's costume, he is initially believed to be Spider-Man himself, mutated by the Darkhold, until Mrs. Kornfield learned the truth and explained it to them.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Spider-X",
-  "pageviews": 729,
   "partners": [
   ],
   "powers": [
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "durability",
+    "Black Magic",
+    "Unlimited adhesive \"webbing\"",
+    "Accelerated healing factor",
+    "Bursts of destructive energy from his mouth.",
+    "Wall crawling"
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 504,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Brian Kornfield"
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Spider-X"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Spider-X"
+  }
 }

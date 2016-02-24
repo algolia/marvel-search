@@ -1,29 +1,37 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Jack Kirby"
   ],
-  "image": {
-    "height": "374",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/LivingColossus.jpg/249px-LivingColossus.jpg",
-    "width": "249"
-  },
+  "description": "It! The Living Colossus (Robert \"Bob\" O'Bryan) is a fictional character in comic-book published by Marvel Comics. Initially a statue animated by a hostile extraterrestrial, he first appeared in the science-fiction anthology series Tales of Suspense #14 (Feb. 1961), in a story drawn by Jack Kirby (writer unknown). He was revived in Astonishing Tales #21 (Dec. 1973) by writer Tony Isabella and artist Dick Ayers as the protagonist of a short-lived feature, in which he was animated by a wheelchair-using special-effects designer.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/LivingColossus.jpg/249px-LivingColossus.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "It! The Living Colossus",
-  "pageviews": 1129,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Superhuman strength",
-    "stamina and durability",
-    "Flight via gravity manipulation",
-    "Ability to command intelligence which was forced back into its original body and survive underwater without air"
+    "Flight",
+    "Ability to command intelligence which was forced back into its original body"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 675,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Robert \"Bob\" O'Bryan"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/It!_The_Living_Colossus"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/It!_The_Living_Colossus"
+  }
 }

@@ -1,29 +1,40 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Big Hero 6"
+  ],
+  "authors": [
     "Chris Claremont",
     "David Nakayama"
   ],
-  "image": {
-    "height": "252",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Wasabi-No-Ginger_%28Marvel_Comics%29.jpg/250px-Wasabi-No-Ginger_%28Marvel_Comics%29.jpg",
-    "width": "250"
-  },
+  "description": "Wasabi-No-Ginger is a fictional comic book superhero appearing in books published by Marvel Comics. Created by writer Chris Claremont and artist David Nakayama, he first appeared in Big Hero 6 #1 (September 2008), a book about a titular superhero team in which Wasabi is a member.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Wasabi-No-Ginger_%28Marvel_Comics%29.jpg/250px-Wasabi-No-Ginger_%28Marvel_Comics%29.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Wasabi-No-Ginger",
-  "pageviews": 6689,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Skilled marksman and swordsman",
     "Use of swords",
-    "Ability to generate qi-energy blades"
+    "Ability to generate qi-energy blades",
+    "Skilled marksman",
+    "swordsman"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5081,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
+    "Human"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Wasabi-No-Ginger"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wasabi-No-Ginger"
+  }
 }

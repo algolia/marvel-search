@@ -1,0 +1,41 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "The Arena",
+    "Morlocks",
+    "Brotherhood of Mutants"
+  ],
+  "authors": [
+    "Paul Smith",
+    "Chris Claremont"
+  ],
+  "description": "Masque is a fictional character in the Marvel Comics universe. Masque was originally a prominent member of the sewer-dwelling community of mutant outcasts called the Morlocks, led by Callisto.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Masquewiki.jpg/250px-Masquewiki.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Masque",
+  "partners": [
+  ],
+  "powers": [
+    "Ability to alter the flesh",
+    "organs of living creatures"
+  ],
+  "ranking": {
+    "comicCount": 30,
+    "eventCount": 3,
+    "pageviewCount": 1404,
+    "pageviewRank": -1,
+    "serieCount": 11,
+    "storyCount": 29
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1386/masque",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masque_(comics)"
+  }
+}

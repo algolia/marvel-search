@@ -1,48 +1,45 @@
 {
-  "aliases": "Think Tank",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Resistants",
+    "Advanced Idea Mechanics",
+    "Hydra",
+    "S.H.I.E.L.D.",
+    "New Enforcers"
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "431",
-    "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/Mentallo.gif",
-    "width": "152"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 1,
-      "events": 0,
-      "series": 1,
-      "stories": 1
-    },
-    "description": "",
-    "id": 1011099,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c0030b9256c6.jpg",
-    "url": "http://marvel.com/universe/Mentallo"
-  },
+  "description": "Mentallo (Marvin Flumm) is a fictional comic book supervillain, a mutant who appears in books published by Marvel Comics.After having been fired for cause after attempting a covert S.H.I.E.L.D. takeover, he has since operated as both a freelance criminal and subversive and a high-ranking agent of HYDRA. He is usually depicted as using technology to increase his power.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c0030b9256c6/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Mentallo",
-  "pageviews": 2038,
   "partners": [
     "Fixer"
   ],
   "powers": [
-    "radar"
-  ],
-  "powersText": [
     "Telepathy",
     "mental probes that function as a radar-sense."
   ],
-  "realName": "Marvin Flumm",
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 1491,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Marvin Flumm"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "A.I.M.",
-    "S.H.I.E.L.D.",
-    "HYDRA",
-    "Resistants",
-    "New Enforcers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Mentallo"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1424/mentallo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mentallo"
+  }
 }

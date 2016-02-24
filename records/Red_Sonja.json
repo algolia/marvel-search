@@ -1,31 +1,39 @@
 {
-  "aliases": "Red Sonya of Rogatino",
-  "creators": [
-    "Robert E. Howard",
-    "Roy Thomas",
-    "Barry Windsor-Smith"
+  "aliases": [
   ],
-  "image": {
-    "height": "390",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Marvel_Feature_1_%281975%29.jpg/250px-Marvel_Feature_1_%281975%29.jpg",
-    "width": "250"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Robert E. Howard",
+    "Barry Windsor-Smith",
+    "Roy Thomas"
+  ],
+  "description": "Red Sonja, the She-Devil with a Sword, is a fictional character, a high fantasy sword and sorcery heroine created by Roy Thomas and Barry Windsor-Smith, and loosely based on Red Sonya of Rogatino in Robert E. Howard's 1934 short story \"The Shadow of the Vulture\". She first appeared in the Marvel Comics book Conan the Barbarian #23 (February 1973).Red Sonja became the archetypal fantasy figure of a fierce and beautiful female barbarian.  She was ranked first in Comics Buyer's Guide's \"100 Sexiest Women in Comics\" list.At the 2013 Emerald City Comic Con, Dynamite announced that Gail Simone would be writing a new ongoing Red Sonja series. Simone noted in further interviews that her version is slightly \"rebooted,\" showing the character's beginnings. Issue #1 of Simone's run was released in July 2013, and reviews were positive. As of February 2014, the series had run seven issues, with the first six collected in a trade paperback.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Marvel_Feature_1_%281975%29.jpg/250px-Marvel_Feature_1_%281975%29.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Red Sonja",
-  "pageviews": 20765,
   "partners": [
   ],
   "powers": [
-    "martial arts"
-  ],
-  "powersText": [
     "A sword-master in peak human physical condition",
     "martial arts expert",
-    "as well as knowledge and experience of fighting the supernatural."
+    "as well as knowledge",
+    "experience of fighting the supernatural."
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 15062,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Red_Sonja"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_Sonja"
+  }
 }

@@ -1,31 +1,40 @@
 {
-  "aliases": "John Lennon",
-  "creators": [
-    "Paul Cornell",
-    "Trevor Hairsine"
+  "aliases": [
   ],
-  "image": {
-    "height": "308",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Johnskrull.jpg/150px-Johnskrull.jpg",
-    "width": "150"
-  },
+  "alliances": [
+    "Skrull",
+    "MI-13"
+  ],
+  "authors": [
+    "Trevor Hairsine",
+    "Paul Cornell"
+  ],
+  "description": "John the Skrull is a fictional character, a superhero published by Marvel Comics.  He first appears in Wisdom #1 (November 2006), and was created by Paul Cornell and Trevor Hairsine. As a Skrull, he normally takes the shape of John Lennon.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Johnskrull.jpg/150px-Johnskrull.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "John the Skrull",
-  "pageviews": 729,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Shapeshifting",
     "Flight via wings"
   ],
-  "realName": "",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 547,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "unknown"
+  ],
   "species": [
     "Skrull"
   ],
-  "teams": [
-    "Skrull Empire",
-    "MI-13"
-  ],
-  "url": "https://en.wikipedia.org/wiki/John_the_Skrull"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_the_Skrull"
+  }
 }

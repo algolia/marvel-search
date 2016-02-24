@@ -1,51 +1,50 @@
 {
-  "aliases": "Jean-Phillipe, Weapon XIII",
-  "creators": [
-    "Grant Morrison",
-    "Igor Kordey"
+  "aliases": [
   ],
-  "image": {
-    "height": "384",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Xmen143.jpg/250px-Xmen143.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 20,
-      "events": 1,
-      "series": 5,
-      "stories": 19
-    },
-    "description": "",
-    "id": 1009301,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/535ff35da5ccd.jpg",
-    "url": "http://marvel.com/universe/Fantomex"
-  },
+  "alliances": [
+    "Super-Sentinels",
+    "Weapon Plus",
+    "X-Force",
+    "X-Men"
+  ],
+  "authors": [
+    "Igor Kordey",
+    "Grant Morrison"
+  ],
+  "description": "Fantomex is a fictional superhero associated with the X-Men in titles published by Marvel Comics. Fantomex first appeared in New X-Men #128 (August, 2002) and was created by Grant Morrison and Igor Kordey. Initially introduced as a character similar to Fantômas and Diabolik, he is later revealed to be an escaped experiment from the Weapon Plus Program.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/535ff35da5ccd/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Fantomex",
-  "pageviews": 15516,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Illusion casting",
-    "Possesses multiple brains",
-    "nano-active blood",
     "skilled marksman",
     "acrobat",
-    "and hand-to-hand combatant",
+    "hand-to-hand combatant",
+    "Possesses multiple brains",
+    "auto-hypnosis",
     "able to read body language",
-    "auto-hypnosis"
+    "nano-active blood",
+    "Illusion casting"
   ],
-  "realName": "Charlie-Cluster 7",
+  "ranking": {
+    "comicCount": 20,
+    "eventCount": 1,
+    "pageviewCount": 14063,
+    "pageviewRank": -1,
+    "serieCount": 5,
+    "storyCount": 19
+  },
+  "secretIdentities": [
+    "Charlie-Cluster 7"
+  ],
   "species": [
-    "Human Mutant"
+    "Human Mutant",
+    "Sentinel hybrid"
   ],
-  "teams": [
-    "X-Force",
-    "X-Men",
-    "Weapon Plus Program",
-    "Super-Sentinels"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Fantomex"
+  "urls": {
+    "marvel": "http://marvel.com/characters/669/fantomex",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fantomex"
+  }
 }

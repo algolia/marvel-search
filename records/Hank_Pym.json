@@ -1,49 +1,57 @@
 {
-  "aliases": "Ant-Man Giant-Man Goliath Yellowjacket Wasp , Scientist Supreme, Ultron",
-  "creators": [
-    "Stan Lee",
-    "Larry Lieber",
-    "Jack Kirby"
+  "aliases": [
+    "Ant-Man",
+    "Giant-Man",
+    "Goliath",
+    "Yellowjacket",
+    "Wasp"
   ],
-  "image": {
-    "height": "385",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Hank_pym_1.jpg/250px-Hank_pym_1.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 231,
-      "events": 8,
-      "series": 84,
-      "stories": 301
-    },
-    "description": " ",
-    "id": 1011490,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5205305343bfd.jpg",
-    "url": "http://marvel.com/universe/Wasp_(Henry_Pym)"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Stan Lee",
+    "Jack Kirby",
+    "Larry Lieber"
+  ],
+  "description": "Dr. Henry Jonathan \"Hank\" Pym is a fictional character,  a superhero that appears in comic books published by Marvel Comics. Created by editor and plotter Stan Lee, scripter Larry Lieber and penciler Jack Kirby, the character first appeared in Tales to Astonish #27 (Jan. 1962). Pym's character, a scientist that debuted in a standalone science-fiction anthology story, returned several issues later as the superhero Ant-Man, with the power to shrink to the size of an insect. Pym is eventually given a crime-fighting partner and later wife, Janet van Dyne (Wasp) and goes on to assume other superhero identities, including the size-changing Giant-Man and Goliath; the insect-themed Yellowjacket; and briefly the Wasp.Debuting in the Silver Age of Comic Books, the character of Henry Pym has featured in other Marvel-endorsed products such as animated films; arcade and video games; television series and merchandise such as action figures and trading cards. Pym is a founding member of the superhero team the Avengers. Michael Douglas is scheduled to portray Pym in the upcoming 2015 Marvel Studios film, Ant-Man.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5205305343bfd/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Hank Pym",
-  "pageviews": 108936,
   "partners": [
-    "Wasp (Janet van Dyne)"
+    "Wasp"
   ],
   "powers": [
+    "Genius-level intellect",
+    "Size-shifting from nearly microscopic to ~100 feet gigantic",
+    "Ability to transfer his size-shifting ability to other beings",
+    "objects",
+    "Bio-Energy Projection",
+    "also known as a Bio-Sting",
+    "Flight using grafted wings during his period as Yellowjacket",
+    "Telepathic communication with ants using a cybernetic helmet as Ant-Man",
+    "Superhuman strength",
+    "stamina",
+    "mass in giant form as Giant-Man",
+    "Goliath",
+    "Yellowjacket"
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 231,
+    "eventCount": 8,
+    "pageviewCount": 75851,
+    "pageviewRank": -1,
+    "serieCount": 84,
+    "storyCount": 301
+  },
+  "secretIdentities": [
+    "Henry Jonathan \"Hank\" Pym"
   ],
-  "realName": null,
   "species": [
+    "Human Mutate"
   ],
-  "teams": [
-    "Avengers",
-    "West Coast Avengers",
-    "Mighty Avengers",
-    "Secret Defenders",
-    "Defenders",
-    "Avengers Academy",
-    "Secret Avengers",
-    "Avengers A.I.",
-    "Illuminati"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Hank_Pym"
+  "urls": {
+    "marvel": "http://marvel.com/characters/21/hank_pym",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hank_Pym"
+  }
 }

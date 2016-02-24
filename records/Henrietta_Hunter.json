@@ -1,28 +1,39 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "X-Statix"
+  ],
+  "authors": [
     "Peter Milligan",
     "Mike Allred"
   ],
-  "image": {
-  },
+  "description": "Henrietta Hunter is a fictional character in the X-Statix series. She is a mutant with superhuman powers.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Henrietta Hunter",
-  "pageviews": 793,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Empathy",
     "enhanced physical abilities",
     "can communicate with ghosts."
   ],
-  "realName": "Henrietta Hunter",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 590,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Henrietta Hunter"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "X-Statix"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Henrietta_Hunter"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Henrietta_Hunter"
+  }
 }

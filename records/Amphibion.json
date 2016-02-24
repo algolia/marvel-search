@@ -1,29 +1,39 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "318",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Amphibion.jpg/250px-Amphibion.jpg",
-    "width": "250"
-  },
+  "description": "Amphibion (Qnax) is a fictional character, and a rival of the Hulk in the Marvel Comics universe. Amphibion was first introduced on November 1965, in Tales to Astonish #73 created by Stan Lee and Jack Kirby for Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Amphibion.jpg/250px-Amphibion.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Amphibion",
-  "pageviews": 991,
   "partners": [
   ],
   "powers": [
+    "Super strength",
+    "Invulnerability",
+    "Underwater breathing",
+    "Expert fighter"
   ],
-  "powersText": [
-    "Superhuman strength",
-    "Ability to breathe underwater and on the surface"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 728,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Qnax"
   ],
-  "realName": "Qnax",
   "species": [
-    "Xantarean"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Amphibion"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Amphibion"
+  }
 }

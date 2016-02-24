@@ -1,24 +1,36 @@
 {
-  "aliases": "",
-  "creators": [
-    "Tom DeFalco",
-    "Steve Ditko"
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+    "Satan Squad"
+  ],
+  "authors": [
+    "Steve Ditko",
+    "Tom DeFalco"
+  ],
+  "description": "Baron Brimstone is a fictional supervillain in Marvel Comics.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Baron Brimstone",
-  "pageviews": 329,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Magic user"
   ],
-  "realName": "Baron Walther Theodoric",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 263,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Baron Walther Theodoric"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Baron_Brimstone"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Baron_Brimstone"
+  }
 }

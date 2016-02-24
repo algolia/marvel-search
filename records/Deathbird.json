@@ -1,47 +1,45 @@
 {
-  "aliases": "War",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Starforce",
+    "Horsemen of Apocalypse",
+    "Shi'ar",
+    "Brood"
+  ],
+  "authors": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "image": {
-    "height": "319",
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/Xdeathbirdlee.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 26,
-      "events": 2,
-      "series": 9,
-      "stories": 30
-    },
-    "description": "",
-    "id": 1009270,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c004041be770.jpg",
-    "url": "http://marvel.com/universe/Deathbird"
-  },
+  "description": "Deathbird (Cal'syee Neramani-Summers) is a fictional character. She is a Marvel Comics supervillainess, an adversary of the X-Men.Deathbird is part of a segment of the extraterrestrial Shi'ar race that possesses talon-tipped wings. She is the hated sister of the Shi'ar empress Lilandra Neramani, the mother of the Shi'ar warrior, Deathcry, and constantly seeks to usurp her sister's throne. She is also a sister of D'Ken, the first depicted ruler of the Shi'ar.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c004041be770/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": true,
   "name": "Deathbird",
-  "pageviews": 6211,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Natural wings",
     "Superhuman strength",
     "stamina",
-    "and sturdiness",
-    "Natural wings",
+    "sturdiness",
     "Razor-sharp talons"
   ],
-  "realName": "Cal'syee Neramani-Summers",
+  "ranking": {
+    "comicCount": 26,
+    "eventCount": 2,
+    "pageviewCount": 4961,
+    "pageviewRank": -1,
+    "serieCount": 9,
+    "storyCount": 30
+  },
+  "secretIdentities": [
+    "Cal'syee Neramani-Summers"
+  ],
   "species": [
   ],
-  "teams": [
-    "Shi'ar Imperium",
-    "The Brood",
-    "Horsemen of Apocalypse",
-    "Starforce"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Deathbird"
+  "urls": {
+    "marvel": "http://marvel.com/characters/525/deathbird",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deathbird"
+  }
 }

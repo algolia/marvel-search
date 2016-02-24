@@ -1,31 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
-    "Steven T. Seagle",
-    "Duncan Rouleau"
+  "aliases": [
   ],
-  "image": {
-    "height": "249",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/GoGo_Tomago_%28Marvel_Comics%29.jpg/250px-GoGo_Tomago_%28Marvel_Comics%29.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "Big Hero 6"
+  ],
+  "authors": [
+    "Duncan Rouleau",
+    "Steven T. Seagle"
+  ],
+  "description": "GoGo Tomago is a fictional character, a superhero in the Marvel Comics Universe. Her first appearance was in Sunfire & Big Hero 6 #1 and was created by Steven T. Seagle and Duncan Rouleau.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/GoGo_Tomago_%28Marvel_Comics%29.jpg/250px-GoGo_Tomago_%28Marvel_Comics%29.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "GoGo Tomago",
-  "pageviews": 13535,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Skilled motorcyclist",
-    "Accomplished racer and stunt driver",
-    "Armored suit grants:",
-    "Ability to transform body into explosive ball of energy"
+    "Ability to transform body into explosive ball of energy",
+    "Accomplished racer",
+    "stunt driver"
   ],
-  "realName": "Leiko Tanaka",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 9331,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Leiko Tanaka"
+  ],
   "species": [
+    "Human"
   ],
-  "teams": [
-    "Big Hero 6"
-  ],
-  "url": "https://en.wikipedia.org/wiki/GoGo_Tomago"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/GoGo_Tomago"
+  }
 }

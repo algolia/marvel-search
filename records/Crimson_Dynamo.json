@@ -1,45 +1,42 @@
 {
-  "aliases": "",
-  "creators": [
-    "Stan Lee",
-    "Don Heck"
+  "aliases": [
   ],
-  "image": {
-    "height": "309",
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/97/Crimson_Dynamo_Armor_MK_I.jpg",
-    "width": "244"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 29,
-      "events": 1,
-      "series": 20,
-      "stories": 30
-    },
-    "description": "",
-    "id": 1009251,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/526955e3c7c41.jpg",
-    "url": "http://marvel.com/universe/Crimson_Dynamo_(Anton_Vanko)"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Don Heck",
+    "Stan Lee"
+  ],
+  "description": "The Crimson Dynamo (Russian: Багровый Динамо, Bagrovyj Dinamo; also Красный Динамо (Krasný Dinamo) ) is the name of several fictional characters in the Marvel Comics Universe, most of whom have been supervillains. The character's original incarnation first appeared in Tales of Suspense #46 (Oct. 1963). The various Crimson Dynamos have been powered armor–wearing Russian or Soviet agents who have clashed with the superhero Iron Man over the course of his heroic career.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/526955e3c7c41/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Crimson Dynamo",
-  "pageviews": 15796,
   "partners": [
   ],
   "powers": [
+    "Varies with each version",
+    "but usually includes: resistance to damage",
+    "super-strength",
+    "electrical discharges",
+    "flight. The 8th version could also be piloted by remote control using only its helmet"
   ],
-  "powersText": [
-    "Armored suit grants:",
-    "Superhuman strength and durability",
-    "Flight via boot jets",
-    "Hand-blasters",
-    "Small missiles on the back shoulder area",
-    "Computer and radio transmitter and receiver"
+  "ranking": {
+    "comicCount": 29,
+    "eventCount": 1,
+    "pageviewCount": 11632,
+    "pageviewRank": -1,
+    "serieCount": 20,
+    "storyCount": 30
+  },
+  "secretIdentities": [
+    "Anton Vanko",
+    "Various"
   ],
-  "realName": "Anton Vanko",
   "species": [
-    "Human"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Crimson_Dynamo"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2697/crimson_dynamo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crimson_Dynamo"
+  }
 }

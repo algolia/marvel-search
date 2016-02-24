@@ -1,0 +1,50 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Defenders",
+    "Wild Pack"
+  ],
+  "authors": [
+    "John Buscema",
+    "Stan Lee"
+  ],
+  "description": "The Prowler is a fictional character, a superhero that appears in comics published by Marvel Comics. Created by writer-editor Stan Lee and John Buscema, Prowler made his first appearance in The Amazing Spider-Man #78. While several other characters have also taken up the character's identity, the first version developed a high-tech battle suit in order to start a life of crime until Spider-Man convinces him to turn his life around.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/50/4c003c8acc314/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Prowler",
+  "partners": [
+  ],
+  "powers": [
+    "Gliding via cape",
+    "Titanium-laced claws",
+    "Gauntlets capable of shooting compressed air blasts",
+    "sleeping pellets",
+    "other projectiles",
+    "Technological genius",
+    "Wall crawling",
+    "Use of hypnotic aids",
+    "conventional hand-held weapons",
+    "Skilled hand-to-hand combatant"
+  ],
+  "ranking": {
+    "comicCount": 15,
+    "eventCount": 1,
+    "pageviewCount": 3835,
+    "pageviewRank": -1,
+    "serieCount": 8,
+    "storyCount": 12
+  },
+  "secretIdentities": [
+    "Unnamed cat burglar",
+    "Rick Lawson",
+    "Hobie Brown"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1819/prowler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Prowler_(comics)"
+  }
+}

@@ -185,56 +185,6 @@ describe('HelperMarvel', () => {
     });
   });
 
-  describe('isSameName', () => {
-    it('should match if exactly the same name', () => {
-      // Given
-      let nameOne = 'Thor';
-      let nameTwo = 'Thor';
-
-      // When
-      let actual = Helper.isSameName(nameOne, nameTwo);
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-
-    it('should match if found outside of parenthesis', () => {
-      // Given
-      let nameOne = 'Beetle';
-      let nameTwo = 'Beetle (Abner Jenkins)';
-
-      // When
-      let actual = Helper.isSameName(nameOne, nameTwo);
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-
-    it('should match if found in parenthesis', () => {
-      // Given
-      let nameOne = 'Adrienne Frost';
-      let nameTwo = 'White Queen (Adrienne Frost)';
-
-      // When
-      let actual = Helper.isSameName(nameOne, nameTwo);
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-
-    it('should work by reversing the arguments', () => {
-      // Given
-      let nameOne = 'Adrienne Frost';
-      let nameTwo = 'White Queen (Adrienne Frost)';
-
-      // When
-      let actual = Helper.isSameName(nameTwo, nameOne);
-
-      // Then
-      expect(actual).toEqual(true);
-    });
-  });
-
   describe('pickDataForCharacter', () => {
     it('should pick the character that has the same name', () => {
       // Given

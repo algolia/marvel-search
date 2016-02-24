@@ -1,42 +1,42 @@
 {
-  "aliases": "Hiroim the Shamed, Hiroim the Last Oldstrong",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Warbound",
+    "Shadow Guard"
+  ],
+  "authors": [
     "Greg Pak",
     "Carlo Pagulayan"
   ],
-  "image": {
-    "height": "318",
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/e3/Hiroim_the_Shamed.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 1,
-      "events": 1,
-      "series": 1,
-      "stories": 1
-    },
-    "description": "",
-    "id": 1010703,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/528d341abd6d9.jpg",
-    "url": null
-  },
+  "description": "Hiroim is a fictional, comic-book character who appears in books published by Marvel Comics, usually as a supporting character in Hulk books. He first appeared in Incredible Hulk vol. 2, #92.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/528d341abd6d9/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Hiroim",
-  "pageviews": 2825,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Oldstrong power.",
     "Shadow Warrior martial techniques",
-    "and strategic skills."
+    "strategic skills."
   ],
-  "realName": "Hiroim the Oldstrong",
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 1,
+    "pageviewCount": 1798,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Hiroim the Oldstrong"
+  ],
   "species": [
+    "Shadow People"
   ],
-  "teams": [
-    "Warbound"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Hiroim"
+  "urls": {
+    "marvel": "http://marvel.com/characters/962/hiroim",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hiroim"
+  }
 }

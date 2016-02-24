@@ -1,48 +1,46 @@
 {
-  "aliases": "Magus",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby",
-    "Roy Thomas",
-    "Gil Kane"
+  "aliases": [
   ],
-  "image": {
-    "height": "387",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Warlock_9.jpg/250px-Warlock_9.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 104,
-      "events": 10,
-      "series": 46,
-      "stories": 124
-    },
-    "description": "Adam Warlock is an artificially created human who was born in a cocoon at a scientific complex called The Beehive.",
-    "id": 1010354,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/5202887448860.jpg",
-    "url": "http://marvel.com/universe/Warlock,_Adam"
-  },
+  "alliances": [
+    "Guardians of the Galaxy (2008 team)",
+    "Infinity Watch"
+  ],
+  "authors": [
+    "Gil Kane",
+    "Roy Thomas",
+    "Stan Lee",
+    "Jack Kirby"
+  ],
+  "description": "Adam Warlock is an artificially created human who was born in a cocoon at a scientific complex called The Beehive.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/5202887448860/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Adam Warlock",
-  "pageviews": 58152,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Energy manipulation",
     "Superhuman strength",
     "stamina",
     "agility",
     "endurance",
-    "flight",
-    "Energy manipulation"
+    "flight"
   ],
-  "realName": "originally Him; changed to Adam Warlock",
+  "ranking": {
+    "comicCount": 104,
+    "eventCount": 10,
+    "pageviewCount": 40844,
+    "pageviewRank": -1,
+    "serieCount": 46,
+    "storyCount": 124
+  },
+  "secretIdentities": [
+    "originally Him; changed to Adam Warlock"
+  ],
   "species": [
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "Infinity Watch"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Adam_Warlock"
+  "urls": {
+    "marvel": "http://marvel.com/comics/characters/1010354/adam_warlock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Warlock"
+  }
 }

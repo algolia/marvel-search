@@ -1,28 +1,37 @@
 {
-  "aliases": "Bird Boy",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "New Mutants"
+  ],
+  "authors": [
     "Louise Simonson",
     "June Brigman"
   ],
-  "image": {
-    "height": "404",
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/ad/BirdB.png",
-    "width": "184"
-  },
+  "description": "Bird-Brain is a fictional character, a superhero from Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/BirdB.png",
+  "isHero": false,
+  "isVillain": false,
   "name": "Bird-Brain",
-  "pageviews": 1292,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Flight"
   ],
-  "realName": "Bird-Brain",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 940,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Bird-Brain"
+  ],
   "species": [
   ],
-  "teams": [
-    "New Mutants"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Bird-Brain"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bird-Brain"
+  }
 }

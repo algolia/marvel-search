@@ -1,34 +1,44 @@
 {
-  "aliases": "Guiseppi Manfredi, Joe Silvermane",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Maggia",
+    "Hydra",
+    "Masters of Evil",
+    "Skeleton Crew",
+    "Heavy Mettle",
+    "Circus of Crime"
+  ],
+  "authors": [
     "Gerry Conway",
     "Don Heck"
   ],
-  "image": {
-  },
+  "description": "Blackwing is the name of two fictional Marvel Comics supervillains and one hero.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Blackwing",
-  "pageviews": 5126,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Short distanced flight via directed motion hovering",
     "Expert bat trainer",
-    "Skilled marksman",
     "Specially mutated bats",
-    "Wears costume made of synthetic stretch fabric over chain mail body armor that grants:",
-    "Short distanced flight via directed motion hovering"
+    "Skilled marksman"
   ],
-  "realName": "Joseph Manfredi",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5337,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Joseph Manfredi"
+  ],
   "species": [
   ],
-  "teams": [
-    "Masters of Evil",
-    "Skeleton Crew",
-    "HYDRA",
-    "Circus of Crime",
-    "Maggia",
-    "Heavy Mettle"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Blackwing"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Blackwing"
+  }
 }

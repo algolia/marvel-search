@@ -1,29 +1,39 @@
 {
-  "aliases": "Lieutenant, Caiera the Oldstrong",
-  "creators": [
-    "Greg Pak",
-    "Carlo Pagulayan"
+  "aliases": [
   ],
-  "image": {
-    "height": "432",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Caiera.PNG/200px-Caiera.PNG",
-    "width": "200"
-  },
+  "alliances": [
+    "Shadow Guard",
+    "Warbound"
+  ],
+  "authors": [
+    "Carlo Pagulayan",
+    "Greg Pak"
+  ],
+  "description": "Caiera is a fictional character in the Marvel Comics Universe, introduced during the \"Planet Hulk\" storyline. She first appeared in Incredible Hulk vol. 2 #92 (April 2006), and was created by Greg Pak and Carlo Pagulayan.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Caiera.PNG/200px-Caiera.PNG",
+  "isHero": false,
+  "isVillain": false,
   "name": "Caiera",
-  "pageviews": 10197,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Superhuman strength",
+    "superhuman strength",
     "limited invulnerability"
   ],
-  "realName": "Caiera",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 6460,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Caiera"
+  ],
   "species": [
   ],
-  "teams": [
-    "Warbound"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Caiera"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Caiera"
+  }
 }

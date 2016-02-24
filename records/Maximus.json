@@ -1,0 +1,40 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Cabal"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Jack Kirby"
+  ],
+  "description": "Maximus is a fictional character, a schizophrenic and genius appearing in comic books published by Marvel Comics.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/52740f7c6f0b7/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Maximus",
+  "partners": [
+  ],
+  "powers": [
+    "Genius-level intellect",
+    "Mind control"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 10396,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Maximus Boltagon"
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1407/maximus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maximus_(comics)"
+  }
+}

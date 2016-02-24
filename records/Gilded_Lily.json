@@ -1,23 +1,34 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "John Byrne"
   ],
-  "image": {
-  },
+  "description": "Gilded Lily (Lillian von Loont) is a fictional supervillain featured in the Marvel Comics series Alpha Flight.Disambiguate: silent film of 1921 starring Mae Murray; \"1935 film starring Claudette Colbert\" ; also, a Shakespearean phrase, from \"To gild refined gold, to paint the lily/To throw perfume on a violet\" (Salisbury: Act 4, Scene 2 of \"King John\").",
+  "isHero": false,
+  "isVillain": false,
   "name": "Gilded Lily",
-  "pageviews": 939,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Wide array of alchemical weaponry. Immortality."
   ],
-  "realName": "Lillian von Loont",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 625,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lillian von Loont"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Gilded_Lily"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilded_Lily"
+  }
 }

@@ -1,28 +1,38 @@
 {
-  "aliases": "Michael Wyatt",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Night Shift",
+    "Thunderbolts",
+    "Committee"
+  ],
+  "authors": [
     "Tom Sutton"
   ],
-  "image": {
-  },
+  "description": "The Tatterdemalion King is also another name for Hastur.Tatterdemalion is a fictional character and supervillain in the Marvel Comics universe, who wore gloves either coated with or secreting a chemical agent which dissolved any material composed of paper, such as dollar bills.  His appearance (and, indeed, his name, which roughly means \"ragged tramp\") suggested that he was homeless, and he was apparently insane, which presumably explains why he would want to destroy currency.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Tatterdemalion",
-  "pageviews": 1068,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Peak physical condition",
-    "''Costume'':",
     "Special coating makes difficult to hold"
   ],
-  "realName": "Arnold Paffenroth",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 703,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Arnold Paffenroth"
+  ],
   "species": [
   ],
-  "teams": [
-    "Thunderbolts",
-    "Night Shift",
-    "Committee"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Tatterdemalion"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tatterdemalion"
+  }
 }

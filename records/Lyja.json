@@ -1,47 +1,47 @@
 {
-  "aliases": "Alicia Masters Storm , The Lazerfist, Bridget O'Neil, Laura Green",
-  "creators": [
-    "Tom DeFalco",
-    "Paul Ryan"
+  "aliases": [
   ],
-  "image": {
-    "height": "375",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Secret_Invasion_Fantastic_Four_2.jpg/250px-Secret_Invasion_Fantastic_Four_2.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 3,
-      "events": 0,
-      "series": 3,
-      "stories": 2
-    },
-    "description": "",
-    "id": 1010896,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c003594c52e8.jpg",
-    "url": "http://marvel.com/universe/Lyja"
-  },
+  "alliances": [
+    "Skrull",
+    "Fantastic Four"
+  ],
+  "authors": [
+    "Tom DeFalco",
+    "Paul Ryan (cartoonist)"
+  ],
+  "description": "Lyja is a fictional character in the Marvel Comics universe. As a Skrull, she possesses the ability to shapeshift into almost any humanoid or animal form. Modifications on her body gave her the power to generate energy blasts.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c003594c52e8/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Lyja",
-  "pageviews": 3870,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Trained actress and armed/unarmed combatant",
-    "Talented creator of abstract sculptures",
     "Shapeshifting",
+    "Heat",
+    "flame resistance",
+    "Flight via dragon-like wings",
+    "Talented creator of abstract sculptures",
     "Energy blasts",
-    "Heat and flame resistance",
-    "Flight via dragon-like wings"
+    "Trained actress",
+    "armed/unarmed combatant"
   ],
-  "realName": "Lyja",
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 0,
+    "pageviewCount": 2597,
+    "pageviewRank": -1,
+    "serieCount": 3,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+    "Lyja"
+  ],
   "species": [
     "Skrull"
   ],
-  "teams": [
-    "Fantastic Four",
-    "Skrull Empire"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Lyja"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1293/lyja",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lyja"
+  }
 }

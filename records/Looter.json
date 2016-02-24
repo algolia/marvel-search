@@ -1,0 +1,43 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Defenders"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "The Looter is a fictional character, a supervillain who appears in the Spider-Man comic books published by Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Looter.jpg/250px-Looter.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Looter",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength",
+    "agility",
+    "Use of gadgets",
+    "weapons",
+    "High degree of durability",
+    "Extraordinary leaping ability"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 665,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Norton G. Fester"
+  ],
+  "species": [
+    "Mutated human"
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Looter_(comics)"
+  }
+}

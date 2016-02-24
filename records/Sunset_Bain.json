@@ -1,41 +1,39 @@
 {
-  "aliases": "Madame Menace",
-  "creators": [
-    "Tom DeFalco",
-    "Steve Ditko"
+  "aliases": [
   ],
-  "image": {
-    "height": "315",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/SunsetBain.jpg/250px-SunsetBain.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 5,
-      "events": 0,
-      "series": 1,
-      "stories": 5
-    },
-    "description": "",
-    "id": 1009637,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4c003ab9ed7d6.jpg",
-    "url": "http://marvel.com/universe/Bain,_Sunset"
-  },
+  "alliances": [
+    "New Enforcers"
+  ],
+  "authors": [
+    "Steve Ditko",
+    "Tom DeFalco"
+  ],
+  "description": "Sunset Bain is a fictional villainess in the Marvel Comics universe. She is a shady business-woman who occasionally masquerades as Madame Menace. Although very technologically adept, she personally does not have any super-powers. Publicly she is the CEO of Baintronics.  Privately she maintains her wealth through black market weaponry deals and other shady practices.  She primarily is an adversary of Machine Man and Iron Man.Sunset Bain is an underworld armorer who supplies sophisticated weaponry to an elite clientele of master criminals, terrorists, and revolutionaries.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4c003ab9ed7d6/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Sunset Bain",
-  "pageviews": 953,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Genius intellect",
     "Skilled inventor"
   ],
-  "realName": "Sunset Bain",
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 649,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "Sunset Bain"
+  ],
   "species": [
   ],
-  "teams": [
-    "New Enforcers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Sunset_Bain"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1312/sunset_bain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunset_Bain"
+  }
 }

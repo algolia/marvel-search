@@ -1,23 +1,34 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Jack Kirby"
   ],
-  "image": {
-  },
+  "description": "Kiber the Cruel is a fictional supervillain published by Marvel Comics. He first appeared in Black Panther #11 (September 1978), and was created by Jack Kirby.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Kiber the Cruel",
-  "pageviews": 712,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Able to consume psionic consciousness/life-energy"
   ],
-  "realName": "",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 549,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Frederick Kiber"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Kiber_the_Cruel"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kiber_the_Cruel"
+  }
 }

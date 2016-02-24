@@ -1,33 +1,22 @@
 {
-  "aliases": "Legacy, Captain Marvel Photon",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Kree",
+    "Thunderbolts"
+  ],
+  "authors": [
     "Ron Marz",
     "Ron Lim"
   ],
-  "image": {
-    "height": "371",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Capitanmarvel3.png/250px-Capitanmarvel3.png",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1011096,
-    "image": null,
-    "url": "http://marvel.com/universe/Photon_(Genis-Vell)"
-  },
+  "description": "Genis-Vell, also known as Legacy, Captain Marvel, and Photon, is a fictional superhero (and sometime antihero) in the Marvel Comics universe. He is depicted as the son of Mar-Vell of the extraterrestrial Kree Empire, who was the first character to be known as Captain Marvel in the Marvel Universe. Genis-Vell would become the third to carry the name.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Capitanmarvel3.png/250px-Capitanmarvel3.png",
+  "isHero": true,
+  "isVillain": false,
   "name": "Genis-Vell",
-  "pageviews": 8035,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Flight",
     "Super strength",
     "speed",
@@ -35,17 +24,26 @@
     "durability",
     "Energy blasts",
     "absorption",
-    "and manipulation",
+    "manipulation",
     "Dimension transportation",
     "Cosmic awareness granting omniversal level telepathy",
     "Wields Nega-Bands."
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5429,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Genis-Vell"
+  ],
   "species": [
   ],
-  "teams": [
-    "Kree Space Navy",
-    "Thunderbolts"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Genis-Vell"
+  "urls": {
+    "marvel": "http://marvel.com/characters/784/genis-vell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Genis-Vell"
+  }
 }

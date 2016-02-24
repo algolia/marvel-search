@@ -1,0 +1,40 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Redeemers",
+    "Menagerie"
+  ],
+  "authors": [
+    "Tim Townsend",
+    "Chris Bachalo",
+    "Brian Reed"
+  ],
+  "description": "Hippo is the name of a Marvel Comics supervillain.",
+  "isHero": false,
+  "isVillain": true,
+  "name": "Hippo",
+  "partners": [
+  ],
+  "powers": [
+    "Water adaptation",
+    "Hard hide",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 543,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Uplifted Hippopotamus"
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hippo_(comics)"
+  }
+}

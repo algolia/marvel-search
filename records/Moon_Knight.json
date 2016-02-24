@@ -1,52 +1,53 @@
 {
-  "aliases": "Steven Grant, Jake Lockley, The Fist of Khonshu, Yitzak Topol, Mr. Knight",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Marvel Knights",
+    "Heroes for Hire",
+    "Avengers",
+    "Secret Avengers",
+    "Defenders",
+    "West Coast Avengers"
+  ],
+  "authors": [
     "Doug Moench",
     "Don Perlin"
   ],
-  "image": {
-    "height": "375",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Moon_Knight_1cover.jpg/250px-Moon_Knight_1cover.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 110,
-      "events": 3,
-      "series": 38,
-      "stories": 128
-    },
-    "description": "",
-    "id": 1009452,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/52028af90e516.jpg",
-    "url": "http://marvel.com/universe/Moon_Knight_(Marc_Spector)"
-  },
+  "description": "Moon Knight is a fictional character, a superhero who appears in comic books published by Marvel Comics. The character exists in the Marvel Universe and was created by Doug Moench and Don Perlin. He first appeared in Werewolf by Night #32 (August 1975).",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/52028af90e516/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Moon Knight",
-  "pageviews": 65091,
   "partners": [
   ],
   "powers": [
-    "Increased strength",
-    "endurance",
-    "agility"
+    "Possesses both traditional",
+    "sophisticated weaponry",
+    "Master at martial arts",
+    "hand-to-hand combatant",
+    "Skilled acrobat",
+    "gymnast",
+    "detective",
+    "Resistance to some psychic assaults",
+    "Superb athlete",
+    "Expert aviator",
+    "marksman"
   ],
-  "powersText": [
-    "Expert detective",
-    "Proficient in martial arts and armed combat",
-    "Increased strengthendurance",
-    "and agility depending on the lunar cycle"
+  "ranking": {
+    "comicCount": 110,
+    "eventCount": 3,
+    "pageviewCount": 36510,
+    "pageviewRank": -1,
+    "serieCount": 37,
+    "storyCount": 129
+  },
+  "secretIdentities": [
+    "Marc Spector"
   ],
-  "realName": "Marc Spector",
   "species": [
   ],
-  "teams": [
-    "Secret Avengers",
-    "Avengers",
-    "West Coast Avengers",
-    "Defenders",
-    "Marvel Knights",
-    "Heroes for Hire",
-    "United States Marine Corps"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Moon_Knight"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2851/moon_knight",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moon_Knight"
+  }
 }

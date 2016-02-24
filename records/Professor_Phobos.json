@@ -1,27 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Soviet Super-Soldiers"
+  ],
+  "authors": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "image": {
-  },
+  "description": "Professor Phobos is a fictional character in the Marvel Universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Professor Phobos",
-  "pageviews": 433,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "telepathy",
     "telekinesis"
   ],
-  "realName": "Piotr Phobos",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 299,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Piotr Phobos"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Soviet Super-Soldiers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Professor_Phobos"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Professor_Phobos"
+  }
 }

@@ -1,28 +1,39 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Bill Sienkiewicz",
     "Chris Claremont"
   ],
-  "image": {
-  },
+  "description": "The Demon Bear is a fictional villain featured in the comic book series The New Mutants and X-Force, both published by Marvel Comics.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Demon Bear",
-  "pageviews": 939,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Draws power from negative human emotion",
     "teleportation",
     "immense strength",
     "transformation",
     "corruption of human souls"
   ],
-  "realName": "Demon Bear",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 653,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Demon Bear"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Demon_Bear"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Demon_Bear"
+  }
 }

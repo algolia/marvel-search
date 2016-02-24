@@ -1,49 +1,43 @@
 {
-  "aliases": "Kid Omega",
-  "creators": [
-    "Grant Morrison",
-    "Frank Quitely"
+  "aliases": [
   ],
-  "image": {
-    "height": "421",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/QuentinQuire.jpg/150px-QuentinQuire.jpg",
-    "width": "150"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1009387,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c003d7fc6294.jpg",
-    "url": "http://marvel.com/universe/Kid_Omega"
-  },
-  "name": "Kid Omega",
-  "pageviews": 15985,
+  "alliances": [
+    "Quentin Quire",
+    "Hellfire Club",
+    "X-Mansion"
+  ],
+  "authors": [
+    "Frank Quitely",
+    "Grant Morrison"
+  ],
+  "description": "Quintavius \"Quentin\" Quirinius Quire, also known as Kid Omega, is a fictional character appearing in books published by Marvel Comics, usually in those featuring the X-Men. A green-skinned character resembling Quire appeared in one panel of New X-Men #122 (March 2002), and appeared colored pink on the cover of New X-Men #126. Quire appeared in his now-familiar, canonical form in New X-Men #134 (January 2003). He was created by writer Grant Morrison and artist Frank Quitely.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c003d7fc6294/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": true,
+  "name": "Quentin Quire",
   "partners": [
   ],
   "powers": [
-    "Omega level",
-    "psionic",
-    "telepathy",
+    "Superhuman intellect",
+    "Omega level psionic powers including telepathy",
     "telekinesis"
   ],
-  "powersText": [
-    "Omega levelpsionic powers including telepathy and telekinesis",
-    "Superhuman intellect"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 11573,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Quintavius \"Quentin\" Quirinius Quire"
   ],
-  "realName": "Quintavius \"Quentin\" Quirinius Quire",
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Hellfire Academy",
-    "Jean Grey School for Higher Learning",
-    "Omega Gang",
-    "Xavier Institute"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Quentin_Quire"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2721/quentin_quire",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quentin_Quire"
+  }
 }

@@ -1,50 +1,49 @@
 {
-  "aliases": "Son of Satan, Hellstorm",
-  "creators": [
-    "Gary Friedrich",
-    "Roy Thomas"
+  "aliases": [
   ],
-  "image": {
-    "height": "343",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Daimon_Hellstrom.jpg/250px-Daimon_Hellstrom.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 4,
-      "events": 0,
-      "series": 4,
-      "stories": 4
-    },
-    "description": "",
-    "id": 1010719,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4ce5a2959ba25.jpg",
-    "url": "http://marvel.com/universe/Hellstorm"
-  },
+  "alliances": [
+    "Shadow Hunters",
+    "Hellfire Club",
+    "Masters of Evil",
+    "God Squad",
+    "Nick Fury's Howling Commandos",
+    "Midnight Sons",
+    "Defenders"
+  ],
+  "authors": [
+    "Roy Thomas",
+    "Gary Friedrich"
+  ],
+  "description": "Daimon Hellstrom, also known as the Son of Satan and Hellstorm, is a fictional character in the Marvel Comics universe.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4ce5a2959ba25/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": true,
   "name": "Daimon Hellstrom",
-  "pageviews": 24203,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Dark magic user",
     "Fire projection",
-    "Ability to heal others",
-    "Peak human physical capabilities"
+    "Peak human physical capabilities",
+    "Ability to heal others"
   ],
-  "realName": "Daimon Hellstrom",
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 21421,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Daimon Hellstrom"
+  ],
   "species": [
     "Human",
-    "Demon"
+    "Demon hybrid"
   ],
-  "teams": [
-    "Defenders",
-    "God Squad",
-    "Hellfire Club",
-    "Masters of Evil",
-    "Midnight Sons",
-    "S.H.I.E.L.D. Paranormal Containment Unit"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Daimon_Hellstrom"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2812/daimon_hellstrom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daimon_Hellstrom"
+  }
 }

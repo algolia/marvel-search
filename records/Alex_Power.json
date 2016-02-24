@@ -1,48 +1,48 @@
 {
-  "aliases": "Gee, Destroyer, Mass Master, Powerpax, Powerhouse, Zero-G",
-  "creators": [
-    "Louise Simonson",
-    "June Brigman"
+  "aliases": [
   ],
-  "image": {
-    "height": "380",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Alex_Power_%28by_Gurihiru%29.jpg/130px-Alex_Power_%28by_Gurihiru%29.jpg",
-    "width": "130"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 1,
-      "events": 0,
-      "series": 1,
-      "stories": 1
-    },
-    "description": "",
-    "id": 1010836,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce5a385a2e82.jpg",
-    "url": null
-  },
+  "alliances": [
+    "Power Pack",
+    "Future Foundation",
+    "New Warriors"
+  ],
+  "authors": [
+    "June Brigman",
+    "Louise Simonson"
+  ],
+  "description": "Alexander \"Alex\" Power (also known as Zero-G) is a fictional character in the Marvel Universe. He first appeared in Power Pack #1 and was created by Louise Simonson and June Brigman.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce5a385a2e82/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Alex Power",
-  "pageviews": 3587,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Gravity manipulation",
+    "Telekinesis",
     "Healing powers",
-    "Formerly:",
+    "Previously: Controlling gravity",
     "Acceleration/Flight",
-    "Density and size manipulation",
-    "Energy absorption",
-    "projection and disintegration"
+    "Control over his own mass",
+    "size",
+    "Disintegrating",
+    "absorbing",
+    "releasing energy."
   ],
-  "realName": "Alexander Power",
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 2398,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Alexander Power"
+  ],
   "species": [
   ],
-  "teams": [
-    "Power Pack",
-    "New Warriors",
-    "Future Foundation"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Alex_Power"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1387/alex_power",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alex_Power"
+  }
 }

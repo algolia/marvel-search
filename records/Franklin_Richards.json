@@ -1,53 +1,50 @@
 {
-  "aliases": "Ego-Spawn, Avatar, Tattletale, Franklin Benjamin, Richard Franklin",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
   ],
-  "image": {
-    "height": "342",
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Franklin_richards.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 31,
-      "events": 3,
-      "series": 22,
-      "stories": 39
-    },
-    "description": "The son of Reed Richards and Susan Storm of the Fantastic Four, Franklin may one day be the most powerful person on Earth. Right now, he's the son of a genius who finds adventure and fun around every corner.",
-    "id": 1009539,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/535fedbaaf234.jpg",
-    "url": "http://marvel.com/universe/Richards%2C_Franklin"
-  },
-  "name": "Franklin Richards",
-  "pageviews": 37386,
-  "partners": [
-  ],
-  "powers": [
-    "Reality warping",
-    "Telekinesis",
-    "Telepathy"
-  ],
-  "powersText": [
-    "Reality warping and manipulation",
-    "Molecular alteration",
-    "Psionic powers",
-    "Telekinesis",
-    "Telepathy",
-    "Precognition"
-  ],
-  "realName": "Franklin Benjamin Richards",
-  "species": [
-    "Human Mutant"
-  ],
-  "teams": [
+  "alliances": [
     "Future Foundation",
     "Fantastic Four",
     "Fantastic Force",
+    "Generation X",
     "Power Pack",
-    "Generation X"
+    "Daydreamers"
   ],
-  "url": "https://en.wikipedia.org/wiki/Franklin_Richards"
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The son of Reed Richards and Susan Storm of the Fantastic Four, Franklin may one day be the most powerful person on Earth. Right now, he's the son of a genius who finds adventure and fun around every corner.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/535fedbaaf234/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
+  "name": "Franklin Richards",
+  "partners": [
+  ],
+  "powers": [
+    "Precognition",
+    "Molecular alteration",
+    "Reality warping",
+    "manipulation",
+    "Psionic powers",
+    "Telepathy",
+    "Psychokinesis"
+  ],
+  "ranking": {
+    "comicCount": 33,
+    "eventCount": 3,
+    "pageviewCount": 26167,
+    "pageviewRank": -1,
+    "serieCount": 23,
+    "storyCount": 41
+  },
+  "secretIdentities": [
+    "Franklin Benjamin Richards"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2705/franklin_richards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franklin_Richards"
+  }
 }

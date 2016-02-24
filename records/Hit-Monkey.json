@@ -1,31 +1,39 @@
 {
-  "aliases": "",
-  "creators": [
-    "Daniel Way",
-    "Dalibor Talijic"
+  "aliases": [
   ],
-  "image": {
-    "height": "380",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Hitmonkey1.jpg/250px-Hitmonkey1.jpg",
-    "width": "250"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Dalibor Talijic",
+    "Daniel Way"
+  ],
+  "description": "Hit-Monkey is a fictional comic book character appearing in books published by Marvel Comics. He first appeared in Hit-Monkey #1, released in February 2010 (with a cover date of April 2010), created by Daniel Way and Dalibor Talijić.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Hitmonkey1.jpg/250px-Hitmonkey1.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Hit-Monkey",
-  "pageviews": 3041,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Incredible agility",
-    "and reflexes",
-    "Expert marksman and martial artist"
+    "reflexes",
+    "Expert marksman",
+    "martial artist"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2286,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
-    "Japanese Macaque"
+    "Japanese macaque"
   ],
-  "teams": [
-    "S.T.A.K.E"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Hit-Monkey"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hit-Monkey"
+  }
 }

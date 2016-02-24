@@ -1,47 +1,54 @@
 {
-  "aliases": "",
-  "creators": [
-    "Roger Stern",
-    "John Buscema"
+  "aliases": [
   ],
-  "image": {
-    "height": "355",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/YellowjacketII.jpg/150px-YellowjacketII.jpg",
-    "width": "150"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 3,
-      "events": 1,
-      "series": 2,
-      "stories": 3
-    },
-    "description": "Rita DeMara, hoping to show off her talent of engineering, stole a copy of the Yellowjacket costume from the Avengers Mansion.",
-    "id": 1010996,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5398a8a4b8ca9.jpg",
-    "url": "http://marvel.com/universe/Yellowjacket_%28Rita_DeMara%29"
-  },
-  "name": "Yellowjacket",
-  "pageviews": 5751,
+  "alliances": [
+    "Guardians of the Galaxy (1969 team)",
+    "Femizons",
+    "Avengers",
+    "Masters of Evil"
+  ],
+  "authors": [
+    "John Buscema",
+    "Roger Stern"
+  ],
+  "description": "Rita DeMara, hoping to show off her talent of engineering, stole a copy of the Yellowjacket costume from the Avengers Mansion.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5398a8a4b8ca9/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Yellowjacket (Rita DeMara)",
   "partners": [
   ],
   "powers": [
+    "Stinger blasts",
+    "Flight",
+    "Size changing"
   ],
-  "powersText": [
-    "Cybernetics expert",
-    "Suit grants:",
-    "High-speed flight",
-    "Size manipulation",
-    "Electrical bolt projection via stinger blasts"
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 1,
+    "pageviewCount": 4087,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Rita DeMara"
   ],
-  "realName": "Rita DeMara",
   "species": [
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "Masters of Evil",
-    "Femizons",
-    "Avengers"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2636/yellowjacket",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellowjacket_(Rita_DeMara)"
+  }
+}t": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
   ],
-  "url": "https://en.wikipedia.org/wiki/Yellowjacket_(Rita_DeMara)"
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2636/yellowjacket",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellowjacket_(Marvel_Comics)"
+  }
 }

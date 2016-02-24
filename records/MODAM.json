@@ -1,32 +1,41 @@
 {
-  "aliases": "Maria Trovaya Pym, SODAM",
-  "creators": [
-    "Steve Englehart",
-    "Al Milgrom"
+  "aliases": [
   ],
-  "image": {
-    "height": "315",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Quasar9.jpg/200px-Quasar9.jpg",
-    "width": "200"
-  },
+  "alliances": [
+    "Femizons",
+    "Advanced Idea Mechanics"
+  ],
+  "authors": [
+    "Steve Englehart",
+    "and Al Milgrom"
+  ],
+  "description": "MODAM is a fictional character in the Marvel Universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Quasar9.jpg/200px-Quasar9.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "MODAM",
-  "pageviews": 2642,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Superhuman intelligence",
     "Various psionic abilities",
-    "Telepathy",
-    "Powered exo-skeleton"
+    "Superhuman intelligence",
+    "Powered exo-skeleton",
+    "Telepathy"
   ],
-  "realName": "Olinka Barankova",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1822,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Mobile Organism Designed for Aggressive Maneuvers"
+  ],
   "species": [
   ],
-  "teams": [
-    "AIM",
-    "Femizons"
-  ],
-  "url": "https://en.wikipedia.org/wiki/MODAM"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/MODAM"
+  }
 }

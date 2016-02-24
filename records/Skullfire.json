@@ -1,31 +1,43 @@
 {
-  "aliases": "",
-  "creators": [
-    "John Francis Moore",
-    "Ron Lim"
+  "aliases": [
   ],
-  "image": {
-    "height": "382",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Xmen2099-29.jpg/250px-Xmen2099-29.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "X-Men 2099",
+    "Halo City Protectorate",
+    "Undead"
+  ],
+  "authors": [
+    "Ron Lim",
+    "John Francis Moore (writer)"
+  ],
+  "description": "Skullfire (Timothy Fitzgerald) is a fictional character in Marvel Comics's 2099 universe, a look at superheroes in the year 2099. He was one of the founding members of a future incarnation of the X-Men called X-Men 2099.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Xmen2099-29.jpg/250px-Xmen2099-29.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Skullfire",
-  "pageviews": 951,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Made of pure energy",
-    "Ability to absorb and rechannel energy around him",
+    "Ability to absorb",
+    "rechannel energy around him",
     "Levitation"
   ],
-  "realName": "Timothy Fitzgerald",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 663,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Timothy Fitzgerald"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "X-Men 2099"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Skullfire"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Skullfire"
+  }
 }

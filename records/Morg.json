@@ -1,41 +1,39 @@
 {
-  "aliases": "",
-  "creators": [
-    "Ron Marz",
-    "Ron Lim"
+  "aliases": [
   ],
-  "image": {
-    "height": "369",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Morg1.jpg/250px-Morg1.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 5,
-      "events": 0,
-      "series": 1,
-      "stories": 5
-    },
-    "description": "",
-    "id": 1009455,
-    "image": null,
-    "url": null
-  },
+  "alliances": [
+    "Galactus"
+  ],
+  "authors": [
+    "Writer: Ron Marz",
+    "Artists: Ron Lim",
+    "Tom Christopher"
+  ],
+  "description": "Morg is a fictional supervillain published by Marvel Comics universe, appearing as a herald of Galactus. He was created by Ron Lim and Ron Marz and first appeared in Silver Surfer vol. 3, #69(August 1992)",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Morg1.jpg/250px-Morg1.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Morg",
-  "pageviews": 3354,
   "partners": [
   ],
   "powers": [
-    "Power Cosmic"
-  ],
-  "powersText": [
     "Use of Power Cosmic"
   ],
-  "realName": "Morg",
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 2242,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+    "Morg"
+  ],
   "species": [
   ],
-  "teams": [
-    "Heralds of Galactus"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Morg"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1507/morg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Morg"
+  }
 }

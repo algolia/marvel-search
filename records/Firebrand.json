@@ -1,0 +1,51 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Terra Tactics",
+    "Masters of Evil",
+    "The Flaming Sword",
+    "Force of Nature"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "Sean Chen",
+    "Don Heck",
+    "Kurt Busiek"
+  ],
+  "description": "Firebrand is the codename of different fictional supervillains in the Marvel Comics universe. Three of them were normal humans inside powered armor and relied on fire-based weapons; one was a mutated human.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/96/Firebrand_001.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Firebrand",
+  "partners": [
+  ],
+  "powers": [
+    "Thermal blasts via flamethrowers",
+    "Resistance to fire",
+    "Heat rays of thousands of degrees",
+    "Cybernetic harness which could reconfigure itself into different modes",
+    "Flight",
+    "Flight via flying jets",
+    "Superhuman strength"
+  ],
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 1614,
+    "pageviewRank": -1,
+    "serieCount": 3,
+    "storyCount": 8
+  },
+  "secretIdentities": [
+    "Rick Dennison",
+    "Gary Gilbert",
+    "Russ Broxtel"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/695/firebrand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Firebrand_(Marvel_Comics)"
+  }
+}

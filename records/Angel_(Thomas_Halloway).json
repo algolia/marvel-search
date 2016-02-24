@@ -1,46 +1,61 @@
 {
-  "aliases": "",
-  "creators": [
-    "Paul Gustavson"
+  "aliases": [
   ],
-  "image": {
-    "height": "297",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Angel_golden_age.jpg/210px-Angel_golden_age.jpg",
-    "width": "210"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 4,
-      "events": 0,
-      "series": 4,
-      "stories": 4
-    },
-    "description": "",
-    "id": 1011396,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/531769834b15f.jpg",
-    "url": "http://marvel.com/universe/Angel_(Thomas_Halloway)"
-  },
-  "name": "The Angel",
-  "pageviews": 3101,
+  "alliances": [
+  ],
+  "authors": [
+    "Walt Simonson"
+  ],
+  "description": "Malekith the Accursed is a fictional character, a supervillain in the Marvel Universe.  He is ruler of the Dark Elves of Svartalfheim, and has come into conflict with Thor. He once wielded the Casket of Ancient Winters. The character was played by Christopher Eccleston in Thor: The Dark World.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/531769834b15f/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Angel (Thomas Halloway)",
   "partners": [
+    "Loki",
+    "Surtur"
   ],
   "powers": [
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "stamina",
+    "reflexes",
+    "durability",
+    "intellect",
+    "Wields Dark Faerie magic",
+    "Ability to summon The Wild Hunt"
   ],
-  "powersText": [
-    "Excellent acrobat and hand to hand combatant",
-    "Accomplished disguise artist",
-    "occult scholar and pilot",
-    "Skilled detective",
-    "Flight via mystic cape",
-    "Use of knives and other weapons"
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 15351,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Malekith"
   ],
-  "realName": "Thomas Halloway",
   "species": [
+    "Dark Elf"
   ],
-  "teams": [
-    "All-Winners Squad",
-    "V-Battalion",
-    "Scourges of the Underworld"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1011396/angel_thomas_halloway/featured",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malekith_the_Accursed"
+  }
+}serieCount": 4,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Angel Salvadore"
   ],
-  "url": "https://en.wikipedia.org/wiki/Angel_(Thomas_Halloway)"
+  "species": [
+    "Decimation",
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1011396/angel_thomas_halloway/featured",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angel_Salvadore"
+  }
 }

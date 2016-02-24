@@ -1,51 +1,51 @@
 {
-  "aliases": "Hobgoblin Jason Philip Macendale Jr. (original host form)",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Carnage Family/Maximum Carnage"
+  ],
+  "authors": [
     "Gerry Conway",
     "Sal Buscema"
   ],
-  "image": {
-    "height": "225",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Demog.jpg/250px-Demog.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 1,
-      "events": 0,
-      "series": 1,
-      "stories": 1
-    },
-    "description": "Jason Macendale, the newest Hobgoblin was down on his luck and offered the demon N'astirh his soul in exchange for power during the  Inferno crisis, turning him into the Demogoblin.",
-    "id": 1011071,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/535fedd611db9.jpg",
-    "url": "http://marvel.com/universe/Demogoblin"
-  },
+  "description": "Jason Macendale, the newest Hobgoblin was down on his luck and offered the demon N'astirh his soul in exchange for power during the  Inferno crisis, turning him into the Demogoblin.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/535fedd611db9/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Demogoblin",
-  "pageviews": 5858,
   "partners": [
-    "Shriek",
     "Carnage",
     "Doppelganger",
+    "Shriek",
     "Carrion"
   ],
   "powers": [
-  ],
-  "powersText": [
+    "High-level intellect",
     "Superhuman strength",
     "agility",
     "stamina",
-    "reflexes and resistance to injury",
-    "High-level intellect",
-    "Hellfire projection",
-    "Skills and memories retained from original host",
-    "Use of magical glider and weaponry"
+    "reflexes",
+    "resistance to injury",
+    "Magical glider",
+    "weaponry",
+    "Skills",
+    "memories retained from original host",
+    "Hellfire projection"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 3889,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+  ],
   "species": [
   ],
-  "teams": [
-    "Maximum Carnage"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Demogoblin"
+  "urls": {
+    "marvel": "http://marvel.com/comics/characters/1011071/demogoblin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Demogoblin"
+  }
 }

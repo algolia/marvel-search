@@ -1,57 +1,53 @@
 {
-  "aliases": "Ms. Marvel, She-Thing",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Thunderiders",
+    "Fantastic Four",
+    "Frightful Four"
+  ],
+  "authors": [
     "Mike Carlin",
     "Ron Wilson"
   ],
-  "image": {
-    "height": "388",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Msmarvel2.jpg/250px-Msmarvel2.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 2,
-      "events": 0,
-      "series": 2,
-      "stories": 1
-    },
-    "description": "",
-    "id": 1010895,
-    "image": null,
-    "url": "http://marvel.com/universe/Ms._Marvel_%28Sharon_Ventura%29"
-  },
+  "description": "Sharon Ventura, also known as She-Thing, is a fictional character, both a comic book superheroine and supervillainess from the Marvel Comics universe. She has used the pseudonym Ms. Marvel, and has served as a member of the Fantastic Four and the female wrestlers known as the Grapplers.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Msmarvel2.jpg/250px-Msmarvel2.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Sharon Ventura",
-  "pageviews": 5733,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Highly proficient hand to hand combatant",
+    "Superhuman strength",
+    "endurance",
     "Skilled martial artist",
+    "Rock-like skin",
     "Expert stuntwoman",
     "scuba diver",
     "skydiver",
     "motorcyclist",
     "mountain climber",
     "skier",
-    "lion tamer and wrestler",
-    "As Ms. Marvel:",
-    "Superhuman strength and endurance",
-    "As She-Thing:",
-    "Superhuman strength",
-    "durability and endurance",
-    "Rock-like skin"
+    "lion-tamer",
+    "wrestler",
+    "durability"
   ],
-  "realName": "Sharon Ventura",
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 3821,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Sharon Ventura"
+  ],
   "species": [
   ],
-  "teams": [
-    "Grapplers",
-    "Thunderiders",
-    "Fantastic Four",
-    "Frightful Four"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Sharon_Ventura"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2845/sharon_ventura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Ventura"
+  }
 }

@@ -1,31 +1,42 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Dan Jurgens"
   ],
-  "image": {
-  },
-  "name": "Desak, the God Slayer",
-  "pageviews": 1333,
+  "description": "Desak Sterixian, more commonly known as Desak the God Slayer, is a fictional character that appears in comic books published by Marvel Comics. The character was created by Dan Jurgens and Tom Grummett and first appears in Thor Annual 2001.",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Desak",
   "partners": [
-    "Zarrko the Tomorrow Man"
+    "Designate/Spirit of the Jewel, Zarrko the Tomorrow Man"
   ],
   "powers": [
+    "Weapons mastery",
+    "Superhuman strength & stamina",
+    "Nigh-invulnerability",
+    "Ability to sense gods",
+    "Possesses powers of multiple gods",
+    "immunity to powers of gods",
+    "Absorption",
+    "redirection of energy attacks"
   ],
-  "powersText": [
-    "Superhuman strength",
-    "durability and endurance",
-    "Flight",
-    "Teleportation",
-    "Energy projection through his eyes",
-    "Ability to survive indefinitely in the void of space and sense all aspects of godliness",
-    "Via Amulet of Power:",
-    "Ability to absorb a god's life force and his power"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 927,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Desak Sterixian"
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Desak"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Desak"
+  }
 }

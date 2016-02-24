@@ -1,46 +1,47 @@
 {
-  "aliases": "Monarch of Planet X",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby",
-    "Dick Ayers"
+  "aliases": [
   ],
-  "image": {
-    "height": "406",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Gotg_2.jpg/250px-Gotg_2.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 11,
-      "events": 1,
-      "series": 4,
-      "stories": 11
-    },
-    "description": "",
-    "id": 1010743,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/526033c8b474a.jpg",
-    "url": "http://marvel.com/universe/Groot"
-  },
+  "alliances": [
+    "Guardians of the Galaxy (2008 team)",
+    "Nick Fury's Howling Commandos"
+  ],
+  "authors": [
+    "Dick Ayers",
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Groot (also known as the Monarch of Planet X) is a fictional character, a superhero that appears in comic books published by Marvel Comics. Created by Stan Lee, Jack Kirby, and Dick Ayers, the character first appeared in Tales to Astonish #13 (November 1960). An extraterrestrial, sentient tree-like creature, Groot originally appeared as an invader that intended to capture humans for experimentation.The character was reintroduced as a heroic, noble being in 2006, and appeared in the crossover comic book storyline \"Annihilation: Conquest\". Groot went on to star in its spin-off series, Guardians of the Galaxy, joining the team of the same name. Groot has been featured in a variety of associated Marvel merchandise, including animated television series, toys, and trading cards. Vin Diesel voices Groot in the 2014 film Guardians of the Galaxy, and Krystian Godlewski plays the character via performance capture. Groot (/ɣroːt/) means \"big\" in Dutch and Afrikaans.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/526033c8b474a/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Groot",
-  "pageviews": 53094,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Genius-level intellect",
+    "Regeneration",
     "Ability to absorb wood to feed",
     "rebuild self",
-    "enhance his strength and control trees",
-    "Regeneration",
+    "enhance strength",
+    "control trees",
     "Resistance to fire"
   ],
-  "realName": "Groot",
+  "ranking": {
+    "comicCount": 12,
+    "eventCount": 1,
+    "pageviewCount": 32689,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 12
+  },
+  "secretIdentities": [
+    "Groot"
+  ],
   "species": [
+    "Flora colossus"
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "S.H.I.E.L.D. Paranormal Containment Unit"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Groot"
+  "urls": {
+    "marvel": "http://marvel.com/characters/866/groot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Groot"
+  }
 }

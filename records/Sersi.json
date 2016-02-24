@@ -1,46 +1,48 @@
 {
-  "aliases": "Circe, Sylvia Sersi, Mesmer, Sorceress",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Eternals",
+    "God Squad",
+    "New Breed",
+    "Heroes for Hire",
+    "Avengers"
+  ],
+  "authors": [
     "Jack Kirby"
   ],
-  "image": {
-    "height": "364",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sersi_2.jpg/250px-Sersi_2.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 26,
-      "events": 1,
-      "series": 18,
-      "stories": 26
-    },
-    "description": "Sersi is a member of the Eternals, a species diverted from humanity by experiments conducted by the Celestials one million years ago.",
-    "id": 1010345,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/528d36c261af4.jpg",
-    "url": "http://marvel.com/universe/Sersi"
-  },
+  "description": "Sersi is a member of the Eternals, a species diverted from humanity by experiments conducted by the Celestials one million years ago.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/528d36c261af4/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Sersi",
-  "pageviews": 7580,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Superhuman strength and durability",
-    "Molecular and atomic manipulation",
-    "Psionic powers",
+    "Molecular",
+    "atomic manipulation",
+    "Flight",
     "Immortality",
-    "Flight"
+    "Psionic powers",
+    "Superhuman strength",
+    "durability"
   ],
-  "realName": "Sersi",
+  "ranking": {
+    "comicCount": 26,
+    "eventCount": 1,
+    "pageviewCount": 5437,
+    "pageviewRank": -1,
+    "serieCount": 18,
+    "storyCount": 26
+  },
+  "secretIdentities": [
+    "Sersi"
+  ],
   "species": [
+    "Eternal"
   ],
-  "teams": [
-    "Eternals",
-    "Avengers",
-    "Heroes for Hire",
-    "God Squad"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Sersi"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2053/sersi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sersi"
+  }
 }

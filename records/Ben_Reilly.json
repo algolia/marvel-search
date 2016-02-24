@@ -1,42 +1,27 @@
 {
-  "aliases": "Scarlet Spider Spider-Man , Spider-Carnage, Peter Parker, Henry Jones",
-  "creators": [
-    "Gerry Conway",
-    "Ross Andru",
-    "Spider-Man",
-    "Stan Lee",
-    "Steve Ditko"
+  "aliases": [
   ],
-  "image": {
-    "height": "275",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Scarlet_Spider_%28Ben_Reilly%29.jpg/250px-Scarlet_Spider_%28Ben_Reilly%29.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 6,
-      "events": 0,
-      "series": 5,
-      "stories": 6
-    },
-    "description": "",
-    "id": 1011197,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4ce5a531089da.jpg",
-    "url": "http://marvel.com/universe/Scarlet_Spider_(Ben_Reilly)"
-  },
+  "alliances": [
+    "New Warriors"
+  ],
+  "authors": [
+    "Ross Andru",
+    "Gerry Conway"
+  ],
+  "description": "Ben Reilly was the most genetically stable of the many clones of Spider-Man created by Professor Miles Warren, the Jackal.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/4ce5a6abaea69/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Ben Reilly",
-  "pageviews": 14787,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Superhuman strength",
     "speed",
     "stamina",
     "reflexes",
     "durability",
-    "and agility",
+    "agility",
     "Ability to cling to most surfaces",
     "High pain tolerance",
     "Able to shoot impact webbing from devices.",
@@ -45,11 +30,21 @@
     "Expert swordsman",
     "Master hand-to-hand combatant"
   ],
-  "realName": "Benjamin \"Ben\" Reilly",
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 10121,
+    "pageviewRank": -1,
+    "serieCount": 3,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Benjamin \"Ben\" Reilly"
+  ],
   "species": [
   ],
-  "teams": [
-    "New Warriors"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Ben_Reilly"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2919/ben_reilly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Reilly"
+  }
 }

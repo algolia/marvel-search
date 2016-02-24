@@ -1,48 +1,39 @@
 {
-  "aliases": "Frank, Kosmos",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Jim Shooter",
     "Mike Zeck"
   ],
-  "image": {
-    "height": "376",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/SecretwarsII3.png/250px-SecretwarsII3.png",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 2,
-      "events": 1,
-      "series": 2,
-      "stories": 2
-    },
-    "description": "",
-    "id": 1011138,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/528d31df87c49.jpg",
-    "url": "http://marvel.com/universe/Maker"
-  },
-  "name": "The Beyonder",
-  "pageviews": 26355,
+  "description": "The Beyonder is a fictional comic book character appearing in books published by Marvel Comics. Created by writer Jim Shooter and artist Mike Zeck, the Beyonder first appeared in Secret Wars #1 (May 1984) as an unseen, apparently omnipotent being who kidnapped the heroes and villains of the Marvel Universe and had them do battle on another planet called Battleworld. He later appeared in a more antagonistic role in the 1985 sequel Secret Wars II, in which he took human form, and threatened to destroy the Marvel multiverse. Although he first took on a physical, humanoid form in Secret Wars II #1, it was in Secret Wars II #3 that he took on the permanent form in which he remained for the rest of his existence, that of a Caucasian human male with curly black hair. Although the character met his demise at the end of Secret Wars II, he has subsequently appeared in stories well into the 2000s.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/528d31df87c49/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Beyonder",
   "partners": [
   ],
   "powers": [
     "Omnipotence",
-    "Omniscience",
     "Omnipresence",
-    "Reality warping"
+    "Omniscience"
   ],
-  "powersText": [
-    "Omnipotence",
-    "Omniscience",
-    "Omnipresence (Pre-Retcon)",
-    "Reality warping (Post-Retcon)"
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 1,
+    "pageviewCount": 18577,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 2
+  },
+  "secretIdentities": [
   ],
-  "realName": "Beyonder",
   "species": [
-    "Cosmic entity"
+    "Cosmic entity, possibly Inhuman mutant"
   ],
-  "teams": [
-    "Beyonders"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Beyonder"
+  "urls": {
+    "marvel": "http://marvel.com/comics/characters/1011138/beyonder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beyonder"
+  }
 }

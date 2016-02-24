@@ -1,36 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
   ],
-  "image": {
-    "height": "383",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Star_Brand_1.jpg/250px-Star_Brand_1.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 20,
-      "events": 0,
-      "series": 2,
-      "stories": 35
-    },
-    "description": "",
-    "id": 1011307,
-    "image": null,
-    "url": "http://marvel.com/universe/Star%20Brand"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Warren Ellis",
+    "Salvador Larroca"
+  ],
+  "description": "Kenneth Connell is a character from the newuniversal imprint of Marvel Comics, and is one of the four initial superhumans created by the White Event in 2006 (the others being Justice, Cipher, and Nightmask).  newuniversal, designated Earth-555 in the Marvel Comics multiverse, is a re-imagining if the New Universe (designated Earth-148611) imprint from the late 1980s.  The name Star Brand actually refers to two things: a powerful extra-dimensional glyph (tattoo) that confers superhuman powers on a sentient being, and the name of the being that wields the glyph.  Originally the Star Brand was the only extra-dimensional glyph, but Warren Ellis' re-imagining broadened the concept to allow others to exist, namely Justice, Cipher, and Nightmask.  Ellis's re-imagining of the Star Brand should not be confused with the original New Universe Star Brand, as its origins and powers are significantly different.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Starbrand001a.jpg/250px-Starbrand001a.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Star Brand",
-  "pageviews": 5282,
   "partners": [
   ],
   "powers": [
+    "The Star Brand grants its wielder near infinite powers",
+    "abilities ranging from flight",
+    "disintegrating matter",
+    "time travel",
+    "many others."
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 20,
+    "eventCount": 0,
+    "pageviewCount": 445,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 35
+  },
+  "secretIdentities": [
+    "Kenneth Connell"
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Star_Brand"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2195/star_brand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Starbrand_(newuniversal)"
+  }
 }

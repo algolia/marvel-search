@@ -1,0 +1,48 @@
+{
+  "aliases": [
+    "Box"
+  ],
+  "alliances": [
+    "Zodiac",
+    "Alpha Flight",
+    "Gamma Flight",
+    "Weapon X",
+    "X-Men"
+  ],
+  "authors": [
+    "John Byrne"
+  ],
+  "description": "Madison Jeffries is a fictional character, a mutant superhero in the Marvel Comics Universe with the ability to reshape plastic, metal, and glass to any shape desired. He also has the technopathic ability to mentally communicate with AI, such as machines and robots.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4ce59ef63362d/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Box",
+  "partners": [
+  ],
+  "powers": [
+    "Technopathic ability to mentally communicate with AI",
+    "such as machines",
+    "robots.",
+    "Technokinetic ability to reshape plastic",
+    "metal",
+    "glass to any shape desired"
+  ],
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 2732,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Madison Jeffries"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/346/box",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madison_Jeffries"
+  }
+}

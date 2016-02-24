@@ -1,45 +1,45 @@
 {
-  "aliases": "Ashta,",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Heralds of Galactus",
+    "God Squad"
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "441",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Galactus.PNG/250px-Galactus.PNG",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 106,
-      "events": 5,
-      "series": 50,
-      "stories": 101
-    },
-    "description": "",
-    "id": 1009312,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/528d31a791308.jpg",
-    "url": "http://marvel.com/universe/Galactus"
-  },
+  "description": "Galactus is a fictional character, a cosmic entity appearing in comic books and other publications by Marvel Comics. In his first appearance in The Fantastic Four, Galactus was depicted as a god-like figure which feeds by draining living planets of their energy. After appearing in the Silver Age of Comic Books, Galactus has appeared in over four decades of Marvel continuity, the one-shot publication Super-Villain Classics: Galactus the Origin #1 (May 1983) and the limited series Galactus the Devourer (September 1999–March 2000).The character has been featured in other Marvel products, such as arcade games, video games, animated television series, action figures, trading cards and the 2007 film Fantastic Four: Rise of the Silver Surfer. In 2009, Galactus ranked 5th on IGN's list of \"Top 100 Comic Book Villains\".",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/528d31a791308/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Galactus",
-  "pageviews": 117929,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Reality alteration",
-    "Energy",
-    "matter and life-force manipulation",
     "Cosmic awareness",
+    "Telekinesis",
     "Telepathy",
-    "Telekinesis"
+    "Energy",
+    "matter",
+    "life-force manipulation",
+    "Reality alteration"
   ],
-  "realName": "Galan",
+  "ranking": {
+    "comicCount": 106,
+    "eventCount": 5,
+    "pageviewCount": 84322,
+    "pageviewRank": -1,
+    "serieCount": 50,
+    "storyCount": 101
+  },
+  "secretIdentities": [
+    "Galan"
+  ],
   "species": [
   ],
-  "teams": [
-    "God Squad"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Galactus"
+  "urls": {
+    "marvel": "http://marvel.com/characters/751/galactus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Galactus"
+  }
 }

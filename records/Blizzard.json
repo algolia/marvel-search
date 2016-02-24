@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    "Donnie Gill"
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Bob Layton",
+    "Don Heck",
+    "David Michelinie",
+    "Stan Lee"
+  ],
+  "description": "Blizzard is a fictional character, a supervillain in the Marvel Universe and a member of Iron Man's rogues gallery.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/BlizzardDonnieGill.jpg/250px-BlizzardDonnieGill.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Blizzard",
+  "partners": [
+  ],
+  "powers": [
+    "Cold",
+    "water manipulation"
+  ],
+  "ranking": {
+    "comicCount": 7,
+    "eventCount": 0,
+    "pageviewCount": 6402,
+    "pageviewRank": -1,
+    "serieCount": 5,
+    "storyCount": 7
+  },
+  "secretIdentities": [
+    "*",
+    "Donald \"Donnie\" Gill",
+    "Gregor Shapanka"
+  ],
+  "species": [
+    "Inhumans"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/307/blizzard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blizzard_(comics)"
+  }
+}

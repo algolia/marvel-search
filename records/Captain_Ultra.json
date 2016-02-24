@@ -1,38 +1,48 @@
 {
-  "aliases": "",
-  "creators": [
-    "Roy Thomas",
-    "George Pérez",
-    "Joe Sinnott"
+  "aliases": [
   ],
-  "image": {
-    "height": "375",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/CaptainUltra500.jpg/250px-CaptainUltra500.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "Defenders",
+    "Revengers",
+    "Avengers: The Initiative"
+  ],
+  "authors": [
+    "George P%C3%A9rez",
+    "Joe Sinnott",
+    "Roy Thomas"
+  ],
+  "description": "Captain Ultra (Griffin Gogol) is a fictional character, a superhero in Marvel Comics universe.   He first appeared in Fantastic Four #177 (December 1976) and was created by Roy Thomas, George Pérez and Joe Sinnott.Captain Ultra was also one of the aliases used by Nextwave member The Captain.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/CaptainUltra500.jpg/250px-CaptainUltra500.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Captain Ultra",
-  "pageviews": 2299,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "X-ray Vision",
+    "Flight",
     "Superhuman strength",
     "durability",
-    "reflexes and endurance",
-    "Flight",
-    "X-ray vision",
-    "Super breath",
+    "reflexes",
+    "endurance",
+    "Tap his \"ultra potential\"",
     "Intangibility",
-    "Ability to tap his \"ultra potential\""
+    "Super breath"
   ],
-  "realName": "Griffin Gogol",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1551,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Griffin Gogol"
+  ],
   "species": [
   ],
-  "teams": [
-    "Defenders",
-    "Initiative",
-    "Revengers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Captain_Ultra"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Captain_Ultra"
+  }
 }

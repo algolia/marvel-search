@@ -1,0 +1,49 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "X-Factor",
+    "X-Club",
+    "X-Men"
+  ],
+  "authors": [
+    "Joss Whedon",
+    "Jack Kirby",
+    "John Cassaday"
+  ],
+  "description": "The Danger Room is a fictional training facility built for the X-Men of Marvel Comics as part of the various incarnations of the X-Mansion.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Danger_room.jpg/220px-Danger_room.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Danger",
+  "partners": [
+    "Gambit",
+    "Ord",
+    "Rogue"
+  ],
+  "powers": [
+    "Able to create realistic holographic projections",
+    "enhanced strength",
+    "durability",
+    "control over other machines",
+    "flight",
+    "energy blasts",
+    "detailed knowledge of the X-Men."
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3466,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Inapplicable"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Danger_Room"
+  }
+}

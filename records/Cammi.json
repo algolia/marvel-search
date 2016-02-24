@@ -1,35 +1,36 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Keith Giffen",
     "Mitch Breitweiser"
   ],
-  "image": {
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1011139,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/a0/4c00309587477.jpg",
-    "url": "http://marvel.com/universe/Cammi"
-  },
+  "description": "Cammi (Camille Benally) is a fictional character from Marvel Comics.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/a0/4c00309587477/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Cammi",
-  "pageviews": 880,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 590,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Camille Benally"
   ],
-  "realName": "Camille Benally",
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Cammi"
+  "urls": {
+    "marvel": "http://marvel.com/characters/378/cammi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cammi"
+  }
 }

@@ -1,0 +1,41 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Fifty State Initiative",
+    "Freedom Force"
+  ],
+  "authors": [
+    "Dan Slott",
+    "Stefano Caselli"
+  ],
+  "description": "Cloud 9 (Abigail \"Abby\" Boylen) is a fictional teenage comic book superheroine in the Marvel Comics universe.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/526955ef00db6/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Cloud 9",
+  "partners": [
+  ],
+  "powers": [
+    "Expert markswoman",
+    "Manipulation of an unidentified cloud-like gas form on which she can fly"
+  ],
+  "ranking": {
+    "comicCount": 9,
+    "eventCount": 2,
+    "pageviewCount": 1924,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 10
+  },
+  "secretIdentities": [
+    "Abigail \"Abby\" Boylen."
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/441/cloud_9",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cloud_9_(comics)"
+  }
+}

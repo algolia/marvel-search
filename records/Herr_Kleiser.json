@@ -1,28 +1,39 @@
 {
-  "aliases": "Herr Kameleon",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Skrull",
+    "Nazi Germany"
+  ],
+  "authors": [
     "Mark Millar",
     "Bryan Hitch"
   ],
-  "image": {
-  },
+  "description": "Herr Kleiser is a fictional character that appears in Ultimate comic books published by Marvel Comics. The character first appeared in Ultimates #10 (July 2003) and was created by writer Mark Millar and artist Bryan Hitch.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Herr Kleiser",
-  "pageviews": 1401,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Superhuman strength and healing",
     "Shapeshifting",
+    "Superhuman strength",
+    "healing",
     "Skilled hand to hand combatant"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 980,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
   ],
-  "teams": [
-    "Chitauri",
-    "Nazi Germany"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Herr_Kleiser"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Herr_Kleiser"
+  }
 }

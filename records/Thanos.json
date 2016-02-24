@@ -1,49 +1,45 @@
 {
-  "aliases": "The Mad Titan, Avatar of Death",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Cull Obsidian",
+    "Infinity Watch",
+    "Defenders",
+    "Cabal",
+    "Annihilation"
+  ],
+  "authors": [
     "Jim Starlin"
   ],
-  "image": {
-    "height": "379",
-    "url": "https://upload.wikimedia.org/wikipedia/en/e/e4/ThanosAvengersAssemble.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 78,
-      "events": 4,
-      "series": 42,
-      "stories": 72
-    },
-    "description": "The Mad Titan Thanos, a melancholy, brooding individual, consumed with the concept of death, sought out personal power and increased strength, endowing himself with cybernetic implants until he became more powerful than any of his brethren.",
-    "id": 1009652,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5274137e3e2cd.jpg",
-    "url": "http://marvel.com/universe/Thanos"
-  },
+  "description": "The Mad Titan Thanos, a melancholy, brooding individual, consumed with the concept of death, sought out personal power and increased strength, endowing himself with cybernetic implants until he became more powerful than any of his brethren.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5274137e3e2cd/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": true,
   "name": "Thanos",
-  "pageviews": 188570,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Superhuman strength",
-    "durability",
-    "and endurance",
-    "Energy manipulation",
-    "Telekinesis",
     "Teleportation",
+    "Psychokinesis",
+    "Endurance",
+    "Hysterical strength",
     "Longevity"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 75,
+    "eventCount": 4,
+    "pageviewCount": 124637,
+    "pageviewRank": 5752,
+    "serieCount": 41,
+    "storyCount": 72
+  },
+  "secretIdentities": [
+  ],
   "species": [
-    "Titanian Eternal (Mutant)"
+    "Eternals"
   ],
-  "teams": [
-    "Infinity Watch",
-    "Secret Defenders",
-    "Annihilation Wave",
-    "Cabal"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Thanos"
+  "urls": {
+    "marvel": "http://marvel.com/characters/58/thanos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thanos"
+  }
 }

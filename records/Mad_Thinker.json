@@ -1,48 +1,47 @@
 {
-  "aliases": "Dr. José Santini, The Thinker",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Maggia",
+    "Intelligencia",
+    "Triumvirate of Terror"
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-  },
-  "marvel": {
-    "counts": {
-      "comics": 16,
-      "events": 0,
-      "series": 11,
-      "stories": 13
-    },
-    "description": "",
-    "id": 1009411,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/52740faf0d0fb.jpg",
-    "url": "http://marvel.com/universe/Mad_Thinker"
-  },
+  "description": "The Mad Thinker is a fictional character, a supervillain in the Marvel Comics Universe. He is a genius specializing in evil robotics and usually comes up with very elaborate infallible devious plans that unfold like clockwork.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/52740faf0d0fb/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Mad Thinker",
-  "pageviews": 4936,
   "partners": [
+    "Wizard",
     "Puppet Master",
     "Egghead",
-    "Klaw",
-    "Wizard",
-    "Awesome Android"
+    "Klaw"
   ],
   "powers": [
-    "Awesome Android"
+    "Master tactician",
+    "strategist",
+    "Ability to project mind into the body of Awesome Android",
+    "other robots",
+    "Genius-level intellect"
   ],
-  "powersText": [
-    "Master tactician and strategist",
-    "Genius-level intellect",
-    "Ability to project his mind into the body of Awesome Android and other robots"
+  "ranking": {
+    "comicCount": 16,
+    "eventCount": 0,
+    "pageviewCount": 3699,
+    "pageviewRank": -1,
+    "serieCount": 11,
+    "storyCount": 13
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-    "Maggia",
-    "Triumvirate of Terror",
-    "Intelligencia",
-    "Illuminati"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Mad_Thinker"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2728/mad_thinker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mad_Thinker"
+  }
 }

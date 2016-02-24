@@ -1,45 +1,48 @@
 {
-  "aliases": "",
-  "creators": [
-    "Stan Lee",
-    "Wally Wood"
+  "aliases": [
   ],
-  "image": {
-    "height": "481",
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Mrfear.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 1,
-      "events": 0,
-      "series": 1,
-      "stories": 1
-    },
-    "description": "",
-    "id": 1009446,
-    "image": null,
-    "url": null
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Stan Lee",
+    "Wally Wood",
+    "Gerry Conway",
+    "Gene Colan",
+    "Steven Grant",
+    "Carmine Infantino"
+  ],
+  "description": "Mister Fear is the name of multiple fictional characters, all supervillains in the Marvel Comics Universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Mrfear.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Mister Fear",
-  "pageviews": 3215,
   "partners": [
     "Lucia von Bardas"
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Accomplished wax sculptor",
-    "Talented amateur chemist",
-    "Gifted intellect",
+    "Trained hand to hand combatant",
+    "Use of a perfume that made him able to influence other people",
     "Fear pheromone administered primarily by gas pellets",
     "occasionally by syringe",
     "most recently by an aerosol sprayer"
   ],
-  "realName": "Zoltan Drago",
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 3289,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Lawrence \"Larry\" Cranston",
+    "Zoltan Drago",
+    "Alan Fagan"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Mister_Fear"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1476/mister_fear",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mister_Fear"
+  }
 }

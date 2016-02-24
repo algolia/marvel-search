@@ -1,38 +1,24 @@
 {
-  "aliases": "Doctor Voodoo, Sorcerer Supreme Houngan Supreme , Lord of the Loa, He-Who-Has-Died-Twice, Voodoo Lord; Master of All Reptiles, the Voudoun, and the Spirit World",
-  "creators": [
+  "aliases": [
+    "Jericho Drumm",
+    "Doctor Voodoo"
   ],
-  "image": {
-    "height": "450",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/BrotherVoodoo.png/225px-BrotherVoodoo.png",
-    "width": "225"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1011090,
-    "image": null,
-    "url": "http://marvel.com/universe/Brother_Voodoo"
-  },
+  "alliances": [
+    "Heroes for Hire",
+    "Nick Fury's Howling Commandos",
+    "Uncanny Avengers",
+    "The New Avengers"
+  ],
+  "authors": [
+  ],
+  "description": "Brother Voodoo (Jericho Drumm) is a fictional character, a supernatural superhero in the Marvel Universe. He first appeared in Strange Tales #169 (Sept. 1973). The character was created by writer Len Wein and artist Gene Colan. Since replacing Doctor Strange as Sorcerer Supreme in The New Avengers #53 (July 2009), the character is referred to as Doctor Voodoo.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/BrotherVoodoo.png/225px-BrotherVoodoo.png",
+  "isHero": true,
+  "isVillain": false,
   "name": "Brother Voodoo",
-  "pageviews": 9628,
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Spirit possession",
-    "hypnosis",
-    "Loa",
-    "Sorcerer Supreme",
-    "Eye of Agamotto",
-    "Cloak of Levitation"
-  ],
-  "powersText": [
     "Extensive mystical knowledge",
     "Superhuman strength",
     "Spirit possession",
@@ -41,24 +27,34 @@
     "Ability to generate mystic smoke to conceal his location",
     "usually accompanied by the sound of drums that could also disorient opponents",
     "Ability to command living things through hypnosis",
-    "with lesser control over people and greatest control over animals (even plants will obey him to their limited ability)",
+    "with lesser control over people",
+    "greatest control over animals",
     "Able to summon the spirit of his brother",
     "Daniel",
     "boosting his own physical strength",
-    "Able to speak to the Loa (''god'')",
+    "Able to speak to the Loa",
     "asking favors",
     "Medallion enhances his ability to tap into the Loa",
-    "Sorcerer Supreme and bearer of the Eye of Agamotto",
-    "the Cloak of Levitation and the Books of Knowledge"
+    "Sorcerer Supreme",
+    "bearer of the Eye of Agamotto",
+    "the Cloak of Levitation",
+    "the Books of Knowledge"
   ],
-  "realName": "Jericho Drumm",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 7123,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jericho Drumm"
+  ],
   "species": [
   ],
-  "teams": [
-    "Avengers Unity Division",
-    "Heroes for Hire",
-    "S.H.I.E.L.D. Paranormal Containment Unit",
-    "New Avengers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Brother_Voodoo"
+  "urls": {
+    "marvel": "http://marvel.com/characters/3430/brother_voodoo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brother_Voodoo"
+  }
 }

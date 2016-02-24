@@ -1,45 +1,42 @@
 {
-  "aliases": "Green Goblin , New Goblin, American Son , Harry Lyman",
-  "creators": [
-    "Stan Lee",
-    "Steve Ditko"
+  "aliases": [
   ],
-  "image": {
-    "height": "337",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Harryosb.PNG/200px-Harryosb.PNG",
-    "width": "200"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 50,
-      "events": 1,
-      "series": 10,
-      "stories": 53
-    },
-    "description": "",
-    "id": 1009486,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4ce5a0b3181d8.jpg",
-    "url": "http://marvel.com/universe/Osborn,_Harry"
-  },
+  "alliances": [
+    "Oscorp"
+  ],
+  "authors": [
+    "Steve Ditko",
+    "Stan Lee"
+  ],
+  "description": "Harold \"Harry\" Osborn is a fictional character, an antihero and usually supervillain of Spider-Man in the Marvel Comics Universe. In addition to being Peter Parker's best friend, he is the son of Norman Osborn and became the second Green Goblin. Harry Osborn first appeared in The Amazing Spider-Man #31 (December 1965), and was created by Stan Lee and Steve Ditko.The character has appeared in many adaptations of Spider-Man outside of the comic books, including the 2002-2007 film trilogy portrayed by James Franco and appears in The Amazing Spider-Man 2 portrayed by Dane DeHaan.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4ce5a0b3181d8/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Harry Osborn",
-  "pageviews": 20987,
   "partners": [
     "Spider-Man"
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Goblin serum grants:",
-    "Superhuman physical attributes",
     "Enhanced intelligence",
-    "Use of goblin-themed weapons and paraphernalia"
+    "superhuman physical attributes identical to that of the Green Goblin",
+    "Goblin-themed weapons",
+    "paraphernalia"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 50,
+    "eventCount": 1,
+    "pageviewCount": 15165,
+    "pageviewRank": -1,
+    "serieCount": 10,
+    "storyCount": 53
+  },
+  "secretIdentities": [
+    "Harold Theopolis \"Harry\" Osborn"
+  ],
   "species": [
   ],
-  "teams": [
-    "Oscorp",
-    "Parker Industries"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Harry_Osborn"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2736/harry_osborn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Osborn"
+  }
 }

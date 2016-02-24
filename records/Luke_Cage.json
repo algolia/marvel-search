@@ -1,57 +1,59 @@
 {
-  "aliases": "Power Man",
-  "creators": [
-    "Archie Goodwin",
-    "John Romita, Sr."
+  "aliases": [
+    "Power Man"
   ],
-  "image": {
-    "height": "377",
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/50/Mighty_Avengers_Volume_2_Issue_1_Cover.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 104,
-      "events": 7,
-      "series": 52,
-      "stories": 96
-    },
-    "description": "",
-    "id": 1009215,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5112d8b6e596c.jpg",
-    "url": "http://marvel.com/universe/Cage,_Luke"
-  },
+  "alliances": [
+    "The Mighty Avengers",
+    "Fantastic Four",
+    "The New Avengers",
+    "Heroes for Hire",
+    "Avengers",
+    "Dark Avengers",
+    "Thunderbolts",
+    "\"Marvel Knights\"",
+    "Defenders"
+  ],
+  "authors": [
+    "Archie Goodwin",
+    "John Romita",
+    "Sr."
+  ],
+  "description": "Luke Cage (born Carl Lucas and also called Power Man) is a fictional character, a superhero appearing in comic books published by Marvel Comics. Created by Archie Goodwin and John Romita, Sr., he first appeared in Luke Cage, Hero for Hire #1 (June 1972). Imprisoned for a crime he did not commit, he gains superpowers in the form of unbreakable skin and superhuman strength. The character frequently teams up with fellow superhero Iron Fist, and is married to Jessica Jones, with whom he has a daughter. In 2005, writer Brian Michael Bendis added Luke Cage to the lineup of the New Avengers, and he has appeared in various Avengers titles since. Mike Colter will play the character in A.K.A. Jessica Jones, a live-action television series set to premiere in 2015, before headlining his own series.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5112d8b6e596c/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Luke Cage",
-  "pageviews": 707713,
   "partners": [
-    "Iron Fist",
-    "Jessica Jones",
     "Colleen Wing",
-    "Misty Knight"
+    "Iron Fist",
+    "Misty Knight",
+    "Jessica Jones"
   ],
   "powers": [
     "Superhuman strength",
-    "Unbreakable skin that is impervious to damage and temperature",
-    "Accelerated healing factor"
+    "stamina",
+    "durability",
+    "Unbreakable skin is highly impervious to damage",
+    "temperature",
+    "Accelerated healing factor",
+    "Excellent street fighter",
+    "hand-to-hand combatant"
   ],
-  "powersText": [
-    "Superhuman strength",
-    "Unbreakable skin that is impervious to damage and temperature",
-    "Accelerated healing factor"
+  "ranking": {
+    "comicCount": 106,
+    "eventCount": 7,
+    "pageviewCount": 608575,
+    "pageviewRank": -1,
+    "serieCount": 53,
+    "storyCount": 98
+  },
+  "secretIdentities": [
+    "Carl Lucas"
   ],
-  "realName": "Carl Lucas",
   "species": [
   ],
-  "teams": [
-    "Avengers",
-    "New Avengers",
-    "Heroes for Hire",
-    "Fantastic Four",
-    "Defenders",
-    "Marvel Knights",
-    "Thunderbolts",
-    "Dark Avengers",
-    "Mighty Avengers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Luke_Cage"
+  "urls": {
+    "marvel": "http://marvel.com/characters/34/luke_cage",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luke_Cage"
+  }
 }

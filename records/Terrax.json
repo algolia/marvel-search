@@ -1,53 +1,41 @@
 {
-  "aliases": "Tyros the Terrible, Terrax the Tamer",
-  "creators": [
-    "Marv Wolfman",
-    "John Byrne",
-    "Joe Sinnott"
+  "aliases": [
   ],
-  "image": {
-    "height": "428",
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/85/FantasticFour-242.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 19,
-      "events": 0,
-      "series": 13,
-      "stories": 14
-    },
-    "description": "Tyros was once the dictator of the city Lanlak on the planet Birj, where his superhuman ability to command rocks and earth enabled him to overcome all resistance, but his rule of Lanlak came to an end when he was sought by the world-devouring Galactus to serve as his latest Herald.",
-    "id": 1009651,
-    "image": null,
-    "url": "http://marvel.com/universe/Terrax"
-  },
+  "alliances": [
+    "Legion of the Unliving",
+    "Defenders",
+    "Galactus"
+  ],
+  "authors": [
+    "Artists: John Byrne  Joe Sinnott",
+    "Ben Sean",
+    "Writer:  Marv Wolfman"
+  ],
+  "description": "Tyros was once the dictator of the city Lanlak on the planet Birj, where his superhuman ability to command rocks and earth enabled him to overcome all resistance, but his rule of Lanlak came to an end when he was sought by the world-devouring Galactus to serve as his latest Herald.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/8/85/FantasticFour-242.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Terrax",
-  "pageviews": 8706,
   "partners": [
   ],
   "powers": [
-    "Power Cosmic"
+    "Use of Power Cosmic"
   ],
-  "powersText": [
-    "Superhuman strength",
-    "stamina",
-    "durability and reflexes",
-    "Energy projection",
-    "Force field generation",
-    "Limited earth manipulation",
-    "Immunity to the rigors of space",
-    "Use of Power Cosmic",
-    "Ability to fly at warp speed"
+  "ranking": {
+    "comicCount": 19,
+    "eventCount": 0,
+    "pageviewCount": 5654,
+    "pageviewRank": -1,
+    "serieCount": 13,
+    "storyCount": 14
+  },
+  "secretIdentities": [
+    "Tyros"
   ],
-  "realName": "Tyros",
   "species": [
-    "Birjan"
   ],
-  "teams": [
-    "Heralds of Galactus",
-    "Offenders",
-    "Legion of the Unliving"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Terrax"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2311/terrax",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terrax"
+  }
 }

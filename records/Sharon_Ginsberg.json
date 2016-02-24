@@ -1,29 +1,40 @@
 {
-  "aliases": "",
-  "creators": [
-    "Peter Milligan",
-    "Michael Allred"
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Mike Allred",
+    "Peter Milligan"
+  ],
+  "description": "Sharon Ginsberg is a fictional character, a mutant lawyer in the Marvel Comics Universe. Her first appearance was in X-Statix #2.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Sharon Ginsberg",
-  "pageviews": 371,
   "partners": [
     "Solomon O'Sullivan"
   ],
   "powers": [
-  ],
-  "powersText": [
     "bat-like wings",
     "flight",
     "razor-sharp claws protruding from her fingertips",
     "enhanced strength."
   ],
-  "realName": "Sharon Ginsberg",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 251,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sharon Ginsberg"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Sharon_Ginsberg"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Ginsberg"
+  }
 }

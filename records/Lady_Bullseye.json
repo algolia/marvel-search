@@ -1,43 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
-    "Ed Brubaker",
-    "Marko Djurdjevic",
-    "Clay Mann"
+  "aliases": [
   ],
-  "image": {
-    "height": "379",
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/53/Lady_Bullseye.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 5,
-      "events": 0,
-      "series": 3,
-      "stories": 6
-    },
-    "description": "",
-    "id": 1011327,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4ce5a67d44f61.jpg",
-    "url": "http://marvel.com/universe/Lady_Bullseye"
-  },
+  "alliances": [
+    "The Hand"
+  ],
+  "authors": [
+    "Clay Mann",
+    "Marko Djurdjevi%C4%87",
+    "Ed Brubaker"
+  ],
+  "description": "Lady Bullseye is a fictional character, a supervillain in the Marvel Comics Universe.  A female counterpart of Bullseye, she was created by Ed Brubaker, Marko Djurdjevic, and Clay Mann, first appearing in Daredevil #111.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4ce5a67d44f61/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Lady Bullseye",
-  "pageviews": 4120,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Master martial artist",
     "Proficient hand to hand combatant",
     "Skilled lawyer"
   ],
-  "realName": "Maki Matsumoto",
+  "ranking": {
+    "comicCount": 6,
+    "eventCount": 0,
+    "pageviewCount": 3164,
+    "pageviewRank": -1,
+    "serieCount": 3,
+    "storyCount": 7
+  },
+  "secretIdentities": [
+    "Maki Matsumoto"
+  ],
   "species": [
   ],
-  "teams": [
-    "The Hand"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Lady_Bullseye"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1196/lady_bullseye",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lady_Bullseye"
+  }
 }

@@ -1,24 +1,35 @@
 {
-  "aliases": "Doctor Voodoo",
-  "creators": [
-    "Gene Colan",
-    "Len Wein"
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Len Wein",
+    "Gene Colan"
+  ],
+  "description": "Daniel Drumm is a fictional character in Marvel Comics.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Daniel Drumm",
-  "pageviews": 1023,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Many magic abilities"
   ],
-  "realName": "Daniel Drumm",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 802,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Daniel Drumm"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Daniel_Drumm"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Drumm"
+  }
 }

@@ -1,35 +1,48 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "New Warriors"
+  ],
+  "authors": [
     "Tom DeFalco",
     "Pat Olliffe"
   ],
-  "image": {
-    "height": "329",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Darkdevil.png/250px-Darkdevil.png",
-    "width": "250"
-  },
+  "description": "Darkdevil (Reilly Tyne) is a fictional character, a superhero in the \"MC2\" future of the Marvel Comics universe. He was created by Tom DeFalco and Pat Olliffe and first appeared in Spider-Girl #2. (November 1998)",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Darkdevil.png/250px-Darkdevil.png",
+  "isHero": false,
+  "isVillain": false,
   "name": "Darkdevil",
-  "pageviews": 2490,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Excellent hand-to-hand combatant and free style fighter",
-    "Superhuman strength and agility",
-    "Teleportation",
-    "Precognitive \"Spider-Sense\"",
     "Ability to create flaming constructs",
-    "change his appearance from demon to human",
-    "cling to any surface and turn any body part into flame"
+    "usually into a weapon",
+    "Precognitive \"Spider-Sense\"",
+    "Teleportation",
+    "Change his appearance from demon to human",
+    "Ability to turn any body part into flame",
+    "Superhuman strength",
+    "agility",
+    "Ability to cling to any surface",
+    "Excellent hand-to-hand combatant",
+    "free style fighter"
   ],
-  "realName": "Reilly Tyne",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1717,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Reilly Tyne"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "New Warriors"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Darkdevil"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Darkdevil"
+  }
 }

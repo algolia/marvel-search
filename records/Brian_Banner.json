@@ -1,27 +1,36 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "image": {
-    "height": "249",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BrianBanner.JPG/170px-BrianBanner.JPG",
-    "width": "170"
-  },
+  "description": "Brian Banner is a fictional villain from the Marvel Comics Universe created by Bill Mantlo and Sal Buscema and first appearing in print in early 1982. Brian Banner is the abusive father of Bruce Banner, the Incredible Hulk, and his mistreatment of his own wife and son is a major contributing cause of Bruce's mental illness linked to his Hulk condition.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BrianBanner.JPG/170px-BrianBanner.JPG",
+  "isHero": false,
+  "isVillain": false,
   "name": "Brian Banner",
-  "pageviews": 6782,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Genius-level intellect"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4739,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Brian Banner"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Brian_Banner"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Banner"
+  }
 }

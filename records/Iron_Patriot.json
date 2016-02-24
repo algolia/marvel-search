@@ -1,44 +1,50 @@
 {
-  "aliases": "American Son",
-  "creators": [
+  "aliases": [
   ],
-  "image": {
-    "height": "375",
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/22/Iron_Patriot.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1009487,
-    "image": null,
-    "url": null
-  },
-  "name": "Iron Patriot",
-  "pageviews": 16759,
-  "partners": [
-  ],
-  "powers": [
-  ],
-  "powersText": [
-    "Superhuman strength and durability",
-    "Flight",
-    "Magnetic impact blasts",
-    "Heat seeking missiles",
-    "Miniaturized lasers",
-    "Flamethrowers",
-    "Communications system via helmet"
-  ],
-  "realName": null,
-  "species": [
-  ],
-  "teams": [
+  "alliances": [
     "Dark Avengers"
   ],
-  "url": "https://en.wikipedia.org/wiki/Iron_Patriot"
+  "authors": [
+  ],
+  "description": "Iron Patriot is a fictional powered exoskeleton used by several characters in Marvel Comics. The alias is an amalgam of Iron Man's armor and Captain America's colors.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Iron_Patriot.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Iron Patriot",
+  "partners": [
+    "War Machine",
+    "Iron Man"
+  ],
+  "powers": [
+    "Heat seeking missiles",
+    "Communications system via helmet",
+    "Magnetic impact blasts",
+    "Flight",
+    "Flamethrowers",
+    "Superhuman strength",
+    "durability",
+    "Miniaturized lasers",
+    "*Superhuman strength",
+    "*A cyberpathic link with a prior version of his powered armored suit",
+    "*Supersonic flight at Mach 3",
+    "*Energy repulsors",
+    "*Missiles",
+    "*Regenerative life support"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 12699,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/30/iron_patriot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iron_Patriot"
+  }
 }

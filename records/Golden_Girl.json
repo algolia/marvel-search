@@ -1,29 +1,44 @@
 {
-  "aliases": "",
-  "creators": [
-    "Joe Simon",
-    "Jack Kirby"
+  "aliases": [
   ],
-  "image": {
-    "height": "323",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GoldenGirl.jpg/200px-GoldenGirl.jpg",
-    "width": "200"
-  },
+  "alliances": [
+    "Women's Army Corps",
+    "Penance Council",
+    "All-Winners Squad",
+    "V-Battalion",
+    "Kid Commandos"
+  ],
+  "authors": [
+    "Frank Robbins",
+    "Roy Thomas"
+  ],
+  "description": "Not to be confused with \"The Golden Girls\". For other uses, see Golden Girl (disambiguation).Golden Girl is the name of two fictional superheroine characters in comic books published by Marvel Comics, the first of them during the 1930-1940s period known to historians and collectors as the Golden Age of Comic Books.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GoldenGirl.jpg/200px-GoldenGirl.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Golden Girl",
-  "pageviews": 5116,
   "partners": [
   ],
   "powers": [
+    "Golden force beam projection via her hands",
+    "Energy",
+    "light generation"
   ],
-  "powersText": [
-    "Wears bulletproof cape"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4512,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Betsy Ross",
+    "Gwendolyne \"Gwenny\" Lou Sabuki"
   ],
-  "realName": "Betsy Ross",
   "species": [
   ],
-  "teams": [
-    "Women's Auxiliary Army Corps",
-    "All-Winners Squad"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Golden_Girl"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Golden_Girl"
+  }
 }

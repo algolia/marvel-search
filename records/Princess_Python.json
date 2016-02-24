@@ -1,35 +1,45 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Serpent Squad",
+    "Femizons",
+    "Circus of Crime",
+    "Serpent Society"
+  ],
+  "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "image": {
-    "height": "288",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Pwj16.jpg/200px-Pwj16.jpg",
-    "width": "200"
-  },
+  "description": "Princess Python is the name of two characters in Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Pwj16.jpg/200px-Pwj16.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Princess Python",
-  "pageviews": 2445,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Trained athlete",
-    "Extremely talented snake charmer and handler",
+    "Extremely talented snake charmer",
+    "handler",
     "Carries a hand held",
     "electric cattle prod",
-    "Use of pet snakes as sidekicks"
+    "Use of pet snakes as sidekicks",
+    "Trained athlete"
   ],
-  "realName": "Zelda DuBois",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1681,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Zelda DuBois"
+  ],
   "species": [
   ],
-  "teams": [
-    "Circus of Crime",
-    "Femizons",
-    "Serpent Squad",
-    "Serpent Society"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Princess_Python"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Princess_Python"
+  }
 }

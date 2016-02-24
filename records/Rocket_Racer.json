@@ -1,45 +1,42 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Avengers Academy",
+    "Wild Pack"
+  ],
+  "authors": [
     "Len Wein",
     "Ross Andru"
   ],
-  "image": {
-    "height": "384",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Amazing_Spider-Man_172.png/250px-Amazing_Spider-Man_172.png",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1010769,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c0037551d8c2.jpg",
-    "url": "http://marvel.com/universe/Rocket_Racer"
-  },
+  "description": "The Rocket Racer is the name of two characters in Marvel Comics.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c0037551d8c2/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Rocket Racer",
-  "pageviews": 2366,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Gifted intellect",
-    "Wears gauntlets armed with mini-rockets",
     "Rides a cybernetically-controlled",
-    "rocket-powered magnetic skateboard"
+    "rocket-powered magnetic skateboard",
+    "Gifted intellect",
+    "Wears gauntlets armed with mini-rockets"
   ],
-  "realName": "Robert Farrell",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1817,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Robert Farrell"
+  ],
   "species": [
   ],
-  "teams": [
-    "Avengers Academy",
-    "The Outlaws",
-    "Wild Pack"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Rocket_Racer"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2822/rocket_racer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rocket_Racer"
+  }
 }

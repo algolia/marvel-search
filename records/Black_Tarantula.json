@@ -1,47 +1,47 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "The Hand"
+  ],
+  "authors": [
     "Tom DeFalco",
     "Steve Skroce"
   ],
-  "image": {
-    "height": "380",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/AmazingSpider-Man432.jpg/250px-AmazingSpider-Man432.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 2,
-      "events": 0,
-      "series": 2,
-      "stories": 1
-    },
-    "description": "",
-    "id": 1010687,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0038dfc1270.jpg",
-    "url": "http://marvel.com/universe/Black_Tarantula"
-  },
+  "description": "Black Tarantula is a fictional character that appears in comic books published by Marvel Comics. The character first appears as an unseen character in The Amazing Spider-Man #419 (January 1997), and makes his first full appearance in Amazing Spider-Man #432 (March 1998). Black Tarantula was created by writer Tom DeFalco and artist Steve Skroce.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0038dfc1270/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Black Tarantula",
-  "pageviews": 4494,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Skilled martial artist",
+    "Healing factor",
+    "Genius-level intelligence",
+    "Energy beams projection via eyes",
     "Superhuman strength",
     "speed",
+    "reflexes",
+    "reactions",
     "agility",
-    "durability and reflexes/reactions",
-    "Genius-level intelligence",
-    "Energy beam projection through eyes",
-    "Healing factor"
+    "durability"
   ],
-  "realName": "Carlos LaMuerto",
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 3194,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Carlos LaMuerto"
+  ],
   "species": [
   ],
-  "teams": [
-    "The Hand"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Black_Tarantula"
+  "urls": {
+    "marvel": "http://marvel.com/characters/284/black_tarantula",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Tarantula"
+  }
 }

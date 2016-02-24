@@ -1,28 +1,39 @@
 {
-  "aliases": "Gorilla Woman",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Fifty State Initiative",
+    "The Freaks"
+  ],
+  "authors": [
     "Steven Grant",
     "Pat Broderick"
   ],
-  "image": {
-    "height": "290",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Gorila_girl.jpg/250px-Gorila_girl.jpg",
-    "width": "250"
-  },
+  "description": "Fahnbullah Eddy, also known as Gorilla Girl, is a fictional comic book character within Marvel Comics' shared universe the Marvel Universe. She first appeared in Marvel Team-Up #91 (March 1980), and was created by Steven Grant and Pat Broderick.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Gorila_girl.jpg/250px-Gorila_girl.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Gorilla Girl",
-  "pageviews": 1404,
   "partners": [
   ],
   "powers": [
+    "Ability to shapeshift into a super-strong",
+    "highly agile gorilla"
   ],
-  "powersText": [
-    "Ability to shapeshift into a super-strong and highly agile gorilla"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1167,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Fahnbullah Eddy"
   ],
-  "realName": "Fahnbullah Eddy",
   "species": [
   ],
-  "teams": [
-    "Initiative"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Gorilla_Girl"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gorilla_Girl"
+  }
 }

@@ -1,32 +1,40 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Chris Claremont",
     "John Buscema"
   ],
-  "image": {
-    "height": "125",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Roughouse.jpg/250px-Roughouse.jpg",
-    "width": "250"
-  },
+  "description": "Roughouse is a fictional character, a comic book supervillain in the Marvel Comics universe and the occasional enemy of Wolverine. His first appearance was in Wolverine vol. 2,  #4. The character was created by Chris Claremont and John Buscema.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Roughouse.jpg/250px-Roughouse.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Roughouse",
-  "pageviews": 830,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Formidable hand to hand combatant",
     "Superhuman strength",
     "stamina",
-    "and durability due to his Rock Troll heritage",
-    "Formidable hand to hand combatant",
+    "durability due to his Rock Troll heritage",
     "Many criminal underworld connections"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 583,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
-    "Asgardian"
+    "Asgard"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Roughouse"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Roughouse"
+  }
 }

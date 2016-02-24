@@ -1,34 +1,40 @@
 {
-  "aliases": "Lord Ghaur",
-  "creators": [
-    "Peter B. Gillis",
-    "Sal Buscema"
+  "aliases": [
   ],
-  "image": {
-    "height": "384",
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/AvengersWestCoastAnnual4.jpg",
-    "width": "250"
-  },
-  "name": "Ghaur",
-  "pageviews": 910,
-  "partners": [
-    "Llyra",
+  "alliances": [
+    "Deviant",
     "Kro",
-    "Set"
+    "Father Set"
+  ],
+  "authors": [
+    "Sal Buscema",
+    "Peter B. Gillis"
+  ],
+  "description": "Ghaur (pronounced \"Gore\") is a Marvel Comics supervillain. Created by Peter B. Gillis and Sal Buscema, he first appeared in Eternals vol. 2,  #2 (November, 1985).In the Marvel Universe, he is the head of the Deviant race's priesthood.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/AvengersWestCoastAnnual4.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Ghaur",
+  "partners": [
   ],
   "powers": [
-    "Mind control",
-    "Shapeshifting"
-  ],
-  "powersText": [
     "Mind control of other deviants",
     "Shapeshifting"
   ],
-  "realName": "Ghaur",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 672,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ghaur"
+  ],
   "species": [
   ],
-  "teams": [
-    "Deviants"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Ghaur"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghaur"
+  }
 }

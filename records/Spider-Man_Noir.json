@@ -1,43 +1,31 @@
 {
-  "aliases": "",
-  "creators": [
-    "David Hine",
-    "Fabrice Sapolsky",
-    "Carmine Di Giandomenico"
+  "aliases": [
   ],
-  "image": {
-    "height": "314",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Spider-Man_Noir.png/250px-Spider-Man_Noir.png",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 2573,
-      "events": 29,
-      "series": 531,
-      "stories": 4166
-    },
-    "description": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.",
-    "id": 1009610,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b.jpg",
-    "url": "http://marvel.com/universe/Spider-Man_(Peter_Parker)"
-  },
-  "name": "Spider-Man",
-  "pageviews": 9357,
+  "alliances": [
+  ],
+  "authors": [
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Spider-Man_Noir.png/250px-Spider-Man_Noir.png",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Spider-Man Noir",
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
-    "The proportionate strength",
-    "speed and agility of a spider",
-    "a spider-sense and the ability to spray organic webbing from his hands. Uses his webbing as nets to both stun and capture his enemies"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 6761,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": "Peter Parker",
   "species": [
   ],
-  "teams": [
-    "Web Warriors"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Spider-Man_Noir"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Spider-Man_Noir"
+  }
 }

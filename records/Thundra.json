@@ -1,50 +1,50 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Frightful Four",
+    "Roxxon Energy Corporation",
+    "Code Red",
+    "Grapplers",
+    "Lady Liberators"
+  ],
+  "authors": [
     "Roy Thomas",
     "Gerry Conway"
   ],
-  "image": {
-    "height": "375",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Hulkrt_cvr.jpg/250px-Hulkrt_cvr.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 2,
-      "events": 1,
-      "series": 2,
-      "stories": 2
-    },
-    "description": "Thundra was quite possibly her world's greatest female specimens, and as she won countless battles against the men, she was revered as the Sisterhood's greatest hero.",
-    "id": 1011304,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4ce5a61df19e5.jpg",
-    "url": "http://marvel.com/universe/Thundra"
-  },
+  "description": "Thundra was quite possibly her world's greatest female specimens, and as she won countless battles against the men, she was revered as the Sisterhood's greatest hero.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4ce5a61df19e5/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Thundra",
-  "pageviews": 7471,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Vast superhuman strength and resistance to injury",
+    "Superior hand to hand combatant",
     "Peak level speed",
     "agility",
     "stamina",
-    "and reflexes",
-    "Superior hand to hand combatant",
-    "Carries a sword and a three-foot linked chain as weapons"
+    "reflexes",
+    "Carries a sword",
+    "a three-foot linked chain as weapons",
+    "Vast superhuman strength",
+    "resistance to injury"
   ],
-  "realName": "Thundra",
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 1,
+    "pageviewCount": 5016,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Thundra"
+  ],
   "species": [
   ],
-  "teams": [
-    "Lady Liberators",
-    "Frightful Four",
-    "The Grapplers",
-    "Roxxon Oil",
-    "Squadron Supreme"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Thundra"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2370/thundra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thundra"
+  }
 }

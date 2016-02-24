@@ -1,44 +1,45 @@
 {
-  "aliases": "",
-  "creators": [
-    "Fred Van Lente",
-    "Leonard Kirk"
+  "aliases": [
   ],
-  "image": {
-    "height": "375",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Am_Fantasy_7.jpg/250px-Am_Fantasy_7.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 5,
-      "events": 1,
-      "series": 3,
-      "stories": 4
-    },
-    "description": "Carmilla Black is a genetically engineered human, created by Advanced Idea Mechanics (A.I.M.).",
-    "id": 1010790,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c0037366fae7.jpg",
-    "url": "http://marvel.com/universe/Scorpion_%28Carmilla_Black%29"
-  },
-  "name": "Scorpion",
-  "pageviews": 4110,
+  "alliances": [
+  ],
+  "authors": [
+  ],
+  "description": "Carmilla Black is a genetically engineered human, created by Advanced Idea Mechanics (A.I.M.).",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c0037366fae7/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Scorpion (Carmilla Black)",
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
-    "Trained martial artist",
-    "Immunity to poisons",
-    "Left arm delivers \"sting\" ranging from causing mild discomfort to killing with a touch",
-    "Semi-organic tail"
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 1,
+    "pageviewCount": 5708,
+    "pageviewRank": -1,
+    "serieCount": 3,
+    "storyCount": 4
+  },
+  "secretIdentities": [
   ],
-  "realName": "Carmilla Black (born Thasanee Rappaccini)",
   "species": [
   ],
-  "teams": [
-    "S.H.I.E.L.D.",
-    "HYDRA"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2028/scorpion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scorpion_(Marvel_Comics)"
+  }
+}
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Carmilla Black"
   ],
-  "url": "https://en.wikipedia.org/wiki/Scorpion_(Carmilla_Black)"
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2028/scorpion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scorpion_(Carmilla_Black)"
+  }
 }

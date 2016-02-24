@@ -1,0 +1,43 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "X-Force"
+  ],
+  "authors": [
+    "Mike Allred",
+    "Peter Milligan"
+  ],
+  "description": "Bloke (Mickey Tork), also known as Rainbow, is a fictional character, a mutant in the Marvel Universe. He was created by Peter Milligan and Mike Allred in X-Force (vol. 1) #117 (2001).",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c00409415b3b/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Bloke",
+  "partners": [
+  ],
+  "powers": [
+    "Camouflage",
+    "Superhuman strength",
+    "endurance",
+    "reflexes",
+    "durability"
+  ],
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 0,
+    "pageviewCount": 664,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+    "Mickey Tork"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/311/bloke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bloke_(comics)"
+  }
+}

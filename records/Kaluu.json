@@ -1,27 +1,36 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Stan Lee",
     "Denny O'Neill",
     "Bill Everett"
   ],
-  "image": {
-  },
+  "description": "Kaluu is a fictional character in the Marvel Universe, and is a sorcerer specializing in black magic and contemporary of the Ancient One. He has appeared sporadically as an opponent to Doctor Strange. He currently serves as a member of the Mighty Avengers.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Kaluu",
-  "pageviews": 4821,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
-    "Mastery of magic"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4144,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kaluu"
   ],
-  "realName": "Kaluu",
   "species": [
     "Human"
   ],
-  "teams": [
-    "The Mighty Avengers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Kaluu"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kaluu"
+  }
 }

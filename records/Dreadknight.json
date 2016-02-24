@@ -1,32 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Frightful Four"
+  ],
+  "authors": [
     "Bill Mantlo",
     "George Tuska"
   ],
-  "image": {
-    "height": "243",
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/DreadknightIM102.jpg",
-    "width": "222"
-  },
+  "description": "Dreadknight is a fictional character that appears in comic books published by Marvel Comics. The character first appeared in Iron Man #102 (Aug. 1977) and was created by writer Bill Mantlo and penciller George Tuska.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/6c/DreadknightIM102.jpg",
+  "isHero": false,
+  "isVillain": true,
   "name": "Dreadknight",
-  "pageviews": 2486,
   "partners": [
   ],
   "powers": [
+    "Body armor",
+    "weaponry"
   ],
-  "powersText": [
-    "Gifted scientist",
-    "Rides the \"Hellhorse\"",
-    "Use of weapons",
-    "Steel alloy body armor grants:",
-    "Superhuman strength and durability"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1758,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Bram Velsing"
   ],
-  "realName": "Bram Velsing",
   "species": [
   ],
-  "teams": [
-    "Frightful Four"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Dreadknight"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dreadknight"
+  }
 }

@@ -1,45 +1,47 @@
 {
-  "aliases": "Adrienne Hatros",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Black Spectre",
+    "Lethal Legion"
+  ],
+  "authors": [
     "Steve Gerber",
     "Ross Andru"
   ],
-  "image": {
-    "height": "375",
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/Nekra%28comics%29.jpg",
-    "width": "229"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1011422,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c002e11323ba.jpg",
-    "url": "http://marvel.com/universe/Nekra"
-  },
+  "description": "Nekra is a fictional mutant supervillain in Marvel Comics created by Steve Gerber and Ross Andru for the 1973 comic book Shanna the She-devil.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c002e11323ba/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Nekra",
-  "pageviews": 1600,
   "partners": [
     "Mandrill"
   ],
   "powers": [
+    "Hate",
+    "rage build superhuman power",
+    "invulnerability",
+    "Magical knowledge",
+    "skills for creating zombies",
+    "fangs",
+    "claws"
   ],
-  "powersText": [
-    "Hate and rage build superhuman power and invulnerability",
-    "Magical knowledge and skills for creating zombies",
-    "fangs and claws"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1127,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nekra Sinclair"
   ],
-  "realName": "Nekra Sinclair",
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Lethal Legion",
-    "Black Spectre"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Nekra"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1576/nekra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nekra"
+  }
 }

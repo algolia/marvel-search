@@ -1,46 +1,45 @@
 {
-  "aliases": "Paul St. Pierre, Mokk: Breaker of Faith",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
   ],
-  "image": {
-    "height": "376",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Journey_into_Mystery_107.jpg/250px-Journey_into_Mystery_107.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 15,
-      "events": 1,
-      "series": 10,
-      "stories": 15
-    },
-    "description": "",
-    "id": 1011420,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/528d319931e60.jpg",
-    "url": "http://marvel.com/universe/Grey%20Gargoyle"
-  },
+  "alliances": [
+    "Advanced Idea Mechanics",
+    "Lethal Legion",
+    "Hood's crime syndicate",
+    "Masters of Evil",
+    "Fear Itself"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "The Grey Gargoyle (Paul Pierre Duval) is a fictional character, a supervillain that appears in comic books published by Marvel Comics, often as an enemy of Thor, Iron Man, or Captain America.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/528d319931e60/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Grey Gargoyle",
-  "pageviews": 3783,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Superhuman strength",
+    "durability",
     "Genius chemist",
-    "Superhuman strength and durability",
-    "Ability to turn creatures and objects to stone via physical contact"
+    "Stone touch"
   ],
-  "realName": "Paul Pierre Duval",
+  "ranking": {
+    "comicCount": 15,
+    "eventCount": 1,
+    "pageviewCount": 2674,
+    "pageviewRank": -1,
+    "serieCount": 10,
+    "storyCount": 15
+  },
+  "secretIdentities": [
+    "Paul Pierre Duval"
+  ],
   "species": [
   ],
-  "teams": [
-    "Masters of Evil",
-    "AIM",
-    "The Worthy",
-    "Lethal Legion",
-    "Hood"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Grey_Gargoyle"
+  "urls": {
+    "marvel": "http://marvel.com/comics/characters/1011420/grey_gargoyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grey_Gargoyle"
+  }
 }

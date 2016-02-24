@@ -1,53 +1,49 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Daughters of the Dragon",
+    "Nightwing Restorations Ltd",
+    "Heroes for Hire",
+    "The Hand"
+  ],
+  "authors": [
     "Doug Moench",
     "Larry Hama"
   ],
-  "image": {
-    "height": "450",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Colleenwing.jpg/228px-Colleenwing.jpg",
-    "width": "228"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 16,
-      "events": 2,
-      "series": 7,
-      "stories": 14
-    },
-    "description": "Colleen Wing was raised in Japan by her grandfather Kanji Ozawa, who taught her the ways of a samurai, in which she became highly skilled, after which she teamed up with Misty Knight at the behest of Tony Stark as a new Heroes for Hire tasked with capturing superhumans who have not registered.",
-    "id": 1010676,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/52740e24bddb4.jpg",
-    "url": "http://marvel.com/universe/Wing%2C_Colleen"
-  },
+  "description": "Colleen Wing was raised in Japan by her grandfather Kanji Ozawa, who taught her the ways of a samurai, in which she became highly skilled, after which she teamed up with Misty Knight at the behest of Tony Stark as a new Heroes for Hire tasked with capturing superhumans who have not registered.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/52740e24bddb4/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Colleen Wing",
-  "pageviews": 17421,
   "partners": [
-    "Misty Knight",
+    "Luke Cage",
     "Iron Fist",
-    "Luke Cage"
+    "Misty Knight"
   ],
   "powers": [
-    "samurai",
-    "detective"
-  ],
-  "powersText": [
-    "Master samurai",
     "Talented swordswoman",
-    "Skilled detective",
-    "Use of chi grants:",
-    "Enhanced strength",
+    "Master samurai",
     "Accelerated healing",
-    "High resistance to injury"
+    "High resistance to injury",
+    "Enhanced strength",
+    "Skilled detective"
   ],
-  "realName": "Colleen Wing",
+  "ranking": {
+    "comicCount": 16,
+    "eventCount": 2,
+    "pageviewCount": 15003,
+    "pageviewRank": -1,
+    "serieCount": 7,
+    "storyCount": 14
+  },
+  "secretIdentities": [
+    "Colleen Wing"
+  ],
   "species": [
   ],
-  "teams": [
-    "Heroes for Hire",
-    "Daughters of the Dragon",
-    "The Nail"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Colleen_Wing"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2805/colleen_wing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colleen_Wing"
+  }
 }

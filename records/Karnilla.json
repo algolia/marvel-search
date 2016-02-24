@@ -1,40 +1,31 @@
 {
-  "aliases": "The Norn Queen",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "400",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Karnilla.jpg/200px-Karnilla.jpg",
-    "width": "200"
-  },
+  "description": "Karnilla is a fictional character in the Marvel Comics universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Karnilla.jpg/200px-Karnilla.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Karnilla",
-  "pageviews": 3282,
   "partners": [
   ],
   "powers": [
+    "Even though Karnilla is a Norn",
+    "she possesses the conventional attributes of an Asgardian woman",
     "Superhuman strength",
+    "agility",
     "endurance",
     "healing factor",
     "longevity",
+    "immunity to all diseases",
     "Telekinesis",
-    "Shapeshifting",
-    "force fields",
-    "Illusion",
-    "paralysis",
-    "teleportation",
-    "Elemental conversion"
-  ],
-  "powersText": [
-    "Even though Karnilla is a Norn",
-    "she possesses the conventional attributes of an Asgardian woman",
-    "such as:",
-    "Superhuman strength",
-    "agility",
-    "endurancehealing factorlongevity and immunity to all diseases Mystical Powers:",
-    "Telekinesis",
-    "Enhancement of physical and sensory abilities",
+    "Enhancement of physical",
+    "sensory abilities",
     "Shapeshifting",
     "Ability to create energy force fields",
     "Illusion casting",
@@ -42,10 +33,20 @@
     "Inter-dimensional teleportation",
     "Elemental conversion"
   ],
-  "realName": "Karnilla",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2277,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Karnilla"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Karnilla"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Karnilla"
+  }
 }

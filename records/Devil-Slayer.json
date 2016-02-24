@@ -1,31 +1,41 @@
 {
-  "aliases": "Agent of Death, The Reaper of Souls, \"Cape Man\"",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Revengers",
+    "Defenders",
+    "Agents of Fortune",
+    "Point Men"
+  ],
+  "authors": [
     "Rich Buckler"
   ],
-  "image": {
-    "height": "212",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Devil-Slayer.jpg/250px-Devil-Slayer.jpg",
-    "width": "250"
-  },
+  "description": "Devil-Slayer (Eric Simon Payne) is a fictional character that has appeared in various comic book series published by Marvel Comics. The character exists in Marvel's main shared universe, known as the Marvel Universe. Devil-Slayer first appeared in Marvel Spotlight #33 (April 1977), and was created by Rich Buckler.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Devil-Slayer.jpg/250px-Devil-Slayer.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Devil-Slayer",
-  "pageviews": 2355,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Teleportation",
     "Telepathy",
-    "Telekinesis",
-    "Teleportation"
+    "Telekinesis"
   ],
-  "realName": "Eric Simon Payne",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1722,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eric Simon Payne"
+  ],
   "species": [
   ],
-  "teams": [
-    "Defenders",
-    "Agents of Fortune",
-    "Revengers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Devil-Slayer"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Devil-Slayer"
+  }
 }

@@ -1,26 +1,31 @@
 {
-  "aliases": "",
-  "creators": [
-    "Stan Lee",
-    "Steve Ditko"
+  "aliases": [
   ],
-  "image": {
-    "height": "74",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Spider-Verse_Spider-Men.jpg/250px-Spider-Verse_Spider-Men.jpg",
-    "width": "250"
-  },
+  "alliances": [
+  ],
+  "authors": [
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Spider-Verse_Spider-Men.jpg/250px-Spider-Verse_Spider-Men.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Blood Spider",
-  "pageviews": 250,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 156,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Blood_Spider"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Blood_Spider"
+  }
 }

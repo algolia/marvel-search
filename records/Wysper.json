@@ -1,28 +1,39 @@
 {
-  "aliases": "",
-  "creators": [
-    "Dan Slott",
-    "John Calimee"
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+    "The Jury"
+  ],
+  "authors": [
+    "John Calimee",
+    "Dan Slott"
+  ],
+  "description": "Wysper (Jennifer Stewart) is a fictional character in the Marvel Comics universe. She first appeared Venom: Sinner Takes All  #1 and was created by Dan Slott and John Calimee.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Wysper",
-  "pageviews": 471,
   "partners": [
   ],
   "powers": [
+    "No superhuman powers",
+    "body-armor",
+    "jet-boots",
+    "sonic weapons"
   ],
-  "powersText": [
-    "Armored suit grants:",
-    "Flight",
-    "Energy blast projection",
-    "Sonic weapons"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 330,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jennifer Stewart"
   ],
-  "realName": "Jennifer Stewart",
   "species": [
   ],
-  "teams": [
-    "The Jury"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Wysper"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wysper"
+  }
 }

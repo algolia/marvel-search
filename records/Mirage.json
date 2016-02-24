@@ -1,0 +1,42 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Grapplers"
+  ],
+  "authors": [
+    "Len Wein",
+    "Ross Andru"
+  ],
+  "description": "Mirage is the name of two Marvel Comics villain. He first appeared in The Amazing Spider-Man #156.",
+  "isHero": false,
+  "isVillain": true,
+  "name": "Mirage",
+  "partners": [
+  ],
+  "powers": [
+    "Three dimensional holographic image projection",
+    "Carries a handgun",
+    "tranquilizer gun",
+    "Genius electrician",
+    "physicist",
+    "laser technologist"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 691,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Desmond Charne"
+  ],
+  "species": [
+    "Human"
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mirage_(Marvel_Comics)"
+  }
+}

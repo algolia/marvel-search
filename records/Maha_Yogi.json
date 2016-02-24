@@ -1,23 +1,33 @@
 {
-  "aliases": "Mad Merlin, The Warlock, the Maha Yogi",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-  },
+  "description": "Maha Yogi is a fictional character in the Marvel Universe. He first appeared in Journey into Mystery #96 (September 1963), and was created by Stan Lee and Jack Kirby.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Maha Yogi",
-  "pageviews": 1105,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 729,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Maha_Yogi"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maha_Yogi"
+  }
 }

@@ -1,23 +1,42 @@
 {
-  "aliases": "",
-  "creators": [
-    "Stan Lee",
-    "Steve Ditko"
+  "aliases": [
   ],
-  "image": {
-  },
-  "name": "Crime Master I",
-  "pageviews": 1700,
+  "alliances": [
+    "Savage Six"
+  ],
+  "authors": [
+    "as Crime-Master: Rick Remender",
+    "Tony Moore",
+    "as Bennett Brant: Stan Lee",
+    "Steve Ditko",
+    "Bill Mantlo",
+    "Sal Buscema",
+    "Stan Lee"
+  ],
+  "description": "The Crime Master is a Marvel Comics super-villain, of the professional-criminal type, and an enemy of Spider-Man. Created by writer Stan Lee and designed by artist Steve Ditko, he first appears in The Amazing Spider-Man #26 (July 1965). The character was most notable for having briefly been the partner of the Green Goblin. Both villains aspire to take over the criminal mobs of New York and form an uneasy partnership. They are both aware of the other's secret identity which keeps them from outwardly betraying the other. The Crime-Master only lasted two issues, being killed at the conclusion of The Amazing Spider-Man #27; however, there was a second Crime Master in the 1970s, and new stories were written in the pages of Untold Tales of Spider-Man that featured the original character before his death.",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Crime Master",
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1230,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Nicholas \"Nick\" \"Lucky\" Lewis",
+    "Nicholas \"Nick\" Lewis Jr.",
+    "Bennett Brant"
   ],
-  "realName": "Nicholas \"Nick\" \"Lucky\" Lewis",
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Crime_Master"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Crime_Master"
+  }
 }

@@ -1,30 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Howard Mackie",
     "Javier Saltares"
   ],
-  "image": {
-    "height": "184",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/JackShriker.jpg/150px-JackShriker.jpg",
-    "width": "150"
-  },
+  "description": "Shriker is a fictional American comic book character owned by Marvel Comics. His alter-ego is Jack D'Auria, best friend to Danny Ketch. Jack has extensive martial arts training and has mastered all disciplines.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/JackShriker.jpg/150px-JackShriker.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Shriker",
-  "pageviews": 496,
   "partners": [
-    "Ghost Rider",
-    "John Blaze",
-    "Caretaker"
+    "Ghost Rider (Johnny Blaze)",
+    "Ghost Rider"
   ],
   "powers": [
-  ],
-  "powersText": [
     "Extensive Martial Arts Training"
   ],
-  "realName": "Jack D'Auria",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 373,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jack D'Auria"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Shriker"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shriker"
+  }
 }

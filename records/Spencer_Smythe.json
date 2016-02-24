@@ -1,41 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "image": {
-    "height": "254",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/SpiderSlayers.jpg/220px-SpiderSlayers.jpg",
-    "width": "220"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 4,
-      "events": 0,
-      "series": 2,
-      "stories": 4
-    },
-    "description": "",
-    "id": 1009605,
-    "image": null,
-    "url": "http://marvel.com/universe/Spencer%20Smythe"
-  },
+  "description": "Spencer Smythe is a fictional character, a comic book villain in the Marvel Comics universe. He first appeared in The Amazing Spider-Man #25 (June 1965). He is the father of Alistair Smythe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/SpiderSlayers.jpg/220px-SpiderSlayers.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Spencer Smythe",
-  "pageviews": 2518,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Robotics",
     "Arachnid expert"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 1911,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+  ],
   "species": [
     "Human"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Spencer_Smythe"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2767/spencer_smythe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spencer_Smythe"
+  }
 }

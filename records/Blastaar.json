@@ -1,47 +1,49 @@
 {
-  "aliases": "Living Bomb-Burst<br>Blasstaar",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Frightful Four",
+    "Aliens of the Negative Zone",
+    "Legion Accursed"
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "372",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Thing006blastaar.jpg/250px-Thing006blastaar.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 25,
-      "events": 1,
-      "series": 15,
-      "stories": 30
-    },
-    "description": "",
-    "id": 1009195,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/52695222c22e0.jpg",
-    "url": "http://marvel.com/universe/Blastaar"
-  },
+  "description": "Blastaar, sometimes called the Living Bomb-Burst and Blasstaar, is a Marvel Comics supervillain. Blastaar is an opponent of the Fantastic Four and lives in the Negative Zone. Blastaar is an enemy of Annihilus, another Fantastic Four villain.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/52695222c22e0/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Blastaar",
-  "pageviews": 4989,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Superhuman strength and endurance",
-    "Enhanced durability and resistance to injury",
-    "Virtually unlimited stamina",
-    "Self-propelled flight",
-    "Energy blasts",
+    "Enhanced durability",
+    "resistance to injury",
+    "Superhuman strength",
+    "endurance",
     "Highly trained in warfare",
+    "Self-propelled flight",
+    "Virtually unlimited stamina",
+    "Energy blasts",
     "Access to advanced technology"
   ],
-  "realName": "Blastaar",
+  "ranking": {
+    "comicCount": 25,
+    "eventCount": 1,
+    "pageviewCount": 2935,
+    "pageviewRank": -1,
+    "serieCount": 15,
+    "storyCount": 30
+  },
+  "secretIdentities": [
+    "Blastaar"
+  ],
   "species": [
+    "Baluurians"
   ],
-  "teams": [
-    "Negative Zone",
-    "Frightful Four"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Blastaar"
+  "urls": {
+    "marvel": "http://marvel.com/characters/298/blastaar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blastaar"
+  }
 }

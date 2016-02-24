@@ -1,32 +1,44 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Bill Mumy",
     "Miguel Ferrer",
-    "Kelley Jones"
+    "and Kelley Jones"
   ],
-  "image": {
-  },
+  "description": "Comet Man (Stephen Beckley) is a fictional character in the Marvel Comics universe.",
+  "isHero": true,
+  "isVillain": false,
   "name": "Comet Man",
-  "pageviews": 1009,
   "partners": [
   ],
   "powers": [
-    "telekinesis"
-  ],
-  "powersText": [
-    "Superhuman strength and durability",
-    "Teleportation",
-    "Force field generation",
-    "Concussive blast projection",
     "Astral projection",
+    "Teleportation",
     "Flight via telekinesis",
-    "Accelerated healing factor"
+    "Accelerated healing factor",
+    "Concussive blast projection",
+    "Superhuman strength",
+    "durability",
+    "Force field generation"
   ],
-  "realName": "Dr. Stephen Beckley",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 721,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dr. Stephen Beckley"
+  ],
   "species": [
+    "Human"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Comet_Man"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Comet_Man"
+  }
 }

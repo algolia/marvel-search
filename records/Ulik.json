@@ -1,45 +1,41 @@
 {
-  "aliases": "Tanarus: God of Thunder",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "391",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Thor252ULIK.jpg/250px-Thor252ULIK.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 19,
-      "events": 0,
-      "series": 7,
-      "stories": 21
-    },
-    "description": "Ulik was a Rock Troll from the realm known as Nornheim, located underground within the dimension of Asgard.",
-    "id": 1010358,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4d3f3b2078758.jpg",
-    "url": "http://marvel.com/universe/Ulik"
-  },
+  "description": "Ulik was a Rock Troll from the realm known as Nornheim, located underground within the dimension of Asgard.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4d3f3b2078758/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Ulik",
-  "pageviews": 4027,
   "partners": [
     "Loki"
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Superior hand to hand combatant",
+    "Superior fighting skills",
     "Superhuman strength",
-    "stamina and durability",
-    "Night vision",
-    "Use of pounders"
+    "stamina",
+    "durability"
   ],
-  "realName": "",
+  "ranking": {
+    "comicCount": 19,
+    "eventCount": 0,
+    "pageviewCount": 2779,
+    "pageviewRank": -1,
+    "serieCount": 7,
+    "storyCount": 21
+  },
+  "secretIdentities": [
+  ],
   "species": [
+    "Troll"
   ],
-  "teams": [
-    "Roxxon Energy Corporation"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Ulik"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2434/ulik",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulik"
+  }
 }

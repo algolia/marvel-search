@@ -1,29 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Excalibur"
+  ],
+  "authors": [
     "Chris Claremont",
     "Juan Bobillo"
   ],
-  "image": {
-  },
+  "description": "Shola Inkosi is a fictional character in the Marvel Comics universe.  He is a mutant with the power of telekinesis.  He first appeared in Mekanix #1, and was created by Chris Claremont and Juan Bobillo.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Shola Inkosi",
-  "pageviews": 478,
   "partners": [
   ],
   "powers": [
-    "Telekinesis",
-    "Telepathy"
-  ],
-  "powersText": [
-    "Telekinesis",
+    "Psychokinesis",
     "low-level Telepathy"
   ],
-  "realName": "Shola Inkosi",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 383,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Shola Inkosi"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Genoshan Excalibur"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Shola_Inkosi"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shola_Inkosi"
+  }
 }

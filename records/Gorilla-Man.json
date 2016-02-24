@@ -1,30 +1,52 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
   ],
-  "image": {
-    "height": "302",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Aoatlas002_cov_c.jpg/200px-Aoatlas002_cov_c.jpg",
-    "width": "200"
-  },
+  "alliances": [
+    "Headmen",
+    "Agents of Atlas",
+    "Circus of Crime",
+    "Nick Fury's Howling Commandos",
+    "Lethal Legion",
+    "Advanced Idea Mechanics"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Larry Liebery",
+    "Bob Powell",
+    "Jack Kirby",
+    "Robert Q. Sale"
+  ],
+  "description": "Gorilla-Man is the name of three fictional characters appearing in Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Aoatlas002_cov_c.jpg/200px-Aoatlas002_cov_c.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Gorilla-Man",
-  "pageviews": 2971,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Immortality",
     "Weapons expert",
     "Skilled hand to hand combatant",
     "Possesses the form of a gorilla",
-    "Immortality"
+    "Expert transplant surgeon",
+    "inventor"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1883,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kenneth Hale",
+    "Arthur Nagan",
+    "Franz Radzik"
+  ],
   "species": [
   ],
-  "teams": [
-    "Agents of Atlas",
-    "Nick Fury's Howling Commandos"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Gorilla-Man"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gorilla-Man"
+  }
 }

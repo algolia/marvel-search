@@ -1,35 +1,46 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "image": {
-    "height": "357",
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/LivingBrainOriginal.png",
-    "width": "250"
-  },
+  "description": "The Living Brain is a fictional comic book character and robot in the Marvel Comics Universe. Created by writer Stan Lee and Steve Ditko, the character first appears in The Amazing Spider-Man #8 and has made few subsequent appearances since.A foe of the hero Spider-Man, the Living Brain was created by the fictional International Computing Machines Corporation and billed as the most intelligent computer and robot in existence, capable of solving virtually any question asked of it.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/LivingBrainOriginal.png",
+  "isHero": false,
+  "isVillain": false,
   "name": "Living Brain",
-  "pageviews": 1867,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Superhuman strength and speed",
-    "Flight",
+    "Find any weaknesses in a being or structure",
     "Clawed hands",
+    "Process",
+    "collate large amounts of information",
+    "Flight",
+    "Super-strength",
+    "speed",
     "Limbs that can rotate at nearly 360 degrees",
-    "Ability to analyze any situation and determine how best to achieve its goals",
-    "process and collate large amounts of information and find any weaknesses in a being or structure",
-    "Originally:",
+    "Capable of analyzing any situation",
+    "determine how best to achieve its goals",
     "External controls on its thorax"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1304,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Living Brain"
+  ],
   "species": [
   ],
-  "teams": [
-    "Parker Industries"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Living_Brain"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Living_Brain"
+  }
 }

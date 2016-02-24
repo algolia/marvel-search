@@ -1,33 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Hellfire Club"
+  ],
+  "authors": [
     "Steve Englehart",
     "Al Milgrom"
   ],
-  "image": {
-    "height": "350",
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/West_Coast_Avengers_9.png",
-    "width": "231"
-  },
+  "description": "Master Pandemonium is a supervillain that appears in publications from Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/West_Coast_Avengers_9.png",
+  "isHero": false,
+  "isVillain": false,
   "name": "Master Pandemonium",
-  "pageviews": 1335,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Ability to summon demons",
+    "Energy blasts",
     "Ability to turn limbs into demons",
     "Hellfire projection",
-    "Energy blasts",
-    "Amulet of Azmodeus grants:",
+    "Ability to summon demons",
     "Teleportation"
   ],
-  "realName": "Martin Preston",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 984,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Martin Preston"
+  ],
   "species": [
   ],
-  "teams": [
-    "Hellfire Club"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Master_Pandemonium"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_Pandemonium"
+  }
 }

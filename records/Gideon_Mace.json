@@ -1,25 +1,35 @@
 {
-  "aliases": "A01372712",
-  "creators": [
-    "Archie Goodwin",
-    "George Tuska"
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+    "Maggia",
+    "United States Army"
+  ],
+  "authors": [
+    "George Tuska",
+    "Archie Goodwin"
+  ],
+  "description": "Gideon Mace is a fictional villain in the Marvel Comics Universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Gideon Mace",
-  "pageviews": 1468,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1185,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-    "United States Army",
-    "Maggia"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Gideon_Mace"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gideon_Mace"
+  }
 }

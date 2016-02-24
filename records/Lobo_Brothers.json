@@ -1,25 +1,37 @@
 {
-  "aliases": "Los Hermanos de Luna",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Gerry Conway",
     "Sal Buscema"
   ],
-  "image": {
-  },
+  "description": "The Lobo Brothers are two supervillains from Marvel Comics: Carlos and Eduardo. They are later joined by their sister: Esmeralda Lobo.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Lobo Brothers",
-  "pageviews": 752,
   "partners": [
   ],
   "powers": [
+    "Lycanthropy"
   ],
-  "powersText": [
-    "Lycanthropy (transform into werewolves during full moon)"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 475,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Carlos",
+    "Eduardo Lobo"
   ],
-  "realName": "Carlos and Eduardo Lobo",
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Lobo_Brothers"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lobo_Brothers"
+  }
 }

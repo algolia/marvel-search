@@ -1,49 +1,48 @@
 {
-  "aliases": "Harold Simmons",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "United States Air Force",
+    "United States Army",
+    "Thunderbolts",
+    "Roxxon Energy Corporation",
+    "Masters of Evil",
+    "Brand Corporation"
+  ],
+  "authors": [
     "John Warner",
     "John Buscema"
   ],
-  "image": {
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1011397,
-    "image": null,
-    "url": null
-  },
+  "description": "Killer Shrike is the name of two fictional characters in Marvel Comics.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Killer Shrike",
-  "pageviews": 2049,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Expert hand to hand combatant and martial artist",
-    "Possesses various weapons",
-    "Anti-gravity device grants:",
-    "Enhanced physical attributes",
-    "Flight",
-    "Armored suit grants:",
     "Resistance to injury",
-    "Electrical bolt projection via twin power-blasters"
+    "Electrical bolt projection via twin power-blasters",
+    "Possesses various weapons",
+    "Flight",
+    "Expert hand to hand combatant",
+    "martial artist",
+    "Enhanced physical attributes"
   ],
-  "realName": "Simon Maddicks",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1402,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Simon Maddicks"
+  ],
   "species": [
   ],
-  "teams": [
-    "Masters of Evil",
-    "Roxxon Oil Company",
-    "Sinister Six",
-    "Thunderbolts",
-    "United States Air Force",
-    "United States Army"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Killer_Shrike"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2928/killer_shrike",
+    "wikipedia": "https://en.wikipedia.org/wiki/Killer_Shrike"
+  }
 }

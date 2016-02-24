@@ -1,32 +1,38 @@
 {
-  "aliases": "The Anti-Phoenix (host)",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "none"
+  ],
+  "authors": [
     "Alan Davis"
   ],
-  "image": {
-  },
+  "description": "Necrom is a fictional character created by Alan Davis for Marvel Comics. Necrom was a powerful sorcerer and an enemy of Excalibur.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Necrom",
-  "pageviews": 1165,
   "partners": [
   ],
   "powers": [
-    "necromancy",
-    "energy vampire"
-  ],
-  "powersText": [
-    "vast ability to manipulate magic (energy projection",
-    "astral projection",
-    "necromancy",
-    "teleportation",
-    "etc.)",
+    "vast ability to manipulate magic",
     "energy vampire",
     "immortal",
     "shape-shifting."
   ],
-  "realName": "Necrom",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 803,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Necrom"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Necrom"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Necrom"
+  }
 }

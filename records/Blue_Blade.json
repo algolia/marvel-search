@@ -1,41 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "The Twelve"
+  ],
+  "authors": [
     "Syd Shores",
     "Charles Nicholas"
   ],
-  "image": {
-    "height": "344",
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Blue_Blade.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 1,
-      "events": 0,
-      "series": 1,
-      "stories": 1
-    },
-    "description": "",
-    "id": 1011113,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4ce5a4b76d1c0.jpg",
-    "url": "http://marvel.com/universe/Blue_Blade"
-  },
+  "description": "The Blue Blade (real name Roy Chambers) is an American comic book character owned by Marvel Comics who exists in that company's Marvel Universe. His only appearance was in USA Comics #5, published in the 1940s by Marvel's forerunner, Timely Comics, during a period that is known as the Golden Age of Comic Books.After the 1940s the Blue Blade disappeared into obscurity until 2007 where he reappears in the limited series, The Twelve.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4ce5a4b76d1c0/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Blue Blade",
-  "pageviews": 825,
   "partners": [
   ],
   "powers": [
-    "fencer"
-  ],
-  "powersText": [
     "Expert fencer"
   ],
-  "realName": "Roy Chambers",
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 564,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Roy Chambers"
+  ],
   "species": [
   ],
-  "teams": [
-    "The Twelve"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Blue_Blade"
+  "urls": {
+    "marvel": "http://marvel.com/characters/324/blue_blade",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blue_Blade"
+  }
 }

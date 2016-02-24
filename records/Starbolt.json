@@ -1,39 +1,40 @@
 {
-  "aliases": "Bolt",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Imperial Guard"
+  ],
+  "authors": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "image": {
-  },
-  "marvel": {
-    "counts": {
-      "comics": 8,
-      "events": 0,
-      "series": 5,
-      "stories": 5
-    },
-    "description": "Starbolt is a member of the Shi'ar Imperial Guard.",
-    "id": 1009621,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/4c003acf4e4bc.jpg",
-    "url": "http://marvel.com/universe/Starbolt"
-  },
+  "description": "Starbolt is a member of the Shi'ar Imperial Guard.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/4c003acf4e4bc/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Starbolt",
-  "pageviews": 1215,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Fire immunity",
     "Generates high heated plasma",
-    "Supersonic flight"
+    "Supersonic flight",
+    "Fire immunity"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 8,
+    "eventCount": 0,
+    "pageviewCount": 845,
+    "pageviewRank": -1,
+    "serieCount": 5,
+    "storyCount": 5
+  },
+  "secretIdentities": [
+  ],
   "species": [
+    "Unknown"
   ],
-  "teams": [
-    "Imperial Guard"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Starbolt"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2201/starbolt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Starbolt"
+  }
 }

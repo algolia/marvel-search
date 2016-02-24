@@ -1,33 +1,41 @@
 {
-  "aliases": "Override, Shadrac",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Todd Dezago",
     "Sal Buscema",
     "Jimmy Palmiotti"
   ],
-  "image": {
-    "height": "247",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Gregory_Herd_Shadrac.JPG/150px-Gregory_Herd_Shadrac.JPG",
-    "width": "150"
-  },
+  "description": "Dr. Gregory Herd is a fictional character, a supervillain who appears in the comic books published by Marvel Comics. His first appearance was in The Spectacular Scarlet Spider #1. He originally operated as the villain Override and worked with his wife, who operated as Aura. He becomes the fiery villain Shadrac in The Amazing Spider-Man vol. 2 #2.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Gregory_Herd_Shadrac.JPG/150px-Gregory_Herd_Shadrac.JPG",
+  "isHero": false,
+  "isVillain": false,
   "name": "Gregory Herd",
-  "pageviews": 469,
   "partners": [
   ],
   "powers": [
+    "As Shadrac",
+    "As Override",
+    "Ability to remotely control any",
+    "all electronic devices",
+    "Mystical burning fire"
   ],
-  "powersText": [
-    "(As Override)",
-    "Cybernetically enhanced costume grants:",
-    "Ability to remotely control or override any and all electronic devices",
-    "(As Shadrac)",
-    "Mystical burning flames",
-    "Ability to override emotions"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 293,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gregory Herd"
   ],
-  "realName": "Gregory Herd",
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Gregory_Herd"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Herd"
+  }
 }

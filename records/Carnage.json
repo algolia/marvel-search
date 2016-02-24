@@ -1,0 +1,45 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Canrage Family/Maximum Carnage"
+  ],
+  "authors": [
+    "Erik Larsen",
+    "David Michelinie",
+    "Mark Bagley"
+  ],
+  "description": "Carnage (Cletus Kasady) is a fictional character, a supervillain appearing in comic books published by Marvel Comics, usually as an enemy of Spider-Man. The character first appeared as Cletus Kasady in The Amazing Spider-Man #344 (March 1991) and as Carnage in The Amazing Spider-Man #360, and was created by writer David Michelinie and artists Erik Larsen and Mark Bagley, based on elements of the precursor character Venom.  In 2009, Carnage was ranked as IGN's 90th Greatest Comic Book Villain of All Time.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/535fee423f170/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Carnage",
+  "partners": [
+    "Demogoblin",
+    "Carrion",
+    "Doppelganger",
+    "Shriek"
+  ],
+  "powers": [
+    "Symbiote"
+  ],
+  "ranking": {
+    "comicCount": 22,
+    "eventCount": 1,
+    "pageviewCount": 40323,
+    "pageviewRank": -1,
+    "serieCount": 7,
+    "storyCount": 25
+  },
+  "secretIdentities": [
+    "Cletus Kasady",
+    "Symbiote"
+  ],
+  "species": [
+    "Symbiote"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/comics/characters/1009227/carnage",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carnage_(comics)"
+  }
+}

@@ -1,52 +1,48 @@
 {
-  "aliases": "Renascence",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "New Mutants",
+    "New Warriors"
+  ],
+  "authors": [
     "Nunzio DeFilippis",
     "Christina Weir",
     "Keron Grant"
   ],
-  "image": {
-    "height": "163",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Renascence_sofia.jpg/250px-Renascence_sofia.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 1,
-      "events": 1,
-      "series": 1,
-      "stories": 1
-    },
-    "description": "Given the codename Wind Dancer, Sofia Mantega stepped up to lead the New Mutants.",
-    "id": 1011009,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/4c0032802a24d.jpg",
-    "url": "http://marvel.com/universe/Wind_Dancer"
-  },
+  "description": "Given the codename Wind Dancer, Sofia Mantega stepped up to lead the New Mutants.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/4c0032802a24d/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Wind Dancer",
-  "pageviews": 2550,
   "partners": [
   ],
   "powers": [
-    "force field",
-    "Air and wind manipulation"
-  ],
-  "powersText": [
-    "Minimal athlete and martial artist",
-    "Suit with six mechanical tentacles and electrically charged talons",
-    "Personal force field",
-    "Formerly:",
-    "Air and wind manipulation",
+    "Minimal athlete",
+    "martial artist",
     "Flight",
+    "Suit with six mechanical tentacles",
+    "electrically charged talons",
+    "Personal force field",
     "Long-distance eavesdropping"
   ],
-  "realName": "Sofia Mantega",
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 1,
+    "pageviewCount": 1769,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Sofia Mantega"
+  ],
   "species": [
-    "Depowered",
-    "Human Mutant"
+    "Decimation",
+    "Mutant"
   ],
-  "teams": [
-    "New Mutants training squad",
-    "New Warriors"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Wind_Dancer"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2577/wind_dancer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wind_Dancer"
+  }
 }

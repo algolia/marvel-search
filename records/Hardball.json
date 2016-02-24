@@ -1,0 +1,44 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Heavy Hitters",
+    "Avengers: The Initiative",
+    "Hydra"
+  ],
+  "authors": [
+    "Dan Slott",
+    "Stefano Caselli"
+  ],
+  "description": "Hardball (Roger Brokeridge) is a fictional comic book superhero in the Marvel Comics universe.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/535ff2b245409/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Hardball",
+  "partners": [
+  ],
+  "powers": [
+    "Ability to create a variety of energy balls",
+    "normally originating from his hand",
+    "including \"hard energy\"",
+    "electro-magnetic energy."
+  ],
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 4,
+    "pageviewCount": 1274,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "Roger Brokeridge"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/901/hardball",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hardball_(comics)"
+  }
+}

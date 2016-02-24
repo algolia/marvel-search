@@ -1,27 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+    "Intelligencia",
+    "The Assembly of Evil"
+  ],
+  "authors": [
+  ],
+  "description": "The Hulk Robot is a robot in Marvel Comics that is modeled after the Hulk.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Hulk Robot",
-  "pageviews": 703,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Superhuman strength",
     "speed",
     "stamina",
-    "and durability"
+    "durability"
   ],
-  "realName": "Hulk Robot",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 532,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Hulk Robot"
+  ],
   "species": [
   ],
-  "teams": [
-    "Assembly of Evil",
-    "Intelligencia"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Hulk_Robot"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hulk_Robot"
+  }
 }

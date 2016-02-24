@@ -1,30 +1,40 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Fin Fang Foom"
+  ],
+  "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "image": {
-    "height": "374",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/TOS-17.jpg/250px-TOS-17.jpg",
-    "width": "250"
-  },
+  "description": "Googam is a fictional character and that appears in the Marvel Universe. Googam first appeared in Tales of Suspense vol. 1, #17 (May 1961).",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/TOS-17.jpg/250px-TOS-17.jpg",
+  "isHero": true,
+  "isVillain": true,
   "name": "Googam",
-  "pageviews": 591,
   "partners": [
   ],
   "powers": [
+    "Ability to shrink matter",
+    "Superhuman strength",
+    "durability",
+    "Telekinesis"
   ],
-  "powersText": [
-    "Superhuman strength and durability",
-    "Telekinesis",
-    "Ability to shrink matter"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 368,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Googam"
   ],
-  "realName": "Googam",
   "species": [
   ],
-  "teams": [
-    "Fin Fang Four"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Googam"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Googam"
+  }
 }

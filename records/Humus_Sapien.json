@@ -1,29 +1,39 @@
 {
-  "aliases": "Humus Sapiens",
-  "creators": [
-    "Fabian Nicieza",
-    "Patrick Zircher"
+  "aliases": [
   ],
-  "image": {
-    "height": "276",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/HumusSapiens.jpg/250px-HumusSapiens.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "Thunderbolts"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Patrick Zircher",
+    "Michael A Barreiro"
+  ],
+  "description": "Humus Sapien (Sonny Baredo) is a fictional supervillain published by Marvel Comics. He first appeared as Humus Sapiens in FOOM #3 (Autumn 1973), created by Michael A. Barreiro. He first appeared as Humus Sapien in Thunderbolts #54 (Sept. 2001), by the writer-artist team of Fabian Nicieza and Patrick Zircher.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/HumusSapiens.jpg/250px-HumusSapiens.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Humus Sapien",
-  "pageviews": 605,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Ability to destroy all non-natural substances"
   ],
-  "realName": "Sonny Baredo",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 453,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Sonny Baredo"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Thunderbolts"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Humus_Sapien"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Humus_Sapien"
+  }
 }

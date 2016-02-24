@@ -1,27 +1,31 @@
 {
-  "aliases": "",
-  "creators": [
-    "Mike Carey",
-    "Chris Bachalo"
+  "aliases": [
   ],
-  "image": {
-    "height": "168",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Children_of_the_Vault.png/250px-Children_of_the_Vault.png",
-    "width": "250"
-  },
-  "name": "Serafina",
-  "pageviews": 381,
+  "alliances": [
+  ],
+  "authors": [
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Children_of_the_Vault.png/250px-Children_of_the_Vault.png",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Serafina (Marvel)",
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
-    "Varies"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 272,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Serafina_(Marvel)"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Serafina_(Marvel)"
+  }
 }

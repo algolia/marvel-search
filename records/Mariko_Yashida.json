@@ -1,39 +1,39 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Clan Yashida"
+  ],
+  "authors": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "image": {
-    "height": "375",
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/81/Mariko_Yashida%28comics%29.jpg",
-    "width": "163"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 1,
-      "events": 0,
-      "series": 1,
-      "stories": 1
-    },
-    "description": "Mariko Yashida was the daughter of Japanese crimelord Lord Shingen, leader of Clan Yashida, and one-time fiance of Wolverine.",
-    "id": 1009735,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c00393d65a55.jpg",
-    "url": "http://marvel.com/universe/Yashida%2C_Mariko"
-  },
+  "description": "Mariko Yashida was the daughter of Japanese crimelord Lord Shingen, leader of Clan Yashida, and one-time fiance of Wolverine.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c00393d65a55/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Mariko Yashida",
-  "pageviews": 13072,
   "partners": [
     "Wolverine"
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 10960,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Mariko Yashida"
   ],
-  "realName": "Mariko Yashida",
   "species": [
+    "Human"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Mariko_Yashida"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2789/mariko_yashida",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mariko_Yashida"
+  }
 }

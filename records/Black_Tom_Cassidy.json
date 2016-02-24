@@ -1,35 +1,42 @@
 {
-  "aliases": "",
-  "creators": [
-    "Chris Claremont",
-    "Dave Cockrum"
+  "aliases": [
   ],
-  "image": {
-    "height": "238",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Blacktom.PNG/200px-Blacktom.PNG",
-    "width": "200"
-  },
-  "name": "Black Tom Cassidy",
-  "pageviews": 5088,
-  "partners": [
-    "Juggernaut",
-    "Siryn"
-  ],
-  "powers": [
-    "Banshee"
-  ],
-  "powersText": [
-    "Concussive blasts via wooden mediums",
-    "''Formerly:''",
-    "Plant manipulation",
-    "Immunity to powers of Banshee"
-  ],
-  "realName": "Thomas Samuel Eamon Cassidy",
-  "species": [
-    "Human Mutant"
-  ],
-  "teams": [
+  "alliances": [
     "Brotherhood of Mutants"
   ],
-  "url": "https://en.wikipedia.org/wiki/Black_Tom_Cassidy"
+  "authors": [
+    "Dave Cockrum",
+    "Chris Claremont"
+  ],
+  "description": "\"Black Tom\" Cassidy (Thomas Samuel Eamon Cassidy) is a Marvel Comics supervillain, an enemy of the X-Men, and archenemy of Banshee. Created by writer Chris Claremont and artist Dave Cockrum, he first fully appeared in Uncanny X-Men #101 (October 1976). In addition to fighting the X-Men, he has clashed with Deadpool a number of times.Black Tom is a mutant who can manipulate, bond with, and project energy through plant life. He was the black sheep of a prominent Irish family.  X-Men member Banshee is his cousin. Tom secretly raised Banshee’s daughter Siryn, of whose existence Banshee was unaware, and conscripted her into his criminal gang. Black Tom was also a longtime partner of the super-strong villain Juggernaut, until Juggernaut's reformation.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Blacktom.PNG/200px-Blacktom.PNG",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Black Tom Cassidy",
+  "partners": [
+    "Siryn",
+    "Juggernaut"
+  ],
+  "powers": [
+    "Plant manipulation",
+    "Immunity to powers of Banshee",
+    "Concussive blasts via wooden mediums"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4042,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Thomas Samuel Eamon Cassidy"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Tom_Cassidy"
+  }
 }

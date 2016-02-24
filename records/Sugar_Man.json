@@ -1,48 +1,48 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Seattle Core",
+    "Genegineer"
+  ],
+  "authors": [
     "Scott Lobdell",
     "Chris Bachalo"
   ],
-  "image": {
-    "height": "378",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sugarman_marvel.jpg/249px-Sugarman_marvel.jpg",
-    "width": "249"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 3,
-      "events": 0,
-      "series": 2,
-      "stories": 3
-    },
-    "description": "The Sugar Man was in charge of the Seattle Core, a slave camp that helped power North America during the Age of Apocalypse.",
-    "id": 1011212,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/527413a2480b5.jpg",
-    "url": "http://marvel.com/universe/Sugar_Man_(Age_of_Apocalypse)"
-  },
+  "description": "The Sugar Man was in charge of the Seattle Core, a slave camp that helped power North America during the Age of Apocalypse.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/527413a2480b5/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Sugar Man",
-  "pageviews": 5464,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Expert biologist and geneticist",
-    "Superhuman strength",
-    "Four arms",
-    "Razor sharp claws and teeth",
-    "Indefinitely long",
-    "bio-electric razor sharp tongue",
     "Enhanced sense of smell",
-    "Ability to alter body mass and size"
+    "Indefinitely long bio-electric razor sharp tongue",
+    "Expert biologist",
+    "genetics",
+    "Ability to alter body mass",
+    "size",
+    "Four arms",
+    "Superhuman strength",
+    "Razor sharp claws",
+    "teeth"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 0,
+    "pageviewCount": 4181,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Age of Apocalypse"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Sugar_Man"
+  "urls": {
+    "marvel": "http://marvel.com/comics/characters/1011212/sugar_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sugar_Man"
+  }
 }

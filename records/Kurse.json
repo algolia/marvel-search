@@ -1,31 +1,42 @@
 {
-  "aliases": "Algrim the Strong, Valgoth",
-  "creators": [
-    "Walter Simonson"
+  "aliases": [
   ],
-  "image": {
-    "height": "391",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thor363.jpg/250px-Thor363.jpg",
-    "width": "250"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Walt Simonson"
+  ],
+  "description": "Kurse is a fictional character that appears in comic books published by Marvel Comics. The character first appears as the Dark Elf Algrim the Strong in  Thor #347 (Sep. 1984), is transformed into Kurse in Secret Wars II #4 (Oct. 1985) and was created by Walter Simonson.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thor363.jpg/250px-Thor363.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Kurse",
-  "pageviews": 10390,
   "partners": [
-    "Thor",
-    "Malekith the Accursed"
+    "Malekith the Accursed",
+    "Thor"
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Ability to mystically track",
+    "locate enemies over large distances",
     "Superhuman strength",
     "speed",
-    "stamina and durability",
-    "Ability to mystically track and locate enemies over large distances"
+    "stamina",
+    "durability"
   ],
-  "realName": "Algrim",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 7815,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Algrim"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Kurse"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kurse"
+  }
 }

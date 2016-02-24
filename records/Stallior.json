@@ -1,25 +1,36 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Inhumans"
+  ],
+  "authors": [
     "Gary Friedrich",
     "Marie Severin"
   ],
-  "image": {
-  },
+  "description": "Stallior is a fictional character in the Marvel Universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Stallior",
-  "pageviews": 797,
   "partners": [
   ],
   "powers": [
+    "lower body of a horse"
   ],
-  "powersText": [
-    "Super-Strength"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 541,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
     "Inhuman"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Stallior"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Stallior"
+  }
 }

@@ -1,0 +1,43 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Slingers"
+  ],
+  "authors": [
+    "Todd DeZago",
+    "Joseph Harris",
+    "Mike Wieringo"
+  ],
+  "description": "The Hornet is an identity used by three fictional characters in the Marvel Universe, one villain, and two heroes. Both the first and third Hornets have suffered from physical disabilities.",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Hornet",
+  "partners": [
+  ],
+  "powers": [
+    "High-speed flight via jet-powered wing harness",
+    "Superhuman strength",
+    "Laser beam/sedative dart projection via gauntlets",
+    "High-speed flight via insect-like wings",
+    "Bio-electricity projection"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1394,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eddie McDonough",
+    "Scotty McDowell"
+  ],
+  "species": [
+    "Human"
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hornet_(comics)"
+  }
+}

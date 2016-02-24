@@ -1,30 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "A-Next"
+  ],
+  "authors": [
     "Tom DeFalco",
     "Brent Anderson"
   ],
-  "image": {
-    "height": "187",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/CrimsonCurse.jpg/220px-CrimsonCurse.jpg",
-    "width": "220"
-  },
+  "description": "Crimson Curse (Aerika Harkness) is a fictional character from the Marvel Comics MC2 universe who first appeared in A-Next vol. 1 #4 in 1999.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/CrimsonCurse.jpg/220px-CrimsonCurse.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Crimson Curse",
-  "pageviews": 1678,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Magical element manipulation",
     "Flight"
   ],
-  "realName": "Aerika Harkness",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1031,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Aerika Harkness"
+  ],
   "species": [
   ],
-  "teams": [
-    "A-Next",
-    "Dream Team"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Crimson_Curse"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Crimson_Curse"
+  }
 }

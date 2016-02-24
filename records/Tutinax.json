@@ -1,26 +1,38 @@
 {
-  "aliases": "The Mountain-Mover",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Deviant"
+  ],
+  "authors": [
     "Jack Kirby"
   ],
-  "image": {
-  },
+  "description": "Tutinax is a fictional character in the Marvel Universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Tutinax",
-  "pageviews": 240,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "superhuman strength and resilience",
+    "superhuman strength",
+    "resilience",
     "creates fear in his opponents"
   ],
-  "realName": "Tutinax",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 152,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Tutinax"
+  ],
   "species": [
-    "Deviant"
+    "Deviant Mutate"
   ],
-  "teams": [
-    "Deviants"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Tutinax"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tutinax"
+  }
 }

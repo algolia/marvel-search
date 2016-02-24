@@ -1,34 +1,42 @@
 {
-  "aliases": "Doctor Death",
-  "creators": [
-    "Ace Magazines",
-    "Marvel Comics",
-    "Roy Thomas",
-    "Dave Hoover"
+  "aliases": [
   ],
-  "image": {
-    "height": "387",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/XMN_Nemesis.jpg/250px-XMN_Nemesis.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "X-Club",
+    "X-Men",
+    "X-Force",
+    "Battle-Axis"
+  ],
+  "authors": [
+  ],
+  "description": "Doctor Nemesis is the name of two characters from Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/XMN_Nemesis.jpg/250px-XMN_Nemesis.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Doctor Nemesis",
-  "pageviews": 6285,
   "partners": [
   ],
   "powers": [
+    "heightened eyesight",
+    "enhanced immune system",
+    "\"self-evolved intellect\"",
+    "Extended longevity"
   ],
-  "powersText": [
-    "Accomplished investigator and hand to hand combatant",
-    "\"Self-evolved\" intellect",
-    "Enhanced immune system and eyesight",
-    "Prolonged longevity"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4922,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "James Nicola Bradley"
   ],
-  "realName": "James Nicola Bradley",
   "species": [
-    "Mutant"
+    "Human mutant"
   ],
-  "teams": [
-    "X-Men"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Doctor_Nemesis"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Nemesis"
+  }
 }

@@ -1,35 +1,47 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Dark Gods"
+  ],
+  "authors": [
+    "Jim Mooney",
     "Harlan Ellison",
     "Roy Thomas",
-    "Sal Buscema",
-    "Jim Mooney"
+    "Sal Buscema"
   ],
-  "image": {
-  },
+  "description": "Psyklop is a fictional character, a comic book supervillain in the Marvel Comics Universe. Created in combination by Harlan Ellison, Roy Thomas, Sal Buscema and Jim Mooney, the character first appears Avengers vol. 1 #88.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Psyklop",
-  "pageviews": 600,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Genius-level intellect",
-    "Project energy blasts and hypnotize people via his single eye",
+    "Double-jointed limbs",
     "Enhanced strength",
     "speed",
     "agility",
     "durability",
-    "and endurance",
-    "Sharpened canine teeth",
+    "endurance",
     "Clawed digits",
-    "Double-jointed limbs"
+    "Project energy blasts",
+    "hypnotize people via his single eye",
+    "Genius-level intellect",
+    "Sharpened canine teeth"
   ],
-  "realName": "",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 468,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Psyklop"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Psyklop"
+  }
 }

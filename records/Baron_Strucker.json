@@ -1,49 +1,52 @@
 {
-  "aliases": "Supreme Hydra, Grand Imperator of THEM, Don Guy Antonio Caballero, Emir Ali Bey, John Bronson, Sagittarius",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Hydra",
+    "Great Wheel"
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "450",
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Baronstrucker.png",
-    "width": "187"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 26,
-      "events": 1,
-      "series": 14,
-      "stories": 22
-    },
-    "description": "",
-    "id": 1009169,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c0041fb5a90d.jpg",
-    "url": "http://marvel.com/universe/Baron_Strucker"
-  },
-  "name": "Baron von Strucker",
-  "pageviews": 41078,
+  "description": "Baron Wolfgang von Strucker is a fictional character, a supervillain that appears in comic books published by Marvel Comics.Baron Strucker, a former Nazi officer, is one of the leaders of Hydra and an enemy of S.H.I.E.L.D., the Avengers, and the interests of the United States of America and of the free world in general. He has been physically augmented to be nearly ageless. He has been seemingly killed in the past only to return to plague the world with schemes of world domination and genocide, time and time again. Campbell Lane played him in the 1998 TV-movie Nick Fury: Agent of S.H.I.E.L.D., while Thomas Kretschmann portrays the character in a mid-credits scene in the Marvel Studios film Captain America: The Winter Soldier and the upcoming Avengers: Age of Ultron as a part of the Marvel Cinematic Universe.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c0041fb5a90d/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Baron Strucker",
   "partners": [
-    "Baron Helmut Zemo"
+    "Baron Zemo"
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Skilled military strategist and spy",
+    "High-level intellect",
+    "Healing factor",
+    "limited invulnerability derived from Death Spore virus in blood",
+    "Repressed aging",
+    "Skilled military strategist",
+    "spy",
     "Master of disguise",
     "Excellent actor",
     "Exceptional hand to hand combatant",
-    "marksman and swordsman",
-    "High-level intellect",
-    "Enhanced strength and energy projection via Satan Claw",
-    "Healing factor and limited invulnerability via Death Spore virus in his blood",
-    "Repressed aging"
+    "marksman",
+    "swordsman",
+    "Enhanced strength",
+    "energy bolts derived from Satan Claw"
   ],
-  "realName": "Wolfgang von Strucker",
+  "ranking": {
+    "comicCount": 26,
+    "eventCount": 1,
+    "pageviewCount": 23141,
+    "pageviewRank": 3722,
+    "serieCount": 14,
+    "storyCount": 22
+  },
+  "secretIdentities": [
+    "Wolfgang von Strucker"
+  ],
   "species": [
   ],
-  "teams": [
-    "Hydra"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Baron_Strucker"
+  "urls": {
+    "marvel": "http://marvel.com/characters/3240/baron_strucker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Baron_Strucker"
+  }
 }

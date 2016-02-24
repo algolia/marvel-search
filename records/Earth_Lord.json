@@ -1,23 +1,30 @@
 {
-  "aliases": "",
-  "creators": [
-    "Tom DeFalco",
-    "Ron Frenz"
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+  ],
+  "authors": [
+  ],
+  "isHero": false,
+  "isVillain": false,
   "name": "Earth Lord",
-  "pageviews": 171,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 128,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Earth_Lord"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Earth_Lord"
+  }
 }

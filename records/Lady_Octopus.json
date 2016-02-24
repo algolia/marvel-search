@@ -1,28 +1,40 @@
 {
-  "aliases": "Doctor Octopus II",
-  "creators": [
-    "J.M. DeMatteis",
-    "Angel Medina"
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Angel Medina",
+    "J. M. DeMatteis"
+  ],
+  "description": "Lady Octopus, real name Carolyn Trainer and also known as the second Doctor Octopus, is a fictional character and a supervillainess in Marvel Comics. Her first appearance was in Amazing Spider-Man #406 (October 1995). She was created by J. M. DeMatteis and Angel Medina.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Lady Octopus",
-  "pageviews": 2048,
   "partners": [
   ],
   "powers": [
-    "Genius"
+    "Super-strong",
+    "highly-resistant mechanical appendages",
+    "impervious to conventional attacks",
+    "armed with lasers",
+    "Force-field generation",
+    "Genius-level intellect"
   ],
-  "powersText": [
-    "Genius-level intellect",
-    "Wears super-strong and highly-resistant mechanical appendages",
-    "impervious to conventional attacks and armed with lasers",
-    "Force-field generation via harness"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1308,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Carolyn Trainer"
   ],
-  "realName": "Carolyn Trainer",
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Lady_Octopus"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lady_Octopus"
+  }
 }

@@ -1,35 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
-    "Marc Guggenheim",
-    "Yanick Paquette"
+  "aliases": [
   ],
-  "image": {
-    "height": "322",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/300219-123649-greymalkin_large.jpg/200px-300219-123649-greymalkin_large.jpg",
-    "width": "200"
-  },
+  "alliances": [
+    "Young X-Men"
+  ],
+  "authors": [
+    "Yanick Paquette",
+    "Marc Guggenheim"
+  ],
+  "description": "Graymalkin is a fictional character appearing in comic books published by Marvel Comics. He is a member of the Young X-Men and is named after the address of the Xavier Institute.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/300219-123649-greymalkin_large.jpg/200px-300219-123649-greymalkin_large.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Graymalkin",
-  "pageviews": 2246,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "(When in darkness)",
     "Longevity",
     "Night vision",
     "Superhuman strength",
     "Invulnerability"
   ],
-  "realName": "Jonas Graymalkin",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1618,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jonas Graymalkin"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "X-Men-In-Training",
-    "Young X-Men",
-    "Jean Grey School Students"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Graymalkin"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Graymalkin"
+  }
 }

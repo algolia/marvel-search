@@ -1,43 +1,40 @@
 {
-  "aliases": "",
-  "creators": [
-    "Christos Gage",
-    "Steve Uy"
+  "aliases": [
   ],
-  "image": {
-    "height": "400",
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/27/Reptil1c.jpg",
-    "width": "264"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 31,
-      "events": 2,
-      "series": 4,
-      "stories": 36
-    },
-    "description": "",
-    "id": 1011376,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4ce5a6ff4202c.jpg",
-    "url": "http://marvel.com/universe/Reptil_(Humberto_Lopez)"
-  },
-  "name": "Reptil",
-  "pageviews": 5448,
-  "partners": [
-  ],
-  "powers": [
-  ],
-  "powersText": [
-    "Via bone medallion:",
-    "Minimal empathic senses",
-    "Ability to turn any part of his body into any part of a dinosaur's body"
-  ],
-  "realName": "Humberto Lopez",
-  "species": [
-  ],
-  "teams": [
+  "alliances": [
     "Avengers: The Initiative",
     "Avengers Academy"
   ],
-  "url": "https://en.wikipedia.org/wiki/Reptil"
+  "authors": [
+    "Christos Gage",
+    "Steve Uy"
+  ],
+  "description": "Reptil is a character from Marvel Comics. He is best known as a supporting member on The Super Hero Squad Show and a member of Avengers Academy in the comics.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4ce5a6ff4202c/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Reptil",
+  "partners": [
+  ],
+  "powers": [
+    "Can turn any part of his body into part of a dinosaur's body."
+  ],
+  "ranking": {
+    "comicCount": 31,
+    "eventCount": 2,
+    "pageviewCount": 4474,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 36
+  },
+  "secretIdentities": [
+    "Humberto Lopez"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1910/reptil",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reptil"
+  }
 }

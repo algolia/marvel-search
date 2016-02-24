@@ -1,28 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Rising Sons"
+  ],
+  "authors": [
     "Jay Faerber",
     "Terry Dodson"
   ],
-  "image": {
-  },
+  "description": "Spoilsport is a fictional mutant character in the Marvel Comics Universe. Her first appearance was in Generation X #53.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Spoilsport",
-  "pageviews": 348,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Depowered",
-    "Formerly:",
     "Ability to defy gravity via inline skates",
-    "Ability to travel on any surface at high speeds"
+    "Ability to travel on any surface at high speeds",
+    "Depowered"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 216,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Spoilsport"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Spoilsport"
+  }
 }

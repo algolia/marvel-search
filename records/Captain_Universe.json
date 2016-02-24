@@ -1,53 +1,64 @@
 {
-  "aliases": "Guardian of Eternity, The Avenging Angel, The Hero That Could Be You",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Guardians of the Galaxy (1969 team)",
+    "Badoon",
+    "Avengers",
+    "Micronauts",
+    "Kree"
+  ],
+  "authors": [
     "Bill Mantlo",
     "Michael Golden"
   ],
-  "image": {
-    "height": "377",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Captain_Universe.jpg/240px-Captain_Universe.jpg",
-    "width": "240"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 17,
-      "events": 1,
-      "series": 10,
-      "stories": 20
-    },
-    "description": "",
-    "id": 1011027,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c00324c12ba2.jpg",
-    "url": "http://marvel.com/universe/Captain_Universe"
-  },
+  "description": "Captain Universe is a fictional character, a superhero in Marvel Comics' universe who was created by Bill Mantlo and Michael Golden, and first appeared in Micronauts vol. 1 #8. It is the guardian and protector of Eternity. Rather than a character with a single identity, Captain Universe is a persona that has merged with several hosts during its publication history.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c00324c12ba2/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Captain Universe",
-  "pageviews": 8453,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Flight",
+    "Telekinesis",
+    "Time Travel",
     "Superhuman strength",
     "speed",
     "stamina",
     "agility",
     "durability",
-    "power enhancement and senses",
-    "Energy blasts",
-    "Flight",
-    "Telekinesis",
-    "Time Travel"
+    "power enhancement",
+    "senses",
+    "Energy blasts"
   ],
-  "realName": "Various hosts",
+  "ranking": {
+    "comicCount": 17,
+    "eventCount": 1,
+    "pageviewCount": 5584,
+    "pageviewRank": -1,
+    "serieCount": 10,
+    "storyCount": 20
+  },
+  "secretIdentities": [
+    "Various hosts"
+  ],
   "species": [
   ],
-  "teams": [
-    "Kree",
-    "Micronauts",
-    "Badoon",
-    "Guardians of the Galaxy",
-    "Avengers"
+  "urls": {
+    "marvel": "http://marvel.com/characters/392/captain_universe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Captain_Universe"
+  }
+}nk": -1,
+    "serieCount": 10,
+    "storyCount": 20
+  },
+  "secretIdentities": [
   ],
-  "url": "https://en.wikipedia.org/wiki/Captain_Universe"
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/392/captain_universe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Captain_(comics)"
+  }
 }

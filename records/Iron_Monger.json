@@ -1,49 +1,47 @@
 {
-  "aliases": "",
-  "creators": [
-    "Dennis O'Neil",
-    "Luke McDonnell"
+  "aliases": [
   ],
-  "image": {
-    "height": "309",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/IronMonger.jpg/230px-IronMonger.jpg",
-    "width": "230"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1009371,
-    "image": null,
-    "url": "http://marvel.com/universe/Iron_Monger"
-  },
+  "alliances": [
+    "Hellfire Club"
+  ],
+  "authors": [
+    "Matt Fraction",
+    "Barry Kitson"
+  ],
+  "description": "Ezekiel \"Zeke\" Stane (also known as Iron Monger and Iron Man 2.0) is a fictional supervillain within the Marvel Comics universe, the son of Obadiah Stane, and an arch-enemy of Iron Man. He first appeared in Matt Fraction's The Order #8 (April 2008) and was drawn by Barry Kitson.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Zekestane.jpg/250px-Zekestane.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Iron Monger",
-  "pageviews": 16294,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Master of psychological warfare",
-    "Cunning business strategist",
-    "Champion chess player",
     "Genius-level intellect",
-    "Use of Circuits Breaker and a consciousness exchanging device",
-    "Armored suit grants:",
-    "Superhuman strength and durability",
-    "Subsonic flight",
-    "Energy blasts",
-    "Laser beam"
+    "Superhuman abilities derived from bio-upgrades"
   ],
-  "realName": "Obadiah Stane",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2025,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ezekiel \"Zeke\" Stane"
+  ],
   "species": [
   ],
-  "teams": [
-    "Stark Industries"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1055/iron_monger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zeke_Stane"
+  }
+}ane"
   ],
-  "url": "https://en.wikipedia.org/wiki/Iron_Monger"
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1055/iron_monger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iron_Monger"
+  }
 }

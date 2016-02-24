@@ -1,44 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "384",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/FantasticFour-283.jpg/250px-FantasticFour-283.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 8,
-      "events": 0,
-      "series": 5,
-      "stories": 7
-    },
-    "description": "",
-    "id": 1009511,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c003c82b377c.jpg",
-    "url": "http://marvel.com/universe/Psycho-Man"
-  },
+  "description": "Psycho-Man is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c003c82b377c/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Psycho-Man",
-  "pageviews": 4435,
   "partners": [
   ],
   "powers": [
-    "powered armor",
-    "Emotion manipulation"
-  ],
-  "powersText": [
+    "Powered exoskeleton",
     "Genius-level intellect",
-    "Use of powered armor",
-    "Possesses a futuristic space vessel",
-    "Emotion manipulation via emotion-controlling device"
+    "Emotional manipulation via emotion-controlling device"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 8,
+    "eventCount": 0,
+    "pageviewCount": 3937,
+    "pageviewRank": -1,
+    "serieCount": 5,
+    "storyCount": 7
+  },
+  "secretIdentities": [
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Psycho-Man"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1824/psycho-man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Psycho-Man"
+  }
 }

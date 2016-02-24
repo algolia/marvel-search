@@ -1,24 +1,34 @@
 {
-  "aliases": "Magic",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Imperial Guard"
+  ],
+  "authors": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "image": {
-  },
+  "description": "Magique is a fictional character in the Marvel Universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Magique",
-  "pageviews": 743,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 610,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-    "Imperial Guard"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Magique"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Magique"
+  }
 }

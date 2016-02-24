@@ -1,37 +1,44 @@
 {
-  "aliases": "",
-  "creators": [
-    "Gerard Jones",
-    "Dwayne Turner",
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
   ],
-  "image": {
-    "height": "378",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Hulk2099.jpg/250px-Hulk2099.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "Lotusland Productions"
+  ],
+  "authors": [
+    "Dwayne Turner",
+    "Gerard Jones"
+  ],
+  "description": "Hulk 2099 (John Eisenhart) is a fictional character that appears in comic books published by Marvel Comics. The character was created by Gerard Jones and Dwayne Turner and first appeared in 2099 Unlimited #1. As with many other Marvel 2099 characters, Hulk 2099 was a futuristic re-imagining of the original Hulk.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Hulk2099.jpg/250px-Hulk2099.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Hulk 2099",
-  "pageviews": 3664,
   "partners": [
   ],
   "powers": [
-    "healing factor"
-  ],
-  "powersText": [
     "Superhuman strength",
     "speed",
     "stamina",
-    "durability and leaping",
-    "Near invulnerability",
+    "durability",
+    "Razor sharp claws",
+    "fangs",
     "Accelerated healing factor",
-    "Razor sharp claws and fangs"
+    "Near invulnerability"
   ],
-  "realName": "John Eisenhart",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2356,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "John Eisenhart"
+  ],
   "species": [
   ],
-  "teams": [
-    "Defenders 2099"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Hulk_2099"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hulk_2099"
+  }
 }

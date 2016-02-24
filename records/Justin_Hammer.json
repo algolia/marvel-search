@@ -1,41 +1,40 @@
 {
-  "aliases": "",
-  "creators": [
-    "David Michelinie",
-    "John Romita, Jr.",
-    "Bob Layton"
+  "aliases": [
   ],
-  "image": {
-    "height": "424",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/JustinHammerHandbook.png/200px-JustinHammerHandbook.png",
-    "width": "200"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1011310,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4ce18ab1be1f6.jpg",
-    "url": "http://marvel.com/universe/Hammer,_Justin"
-  },
+  "alliances": [
+    "Hammer Industries"
+  ],
+  "authors": [
+    "Bob Layton",
+    "David Michelinie",
+    "John Romita, Jr."
+  ],
+  "description": "Justin Hammer is a fictional character that has appeared in various comic book series published by Marvel Comics. As a frequent adversary of the superhero Iron Man, Justin Hammer exists in Marvel's main shared universe, known as the Marvel Universe.As he explains in his first major appearance, Hammer is the reason why many of Iron Man's supervillain enemies have access to extremely advanced technology, and why these foes use their equipment for violent crimes instead of profiting by bringing the designs to market. Justin Hammer reveals that the villains are his underworld mercenaries, secretly armed and contractually obliged to fulfill missions against Hammer's competitors and enemies, such as Tony Stark.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4ce18ab1be1f6/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Justin Hammer",
-  "pageviews": 12630,
   "partners": [
   ],
   "powers": [
+    "Expert strategist",
+    "Genius-level intellect"
   ],
-  "powersText": [
-    "Genius-level intellect",
-    "Expert strategist"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 9543,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Justin Hammer"
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Justin_Hammer"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2910/justin_hammer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justin_Hammer"
+  }
 }

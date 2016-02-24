@@ -1,32 +1,37 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Steve Gerber",
     "Marie Severin"
   ],
-  "image": {
-    "height": "222",
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/07/Dr_Bong.jpg",
-    "width": "250"
-  },
+  "description": "Doctor Bong (Lester Verde) is a fictional character, a supervillain appearing in the Marvel Comics universe.  He possesses an advanced knowledge of genetic engineering, and his bell-shaped helmet can be struck to create a number of effects.  He has clashed with Howard the Duck.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Dr_Bong.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Doctor Bong",
-  "pageviews": 6107,
   "partners": [
-    "Fifi the Duck"
   ],
   "powers": [
-    "bell",
-    "helmet"
-  ],
-  "powersText": [
     "Genius scientist",
-    "Advanced knowledge of genetic engineering",
     "Wears a bell-shaped helmet that can be struck to create a number of effects"
   ],
-  "realName": "Lester Verde",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 6551,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lester Verde"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Doctor_Bong"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Bong"
+  }
 }

@@ -1,28 +1,39 @@
 {
-  "aliases": "",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
   ],
-  "image": {
-    "height": "371",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/TTA-12.jpg/250px-TTA-12.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "Fin Fang Four"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Gorgilla is a fictional character that appears in Marvel Comics. Gorgilla first appeared in Tales To Astonish #12 (vol. 1, Oct. 1960).",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/TTA-12.jpg/250px-TTA-12.jpg",
+  "isHero": false,
+  "isVillain": true,
   "name": "Gorgilla",
-  "pageviews": 603,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Superhuman strength",
-    "durability and agility"
+    "durability",
+    "agility"
   ],
-  "realName": "Gorgilla",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 426,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gorgilla"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Gorgilla"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gorgilla"
+  }
 }

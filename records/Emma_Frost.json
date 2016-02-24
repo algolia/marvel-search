@@ -1,62 +1,60 @@
 {
-  "aliases": "The White Queen The Black Queen",
-  "creators": [
+  "aliases": [
+    "White Queen",
+    "Emma Grace Frost"
+  ],
+  "alliances": [
+    "Hellions",
+    "X-Mansion",
+    "Dark X-Men",
+    "Frost International",
+    "Hellfire Club",
+    "Phoenix Force",
+    "X-Men",
+    "Generation X",
+    "Cabal"
+  ],
+  "authors": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "image": {
-    "height": "450",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Emma_Frost_in_current_costume.jpg/210px-Emma_Frost_in_current_costume.jpg",
-    "width": "210"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 221,
-      "events": 7,
-      "series": 84,
-      "stories": 208
-    },
-    "description": "",
-    "id": 1009310,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/51151ef7cf4c8.jpg",
-    "url": "http://marvel.com/universe/Frost%2C_Emma"
-  },
+  "description": "Emma Grace Frost is a fictional character that appears in comic books published by Marvel Comics. The character first appeared in Uncanny X-Men #129 (January 1980), and was created by writer Chris Claremont and artist/co-writer John Byrne.An urbane, mutant telepath with a well-noted dry wit, initially known as the White Queen, Frost has evolved from one of the X-Men's most dangerous foes to one of its most central members and leaders.Emma Frost appears in many adaptations of the X-Men properties, such as video games, animated programs, and live-action films. January Jones portrayed Emma Frost in the 2011 film X-Men: First Class. Other portrayals of the character include actress Tahyna Tozzi in 2009's X-Men Origins: Wolverine and Finola Hughes in the 1996 film Generation X.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/51151ef7cf4c8/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": true,
   "name": "Emma Frost",
-  "pageviews": 58488,
   "partners": [
   ],
   "powers": [
-    "Telepathy",
-    "shapeshifting",
-    "diamond"
-  ],
-  "powersText": [
-    "Telepathy",
-    "Mind reading and control",
-    "Memory alteration",
-    "Mental bolts",
     "Induced paralysis",
-    "Illusion casting",
     "Astral projection",
     "Capable of shapeshifting into a solid diamond form which grants her superhuman strength",
     "stamina",
     "psychic immunity",
-    "and durability"
+    "durability",
+    "Telepathy",
+    "Memory alteration",
+    "Mental bolts",
+    "Illusion casting",
+    "Mind reading",
+    "control"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 222,
+    "eventCount": 7,
+    "pageviewCount": 44625,
+    "pageviewRank": -1,
+    "serieCount": 84,
+    "storyCount": 209
+  },
+  "secretIdentities": [
+    "Emma Grace Frost"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "A-Force",
-    "X-Men",
-    "The Cabal",
-    "Xavier Institute",
-    "Hellfire Club",
-    "Hellions",
-    "Generation X",
-    "Dark X-Men",
-    "Phoenix Five"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Emma_Frost"
+  "urls": {
+    "marvel": "http://marvel.com/characters/17/emma_frost",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Frost"
+  }
 }

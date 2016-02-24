@@ -1,40 +1,39 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "G-Men",
+    "Agents of Atlas",
+    "S.H.I.E.L.D."
+  ],
+  "authors": [
     "Al Feldstein",
     "Joe Maneely"
   ],
-  "image": {
-    "height": "227",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/AOATLAS001_COV.jpg/150px-AOATLAS001_COV.jpg",
-    "width": "150"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 6,
-      "events": 2,
-      "series": 2,
-      "stories": 8
-    },
-    "description": "Jimmy Woo is a former FBI and SHIELD agent from the '50s who now leads the Agents of Atlas in the present.",
-    "id": 1011105,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c0030a8ec05b.jpg",
-    "url": "http://marvel.com/universe/Woo%2C_Jimmy"
-  },
+  "description": "Jimmy Woo is a former FBI and SHIELD agent from the '50s who now leads the Agents of Atlas in the present.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c0030a8ec05b/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Jimmy Woo",
-  "pageviews": 3162,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 8,
+    "eventCount": 2,
+    "pageviewCount": 2216,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "James Woo"
   ],
-  "realName": "James Woo",
   "species": [
   ],
-  "teams": [
-    "S.H.I.E.L.D.",
-    "Agents of Atlas"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Jimmy_Woo"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2873/jimmy_woo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Woo"
+  }
 }

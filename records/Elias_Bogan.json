@@ -1,31 +1,38 @@
 {
-  "aliases": "Lord Imperial",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Hellfire Club"
+  ],
+  "authors": [
     "Chris Claremont",
     "Salvador Larroca"
   ],
-  "image": {
-    "height": "43",
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/Elias_Bogan.jpg",
-    "width": "250"
-  },
+  "description": "Elias Bogan is a fictional mutant character in the Marvel Comics Universe.  His first appearance was in X-Treme X-Men #21 (fully).  He was created by Chris Claremont.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Elias_Bogan.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Elias Bogan",
-  "pageviews": 1016,
   "partners": [
   ],
   "powers": [
+    "Mental possession",
     "Telepathy"
   ],
-  "powersText": [
-    "Telepathy",
-    "Mental possession"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 659,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Hellfire Club"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Elias_Bogan"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Elias_Bogan"
+  }
 }

@@ -1,62 +1,64 @@
 {
-  "aliases": "Winter Soldier, Captain America",
-  "creators": [
-    "Joe Simon",
-    "Jack Kirby",
-    "Ed Brubaker",
-    "Steve Epting"
+  "aliases": [
   ],
-  "image": {
-    "height": "323",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Bucky.PNG/250px-Bucky.PNG",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1009211,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/4dc8478464008.jpg",
-    "url": "http://marvel.com/universe/Captain_America_(James_Barnes)"
-  },
+  "alliances": [
+    "Avengers",
+    "Kid Commandos",
+    "Invaders",
+    "Legion of the Unliving",
+    "Department X",
+    "Young Allies"
+  ],
+  "authors": [
+    "Winter Soldier:",
+    "Bucky:",
+    "Ed Brubaker",
+    "Jack Kirby",
+    "Steve Epting",
+    "Joe Simon"
+  ],
+  "description": "Bucky is the name of several fictional characters that were masked superheroes in the Marvel Comics universe. The original one, James Buchanan \"Bucky\" Barnes, was created by Joe Simon and Jack Kirby as a sidekick character in Captain America Comics #1 (cover-dated March 1941), published by Timely Comics (Marvel's 1940s predecessor). Decades later, the original Bucky was brought back from supposed death as the Winter Soldier, and even as Captain America when Steve Rogers was presumed to be dead. Sebastian Stan portrays Bucky in the feature film Captain America: The First Avenger (2011) and the Winter Soldier in Captain America: The Winter Soldier (2014).",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/4dc8478464008/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Bucky",
-  "pageviews": 143515,
   "partners": [
+    "Falcon",
     "Captain America",
-    "Black Widow"
+    "Black Widow (Natalia Romanova)"
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Master hand to hand combatant and martial artist",
+    "Use of military weapons",
+    "throwing knives",
+    "Expert assassin",
+    "spy",
+    "Master hand to hand combatant",
+    "martial artist",
     "Gifted advance scout",
-    "Use of military weapons and throwing knives",
-    "As Winter Soldier:",
-    "Expert assassin and spy",
-    "Via cybernetic left arm:",
-    "Superhuman strength",
-    "Enhanced reaction time",
     "Energy projection",
-    "EMP discharger",
+    "Enhanced reaction time",
     "Holographic projector",
-    "As Captain America:",
-    "Carries a Vibranium alloy shield",
-    "Wears a shock absorbing costume",
-    "Use of conventional weapons"
+    "Carries conventional weapons",
+    "EMP discharger",
+    "Superhuman strength",
+    "Use of Vibranium alloy shield",
+    "shock absorbing costume"
   ],
-  "realName": "James Buchanan Barnes",
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 125289,
+    "pageviewRank": 632,
+    "serieCount": 1,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "James Buchanan Barnes"
+  ],
   "species": [
   ],
-  "teams": [
-    "Invaders",
-    "Young Allies",
-    "Kid Commandos",
-    "Avengers",
-    "Legion of the Unliving"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Bucky"
+  "urls": {
+    "marvel": "http://marvel.com/characters/363/bucky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bucky"
+  }
 }

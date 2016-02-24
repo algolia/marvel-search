@@ -1,22 +1,32 @@
 {
-  "aliases": "Turak",
-  "creators": [
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+  ],
+  "authors": [
+  ],
+  "description": "Turac is a fictional character in the Marvel Universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Turac",
-  "pageviews": 903,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 680,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
     "Vampire"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Turac"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Turac"
+  }
 }

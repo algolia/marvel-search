@@ -1,45 +1,43 @@
 {
-  "aliases": "The Dread One; Lord of Chaos; The Great Enigma; Master of the Mindless Ones",
-  "creators": [
-    "Stan Lee",
-    "Steve Ditko"
+  "aliases": [
   ],
-  "image": {
-    "height": "450",
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/85/Dormammu.jpg",
-    "width": "210"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 29,
-      "events": 1,
-      "series": 10,
-      "stories": 32
-    },
-    "description": "",
-    "id": 1009280,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4c003f1ddc0e5.jpg",
-    "url": "http://marvel.com/universe/Dormammu"
-  },
-  "name": "Dormammu",
-  "pageviews": 24828,
-  "partners": [
-    "Umar",
-    "Satannish"
-  ],
-  "powers": [
-  ],
-  "powersText": [
-    "Mystic energy manipulation",
-    "Mastery of dark magic",
-    "Dimensional teleportation",
-    "Immortality"
-  ],
-  "realName": null,
-  "species": [
-  ],
-  "teams": [
+  "alliances": [
     "Mindless Ones"
   ],
-  "url": "https://en.wikipedia.org/wiki/Dormammu"
+  "authors": [
+    "Steve Ditko",
+    "Stan Lee"
+  ],
+  "description": "Dormammu is a fictional character, a powerful mystical being that appears in comic books published by Marvel Comics. The character first appeared in Strange Tales #126 (November 1964), and was created by Stan Lee and Steve Ditko. Debuting in the Silver Age of comic books, Dormammu has appeared in six decades of Marvel publications, featuring prominently in the Doctor Strange titles and limited series as a recurring enemy of the mystic hero. The character has also appeared in associated Marvel merchandise including animated television series, toys, trading cards, and video games.In 2009, Dormammu was ranked as IGN's 56th Greatest Comic Book Villain of All Time.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4c003f1ddc0e5/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Dormammu",
+  "partners": [
+    "Satannish",
+    "Umar"
+  ],
+  "powers": [
+    "Mystic energy manipulation",
+    "Immortality",
+    "Mastery of dark magic",
+    "Dimensional teleportation"
+  ],
+  "ranking": {
+    "comicCount": 29,
+    "eventCount": 1,
+    "pageviewCount": 25883,
+    "pageviewRank": -1,
+    "serieCount": 10,
+    "storyCount": 32
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Faltine"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/575/dormammu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dormammu"
+  }
 }

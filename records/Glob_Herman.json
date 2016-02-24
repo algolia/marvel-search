@@ -1,35 +1,40 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Grant Morrison",
     "Ethan Van Sciver"
   ],
-  "image": {
-    "height": "352",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Omega_gang_full.jpg/250px-Omega_gang_full.jpg",
-    "width": "250"
-  },
+  "description": "Glob Herman (Robert Herman) is a fictional mutant character, a supervillain of the Marvel Comics Universe. His first appearance was in New X-Men #117. Glob was created by Grant Morrison and Ethan Van Sciver.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Omega_gang_full.jpg/250px-Omega_gang_full.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Glob Herman",
-  "pageviews": 2320,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Superhuman strength",
-    "speed and resilience",
+    "speed",
+    "resilience",
     "Bio-paraffin body"
   ],
-  "realName": "Robert Herman",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1805,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Robert Herman"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "The 198",
-    "Xavier Institute",
-    "Omega Gang",
-    "Jean Grey School Students",
-    "Hellfire Academy"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Glob_Herman"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Glob_Herman"
+  }
 }

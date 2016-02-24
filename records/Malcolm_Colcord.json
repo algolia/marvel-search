@@ -1,39 +1,37 @@
 {
-  "aliases": "The Director",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Weapon X"
+  ],
+  "authors": [
     "Frank Tieri",
     "Sean Chen"
   ],
-  "image": {
-    "height": "283",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Director_Colcord.jpg/250px-Director_Colcord.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1009242,
-    "image": null,
-    "url": "http://marvel.com/universe/Colcord,_Malcolm"
-  },
-  "name": "Director Colcord",
-  "pageviews": 1433,
+  "description": "Malcolm Colcord, also known as The Director, is a fictional character in the Marvel Comics Universe. He appeared as a villain in the series Wolverine and was an important character in the Weapon X-comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Director_Colcord.jpg/250px-Director_Colcord.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Malcolm Colcord",
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1150,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Malcolm Colcord"
   ],
-  "realName": "Malcolm Colcord",
   "species": [
   ],
-  "teams": [
-    "Weapon X"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Malcolm_Colcord"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2693/malcolm_colcord",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Colcord"
+  }
 }

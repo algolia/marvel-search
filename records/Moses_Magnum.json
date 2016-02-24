@@ -1,29 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Gerry Conway",
     "Ross Andru"
   ],
-  "image": {
-    "height": "466",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Moses_Magnum_in_Dark_Wolverine_78.jpg/250px-Moses_Magnum_in_Dark_Wolverine_78.jpg",
-    "width": "250"
-  },
+  "description": "Moses Magnum is a fictional character, an arms dealer, terrorist, and supervillain in Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Moses_Magnum_in_Dark_Wolverine_78.jpg/250px-Moses_Magnum_in_Dark_Wolverine_78.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Moses Magnum",
-  "pageviews": 5346,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Releasing seismic energy through his fingertips",
     "using it to create earthquakes",
     "shockwaves or otherwise transport earth matter."
   ],
-  "realName": "Moses Magnum",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5429,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Moses Magnum"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Moses_Magnum"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Moses_Magnum"
+  }
 }

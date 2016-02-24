@@ -1,44 +1,64 @@
 {
-  "aliases": "Steve Valiant, Richard Stetson, Skull, Koos, Smoking Head",
-  "creators": [
+  "aliases": [
   ],
-  "image": {
-    "height": "378",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/New_Invaders_-1.jpg/250px-New_Invaders_-1.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 2,
-      "events": 0,
-      "series": 2,
-      "stories": 1
-    },
-    "description": "",
-    "id": 1010830,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4ce5a37a830a3.jpg",
-    "url": "http://marvel.com/universe/Blazing_Skull_(Mark_Todd)"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Steve Gan",
+    "Marv Wolfman"
+  ],
+  "description": "Skull the Slayer (James Patrick Scully) is a fictional Marvel Comics character that debuted in his own book in August, 1975.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4ce5a37a830a3/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Blazing Skull",
-  "pageviews": 3884,
   "partners": [
   ],
   "powers": [
+    "Enhanced strength",
+    "durability"
   ],
-  "powersText": [
-    "Superhuman strength",
-    "Immunity to fire",
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 853,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Jim Scully"
+  ],
+  "species": [
+    "Human"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2837/blazing_skull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Skull_the_Slayer"
+  }
+}"Superhuman strength",
+    "Flame generation",
+    "projection",
     "Regenerative healing factor",
-    "Flame generation and projection",
+    "Immunity to fire",
     "Ability to make his tissues invisible while leaving his bones visible"
   ],
-  "realName": "Mark Anthony Todd",
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 2792,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Mark Anthony Todd"
+  ],
   "species": [
-    "Human Mutate"
+    "Mutate"
   ],
-  "teams": [
-    "Defenders",
-    "Invaders"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Blazing_Skull"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2837/blazing_skull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blazing_Skull"
+  }
 }

@@ -1,33 +1,43 @@
 {
-  "aliases": "Hogun the Grim",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Warriors Three",
+    "Thor Corps",
+    "Asgard"
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "377",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg",
-    "width": "250"
-  },
+  "description": "Hogun the Grim is a fictional character and a charter member of the Warriors Three, a trio of Asgardian adventurers and supporting cast of Thor in the Marvel Comics Universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Hogun",
-  "pageviews": 6413,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Skilled in Asgardian weapons",
+    "Extended life-span",
     "Superhuman strength",
     "stamina",
-    "and durability",
-    "Skilled in Asgardian weapons",
-    "Extended life-span"
+    "durability"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4534,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Hogun"
+  ],
   "species": [
-    "Asgardian"
   ],
-  "teams": [
-    "Warriors Three"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Hogun"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hogun"
+  }
 }

@@ -1,30 +1,47 @@
 {
-  "aliases": "",
-  "creators": [
-    "Stan Lee",
-    "Steve Ditko"
+  "aliases": [
   ],
-  "image": {
-    "height": "355",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Melter.jpg/240px-Melter.jpg",
-    "width": "240"
-  },
-  "name": "Melter",
-  "pageviews": 3149,
-  "partners": [
-  ],
-  "powers": [
-  ],
-  "powersText": [
-    "Extensive knowledge of weapons and munitions",
-    "Ability to melt iron and almost all types of substances via melting device"
-  ],
-  "realName": null,
-  "species": [
-  ],
-  "teams": [
+  "alliances": [
+    "Young Masters",
     "Masters of Evil",
     "Death Squad"
   ],
-  "url": "https://en.wikipedia.org/wiki/Melter"
+  "authors": [
+    "Paul Cornell",
+    "Steve Ditko",
+    "Mark Brooks",
+    "Stan Lee"
+  ],
+  "description": "The Melter is the name of three characters in Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Melter.jpg/240px-Melter.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Melter",
+  "partners": [
+  ],
+  "powers": [
+    "Ability to melt iron",
+    "almost all types of substances via melting device",
+    "Ability to mentally agitate the molecules in solid matter so that it loses cohesion",
+    "Extensive knowledge of weapons",
+    "munitions"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2117,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Christopher Colchiss",
+    "Bruno Horgan"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Melter"
+  }
 }

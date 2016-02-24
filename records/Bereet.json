@@ -1,27 +1,34 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Doug Moench",
     "Walt Simonson"
   ],
-  "image": {
-    "height": "432",
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Bereet.jpg",
-    "width": "200"
-  },
+  "description": "Bereet is a fictional character in the Marvel Universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Bereet.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Bereet",
-  "pageviews": 2600,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1826,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
-    "Krylorian"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Bereet"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bereet"
+  }
 }

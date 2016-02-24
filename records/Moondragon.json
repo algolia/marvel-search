@@ -1,52 +1,48 @@
 {
-  "aliases": "Madame MacEvil, H.D. Steckley",
-  "creators": [
-    "Bill Everett",
-    "Mike Friedrich",
-    "George Tuska",
-    "Jim Starlin"
+  "aliases": [
   ],
-  "image": {
-    "height": "450",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Moondragon.jpg/187px-Moondragon.jpg",
-    "width": "187"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 17,
-      "events": 2,
-      "series": 9,
-      "stories": 21
-    },
-    "description": "",
-    "id": 1009451,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4c003d2ebd6c5.jpg",
-    "url": "http://marvel.com/universe/Moondragon"
-  },
+  "alliances": [
+    "Defenders",
+    "Guardians of the Galaxy (2008 team)",
+    "Avengers",
+    "Infinity Watch"
+  ],
+  "authors": [
+    "George Tuska",
+    "Jim Starlin",
+    "Bill Everett",
+    "Mike Friedrich"
+  ],
+  "description": "Moondragon is a fictional character in Marvel Comics Universe.  A vastly powerful telepath, master martial artist, minor telekinetic, and highly skilled geneticist, Moondragon's most notable characteristics are her shaved head, superiority complex, and achieving excellence in virtually every area of human accomplishment.Unlike most Marvel characters, who have gained their paranormal abilities through birth or accident Moondragon has strictly achieved her  extraordinary talents through extreme degrees of personal regimen. She is openly bisexual, and has been romantically attracted to Daredevil, Thor, Cloud, Quasar, Marlo Chandler, and Phyla-Vell.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4c003d2ebd6c5/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Moondragon",
-  "pageviews": 20917,
   "partners": [
   ],
   "powers": [
-    "telepath",
-    "telekinetic",
-    "martial artist"
-  ],
-  "powersText": [
-    "Enormously powerful telepath",
-    "Low-level telekinetic",
+    "Highly skilled geneticist",
+    "engineer.",
     "Master martial artist",
-    "Highly skilled geneticist and engineer",
+    "Low-level telekinetic",
+    "Enormously powerful telepath",
     "Experienced starship pilot"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 17,
+    "eventCount": 2,
+    "pageviewCount": 13722,
+    "pageviewRank": -1,
+    "serieCount": 9,
+    "storyCount": 21
+  },
+  "secretIdentities": [
+    "Heather Douglas"
+  ],
   "species": [
   ],
-  "teams": [
-    "Infinity Watch",
-    "Defenders",
-    "Avengers",
-    "Guardians of the Galaxy"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Moondragon"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1500/moondragon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moondragon"
+  }
 }

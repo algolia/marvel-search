@@ -1,52 +1,51 @@
 {
-  "aliases": "The Dream Master",
-  "creators": [
-    "Stan Lee",
-    "Don Heck"
+  "aliases": [
   ],
-  "image": {
-    "height": "373",
-    "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Avengers166.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 16,
-      "events": 0,
-      "series": 12,
-      "stories": 11
-    },
-    "description": "",
-    "id": 1009249,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4c00405d04674.jpg",
-    "url": "http://marvel.com/universe/Count_Nefaria"
-  },
+  "alliances": [
+    "Legion of the Unliving",
+    "Death Squad",
+    "Maggia",
+    "Lethal Legion",
+    "Ani-Men"
+  ],
+  "authors": [
+    "Don Heck",
+    "Stan Lee"
+  ],
+  "description": "Count Nefaria is a fictional character that appears in comic books published by Marvel Comics. He is the father of Madame Masque.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4c00405d04674/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Count Nefaria",
-  "pageviews": 7247,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Superhuman strength",
     "speed",
     "stamina",
     "agility",
     "reflexes",
     "durability",
-    "healing and longevity",
+    "healing",
+    "longevity",
     "Optic blasts",
     "Flight"
   ],
-  "realName": "Luchino Nefaria",
+  "ranking": {
+    "comicCount": 16,
+    "eventCount": 0,
+    "pageviewCount": 4920,
+    "pageviewRank": -1,
+    "serieCount": 12,
+    "storyCount": 11
+  },
+  "secretIdentities": [
+    "Luchino Nefaria"
+  ],
   "species": [
   ],
-  "teams": [
-    "Maggia",
-    "Legion of the Unliving",
-    "Death Squad",
-    "Lethal Legion",
-    "Ani-Men"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Count_Nefaria"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2696/count_nefaria",
+    "wikipedia": "https://en.wikipedia.org/wiki/Count_Nefaria"
+  }
 }

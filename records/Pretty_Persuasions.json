@@ -1,29 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Psionex",
+    "Genetech",
+    "Thunderbolts"
+  ],
+  "authors": [
     "Fabian Nicieza",
     "Mark Bagley"
   ],
-  "image": {
-  },
+  "description": "Pretty Persuasions (Heidi P. Franklin) is a fictional Marvel Comics mutate character who first appeared in New Warriors vol. 1 #4. She was a member of Psionex.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Pretty Persuasions",
-  "pageviews": 636,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "stimulate a person's pleasure centers in their brain",
     "creation of psionic",
     "energy weapons"
   ],
-  "realName": "Heidi P. Franklin",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 410,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Heidi P. Franklin"
+  ],
   "species": [
-    "Human Mutate"
+    "Mutate"
   ],
-  "teams": [
-    "Thunderbolts",
-    "Psionex"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Pretty_Persuasions"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pretty_Persuasions"
+  }
 }

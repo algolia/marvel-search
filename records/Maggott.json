@@ -1,41 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
   ],
-  "image": {
-    "height": "351",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Maggottproflie.jpg/250px-Maggottproflie.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 21,
-      "events": 0,
-      "series": 3,
-      "stories": 30
-    },
-    "description": "",
-    "id": 1009414,
-    "image": null,
-    "url": null
-  },
-  "name": "Maggott",
-  "pageviews": 3216,
-  "partners": [
-  ],
-  "powers": [
-  ],
-  "powersText": [
-    "Slug-based digestive system",
-    "Psychometry"
-  ],
-  "realName": "Japheth",
-  "species": [
-    "Human Mutant"
-  ],
-  "teams": [
+  "alliances": [
     "X-Men",
     "Generation X"
   ],
-  "url": "https://en.wikipedia.org/wiki/Maggott"
+  "authors": [
+    "Joe Madureira",
+    "Scott Lobdell"
+  ],
+  "description": "Maggott (Japheth), is a Marvel Comics superhero who was briefly a member of the X-Men. Created by writer Scott Lobdell and Joe Madureira, he first appeared in Uncanny X-Men #345 (June 1997).A flamboyant South African mutant who spoke in exaggerated Afrikaans slang, Maggott was advertised as one of the strangest X-Men. His digestive system took the form of two slugs which could eat through practically any substance. After feeding, the slugs reentered Maggott's abdomen and passed nourishment into him, giving him incredible power.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Maggottproflie.jpg/250px-Maggottproflie.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Maggott",
+  "partners": [
+  ],
+  "powers": [
+    "Slug-based digestive system",
+    "Psychometry"
+  ],
+  "ranking": {
+    "comicCount": 21,
+    "eventCount": 0,
+    "pageviewCount": 2402,
+    "pageviewRank": -1,
+    "serieCount": 3,
+    "storyCount": 30
+  },
+  "secretIdentities": [
+    "Japheth"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1323/maggott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maggott"
+  }
 }

@@ -1,29 +1,37 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Gary Friedrich",
     "Herb Trimpe"
   ],
-  "image": {
-    "height": "328",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/MarvelSuper-Heroes16.jpg/220px-MarvelSuper-Heroes16.jpg",
-    "width": "220"
-  },
-  "name": "Phantom Eagle (Marvel Comics)",
-  "pageviews": 1983,
+  "description": "Phantom Eagle is the name used by three fictional comic book aviator heroes. The first was introduced during the 1930s-1940s Golden Age of comic books by Fawcett Comics. The other two have appeared sporadically in various series published by Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/MarvelSuper-Heroes16.jpg/220px-MarvelSuper-Heroes16.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Phantom Eagle",
   "partners": [
   ],
   "powers": [
+    "Good hand to hand combatant",
+    "None: Ace World War I pilot"
   ],
-  "powersText": [
-    "None: Ace World War I pilot",
-    "Good hand to hand combatant"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1249,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Karl Kaufman"
   ],
-  "realName": "Karl Kaufman",
   "species": [
   ],
-  "teams": [
-    "Freedom's Five"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Phantom_Eagle"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Phantom_Eagle"
+  }
 }

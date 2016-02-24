@@ -1,28 +1,37 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Pacific Overlords"
+  ],
+  "authors": [
     "Doug Moench",
     "Tom Sutton"
   ],
-  "image": {
-    "height": "377",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Dr._demonicus.jpg/249px-Dr._demonicus.jpg",
-    "width": "249"
-  },
+  "description": "Doctor Demonicus (Douglas Birely) is a fictional character, a supervillain in the Marvel Universe. He possesses advanced knowledge of genetic engineering, and has clashed with the Avengers and Shogun Warriors, in addition to S.H.I.E.L.D..",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Dr._demonicus.jpg/249px-Dr._demonicus.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Doctor Demonicus",
-  "pageviews": 625,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Scientific genius"
   ],
-  "realName": "Douglas Birely",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 493,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Douglas Birely"
+  ],
   "species": [
   ],
-  "teams": [
-    "Pacific Overlords"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Doctor_Demonicus"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Demonicus"
+  }
 }

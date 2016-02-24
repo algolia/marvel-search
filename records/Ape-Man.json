@@ -1,35 +1,51 @@
 {
-  "aliases": "Monk Keefer, Gort",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Unholy Three",
+    "Ani-Men"
+  ],
+  "authors": [
+    "Roger McKenzie",
+    "Mary Jo Duffy",
+    "and Gene Colan",
     "Stan Lee",
     "Don Heck"
   ],
-  "image": {
-    "height": "254",
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/af/ApeMan.jpg",
-    "width": "200"
-  },
+  "description": "Ape-Man is the name of three characters in Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/af/ApeMan.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Ape-Man",
-  "pageviews": 1013,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Excellent boxer and wrestler",
-    "Considerable strength",
-    "Use of T-Ray Gun",
-    "(Briefly):",
-    "Ape-like appearance",
+    "Ape-like superhuman strength",
+    "agility",
+    "durability",
+    "reflexes",
     "Superhuman strength",
     "Enhanced agility",
-    "durability and reflexes"
+    "Use of T-Ray Gun",
+    "Considerable strength",
+    "Ape-like appearance",
+    "Excellent hand-to-hand combatant"
   ],
-  "realName": "Gordon Keefer",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 705,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Gordon Keefer",
+    "Roy McVey"
+  ],
   "species": [
   ],
-  "teams": [
-    "Ani-Men"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Ape-Man"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ape-Man"
+  }
 }

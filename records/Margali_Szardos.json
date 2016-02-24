@@ -1,32 +1,42 @@
 {
-  "aliases": "Margali of the Winding Way, Red Queen, Fata Morgana",
-  "creators": [
-    "Chris Claremont",
-    "John Romita, Jr."
+  "aliases": [
   ],
-  "image": {
-    "height": "336",
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Margali.png",
-    "width": "205"
-  },
+  "alliances": [
+    "Hellfire Club",
+    "Shadow Hunters"
+  ],
+  "authors": [
+    "John Romita, Jr.",
+    "Chris Claremont"
+  ],
+  "description": "Margali Szardos, also known as Margali of the Winding Way, Red Queen or Fata Morgana, is a fictional comic book character appearing in books published by Marvel Comics. She first appeared in Uncanny X-Men Annual #4, and was created by writer Chris Claremont and artist John Romita, Jr. based on sketches by John Byrne.Margali is Nightcrawler's adopted mother. She is also the biological mother of Amanda Sefton, formerly known as Daytripper and the second Magik.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Margali.png",
+  "isHero": false,
+  "isVillain": false,
   "name": "Margali Szardos",
-  "pageviews": 2191,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Spell-casting",
     "transformation",
-    "flaming sword",
+    "mystic energy blasts",
     "extendable claws",
-    "mystic energy blasts"
+    "flaming sword"
   ],
-  "realName": "Margali Szardos",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1696,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Margali Szardos"
+  ],
   "species": [
   ],
-  "teams": [
-    "Hellfire Club"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Margali_Szardos"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Margali_Szardos"
+  }
 }

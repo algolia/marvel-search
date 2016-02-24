@@ -1,28 +1,39 @@
 {
-  "aliases": "Death Demon",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "United States Air Force",
+    "NASA"
+  ],
+  "authors": [
     "Gerry Conway",
     "Rich Buckler"
   ],
-  "image": {
-  },
+  "description": "Darkoth (a.k.a. Darkoth the Death Demon) is a fictional character, supervillain appearing in the Marvel Comics universe. His first appearance was in Fantastic Four series 1 #142, (January 1974), and he was created by Gerry Conway and Rich Buckler.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Darkoth",
-  "pageviews": 408,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Superhuman strength",
     "Flight",
     "Density control"
   ],
-  "realName": "Desmond Pitt",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 281,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Desmond Pitt"
+  ],
   "species": [
   ],
-  "teams": [
-    "NASA",
-    "United States Air Force"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Darkoth"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Darkoth"
+  }
 }

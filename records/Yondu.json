@@ -1,31 +1,39 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Guardians of the Galaxy (1969 team)",
+    "Avengers"
+  ],
+  "authors": [
     "Arnold Drake",
     "Gene Colan"
   ],
-  "image": {
-    "height": "377",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Guardians_of_the_Galaxy_44.jpg/250px-Guardians_of_the_Galaxy_44.jpg",
-    "width": "250"
-  },
+  "description": "Yondu is a fictional character, a superhero in the Marvel Comics universe, and a founding member of the original Guardians of the Galaxy team. Michael Rooker plays the character in the 2014 film Guardians of the Galaxy.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Guardians_of_the_Galaxy_44.jpg/250px-Guardians_of_the_Galaxy_44.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Yondu",
-  "pageviews": 27464,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Expert archer",
     "Empathic relationship with all life forms"
   ],
-  "realName": "Yondu Udonta",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 18906,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Yondu Udonta"
+  ],
   "species": [
-    "Centaurian"
   ],
-  "teams": [
-    "Guardians of the Galaxy",
-    "Avengers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Yondu"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yondu"
+  }
 }

@@ -1,61 +1,63 @@
 {
-  "aliases": "Onslaught , Consort-Royal, Founder, Doctor X, Warlord, Entity, Prisoner M-13",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
+    "Charles Xavier",
+    "Professor Charles Xavier"
   ],
-  "image": {
-    "height": "262",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Xav-lopr.png/250px-Xav-lopr.png",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 297,
-      "events": 15,
-      "series": 112,
-      "stories": 286
-    },
-    "description": "",
-    "id": 1009504,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/528d3378de525.jpg",
-    "url": "http://marvel.com/universe/Professor_X"
-  },
+  "alliances": [
+    "Skrull",
+    "Apocalypse: The Twelve",
+    "Defenders",
+    "X-Men",
+    "Illuminati",
+    "Brotherhood of Mutants",
+    "Excalibur",
+    "Shi'ar",
+    "Starjammers"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Professor Charles Francis Xavier, M.D., Ph.D. (also known as Professor X) is a fictional character, a superhero that appears in comic books published by Marvel Comics. He is known as the leader and founder of the X-Men. Throughout most of his comic book history, Xavier is paraplegic, although his body houses one of the world's most powerful mutant minds. As a high-level telepath, Xavier can read, control, and influence human minds. A scientific genius, he is also a leading authority on genetics, mutation, and psionic powers. Xavier resents the violent methods of the supervillain Magneto and argues for a pacifistic path towards civil rights. Xavier's actions and goals in life are often compared to those of Martin Luther King, Jr. for his involvement with the American civil rights struggle, whereas Magneto is often compared with the more militant civil rights activist Malcolm X.Sir Patrick Stewart portrayed the character in five films of the X-Men film series and in various video games, while James McAvoy portrayed a younger version of the character in the 2011 prequel X-Men: First Class, with both actors reprising the role in the film X-Men: Days of Future Past.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/528d3378de525/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Professor X",
-  "pageviews": 61021,
   "partners": [
   ],
   "powers": [
-    "Telepathy",
-    "Empathy",
-    "Hypnosis",
-    "Astral projection"
-  ],
-  "powersText": [
     "Genius-level intellect",
     "Telepathy",
     "Empathy",
-    "Hypnosis",
-    "Mind reading and control",
-    "Memory alteration and erasure",
+    "Mind reading",
+    "control",
+    "Memory alteration",
+    "erasure",
+    "Mental bolts",
     "Psionic blasts",
+    "Induced paralysis",
     "Illusion casting",
-    "Astral projection"
+    "Great tactician",
+    "strategist",
+    "Astral projection",
+    "Eidetic memory"
   ],
-  "realName": "Charles Francis Xavier",
+  "ranking": {
+    "comicCount": 296,
+    "eventCount": 15,
+    "pageviewCount": 48766,
+    "pageviewRank": -1,
+    "serieCount": 112,
+    "storyCount": 286
+  },
+  "secretIdentities": [
+    "Charles Francis Xavier"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "X-Men",
-    "Illuminati",
-    "Genoshan Excalibur",
-    "Cadre K",
-    "Brotherhood of Mutants",
-    "Shi'ar Imperium",
-    "Starjammers",
-    "The Twelve",
-    "Defenders"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Professor_X"
+  "urls": {
+    "marvel": "http://marvel.com/comics/characters/1009504/professor_x",
+    "wikipedia": "https://en.wikipedia.org/wiki/Professor_X"
+  }
 }

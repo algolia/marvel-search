@@ -1,30 +1,39 @@
 {
-  "aliases": "Dr. Hartley",
-  "creators": [
-    "Frank Tieri",
+  "aliases": [
+  ],
+  "alliances": [
+    "Clan Akkaba"
+  ],
+  "authors": [
+    "Frank Tieri (writer)",
     "Clayton Henry"
   ],
-  "image": {
-    "height": "418",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Fredrich_slade_profile.JPG/200px-Fredrich_slade_profile.JPG",
-    "width": "200"
-  },
+  "description": "Frederick Slade is a fictional character and mutant in the Marvel Comics universe. His first appearance was in X-Men: Apocalypse vs. Dracula #2.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Fredrich_slade_profile.JPG/200px-Fredrich_slade_profile.JPG",
+  "isHero": false,
+  "isVillain": false,
   "name": "Frederick Slade",
-  "pageviews": 970,
   "partners": [
   ],
   "powers": [
-    "Teleportation"
+    "Teleportation",
+    "molecular rearrangement"
   ],
-  "powersText": [
-    "Teleportation and molecular rearrangement"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 789,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Frederick Slade"
   ],
-  "realName": "Frederick Slade",
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Clan Akkaba"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Frederick_Slade"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Slade"
+  }
 }

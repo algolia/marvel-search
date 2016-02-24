@@ -1,45 +1,44 @@
 {
-  "aliases": "The Schemer, The Rose, The Blood Rose",
-  "creators": [
-    "Stan Lee",
-    "John Romita, Sr."
+  "aliases": [
   ],
-  "image": {
-    "height": "385",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Webofspiderman30.jpg/250px-Webofspiderman30.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1011401,
-    "image": null,
-    "url": "http://marvel.com/universe/Richard%20Fisk"
-  },
+  "alliances": [
+    "Hydra"
+  ],
+  "authors": [
+    "John Romita",
+    "Sr.",
+    "Stan Lee"
+  ],
+  "description": "Richard Fisk is a fictional character, a criminal in the Marvel Comics Universe, featured in the comic books published by Marvel Comics. He is the son of the Kingpin and his wife Vanessa Fisk. Although he was originally a villain, he became an antihero.The character first appears in The Amazing Spider-Man #83 (April 1970) and was created by Stan Lee and John Romita, Sr.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Webofspiderman30.jpg/250px-Webofspiderman30.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Richard Fisk",
-  "pageviews": 8180,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Good martial artist",
     "High-level intellect",
+    "Good martial artist",
+    "Wears a bulletproof suit",
     "Use of guns",
-    "Carries a handgun and a variety of mini-grenades",
-    "(As Rose):",
-    "Wears a bulletproof suit"
+    "Carries a handgun",
+    "a variety of mini-grenades"
   ],
-  "realName": "Richard Fisk",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 6819,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Richard Fisk"
+  ],
   "species": [
   ],
-  "teams": [
-    "HYDRA"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Richard_Fisk"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2929/richard_fisk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Fisk"
+  }
 }

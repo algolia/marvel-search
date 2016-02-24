@@ -1,26 +1,35 @@
 {
-  "aliases": "",
-  "creators": [
-    "Chris Claremont",
-    "Alan Davis"
+  "aliases": [
   ],
-  "image": {
-    "height": "250",
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/00/Warwolf.jpg",
-    "width": "250"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Alan Davis",
+    "Chris Claremont"
+  ],
+  "description": "The Warwolves are fictional characters appearing in the comic books published by Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Warwolf.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Warwolves",
-  "pageviews": 593,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 362,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
+    "Warwolves"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Warwolves"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Warwolves"
+  }
 }

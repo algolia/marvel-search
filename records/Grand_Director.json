@@ -1,44 +1,43 @@
 {
-  "aliases": "Captain America",
-  "creators": [
-    "Steve Englehart",
-    "Sal Buscema",
-    "Roger McKenzie",
-    "Jim Shooter"
+  "aliases": [
   ],
-  "image": {
-    "height": "264",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Grand_Director.jpg/250px-Grand_Director.jpg",
-    "width": "250"
-  },
-  "name": "The Grand Director",
-  "pageviews": 4072,
+  "alliances": [
+    "National Force",
+    "Federal government of the United States"
+  ],
+  "authors": [
+    "as \"The Grand Director\":",
+    "Jim Shooter",
+    "as \"Captain America\" :",
+    "Roger McKenzie",
+    "Steve Englehart",
+    "Sal Buscema"
+  ],
+  "description": "The Grand Director (William Burnside), also known as the Captain America of the 1950s, is a fictional character in the Marvel Comics Universe. He was created by writer Steve Englehart and artist Sal Buscema in Captain America #153-156 (September–December, 1972) as having been a specifically different Captain America, the Captain America introduced in 1953 in Young Men comics. In a later storyline, the character was given a new white costume and the title \"The Grand Director\" by Buscema and writers Roger McKenzie and Jim Shooter in Captain America #232 (April, 1979) and altered to be a villain, leader of a group of White Supremacists that included a brainwashed Sharon Carter. The character was killed off at the end of that storyline, and not used again until Captain America (Vol. 5) #42, returning to being active as the \"Captain America of the 1950s\" separate from the then-current Captain America, James \"Bucky\" Barnes.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Grand_Director.jpg/250px-Grand_Director.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Grand Director",
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Trained boxer",
     "Superhuman strength",
-    "Peak-level speed",
-    "agility",
-    "dexterity",
-    "reflexes",
-    "coordination",
-    "balance and endurance",
-    "Access to various forms of advanced technology",
-    "As Captain America:",
-    "Wears a chain-mail costume",
-    "Carries a bulletproof steel shield",
-    "(Briefly):",
-    "Use of an \"atom-blaster\" weapon"
+    "peak physical athletic ability"
   ],
-  "realName": "William Burnside; legally changed to Steven \"Steve\" Rogers",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3320,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "William Burnside; legally changed to Steven \"Steve\" Rogers"
+  ],
   "species": [
   ],
-  "teams": [
-    "United States Government",
-    "National Force"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Grand_Director"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Grand_Director"
+  }
 }

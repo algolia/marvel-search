@@ -1,24 +1,36 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Empire State University"
+  ],
+  "authors": [
     "David Anthony Kraft",
     "George Pérez"
   ],
-  "image": {
-  },
+  "description": "Lunatik is a fictional character in the Marvel Universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Lunatik",
-  "pageviews": 1824,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 982,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Arisen Tyrk",
+    "Harrison Turk"
   ],
-  "realName": "Arisen Tyrk, Harrison Turk",
   "species": [
   ],
-  "teams": [
-    "Empire State University"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Lunatik"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lunatik"
+  }
 }

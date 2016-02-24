@@ -1,0 +1,44 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "X-Statix",
+    "X-Force"
+  ],
+  "authors": [
+    "Mike Allred",
+    "Peter Milligan"
+  ],
+  "description": "Mister Sensitive (real name Guy Smith) is a fictional character from Marvel Comics, who was a prominent castmember in the X-Statix series. He first appeared in X-Force vol. 1 #117 and was created by Peter Milligan and Mike Allred.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Xforce117.jpg/225px-Xforce117.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Orphan",
+  "partners": [
+  ],
+  "powers": [
+    "Super-human senses",
+    "reflexes/reactions",
+    "coordination",
+    "mastery of martial arts",
+    "levitation"
+  ],
+  "ranking": {
+    "comicCount": 14,
+    "eventCount": 0,
+    "pageviewCount": 942,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 22
+  },
+  "secretIdentities": [
+    "Guy Smith"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1668/orphan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mister_Sensitive"
+  }
+}

@@ -1,34 +1,42 @@
 {
-  "aliases": "The Commander",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Genosha",
+    "N'astirh",
+    "Purifiers",
+    "The Right",
+    "X-Factor",
+    "Phalanx"
+  ],
+  "authors": [
     "Bob Layton",
     "Jackson Guice"
   ],
-  "image": {
-    "height": "382",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/UncannyX-Men271.jpg/250px-UncannyX-Men271.jpg",
-    "width": "250"
-  },
+  "description": "Cameron Hodge is a fictional comic book supervillain and opponent of the X-Men, as seen in Marvel Comics. Created by writer Bob Layton and artist Jackson Guice, Hodge first appeared as a supporting character in X-Factor #1 (February 1986)  Later, under writer Louise Simonson, Hodge was revealed to be secretly acting against X-Factor as the leader of an anti-mutant organization known as The Right.  After he was decapitated by Archangel, his head was later revealed to have been attached to a large cyborg, and yet later, he merged with the cybernetic extraterrestrial race known as the Phalanx.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/UncannyX-Men271.jpg/250px-UncannyX-Men271.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Cameron Hodge",
-  "pageviews": 3378,
   "partners": [
   ],
   "powers": [
+    "Superhuman physical attributes through cyberntic body",
+    "Immortality"
   ],
-  "powersText": [
-    "Immortality",
-    "Superhuman physical attributes through cybernetic body"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2634,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-    "Phalanx",
-    "Purifiers",
-    "The Right",
-    "N'astirh",
-    "Genoshan Cabinet",
-    "X-Factor"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Cameron_Hodge"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cameron_Hodge"
+  }
 }

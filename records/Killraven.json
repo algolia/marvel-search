@@ -1,40 +1,39 @@
 {
-  "aliases": "K.R.",
-  "creators": [
-    "Roy Thomas",
-    "Neal Adams",
-    "Gerry Conway"
+  "aliases": [
   ],
-  "image": {
-    "height": "378",
-    "url": "https://upload.wikimedia.org/wikipedia/en/2/24/Amazing_Adventures_30_%281970%29.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 30,
-      "events": 0,
-      "series": 4,
-      "stories": 76
-    },
-    "description": "",
-    "id": 1011116,
-    "image": null,
-    "url": "http://marvel.com/universe/Killraven"
-  },
+  "alliances": [
+    "Freemen"
+  ],
+  "authors": [
+    "Neal Adams",
+    "Gerry Conway",
+    "Roy Thomas"
+  ],
+  "description": "Killraven (Jonathan Raven) is a fictional freedom fighter in several post-apocalyptic alternate futures of the Marvel Comics universe. He first appeared in Amazing Adventures vol. 2, #18 (May 1973), created by co-plotters Roy Thomas and Neal Adams, scriptwriter Gerry Conway, and penciller Adams. The series featured the first dramatic interracial kiss in American color comic books.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/2/24/Amazing_Adventures_30_%281970%29.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Killraven",
-  "pageviews": 2953,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Ability to project consciousness"
   ],
-  "realName": "Jonathan Raven",
+  "ranking": {
+    "comicCount": 30,
+    "eventCount": 0,
+    "pageviewCount": 2018,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 76
+  },
+  "secretIdentities": [
+    "Jonathan Raven"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Killraven"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1146/killraven",
+    "wikipedia": "https://en.wikipedia.org/wiki/Killraven"
+  }
 }

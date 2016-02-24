@@ -1,28 +1,37 @@
 {
-  "aliases": "Brother Joshua, Professor",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "146",
-    "url": "https://upload.wikimedia.org/wikipedia/en/8/82/FF_3_panel.jpg",
-    "width": "275"
-  },
+  "description": "The Miracle Man is a supervillain featured in Marvel Comics, created by Stan Lee and Jack Kirby as one of the first enemies of the Fantastic Four.  He was originally depicted as a stage magician with megalomaniacal desires, capable of convincing others through hypnosis that he has amazing powers.  In subsequent appearances, he appears to obtain actual, significant superpowers that allow him to mentally control and rearrange matter, but this turns out to be yet another illusion.  The Miracle Man becomes one of the many minor Marvel Comics supervillains to be killed by the Scourge of the Underworld, but is resurrected by the powerful demon Dormammu (as a parasite of Hood).",
+  "image": "https://upload.wikimedia.org/wikipedia/en/8/82/FF_3_panel.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Miracle Man",
-  "pageviews": 2347,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Hypnotism",
-    "Ability to manipulate and animate matter"
+    "Ability to manipulate",
+    "animate matter"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1517,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Miracle_Man"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Miracle_Man"
+  }
 }

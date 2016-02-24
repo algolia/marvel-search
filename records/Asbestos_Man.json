@@ -1,31 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
-    "Stan Lee",
-    "Ernest Hart",
-    "Dick Ayers"
+  "aliases": [
   ],
-  "image": {
-    "height": "378",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Strange_Tales_111_cover.jpg/250px-Strange_Tales_111_cover.jpg",
-    "width": "250"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Dick Ayers",
+    "Ernest Hart",
+    "Stan Lee"
+  ],
+  "description": "Dr. Orson Karloff, better known as the Asbestos Man, is a fictional character, a supervillain who appears in comics published by Marvel Comics. Created by editor-plotter Stan Lee, writer Ernest Hart and artist Dick Ayers, the character first appeared in Strange Tales #111 (August 1963).",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Strange_Tales_111_cover.jpg/250px-Strange_Tales_111_cover.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Asbestos Man",
-  "pageviews": 1861,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Genius chemist",
-    "Wears asbestos suit that is highly toxic and resistant to heat",
+    "Wears asbestos suit that is highly toxic",
+    "resistant to heat",
     "Possesses iron shield that can block out flames",
+    "Genius chemist",
     "Energy manipulation via metal net"
   ],
-  "realName": "",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1383,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Orson Kasloff"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Asbestos_Man"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Asbestos_Man"
+  }
 }

@@ -1,38 +1,49 @@
 {
-  "aliases": "Arkon the Imperion, Arkon the Magnificent",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "image": {
-    "height": "400",
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/ArkonC.png",
-    "width": "171"
-  },
+  "description": "Arkon is a fictional character in the Marvel Comics Universe. He is the warlord and ruler of the extra-dimensional world of Polemachus.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/6c/ArkonC.png",
+  "isHero": false,
+  "isVillain": false,
   "name": "Arkon",
-  "pageviews": 3761,
   "partners": [
     "Enchantress"
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Accelerated healing factor",
     "Cunning military strategist",
-    "Extraordinary hand-to-hand combatant and swordsman",
+    "Rides on various dinosaur-like mounts",
+    "Extraordinary hand-to-hand combatant",
+    "swordsman",
+    "Possesses three lightning-shaped energy weapons",
+    "a shield",
+    "Highly skilled with throwing weapons",
     "Superhuman strength",
     "speed",
     "agility",
     "stamina",
-    "durability and reflexes",
-    "Accelerated healing factor",
-    "Highly skilled with throwing weapons",
-    "Possesses three lightning-shaped energy weapons and a shield",
-    "Rides on various dinosaur-like mounts"
+    "durability",
+    "reflexes"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2816,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Arkon"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Arkon"
+  }
 }

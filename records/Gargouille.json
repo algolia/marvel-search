@@ -1,0 +1,48 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Acolytes"
+  ],
+  "authors": [
+    "Ivan Reis",
+    "John Ostrander",
+    "Joe Edkin"
+  ],
+  "description": "Gargouille (Lavinia LeBlanc) is a fictional mutant villain character in the Marvel Comics Universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/8/87/XMEN-Gargouille.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Gargouille",
+  "partners": [
+  ],
+  "powers": [
+    "Talons",
+    "Superhuman strength",
+    "speed",
+    "reflexes",
+    "agility",
+    "coordination",
+    "balance",
+    "endurance",
+    "senses",
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 307,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lavinia LeBlanc"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gargouille_(comics)"
+  }
+}

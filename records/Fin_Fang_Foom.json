@@ -1,49 +1,63 @@
 {
-  "aliases": "\"He Whose Limbs Shatter Mountains and Whose Back Scrapes the Sun\"",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
   ],
-  "image": {
-    "height": "377",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/ST-89.jpg/250px-ST-89.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 10,
-      "events": 0,
-      "series": 8,
-      "stories": 10
-    },
-    "description": "",
-    "id": 1009303,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4ce59fc647d58.jpg",
-    "url": null
-  },
+  "alliances": [
+  ],
+  "authors": [
+  ],
+  "description": "Jormungand, also known as The Midgard Serpent or World Serpent, is a fictional character that appears in comic books published by Marvel Comics. The character, based on the serpent Jörmungandr from Norse mythology, first appears in Marvel Tales #105 (Feb. 1952), in the period between the Golden Age of Comic Books and the Silver Age of Comic Books.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4ce59fc647d58/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Fin Fang Foom",
-  "pageviews": 12600,
   "partners": [
   ],
   "powers": [
+    "Illusion projection",
+    "Superhuman strength",
+    "stamina",
+    "Fire",
+    "poison generation"
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 0,
+    "pageviewCount": 2107,
+    "pageviewRank": -1,
+    "serieCount": 8,
+    "storyCount": 10
+  },
+  "secretIdentities": [
+    "Jormungand"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/3426/fin_fang_foom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Midgard_Serpent_(Marvel_Comics)"
+  }
+}ted intellect",
+    "Regenerative healing factor",
+    "Possesses advanced alien technology",
     "Superhuman strength",
     "Supersonic flight via wings",
-    "Extreme durability",
-    "Regenerative healing factor",
-    "Acid mist breath",
-    "Telepathy",
     "Prolonged lifespan",
-    "Gifted intellect",
-    "Possesses advanced alien technology"
+    "Acid mist breath"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 0,
+    "pageviewCount": 7306,
+    "pageviewRank": -1,
+    "serieCount": 8,
+    "storyCount": 10
+  },
+  "secretIdentities": [
+  ],
   "species": [
-    "Makluan/Axonn-Karr"
   ],
-  "teams": [
-    "Fin Fang Four"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Fin_Fang_Foom"
+  "urls": {
+    "marvel": "http://marvel.com/characters/3426/fin_fang_foom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fin_Fang_Foom"
+  }
 }

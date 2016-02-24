@@ -1,31 +1,41 @@
 {
-  "aliases": "Occult, Peeper",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Secret Empire",
+    "Resistants",
+    "Brotherhood of Mutants",
+    "X-Men: The 198"
+  ],
+  "authors": [
     "Jack Kirby"
   ],
-  "image": {
-  },
+  "description": "Peepers is a fictional character in comic books published by Marvel Comics. He first appeared as a member of the Brotherhood of Evil Mutants, a group of mutants in Captain America Annual #4. He was created by Jack Kirby.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Peepers",
-  "pageviews": 1281,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Telescopic/microscopic eyesight",
     "X-ray vision",
     "Eye beams"
   ],
-  "realName": "Peter Quinn",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 941,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Peter Quinn"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "The 198",
-    "Brotherhood of Evil Mutants",
-    "Mutant Force",
-    "Resistants",
-    "Secret Empire"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Peepers"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Peepers"
+  }
 }

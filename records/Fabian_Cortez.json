@@ -1,40 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Genoshan",
+    "Upstarts",
+    "Acolytes"
+  ],
+  "authors": [
     "Chris Claremont",
     "Jim Lee"
   ],
-  "image": {
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1009248,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/f0/4c0040603dda1.jpg",
-    "url": "http://marvel.com/universe/Cortez,_Fabian"
-  },
+  "description": "Fabian Cortez is a fictional character, a mutant comic book supervillain from the Marvel Comics universe and an adversary of the X-Men. Created by writer Chris Claremont and writer/illustrator Jim Lee, he first appeared in X-Men #1 (October 1991).",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/f0/4c0040603dda1/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Fabian Cortez",
-  "pageviews": 3001,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Ability to enhance mutant powers"
   ],
-  "realName": "Fabian Cortez",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2272,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Fabian Cortez"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Acolytes",
-    "Genosha",
-    "Upstarts"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Fabian_Cortez"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2695/fabian_cortez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabian_Cortez"
+  }
 }

@@ -1,37 +1,46 @@
 {
-  "aliases": "",
-  "creators": [
-    "Bill Mantlo",
-    "Keith Giffen"
+  "aliases": [
   ],
-  "image": {
-    "height": "277",
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/99/JackofHearts.jpg",
-    "width": "182"
-  },
-  "name": "Jack of Hearts",
-  "pageviews": 7151,
-  "partners": [
-  ],
-  "powers": [
-  ],
-  "powersText": [
-    "Concussive blasts",
-    "Flight",
-    "Ability to survive unaided in space",
-    "Sensitive brain that senses motion",
-    "Increased intelligence",
-    "strength",
-    "durability",
-    "and memory"
-  ],
-  "realName": "Jonathan \"Jack\" Hart",
-  "species": [
-    "Contraxian"
-  ],
-  "teams": [
+  "alliances": [
     "Avengers",
     "Defenders"
   ],
-  "url": "https://en.wikipedia.org/wiki/Jack_of_Hearts"
+  "authors": [
+    "Bill Mantlo",
+    "Keith Giffen"
+  ],
+  "description": "Jack of Hearts (Jack Hart) is a fictional character, a superhero in the Marvel Comics universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/99/JackofHearts.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Jack of Hearts",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Sensitive brain that senses motion",
+    "Concussive blasts",
+    "Increased intelligence",
+    "strength",
+    "durability",
+    "memory",
+    "Ability to survive unaided in space"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5044,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jonathan \"Jack\" Hart"
+  ],
+  "species": [
+    "Half human, half-Contraxian"
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_of_Hearts"
+  }
 }

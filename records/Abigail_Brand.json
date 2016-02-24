@@ -1,31 +1,39 @@
 {
-  "aliases": "",
-  "creators": [
-    "Joss Whedon",
-    "John Cassaday"
+  "aliases": [
   ],
-  "image": {
-    "height": "379",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/AbigailBrand.png/250px-AbigailBrand.png",
-    "width": "250"
-  },
+  "alliances": [
+    "X-Men",
+    "S.W.O.R.D."
+  ],
+  "authors": [
+    "John Cassaday",
+    "Joss Whedon"
+  ],
+  "description": "Special Agent Abigail Brand is a fictional character in the Marvel Comics' universe. Her first appearance was a cameo in Astonishing X-Men  #3 (2004), and she was introduced fully in Astonishing X-Men #6 (2004). She was created by Joss Whedon and John Cassaday.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/AbigailBrand.png/250px-AbigailBrand.png",
+  "isHero": true,
+  "isVillain": false,
   "name": "Abigail Brand",
-  "pageviews": 7430,
   "partners": [
   ],
   "powers": [
     "Pyrokinesis"
   ],
-  "powersText": [
-    "Pyrokinesis"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3751,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
-    "Human Mutant"
+    "Human Mutant",
+    "Alien Hybrid"
   ],
-  "teams": [
-    "S.W.O.R.D.",
-    "X-Men"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Abigail_Brand"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abigail_Brand"
+  }
 }

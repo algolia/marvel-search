@@ -1,40 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
-    "Fabian Nicieza",
-    "Mark Bagley"
+  "aliases": [
   ],
-  "image": {
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1010877,
-    "image": null,
-    "url": "http://marvel.com/universe/Mathemanic"
-  },
+  "alliances": [
+    "Psionex",
+    "Thunderbolts",
+    "New Warriors",
+    "Genetech"
+  ],
+  "authors": [
+    "Mark Bagley",
+    "Fabian Nicieza"
+  ],
+  "description": "Mathemanic (Thomas Sorenson) is a fictional character in the Marvel Universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Mathemanic",
-  "pageviews": 332,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Psionically based",
     "undetermined capabillities"
   ],
-  "realName": "Thomas Sorenson",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 201,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Thomas Sorenson"
+  ],
   "species": [
   ],
-  "teams": [
-    "Thunderbolts",
-    "Psionex",
-    "New Warriors"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Mathemanic"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1400/mathemanic",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mathemanic"
+  }
 }

@@ -1,29 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Hydra"
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "372",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Growing_Man_on_the_cover_of_Thor.jpg/250px-Growing_Man_on_the_cover_of_Thor.jpg",
-    "width": "250"
-  },
-  "name": "The Growing Man",
-  "pageviews": 765,
+  "description": "The Growing Man is a fictional character that appears in comic books published by Marvel Comics. The character first appears in Thor #140 (May 1967) and was created by Stan Lee and Jack Kirby.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Growing_Man_on_the_cover_of_Thor.jpg/250px-Growing_Man_on_the_cover_of_Thor.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Growing Man",
   "partners": [
   ],
   "powers": [
+    "Mass manipulation",
+    "Ability to absorb kinetic energy"
   ],
-  "powersText": [
-    "Ability to absorb kinetic energy",
-    "Mass manipulation"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 497,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Growing Man"
   ],
-  "realName": "Growing Man",
   "species": [
   ],
-  "teams": [
-    "HYDRA"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Growing_Man"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Growing_Man"
+  }
 }

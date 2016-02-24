@@ -1,32 +1,43 @@
 {
-  "aliases": "(Arcanna (Earth-712))<br> Moonglow",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Squadron Supreme (Earth-712)",
+    "Squadron Supreme (Earth-31916)"
+  ],
+  "authors": [
     "J. M. DeMatteis",
     "Don Perlin",
     "J. Michael Straczynski",
     "Gary Frank"
   ],
-  "image": {
-  },
+  "description": "Arcanna is the name of two different fictional comic book characters in the Marvel Comics multiverse. The first character debuted as a member of the team of superheroes called the Squadron Supreme in The Defenders #112 (October 1982). The other first appeared in Supreme Power #18 (April 2005), later joining a team of super heroes also called the Squadron Supreme. Both characters are not from the main reality where stories are set in the Marvel Universe, but are from two separate alternate universes.(See Sidebar)",
+  "isHero": false,
+  "isVillain": false,
   "name": "Arcanna",
-  "pageviews": 1770,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "(Arcanna (Earth-712))",
     "Psychic awareness",
+    "Ability to perceive",
+    "influence parallel quantum dimensions",
     "Magic abilities",
-    "Flight<BR> (Arcanna (Earth-31916))",
-    "Ability to perceive and influence parallel quantum dimensions"
+    "Flight"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1270,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Arcanna Jones"
+  ],
   "species": [
   ],
-  "teams": [
-    "Squadron Supreme (Earth-712)",
-    "Squadron Supreme (Earth-31916)"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Arcanna"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Arcanna"
+  }
 }

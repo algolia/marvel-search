@@ -1,44 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
-    "Zeb Wells",
-    "Scottie Young"
+  "aliases": [
   ],
-  "image": {
-    "height": "375",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/NEWWAR004cover.jpg/250px-NEWWAR004cover.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 3,
-      "events": 0,
-      "series": 2,
-      "stories": 2
-    },
-    "description": "",
-    "id": 1010717,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0038c02e75a.jpg",
-    "url": "http://marvel.com/universe/Debrii"
-  },
+  "alliances": [
+    "Civil War",
+    "Counter Force",
+    "New Warriors",
+    "Avengers: The Initiative"
+  ],
+  "authors": [
+    "Skottie Young",
+    "Zeb Wells"
+  ],
+  "description": "Debrii (Deborah Fields) is a fictional character, a superheroine from Marvel Comics. She debuted in New Warriors vol. 3 #4. She was created by artist Skottie Young with the help of writer Zeb Wells. Little is known about her at this time. She avoided being killed in the opening shots of Marvel's Civil War by not reuniting with the team after their reality show was cancelled the first time in New Warriors vol. 3 #6.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0038c02e75a/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Debrii",
-  "pageviews": 1257,
   "partners": [
   ],
   "powers": [
-    "Telekinesis"
+    "Psychokinesis"
   ],
-  "powersText": [
-    "Telekinesis"
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 0,
+    "pageviewCount": 865,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+    "Deborah Fields"
   ],
-  "realName": "Deborah Fields",
   "species": [
   ],
-  "teams": [
-    "Secret Avengers (Civil War)",
-    "Counter Force",
-    "The Initiative",
-    "New Warriors"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Debrii"
+  "urls": {
+    "marvel": "http://marvel.com/characters/533/debrii",
+    "wikipedia": "https://en.wikipedia.org/wiki/Debrii"
+  }
 }

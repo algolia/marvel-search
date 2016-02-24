@@ -1,25 +1,36 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Don McGregor",
     "Rich Buckler"
   ],
-  "image": {
-  },
+  "description": "Venomm is a fictional character in the Marvel Universe, distinct from the half-alien fictional character known as Venom.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Venomm",
-  "pageviews": 795,
   "partners": [
-    "Killmonger"
+    "Erik Killmonger"
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 627,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Horatio Walters"
   ],
-  "realName": "Horatio Walters",
   "species": [
     "Human"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Venomm"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Venomm"
+  }
 }

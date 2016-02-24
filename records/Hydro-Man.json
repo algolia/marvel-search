@@ -1,45 +1,44 @@
 {
-  "aliases": "",
-  "creators": [
-    "Dennis O'Neil",
-    "John Romita, Jr."
+  "aliases": [
   ],
-  "image": {
-    "height": "282",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Hydro-Man.jpeg/260px-Hydro-Man.jpeg",
-    "width": "260"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 4,
-      "events": 0,
-      "series": 1,
-      "stories": 6
-    },
-    "description": "",
-    "id": 1009360,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/f0/4c003ec140c31.jpg",
-    "url": "http://marvel.com/universe/Hydro-Man"
-  },
+  "alliances": [
+    "Masters of Evil",
+    "Sinister Six",
+    "Sinister Syndicate",
+    "Frightful Four"
+  ],
+  "authors": [
+    "John Romita, Jr.",
+    "Dennis O'Neil"
+  ],
+  "description": "Hydro-Man is a fictional character, a supervillain in Marvel Comics.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/f0/4c003ec140c31/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Hydro-Man",
-  "pageviews": 6068,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Expert street fighter",
-    "Superhuman strength and durability",
-    "Water manipulation"
+    "Water manipulation",
+    "Superhuman strength",
+    "durability"
   ],
-  "realName": "Morris Bench",
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 4286,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Morris Bench"
+  ],
   "species": [
   ],
-  "teams": [
-    "Frightful Four",
-    "Masters of Evil",
-    "Sinister Syndicate",
-    "Sinister Twelve"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Hydro-Man"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1004/hydro-man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hydro-Man"
+  }
 }

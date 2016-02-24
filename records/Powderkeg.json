@@ -1,27 +1,36 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Masters of Evil"
+  ],
+  "authors": [
     "Dwayne McDuffie",
     "Mark D. Bright"
   ],
-  "image": {
-  },
+  "description": "Powderkeg is a Marvel Comics supervillain who first appeared in Captain Marvel Special #1.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Powderkeg",
-  "pageviews": 505,
   "partners": [
   ],
   "powers": [
+    "super-strength."
   ],
-  "powersText": [
-    "Superhuman strength",
-    "High-level resistance to injury",
-    "Ability to sweat a nitroglycerin like compound which can detonate on impact"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 354,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Frank Skorina"
   ],
-  "realName": "Frank Skorina",
   "species": [
   ],
-  "teams": [
-    "Masters of Evil"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Powderkeg"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Powderkeg"
+  }
 }

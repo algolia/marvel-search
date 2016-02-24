@@ -1,27 +1,37 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Morlocks"
+  ],
+  "authors": [
     "Louise Simonson",
     "Walter Simonson"
   ],
-  "image": {
-  },
+  "description": "Scaleface is a fictional character in the Marvel Universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Scaleface",
-  "pageviews": 791,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Can transform into a large",
     "sentient",
-    "dragon-like reptilian creature."
+    "lizard-like creature"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 551,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
   ],
-  "teams": [
-    "Morlocks"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Scaleface"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Scaleface"
+  }
 }

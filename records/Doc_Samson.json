@@ -1,48 +1,48 @@
 {
-  "aliases": "Dr. Leonard \"Leo\" Skivorski Jr.",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Roy Thomas",
     "Herb Trimpe"
   ],
-  "image": {
-    "height": "247",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Docsamson.jpg/250px-Docsamson.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 62,
-      "events": 0,
-      "series": 19,
-      "stories": 60
-    },
-    "description": "",
-    "id": 1009275,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5261a84c1707c.jpg",
-    "url": "http://marvel.com/universe/Doc_Samson"
-  },
+  "description": "Doc Samson (Dr. Leonard \"Leo\" Samson) is a fictional character, a superhero and psychiatrist in the Marvel Comics universe, known as a supporting character in stories featuring the Hulk. He was portrayed by Ty Burrell in the 2008 film The Incredible Hulk.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5261a84c1707c/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Doc Samson",
-  "pageviews": 12179,
   "partners": [
-    "Dr. Bruce Banner"
+    "Hulk"
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Genius psychiatrist",
-    "Highly skilled hand to hand combatant",
-    "Skilled theoretical technician and inventor",
+    "Immunity to Earthly diseases",
+    "Great leaping",
     "Superhuman strength",
     "stamina",
-    "durability and resistance to injury",
-    "Immunity to Earthly diseases",
+    "durability",
+    "resistance to injury",
     "Resistance to telepathy",
-    "Ability to leap great distances"
+    "Genius psychiatrist",
+    "Skilled theoretical technician",
+    "inventor"
   ],
-  "realName": "Dr. Leonard \"Leo\" Samson",
+  "ranking": {
+    "comicCount": 62,
+    "eventCount": 0,
+    "pageviewCount": 8209,
+    "pageviewRank": -1,
+    "serieCount": 19,
+    "storyCount": 60
+  },
+  "secretIdentities": [
+    "Dr. Leonard \"Leo\" Samson"
+  ],
   "species": [
+    "Human"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Doc_Samson"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2704/doc_samson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doc_Samson"
+  }
 }

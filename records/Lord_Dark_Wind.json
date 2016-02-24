@@ -1,23 +1,35 @@
 {
-  "aliases": "",
-  "creators": [
-    "Denny O'Neil",
-    "Larry Hama"
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Dennis O'Neil",
+    "Larry Hama",
+    "Klaus Jensen"
+  ],
+  "description": "Lord Dark Wind (Professor Kenji Oyama) is a fictional character from Marvel Comics. He is the father of X-Men supervillainess Lady Deathstrike, and inventor of the adamantium bonding process. He first appeared in Daredevil #196 (July 1983).",
+  "isHero": false,
+  "isVillain": false,
   "name": "Lord Dark Wind",
-  "pageviews": 2413,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1871,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kenji Oyama"
   ],
-  "realName": "Kenji Oyama",
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Lord_Dark_Wind"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lord_Dark_Wind"
+  }
 }

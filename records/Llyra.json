@@ -1,34 +1,43 @@
 {
-  "aliases": "Lady Dorma , Laura \"Laurie\" Morris",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Frightful Four"
+  ],
+  "authors": [
     "Roy Thomas",
     "Sal Buscema"
   ],
-  "image": {
-    "height": "376",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Sub-Mariner-32.jpg/250px-Sub-Mariner-32.jpg",
-    "width": "250"
-  },
+  "description": "Llyra is a fictional character, a Marvel Comics super-villainess. She was created by Roy Thomas and Sal Buscema and first appeared in Sub-Mariner #32 (December, 1970).",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Sub-Mariner-32.jpg/250px-Sub-Mariner-32.jpg",
+  "isHero": false,
+  "isVillain": true,
   "name": "Llyra",
-  "pageviews": 1289,
   "partners": [
     "Ghaur",
-    "Set"
+    "Father Set"
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Fully amphibious physiology",
-    "Superhuman strength",
     "Ability to control sea creatures",
-    "Shape/color shifting"
+    "Shape/color shifting",
+    "Superhuman strength",
+    "Fully amphibious physiology"
   ],
-  "realName": "Llyra Morris",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 855,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Llyra Morris"
+  ],
   "species": [
-    "Lemurian Mutant"
+    "Features of the Marvel Universe"
   ],
-  "teams": [
-    "Frightful Four"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Llyra"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Llyra"
+  }
 }

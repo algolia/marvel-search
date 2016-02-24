@@ -1,44 +1,44 @@
 {
-  "aliases": "",
-  "creators": [
-    "Sana Amanat",
-    "G. Willow Wilson",
-    "Adrian Alphona"
+  "aliases": [
   ],
-  "image": {
-    "height": "379",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Kamala_Khan.jpg/250px-Kamala_Khan.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "A Muslim-American teenager growing up in Jersey City, Kamala Khan gained shape-shifting powers when Inhumanity spread over the Earth. A fan of super heroes, in particular Carol Danvers, Kamala took up Captain Marvel's former identity, becoming the new Ms. Marvel. This up and coming hero works to protect her community and understand her place in the world.",
-    "id": 1017577,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/548730dac2a40.jpg",
-    "url": null
-  },
-  "name": "Ms. Marvel",
-  "pageviews": 61439,
+  "alliances": [
+    "Advanced Idea Mechanics",
+    "Femizons",
+    "H.A.M.M.E.R.",
+    "Dark Avengers"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Rik Levins"
+  ],
+  "description": "A Muslim-American teenager growing up in Jersey City, Kamala Khan gained shape-shifting powers when Inhumanity spread over the Earth. A fan of super heroes, in particular Carol Danvers, Kamala took up Captain Marvel's former identity, becoming the new Ms. Marvel. This up and coming hero works to protect her community and understand her place in the world.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/548730dac2a40/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Ms. Marvel (Kamala Khan)",
   "partners": [
   ],
   "powers": [
-    "Shapeshifting"
+    "Superhuman strength",
+    "Concussive blasts",
+    "Highly trained martial artist",
+    "Genius scientist"
   ],
-  "powersText": [
-    "Shapeshifting",
-    "Healing factor"
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 0,
+    "pageviewCount": 2383,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Deidre Wentworth"
   ],
-  "realName": "Kamala Khan",
   "species": [
-    "Inhuman"
   ],
-  "teams": [
-    "Avengers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Ms._Marvel_(Kamala_Khan)"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1017577/ms_marvel_kamala_khan/featured",
+    "wikipedia": "https://en.wikipedia.org/wiki/Superia"
+  }
 }

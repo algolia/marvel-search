@@ -1,31 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Steve McNiven",
     "Dan Slott",
     "Phil Jimenez"
   ],
-  "image": {
-    "height": "323",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Mister_Negative.jpg/250px-Mister_Negative.jpg",
-    "width": "250"
-  },
+  "description": "Mister Negative (Martin Li) is a fictional comic book supervillain, appearing in books published by Marvel Comics, usually as an enemy of Spider-Man and the Punisher. Created by Dan Slott, Steve McNiven, and Phil Jimenez, Mister Negative first appeared in a cameo in Amazing Spider-Man: Swing Shift (May 2007), a Free Comic Book Day issue set after the events of the Spider-Man: One More Day storyline. Mister Negative's first full appearance came in The Amazing Spider-Man #546 (Jan 2008); the start of the \"Brand New Day\" storyline. Mister Negative is the second villain in the \"Brand New Day\" storyline of Spider-Man, immediately following the events of \"One More Day\".",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Mister_Negative.jpg/250px-Mister_Negative.jpg",
+  "isHero": false,
+  "isVillain": true,
   "name": "Mister Negative",
-  "pageviews": 4854,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Superhuman strength and reflexes",
+    "Healing by touch",
+    "Ability to switch between reversed",
+    "regular appearance",
     "Mental domination",
-    "Healing touch",
-    "Access to advanced technology and secret laboratories",
-    "Ability to switch between reversed and regular appearance and charge up knives and swords with black electrical energy"
+    "Hysterical strength"
   ],
-  "realName": "Martin Li",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3887,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Martin Li"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Mister_Negative"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mister_Negative"
+  }
 }

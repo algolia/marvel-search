@@ -1,0 +1,71 @@
+{
+  "aliases": [
+    "Bruce Banner",
+    "The Incredible Hulk",
+    "David Banner"
+  ],
+  "alliances": [
+    "Pantheon",
+    "Defenders",
+    "Avengers",
+    "Horsemen of Apocalypse",
+    "S.H.I.E.L.D.",
+    "Illuminati",
+    "Secret Avengers",
+    "The New Avengers",
+    "Warbound",
+    "Hulkbusters",
+    "Fantastic Four",
+    "The Order",
+    "The Mighty Avengers"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Caught in a gamma bomb explosion while trying to save the life of a teenager, Dr. Bruce Banner was transformed into the incredibly powerful creature called the Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger the Hulk gets.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Hulk",
+  "partners": [
+  ],
+  "powers": [
+    "Genius-level intellect",
+    "Skilled hand-to-hand combatant",
+    "Superhuman strength",
+    "speed",
+    "jumping",
+    "endurance",
+    "reflexes",
+    "durability",
+    "Immunity to diseases",
+    "viruses",
+    "Adrenal activation",
+    "anger empowerment",
+    "Accelerated healing",
+    "longevity",
+    "Resistance to mind control",
+    "Ability to sense astral forms",
+    "hold his breath for long periods of time",
+    "Immortality"
+  ],
+  "ranking": {
+    "comicCount": 1309,
+    "eventCount": 24,
+    "pageviewCount": 97511,
+    "pageviewRank": 4261,
+    "serieCount": 314,
+    "storyCount": 1981
+  },
+  "secretIdentities": [
+    "Robert Bruce Banner"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/25/hulk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hulk_(comics)"
+  }
+}

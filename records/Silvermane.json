@@ -1,45 +1,44 @@
 {
-  "aliases": "Supreme Hydra",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Hydra",
+    "Maggia"
+  ],
+  "authors": [
     "Stan Lee",
     "John Buscema"
   ],
-  "image": {
-    "height": "200",
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Silvermane-head.jpg",
-    "width": "201"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 12,
-      "events": 0,
-      "series": 8,
-      "stories": 10
-    },
-    "description": "Silvio Manfredi has been a career criminal for most of his life.",
-    "id": 1009594,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c003c0fc6a28.jpg",
-    "url": "http://marvel.com/universe/Silvermane"
-  },
+  "description": "Silvio Manfredi has been a career criminal for most of his life.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c003c0fc6a28/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Silvermane",
-  "pageviews": 5607,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Superb hand to hand combatant",
     "Excellent marksman",
-    "Brilliant strategist and organizer",
-    "Superhuman strength and senses derived from cyborg body",
-    "Use of various handguns"
+    "Superhuman strength",
+    "senses derived from cyborg body",
+    "Brilliant strategist",
+    "organizer"
   ],
-  "realName": "Silvio Manfredi",
+  "ranking": {
+    "comicCount": 12,
+    "eventCount": 0,
+    "pageviewCount": 4225,
+    "pageviewRank": -1,
+    "serieCount": 8,
+    "storyCount": 10
+  },
+  "secretIdentities": [
+    "Silvio Manfredi"
+  ],
   "species": [
   ],
-  "teams": [
-    "The Maggia",
-    "HYDRA"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Silvermane"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2104/silvermane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silvermane"
+  }
 }

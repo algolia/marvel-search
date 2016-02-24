@@ -1,37 +1,46 @@
 {
-  "aliases": "",
-  "creators": [
-    "Rob Liefeld",
-    "Fabian Nicieza"
+  "aliases": [
   ],
-  "image": {
-    "height": "551",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Thornn01.jpg/250px-Thornn01.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "Brotherhood of Mutants",
+    "Morlocks",
+    "X-Corporation"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Rob Liefeld"
+  ],
+  "description": "Thornn (Lucia Callasantos) is a fictional character created by Marvel Comics for their series, X-Force. She was one of the few Morlocks to survive the Mutant Massacre and is the sister of former X-Force member, Feral. Both had been depowered in the wake of M-Day, however, both have returned to their mutant forms (albeit without powers).",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Thornn01.jpg/250px-Thornn01.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Thornn",
-  "pageviews": 1408,
   "partners": [
   ],
   "powers": [
-    "Feline",
-    "prehensile"
-  ],
-  "powersText": [
     "Feline appearance",
-    "enhanced senses and agility",
+    "enhanced senses",
+    "agility",
     "healing factor",
     "sharp claws",
-    "fangs and prehensile tail."
+    "fangs",
+    "prehensile tail."
   ],
-  "realName": "Lucia Callasantos",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1346,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lucia Callasantos"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "X-Corporation",
-    "Brotherhood of Evil Mutants",
-    "Morlocks"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Thornn"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thornn"
+  }
 }

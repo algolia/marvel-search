@@ -1,0 +1,36 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Reilly Brown",
+    "Fabian Nicieza"
+  ],
+  "description": "Bob is a fictional villain in the Marvel Comics Universe, and a sidekick of Deadpool.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/BobAgentofHydra.jpg/250px-BobAgentofHydra.jpg",
+  "isHero": true,
+  "isVillain": false,
+  "name": "Bob",
+  "partners": [
+    "Deadpool"
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 198087,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Robert"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bob,_Agent_of_Hydra"
+  }
+}

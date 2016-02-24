@@ -1,31 +1,40 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Big Hero 6"
+  ],
+  "authors": [
     "Steven T. Seagle",
     "Duncan Rouleau"
   ],
-  "image": {
-    "height": "250",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Honey_Lemon_%28Marvel_Comics%29.jpg/250px-Honey_Lemon_%28Marvel_Comics%29.jpg",
-    "width": "250"
-  },
+  "description": "Honey Lemon (Aiko Miyazaki) is a Marvel Comics superhero, associated with the Japanese team known as Big Hero 6. She was created by Steven T. Seagle and Duncan Rouleau, and first appeared in Sunfire & Big Hero 6 #1 (September 1998).",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Honey_Lemon_%28Marvel_Comics%29.jpg/250px-Honey_Lemon_%28Marvel_Comics%29.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Honey Lemon",
-  "pageviews": 11696,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Brilliant scientist",
     "Extensively trained martial artist",
-    "Purse grants:",
-    "Ability to access another dimension and pull any item out of it"
+    "Ability to access another dimension",
+    "pull any item out it",
+    "Brilliant scientist"
   ],
-  "realName": "Aiko Miyazaki",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 8664,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Aiko Miyazaki"
+  ],
   "species": [
   ],
-  "teams": [
-    "Big Hero 6"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Honey_Lemon"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Honey_Lemon"
+  }
 }

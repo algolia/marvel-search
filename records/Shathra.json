@@ -1,25 +1,38 @@
 {
-  "aliases": "Sharon Keller, Spider-Wasp, Annabelle Adams",
-  "creators": [
-    "J. Michael Straczynski",
-    "John Romita, Jr."
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "J. Michael Straczynski",
+    "John Romita, Jr.",
+    "and Scott Hanna"
+  ],
+  "description": "Shathra is a Spider-Man villain and a character in the Marvel Comics universe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Shathra",
-  "pageviews": 620,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Super-strength",
     "flight"
   ],
-  "realName": "Shathra",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 411,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Shathra"
+  ],
   "species": [
+    "Extra-dimensional"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Shathra"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shathra"
+  }
 }

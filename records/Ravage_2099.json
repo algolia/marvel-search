@@ -1,40 +1,48 @@
 {
-  "aliases": "Beast-Man",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "ECO, Alchemax, Green Berets"
+  ],
+  "authors": [
     "Stan Lee",
     "Paul Ryan"
   ],
-  "image": {
-    "height": "379",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Ravage2099-1.jpg/250px-Ravage2099-1.jpg",
-    "width": "250"
-  },
+  "description": "Ravage 2099 (Paul-Phillip Ravage) is a Marvel Comics superhero, a fictional character.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Ravage2099-1.jpg/250px-Ravage2099-1.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Ravage 2099",
-  "pageviews": 1875,
   "partners": [
   ],
   "powers": [
-    "Healing factor"
-  ],
-  "powersText": [
-    "First mutation:",
-    "Bio-energy blasts from hands",
-    "Second mutation:",
+    "Possesses horns",
+    "fangs",
+    "claws on hands",
+    "feet",
     "Enhanced strength",
     "speed",
     "durability",
     "stamina",
     "agility",
-    "and senses",
-    "Possesses horns",
-    "fangs",
-    "and claws on hands and feet",
+    "senses",
+    "Bio-energy blasts from hands",
     "Healing factor"
   ],
-  "realName": "Paul-Phillip Ravage",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1396,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Paul-Phillip Ravage"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Ravage_2099"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ravage_2099"
+  }
 }

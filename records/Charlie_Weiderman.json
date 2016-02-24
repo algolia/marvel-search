@@ -1,26 +1,39 @@
 {
-  "aliases": "\"Weinerman\", \"Whiney-Man\",",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "J. Michael Straczynski",
     "Mike Deodato"
   ],
-  "image": {
-  },
+  "description": "Charles Weiderman is a fictional character in The Amazing Spider-Man",
+  "isHero": false,
+  "isVillain": false,
   "name": "Charlie Weiderman",
-  "pageviews": 457,
   "partners": [
   ],
   "powers": [
-    "Vibranium"
+    "Superhuman speed",
+    "stamina derived Vibranium skinsuit",
+    "which grants superhuman speed",
+    "strength."
   ],
-  "powersText": [
-    "Superhuman speed and stamina derived Vibranium skinsuit",
-    "which grants superhuman speed and strength."
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 288,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Charles Weiderman"
   ],
-  "realName": "Charles Weiderman",
   "species": [
+    "Human"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Charlie_Weiderman"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Weiderman"
+  }
 }

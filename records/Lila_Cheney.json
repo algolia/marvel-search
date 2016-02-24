@@ -1,45 +1,42 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "New Mutants",
+    "X-Men",
+    "X-Force",
+    "Gladiators"
+  ],
+  "authors": [
     "Chris Claremont",
     "Bob McLeod"
   ],
-  "image": {
-    "height": "201",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Lila_Cheney.jpg/200px-Lila_Cheney.jpg",
-    "width": "200"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 4,
-      "events": 0,
-      "series": 5,
-      "stories": 4
-    },
-    "description": "",
-    "id": 1009236,
-    "image": null,
-    "url": "http://marvel.com/universe/Cheney,_Lila"
-  },
+  "description": "Lila Cheney is a fictional character in the Marvel Universe. She is a mutant with the ability to teleport, but only over vast intergalactic distances.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Lila_Cheney.jpg/200px-Lila_Cheney.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Lila Cheney",
-  "pageviews": 1884,
   "partners": [
   ],
   "powers": [
     "Teleportation"
   ],
-  "powersText": [
-    "Teleportation"
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 1308,
+    "pageviewRank": -1,
+    "serieCount": 5,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Lila Cheney"
   ],
-  "realName": "Lila Cheney",
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "X-Men",
-    "X-Force",
-    "New Mutants",
-    "Gladiators"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Lila_Cheney"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2691/lila_cheney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lila_Cheney"
+  }
 }

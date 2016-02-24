@@ -1,36 +1,31 @@
 {
-  "aliases": "Beast, Black Beast, Doc McCoy, McCoy",
-  "creators": [
-    "Scott Lobdell",
-    "Roger Cruz",
-    "original character",
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
   ],
-  "image": {
-    "height": "250",
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/94/Darkbeast.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 2,
-      "events": 0,
-      "series": 1,
-      "stories": 2
-    },
-    "description": "",
-    "id": 1010907,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/52602f32efdab.jpg",
-    "url": "http://marvel.com/universe/Dark_Beast"
-  },
+  "alliances": [
+    "Excalibur",
+    "Brotherhood of Mutants",
+    "X-Men: The 198",
+    "X-Men",
+    "Onslaught's Dark Descendants",
+    "Dark X-Men",
+    "Morlocks"
+  ],
+  "authors": [
+    "Roger Cruz",
+    "Scott Lobdell"
+  ],
+  "description": "Dark Beast (Henry Philip McCoy), sometimes known as the Black Beast, is a Marvel Comics supervillain, an alternate reality evil version of the X-Men’s Beast. Created by Scott Lobdell and Roger Cruz, he first appeared in X-Men: Alpha (1995).In the Age of Apocalypse reality, McCoy was a nefarious geneticist who implemented cruel experiments under the tyrant Apocalypse. He was one of a handful of characters to escape the Age of Apocalypse reality to the regular Marvel Universe, where he has continued his unethical experiments.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/52602f32efdab/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Dark Beast",
-  "pageviews": 5695,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
+    "Sharp fangs",
+    "claws",
+    "pointed ears",
+    "gray fur coat",
     "Superhuman dexterity",
     "agility",
     "flexibility",
@@ -41,24 +36,24 @@
     "balance",
     "endurance",
     "senses",
-    "and intelligence",
-    "Sharp fangs",
-    "claws",
-    "pointed ears",
-    "gray fur coat"
+    "intelligence"
   ],
-  "realName": "Henry Philip McCoy",
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 4844,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 2
+  },
+  "secretIdentities": [
+    "Henry Philip McCoy"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Dark X-Men",
-    "The 198",
-    "Morlocks",
-    "Gene Nation",
-    "X-Men",
-    "Genoshan Excalibur",
-    "Brotherhood of Evil Mutants"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Dark_Beast"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2848/dark_beast",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dark_Beast"
+  }
 }

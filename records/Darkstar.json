@@ -1,0 +1,52 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Siberforce",
+    "KGB",
+    "Soviet Super-Soldiers",
+    "Winter Guard",
+    "X-Corporation",
+    "Champions",
+    "Exiles"
+  ],
+  "authors": [
+    "Tony Isabella",
+    "George Tuska"
+  ],
+  "description": "Darkstar (Laynia Petrovna) is a fictional character, a mutant superheroine in the Marvel Comics universe. She has been a member of various super-teams in her career, including X-Corporation and Champions of Los Angeles.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/4ce59f77ea6f1/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Darkstar",
+  "partners": [
+    "Griffin",
+    "Crimson Dynamo",
+    "Titanium Man"
+  ],
+  "powers": [
+    "Darkforce manipulation",
+    "Teleportation",
+    "Flight",
+    "Concussive blasts",
+    "Ability to create solid constructs composed of Darkforce energy"
+  ],
+  "ranking": {
+    "comicCount": 20,
+    "eventCount": 1,
+    "pageviewCount": 4061,
+    "pageviewRank": -1,
+    "serieCount": 13,
+    "storyCount": 14
+  },
+  "secretIdentities": [
+    "Laynia Sergeievna Petrovna"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/512/darkstar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darkstar_(comics)"
+  }
+}

@@ -1,39 +1,45 @@
 {
-  "aliases": "Eugene Colorito, Frogicus Mega-Foolicus, Kermit, Frog-Man Jr.",
-  "creators": [
-    "J. M. DeMatteis",
-    "Kerry Gammill"
+  "aliases": [
   ],
-  "image": {
-  },
-  "marvel": {
-    "counts": {
-      "comics": 2,
-      "events": 1,
-      "series": 2,
-      "stories": 3
-    },
-    "description": "",
-    "id": 1010670,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4def9bf15ce30.jpg",
-    "url": "http://marvel.com/universe/Frog-Man"
-  },
-  "name": "The Fabulous Frog-Man",
-  "pageviews": 1736,
+  "alliances": [
+    "Defenders",
+    "Emissaries of Evil",
+    "Damage Control"
+  ],
+  "authors": [
+    "Frank Giacoia",
+    "Stan Lee",
+    "Gene Colan"
+  ],
+  "description": "Leap-Frog is the name of two Marvel Comics supervillains who use a frog suit containing electrical coils on the soles of each of the two flippers which allow the wearer to leap great distances up to 60 ft (18 m) high or 100 ft (30 m) long. The boots' power source is worn on his back like a back pack, and triggered via hidden buttons in his gloves. Additionally, the costume later had a strength-boosting exoskeleton along with substantial internal padding and a computer-guided system for leaping accuracy.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4def9bf15ce30/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Frog-Man",
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Frog suit grants:",
+    "Internal padding for impacts",
+    "Computer-guided system for leaping accuracy",
     "Ability to leap great distances",
-    "Internal padding that allows him to bounce off objects"
+    "Enhanced strength",
+    "agility"
   ],
-  "realName": "Eugene Paul Patilio",
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 1,
+    "pageviewCount": 1396,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Vincent \"Vinnie\" Patilio"
+  ],
   "species": [
   ],
-  "teams": [
-    "Action Pack"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Frog-Man"
+  "urls": {
+    "marvel": "http://marvel.com/characters/740/frog-man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leap-Frog_(comics)"
+  }
 }

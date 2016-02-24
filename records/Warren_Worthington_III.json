@@ -1,58 +1,47 @@
 {
-  "aliases": "Angel, Avenging Angel, Archangel, Dark Angel, Death",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
+    "Angel",
+    "Archangel"
   ],
-  "image": {
-    "height": "384",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/WarrenWorthingtonAngel.jpg/250px-WarrenWorthingtonAngel.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1009153,
-    "image": null,
-    "url": "http://marvel.com/universe/Angel_(Warren_Worthington_III)"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Warren Kenneth Worthington III, better known as Angel and later as Archangel, is a fictional character, a comic book superhero that appears in comic books published by Marvel Comics.  As Angel, Worthington was one of the founding members of the X-Men. A mutant, Angel originally possesses a pair of large feathered wings extending from his back, enabling him to fly. He is the heir and CEO of the multi-billion dollar Worthington Industries. This privileged background results in Warren being stereotyped as an arrogant and self-absorbed playboy during his early years with the X-Men. This personality was ultimately replaced with a more introspective and brooding personality in the late 1980s, when the character was revamped into the more grim and gritty \"Archangel\" persona.One of the original X-Men, Angel has had a frequent presence in X-Men-related comic books throughout the years. He appeared occasionally in X-Men animated series and video games. Ben Foster played the role of Angel in the 2006 film X-Men: The Last Stand.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/WarrenWorthingtonAngel.jpg/250px-WarrenWorthingtonAngel.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Warren Worthington III",
-  "pageviews": 69652,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "As Angel:",
-    "Flight via feathered wings and hollow bones",
-    "Aerial adaptation As Archangel:",
-    "Flight via metal wings",
-    "Razor sharp feather projection",
-    "Healing factor",
+    "Flight",
+    "Enhanced strength",
     "Aerial adaptation",
-    "Near immunity to injury"
+    "Peak physical attributes",
+    "Metal wings for flight",
+    "speed",
+    "projection of razor sharp feathers",
+    "Healing factor"
   ],
-  "realName": "Warren Kenneth Worthington III",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 62544,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Warren Kenneth Worthington III"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "X-Men",
-    "X-Force",
-    "X-Factor",
-    "Renegades",
-    "Champions of Los Angeles",
-    "Defenders/Secret Defenders",
-    "Hellfire Club",
-    "Horsemen of Apocalypse",
-    "X-Terminators",
-    "Cheyarafim",
-    "Jean Grey School Students"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Warren_Worthington_III"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2802/warren_worthington_iii",
+    "wikipedia": "https://en.wikipedia.org/wiki/Warren_Worthington_III"
+  }
 }

@@ -1,23 +1,33 @@
 {
-  "aliases": "Mistress of Paradise",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Doug Moench",
     "Pat Broderick"
   ],
-  "image": {
-  },
+  "description": "Elysius is a fictional character in the Marvel Universe.Elysius is an artificially created being possessing the attributes of an Eternal.  She became the lover of Mar-Vell, and after his death used his genetic material to impregnate herself with Genis-Vell and Phyla-Vell.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Elysius",
-  "pageviews": 1243,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 859,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Elysius"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Elysius"
+  }
 }

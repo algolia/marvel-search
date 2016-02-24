@@ -1,52 +1,52 @@
 {
-  "aliases": "Black King, Voice, Son of Satan, Legion",
-  "creators": [
-    "Ann Nocenti",
-    "John Romita, Jr."
+  "aliases": [
   ],
-  "image": {
-    "height": "442",
-    "url": "https://upload.wikimedia.org/wikipedia/en/7/74/Blackheart4.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 4,
-      "events": 0,
-      "series": 3,
-      "stories": 4
-    },
-    "description": "",
-    "id": 1009190,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/4c0040a0ee5ba.jpg",
-    "url": "http://marvel.com/universe/Blackheart"
-  },
+  "alliances": [
+    "Hellfire Club"
+  ],
+  "authors": [
+    "Jason Aaron",
+    "John Romita, Jr.",
+    "Ann Nocenti"
+  ],
+  "description": "Blackheart is a fictional demon in the Marvel Comics Universe. In the 2007 film Ghost Rider, Blackheart is portrayed by actor Wes Bentley.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/4c0040a0ee5ba/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Blackheart",
-  "pageviews": 18302,
   "partners": [
   ],
   "powers": [
-    "Reality warping",
     "Telepathy",
-    "Telekinesis",
-    "Healing Factor"
-  ],
-  "powersText": [
-    "High intelligence",
-    "Energy manipulation",
-    "Reality warping",
-    "Magical and mystical powers",
     "Shape-shifting",
-    "Telepathy",
-    "Telekinesis",
+    "As the Antichrist",
+    "Kid Blackheart potentially has unlimited power",
+    "however",
+    "he is still not strong enough to survive a battle with God's greatest weapon",
+    "the Ghost Rider.",
+    "Magical",
+    "mystical powers",
+    "Psychokinesis",
     "Accelerated Healing Factor",
-    "Superhuman physical attributes"
+    "High intelligence",
+    "Superhuman physical attributes",
+    "Energy manipulation"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 11085,
+    "pageviewRank": -1,
+    "serieCount": 3,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Unknown"
+  ],
   "species": [
   ],
-  "teams": [
-    "Hellfire Club"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Blackheart"
+  "urls": {
+    "marvel": "http://marvel.com/characters/289/blackheart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blackheart"
+  }
 }

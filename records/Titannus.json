@@ -1,32 +1,42 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Robert Kirkman",
     "Scott Kolins"
   ],
-  "image": {
-    "height": "364",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/MARVTU012cov.jpg/250px-MARVTU012cov.jpg",
-    "width": "250"
-  },
+  "description": "Titannus is a fictional character in the Marvel Comics universe. He first appeared in Marvel Team-Up (vol. 3) #2, and was created by Robert Kirkman and Scott Kolins.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/MARVTU012cov.jpg/250px-MARVTU012cov.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Titannus",
-  "pageviews": 1079,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Superhuman strength and stamina",
-    "Invulnerability",
-    "Flight",
     "Energy projection",
-    "Healing factor"
+    "Healing factor",
+    "Invulnerability",
+    "Superhuman strength",
+    "stamina",
+    "Flight"
   ],
-  "realName": "Titannus",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 797,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Titannus"
+  ],
   "species": [
     "Skrull"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Titannus"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Titannus"
+  }
 }

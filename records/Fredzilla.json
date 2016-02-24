@@ -1,29 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Big Hero 6"
+  ],
+  "authors": [
     "Chris Claremont",
     "David Nakayama"
   ],
-  "image": {
-    "height": "250",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Fred_%28Marvel_Comics%29.jpg/250px-Fred_%28Marvel_Comics%29.jpg",
-    "width": "250"
-  },
+  "description": "Fred (nicknamed Fredzilla) is a fictional character from Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Fred_%28Marvel_Comics%29.jpg/250px-Fred_%28Marvel_Comics%29.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Fredzilla",
-  "pageviews": 8343,
   "partners": [
   ],
   "powers": [
-    "Kaiju"
-  ],
-  "powersText": [
     "Kaiju aura generation"
   ],
-  "realName": "Fred",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 6623,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Fred"
+  ],
   "species": [
+    "Human"
   ],
-  "teams": [
-    "Big Hero 6"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Fredzilla"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fredzilla"
+  }
 }

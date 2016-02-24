@@ -1,50 +1,56 @@
 {
-  "aliases": "Dr. Ludwig Rinehart",
-  "creators": [
-    "Stan Lee",
-    "Steve Ditko"
+  "aliases": [
   ],
-  "image": {
-    "height": "301",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Quentin_Beck.jpg/200px-Quentin_Beck.jpg",
-    "width": "200"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 41,
-      "events": 0,
-      "series": 19,
-      "stories": 49
-    },
-    "description": "",
-    "id": 1009464,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4ce5a083d8346.jpg",
-    "url": "http://marvel.com/universe/Mysterio_%28Quentin_Beck%29"
-  },
+  "alliances": [
+    "Sinister Six",
+    "Maggia"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Terry Dodson",
+    "Steve Ditko",
+    "Gerry Conway",
+    "Ross Andru",
+    "Kevin Smith"
+  ],
+  "description": "Mysterio is a fictional character, a supervillain and enemy of Spider-Man in the Marvel Comics Universe.In 2009, Mysterio was ranked as IGN's 85th Greatest Comic Book Villain of All Time.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4ce5a083d8346/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Mysterio",
-  "pageviews": 20233,
   "partners": [
+    "J. Jonah Jameson"
   ],
   "powers": [
-    "illusion",
-    "hypnotist",
+    "Master hypnotist",
     "magician",
-    "roboticist"
-  ],
-  "powersText": [
+    "Telepathy",
+    "Teleportation",
     "Special effects",
-    "and illusion expert",
-    "Master hypnotist and magician",
-    "Amateur chemist and roboticist",
-    "Exceptional hand to hand combatant",
-    "Use of weapons"
+    "illusion expert",
+    "Use of weapons",
+    "Amateur chemist",
+    "roboticist",
+    "Psychokinesis",
+    "Exceptional hand to hand combatant"
   ],
-  "realName": "Quentin Beck",
+  "ranking": {
+    "comicCount": 41,
+    "eventCount": 0,
+    "pageviewCount": 15397,
+    "pageviewRank": -1,
+    "serieCount": 19,
+    "storyCount": 49
+  },
+  "secretIdentities": [
+    "Francis Klum",
+    "Quentin Beck"
+  ],
   "species": [
+    "Mutant"
   ],
-  "teams": [
-    "Maggia",
-    "Sinister Six"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Mysterio"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1550/mysterio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mysterio"
+  }
 }

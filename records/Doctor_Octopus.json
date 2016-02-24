@@ -1,63 +1,65 @@
 {
-  "aliases": "Master Planner, Master Programmer, Doc Ock, Bowrey Bum, Prisoner #4756689, Superior Spider-Man (Peter Parker)",
-  "creators": [
-    "Stan Lee",
-    "Steve Ditko"
+  "aliases": [
   ],
-  "image": {
-    "height": "386",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Doctoroctopus.png/250px-Doctoroctopus.png",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 71,
-      "events": 1,
-      "series": 32,
-      "stories": 69
-    },
-    "description": "",
-    "id": 1009276,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/528d31b62eaba.jpg",
-    "url": "http://marvel.com/universe/Doctor_Octopus_%28Otto_Octavius%29"
-  },
+  "alliances": [
+    "Avengers",
+    "Masters of Evil",
+    "The Mighty Avengers",
+    "Sinister Six",
+    ":",
+    "Parker Industries",
+    "Thunderbolts",
+    "Horizon Labs",
+    "Spiderlings",
+    "Legion Accursed"
+  ],
+  "authors": [
+    "Steve Ditko",
+    "Stan Lee"
+  ],
+  "description": "Doctor Octopus, real name Dr. Otto Gunther Octavius and also known as Doc Ock, Doc Octopus and the Superior Spider-Man, is a fictional character, a supervillain that appears in comic books published by Marvel Comics since 1963. A highly intelligent mad scientist, Doctor Octopus is one of Spider-Man's greatest foes. He is typically portrayed as a stocky, myopic man who utilizes four powerful, mechanical appendages, and is obsessed with proving his own genius and destroying Spider-Man. In his first several appearances, his last name was spelled \"Octavious\" while all stories since have spelled it \"Octavius\". The character has appeared in numerous Spider-Man cartoons and video games and is portrayed by Alfred Molina in the 2004 film Spider-Man 2. In 2009, Doctor Octopus was ranked as IGN's 28th Greatest Comic Book Villain of All Time. Comics journalist and historian Mike Conroy writes of the character: \"Created by Stan Lee and artist Steve Ditko, Doc Ock, as he became known, has become one of the web slinger's most persistent and dangerous foes.\"",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/528d31b62eaba/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Doctor Octopus",
-  "pageviews": 27752,
   "partners": [
   ],
   "powers": [
-    "Genius",
-    "Carbonadium"
-  ],
-  "powersText": [
-    "(As Doctor Octopus):",
-    "Brilliant engineer and inventor",
-    "Superb strategist",
+    "Carbonadium plating over his neck",
+    "skull",
     "Charismatic leader",
-    "Genius-level intellect",
-    "Wears super-strong and durable mechanical appendages",
+    "Superb strategist",
+    "Wears super-strong",
+    "durable mechanical appendages",
     "Telepathic control over his mechanical arms",
-    "(As Superior Spider-Man):",
+    "Talons on his hands",
+    "feet",
+    "Split-toed footwear",
+    "Enhanced lenses",
+    "Slightly different spider-motif on his back",
+    "Genius-level intellect",
     "Possesses Spider-Man's powers",
     "abilities",
-    "memories and equipment",
-    "Carbonadium plating over his neck and skull",
-    "Talons on his hands and feet",
-    "Split-toed footwear",
-    "Slightly different spider-motif on his back",
-    "Enhanced lenses"
+    "memories",
+    "equipment",
+    "Brilliant engineer",
+    "inventor"
   ],
-  "realName": "Otto Gunther Octavius",
+  "ranking": {
+    "comicCount": 71,
+    "eventCount": 1,
+    "pageviewCount": 19178,
+    "pageviewRank": -1,
+    "serieCount": 32,
+    "storyCount": 69
+  },
+  "secretIdentities": [
+    "Otto Gunther Octavius"
+  ],
   "species": [
   ],
-  "teams": [
-    "Sinister Six",
-    "Masters of Evil",
-    "Thunderbolts",
-    "Avengers",
-    "Mighty Avengers",
-    "Parker Industries",
-    "Superior Six"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Doctor_Octopus"
+  "urls": {
+    "marvel": "http://marvel.com/characters/565/doctor_octopus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Octopus"
+  }
 }

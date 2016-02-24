@@ -1,62 +1,62 @@
 {
-  "aliases": "Laura X, Talon, Captain Universe, X-23, Wolverine",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "X-Force",
+    "X-Men",
+    "New X-Men",
+    "X-Mansion",
+    "Avengers Academy",
+    "Weapon X"
+  ],
+  "authors": [
     "Craig Kyle",
     "Christopher Yost"
   ],
-  "image": {
-    "height": "380",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/X-23cover.jpg/250px-X-23cover.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 1793,
-      "events": 32,
-      "series": 435,
-      "stories": 2445
-    },
-    "description": "Born with super-human senses and the power to heal from almost any wound, Wolverine was captured by a secret Canadian organization and given an unbreakable skeleton and claws. Treated like an animal, it took years for him to control himself. Now, he's a premiere member of both the X-Men and the Avengers.",
-    "id": 1009718,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf.jpg",
-    "url": "http://marvel.com/universe/Wolverine_(James_Howlett)"
-  },
-  "name": "Wolverine",
-  "pageviews": 50139,
+  "description": "A clone of the mutant Wolverine, X-23 was trained as a living weapon by a secretive government agency.  Now residing with the X-Men, she strives to recover her stolen youth and become a fully realized person.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/50fec5ed6f3de/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "X-23",
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Expert assassin",
-    "martial artist",
-    "sniper and demolitioner",
-    "Trained in use of long range weapons and explosives",
-    "Educated multi-lingual",
     "Superhuman strength",
     "senses",
     "speed",
     "agility",
     "reflexes/reactions",
     "coordination",
-    "balance and endurance",
+    "balance",
+    "endurance",
+    "Expert assassin",
+    "martial artist",
+    "sniper",
+    "demolitioner",
+    "Trained in use of long range weapons",
+    "explosives",
     "Regenerative healing factor",
-    "Retractable adamantium-coated bone claws in hands and feet"
+    "Retractable adamantium-coated bone claws in hands",
+    "feet",
+    "Educated multi-lingual"
   ],
-  "realName": "Laura Kinney",
+  "ranking": {
+    "comicCount": 81,
+    "eventCount": 4,
+    "pageviewCount": 33267,
+    "pageviewRank": -1,
+    "serieCount": 24,
+    "storyCount": 84
+  },
+  "secretIdentities": [
+    "Laura Kinney"
+  ],
   "species": [
-    "Human Mutant",
-    "Clone"
+    "Mutant",
+    "Molecular cloning"
   ],
-  "teams": [
-    "The Facility",
-    "New X-Men",
-    "Weapon X",
-    "Xavier Institute",
-    "X-Force",
-    "X-Men",
-    "X-Men-In-Training",
-    "Avengers Academy"
-  ],
-  "url": "https://en.wikipedia.org/wiki/X-23"
+  "urls": {
+    "marvel": "http://marvel.com/characters/67/x-23",
+    "wikipedia": "https://en.wikipedia.org/wiki/X-23"
+  }
 }

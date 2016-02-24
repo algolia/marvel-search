@@ -1,29 +1,37 @@
 {
-  "aliases": "",
-  "creators": [
-    "Len Wein",
-    "George Pérez"
+  "aliases": [
   ],
-  "image": {
-    "height": "111",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Four27.jpg/250px-Four27.jpg",
-    "width": "250"
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Len Wein",
+    "George P%C3%A9rez"
+  ],
+  "description": "Nicholas Scratch is a fictional wizard in the Marvel Comics universe.  He is predominantly a foe of the Fantastic Four, and a notable foe of the Defenders.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Four27.jpg/250px-Four27.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Nicholas Scratch",
-  "pageviews": 1286,
   "partners": [
-    "Dormammu",
-    "Salem's Seven"
+    "Salem's Seven",
+    "Dormammu"
   ],
   "powers": [
-  ],
-  "powersText": [
     "Vast magical powers"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1082,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Nicholas_Scratch"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Scratch"
+  }
 }

@@ -1,27 +1,38 @@
 {
-  "aliases": "\"The Other\"",
-  "creators": [
-    "Peter David",
-    "Mike Wieringo",
-    "Todd Nauck"
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Mike Wieringo",
+    "Todd Nauck",
+    "Peter David"
+  ],
+  "description": "Miss Arrow is a fictional character in the Marvel Universe. She was created by Peter David, Mike Wieringo, and Todd Nauck.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Miss Arrow",
-  "pageviews": 1401,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Envenomed stingers extended from her wrists",
     "transformation into a swarm of spiders",
     "control of spiders"
   ],
-  "realName": "Ero",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 981,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Ero"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Miss_Arrow"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Miss_Arrow"
+  }
 }

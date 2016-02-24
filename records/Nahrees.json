@@ -1,29 +1,35 @@
 {
-  "aliases": "",
-  "creators": [
-    "Paul Jenkins",
-    "Jae Lee"
+  "aliases": [
   ],
-  "image": {
-    "height": "359",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nahreesinhuman.jpg/225px-Nahreesinhuman.jpg",
-    "width": "225"
-  },
+  "alliances": [
+    "Inhumans"
+  ],
+  "authors": [
+  ],
+  "description": "Nahrees is a fictional character, a superhero in Marvel Comics' universe.  She is a member of the Inhumans.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nahreesinhuman.jpg/225px-Nahreesinhuman.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Nahrees",
-  "pageviews": 2102,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Generates electricity",
     "flight."
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1137,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
   ],
-  "teams": [
-    "Inhumans"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Nahrees"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nahrees"
+  }
 }

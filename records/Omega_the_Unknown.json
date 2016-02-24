@@ -1,42 +1,40 @@
 {
-  "aliases": "\"Sam\"",
-  "creators": [
-    "Steve Gerber",
-    "Mary Skrenes",
-    "Jim Mooney"
+  "aliases": [
   ],
-  "image": {
-    "height": "300",
-    "url": "https://upload.wikimedia.org/wikipedia/en/a/ae/Omega_the_Unknown_1.jpg",
-    "width": "194"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 5,
-      "events": 0,
-      "series": 3,
-      "stories": 4
-    },
-    "description": "",
-    "id": 1011123,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4ce5a4e4cd15d.jpg",
-    "url": null
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "Mary Skrenes",
+    "Jim Mooney",
+    "Steve Gerber"
+  ],
+  "description": "Omega the Unknown was  an American comic book published by Marvel Comics from 1976 to 1977, featuring  the eponymous fictional character.  The series, written by Steve Gerber and Mary Skrenes and illustrated by Jim Mooney, ran for 10 issues before cancellation for low sales.  Despite its short run, it has remained as a cult classic due to its intriguing characters and unusual storytelling. A 10-issue series revamping the character was published from 2007 to 2008, written by novelist Jonathan Lethem and illustrated by Farel Dalrymple.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4ce5a4e4cd15d/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Omega the Unknown",
-  "pageviews": 2579,
   "partners": [
+    "James-Michael Starling"
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Superhuman strength",
     "Flight",
-    "Energy Burst Projection"
+    "Energy Burst Projection",
+    "Superhuman strength"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 1667,
+    "pageviewRank": -1,
+    "serieCount": 3,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Omega_the_Unknown"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1654/omega_the_unknown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Omega_the_Unknown"
+  }
 }

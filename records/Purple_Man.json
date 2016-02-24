@@ -1,43 +1,42 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+    "Zebediah Kilgrave"
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Stan Lee",
     "Joe Orlando"
   ],
-  "image": {
-    "height": "375",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Purple_Man.jpg/250px-Purple_Man.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 4,
-      "events": 1,
-      "series": 4,
-      "stories": 3
-    },
-    "description": "",
-    "id": 1009520,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c003c7030b39.jpg",
-    "url": "http://marvel.com/universe/Purple_Man"
-  },
+  "description": "The Purple Man (real name Dr. Zebediah Killgrave) is a fictional character, a Marvel Comics supervillain. Originally a foe of Daredevil, he was introduced in Daredevil vol. 1 #4 (October 1964). In the 2000s he emerged as an enemy of Jessica Jones and her husband Luke Cage. His body produces pheromones which allow him to verbally control the actions of others. David Tennant will play the character in A.K.A. Jessica Jones, a live-action television series set to premiere on Netflix in 2015.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c003c7030b39/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Purple Man",
-  "pageviews": 745613,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Skilled manipulator",
     "High-level intellect",
-    "Mind control",
-    "Regenerative healing factor"
+    "Regenerative healing factor",
+    "Skilled manipulator",
+    "Mind control"
   ],
-  "realName": "Zebediah Killgrave",
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 1,
+    "pageviewCount": 637484,
+    "pageviewRank": -1,
+    "serieCount": 5,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Zebediah Killgrave"
+  ],
   "species": [
-    "Human Mutate"
+    "Mutate"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Purple_Man"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1834/purple_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Purple_Man"
+  }
 }

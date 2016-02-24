@@ -1,29 +1,35 @@
 {
-  "aliases": "Nick Cloot",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Roy Thomas",
     "Gene Colan"
   ],
-  "image": {
-    "height": "437",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Satannish.jpg/250px-Satannish.jpg",
-    "width": "250"
-  },
+  "description": "Satannish is a fictional character appearing in Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Satannish.jpg/250px-Satannish.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Satannish",
-  "pageviews": 2977,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "vast supernatural powers"
   ],
-  "realName": null,
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2444,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
   "species": [
-    "Demon"
   ],
-  "teams": [
-    "Masters of Evil"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Satannish"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Satannish"
+  }
 }

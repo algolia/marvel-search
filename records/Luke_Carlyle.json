@@ -1,24 +1,36 @@
 {
-  "aliases": "Carlyle Calamari",
-  "creators": [
-    "J. Michael Straczynski",
-    "John Romita, Jr"
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+  ],
+  "authors": [
+    "John Romita, Jr.",
+    "J. Michael Straczynski"
+  ],
+  "description": "Luke Carlyle is a fictional character from Marvel Comics, created by J. Michael Straczynski and first appeared in The Amazing Spider-Man.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Luke Carlyle",
-  "pageviews": 615,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Six machine extendable steel tentacles that fire powerful jolts of energy"
   ],
-  "realName": "Lucas \"Luke\" Carlyle",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 434,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Lucas \"Luke\" Carlyle"
+  ],
   "species": [
+    "Human"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Luke_Carlyle"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Luke_Carlyle"
+  }
 }

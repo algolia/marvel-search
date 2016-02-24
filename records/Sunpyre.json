@@ -1,33 +1,46 @@
 {
-  "aliases": "",
-  "creators": [
-    "Scott Lobdell",
-    "Salvador Larroca"
+  "aliases": [
   ],
-  "image": {
-    "height": "280",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Sunpyre1.jpg/250px-Sunpyre1.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "Big Hero 6",
+    "X-Corps"
+  ],
+  "authors": [
+    "Salvador Larroca",
+    "Scott Lobdell",
+    "Clayton Henry"
+  ],
+  "description": "Sunpyre (Leyu Yoshida (吉田 玲優, Yoshida Reyu)) is a fictional character of the Marvel Universe associated with the X-Men. She is the  sister of Sunfire. The name \"Leyu\" is of an undetermined origin although the character is Japanese.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Sunpyre1.jpg/250px-Sunpyre1.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Sunpyre",
-  "pageviews": 2924,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Flight",
     "Plasma blasts",
     "Ability to view infrared",
-    "Radiation immunity"
+    "Radiation immunity",
+    "Heat manipulation"
   ],
-  "realName": "Leyu Yoshida",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2102,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Leyu Yoshida",
+    "Lumina of Coronar"
+  ],
   "species": [
-    "Human Mutant"
+    "Coronarian",
+    "Mutant"
   ],
-  "teams": [
-    "Genoshan Assault X-Men",
-    "X-Corps"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Sunpyre"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunpyre"
+  }
 }

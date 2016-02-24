@@ -1,26 +1,37 @@
 {
-  "aliases": "Erik Killmonger",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Don McGregor",
     "Rich Buckler"
   ],
-  "image": {
-  },
+  "description": "Erik Killmonger is a fictional supervillain published by Marvel Comics. Due to extensive training, he is an expert fighter and both a physical and mental match for his nemesis the Black Panther.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Erik Killmonger",
-  "pageviews": 3611,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Peak human strength",
     "expert martial artist",
     "genius level intellect"
   ],
-  "realName": "",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3294,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "N'Jadaka"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Erik_Killmonger"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Erik_Killmonger"
+  }
 }

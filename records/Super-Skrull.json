@@ -1,53 +1,54 @@
 {
-  "aliases": "Invincible Man, Dr. Franklin Storm Carol Danvers , the Thing , Captain Hero, Bobby Wright, Daniel Rand/ Iron Fist",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
   ],
-  "image": {
-    "height": "370",
-    "url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Annihilation004_SKRULL_scaled_800.png",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 10,
-      "events": 3,
-      "series": 6,
-      "stories": 9
-    },
-    "description": "After the Fantastic Four stopped the Skrulls' attempted invasion of Earth, Skrull Emperor Dorrek invested vast resources into creating a superbeing of his own.",
-    "id": 1009639,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5274138fe6deb.jpg",
-    "url": "http://marvel.com/universe/Super-Skrull"
-  },
+  "alliances": [
+    "Annihilation",
+    "Defenders"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "After the Fantastic Four stopped the Skrulls' attempted invasion of Earth, Skrull Emperor Dorrek invested vast resources into creating a superbeing of his own.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5274138fe6deb/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Super-Skrull",
-  "pageviews": 8909,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Superb impersonator",
-    "Excellent tactician and hand to hand combatant",
-    "Competent pilot",
-    "Superhuman strength",
-    "stamina and durability",
-    "Elasticity",
-    "Pyrokinesis",
-    "Flight",
-    "Invisibility",
-    "Force field generation",
     "Shapeshifting",
-    "Hypnosis"
+    "Hypnosis",
+    "Force field generation",
+    "Competent pilot",
+    "Flight",
+    "Pyrokinesis",
+    "Superhuman strength",
+    "stamina",
+    "durability",
+    "Invisibility",
+    "Body elasticity",
+    "Excellent tactician",
+    "hand to hand combatant",
+    "Superb impersonator"
   ],
-  "realName": "",
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 3,
+    "pageviewCount": 5995,
+    "pageviewRank": -1,
+    "serieCount": 6,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "*",
+    "Kl'rt"
+  ],
   "species": [
     "Skrull"
   ],
-  "teams": [
-    "Secret Defenders",
-    "United Front"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Super-Skrull"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2260/super-skrull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Super-Skrull"
+  }
 }

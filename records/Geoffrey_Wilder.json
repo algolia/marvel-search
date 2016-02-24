@@ -1,24 +1,37 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+    "Pride",
+    "Loners"
+  ],
+  "authors": [
+    "Brian K. Vaughan",
+    "Adrian Alphona"
+  ],
+  "description": "Geoffrey Wilder was a fictional super villain in the Marvel Comics award-winning series, Runaways. Geoffrey led the Pride, the super villain crime ring of Los Angeles. He was the father of former Runaway Alex Wilder.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Geoffrey Wilder",
-  "pageviews": 796,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Leadership"
   ],
-  "realName": "Geoffrey Wilder",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 548,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Geoffrey Wilder"
+  ],
   "species": [
   ],
-  "teams": [
-    "Loners (comics)",
-    "The Pride"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Geoffrey_Wilder"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_Wilder"
+  }
 }

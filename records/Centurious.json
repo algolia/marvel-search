@@ -1,27 +1,36 @@
 {
-  "aliases": "The Man Without a Soul",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "J. M. DeMatteis",
     "Bob Budiansky"
   ],
-  "image": {
-    "height": "268",
-    "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Centurious1.jpg",
-    "width": "250"
-  },
+  "description": "Centurious is a fictional character in the Marvel Universe.Centurious was a servant of Mephisto and an enemy of Zarathos.  In combating Zarathos, he became a regular foe of the first Ghost Rider.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Centurious1.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Centurious",
-  "pageviews": 1459,
   "partners": [
   ],
   "powers": [
+    "Immortality",
+    "Practitioner of Magical Arts"
   ],
-  "powersText": [
-    "Immortality<BR> Practitioner of Magical Arts"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1052,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Centurious"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Centurious"
+  }
 }

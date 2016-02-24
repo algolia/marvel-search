@@ -1,0 +1,44 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Alpha Squadron",
+    "X-Mansion"
+  ],
+  "authors": [
+    "Ramon Bachs",
+    "Nunzio DeFilippis",
+    "Christina Weir",
+    "Paul Jenkins (writer)"
+  ],
+  "description": "Network is the name of three unrelated fictional characters in the Marvel Comics universe. One is a teleporting villain, the others are both superheroines with the power to communicate with and/or manipulate machines.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Network_%28NXM%29.jpg/130px-Network_%28NXM%29.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Network",
+  "partners": [
+  ],
+  "powers": [
+    "Ability to search across the Internet"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 654,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Valerie Martin",
+    "Sarah Vale"
+  ],
+  "species": [
+    "Mutant",
+    "Decimation"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1582/network",
+    "wikipedia": "https://en.wikipedia.org/wiki/Network_(comics)"
+  }
+}

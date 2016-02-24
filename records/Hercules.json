@@ -1,0 +1,64 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Defenders",
+    "Damage Control",
+    "Champions",
+    "Olympians",
+    "World War Hulk",
+    "Avengers Academy",
+    "Heroes for Hire",
+    "Avengers",
+    "The Mighty Avengers",
+    "God Squad",
+    "Civil War"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Jack Kirby"
+  ],
+  "description": "Hercules is a fictional character, a superhero that appears in publications by Marvel Comics. The character first appears in Journey into Mystery Annual #1 (1965) and was created by writer-editor Stan Lee and artist/co-plotter Jack Kirby.Debuting in the Silver Age of Comic Books, the character is based on Heracles of Greek mythology, although the name 'Hercules' is associated with the version from Roman mythology. The character has starred in three self-titled limited series and been a perennial member of the superhero team the Avengers, appearing in each of the three titles. In 2008, Hercules debuted in his own series titled The Incredible Hercules. The character has also appeared in associated Marvel merchandise including animated television series; toys; trading cards and video games.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/52052ebddfa53/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
+  "name": "Hercules",
+  "partners": [
+    "Amadeus Cho"
+  ],
+  "powers": [
+    "Resistance to all Earthly diseases",
+    "Highly skilled archer",
+    "hand-to-hand combatant",
+    "Superhuman strength",
+    "speed",
+    "stamina",
+    "reflexes",
+    "endurance",
+    "durability",
+    "Exceptional peak physical condition",
+    "Healing factor",
+    "Limited immunity to magic",
+    "Immortality",
+    "Access to a variety of weapons from Greek mythology",
+    "Wields adamantine mace"
+  ],
+  "ranking": {
+    "comicCount": 140,
+    "eventCount": 10,
+    "pageviewCount": 16794,
+    "pageviewRank": -1,
+    "serieCount": 68,
+    "storyCount": 141
+  },
+  "secretIdentities": [
+    "Heracles"
+  ],
+  "species": [
+    "Olympians"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/952/hercules",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hercules_(Marvel_Comics)"
+  }
+}

@@ -1,31 +1,40 @@
 {
-  "aliases": "",
-  "creators": [
-    "Paty Cockrum"
+  "aliases": [
   ],
-  "image": {
-    "height": "270",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Red9.jpg/250px-Red9.jpg",
-    "width": "250"
-  },
+  "alliances": [
+    "Fifty State Initiative"
+  ],
+  "authors": [
+    "Dave Cockrum",
+    "Craig Anderson"
+  ],
+  "description": "Red Nine (Wallace Jackson) is a fictional character in the Marvel Universe. He first appeared in The Amazing Spider-Man #264 (May 1985).",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Red9.jpg/250px-Red9.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Red Nine",
-  "pageviews": 888,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Wears a costume that grants:",
-    "Superhuman strength",
+    "Energy bolt projection",
     "Flight",
     "Force field generation",
-    "Energy bolt projection"
+    "Superhuman strength"
   ],
-  "realName": "Wallace Jackson",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 660,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Wallace Jackson"
+  ],
   "species": [
   ],
-  "teams": [
-    "Fifty State Initiative"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Red_Nine"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_Nine"
+  }
 }

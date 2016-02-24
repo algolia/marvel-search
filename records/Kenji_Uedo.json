@@ -1,30 +1,31 @@
 {
-  "aliases": "Zero",
-  "creators": [
-    "Matt Fraction",
-    "Kieron Gillen"
+  "aliases": [
   ],
-  "image": {
-    "height": "401",
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/0c/XMEN-Zero.jpg",
-    "width": "250"
-  },
+  "alliances": [
+  ],
+  "authors": [
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/XMEN-Zero.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Kenji Uedo",
-  "pageviews": 641,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
-    "Techno-Organic Creation and Manipulation"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 414,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": "Kenji Uedo",
   "species": [
-    "Human Mutant"
   ],
-  "teams": [
-    "The Lights",
-    "X-Men"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Kenji_Uedo"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenji_Uedo"
+  }
 }

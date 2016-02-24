@@ -1,27 +1,35 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Hydra"
+  ],
+  "authors": [
     "Roy Thomas",
     "Sal Buscema"
   ],
-  "image": {
-    "height": "374",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Cm.Kraken.jpg/250px-Cm.Kraken.jpg",
-    "width": "250"
-  },
+  "description": "Commander Kraken is a fictional character in Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Cm.Kraken.jpg/250px-Cm.Kraken.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Commander Kraken",
-  "pageviews": 1245,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 935,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-    "HYDRA"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Commander_Kraken"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Commander_Kraken"
+  }
 }

@@ -1,29 +1,37 @@
 {
-  "aliases": "Boris, The Tomorrow Man",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
   ],
-  "image": {
-    "height": "332",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Journey_into_Mystery_101.jpg/220px-Journey_into_Mystery_101.jpg",
-    "width": "220"
-  },
-  "name": "Zarrko, the Tomorrow Man",
-  "pageviews": 1649,
+  "alliances": [
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Zarrko, the Tomorrow Man is a fictional character, a Marvel Comics supervillain, most commonly associated with Thor.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Journey_into_Mystery_101.jpg/220px-Journey_into_Mystery_101.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Zarrko",
   "partners": [
   ],
   "powers": [
+    "Super-genius",
+    "Controls an arsenal of advanced futuristic weaponry"
   ],
-  "powersText": [
-    "Genius-level intellect",
-    "Advanced scientific and technological skills",
-    "Possesses an arsenal of futuristic weaponry"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1080,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Artur Zarrko"
   ],
-  "realName": "Artur Zarrko",
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Zarrko"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zarrko"
+  }
 }

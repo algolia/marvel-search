@@ -1,32 +1,44 @@
 {
-  "aliases": "",
-  "creators": [
-    "John Francis Moore",
+  "aliases": [
+  ],
+  "alliances": [
+    "X-Men 2099",
+    "S.H.I.E.L.D.",
+    "Lawless, Greater Nevada Syndicate"
+  ],
+  "authors": [
+    "John Francis Moore (writer)",
     "Ron Lim"
   ],
-  "image": {
-    "height": "379",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Xmen2099-23.jpg/250px-Xmen2099-23.jpg",
-    "width": "250"
-  },
+  "description": "Junkpile is a fictional character in Marvel Comics's 2099 universe, a look at superheroes in the year 2099. He was one of the main antagonists of a future incarnation of the X-Men called X-Men 2099, and briefly was affiliated with both the X-Men and SHIELD.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Xmen2099-23.jpg/250px-Xmen2099-23.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Junkpile",
-  "pageviews": 746,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "unique physiology allows him to construct his body entirely out of metal which grants him increased strength",
     "stamina",
-    "and resistance to physical injury and can also telekinetically draw and bond metal objects to himself to add to his body or rebuild himself"
+    "resistance to physical injury",
+    "can also telekinetically draw",
+    "bond metal objects to himself to add to his body or rebuild himself"
   ],
-  "realName": "Unknown",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 480,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Unknown"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "X-Men 2099",
-    "SHIELD"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Junkpile"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Junkpile"
+  }
 }

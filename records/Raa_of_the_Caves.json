@@ -1,21 +1,32 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+  ],
+  "authors": [
+  ],
+  "description": "Raa is a fictional character appearing in Marvel Comics. He first appeared in Fantastic Four Annual #25 as a member of The Anachronauts (Apocryphus, Deathunt 9000, Ssith, Tyndar, Wildrun (aka Red Wolf), and Sir Raston). He was created by writer Mark Gruenwald and penciler Herb Trimpe.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Raa of the Caves",
-  "pageviews": 179,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 128,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Raa"
   ],
-  "realName": "Raa",
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Raa_of_the_Caves"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Raa_of_the_Caves"
+  }
 }

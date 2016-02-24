@@ -1,28 +1,37 @@
 {
-  "aliases": "Agent Jackson, Director Jackson",
-  "creators": [
-    "Frank Tieri",
+  "aliases": [
+  ],
+  "alliances": [
+    "S.H.I.E.L.D.",
+    "Weapon X"
+  ],
+  "authors": [
+    "Frank Tieri (writer)",
     "Sean Chen"
   ],
-  "image": {
-    "height": "300",
-    "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Agent_Brent_Jackson.jpg",
-    "width": "200"
-  },
+  "description": "Brent Jackson is a fictional Marvel Comics character. He first appeared in Wolverine #163 and was created by Frank Tieri and Sean Chen.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/Agent_Brent_Jackson.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Brent Jackson",
-  "pageviews": 1088,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 790,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Brent Montgomery Jackson"
   ],
-  "realName": "Brent Montgomery Jackson",
   "species": [
   ],
-  "teams": [
-    "Weapon X",
-    "S.H.I.E.L.D."
-  ],
-  "url": "https://en.wikipedia.org/wiki/Brent_Jackson"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Brent_Jackson"
+  }
 }

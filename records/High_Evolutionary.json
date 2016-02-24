@@ -1,46 +1,43 @@
 {
-  "aliases": "HE",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "New Men"
+  ],
+  "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": {
-    "height": "351",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/HighEvoAnniConquest.jpg/250px-HighEvoAnniConquest.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 24,
-      "events": 2,
-      "series": 18,
-      "stories": 24
-    },
-    "description": "",
-    "id": 1011300,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5269583a77bd3.jpg",
-    "url": "http://marvel.com/universe/High%20Evolutionary"
-  },
+  "description": "The High Evolutionary is a fictional character that appears in comic books published by Marvel Comics.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5269583a77bd3/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "High Evolutionary",
-  "pageviews": 16540,
   "partners": [
   ],
   "powers": [
-    "sentient"
-  ],
-  "powersText": [
-    "Superhuman intelligence",
+    "Wears a sentient superhumanly durable armor capable of regeneration",
     "Telepathy",
     "telekinesis",
     "precognition & cosmic awareness",
     "Vast matter & energy manipulation abilities",
-    "Wears a sentient superhumanly durable armor capable of regeneration"
+    "Superhuman intelligence"
   ],
-  "realName": "",
+  "ranking": {
+    "comicCount": 24,
+    "eventCount": 2,
+    "pageviewCount": 11630,
+    "pageviewRank": -1,
+    "serieCount": 18,
+    "storyCount": 24
+  },
+  "secretIdentities": [
+    "Herbert Edgar Wyndham"
+  ],
   "species": [
   ],
-  "teams": [
-    "New Men/Knights of Wundagore"
-  ],
-  "url": "https://en.wikipedia.org/wiki/High_Evolutionary"
+  "urls": {
+    "marvel": "http://marvel.com/comics/characters/1011300/high_evolutionary",
+    "wikipedia": "https://en.wikipedia.org/wiki/High_Evolutionary"
+  }
 }

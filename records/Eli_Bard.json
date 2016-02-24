@@ -1,25 +1,39 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+    "Purifiers",
+    "Roman Senate"
+  ],
+  "authors": [
+  ],
+  "description": "Eli Bard (born Eliphas) is a fictional character, a comic book supervillain from the Marvel Comics universe. He is a member of the Purifiers and an enemy of the X-Men.",
+  "isHero": false,
+  "isVillain": true,
   "name": "Eli Bard",
-  "pageviews": 1776,
   "partners": [
     "Selene"
   ],
   "powers": [
+    "Immortal vampire-like being",
+    "knowledge of arcane magic",
+    "able to reanimate the dead."
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1538,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Eliphas"
   ],
-  "realName": "Eliphas",
   "species": [
-    "Vampire"
+    "Vampire-like mutate"
   ],
-  "teams": [
-    "Purifiers",
-    "Roman Senate"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Eli_Bard"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Eli_Bard"
+  }
 }

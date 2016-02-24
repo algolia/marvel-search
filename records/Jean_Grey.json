@@ -1,58 +1,63 @@
 {
-  "aliases": "Marvel Girl , Red, Phoenix , Dark Phoenix, White Phoenix of the Crown, Redd Dayspring",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
+    "Phoenix",
+    "Dark Phoenix",
+    "Marvel Girl"
   ],
-  "image": {
-    "height": "378",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/JeanGreyPhoenix.png/250px-JeanGreyPhoenix.png",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 46,
-      "events": 0,
-      "series": 16,
-      "stories": 45
-    },
-    "description": "",
-    "id": 1009496,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc654cf9d0ac.jpg",
-    "url": "http://marvel.com/universe/Phoenix_%28Jean_Grey%29"
-  },
+  "alliances": [
+    "Apocalypse: The Twelve",
+    "X-Terminators",
+    "Phoenix Corps",
+    "X-Factor",
+    "X-Men"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Jean Grey-Summers is a fictional character, a comic book superheroine who appears in comic books published by Marvel Comics. She has been known under the aliases Marvel Girl, Phoenix, and Dark Phoenix and is best known as one of the founding members of the X-Men, for her relationship with Cyclops, and for her central role and transformation in the X-Men storyline \"The Dark Phoenix Saga\".Jean Grey is a mutant born with telepathic and telekinetic powers. Her powers first manifested when she saw her childhood friend being hit by a car. She is a caring, nurturing figure, but she also has to deal with being an Omega-level mutant and the physical manifestation of the cosmic Phoenix Force. She has faced death numerous times in the history of the series, the first being when, in her guise as Marvel Girl, she died and was \"reborn\" as Phoenix, which in time led to her second - though not last - death in the \"Dark Phoenix Saga\".Jean is an important figure in the lives of other Marvel Universe characters, mostly the X-Men, including her husband Cyclops; her mentor and father figure Charles Xavier; her close friend and sometimes romantic interest Wolverine; her best friend and sister-like figure Storm; and her genetic children Rachel Summers, X-Man, Cable, and Stryfe.The character was present for much of the X-Men's history, and she was featured in all three X-Men animated series and several video games.  She is a playable character in X-Men Legends (2004), X-Men Legends II: Rise of Apocalypse (2005), Marvel Ultimate Alliance 2 (2009), Marvel vs Capcom 3: Fate of Two Worlds (2011), and Marvel Heroes (2013), and appeared as an enemy in the first Marvel: Ultimate Alliance.Famke Janssen portrayed Jean in five installments of the X-Men films. Sophie Turner will portray a younger version of Jean Grey in the upcoming 2016 film, X-Men: Apocalypse.In 2006, IGN rated Jean Grey #6 on their list of Top 25 X-Men from the past forty years, and in 2011, IGN ranked her 13th in the Top 100 Comic Book Heroes. Her Dark Phoenix persona was ranked 9th in IGN's \"Top 100 Comic Book Villains of All Time\" list. She was ranked third in Comics Buyer's Guide's 100 Sexiest Women in Comics list.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc654cf9d0ac/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
   "name": "Jean Grey",
-  "pageviews": 96155,
   "partners": [
   ],
   "powers": [
-    "Phoenix Force"
-  ],
-  "powersText": [
-    "Telekinesis",
+    "Psychokinesis",
     "Telepathy",
+    "Mind reading",
+    "control",
+    "Memory alteration",
+    "erasure",
+    "Mental bolts",
+    "Psionic blasts",
+    "Induced paralysis",
     "Astral projection",
     "Eidetic memory",
-    "Mind reading and control",
-    "Memory alteration and erasure",
-    "Psionic blasts  Phoenix Force:",
-    "Matter and energy manipulation",
-    "Time manipulation",
-    "Space travel",
-    "\"Cosmic fire\"",
-    "Disintegration energy",
-    "Resurrection from death and manipulation of life energy in others"
+    "Travel unaided through space",
+    "Psionically manipulate matter",
+    "any form of energy",
+    "Create powerful \"cosmic\" fire",
+    "Resurrect from death",
+    "manipulate life energy in others",
+    "Manipulate timelines"
   ],
-  "realName": "Jean Grey-Summers",
+  "ranking": {
+    "comicCount": 46,
+    "eventCount": 0,
+    "pageviewCount": 73767,
+    "pageviewRank": 9990,
+    "serieCount": 16,
+    "storyCount": 45
+  },
+  "secretIdentities": [
+    "Jean Grey-Summers"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "The Twelve",
-    "X-Factor",
-    "X-Men",
-    "X-Terminators",
-    "All-New X-Men"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Jean_Grey"
+  "urls": {
+    "marvel": "http://marvel.com/characters/31/jean_grey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Grey"
+  }
 }

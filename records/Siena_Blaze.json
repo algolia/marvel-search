@@ -1,33 +1,42 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Upstarts",
+    "Exiles"
+  ],
+  "authors": [
     "Scott Lobdell",
     "Jason Pearson",
     "Tom Grummett"
   ],
-  "image": {
-    "height": "345",
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Siena_Blaze.jpg",
-    "width": "198"
-  },
+  "description": "Siena Blaze (also spelled Sienna Blaze) is a mutant in Marvel Comics's X-Men comics series. Introduced as a villain in the Marvel Universe, she later became a hero during her brief period in the Ultraverse. Following a long absence, the character returned in X-Force, vol. 3, #22.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Siena_Blaze.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Siena Blaze",
-  "pageviews": 1520,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Electromagnetic energy generation",
     "flight",
     "teleportation."
   ],
-  "realName": "Siena Blaze",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 939,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Siena Blaze"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-    "Upstarts",
-    "All New Exiles"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Siena_Blaze"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Siena_Blaze"
+  }
 }

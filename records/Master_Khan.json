@@ -1,26 +1,40 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "The House of Thysslia"
+  ],
+  "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "image": {
-  },
+  "description": "Master Khan is a fictional character in the Marvel Universe. He first appeared in Strange Tales #77 (October 1960), and was created by Stan Lee and Steve Ditko.Within the shared universe of that company's publications, Master Khan is a sinister sorcerer \"god\" of K'un-L'un who demands human blood sacrifices from his worshippers.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Master Khan",
-  "pageviews": 2797,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "magical powers",
-    "leviate and shrink objects and beings"
+    "leviate",
+    "shrink objects",
+    "beings"
   ],
-  "realName": "Khan",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2313,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Khan"
+  ],
   "species": [
-    "Human"
+    "Human magic user"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Master_Khan"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_Khan"
+  }
 }

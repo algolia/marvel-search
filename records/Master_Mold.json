@@ -1,48 +1,52 @@
 {
-  "aliases": "",
-  "creators": [
-    "Stan Lee",
-    "Jack Kirby"
+  "aliases": [
   ],
-  "image": {
-    "height": "380",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Uxm016.PNG/250px-Uxm016.PNG",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 8,
-      "events": 0,
-      "series": 5,
-      "stories": 6
-    },
-    "description": "",
-    "id": 1009433,
-    "image": null,
-    "url": null
-  },
+  "alliances": [
+    "Department of Defense",
+    "Purifiers",
+    "Project: Armageddon",
+    "Human Council",
+    "Phalanx"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum"
+  ],
+  "description": "Steven Lang (sometimes spelled Stephen Lang) is a fictional character, a supervillain in the Marvel Comics universe.  He is a manufacturer of the mutant-hunting robots called Sentinels. He first appeared in X-Men #96.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/XMN_StevenLang.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Master Mold",
-  "pageviews": 5827,
   "partners": [
   ],
   "powers": [
+    "Cybernetic organism"
   ],
-  "powersText": [
-    "Superhuman strength",
-    "speed",
-    "reflexes",
-    "and durability",
-    "Ability to incorporate metal into itself",
-    "Concussive blasts",
-    "Plasma discharges",
-    "Ability to scan mutants",
-    "Flight"
+  "ranking": {
+    "comicCount": 8,
+    "eventCount": 0,
+    "pageviewCount": 1564,
+    "pageviewRank": -1,
+    "serieCount": 5,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+    "Steven Lang"
   ],
-  "realName": null,
   "species": [
   ],
-  "teams": [
-    "Sentinels"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2731/master_mold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Lang_(comics)"
+  }
+}": 6
+  },
+  "secretIdentities": [
   ],
-  "url": "https://en.wikipedia.org/wiki/Master_Mold"
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2731/master_mold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_Mold"
+  }
 }

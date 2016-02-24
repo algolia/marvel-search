@@ -1,21 +1,20 @@
 {
-  "aliases": "",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Rick Remender",
     "Olivier Coipel"
   ],
-  "image": {
-    "height": "98",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Apocalypse_Twins.jpg/225px-Apocalypse_Twins.jpg",
-    "width": "225"
-  },
+  "description": "The Apocalypse Twins are two supervillains from Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Apocalypse_Twins.jpg/225px-Apocalypse_Twins.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Apocalypse Twins",
-  "pageviews": 8800,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Uriel: Flight",
     "Energy Razors",
     "Chronokinesis",
@@ -24,11 +23,22 @@
     "Chronokinetic Augmentation",
     "Time-Space Synesthesia"
   ],
-  "realName": "Uriel and Eimin Worthington",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 7339,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Uriel",
+    "Eimin Worthington"
+  ],
   "species": [
-    "Human Mutant"
+    "Mutant"
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Apocalypse_Twins"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Apocalypse_Twins"
+  }
 }

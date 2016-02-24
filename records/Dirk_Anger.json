@@ -1,40 +1,38 @@
 {
-  "aliases": "",
-  "creators": [
-    "Warren Ellis",
-    "Stuart Immonen"
+  "aliases": [
   ],
-  "image": {
-    "height": "228",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/One_Crazy_MammaJamma.jpg/250px-One_Crazy_MammaJamma.jpg",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 0,
-      "events": 0,
-      "series": 0,
-      "stories": 0
-    },
-    "description": "",
-    "id": 1010997,
-    "image": null,
-    "url": "http://marvel.com/universe/Anger,%20Dirk"
-  },
+  "alliances": [
+    "Features of the Marvel Universe"
+  ],
+  "authors": [
+    "Stuart Immonen",
+    "Warren Ellis"
+  ],
+  "description": "Dirk Anger is a satirical Marvel Comics character appearing in the book Nextwave. He was created by Warren Ellis and Stuart Immonen.Anger is a thinly veiled, over-the-top parody of Nick Fury. Ellis originally intended to use Fury, but when that character was unavailable, he created Dirk Anger.Despite the appearance of Nextwave characters in other Marvel titles, in 2006 Editor-in-Chief Joe Quesada stated that Nextwave's setting was in a universe separate from the main Marvel continuity. However, recent issues of Official Handbook of the Marvel Universe, as well as Civil War: Battle Damage Report, consistently place Nextwave's activities in mainstream continuity.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/One_Crazy_MammaJamma.jpg/250px-One_Crazy_MammaJamma.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Dirk Anger",
-  "pageviews": 1355,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Chemically retarded aging process"
   ],
-  "realName": "Dirk Anger",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 948,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Dirk Anger"
+  ],
   "species": [
   ],
-  "teams": [
-    "H.A.T.E."
-  ],
-  "url": "https://en.wikipedia.org/wiki/Dirk_Anger"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2856/dirk_anger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dirk_Anger"
+  }
 }

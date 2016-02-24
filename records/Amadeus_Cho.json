@@ -1,49 +1,42 @@
 {
-  "aliases": "Mastermind Excello, Prince of Power, Hulk",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Olympus Group",
+    "Illuminati",
+    "The Mighty Avengers",
+    "God Squad",
+    "World War Hulk"
+  ],
+  "authors": [
     "Greg Pak",
     "Takeshi Miyazawa"
   ],
-  "image": {
-    "height": "334",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/AmadeusCho1.jpg/230px-AmadeusCho1.jpg",
-    "width": "230"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 26,
-      "events": 3,
-      "series": 5,
-      "stories": 27
-    },
-    "description": "",
-    "id": 1011227,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/520288b9cb581.jpg",
-    "url": "http://marvel.com/universe/Amadeus_Cho"
-  },
+  "description": "Amadeus Cho, also known as Mastermind Excello, is a fictional character, a superhero appearing in books published by Marvel Comics. Created by writer Greg Pak and artist Takeshi Miyazawa, the character first appeared in Amazing Fantasy vol. 2 #15 (January 2006). He usually appears as a supporting character in books featuring The Avengers, or individual members of that group, such as Hulk or Hercules.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/520288b9cb581/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Amadeus Cho",
-  "pageviews": 30874,
   "partners": [
     "Hercules"
   ],
   "powers": [
-    "Hercules",
-    "adamantine"
+    "Genius-level intellect"
   ],
-  "powersText": [
-    "Super-genius mind",
-    "Possesses Hercules' powers",
-    "Wields adamantine mace"
+  "ranking": {
+    "comicCount": 26,
+    "eventCount": 3,
+    "pageviewCount": 24323,
+    "pageviewRank": -1,
+    "serieCount": 5,
+    "storyCount": 27
+  },
+  "secretIdentities": [
   ],
-  "realName": "Amadeus Cho",
   "species": [
   ],
-  "teams": [
-    "New Warriors",
-    "Renegades",
-    "Mighty Avengers",
-    "Illuminati",
-    "Young Avengers"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Amadeus_Cho"
+  "urls": {
+    "marvel": "http://marvel.com/characters/2804/amadeus_cho",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amadeus_Cho"
+  }
 }

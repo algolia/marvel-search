@@ -1,37 +1,51 @@
 {
-  "aliases": "",
-  "creators": [
-    "Stan Lee",
+  "aliases": [
+  ],
+  "alliances": [
+    "Ani-Men",
+    "Unholy Three"
+  ],
+  "authors": [
+    "Roger McKenzie",
+    "Mary Jo Duffy",
+    "and Gene Colan",
     "Wally Wood",
     "Bob Powell"
   ],
-  "image": {
-  },
+  "description": "Bird-Man is the name of three fictional characters in Marvel Comics. The first two have similar powers and appearances, and both appeared primarily as a member of the villain team the Ani-Men.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Bird-Man",
-  "pageviews": 2457,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Use of T-Ray gun",
-    "Exoskeleton costume grants:",
-    "Enhanced strength",
-    "Flight via artificial wings",
-    "(Briefly):",
+    "Hollowed bones",
     "Superhuman strength",
+    "Use of T-Ray gun",
+    "Flight via natural wings",
+    "Enhanced strength",
     "Enhanced speed",
     "agility",
+    "durability",
     "stamina",
-    "durability and reflexes",
-    "Flight via natural wings",
-    "Hollowed bones"
+    "reflexes",
+    "Flight via artificial wings"
   ],
-  "realName": "Henry Hawk",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1881,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Henry Hawk",
+    "Achille DiBacco"
+  ],
   "species": [
   ],
-  "teams": [
-    "Ani-Men"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Bird-Man"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bird-Man"
+  }
 }

@@ -1,25 +1,30 @@
 {
-  "aliases": "",
-  "creators": [
-    "John Byrne",
-    "David Michelinie"
+  "aliases": [
   ],
-  "image": {
-  },
+  "alliances": [
+  ],
+  "authors": [
+  ],
+  "isHero": false,
+  "isVillain": false,
   "name": "Darren Cross",
-  "pageviews": 35101,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 25169,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
   ],
-  "realName": null,
   "species": [
-    "Human"
   ],
-  "teams": [
-    "Cross Technological Enterprises"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Darren_Cross"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Darren_Cross"
+  }
 }

@@ -1,53 +1,50 @@
 {
-  "aliases": "Nathan Milbury, Robert Windsor",
-  "creators": [
-    "Chris Claremont",
-    "Marc Silvestri"
+  "aliases": [
   ],
-  "image": {
-    "height": "373",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Sinister89ohtmu.png/250px-Sinister89ohtmu.png",
-    "width": "250"
-  },
-  "marvel": {
-    "counts": {
-      "comics": 50,
-      "events": 5,
-      "series": 27,
-      "stories": 47
-    },
-    "description": "",
-    "id": 1009447,
-    "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/526034ac3c53a.jpg",
-    "url": "http://marvel.com/universe/Mister_Sinister"
-  },
+  "alliances": [
+    "Nasty Boys",
+    "Marauders"
+  ],
+  "authors": [
+    "Marc Silvestri",
+    "Chris Claremont"
+  ],
+  "description": "Mister Sinister is a fictional character, a supervillain that appears in comic books published by Marvel Comics. The character first appeared in Uncanny X-Men #221 (Sept. 1987) and was created by writer Chris Claremont and artist Marc Silvestri.Mister Sinister has appeared in a number of X-Men titles including spin-offs and several limited series. The character has also featured in associated Marvel merchandise including animated television series, toys, trading cards, and video games.IGN's list of the Top 100 Comic Book Villains of All Time ranked Mister Sinister as #29. In 2008, Sinister was ranked #6 at Marvel.com on their list of Top 10 X-Men villains.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/526034ac3c53a/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": true,
   "name": "Mister Sinister",
-  "pageviews": 38481,
   "partners": [
     "Apocalypse"
   ],
   "powers": [
-  ],
-  "powersText": [
-    "Master manipulator and planner",
-    "Superhuman strength and durability",
-    "Genius-level intellect",
-    "Regenerative healing factor",
-    "Telepathy",
-    "Molecular manipulation",
-    "Shapeshifting",
-    "Virtual immunity to injury",
-    "Energy projection via telekinesis",
+    "Genius-level Intellect",
+    "Regeneration (biology)",
+    "Energy projection via Telekinesis",
     "Teleportation via tesseract headquarters",
-    "Prolonged longevity"
+    "Superhuman strength",
+    "durability",
+    "Shape-shifting",
+    "Healing factor",
+    "Master manipulator",
+    "planner"
   ],
-  "realName": "Nathaniel Essex",
+  "ranking": {
+    "comicCount": 51,
+    "eventCount": 5,
+    "pageviewCount": 30696,
+    "pageviewRank": -1,
+    "serieCount": 28,
+    "storyCount": 48
+  },
+  "secretIdentities": [
+    "Nathaniel Essex"
+  ],
   "species": [
-    "Human Mutate"
+    "Mutate"
   ],
-  "teams": [
-    "Marauders",
-    "Nasty Boys"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Mister_Sinister"
+  "urls": {
+    "marvel": "http://marvel.com/characters/1478/mister_sinister",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mister_Sinister"
+  }
 }

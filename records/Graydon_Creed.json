@@ -1,30 +1,38 @@
 {
-  "aliases": "Tribune",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Purifiers",
+    "Upstarts",
+    "Features of the Marvel Universe"
+  ],
+  "authors": [
     "Scott Lobdell",
     "Brandon Peterson"
   ],
-  "image": {
-    "height": "233",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Graydon_Creed.jpg/250px-Graydon_Creed.jpg",
-    "width": "250"
-  },
+  "description": "Graydon Creed is a fictional character created by writer Scott Lobdell and artist Brandon Peterson. The character is an enemy of the X-Men and first appeared in Uncanny X-Men #299 (April 1993).",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Graydon_Creed.jpg/250px-Graydon_Creed.jpg",
+  "isHero": false,
+  "isVillain": false,
   "name": "Graydon Creed",
-  "pageviews": 8566,
   "partners": [
   ],
   "powers": [
   ],
-  "powersText": [
-    "None"
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 7118,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Graydon Creed"
   ],
-  "realName": "Graydon Creed",
   "species": [
   ],
-  "teams": [
-    "Purifiers",
-    "Upstarts",
-    "Friends of Humanity"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Graydon_Creed"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Graydon_Creed"
+  }
 }

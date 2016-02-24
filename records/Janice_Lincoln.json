@@ -1,33 +1,42 @@
 {
-  "aliases": "Lady Beetle",
-  "creators": [
-    "Ed Brubaker"
+  "aliases": [
   ],
-  "image": {
-    "height": "355",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Janice_Lincoln.png/250px-Janice_Lincoln.png",
-    "width": "250"
-  },
+  "alliances": [
+    "Sinister Six"
+  ],
+  "authors": [
+    "Ed Brubaker",
+    "Mitch Breitweiser"
+  ],
+  "description": "Janice Lincoln (also known as the Beetle) is a fictional character in the Marvel Comics Universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Janice_Lincoln.png/250px-Janice_Lincoln.png",
+  "isHero": true,
+  "isVillain": true,
   "name": "Janice Lincoln",
-  "pageviews": 2594,
   "partners": [
     "Tombstone"
   ],
   "powers": [
-    "Powered armor"
-  ],
-  "powersText": [
-    "Powered armor grants:",
-    "Superhuman strength and durability",
-    "Flight via artificial wings",
+    "Highly intelligent",
     "Variety of weapon systems",
+    "Superhuman strength",
+    "Flight",
     "Ability to stick to walls"
   ],
-  "realName": "Janice Lincoln",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2768,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Janice Lincoln"
+  ],
   "species": [
   ],
-  "teams": [
-    "Sinister Six"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Janice_Lincoln"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Janice_Lincoln"
+  }
 }

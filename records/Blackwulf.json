@@ -1,31 +1,41 @@
 {
-  "aliases": "",
-  "creators": [
-    "Glenn Herdling",
-    "Angel Medina"
+  "aliases": [
   ],
-  "image": {
-    "height": "271",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Blackwulf1_HCV.jpg/200px-Blackwulf1_HCV.jpg",
-    "width": "200"
-  },
-  "name": "Blackwulf (Lucian)",
-  "pageviews": 785,
+  "alliances": [
+    "Underground Legion, Avengers, Code: Blue"
+  ],
+  "authors": [
+    "Angel Medina",
+    "Glenn Herdling"
+  ],
+  "description": "Blackwulf is a fictional character that appears in comic books published by Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Blackwulf1_HCV.jpg/200px-Blackwulf1_HCV.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Blackwulf",
   "partners": [
-    "Giant-Man"
+    "Sparrow, Mammoth, Giant-Man"
   ],
   "powers": [
-  ],
-  "powersText": [
     "Enhanced strength",
     "durability. Black Legacy energy manipulation."
   ],
-  "realName": "Blackwulf I (Pelops), Blackwulf II (Lucian)",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 587,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Blackwulf I ",
+    "Blackwulf II"
+  ],
   "species": [
+    "Deviant"
   ],
-  "teams": [
-    "Avengers",
-    "Code: Blue"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Blackwulf"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Blackwulf"
+  }
 }

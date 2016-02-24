@@ -1,32 +1,40 @@
 {
-  "aliases": "Ralph Bunker",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+    "Infinity Watch",
+    "X-Factor Investigations"
+  ],
+  "authors": [
     "Jim Starlin"
   ],
-  "image": {
-    "height": "370",
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/PipTheTroll.png/150px-PipTheTroll.png",
-    "width": "150"
-  },
+  "description": "Pip the Troll is a fictional character who appears in publications of Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/PipTheTroll.png/150px-PipTheTroll.png",
+  "isHero": false,
+  "isVillain": false,
   "name": "Pip the Troll",
-  "pageviews": 3096,
   "partners": [
     "Adam Warlock",
     "Thanos"
   ],
   "powers": [
-  ],
-  "powersText": [
     "Teleportation",
     "superhuman strength"
   ],
-  "realName": "Pip Gofern",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2150,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Pip Gofern"
+  ],
   "species": [
-    "Laxidazian"
   ],
-  "teams": [
-    "Infinity Watch",
-    "X-Factor Investigations"
-  ],
-  "url": "https://en.wikipedia.org/wiki/Pip_the_Troll"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pip_the_Troll"
+  }
 }

@@ -1,27 +1,41 @@
 {
-  "aliases": "(II) Ian Byrd<br>(III)Miles Fish<br>Gregory Ross Curtis",
-  "creators": [
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
     "Steve Gerber",
-    "Val Mayerik",
-    "Jim Mooney",
     "J.J. Birch",
+    "Jim Mooney",
+    "Val Mayerik",
     "Gregg Hurwitz"
   ],
-  "image": {
-  },
+  "description": "The Foolkiller is a fictional character appearing in the Marvel Comics universe. He was created by writer Steve Gerber and first appeared in the pages of 1974's Man-Thing. He also had a ten-issue limited series that ran from 1990 to 1991, followed by another in 2007. There have been four different individuals to adopt the mantle of the Foolkiller. The character was inspired by a Southern legend that was the basis for a short story by O. Henry. This in turn was the inspiration for a later novel by Helen Eustis. The novel was made into a film featuring Anthony Perkins. A character of the same name also appeared in L. Frank Baum's The Enchanted Island of Yew.",
+  "isHero": false,
+  "isVillain": false,
   "name": "Foolkiller",
-  "pageviews": 3102,
   "partners": [
   ],
   "powers": [
-  ],
-  "powersText": [
     "Wields \"purification gun\" capable of firing a disintegrating ray"
   ],
-  "realName": "(I) Ross G. Everbest<br>(II) Greg Salinger<br>(III) Kurt Gerhardt<br>(IV) Mike Trace",
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2339,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kurt Gerhardt",
+    "Mike Trace",
+    "Ross G. Everbest",
+    "Greg Salinger"
+  ],
   "species": [
   ],
-  "teams": [
-  ],
-  "url": "https://en.wikipedia.org/wiki/Foolkiller"
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Foolkiller"
+  }
 }
