@@ -4,30 +4,39 @@
   "alliances": [
   ],
   "authors": [
+    "Tom DeFalco",
+    "Pat Olliffe"
   ],
-  "description": "Scarlet Spider is a fictional character who appeared in Marvel Comics series starring Spider-Man. Scarlet Spider's costume was designed by Tom Lyle and the first appearance of the hero is in Web of Spider-Man #118. The identity of the Scarlet Spider has been used by several characters: Ben Reilly, Peter Parker (while Ben posed as him in prison), Joe Wade (a villain), a group of three Michael Van Patrick clones working with the Initiative, and Kaine.",
+  "description": "Felicity Hardy, also known as the third Scarlet Spider, is a fictional character who appears in the Marvel Comics's alternate future MC2 series Spider-Girl. She debuted in Spider-Girl #46 (June 2002).",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4ce5a531089da/standard_xlarge.jpg",
-  "isHero": true,
-  "isVillain": true,
+  "isHero": false,
+  "isVillain": false,
   "name": "Scarlet Spider (Ben Reilly)",
   "partners": [
   ],
   "powers": [
+    "Skilled martial artist",
+    "gymnast",
+    "Wields web-shooters that fire smoke bombs",
+    "sonic blasts",
+    "a high-tech cat o'nine tails whip",
+    "Great investigative skills"
   ],
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 8599,
+    "pageviewCount": 1389,
     "pageviewRank": -1,
     "serieCount": 5,
     "storyCount": 6
   },
   "secretIdentities": [
+    "Felicity Hardy"
   ],
   "species": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2014/scarlet_spider",
-    "wikipedia": "https://en.wikipedia.org/wiki/Scarlet_Spider"
+    "wikipedia": "https://en.wikipedia.org/wiki/Felicity_Hardy"
   }
 }

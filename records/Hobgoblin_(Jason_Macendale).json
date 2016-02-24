@@ -2,41 +2,63 @@
   "aliases": [
   ],
   "alliances": [
+    "Imperial Guard"
   ],
   "authors": [
-    "John Romita, Jr.",
-    "Roger Stern"
+    "Chris Claremont",
+    "Dave Cockrum"
   ],
-  "description": "Roderick Kingsley is the first of several fictional characters who would claim the alias Hobgoblin that appears in comic books published by Marvel Comics. He first appeared in Peter Parker, The Spectacular Spider-Man #43 then as the Hobgoblin in The Amazing Spider-Man #238, and was created by Roger Stern and John Romita, Jr. In 2009, the Hobgoblin was ranked by IGN as the 57th greatest comic book villain.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/Roderick_Kingsley_%28Hobgoblin%29.jpg",
+  "description": "Hobgoblin is a fictional character in the Marvel Universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Hobgoblin_%28Imperial_Guard%29.jpg/175px-Hobgoblin_%28Imperial_Guard%29.jpg",
   "isHero": false,
-  "isVillain": true,
+  "isVillain": false,
   "name": "Hobgoblin (Jason Macendale)",
   "partners": [
   ],
   "powers": [
-    "Superhuman physical attributes",
-    "intellect seemingly identical to that of the Green Goblin. Utilizes goblin-theme weapons",
-    "paraphernalia."
+    "Shapeshifting"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2619,
+    "pageviewCount": 466,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Roderick Kingsley"
   ],
   "species": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/965/hobgoblin",
-    "wikipedia": "https://en.wikipedia.org/wiki/Roderick_Kingsley"
+    "wikipedia": "https://en.wikipedia.org/wiki/Hobgoblin_(Imperial_Guard)"
   }
-}": "http://marvel.com/characters/965/hobgoblin",
+}    "Genius-level intellect",
+    "Superhuman strength",
+    "speed",
+    "durability",
+    "stamina",
+    "agility",
+    "reflexes",
+    "Various weapons",
+    "Goblin paraphernalia"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 11411,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Robin Bourne"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/965/hobgoblin",
     "wikipedia": "https://en.wikipedia.org/wiki/Hobgoblin_(comics)"
   }
 }

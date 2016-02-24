@@ -1,0 +1,36 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "8"
+  ],
+  "authors": [
+    "Bob Budiansky",
+    "Bret Blevins"
+  ],
+  "description": "8-Ball is the name used by different characters from Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/8-Ball_%28comics%29_sleepwalker_cover.jpg/250px-8-Ball_%28comics%29_sleepwalker_cover.jpg",
+  "isHero": false,
+  "isVillain": true,
+  "name": "8",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1330,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Jeff Hagees"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/8-Ball_(comics)"
+  }
+}

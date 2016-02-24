@@ -1,18 +1,15 @@
 {
   "aliases": [
-    "Box"
   ],
   "alliances": [
-    "Zodiac",
-    "Alpha Flight",
     "Gamma Flight",
-    "Weapon X",
-    "X-Men"
+    "Alpha Flight",
+    "Beta Flight"
   ],
   "authors": [
     "John Byrne"
   ],
-  "description": "Madison Jeffries is a fictional character, a mutant superhero in the Marvel Comics Universe with the ability to reshape plastic, metal, and glass to any shape desired. He also has the technopathic ability to mentally communicate with AI, such as machines and robots.",
+  "description": "Box (Roger Bochs) is a fictional comic book superhero appearing in books published by Marvel Comics, specifically Alpha Flight, of which Box was a member.",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4ce59ef63362d/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -20,29 +17,26 @@
   "partners": [
   ],
   "powers": [
-    "Technopathic ability to mentally communicate with AI",
-    "such as machines",
-    "robots.",
-    "Technokinetic ability to reshape plastic",
-    "metal",
-    "glass to any shape desired"
+    "Superhuman strength",
+    "Mechanical genius",
+    "Ability to phase into the Box-armor",
+    "merge with it"
   ],
   "ranking": {
     "comicCount": 4,
     "eventCount": 0,
-    "pageviewCount": 2732,
+    "pageviewCount": 888,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 4
   },
   "secretIdentities": [
-    "Madison Jeffries"
+    "Roger Bochs"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/346/box",
-    "wikipedia": "https://en.wikipedia.org/wiki/Madison_Jeffries"
+    "wikipedia": "https://en.wikipedia.org/wiki/Box_(comics)"
   }
 }

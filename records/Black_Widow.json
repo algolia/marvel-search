@@ -2,61 +2,62 @@
   "aliases": [
   ],
   "alliances": [
+    "S.H.I.E.L.D.",
+    "Avengers",
+    "Champions",
+    "KGB",
+    "Marvel Knights",
+    "Mighty Avengers",
+    "Lady Liberators",
+    "Thunderbolts",
+    "Secret Avengers",
+    "Heroes for Hire"
   ],
   "authors": [
-    "Mark Millar",
-    "Carlos Pacheco"
+    "Stan Lee",
+    "Don Rico",
+    "Don Heck"
   ],
-  "description": "Black Widow is the name of several fictional super heroines appearing in comic books published by Marvel Comics. Most of these versions exist in Marvel's main shared universe, known as the Marvel Universe.",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/50fecad1f395b/standard_xlarge.jpg",
-  "isHero": false,
+  "isHero": true,
   "isVillain": false,
   "name": "Black Widow",
   "partners": [
+    "Daredevil",
+    "Hawkeye",
+    "Boris Turgenov",
+    "Winter Soldier",
+    "Captain America"
   ],
   "powers": [
+    "Expert",
+    "tactician",
+    "martial artist",
+    "secret agent",
+    "Slowed aging",
+    "enhanced immune system",
+    "grappling hook",
+    "knock out gas",
+    "taser",
+    "explosives",
+    "tear gas pellets",
+    "radio transmitter"
   ],
   "ranking": {
     "comicCount": 292,
     "eventCount": 8,
-    "pageviewCount": 13638,
+    "pageviewCount": 43149,
     "pageviewRank": -1,
     "serieCount": 124,
     "storyCount": 305
   },
   "secretIdentities": [
-  ],
-  "species": [
-    "Human"
-  ],
-  "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009189/black_widow",
-    "wikipedia": "https://en.wikipedia.org/wiki/Black_Widow_(Marvel_Comics)"
-  }
-}"Invisibility",
-    "Appearance altering",
-    "Death touch",
-    "Mental suggestion",
-    "Enhanced endurance",
-    "Ability to communicate with the dead",
-    "mystically regenerate or heal others",
-    "Superhuman strength"
-  ],
-  "ranking": {
-    "comicCount": 292,
-    "eventCount": 8,
-    "pageviewCount": 3503,
-    "pageviewRank": -1,
-    "serieCount": 124,
-    "storyCount": 305
-  },
-  "secretIdentities": [
-    "Claire Voyant"
+    "Natalia Alianovna \"Natasha\" Romanova"
   ],
   "species": [
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009189/black_widow",
-    "wikipedia": "https://en.wikipedia.org/wiki/Black_Widow_(Claire_Voyant)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
   }
 }

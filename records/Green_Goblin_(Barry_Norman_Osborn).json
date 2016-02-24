@@ -2,14 +2,13 @@
   "aliases": [
   ],
   "alliances": [
-    "Daily Bugle",
-    "Goblin Underground",
-    "Loners",
-    "The Hand"
+    "Thunderbolts"
   ],
   "authors": [
+    "Kurt Busiek",
+    "Pat Olliffe"
   ],
-  "description": "Philip Benjamin \"Phil\" Urich is a Marvel Comics fictional character whose first appearance was in Web of Spider-Man #125 by Gerry Conway. He once was the fourth Green Goblin as a superhero and later becomes the new Hobgoblin (and later as Goblin Knight) as a supervillain.",
+  "description": "Headsman is a fictional character in the Marvel Universe. His apparent real name is Cleavon Twain (a play on the words \"cleave in twain\") though it's unclear if this is his actual birth name or simply an alias.",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4cd05ee55faa2/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -17,34 +16,36 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "speed",
-    "durability",
-    "stamina",
-    "reflexes",
-    "Ultrasonic scream",
-    "Wears a costume with wings on the back that allow him to fly",
-    "Goblin-themed weapons",
-    "paraphernalia"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 3021,
+    "pageviewCount": 1019,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Philip Benjamin \"Phil\" Urich"
+    "Cleavon Twain"
   ],
   "species": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/852/green_goblin",
-    "wikipedia": "https://en.wikipedia.org/wiki/Phil_Urich"
+    "wikipedia": "https://en.wikipedia.org/wiki/Headsman_(comics)"
   }
-}t": 0,
+}r-Man 2 as Harry Osborn, Norman's embittered son.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4cd05ee55faa2/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": true,
+  "name": "Green Goblin (Barry Norman Osborn)",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
     "pageviewCount": 25254,
     "pageviewRank": -1,
     "serieCount": 0,

@@ -2,52 +2,51 @@
   "aliases": [
   ],
   "alliances": [
-    "Spider-Man"
+    "Guardians of the Galaxy (2008 team)",
+    "United States Army",
+    "Avengers",
+    "Thunderbolts",
+    "Secret Avengers"
   ],
   "authors": [
-    "David Michelinie",
-    "Todd McFarlane",
-    "Mike Zeck",
-    "Randy Schueller"
+    "Steve Ditko",
+    "Stan Lee"
   ],
   "description": "Flash Thompson was the high school bully of Peter Parker while also being one of Spider-Man's biggest fans. After losing his legs during military service, he became the new Venom, working as an operative of the United States government.",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/5269668c7d5df/standard_xlarge.jpg",
   "isHero": false,
-  "isVillain": true,
+  "isVillain": false,
   "name": "Venom (Flash Thompson)",
   "partners": [
   ],
   "powers": [
-    "Grants the host all the powers of its first known host",
-    "Spider-Man. Greatly enhances physical attributes of its current host. Superhuman strength",
-    "ability to change form",
-    "ability of the Symbiote to fight",
-    "defend itself when either the host or it is in danger.",
+    "Trained marksman",
+    "Experienced hand to hand combatant",
+    "Superhuman strength",
+    "agility",
+    "reflexes",
+    "endurance",
+    "Organic webbing",
+    "Ability to cling to most surfaces",
+    "Immunity to Spider Sense",
     "Limited shapeshifting",
-    "undetectable by Spider-Man's \"spider-sense\". It can also turn its host invisible through camouflage."
+    "camouflage"
   ],
   "ranking": {
     "comicCount": 49,
     "eventCount": 1,
-    "pageviewCount": 43101,
-    "pageviewRank": 9940,
+    "pageviewCount": 68917,
+    "pageviewRank": -1,
     "serieCount": 11,
     "storyCount": 53
   },
   "secretIdentities": [
-    "Mac Gargan",
-    "Flash Thompson",
-    "Eddie Brock",
-    "Angelo Fortunato",
-    "Ann Weying",
-    "Patricia Robertson",
-    "Spider-Man"
+    "Eugene \"Flash\" Thompson"
   ],
   "species": [
-    "Symbiote"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/63/venom",
-    "wikipedia": "https://en.wikipedia.org/wiki/Venom_(comics)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Flash_Thompson"
   }
 }

@@ -2,49 +2,41 @@
   "aliases": [
   ],
   "alliances": [
-    "Beta Flight",
-    "Omega Flight",
-    "Gamma Flight",
+    "Exiles",
     "Alpha Flight"
   ],
   "authors": [
-    "John Byrne"
+    "Mike McKone",
+    "Judd Winick"
   ],
-  "description": "Sasquatch (Walter Langkowski) is a fictional character, a superhero in Marvel Comics' universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Walter_Langkowski_.jpg/250px-Walter_Langkowski_.jpg",
+  "description": "Heather Hudson is a fictional character created by Marvel Comics for their series called Exiles.",
   "isHero": false,
   "isVillain": false,
   "name": "Sasquatch (Walter Langkowski)",
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "endurance",
-    "durability",
+    "-Superhuman strength",
     "stamina",
-    "Regenerative healing factor",
-    "Sharp claws",
-    "teeth",
-    "Ability to leap vast distances",
-    "Ability to transform his body into a massive",
-    "orange-furred form",
-    "Brilliant scientific mind"
+    "resistance",
+    "-Regenerative factor",
+    "Formerly: Capable of assuming the form of the Great Beast Tanaraq"
   ],
   "ranking": {
     "comicCount": 77,
     "eventCount": 3,
-    "pageviewCount": 4247,
+    "pageviewCount": 537,
     "pageviewRank": -1,
     "serieCount": 32,
     "storyCount": 78
   },
   "secretIdentities": [
-    "Walter Langkowski"
+    "Heather McDaniel Hudson"
   ],
   "species": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1995/sasquatch",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sasquatch_(comics)"
+    "wikipedia": "https://en.wikipedia.org/wiki/Heather_Hudson_(Exiles)"
   }
 }
