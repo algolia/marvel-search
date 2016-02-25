@@ -1,7 +1,10 @@
 {
   "aliases": [
+    "Roboduck"
   ],
   "alliances": [
+    "A.P.N.G.",
+    "Gabriel",
     "A.P.N.G., Gabriel"
   ],
   "authors": [
@@ -19,7 +22,10 @@
   "powers": [
     "Arm-mounted plasma cannons",
     "flight",
-    "powerful plasma burp"
+    "powerful plasma burp",
+    "Arm-mounted",
+    "plasma",
+    "cannons"
   ],
   "ranking": {
     "comicCount": 0,
@@ -33,7 +39,6 @@
     "None"
   ],
   "species": [
-    "Robot"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Roboduck"

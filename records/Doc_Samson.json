@@ -1,5 +1,7 @@
 {
   "aliases": [
+    "Dr. Leonard \"Leo\" Skivorski Jr.",
+    "Doc Samson"
   ],
   "alliances": [
   ],
@@ -13,7 +15,8 @@
   "isVillain": false,
   "name": "Doc Samson",
   "partners": [
-    "Hulk"
+    "Hulk",
+    "Dr. Bruce Banner"
   ],
   "powers": [
     "Immunity to Earthly diseases",
@@ -25,7 +28,9 @@
     "Resistance to telepathy",
     "Genius psychiatrist",
     "Skilled theoretical technician",
-    "inventor"
+    "inventor",
+    "Highly skilled hand to hand combatant",
+    "Ability to leap great distances"
   ],
   "ranking": {
     "comicCount": 62,
@@ -39,7 +44,6 @@
     "Dr. Leonard \"Leo\" Samson"
   ],
   "species": [
-    "Human"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2704/doc_samson",

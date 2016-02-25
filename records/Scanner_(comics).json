@@ -1,12 +1,15 @@
 {
   "aliases": [
+    "Screener",
+    "Scanner"
   ],
   "alliances": [
     "Acolytes"
   ],
   "authors": [
     "Scott Lobdell",
-    "John Romita, Jr."
+    "John Romita, Jr.",
+    "John Romita Jr."
   ],
   "image": "https://upload.wikimedia.org/wikipedia/en/5/57/Scanner_xm86.jpg",
   "isHero": false,
@@ -31,7 +34,6 @@
     "Sarah Ryall"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Scanner_(comics)"

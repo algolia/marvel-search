@@ -1,5 +1,9 @@
 {
   "aliases": [
+    "D-Man",
+    "Demolition Dunphy",
+    "Scourge of the Underworld",
+    "Demolition Man"
   ],
   "alliances": [
     "Unlimited Class Wrestling Federation",
@@ -7,7 +11,10 @@
     "Inuit",
     "Avengers",
     "Demolition Man",
-    "Revengers"
+    "Revengers",
+    "Night People",
+    "Inuit Tribe",
+    "US Military"
   ],
   "authors": [
     "Mike Carlin",
@@ -19,6 +26,7 @@
   "isVillain": false,
   "name": "Demolition Man",
   "partners": [
+    "Captain America"
   ],
   "powers": [
     "Excellent hand to hand combatant",

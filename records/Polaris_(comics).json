@@ -1,6 +1,13 @@
 {
   "aliases": [
-    "Lorna Dane"
+    "Lorna Dane",
+    "M2",
+    "Magnetrix",
+    "Pestilence",
+    "Malice",
+    "Magneto the Second",
+    "Polaris",
+    "Queen of the Mutants"
   ],
   "alliances": [
     "X-Men",
@@ -11,7 +18,10 @@
     "X-Factor",
     "Defenders",
     "Apocalypse: The Twelve",
-    "Acolytes"
+    "Acolytes",
+    "X-Factor (Serval Industries)",
+    "\"Defenders for a Day\"",
+    "The Twelve"
   ],
   "authors": [
     "Jim Steranko",
@@ -32,7 +42,10 @@
     "fields allowing flight",
     "force-fields",
     "concussive blasts",
-    "the manipulation of ferrous metals."
+    "the manipulation of ferrous metals.",
+    "Electromagnetic Control",
+    "Flight",
+    "Magnetic Field Generation"
   ],
   "ranking": {
     "comicCount": 192,
@@ -43,10 +56,10 @@
     "storyCount": 226
   },
   "secretIdentities": [
-    "Lorna Dane"
+    "Lorna Dane",
+    "Lorna Sally Dane"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1771/polaris",

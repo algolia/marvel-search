@@ -1,7 +1,26 @@
 {
   "aliases": [
     "Logan",
-    "James Howlett"
+    "James Howlett",
+    "Logan Howlett",
+    "Patch",
+    "Captain Canada",
+    "Weapon X ",
+    "Death",
+    "Mutate #9601",
+    "Emilio Garra",
+    "Weapon Chi",
+    "Experiment X",
+    "Agent Ten",
+    "Peter Richards",
+    "Mai' keth",
+    "Black Dragon",
+    "Captain Terror",
+    "John Logan",
+    "Jim Logan",
+    "Revolto the Clown",
+    "Wolverine",
+    "Weapon X (Ten)"
   ],
   "alliances": [
     "Alpha Flight",
@@ -12,7 +31,9 @@
     "Horsemen of Apocalypse",
     "Hydra",
     "Jean Grey School",
-    "Landau, Luckman, and Lake",
+    "Landau",
+    "Luckman",
+    "and Lake",
     "New Avengers",
     "New Fantastic Four",
     "S.H.I.E.L.D.",
@@ -22,13 +43,19 @@
     "Weapon X",
     "X-Force",
     "X-Men",
-    "X-Treme Sanctions Executive"
+    "X-Treme Sanctions Executive",
+    "Plainlist|",
+    "Canadian Army",
+    "1st Canadian Parachute Battalion",
+    "Landau, Luckman, and Lake"
   ],
   "authors": [
     "Roy Thomas",
     "Len Wein",
     "John Romita",
-    "Sr."
+    "Sr.",
+    "Plainlist|",
+    "John Romita, Sr."
   ],
   "description": "Born with super-human senses and the power to heal from almost any wound, Wolverine was captured by a secret Canadian organization and given an unbreakable skeleton and claws. Treated like an animal, it took years for him to control himself. Now, he's a premiere member of both the X-Men and the Avengers.",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf/standard_xlarge.jpg",
@@ -51,7 +78,13 @@
     "Superhuman senses",
     "agility",
     "stamina",
-    "reflexes"
+    "reflexes",
+    "Regenerative",
+    "healing factor",
+    "Adamantium",
+    "-plated skeletal structure",
+    "animal-like attributes",
+    "Extended"
   ],
   "ranking": {
     "comicCount": 1816,
@@ -65,7 +98,6 @@
     "James Howlett"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009718/wolverine",

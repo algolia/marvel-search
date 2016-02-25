@@ -1,12 +1,16 @@
 {
   "aliases": [
+    "Snow",
+    "Vessel"
   ],
   "alliances": [
-    "Morlocks"
+    "Morlocks",
+    "Gene Nation"
   ],
   "authors": [
     "Scott Lobdell",
-    "Joe Madureira"
+    "Joe Madureira",
+    "Bryan Hitch"
   ],
   "description": "Vessel is a fictional villain created by Marvel Comics for their team called Gene Nation. His first appearance was in Uncanny X-Men #324. He is one of the few members to remain in all three incarnations of the team.",
   "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Vessel2.jpg",
@@ -21,7 +25,10 @@
     "strength",
     "durability",
     "resistance to injury",
-    "healing ability to superhuman proportions"
+    "healing ability to superhuman proportions",
+    "healing ability to",
+    "superhuman",
+    "proportions"
   ],
   "ranking": {
     "comicCount": 0,
@@ -34,7 +41,6 @@
   "secretIdentities": [
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Vessel_(comics)"

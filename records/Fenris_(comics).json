@@ -1,7 +1,14 @@
 {
   "aliases": [
+    "Fenris",
+    "(Andrea von Strucker)''': Fenris",
+    "(Andreas von Strucker)''': Fenris",
+    "Swordsman",
+    "Baron Strucker"
   ],
   "alliances": [
+    "Thunderbolts",
+    "Assembly of Evil"
   ],
   "authors": [
     "Chris Claremont",
@@ -16,7 +23,14 @@
   "powers": [
     "Disintegration Beam",
     "Concussive Blast",
-    "Flight"
+    "Flight",
+    "Disintegrative energy projection",
+    "Concussive bolt projection",
+    "Phenomenal acrobat",
+    "hand-to-hand combatant",
+    "Force blasts",
+    "flight while in physical contact",
+    "Sword usage"
   ],
   "ranking": {
     "comicCount": 5,
@@ -28,10 +42,11 @@
   },
   "secretIdentities": [
     "Andrea von Strucker",
-    "Andreas von Strucker"
+    "Andreas von Strucker",
+    "Andrea von Strucker (female)",
+    "Andreas von Strucker (male)"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/680/fenris",

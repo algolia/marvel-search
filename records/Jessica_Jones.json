@@ -3,13 +3,19 @@
     "Jessica Campbell Jones Cage",
     "Jewel",
     "Knightress",
-    "Power Woman"
+    "Power Woman",
+    "Jessica Jones",
+    "Jones",
+    "Jessica"
   ],
   "alliances": [
     "Daily Bugle",
     "The Pulse",
     "The New Avengers",
-    "Alias"
+    "Alias",
+    "New Avengers",
+    "The Pulse Magazine",
+    "Alias Private Investigations"
   ],
   "authors": [
     "Michael Gaydos",
@@ -21,9 +27,14 @@
   "isVillain": false,
   "name": "Jessica Jones",
   "partners": [
+    "Luke Cage",
+    "Carol Danvers"
   ],
   "powers": [
-    "Psionic protection"
+    "Psionic protection",
+    "Superhuman strength",
+    "endurance",
+    "Flight"
   ],
   "ranking": {
     "comicCount": 40,

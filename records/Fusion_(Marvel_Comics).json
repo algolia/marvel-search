@@ -1,8 +1,10 @@
 {
   "aliases": [
+    "Fusion"
   ],
   "alliances": [
-    "Doctor Octopus"
+    "Doctor Octopus",
+    "Dr. Octopus"
   ],
   "authors": [
     "Paul Jenkins",
@@ -21,7 +23,9 @@
     "controls people's perceptions",
     "hi-tech equipment.",
     "Enhanced strength",
-    "emit radiation."
+    "emit radiation.",
+    "emit radiation. (I)",
+    "hi-tech equipment. (II)"
   ],
   "ranking": {
     "comicCount": 0,
@@ -34,7 +38,9 @@
   "secretIdentities": [
     "Markley",
     "Hubert",
-    "Pinky Fusser"
+    "Pinky Fusser",
+    "Hubert and Pinky Fusser (I)",
+    "Markley (First name unknown) (II)"
   ],
   "species": [
   ],

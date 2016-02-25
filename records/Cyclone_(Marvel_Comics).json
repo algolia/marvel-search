@@ -1,12 +1,14 @@
 {
   "aliases": [
+    "Cyclone"
   ],
   "alliances": [
     "Maggia",
     "Justin Hammer Industries/Hammer's operatives",
     "Thunderbolts",
     "Cyclone's criminal gang",
-    "Masters of Evil"
+    "Masters of Evil",
+    "NATO"
   ],
   "authors": [
     "Sholly Fisch",
@@ -22,9 +24,12 @@
   "isVillain": false,
   "name": "Cyclone",
   "partners": [
+    "Hood"
   ],
   "powers": [
-    "Ability to create whirlwinds"
+    "Ability to create whirlwinds",
+    "Expert engineer",
+    "Gifted intellect"
   ],
   "ranking": {
     "comicCount": 0,
@@ -40,7 +45,6 @@
     "Gregory Stevens"
   ],
   "species": [
-    "Human Empowered"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Cyclone_(Marvel_Comics)"

@@ -1,9 +1,14 @@
 {
   "aliases": [
+    "The Man with the Voice of Doom",
+    "The Voice of Doom",
+    "The Voice of Truth",
+    "Voice"
   ],
   "alliances": [
     "Red Skull",
-    "Skeleton Crew"
+    "Skeleton Crew",
+    "People's Defense Force"
   ],
   "authors": [
     "Stan Lee",
@@ -16,6 +21,10 @@
   "isVillain": false,
   "name": "Voice",
   "partners": [
+    "Quicksilver",
+    "Scarlet Beetle",
+    "Controller",
+    "Red Skull"
   ],
   "powers": [
     "His voice can make people who hear him believe that he's speaking the truth."
@@ -32,7 +41,6 @@
     "Jason Lorne Cragg"
   ],
   "species": [
-    "Human Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Voice_(comics)"

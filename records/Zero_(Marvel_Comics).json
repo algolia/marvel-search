@@ -1,13 +1,19 @@
 {
   "aliases": [
+    "The Fifth Light",
+    "Zero"
   ],
   "alliances": [
     "X-Men",
-    "Hope Summers"
+    "Hope Summers",
+    "Mutant Liberation Front",
+    "New Canaanites"
   ],
   "authors": [
     "Matt Fraction",
-    "Kieron Gillen"
+    "Kieron Gillen",
+    "Louise Simonson",
+    "Rob Liefeld"
   ],
   "description": "Zero (Kenji Uedo) is a fictional comic book superhero appearing in books published by Marvel Comics. The character first appeared in Generation Hope #1, in the final chapter of the \"Five Lights\" storyline, and the first storyline of the Generation Hope book. He was created by Matt Fraction and Kieron Gillen, and is one of the \"Five Lights\"—a group of mutants who manifested their abilities after the events of \"Second Coming\".",
   "isHero": true,
@@ -17,7 +23,15 @@
   ],
   "powers": [
     "Techno-Organic Creation",
-    "Manipulation"
+    "Manipulation",
+    "Enhanced strength",
+    "computerized intelligence",
+    "open teleportation portals",
+    "energy damping",
+    "absorption",
+    "scan for bio-mechanical",
+    "technological weapons",
+    "neutralize them."
   ],
   "ranking": {
     "comicCount": 0,
@@ -28,10 +42,10 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Kenji Uedo"
+    "Kenji Uedo",
+    "ADAM unit Zero"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Zero_(Marvel_Comics)"

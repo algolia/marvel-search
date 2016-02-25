@@ -1,5 +1,7 @@
 {
   "aliases": [
+    "Chamber",
+    "Decibel"
   ],
   "alliances": [
     "Generation X",
@@ -7,7 +9,8 @@
     "X-Mansion",
     "Weapon X",
     "X-Men",
-    "New Warriors"
+    "New Warriors",
+    "Jean Grey School"
   ],
   "authors": [
     "Chris Bachalo",
@@ -23,7 +26,11 @@
   "powers": [
     "Possesses a furnace of psionic energy in chest",
     "Telepathy",
-    "Created solidified sound constructs"
+    "Created solidified sound constructs",
+    "Possesses a furnace of",
+    "psionic",
+    "energy",
+    "in chest"
   ],
   "ranking": {
     "comicCount": 24,
@@ -37,7 +44,6 @@
     "Jonothon \"Jono\" Evan Starsmore"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/417/chamber",

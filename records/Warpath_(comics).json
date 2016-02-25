@@ -1,5 +1,8 @@
 {
   "aliases": [
+    "Thunderbird",
+    "Running Sun",
+    "Warpath"
   ],
   "alliances": [
     "X-Men",
@@ -29,7 +32,15 @@
     "senses",
     "Trained in armed",
     "unarmed combat",
-    "Flight"
+    "Flight",
+    "Trained armed/unarmed combatant",
+    "Skilled hunter",
+    "tracker",
+    "endurance",
+    "flexibility",
+    "reflexes/reactions",
+    "resistance to injury",
+    "Regenerative healing factor"
   ],
   "ranking": {
     "comicCount": 154,
@@ -43,7 +54,6 @@
     "James Jonathan Proudstar"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2527/warpath",

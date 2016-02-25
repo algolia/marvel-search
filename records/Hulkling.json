@@ -1,8 +1,11 @@
 {
   "aliases": [
+    "Theodore \"Teddy\" Altman",
+    "Hulkling"
   ],
   "alliances": [
-    "Young Avengers"
+    "Young Avengers",
+    "Avengers Idea Mechanics"
   ],
   "authors": [
     "Allan Heinberg",
@@ -14,12 +17,14 @@
   "isVillain": false,
   "name": "Hulkling",
   "partners": [
-    "Wiccan"
+    "Wiccan",
+    "Billy Kaplan"
   ],
   "powers": [
     "Accelerated healing factor",
     "Superhuman strength",
-    "Shapeshifting"
+    "Shapeshifting",
+    "Metamorphic adaptation"
   ],
   "ranking": {
     "comicCount": 16,
@@ -33,8 +38,6 @@
     "Dorrek VIII"
   ],
   "species": [
-    "Kree",
-    "Skrull hybrid"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/988/hulkling",

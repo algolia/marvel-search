@@ -1,9 +1,11 @@
 {
   "aliases": [
+    "Abigail Brand"
   ],
   "alliances": [
     "X-Men",
-    "S.W.O.R.D."
+    "S.W.O.R.D.",
+    "Alpha Flight"
   ],
   "authors": [
     "John Cassaday",
@@ -15,6 +17,7 @@
   "isVillain": false,
   "name": "Abigail Brand",
   "partners": [
+    "Beast"
   ],
   "powers": [
     "Pyrokinesis"
@@ -30,8 +33,6 @@
   "secretIdentities": [
   ],
   "species": [
-    "Human Mutant",
-    "Alien Hybrid"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Abigail_Brand"

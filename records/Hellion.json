@@ -1,10 +1,15 @@
 {
   "aliases": [
+    "Hellion"
   ],
   "alliances": [
     "New X-Men",
     "X-Mansion",
-    "Hellions"
+    "Hellions",
+    "Hellions training squad",
+    "Xavier Institute",
+    "X-Men-In-Training",
+    "Jean Grey School Students"
   ],
   "authors": [
     "Nunzio DeFilippis",
@@ -27,7 +32,8 @@
     "Telekinetic crushing",
     "Telekinetic projectiles",
     "Telekinetic blasts",
-    "Psychokinesis"
+    "Psychokinesis",
+    "Telekinesis"
   ],
   "ranking": {
     "comicCount": 13,
@@ -41,7 +47,6 @@
     "Julian Keller"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/945/hellion",

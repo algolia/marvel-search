@@ -1,9 +1,11 @@
 {
   "aliases": [
+    "Punchout"
   ],
   "alliances": [
     "Press Gang",
-    "Magistrates"
+    "Magistrates",
+    "Genoshan Magistrates"
   ],
   "authors": [
     "Rick Leonardi",
@@ -30,7 +32,6 @@
   "secretIdentities": [
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Punchout_(comics)"

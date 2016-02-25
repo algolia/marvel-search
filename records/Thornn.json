@@ -1,10 +1,12 @@
 {
   "aliases": [
+    "Thornn"
   ],
   "alliances": [
     "Brotherhood of Mutants",
     "Morlocks",
-    "X-Corporation"
+    "X-Corporation",
+    "Brotherhood of Evil Mutants"
   ],
   "authors": [
     "Fabian Nicieza",
@@ -24,7 +26,13 @@
     "healing factor",
     "sharp claws",
     "fangs",
-    "prehensile tail."
+    "prehensile tail.",
+    "Feline",
+    "appearance; enhanced senses",
+    "agility; healing factor; sharp claws",
+    "fangs and",
+    "prehensile",
+    "tail."
   ],
   "ranking": {
     "comicCount": 0,
@@ -38,7 +46,6 @@
     "Lucia Callasantos"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Thornn"

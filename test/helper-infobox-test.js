@@ -159,6 +159,36 @@ describe('HelperDBPedia', () => {
       expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
     });
 
+    it('should remove unclosed "<ref name"', () => {
+      // Given
+      let input = [
+        'Foo',
+        'Bar <ref name',
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.trimItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should remove unclosed "<ref>"', () => {
+      // Given
+      let input = [
+        'Foo',
+        'Bar <ref>{{cite book|last',
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.trimItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
     it('should remove triple quotes', () => {
       // Given
       let input = [
@@ -195,6 +225,21 @@ describe('HelperDBPedia', () => {
         ' Foo',
         'Bar  ',
         ' Baz      '
+      ];
+
+      // When
+      let actual = Helper.trimItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should remove any <ref>blahblah</ref>', () => {
+      // Given
+      let input = [
+        'Foo<ref>nope</ref>',
+        '<ref>Still nope</ref>Bar',
+        '<ref>Nopenopenope</ref>Baz<ref>Huzzah</ref>'
       ];
 
       // When
@@ -292,6 +337,22 @@ describe('HelperDBPedia', () => {
       expect(actual).toEqual([]);
     });
 
+    it('should remove "Related topics"', () => {
+      // Given
+      let input = [
+        'Foo',
+        'Related topics',
+        'Bar',
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
     it('should removes values in parenthesis', () => {
       // Given
       let input = [
@@ -308,6 +369,20 @@ describe('HelperDBPedia', () => {
     });
   });
 
+  describe('cleanUpList', () => {
+    it('should handle Black Widow', () => {
+      // Given
+      let input = [
+        "* '''via gauntlets:''' ** grappling hook ** taser"
+      ];
+
+      // When
+      let actual = Helper.cleanUpList(input);
+
+      // Then
+      expect(actual).toEqual(['grappling hook', 'taser']);
+    });
+  });
 
   describe('getAliases', () => {
     it('should split on commas', () => {
@@ -590,6 +665,19 @@ describe('HelperDBPedia', () => {
       expect(actual).toEqual(['Peter Parker']);
     });
 
+    it('should split on commas', () => {
+      // Given
+      let input = {
+        alter_ego: 'Peter Parker, Bar'
+      };
+
+      // When
+      let actual = Helper.getSecretIdentities(input);
+
+      // Then
+      expect(actual).toEqual(['Peter Parker', 'Bar']);
+    });
+
     it('should split on <br>', () => {
       // Given
       let input = {
@@ -779,6 +867,20 @@ describe('HelperDBPedia', () => {
   });
 
   describe('getPartners', () => {
+    it('should split on commas', () => {
+      // Given
+      let input = {
+        partners: [
+          'Daredevil, Hawkeye'
+        ]
+      };
+
+      // When
+      let actual = Helper.getPartners(input);
+
+      // Then
+      expect(actual).toEqual(['Daredevil', 'Hawkeye']);
+    });
     it('should remove <br />', () => {
       // Given
       let input = {
@@ -860,6 +962,22 @@ describe('HelperDBPedia', () => {
 
       // Then
       expect(actual).toEqual(['Expert tactician', 'Slowed aging']);
+    });
+
+    it('should split on starting "and "', () => {
+      // Given
+      let input = {
+        powers: [
+          'Peak athletic condition',
+          'and espionage training'
+        ]
+      };
+
+      // When
+      let actual = Helper.getPowers(input);
+
+      // Then
+      expect(actual).toEqual(['Peak athletic condition', 'espionage training']);
     });
 
     it('should trim commas', () => {

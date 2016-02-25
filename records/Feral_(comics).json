@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "Feral"
   ],
   "alliances": [
     "Morlocks",
@@ -8,7 +9,10 @@
     "Hellions",
     "X-Force",
     "Selene's unded mutants army",
-    "Mutant Liberation Front"
+    "Mutant Liberation Front",
+    "Selene",
+    "'s undead mutants army",
+    "New Hellions"
   ],
   "authors": [
     "Fabian Nicieza",
@@ -28,7 +32,13 @@
     "healing factor",
     "sharp claws",
     "fangs",
-    "prehensile tail."
+    "prehensile tail.",
+    "Feline",
+    "appearance; enhanced senses",
+    "agility; healing factor; sharp claws",
+    "fangs and",
+    "prehensile",
+    "tail."
   ],
   "ranking": {
     "comicCount": 1,
@@ -42,8 +52,6 @@
     "Maria Callasantos"
   ],
   "species": [
-    "Human ;",
-    "formerly human mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/683/feral",

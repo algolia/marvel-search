@@ -1,7 +1,9 @@
 {
   "aliases": [
     "The Buzz",
-    "Jack \"JJ\" Jameson"
+    "Jack \"JJ\" Jameson",
+    "JJ",
+    "Buzz"
   ],
   "alliances": [
     "Spider-Girl",
@@ -16,12 +18,14 @@
   "isVillain": false,
   "name": "Buzz",
   "partners": [
+    "Spider-Girl"
   ],
   "powers": [
     "Superhuman strength",
     "360",
     "Flight",
-    "Gauntlets that fire electric blasts or streamers of sticky adhesive"
+    "Gauntlets that fire electric blasts or streamers of sticky adhesive",
+    "360 degree vision via goggles"
   ],
   "ranking": {
     "comicCount": 0,

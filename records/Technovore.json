@@ -1,11 +1,13 @@
 {
   "aliases": [
+    "Technovore"
   ],
   "alliances": [
   ],
   "authors": [
     "Len Kaminski",
-    "Kev Hopgood"
+    "Kev Hopgood",
+    "Kevin Hopgood"
   ],
   "description": "Technovore is a Marvel Comics supervillain.",
   "isHero": false,
@@ -28,7 +30,6 @@
   "secretIdentities": [
   ],
   "species": [
-    "Nanorobotics"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Technovore"

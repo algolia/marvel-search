@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "Stiletto"
   ],
   "alliances": [
   ],
@@ -12,11 +13,14 @@
   "isVillain": false,
   "name": "Stiletto",
   "partners": [
-    "Justin Hammer"
+    "Justin Hammer",
+    "Discus"
   ],
   "powers": [
     "Uses throwing knives as weapons",
-    "Other assorted weaponry"
+    "Other assorted weaponry",
+    "Wears wrist devices that shoot small blades",
+    "Use of knives"
   ],
   "ranking": {
     "comicCount": 0,

@@ -1,12 +1,16 @@
 {
   "aliases": [
+    "Elixir"
   ],
   "alliances": [
     "Reavers",
     "New X-Men",
     "X-Force",
     "X-Mansion",
-    "New Mutants"
+    "New Mutants",
+    "New Mutants training squad",
+    "Xavier Institute",
+    "X-Men-In-Training"
   ],
   "authors": [
     "Keron Grant",
@@ -21,6 +25,7 @@
   "partners": [
   ],
   "powers": [
+    "Biological manipulation"
   ],
   "ranking": {
     "comicCount": 6,
@@ -34,7 +39,6 @@
     "Joshua \"Josh\" Foley"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011082/elixir",

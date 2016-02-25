@@ -1,11 +1,15 @@
 {
   "aliases": [
-    "Black King"
+    "Black King",
+    "Lord Imperial",
+    "Black Bishop",
+    "Sebastian Shaw"
   ],
   "alliances": [
     "Hellfire Club",
     "Shaw Industries",
-    "Hope Summers"
+    "Hope Summers",
+    "The Lights"
   ],
   "authors": [
     "Chris Claremont",
@@ -19,7 +23,13 @@
   "partners": [
   ],
   "powers": [
-    "Converts energy into greater physical attributes"
+    "Converts energy into greater physical attributes",
+    "Ability to absorb",
+    "energy",
+    "to enhance his physical attributes",
+    "healing",
+    "Possesses access to sophisticated weaponry",
+    "telepathic blocking technology"
   ],
   "ranking": {
     "comicCount": 16,
@@ -33,7 +43,6 @@
     "Sebastian Hiram Shaw"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2774/sebastian_shaw",

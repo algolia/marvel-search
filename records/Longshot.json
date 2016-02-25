@@ -1,11 +1,18 @@
 {
   "aliases": [
+    "Longshot"
   ],
   "alliances": [
+    "X-Factor Investigations",
+    "New Excalibur",
+    "Exiles",
+    "X-Men",
+    "Wildways Rebellion"
   ],
   "authors": [
     "Ann Nocenti",
-    "Arthur Adams"
+    "Arthur Adams",
+    "Art Adams"
   ],
   "description": "Longshot is a fictional comic book superhero appearing in books published by Marvel Comics, usually those featuring the X-Men family of characters. Created by writer Ann Nocenti and artist Art Adams, he first appeared in Longshot #1 (September 1985), the first issue of a six-issue miniseries that represents the first major work of both Nocenti and Adams. That series established Longshot as an amnesiac fugitive from another dimension who discovers that he has superhuman good luck that protects him when his motives are pure, and that he was a genetically engineered slave who led a rebellion on his dystopian world against his former master and archenemy, Mojo.The character subsequently becomes a recurring fixture in the various X-Men related books, which see him as a member of the X-Men from 1986 to 1989, and a member of the third incarnation of X-Factor from 2008 - 2013, as well as in his own solo adventures. Versions of the character have also appeared in the Ultimate Marvel line of books, and television and video games.",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4c003d6176aa1/standard_xlarge.jpg",
@@ -15,6 +22,15 @@
   "partners": [
   ],
   "powers": [
+    "Psychometry",
+    "Probability manipulation",
+    "Superhuman agility",
+    "Expert",
+    "hand-to-hand combatant",
+    "Proficient in the use of",
+    "bladed weaponry",
+    "firearms",
+    "Healing factor"
   ],
   "ranking": {
     "comicCount": 69,
@@ -27,7 +43,6 @@
   "secretIdentities": [
   ],
   "species": [
-    "Mojoverse slave race , mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1275/longshot",

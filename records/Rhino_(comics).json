@@ -2,7 +2,8 @@
   "aliases": [
     "Aleksei Sytsevich",
     "Aleksei Mikhailovich Sytsevich",
-    "Alex O'Hirn"
+    "Alex O'Hirn",
+    "Rhino"
   ],
   "alliances": [
     "Sinister Syndicate",
@@ -11,12 +12,16 @@
     "Defenders",
     "Emissaries of Evil",
     "Legion Accursed",
-    "Sinister Six"
+    "Sinister Six",
+    "Secret Defenders",
+    "Klaw",
+    "'s Army"
   ],
   "authors": [
     "Stan Lee",
     "John Romita",
-    "Sr."
+    "Sr.",
+    "John Romita, Sr."
   ],
   "description": "Rhino is a fictional character, a supervillain who appears in comic books published by Marvel Comics. Although more than one character has assumed the identity of the Rhino, the first of these, and the one primarily associated with that identity, is Aleksei Mikhailovich Sytsevich, who was created by writer Stan Lee and artist John Romita, Sr., and first appeared in The Amazing Spider-Man #41 (Oct. 1966).Debuting in the Silver Age of Comic Books, the Rhino has been featured in other Marvel-endorsed products such as animated television series, arcade and video games, and merchandise such as action figures and trading cards.The character made a cameo in a mecha suit in the opening and closing of the 2014 film The Amazing Spider-Man 2, portrayed by Paul Giamatti.",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c003c58f1a0c/standard_xlarge.jpg",
@@ -33,7 +38,10 @@
     "Superhuman strength",
     "speed",
     "stamina",
-    "durability"
+    "durability",
+    "High-level resistance to damage",
+    "extreme temperatures",
+    "Razor sharp horns"
   ],
   "ranking": {
     "comicCount": 29,
@@ -44,7 +52,8 @@
     "storyCount": 30
   },
   "secretIdentities": [
-    "Aleksei Mikhailovich Sytsevich"
+    "Aleksei Mikhailovich Sytsevich",
+    "Aleksei Sytsevich"
   ],
   "species": [
   ],

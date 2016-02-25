@@ -1,7 +1,8 @@
 {
   "aliases": [
     "Matt Murdock",
-    "Matthew Michael Murdock"
+    "Matthew Michael Murdock",
+    "Daredevil"
   ],
   "alliances": [
     "Defenders",
@@ -9,7 +10,9 @@
     "The Hand",
     "Nelson & Murdock",
     "Chaste",
-    "The New Avengers"
+    "The New Avengers",
+    "The Chaste",
+    "New Avengers"
   ],
   "authors": [
     "Stan Lee",
@@ -22,7 +25,8 @@
   "name": "Daredevil",
   "partners": [
     "Black Widow (Natalia Romanova)",
-    "Elektra"
+    "Elektra",
+    "Black Widow"
   ],
   "powers": [
     "Master acrobat",
@@ -34,7 +38,13 @@
     "tracker",
     "Expert marksman",
     "interrogator",
-    "Excellent athlete"
+    "Excellent athlete",
+    "Peak human physical",
+    "mental condition",
+    "Highly skilled acrobat",
+    "hand-to-hand combatant",
+    "Utilization of specially-designed",
+    "club"
   ],
   "ranking": {
     "comicCount": 825,
@@ -45,7 +55,8 @@
     "storyCount": 1324
   },
   "secretIdentities": [
-    "Matthew \"Matt\" Murdock"
+    "Matthew \"Matt\" Murdock",
+    "Matthew Michael \"Matt\" Murdock"
   ],
   "species": [
   ],

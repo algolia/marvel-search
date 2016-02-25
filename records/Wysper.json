@@ -1,8 +1,10 @@
 {
   "aliases": [
+    "Wysper"
   ],
   "alliances": [
-    "The Jury"
+    "The Jury",
+    "Vault Guardsmen"
   ],
   "authors": [
     "John Calimee",
@@ -13,12 +15,15 @@
   "isVillain": false,
   "name": "Wysper",
   "partners": [
+    "Edwin Cord"
   ],
   "powers": [
     "No superhuman powers",
     "body-armor",
     "jet-boots",
-    "sonic weapons"
+    "sonic weapons",
+    "Flight",
+    "Energy blast projection"
   ],
   "ranking": {
     "comicCount": 0,

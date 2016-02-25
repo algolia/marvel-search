@@ -1,11 +1,16 @@
 {
   "aliases": [
-    "Cessily Kincaid"
+    "Cessily Kincaid",
+    "Mercury"
   ],
   "alliances": [
     "Hellions",
     "New X-Men",
-    "X-Mansion"
+    "X-Mansion",
+    "Hellions training squad",
+    "Xavier Institute",
+    "X-Men-In-Training",
+    "Jean Grey School Students"
   ],
   "authors": [
     "Nunzio DeFilippis",
@@ -22,7 +27,9 @@
   "powers": [
     "Body is composed of a non-toxic form of mercury",
     "which she can reshape",
-    "stretch at will"
+    "stretch at will",
+    "Body is composed of a non-toxic form of",
+    "mercury"
   ],
   "ranking": {
     "comicCount": 13,
@@ -36,7 +43,6 @@
     "Cessily Kincaid"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1434/mercury",

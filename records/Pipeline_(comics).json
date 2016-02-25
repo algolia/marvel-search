@@ -1,10 +1,12 @@
 {
   "aliases": [
+    "Pipeline"
   ],
   "alliances": [
     "Magistrates",
     "Genoshan Cabinet",
-    "Press Gang"
+    "Press Gang",
+    "Genoshan Magistrates"
   ],
   "authors": [
     "Rick Leonardi",
@@ -18,7 +20,10 @@
   ],
   "powers": [
     "Cybernetic Travel",
-    "also called Cybernetic/Digital Conversion"
+    "also called Cybernetic/Digital Conversion",
+    "also called ''Cybernetic/Digital Conversion'' (ability to transport matter",
+    "organic or inorganic",
+    "through cybernetic media)"
   ],
   "ranking": {
     "comicCount": 0,
@@ -32,7 +37,6 @@
     "Cormick Grimshaw"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Pipeline_(comics)"

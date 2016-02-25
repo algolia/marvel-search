@@ -1,10 +1,13 @@
 {
   "aliases": [
+    "Killer Whale",
+    "Orka"
   ],
   "alliances": [
     "Heroes for Hire",
     "Deep Six",
-    "Roxxon Energy Corporation"
+    "Roxxon Energy Corporation",
+    "Brand Corporation"
   ],
   "authors": [
     "Roy Thomas",
@@ -17,7 +20,8 @@
   "name": "Orka",
   "partners": [
     "Virago",
-    "Krang"
+    "Krang",
+    "Warlord Krang"
   ],
   "powers": [
     "Superhuman strength",
@@ -27,7 +31,10 @@
     "durability",
     "Can communicate with",
     "summon killer whales via high-pitched whistles",
-    "Swim at superhuman speeds"
+    "Swim at superhuman speeds",
+    "Superhuman swimming speed",
+    "Ability to communicate with",
+    "Land adaptation via belt"
   ],
   "ranking": {
     "comicCount": 0,
@@ -41,7 +48,6 @@
     "Orka"
   ],
   "species": [
-    "Homo mermanus"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Orka_(comics)"

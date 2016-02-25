@@ -1,15 +1,18 @@
 {
   "aliases": [
+    "Hrimhari"
   ],
   "alliances": [
     "New Mutants",
     "Asgard",
     "X-Force",
-    "X-Mansion"
+    "X-Mansion",
+    "Xavier Institute"
   ],
   "authors": [
     "Chris Claremont",
-    "Arthur Adams"
+    "Arthur Adams",
+    "Art Adams"
   ],
   "description": "Hrimhari is a fictional character published by Marvel Comics. He was first introduced in the New Mutants Special Edition #1 (December 1985), and was created by Chris Claremont and Art Adams.",
   "isHero": true,
@@ -19,7 +22,10 @@
   ],
   "powers": [
     "Ability to shapeshift between human",
-    "grey wolf with various in between forms"
+    "grey wolf with various in between forms",
+    "Ability to",
+    "shapeshift",
+    "between human"
   ],
   "ranking": {
     "comicCount": 0,
@@ -33,7 +39,6 @@
     "Hrimhari"
   ],
   "species": [
-    "Asgard"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hrimhari"

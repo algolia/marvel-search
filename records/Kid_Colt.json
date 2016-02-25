@@ -1,5 +1,11 @@
 {
   "aliases": [
+    "Mr. Jones",
+    "various other aliases",
+    "Kid Colt I",
+    "Kid Colt II",
+    "Kid Colt Outlaw",
+    "Kid Colt"
   ],
   "alliances": [
     "Young Allies",
@@ -15,7 +21,8 @@
   "isVillain": false,
   "name": "Kid Colt",
   "partners": [
-    "Steel"
+    "Steel",
+    "Steel (horse)"
   ],
   "powers": [
     "Teleportation",

@@ -1,11 +1,16 @@
 {
   "aliases": [
+    "Prodigy",
+    "Prodigy (David Alleyne)"
   ],
   "alliances": [
     "X-Mansion",
     "New Mutants",
     "Young Avengers",
-    "New X-Men"
+    "New X-Men",
+    "New Mutants training squad",
+    "Xavier Institute",
+    "X-Men-In-Training"
   ],
   "authors": [
     "Christina Weir",
@@ -23,7 +28,9 @@
     "High-level intellect",
     "Ability to mimic the knowledge possessed by others",
     "Possesses the combined knowledge of every mind he has encountered up to M-Day",
-    "including the X-Men"
+    "including the X-Men",
+    "Possesses the combined knowledge of every mind he has encountered up to",
+    "M-Day"
   ],
   "ranking": {
     "comicCount": 9,
@@ -37,8 +44,6 @@
     "David Alleyne"
   ],
   "species": [
-    "Mutant",
-    "Decimation"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011030/prodigy",

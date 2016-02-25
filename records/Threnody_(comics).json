@@ -1,12 +1,14 @@
 {
   "aliases": [
+    "Threnody"
   ],
   "alliances": [
     "Marauders"
   ],
   "authors": [
     "Fabian Nicieza",
-    "Richard Bennett Lamas"
+    "Richard Bennett Lamas",
+    "Richard Bennett"
   ],
   "description": "Threnody is a fictional character created by Marvel Comics for the X-Men series. She was originally featured as a sort of \"hound\" for Mister Sinister, but this depth was fully explored in the series X-Man which came much later.",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Xman13.jpg/250px-Xman13.jpg",
@@ -18,7 +20,10 @@
   "powers": [
     "Ability to  sense the dead or dying",
     "absorb the necro-energy",
-    "then use that to release a concussive blast or Zombie creation."
+    "then use that to release a concussive blast or Zombie creation.",
+    "then use that to release a concussive blast or",
+    "Zombie",
+    "creation."
   ],
   "ranking": {
     "comicCount": 0,
@@ -32,7 +37,6 @@
     "Melody Jacobs"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Threnody_(comics)"

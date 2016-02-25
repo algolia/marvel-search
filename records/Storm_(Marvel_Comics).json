@@ -1,6 +1,18 @@
 {
   "aliases": [
-    "Ororo Munroe"
+    "Ororo Munroe",
+    "High Priestess",
+    "Mistress of the Elements",
+    "The Weather Witch",
+    "Mutate #20",
+    "Le Reine Storm",
+    "Princess of N'Dare",
+    "Ororo Iquadi T'Challa",
+    "Goddess",
+    "Ororo Komos Wakandas",
+    "Beautiful Windrider",
+    "Queen of Wakanda",
+    "Storm"
   ],
   "alliances": [
     "X-Treme X-Men",
@@ -11,7 +23,8 @@
     "Lady Liberators",
     "X-Men",
     "X-Treme Sanctions Executive",
-    "Apocalypse: The Twelve"
+    "Apocalypse: The Twelve",
+    "The Twelve"
   ],
   "authors": [
     "Len Wein",
@@ -23,6 +36,7 @@
   "isVillain": false,
   "name": "Storm",
   "partners": [
+    "Black Panther"
   ],
   "powers": [
     "Energy perception",
@@ -35,7 +49,8 @@
     "pilot",
     "Flight",
     "Resistant to telepathy",
-    "Immunity to temperature extremes"
+    "Immunity to temperature extremes",
+    "Weather manipulation"
   ],
   "ranking": {
     "comicCount": 599,
@@ -49,7 +64,6 @@
     "Ororo Munroe"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009629/storm",

@@ -1,5 +1,9 @@
 {
   "aliases": [
+    "Agent R-7",
+    "The Ravager of Worlds",
+    "The Abomination",
+    "Abomination"
   ],
   "alliances": [
     "Masters of Evil",
@@ -17,7 +21,8 @@
   "name": "Abomination (Emil Blonsky)",
   "partners": [
     "Rhino",
-    "Leader"
+    "Leader",
+    "The Leader"
   ],
   "powers": [
     "Ability to enter suspended animation for long time periods",
@@ -27,7 +32,10 @@
     "stamina",
     "durability",
     "Hellfire projection",
-    "Underwater breathing via gills"
+    "Underwater breathing via gills",
+    "Regenerative",
+    "healing factor",
+    "Ability to enter suspended animation for a long period of time"
   ],
   "ranking": {
     "comicCount": 43,
@@ -41,7 +49,6 @@
     "Emil Blonsky"
   ],
   "species": [
-    "Mutate"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/81/abomination",

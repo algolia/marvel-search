@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "Stonewall"
   ],
   "alliances": [
     "Freedom Force"
@@ -18,7 +19,8 @@
     "Enhanced resistance to injury",
     "Skilled hand to hand combatant",
     "Superhuman strength",
-    "endurance"
+    "endurance",
+    "Ability to absorb the properties of elements"
   ],
   "ranking": {
     "comicCount": 0,
@@ -29,10 +31,10 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Louis Hamilton"
+    "Louis Hamilton",
+    "Jerry Sledge"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Stonewall_(comics)"

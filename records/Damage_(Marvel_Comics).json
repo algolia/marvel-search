@@ -1,9 +1,14 @@
 {
   "aliases": [
+    "Damage",
+    "Punisher"
   ],
   "alliances": [
+    "Bunsen Burners"
   ],
   "authors": [
+    "Jim Lee",
+    "Carl Potts"
   ],
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/DamagePunisher.jpg/250px-DamagePunisher.jpg",
   "isHero": false,
@@ -12,6 +17,7 @@
   "partners": [
   ],
   "powers": [
+    "Cyborg enhancements"
   ],
   "ranking": {
     "comicCount": 0,
@@ -22,6 +28,7 @@
     "storyCount": 0
   },
   "secretIdentities": [
+    "Jaime Ortiz"
   ],
   "species": [
   ],

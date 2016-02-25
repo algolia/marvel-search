@@ -1,5 +1,9 @@
 {
   "aliases": [
+    "The Petrified Man",
+    "Lazarus",
+    "Terminus",
+    "Garokk"
   ],
   "alliances": [
   ],
@@ -13,7 +17,8 @@
   "isVillain": false,
   "name": "Garokk",
   "partners": [
-    "Magneto"
+    "Magneto",
+    "Zaladane"
   ],
   "powers": [
     "Immortality",
@@ -35,7 +40,9 @@
   },
   "secretIdentities": [
     "Kirk Marston",
-    "Unknown"
+    "Unknown",
+    "Unknown (first body)",
+    "Kirk Marston (second body)"
   ],
   "species": [
   ],

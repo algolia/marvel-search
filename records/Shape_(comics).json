@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "Shape"
   ],
   "alliances": [
     "Institute of Evil",
@@ -18,7 +19,9 @@
   ],
   "powers": [
     "malleable",
-    "putty-like bodyBlob"
+    "putty-like bodyBlob",
+    "putty-like body",
+    "Blob"
   ],
   "ranking": {
     "comicCount": 5,

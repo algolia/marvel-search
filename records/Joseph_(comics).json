@@ -1,14 +1,23 @@
 {
   "aliases": [
+    "Magneto",
+    "Joseph"
   ],
   "alliances": [
     "Brotherhood of Mutants",
     "Acolytes",
-    "X-Men"
+    "X-Men",
+    "Brotherhood of Evil Mutants"
   ],
   "authors": [
     "Scott Lobdell",
-    "Roger Cruz"
+    "Roger Cruz",
+    "(based upon",
+    "Magneto",
+    "by",
+    "Stan Lee",
+    "Jack Kirby",
+    ")"
   ],
   "description": "Joseph is a Marvel Comics character who was briefly a member of the X-Men. Created by writer Scott Lobdell and artist Roger Cruz, he first appeared in Uncanny X-Men #327 (December 1995).Joseph is a clone of the X-Men’s nemesis Magneto, possessing his magnetic powers, though he was originally intended to be an amnesiac Magneto. He had a brief courtship with Rogue before dying in battle with the actual Magneto. Joseph is later revived by Astra.",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/5260339868b8c/standard_xlarge.jpg",
@@ -33,7 +42,6 @@
     "Joseph"
   ],
   "species": [
-    "Human Mutant, clone"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009380/joseph",

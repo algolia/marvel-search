@@ -1,12 +1,16 @@
 {
   "aliases": [
+    "The Flaming Kid",
+    "Human Torch",
+    "Toro"
   ],
   "alliances": [
     "All-Winners Squad",
     "Legion of the Unliving",
     "Young Allies",
     "Invaders",
-    "Kid Commandos"
+    "Kid Commandos",
+    "The Invaders"
   ],
   "authors": [
     "Carl Burgos"
@@ -17,7 +21,8 @@
   "isVillain": false,
   "name": "Toro (Thomas Raymond)",
   "partners": [
-    "Human Torch (android)"
+    "Human Torch (android)",
+    "Human Torch"
   ],
   "powers": [
     "Fire manipulation",
@@ -36,7 +41,6 @@
     "Thomas Raymond"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2398/toro",

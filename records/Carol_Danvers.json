@@ -1,7 +1,12 @@
 {
   "aliases": [
     "Ms. Marvel",
-    "Captail Marvel"
+    "Captail Marvel",
+    "Binary",
+    "Warbird",
+    "Catherine Donovan",
+    "Captain Marvel",
+    "Carol Danvers"
   ],
   "alliances": [
     "NASA",
@@ -14,7 +19,14 @@
     "Operation: Lightning Storm",
     "The Mighty Avengers",
     "United States Air Force",
-    "Starjammers"
+    "Starjammers",
+    "\"Defenders for a Day\"",
+    "Mighty Avengers",
+    "New Avengers",
+    "Guardians of the Galaxy",
+    "Ultimates",
+    "A-Force",
+    "Alpha Flight Space Program"
   ],
   "authors": [
     "Roy Thomas",
@@ -26,7 +38,8 @@
   "isVillain": false,
   "name": "Carol Danvers",
   "partners": [
-    "Anya Corazon"
+    "Anya Corazon",
+    "Araña"
   ],
   "powers": [
     "Superhuman strength",
@@ -49,8 +62,6 @@
     "Carol Susan Jane Danvers"
   ],
   "species": [
-    "Human ",
-    " Kree hybrid"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2701/carol_danvers",

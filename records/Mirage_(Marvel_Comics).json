@@ -1,12 +1,17 @@
 {
   "aliases": [
+    "Master of Illusion",
+    "Mirage"
   ],
   "alliances": [
-    "Grapplers"
+    "Grapplers",
+    "Plainlist",
+    "Sinister Sixteen"
   ],
   "authors": [
     "Len Wein",
-    "Ross Andru"
+    "Ross Andru",
+    "Plainlist"
   ],
   "description": "Mirage is the name of two Marvel Comics villain. He first appeared in The Amazing Spider-Man #156.",
   "isHero": false,
@@ -20,7 +25,9 @@
     "tranquilizer gun",
     "Genius electrician",
     "physicist",
-    "laser technologist"
+    "laser technologist",
+    "laser technologist; Carries a handgun",
+    "tranquilizer gun; Costume grants three dimensional holographic image projection"
   ],
   "ranking": {
     "comicCount": 0,
@@ -34,7 +41,6 @@
     "Desmond Charne"
   ],
   "species": [
-    "Human"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mirage_(Marvel_Comics)"

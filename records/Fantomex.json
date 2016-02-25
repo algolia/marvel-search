@@ -1,11 +1,15 @@
 {
   "aliases": [
+    "Jean-Phillipe",
+    "Weapon XIII",
+    "Fantomex"
   ],
   "alliances": [
     "Super-Sentinels",
     "Weapon Plus",
     "X-Force",
-    "X-Men"
+    "X-Men",
+    "Weapon Plus Program"
   ],
   "authors": [
     "Igor Kordey",
@@ -26,7 +30,13 @@
     "auto-hypnosis",
     "able to read body language",
     "nano-active blood",
-    "Illusion casting"
+    "Illusion casting",
+    "Illusion casting;",
+    "Possesses multiple brains;",
+    "nano-active blood;",
+    "hand-to-hand combatant;",
+    "able to read body language;",
+    "auto-hypnosis;"
   ],
   "ranking": {
     "comicCount": 20,
@@ -40,8 +50,6 @@
     "Charlie-Cluster 7"
   ],
   "species": [
-    "Human Mutant",
-    "Sentinel hybrid"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/669/fantomex",

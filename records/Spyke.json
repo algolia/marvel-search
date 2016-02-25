@@ -1,10 +1,14 @@
 {
   "aliases": [
+    "Armadillo",
+    "Porcupine",
+    "Spyke"
   ],
   "alliances": [
     "Brotherhood of Mutants",
     "Morlocks",
-    "X-Men"
+    "X-Men",
+    "The Morlocks"
   ],
   "authors": [
     "Robert N. Skir",
@@ -21,7 +25,8 @@
     "Can extend self-repairing exoskeleton",
     "Projectile spikes",
     "Later able to produce flaming spikes",
-    "Regenerative Healing Factor"
+    "Regenerative Healing Factor",
+    "Enhanced strength"
   ],
   "ranking": {
     "comicCount": 0,
@@ -35,7 +40,6 @@
     "Evan Daniels"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2185/spyke",

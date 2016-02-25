@@ -153,18 +153,21 @@ describe('HelperConsolidate', () => {
       expect(actual.image).toEqual('good');
     });
 
-    it('should merge aliases from marvelData and wikidataData', () => {
+    it('should merge aliases from wikidata, dbpedia and infoboxes', () => {
       // Given
       let input = {
-        marvelData: {
+        wikidataData: {
           aliases: [
-            'Foo',
+            'Foo'
+          ]
+        },
+        dbpediaData: {
+          aliases: [
             'Bar'
           ]
         },
-        wikidataData: {
+        infoboxData: {
           aliases: [
-            'Foo',
             'Baz'
           ]
         }
@@ -175,6 +178,92 @@ describe('HelperConsolidate', () => {
 
       // Then
       expect(actual.aliases).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should merge authors from infoboxData and dbpedia', () => {
+      // Given
+      let input = {
+        dbpediaData: {
+          authors: [
+            'Bar'
+          ]
+        },
+        infoboxData: {
+          authors: [
+            'Baz'
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.merge(input);
+
+      // Then
+      expect(actual.authors).toEqual(['Bar', 'Baz']);
+    });
+
+    it('should merge alliances from infoboxData and wikidataData', () => {
+      // Given
+      let input = {
+        dbpediaData: {
+          alliances: [
+            'Bar'
+          ]
+        },
+        infoboxData: {
+          alliances: [
+            'Baz'
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.merge(input);
+
+      // Then
+      expect(actual.alliances).toEqual(['Bar', 'Baz']);
+    });
+
+    it('should remove empty keys', () => {
+      // Given
+      let input = {
+        wikidataData: {},
+        dbpediaData: null,
+        infoboxData: {
+          alliances: [
+            'Foo',
+            'Bar'
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.merge(input);
+
+      // Then
+      expect(actual.alliances).toEqual(['Foo', 'Bar']);
+    });
+
+    it('should remove duplicate value without case sensitivity', () => {
+      // Given
+      let input = {
+        dbpediaData: {
+          powers: [
+            'Teleportation'
+          ]
+        },
+        infoboxData: {
+          powers: [
+            'teleportation'
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.merge(input);
+
+      // Then
+      expect(actual.powers.length).toEqual(1);
     });
   });
 });

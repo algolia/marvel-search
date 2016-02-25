@@ -1,5 +1,7 @@
 {
   "aliases": [
+    "Electro-Man",
+    "Slaymaster"
   ],
   "alliances": [
     "Crazy Gang"
@@ -7,7 +9,9 @@
   "authors": [
     "Larry Lieber",
     "Ron Wilson",
-    "Jim Lawrence"
+    "Jim Lawrence",
+    "Jim Lawrence (writer)",
+    "Ron Wilson (artist)"
   ],
   "description": "Slaymaster is a fictional comic book character from Marvel Comics's Captain Britain series.",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/TheSlaymaster.JPG/215px-TheSlaymaster.JPG",
@@ -18,7 +22,9 @@
   ],
   "powers": [
     "Exceptional martial artist",
-    "tactician"
+    "tactician",
+    "Exceptional",
+    "martial artist"
   ],
   "ranking": {
     "comicCount": 0,
@@ -31,7 +37,6 @@
   "secretIdentities": [
   ],
   "species": [
-    "Human"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Slaymaster"

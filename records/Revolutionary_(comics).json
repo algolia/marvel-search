@@ -1,9 +1,12 @@
 {
   "aliases": [
+    "Revolutionary"
   ],
   "alliances": [
     "Liberty Legion",
-    "Skrull"
+    "Skrull",
+    "Skrull Empire",
+    "Liberteens"
   ],
   "authors": [
     "Dan Slott",
@@ -18,7 +21,8 @@
   "partners": [
   ],
   "powers": [
-    "Shapeshifting"
+    "Shapeshifting",
+    "Shapeshifter"
   ],
   "ranking": {
     "comicCount": 0,
@@ -31,7 +35,6 @@
   "secretIdentities": [
   ],
   "species": [
-    "Skrull"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Revolutionary_(comics)"

@@ -1,12 +1,17 @@
 {
   "aliases": [
-    "Dark Wolverine"
+    "Dark Wolverine",
+    "Daken",
+    "Wolverine",
+    "\"Daken Akihiro\"",
+    "Death"
   ],
   "alliances": [
     "Dark X-Men",
     "Horsemen of Apocalypse",
     "Dark Avengers",
-    "Brotherhood of Mutants"
+    "Brotherhood of Mutants",
+    "Horsemen of Death"
   ],
   "authors": [
     "Daniel Way",
@@ -26,7 +31,10 @@
     "Immune to telepathy.",
     "Excellent martial artist",
     "Retractable claws",
-    "Regenerative healing factor"
+    "Regenerative healing factor",
+    "Superhuman physical attributes",
+    "Accelerated healing factor",
+    "Immunity to telepathy"
   ],
   "ranking": {
     "comicCount": 33,
@@ -40,7 +48,6 @@
     "Akihiro"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011001/daken",

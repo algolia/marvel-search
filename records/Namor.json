@@ -1,12 +1,18 @@
 {
   "aliases": [
     "The Sub-Mariner",
-    "Namor McKenzie"
+    "Namor McKenzie",
+    "Namor the First",
+    "The Avenging Son",
+    "Imperius Rex",
+    "Namor the Sub-Mariner",
+    "Namor"
   ],
   "alliances": [
     "Defenders",
     "Invaders",
-    "Heroes for Hire/Oracle, Inc.",
+    "Heroes for Hire/Oracle",
+    "Inc.",
     "Illuminati",
     "Dark X-Men",
     "X-Men",
@@ -15,7 +21,11 @@
     "All-Winners Squad",
     "Phoenix Force",
     "Cabal",
-    "Avengers"
+    "Avengers",
+    "The Cabal",
+    "Heroes for Hire",
+    "/Oracle, Inc.",
+    "Phoenix Five"
   ],
   "authors": [
     "Bill Everett"
@@ -37,7 +47,9 @@
     "Flight via the tiny wings on his ankles",
     "Telepathic control over sea creatures",
     "Able to copy the powers of sea creatures",
-    "Aquatic adaptation"
+    "Aquatic adaptation",
+    "Flight via tiny wings on his ankles",
+    "Ability to copy the powers of sea creatures"
   ],
   "ranking": {
     "comicCount": 22,
@@ -51,8 +63,6 @@
     "Namor McKenzie"
   ],
   "species": [
-    "Atlantean",
-    "Human Mutant hybrid"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/39/namor",

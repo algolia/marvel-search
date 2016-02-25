@@ -1,8 +1,10 @@
 {
   "aliases": [
+    "Talon"
   ],
   "alliances": [
-    "Guardians of the Galaxy (1969 team)"
+    "Guardians of the Galaxy (1969 team)",
+    "Guardians of the Galaxy"
   ],
   "authors": [
     "Jim Valentino"
@@ -12,7 +14,9 @@
   "isVillain": false,
   "name": "Talon (Fraternity of Raptors)",
   "partners": [
-    "The Sorcerer Supreme"
+    "The Sorcerer Supreme",
+    "The",
+    "Sorcerer Supreme"
   ],
   "powers": [
     "Feline attributes",
@@ -30,8 +34,6 @@
   "secretIdentities": [
   ],
   "species": [
-    "Werecat",
-    "Inhumans"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2289/talon",

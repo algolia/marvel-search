@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "Powerhouse"
   ],
   "alliances": [
     "Champions of Xandar"
@@ -7,7 +8,8 @@
   "authors": [
     "Marv Wolfman",
     "John Buscema",
-    "and Joe Sinnott"
+    "and Joe Sinnott",
+    "Joe Sinnott"
   ],
   "description": "Powerhouse is a name used by several different fictional characters, operating in the Marvel Comics Universe.",
   "isHero": false,
@@ -18,7 +20,9 @@
   ],
   "powers": [
     "siphon the energies of any power-source",
-    "draw energy to grow her powers."
+    "draw energy to grow her powers.",
+    "Superhuman strength",
+    "Ability to siphon the energies of any power-source"
   ],
   "ranking": {
     "comicCount": 0,
@@ -33,8 +37,6 @@
     "Unknown"
   ],
   "species": [
-    "Mutant",
-    "Xandarian"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Powerhouse_(comics)"

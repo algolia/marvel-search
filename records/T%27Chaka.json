@@ -1,5 +1,8 @@
 {
   "aliases": [
+    "Luke Charles",
+    "Black Leopard",
+    "Mr. Okonkwo"
   ],
   "alliances": [
     "Fantastic Four",
@@ -14,7 +17,7 @@
     "Jack Kirby"
   ],
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5261a80a67e7d/standard_xlarge.jpg",
-  "isHero": true,
+  "isHero": false,
   "isVillain": false,
   "name": "Black Panther",
   "partners": [
@@ -26,7 +29,7 @@
     "strategist",
     "politician",
     "inventor",
-    "and scientist",
+    "scientist",
     "Trained acrobat",
     "gymnast",
     "martial artist",
@@ -43,7 +46,7 @@
     "vibranium",
     "uniform",
     "boots",
-    "and equipment"
+    "equipment"
   ],
   "ranking": {
     "comicCount": 337,

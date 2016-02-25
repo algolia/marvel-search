@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "Captain America"
   ],
   "alliances": [
     "Crusaders",
@@ -10,10 +11,10 @@
     "Roy Thomas",
     "Frank Robbins"
   ],
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/53176a1e7c0d5/standard_xlarge.jpg",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Spiritof76-comics.jpg",
   "isHero": false,
   "isVillain": false,
-  "name": "Captain America (House of M)",
+  "name": "Spirit of '76",
   "partners": [
   ],
   "powers": [
@@ -24,12 +25,12 @@
     "Carries a steel shield"
   ],
   "ranking": {
-    "comicCount": 3,
-    "eventCount": 1,
+    "comicCount": 0,
+    "eventCount": 0,
     "pageviewCount": 1416,
     "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 2
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "William Naslund"
@@ -37,7 +38,6 @@
   "species": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/8/captain_america",
     "wikipedia": "https://en.wikipedia.org/wiki/Spirit_of_%2776_(Marvel_Comics)"
   }
 }

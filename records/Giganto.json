@@ -1,9 +1,21 @@
 {
   "aliases": [
+    "Moby Dick",
+    "\"Monstro\"",
+    "Giganto"
   ],
   "alliances": [
-    "Namor, Captain Barracuda, Llyra, Llyron, Triton, Droom, Eerok, Grogg,",
-    "Inorganic Technodrones, Kro, Mole Man"
+    "Namor",
+    "Captain Barracuda",
+    "Llyra",
+    "Llyron",
+    "Triton",
+    "Droom",
+    "Eerok",
+    "Grogg,",
+    "Inorganic Technodrones",
+    "Kro",
+    "Mole Man"
   ],
   "authors": [
     "Stan Lee",
@@ -15,13 +27,19 @@
   "isVillain": false,
   "name": "Giganto",
   "partners": [
+    "Inorganic Technodrones",
+    "Kro",
+    "Mole Man"
   ],
   "powers": [
     "Super-Strength",
     "Damage-Resistant",
     "Shoots Water from its blowhole",
     "Endurance",
-    "Digging"
+    "Digging",
+    "Superhuman strength",
+    "Ability to dig underground",
+    "hold his breath underwater"
   ],
   "ranking": {
     "comicCount": 0,
@@ -34,8 +52,6 @@
   "secretIdentities": [
   ],
   "species": [
-    "Terrestrial Animal",
-    "Humanity Subspecies"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Giganto"

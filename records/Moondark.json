@@ -1,5 +1,8 @@
 {
   "aliases": [
+    "Gina Langtree",
+    "Moondark the Magician",
+    "Moondark"
   ],
   "alliances": [
     "Dark Beings/Gods",
@@ -8,7 +11,8 @@
   "authors": [
     "Gerry Conway",
     "Len Wein",
-    "and Ross Andru"
+    "and Ross Andru",
+    "Ross Andru"
   ],
   "description": "Moondark is a fictional character in the Marvel Universe.",
   "isHero": false,
@@ -20,7 +24,10 @@
     "Magic (paranormal)",
     "Wikt:Mesmerize",
     "Teleportation",
-    "Hypnosis"
+    "Hypnosis",
+    "magic",
+    "teleport",
+    "mesmerize"
   ],
   "ranking": {
     "comicCount": 0,
@@ -34,7 +41,6 @@
     "Unrevealed"
   ],
   "species": [
-    "Human"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Moondark"

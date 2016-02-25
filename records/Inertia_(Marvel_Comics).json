@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "Inertia"
   ],
   "alliances": [
     "Squadron Supreme",
@@ -20,7 +21,10 @@
   "partners": [
   ],
   "powers": [
-    "transfer kinetic energy into object or person"
+    "transfer kinetic energy into object or person",
+    "transfer",
+    "kinetic energy",
+    "into object or person"
   ],
   "ranking": {
     "comicCount": 4,
@@ -31,7 +35,8 @@
     "storyCount": 3
   },
   "secretIdentities": [
-    "Edith Eddy Freiberg"
+    "Edith Eddy Freiberg",
+    "Edith ''Eddy'' Freiberg"
   ],
   "species": [
   ],

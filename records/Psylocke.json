@@ -1,7 +1,11 @@
 {
   "aliases": [
     "Betsy Braddock",
-    "Elizabeth Braddock"
+    "Elizabeth Braddock",
+    "Captain Britain",
+    "Lady Briton",
+    "Lady Mandarin",
+    "Psylocke"
   ],
   "alliances": [
     "Captain Britain Corps",
@@ -15,7 +19,10 @@
     "Hellfire Club",
     "X-Men",
     "S.T.R.I.K.E.",
-    "The Hand"
+    "The Hand",
+    "R.C.X.",
+    "Sisterhood of Mutants",
+    "X-Club"
   ],
   "authors": [
     "Herb Trimpe",
@@ -36,7 +43,10 @@
     "Telepathy",
     "Highly skilled martial artist",
     "Empathy",
-    "Psychokinesis"
+    "Psychokinesis",
+    "Telekinesis",
+    "knife",
+    "Martial arts"
   ],
   "ranking": {
     "comicCount": 257,
@@ -50,7 +60,6 @@
     "Elizabeth \"Betsy\" Braddock"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/42/psylocke",

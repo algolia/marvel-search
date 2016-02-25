@@ -1,9 +1,12 @@
 {
   "aliases": [
+    "Gorgon",
+    "Gorgon (Inhuman)"
   ],
   "alliances": [
     "Fantastic Four",
-    "Inhumans"
+    "Inhumans",
+    "Inhuman Royal Family"
   ],
   "authors": [
     "Jack Kirby",
@@ -19,7 +22,11 @@
   "powers": [
     "Ability to generate seismic shockwaves",
     "Superhuman strength",
-    "resilience"
+    "resilience",
+    "Enhanced strength",
+    "durability",
+    "Ability to generate seismic shockwaves via bull-like legs",
+    "hooves"
   ],
   "ranking": {
     "comicCount": 47,
@@ -32,7 +39,6 @@
   "secretIdentities": [
   ],
   "species": [
-    "Inhumans"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/837/gorgon",

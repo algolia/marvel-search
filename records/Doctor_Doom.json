@@ -1,13 +1,16 @@
 {
   "aliases": [
     "Victor von Doom",
-    "Dr. Doom"
+    "Dr. Doom",
+    "Doctor Doom"
   ],
   "alliances": [
     "Intelligencia",
     "Cabal",
     "Future Foundation",
-    "Terrible Trio"
+    "Terrible Trio",
+    "The Cabal",
+    "Astonishing Avengers"
   ],
   "authors": [
     "Stan Lee",
@@ -32,7 +35,14 @@
     "sorcerer",
     "Mind transferral",
     "Technopathy",
-    "Electricity manipulation"
+    "Electricity manipulation",
+    "Master scientist",
+    "Skilled hand to hand combatant",
+    "Mind transferal",
+    "Armor",
+    "Gauntlet scanners",
+    "Force blasts",
+    "Rocket boots for flight"
   ],
   "ranking": {
     "comicCount": 184,
@@ -43,10 +53,10 @@
     "storyCount": 185
   },
   "secretIdentities": [
-    "Victor von Doom"
+    "Victor von Doom",
+    "Dr. Victor Von Doom"
   ],
   "species": [
-    "Human"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/13/dr_doom",

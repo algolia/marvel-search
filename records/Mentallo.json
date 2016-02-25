@@ -1,12 +1,15 @@
 {
   "aliases": [
+    "Think Tank",
+    "Mentallo"
   ],
   "alliances": [
     "Resistants",
     "Advanced Idea Mechanics",
     "Hydra",
     "S.H.I.E.L.D.",
-    "New Enforcers"
+    "New Enforcers",
+    "A.I.M."
   ],
   "authors": [
     "Stan Lee",
@@ -22,7 +25,10 @@
   ],
   "powers": [
     "Telepathy",
-    "mental probes that function as a radar-sense."
+    "mental probes that function as a radar-sense.",
+    "mental probes that function as a",
+    "radar",
+    "-sense."
   ],
   "ranking": {
     "comicCount": 1,
@@ -36,7 +42,6 @@
     "Marvin Flumm"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1424/mentallo",

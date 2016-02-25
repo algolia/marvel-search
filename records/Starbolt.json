@@ -1,5 +1,7 @@
 {
   "aliases": [
+    "Bolt",
+    "Starbolt"
   ],
   "alliances": [
     "Imperial Guard"
@@ -18,7 +20,8 @@
   "powers": [
     "Generates high heated plasma",
     "Supersonic flight",
-    "Fire immunity"
+    "Fire immunity",
+    "Supersonic flight Cosmic pyrokinesis"
   ],
   "ranking": {
     "comicCount": 8,
@@ -31,7 +34,6 @@
   "secretIdentities": [
   ],
   "species": [
-    "Unknown"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2201/starbolt",

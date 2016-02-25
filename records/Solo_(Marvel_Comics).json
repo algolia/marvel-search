@@ -1,9 +1,12 @@
 {
   "aliases": [
+    "Solo"
   ],
   "alliances": [
     "Six Pack",
-    "Omega Strike"
+    "Omega Strike",
+    "Heroes for Hire",
+    "Mercs for Money"
   ],
   "authors": [
     "Marc Silvestri",
@@ -18,7 +21,14 @@
   ],
   "powers": [
     "Teleportation",
-    "Expert marksmanship"
+    "Expert marksmanship",
+    "Master hand to hand combatant",
+    "Expert marksman",
+    "Gifted intellect",
+    "Limited teleportation",
+    "Wears a bullet-proof quilted Kevlar armor",
+    "Use of conventional weapons",
+    "firearms"
   ],
   "ranking": {
     "comicCount": 2,

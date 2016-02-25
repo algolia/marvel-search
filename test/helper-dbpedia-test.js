@@ -465,6 +465,21 @@ describe('HelperDBPedia', () => {
       // Then
       expect(actual).toEqual(['John Romita, Jr.']);
     });
+
+    it('should remove (writer) from names', () => {
+      // Given
+      let input = {
+        property: {
+          creators: 'John Francis Moore (writer)'
+        }
+      };
+
+      // When
+      let actual = Helper.getAuthors(input);
+
+      // Then
+      expect(actual).toEqual(['John Francis Moore']);
+    });
   });
 
   describe('getPowers', () => {
@@ -800,6 +815,21 @@ describe('HelperDBPedia', () => {
       let input = {
         property: {
           alliances: 'New X-Men\nX-Men'
+        }
+      };
+
+      // When
+      let actual = Helper.getAlliances(input);
+
+      // Then
+      expect(actual).toEqual(['New X-Men', 'X-Men']);
+    });
+
+    it('should split on commas', () => {
+      // Given
+      let input = {
+        property: {
+          alliances: 'New X-Men, X-Men'
         }
       };
 

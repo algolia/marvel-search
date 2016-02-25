@@ -1,16 +1,24 @@
 {
   "aliases": [
+    "The Void",
+    "Death",
+    "The Sentry",
+    "Sentry",
+    "Sentry (Robert Reynolds)"
   ],
   "alliances": [
     "Dark Avengers",
     "Horsemen of Apocalypse",
     "The New Avengers",
-    "The Mighty Avengers"
+    "The Mighty Avengers",
+    "New Avengers",
+    "Mighty Avengers",
+    "Horsemen of Death"
   ],
   "authors": [
     "Jae Lee",
     "Rick Veitch",
-    "Paul Jenkins (writer)"
+    "Paul Jenkins"
   ],
   "description": "Empowered by the enigmatic Professor's secret formula, high school student Robert Reynolds became a superhuman.",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/52695b1392c78/standard_xlarge.jpg",
@@ -34,7 +42,9 @@
     "Durability",
     "Mental projection",
     "manipulation",
-    "Energy projection"
+    "Energy projection",
+    "Enhanced senses",
+    "Molecular Manipulation"
   ],
   "ranking": {
     "comicCount": 60,
@@ -48,7 +58,6 @@
     "Robert Reynolds"
   ],
   "species": [
-    "Human Mutate"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2048/sentry",

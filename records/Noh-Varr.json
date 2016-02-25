@@ -1,6 +1,9 @@
 {
   "aliases": [
-    "Marvel Boy"
+    "Marvel Boy",
+    "Captain Marvel",
+    "Protector",
+    "Noh-Varr"
   ],
   "alliances": [
     "Dark Avengers",
@@ -8,7 +11,11 @@
     "Supreme Intelligence",
     "Kree Empire",
     "Avengers",
-    "18"
+    "18",
+    "Plex",
+    "Kree",
+    "Empire",
+    "18th Kree Diplomatic Gestalt"
   ],
   "authors": [
     "J. G. Jones",
@@ -27,7 +34,8 @@
     "speed",
     "stamina",
     "knowledge of advanced Kree technology",
-    "weaponry"
+    "weaponry",
+    "stamina; knowledge of advanced Kree technology"
   ],
   "ranking": {
     "comicCount": 38,
@@ -41,7 +49,6 @@
     "Noh-Varr"
   ],
   "species": [
-    "Kree"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1377/marvel_boy",

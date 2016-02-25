@@ -1,5 +1,8 @@
 {
   "aliases": [
+    "X-51",
+    "Mister Machine",
+    "Machine Man"
   ],
   "alliances": [
     "Civil War",
@@ -8,7 +11,10 @@
     "Operation: Lightning Storm",
     "Avengers",
     "West Coast Avengers",
-    "Nextwave"
+    "Nextwave",
+    "Secret Avengers (Civil War)",
+    "Heavy Metal",
+    "A.R.M.O.R."
   ],
   "authors": [
     "Jack Kirby"
@@ -30,7 +36,10 @@
     "stamina",
     "durability",
     "reflexes",
-    "accuracy"
+    "accuracy",
+    "Flight by usage of",
+    "anti-gravity",
+    "disks"
   ],
   "ranking": {
     "comicCount": 35,

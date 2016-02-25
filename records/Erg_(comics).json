@@ -1,10 +1,12 @@
 {
   "aliases": [
+    "Erg"
   ],
   "alliances": [
     "X-Men: The 198",
     "Drain Dwellers",
-    "Morlocks"
+    "Morlocks",
+    "The 198"
   ],
   "authors": [
     "Louise Simonson",
@@ -19,7 +21,8 @@
   ],
   "powers": [
     "Absorb nearby energy",
-    "release it as electricity from right eye"
+    "release it as electricity from right eye",
+    "Absorb nearby energy (including kinetic impacts)"
   ],
   "ranking": {
     "comicCount": 0,
@@ -32,7 +35,6 @@
   "secretIdentities": [
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Erg_(comics)"

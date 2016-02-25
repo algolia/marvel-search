@@ -1,8 +1,12 @@
 {
   "aliases": [
+    "Carnage"
   ],
   "alliances": [
-    "Canrage Family/Maximum Carnage"
+    "Canrage Family/Maximum Carnage",
+    "Carnage Family/",
+    "Maximum Carnage",
+    "Astonishing Avengers"
   ],
   "authors": [
     "Erik Larsen",
@@ -21,7 +25,8 @@
     "Shriek"
   ],
   "powers": [
-    "Symbiote"
+    "Symbiote",
+    "Alien symbiote"
   ],
   "ranking": {
     "comicCount": 22,
@@ -33,10 +38,10 @@
   },
   "secretIdentities": [
     "Cletus Kasady",
-    "Symbiote"
+    "Symbiote",
+    "Tanis Nieves"
   ],
   "species": [
-    "Symbiote"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009227/carnage",

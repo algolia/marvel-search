@@ -1,12 +1,15 @@
 {
   "aliases": [
-    "Greg Willis"
+    "Greg Willis",
+    "Gravity"
   ],
   "alliances": [
     "Heavy Hitters",
     "Fifty State Initiative",
     "Young Allies",
-    "Great Lakes Avengers"
+    "Great Lakes Avengers",
+    "Young Avengers",
+    "New Warriors"
   ],
   "authors": [
     "Mike Norton",
@@ -20,6 +23,7 @@
   "partners": [
   ],
   "powers": [
+    "Gravity manipulation"
   ],
   "ranking": {
     "comicCount": 23,
@@ -30,10 +34,10 @@
     "storyCount": 24
   },
   "secretIdentities": [
-    "Greg Willis"
+    "Greg Willis",
+    "Gregory Willis"
   ],
   "species": [
-    "Mutate"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/848/gravity",

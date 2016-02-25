@@ -1,10 +1,21 @@
 {
   "aliases": [
+    "Count Dracula",
+    "Justin Drake",
+    "Dr. Vlad",
+    "Vlad III the Impaler",
+    "Dagon",
+    "Count Orlok",
+    "Alucard",
+    "Dondora",
+    "Frank Drake",
+    "Dracula"
   ],
   "alliances": [
     "Legion of the Unliving",
     "Vampire",
-    "Defenders"
+    "Defenders",
+    "Vampires"
   ],
   "authors": [
     "Gerry Conway",
@@ -31,7 +42,11 @@
     "Skilled swordsman",
     "hand-to-hand combatant",
     "Shapeshifting",
-    "Ability to defy gravity"
+    "Ability to defy gravity",
+    "Genius-level intellect",
+    "Weather control",
+    "Levitation",
+    "Hypnosis"
   ],
   "ranking": {
     "comicCount": 37,
@@ -42,10 +57,10 @@
     "storyCount": 57
   },
   "secretIdentities": [
-    "Vlad Tepes Dracula/Drake"
+    "Vlad Tepes Dracula/Drake",
+    "Vlad Țepeș Dracula"
   ],
   "species": [
-    "Vampire"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/576/dracula",

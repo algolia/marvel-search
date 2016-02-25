@@ -1,12 +1,16 @@
 {
   "aliases": [
+    "Squid"
   ],
   "alliances": [
-    "Masters of Evil"
+    "Masters of Evil",
+    "Sinister Sixteen",
+    "Sinister Six"
   ],
   "authors": [
     "Howard Mackie",
-    "John Romita, Jr."
+    "John Romita, Jr.",
+    "John Romita Jr."
   ],
   "description": "Squid is the name of four Marvel Comics villains.",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Squid-comics.jpg/249px-Squid-comics.jpg",
@@ -16,7 +20,10 @@
   "partners": [
   ],
   "powers": [
-    "Can turn into a mouthless squid-like form."
+    "Can turn into a mouthless squid-like form.",
+    "Ability to turn into a mouthless squid-like creature with extendable tentacles",
+    "emit a foul-smelling ink from his hands",
+    "body"
   ],
   "ranking": {
     "comicCount": 0,
@@ -30,7 +37,6 @@
     "Don Callahan"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Squid_(Marvel_Comics)"

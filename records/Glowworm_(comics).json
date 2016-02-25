@@ -1,5 +1,8 @@
 {
   "aliases": [
+    "Race Killer",
+    "White Devil",
+    "Glowworm"
   ],
   "alliances": [
     "Morlocks"
@@ -9,7 +12,9 @@
     "Jerry Acerno",
     "Louise Simonson",
     "M. D. Bright",
-    "Christopher Priest"
+    "Christopher Priest",
+    "Jim Owsley",
+    "Mark Bright"
   ],
   "description": "Glowworm is the name of two unrelated fictional characters from Marvel Comics. Though created only a few months apart, they have little in common except the name.",
   "isHero": false,
@@ -36,8 +41,6 @@
     "William Blake"
   ],
   "species": [
-    "Mutant",
-    "Human mutate"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Glowworm_(comics)"

@@ -1,14 +1,19 @@
 {
   "aliases": [
     "Jonathan Lowell Spencer",
-    "Johnny Storm"
+    "Johnny Storm",
+    "The Torch",
+    "Invisible Man",
+    "Human Torch"
   ],
   "alliances": [
     "Fantastic Force",
     "Fantastic Four",
     "Galactus",
     "Future Foundation",
-    "Fantastic Four Incorporated"
+    "Fantastic Four Incorporated",
+    "Herald of Galactus",
+    "Avengers Unity Division"
   ],
   "authors": [
     "Stan Lee",
@@ -28,7 +33,9 @@
     "Ability to absorb heat energy",
     "Skilled race-car driver",
     "auto-mechanic",
-    "designer"
+    "designer",
+    "Heat energy absorption",
+    "Resistance to extreme heat"
   ],
   "ranking": {
     "comicCount": 783,
@@ -42,7 +49,6 @@
     "Jonathan Lowell Spencer \"Johnny\" Storm"
   ],
   "species": [
-    "Mutate"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/26/human_torch",

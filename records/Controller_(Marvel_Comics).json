@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "Controller"
   ],
   "alliances": [
     "New Enforcers"
@@ -26,7 +27,8 @@
     "telepathy",
     "Ability to drain mental energy from controlled pawns to power & enhance exoskeleton",
     "Superhuman strength",
-    "endurance"
+    "endurance",
+    "duplicate their abilities"
   ],
   "ranking": {
     "comicCount": 7,

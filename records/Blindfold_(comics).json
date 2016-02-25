@@ -1,9 +1,13 @@
 {
   "aliases": [
+    "Blindfold"
   ],
   "alliances": [
     "X-Mansion",
-    "Young X-Men"
+    "Young X-Men",
+    "Xavier Institute",
+    "X-Men-In-Training",
+    "Jean Grey School Students"
   ],
   "authors": [
     "Joss Whedon",
@@ -20,7 +24,12 @@
     "Telepathy",
     "retrocognition",
     "clairvoyance",
-    "precognition"
+    "precognition",
+    "Reality Anchoring",
+    "Atral Projection  Powers Lost/Regained",
+    "Telekinesis",
+    "Chaos Manipulation",
+    "Accelerated Probability"
   ],
   "ranking": {
     "comicCount": 0,
@@ -34,7 +43,6 @@
     "Ruth Aldine"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/300/blindfold",

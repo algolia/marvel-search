@@ -1,9 +1,27 @@
 {
   "aliases": [
+    "Nathan Winters",
+    "Nathan Dayspring",
+    "Askani'son",
+    "Soldier X",
+    "Chosen One",
+    "Traveler",
+    "Cable"
   ],
   "alliances": [
+    "X-Men",
+    "X-Force",
+    "Askani",
+    "Six Pack",
+    "The Twelve",
+    "New Mutants",
+    "Avengers Unity Division",
+    "The Underground"
   ],
   "authors": [
+    "Chris Claremont",
+    "Louise Simonson",
+    "Rob Liefeld"
   ],
   "description": "Cable (Nathan Summers) is a fictional character, a superhero appearing in comic books published by Marvel Comics. The character first appeared as Nathan Summers in Uncanny X-Men #201 (Jan. 1986). Cable's identity was created by writer Louise Simonson and artist/co-writer Rob Liefeld and first appeared in The New Mutants #87 (March 1990). He is the son of Cyclops (Scott Summers) and Madelyne Pryor (Jean Grey's clone) and the \"half\" brother of Rachel Summers.  Cable was born in the present Marvel timeline but was sent into a distant future.",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/526165df2b584/standard_xlarge.jpg",
@@ -11,8 +29,17 @@
   "isVillain": false,
   "name": "Cable",
   "partners": [
+    "Domino",
+    "Rachel Summers",
+    "Deadpool",
+    "Hope Summers"
   ],
   "powers": [
+    "Telepathy",
+    "Telekinesis",
+    "Technopathy",
+    "Expert",
+    "marksman"
   ],
   "ranking": {
     "comicCount": 285,
@@ -26,7 +53,6 @@
     "Nathan Christopher Charles Summers"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/7/cable",

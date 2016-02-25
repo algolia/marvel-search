@@ -1,7 +1,10 @@
 {
   "aliases": [
+    "Savage Steel"
   ],
   "alliances": [
+    "the Cabal",
+    "Darkhawk",
     "the Cabal, Darkhawk"
   ],
   "authors": [
@@ -19,7 +22,8 @@
     "Superhuman strength",
     "enhanced durability",
     "flight",
-    "energy manipulation ."
+    "energy manipulation .",
+    "energy manipulation (all derived from powered battle armor)."
   ],
   "ranking": {
     "comicCount": 0,
@@ -33,10 +37,13 @@
     "Unknown",
     "Arthur Vale",
     "James \"Jimmy\" Zafar",
-    "Harry Lennox"
+    "Harry Lennox",
+    "(I) Harry Lennox",
+    "(II) Arthur Vale",
+    "(III) James \"Jimmy\" Zafar",
+    "(IV) Unknown"
   ],
   "species": [
-    "Human Technology User"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Savage_Steel"

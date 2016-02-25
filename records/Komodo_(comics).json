@@ -1,9 +1,14 @@
 {
   "aliases": [
+    "Komodo"
   ],
   "alliances": [
     "Avengers: The Initiative",
-    "The InitiativeDesert Stars"
+    "The InitiativeDesert Stars",
+    "Shadow Initiative",
+    "The Initiative",
+    "<BR/>",
+    "Desert Stars"
   ],
   "authors": [
     "Stefano Caselli",
@@ -27,7 +32,9 @@
     "Regenerative healing factor",
     "Hardened scales",
     "Genius chemist",
-    "genetics"
+    "genetics",
+    "Regenerative",
+    "healing factor"
   ],
   "ranking": {
     "comicCount": 12,
@@ -41,7 +48,6 @@
     "Melati Kusuma"
   ],
   "species": [
-    "Mutate"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1162/komodo",

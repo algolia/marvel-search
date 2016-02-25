@@ -1,7 +1,14 @@
 {
   "aliases": [
     "Amora",
-    "Amora the Enchantress"
+    "Amora the Enchantress",
+    "Christine Collins",
+    "Helen Eve",
+    "Amora Incantare",
+    "Amora Lorelei",
+    "Leena Moran",
+    "Valkyrie",
+    "Enchantress"
   ],
   "alliances": [
     "Lady Liberators",
@@ -9,7 +16,10 @@
     "Brotherhood of Mutants",
     "Young Masters",
     "Asgard",
-    "Masters of Evil"
+    "Masters of Evil",
+    "Sisterhood of Mutants",
+    "Astonishing Avengers",
+    "Illuminati"
   ],
   "authors": [
     "Mark Brooks",
@@ -28,7 +38,8 @@
     "Wonder Man",
     "Erik Josten",
     "Doctor Doom",
-    "Executioner"
+    "Executioner",
+    "Power Man"
   ],
   "powers": [
     "Mind control",
@@ -42,7 +53,6 @@
     "Time manipulation",
     "Extensive magical abilities",
     "including transmogrification",
-    "teleportation",
     "mind control.",
     "Possesses superhuman strength",
     "longevity",
@@ -51,7 +61,12 @@
     "durability",
     "agility",
     "reflexes",
-    "healing factor."
+    "healing factor.",
+    "Possesses superhuman",
+    "strength",
+    "reflexes and",
+    "healing factor",
+    "."
   ],
   "ranking": {
     "comicCount": 5,
@@ -66,7 +81,6 @@
     "Amora"
   ],
   "species": [
-    "Asgard"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/616/enchantress",

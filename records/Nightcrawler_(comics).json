@@ -1,13 +1,16 @@
 {
   "aliases": [
-    "Kurt Wagner"
+    "Kurt Wagner",
+    "Nightcrawler"
   ],
   "alliances": [
     "Excalibur",
     "X-Men",
     "X-Treme Sanctions Executive",
     "Roman Catholic Archdiocese of New York",
-    "Holy See"
+    "Holy See",
+    "Vatican",
+    "Archdiocese of New York"
   ],
   "authors": [
     "Len Wein",
@@ -29,7 +32,16 @@
     "hand to hand combatant",
     "fencer",
     "Ability to stick to walls",
-    "Teleportation"
+    "Teleportation",
+    "Superb fencer",
+    "dexterity",
+    "coordination",
+    "reflexes",
+    "balance",
+    "Enhanced flexibility",
+    "speed",
+    "night vision",
+    "blend into shadows"
   ],
   "ranking": {
     "comicCount": 440,
@@ -43,7 +55,6 @@
     "Kurt Wagner"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1602/nightcrawler",

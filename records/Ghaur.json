@@ -1,10 +1,13 @@
 {
   "aliases": [
+    "Lord Ghaur",
+    "Ghaur"
   ],
   "alliances": [
     "Deviant",
     "Kro",
-    "Father Set"
+    "Father Set",
+    "Deviants"
   ],
   "authors": [
     "Sal Buscema",
@@ -16,10 +19,15 @@
   "isVillain": false,
   "name": "Ghaur",
   "partners": [
+    "Llyra",
+    "Kro",
+    "Set"
   ],
   "powers": [
     "Mind control of other deviants",
-    "Shapeshifting"
+    "Shapeshifting",
+    "Mind control",
+    "of other deviants"
   ],
   "ranking": {
     "comicCount": 0,

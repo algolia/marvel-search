@@ -1,9 +1,14 @@
 {
   "aliases": [
+    "Match"
   ],
   "alliances": [
     "X-Mansion",
-    "Paragons"
+    "Paragons",
+    "Paragons training squad",
+    "Xavier Institute",
+    "X-Men-In-Training",
+    "Jean Grey School Students"
   ],
   "authors": [
     "Nunzio DeFilippis",
@@ -18,7 +23,10 @@
   ],
   "powers": [
     "Immunity to extreme heat",
-    "Pyric Form"
+    "Pyric Form",
+    "Pyric Form (Body constantly glowing",
+    "head constantly aflame)",
+    "Fire manipulation"
   ],
   "ranking": {
     "comicCount": 0,
@@ -32,7 +40,6 @@
     "Benjamin \"Ben\" Hamill"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Match_(Marvel_Comics)"

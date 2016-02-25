@@ -4,9 +4,24 @@
     "Giant-Man",
     "Goliath",
     "Yellowjacket",
-    "Wasp"
+    "Wasp",
+    "Scientist Supreme",
+    "Hank Pym",
+    "Pym",
+    "Henry",
+    "Dr Henry Pym",
+    "Ultron"
   ],
   "alliances": [
+    "Avengers",
+    "West Coast Avengers",
+    "Mighty Avengers",
+    "Secret Defenders",
+    "Defenders",
+    "Avengers Academy",
+    "Secret Avengers",
+    "Avengers A.I.",
+    "Illuminati"
   ],
   "authors": [
     "Stan Lee",
@@ -19,7 +34,8 @@
   "isVillain": false,
   "name": "Hank Pym",
   "partners": [
-    "Wasp"
+    "Wasp",
+    "Wasp (Janet van Dyne)"
   ],
   "powers": [
     "Genius-level intellect",
@@ -48,7 +64,6 @@
     "Henry Jonathan \"Hank\" Pym"
   ],
   "species": [
-    "Human Mutate"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/21/hank_pym",

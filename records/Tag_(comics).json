@@ -1,9 +1,12 @@
 {
   "aliases": [
+    "Tag"
   ],
   "alliances": [
     "Hellions",
-    "X-Mansion"
+    "X-Mansion",
+    "Hellions training squad",
+    "Xavier Institute"
   ],
   "authors": [
     "Carlo Barberi",
@@ -33,8 +36,6 @@
     "Brian Cruz"
   ],
   "species": [
-    "Decimation",
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2285/tag",

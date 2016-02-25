@@ -1,12 +1,23 @@
 {
   "aliases": [
+    "Daywalker",
+    "Frank Blade",
+    "SwitchBlade",
+    "Spider Hero",
+    "Ronin",
+    "Blade",
+    "Blade: Vampire Hunter",
+    "Blade: The Vampire Hunter"
   ],
   "alliances": [
     "Midnight Sons",
     "The Mighty Avengers",
     "Avengers of the Supernatural",
     "Nightstalkers",
-    "MI-13"
+    "MI-13",
+    "MI: 13",
+    "Vanguard",
+    "Mighty Avengers"
   ],
   "authors": [
     "Marv Wolfman",
@@ -30,7 +41,17 @@
     "Ability to sense supernatural creatures",
     "Skilled martial artist",
     "swordsman",
-    "marksman"
+    "marksman",
+    "Master martial artist",
+    "Skilled swordsman",
+    "street fighter",
+    "Highly knowledgeable about vampire lore",
+    "Enhanced senses",
+    "Accelerated healing factor",
+    "Immunity to the bites of vampires",
+    "vampire hypnosis",
+    "Slowed aging",
+    "Use of throwing knives"
   ],
   "ranking": {
     "comicCount": 36,
@@ -44,7 +65,6 @@
     "Eric Brooks"
   ],
   "species": [
-    "Dhampir"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/295/blade",

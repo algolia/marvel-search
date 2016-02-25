@@ -1,9 +1,11 @@
 {
   "aliases": [
+    "Post"
   ],
   "alliances": [
     "Brotherhood of Mutants",
-    "Dark Descendants"
+    "Dark Descendants",
+    "Brotherhood of Evil Mutants"
   ],
   "authors": [
     "Andy Kubert",
@@ -21,7 +23,10 @@
     "genius",
     "teleporter",
     "able to manipulate energy",
-    "a variety of other powers"
+    "a variety of other powers",
+    "durability;",
+    ";",
+    "; able to manipulate energy"
   ],
   "ranking": {
     "comicCount": 12,
@@ -35,7 +40,6 @@
     "Kevin Tremain"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1778/post",

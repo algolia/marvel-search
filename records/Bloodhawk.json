@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "Bloodhawk"
   ],
   "alliances": [
     "X-Men 2099",
@@ -7,7 +8,7 @@
   ],
   "authors": [
     "Ron Lim",
-    "John Francis Moore (writer)"
+    "John Francis Moore"
   ],
   "description": "Bloodhawk (Lemuel) is a fictional character owned by Marvel Comics, who was featured in X-Men 2099, one of the tites of Marvel's Marvel 2099 imprint. He sees himself as the lone protector of the desert he resides in, attacking all those he perceives as threats.",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Wot6.jpg/250px-Wot6.jpg",
@@ -23,7 +24,10 @@
     "Flight",
     "Radiation immunity",
     "Razor-sharp claws",
-    "teeth"
+    "teeth",
+    "Transmorph into",
+    "hawk",
+    "-like form"
   ],
   "ranking": {
     "comicCount": 0,
@@ -37,7 +41,6 @@
     "Lemuel"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Bloodhawk"

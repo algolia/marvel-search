@@ -1,8 +1,11 @@
 {
   "aliases": [
+    "Blackwulf"
   ],
   "alliances": [
-    "Underground Legion, Avengers, Code: Blue"
+    "Underground Legion",
+    "Avengers",
+    "Code: Blue"
   ],
   "authors": [
     "Angel Medina",
@@ -14,7 +17,10 @@
   "isVillain": false,
   "name": "Blackwulf",
   "partners": [
-    "Sparrow, Mammoth, Giant-Man"
+    "Sparrow, Mammoth, Giant-Man",
+    "Sparrow",
+    "Mammoth",
+    "Giant-Man"
   ],
   "powers": [
     "Enhanced strength",
@@ -30,10 +36,11 @@
   },
   "secretIdentities": [
     "Blackwulf I ",
-    "Blackwulf II"
+    "Blackwulf II",
+    "Blackwulf I (Pelops)",
+    "Blackwulf II (Lucian)"
   ],
   "species": [
-    "Deviant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Blackwulf"

@@ -1,5 +1,8 @@
 {
   "aliases": [
+    "Crazy Max",
+    "Agent R-1",
+    "Grizzly"
   ],
   "alliances": [
     "Thunderbolts",
@@ -39,7 +42,9 @@
     "speed",
     "stamina",
     "senses",
-    "size"
+    "size",
+    "Wears a steel-lined grizzly bear costume",
+    "Ability to manipulate rifles with his paws"
   ],
   "ranking": {
     "comicCount": 0,
@@ -56,8 +61,6 @@
     "Unrevealed"
   ],
   "species": [
-    "Human",
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Grizzly_(comics)"

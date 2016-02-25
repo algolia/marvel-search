@@ -1,7 +1,12 @@
 {
   "aliases": [
+    "Sammy",
+    "The Reverend",
+    "The Rev",
+    "Rev"
   ],
   "alliances": [
+    "Church of the Saved"
   ],
   "authors": [
     "Mike Baron",
@@ -13,10 +18,12 @@
   "isVillain": true,
   "name": "Rev",
   "partners": [
+    "Jigsaw"
   ],
   "powers": [
     "Capable of healing injuries",
-    "resurrecting the dead"
+    "resurrecting the dead",
+    "Healing powers"
   ],
   "ranking": {
     "comicCount": 0,

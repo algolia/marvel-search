@@ -1,7 +1,12 @@
 {
   "aliases": [
+    "Tanarus: God of Thunder",
+    "Ulik"
   ],
   "alliances": [
+    "Roxxon Energy Corporation",
+    "Dark Council",
+    "Circus of Crime"
   ],
   "authors": [
     "Stan Lee",
@@ -19,7 +24,10 @@
     "Superior fighting skills",
     "Superhuman strength",
     "stamina",
-    "durability"
+    "durability",
+    "Superior hand to hand combatant",
+    "Night vision",
+    "Use of pounders"
   ],
   "ranking": {
     "comicCount": 19,
@@ -30,9 +38,9 @@
     "storyCount": 21
   },
   "secretIdentities": [
+    "Ulik"
   ],
   "species": [
-    "Troll"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2434/ulik",

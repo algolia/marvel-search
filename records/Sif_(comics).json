@@ -1,5 +1,7 @@
 {
   "aliases": [
+    "Sylvan",
+    "Sif"
   ],
   "alliances": [
     "Asgard"
@@ -14,9 +16,13 @@
   "isVillain": false,
   "name": "Sif",
   "partners": [
+    "Thor"
   ],
   "powers": [
-    "Asgard"
+    "Asgard",
+    "Superhuman strength",
+    "endurance",
+    "longevity"
   ],
   "ranking": {
     "comicCount": 129,
@@ -30,7 +36,6 @@
     "Sif"
   ],
   "species": [
-    "Asgard"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/52/sif",

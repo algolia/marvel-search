@@ -1,9 +1,19 @@
 {
   "aliases": [
+    "Titania",
+    "\"Skeeter\"",
+    "Skirn: Breaker of Men"
   ],
   "alliances": [
+    "Masters of Evil",
+    "Femizons",
+    "Frightful Four",
+    "The Worthy",
+    "Illuminati"
   ],
   "authors": [
+    "Jim Shooter",
+    "Mike Zeck"
   ],
   "description": "Despondent and hopeless after it was discovered that she was not, in fact, Spider-Woman, Mary MacPherran encountered Doctor Doom, who offered her a chance to become superpowered in exchange for joining his army, to which Mary readily agreed, and Doom transformed her into Titania.",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/526957a91a469/standard_xlarge.jpg",
@@ -11,8 +21,14 @@
   "isVillain": false,
   "name": "Titania",
   "partners": [
+    "Doctor Doom",
+    "Absorbing Man"
   ],
   "powers": [
+    "Expert street fighter",
+    "Immense superhuman strength",
+    "Superhuman stamina",
+    "High-level resistance to physical injury"
   ],
   "ranking": {
     "comicCount": 13,
@@ -23,6 +39,7 @@
     "storyCount": 19
   },
   "secretIdentities": [
+    "Mary MacPherran"
   ],
   "species": [
   ],

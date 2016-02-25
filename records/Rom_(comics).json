@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "Rom"
   ],
   "alliances": [
     "Spaceknights"
@@ -7,7 +8,8 @@
   "authors": [
     "Sal Buscema",
     "Bing McCoy",
-    "Bill Mantlo"
+    "Bill Mantlo",
+    "Bing McCoy (toy design)"
   ],
   "description": "Rom (also known as Rom The Space Knight or Rom: SpaceKnight) is a fictional character, a cosmic superhero in the Marvel Comics Universe. Rom first appeared in Rom Spaceknight #1 (December 1979) by Bill Mantlo and Sal Buscema.",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Rom-1.jpg/250px-Rom-1.jpg",
@@ -23,7 +25,9 @@
     "Superhuman strength",
     "Self-repair capabilities",
     "Space travel via backpack rockets",
-    "Use of high tech weapons"
+    "Use of high tech weapons",
+    "Space",
+    "travel via backpack rockets"
   ],
   "ranking": {
     "comicCount": 0,
@@ -35,7 +39,8 @@
   },
   "secretIdentities": [
     "Artour",
-    "Rom of Galador"
+    "Rom of Galador",
+    "Rom of Galador/Artour"
   ],
   "species": [
   ],

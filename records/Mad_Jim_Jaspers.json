@@ -1,10 +1,16 @@
 {
   "aliases": [
+    "The Reality Butcher",
+    "The Crooked Man",
+    "Mad Jim Jaspers"
   ],
   "alliances": [
     "Crazy Gang",
     "Parliament of the United Kingdom",
-    "Hellfire Club"
+    "Hellfire Club",
+    "UK parliament",
+    "the Hellfire Club",
+    "The Crazy Gang"
   ],
   "authors": [
     "Dave Thorpe",
@@ -16,9 +22,11 @@
   "isVillain": false,
   "name": "Mad Jim Jaspers",
   "partners": [
-    "Fury"
+    "Fury",
+    "The Fury"
   ],
   "powers": [
+    "Reality warping"
   ],
   "ranking": {
     "comicCount": 0,
@@ -32,7 +40,6 @@
     "Sir James Jaspers"
   ],
   "species": [
-    "Mutant"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mad_Jim_Jaspers"

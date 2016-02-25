@@ -1,5 +1,12 @@
 {
   "aliases": [
+    "Psyche",
+    "Mirage",
+    "Moonstar",
+    "Spellbinder",
+    "Dark Rider",
+    "Dani Moonstar",
+    "Danielle Moonstar"
   ],
   "alliances": [
     "X-Mansion",
@@ -11,7 +18,9 @@
     "Mutant Liberation Front",
     "X-Men",
     "S.H.I.E.L.D.",
-    "Avengers: The Initiative"
+    "Avengers: The Initiative",
+    "The Initiative",
+    "Xavier Institute"
   ],
   "authors": [
     "Bob McLeod",
@@ -36,7 +45,10 @@
     "empathic/telepathic link with all kinds of animals",
     "Ability to psionically sense impending death in others",
     "Ability to create solid objects out of pure psionic energy",
-    "Superhuman strength"
+    "Superhuman strength",
+    "Limited",
+    "psionic",
+    "abilities"
   ],
   "ranking": {
     "comicCount": 14,
@@ -50,8 +62,6 @@
     "Danielle \"Dani\" Moonstar"
   ],
   "species": [
-    "Decimation",
-    "Mutant"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2760/dani_moonstar",

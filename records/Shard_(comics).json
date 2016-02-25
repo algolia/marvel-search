@@ -1,9 +1,11 @@
 {
   "aliases": [
+    "Shard"
   ],
   "alliances": [
     "X-Factor",
-    "Xavier's Security Enforcers"
+    "Xavier's Security Enforcers",
+    "Xavier Security Enforcers"
   ],
   "authors": [
     "Scott Lobdell",
@@ -15,11 +17,13 @@
   "isVillain": false,
   "name": "Shard",
   "partners": [
-    "Trevor Fitzroy"
+    "Trevor Fitzroy",
+    "Chronomancer"
   ],
   "powers": [
     "Energy blasts",
-    "intangibility"
+    "intangibility",
+    "intangibility (holographic Shard only)"
   ],
   "ranking": {
     "comicCount": 29,
@@ -33,7 +37,6 @@
     "Shard Bishop"
   ],
   "species": [
-    "Human Mutant, later Holographic"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2069/shard",
