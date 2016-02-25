@@ -1,0 +1,53 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "X-Men",
+    "Shi'ar"
+  ],
+  "authors": [
+    "Ed Brubaker",
+    "Trevor Hairsine"
+  ],
+  "description": "Vulcan is the third Summers brother and an Omega-level mutant who was thought long-dead by Professor X.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/528d3629c2a91/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": true,
+  "name": "Vulcan (Gabriel Summers)",
+  "partners": [
+  ],
+  "powers": [
+    "Vast energy absorption",
+    "manipulation",
+    "transformation",
+    "projection",
+    "Flight",
+    "Force field projection",
+    "Life support",
+    "limited regeneration",
+    "Variable energy blasts",
+    "Limited super power replication",
+    "repression",
+    "Energy siphon",
+    "disruption",
+    "Psionic resistance"
+  ],
+  "ranking": {
+    "comicCount": 7,
+    "eventCount": 0,
+    "pageviewCount": 22099,
+    "pageviewRank": -1,
+    "serieCount": 6,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Gabriel Summers"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/comics/characters/1011011/vulcan_gabriel_summers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vulcan_(Marvel_Comics)"
+  }
+}

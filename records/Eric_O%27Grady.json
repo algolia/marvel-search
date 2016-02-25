@@ -1,0 +1,47 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Damage Control",
+    "Initiative",
+    "Secret Avengers",
+    "Shadow Initiative",
+    "S.H.I.E.L.D.",
+    "Thunderbolts",
+    "Illuminati"
+  ],
+  "authors": [
+    "Robert Kirkman",
+    "Phil Hester"
+  ],
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/53176aa9df48d/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Ant-Man (Eric O'Grady)",
+  "partners": [
+  ],
+  "powers": [
+    "Size manipulation",
+    "Insect communication",
+    "Flight via jetpack",
+    "Robotic arms with magnetic grapples",
+    "Flame projection from arms via redirecting jet flame"
+  ],
+  "ranking": {
+    "comicCount": 32,
+    "eventCount": 7,
+    "pageviewCount": 7221,
+    "pageviewRank": -1,
+    "serieCount": 13,
+    "storyCount": 32
+  },
+  "secretIdentities": [
+    "Eric O'Grady"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1010802/ant-man_eric_ogrady/featured",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eric_O%27Grady"
+  }
+}

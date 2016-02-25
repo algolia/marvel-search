@@ -1,0 +1,44 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "David Kraft",
+    "Keith Giffen"
+  ],
+  "description": "Ringer is the name of multiple comic book supervillains in the Marvel Comics universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/RingerMarvel.jpg/200px-RingerMarvel.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Ringer",
+  "partners": [
+    "The Beetle"
+  ],
+  "powers": [
+    "Skilled inventor",
+    "engineer",
+    "Energy projection",
+    "Gifted mechanical engineer",
+    "Levitation",
+    "Wears battlesuit that grants him the ability to condense",
+    "use several ring-based weapons",
+    "Teleportation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 962,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Anthony \"Tony\" Davis"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ringer_(comics)"
+  }
+}

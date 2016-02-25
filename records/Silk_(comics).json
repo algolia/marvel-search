@@ -1,0 +1,49 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Dan Slott",
+    "Humberto Ramos"
+  ],
+  "description": "Silk (Cindy Moon) is a fictional character, a superheroine in comic books published by Marvel Comics.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Silk-comic_cover.jpg/250px-Silk-comic_cover.jpg",
+  "isHero": true,
+  "isVillain": false,
+  "name": "Silk",
+  "partners": [
+    "Spider-Man",
+    "Spider-Woman"
+  ],
+  "powers": [
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "stamina",
+    "reflexes",
+    "endurance",
+    "Ability to cling to most surfaces",
+    "Healing factor",
+    "Able to shoot very strong spider-web strings from fingers",
+    "Long range precognitive Spider-Sense",
+    "Master hand-to-hand combatant"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 16989,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Cindy Moon"
+  ],
+  "species": [
+    "Mutate"
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Silk_(comics)"
+  }
+}

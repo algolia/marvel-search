@@ -1,0 +1,44 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Cord Conglomerate"
+  ],
+  "authors": [
+    "David Michelinie",
+    "Frank Miller"
+  ],
+  "description": "Mauler (an acronym for Mobile Armored Utility Laser-guided E-beam, Revised) is a name used by two fictional characters that appear in comic books published by Marvel Comics. The first version appears in Daredevil #167 (Nov. 1980) and was created by David Michelinie and Frank Miller. The second character first appears in Iron Man #156 (March 1982) and was created by David Michelinie; John Romita, Jr. and Pablo Marcos.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/IronMan-156.jpg/250px-IronMan-156.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Mauler",
+  "partners": [
+  ],
+  "powers": [
+    "Flight via turbines",
+    "Internal life support systems",
+    "Superhuman strength",
+    "Heavy resistance to injury",
+    "Laser cannon on left arm",
+    "Electric shock generator on right arm"
+  ],
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 649,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "-Aaron Soames",
+    "-Brendan Doyle"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1403/mauler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mauler_(comics)"
+  }
+}

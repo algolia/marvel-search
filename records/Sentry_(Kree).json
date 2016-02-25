@@ -1,0 +1,41 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Kree"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Jack Kirby"
+  ],
+  "description": "Empowered by the enigmatic Professor's secret formula, high school student Robert Reynolds became a superhuman.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/52695b1392c78/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Sentry (Robert Reynolds)",
+  "partners": [
+  ],
+  "powers": [
+    "Energy Projection",
+    "Magnetism",
+    "Super Strength",
+    "durability"
+  ],
+  "ranking": {
+    "comicCount": 60,
+    "eventCount": 7,
+    "pageviewCount": 1343,
+    "pageviewRank": -1,
+    "serieCount": 26,
+    "storyCount": 59
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Robot"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2048/sentry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sentry_(Kree)"
+  }
+}

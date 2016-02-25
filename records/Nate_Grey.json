@@ -1,0 +1,49 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "New Mutants",
+    "Brotherhood of Mutants",
+    "Outcasts",
+    "X-Men"
+  ],
+  "authors": [
+    "Jeph Loeb",
+    "Steve Skroce"
+  ],
+  "description": "A clone of Nathan Summers (Cable), Nate Grey was created in the \"Age of Apocalypse\" timeline by that timeline's Mr. Sinister for the sole purpose of destroying Apocalypse.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/535febd73f84f/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "X-Man",
+  "partners": [
+    "Threnody",
+    "Madelyne Pryor"
+  ],
+  "powers": [
+    "Telekinesis",
+    "Telepathy",
+    "Psychometry",
+    "Precognition",
+    "Ability to exist incorporeal as living psychic energy",
+    "Cross-dimensional travel"
+  ],
+  "ranking": {
+    "comicCount": 94,
+    "eventCount": 5,
+    "pageviewCount": 16424,
+    "pageviewRank": -1,
+    "serieCount": 25,
+    "storyCount": 158
+  },
+  "secretIdentities": [
+    "Nathaniel Grey"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2613/x-man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nate_Grey"
+  }
+}

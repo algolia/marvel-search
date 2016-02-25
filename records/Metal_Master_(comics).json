@@ -1,0 +1,38 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "description": "Metal Master is a fictional character in the Marvel Universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Metal_Master_63.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Metal Master",
+  "partners": [
+  ],
+  "powers": [
+    "Atom",
+    "metal molecule manipulation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 397,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Molyb"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2733/metal_master",
+    "wikipedia": "https://en.wikipedia.org/wiki/Metal_Master_(comics)"
+  }
+}

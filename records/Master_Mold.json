@@ -1,0 +1,45 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Sentinels, Project: Armageddon"
+  ],
+  "authors": [
+    "Jack Kirby",
+    "Stan Lee"
+  ],
+  "description": "Master Mold is a fictional character, a robot supervillain in the Marvel Universe. Since his primary purpose was to act as a portable Sentinel-creating factory, and the Sentinel robots were primarily used to hunt mutants, Master Mold has almost exclusively appeared in the X-Men and related, mutant-themed, comic books.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Uxm016.PNG/250px-Uxm016.PNG",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Master Mold",
+  "partners": [
+  ],
+  "powers": [
+    "Ability to incorporate metal into itself",
+    "Superhuman strength",
+    "speed",
+    "reflexes",
+    "durability",
+    "Flight",
+    "Ability to scan mutants",
+    "Concussive blasts",
+    "Plasma discharges"
+  ],
+  "ranking": {
+    "comicCount": 8,
+    "eventCount": 0,
+    "pageviewCount": 4510,
+    "pageviewRank": -1,
+    "serieCount": 5,
+    "storyCount": 6
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2731/master_mold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_Mold"
+  }
+}

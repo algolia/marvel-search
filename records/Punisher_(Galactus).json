@@ -1,0 +1,42 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Galactus",
+    "Frightful Four"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Jack Kirby"
+  ],
+  "description": "The Punisher is a fictional character that appears in comic books published by Marvel Comics. The character first appeared in Fantastic Four #49 (April 1966), and was created by writer-editor Stan Lee and artist and co-plotter Jack Kirby.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5261675f6b22f/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Punisher",
+  "partners": [
+  ],
+  "powers": [
+    "Force Field Generation",
+    "Self-Repair",
+    "Superhuman Strength",
+    "Speed",
+    "Durability"
+  ],
+  "ranking": {
+    "comicCount": 378,
+    "eventCount": 9,
+    "pageviewCount": 1299,
+    "pageviewRank": -1,
+    "serieCount": 80,
+    "storyCount": 538
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/comics/characters/1009515/punisher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Punisher_(Galactus)"
+  }
+}

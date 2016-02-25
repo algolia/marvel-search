@@ -1,0 +1,41 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "S.H.I.E.L.D.",
+    "Hydra"
+  ],
+  "authors": [
+    "Fred Van Lente",
+    "Leonard Kirk"
+  ],
+  "description": "Carmilla Black is a genetically engineered human, created by Advanced Idea Mechanics (A.I.M.).",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c0037366fae7/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Scorpion (Carmilla Black)",
+  "partners": [
+  ],
+  "powers": [
+    "Immunity to poisons",
+    "Left arm delivers \"sting\" ranging from causing mild discomfort to killing with a touch",
+    "Trained martial artist."
+  ],
+  "ranking": {
+    "comicCount": 5,
+    "eventCount": 1,
+    "pageviewCount": 2583,
+    "pageviewRank": -1,
+    "serieCount": 3,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Carmilla Black"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2028/scorpion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scorpion_(Carmilla_Black)"
+  }
+}

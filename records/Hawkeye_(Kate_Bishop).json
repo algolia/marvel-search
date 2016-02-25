@@ -2,39 +2,47 @@
   "aliases": [
   ],
   "alliances": [
-    "Squadron Supreme",
-    "Redeemers"
+    "Young Avengers"
   ],
   "authors": [
-    "Roy Thomas",
-    "John Buscema"
+    "Allan HeinbergJim Cheung"
   ],
-  "description": "Golden Archer (Wyatt McDonald) is a fictional superhero that has appeared in various comic book series published by Marvel Comics. A member of the Squadron Supreme, the character exists in the universe of that team, an alternate universe to Marvel's main shared universe, the Marvel Universe.Although he was a Marvel Comics character, he was an analogue of the DC Comics hero Green Arrow.  He has also gone by the codenames Hawkeye and Black Archer. The name \"Golden Archer\", in conjunction with the character's last name, is a pun on the restaurant chain McDonald's' well-known logo, the \"Golden Arches\".The Avenger Hawkeye of the Marvel Universe also briefly used the costumed identity of the Golden Archer.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/537bad9caa831/standard_xlarge.jpg",
+  "description": "Hawkeye (Katherine \"Kate\" Bishop) is a fictional character. She is a member of the Young Avengers, a team of superheroes in the Marvel Comics' shared universe, the Marvel Universe. She is the third character and first female to take the Hawkeye name after Clint Barton of the Avengers and Wyatt McDonald of the Squadron Supreme. Her costume appearance is patterned on the first Hawkeye and Mockingbird.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/50fecaf4f101b/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
-  "name": "Hawkeye (Kate Bishop)",
+  "name": "Hawkeye",
   "partners": [
+    "Patriot",
+    "Hawkeye"
   ],
   "powers": [
-    "Skilled archer",
-    "Wields various trick arrows"
+    "Highly skilled archer",
+    "fencer",
+    "swordswoman",
+    "martial artist",
+    "boxer",
+    "other forms of combat",
+    "Use of two battle staves",
+    "a sword",
+    "a bow",
+    "trick arrows"
   ],
   "ranking": {
-    "comicCount": 10,
-    "eventCount": 3,
-    "pageviewCount": 1666,
+    "comicCount": 222,
+    "eventCount": 14,
+    "pageviewCount": 11910,
     "pageviewRank": -1,
-    "serieCount": 8,
-    "storyCount": 8
+    "serieCount": 106,
+    "storyCount": 225
   },
   "secretIdentities": [
-    "Wyatt McDonald"
+    "Katherine Elizabeth \"Kate\" Bishop"
   ],
   "species": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1010808/hawkeye_kate_bishop/featured",
-    "wikipedia": "https://en.wikipedia.org/wiki/Golden_Archer"
+    "marvel": "http://marvel.com/characters/23/hawkeye",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hawkeye_(Kate_Bishop)"
   }
 }

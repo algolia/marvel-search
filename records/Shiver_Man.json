@@ -1,0 +1,44 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Mark Texeira",
+    "Frank Tieri (writer)"
+  ],
+  "description": "The Shiver Man is an undead bounty hunter who has worked with Nick Fury and Wolverine.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Shiverma4.jpg/250px-Shiverma4.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Shiver Man",
+  "partners": [
+    "Wolverine",
+    "Nick Fury",
+    "Beast"
+  ],
+  "powers": [
+    "-Immortality",
+    "-Preternatural tracking ability",
+    "-Ability to reattach severed limbs with no permanent damage",
+    "-Teleportation",
+    "-Intangibility"
+  ],
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 268,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Caleb Jackson"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2080/shiver_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shiver_Man"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Maggia",
+    "Intelligencia",
+    "Triumvirate of Terror"
+  ],
+  "authors": [
+    "Stan Lee",
+    "Jack Kirby"
+  ],
+  "description": "The Mad Thinker is a fictional character, a supervillain in the Marvel Comics Universe. He is a genius specializing in evil robotics and usually comes up with very elaborate infallible devious plans that unfold like clockwork.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/52740faf0d0fb/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Mad Thinker",
+  "partners": [
+    "Wizard",
+    "Puppet Master",
+    "Egghead",
+    "Klaw"
+  ],
+  "powers": [
+    "Master tactician",
+    "strategist",
+    "Ability to project mind into the body of Awesome Android",
+    "other robots",
+    "Genius-level intellect"
+  ],
+  "ranking": {
+    "comicCount": 16,
+    "eventCount": 0,
+    "pageviewCount": 3699,
+    "pageviewRank": -1,
+    "serieCount": 11,
+    "storyCount": 13
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2728/mad_thinker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mad_Thinker"
+  }
+}

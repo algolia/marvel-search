@@ -1,0 +1,50 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "X-Corporation",
+    "X-Force",
+    "Fallen Angels",
+    "X-Factor Investigations"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Steve Leialoha"
+  ],
+  "description": "The daughter of former X-Men member Sean Cassidy, a.k.a. Banshee, and Maeve Rourke, Theresa Rourke was raised by her first cousin once removed, mutant terrorist Thomas Cassidy, a.k.a. Black Tom.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4ce5a1a50e56b/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Banshee (Theresa Rourke)",
+  "partners": [
+    "Black Tom Cassidy",
+    "Juggernaut"
+  ],
+  "powers": [
+    "Sonic Scream",
+    "Flight",
+    "Sound Manipulation",
+    "Hypnosis",
+    "Teleportation",
+    "Immortality/Longevity",
+    "Various undefined mystical abilities since becoming the Morrigan"
+  ],
+  "ranking": {
+    "comicCount": 137,
+    "eventCount": 5,
+    "pageviewCount": 7501,
+    "pageviewRank": -1,
+    "serieCount": 31,
+    "storyCount": 160
+  },
+  "secretIdentities": [
+    "Theresa Maeve Rourke Cassidy"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/232/banshee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Siryn"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Walt Simonson"
+  ],
+  "description": "Malekith the Accursed is a fictional character, a supervillain in the Marvel Universe.  He is ruler of the Dark Elves of Svartalfheim, and has come into conflict with Thor. He once wielded the Casket of Ancient Winters. The character was played by Christopher Eccleston in Thor: The Dark World.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/531769834b15f/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Angel (Thomas Halloway)",
+  "partners": [
+    "Loki",
+    "Surtur"
+  ],
+  "powers": [
+    "Superhuman strength",
+    "speed",
+    "agility",
+    "stamina",
+    "reflexes",
+    "durability",
+    "intellect",
+    "Wields Dark Faerie magic",
+    "Ability to summon The Wild Hunt"
+  ],
+  "ranking": {
+    "comicCount": 4,
+    "eventCount": 0,
+    "pageviewCount": 15351,
+    "pageviewRank": -1,
+    "serieCount": 4,
+    "storyCount": 4
+  },
+  "secretIdentities": [
+    "Malekith"
+  ],
+  "species": [
+    "Dark Elf"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1011396/angel_thomas_halloway/featured",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malekith_the_Accursed"
+  }
+}

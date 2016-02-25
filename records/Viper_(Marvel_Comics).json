@@ -1,0 +1,46 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Serpent Squad",
+    "Secret Empire"
+  ],
+  "authors": [
+    "John Verpoorten",
+    "Steve Gerber",
+    "Steve Englehart",
+    "Sal Buscema"
+  ],
+  "description": "After the apparent death of Baron von Strucker, Viper took the name Madame Hydra and took control of the New York-based faction of Hydra.",
+  "isHero": false,
+  "isVillain": true,
+  "name": "Viper",
+  "partners": [
+  ],
+  "powers": [
+    "Skilled debater",
+    "advertiser",
+    "Skilled in chemistry",
+    "Venom-tipped claws",
+    "darts"
+  ],
+  "ranking": {
+    "comicCount": 40,
+    "eventCount": 1,
+    "pageviewCount": 3788,
+    "pageviewRank": -1,
+    "serieCount": 19,
+    "storyCount": 34
+  },
+  "secretIdentities": [
+    "Unnamed man",
+    "Ophelia Sarkissian",
+    "Jordan Stryke"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2495/viper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Viper_(Marvel_Comics)"
+  }
+}

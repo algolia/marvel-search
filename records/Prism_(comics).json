@@ -1,0 +1,41 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Marauders"
+  ],
+  "authors": [
+    "Chris Claremont",
+    "Louise Simonson"
+  ],
+  "description": "Prism (Robbie) is a fictional character, a supervillain in the Marvel Comics universe.  He is a member of the Marauders.",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Prism",
+  "partners": [
+  ],
+  "powers": [
+    "Crystalline body which enables him to absorb",
+    "reflect",
+    "amplify beams of light",
+    "energy."
+  ],
+  "ranking": {
+    "comicCount": 3,
+    "eventCount": 1,
+    "pageviewCount": 954,
+    "pageviewRank": -1,
+    "serieCount": 2,
+    "storyCount": 3
+  },
+  "secretIdentities": [
+    "Robbie"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1803/prism",
+    "wikipedia": "https://en.wikipedia.org/wiki/Prism_(comics)"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Dark Avengers",
+    "Horsemen of Apocalypse",
+    "The New Avengers",
+    "The Mighty Avengers"
+  ],
+  "authors": [
+    "Jae Lee",
+    "Rick Veitch",
+    "Paul Jenkins (writer)"
+  ],
+  "description": "Empowered by the enigmatic Professor's secret formula, high school student Robert Reynolds became a superhuman.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/52695b1392c78/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
+  "name": "Sentry (Robert Reynolds)",
+  "partners": [
+  ],
+  "powers": [
+    "Invulnerability",
+    "Telepathy",
+    "Matter",
+    "Accelerated healing",
+    "Teleportation",
+    "Flight",
+    "Heightened Senses",
+    "Resurrection",
+    "Superhuman Strength",
+    "Speed",
+    "Stamina",
+    "Durability",
+    "Mental projection",
+    "manipulation",
+    "Energy projection"
+  ],
+  "ranking": {
+    "comicCount": 60,
+    "eventCount": 7,
+    "pageviewCount": 27554,
+    "pageviewRank": -1,
+    "serieCount": 26,
+    "storyCount": 59
+  },
+  "secretIdentities": [
+    "Robert Reynolds"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2048/sentry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sentry_(Robert_Reynolds)"
+  }
+}

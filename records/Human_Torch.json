@@ -1,56 +1,39 @@
 {
   "aliases": [
-    "Jim Hammond",
-    "The Torch",
-    "The Original Human Torch"
+    "Jonathan Lowell Spencer",
+    "Johnny Storm"
   ],
   "alliances": [
-    "Invaders",
-    "S.H.I.E.L.D.",
-    "Legion of the Unliving",
-    "All-Winners Squad",
-    "V-Battalion",
-    "West Coast Avengers",
-    "Secret Avengers",
-    "Heroes for Hire",
-    "The Descendants"
+    "Fantastic Force",
+    "Fantastic Four",
+    "Galactus",
+    "Future Foundation",
+    "Fantastic Four Incorporated"
   ],
   "authors": [
-    "Carl Burgos"
+    "Stan Lee",
+    "Jack Kirby"
   ],
-  "description": "The Human Torch, also known as Jim Hammond, is a fictional character, a Marvel Comics-owned superhero. Created by writer-artist Carl Burgos, he first appeared in Marvel Comics #1 (Oct.1939), published by Marvel's predecessor, Timely Comics.The \"Human\" Torch was actually an android created by scientist Phineas Horton. He possessed the ability to surround himself with fire and control flames. In his earliest appearances, he was portrayed as a science fiction monstrosity, but quickly became a hero.The Human Torch was one of Timely Comics' three signature characters, along with Captain America and Namor the Sub-Mariner. Like many superheroes, the Human Torch fell into obscurity by the 1950s. In 1961, Marvel recycled his name and powers into a new, unrelated Human Torch, a member of the Fantastic Four (who actually was human). Unlike Captain America and the Sub-Mariner, the original Human Torch has had only a small presence in the post-1950s Marvel comic books and is closely associated with the Golden Age.",
+  "description": "The Human Torch is a fictional character, a superhero that appears in comic books published by Marvel Comics. He is a founding member of the Fantastic Four. A similar, unrelated character of the same name and powers had been created in 1939 by writer-artist Carl Burgos for Marvel Comics' predecessor company, Timely Comics.Like the rest of the Fantastic Four, Jonathan \"Johnny\" Storm gained his powers on a spacecraft bombarded by cosmic rays.  He can engulf his entire body in flames, is able to fly, can absorb fire harmlessly into his own body, and can control any nearby fire by sheer force of will.  \"Flame on!\", which the Torch customarily shouts when activating his full-body flame effect, has become his catchphrase.The youngest of the group, he is brash and impetuous in comparison to his reticent and compassionate sister, Susan Storm, his sensible brother-in-law, Reed Richards, and the grumbling Ben Grimm.In the early 1960s, he starred in a series of solo adventures, published in Strange Tales. He is also a friend and frequent ally of Spider-Man, who is approximately the same age as the Torch.Jay Underwood played him in the unreleased 1994 film The Fantastic Four, and Chris Evans portrayed him in the 2005 film Fantastic Four, and its 2007 sequel Fantastic Four: Rise of the Silver Surfer. In February 2014, Michael B. Jordan was cast to play Johnny Storm in the upcoming 2015 The Fantastic Four.",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5261a7f7b0917/standard_xlarge.jpg",
-  "isHero": false,
+  "isHero": true,
   "isVillain": false,
   "name": "Human Torch",
   "partners": [
   ],
   "powers": [
-    "Skilled unarmed combatant",
-    "Ability to survive without oxygen for long time periods",
-    "Accomplished street fighter",
-    "Fire manipulation",
-    "resistance",
-    "Flight"
+    "Fiery form that enables flight",
+    "serves as damage shield",
+    "Pyrokinesis",
+    "Ability to absorb heat energy",
+    "Skilled race-car driver",
+    "auto-mechanic",
+    "designer"
   ],
   "ranking": {
     "comicCount": 783,
     "eventCount": 17,
-    "pageviewCount": 10052,
-    "pageviewRank": -1,
-    "serieCount": 236,
-    "storyCount": 1283
-  },
-  "secretIdentities": [
-    "Human Torch"
-  ],
-  "species": [
-  ],
-  "urls": {
-    "marvel": "http://marvel.com/characters/26/human_torch",
-    "wikipedia": "https://en.wikipedia.org/wiki/Human_Torch_(android)"
-  }
-}   "pageviewCount": 42462,
+    "pageviewCount": 42462,
     "pageviewRank": -1,
     "serieCount": 236,
     "storyCount": 1283

@@ -1,0 +1,62 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "X-Force",
+    "X-Men",
+    "New X-Men",
+    "X-Mansion",
+    "Avengers Academy",
+    "Weapon X"
+  ],
+  "authors": [
+    "Craig Kyle",
+    "Christopher Yost"
+  ],
+  "description": "A clone of the mutant Wolverine, X-23 was trained as a living weapon by a secretive government agency.  Now residing with the X-Men, she strives to recover her stolen youth and become a fully realized person.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/50fec5ed6f3de/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "X-23",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength",
+    "senses",
+    "speed",
+    "agility",
+    "reflexes/reactions",
+    "coordination",
+    "balance",
+    "endurance",
+    "Expert assassin",
+    "martial artist",
+    "sniper",
+    "demolitioner",
+    "Trained in use of long range weapons",
+    "explosives",
+    "Regenerative healing factor",
+    "Retractable adamantium-coated bone claws in hands",
+    "feet",
+    "Educated multi-lingual"
+  ],
+  "ranking": {
+    "comicCount": 81,
+    "eventCount": 4,
+    "pageviewCount": 33267,
+    "pageviewRank": -1,
+    "serieCount": 24,
+    "storyCount": 84
+  },
+  "secretIdentities": [
+    "Laura Kinney"
+  ],
+  "species": [
+    "Mutant",
+    "Molecular cloning"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/67/x-23",
+    "wikipedia": "https://en.wikipedia.org/wiki/X-23"
+  }
+}

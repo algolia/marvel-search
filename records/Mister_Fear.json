@@ -1,0 +1,48 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Stan Lee",
+    "Wally Wood",
+    "Gerry Conway",
+    "Gene Colan",
+    "Steven Grant",
+    "Carmine Infantino"
+  ],
+  "description": "Mister Fear is the name of multiple fictional characters, all supervillains in the Marvel Comics Universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Mrfear.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Mister Fear",
+  "partners": [
+    "Lucia von Bardas"
+  ],
+  "powers": [
+    "Trained hand to hand combatant",
+    "Use of a perfume that made him able to influence other people",
+    "Fear pheromone administered primarily by gas pellets",
+    "occasionally by syringe",
+    "most recently by an aerosol sprayer"
+  ],
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 3289,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Lawrence \"Larry\" Cranston",
+    "Zoltan Drago",
+    "Alan Fagan"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1476/mister_fear",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mister_Fear"
+  }
+}

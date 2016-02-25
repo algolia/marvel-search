@@ -1,0 +1,46 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "The New Avengers"
+  ],
+  "authors": [
+    "Allan Heinberg",
+    "Jim Cheung"
+  ],
+  "description": "Patriot is the name of two fictional, comic book superheroes in the Marvel Comics universe: the Golden Age hero Jeffrey Mace and the modern-day character Eli Bradley.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c003cfda4644/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Patriot",
+  "partners": [
+  ],
+  "powers": [
+    "Enhanced strength",
+    "speed",
+    "agility",
+    "stamina",
+    "senses",
+    "endurance",
+    "healing",
+    "Carries triangular shield",
+    "metallic throwing stars"
+  ],
+  "ranking": {
+    "comicCount": 72,
+    "eventCount": 2,
+    "pageviewCount": 4413,
+    "pageviewRank": -1,
+    "serieCount": 15,
+    "storyCount": 71
+  },
+  "secretIdentities": [
+    "Elijah \"Eli\" Bradley"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1703/patriot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patriot_(comics)"
+  }
+}

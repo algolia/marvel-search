@@ -1,0 +1,42 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Beta Flight",
+    "Alpha Flight",
+    "Roxxon Energy Corporation"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Michael Bair"
+  ],
+  "description": "Windshear (Colin Ashworth Hume) is a fictional character, a superhero in the Marvel Comics universe.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Windshear.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Windshear",
+  "partners": [
+  ],
+  "powers": [
+    "Hard Air Manipulation",
+    "Depowered",
+    "Flight"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 410,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Colin Ashworth Hume"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Windshear_(comics)"
+  }
+}

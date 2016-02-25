@@ -1,0 +1,37 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Roy Thomas",
+    "Neal Adams"
+  ],
+  "description": "Sauron is a comic book character, a supervillain in Marvel Comics' main shared universe. An enemy of the X-Men, Sauron is the alter ego of Karl Lykos, sharing a Jekyll and Hyde relationship with the physician. He is an energy vampire who resembles a humanoid Pteranodon after feeding. He often inhabits the hidden prehistoric jungle of the Savage Land.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c003c3d85554/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Sauron",
+  "partners": [
+  ],
+  "powers": [
+  ],
+  "ranking": {
+    "comicCount": 40,
+    "eventCount": 0,
+    "pageviewCount": 10145,
+    "pageviewRank": -1,
+    "serieCount": 22,
+    "storyCount": 41
+  },
+  "secretIdentities": [
+    "Karl Lykos"
+  ],
+  "species": [
+    "Human Mutate"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2002/sauron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sauron_(comics)"
+  }
+}

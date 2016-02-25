@@ -1,0 +1,38 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Folding Circle",
+    "Thunderbolts"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Mark Bagley"
+  ],
+  "description": "Smiling Tiger (Conrad Mack) is a Marvel Comics supervillain.",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Smiling Tiger",
+  "partners": [
+  ],
+  "powers": [
+    "razor sharp claws."
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 273,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Conrad Mack"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2149/smiling_tiger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Smiling_Tiger"
+  }
+}

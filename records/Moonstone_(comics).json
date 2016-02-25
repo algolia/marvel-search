@@ -1,0 +1,50 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Thunderbolts",
+    "Corporation",
+    "Dark Avengers",
+    "Masters of Evil"
+  ],
+  "authors": [
+    "Frank Robbins",
+    "Marv Wolfman"
+  ],
+  "description": "Moonstone (real name Dr. Karla Sofen) is a fictional character, both a supervillainess and superheroine in Marvel Comics' Marvel Universe.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/535ff3e867252/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": true,
+  "name": "Moonstone",
+  "partners": [
+  ],
+  "powers": [
+    "Photon blasts",
+    "Intangibility",
+    "Gravity manipulation",
+    "Light generation",
+    "Superhuman strength",
+    "speed",
+    "stamina",
+    "reflexes",
+    "Flight",
+    "Minor molecular control"
+  ],
+  "ranking": {
+    "comicCount": 20,
+    "eventCount": 4,
+    "pageviewCount": 9095,
+    "pageviewRank": -1,
+    "serieCount": 15,
+    "storyCount": 20
+  },
+  "secretIdentities": [
+    "Karla Sofen"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1503/moonstone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moonstone_(comics)"
+  }
+}

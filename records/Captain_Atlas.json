@@ -1,0 +1,41 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Starforce"
+  ],
+  "authors": [
+    "Mark Gruenwald",
+    "Mike Manley"
+  ],
+  "description": "Captain Atlas is a fictional character in Marvel Comics.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/528d368ab3f46/standard_xlarge.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Titanium Man (Topolov)",
+  "partners": [
+  ],
+  "powers": [
+    "Flight",
+    "Superhuman strength",
+    "Durability"
+  ],
+  "ranking": {
+    "comicCount": 25,
+    "eventCount": 1,
+    "pageviewCount": 1104,
+    "pageviewRank": -1,
+    "serieCount": 13,
+    "storyCount": 31
+  },
+  "secretIdentities": [
+    "Att-Lass"
+  ],
+  "species": [
+    "Kree"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2385/titanium_man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Captain_Atlas"
+  }
+}

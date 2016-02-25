@@ -1,0 +1,39 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Crazy Gang"
+  ],
+  "authors": [
+    "Larry Lieber",
+    "Ron Wilson",
+    "Jim Lawrence"
+  ],
+  "description": "Slaymaster is a fictional comic book character from Marvel Comics's Captain Britain series.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/TheSlaymaster.JPG/215px-TheSlaymaster.JPG",
+  "isHero": false,
+  "isVillain": true,
+  "name": "Slaymaster",
+  "partners": [
+  ],
+  "powers": [
+    "Exceptional martial artist",
+    "tactician"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 925,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+  ],
+  "species": [
+    "Human"
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Slaymaster"
+  }
+}

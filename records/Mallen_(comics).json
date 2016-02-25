@@ -1,0 +1,39 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Adi Granov",
+    "Warren Ellis"
+  ],
+  "description": "Mallen is a fictional character that appears in comic books published by Marvel Comics. The character first appeared in Iron Man #1 (January 2005) and was created by Warren Ellis, and Adi Granov, during what would be the Extremis arc.",
+  "isHero": false,
+  "isVillain": true,
+  "name": "Mallen",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength",
+    "superhuman speed",
+    "fire breath",
+    "claws",
+    "electricity generation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1060,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Mallen"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mallen_(comics)"
+  }
+}

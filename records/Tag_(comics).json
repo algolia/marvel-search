@@ -1,0 +1,43 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Hellions",
+    "X-Mansion"
+  ],
+  "authors": [
+    "Carlo Barberi",
+    "Nunzio DeFilippis",
+    "Christina Weir"
+  ],
+  "description": "Tag (Brian Cruz) is a mutant appearing in comic books published by Marvel Comics. He first appeared in New Mutants, vol. 2 #7 and was a member of the student body of the Xavier Institute and the Hellions squad therein.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Tag_%28comics%29.png/250px-Tag_%28comics%29.png",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Tag",
+  "partners": [
+  ],
+  "powers": [
+    "Through physical contact can \"tag\" others",
+    "temporarily leaving a psionic signature on them"
+  ],
+  "ranking": {
+    "comicCount": 2,
+    "eventCount": 0,
+    "pageviewCount": 783,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Brian Cruz"
+  ],
+  "species": [
+    "Decimation",
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/2285/tag",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tag_(comics)"
+  }
+}

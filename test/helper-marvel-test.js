@@ -223,5 +223,24 @@ describe('HelperMarvel', () => {
       // Then
       expect(actual).toEqual('foo');
     });
+
+    it('should return null if no name and no aliases', () => {
+      // Given
+      let character = {
+        dbpediaData: {
+          name: null,
+          aliases: []
+        }
+      };
+      let marvelCharacters = {
+        Thor: 'foo'
+      };
+
+      // When
+      let actual = Helper.pickDataForCharacter(character, marvelCharacters);
+
+      // Then
+      expect(actual).toEqual(null);
+    });
   });
 });

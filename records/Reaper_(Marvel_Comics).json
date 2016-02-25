@@ -1,0 +1,45 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Mutant Liberation Front",
+    "Weapon X",
+    "Exiles",
+    "X-Cell"
+  ],
+  "authors": [
+    "Louise Simonson",
+    "Rob Liefeld"
+  ],
+  "description": "Reaper is the name of several fictional characters in the pages of Marvel Comics, most notably the Reaper whose real name is Pantu Hurageb, a mutant in the X-Force comic book series.  He has been a villain in the main Marvel Universe but a hero in the Ultraverse.",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Reaper",
+  "partners": [
+  ],
+  "powers": [
+    "Generates neurosynaptic energy causing slowness",
+    "paralysis",
+    "nerve damage",
+    "which he can channel through his scythes. Cybernetic hands",
+    "leg."
+  ],
+  "ranking": {
+    "comicCount": 10,
+    "eventCount": 0,
+    "pageviewCount": 1274,
+    "pageviewRank": -1,
+    "serieCount": 5,
+    "storyCount": 9
+  },
+  "secretIdentities": [
+    "Pantu Hurageb"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1888/reaper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reaper_(Marvel_Comics)"
+  }
+}

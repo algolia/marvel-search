@@ -1,0 +1,39 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+  ],
+  "authors": [
+    "Mike Baron",
+    "Neil Hansen"
+  ],
+  "description": "Lifeform is a fictional character, a comic book supervillain in the Marvel Comics Universe. Created by Mike Baron and Neil Hansen, the character first appears in Punisher Annual #3, Vol. 1.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/LifeformMarvelComics.jpg/250px-LifeformMarvelComics.jpg",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Lifeform",
+  "partners": [
+  ],
+  "powers": [
+    "Superhuman strength",
+    "durability",
+    "Capable of spreading its mutation like a virus which ultimately kills those infected by it",
+    "Body is in a state of constant mutation"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 275,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "George Prufrock"
+  ],
+  "species": [
+  ],
+  "urls": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lifeform_(comics)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "Young X-Men"
+  ],
+  "authors": [
+    "Marc Guggenheim",
+    "Yanick Paquette"
+  ],
+  "description": "Ink (Eric Gitter) is a comic book character, a superhero in Marvel Comics' main shared universe. Created by writer Marc Guggenheim and artist Yanick Paquette, he first appeared in Young X-Men #1.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Ink_Wiki.png/200px-Ink_Wiki.png",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Ink",
+  "partners": [
+  ],
+  "powers": [
+    "Iconic tattoos on his body grant him several abilities."
+  ],
+  "ranking": {
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 3732,
+    "pageviewRank": -1,
+    "serieCount": 1,
+    "storyCount": 1
+  },
+  "secretIdentities": [
+    "Eric Gitter"
+  ],
+  "species": [
+    "Human"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1041/ink",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ink_(comics)"
+  }
+}

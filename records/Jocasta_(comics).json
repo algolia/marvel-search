@@ -1,0 +1,49 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "The Mighty Avengers",
+    "Avengers",
+    "Avengers Academy",
+    "Fifty State Initiative"
+  ],
+  "authors": [
+    "George P%C3%A9rez",
+    "Jim Shooter"
+  ],
+  "description": "Jocasta is a fictional, comic book superhero appearing in books published by Marvel Comics. A member of the Avengers, the character is a robot created by the villain Ultron.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c003eac7419a/standard_xlarge.jpg",
+  "isHero": true,
+  "isVillain": false,
+  "name": "Jocasta",
+  "partners": [
+    "Hank Pym",
+    "Ultron"
+  ],
+  "powers": [
+    "Superhuman Strength",
+    "Physical Resistance & Senses",
+    "Holographic Image Disguise Inducer",
+    "Optic Cannons",
+    "Force Field Generation",
+    "Computer Integration"
+  ],
+  "ranking": {
+    "comicCount": 54,
+    "eventCount": 5,
+    "pageviewCount": 5644,
+    "pageviewRank": -1,
+    "serieCount": 9,
+    "storyCount": 53
+  },
+  "secretIdentities": [
+    "Jocasta"
+  ],
+  "species": [
+    "Mechanoid"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1095/jocasta",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jocasta_(comics)"
+  }
+}

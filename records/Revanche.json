@@ -1,0 +1,43 @@
+{
+  "aliases": [
+  ],
+  "alliances": [
+    "The Hand",
+    "X-Men"
+  ],
+  "authors": [
+    "Fabian Nicieza",
+    "Andy Kubert"
+  ],
+  "description": "Revanche (Kwannon) was a Marvel Comics character associated with the X-Men. She was created by writer Fabian Nicieza and first appeared in X-Men (vol.2) in February 1993.",
+  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708/standard_xlarge.gif",
+  "isHero": false,
+  "isVillain": false,
+  "name": "Revanche",
+  "partners": [
+  ],
+  "powers": [
+    "Empathy",
+    "Telepathy",
+    "Psionic Katana",
+    "Psionic Blade"
+  ],
+  "ranking": {
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4332,
+    "pageviewRank": -1,
+    "serieCount": 0,
+    "storyCount": 0
+  },
+  "secretIdentities": [
+    "Kwannon"
+  ],
+  "species": [
+    "Mutant"
+  ],
+  "urls": {
+    "marvel": "http://marvel.com/characters/1916/revanche",
+    "wikipedia": "https://en.wikipedia.org/wiki/Revanche"
+  }
+}

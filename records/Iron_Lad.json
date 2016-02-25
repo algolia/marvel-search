@@ -2,15 +2,13 @@
   "aliases": [
   ],
   "alliances": [
-    "Church Of Immortus",
-    "Badoon",
-    "The Time Keepers"
+    "Young Avengers"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jim Cheung",
+    "Allan Heinberg"
   ],
-  "description": "Immortus (Nathaniel Richards) is a fictional character in the Marvel Universe. He is the future (and later, alternate) self of Kang the Conqueror, and first appeared in Avengers #10, and was created by Stan Lee and Jack Kirby.",
+  "description": "Iron Lad (Nathaniel \"Nate\" Richards) is a fictional character, a superhero appearing in books published by Marvel Comics, in particular Young Avengers, a team of which Iron Lad is a member. He first appeared in Young Avengers #1 (April 2005), created by writer Allan Heinberg and illustrator Jim Cheung. He is an adolescent version of Kang the Conqueror, armed with a bio-metal suit that responds to mental commands. He is named after the father of Reed Richards.",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c0038c9c6580/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -18,15 +16,18 @@
   "partners": [
   ],
   "powers": [
-    "Immortality",
-    "Energy blasts",
-    "Superhuman strength intelligence",
-    "endurance"
+    "Possesses neurokinetic armor which responds to his thoughts",
+    "allows him to fly",
+    "create energy blasts",
+    "create magnetic fields",
+    "time travel",
+    "change the appearance of the armor",
+    "hack into computer systems"
   ],
   "ranking": {
     "comicCount": 7,
     "eventCount": 0,
-    "pageviewCount": 4053,
+    "pageviewCount": 9996,
     "pageviewRank": -1,
     "serieCount": 4,
     "storyCount": 6
@@ -38,6 +39,6 @@
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1051/iron_lad",
-    "wikipedia": "https://en.wikipedia.org/wiki/Immortus"
+    "wikipedia": "https://en.wikipedia.org/wiki/Iron_Lad"
   }
 }
