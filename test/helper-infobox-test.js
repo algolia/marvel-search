@@ -97,6 +97,218 @@ describe('HelperDBPedia', () => {
     });
   });
 
+  describe('splitOnCommonSeparators', () => {
+    it('should split on <br>', () => {
+      // Given
+      let input = [
+        '<br>Foo<BR>',
+        '<br/>Bar<br />',
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.splitOnCommonSeparators(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should split on bullet points', () => {
+      // Given
+      let input = [
+        '*Foo*Bar',
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.splitOnCommonSeparators(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+  });
+
+  describe('trimItemsInList', () => {
+    it('should remove commas and bullet points', () => {
+      // Given
+      let input = [
+        'Foo,',
+        '*Bar',
+        '*Baz,'
+      ];
+
+      // When
+      let actual = Helper.trimItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should remove {curly braces}', () => {
+      // Given
+      let input = [
+        '{{Foo',
+        'Bar}}',
+        '{{Baz}}'
+      ];
+
+      // When
+      let actual = Helper.trimItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should remove triple quotes', () => {
+      // Given
+      let input = [
+        "'''Foo",
+        "Bar'''",
+        "'''Baz'''"
+      ];
+
+      // When
+      let actual = Helper.trimItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should remove list dashes', () => {
+      // Given
+      let input = [
+        '- Foo',
+        '- Bar',
+        '- Baz'
+      ];
+
+      // When
+      let actual = Helper.trimItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should trim whitespace', () => {
+      // Given
+      let input = [
+        ' Foo',
+        'Bar  ',
+        ' Baz      '
+      ];
+
+      // When
+      let actual = Helper.trimItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+  });
+
+  describe('rejectBadItemsInList', () => {
+    it('should remove new lines', () => {
+      // Given
+      let input = [
+        '<br>',
+        'Foo',
+        '<br/>',
+        'Bar',
+        '<br />',
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should remove common separators', () => {
+      // Given
+      let input = [
+        '*',
+        'Foo',
+        '&',
+        '?',
+        'Bar',
+        'and',
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should remove Plain list markers', () => {
+      // Given
+      let input = [
+        'Plain list |*',
+        'Foo',
+        'Bar',
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should remove "Formerly:" types', () => {
+      // Given
+      let input = [
+        'Formerly:',
+        'Foo',
+        'In armor:',
+        'Bar',
+        'Before 1998:',
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should removes comments', () => {
+      // Given
+      let input = [
+        '<!-- Foo',
+        'Bar -->',
+        '<!-- Baz -->'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual([]);
+    });
+
+    it('should removes values in parenthesis', () => {
+      // Given
+      let input = [
+        '(Foo)',
+        '(Bar)',
+        '(Baz)'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual([]);
+    });
+  });
+
+
   describe('getAliases', () => {
     it('should split on commas', () => {
       // Given
