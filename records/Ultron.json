@@ -17,13 +17,6 @@
     "Ultron-17",
     "Ultron-18"
   ],
-  "alliances": [
-    "Ho Yinsen",
-    "Phalanx",
-    "Masters of Evil",
-    "Lethal Legion",
-    "Sons of Yinsen"
-  ],
   "authors": [
     "John Buscema",
     "Roy Thomas"
@@ -59,6 +52,13 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Ho Yinsen",
+    "Phalanx",
+    "Masters of Evil",
+    "Lethal Legion",
+    "Sons of Yinsen"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009685/ultron",

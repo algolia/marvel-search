@@ -2,16 +2,12 @@
   "aliases": [
     "Windeagle"
   ],
-  "alliances": [
-    "Defenders",
-    "Dragon Circle"
-  ],
   "authors": [
     "Don McGregor",
     "Rich Buckler",
     "Keith Pollard"
   ],
-  "description": "Windeagle is a fictional character in the Marvel Universe.",
+  "description": "Windeagle is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Windeagle",
@@ -32,6 +28,10 @@
     "Hector Santiago Ruiz"
   ],
   "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "Dragon Circle"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Windeagle"

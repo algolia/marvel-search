@@ -2,14 +2,12 @@
   "aliases": [
     "Kala"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Robert Bernstein",
     "Jack Kirby"
   ],
-  "description": "Kala is a fictional character in the Marvel Universe.",
+  "description": "Kala is a fictional character in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Kala%2C_Queen_of_the_Netherworld1.jpg/207px-Kala%2C_Queen_of_the_Netherworld1.jpg",
   "isHero": false,
   "isVillain": false,
@@ -30,6 +28,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Kala_(comics)"

@@ -3,16 +3,13 @@
     "Steve Rogers",
     "Primus"
   ],
-  "alliances": [
-    "Thunderbolts"
-  ],
   "authors": [
     "Steve Ditko",
     "Jack Kirby",
     "Archie Goodwin",
     "John Byrne"
   ],
-  "description": "Primus is the name of three characters in Marvel Comics.",
+  "description": "Primus is the name of three characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Nomad (Steve Rogers)",
@@ -35,6 +32,9 @@
     "Primus"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1616/nomad",

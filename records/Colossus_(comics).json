@@ -7,20 +7,11 @@
     "Juggernaut",
     "Colossus"
   ],
-  "alliances": [
-    "X-Men",
-    "X-Force",
-    "Defenders",
-    "Phoenix Force",
-    "Excalibur",
-    "Acolytes",
-    "Phoenix Five"
-  ],
   "authors": [
     "Len Wein",
     "Dave Cockrum"
   ],
-  "description": "Colossus (Piotr Nikolaievitch Rasputin) is a fictional character, a superhero in the Marvel Comics universe.  Created by writer Len Wein and illustrator Dave Cockrum, he first appeared in Giant-Size X-Men #1 (May 1975).  A Russian mutant, the character is a member of the X-Men, and is by far the physically strongest member of the team, being able to transform into a strong metallic form. Even without his powers he holds a physically imposing figure standing at 6' 7\" (200 cm). Throughout the series he has been portrayed as a quiet, honest and innocent man. He has had a fairly consistent presence in X-Men-related comic books since his debut.  A talented artist, he only reluctantly agrees to use his powers in combat, feeling it is his responsibility to use his abilities for the betterment of human and mutant-kind.Canadian actor Daniel Cudmore has portrayed Colossus in X2: X-Men United, X-Men: The Last Stand, and X-Men: Days of Future Past. Wizard ranked Colossus 184 on the Top 200 Comic Book Characters of All Time.",
+  "description": "Colossus (Piotr Nikolaievitch Rasputin) is a fictional character, a superhero in the Marvel Comics universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/51127cf4b996f/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -52,6 +43,15 @@
     "Piotr \"Peter\" Nikolaievitch Rasputin"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "X-Force",
+    "Defenders",
+    "Phoenix Force",
+    "Excalibur",
+    "Acolytes",
+    "Phoenix Five"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/450/colossus",

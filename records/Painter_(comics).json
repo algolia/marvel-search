@@ -3,15 +3,12 @@
     "Painter of 1000 Perils",
     "Painter"
   ],
-  "alliances": [
-    "Avant Guard"
-  ],
   "authors": [
     "Robert Bernstein",
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Wilhelm van Vile, better known as The Painter, is a fictional character, a supervillain appearing in Marvel Comics-published comics. The character was created by plotter Stan Lee, writer Robert Bernstein and artist Jack Kirby. He first appeared in Strange Tales #108 (1963).",
+  "description": "Wilhelm van Vile, better known as The Painter, is a fictional character, a supervillain appearing in Marvel Comics-published comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Strang_Tales_108_cover.jpg/250px-Strang_Tales_108_cover.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
     "Wilhelm van Vile"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avant Guard"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Painter_(comics)"

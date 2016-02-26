@@ -2,14 +2,12 @@
   "aliases": [
     "Crusaders"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Frank Robbins",
     "Roy Thomas",
     "Jack Kirby"
   ],
-  "description": "The Crusaders is a group of fictional characters that appear in comic books published by Marvel Comics. The characters first appear in The Invaders #14 (March 1977) and were created by Roy Thomas, Jack Kirby, and Frank Robbins.",
+  "description": "The Crusaders is a group of fictional characters that appear in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Invaders-15.jpg/250px-Invaders-15.jpg",
   "isHero": true,
   "isVillain": false,
@@ -29,6 +27,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Crusaders_(Marvel_Comics)"

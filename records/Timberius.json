@@ -2,16 +2,11 @@
   "aliases": [
     "Timberius"
   ],
-  "alliances": [
-    "Inhumans",
-    "Inhuman",
-    "s"
-  ],
   "authors": [
     "Gary Friedrich",
     "Marie Severin"
   ],
-  "description": "Timberius is a fictional character in the Marvel Universe.",
+  "description": "Timberius is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Timberius",
@@ -32,6 +27,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Inhumans",
+    "Inhuman",
+    "s"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Timberius"

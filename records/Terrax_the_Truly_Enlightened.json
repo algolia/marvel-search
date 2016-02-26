@@ -3,11 +3,6 @@
     "Tyros the Terrible",
     "Terrax the Tamer"
   ],
-  "alliances": [
-    "Heralds of Galactus",
-    "Offenders",
-    "Legion of the Unliving"
-  ],
   "authors": [
     "Marv Wolfman",
     "John Byrne",
@@ -45,6 +40,11 @@
     "Tyros"
   ],
   "species": [
+  ],
+  "teams": [
+    "Heralds of Galactus",
+    "Offenders",
+    "Legion of the Unliving"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2311/terrax",

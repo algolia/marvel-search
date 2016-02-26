@@ -2,14 +2,10 @@
   "aliases": [
     "Smuggler"
   ],
-  "alliances": [
-    "Thunderbolts",
-    "Redeemers"
-  ],
   "authors": [
     "Fabian Nicieza"
   ],
-  "description": "Smuggler (Conrad Josten) is a fictional character in Marvel Comics as a superhero.",
+  "description": "Smuggler (Conrad Josten) is a fictional character in Marvel Comics as a superhero",
   "isHero": false,
   "isVillain": false,
   "name": "Smuggler",
@@ -33,6 +29,10 @@
     "Conrad Josten"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Redeemers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Smuggler_(comics)"

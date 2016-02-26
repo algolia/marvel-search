@@ -3,14 +3,11 @@
     "\"Son of the Hunter\"",
     "Grim Hunter"
   ],
-  "alliances": [
-    "Kravinoff Family"
-  ],
   "authors": [
     "Tom Lyle",
     "Howard Mackie"
   ],
-  "description": "Grim Hunter is a fictional character, a supervillain in Marvel Comics. He is the son of Kraven the Hunter, the nephew of Chameleon, the half-brother of Alyosha Kravinoff, and the brother of Ana Kravinoff. His first appearance was in Spider-Man #47.",
+  "description": "Grim Hunter is a fictional character, a supervillain in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Grim Hunter",
@@ -39,6 +36,9 @@
     "Vladimir \"Vlad\" Kravinoff"
   ],
   "species": [
+  ],
+  "teams": [
+    "Kravinoff Family"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Grim_Hunter"

@@ -4,16 +4,13 @@
     "The Thousand",
     "Thousand"
   ],
-  "alliances": [
-    "None"
-  ],
   "authors": [
     "Garth Ennis",
     "John McCrea",
     "James Hodgkins",
     "Garth Ennis, John McCrea and James Hodgkins"
   ],
-  "description": "The Thousand is a fictional character, a comic book supervillain and enemy of Spider-Man in the Marvel Comics Universe. Created in combination by Garth Ennis, John McCrea and James Hodgkins, the character first appears in Tangled Web of Spider-Man #1.",
+  "description": "The Thousand is a fictional character, a comic book supervillain and enemy of Spider-Man in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Thousand",
@@ -39,6 +36,9 @@
     "Carl King"
   ],
   "species": [
+  ],
+  "teams": [
+    "None"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Thousand_(comics)"

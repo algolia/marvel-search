@@ -5,13 +5,10 @@
     "Guardian",
     "Hauptmann Deutschland"
   ],
-  "alliances": [
-    "Schutz Heiliggruppe"
-  ],
   "authors": [
     "unknown"
   ],
-  "description": "Hauptmann Deutschland (German for Captain Germany), also known as Vormund, is a fictional character in the Marvel Comics universe.",
+  "description": "Hauptmann Deutschland (German for Captain Germany), also known as Vormund, is a fictional character in the Marvel Comics universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4dd531d26079c/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
     "Markus Ettlinger"
   ],
   "species": [
+  ],
+  "teams": [
+    "Schutz Heiliggruppe"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/868/guardian",

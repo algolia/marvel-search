@@ -2,14 +2,11 @@
   "aliases": [
     "Cancer"
   ],
-  "alliances": [
-    "Zodiac"
-  ],
   "authors": [
     "Roy Thomas",
     "Sal Buscema"
   ],
-  "description": "Cancer is the name of three fictional characters in Marvel Comics.",
+  "description": "Cancer is the name of three fictional characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Cancer",
@@ -29,6 +26,9 @@
     "Jack Klevano"
   ],
   "species": [
+  ],
+  "teams": [
+    "Zodiac"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Cancer_(comics)"

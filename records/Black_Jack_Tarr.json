@@ -2,14 +2,11 @@
   "aliases": [
     "Black Jack Tarr"
   ],
-  "alliances": [
-    "Freelance Restorations"
-  ],
   "authors": [
     "Steve Englehart",
     "Jim Starlin"
   ],
-  "description": "\"Black\" Jack Tarr is a fictional character in the Marvel Universe. Jack Tarr is Sir Denis Nayland Smith's aide-de-camp, and is a powerful giant of a man with a gruff manner.",
+  "description": "\"Black\" Jack Tarr is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Black Jack Tarr",
@@ -29,6 +26,9 @@
     "Jack Tarr"
   ],
   "species": [
+  ],
+  "teams": [
+    "Freelance Restorations"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Jack_Tarr"

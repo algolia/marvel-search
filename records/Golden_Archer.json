@@ -4,16 +4,11 @@
     "Black Archer",
     "Golden Archer"
   ],
-  "alliances": [
-    "Squadron Supreme",
-    "Redeemers",
-    "America Redeemers"
-  ],
   "authors": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "description": "Golden Archer (Wyatt McDonald) is a fictional superhero that has appeared in various comic book series published by Marvel Comics. A member of the Squadron Supreme, the character exists in the universe of that team, an alternate universe to Marvel's main shared universe, the Marvel Universe.Although he was a Marvel Comics character, he was an analogue of the DC Comics hero Green Arrow.  He has also gone by the codenames Hawkeye and Black Archer. The name \"Golden Archer\", in conjunction with the character's last name, is a pun on the restaurant chain McDonald's' well-known logo, the \"Golden Arches\".The Avenger Hawkeye of the Marvel Universe also briefly used the costumed identity of the Golden Archer.",
+  "description": "Golden Archer (Wyatt McDonald) is a fictional superhero that has appeared in various comic book series published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/537bad9caa831/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +31,11 @@
     "Wyatt McDonald"
   ],
   "species": [
+  ],
+  "teams": [
+    "Squadron Supreme",
+    "Redeemers",
+    "America Redeemers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1010808/hawkeye_kate_bishop/featured",

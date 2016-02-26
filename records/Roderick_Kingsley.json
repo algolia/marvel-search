@@ -4,9 +4,6 @@
     "Hobgoblin",
     "Roderick Kingsley"
   ],
-  "alliances": [
-    "Astonishing Avengers"
-  ],
   "authors": [
     "John Romita, Jr.",
     "Roger Stern",
@@ -17,7 +14,7 @@
     "Steve Ditko",
     ")"
   ],
-  "description": "Roderick Kingsley is the first of several fictional characters who would claim the alias Hobgoblin that appears in comic books published by Marvel Comics. He first appeared in Peter Parker, The Spectacular Spider-Man #43 then as the Hobgoblin in The Amazing Spider-Man #238, and was created by Roger Stern and John Romita, Jr. In 2009, the Hobgoblin was ranked by IGN as the 57th greatest comic book villain.",
+  "description": "Roderick Kingsley is the first of several fictional characters who would claim the alias Hobgoblin that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/Roderick_Kingsley_%28Hobgoblin%29.jpg",
   "isHero": false,
   "isVillain": true,
@@ -49,6 +46,9 @@
     "Roderick Kingsley"
   ],
   "species": [
+  ],
+  "teams": [
+    "Astonishing Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/965/hobgoblin",

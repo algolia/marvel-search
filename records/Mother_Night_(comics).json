@@ -3,15 +3,11 @@
     "Suprema",
     "Mother Night"
   ],
-  "alliances": [
-    "Sisters of Sin",
-    "Skeleton Crew"
-  ],
   "authors": [
     "Stan Lee",
     "Gene Colan"
   ],
-  "description": "Mother Night is a fictional character in the Marvel Universe.",
+  "description": "Mother Night is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Mother Night",
@@ -37,6 +33,10 @@
     "Susan Scarbo"
   ],
   "species": [
+  ],
+  "teams": [
+    "Sisters of Sin",
+    "Skeleton Crew"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mother_Night_(comics)"

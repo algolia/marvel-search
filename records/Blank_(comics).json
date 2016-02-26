@@ -2,13 +2,11 @@
   "aliases": [
     "Blank"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Roger Stern",
     "Bob Hall"
   ],
-  "description": "The Blank is a fictional character that appears in comic books published by Marvel Comics. The character first appears in West Coast Avengers #2 (October 1984) and was created by Roger Stern and Bob Hall.",
+  "description": "The Blank is a fictional character that appears in comic books published by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Blank",
@@ -32,6 +30,8 @@
     "Unknown"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Blank_(comics)"

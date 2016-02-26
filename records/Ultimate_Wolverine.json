@@ -5,13 +5,6 @@
     "Wolverine",
     "Ultimate Wolverine"
   ],
-  "alliances": [
-    "Brotherhood of Mutants",
-    "Ultimate X-Men",
-    "The Ultimates",
-    "Brotherhood of Mutant Supremacy",
-    "Citation needed|date"
-  ],
   "authors": [
     "Adam Kubert",
     "Mark Millar",
@@ -23,7 +16,7 @@
     "John Romita, Sr.",
     ")"
   ],
-  "description": "Ultimate Wolverine is a fictional comic book superhero appearing in books published by Marvel Comics. He is an alternative version of Wolverine who appears in stories set in the Ultimate Marvel universe, a continuity that is separate from the mainstream Marvel 616 continuity in which most of Marvel's other stories are set. Created by writer Mark Millar and artist Adam Kubert (based on the original character created by Roy Thomas, Len Wein and John Romita, Sr.), Ultimate Wolverine first appeared in Ultimate X-Men #1 (February 2001).",
+  "description": "Ultimate Wolverine is a fictional comic book superhero appearing in books published by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Logan",
@@ -57,6 +50,13 @@
     "James \"Lucky Jim\" Howlett"
   ],
   "species": [
+  ],
+  "teams": [
+    "Brotherhood of Mutants",
+    "Ultimate X-Men",
+    "The Ultimates",
+    "Brotherhood of Mutant Supremacy",
+    "Citation needed|date"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1272/logan",

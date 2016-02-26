@@ -3,16 +3,13 @@
     "Aquarius",
     "Virgo"
   ],
-  "alliances": [
-    "Zodiac"
-  ],
   "authors": [
     "Roy Thomas",
     "Sal Buscema",
     "Dennis O'Neil",
     "Luke McDonnell"
   ],
-  "description": "Aquarius is the name of different fictional characters in Marvel Comics.",
+  "description": "Aquarius is the name of different fictional characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Aquarius",
@@ -33,6 +30,9 @@
     "Darren Bentley"
   ],
   "species": [
+  ],
+  "teams": [
+    "Zodiac"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Aquarius_(Marvel_Comics)"

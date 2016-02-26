@@ -2,15 +2,11 @@
   "aliases": [
     "Al MacKenzie"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "C.I.A."
-  ],
   "authors": [
     "Bob Harras",
     "Paul Neary"
   ],
-  "description": "Al MacKenzie is a fictional character in Marvel Comics.",
+  "description": "Al MacKenzie is a fictional character in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Al MacKenzie",
@@ -30,6 +26,10 @@
     "Alphonso MacKenzie"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "C.I.A."
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Al_MacKenzie"

@@ -2,8 +2,6 @@
   "aliases": [
     "Scarlet Scarab"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Second:",
     "Doug Moench",
@@ -16,7 +14,7 @@
     ".",
     "Alan Kupperberg"
   ],
-  "description": "Scarlet Scarab is the name of two fictional characters in the Marvel Universe.",
+  "description": "Scarlet Scarab is the name of two fictional characters in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Scarlet Scarab",
@@ -39,6 +37,8 @@
     "Abdul Faoul"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Scarlet_Scarab"

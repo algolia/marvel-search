@@ -2,12 +2,6 @@
   "aliases": [
     "Silver Sable"
   ],
-  "alliances": [
-    "Wild Pack",
-    "Outlaws",
-    "Intruders",
-    "Heroes for Hire"
-  ],
   "authors": [
     "Josef Rubinstein",
     "Tom DeFalco",
@@ -38,6 +32,12 @@
     "Silver Sablinova"
   ],
   "species": [
+  ],
+  "teams": [
+    "Wild Pack",
+    "Outlaws",
+    "Intruders",
+    "Heroes for Hire"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009590/silver_sable",

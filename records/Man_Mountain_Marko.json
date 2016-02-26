@@ -2,18 +2,13 @@
   "aliases": [
     "Man Mountain Marko"
   ],
-  "alliances": [
-    "Maggia",
-    "The Maggia",
-    "Sinister Sixteen"
-  ],
   "authors": [
     "Stan Lee",
     "John Romita",
     "Sr.",
     "John Romita, Sr."
   ],
-  "description": "Man Mountain Marko (Michael Marko) is a Marvel Comics supervillain. Marko was and remains an affiliate of numerous organized-crime entities in the Marvel universe, including the Maggia. He was originally introduced as the right hand man of Silvermane in The Amazing Spider-Man #73 and created by Stan Lee and John Romita, Sr..He was allied with Silvermane, Caesar Cicero, Eel I, and Nightshade. His most frequent enemies are Spider-Man, Power Man, Iron Fist, Thunderbolt, and Boomerang.",
+  "description": "Man Mountain Marko (Michael Marko) is a Marvel Comics supervillain",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/ASM073CVR_160ref.jpg/250px-ASM073CVR_160ref.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +32,11 @@
     "Michael Marko"
   ],
   "species": [
+  ],
+  "teams": [
+    "Maggia",
+    "The Maggia",
+    "Sinister Sixteen"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Man_Mountain_Marko"

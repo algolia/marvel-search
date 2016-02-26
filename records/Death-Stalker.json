@@ -4,10 +4,6 @@
     "Death's-Head",
     "Death-Stalker"
   ],
-  "alliances": [
-    "Ani-Men",
-    "Unholy Three"
-  ],
   "authors": [
     "Stan Lee",
     "Gene Colan;",
@@ -16,7 +12,7 @@
     "Gene Colan",
     "; (Death-Stalker)"
   ],
-  "description": "The Death-Stalker is the name of two fictional characters in Marvel Comics.",
+  "description": "The Death-Stalker is the name of two fictional characters in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Death-stalker.jpg/250px-Death-stalker.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +35,10 @@
     "Philip Wallace Sterling"
   ],
   "species": [
+  ],
+  "teams": [
+    "Ani-Men",
+    "Unholy Three"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Death-Stalker"

@@ -4,17 +4,13 @@
     "Moondark the Magician",
     "Moondark"
   ],
-  "alliances": [
-    "Dark Beings/Gods",
-    "Freaks"
-  ],
   "authors": [
     "Gerry Conway",
     "Len Wein",
     "and Ross Andru",
     "Ross Andru"
   ],
-  "description": "Moondark is a fictional character in the Marvel Universe.",
+  "description": "Moondark is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Moondark",
@@ -41,6 +37,10 @@
     "Unrevealed"
   ],
   "species": [
+  ],
+  "teams": [
+    "Dark Beings/Gods",
+    "Freaks"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Moondark"

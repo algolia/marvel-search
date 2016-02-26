@@ -4,10 +4,6 @@
     "White Tiger",
     "White Tiger (Heroes for Hire)"
   ],
-  "alliances": [
-    "U-Foes",
-    "Heroes for Hire"
-  ],
   "authors": [
     "Pasqual Ferry",
     "Roger Stern",
@@ -39,6 +35,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "U-Foes",
+    "Heroes for Hire"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2559/white_tiger",

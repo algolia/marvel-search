@@ -2,12 +2,9 @@
   "aliases": [
     "Kamikaze"
   ],
-  "alliances": [
-    "Mutant Liberation Front"
-  ],
   "authors": [
   ],
-  "description": "Kamikaze (Haruo Tsuburaya) is a fictional character, a mutant in the Marvel Comics Universe. His first appearance was in New Mutants  #93.",
+  "description": "Kamikaze (Haruo Tsuburaya) is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Kamikaze",
@@ -30,6 +27,9 @@
     "MLF entry</ref>"
   ],
   "species": [
+  ],
+  "teams": [
+    "Mutant Liberation Front"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Kamikaze_(comics)"

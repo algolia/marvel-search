@@ -2,13 +2,11 @@
   "aliases": [
     "Kulan Gath"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Barry Windsor-Smith",
     "Roy Thomas"
   ],
-  "description": "Kulan Gath is a fictional character, a villainous magician who was created at Marvel Comics as a foe of Conan the Barbarian and who was later fully integrated into the Marvel Universe and in 2006 was used in Dynamite Entertainment's revamped Red Sonja series.The character's first appearance was in Conan the Barbarian #14 and #15. Despite not being owned by Marvel, he has fought several of Marvel's modern-day superheroes, and was particularly made popular from his use in X-Men.",
+  "description": "Kulan Gath is a fictional character, a villainous magician who was created at Marvel Comics as a foe of Conan the Barbarian and who was later fully integrated into the Marvel Universe and in 2006 was used in Dynamite Entertainment's revamped Red Sonja series",
   "isHero": false,
   "isVillain": false,
   "name": "Kulan Gath",
@@ -30,6 +28,8 @@
     "Kulan Gath"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2862/kulan_gath",

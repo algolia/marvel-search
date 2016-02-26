@@ -2,11 +2,9 @@
   "aliases": [
     "Smokescreen"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "Smokescreen is a fictional character that appeared in comic books published by Marvel Comics.  A criminal looking to take over the illegal gambling business. He appears in the public service comic Spider-Man Storm and Power Man Battle Smokescreen to aware readers of the dangers of smoking. He momentarily captures Storm then is captured by Spider-Man with the assistance of Power Man who then hand him over into police custody.",
+  "description": "Smokescreen is a fictional character that appeared in comic books published by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Smokescreen",
@@ -29,6 +27,8 @@
     "Unknown"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Smokescreen_(Marvel_Comics)"

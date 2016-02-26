@@ -4,10 +4,6 @@
     "Stilt-Man",
     "Stunt-Master"
   ],
-  "alliances": [
-    "Emissaries of Evil",
-    "Gang of Four"
-  ],
   "authors": [
     "Stan Lee",
     "Wally Wood"
@@ -42,6 +38,10 @@
     "Wilbur Day"
   ],
   "species": [
+  ],
+  "teams": [
+    "Emissaries of Evil",
+    "Gang of Four"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2222/stilt-man",

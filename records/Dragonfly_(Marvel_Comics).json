@@ -3,16 +3,11 @@
     "Veronica Dultry",
     "Dragonfly"
   ],
-  "alliances": [
-    "Ani-Men",
-    "Femizons",
-    "Masters of Evil"
-  ],
   "authors": [
     "Chris Claremont",
     "Len Wein"
   ],
-  "description": "Dragonfly (Veronica Dultry) is a fictional supervillain in the Marvel Comics universe.",
+  "description": "Dragonfly (Veronica Dultry) is a fictional supervillain in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Dragonfly",
@@ -34,6 +29,11 @@
     "Veronica Dultry"
   ],
   "species": [
+  ],
+  "teams": [
+    "Ani-Men",
+    "Femizons",
+    "Masters of Evil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Dragonfly_(Marvel_Comics)"

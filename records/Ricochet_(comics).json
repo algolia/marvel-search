@@ -2,16 +2,11 @@
   "aliases": [
     "Ricochet"
   ],
-  "alliances": [
-    "Slingers",
-    "Avengers Academy",
-    "Loners"
-  ],
   "authors": [
     "Adam Pollina",
     "Joseph Harris"
   ],
-  "description": "Ricochet was an alternate identity used by the fictional superhero Spider-Man and later adopted by college student Johnny Gallo, who appeared in the Marvel Comics series Slingers.",
+  "description": "Ricochet was an alternate identity used by the fictional superhero Spider-Man and later adopted by college student Johnny Gallo, who appeared in the Marvel Comics series Slingers",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/RicochetJohnny.jpg/220px-RicochetJohnny.jpg",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +33,11 @@
     "Jonathan \"Johnny\" Gallo"
   ],
   "species": [
+  ],
+  "teams": [
+    "Slingers",
+    "Avengers Academy",
+    "Loners"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1923/ricochet",

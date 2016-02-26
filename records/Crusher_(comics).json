@@ -6,8 +6,6 @@
     "Crusher III",
     "Crusher"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Gene Colan",
@@ -15,7 +13,7 @@
     "Tony Isabella",
     "Jack Kirby"
   ],
-  "description": "Crusher is the name of three Marvel Comics supervillains.",
+  "description": "Crusher is the name of three Marvel Comics supervillains",
   "isHero": false,
   "isVillain": false,
   "name": "Crusher",
@@ -39,6 +37,8 @@
     "Caldwell Rozza"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Crusher_(comics)"

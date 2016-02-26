@@ -2,15 +2,12 @@
   "aliases": [
     "Devos the Devastator"
   ],
-  "alliances": [
-    "Fearsome Foursome"
-  ],
   "authors": [
     "Danny Bulanadi",
     "Tom DeFalco",
     "Paul Ryan"
   ],
-  "description": "Devos the Devastator is a fictional character, a supervillain appearing in the Marvel Comics universe.  He is a foe of the Fantastic Four.  His first appearance was in Fantastic Four #359 (December, 1991); he was created by Tom DeFalco, Paul Ryan and Danny Bulanadi.",
+  "description": "Devos the Devastator is a fictional character, a supervillain appearing in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Devosff.jpg/250px-Devosff.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +34,9 @@
     "Devos"
   ],
   "species": [
+  ],
+  "teams": [
+    "Fearsome Foursome"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Devos_the_Devastator"

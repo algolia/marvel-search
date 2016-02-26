@@ -3,14 +3,11 @@
     "The Nuclear Man",
     "Mahkizmo"
   ],
-  "alliances": [
-    "Men of Machus"
-  ],
   "authors": [
     "Rich Buckler",
     "Gerry Conway"
   ],
-  "description": "Mahkizmo, also known as the Nuclear Man, is a fictional character in the Marvel Universe. As his name suggests, he is an extreme male chauvinist. He was created as an antagonist of Thundra, herself a character meant to symbolize extreme feminism.",
+  "description": "Mahkizmo, also known as the Nuclear Man, is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Mahkizmo",
@@ -34,6 +31,9 @@
     "Mahkizmo"
   ],
   "species": [
+  ],
+  "teams": [
+    "Men of Machus"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mahkizmo"

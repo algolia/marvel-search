@@ -4,12 +4,10 @@
     "Merc",
     "Mark Hazzard: Merc"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Archie Goodwin"
   ],
-  "description": "Mark Hazzard: Merc was a comic book series published by Marvel Comics under their New Universe imprint. The series ran for twelve issues in 1986 and 1987, plus one Annual.",
+  "description": "Mark Hazzard: Merc was a comic book series published by Marvel Comics under their New Universe imprint",
   "isHero": false,
   "isVillain": false,
   "name": "Mark Hazzard",
@@ -34,6 +32,8 @@
     "Mark Hazzard"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mark_Hazzard:_Merc"

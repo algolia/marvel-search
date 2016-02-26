@@ -2,14 +2,11 @@
   "aliases": [
     "Nanny"
   ],
-  "alliances": [
-    "The Right"
-  ],
   "authors": [
     "Louise Simonson",
     "Walt Simonson"
   ],
-  "description": "Nanny is the name of two different fictional characters in X-Men and related titles in the Marvel Comics Universe.The more well known Nanny is a mutant.",
+  "description": "Nanny is the name of two different fictional characters in X-Men and related titles in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Nanny",
@@ -32,6 +29,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "The Right"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Nanny_(comics)"

@@ -5,24 +5,6 @@
     "Captain America",
     "U.S. Agent"
   ],
-  "alliances": [
-    "West Coast Avengers",
-    "S.T.A.R.S.",
-    "Defenders",
-    "Invaders",
-    "Features of the Marvel Universe",
-    "Omega Flight",
-    "Bold Urban Commandos",
-    "The Mighty Avengers",
-    "Force Works",
-    "Dark Avengers",
-    "The Jury",
-    "Mighty Avengers",
-    "New Invaders",
-    "Secret Defenders",
-    "Commission on Superhuman Activities",
-    "Astonishing Avengers"
-  ],
   "authors": [
     "Mark Gruenwald",
     "Paul Neary"
@@ -64,6 +46,24 @@
     "John F. Walker"
   ],
   "species": [
+  ],
+  "teams": [
+    "West Coast Avengers",
+    "S.T.A.R.S.",
+    "Defenders",
+    "Invaders",
+    "Features of the Marvel Universe",
+    "Omega Flight",
+    "Bold Urban Commandos",
+    "The Mighty Avengers",
+    "Force Works",
+    "Dark Avengers",
+    "The Jury",
+    "Mighty Avengers",
+    "New Invaders",
+    "Secret Defenders",
+    "Commission on Superhuman Activities",
+    "Astonishing Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2431/us_agent",

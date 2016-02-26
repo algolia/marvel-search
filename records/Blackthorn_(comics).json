@@ -2,14 +2,11 @@
   "aliases": [
     "Blackthorn"
   ],
-  "alliances": [
-    "Strikeforce: Morituri"
-  ],
   "authors": [
     "Brent Anderson",
     "Peter B. Gillis"
   ],
-  "description": "Blackthorn (Aline Pagrovna) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri. The character was created by Peter B. Gillis and Brent Anderson.",
+  "description": "Blackthorn (Aline Pagrovna) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Blackthorn_Morituri_cover.jpg/250px-Blackthorn_Morituri_cover.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +29,9 @@
     "Aline Pagrovna"
   ],
   "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Blackthorn_(comics)"

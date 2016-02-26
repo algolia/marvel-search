@@ -3,13 +3,11 @@
     "Dr. Leonard \"Leo\" Skivorski Jr.",
     "Doc Samson"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Roy Thomas",
     "Herb Trimpe"
   ],
-  "description": "Doc Samson (Dr. Leonard \"Leo\" Samson) is a fictional character, a superhero and psychiatrist in the Marvel Comics universe, known as a supporting character in stories featuring the Hulk. He was portrayed by Ty Burrell in the 2008 film The Incredible Hulk.",
+  "description": "Doc Samson (Dr",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5261a84c1707c/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +42,8 @@
     "Dr. Leonard \"Leo\" Samson"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2704/doc_samson",

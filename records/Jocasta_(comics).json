@@ -3,20 +3,12 @@
     "Bride of Ultron",
     "Jocasta"
   ],
-  "alliances": [
-    "The Mighty Avengers",
-    "Avengers",
-    "Avengers Academy",
-    "Fifty State Initiative",
-    "Mighty Avengers",
-    "Mavericks"
-  ],
   "authors": [
     "George P%C3%A9rez",
     "Jim Shooter",
     "George Pérez"
   ],
-  "description": "Jocasta is a fictional, comic book superhero appearing in books published by Marvel Comics. A member of the Avengers, the character is a robot created by the villain Ultron.",
+  "description": "Jocasta is a fictional, comic book superhero appearing in books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c003eac7419a/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -47,6 +39,14 @@
     "Jocasta"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Mighty Avengers",
+    "Avengers",
+    "Avengers Academy",
+    "Fifty State Initiative",
+    "Mighty Avengers",
+    "Mavericks"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1095/jocasta",

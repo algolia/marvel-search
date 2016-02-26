@@ -3,16 +3,11 @@
     "White Gorilla",
     "Man-Ape"
   ],
-  "alliances": [
-    "Villans for Hire",
-    "Masters of Evil",
-    "Lethal Legion"
-  ],
   "authors": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "description": "Man-Ape is a fictional character, a supervillain in the Marvel Comics Universe, and frequent enemy of the Black Panther. He first appeared in Avengers #62 (March 1969).",
+  "description": "Man-Ape is a fictional character, a supervillain in the Marvel Comics Universe, and frequent enemy of the Black Panther",
   "image": "https://upload.wikimedia.org/wikipedia/en/6/63/Manape.png",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +36,11 @@
     "M'Baku"
   ],
   "species": [
+  ],
+  "teams": [
+    "Villans for Hire",
+    "Masters of Evil",
+    "Lethal Legion"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Man-Ape"

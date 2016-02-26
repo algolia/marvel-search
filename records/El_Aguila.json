@@ -3,13 +3,11 @@
     "El Águila",
     "El Aguila"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Dave Cockrum",
     "Mary Jo Duffy"
   ],
-  "description": "El Águila (Alejandro Montoya) is a fictional mutant character in the Marvel Comics Universe.  El Águila is patterned after the literary hero, Zorro.",
+  "description": "El Águila (Alejandro Montoya) is a fictional mutant character in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "El Águila",
@@ -32,6 +30,8 @@
     "Alejandro Montoya"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/El_Aguila"

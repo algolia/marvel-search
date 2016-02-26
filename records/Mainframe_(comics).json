@@ -1,9 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "A-Next"
-  ],
   "authors": [
     "Tom DeFalco",
     "Ron Frenz"
@@ -32,6 +29,9 @@
     "Mainframe"
   ],
   "species": [
+  ],
+  "teams": [
+    "A-Next"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mainframe_(comics)"

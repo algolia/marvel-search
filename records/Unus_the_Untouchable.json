@@ -6,16 +6,11 @@
     "Unuscione, Angelo",
     "Unus the Untouchable"
   ],
-  "alliances": [
-    "Brotherhood of Mutants",
-    "Secret Empire",
-    "Factor Three"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Unus the Untouchable (Gunther Bain, born Angelo Unuscione) is a fictional character from the comic book X-Men and part of the Marvel Comics Universe. A mutant, Unus is named for his ability to consciously project a force field which protects him from harm.",
+  "description": "Unus the Untouchable (Gunther Bain, born Angelo Unuscione) is a fictional character from the comic book X-Men and part of the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Unus the Untouchable",
@@ -38,6 +33,11 @@
     "Angelo \"Unus\" Unuscione; legally changed to Gunther Bain"
   ],
   "species": [
+  ],
+  "teams": [
+    "Brotherhood of Mutants",
+    "Secret Empire",
+    "Factor Three"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Unus_the_Untouchable"

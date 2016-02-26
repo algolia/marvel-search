@@ -3,15 +3,12 @@
     "Midnight",
     "Midnight Sun"
   ],
-  "alliances": [
-    "Legion of the Unliving"
-  ],
   "authors": [
     "Steve Englehart",
     "Jim Starlin",
     "Al Milgrom"
   ],
-  "description": "Midnight Sun (M'Nai) is a fictional character, a former supervillain in the Marvel Comics universe. He first appeared in Marvel Special Edition #16 (February 1974), and was created by Steve Englehart, Jim Starlin, and Al Milgrom.",
+  "description": "Midnight Sun (M'Nai) is a fictional character, a former supervillain in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/MidnightSun02.JPG/250px-MidnightSun02.JPG",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +37,9 @@
     "M'Nai"
   ],
   "species": [
+  ],
+  "teams": [
+    "Legion of the Unliving"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1451/midnight",

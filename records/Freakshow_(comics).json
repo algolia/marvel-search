@@ -2,14 +2,10 @@
   "aliases": [
     "Freakshow"
   ],
-  "alliances": [
-    "Excalibur",
-    "Genoshan Excalibur"
-  ],
   "authors": [
     "Chris Claremont"
   ],
-  "description": "Freakshow is a fictional character created by Chris Claremont for Marvel comics' second installment of the series Excalibur. He is one of the few survivors of the island of Genosha which was destroyed by the wild Sentinel attacks commissioned by Cassandra Nova.",
+  "description": "Freakshow is a fictional character created by Chris Claremont for Marvel comics' second installment of the series Excalibur",
   "image": "https://upload.wikimedia.org/wikipedia/en/b/b8/Freakshow-by-Aaron-Lopresti.jpg",
   "isHero": false,
   "isVillain": false,
@@ -30,6 +26,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Excalibur",
+    "Genoshan Excalibur"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Freakshow_(comics)"

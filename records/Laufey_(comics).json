@@ -2,14 +2,11 @@
   "aliases": [
     "Laufey"
   ],
-  "alliances": [
-    "Dark Council"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Laufey is a comic book supervillain appearing in books published by Marvel Comics, usually as an enemy of the Asgardian king Odin, father of Thor. He is the King of the Frost Giants, the biological father of Thor's stepbrother and archenemy, Loki. Created by writer Stan Lee and artist Jack Kirby, he first appeared in Journey into Mystery #112 (Jan. 1965), and was based on the frost giantess of the same name who, in Norse mythology was actually the mother of Loki.",
+  "description": "Laufey is a comic book supervillain appearing in books published by Marvel Comics, usually as an enemy of the Asgardian king Odin, father of Thor",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/LaufeyMarvel.jpg/250px-LaufeyMarvel.jpg",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +35,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Dark Council"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Laufey_(comics)"

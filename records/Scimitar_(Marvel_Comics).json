@@ -3,14 +3,11 @@
     "None",
     "Scimitar"
   ],
-  "alliances": [
-    "Weaponeers"
-  ],
   "authors": [
     "John Byrne",
     "Chris Claremont"
   ],
-  "description": "Scimitar is a supervillain in the Marvel Comics.Scimitar is a master of bladed weapons who serves Master Khan.",
+  "description": "Scimitar is a supervillain in the Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/0/02/ScimitarExcalibur.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +29,9 @@
     "unrevealed"
   ],
   "species": [
+  ],
+  "teams": [
+    "Weaponeers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Scimitar_(Marvel_Comics)"

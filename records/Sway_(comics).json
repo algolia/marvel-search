@@ -2,9 +2,6 @@
   "aliases": [
     "Sway"
   ],
-  "alliances": [
-    "X-Men"
-  ],
   "authors": [
     "Ed Brubaker",
     "Pete Woods"
@@ -33,6 +30,9 @@
     "Suzanne Chan"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2273/sway",

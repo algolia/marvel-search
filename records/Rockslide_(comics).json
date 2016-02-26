@@ -2,21 +2,11 @@
   "aliases": [
     "Rockslide"
   ],
-  "alliances": [
-    "Young X-Men",
-    "New X-Men",
-    "X-Mansion",
-    "Hellions",
-    "Hellions training squad",
-    "Xavier Institute",
-    "X-Men-In-Training",
-    "Jean Grey School Students"
-  ],
   "authors": [
     "Nunzio DeFilippis",
     "Christina Weir"
   ],
-  "description": "Rockslide (Santo Vaccarro) is a fictional character, a mutant superhero and member of the X-Men in the Marvel Comics Universe. He is a student in the Xavier Institute and a member of the former Hellions squad therein. After M-Day, he was one of only 27 students to retain his powers. He is best friends with Julian Keller (Hellion) and is extremely close to and protective of Cessily Kincaid (Mercury). Despite his earlier appearances as a stereotypical bully, he has evolved into a good-natured (though extremely boastful) and fiercely protective friend to most of the school's students.",
+  "description": "Rockslide (Santo Vaccarro) is a fictional character, a mutant superhero and member of the X-Men in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Rockslide.jpg/250px-Rockslide.jpg",
   "isHero": true,
   "isVillain": false,
@@ -48,6 +38,16 @@
     "Santo Vaccarro"
   ],
   "species": [
+  ],
+  "teams": [
+    "Young X-Men",
+    "New X-Men",
+    "X-Mansion",
+    "Hellions",
+    "Hellions training squad",
+    "Xavier Institute",
+    "X-Men-In-Training",
+    "Jean Grey School Students"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1943/rockslide",

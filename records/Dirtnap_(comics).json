@@ -2,13 +2,9 @@
   "aliases": [
     "Dirtnap"
   ],
-  "alliances": [
-    "Dark Riders",
-    "Hellions"
-  ],
   "authors": [
   ],
-  "description": "Dirtnap is a fictional mutant character in the Marvel Comics Universe. His first appearance was in Wolverine #95.",
+  "description": "Dirtnap is a fictional mutant character in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Dirtnap_genx38_tdodson.jpg/250px-Dirtnap_genx38_tdodson.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +28,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Dark Riders",
+    "Hellions"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Dirtnap_(comics)"

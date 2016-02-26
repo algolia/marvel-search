@@ -2,14 +2,11 @@
   "aliases": [
     "Margaret Slade"
   ],
-  "alliances": [
-    "Clan Akkaba"
-  ],
   "authors": [
     "Clayton Henry",
     "Frank Tieri"
   ],
-  "description": "Margaret Slade is a fictional character and mutant in the Marvel Comics universe. She makes her first appearance in X-Men: Apocalypse vs. Dracula #2.",
+  "description": "Margaret Slade is a fictional character and mutant in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Margaret Slade",
@@ -30,6 +27,9 @@
     "Margaret Slade"
   ],
   "species": [
+  ],
+  "teams": [
+    "Clan Akkaba"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Slade"

@@ -2,14 +2,11 @@
   "aliases": [
     "Silencer"
   ],
-  "alliances": [
-    "Strikeforce: Morituri"
-  ],
   "authors": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "description": "Silencer (Akiya Badaranaike) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri. The character was created by Peter B. Gillis and Brent Anderson.",
+  "description": "Silencer (Akiya Badaranaike) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri",
   "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Silencer_comics.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +29,9 @@
     "Akiya Badaranaike"
   ],
   "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Silencer_(comics)"

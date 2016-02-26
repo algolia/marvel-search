@@ -6,13 +6,6 @@
     "Sorceress",
     "Sersi"
   ],
-  "alliances": [
-    "Eternals",
-    "God Squad",
-    "New Breed",
-    "Heroes for Hire",
-    "Avengers"
-  ],
   "authors": [
     "Jack Kirby"
   ],
@@ -44,6 +37,13 @@
     "Sersi"
   ],
   "species": [
+  ],
+  "teams": [
+    "Eternals",
+    "God Squad",
+    "New Breed",
+    "Heroes for Hire",
+    "Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2053/sersi",

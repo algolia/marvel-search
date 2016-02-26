@@ -4,16 +4,11 @@
     "Lloyd Willoughby",
     "Libra"
   ],
-  "alliances": [
-    "Zodiac",
-    "Avengers",
-    "The Zodiac"
-  ],
   "authors": [
     "Sal Buscema",
     "Roy Thomas"
   ],
-  "description": "For the DC Comics version, see Libra.Libra is the name of different characters in Marvel Comics.",
+  "description": "For the DC Comics version, see Libra",
   "isHero": false,
   "isVillain": false,
   "name": "Libra",
@@ -36,6 +31,11 @@
     "Gustav Brandt"
   ],
   "species": [
+  ],
+  "teams": [
+    "Zodiac",
+    "Avengers",
+    "The Zodiac"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Libra_(Marvel_Comics)"

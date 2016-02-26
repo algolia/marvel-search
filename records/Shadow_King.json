@@ -7,12 +7,6 @@
     "Karma",
     "Shadow King"
   ],
-  "alliances": [
-    "Gladiators",
-    "Brotherhood of Mutants",
-    "Shadow-X",
-    "Dark X-Men"
-  ],
   "authors": [
     "Chris Claremont",
     "John Byrne"
@@ -41,6 +35,12 @@
     "Amahl Farouk"
   ],
   "species": [
+  ],
+  "teams": [
+    "Gladiators",
+    "Brotherhood of Mutants",
+    "Shadow-X",
+    "Dark X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2057/shadow_king",

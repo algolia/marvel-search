@@ -3,12 +3,9 @@
     "Pixie",
     "Pixie (Morlock)"
   ],
-  "alliances": [
-    "Morlocks"
-  ],
   "authors": [
   ],
-  "description": "Pixie is a fictional character, a mutant in the Marvel Comics Universe. Her first appearance was in Ghost Rider Vol III #8 (December, 1990).",
+  "description": "Pixie is a fictional character, a mutant in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4c002f2d626ee/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -31,6 +28,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Morlocks"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1758/pixie",

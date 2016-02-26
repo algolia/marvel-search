@@ -2,11 +2,6 @@
   "aliases": [
     "The Wisp"
   ],
-  "alliances": [
-    "Roxxon Energy Corporation",
-    "Exterminators[http://www.marvunapp.com/Appendix4/exterminatorschamln.htm]",
-    "The Outlaws"
-  ],
   "authors": [
     "Len Wein",
     "Ross Andru"
@@ -41,6 +36,11 @@
     "Jackson Arvad"
   ],
   "species": [
+  ],
+  "teams": [
+    "Roxxon Energy Corporation",
+    "Exterminators[http://www.marvunapp.com/Appendix4/exterminatorschamln.htm]",
+    "The Outlaws"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Will_o%27_the_Wisp_(comics)"

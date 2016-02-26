@@ -2,15 +2,11 @@
   "aliases": [
     "Slab"
   ],
-  "alliances": [
-    "Mutant Liberation Front",
-    "Nasty Boys"
-  ],
   "authors": [
     "Peter David",
     "Larry Stroman"
   ],
-  "description": "Slab (Christopher Anderson), a fictional character in the Marvel Comics Universe. His first appearance was in X-Factor  #74.",
+  "description": "Slab (Christopher Anderson), a fictional character in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Slab",
@@ -33,6 +29,10 @@
     "Christopher Anderson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Mutant Liberation Front",
+    "Nasty Boys"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Slab_(comics)"

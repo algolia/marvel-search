@@ -5,9 +5,6 @@
     "Crime Master II",
     "Crime Master"
   ],
-  "alliances": [
-    "Savage Six"
-  ],
   "authors": [
     "as Crime-Master: Rick Remender",
     "Tony Moore",
@@ -17,7 +14,7 @@
     "Sal Buscema",
     "Stan Lee"
   ],
-  "description": "The Crime Master is a Marvel Comics super-villain, of the professional-criminal type, and an enemy of Spider-Man. Created by writer Stan Lee and designed by artist Steve Ditko, he first appears in The Amazing Spider-Man #26 (July 1965). The character was most notable for having briefly been the partner of the Green Goblin. Both villains aspire to take over the criminal mobs of New York and form an uneasy partnership. They are both aware of the other's secret identity which keeps them from outwardly betraying the other. The Crime-Master only lasted two issues, being killed at the conclusion of The Amazing Spider-Man #27; however, there was a second Crime Master in the 1970s, and new stories were written in the pages of Untold Tales of Spider-Man that featured the original character before his death.",
+  "description": "The Crime Master is a Marvel Comics super-villain, of the professional-criminal type, and an enemy of Spider-Man",
   "isHero": false,
   "isVillain": false,
   "name": "Crime Master",
@@ -39,6 +36,9 @@
     "Bennett Brant"
   ],
   "species": [
+  ],
+  "teams": [
+    "Savage Six"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Crime_Master"

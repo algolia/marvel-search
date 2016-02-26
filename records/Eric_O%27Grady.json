@@ -4,15 +4,6 @@
     "Derek Sullivan",
     "G.I. Ant-Man"
   ],
-  "alliances": [
-    "Damage Control",
-    "Initiative",
-    "Secret Avengers",
-    "Shadow Initiative",
-    "S.H.I.E.L.D.",
-    "Thunderbolts",
-    "Illuminati"
-  ],
   "authors": [
     "Robert Kirkman",
     "Phil Hester"
@@ -42,6 +33,15 @@
     "Eric O'Grady"
   ],
   "species": [
+  ],
+  "teams": [
+    "Damage Control",
+    "Initiative",
+    "Secret Avengers",
+    "Shadow Initiative",
+    "S.H.I.E.L.D.",
+    "Thunderbolts",
+    "Illuminati"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1010802/ant-man_eric_ogrady/featured",

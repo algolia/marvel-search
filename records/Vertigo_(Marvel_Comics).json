@@ -2,11 +2,6 @@
   "aliases": [
     "Vertigo"
   ],
-  "alliances": [
-    "Savage Land Mutates",
-    "Femizons",
-    "Marauders"
-  ],
   "authors": [
     "Michael Golden",
     "Chris Claremont"
@@ -34,6 +29,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Savage Land Mutates",
+    "Femizons",
+    "Marauders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2483/vertigo",

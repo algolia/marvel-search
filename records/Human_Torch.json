@@ -6,20 +6,11 @@
     "Invisible Man",
     "Human Torch"
   ],
-  "alliances": [
-    "Fantastic Force",
-    "Fantastic Four",
-    "Galactus",
-    "Future Foundation",
-    "Fantastic Four Incorporated",
-    "Herald of Galactus",
-    "Avengers Unity Division"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "The Human Torch is a fictional character, a superhero that appears in comic books published by Marvel Comics. He is a founding member of the Fantastic Four. A similar, unrelated character of the same name and powers had been created in 1939 by writer-artist Carl Burgos for Marvel Comics' predecessor company, Timely Comics.Like the rest of the Fantastic Four, Jonathan \"Johnny\" Storm gained his powers on a spacecraft bombarded by cosmic rays.  He can engulf his entire body in flames, is able to fly, can absorb fire harmlessly into his own body, and can control any nearby fire by sheer force of will.  \"Flame on!\", which the Torch customarily shouts when activating his full-body flame effect, has become his catchphrase.The youngest of the group, he is brash and impetuous in comparison to his reticent and compassionate sister, Susan Storm, his sensible brother-in-law, Reed Richards, and the grumbling Ben Grimm.In the early 1960s, he starred in a series of solo adventures, published in Strange Tales. He is also a friend and frequent ally of Spider-Man, who is approximately the same age as the Torch.Jay Underwood played him in the unreleased 1994 film The Fantastic Four, and Chris Evans portrayed him in the 2005 film Fantastic Four, and its 2007 sequel Fantastic Four: Rise of the Silver Surfer. In February 2014, Michael B. Jordan was cast to play Johnny Storm in the upcoming 2015 The Fantastic Four.",
+  "description": "The Human Torch is a fictional character, a superhero that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5261a7f7b0917/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -49,6 +40,15 @@
     "Jonathan Lowell Spencer \"Johnny\" Storm"
   ],
   "species": [
+  ],
+  "teams": [
+    "Fantastic Force",
+    "Fantastic Four",
+    "Galactus",
+    "Future Foundation",
+    "Fantastic Four Incorporated",
+    "Herald of Galactus",
+    "Avengers Unity Division"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/26/human_torch",

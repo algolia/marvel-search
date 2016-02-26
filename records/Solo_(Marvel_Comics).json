@@ -2,12 +2,6 @@
   "aliases": [
     "Solo"
   ],
-  "alliances": [
-    "Six Pack",
-    "Omega Strike",
-    "Heroes for Hire",
-    "Mercs for Money"
-  ],
   "authors": [
     "Marc Silvestri",
     "David Michelinie"
@@ -42,6 +36,12 @@
     "James Bourne"
   ],
   "species": [
+  ],
+  "teams": [
+    "Six Pack",
+    "Omega Strike",
+    "Heroes for Hire",
+    "Mercs for Money"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2155/solo",

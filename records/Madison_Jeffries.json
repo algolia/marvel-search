@@ -4,18 +4,10 @@
     "Gemini",
     "Madison Jeffries"
   ],
-  "alliances": [
-    "Zodiac",
-    "Alpha Flight",
-    "Gamma Flight",
-    "Weapon X",
-    "X-Men",
-    "X-Club"
-  ],
   "authors": [
     "John Byrne"
   ],
-  "description": "Madison Jeffries is a fictional character, a mutant superhero in the Marvel Comics Universe with the ability to reshape plastic, metal, and glass to any shape desired. He also has the technopathic ability to mentally communicate with AI, such as machines and robots.",
+  "description": "Madison Jeffries is a fictional character, a mutant superhero in the Marvel Comics Universe with the ability to reshape plastic, metal, and glass to any shape desired",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4ce59ef63362d/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +34,14 @@
     "Madison Jeffries"
   ],
   "species": [
+  ],
+  "teams": [
+    "Zodiac",
+    "Alpha Flight",
+    "Gamma Flight",
+    "Weapon X",
+    "X-Men",
+    "X-Club"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/346/box",

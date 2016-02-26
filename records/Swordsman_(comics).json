@@ -2,12 +2,6 @@
   "aliases": [
     "Swordsman"
   ],
-  "alliances": [
-    "Avengers",
-    "Emissaries of Evil",
-    "Legion of the Unliving",
-    "Lethal Legion"
-  ],
   "authors": [
     "Stan Lee",
     "Don Heck"
@@ -45,6 +39,12 @@
     "Jacques Duquesne"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "Emissaries of Evil",
+    "Legion of the Unliving",
+    "Lethal Legion"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2276/swordsman",

@@ -2,16 +2,13 @@
   "aliases": [
     "Psyklop"
   ],
-  "alliances": [
-    "Dark Gods"
-  ],
   "authors": [
     "Jim Mooney",
     "Harlan Ellison",
     "Roy Thomas",
     "Sal Buscema"
   ],
-  "description": "Psyklop is a fictional character, a comic book supervillain in the Marvel Comics Universe. Created in combination by Harlan Ellison, Roy Thomas, Sal Buscema and Jim Mooney, the character first appears Avengers vol. 1 #88.",
+  "description": "Psyklop is a fictional character, a comic book supervillain in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Psyklop",
@@ -41,6 +38,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Dark Gods"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Psyklop"

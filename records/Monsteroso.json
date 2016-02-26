@@ -2,14 +2,12 @@
   "aliases": [
     "Monsteroso"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "Monsteroso can refer to two different characters in the universe of Marvel Comics.",
+  "description": "Monsteroso can refer to two different characters in the universe of Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Amazing_Adventures_5.png/200px-Amazing_Adventures_5.png",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +31,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Monsteroso"

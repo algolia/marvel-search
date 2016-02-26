@@ -2,21 +2,11 @@
   "aliases": [
     "Skids"
   ],
-  "alliances": [
-    "Morlocks",
-    "The 198",
-    "Acolytes",
-    "New Mutants",
-    "Mutant Liberation Front",
-    "X-Terminators",
-    "X-Corporation",
-    "S.H.I.E.L.D."
-  ],
   "authors": [
     "Louise Simonson",
     "Jackson Guice"
   ],
-  "description": "Skids (Sally Blevins) is a Marvel Comics mutant.",
+  "description": "Skids (Sally Blevins) is a Marvel Comics mutant",
   "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Skids.jpg",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +28,16 @@
     "Sally Blevins"
   ],
   "species": [
+  ],
+  "teams": [
+    "Morlocks",
+    "The 198",
+    "Acolytes",
+    "New Mutants",
+    "Mutant Liberation Front",
+    "X-Terminators",
+    "X-Corporation",
+    "S.H.I.E.L.D."
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Skids_(comics)"

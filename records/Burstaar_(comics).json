@@ -4,12 +4,6 @@
     "Living Bomb-Burst",
     "Blasstaar"
   ],
-  "alliances": [
-    "Aliens of the",
-    "Negative Zone",
-    "Frightful Four",
-    "Legion Accursed"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
@@ -43,6 +37,12 @@
     "Blastaar"
   ],
   "species": [
+  ],
+  "teams": [
+    "Aliens of the",
+    "Negative Zone",
+    "Frightful Four",
+    "Legion Accursed"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Burstaar_(comics)"

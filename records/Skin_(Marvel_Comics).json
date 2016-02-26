@@ -2,9 +2,6 @@
   "aliases": [
     "Skin"
   ],
-  "alliances": [
-    "Generation X"
-  ],
   "authors": [
     "Joe Madureira",
     "Scott Lobdell"
@@ -32,6 +29,9 @@
     "Angelo Espinosa"
   ],
   "species": [
+  ],
+  "teams": [
+    "Generation X"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2124/skin",

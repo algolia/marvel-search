@@ -6,16 +6,9 @@
     "the Darkchilde Archimage",
     "Magik"
   ],
-  "alliances": [
-    "Phoenix Force",
-    "Hellions",
-    "New Mutants",
-    "X-Men",
-    "Phoenix Five"
-  ],
   "authors": [
   ],
-  "description": "Magik (Illyana Nikolievna Rasputina - typically anglicized to Rasputin) is a fictional character, a superhero that appears in comic books published by Marvel Comics, typically in fiction related to the X-Men. She first appeared in the comic book Giant-Size X-Men #1 (May 1975).Magik is the younger sister of the Russian X-Man Colossus. She is a member of a fictional sub-species of humanity known as \"mutants,\" who are born with superhuman abilities. Her natural mutant power is the ability to teleport.  She also is a capable sorceress.",
+  "description": "Magik (Illyana Nikolievna Rasputina - typically anglicized to Rasputin) is a fictional character, a superhero that appears in comic books published by Marvel Comics, typically in fiction related to the X-Men",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4c003414d6535/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +33,13 @@
     "Illyana Nikolaevna Alexandria Rasputina"
   ],
   "species": [
+  ],
+  "teams": [
+    "Phoenix Force",
+    "Hellions",
+    "New Mutants",
+    "X-Men",
+    "Phoenix Five"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1325/magik",

@@ -5,17 +5,11 @@
     "Citizen V",
     "Dallas Riordan"
   ],
-  "alliances": [
-    "Thunderbolts",
-    "V-Battalion",
-    "New York City Police Department",
-    "NYPD"
-  ],
   "authors": [
     "Mark Bagley",
     "Kurt Busiek"
   ],
-  "description": "Dallas Riordan  is a character in the Marvel Comics universe.",
+  "description": "Dallas Riordan  is a character in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Atlas (Team)",
@@ -36,6 +30,12 @@
     "Dallas Riordan"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "V-Battalion",
+    "New York City Police Department",
+    "NYPD"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/214/atlas",

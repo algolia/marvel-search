@@ -6,14 +6,11 @@
     "Marvel Boy",
     "Marvel Boy (Robert Grayson)"
   ],
-  "alliances": [
-    "Agents of Atlas"
-  ],
   "authors": [
     "Russ Heath",
     "Stan Lee"
   ],
-  "description": "Marvel Boy (Robert Grayson), also known as The Uranian, is a fictional character, a superhero in the Marvel Comics Universe, one of several to use the name \"Marvel Boy\". He was created by writer-editor Stan Lee and artist Russ Heath, and first appeared in Marvel Boy #1 (December 1950).",
+  "description": "Marvel Boy (Robert Grayson), also known as The Uranian, is a fictional character, a superhero in the Marvel Comics Universe, one of several to use the name \"Marvel Boy\"",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4c003d4a0e1c0/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -41,6 +38,9 @@
     "Robert Grayson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Agents of Atlas"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1377/marvel_boy",

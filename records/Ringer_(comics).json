@@ -4,13 +4,11 @@
     "The Ringer",
     "Ringer"
   ],
-  "alliances": [
-  ],
   "authors": [
     "David Kraft",
     "Keith Giffen"
   ],
-  "description": "Ringer is the name of multiple comic book supervillains in the Marvel Comics universe.",
+  "description": "Ringer is the name of multiple comic book supervillains in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/RingerMarvel.jpg/200px-RingerMarvel.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +40,8 @@
     "Anthony \"Tony\" Davis"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ringer_(comics)"

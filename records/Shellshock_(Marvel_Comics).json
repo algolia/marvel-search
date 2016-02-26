@@ -2,13 +2,11 @@
   "aliases": [
     "Shellshock"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Shellshock is a fictional character in the Marvel Universe.",
+  "description": "Shellshock is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Shellshock",
@@ -29,6 +27,8 @@
     "Gary Buser"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Shellshock_(Marvel_Comics)"

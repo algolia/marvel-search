@@ -1,12 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "Femizons",
-    "Masters of Evil",
-    "Thunderbolts",
-    "Women Warriors"
-  ],
   "authors": [
     "Tom DeFalco",
     "Ron Frenz"
@@ -40,6 +34,12 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Femizons",
+    "Masters of Evil",
+    "Thunderbolts",
+    "Women Warriors"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Quicksand_(comics)"

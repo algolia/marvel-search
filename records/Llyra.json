@@ -4,14 +4,11 @@
     "Laura \"Laurie\" Morris",
     "Llyra"
   ],
-  "alliances": [
-    "Frightful Four"
-  ],
   "authors": [
     "Roy Thomas",
     "Sal Buscema"
   ],
-  "description": "Llyra is a fictional character, a Marvel Comics super-villainess. She was created by Roy Thomas and Sal Buscema and first appeared in Sub-Mariner #32 (December, 1970).",
+  "description": "Llyra is a fictional character, a Marvel Comics super-villainess",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Sub-Mariner-32.jpg/250px-Sub-Mariner-32.jpg",
   "isHero": false,
   "isVillain": true,
@@ -39,6 +36,9 @@
     "Llyra Morris"
   ],
   "species": [
+  ],
+  "teams": [
+    "Frightful Four"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Llyra"

@@ -5,18 +5,11 @@
     "Masked Marvel",
     "Robbie Baldwin"
   ],
-  "alliances": [
-    "Damage Control",
-    "Shadow Initiative",
-    "Avengers Academy",
-    "Thunderbolts",
-    "New Warriors"
-  ],
   "authors": [
     "Tom DeFalco",
     "Steve Ditko"
   ],
-  "description": "Robert \"Robbie\" Baldwin is a fictional character, a superhero appearing in books published by Marvel Comics.Originally known as Speedball, the character was created by artist Steve Ditko and writer Tom DeFalco, initially as a candidate for Marvel's separate New Universe imprint.Baldwin first appeared in The Amazing Spider-Man Annual #22 (January 1988). The character's origin and early exploits as Speedball were depicted soon after in a solo series. After that series was cancelled, he appeared as a member of the superhero team the New Warriors, in the monthly title of the same name.In the Marvel Comics crossover \"Civil War\", Baldwin's powers change, and he changes his name and appearance to Penance.  Following this change, Baldwin becomes a member of the Thunderbolts.  As of the first issue of \"Avengers Academy\", he has reverted to Speedball and a modified version of his first appearance.",
+  "description": "Robert \"Robbie\" Baldwin is a fictional character, a superhero appearing in books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/4d52f6a668e76/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -39,6 +32,13 @@
     "Robert \"Robbie\" Baldwin"
   ],
   "species": [
+  ],
+  "teams": [
+    "Damage Control",
+    "Shadow Initiative",
+    "Avengers Academy",
+    "Thunderbolts",
+    "New Warriors"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2165/speedball",

@@ -2,16 +2,10 @@
   "aliases": [
     "Blue Marvel"
   ],
-  "alliances": [
-    "The Mighty Avengers",
-    "United States Marine Corps",
-    "Mighty Avengers",
-    "Ultimates"
-  ],
   "authors": [
     "Kevin Grevioux"
   ],
-  "description": "Blue Marvel (Adam Bernard Brashear) is a fictional character, a comic book superhero published by Marvel Comics. The Blue Marvel debuted in Adam: Legend of the Blue Marvel # 1, (November 2008), and was created by actor/writer Kevin Grevioux.  Grevioux originally had the idea for the character as a child.",
+  "description": "Blue Marvel (Adam Bernard Brashear) is a fictional character, a comic book superhero published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg/250px-Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg",
   "isHero": true,
   "isVillain": false,
@@ -49,6 +43,12 @@
     "Adam Bernard Brashear"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Mighty Avengers",
+    "United States Marine Corps",
+    "Mighty Avengers",
+    "Ultimates"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/327/blue_marvel",

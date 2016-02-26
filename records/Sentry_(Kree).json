@@ -3,9 +3,6 @@
     "Sentry",
     "Sentry (Kree)"
   ],
-  "alliances": [
-    "Kree"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
@@ -34,6 +31,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Kree"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2048/sentry",

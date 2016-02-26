@@ -2,16 +2,13 @@
   "aliases": [
     "Chance"
   ],
-  "alliances": [
-    "Fallen Angels"
-  ],
   "authors": [
     "Jo Duffy",
     "Kerry Gammill",
     "Mike Harris",
     "David Michelinie"
   ],
-  "description": "Chance is the name of two unrelated fictional characters in Marvel Comics.",
+  "description": "Chance is the name of two unrelated fictional characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Chance",
@@ -36,6 +33,9 @@
     "Nicholas Powell"
   ],
   "species": [
+  ],
+  "teams": [
+    "Fallen Angels"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Chance_(comics)"

@@ -1,9 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "The Order"
-  ],
   "authors": [
     "Matt Fraction",
     "Barry Kitson"
@@ -30,6 +27,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "The Order"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/158/anthem",

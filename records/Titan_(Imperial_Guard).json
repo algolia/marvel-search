@@ -4,14 +4,11 @@
     "Titan",
     "Titan (Imperial Guard)"
   ],
-  "alliances": [
-    "Imperial Guard"
-  ],
   "authors": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "description": "Titan is a fictional character that appears in the Marvel Universe.",
+  "description": "Titan is a fictional character that appears in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Onslaught (Ultimate)",
@@ -31,6 +28,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1657/onslaught",

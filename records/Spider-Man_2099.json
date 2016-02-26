@@ -3,10 +3,6 @@
     "Spider-Man 2099",
     "Spider-Man"
   ],
-  "alliances": [
-    "Exiles",
-    "Alchemax"
-  ],
   "authors": [
     "Peter David",
     "Rick Leonardi",
@@ -57,6 +53,10 @@
     "Miguel O'Hara"
   ],
   "species": [
+  ],
+  "teams": [
+    "Exiles",
+    "Alchemax"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/54/spider-man",

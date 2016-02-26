@@ -3,17 +3,11 @@
     "Redneck",
     "Skybolt"
   ],
-  "alliances": [
-    "Quentin Quire",
-    "New Warriors",
-    "Xavier Institute",
-    "Omega Gang"
-  ],
   "authors": [
     "Frank Quitely",
     "Grant Morrison"
   ],
-  "description": "Vincent Stewart, codenamed Redneck and later Skybolt is a fictional mutant character in the Marvel Comics Universe.  His first appearance was in New X-Men #126 by Grant Morrison and Frank Quitely.",
+  "description": "Vincent Stewart, codenamed Redneck and later Skybolt is a fictional mutant character in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Skybolt1.jpg/250px-Skybolt1.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +34,12 @@
     "Vincent \"Vin\" Stewart"
   ],
   "species": [
+  ],
+  "teams": [
+    "Quentin Quire",
+    "New Warriors",
+    "Xavier Institute",
+    "Omega Gang"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Redneck_(comics)"

@@ -3,20 +3,11 @@
     "Kurt Wagner",
     "Nightcrawler"
   ],
-  "alliances": [
-    "Excalibur",
-    "X-Men",
-    "X-Treme Sanctions Executive",
-    "Roman Catholic Archdiocese of New York",
-    "Holy See",
-    "Vatican",
-    "Archdiocese of New York"
-  ],
   "authors": [
     "Len Wein",
     "Dave Cockrum"
   ],
-  "description": "Nightcrawler (Kurt Wagner) is a fictional character, a superhero who appears in comic books published by Marvel Comics, as well as in a number of movie, television, and video game adaptations; typically in fiction related to the X-Men. Created by writer Len Wein and artist Dave Cockrum, he debuted in the comic book Giant-Size X-Men #1 (May 1975).Nightcrawler is a member of a fictional sub-species of humanity known as mutants, who are born with superhuman abilities. Nightcrawler possesses superhuman agility, the ability to teleport, and adhesive hands and feet. His physical mutations include indigo-colored skin which allows him to become nearly invisible in shadows, two-toed feet and three-fingered hands, yellow eyes, pointed ears and a prehensile tail. In Nightcrawler's earlier comic book appearances he is depicted as being a happy-go-lucky practical joker and teaser, and a fan of swashbuckling fiction. Nightcrawler is a Catholic, and while this is not emphasized as much in his earlier comic book appearances, in later depictions Nightcrawler is more vocal about his faith.Since his inception, Nightcrawler has had a regular presence in Marvel-related comic books and video games. He has been featured in a small number of the 1990s X-Men animated series episodes and was a regular on its successors, X-Men: Evolution and Wolverine and the X-Men. In 2003, he was a major character in the film X2, in which he was portrayed by Alan Cumming.Nightcrawler is originally stated to be from a small village called Witzeldorf in the German state of Bavaria. In the X-Men animated series, it is said to be Neuherzl, and in the movie X2, he makes repeated references to his time in the Munich circus, though it is never explicitly specified from where he originated.",
+  "description": "Nightcrawler (Kurt Wagner) is a fictional character, a superhero who appears in comic books published by Marvel Comics, as well as in a number of movie, television, and video game adaptations; typically in fiction related to the X-Men",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/526034979bc98/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -55,6 +46,15 @@
     "Kurt Wagner"
   ],
   "species": [
+  ],
+  "teams": [
+    "Excalibur",
+    "X-Men",
+    "X-Treme Sanctions Executive",
+    "Roman Catholic Archdiocese of New York",
+    "Holy See",
+    "Vatican",
+    "Archdiocese of New York"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1602/nightcrawler",

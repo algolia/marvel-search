@@ -2,14 +2,11 @@
   "aliases": [
     "Electron"
   ],
-  "alliances": [
-    "Imperial Guard"
-  ],
   "authors": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "description": "Electron is a fictional character in the Marvel Universe.Electron is a warrior serving in the Royal Elite of the Shi'ar Imperial Guard.  He is a Shi'ar with the ability to generate and control electromagnetism.  He was born on Chandilar, the throne world of the Shi'ar Empire.",
+  "description": "Electron is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Electron",
@@ -28,6 +25,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Electron_(comics)"

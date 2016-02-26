@@ -3,16 +3,11 @@
     "Bucky",
     "Battlestar"
   ],
-  "alliances": [
-    "Features of the Marvel Universe",
-    "Bold Urban Commandos",
-    "Wild Pack"
-  ],
   "authors": [
     "Paul Neary",
     "Mark Gruenwald"
   ],
-  "description": "Battlestar (Lemar Hoskins), who was also the fifth Bucky, is a fictional character, who is a superhero in the Marvel Comics universe.  He was created by Mark Gruenwald and Paul Neary in Captain America #323 (November 1986).",
+  "description": "Battlestar (Lemar Hoskins), who was also the fifth Bucky, is a fictional character, who is a superhero in the Marvel Comics universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/4dc8478464008/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +37,11 @@
     "Lemar Hoskins"
   ],
   "species": [
+  ],
+  "teams": [
+    "Features of the Marvel Universe",
+    "Bold Urban Commandos",
+    "Wild Pack"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/363/bucky",

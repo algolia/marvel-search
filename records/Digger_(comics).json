@@ -2,12 +2,9 @@
   "aliases": [
     "Digger"
   ],
-  "alliances": [
-    "Night Shift"
-  ],
   "authors": [
   ],
-  "description": "Digger (Roderick Krupp) is a fictional comic book character in the Marvel Comics universe. He first appeared as a story narrator/host  in the horror anthology series  Tower of Shadows #1 (Sept. 1969), in the story \"At the Stroke of Midnight\" by writer-artist Jim Steranko.",
+  "description": "Digger (Roderick Krupp) is a fictional comic book character in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/DeadNight3Page1.jpg",
   "isHero": false,
   "isVillain": false,
@@ -28,6 +25,9 @@
     "Roderick Krupp"
   ],
   "species": [
+  ],
+  "teams": [
+    "Night Shift"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Digger_(comics)"

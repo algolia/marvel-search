@@ -3,14 +3,11 @@
     "The Destroyer",
     "Shiva"
   ],
-  "alliances": [
-    "Weapon X"
-  ],
   "authors": [
     "Marc Silvestri",
     "Larry Hama"
   ],
-  "description": "Shiva, a program that manifests itself as an armored robot, was designed to eliminate rogue survivors of the Weapon X program. The robots themselves, in addition to the program, were created by Larry Hama and Marc Silvestri, in Wolverine #50. The program learns, and sends out new 'clones' of the original robot, that can't be defeated the same way twice.",
+  "description": "Shiva, a program that manifests itself as an armored robot, was designed to eliminate rogue survivors of the Weapon X program",
   "isHero": false,
   "isVillain": false,
   "name": "Shiva",
@@ -32,6 +29,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Weapon X"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2079/shiva",

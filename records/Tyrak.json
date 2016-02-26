@@ -2,14 +2,11 @@
   "aliases": [
     "Tyrak"
   ],
-  "alliances": [
-    "Servant of Attuma"
-  ],
   "authors": [
     "George Pérez",
     "Gerry Conway"
   ],
-  "description": "Tyrak is a fictional character in the Marvel Universe.",
+  "description": "Tyrak is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Tyrak",
@@ -30,6 +27,9 @@
     "Tyrak"
   ],
   "species": [
+  ],
+  "teams": [
+    "Servant of Attuma"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Tyrak"

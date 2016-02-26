@@ -3,17 +3,12 @@
     "Master of Illusion",
     "Mirage"
   ],
-  "alliances": [
-    "Grapplers",
-    "Plainlist",
-    "Sinister Sixteen"
-  ],
   "authors": [
     "Len Wein",
     "Ross Andru",
     "Plainlist"
   ],
-  "description": "Mirage is the name of two Marvel Comics villain. He first appeared in The Amazing Spider-Man #156.",
+  "description": "Mirage is the name of two Marvel Comics villain",
   "isHero": false,
   "isVillain": true,
   "name": "Mirage",
@@ -41,6 +36,11 @@
     "Desmond Charne"
   ],
   "species": [
+  ],
+  "teams": [
+    "Grapplers",
+    "Plainlist",
+    "Sinister Sixteen"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mirage_(Marvel_Comics)"

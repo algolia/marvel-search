@@ -3,14 +3,11 @@
     "Aurgelmir",
     "Ymir"
   ],
-  "alliances": [
-    "Frost and Storm Giants"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Based on the frost giant of the same name from Norse mythology, Ymir is a fictional character that appears in publications published by Marvel Comics. The character first appears in Journey into Mystery #97 (October 1963) and was created by Stan Lee and Jack Kirby.",
+  "description": "Based on the frost giant of the same name from Norse mythology, Ymir is a fictional character that appears in publications published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png/250px-Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +37,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Frost and Storm Giants"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ymir_(Marvel_Comics)"

@@ -2,15 +2,11 @@
   "aliases": [
     "Dead Girl"
   ],
-  "alliances": [
-    "X-Force",
-    "X-Statix"
-  ],
   "authors": [
     "Mike Allred",
     "Peter Milligan"
   ],
-  "description": "Dead Girl (Moonbeam) is a fictional character, a  mutant superheroine in Marvel Comics' X-Statix series. She is a mixture of ghost and zombie. Her civilian name has never been fully revealed, but she admitted after some cajoling that her first name is/was \"Moonbeam.\" Dead Girl's mutant gene allows her to return to semi-life after dying; she is also able to become intangible and communicate with other dead people.",
+  "description": "Dead Girl (Moonbeam) is a fictional character, a  mutant superheroine in Marvel Comics' X-Statix series",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/20/4c0030c61eb15/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +35,10 @@
     "Moonbeam (surname unrevealed)"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Force",
+    "X-Statix"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/518/dead_girl",

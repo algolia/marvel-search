@@ -3,16 +3,12 @@
     "Stark Industries",
     "Cybermancer"
   ],
-  "alliances": [
-    "Stark Industries",
-    "Force Works"
-  ],
   "authors": [
     "Dan Abnett",
     "Tom Tenney",
     "Andy Lanning"
   ],
-  "description": "Cybermancer is a fictional character, a superheroine published by Marvel Comics. The real Suzie Endo first appears in Force Works #4 (December 1994), and was created by Dan Abnett, Andy Lanning and Tom Tenney.",
+  "description": "Cybermancer is a fictional character, a superheroine published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Cybermancer_001.jpg/198px-Cybermancer_001.jpg",
   "isHero": true,
   "isVillain": false,
@@ -34,6 +30,10 @@
     "Suzanne \"Suzie\" Endo"
   ],
   "species": [
+  ],
+  "teams": [
+    "Stark Industries",
+    "Force Works"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2206/stark_industries",

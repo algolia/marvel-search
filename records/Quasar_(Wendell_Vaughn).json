@@ -6,24 +6,13 @@
     "Quasr Wendell Vaughn",
     "Quasar (Wendell Vaughn)"
   ],
-  "alliances": [
-    "Avengers",
-    "Defenders",
-    "S.H.I.E.L.D.",
-    "Features of the Marvel Universe",
-    "Annihilators",
-    "Star Masters",
-    "The Avengers",
-    "Project: Pegasus",
-    "\"Defenders for a Day\""
-  ],
   "authors": [
     "John Buscema",
     "Roy Thomas",
     "Donald F. Glut",
     "Don Glut"
   ],
-  "description": "Quasar (Wendell Elvis Vaughn) is a fictional character, a comic book superhero in the Marvel Comics Universe. He is one of Marvel's cosmic heroes, a character whose adventures frequently take him into outer space or other dimensions. However, Quasar deviates from the archetype of the noble, dauntless alien set by such Silver Age cosmic heroes as the Silver Surfer, Adam Warlock and Captain Mar-Vell in that he is an everyman. He starred in an eponymous monthly ongoing series written by Mark Gruenwald that ran for sixty issues beginning in 1989 and has served as a member of The Avengers.",
+  "description": "Quasar (Wendell Elvis Vaughn) is a fictional character, a comic book superhero in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/52741171e681e/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -48,6 +37,17 @@
     "Wendell Elvis Vaughn"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "S.H.I.E.L.D.",
+    "Features of the Marvel Universe",
+    "Annihilators",
+    "Star Masters",
+    "The Avengers",
+    "Project: Pegasus",
+    "\"Defenders for a Day\""
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009523/quasar_phyla-vell",

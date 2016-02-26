@@ -3,15 +3,11 @@
     "Zeitgeist",
     "Everyman"
   ],
-  "alliances": [
-    "Schutz Heiliggruppe",
-    "Secret Empire"
-  ],
   "authors": [
     "J. M. DeMatteis",
     "Mike Zeck"
   ],
-  "description": "Everyman (Larry Ekler) is a fictional character in the Marvel Universe.",
+  "description": "Everyman (Larry Ekler) is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Everyman",
@@ -37,6 +33,10 @@
     "Larry Ekler"
   ],
   "species": [
+  ],
+  "teams": [
+    "Schutz Heiliggruppe",
+    "Secret Empire"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Everyman_(Marvel_Comics)"

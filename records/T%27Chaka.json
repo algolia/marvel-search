@@ -4,14 +4,6 @@
     "Black Leopard",
     "Mr. Okonkwo"
   ],
-  "alliances": [
-    "Fantastic Four",
-    "Avengers",
-    "Defenders",
-    "Fantastic Force",
-    "Illuminati",
-    "Ultimates"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
@@ -60,6 +52,14 @@
     "T'Challa"
   ],
   "species": [
+  ],
+  "teams": [
+    "Fantastic Four",
+    "Avengers",
+    "Defenders",
+    "Fantastic Force",
+    "Illuminati",
+    "Ultimates"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/5/black_panther",

@@ -2,14 +2,11 @@
   "aliases": [
     "Nahrees"
   ],
-  "alliances": [
-    "Inhumans"
-  ],
   "authors": [
     "Paul Jenkins",
     "Jae Lee"
   ],
-  "description": "Nahrees is a fictional character, a superhero in Marvel Comics' universe.  She is a member of the Inhumans.",
+  "description": "Nahrees is a fictional character, a superhero in Marvel Comics' universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nahreesinhuman.jpg/225px-Nahreesinhuman.jpg",
   "isHero": false,
   "isVillain": false,
@@ -31,6 +28,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Inhumans"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Nahrees"

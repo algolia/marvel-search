@@ -3,14 +3,11 @@
     "Orgress",
     "Ogress"
   ],
-  "alliances": [
-    "Riot Squad"
-  ],
   "authors": [
     "Peter David",
     "Todd McFarlane"
   ],
-  "description": "Ogress  is a fictional character that appears in comic books published by Marvel Comics.",
+  "description": "Ogress  is a fictional character that appears in comic books published by Marvel Comics",
   "isHero": false,
   "isVillain": true,
   "name": "Orgress",
@@ -34,6 +31,9 @@
     "Diane Davids"
   ],
   "species": [
+  ],
+  "teams": [
+    "Riot Squad"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ogress_(comics)"

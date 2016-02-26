@@ -9,12 +9,6 @@
     "Pre-Retcon:",
     "''Pre-Retcon:''"
   ],
-  "alliances": [
-    "Original:",
-    "Secret Warriors",
-    "Olympians",
-    "Current:"
-  ],
   "authors": [
     "Roy Thomas",
     "Jean-Marc Lofficier",
@@ -23,7 +17,7 @@
     "Travel Foreman",
     "Michael Avon Oeming"
   ],
-  "description": "Phobos is the name of two fictional comic book characters appearing in books published by Marvel Comics characters. The first appeared in Dr. Strange, Sorcerer Supreme #32 (August 1991) in a story written by Roy Thomas and Jean-Marc Lofficier. The second and current Phobos first appeared in the 2006 Ares: God of War mini-series (written by Michael Avon Oeming; art by Travel Foreman). He is the son of Ares and a member of the Secret Warriors.Due to the nature of gods in the Marvel Universe, in addition to the retcon surrounding the current Phobos (see below) the relationship between the two has not been explicitly explained.",
+  "description": "Phobos is the name of two fictional comic book characters appearing in books published by Marvel Comics characters",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Phobos-Comics.jpg/200px-Phobos-Comics.jpg",
   "isHero": true,
   "isVillain": false,
@@ -55,6 +49,12 @@
     "Current:"
   ],
   "species": [
+  ],
+  "teams": [
+    "Original:",
+    "Secret Warriors",
+    "Olympians",
+    "Current:"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Phobos_(Marvel_Comics)"

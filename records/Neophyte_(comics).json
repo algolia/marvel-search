@@ -2,14 +2,11 @@
   "aliases": [
     "Neophyte"
   ],
-  "alliances": [
-    "Acolytes"
-  ],
   "authors": [
     "John Romita, Jr.",
     "Scott Lobdell"
   ],
-  "description": "Neophyte (Simon Hall) is a fictional mutant super villain in the Marvel Comics universe and a member of the Acolytes.",
+  "description": "Neophyte (Simon Hall) is a fictional mutant super villain in the Marvel Comics universe and a member of the Acolytes",
   "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/XMEN_Neophyte.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +29,9 @@
     "Simon Hall"
   ],
   "species": [
+  ],
+  "teams": [
+    "Acolytes"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Neophyte_(comics)"

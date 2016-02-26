@@ -3,9 +3,6 @@
     "Frankenstein",
     "Adam"
   ],
-  "alliances": [
-    "Legion of the Unliving"
-  ],
   "authors": [
   ],
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4d78fbb55546e/standard_xlarge.jpg",
@@ -30,6 +27,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Legion of the Unliving"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/3425/frankensteins_monster",

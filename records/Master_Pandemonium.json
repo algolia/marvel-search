@@ -2,14 +2,11 @@
   "aliases": [
     "Master Pandemonium"
   ],
-  "alliances": [
-    "Hellfire Club"
-  ],
   "authors": [
     "Steve Englehart",
     "Al Milgrom"
   ],
-  "description": "Master Pandemonium is a supervillain that appears in publications from Marvel Comics.",
+  "description": "Master Pandemonium is a supervillain that appears in publications from Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/West_Coast_Avengers_9.png",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +32,9 @@
     "Martin Preston"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellfire Club"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Master_Pandemonium"

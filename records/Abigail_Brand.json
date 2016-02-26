@@ -2,16 +2,11 @@
   "aliases": [
     "Abigail Brand"
   ],
-  "alliances": [
-    "X-Men",
-    "S.W.O.R.D.",
-    "Alpha Flight"
-  ],
   "authors": [
     "John Cassaday",
     "Joss Whedon"
   ],
-  "description": "Special Agent Abigail Brand is a fictional character in the Marvel Comics' universe. Her first appearance was a cameo in Astonishing X-Men  #3 (2004), and she was introduced fully in Astonishing X-Men #6 (2004). She was created by Joss Whedon and John Cassaday.",
+  "description": "Special Agent Abigail Brand is a fictional character in the Marvel Comics' universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/AbigailBrand.png/250px-AbigailBrand.png",
   "isHero": true,
   "isVillain": false,
@@ -33,6 +28,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "S.W.O.R.D.",
+    "Alpha Flight"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Abigail_Brand"

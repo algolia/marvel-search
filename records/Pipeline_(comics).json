@@ -2,17 +2,11 @@
   "aliases": [
     "Pipeline"
   ],
-  "alliances": [
-    "Magistrates",
-    "Genoshan Cabinet",
-    "Press Gang",
-    "Genoshan Magistrates"
-  ],
   "authors": [
     "Rick Leonardi",
     "Chris Claremont"
   ],
-  "description": "Pipeline (Cormick Grimshaw) is a fictional character, a mutant in the Marvel Comics Universe. His first appearance was in Uncanny X-Men #235 (1988).",
+  "description": "Pipeline (Cormick Grimshaw) is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Pipeline",
@@ -37,6 +31,12 @@
     "Cormick Grimshaw"
   ],
   "species": [
+  ],
+  "teams": [
+    "Magistrates",
+    "Genoshan Cabinet",
+    "Press Gang",
+    "Genoshan Magistrates"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Pipeline_(comics)"

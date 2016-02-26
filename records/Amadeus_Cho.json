@@ -5,18 +5,11 @@
     "Master Mind Excello",
     "Amadeus Cho"
   ],
-  "alliances": [
-    "Olympus Group",
-    "Illuminati",
-    "The Mighty Avengers",
-    "God Squad",
-    "World War Hulk"
-  ],
   "authors": [
     "Greg Pak",
     "Takeshi Miyazawa"
   ],
-  "description": "Amadeus Cho, also known as Mastermind Excello, is a fictional character, a superhero appearing in books published by Marvel Comics. Created by writer Greg Pak and artist Takeshi Miyazawa, the character first appeared in Amazing Fantasy vol. 2 #15 (January 2006). He usually appears as a supporting character in books featuring The Avengers, or individual members of that group, such as Hulk or Hercules.",
+  "description": "Amadeus Cho, also known as Mastermind Excello, is a fictional character, a superhero appearing in books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/520288b9cb581/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +31,13 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Olympus Group",
+    "Illuminati",
+    "The Mighty Avengers",
+    "God Squad",
+    "World War Hulk"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2804/amadeus_cho",

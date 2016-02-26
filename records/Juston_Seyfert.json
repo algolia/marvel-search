@@ -2,12 +2,9 @@
   "aliases": [
     "Juston Seyfert"
   ],
-  "alliances": [
-    "Avengers Academy"
-  ],
   "authors": [
   ],
-  "description": "Juston Seyfert is a fictional character appearing in comic books from Marvel Comics.",
+  "description": "Juston Seyfert is a fictional character appearing in comic books from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Juston Seyfert",
@@ -30,6 +27,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers Academy"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Juston_Seyfert"

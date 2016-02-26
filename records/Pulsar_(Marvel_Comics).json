@@ -3,14 +3,11 @@
     "Impulse",
     "Pulsar"
   ],
-  "alliances": [
-    "Imperial Guard"
-  ],
   "authors": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "description": "Pulsar is a fictional character in the Marvel Universe, a member of the Shi'ar Imperial Guard.",
+  "description": "Pulsar is a fictional character in the Marvel Universe, a member of the Shi'ar Imperial Guard",
   "isHero": false,
   "isVillain": false,
   "name": "Pulsar",
@@ -29,6 +26,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Pulsar_(Marvel_Comics)"

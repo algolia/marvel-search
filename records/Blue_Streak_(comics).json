@@ -3,12 +3,6 @@
     "Bluestreak",
     "Blue Streak"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "A-Next",
-    "Corporation",
-    "X-People"
-  ],
   "authors": [
     "John Buscema",
     "Roy Thomas",
@@ -19,7 +13,7 @@
     "Francis Portella",
     "Justin Gray"
   ],
-  "description": "Blue Streak is the name of three Marvel Comics supervillains.",
+  "description": "Blue Streak is the name of three Marvel Comics supervillains",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Blue-streak.jpg/249px-Blue-streak.jpg",
   "isHero": false,
   "isVillain": false,
@@ -47,6 +41,12 @@
     "Blue Kelso"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "A-Next",
+    "Corporation",
+    "X-People"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Blue_Streak_(comics)"

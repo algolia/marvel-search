@@ -2,14 +2,11 @@
   "aliases": [
     "Toxyn"
   ],
-  "alliances": [
-    "Strikeforce: Morituri"
-  ],
   "authors": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "description": "Toxyn (Ruth Mastorakis) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri. The character was created by Peter B. Gillis and Brent Anderson.",
+  "description": "Toxyn (Ruth Mastorakis) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Toxyn.bmp/103px-Toxyn.bmp.png",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +30,9 @@
     "Ruth Mastorakis"
   ],
   "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Toxyn"

@@ -8,18 +8,12 @@
     "Summers",
     "Hope"
   ],
-  "alliances": [
-    "The Lights",
-    "X-Force",
-    "X-Men",
-    "Jean Grey School Students"
-  ],
   "authors": [
     "Mike Carey",
     "Matt Fraction",
     "Chris Bachalo"
   ],
-  "description": "Hope Summers is a superheroine appearing in books published by Marvel Comics. The character first appeared in X-Men #205 in 2007 (Chapter five of the \"X-Men: Messiah Complex\" storyline). She is the first mutant born after the events of the \"House of M\" and \"Decimation\" storyline.",
+  "description": "Hope Summers is a superheroine appearing in books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/511155f5015e0/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -47,6 +41,12 @@
     "Hope Summers (born Spalding)"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Lights",
+    "X-Force",
+    "X-Men",
+    "Jean Grey School Students"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/24/hope",

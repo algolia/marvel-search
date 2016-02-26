@@ -2,12 +2,9 @@
   "aliases": [
     "Obliterator"
   ],
-  "alliances": [
-    "Elders of the Universe"
-  ],
   "authors": [
   ],
-  "description": "The Obliterator (Maht Pacle) is a fictional character, an alien supervillain appearing in the Marvel Comics universe. He is one of the Elders of the Universe, a foe of the Silver Surfer.",
+  "description": "The Obliterator (Maht Pacle) is a fictional character, an alien supervillain appearing in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Obliterator",
@@ -26,6 +23,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Elders of the Universe"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Obliterator_(comics)"

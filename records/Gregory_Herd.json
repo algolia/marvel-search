@@ -5,14 +5,12 @@
     "Gregory Herd",
     "\"Override \""
   ],
-  "alliances": [
-  ],
   "authors": [
     "Todd Dezago",
     "Sal Buscema",
     "Jimmy Palmiotti"
   ],
-  "description": "Dr. Gregory Herd is a fictional character, a supervillain who appears in the comic books published by Marvel Comics. His first appearance was in The Spectacular Scarlet Spider #1. He originally operated as the villain Override and worked with his wife, who operated as Aura. He becomes the fiery villain Shadrac in The Amazing Spider-Man vol. 2 #2.",
+  "description": "Dr",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Gregory_Herd_Shadrac.JPG/150px-Gregory_Herd_Shadrac.JPG",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +39,8 @@
     "Gregory Herd"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Herd"

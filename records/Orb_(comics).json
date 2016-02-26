@@ -3,15 +3,13 @@
     "The Orb",
     "Orb"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Len Wein",
     "Bill Rosemann",
     "Ross Andru",
     "Guy Davis"
   ],
-  "description": "The Orb is the name of two Marvel Comics supervillains who are primarily an adversary of Ghost Rider.",
+  "description": "The Orb is the name of two Marvel Comics supervillains who are primarily an adversary of Ghost Rider",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Orb_ghost.jpg/250px-Orb_ghost.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +40,8 @@
     "Unknown"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Orb_(comics)"

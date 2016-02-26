@@ -5,15 +5,11 @@
     "8",
     "8-Ball"
   ],
-  "alliances": [
-    "8",
-    "8-Ball Gang"
-  ],
   "authors": [
     "Bob Budiansky",
     "Bret Blevins"
   ],
-  "description": "8-Ball is the name used by different characters from Marvel Comics.",
+  "description": "8-Ball is the name used by different characters from Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/8-Ball_%28comics%29_sleepwalker_cover.jpg/250px-8-Ball_%28comics%29_sleepwalker_cover.jpg",
   "isHero": false,
   "isVillain": true,
@@ -45,6 +41,10 @@
     "Jeff Hagees"
   ],
   "species": [
+  ],
+  "teams": [
+    "8",
+    "8-Ball Gang"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/8-Ball_(comics)"

@@ -2,15 +2,12 @@
   "aliases": [
     "Snapdragon"
   ],
-  "alliances": [
-    "Femizons"
-  ],
   "authors": [
     "George P%C3%A9rez",
     "Ralph Macchio",
     "George Pérez"
   ],
-  "description": "Snapdragon (Sheoke Sanada) is a Japanese supervillain in the Marvel Comics Universe.  She first appeared in Marvel Fanfare vol. 1 #12 (1984) and was created by Ralph Macchio and George Pérez.",
+  "description": "Snapdragon (Sheoke Sanada) is a Japanese supervillain in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Snapdragon",
@@ -33,6 +30,9 @@
     "Sheoke Sanada"
   ],
   "species": [
+  ],
+  "teams": [
+    "Femizons"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Snapdragon_(comics)"

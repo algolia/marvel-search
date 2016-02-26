@@ -3,20 +3,6 @@
     "Contingency T",
     "Taskmaster"
   ],
-  "alliances": [
-    "Frightful Four",
-    "Advanced Idea Mechanics",
-    "S.H.I.E.L.D.",
-    "Cabal",
-    "Agent X",
-    "Thunderbolts",
-    "Avengers: The Initiative",
-    "Secret Avengers",
-    "A.I.M.",
-    "Agency X",
-    "Initiative",
-    "Shadow Initiative"
-  ],
   "authors": [
     "David Michelinie",
     "George P%C3%A9rez",
@@ -57,6 +43,20 @@
     "Anthony \"Tony\" Masters"
   ],
   "species": [
+  ],
+  "teams": [
+    "Frightful Four",
+    "Advanced Idea Mechanics",
+    "S.H.I.E.L.D.",
+    "Cabal",
+    "Agent X",
+    "Thunderbolts",
+    "Avengers: The Initiative",
+    "Secret Avengers",
+    "A.I.M.",
+    "Agency X",
+    "Initiative",
+    "Shadow Initiative"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009648/taskmaster",

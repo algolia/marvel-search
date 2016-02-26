@@ -7,17 +7,10 @@
     "Maverick,",
     "David North, Maverick"
   ],
-  "alliances": [
-    "Cell Six",
-    "Weapon X",
-    "Central Intelligence Agency",
-    "Team X",
-    "CIA"
-  ],
   "authors": [
     "Jim Lee"
   ],
-  "description": "David North (born Christoph Nord) is a mutant comic book character in the fictional Marvel Universe. He was originally known as Maverick, and more recently as Agent Zero. The character first appeared in X-Men (vol. 2) #5 and was created by Jim Lee.Daniel Henney portrayed Agent Zero in the 2009 superhero film, X-Men Origins: Wolverine.",
+  "description": "David North (born Christoph Nord) is a mutant comic book character in the fictional Marvel Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c0042121d790/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +37,13 @@
     "Christoph \"Christopher\" Nord"
   ],
   "species": [
+  ],
+  "teams": [
+    "Cell Six",
+    "Weapon X",
+    "Central Intelligence Agency",
+    "Team X",
+    "CIA"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/102/agent_zero",

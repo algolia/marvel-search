@@ -2,13 +2,11 @@
   "aliases": [
     "Fafnir"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Fafnir is a fictional character that appears in comic books published by Marvel Comics. The character first appears in the title Thor #134 (Nov. 1966), and was created by Stan Lee and Jack Kirby.",
+  "description": "Fafnir is a fictional character that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Thorvs.Fafnir.jpg/260px-Thorvs.Fafnir.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +31,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Fafnir_(Marvel_Comics)"

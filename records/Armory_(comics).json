@@ -3,14 +3,11 @@
     "Violet Lightner",
     "Armory"
   ],
-  "alliances": [
-    "Avengers: The Initiative"
-  ],
   "authors": [
     "Stefano Caselli",
     "Dan Slott"
   ],
-  "description": "Armory (Violet Lightner) is a fictional character in the Marvel Universe. Armory was one of the new Initiative recruits that arrived at Camp Hammond with Cloud 9, Hardball, Komodo, MVP, Trauma and others.",
+  "description": "Armory (Violet Lightner) is a fictional character in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/2/27/AVNINITANN001_cov_col.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +30,9 @@
     "Violet Lightner"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers: The Initiative"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/193/armory",

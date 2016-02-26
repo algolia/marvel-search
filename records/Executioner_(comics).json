@@ -6,18 +6,11 @@
     "The Executioner",
     "Executioner"
   ],
-  "alliances": [
-    "Masters of Evil",
-    "Einherjar",
-    "Legion of the Unliving",
-    "Mandarin's Minions",
-    "Einherjar (warriors of Valhalla)"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "The Executioner is a fictional character in the Marvel Comics Universe. Skurge, an Asgardian was originally depicted as a supervillain that wielded a magic double-bladed battle axe.  Skurge fell in love with the Enchantress and was frequently used in schemes by her and the trickster god Loki.  He was a long-time antagonist of Thor and other heroes of the Marvel universe and was a member of the original Masters of Evil.  Eventually, he joined the heroes of Asgard in a mission to Hel, where he sacrificed his axe to destroy Naglfar, the ship of the dead, and delay Ragnarok, and sacrificed his life to hold the bridge at Gjallerbru so the heroes could escape the forces of Hel.   After a time trapped in Hel, he joined the honored dead in Valhalla.  The name was later used by two other characters, an axe-wielding android member of the Crazy Gang and a vigilante named Daniel DuBois, the son of Princess Python.",
+  "description": "The Executioner is a fictional character in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4ce5a2ab860be/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +37,13 @@
     "Skurge"
   ],
   "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Einherjar",
+    "Legion of the Unliving",
+    "Mandarin's Minions",
+    "Einherjar (warriors of Valhalla)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2327/the_executioner",

@@ -4,13 +4,10 @@
     "Flatman",
     "2-D Avenger"
   ],
-  "alliances": [
-    "Great Lakes Avengers"
-  ],
   "authors": [
     "John Byrne"
   ],
-  "description": "Flatman (Dr. Val Ventura) is a fictional mutant superhero in the Marvel Comics universe. He was created by John Byrne and first appeared in the pages of West Coast Avengers in 1989.",
+  "description": "Flatman (Dr",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Flatman.PNG/222px-Flatman.PNG",
   "isHero": true,
   "isVillain": false,
@@ -35,6 +32,9 @@
     "Val Ventura"
   ],
   "species": [
+  ],
+  "teams": [
+    "Great Lakes Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/709/flatman",

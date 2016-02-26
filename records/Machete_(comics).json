@@ -2,17 +2,13 @@
   "aliases": [
     "Machete"
   ],
-  "alliances": [
-    "Batroc the Leaper",
-    "Batroc's Brigade"
-  ],
   "authors": [
     "Mike Carlin",
     "Paul Neary",
     "Dan Slott",
     "Paul Pelletier"
   ],
-  "description": "Machete is the name of three fictional characters in the Marvel Comics Universe.",
+  "description": "Machete is the name of three fictional characters in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Machete",
@@ -39,6 +35,10 @@
     "Ferdinand Lopez"
   ],
   "species": [
+  ],
+  "teams": [
+    "Batroc the Leaper",
+    "Batroc's Brigade"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Machete_(comics)"

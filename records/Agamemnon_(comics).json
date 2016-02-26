@@ -4,14 +4,11 @@
     "Vali Halfling",
     "Agamemnon"
   ],
-  "alliances": [
-    "Pantheon"
-  ],
   "authors": [
     "Dale Keown",
     "Peter David"
   ],
-  "description": "Agamemnon is a fictional character in Marvel Comics.",
+  "description": "Agamemnon is a fictional character in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/1/18/AgamemnonC.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +36,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Pantheon"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Agamemnon_(comics)"

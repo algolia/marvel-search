@@ -2,14 +2,11 @@
   "aliases": [
     "Aminedi"
   ],
-  "alliances": [
-    "Desert Sword"
-  ],
   "authors": [
     "Kirk Jarvinen",
     "Fabian Nicieza"
   ],
-  "description": "Aminedi (also known as Aminedi, The Invisible One) is a fictional character, a mutant in the Marvel Comics Universe. His first appearance was in New Mutants Annual #7.",
+  "description": "Aminedi (also known as Aminedi, The Invisible One) is a fictional character, a mutant in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Aminedi_001.jpg",
   "isHero": false,
   "isVillain": false,
@@ -31,6 +28,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Desert Sword"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Aminedi"

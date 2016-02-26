@@ -6,14 +6,9 @@
     "Jeffrey Mace",
     "Captain America"
   ],
-  "alliances": [
-    "All-Winners Squad",
-    "Liberty Legion",
-    "Daily Bugle"
-  ],
   "authors": [
   ],
-  "description": "Jeffrey Solomon \"Jeff\" Mace, also known as the Patriot and Captain America, is a fictional character, a superhero in the Marvel Comics universe, created during the 1940s period which fans and historians call the Golden Age of Comic Books. As the Patriot, he first appeared in The Human Torch # 4 (Spring 1941; mis-numbered #3 on cover), published by Marvel's 1940s precursor, Timely Comics.In 1976, Marvel revealed via retroactive continuity that Mace had become the third Captain America some time after his World War II era adventures.",
+  "description": "Jeffrey Solomon \"Jeff\" Mace, also known as the Patriot and Captain America, is a fictional character, a superhero in the Marvel Comics universe, created during the 1940s period which fans and historians call the Golden Age of Comic Books",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c003cfda4644/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -40,6 +35,11 @@
     "Jeffrey Solomon Mace"
   ],
   "species": [
+  ],
+  "teams": [
+    "All-Winners Squad",
+    "Liberty Legion",
+    "Daily Bugle"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1703/patriot",

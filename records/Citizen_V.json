@@ -2,11 +2,9 @@
   "aliases": [
     "Citizen V"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "Citizen V is the codename of several fictional superheroes in the Marvel Comics universe.  The original Citizen V was an obscure hero from the Golden Age of Comic Books, but the character's identity was revived in the modern day in the pages of Thunderbolts.  The various incarnations of the character have usually been affiliated with an organization called the V-Battalion.  The \"V\" in the character's and group's name is the letter \"V\" - as opposed to the Roman numeral 5 - and is derived from the World War II-era slogan \"V for Victory\".",
+  "description": "Citizen V is the codename of several fictional superheroes in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Citizen V",
@@ -25,6 +23,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Citizen_V"

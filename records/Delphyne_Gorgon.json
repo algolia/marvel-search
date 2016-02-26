@@ -2,15 +2,12 @@
   "aliases": [
     "Delphyne Gorgon"
   ],
-  "alliances": [
-    "Amazons"
-  ],
   "authors": [
     "Fred Van Lente",
     "Greg Pak",
     "Clayton Henry"
   ],
-  "description": "Delphyne Gorgon is a fictional character in the Marvel Comics universe.  A Gorgon member of the Amazon nation, she is a love interest of Amadeus Cho.  She first appeared in Incredible Hercules #121, and was created by Greg Pak, Fred Van Lente, and Clayton Henry.",
+  "description": "Delphyne Gorgon is a fictional character in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Delphyne.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +30,9 @@
     "Delphyne Gorgon"
   ],
   "species": [
+  ],
+  "teams": [
+    "Amazons"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Delphyne_Gorgon"

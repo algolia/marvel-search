@@ -3,15 +3,11 @@
     "Pain",
     "Hemingway"
   ],
-  "alliances": [
-    "Morlocks",
-    "Gene Nation"
-  ],
   "authors": [
     "Chris Bachalo",
     "Scott Lobdell"
   ],
-  "description": "Hemingway is a fictional villain created by Marvel Comics for their team called Gene Nation. His first appearance was in Generation X #5. He is one of the few members to remain in all three incarnations of the team.",
+  "description": "Hemingway is a fictional villain created by Marvel Comics for their team called Gene Nation",
   "isHero": false,
   "isVillain": false,
   "name": "Hemingway",
@@ -39,6 +35,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Morlocks",
+    "Gene Nation"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/948/hemingway",

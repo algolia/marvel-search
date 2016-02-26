@@ -2,10 +2,6 @@
   "aliases": [
     "Wallflower"
   ],
-  "alliances": [
-    "New Mutants training squad",
-    "Xavier Institute"
-  ],
   "authors": [
     "Nunzio DeFilippis",
     "Christina Weir",
@@ -32,6 +28,10 @@
     "Laurie Collins"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Mutants training squad",
+    "Xavier Institute"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2513/wallflower",

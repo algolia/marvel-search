@@ -3,9 +3,6 @@
     "Bolt",
     "Starbolt"
   ],
-  "alliances": [
-    "Imperial Guard"
-  ],
   "authors": [
     "Chris Claremont",
     "Dave Cockrum"
@@ -34,6 +31,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2201/starbolt",

@@ -2,11 +2,9 @@
   "aliases": [
     "Flipside"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "Flipside is a fictional android and enemy of Spider-Man 2099 featured in Marvel Comics' 2099 imprint.",
+  "description": "Flipside is a fictional android and enemy of Spider-Man 2099 featured in Marvel Comics' 2099 imprint",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Flipside_%28Spider-Man_2099%29.jpg/250px-Flipside_%28Spider-Man_2099%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -28,6 +26,8 @@
     "Flipside"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Flipside_(comics)"

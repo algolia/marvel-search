@@ -3,13 +3,11 @@
     "Tommy",
     "Tracer"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Mike Wieringo",
     "Peter David"
   ],
-  "description": "Tracer is a fictional character, a supervillain in the Marvel Comics Universe, in which he is an enemy of Spider-Man. His first appearance was in Friendly Neighborhood Spider-Man #1.",
+  "description": "Tracer is a fictional character, a supervillain in the Marvel Comics Universe, in which he is an enemy of Spider-Man",
   "isHero": false,
   "isVillain": false,
   "name": "Tracer",
@@ -30,6 +28,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Tracer_(Marvel_Comics)"

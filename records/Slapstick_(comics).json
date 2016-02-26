@@ -2,14 +2,6 @@
   "aliases": [
     "Slapstick"
   ],
-  "alliances": [
-    "Avengers: The Initiative",
-    "Counter Force",
-    "New Warriors",
-    "The Initiative",
-    "Heroes for Hire",
-    "Mercs for Money"
-  ],
   "authors": [
     "James Fry",
     "Len Kaminski"
@@ -43,6 +35,14 @@
     "Steve Harmon"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers: The Initiative",
+    "Counter Force",
+    "New Warriors",
+    "The Initiative",
+    "Heroes for Hire",
+    "Mercs for Money"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2137/slapstick",

@@ -3,14 +3,11 @@
     "The Genegineer",
     "David Moreau"
   ],
-  "alliances": [
-    "Press Gang"
-  ],
   "authors": [
     "Chris Claremont",
     "Marc Silvestri"
   ],
-  "description": "David Moreau, also known as the Genegineer, is a fictional character in Marvel Comics. Working for the island nation of Genosha, he developed a mind control device which made mutant slavery possible.",
+  "description": "David Moreau, also known as the Genegineer, is a fictional character in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Genegineer",
@@ -30,6 +27,9 @@
     "David Moreau"
   ],
   "species": [
+  ],
+  "teams": [
+    "Press Gang"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/David_Moreau"

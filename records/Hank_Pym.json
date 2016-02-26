@@ -12,23 +12,12 @@
     "Dr Henry Pym",
     "Ultron"
   ],
-  "alliances": [
-    "Avengers",
-    "West Coast Avengers",
-    "Mighty Avengers",
-    "Secret Defenders",
-    "Defenders",
-    "Avengers Academy",
-    "Secret Avengers",
-    "Avengers A.I.",
-    "Illuminati"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby",
     "Larry Lieber"
   ],
-  "description": "Dr. Henry Jonathan \"Hank\" Pym is a fictional character,  a superhero that appears in comic books published by Marvel Comics. Created by editor and plotter Stan Lee, scripter Larry Lieber and penciler Jack Kirby, the character first appeared in Tales to Astonish #27 (Jan. 1962). Pym's character, a scientist that debuted in a standalone science-fiction anthology story, returned several issues later as the superhero Ant-Man, with the power to shrink to the size of an insect. Pym is eventually given a crime-fighting partner and later wife, Janet van Dyne (Wasp) and goes on to assume other superhero identities, including the size-changing Giant-Man and Goliath; the insect-themed Yellowjacket; and briefly the Wasp.Debuting in the Silver Age of Comic Books, the character of Henry Pym has featured in other Marvel-endorsed products such as animated films; arcade and video games; television series and merchandise such as action figures and trading cards. Pym is a founding member of the superhero team the Avengers. Michael Douglas is scheduled to portray Pym in the upcoming 2015 Marvel Studios film, Ant-Man.",
+  "description": "Dr",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5205305343bfd/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -64,6 +53,17 @@
     "Henry Jonathan \"Hank\" Pym"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "West Coast Avengers",
+    "Mighty Avengers",
+    "Secret Defenders",
+    "Defenders",
+    "Avengers Academy",
+    "Secret Avengers",
+    "Avengers A.I.",
+    "Illuminati"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/21/hank_pym",

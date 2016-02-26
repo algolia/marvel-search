@@ -2,13 +2,11 @@
   "aliases": [
     "Super-Patriot"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Gary Friedrich",
     "Herb Trimpe"
   ],
-  "description": "Super-Patriot is a name used by two supervillains and a superhero in the universe of Marvel Comics.  The first was an enemy of Nick Fury and S.H.I.E.L.D..  John Walker, who later became Captain America, then later U.S. Agent, used the name Super-Patriot to rival Captain America, then tapped by the Commission on Superhuman Activities, to replace Steve Rogers as Captain America; then adopted the moniker U.S. Agent.  Later, Mike Farrell, a former neighbor of Steve Rogers, became Super-Patriot and allied himself with Dead Ringer.",
+  "description": "Super-Patriot is a name used by two supervillains and a superhero in the universe of Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Super-Patriot.jpg/200px-Super-Patriot.jpg",
   "isHero": false,
   "isVillain": false,
@@ -31,6 +29,8 @@
     "unknown"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Super-Patriot_(Marvel_Comics)"

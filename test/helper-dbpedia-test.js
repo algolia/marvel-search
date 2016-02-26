@@ -336,6 +336,8 @@ describe('HelperDBPedia', () => {
     });
   });
 
+
+
   describe('getAuthors', () => {
     it('should understand "A and B"', () => {
       // Given
@@ -809,7 +811,7 @@ describe('HelperDBPedia', () => {
 
   });
 
-  describe('getAlliances', () => {
+  describe('getTeams', () => {
     it('should split on new lines', () => {
       // Given
       let input = {
@@ -819,7 +821,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual(['New X-Men', 'X-Men']);
@@ -834,7 +836,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual(['New X-Men', 'X-Men']);
@@ -849,7 +851,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual(['New X-Men', 'X-Men']);
@@ -864,7 +866,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual(['New X-Men', 'X-Men']);
@@ -882,7 +884,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual(['X-Men']);
@@ -1137,6 +1139,52 @@ describe('HelperDBPedia', () => {
 
       // Then
       expect(actual).toEqual('Absorbing Man');
+    });
+  });
+
+  describe('getDescription', () => {
+    it('should get it from ontology.abstract', () => {
+      // Given
+      let input = {
+        ontology: {
+          abstract: 'Good.'
+        }
+      };
+
+      // When
+      let actual = Helper.getDescription(input);
+
+      // Then
+      expect(actual).toEqual('Good.');
+    });
+
+    it('should only return the first sentence of the description', () => {
+      // Given
+      let input = {
+        ontology: {
+          abstract: 'Good. Blab blah? Blah blah blah'
+        }
+      };
+
+      // When
+      let actual = Helper.getDescription(input);
+
+      // Then
+      expect(actual).toEqual('Good.');
+    });
+
+    it('should return null if no description', () => {
+      // Given
+      let input = {
+        ontology: {
+        }
+      };
+
+      // When
+      let actual = Helper.getDescription(input);
+
+      // Then
+      expect(actual).toEqual(null);
     });
   });
 

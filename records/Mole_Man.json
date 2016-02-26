@@ -3,15 +3,11 @@
     "Dr. Wrong",
     "Mole Man"
   ],
-  "alliances": [
-    "Subterranea",
-    "Outcasts"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "The Mole Man is a fictional character, a comic book supervillain that exists in Marvel Universe.",
+  "description": "The Mole Man is a fictional character, a comic book supervillain that exists in Marvel Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c003d3176a50/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -46,6 +42,10 @@
     "Harvey Rupert Elder"
   ],
   "species": [
+  ],
+  "teams": [
+    "Subterranea",
+    "Outcasts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1484/mole_man",

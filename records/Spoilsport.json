@@ -2,15 +2,12 @@
   "aliases": [
     "Spoilsport"
   ],
-  "alliances": [
-    "Rising Sons"
-  ],
   "authors": [
     "Jay Faerber",
     "Terry Dodson",
     "(writer) and"
   ],
-  "description": "Spoilsport is a fictional mutant character in the Marvel Comics Universe. Her first appearance was in Generation X #53.",
+  "description": "Spoilsport is a fictional mutant character in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Spoilsport",
@@ -32,6 +29,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Rising Sons"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Spoilsport"

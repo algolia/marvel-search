@@ -2,16 +2,6 @@
   "aliases": [
     "Thundra"
   ],
-  "alliances": [
-    "Frightful Four",
-    "Roxxon Energy Corporation",
-    "Code Red",
-    "Grapplers",
-    "Lady Liberators",
-    "The Grapplers",
-    "Roxxon Oil",
-    "Squadron Supreme"
-  ],
   "authors": [
     "Roy Thomas",
     "Gerry Conway"
@@ -46,6 +36,16 @@
     "Thundra"
   ],
   "species": [
+  ],
+  "teams": [
+    "Frightful Four",
+    "Roxxon Energy Corporation",
+    "Code Red",
+    "Grapplers",
+    "Lady Liberators",
+    "The Grapplers",
+    "Roxxon Oil",
+    "Squadron Supreme"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2370/thundra",

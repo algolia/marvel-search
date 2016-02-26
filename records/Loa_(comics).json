@@ -2,19 +2,10 @@
   "aliases": [
     "Loa"
   ],
-  "alliances": [
-    "Avengers Academy",
-    "Defenders",
-    "Alpha Squadron",
-    "X-Mansion",
-    "Alpha Squadron training squad",
-    "Xavier Institute",
-    "X-Men-In-Training"
-  ],
   "authors": [
     "Michael Ryan"
   ],
-  "description": "Loa (Alani Ryan) is a fictional character appearing in comic books published by Marvel Comics. A mutant, Loa is a student at the Xavier Institute. She made her debut in New X-Men: Academy X #5.",
+  "description": "Loa (Alani Ryan) is a fictional character appearing in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/52740fd40a2cc/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +28,15 @@
     "Alani Ryan"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers Academy",
+    "Defenders",
+    "Alpha Squadron",
+    "X-Mansion",
+    "Alpha Squadron training squad",
+    "Xavier Institute",
+    "X-Men-In-Training"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1263/loa",

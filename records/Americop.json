@@ -2,14 +2,11 @@
   "aliases": [
     "Americop"
   ],
-  "alliances": [
-    "Houston Police Department"
-  ],
   "authors": [
     "Dave Hoover",
     "Mark Gruenwald"
   ],
-  "description": "Americop (Bartholomew Gallows) is a fictional vigilante published by Marvel Comics. He first appeared in Captain America (1st series) #428 (June 1994), and was created by Mark Gruenwald and Dave Hoover.",
+  "description": "Americop (Bartholomew Gallows) is a fictional vigilante published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Americop.jpg/250px-Americop.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +29,9 @@
     "Bartholomew \"Bart\" Gallows"
   ],
   "species": [
+  ],
+  "teams": [
+    "Houston Police Department"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Americop"

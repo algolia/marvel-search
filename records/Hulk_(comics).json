@@ -11,21 +11,6 @@
     "Hulk",
     "Doc Green"
   ],
-  "alliances": [
-    "Pantheon",
-    "Defenders",
-    "Avengers",
-    "Horsemen of Apocalypse",
-    "S.H.I.E.L.D.",
-    "Illuminati",
-    "Secret Avengers",
-    "The New Avengers",
-    "Warbound",
-    "Hulkbusters",
-    "Fantastic Four",
-    "The Order",
-    "The Mighty Avengers"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
@@ -71,6 +56,21 @@
     "Robert Bruce Banner"
   ],
   "species": [
+  ],
+  "teams": [
+    "Pantheon",
+    "Defenders",
+    "Avengers",
+    "Horsemen of Apocalypse",
+    "S.H.I.E.L.D.",
+    "Illuminati",
+    "Secret Avengers",
+    "The New Avengers",
+    "Warbound",
+    "Hulkbusters",
+    "Fantastic Four",
+    "The Order",
+    "The Mighty Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/25/hulk",

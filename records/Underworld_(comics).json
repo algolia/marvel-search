@@ -2,13 +2,11 @@
   "aliases": [
     "Underworld"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Staz Johnson",
     "Frank Tieri"
   ],
-  "description": "Underworld (Jackie Dio) is a fictional character, a supervillain in publications from Marvel Comics. The character first appeared in the Underworld limited series in 2006.",
+  "description": "Underworld (Jackie Dio) is a fictional character, a supervillain in publications from Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/UNDRWLD005_FLCOV.jpg/250px-UNDRWLD005_FLCOV.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +40,8 @@
     "Jackie Dio"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Underworld_(comics)"

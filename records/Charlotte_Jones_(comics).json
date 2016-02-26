@@ -2,16 +2,11 @@
   "aliases": [
     "Charlotte Jones"
   ],
-  "alliances": [
-    "X-Men",
-    "New York City Police Department",
-    "NYPD"
-  ],
   "authors": [
     "Terry Shoemaker",
     "Louise Simonson"
   ],
-  "description": "Charlotte Jones is a fictional character, a latent mutant in the Marvel Comics Universe. Her first appearance was in X-Factor vol. 1 #51.",
+  "description": "Charlotte Jones is a fictional character, a latent mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Charlotte Jones",
@@ -32,6 +27,11 @@
     "Charlotte Jones"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "New York City Police Department",
+    "NYPD"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Jones_(comics)"

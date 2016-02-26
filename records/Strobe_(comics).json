@@ -2,12 +2,9 @@
   "aliases": [
     "Strobe"
   ],
-  "alliances": [
-    "Mutant Liberation Front"
-  ],
   "authors": [
   ],
-  "description": "Strobe is a fictional mutant character in the Marvel Comics Universe. She was created for the villainous team the Mutant Liberation Front (MLF).",
+  "description": "Strobe is a fictional mutant character in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Strobe",
@@ -30,6 +27,9 @@
     "MLF entry</ref>"
   ],
   "species": [
+  ],
+  "teams": [
+    "Mutant Liberation Front"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Strobe_(comics)"

@@ -3,16 +3,11 @@
     "Weapon XII",
     "Huntsman"
   ],
-  "alliances": [
-    "Super-Sentinels",
-    "Weapon Plus",
-    "Weapon Plus Program"
-  ],
   "authors": [
     "Igor Kordey",
     "Grant Morrison"
   ],
-  "description": "Huntsman, also known as Weapon XII, is a supervillain in the Marvel Universe and enemy of the X-Men. Huntsman first appeared in New X-Men #128 (August, 2002) and was created by Grant Morrison and Igor Kordey.",
+  "description": "Huntsman, also known as Weapon XII, is a supervillain in the Marvel Universe and enemy of the X-Men",
   "isHero": false,
   "isVillain": false,
   "name": "Huntsman",
@@ -36,6 +31,11 @@
     "Zona Cluster-6"
   ],
   "species": [
+  ],
+  "teams": [
+    "Super-Sentinels",
+    "Weapon Plus",
+    "Weapon Plus Program"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Huntsman_(comics)"

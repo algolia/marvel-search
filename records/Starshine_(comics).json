@@ -2,15 +2,12 @@
   "aliases": [
     "Starshine"
   ],
-  "alliances": [
-    "Spaceknights"
-  ],
   "authors": [
     "Bill Mantlo",
     "Sal Buscema",
     "Al Milgrom"
   ],
-  "description": "Starshine is the name of three fictional American comic book characters owned by the Marvel Comics and appearing in that company's Marvel Universe.The first was an alien woman named Landra who first appeared in Rom: Spaceknight #14 (1980) by writer Bill Mantlo and artist Sal Buscema. The second was an Earth girl named Brandy Clark, who first appeared in Rom #1 (1979) again by Mantlo and Buscema. The third was the Galadorian Anarra, one of the Third Generation Spaceknights introduced in Jim Starlin's Spaceknights mini-series.",
+  "description": "Starshine is the name of three fictional American comic book characters owned by the Marvel Comics and appearing in that company's Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/6/6c/Starshine_I.png",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +29,9 @@
     "Brandy Clark"
   ],
   "species": [
+  ],
+  "teams": [
+    "Spaceknights"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Starshine_(comics)"

@@ -7,16 +7,11 @@
     "Pepper Potts",
     "Virginia 'Pepper' Potts"
   ],
-  "alliances": [
-    "The Order",
-    "Stark Industries",
-    "Avengers: The Initiative"
-  ],
   "authors": [
     "Don Heck",
     "Stan Lee"
   ],
-  "description": "Virginia \"Pepper\" Potts is a fictional supporting character and romantic love interest appearing in books published by Marvel Comics, in particular those featuring Iron Man.  Created by writer Stan Lee and artist Don Heck, she first appeared in Tales of Suspense #45 (September 1963).In 2007, she joined the Fifty State Initiative under the codename Hera. In 2009, after being given her own suit of armor by Tony Stark, she assumes the identity of Rescue, which lasted until the 2012 storyline \"The Future\".The character is portrayed by Gwyneth Paltrow in the films Iron Man, Iron Man 2, The Avengers and Iron Man 3.",
+  "description": "Virginia \"Pepper\" Potts is a fictional supporting character and romantic love interest appearing in books published by Marvel Comics, in particular those featuring Iron Man",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4ce188e09af9c/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +32,11 @@
     "Virginia \"Pepper\" Potts"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Order",
+    "Stark Industries",
+    "Avengers: The Initiative"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2761/pepper_potts",

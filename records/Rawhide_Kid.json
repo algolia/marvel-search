@@ -4,16 +4,11 @@
     "The Rawhide Kid",
     "Rawhide Kid"
   ],
-  "alliances": [
-    "The Sensational Seven",
-    "Avengers",
-    "West Coast Avengers"
-  ],
   "authors": [
     "Bob Brown",
     "Stan Lee"
   ],
-  "description": "The Rawhide Kid (real name: Johnny Bart, originally given as Johnny Clay) is a fictional Old West cowboy in comic books published by Marvel Comics. A heroic gunfighter of the 19th-century American West who was unjustly wanted as an outlaw, he is one of Marvel's most prolific Western characters.  He and other Marvel western heroes have on rare occasions guest-starred through time travel in such contemporary titles as The Avengers and West Coast Avengers. In two mature-audience miniseries,  in 2003 and 2010, he is depicted as gay.",
+  "description": "The Rawhide Kid (real name: Johnny Bart, originally given as Johnny Clay) is a fictional Old West cowboy in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/4ce5a3e0dbd3a/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +29,11 @@
     "Johnny Bart"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Sensational Seven",
+    "Avengers",
+    "West Coast Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1881/rawhide_kid",

@@ -3,15 +3,12 @@
     "Gauntlet",
     "Gauntlet (Inhuman)"
   ],
-  "alliances": [
-    "Dark Riders"
-  ],
   "authors": [
     "Chris Claremont",
     "Jim Lee",
     "Whilce Portacio"
   ],
-  "description": "Gauntlet is a fictional supervillain in the Marvel Comics universe. He is a member of the Dark Riders, employed by Apocalypse, and is one of the Inhumans. He is fitted with a cybernetic gauntlet, high-powered weapons, and wears a mechanical device over one eye used for tracking and scoping out prey. He first appeared in X-Factor #65 and was created by Jim Lee, Chris Claremont and Whilce Portacio.",
+  "description": "Gauntlet is a fictional supervillain in the Marvel Comics universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/535ff2a48869b/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +32,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Dark Riders"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009316/gauntlet_joseph_green",

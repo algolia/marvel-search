@@ -2,12 +2,9 @@
   "aliases": [
     "Master Mind Excello"
   ],
-  "alliances": [
-    "The Twelve"
-  ],
   "authors": [
   ],
-  "description": "Master Mind Excello (Earl Everett) is an American comic book character owned by Marvel Comics who exists in that company's Marvel Universe. His only appearances were in Mystic Comics #2 and 3, published in the 1940s by Marvel's forerunner, Timely Comics, during a period that is known as the Golden Age of Comic Books.",
+  "description": "Master Mind Excello (Earl Everett) is an American comic book character owned by Marvel Comics who exists in that company's Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Master Mind Excello",
@@ -29,6 +26,9 @@
     "Earl Everett"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Twelve"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Master_Mind_Excello"

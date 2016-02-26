@@ -2,14 +2,11 @@
   "aliases": [
     "Coachwhip"
   ],
-  "alliances": [
-    "Serpent Society"
-  ],
   "authors": [
     "Mark Gruenwald",
     "Kieron Dwyer"
   ],
-  "description": "Coachwhip is a fictional character. She is a supervillain in the Marvel Comics universe, most notably as a member of the Serpent Society.",
+  "description": "Coachwhip is a fictional character",
   "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Coachwhip1.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +30,9 @@
     "Beatrix Keener"
   ],
   "species": [
+  ],
+  "teams": [
+    "Serpent Society"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Coachwhip_(comics)"

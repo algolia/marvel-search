@@ -3,10 +3,6 @@
     "Ghoul",
     "Ghoul (Ultraverse)"
   ],
-  "alliances": [
-    "Exiles",
-    "Ultraforce"
-  ],
   "authors": [
     "Dinosaurs for Hire",
     "Dave Olbrich",
@@ -15,7 +11,7 @@
     "R.R. Phipps",
     "Tom Mason"
   ],
-  "description": "Ghoul is a character from Malibu Comics' Ultraverse continuity. He was created by Steve Gerber, R.R. Phipps, Dave Olbrich, Chris Ulm, and Tom Mason. Ghoul first appeared in Exiles #1.",
+  "description": "Ghoul is a character from Malibu Comics' Ultraverse continuity",
   "isHero": false,
   "isVillain": false,
   "name": "Ghoul",
@@ -38,6 +34,10 @@
     "Jonathan Martin"
   ],
   "species": [
+  ],
+  "teams": [
+    "Exiles",
+    "Ultraforce"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ghoul_(Ultraverse)"

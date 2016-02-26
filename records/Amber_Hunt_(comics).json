@@ -5,14 +5,11 @@
     "The Phoenix",
     "Amber Hunt"
   ],
-  "alliances": [
-    "Exiles"
-  ],
   "authors": [
     "Steve Gerber",
     "R.R. Phipps"
   ],
-  "description": "Amber Hunt is a fictional character from Malibu Comics' Exiles comic book series, created by Steve Gerber. She is a pyrokinetic super hero in the Ultraverse and was once host to the Phoenix Force.",
+  "description": "Amber Hunt is a fictional character from Malibu Comics' Exiles comic book series, created by Steve Gerber",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Amber_Hunt.jpg/220px-Amber_Hunt.jpg",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +35,9 @@
     "Amber Hunt"
   ],
   "species": [
+  ],
+  "teams": [
+    "Exiles"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Amber_Hunt_(comics)"

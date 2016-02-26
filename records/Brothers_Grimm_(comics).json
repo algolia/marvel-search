@@ -2,10 +2,6 @@
   "aliases": [
     "Brothers Grimm"
   ],
-  "alliances": [
-    "Night Shift",
-    "Masters of Evil"
-  ],
   "authors": [
     "Marv Wolfman",
     "Carmine Infantino",
@@ -13,7 +9,7 @@
     "Luke McDonnell",
     "and Steve Mitchell"
   ],
-  "description": "The Brothers Grimm are two sets of fictional twin comic book supervillains, owned by Marvel Comics and existing in that company's Marvel Universe.",
+  "description": "The Brothers Grimm are two sets of fictional twin comic book supervillains, owned by Marvel Comics and existing in that company's Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Brothers-Grimm-Marvel.jpg/225px-Brothers-Grimm-Marvel.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +35,10 @@
     "Jake and William Dolly"
   ],
   "species": [
+  ],
+  "teams": [
+    "Night Shift",
+    "Masters of Evil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Brothers_Grimm_(comics)"

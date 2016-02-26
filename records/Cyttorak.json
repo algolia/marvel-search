@@ -2,14 +2,12 @@
   "aliases": [
     "Cyttorak"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee",
     "Alex Toth"
   ],
-  "description": "Cyttorak is a fictional character appearing in the Marvel Comics universe. A mystical entity, he is the deity that powers Juggernaut through the artifact known as Crimson Gem of Cyttorak. He was created by Stan Lee, Jack Kirby, and Alex Toth. He was first mentioned in Strange Tales I #124 (September 1964), a temple molded in his image was seen in X-Men I #12 (July 1965), and actually appeared in Dr. Strange III #44 (August 1992).",
+  "description": "Cyttorak is a fictional character appearing in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Cyttorak.jpg/250px-Cyttorak.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +30,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Cyttorak"

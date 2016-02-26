@@ -3,19 +3,11 @@
     "Firefist",
     "Rusty Collins"
   ],
-  "alliances": [
-    "Acolytes",
-    "New Mutants",
-    "X-Factor",
-    "Mutant Liberation Front",
-    "United States Navy",
-    "X-Terminators"
-  ],
   "authors": [
     "Bob Layton",
     "Jackson Guice"
   ],
-  "description": "Russell \"Rusty\" Collins, formerly known as Firefist, is a fictional character, a superhero from Marvel Comics.",
+  "description": "Russell \"Rusty\" Collins, formerly known as Firefist, is a fictional character, a superhero from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Rusty Collins",
@@ -37,6 +29,14 @@
     "Russel \"Rusty\" Collins"
   ],
   "species": [
+  ],
+  "teams": [
+    "Acolytes",
+    "New Mutants",
+    "X-Factor",
+    "Mutant Liberation Front",
+    "United States Navy",
+    "X-Terminators"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Rusty_Collins"

@@ -4,15 +4,13 @@
     "Steeplejack II",
     "Steeplejack"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Len Wein",
     "George Tuska",
     "Chris Claremont",
     "Carmine Infantino"
   ],
-  "description": "Steeplejack is the name of two fictional characters in Marvel Comics.",
+  "description": "Steeplejack is the name of two fictional characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Steeplejack",
@@ -35,6 +33,8 @@
     "Maxwell Plumm"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Steeplejack_(Marvel_Comics)"

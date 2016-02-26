@@ -2,16 +2,11 @@
   "aliases": [
     "Gladiatrix"
   ],
-  "alliances": [
-    "Power Broker Inc",
-    "Femizons",
-    "Grapplers"
-  ],
   "authors": [
     "Mike Carlin",
     "Ron Wilson"
   ],
-  "description": "Gladiatrix (Robin Braxton) is a fictional heroine published by Marvel Comics.",
+  "description": "Gladiatrix (Robin Braxton) is a fictional heroine published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Gladiatrixmu0.png/200px-Gladiatrixmu0.png",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +30,11 @@
     "Robin Braxton"
   ],
   "species": [
+  ],
+  "teams": [
+    "Power Broker Inc",
+    "Femizons",
+    "Grapplers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Gladiatrix_(comics)"

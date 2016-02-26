@@ -3,10 +3,6 @@
     "The Vision",
     "Vision (Timely Comics)"
   ],
-  "alliances": [
-    "Invaders",
-    "Battle-Axis"
-  ],
   "authors": [
     "Jack Kirby",
     "Joe Simon"
@@ -37,6 +33,10 @@
     "Aarkus"
   ],
   "species": [
+  ],
+  "teams": [
+    "Invaders",
+    "Battle-Axis"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/64/vision",

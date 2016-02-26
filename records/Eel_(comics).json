@@ -6,23 +6,13 @@
     "Eel II",
     "Eel"
   ],
-  "alliances": [
-    "Serpent Squad",
-    "Emissaries of Evil",
-    "Maggia",
-    "Fellowship of Fear",
-    "Enforcers",
-    "New Enforcers",
-    "Masters of Evil",
-    "Thunderbolts"
-  ],
   "authors": [
     "Kurt Busiek",
     "Steve Ditko",
     "Denys Cowan",
     "Stan Lee"
   ],
-  "description": "The Eel is an alias used by two fictional characters in comic books published by Marvel Comics. The first character to take up the identity was Leopold Stryke who first appeared in Strange Tales #112, while his successor, Edward Lavell, first appeared in Power Man and Iron Fist #92 (Apr 1983).",
+  "description": "The Eel is an alias used by two fictional characters in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Serpent_Squad.jpg/250px-Serpent_Squad.jpg",
   "isHero": false,
   "isVillain": true,
@@ -48,6 +38,16 @@
     "Edward Lavell"
   ],
   "species": [
+  ],
+  "teams": [
+    "Serpent Squad",
+    "Emissaries of Evil",
+    "Maggia",
+    "Fellowship of Fear",
+    "Enforcers",
+    "New Enforcers",
+    "Masters of Evil",
+    "Thunderbolts"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Eel_(comics)"

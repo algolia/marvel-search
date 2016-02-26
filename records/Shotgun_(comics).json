@@ -3,15 +3,11 @@
     "J. R. Walker",
     "Shotgun"
   ],
-  "alliances": [
-    "Central Intelligence Agency",
-    "United States Army"
-  ],
   "authors": [
     "Ann Nocenti",
     "John Romita, Jr."
   ],
-  "description": "Shotgun (J.R. Walker) is a fictional character in the Marvel Universe.",
+  "description": "Shotgun (J",
   "isHero": false,
   "isVillain": false,
   "name": "Shotgun",
@@ -36,6 +32,10 @@
     "J.R. Walker"
   ],
   "species": [
+  ],
+  "teams": [
+    "Central Intelligence Agency",
+    "United States Army"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2084/shotgun",

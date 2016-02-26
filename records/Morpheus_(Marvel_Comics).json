@@ -2,13 +2,11 @@
   "aliases": [
     "Morpheus"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Doug Moench",
     "Bill Sienkiewicz"
   ],
-  "description": "Morpheus is a fictional character in the Marvel Universe.",
+  "description": "Morpheus is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Morpheus",
@@ -31,6 +29,8 @@
     "Robert Markham"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Morpheus_(Marvel_Comics)"

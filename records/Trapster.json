@@ -3,18 +3,11 @@
     "Paste-Pot Pete",
     "Trapster"
   ],
-  "alliances": [
-    "Sinister Six",
-    "Frightful Four",
-    "Maggia",
-    "Intelligencia",
-    "Frightful Five"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "The Trapster is the name of two supervillains in Marvel Comics.",
+  "description": "The Trapster is the name of two supervillains in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Trapster",
@@ -42,6 +35,13 @@
     "Peter Petruski"
   ],
   "species": [
+  ],
+  "teams": [
+    "Sinister Six",
+    "Frightful Four",
+    "Maggia",
+    "Intelligencia",
+    "Frightful Five"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Trapster"

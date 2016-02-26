@@ -2,14 +2,6 @@
   "aliases": [
     "Wither"
   ],
-  "alliances": [
-    "New Mutants",
-    "Hellions",
-    "X-Mansion",
-    "Hellions training squad",
-    "New Mutants training squad",
-    "Xavier Institute"
-  ],
   "authors": [
     "Keron Grant",
     "Nunzio DeFilippis",
@@ -38,6 +30,14 @@
     "Kevin Ford"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Mutants",
+    "Hellions",
+    "X-Mansion",
+    "Hellions training squad",
+    "New Mutants training squad",
+    "Xavier Institute"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2586/wither",

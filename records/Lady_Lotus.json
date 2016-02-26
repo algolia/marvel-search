@@ -2,16 +2,13 @@
   "aliases": [
     "Lady Lotus"
   ],
-  "alliances": [
-    "Super-Axis"
-  ],
   "authors": [
     "Don Glut",
     "Rick Hoberg",
     "Chic Stone",
     "Alan Kupperberg"
   ],
-  "description": "Lady Lotus (also known as Lotus Newmark) is a fictional supervillainess from Marvel Comics. She first appeared in Invaders #37 in February 1979.",
+  "description": "Lady Lotus (also known as Lotus Newmark) is a fictional supervillainess from Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Lady_Lotus.jpg",
   "isHero": false,
   "isVillain": false,
@@ -47,6 +44,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Super-Axis"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Lady_Lotus"

@@ -2,12 +2,9 @@
   "aliases": [
     "Shrew"
   ],
-  "alliances": [
-    "Hell's Belles"
-  ],
   "authors": [
   ],
-  "description": "Shrew (Marilyn Maycroft) is a fictional character, a mutant in the Marvel Comics Universe. Her first appearance was in X-Factor vol. 1 #80.",
+  "description": "Shrew (Marilyn Maycroft) is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Shrew",
@@ -27,6 +24,9 @@
     "Marilyn Maycroft"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hell's Belles"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Shrew_(comics)"

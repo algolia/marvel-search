@@ -2,14 +2,6 @@
   "aliases": [
     "Shocker"
   ],
-  "alliances": [
-    "Sinister Syndicate",
-    "Heroes for Hire",
-    "Thunderbolts",
-    "Masters of Evil",
-    "Sinister Six",
-    "Villains for Hire"
-  ],
   "authors": [
     "Stan Lee",
     "John Romita",
@@ -40,6 +32,14 @@
     "Herman Schultz"
   ],
   "species": [
+  ],
+  "teams": [
+    "Sinister Syndicate",
+    "Heroes for Hire",
+    "Thunderbolts",
+    "Masters of Evil",
+    "Sinister Six",
+    "Villains for Hire"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2081/shocker",

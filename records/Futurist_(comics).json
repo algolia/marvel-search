@@ -2,13 +2,11 @@
   "aliases": [
     "Futurist"
   ],
-  "alliances": [
-  ],
   "authors": [
     "John Byrne",
     "Marv Wolfman"
   ],
-  "description": "Futurist (Randolph James) is a fictional character in the Marvel Universe.",
+  "description": "Futurist (Randolph James) is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Futurist",
@@ -31,6 +29,8 @@
     "Randolph James"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Futurist_(comics)"

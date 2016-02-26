@@ -2,13 +2,11 @@
   "aliases": [
     "Sentinel"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "The Sentinels are a fictional variety of mutant-hunting robots, appearing in the Marvel Comics Universe. They are usually portrayed as antagonists to the X-Men. Created by Stan Lee and Jack Kirby, they first appeared in The X-Men (vol. 1) #14 (November 1965).According to Marvel canon, Sentinels are programmed to locate mutants and capture or kill them. Though several types of Sentinels have been introduced, the typical Sentinel is three stories tall, capable of flight, projects energy blasts, and can detect mutants.The Sentinels have been featured in several X-Men video games, and played a large role in the 1990s X-Men animated series. Additionally, a simulated version made a brief appearance in the beginning of the 2006 film, X-Men: The Last Stand seen in the Danger Room. They are featured prominently in the 2014 film, X-Men: Days of Future Past. In 2009, the Sentinels were ranked by IGN as the 38th Greatest Comic Book Villain of All Time.",
+  "description": "The Sentinels are a fictional variety of mutant-hunting robots, appearing in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4ce5a159e5082/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -28,6 +26,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2045/sentinel",

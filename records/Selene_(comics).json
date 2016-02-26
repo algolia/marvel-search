@@ -4,12 +4,6 @@
     "Black Priestess",
     "Selene"
   ],
-  "alliances": [
-    "Brotherhood of Mutants",
-    "Externals",
-    "Hellfire Club",
-    "Sisterhood of Mutants"
-  ],
   "authors": [
     "Chris Claremont",
     "Sal Buscema"
@@ -51,6 +45,12 @@
     "Selene Gallio"
   ],
   "species": [
+  ],
+  "teams": [
+    "Brotherhood of Mutants",
+    "Externals",
+    "Hellfire Club",
+    "Sisterhood of Mutants"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2044/selene",

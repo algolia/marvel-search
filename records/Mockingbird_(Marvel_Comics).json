@@ -6,21 +6,9 @@
     "the Huntress",
     "Mockingbird"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "Avengers",
-    "West Coast Avengers",
-    "Great Lakes Avengers",
-    "Legion of the Unliving",
-    "New Avengers",
-    "World Counter-terrorism Agency",
-    "Secret Avengers",
-    "A-Force",
-    "cn|date"
-  ],
   "authors": [
   ],
-  "description": "Mockingbird (Barbara \"Bobbi\" Morse) is a fictional character, a superheroine in Marvel Comics.",
+  "description": "Mockingbird (Barbara \"Bobbi\" Morse) is a fictional character, a superheroine in Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51e829af23af9/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -50,6 +38,18 @@
     "Barbara \"Bobbi\" Morse Barton"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Avengers",
+    "West Coast Avengers",
+    "Great Lakes Avengers",
+    "Legion of the Unliving",
+    "New Avengers",
+    "World Counter-terrorism Agency",
+    "Secret Avengers",
+    "A-Force",
+    "cn|date"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011220/mockingbird",

@@ -3,14 +3,11 @@
     "Push",
     "Nancy Lu"
   ],
-  "alliances": [
-    "X-People"
-  ],
   "authors": [
     "Tom DeFalco",
     "Pat Olliffe"
   ],
-  "description": "Push (Nancy Lu) is a fictional character who appears in the Marvel Comics's MC2 series Spider-Girl.",
+  "description": "Push (Nancy Lu) is a fictional character who appears in the Marvel Comics's MC2 series Spider-Girl",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Push.PNG/225px-Push.PNG",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
     "Nancy Lu"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-People"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Lu"

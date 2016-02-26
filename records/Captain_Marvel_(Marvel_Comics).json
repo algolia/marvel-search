@@ -2,11 +2,9 @@
   "aliases": [
     "Captain Marvel"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "Captain Marvel is the name of several fictional superheroes appearing in comic books published by Marvel Comics. Most of these versions exist in Marvel's main shared universe, known as the Marvel Universe.",
+  "description": "Captain Marvel is the name of several fictional superheroes appearing in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5269608c1be7a/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -26,6 +24,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/9/captain_marvel",

@@ -3,14 +3,11 @@
     "\"Devourer of Totems\"",
     "Morlun"
   ],
-  "alliances": [
-    "The Inheritors"
-  ],
   "authors": [
     "John Romita, Jr.",
     "J. Michael Straczynski"
   ],
-  "description": "Morlun is a fictional comic book supervillain in Marvel Comics' shared universe, the Marvel Universe, and a foe of Spider-Man. Morlun first appeared in The Amazing Spider-Man vol. 2 #30 (June 2001), created by writer J. Michael Straczynski and penciler John Romita, Jr.. He is best known as the killer of Spider-Man in the storyline \"Spider-Man: The Other\".",
+  "description": "Morlun is a fictional comic book supervillain in Marvel Comics' shared universe, the Marvel Universe, and a foe of Spider-Man",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/527411be42b48/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +37,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "The Inheritors"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1509/morlun",

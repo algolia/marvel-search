@@ -3,17 +3,10 @@
     "Nocturne",
     "Nocturne (Talia Wagner)"
   ],
-  "alliances": [
-    "Exiles",
-    "Brotherhood of Mutants",
-    "X-Men",
-    "Excalibur",
-    "New Excalibur"
-  ],
   "authors": [
     "Jim Calafiore"
   ],
-  "description": "Nocturne (Talia Josephine \"T.J.\" Wagner) is a member of the reality-hopping Exiles and formerly associated with New Excalibur.",
+  "description": "Nocturne (Talia Josephine \"T",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Nocturnexcal.png/230px-Nocturnexcal.png",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +34,13 @@
     "Talia Josephine \"T.J.\" Wagner"
   ],
   "species": [
+  ],
+  "teams": [
+    "Exiles",
+    "Brotherhood of Mutants",
+    "X-Men",
+    "Excalibur",
+    "New Excalibur"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1615/nocturne",

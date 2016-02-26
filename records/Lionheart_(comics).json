@@ -4,18 +4,11 @@
     "Lionheart of Avalon",
     "Lionheart"
   ],
-  "alliances": [
-    "Excalibur",
-    "Avengers",
-    "Captain Britain Corps",
-    "The Avengers",
-    "New Excalibur"
-  ],
   "authors": [
     "Olivier Coipel",
     "Chuck Austen"
   ],
-  "description": "Lionheart (Kelsey Leigh Kirkland), formerly called Captain Britain, is a fictional character, a Marvel Comics superhero.",
+  "description": "Lionheart (Kelsey Leigh Kirkland), formerly called Captain Britain, is a fictional character, a Marvel Comics superhero",
   "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/Lionheart.png",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +32,13 @@
     "Kelsey Leigh Kirkland"
   ],
   "species": [
+  ],
+  "teams": [
+    "Excalibur",
+    "Avengers",
+    "Captain Britain Corps",
+    "The Avengers",
+    "New Excalibur"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1252/lionheart",

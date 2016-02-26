@@ -3,17 +3,11 @@
     "Killer Whale",
     "Orka"
   ],
-  "alliances": [
-    "Heroes for Hire",
-    "Deep Six",
-    "Roxxon Energy Corporation",
-    "Brand Corporation"
-  ],
   "authors": [
     "Roy Thomas",
     "Marie Severin"
   ],
-  "description": "Orka is a fictional character that appears in comic books published by Marvel Comics. The character first appears in Prince Namor, the Sub-Mariner #23 (March 1970) and was created by writer Roy Thomas and Marie Severin.",
+  "description": "Orka is a fictional character that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Sub-mariner23.jpg/250px-Sub-mariner23.jpg",
   "isHero": false,
   "isVillain": false,
@@ -48,6 +42,12 @@
     "Orka"
   ],
   "species": [
+  ],
+  "teams": [
+    "Heroes for Hire",
+    "Deep Six",
+    "Roxxon Energy Corporation",
+    "Brand Corporation"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Orka_(comics)"

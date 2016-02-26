@@ -2,13 +2,11 @@
   "aliases": [
     "Evilhawk"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Danny Fingeroth",
     "Mike Manley"
   ],
-  "description": "Evilhawk is a fictional character in the Marvel Universe.Evilhawk is a reptilian alien from the planet Luq with an android body.  He is an enemy of Darkhawk.",
+  "description": "Evilhawk is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Evilhawk",
@@ -28,6 +26,8 @@
     "Dargin Bokk"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Evilhawk"

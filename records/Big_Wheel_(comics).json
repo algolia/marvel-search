@@ -2,15 +2,12 @@
   "aliases": [
     "Big Wheel"
   ],
-  "alliances": [
-    "Vil-Anon"
-  ],
   "authors": [
     "Mike Esposito",
     "Ross Andru",
     "Marv Wolfman"
   ],
-  "description": "Big Wheel is a Marvel Comics supervillain created by Marv Wolfman, Ross Andru, and Mike Esposito. The character first appeared in The Amazing Spider-Man #182 (July 1978).",
+  "description": "Big Wheel is a Marvel Comics supervillain created by Marv Wolfman, Ross Andru, and Mike Esposito",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c0040b26877d/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +29,9 @@
     "Jackson Weele"
   ],
   "species": [
+  ],
+  "teams": [
+    "Vil-Anon"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/3212/big_wheel",

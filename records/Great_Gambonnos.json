@@ -4,15 +4,11 @@
     "Kings of the High Trapeze",
     "Great Gambonnos"
   ],
-  "alliances": [
-    "Circus of Crime",
-    "The Masters of Menace"
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "The Great Gambonnos are fictional characters, two twin supervillains in the Marvel Universe.",
+  "description": "The Great Gambonnos are fictional characters, two twin supervillains in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Great Gambonnos",
@@ -36,6 +32,10 @@
     "Ernesto and Luigi Gambonno"
   ],
   "species": [
+  ],
+  "teams": [
+    "Circus of Crime",
+    "The Masters of Menace"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Great_Gambonnos"

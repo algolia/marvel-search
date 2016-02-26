@@ -2,16 +2,13 @@
   "aliases": [
     "Schizoid Man"
   ],
-  "alliances": [
-    "Vil-Anon"
-  ],
   "authors": [
     "John Romita, Jr.",
     "Bill Mantlo",
     "Jim Mooney",
     "John Romita Jr."
   ],
-  "description": "The Schizoid Man is a Marvel Comics supervillain.",
+  "description": "The Schizoid Man is a Marvel Comics supervillain",
   "isHero": false,
   "isVillain": false,
   "name": "Schizoid Man",
@@ -34,6 +31,9 @@
     "Chip Martin"
   ],
   "species": [
+  ],
+  "teams": [
+    "Vil-Anon"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Schizoid_Man_(comics)"

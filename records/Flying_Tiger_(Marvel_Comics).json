@@ -2,15 +2,12 @@
   "aliases": [
     "Flying Tiger"
   ],
-  "alliances": [
-    "Masters of Evil"
-  ],
   "authors": [
     "Chris Claremont",
     "Steve Leialoha",
     "Bob Wiacek"
   ],
-  "description": "Flying Tiger is a fictional Marvel Comics supervillain.",
+  "description": "Flying Tiger is a fictional Marvel Comics supervillain",
   "isHero": false,
   "isVillain": false,
   "name": "Flying Tiger",
@@ -29,6 +26,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Masters of Evil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Flying_Tiger_(Marvel_Comics)"

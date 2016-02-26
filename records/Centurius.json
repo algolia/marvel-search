@@ -3,17 +3,12 @@
     "Centurius",
     "Doc Century"
   ],
-  "alliances": [
-    "Thunderbolts",
-    "Conspiracy",
-    "The Conspiracy"
-  ],
   "authors": [
     "Jim Steranko  Frank Giacoia",
     "Jim Steranko",
     "Frank Giacoia"
   ],
-  "description": "Noah Black, also called Centurius, is a fictional supervillain appearing  in publications by Marvel Comics.",
+  "description": "Noah Black, also called Centurius, is a fictional supervillain appearing  in publications by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Centuriusmu0.jpg/250px-Centuriusmu0.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +32,11 @@
     "Noah Black"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Conspiracy",
+    "The Conspiracy"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Centurius"

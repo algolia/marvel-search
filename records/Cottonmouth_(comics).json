@@ -3,15 +3,11 @@
     "Quincy McIver",
     "Cottonmouth"
   ],
-  "alliances": [
-    "Serpent Society",
-    "Flashmob"
-  ],
   "authors": [
     "Mark Gruenwald",
     "Paul Neary"
   ],
-  "description": "Cottonmouth is the name of two villains in Marvel Comics.",
+  "description": "Cottonmouth is the name of two villains in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Cottonmouth",
@@ -38,6 +34,10 @@
     "Burchell Clemens"
   ],
   "species": [
+  ],
+  "teams": [
+    "Serpent Society",
+    "Flashmob"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/467/cottonmouth",

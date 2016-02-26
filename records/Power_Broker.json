@@ -2,19 +2,12 @@
   "aliases": [
     "Power Broker"
   ],
-  "alliances": [
-    "Corporation",
-    "Power Broker",
-    "Inc.",
-    "The Corporation",
-    "Power Broker, Inc."
-  ],
   "authors": [
     "Jack Kirby",
     "Roger Stern",
     "Sal Buscema"
   ],
-  "description": "Power Broker is the name of two characters in Marvel Comics.",
+  "description": "Power Broker is the name of two characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Power Broker",
@@ -35,6 +28,13 @@
     "Curtiss Jackson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Corporation",
+    "Power Broker",
+    "Inc.",
+    "The Corporation",
+    "Power Broker, Inc."
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Power_Broker"

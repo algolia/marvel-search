@@ -1,10 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "Batroc's Brigade",
-    "French Foreign Legion"
-  ],
   "authors": [
     "Dan Abnett",
     "Andy Lanning",
@@ -30,6 +26,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Batroc's Brigade",
+    "French Foreign Legion"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Rapido_(comics)"

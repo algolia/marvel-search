@@ -2,17 +2,10 @@
   "aliases": [
     "Slither"
   ],
-  "alliances": [
-    "Resistants",
-    "Serpent Society",
-    "Brotherhood of Mutants",
-    "Mutant Force",
-    "Secret Empire"
-  ],
   "authors": [
     "Jack Kirby"
   ],
-  "description": "Slither (Aaron Salomon) is a fictional character, a snake-like mutant in the Marvel Comics Universe. His first appearance was in Captain America Annual #4 and was created by Jack Kirby.",
+  "description": "Slither (Aaron Salomon) is a fictional character, a snake-like mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Slither",
@@ -35,6 +28,13 @@
     "Aaron Salomon"
   ],
   "species": [
+  ],
+  "teams": [
+    "Resistants",
+    "Serpent Society",
+    "Brotherhood of Mutants",
+    "Mutant Force",
+    "Secret Empire"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Slither_(comics)"

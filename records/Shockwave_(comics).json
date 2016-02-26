@@ -3,14 +3,6 @@
     "Lancaster Sneed",
     "Shockwave"
   ],
-  "alliances": [
-    "Masters of Evil",
-    "Oriental Expediters",
-    "Secret Intelligence Service",
-    "Golden Dagger Sect",
-    "S.H.I.E.L.D.",
-    "MI6"
-  ],
   "authors": [
     "Tom Sutton",
     "Doug Moench",
@@ -40,6 +32,14 @@
     "Lancaster Sneed"
   ],
   "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Oriental Expediters",
+    "Secret Intelligence Service",
+    "Golden Dagger Sect",
+    "S.H.I.E.L.D.",
+    "MI6"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2082/shockwave",

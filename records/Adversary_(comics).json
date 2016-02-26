@@ -5,13 +5,11 @@
     "The Adversary",
     "Adversary"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Chris Claremont",
     "John Romita, Jr."
   ],
-  "description": "The Adversary is a fictional character, a demonic supervillain in the Marvel Comics universe.",
+  "description": "The Adversary is a fictional character, a demonic supervillain in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Adversary",
@@ -34,6 +32,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Adversary_(comics)"

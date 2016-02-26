@@ -2,10 +2,6 @@
   "aliases": [
     "Rocket Raccoon"
   ],
-  "alliances": [
-    "Guardians of the Galaxy (2008 team)",
-    "Guardians of the Galaxy"
-  ],
   "authors": [
     "Bill Mantlo",
     "Keith Giffen"
@@ -38,6 +34,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Guardians of the Galaxy (2008 team)",
+    "Guardians of the Galaxy"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/47/rocket_raccoon",

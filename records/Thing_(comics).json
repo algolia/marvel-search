@@ -12,21 +12,6 @@
     "the",
     "Pirate"
   ],
-  "alliances": [
-    "Fear Itself",
-    "The New Avengers",
-    "West Coast Avengers",
-    "Fantastic Four",
-    "Future Foundation",
-    "Yancy Street Gang",
-    "Unlimited Class Wrestling Federation",
-    "Thunderiders",
-    "UCWF",
-    "Avengers West Coast",
-    "New Avengers",
-    "Guardians of the Galaxy",
-    "The Worthy"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
@@ -62,6 +47,21 @@
     "Benjamin Jacob \"Ben\" Grimm"
   ],
   "species": [
+  ],
+  "teams": [
+    "Fear Itself",
+    "The New Avengers",
+    "West Coast Avengers",
+    "Fantastic Four",
+    "Future Foundation",
+    "Yancy Street Gang",
+    "Unlimited Class Wrestling Federation",
+    "Thunderiders",
+    "UCWF",
+    "Avengers West Coast",
+    "New Avengers",
+    "Guardians of the Galaxy",
+    "The Worthy"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/59/thing",

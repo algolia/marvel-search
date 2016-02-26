@@ -1,9 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "Enforcers"
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
@@ -27,6 +24,9 @@
     "Daniel Brito"
   ],
   "species": [
+  ],
+  "teams": [
+    "Enforcers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Fancy_Dan"

@@ -3,12 +3,6 @@
     "Whizzer",
     "Whizzer (Robert Frank)"
   ],
-  "alliances": [
-    "Liberty Legion",
-    "Avengers",
-    "All-Winners Squad",
-    "Invaders"
-  ],
   "authors": [
     "Al Avison"
   ],
@@ -36,6 +30,12 @@
     "Robert L. Frank"
   ],
   "species": [
+  ],
+  "teams": [
+    "Liberty Legion",
+    "Avengers",
+    "All-Winners Squad",
+    "Invaders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2561/whizzer",

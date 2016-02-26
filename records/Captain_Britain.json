@@ -3,21 +3,11 @@
     "Britannic",
     "Captain Britain"
   ],
-  "alliances": [
-    "Captain Britain Corps",
-    "Excalibur",
-    "MI-13",
-    "Illuminati",
-    "Hellfire Club",
-    "Secret Avengers",
-    "Knights of Pendragon",
-    "New Excalibur"
-  ],
   "authors": [
     "Chris Claremont",
     "Herb Trimpe"
   ],
-  "description": "Captain Britain (Brian Braddock), is a fictional character, a superhero appearing in the comic books published by Marvel Comics. Created by Chris Claremont and Herb Trimpe, he first appeared in Captain Britain Weekly #1 (October 1976). The character has been used in stories through the years by many people, most notably Chris Claremont, Alan Davis, and Alan Moore.The character was initially intended to be a British equivalent of Captain America. Endowed with extraordinary powers by the legendary magician Merlyn and his daughter Roma, Captain Britain was assigned to uphold the laws of Britain.",
+  "description": "Captain Britain (Brian Braddock), is a fictional character, a superhero appearing in the comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4dbf0e5d57226/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -48,6 +38,16 @@
     "Brian Braddock"
   ],
   "species": [
+  ],
+  "teams": [
+    "Captain Britain Corps",
+    "Excalibur",
+    "MI-13",
+    "Illuminati",
+    "Hellfire Club",
+    "Secret Avengers",
+    "Knights of Pendragon",
+    "New Excalibur"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/382/captain_britain",

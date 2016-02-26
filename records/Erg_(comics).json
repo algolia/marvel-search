@@ -2,17 +2,11 @@
   "aliases": [
     "Erg"
   ],
-  "alliances": [
-    "X-Men: The 198",
-    "Drain Dwellers",
-    "Morlocks",
-    "The 198"
-  ],
   "authors": [
     "Louise Simonson",
     "June Brigman"
   ],
-  "description": "Erg is a fictional mutant character in the Marvel Comics Universe.",
+  "description": "Erg is a fictional mutant character in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/6/65/XMEN_ERG.jpg",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +29,12 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men: The 198",
+    "Drain Dwellers",
+    "Morlocks",
+    "The 198"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Erg_(comics)"

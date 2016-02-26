@@ -5,17 +5,12 @@
     "Lady Andromeda",
     "Andromeda"
   ],
-  "alliances": [
-    "Deep Six",
-    "Dragon Circle",
-    "Defenders"
-  ],
   "authors": [
     "Kim DeMulder",
     "Peter B. Gillis",
     "Don Perlin"
   ],
-  "description": "Andromeda Attumasen is a fictional character that appears in various comic book series published by Marvel Comics. The character is a member of Homo mermanus, the race that occupies the Atlantis of Marvel's shared universe, known as the Marvel Universe.",
+  "description": "Andromeda Attumasen is a fictional character that appears in various comic book series published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/Andromeda616.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +35,11 @@
     "Andromeda Attumasen"
   ],
   "species": [
+  ],
+  "teams": [
+    "Deep Six",
+    "Dragon Circle",
+    "Defenders"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Andromeda_(Marvel_Comics)"

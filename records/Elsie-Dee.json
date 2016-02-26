@@ -2,15 +2,12 @@
   "aliases": [
     "Elsie-Dee"
   ],
-  "alliances": [
-    "Reavers"
-  ],
   "authors": [
     "Larry Hama ,Marc Silvestri",
     "Larry Hama",
     "Marc Silvestri"
   ],
-  "description": "Elsie-Dee is a fictional character appearing in Marvel Comics, and an ally of Wolverine. The character first appeared in Wolverine Vol. 2, Issue 37 in an inanimate state suspended in tank of gelatin. Elsie-Dee is a sentient automaton or android. Her name is a pun on LCD, indicating her artificial origins.",
+  "description": "Elsie-Dee is a fictional character appearing in Marvel Comics, and an ally of Wolverine",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Albert_and_elsie.jpg/200px-Albert_and_elsie.jpg",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +32,9 @@
     "Elsie-Dee"
   ],
   "species": [
+  ],
+  "teams": [
+    "Reavers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Elsie-Dee"

@@ -4,18 +4,13 @@
     "Power Master",
     "Bushmaster"
   ],
-  "alliances": [
-    "Serpent Society",
-    "Thunderbolts",
-    "Maggia"
-  ],
   "authors": [
     "Mark Gruenwald",
     "Paul Neary",
     "Chris Claremont",
     "John Byrne"
   ],
-  "description": "Bushmaster is the name of two Marvel Comics supervillains.",
+  "description": "Bushmaster is the name of two Marvel Comics supervillains",
   "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Bushmaster_Avengers_vs_XMen.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +39,11 @@
     "Quincy McIver"
   ],
   "species": [
+  ],
+  "teams": [
+    "Serpent Society",
+    "Thunderbolts",
+    "Maggia"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Bushmaster_(Marvel_Comics)"

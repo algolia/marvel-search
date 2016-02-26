@@ -3,15 +3,13 @@
     "The Walrus",
     "Walrus"
   ],
-  "alliances": [
-  ],
   "authors": [
     "J. M. DeMatteis",
     "J.M. DeMatteis",
     "Peter Gillis",
     "Alan Kupperberg"
   ],
-  "description": "The Walrus is a comedic Marvel Comics supervillain who first appeared in Defenders #131 (May 1984). He's an enemy of Spider-Man and Frog-Man.",
+  "description": "The Walrus is a comedic Marvel Comics supervillain who first appeared in Defenders #131 (May 1984)",
   "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Walrus_comics.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +38,8 @@
     "Hubert Carpenter"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Walrus_(comics)"

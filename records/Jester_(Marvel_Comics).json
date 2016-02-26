@@ -3,11 +3,6 @@
     "Clown",
     "Jester"
   ],
-  "alliances": [
-    "The Assembly of Evil",
-    "Thunderbolts",
-    "Crazy Gang"
-  ],
   "authors": [
     "Alan Moore",
     "Alan Davis",
@@ -16,7 +11,7 @@
     "Gene Colan",
     "Stan Lee"
   ],
-  "description": "Jester is the name of several Marvel Comics supervillains.",
+  "description": "Jester is the name of several Marvel Comics supervillains",
   "isHero": false,
   "isVillain": false,
   "name": "Jester",
@@ -49,6 +44,11 @@
     "Jody Putt"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Assembly of Evil",
+    "Thunderbolts",
+    "Crazy Gang"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Jester_(Marvel_Comics)"

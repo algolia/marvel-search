@@ -2,16 +2,11 @@
   "aliases": [
     "Dragoness"
   ],
-  "alliances": [
-    "X-Men: The 198",
-    "Mutant Liberation Front",
-    "The 198"
-  ],
   "authors": [
     "Louise Simonson",
     "Rob Liefeld"
   ],
-  "description": "Dragoness (Tamara Kurtz) is a fictional character, a mutant supervillain in the Marvel Comics Universe, created for their on-going series New Mutants and X-Force. Dragoness was created by Louise Simonson and Rob Liefeld.",
+  "description": "Dragoness (Tamara Kurtz) is a fictional character, a mutant supervillain in the Marvel Comics Universe, created for their on-going series New Mutants and X-Force",
   "isHero": false,
   "isVillain": false,
   "name": "Dragoness",
@@ -32,6 +27,11 @@
     "Tamara Kurtz"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men: The 198",
+    "Mutant Liberation Front",
+    "The 198"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Dragoness_(comics)"

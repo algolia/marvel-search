@@ -6,8 +6,6 @@
     "Anne Brock (I) / Robertson",
     "Pat (II)"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Ann Weying was created by David Michelinie",
     "Mark Bagley . Patricia Robertson was created by Daniel Way",
@@ -20,7 +18,7 @@
     "Francisco Herrera",
     "(artist)."
   ],
-  "description": "She-Venom (also known as The Bride of Venom) is the name of two fictional characters in Marvel comics. The first She-Venom, Ann Weying, was the ex-wife of Eddie Brock. The second was Communications Specialist Patricia Robertson, the host of the Venom-clone.",
+  "description": "She-Venom (also known as The Bride of Venom) is the name of two fictional characters in Marvel comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/5/5c/Brideofvenom.png",
   "isHero": false,
   "isVillain": false,
@@ -48,6 +46,8 @@
     "Patricia Robertson"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/She-Venom"

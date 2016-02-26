@@ -5,17 +5,12 @@
     "The Voice of Truth",
     "Voice"
   ],
-  "alliances": [
-    "Red Skull",
-    "Skeleton Crew",
-    "People's Defense Force"
-  ],
   "authors": [
     "Stan Lee",
     "Larry Lieber",
     "Don Heck"
   ],
-  "description": "Voice is a Marvel Comics supervillain.  Jason Cragg is not to be confused with David Angar, alias Angar the Screamer, who once used the alias of the Voice.",
+  "description": "Voice is a Marvel Comics supervillain",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/The_Voice_from_Avengers_Assemble_One-Shot_July_2010.jpg/200px-The_Voice_from_Avengers_Assemble_One-Shot_July_2010.jpg",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +36,11 @@
     "Jason Lorne Cragg"
   ],
   "species": [
+  ],
+  "teams": [
+    "Red Skull",
+    "Skeleton Crew",
+    "People's Defense Force"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Voice_(comics)"

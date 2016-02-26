@@ -2,17 +2,11 @@
   "aliases": [
     "Naga"
   ],
-  "alliances": [
-    "Features of the Marvel Universe",
-    "Father Set",
-    "Lemuria",
-    "Set"
-  ],
   "authors": [
     "Roy Thomas",
     "Marie Severin"
   ],
-  "description": "Naga is a fictional character and Marvel Comics supervillain. Created by writer Roy Thomas and artist Marie Severin, he first appeared in Sub-Mariner #9 (January 1969).",
+  "description": "Naga is a fictional character and Marvel Comics supervillain",
   "isHero": false,
   "isVillain": false,
   "name": "Naga",
@@ -44,6 +38,12 @@
     "Naga"
   ],
   "species": [
+  ],
+  "teams": [
+    "Features of the Marvel Universe",
+    "Father Set",
+    "Lemuria",
+    "Set"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Naga_(Marvel_Comics)"

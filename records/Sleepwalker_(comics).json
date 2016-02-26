@@ -3,14 +3,6 @@
     "Sleepy",
     "Sleepwalker"
   ],
-  "alliances": [
-    "Operation: Lightning Storm",
-    "S.H.I.E.L.D.",
-    "Sleepwalkers",
-    "Mindscape",
-    "Defenders",
-    "Secret Defenders"
-  ],
   "authors": [
     "Bob Budiansky"
   ],
@@ -45,6 +37,14 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Operation: Lightning Storm",
+    "S.H.I.E.L.D.",
+    "Sleepwalkers",
+    "Mindscape",
+    "Defenders",
+    "Secret Defenders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2141/sleepwalker",

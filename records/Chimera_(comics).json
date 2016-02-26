@@ -2,16 +2,11 @@
   "aliases": [
     "Chimera"
   ],
-  "alliances": [
-    "Marauders",
-    "Brotherhood of Mutants",
-    "Sisterhood of Mutants"
-  ],
   "authors": [
     "Larry Hama",
     "Adam Kubert"
   ],
-  "description": "Chimera is a fictional mutant character in the Marvel Comics Universe.",
+  "description": "Chimera is a fictional mutant character in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/ChimeraX-Men.jpg/250px-ChimeraX-Men.jpg",
   "isHero": false,
   "isVillain": true,
@@ -35,6 +30,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Marauders",
+    "Brotherhood of Mutants",
+    "Sisterhood of Mutants"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/428/chimera",

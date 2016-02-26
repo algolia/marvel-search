@@ -2,14 +2,10 @@
   "aliases": [
     "Quagmire"
   ],
-  "alliances": [
-    "Squadron Supreme",
-    "Institute of Evil"
-  ],
   "authors": [
     "Mark Gruenwald"
   ],
-  "description": "Quagmire (Jerome Meyers) is a fictional character, owned by Marvel Comics who is a native of the universe of the Squadron Supreme. He first appeared in Squadron Supreme #4 (Dec. 1985) in flashback, and fully in Squadron Supreme #5 (Jan 1986), and was created by Mark Gruenwald.",
+  "description": "Quagmire (Jerome Meyers) is a fictional character, owned by Marvel Comics who is a native of the universe of the Squadron Supreme",
   "isHero": false,
   "isVillain": false,
   "name": "Quagmire",
@@ -29,6 +25,10 @@
     "Jerome Meyers"
   ],
   "species": [
+  ],
+  "teams": [
+    "Squadron Supreme",
+    "Institute of Evil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Quagmire_(comics)"

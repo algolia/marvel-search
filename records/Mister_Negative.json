@@ -2,14 +2,12 @@
   "aliases": [
     "Mister Negative"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Steve McNiven",
     "Dan Slott",
     "Phil Jimenez"
   ],
-  "description": "Mister Negative (Martin Li) is a fictional comic book supervillain, appearing in books published by Marvel Comics, usually as an enemy of Spider-Man and the Punisher. Created by Dan Slott, Steve McNiven, and Phil Jimenez, Mister Negative first appeared in a cameo in Amazing Spider-Man: Swing Shift (May 2007), a Free Comic Book Day issue set after the events of the Spider-Man: One More Day storyline. Mister Negative's first full appearance came in The Amazing Spider-Man #546 (Jan 2008); the start of the \"Brand New Day\" storyline. Mister Negative is the second villain in the \"Brand New Day\" storyline of Spider-Man, immediately following the events of \"One More Day\".",
+  "description": "Mister Negative (Martin Li) is a fictional comic book supervillain, appearing in books published by Marvel Comics, usually as an enemy of Spider-Man and the Punisher",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Mister_Negative.jpg/250px-Mister_Negative.jpg",
   "isHero": false,
   "isVillain": true,
@@ -42,6 +40,8 @@
     "Martin Li"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mister_Negative"

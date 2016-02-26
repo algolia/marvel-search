@@ -2,13 +2,11 @@
   "aliases": [
     "Spore"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Archie Goodwin",
     "John Byrne"
   ],
-  "description": "Spore is a fictional character that has appeared in comic books published by Marvel Comics. Spore first appeared in the pages of Wolverine in Wolverine Vol 2 #21 of February, in 1990, created by Archie Goodwin and John Byrne.",
+  "description": "Spore is a fictional character that has appeared in comic books published by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Spore",
@@ -34,6 +32,8 @@
     "Spore"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Spore_(comics)"

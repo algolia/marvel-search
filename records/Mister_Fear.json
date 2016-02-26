@@ -2,8 +2,6 @@
   "aliases": [
     "Mister Fear"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Wally Wood",
@@ -12,7 +10,7 @@
     "Steven Grant",
     "Carmine Infantino"
   ],
-  "description": "Mister Fear is the name of multiple fictional characters, all supervillains in the Marvel Comics Universe.",
+  "description": "Mister Fear is the name of multiple fictional characters, all supervillains in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Mrfear.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +42,8 @@
     "Alan Fagan"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1476/mister_fear",

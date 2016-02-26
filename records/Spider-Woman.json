@@ -2,13 +2,11 @@
   "aliases": [
     "Spider-Woman"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Marie Severin",
     "Archie Goodwin"
   ],
-  "description": "Spider-Woman is the codename of several fictional characters in comic books published by Marvel Comics. The first Spider-Woman Jessica Drew also had her own cartoon series and the second Spider-Woman Julia Carpenter was a regular in the first Iron Man cartoon series.",
+  "description": "Spider-Woman is the codename of several fictional characters in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/531771afe4ffa/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": true,
@@ -28,6 +26,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1010795/spider-woman_charlotte_witter/featured",

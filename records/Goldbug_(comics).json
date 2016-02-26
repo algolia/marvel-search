@@ -3,15 +3,11 @@
     "Jack Smith",
     "Goldbug"
   ],
-  "alliances": [
-    "They Who Wield Power",
-    "Maggia"
-  ],
   "authors": [
     "Marv Wolfman",
     "Lee Elias"
   ],
-  "description": "Goldbug is a supervillain in Marvel Comics.",
+  "description": "Goldbug is a supervillain in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Goldbug",
@@ -42,6 +38,10 @@
     "Matthew Gilden"
   ],
   "species": [
+  ],
+  "teams": [
+    "They Who Wield Power",
+    "Maggia"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Goldbug_(comics)"

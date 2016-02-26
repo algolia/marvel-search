@@ -3,11 +3,6 @@
     "Tanarus: God of Thunder",
     "Ulik"
   ],
-  "alliances": [
-    "Roxxon Energy Corporation",
-    "Dark Council",
-    "Circus of Crime"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
@@ -41,6 +36,11 @@
     "Ulik"
   ],
   "species": [
+  ],
+  "teams": [
+    "Roxxon Energy Corporation",
+    "Dark Council",
+    "Circus of Crime"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2434/ulik",

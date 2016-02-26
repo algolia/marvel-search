@@ -2,13 +2,11 @@
   "aliases": [
     "Bullet"
   ],
-  "alliances": [
-  ],
   "authors": [
     "John Romita, Jr.",
     "Ann Nocenti"
   ],
-  "description": "Bullet is a fictional character that has appeared in comic books published by Marvel Comics. Existing within Marvel's main shared universe, known as the Marvel Universe. Bullet first appeared in the pages of Daredevil in 1988, created by John Romita, Jr. and Ann Nocenti.",
+  "description": "Bullet is a fictional character that has appeared in comic books published by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Bullet",
@@ -33,6 +31,8 @@
     "Buck Cashman"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Bullet_(comics)"

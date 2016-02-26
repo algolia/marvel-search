@@ -3,16 +3,11 @@
     "Human Top",
     "Human Top (David Mitchell)"
   ],
-  "alliances": [
-    "Kid Commandos",
-    "V-Battalion",
-    "Penance Council"
-  ],
   "authors": [
     "Frank Robbins",
     "Roy Thomas"
   ],
-  "description": "The Human Top (David Mitchell) is a fictional character in the Marvel Universe.",
+  "description": "The Human Top (David Mitchell) is a fictional character in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Goldengrrl.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +35,11 @@
     "David Mitchell"
   ],
   "species": [
+  ],
+  "teams": [
+    "Kid Commandos",
+    "V-Battalion",
+    "Penance Council"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Human_Top_(David_Mitchell)"

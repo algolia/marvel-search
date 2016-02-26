@@ -3,15 +3,11 @@
     "White Queen",
     "Adrienne Frost"
   ],
-  "alliances": [
-    "Hellfire Club",
-    "Generation X"
-  ],
   "authors": [
     "Jay Faerber",
     "Terry Dodson."
   ],
-  "description": "Adrienne Frost is a fictional character of the Marvel Universe, the older sister of Emma Frost and Cordelia Frost. Not much is known about her. She first appeared in Generation X #48 (February, 1999). The issue was scripted by Jay Faerber and drawn by Terry Dodson.",
+  "description": "Adrienne Frost is a fictional character of the Marvel Universe, the older sister of Emma Frost and Cordelia Frost",
   "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Adriennefrost.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +28,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellfire Club",
+    "Generation X"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2556/white_queen",

@@ -2,15 +2,11 @@
   "aliases": [
     "Smiling Tiger"
   ],
-  "alliances": [
-    "Folding Circle",
-    "Thunderbolts"
-  ],
   "authors": [
     "Fabian Nicieza",
     "Mark Bagley"
   ],
-  "description": "Smiling Tiger (Conrad Mack) is a Marvel Comics supervillain.",
+  "description": "Smiling Tiger (Conrad Mack) is a Marvel Comics supervillain",
   "isHero": false,
   "isVillain": false,
   "name": "Smiling Tiger",
@@ -31,6 +27,10 @@
     "Conrad Mack"
   ],
   "species": [
+  ],
+  "teams": [
+    "Folding Circle",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2149/smiling_tiger",

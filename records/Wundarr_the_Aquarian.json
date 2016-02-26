@@ -3,20 +3,13 @@
     "Herald of the New Age",
     "Wundarr the Aquarian"
   ],
-  "alliances": [
-    "Features of the Marvel Universe",
-    "Fifty State Initiative",
-    "The Command",
-    "Initiative",
-    "Project Pegasus"
-  ],
   "authors": [
     "Mark Gruenwald",
     "Ralph Macchio",
     "Steve Gerber",
     "Val Mayerik"
   ],
-  "description": "Wundarr the Aquarian is a Marvel Comics character created by Steve Gerber and Val Mayerik in Adventure into Fear #17. His first appearance is thought of as a parody of the origin of Superman.",
+  "description": "Wundarr the Aquarian is a Marvel Comics character created by Steve Gerber and Val Mayerik in Adventure into Fear #17",
   "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Wundarr_the_Aquarian.png",
   "isHero": false,
   "isVillain": false,
@@ -45,6 +38,13 @@
     "Wundarr"
   ],
   "species": [
+  ],
+  "teams": [
+    "Features of the Marvel Universe",
+    "Fifty State Initiative",
+    "The Command",
+    "Initiative",
+    "Project Pegasus"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Wundarr_the_Aquarian"

@@ -4,14 +4,11 @@
     "Angel of Mercy",
     "Mercy"
   ],
-  "alliances": [
-    "Thunderbolts"
-  ],
   "authors": [
     "Todd McFarlane",
     "Peter David"
   ],
-  "description": "Mercy (Abigail Mercy Wright) is a fictional villain at the Marvel Comics universe.",
+  "description": "Mercy (Abigail Mercy Wright) is a fictional villain at the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Mercyhulk.jpg/249px-Mercyhulk.jpg",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +40,9 @@
     "Abigail Mercy Wright"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mercy_(comics)"

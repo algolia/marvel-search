@@ -3,17 +3,11 @@
     "Tattoo",
     "Longstrike"
   ],
-  "alliances": [
-    "New Warriors",
-    "Quentin Quire",
-    "Xavier Institute",
-    "Omega Gang"
-  ],
   "authors": [
     "Frank Quitely",
     "Grant Morrison"
   ],
-  "description": "Tattoo, later Longstrike, is a fictional mutant character in the Marvel Comics Universe. Her first appearance was in New X-Men #126, created by Grant Morrison and Frank Quitely.",
+  "description": "Tattoo, later Longstrike, is a fictional mutant character in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Longstrike.jpg/200px-Longstrike.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +36,12 @@
     "Christine Cord"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Warriors",
+    "Quentin Quire",
+    "Xavier Institute",
+    "Omega Gang"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2299/tattoo",

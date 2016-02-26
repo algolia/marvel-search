@@ -2,8 +2,6 @@
   "aliases": [
     "Shamrock"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Mark Gruenwald",
     "Bill Mantlo",
@@ -11,7 +9,7 @@
     "and John Romita, Jr.",
     "John Romita, Jr."
   ],
-  "description": "Shamrock is a fictional comic book superheroine appearing in books published by Marvel Comics.",
+  "description": "Shamrock is a fictional comic book superheroine appearing in books published by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Shamrock",
@@ -32,6 +30,8 @@
     "Molly Fitzgerald"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Shamrock_(comics)"

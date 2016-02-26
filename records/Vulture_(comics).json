@@ -2,12 +2,6 @@
   "aliases": [
     "Vulture"
   ],
-  "alliances": [
-    "Sinister Six",
-    "Empire State University",
-    "Legion Accursed",
-    "Sinister Twelve"
-  ],
   "authors": [
     "Ross Andru",
     "Mark Waid",
@@ -49,6 +43,12 @@
     "Jimmy Natale"
   ],
   "species": [
+  ],
+  "teams": [
+    "Sinister Six",
+    "Empire State University",
+    "Legion Accursed",
+    "Sinister Twelve"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2510/vulture",

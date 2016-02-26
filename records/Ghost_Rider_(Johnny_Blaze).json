@@ -5,21 +5,12 @@
     "Ghost Rider",
     "Ghost Rider (Johnny Blaze)"
   ],
-  "alliances": [
-    "Thunderbolts",
-    "Heroes for Hire",
-    "Defenders",
-    "Avengers of the Supernatural",
-    "Champions",
-    "Midnight Sons",
-    "Legion of Monsters"
-  ],
   "authors": [
     "Gary Friedrich",
     "Mike Ploog",
     "Roy Thomas"
   ],
-  "description": "Ghost Rider is a fictional character, a superhero who appears in comic books published by Marvel Comics. He is the second Marvel character to use the name Ghost Rider, following the Western comics hero later known as the Phantom Rider, and preceding Daniel Ketch.Johnny Blaze was portrayed both in the 2007 film Ghost Rider, and its 2012 sequel Ghost Rider: Spirit of Vengeance, by actor Nicolas Cage.",
+  "description": "Ghost Rider is a fictional character, a superhero who appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/535feaa671cc6/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -63,6 +54,15 @@
     "Johnny Blaze"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Heroes for Hire",
+    "Defenders",
+    "Avengers of the Supernatural",
+    "Champions",
+    "Midnight Sons",
+    "Legion of Monsters"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1010925/ghost_rider_daniel_ketch",

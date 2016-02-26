@@ -2,14 +2,10 @@
   "aliases": [
     "Cerise"
   ],
-  "alliances": [
-    "The Graces",
-    "Excalibur"
-  ],
   "authors": [
     "Alan Davis"
   ],
-  "description": "Cerise is a fictional character, a superhero appearing in books published by Marvel Comics, in particular those featuring Excalibur  and other books of the X-Men franchise.",
+  "description": "Cerise is a fictional character, a superhero appearing in books published by Marvel Comics, in particular those featuring Excalibur  and other books of the X-Men franchise",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Cerise_excalibur57-jmadureira.jpg/250px-Cerise_excalibur57-jmadureira.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +29,10 @@
     "Cerise"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Graces",
+    "Excalibur"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/413/cerise",

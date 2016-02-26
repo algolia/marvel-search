@@ -3,13 +3,10 @@
     "Raza",
     "Raza Longknife"
   ],
-  "alliances": [
-    "Starjammers"
-  ],
   "authors": [
     "Dave Cockrum"
   ],
-  "description": "Raza Longknife is a character from Marvel Comics, usually seen in the X-Men series and various spin-offs.  He is the last known surviving member of his unnamed alien race (which chose to die en masse in one final battle against the Shi'ar empire as the culmination of their warrior culture), and a member of the Starjammers.",
+  "description": "Raza Longknife is a character from Marvel Comics, usually seen in the X-Men series and various spin-offs",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4ce5a1057fce9/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +32,9 @@
     "Raza Longknife"
   ],
   "species": [
+  ],
+  "teams": [
+    "Starjammers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1882/raza",

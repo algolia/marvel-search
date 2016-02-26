@@ -3,17 +3,13 @@
     "The Attending",
     "Ajax"
   ],
-  "alliances": [
-    "Pantheon",
-    "Weapon X"
-  ],
   "authors": [
     "Walter McDaniel",
     "Peter David",
     "Dale Keown",
     "Joe Kelly"
   ],
-  "description": "Ajax is the codename belonging to two different characters in Marvel Comics, one the descendant of a demigod, the other a mercenary.",
+  "description": "Ajax is the codename belonging to two different characters in Marvel Comics, one the descendant of a demigod, the other a mercenary",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Ajazpantheon.jpg/200px-Ajazpantheon.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +30,10 @@
     "Francis"
   ],
   "species": [
+  ],
+  "teams": [
+    "Pantheon",
+    "Weapon X"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ajax_(comics)"

@@ -2,14 +2,10 @@
   "aliases": [
     "Breeze Barton"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "A.R.M.O.R."
-  ],
   "authors": [
     "Jack Binder"
   ],
-  "description": "Breeze Barton is a fictional character, a superhero who appears in comics published by Marvel Comics. The character first appeared in Daring Mystery Comics #3 (cover-dated April 1940), by Timely Comics, the precursor of Marvel. He was conceived by Jack Binder as an alternate-reality soldier in the U.S. Army fighting in World War II.",
+  "description": "Breeze Barton is a fictional character, a superhero who appears in comics published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Breeze_Barton1.jpg/200px-Breeze_Barton1.jpg",
   "isHero": true,
   "isVillain": false,
@@ -36,6 +32,10 @@
     "Kurt Barton"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "A.R.M.O.R."
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Breeze_Barton"

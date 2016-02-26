@@ -2,14 +2,12 @@
   "aliases": [
     "Wong-Chu"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Larry Lieber",
     "Don Heck",
     "Jack Kirby"
   ],
-  "description": "Wong-Chu is a fictional character, a comic book supervillain that appears in comic books published by Marvel Comics. He usually appears as an adversary of Iron Man. Created by writer Larry Lieber and artists Jack Kirby and Don Heck, he first appeared in Tales of Suspense #39 (March 1963), as the first villain that Iron Man faced.",
+  "description": "Wong-Chu is a fictional character, a comic book supervillain that appears in comic books published by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Wong-Chu",
@@ -29,6 +27,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Wong-Chu"

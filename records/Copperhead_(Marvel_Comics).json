@@ -2,10 +2,6 @@
   "aliases": [
     "Copperhead"
   ],
-  "alliances": [
-    "Gang of Four",
-    "Serpent Society"
-  ],
   "authors": [
     "Len Wein",
     "Marv Wolfman",
@@ -17,7 +13,7 @@
     "Tom Morgan",
     "Gene Colan"
   ],
-  "description": "Copperhead is the name of a number of fictional characters in the Marvel Universe.  The first two are similar characters that mimicked old pulp magazine heroes, wearing a suit of copper armor and shooting paralyzing or lethal darts, while the third is a member of the Serpent Society.",
+  "description": "Copperhead is the name of a number of fictional characters in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Copperhead",
@@ -45,6 +41,10 @@
     "David Lawfers"
   ],
   "species": [
+  ],
+  "teams": [
+    "Gang of Four",
+    "Serpent Society"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Copperhead_(Marvel_Comics)"

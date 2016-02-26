@@ -4,15 +4,11 @@
     "Heather Hudson",
     "Heather Hudson (Exiles)"
   ],
-  "alliances": [
-    "Exiles",
-    "Alpha Flight"
-  ],
   "authors": [
     "Mike McKone",
     "Judd Winick"
   ],
-  "description": "Heather Hudson is a fictional character created by Marvel Comics for their series called Exiles.",
+  "description": "Heather Hudson is a fictional character created by Marvel Comics for their series called Exiles",
   "isHero": false,
   "isVillain": false,
   "name": "Sasquatch (Walter Langkowski)",
@@ -37,6 +33,10 @@
     "Heather McDaniel Hudson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Exiles",
+    "Alpha Flight"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1995/sasquatch",

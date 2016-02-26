@@ -4,15 +4,12 @@
     "Night Stalker",
     "Lifeform"
   ],
-  "alliances": [
-    "Advanced Idea Mechanics"
-  ],
   "authors": [
     "Mike Baron",
     "Neil Hansen",
     "Mike Baron and Neil Hansen"
   ],
-  "description": "Lifeform is a fictional character, a comic book supervillain in the Marvel Comics Universe. Created by Mike Baron and Neil Hansen, the character first appears in Punisher Annual #3, Vol. 1.",
+  "description": "Lifeform is a fictional character, a comic book supervillain in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/LifeformMarvelComics.jpg/250px-LifeformMarvelComics.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +34,9 @@
     "George Prufrock"
   ],
   "species": [
+  ],
+  "teams": [
+    "Advanced Idea Mechanics"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Lifeform_(comics)"

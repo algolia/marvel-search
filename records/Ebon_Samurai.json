@@ -2,14 +2,11 @@
   "aliases": [
     "Ebon Samurai"
   ],
-  "alliances": [
-    "Big Hero 6"
-  ],
   "authors": [
     "Scott Lobdell",
     "Clayton Henry"
   ],
-  "description": "Ebon Samurai is a fictional character in the Marvel Comics Universe. His first appearance was in Alpha Flight #9 (2005) and was created by Scott Lobdell and Clayton Henry.",
+  "description": "Ebon Samurai is a fictional character in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Ebon_Samurai_%28Marvel_Comics%29.jpg/250px-Ebon_Samurai_%28Marvel_Comics%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +32,9 @@
     "Kioshi Keishicho"
   ],
   "species": [
+  ],
+  "teams": [
+    "Big Hero 6"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ebon_Samurai"

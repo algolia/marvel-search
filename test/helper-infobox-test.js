@@ -457,7 +457,7 @@ describe('HelperDBPedia', () => {
     });
   });
 
-  describe('getAlliances', () => {
+  describe('getTeams', () => {
     it('should remove <br />', () => {
       // Given
       let input = {
@@ -469,7 +469,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual(['S.H.I.E.L.D', 'Avengers']);
@@ -486,7 +486,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual(['S.H.I.E.L.D', 'Avengers']);
@@ -502,7 +502,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual([]);
@@ -518,7 +518,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual(['S.H.I.E.L.D', 'Avengers']);
@@ -534,7 +534,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual(['S.H.I.E.L.D', 'Avengers']);
@@ -550,7 +550,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual(['S.H.I.E.L.D', 'Avengers']);
@@ -566,7 +566,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual([]);
@@ -583,7 +583,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual(['X-Men', 'Avengers']);
@@ -601,7 +601,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual(['X-Men', 'Avengers']);
@@ -618,7 +618,7 @@ describe('HelperDBPedia', () => {
       };
 
       // When
-      let actual = Helper.getAlliances(input);
+      let actual = Helper.getTeams(input);
 
       // Then
       expect(actual).toEqual(['X-Men', 'Avengers']);

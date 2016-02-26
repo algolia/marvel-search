@@ -2,13 +2,10 @@
   "aliases": [
     "Werner von Strucker"
   ],
-  "alliances": [
-    "Hydra"
-  ],
   "authors": [
     "Bob Harras"
   ],
-  "description": "Werner von Strucker is a fictional character in the Marvel Comics universe.",
+  "description": "Werner von Strucker is a fictional character in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Werner von Strucker",
@@ -28,6 +25,9 @@
     "Werner von Strucker"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hydra"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Werner_von_Strucker"

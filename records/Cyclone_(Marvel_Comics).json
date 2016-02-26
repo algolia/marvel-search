@@ -2,14 +2,6 @@
   "aliases": [
     "Cyclone"
   ],
-  "alliances": [
-    "Maggia",
-    "Justin Hammer Industries/Hammer's operatives",
-    "Thunderbolts",
-    "Cyclone's criminal gang",
-    "Masters of Evil",
-    "NATO"
-  ],
   "authors": [
     "Sholly Fisch",
     "Ross Andru",
@@ -19,7 +11,7 @@
     "Don Hudson",
     "Mark Bagley"
   ],
-  "description": "Cyclone is the alias of a number of fictional characters appearing in the comic books published by Marvel Comics.",
+  "description": "Cyclone is the alias of a number of fictional characters appearing in the comic books published by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Cyclone",
@@ -45,6 +37,14 @@
     "Gregory Stevens"
   ],
   "species": [
+  ],
+  "teams": [
+    "Maggia",
+    "Justin Hammer Industries/Hammer's operatives",
+    "Thunderbolts",
+    "Cyclone's criminal gang",
+    "Masters of Evil",
+    "NATO"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Cyclone_(Marvel_Comics)"

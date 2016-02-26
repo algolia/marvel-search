@@ -4,15 +4,13 @@
     "Jack Frost",
     "Blizzard"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Bob Layton",
     "Don Heck",
     "David Michelinie",
     "Stan Lee"
   ],
-  "description": "Blizzard is a fictional character, a supervillain in the Marvel Universe and a member of Iron Man's rogues gallery.",
+  "description": "Blizzard is a fictional character, a supervillain in the Marvel Universe and a member of Iron Man's rogues gallery",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/BlizzardDonnieGill.jpg/250px-BlizzardDonnieGill.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +37,8 @@
     "Gregor Shapanka"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/307/blizzard",

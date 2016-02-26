@@ -2,14 +2,11 @@
   "aliases": [
     "Malice"
   ],
-  "alliances": [
-    "Marauders"
-  ],
   "authors": [
     "Chris Claremont",
     "Rick Leonardi"
   ],
-  "description": "Malice is the name of four separate fictional comic book supervillains in the Marvel Comics universe. The original Malice was a minion of Killmonger, an enemy of Black Panther.  The second was a short-lived Ghost Rider villain.  The last two villains bearing the name Malice are disembodied entities, the first of which possesses Susan Richards of the Fantastic Four, and the second is an evil mutant appearing in X-Men comics.",
+  "description": "Malice is the name of four separate fictional comic book supervillains in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Malicewiki.jpg",
   "isHero": false,
   "isVillain": false,
@@ -30,6 +27,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Marauders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1344/malice",

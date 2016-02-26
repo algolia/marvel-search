@@ -2,12 +2,10 @@
   "aliases": [
     "Super Rabbit"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Ernie Hart"
   ],
-  "description": "Super Rabbit is a fictional, funny-animal superhero in comic books published by Timely Comics, a predecessor of Marvel Comics, during the 1930s and '40s period fans and historians call the Golden Age of comic books. Created by cartoonist Ernie Hart, he first appeared in Comedy Comics #14 (cover-dated Feb. 1943).The character appeared after Fawcett Comics' funny-animal superhero Hoppy the Marvel Bunny (debut: Fawcett's Funny Animals #1, cover-dated Dec. 1942), and before the Bugs Bunny theatrical cartoon short \"Super-Rabbit\" (released in April 1943)",
+  "description": "Super Rabbit is a fictional, funny-animal superhero in comic books published by Timely Comics, a predecessor of Marvel Comics, during the 1930s and '40s period fans and historians call the Golden Age of comic books",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/SuperRabbit6.jpg/180px-SuperRabbit6.jpg",
   "isHero": false,
   "isVillain": false,
@@ -31,6 +29,8 @@
     "Waffles Bunny"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Super_Rabbit"

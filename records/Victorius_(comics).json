@@ -2,16 +2,11 @@
   "aliases": [
     "Victorius"
   ],
-  "alliances": [
-    "Cult of Entropy",
-    "Advanced Idea Mechanics",
-    "A.I.M."
-  ],
   "authors": [
     "Mike Friedrich",
     "Dan Adkins"
   ],
-  "description": "Victorius is a fictional character in the Marvel Universe.",
+  "description": "Victorius is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Victorius",
@@ -33,6 +28,11 @@
     "Victor Conrad"
   ],
   "species": [
+  ],
+  "teams": [
+    "Cult of Entropy",
+    "Advanced Idea Mechanics",
+    "A.I.M."
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Victorius_(comics)"

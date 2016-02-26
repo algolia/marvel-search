@@ -1,10 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "Inhumans",
-    "The Lor Tribe"
-  ],
   "authors": [
     "Charles Soule",
     "Joe Madureira"
@@ -32,6 +28,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Inhumans",
+    "The Lor Tribe"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Lash_(comics)"

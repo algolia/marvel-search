@@ -3,13 +3,11 @@
     "Dr. Farley Stillwell",
     "Farley Stillwell"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "Farley Stillwell is a fictional scientist in the Marvel Comics universe.",
+  "description": "Farley Stillwell is a fictional scientist in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Dr. Farley Stillwell",
@@ -29,6 +27,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Farley_Stillwell"

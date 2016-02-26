@@ -3,14 +3,10 @@
     "The Mountain-Mover",
     "Tutinax"
   ],
-  "alliances": [
-    "Deviant",
-    "Deviants"
-  ],
   "authors": [
     "Jack Kirby"
   ],
-  "description": "Tutinax is a fictional character in the Marvel Universe.",
+  "description": "Tutinax is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Tutinax",
@@ -33,6 +29,10 @@
     "Tutinax"
   ],
   "species": [
+  ],
+  "teams": [
+    "Deviant",
+    "Deviants"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Tutinax"

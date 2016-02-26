@@ -2,15 +2,12 @@
   "aliases": [
     "Orator"
   ],
-  "alliances": [
-    "Acolytes"
-  ],
   "authors": [
     "Peter Milligan",
     "Jorge Gonzales",
     "Kelley Jones"
   ],
-  "description": "Orator (Victor Ludwig) was a minor fictional character from Marvel Comics.",
+  "description": "Orator (Victor Ludwig) was a minor fictional character from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Orator",
@@ -32,6 +29,9 @@
     "Victor Ludwig"
   ],
   "species": [
+  ],
+  "teams": [
+    "Acolytes"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Orator_(comics)"

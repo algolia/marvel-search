@@ -4,10 +4,6 @@
     "Siege",
     "Siege (John Kelly)"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "Fifty State Initiative"
-  ],
   "authors": [
     "Dwayne McDuffie",
     "Gregory Wright"
@@ -39,6 +35,10 @@
     "John Kelly"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Fifty State Initiative"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/527/deathlok",

@@ -3,17 +3,11 @@
     "Shadowoman",
     "Sepulchre"
   ],
-  "alliances": [
-    "Roxxon Energy Corporation Secret Defenders Shock Troop",
-    "Roxxon Energy Corporation",
-    "Secret Defenders",
-    "Shock Troop"
-  ],
   "authors": [
     "Grant Miehm",
     "Mark Gruenwald"
   ],
-  "description": "Sepulchre (also known as Shadowoman) is a fictional superhero published by Marvel Comics. She first appeared in Quasar #45 (April 1993), and was created by Mark Gruenwald and Grant Miehm.",
+  "description": "Sepulchre (also known as Shadowoman) is a fictional superhero published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Shdowwoman.jpg/250px-Shdowwoman.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +31,12 @@
     "Jillian Marie Woods"
   ],
   "species": [
+  ],
+  "teams": [
+    "Roxxon Energy Corporation Secret Defenders Shock Troop",
+    "Roxxon Energy Corporation",
+    "Secret Defenders",
+    "Shock Troop"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Sepulchre_(comics)"

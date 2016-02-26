@@ -2,15 +2,13 @@
   "aliases": [
     "Solarman"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Mike Zeck",
     "David Oliphant",
     "Jim Mooney"
   ],
-  "description": "Solarman was a superhero that ran briefly in his own 1989 title from Marvel Comics.",
+  "description": "Solarman was a superhero that ran briefly in his own 1989 title from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Solarman",
@@ -36,6 +34,8 @@
     "Benjamin Tucker"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Solarman"

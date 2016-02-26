@@ -7,16 +7,11 @@
     "Rikki",
     "Rikki Barnes"
   ],
-  "alliances": [
-    "Young Allies",
-    "Young Allies (Counter-Earth)",
-    "Young Allies (Heroic Age)"
-  ],
   "authors": [
     "Rob Liefeld",
     "Jeph Loeb"
   ],
-  "description": "Rebecca \"Rikki\" Barnes is a fictional character in the Marvel Comics Universe. First introduced as the Counter-Earth incarnation of Bucky during the \"Heroes Reborn\" event, Rikki crossed over to Earth-616 in Onslaught Reborn where she operates as Nomad.Rikki Barnes first appears in Captain America (vol. 2) #1 (November 1996) and was created by Jeph Loeb and Rob Liefeld.",
+  "description": "Rebecca \"Rikki\" Barnes is a fictional character in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce5a79501bd6/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -38,6 +33,11 @@
     "Rebecca Barnes"
   ],
   "species": [
+  ],
+  "teams": [
+    "Young Allies",
+    "Young Allies (Counter-Earth)",
+    "Young Allies (Heroic Age)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1616/nomad",

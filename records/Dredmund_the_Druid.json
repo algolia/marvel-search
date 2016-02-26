@@ -5,13 +5,11 @@
     "Dredmund Druid",
     "Dredmund the Druid"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Dredmund Druid is a fictional character in the Marvel Universe.Dredmund Druid, also simply known as the Druid, was a subversive cult leader with knowledge of alchemy and advanced technology.",
+  "description": "Dredmund Druid is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Dredmund Druid",
@@ -31,6 +29,8 @@
     "Dredmund Cromwell"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Dredmund_the_Druid"

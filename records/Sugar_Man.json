@@ -2,13 +2,6 @@
   "aliases": [
     "Sugar Man"
   ],
-  "alliances": [
-    "Seattle Core",
-    "Genegineer",
-    "Seattle Core (",
-    "Age of Apocalypse",
-    ")"
-  ],
   "authors": [
     "Scott Lobdell",
     "Chris Bachalo"
@@ -46,6 +39,13 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Seattle Core",
+    "Genegineer",
+    "Seattle Core (",
+    "Age of Apocalypse",
+    ")"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011212/sugar_man",

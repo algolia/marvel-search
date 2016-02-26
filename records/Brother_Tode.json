@@ -3,13 +3,10 @@
     "Tode",
     "Brother Tode"
   ],
-  "alliances": [
-    "Royal Family of the Deviants"
-  ],
   "authors": [
     "Jack Kirby"
   ],
-  "description": "Brother Tode is a fictional character in the Marvel Universe comic books.Brother Tode is a Deviant with green skin and an oversized head.  He was once the monarch of the Deviants, ruler of the Deviant Empire of Lemuria, husband of Queen Vira and father of Ranar.",
+  "description": "Brother Tode is a fictional character in the Marvel Universe comic books",
   "isHero": false,
   "isVillain": false,
   "name": "Tode",
@@ -28,6 +25,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Royal Family of the Deviants"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Brother_Tode"

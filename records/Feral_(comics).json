@@ -2,23 +2,11 @@
   "aliases": [
     "Feral"
   ],
-  "alliances": [
-    "Morlocks",
-    "New Mutants",
-    "X-Corporation",
-    "Hellions",
-    "X-Force",
-    "Selene's unded mutants army",
-    "Mutant Liberation Front",
-    "Selene",
-    "'s undead mutants army",
-    "New Hellions"
-  ],
   "authors": [
     "Fabian Nicieza",
     "Rob Liefeld"
   ],
-  "description": "Feral (Maria Callasantos) is a fictional character that appears in Marvel Comics. She has been both a superhero and a supervillain and most recognizably associated as a member of X-Force. Feral is the sister of Thornn.",
+  "description": "Feral (Maria Callasantos) is a fictional character that appears in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Feral01.jpg/193px-Feral01.jpg",
   "isHero": false,
   "isVillain": false,
@@ -52,6 +40,18 @@
     "Maria Callasantos"
   ],
   "species": [
+  ],
+  "teams": [
+    "Morlocks",
+    "New Mutants",
+    "X-Corporation",
+    "Hellions",
+    "X-Force",
+    "Selene's unded mutants army",
+    "Mutant Liberation Front",
+    "Selene",
+    "'s undead mutants army",
+    "New Hellions"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/683/feral",

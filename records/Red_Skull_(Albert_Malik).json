@@ -13,16 +13,6 @@
     "Aleksander Lukin",
     "White Skull"
   ],
-  "alliances": [
-    "Kronas Corporation",
-    "Exiles",
-    "Nazi Germany",
-    "Hydra",
-    "AIM",
-    "ULTIMATUM",
-    "Skeleton Crew",
-    "Astonishing Avengers"
-  ],
   "authors": [
     "Joe Simon",
     "Jack Kirby",
@@ -59,6 +49,16 @@
     "Johann Schmidt"
   ],
   "species": [
+  ],
+  "teams": [
+    "Kronas Corporation",
+    "Exiles",
+    "Nazi Germany",
+    "Hydra",
+    "AIM",
+    "ULTIMATUM",
+    "Skeleton Crew",
+    "Astonishing Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1901/red_skull",

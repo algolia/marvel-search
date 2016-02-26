@@ -3,12 +3,6 @@
     "Frank Costa",
     "Olivier"
   ],
-  "alliances": [
-    "Hell-lords ; Lucifer's Inner Circle ; former member of the Costa crime family of the Maggia",
-    "Hell-lords",
-    "Costa Family",
-    "Lucifer's Inner Circle"
-  ],
   "authors": [
     "Tony DeZuniga",
     "Christopher Golden",
@@ -19,7 +13,7 @@
     "Joe Quesada",
     "Bernie Wrightson"
   ],
-  "description": "Olivier is a fictional character in Marvel Comics.",
+  "description": "Olivier is a fictional character in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Olivierpun1.jpg/250px-Olivierpun1.jpg",
   "isHero": false,
   "isVillain": true,
@@ -49,6 +43,12 @@
     "Olivier"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hell-lords ; Lucifer's Inner Circle ; former member of the Costa crime family of the Maggia",
+    "Hell-lords",
+    "Costa Family",
+    "Lucifer's Inner Circle"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Olivier_(comics)"

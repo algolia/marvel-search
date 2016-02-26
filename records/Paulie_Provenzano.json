@@ -3,15 +3,11 @@
     "Omertà",
     "Paulie Provenzano"
   ],
-  "alliances": [
-    "United States Army",
-    "Genoshan Assault X-Men"
-  ],
   "authors": [
     "Salvador Larroca",
     "Scott Lobdell"
   ],
-  "description": "Omertà (Paul \"Paulie\" Provenzano) is a fictional character, a mutant in the Marvel Universe. He is featured in the Eve of Destruction story arc in Uncanny X-Men.",
+  "description": "Omertà (Paul \"Paulie\" Provenzano) is a fictional character, a mutant in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/OmertaX-Men.JPG",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +30,10 @@
     "Paul Provenzano"
   ],
   "species": [
+  ],
+  "teams": [
+    "United States Army",
+    "Genoshan Assault X-Men"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Paulie_Provenzano"

@@ -3,15 +3,11 @@
     "Thermodynamic Man",
     "Equinox"
   ],
-  "alliances": [
-    "Freedom Force",
-    "Vil-Anon"
-  ],
   "authors": [
     "Len Wein",
     "Gil Kane"
   ],
-  "description": "Equinox (Terrance Sorenson) is a fictional character, a supervillain appearing in publications from Marvel Comics.",
+  "description": "Equinox (Terrance Sorenson) is a fictional character, a supervillain appearing in publications from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Equinox",
@@ -36,6 +32,10 @@
     "Terrance \"Terry\" Sorenson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Freedom Force",
+    "Vil-Anon"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Equinox_(comics)"

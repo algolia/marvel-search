@@ -4,17 +4,12 @@
     "Master of the Staff and Sais",
     "Zaran"
   ],
-  "alliances": [
-    "Thunderbolts",
-    "Batroc's Brigade",
-    "MI-6"
-  ],
   "authors": [
     "Doug Moench",
     "Paul Gulacy",
     "Mike Zeck"
   ],
-  "description": "Zaran is a Marvel Comics super-villain, and is a codename carried by two characters related to another.",
+  "description": "Zaran is a Marvel Comics super-villain, and is a codename carried by two characters related to another",
   "isHero": false,
   "isVillain": false,
   "name": "Zaran",
@@ -38,6 +33,11 @@
     "Maximillian Zaran"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Batroc's Brigade",
+    "MI-6"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2656/zaran",

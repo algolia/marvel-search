@@ -9,25 +9,11 @@
     "The White Queen",
     "The Black Queen"
   ],
-  "alliances": [
-    "Hellions",
-    "X-Mansion",
-    "Dark X-Men",
-    "Frost International",
-    "Hellfire Club",
-    "Phoenix Force",
-    "X-Men",
-    "Generation X",
-    "Cabal",
-    "The Cabal",
-    "Xavier Institute",
-    "Phoenix Five"
-  ],
   "authors": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "description": "Emma Grace Frost is a fictional character that appears in comic books published by Marvel Comics. The character first appeared in Uncanny X-Men #129 (January 1980), and was created by writer Chris Claremont and artist/co-writer John Byrne.An urbane, mutant telepath with a well-noted dry wit, initially known as the White Queen, Frost has evolved from one of the X-Men's most dangerous foes to one of its most central members and leaders.Emma Frost appears in many adaptations of the X-Men properties, such as video games, animated programs, and live-action films. January Jones portrayed Emma Frost in the 2011 film X-Men: First Class. Other portrayals of the character include actress Tahyna Tozzi in 2009's X-Men Origins: Wolverine and Finola Hughes in the 1996 film Generation X.",
+  "description": "Emma Grace Frost is a fictional character that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/51151ef7cf4c8/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": true,
@@ -68,6 +54,20 @@
     "Emma Grace Frost"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellions",
+    "X-Mansion",
+    "Dark X-Men",
+    "Frost International",
+    "Hellfire Club",
+    "Phoenix Force",
+    "X-Men",
+    "Generation X",
+    "Cabal",
+    "The Cabal",
+    "Xavier Institute",
+    "Phoenix Five"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/17/emma_frost",

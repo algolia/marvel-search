@@ -1,10 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "Si-Fan",
-    "Shadow Council"
-  ],
   "authors": [
     "Sax Rohmer",
     "Steve Englehart",
@@ -34,6 +30,10 @@
     "Zheng Zu"
   ],
   "species": [
+  ],
+  "teams": [
+    "Si-Fan",
+    "Shadow Council"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Fu_Manchu_(comics)"

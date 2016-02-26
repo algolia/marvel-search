@@ -2,15 +2,13 @@
   "aliases": [
     "Firepower"
   ],
-  "alliances": [
-  ],
   "authors": [
     "David Michelinie",
     "Bob Layton",
     "and Mark Bright",
     "Mark Bright"
   ],
-  "description": "Firepower is the name of two Marvel Comics supervillains.",
+  "description": "Firepower is the name of two Marvel Comics supervillains",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Firepower_supervillain.jpg/250px-Firepower_supervillain.jpg",
   "isHero": false,
   "isVillain": false,
@@ -31,6 +29,8 @@
     "Jack Taggert"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Firepower_(comics)"

@@ -5,14 +5,11 @@
     "Condor",
     "Blue Eagle"
   ],
-  "alliances": [
-    "Squadron Supreme"
-  ],
   "authors": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "description": "Blue Eagle is a fictional comic-book character in the Marvel Comics multiverse.The character debuted as a member of the team of superheroes called the Squadron Supreme in The Avengers #85 (Feb 1971) as American Eagle, then as Cap'n Hawk in The Avengers #148 (June 1976), and finally as Blue Eagle in Squadron Supreme #1 (Sept 1985). The character is not from the main reality where stories are set in the Marvel Universe, but from an alternate universe.(See Sidebar)",
+  "description": "Blue Eagle is a fictional comic-book character in the Marvel Comics multiverse",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4ce5a6d8b8f2a/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
     "James Dore Junior"
   ],
   "species": [
+  ],
+  "teams": [
+    "Squadron Supreme"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/132/american_eagle",

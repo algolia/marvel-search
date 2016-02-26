@@ -2,13 +2,11 @@
   "aliases": [
     "Freedom Ring"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Robert Kirkman",
     "Andy Kuhn"
   ],
-  "description": "Freedom Ring (real name Curtis Doyle) is a fictional superhero in the Marvel Comics universe, created by writer Robert Kirkman. Curtis first appeared in Marvel Team-Up vol. 3 #20 (July 2006), becoming Freedom Ring in the next issue. He appeared across the series' storyline \"Freedom Ring\" for five issues.  The character is depicted as a normal civilian who comes across a ring that grants him the ability to alter reality.Kirkman intended Freedom Ring to be an example of a superhero who demonstrated inexperience with his superpowers, as he felt that most superheroes quickly adjusting to their powers and having a successful superhero career did not reflect reality.  When asked by a fan about the number of visibly gay comic book superheroes, Editor-in-Chief of Marvel Comics, Joe Quesada, also touted the Freedom Ring as Marvel's leading gay hero.  However, in the next issue, the character was killed, leading to controversy and accusations of homophobia from some comic book reviewers.Kirkman defended his writing decision as having \"nothing but good intentions,\" highlighting his original concept of \"an inexperienced hero who would get beaten up constantly and probably die,\" claiming that Freedom Ring's sexuality was merely an attempt to simultaneously write a well-rounded ordinary male character who happened to be gay.  Later, Kirkman admitted that he regretted killing Freedom Ring due to the relatively limited number of gay characters in mainstream comics.",
+  "description": "Freedom Ring (real name Curtis Doyle) is a fictional superhero in the Marvel Comics universe, created by writer Robert Kirkman",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Freedomring.png/150px-Freedomring.png",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +32,8 @@
     "Curtis Doyle"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Freedom_Ring"

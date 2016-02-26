@@ -2,13 +2,11 @@
   "aliases": [
     "Trash"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Louise Simonson",
     "John Bogdanove"
   ],
-  "description": "Trash is a fictional organization in the Marvel Universe.",
+  "description": "Trash is a fictional organization in the Marvel Universe",
   "isHero": false,
   "isVillain": true,
   "name": "Trash",
@@ -27,6 +25,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Trash_(comics)"

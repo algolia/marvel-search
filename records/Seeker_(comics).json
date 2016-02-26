@@ -2,14 +2,11 @@
   "aliases": [
     "Seeker"
   ],
-  "alliances": [
-    "Inhumans"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "The Seeker is a fictional character in the Marvel Universe.",
+  "description": "The Seeker is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Seeker",
@@ -28,6 +25,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Inhumans"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Seeker_(comics)"

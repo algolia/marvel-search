@@ -3,16 +3,11 @@
     "Ripcord",
     "Stacy X"
   ],
-  "alliances": [
-    "New Warriors",
-    "X-Ranch",
-    "X-Men"
-  ],
   "authors": [
     "Joe Casey",
     "Tom Raney"
   ],
-  "description": "Stacy X is an alias of Miranda Leevald, a fictional character in the Marvel Comics universe. She is a mutant prostitute who was briefly affiliated with the X-Men and was more recently known as a member of the latest incarnation of the now disbanded New Warriors. She first appeared in Uncanny X-Men #399 (November 2001) by Joe Casey and Tom Raney. More recently she has been known as Ripcord.",
+  "description": "Stacy X is an alias of Miranda Leevald, a fictional character in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/Stacy_X_%28Miranda_Leevald%29.png",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +34,11 @@
     "Miranda Leevald"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Warriors",
+    "X-Ranch",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2193/stacy_x",

@@ -4,16 +4,12 @@
     "Bloodstone",
     "Elsa"
   ],
-  "alliances": [
-    "Fearless Defenders",
-    "Nextwave"
-  ],
   "authors": [
     "Andy Lanning",
     "Dan Abnett",
     "Michael Lopez"
   ],
-  "description": "Elsa Bloodstone is a fictional character, appearing in comic books published by Marvel Comics. She first appears in Marvel's Bloodstone mini-series of 2001 written by Dan Abnett and Andy Lanning. She is the daughter of the previously established Marvel Universe character Ulysses Bloodstone and the sister of Cullen Bloodstone.As she is a young, female monster-hunter there are potential similarities with Buffy the Vampire Slayer, although when asked about this the authors said \"neither of us have seen an episode of Buffy all the way through! I know we're missing out on some great TV but we've determined to steer clear of Buffy at least while we're doing Bloodstone.\"",
+  "description": "Elsa Bloodstone is a fictional character, appearing in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4c0038ccbe4fa/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -40,6 +36,10 @@
     "Elsa Bloodstone"
   ],
   "species": [
+  ],
+  "teams": [
+    "Fearless Defenders",
+    "Nextwave"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2810/elsa_bloodstone",

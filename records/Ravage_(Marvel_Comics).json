@@ -2,12 +2,10 @@
   "aliases": [
     "Ravage"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Glenn Greenberg"
   ],
-  "description": "Ravage (Doctor Geoffrey Crawford) is a fictional character in Marvel Comics. He is also one of the Hulk's enemies.",
+  "description": "Ravage (Doctor Geoffrey Crawford) is a fictional character in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Ravage",
@@ -31,6 +29,8 @@
     "Geoffrey Crawford"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ravage_(Marvel_Comics)"

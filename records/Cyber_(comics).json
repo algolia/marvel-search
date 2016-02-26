@@ -2,18 +2,11 @@
   "aliases": [
     "Cyber"
   ],
-  "alliances": [
-    "Hell's Belles",
-    "Pinkerton National Detective Agency",
-    "The Coven",
-    "Unnamed Drug Cartel",
-    "Undisclosed Canadian Paramilitary Training Facility"
-  ],
   "authors": [
     "Sam Kieth",
     "Peter David"
   ],
-  "description": "Cyber is a fictional comic book supervillain appearing in books published by Marvel Comics, usually as an enemy of Wolverine of the X-Men. Created by writer Peter David and artist Sam Kieth, he first appeared in Marvel Comics Presents #85 (September 1991), though his appearance was obscured by a trench coat and hat. He was first fully seen and named in Marvel Comics Presents #86 (September 1991).",
+  "description": "Cyber is a fictional comic book supervillain appearing in books published by Marvel Comics, usually as an enemy of Wolverine of the X-Men",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4c0040521bc06/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +34,13 @@
     "Milo Gunderson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hell's Belles",
+    "Pinkerton National Detective Agency",
+    "The Coven",
+    "Unnamed Drug Cartel",
+    "Undisclosed Canadian Paramilitary Training Facility"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/486/cyber",

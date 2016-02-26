@@ -3,14 +3,11 @@
     "Timberius",
     "Lupo"
   ],
-  "alliances": [
-    "Savage Land Mutates"
-  ],
   "authors": [
     "Roy Thomas",
     "Neal Adams"
   ],
-  "description": "Lupo is a fictional character, a mutate in the Marvel Comics Universe. His first appearance was in Uncanny X-Men #62.",
+  "description": "Lupo is a fictional character, a mutate in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Lupo",
@@ -32,6 +29,9 @@
     "Unrevealed"
   ],
   "species": [
+  ],
+  "teams": [
+    "Savage Land Mutates"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Lupo_(comics)"

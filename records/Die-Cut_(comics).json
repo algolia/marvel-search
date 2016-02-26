@@ -2,13 +2,11 @@
   "aliases": [
     "Die-Cut"
   ],
-  "alliances": [
-  ],
   "authors": [
     "John Royle",
     "Glenn Dakin"
   ],
-  "description": "Die-Cut (real name: Czorn Yson) is a fictional character who appears in comic books published by the Marvel UK imprint of Marvel Comics. He first appeared in Death's Head II & the Origin of Die-Cut #1 (1993). Die-Cut then co-starred in another miniseries, Die-Cut vs G-Force, before receiving his own Die-Cut limited series in November 1993.",
+  "description": "Die-Cut (real name: Czorn Yson) is a fictional character who appears in comic books published by the Marvel UK imprint of Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Die-Cut",
@@ -29,6 +27,8 @@
     "Czorn Yson"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Die-Cut_(comics)"

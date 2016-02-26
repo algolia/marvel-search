@@ -2,15 +2,11 @@
   "aliases": [
     "Dirk Anger"
   ],
-  "alliances": [
-    "Features of the Marvel Universe",
-    "H.A.T.E."
-  ],
   "authors": [
     "Stuart Immonen",
     "Warren Ellis"
   ],
-  "description": "Dirk Anger is a satirical Marvel Comics character appearing in the book Nextwave. He was created by Warren Ellis and Stuart Immonen.Anger is a thinly veiled, over-the-top parody of Nick Fury. Ellis originally intended to use Fury, but when that character was unavailable, he created Dirk Anger.Despite the appearance of Nextwave characters in other Marvel titles, in 2006 Editor-in-Chief Joe Quesada stated that Nextwave's setting was in a universe separate from the main Marvel continuity. However, recent issues of Official Handbook of the Marvel Universe, as well as Civil War: Battle Damage Report, consistently place Nextwave's activities in mainstream continuity.",
+  "description": "Dirk Anger is a satirical Marvel Comics character appearing in the book Nextwave",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/One_Crazy_MammaJamma.jpg/250px-One_Crazy_MammaJamma.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +28,10 @@
     "Dirk Anger"
   ],
   "species": [
+  ],
+  "teams": [
+    "Features of the Marvel Universe",
+    "H.A.T.E."
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2856/dirk_anger",

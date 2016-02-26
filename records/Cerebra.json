@@ -2,16 +2,11 @@
   "aliases": [
     "Cerebra"
   ],
-  "alliances": [
-    "X-Nation 2099",
-    "X-Men 2099",
-    "Halo City Protectorate"
-  ],
   "authors": [
     "John Francis Moore",
     "Ron Lim"
   ],
-  "description": "Cerebra (Shakti Haddad) is a mutant comic book character in the fictional Marvel Universe. She is a founding member of the X-Men 2099 of 2099 and founder of X-Nation 2099. Her creators were John Francis Moore and Ron Lim.",
+  "description": "Cerebra (Shakti Haddad) is a mutant comic book character in the fictional Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/Xmen2099-30b.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +31,11 @@
     "Shakti Haddad"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Nation 2099",
+    "X-Men 2099",
+    "Halo City Protectorate"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Cerebra"

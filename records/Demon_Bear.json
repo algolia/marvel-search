@@ -2,13 +2,11 @@
   "aliases": [
     "Demon Bear"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Bill Sienkiewicz",
     "Chris Claremont"
   ],
-  "description": "The Demon Bear is a fictional villain featured in the comic book series The New Mutants and X-Force, both published by Marvel Comics.",
+  "description": "The Demon Bear is a fictional villain featured in the comic book series The New Mutants and X-Force, both published by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Demon Bear",
@@ -35,6 +33,8 @@
     "Demon Bear"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Demon_Bear"

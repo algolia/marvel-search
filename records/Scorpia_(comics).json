@@ -2,13 +2,11 @@
   "aliases": [
     "Scorpia"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Gregory Wright",
     "Darick Robertson"
   ],
-  "description": "Scorpia (real name Elaine Colls) is a fictional super villain in the Marvel Comics universe. A psychotic female version of the Scorpion, Scorpia is a long-time enemy of Spider-Man. She was recruited by Silvermane from a mental hospital and given robotic armor which enhanced her strength and speed five hundred percent.",
+  "description": "Scorpia (real name Elaine Colls) is a fictional super villain in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Scorpia",
@@ -31,6 +29,8 @@
     "Elaine Colls"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Scorpia_(comics)"

@@ -3,11 +3,6 @@
     "Zorra de Plata",
     "Silver Fox"
   ],
-  "alliances": [
-    "Hydra",
-    "Weapon X",
-    "Team X"
-  ],
   "authors": [
     "Chris Claremont",
     "John Buscema"
@@ -39,6 +34,11 @@
     "Kayla"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hydra",
+    "Weapon X",
+    "Team X"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2099/silver_fox",

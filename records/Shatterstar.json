@@ -3,12 +3,6 @@
     "Benjamin Russell",
     "Shatterstar"
   ],
-  "alliances": [
-    "The Cadre Alliance",
-    "X-Force",
-    "New Mutants",
-    "X-Factor Investigations"
-  ],
   "authors": [
     "Rob Liefeld",
     "Fabian Nicieza"
@@ -45,6 +39,12 @@
     "Gaveedra-Seven"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Cadre Alliance",
+    "X-Force",
+    "New Mutants",
+    "X-Factor Investigations"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2074/shatterstar",

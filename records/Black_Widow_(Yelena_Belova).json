@@ -10,20 +10,12 @@
     "Black Widow (Yelena Belova)",
     "Rooskaya"
   ],
-  "alliances": [
-    "Advanced Idea Mechanics",
-    "Russia",
-    "S.H.I.E.L.D.",
-    "A.I.M.",
-    "Russian Federation",
-    "Vanguard"
-  ],
   "authors": [
     "Devin K. Grayson",
     "J. G. Jones",
     "Devin Grayson"
   ],
-  "description": "Black Widow (Yelena Belova) is a fictional character, a spy in the Marvel Comics Universe and second modern-era character to use the name Black Widow. She first appears in Inhumans #5 (March 1999) and was created by Devin Grayson and J. G. Jones.",
+  "description": "Black Widow (Yelena Belova) is a fictional character, a spy in the Marvel Comics Universe and second modern-era character to use the name Black Widow",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/5239c3722bdc5/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": true,
@@ -48,6 +40,14 @@
     "Yelena Belova"
   ],
   "species": [
+  ],
+  "teams": [
+    "Advanced Idea Mechanics",
+    "Russia",
+    "S.H.I.E.L.D.",
+    "A.I.M.",
+    "Russian Federation",
+    "Vanguard"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/6/black_widow",

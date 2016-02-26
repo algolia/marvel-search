@@ -7,15 +7,11 @@
     "Immortus",
     "Kang the Conqueror"
   ],
-  "alliances": [
-    "Cross-Time Kangs",
-    "Council of Kangs"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Kang the Conqueror is a fictional character, a supervillain that appears in comic books published by Marvel Comics. In 2009, Kang was ranked as IGN's 65th Greatest Comic Book Villain of All Time.",
+  "description": "Kang the Conqueror is a fictional character, a supervillain that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c0038c9c6580/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -59,6 +55,10 @@
     "Nathaniel Richards"
   ],
   "species": [
+  ],
+  "teams": [
+    "Cross-Time Kangs",
+    "Council of Kangs"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1051/iron_lad",

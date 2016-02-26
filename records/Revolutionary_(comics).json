@@ -2,18 +2,12 @@
   "aliases": [
     "Revolutionary"
   ],
-  "alliances": [
-    "Liberty Legion",
-    "Skrull",
-    "Skrull Empire",
-    "Liberteens"
-  ],
   "authors": [
     "Dan Slott",
     "Patrick Scherberger",
     "Christos Gage"
   ],
-  "description": "The Revolutionary is a fictional superhero published by Marvel Comics. He first appeared in Avengers: The Initiative Annual #1 (January 2008), and was created by Dan Slott, Christos Gage and Patrick Scherberger.",
+  "description": "The Revolutionary is a fictional superhero published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Revolutionary.jpg/250px-Revolutionary.jpg",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +29,12 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Liberty Legion",
+    "Skrull",
+    "Skrull Empire",
+    "Liberteens"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Revolutionary_(comics)"

@@ -2,13 +2,11 @@
   "aliases": [
     "Rhapsody"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Peter David",
     "Jim Fern"
   ],
-  "description": "Rhapsody (real name Rachel Argosy) is a  fictional character, a mutant supervillainess in the Marvel Comics universe. She first appeared in X-Factor #79.",
+  "description": "Rhapsody (real name Rachel Argosy) is a  fictional character, a mutant supervillainess in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Rhapsody",
@@ -30,6 +28,8 @@
     "Rachel Argosy"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Rhapsody_(comics)"

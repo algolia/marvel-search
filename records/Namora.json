@@ -2,18 +2,11 @@
   "aliases": [
     "Namora"
   ],
-  "alliances": [
-    "World War Hulk",
-    "Agents of Atlas",
-    "Monster Hunters",
-    "Renegades",
-    "\"Avengers\" (1959)"
-  ],
   "authors": [
     "Ken Bald",
     "Syd Shores"
   ],
-  "description": "Namora is a fictional character, a superhero in the Marvel Comics Universe. She is from Atlantis and is the daughter of an Atlantean father and a human mother. She is the cousin of Namor the Sub-Mariner.",
+  "description": "Namora is a fictional character, a superhero in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c003d248f331/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +37,13 @@
     "Aquaria Nautica Neptunia; later changed to Namora"
   ],
   "species": [
+  ],
+  "teams": [
+    "World War Hulk",
+    "Agents of Atlas",
+    "Monster Hunters",
+    "Renegades",
+    "\"Avengers\" (1959)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1561/namora",

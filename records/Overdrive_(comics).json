@@ -2,15 +2,11 @@
   "aliases": [
     "Overdrive"
   ],
-  "alliances": [
-    "Mister Negative's Gang",
-    "Sinister Six"
-  ],
   "authors": [
     "Dan Slott",
     "Phil Jimenez"
   ],
-  "description": "Overdrive is a fictional comic book supervillain, appearing in books published by Marvel Comics, usually as an enemy of Spider-Man. Created by Dan Slott, and Phil Jimenez, Overdrive first appeared in Amazing Spider-Man: Swing Shift (May 2007), a Free Comic Book Day issue set after the events of the Spider-Man: One More Day storyline.",
+  "description": "Overdrive is a fictional comic book supervillain, appearing in books published by Marvel Comics, usually as an enemy of Spider-Man",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Overdrive_Marvel.jpg/231px-Overdrive_Marvel.jpg",
   "isHero": false,
   "isVillain": true,
@@ -34,6 +30,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Mister Negative's Gang",
+    "Sinister Six"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Overdrive_(comics)"

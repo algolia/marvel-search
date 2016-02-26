@@ -2,15 +2,11 @@
   "aliases": [
     "Jackpot"
   ],
-  "alliances": [
-    "Fifty State Initiative",
-    "The Initiative"
-  ],
   "authors": [
     "Dan Slott",
     "Phil Jimenez"
   ],
-  "description": "Jackpot is the hero name shared by two fictional comic book characters, Sara Ehret and Alana Jobson, owned by Marvel Comics and primarily appearing in Spider-Man's stories. Jackpot's first appearance was in the Free Comic Book Day giveaway Spider-Man: Swing Shift, released on May 5, 2007 and set in the \"Brand New Day\" storyline.",
+  "description": "Jackpot is the hero name shared by two fictional comic book characters, Sara Ehret and Alana Jobson, owned by Marvel Comics and primarily appearing in Spider-Man's stories",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Jackpot_Marvel_Comics.JPG/250px-Jackpot_Marvel_Comics.JPG",
   "isHero": true,
   "isVillain": false,
@@ -39,6 +35,10 @@
     "Sara Ehret"
   ],
   "species": [
+  ],
+  "teams": [
+    "Fifty State Initiative",
+    "The Initiative"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1077/jackpot",

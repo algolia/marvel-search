@@ -7,9 +7,6 @@
     "(II) Ian Byrd",
     "(III)Miles Fish"
   ],
-  "alliances": [
-    "Mercs for Money"
-  ],
   "authors": [
     "Steve Gerber",
     "J.J. Birch",
@@ -17,7 +14,7 @@
     "Val Mayerik",
     "Gregg Hurwitz"
   ],
-  "description": "The Foolkiller is a fictional character appearing in the Marvel Comics universe. He was created by writer Steve Gerber and first appeared in the pages of 1974's Man-Thing. He also had a ten-issue limited series that ran from 1990 to 1991, followed by another in 2007. There have been four different individuals to adopt the mantle of the Foolkiller. The character was inspired by a Southern legend that was the basis for a short story by O. Henry. This in turn was the inspiration for a later novel by Helen Eustis. The novel was made into a film featuring Anthony Perkins. A character of the same name also appeared in L. Frank Baum's The Enchanted Island of Yew.",
+  "description": "The Foolkiller is a fictional character appearing in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Foolkiller",
@@ -45,6 +42,9 @@
     "(IV) Mike Trace"
   ],
   "species": [
+  ],
+  "teams": [
+    "Mercs for Money"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Foolkiller"

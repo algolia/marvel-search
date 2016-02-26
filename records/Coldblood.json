@@ -4,15 +4,11 @@
     "Coldblood-7",
     "Coldblood"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "Roxxon Oil"
-  ],
   "authors": [
     "Paul Gulacy",
     "Doug Moench"
   ],
-  "description": "Coldblood-7 (Eric Savin) is a fictional character in Marvel Comics who first appeared in Marvel Comics Presents vol. 1 #26 (August 1989).",
+  "description": "Coldblood-7 (Eric Savin) is a fictional character in Marvel Comics who first appeared in Marvel Comics Presents vol",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Coldbloodmu0.png/250px-Coldbloodmu0.png",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +34,10 @@
     "Eric Savin"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Roxxon Oil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Coldblood"

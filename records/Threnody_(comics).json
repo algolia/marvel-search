@@ -2,15 +2,12 @@
   "aliases": [
     "Threnody"
   ],
-  "alliances": [
-    "Marauders"
-  ],
   "authors": [
     "Fabian Nicieza",
     "Richard Bennett Lamas",
     "Richard Bennett"
   ],
-  "description": "Threnody is a fictional character created by Marvel Comics for the X-Men series. She was originally featured as a sort of \"hound\" for Mister Sinister, but this depth was fully explored in the series X-Man which came much later.",
+  "description": "Threnody is a fictional character created by Marvel Comics for the X-Men series",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Xman13.jpg/250px-Xman13.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +34,9 @@
     "Melody Jacobs"
   ],
   "species": [
+  ],
+  "teams": [
+    "Marauders"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Threnody_(comics)"

@@ -3,15 +3,11 @@
     "Thunderstrike",
     "Thunderstrike (Kevin Masterson)"
   ],
-  "alliances": [
-    "A-Next",
-    "Avengers Academy"
-  ],
   "authors": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "description": "Kevin Masterson is a fictional character that appeared in Marvel Comics. The character was first introduced as a supporting character in Thor and appeared again in the spin-off series Thunderstrike, as the son of Eric Masterson, the featured character of both series. Kevin Masterson was later re-introduced in the MC2 series A-Next, as the superhero Thunderstrike, a theme which would be revisited in the Heroic Age of Marvel Comics in the eponymous limited series.",
+  "description": "Kevin Masterson is a fictional character that appeared in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/ThunderstrikeHA.jpg/250px-ThunderstrikeHA.jpg",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +39,10 @@
     "Kevin \"The\" Masterson"
   ],
   "species": [
+  ],
+  "teams": [
+    "A-Next",
+    "Avengers Academy"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Thunderstrike_(Kevin_Masterson)"

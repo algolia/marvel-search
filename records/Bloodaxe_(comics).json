@@ -3,13 +3,11 @@
     "Executioner",
     "Bloodaxe"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Tom DeFalco",
     "Pat Olliffe"
   ],
-  "description": "Bloodaxe (Jackie Lukus) is a fictional character, owned by Marvel Comics who exists in that company's Marvel Universe as a foe of Thor and Thunderstrike. This character first appeared in Thor (1st series) #449, though he did not adopt his name and appearance until #450. The name also applies to the axe used by this character.Bloodaxe's identity was initially a mystery; all early panels of the character's alter ego were depicted as being concealed by shadow or as a silhouette. Due to the sheer muscular mass of Bloodaxe (a direct result of the Asgardian magic within the axe), it was also impossible to determine whether the mortal alias was even male or female. Many supporting cast members of Thunderstrike were hinted at being Bloodaxe but many of those clues would later turn out to be red herrings to conceal 'his' true identity. It was only after Bloodaxe was defeated that the mortal alias was revealed to be Jackie Lukus, a confidant and love interest of Thunderstrike's alias Eric Masterson.",
+  "description": "Bloodaxe (Jackie Lukus) is a fictional character, owned by Marvel Comics who exists in that company's Marvel Universe as a foe of Thor and Thunderstrike",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Bloodaxe.jpg/250px-Bloodaxe.jpg",
   "isHero": false,
   "isVillain": false,
@@ -46,6 +44,8 @@
     "Jackie Lukus"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/316/bloodaxe",

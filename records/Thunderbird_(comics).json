@@ -3,10 +3,6 @@
     "John Proudstar",
     "Thunderbird"
   ],
-  "alliances": [
-    "United States Marine Corps",
-    "X-Men"
-  ],
   "authors": [
     "Len Wein",
     "Dave Cockrum"
@@ -39,6 +35,10 @@
     "John Proudstar"
   ],
   "species": [
+  ],
+  "teams": [
+    "United States Marine Corps",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2364/thunderbird",

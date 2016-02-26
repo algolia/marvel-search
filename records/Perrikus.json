@@ -2,15 +2,11 @@
   "aliases": [
     "Perrikus"
   ],
-  "alliances": [
-    "Thor",
-    "Dark Gods"
-  ],
   "authors": [
     "Dan Jurgens",
     "John Romita, Jr."
   ],
-  "description": "Perrikus is a fictional character that appears in comic books published by Marvel Comics. The character first appears in Thor vol. 2, #4 (Oct. 1998) and was created by Dan Jurgens and John Romita Jr.",
+  "description": "Perrikus is a fictional character that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Perrikus.jpg/249px-Perrikus.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +32,10 @@
     "None"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thor",
+    "Dark Gods"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Perrikus"

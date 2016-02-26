@@ -4,18 +4,11 @@
     "Weapon XIII",
     "Fantomex"
   ],
-  "alliances": [
-    "Super-Sentinels",
-    "Weapon Plus",
-    "X-Force",
-    "X-Men",
-    "Weapon Plus Program"
-  ],
   "authors": [
     "Igor Kordey",
     "Grant Morrison"
   ],
-  "description": "Fantomex is a fictional superhero associated with the X-Men in titles published by Marvel Comics. Fantomex first appeared in New X-Men #128 (August, 2002) and was created by Grant Morrison and Igor Kordey. Initially introduced as a character similar to Fantômas and Diabolik, he is later revealed to be an escaped experiment from the Weapon Plus Program.",
+  "description": "Fantomex is a fictional superhero associated with the X-Men in titles published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/535ff35da5ccd/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -50,6 +43,13 @@
     "Charlie-Cluster 7"
   ],
   "species": [
+  ],
+  "teams": [
+    "Super-Sentinels",
+    "Weapon Plus",
+    "X-Force",
+    "X-Men",
+    "Weapon Plus Program"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/669/fantomex",

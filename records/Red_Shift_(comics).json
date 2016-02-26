@@ -2,19 +2,13 @@
   "aliases": [
     "Red Shift"
   ],
-  "alliances": [
-    "Annihilation",
-    "Galactus",
-    "Heralds of Galactus",
-    "United Front"
-  ],
   "authors": [
     "Writer: Louise Simonson",
     "Artist: Jon J. Muth",
     "Louise Simonson",
     "Artist:''' Jon J. Muth"
   ],
-  "description": "Red Shift is a fictional supervillain in the Marvel Comics universe and was a herald of Galactus. He first appeared in Galactus: The Devourer (1999).",
+  "description": "Red Shift is a fictional supervillain in the Marvel Comics universe and was a herald of Galactus",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Red_Shift.jpg/250px-Red_Shift.jpg",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +32,12 @@
     "Unknown"
   ],
   "species": [
+  ],
+  "teams": [
+    "Annihilation",
+    "Galactus",
+    "Heralds of Galactus",
+    "United Front"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1900/red_shift",

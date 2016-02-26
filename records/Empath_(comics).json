@@ -3,17 +3,11 @@
     "Mr. Roache",
     "Empath"
   ],
-  "alliances": [
-    "Hellions",
-    "X-Men: The 198",
-    "Hellfire Cult",
-    "X-Corporation"
-  ],
   "authors": [
     "Chris Claremont",
     "Sal Buscema"
   ],
-  "description": "Empath (Manuel Alfonso Rodrigo de la Rocha), is a fictional mutant in the Marvel Universe.",
+  "description": "Empath (Manuel Alfonso Rodrigo de la Rocha), is a fictional mutant in the Marvel Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4ce59faf350ea/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +30,12 @@
     "Manuel Alfonso Rodrigo de la Rocha"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellions",
+    "X-Men: The 198",
+    "Hellfire Cult",
+    "X-Corporation"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/614/empath",

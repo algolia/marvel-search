@@ -2,16 +2,11 @@
   "aliases": [
     "Masque"
   ],
-  "alliances": [
-    "The Arena",
-    "Morlocks",
-    "Brotherhood of Mutants"
-  ],
   "authors": [
     "Paul Smith",
     "Chris Claremont"
   ],
-  "description": "Masque is a fictional character in the Marvel Comics universe. Masque was originally a prominent member of the sewer-dwelling community of mutant outcasts called the Morlocks, led by Callisto.",
+  "description": "Masque is a fictional character in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Masquewiki.jpg/250px-Masquewiki.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +28,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "The Arena",
+    "Morlocks",
+    "Brotherhood of Mutants"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1386/masque",

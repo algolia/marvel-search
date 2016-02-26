@@ -4,14 +4,11 @@
     "North",
     "Dakota"
   ],
-  "alliances": [
-    "Dakota North Investigations"
-  ],
   "authors": [
     "Martha Thomases",
     "Tony Salmons"
   ],
-  "description": "Dakota North is a fictional character that has appeared in various comic book series published by Marvel Comics. Originally the star of her own limited series and later a part of the supporting cast of Daredevil, the character exists in Marvel's main shared universe, known as the Marvel Universe.",
+  "description": "Dakota North is a fictional character that has appeared in various comic book series published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4ce5a6888f769/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -36,6 +33,9 @@
     "Dakota North"
   ],
   "species": [
+  ],
+  "teams": [
+    "Dakota North Investigations"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2916/dakota_north",

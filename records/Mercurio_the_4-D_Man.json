@@ -4,14 +4,11 @@
     "Karl Sarron",
     "Mercurio the 4-D Man"
   ],
-  "alliances": [
-    "Thor"
-  ],
   "authors": [
     "John Buscema",
     "Gerry Conway"
   ],
-  "description": "Mercurio the 4-D Man (abbreviation of four dimensional - a feature of Mercurio's home world) is a fictional character that appears in comic books published by Marvel Comics. Mercurio first  appears in Thor #208 (vol. 1, Feb. 1973) and was created by Gerry Conway and John Buscema.",
+  "description": "Mercurio the 4-D Man (abbreviation of four dimensional - a feature of Mercurio's home world) is a fictional character that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/CaptainMarvel51.jpg/260px-CaptainMarvel51.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +39,9 @@
     "None"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thor"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mercurio_the_4-D_Man"

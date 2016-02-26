@@ -2,13 +2,11 @@
   "aliases": [
     "Fasaud"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Steve Englehart",
     "John Buscema"
   ],
-  "description": "Fasaud (Sheikh Farouk Al-Fasaud), is a fictional character appearing in the comic books published by Marvel Comics. Fasaud is usually portrayed as a supervillain and initially appeared as an adversary of the Fantastic Four.",
+  "description": "Fasaud (Sheikh Farouk Al-Fasaud), is a fictional character appearing in the comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fasaud_2.jpg/200px-Fasaud_2.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +30,8 @@
     "Sheikh Farouk Al-Fasaud"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Fasaud"

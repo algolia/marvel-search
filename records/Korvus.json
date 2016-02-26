@@ -2,14 +2,11 @@
   "aliases": [
     "Korvus"
   ],
-  "alliances": [
-    "Starjammers"
-  ],
   "authors": [
     "Ed Brubaker",
     "Billy Tan"
   ],
-  "description": "Korvus, is a fictional character in the Marvel Universe. Korvus wields a weapon known as the Blade of the Phoenix and made his first appearance in Uncanny X-Men #478",
+  "description": "Korvus, is a fictional character in the Marvel Universe",
   "isHero": true,
   "isVillain": false,
   "name": "Korvus",
@@ -33,6 +30,9 @@
     "Korvus Rook’Shir"
   ],
   "species": [
+  ],
+  "teams": [
+    "Starjammers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Korvus"

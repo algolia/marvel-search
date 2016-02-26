@@ -2,15 +2,11 @@
   "aliases": [
     "Haywire"
   ],
-  "alliances": [
-    "Squadron Supreme",
-    "Redeemers"
-  ],
   "authors": [
     "Mark Gruenwald",
     "Paul Ryan"
   ],
-  "description": "Haywire was a minor character from the original Squadron Supreme series from Marvel Comics. Unlike many of the characters from that continuity, he did not have a DC Comics counterpart, but was an original creation.",
+  "description": "Haywire was a minor character from the original Squadron Supreme series from Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Haywire.jpg/250px-Haywire.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +28,10 @@
     "Harold Danforth"
   ],
   "species": [
+  ],
+  "teams": [
+    "Squadron Supreme",
+    "Redeemers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Haywire_(comics)"

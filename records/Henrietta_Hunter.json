@@ -2,14 +2,11 @@
   "aliases": [
     "Henrietta Hunter"
   ],
-  "alliances": [
-    "X-Statix"
-  ],
   "authors": [
     "Peter Milligan",
     "Mike Allred"
   ],
-  "description": "Henrietta Hunter is a fictional character in the X-Statix series. She is a mutant with superhuman powers.",
+  "description": "Henrietta Hunter is a fictional character in the X-Statix series",
   "isHero": false,
   "isVillain": false,
   "name": "Henrietta Hunter",
@@ -33,6 +30,9 @@
     "Henrietta Hunter"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Statix"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Henrietta_Hunter"

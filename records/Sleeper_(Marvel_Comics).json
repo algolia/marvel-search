@@ -4,14 +4,11 @@
     "the Fourth Sleeper",
     "Sleeper"
   ],
-  "alliances": [
-    "Skeleton Crew"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Sleeper is a fictional character in Marvel Comics.",
+  "description": "Sleeper is a fictional character in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Sleeper",
@@ -30,6 +27,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Skeleton Crew"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2140/sleeper",

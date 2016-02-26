@@ -8,19 +8,11 @@
     "Mac",
     "Mac Gargan"
   ],
-  "alliances": [
-    "Sinister Six",
-    "Thunderbolts",
-    "Masters of Evil",
-    "Dark Avengers",
-    "Sinister Twelve",
-    "Alchemax"
-  ],
   "authors": [
     "Steve Ditko",
     "Stan Lee"
   ],
-  "description": "MacDonald \"Mac\" Gargan is a fictional character that appears in comic books published by Marvel Comics. During his career as a villain of Spider-Man's, he originally appeared as the most well-known incarnation of Scorpion, bonded with the symbiote to become the third incarnation of Venom, and takes a serum to control the symbiote to pose as the third incarnation of Spider-Man.",
+  "description": "MacDonald \"Mac\" Gargan is a fictional character that appears in comic books published by Marvel Comics",
   "isHero": false,
   "isVillain": true,
   "name": "Mac Gargan",
@@ -55,6 +47,14 @@
     "MacDonald \"Mac\" Gargan"
   ],
   "species": [
+  ],
+  "teams": [
+    "Sinister Six",
+    "Thunderbolts",
+    "Masters of Evil",
+    "Dark Avengers",
+    "Sinister Twelve",
+    "Alchemax"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2708/mac_gargan",

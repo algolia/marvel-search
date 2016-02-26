@@ -2,11 +2,6 @@
   "aliases": [
     "Shard"
   ],
-  "alliances": [
-    "X-Factor",
-    "Xavier's Security Enforcers",
-    "Xavier Security Enforcers"
-  ],
   "authors": [
     "Scott Lobdell",
     "John Romita, Jr."
@@ -37,6 +32,11 @@
     "Shard Bishop"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Factor",
+    "Xavier's Security Enforcers",
+    "Xavier Security Enforcers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2069/shard",

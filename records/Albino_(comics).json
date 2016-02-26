@@ -2,13 +2,11 @@
   "aliases": [
     "Albino"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Tom DeFalco",
     "Jeff Johnson"
   ],
-  "description": "Albino (Augusta Seger) is a fictional character, a supervillain in the Marvel Comics universe. Her first appearance was in Hawkeye: Earth's Mightiest Marksman #1 (1998) and was created by Tom DeFalco and Jeff Johnson.",
+  "description": "Albino (Augusta Seger) is a fictional character, a supervillain in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Albino.png",
   "isHero": false,
   "isVillain": false,
@@ -30,6 +28,8 @@
     "Augusta Seger"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Albino_(comics)"

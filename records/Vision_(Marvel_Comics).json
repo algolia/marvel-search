@@ -7,17 +7,6 @@
     "Vision",
     "Aarkus"
   ],
-  "alliances": [
-    "The Mighty Avengers",
-    "Avengers A.I.",
-    "Defenders",
-    "Young Avengers",
-    "Avengers",
-    "Second Android Vision:",
-    "First Android Vision:",
-    "West Coast Avengers",
-    "Mighty Avengers"
-  ],
   "authors": [
     "Stan Lee",
     "Roy Thomas",
@@ -73,6 +62,17 @@
     "First Android Vision:"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Mighty Avengers",
+    "Avengers A.I.",
+    "Defenders",
+    "Young Avengers",
+    "Avengers",
+    "Second Android Vision:",
+    "First Android Vision:",
+    "West Coast Avengers",
+    "Mighty Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/64/vision",

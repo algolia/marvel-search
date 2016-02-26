@@ -3,12 +3,6 @@
     "Yuriko Oyama",
     "Lady Deathstrike"
   ],
-  "alliances": [
-    "Reavers",
-    "Brotherhood of Mutants",
-    "Thunderbolts",
-    "Sisterhood of Mutants"
-  ],
   "authors": [
     "Bill Mantlo",
     "Sal Buscema",
@@ -17,7 +11,7 @@
     "Chris Claremont",
     "Barry Windsor-Smith"
   ],
-  "description": "Lady Deathstrike (Yuriko Oyama), occasionally spelled \"Deathstryke\", is a Marvel Comics supervillain, a foe of the X-Men, especially Wolverine.Her father Lord Dark Wind created the adamantium-bonding process that was forced on Wolverine by Weapon X. A self-styled warrior, Lady Deathstrike hired the villain Spiral’s \"body shoppe\" to bond adamantium to her own skeleton in addition to other cyber-genetic enhancements. She has since worked as a mercenary and assassin and feels a need to prove herself by killing Wolverine.A mutant version of Lady Deathstrike, played by Kelly Hu and without any of Deathstrike's backstory, appeared as a brainwashed henchwoman of William Stryker in the 2003 film X2: X-Men United. She also re-appeared in X-Men: The Official Game, where she was revealed to be Silver Samurai's apprentice. In 2009, Lady Deathstrike was ranked as IGN's 78th Greatest Comic Book Villain of All Time.",
+  "description": "Lady Deathstrike (Yuriko Oyama), occasionally spelled \"Deathstryke\", is a Marvel Comics supervillain, a foe of the X-Men, especially Wolverine",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/535ff2c1ef191/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -47,6 +41,12 @@
     "Yuriko Oyama"
   ],
   "species": [
+  ],
+  "teams": [
+    "Reavers",
+    "Brotherhood of Mutants",
+    "Thunderbolts",
+    "Sisterhood of Mutants"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009393/lady_deathstrike",

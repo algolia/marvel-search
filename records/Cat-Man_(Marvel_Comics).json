@@ -2,10 +2,6 @@
   "aliases": [
     "Cat-Man"
   ],
-  "alliances": [
-    "Ani-Men",
-    "Unholy Three"
-  ],
   "authors": [
     "Roger McKenzie",
     "Mary Jo Duffy",
@@ -14,7 +10,7 @@
     "Bob Powell",
     "Stan Lee"
   ],
-  "description": "Cat-Man is the name of a number of fictional characters in Marvel Comics.",
+  "description": "Cat-Man is the name of a number of fictional characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Cat-Man",
@@ -43,6 +39,10 @@
     "Unnamed"
   ],
   "species": [
+  ],
+  "teams": [
+    "Ani-Men",
+    "Unholy Three"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Cat-Man_(Marvel_Comics)"

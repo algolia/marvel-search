@@ -4,15 +4,11 @@
     "Robert Windsor",
     "Mister Sinister"
   ],
-  "alliances": [
-    "Nasty Boys",
-    "Marauders"
-  ],
   "authors": [
     "Marc Silvestri",
     "Chris Claremont"
   ],
-  "description": "Mister Sinister is a fictional character, a supervillain that appears in comic books published by Marvel Comics. The character first appeared in Uncanny X-Men #221 (Sept. 1987) and was created by writer Chris Claremont and artist Marc Silvestri.Mister Sinister has appeared in a number of X-Men titles including spin-offs and several limited series. The character has also featured in associated Marvel merchandise including animated television series, toys, trading cards, and video games.IGN's list of the Top 100 Comic Book Villains of All Time ranked Mister Sinister as #29. In 2008, Sinister was ranked #6 at Marvel.com on their list of Top 10 X-Men villains.",
+  "description": "Mister Sinister is a fictional character, a supervillain that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/526034ac3c53a/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": true,
@@ -50,6 +46,10 @@
     "Nathaniel Essex"
   ],
   "species": [
+  ],
+  "teams": [
+    "Nasty Boys",
+    "Marauders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1478/mister_sinister",

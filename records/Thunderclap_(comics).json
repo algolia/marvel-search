@@ -2,13 +2,11 @@
   "aliases": [
     "Thunderclap"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Mike Collins",
     "Barry Kitson"
   ],
-  "description": "Thunderclap (Stanley George Johnson) is a fictional superhero created by Marvel UK a division of Marvel Comics. Thunderclap first appeared in Spider-Man Weekly #607 (October 1984), and was created by Mike Collins and Barry Kitson.",
+  "description": "Thunderclap (Stanley George Johnson) is a fictional superhero created by Marvel UK a division of Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Thunderclapmu0.png/225px-Thunderclapmu0.png",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +30,8 @@
     "Stanley George Johnson"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Thunderclap_(comics)"

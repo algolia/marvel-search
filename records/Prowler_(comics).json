@@ -3,16 +3,11 @@
     "Prowler",
     "Spider-Man"
   ],
-  "alliances": [
-    "Defenders",
-    "Wild Pack",
-    "The Outlaws"
-  ],
   "authors": [
     "John Buscema",
     "Stan Lee"
   ],
-  "description": "The Prowler is a fictional character, a superhero that appears in comics published by Marvel Comics. Created by writer-editor Stan Lee and John Buscema, Prowler made his first appearance in The Amazing Spider-Man #78. While several other characters have also taken up the character's identity, the first version developed a high-tech battle suit in order to start a life of crime until Spider-Man convinces him to turn his life around.",
+  "description": "The Prowler is a fictional character, a superhero that appears in comics published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/50/4c003c8acc314/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -48,6 +43,11 @@
     "Rick Lawson (third incarnation)"
   ],
   "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "Wild Pack",
+    "The Outlaws"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1819/prowler",

@@ -3,19 +3,11 @@
     "Mad-Dog",
     "Mad Dog"
   ],
-  "alliances": [
-    "Resistants",
-    "United States Air Force",
-    "Roxxon Energy Corporation",
-    "Secret Empire",
-    "Roxxon Oil",
-    "Mutant Force"
-  ],
   "authors": [
     "Steve Englehart",
     "Tom Sutton"
   ],
-  "description": "Mad-Dog (Robert \"Buzz\" Baxter) is a fictional character in the Marvel Comics Universe.",
+  "description": "Mad-Dog (Robert \"Buzz\" Baxter) is a fictional character in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Mad_dog_-_solo_avengers_9.jpg/250px-Mad_dog_-_solo_avengers_9.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +31,14 @@
     "Robert \"Buzz\" Baxter"
   ],
   "species": [
+  ],
+  "teams": [
+    "Resistants",
+    "United States Air Force",
+    "Roxxon Energy Corporation",
+    "Secret Empire",
+    "Roxxon Oil",
+    "Mutant Force"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mad_Dog_(Marvel_Comics)"

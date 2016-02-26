@@ -3,17 +3,11 @@
     "Lord Ghaur",
     "Ghaur"
   ],
-  "alliances": [
-    "Deviant",
-    "Kro",
-    "Father Set",
-    "Deviants"
-  ],
   "authors": [
     "Sal Buscema",
     "Peter B. Gillis"
   ],
-  "description": "Ghaur (pronounced \"Gore\") is a Marvel Comics supervillain. Created by Peter B. Gillis and Sal Buscema, he first appeared in Eternals vol. 2,  #2 (November, 1985).In the Marvel Universe, he is the head of the Deviant race's priesthood.",
+  "description": "Ghaur (pronounced \"Gore\") is a Marvel Comics supervillain",
   "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/AvengersWestCoastAnnual4.jpg",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +35,12 @@
     "Ghaur"
   ],
   "species": [
+  ],
+  "teams": [
+    "Deviant",
+    "Kro",
+    "Father Set",
+    "Deviants"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ghaur"

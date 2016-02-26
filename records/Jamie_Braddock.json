@@ -2,14 +2,12 @@
   "aliases": [
     "Jamie Braddock"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Herb Trimpe",
     "Fred Kida",
     "Chris Claremont"
   ],
-  "description": "James \"Jamie\" Braddock Jr. is a fictional character appearing in the Marvel Comics universe. The elder brother of the twin superheroes Captain Britain and Psylocke, he is a mutant possessing the ability to manipulate reality in a variety of ways. Though his mutant powers are very powerful, he is limited in that he is also a schizophrenic who believes reality to be his own dream. Originally a supporting character in his brother's solo comic book series, the emergence of his superhuman powers and subsequent mental illness have led him to become a super-villain associated with both Captain Britain and various X-Men comics.",
+  "description": "James \"Jamie\" Braddock Jr",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Jamie_Braddock.jpg/200px-Jamie_Braddock.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +32,8 @@
     "James \"Jamie\" Braddock Jr."
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2861/jamie_braddock",

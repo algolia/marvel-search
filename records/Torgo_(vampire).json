@@ -3,13 +3,11 @@
     "Torgo",
     "Torgo (vampire)"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Marv Wolfman",
     "Gene Colan"
   ],
-  "description": "Torgo is a fictional character, a vampire in the Marvel Comics universe.",
+  "description": "Torgo is a fictional character, a vampire in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Torgo",
@@ -28,6 +26,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Torgo_(vampire)"

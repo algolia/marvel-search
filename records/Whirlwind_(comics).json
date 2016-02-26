@@ -4,11 +4,6 @@
     "Charles Matthews",
     "Whirlwind"
   ],
-  "alliances": [
-    "Masters of Evil",
-    "Thunderbolts",
-    "Mandarin's Minions"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
@@ -46,6 +41,11 @@
     "David Cannon"
   ],
   "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Thunderbolts",
+    "Mandarin's Minions"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2550/whirlwind",

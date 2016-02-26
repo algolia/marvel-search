@@ -5,15 +5,11 @@
     "King",
     "Hannibal"
   ],
-  "alliances": [
-    "Nightstalkers",
-    "Midnight Sons"
-  ],
   "authors": [
     "Gene Colan",
     "Marv Wolfman"
   ],
-  "description": "Hannibal King is a fictional character, a supernatural detective appearing in publications from Marvel Comics. He first appeared as a supporting character in the 1970s comic book The Tomb of Dracula.",
+  "description": "Hannibal King is a fictional character, a supernatural detective appearing in publications from Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/HannibalKingB8.jpg/250px-HannibalKingB8.jpg",
   "isHero": true,
   "isVillain": false,
@@ -46,6 +42,10 @@
     "Unknown (probably Hannibal King)"
   ],
   "species": [
+  ],
+  "teams": [
+    "Nightstalkers",
+    "Midnight Sons"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2871/hannibal_king",

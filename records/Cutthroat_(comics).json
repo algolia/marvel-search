@@ -2,16 +2,13 @@
   "aliases": [
     "Cutthroat"
   ],
-  "alliances": [
-    "Skeleton Crew"
-  ],
   "authors": [
     "Chris Claremont",
     "Michael Netzer",
     "Rich Buckler",
     "(Nasser) and"
   ],
-  "description": "Cutthroat (Daniel \"Danny\" Leighton) is a comic book character, a supervillain in Marvel Comics' main shared universe. The character first appeared in Marvel Team-Up (1st series) #89. He is the brother of Diamondback.",
+  "description": "Cutthroat (Daniel \"Danny\" Leighton) is a comic book character, a supervillain in Marvel Comics' main shared universe",
   "isHero": false,
   "isVillain": false,
   "name": "Cutthroat",
@@ -32,6 +29,9 @@
     "Daniel \"Danny\" Leighton"
   ],
   "species": [
+  ],
+  "teams": [
+    "Skeleton Crew"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Cutthroat_(comics)"

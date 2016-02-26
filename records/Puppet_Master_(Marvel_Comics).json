@@ -2,13 +2,11 @@
   "aliases": [
     "Puppet Master"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "The Puppet Master (real name Phillip Masters) is a fictional character, a supervillain that appears in comic books published by Marvel Comics.The Puppet Master uses radioactive clay to make puppets of people that he can then control, attaching them to strings and moving them as puppets; presumably he has some sort of psionic ability that enables him to do this. He has a deep hatred of the Thing, who is romantically interested in his stepdaughter, Alicia Masters. He once tried to take over the world but was thwarted in this effort by the Fantastic Four.",
+  "description": "The Puppet Master (real name Phillip Masters) is a fictional character, a supervillain that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c003c738f74c/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +37,8 @@
     "Phillip Masters"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2742/puppet_master",

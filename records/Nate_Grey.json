@@ -6,12 +6,6 @@
     "19X",
     "Shaman of the Mutant Tribe"
   ],
-  "alliances": [
-    "New Mutants",
-    "Brotherhood of Mutants",
-    "Outcasts",
-    "X-Men"
-  ],
   "authors": [
     "Jeph Loeb",
     "Steve Skroce"
@@ -48,6 +42,12 @@
     "Nathaniel Grey"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Mutants",
+    "Brotherhood of Mutants",
+    "Outcasts",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2613/x-man",

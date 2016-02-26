@@ -3,15 +3,11 @@
     "Juno",
     "Hera"
   ],
-  "alliances": [
-    "Olympians",
-    "Olympian Gods"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Hera is a fictional deity in the Marvel Comics Universe based on the Greek Goddess of the same name. Hera first appeared in the pages of Thor #129, written by Stan Lee and drawn by Jack Kirby.",
+  "description": "Hera is a fictional deity in the Marvel Comics Universe based on the Greek Goddess of the same name",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Hera_in_Hercules.jpg/250px-Hera_in_Hercules.jpg",
   "isHero": false,
   "isVillain": false,
@@ -47,6 +43,10 @@
     "Hera"
   ],
   "species": [
+  ],
+  "teams": [
+    "Olympians",
+    "Olympian Gods"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hera_(Marvel_Comics)"

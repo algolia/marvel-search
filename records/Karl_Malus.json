@@ -3,15 +3,12 @@
     "Dr. Karl Malus",
     "Karl Malus"
   ],
-  "alliances": [
-    "Corporation"
-  ],
   "authors": [
     "Michael Fleisher",
     "Steve Leialoha",
     "Jim Mooney"
   ],
-  "description": "Dr. Karl Malus is a fictional mad scientist and criminal in the Marvel Universe. Malus was created by Michael Fleisher, Steve Leialoha and Jim Mooney, and first appeared in Spider-Woman # 30, in September 1980.",
+  "description": "Dr",
   "isHero": false,
   "isVillain": false,
   "name": "Dr. Karl Malus",
@@ -38,6 +35,9 @@
     "Karl Malus"
   ],
   "species": [
+  ],
+  "teams": [
+    "Corporation"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Karl_Malus"

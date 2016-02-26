@@ -4,9 +4,6 @@
     "Agent X",
     "Agent X Nijo Minamiyori"
   ],
-  "alliances": [
-    "Agency X"
-  ],
   "authors": [
     "Alvin Lee",
     "Gail Simone"
@@ -41,6 +38,9 @@
     "Nijo Minamiyori"
   ],
   "species": [
+  ],
+  "teams": [
+    "Agency X"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/101/agent_x",

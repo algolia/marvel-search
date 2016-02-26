@@ -2,15 +2,11 @@
   "aliases": [
     "Sin-Eater"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "New York City Police Department"
-  ],
   "authors": [
     "Rich Buckler",
     "Peter David"
   ],
-  "description": "Sin-Eater is a name given to several fictional characters appearing in books published by Marvel Comics, usually those featuring Spider-Man and Ghost Rider.",
+  "description": "Sin-Eater is a name given to several fictional characters appearing in books published by Marvel Comics, usually those featuring Spider-Man and Ghost Rider",
   "isHero": false,
   "isVillain": false,
   "name": "Sin-Eater",
@@ -30,6 +26,10 @@
     "Stanley Carter"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "New York City Police Department"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Sin-Eater_(comics)"

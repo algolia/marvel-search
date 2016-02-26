@@ -2,14 +2,11 @@
   "aliases": [
     "Stallior"
   ],
-  "alliances": [
-    "Inhumans"
-  ],
   "authors": [
     "Gary Friedrich",
     "Marie Severin"
   ],
-  "description": "Stallior is a fictional character in the Marvel Universe.",
+  "description": "Stallior is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Stallior",
@@ -30,6 +27,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Inhumans"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Stallior"

@@ -2,9 +2,6 @@
   "aliases": [
     "Synch"
   ],
-  "alliances": [
-    "Generation X"
-  ],
   "authors": [
     "Chris Bachalo",
     "Scott Lobdell"
@@ -35,6 +32,9 @@
     "Everett Thomas"
   ],
   "species": [
+  ],
+  "teams": [
+    "Generation X"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2278/synch",

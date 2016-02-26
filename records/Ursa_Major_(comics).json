@@ -6,16 +6,11 @@
     "Большая Медведица (Bolsaja Medvedica",
     "\"Great Bear\")"
   ],
-  "alliances": [
-    "Winter Guard",
-    "Soviet Super-Soldiers",
-    "Siberforce"
-  ],
   "authors": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "description": "Ursa Major (Mikhail Uriokovitch Ursus) is a fictional character, a mutant in the Marvel Comics universe, and a former member of the Soviet Super-Soldiers.",
+  "description": "Ursa Major (Mikhail Uriokovitch Ursus) is a fictional character, a mutant in the Marvel Comics universe, and a former member of the Soviet Super-Soldiers",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/URSAMAJOR_the_bear.jpg/200px-URSAMAJOR_the_bear.jpg",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +38,11 @@
     "Mikhail Uriokovitch Ursus"
   ],
   "species": [
+  ],
+  "teams": [
+    "Winter Guard",
+    "Soviet Super-Soldiers",
+    "Siberforce"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ursa_Major_(comics)"

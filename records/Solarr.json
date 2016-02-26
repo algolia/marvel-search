@@ -2,14 +2,11 @@
   "aliases": [
     "Solarr"
   ],
-  "alliances": [
-    "Emissaries of Evil"
-  ],
   "authors": [
     "Steve Englehart",
     "Sal Buscema"
   ],
-  "description": "Solarr is a fictional character in the Marvel Universe.",
+  "description": "Solarr is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Solarr",
@@ -29,6 +26,9 @@
     "Silas King"
   ],
   "species": [
+  ],
+  "teams": [
+    "Emissaries of Evil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Solarr"

@@ -4,16 +4,11 @@
     "Theary",
     "Silk Fever"
   ],
-  "alliances": [
-    "Force of Nature",
-    "Thunderbolts",
-    "Folding Circle"
-  ],
   "authors": [
     "Fabian Nicieza",
     "Mark Bagley"
   ],
-  "description": "Silk Fever is a villain in the Marvel Comics universe.",
+  "description": "Silk Fever is a villain in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Silk Fever",
@@ -34,6 +29,11 @@
     "Min Li Ng"
   ],
   "species": [
+  ],
+  "teams": [
+    "Force of Nature",
+    "Thunderbolts",
+    "Folding Circle"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2842/silk_fever",

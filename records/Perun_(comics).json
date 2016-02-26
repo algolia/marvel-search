@@ -2,15 +2,11 @@
   "aliases": [
     "Perun"
   ],
-  "alliances": [
-    "Supreme Soviets",
-    "People's Protectorate"
-  ],
   "authors": [
     "Mark Gruenwald",
     "Kieron Dwyer"
   ],
-  "description": "Perun is a Marvel Comics character based on the mythical deity in Slavic mythology, with control over thunder and lightning similar to that of the Norse god Thor.",
+  "description": "Perun is a Marvel Comics character based on the mythical deity in Slavic mythology, with control over thunder and lightning similar to that of the Norse god Thor",
   "image": "https://upload.wikimedia.org/wikipedia/en/1/12/Perun_avengers_v1_320.png",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +28,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Supreme Soviets",
+    "People's Protectorate"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Perun_(comics)"

@@ -5,18 +5,11 @@
     "Mr. Okonkwo",
     "Black Panther"
   ],
-  "alliances": [
-    "Fantastic Force",
-    "Defenders",
-    "Avengers",
-    "Fantastic Four",
-    "Illuminati"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "The Black Panther (T'Challa) is a fictional character, a superhero that appears in publications by Marvel Comics. Created by writer-editor Stan Lee and penciller-co-plotter Jack Kirby, he first appeared in Fantastic Four #52 (July 1966). He is the first black superhero in mainstream American comics, debuting several years before such early African-American superheroes as Marvel Comics' the Falcon, Storm, and Luke Cage, and DC Comics' Tyroc, Black Lightning, and Green Lantern John Stewart. Black Panther was ranked the 71st greatest comic book character of all time by Wizard magazine. IGN also ranked the Black Panther as the 51st greatest comic book hero. Chadwick Boseman will play the character in several films as a part of the Marvel Cinematic Universe.",
+  "description": "The Black Panther (T'Challa) is a fictional character, a superhero that appears in publications by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5261a80a67e7d/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -57,6 +50,13 @@
     "T'Challa"
   ],
   "species": [
+  ],
+  "teams": [
+    "Fantastic Force",
+    "Defenders",
+    "Avengers",
+    "Fantastic Four",
+    "Illuminati"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/5/black_panther",

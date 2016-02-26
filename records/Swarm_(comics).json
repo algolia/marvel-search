@@ -2,9 +2,6 @@
   "aliases": [
     "Swarm"
   ],
-  "alliances": [
-    "Exterminators"
-  ],
   "authors": [
     "Bill Mantlo",
     "John Byrne"
@@ -34,6 +31,9 @@
     "Fritz von Meyer"
   ],
   "species": [
+  ],
+  "teams": [
+    "Exterminators"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2272/swarm",

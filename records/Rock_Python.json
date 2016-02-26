@@ -4,14 +4,11 @@
     "Curtis Harris",
     "Rock Python"
   ],
-  "alliances": [
-    "Serpent Society"
-  ],
   "authors": [
     "Mark Gruenwald",
     "Kieron Dwyer"
   ],
-  "description": "Rock Python (M'Gula) is a fictional super villain in the Marvel Comics Universe, and is a member of the Serpent Society.  He first appeared in Captain America vol. 1 #341 in May 1988.",
+  "description": "Rock Python (M'Gula) is a fictional super villain in the Marvel Comics Universe, and is a member of the Serpent Society",
   "isHero": false,
   "isVillain": false,
   "name": "Rock Python",
@@ -38,6 +35,9 @@
     "M'Gula"
   ],
   "species": [
+  ],
+  "teams": [
+    "Serpent Society"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Rock_Python"

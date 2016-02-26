@@ -5,16 +5,10 @@
     "Tanaraq",
     "Sasquatch"
   ],
-  "alliances": [
-    "Beta Flight",
-    "Omega Flight",
-    "Gamma Flight",
-    "Alpha Flight"
-  ],
   "authors": [
     "John Byrne"
   ],
-  "description": "Sasquatch (Walter Langkowski) is a fictional character, a superhero in Marvel Comics' universe.",
+  "description": "Sasquatch (Walter Langkowski) is a fictional character, a superhero in Marvel Comics' universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Walter_Langkowski_.jpg/250px-Walter_Langkowski_.jpg",
   "isHero": false,
   "isVillain": false,
@@ -48,6 +42,12 @@
     "Walter Langkowski"
   ],
   "species": [
+  ],
+  "teams": [
+    "Beta Flight",
+    "Omega Flight",
+    "Gamma Flight",
+    "Alpha Flight"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1995/sasquatch",

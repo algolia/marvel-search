@@ -2,14 +2,11 @@
   "aliases": [
     "Yukio"
   ],
-  "alliances": [
-    "Mutant Underground"
-  ],
   "authors": [
     "Chris Claremont",
     "Frank Miller"
   ],
-  "description": "Yukio (雪緒) is a fictional character in the Marvel Universe. She is a female ninja of Japanese origin and is a supporting character of the X-Men. She first appeared in Wolverine #1 (September 1982) and was created by Chris Claremont and Frank Miller. Yukio also appears in the Wolverine anime series from the Marvel Anime line.",
+  "description": "Yukio (雪緒) is a fictional character in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Yukio_Profile.jpg",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +38,9 @@
     "Yukio"
   ],
   "species": [
+  ],
+  "teams": [
+    "Mutant Underground"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Yukio_(comics)"

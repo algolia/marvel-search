@@ -4,18 +4,11 @@
     "Ms. Marvel",
     "Moonstone"
   ],
-  "alliances": [
-    "Thunderbolts",
-    "Corporation",
-    "Dark Avengers",
-    "Masters of Evil",
-    "The Corporation"
-  ],
   "authors": [
     "Frank Robbins",
     "Marv Wolfman"
   ],
-  "description": "Moonstone (real name Dr. Karla Sofen) is a fictional character, both a supervillainess and superheroine in Marvel Comics' Marvel Universe.",
+  "description": "Moonstone (real name Dr",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/535ff3e867252/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": true,
@@ -46,6 +39,13 @@
     "Karla Sofen"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Corporation",
+    "Dark Avengers",
+    "Masters of Evil",
+    "The Corporation"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1503/moonstone",

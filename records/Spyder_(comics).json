@@ -2,14 +2,11 @@
   "aliases": [
     "Spyder"
   ],
-  "alliances": [
-    "The Webb"
-  ],
   "authors": [
     "Louise Simonson",
     "Bret Blevins"
   ],
-  "description": "Spyder is a fictional character in the Marvel Universe.",
+  "description": "Spyder is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Spyder",
@@ -29,6 +26,9 @@
     "Spyder"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Webb"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Spyder_(comics)"

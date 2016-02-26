@@ -3,18 +3,11 @@
     "Prodigy",
     "Prodigy (Ritchie Gilmore)"
   ],
-  "alliances": [
-    "Heavy Hitters",
-    "New Warriors",
-    "Slingers",
-    "Fifty State Initiative",
-    "Initiative"
-  ],
   "authors": [
     "Adam Pollina",
     "Joseph Harris"
   ],
-  "description": "Prodigy (Ritchie Gilmore) is a fictional character, a superhero in Marvel Comics.",
+  "description": "Prodigy (Ritchie Gilmore) is a fictional character, a superhero in Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/535feca6710cd/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +34,13 @@
     "Ritchie Gilmore"
   ],
   "species": [
+  ],
+  "teams": [
+    "Heavy Hitters",
+    "New Warriors",
+    "Slingers",
+    "Fifty State Initiative",
+    "Initiative"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011030/prodigy",

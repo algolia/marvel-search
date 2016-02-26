@@ -3,17 +3,12 @@
     "Flyer",
     "Flyer (New-Gen)"
   ],
-  "alliances": [
-    "A.P.N.G.",
-    "Gabriel",
-    "A.P.N.G., Gabriel"
-  ],
   "authors": [
     "J.D. Matonti",
     "Julia Coppola",
     "Chris Matonti"
   ],
-  "description": "Flyer (Jude Jackson) is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics. Created by Chris Matonti, J.D. Matonti, and Julia Coppola, he first appeared in NEW-GEN #1 (2010). He is a founding member of the A.P.N.G., and gained his powers when Deadalus released a nanobot plague on the world of New-Gen.",
+  "description": "Flyer (Jude Jackson) is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Flyer_new_gen.jpg/250px-Flyer_new_gen.jpg",
   "isHero": true,
   "isVillain": false,
@@ -35,6 +30,11 @@
     "Jude Jackson"
   ],
   "species": [
+  ],
+  "teams": [
+    "A.P.N.G.",
+    "Gabriel",
+    "A.P.N.G., Gabriel"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Flyer_(New-Gen)"

@@ -2,10 +2,6 @@
   "aliases": [
     "Starfox"
   ],
-  "alliances": [
-    "Eternals",
-    "Avengers"
-  ],
   "authors": [
     "Jim Starlin",
     "Mike Friedrich"
@@ -39,6 +35,10 @@
     "originally Eron"
   ],
   "species": [
+  ],
+  "teams": [
+    "Eternals",
+    "Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2203/starfox",

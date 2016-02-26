@@ -2,14 +2,11 @@
   "aliases": [
     "Scaleface"
   ],
-  "alliances": [
-    "Morlocks"
-  ],
   "authors": [
     "Louise Simonson",
     "Walter Simonson"
   ],
-  "description": "Scaleface is a fictional character in the Marvel Universe.",
+  "description": "Scaleface is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Scaleface",
@@ -32,6 +29,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Morlocks"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Scaleface"

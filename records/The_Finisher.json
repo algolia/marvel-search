@@ -2,13 +2,11 @@
   "aliases": [
     "The Finisher"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Larry Lieber"
   ],
-  "description": "The Finisher is a fictional character and super-villain in the Marvel Universe. He is primarily an enemy of Spider-Man.",
+  "description": "The Finisher is a fictional character and super-villain in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Finisher",
@@ -30,6 +28,8 @@
     "Karl Fiers"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/The_Finisher"

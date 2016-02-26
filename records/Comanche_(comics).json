@@ -1,9 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "Flashmob"
-  ],
   "authors": [
     "Archie Goodwin",
     "George Tuska"
@@ -28,6 +25,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Flashmob"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Comanche_(comics)"

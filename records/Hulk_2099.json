@@ -2,10 +2,6 @@
   "aliases": [
     "Hulk 2099"
   ],
-  "alliances": [
-    "Lotusland Productions",
-    "Defenders 2099"
-  ],
   "authors": [
     "Dwayne Turner",
     "Gerard Jones",
@@ -14,7 +10,7 @@
     "Jack Kirby",
     ")"
   ],
-  "description": "Hulk 2099 (John Eisenhart) is a fictional character that appears in comic books published by Marvel Comics. The character was created by Gerard Jones and Dwayne Turner and first appeared in 2099 Unlimited #1. As with many other Marvel 2099 characters, Hulk 2099 was a futuristic re-imagining of the original Hulk.",
+  "description": "Hulk 2099 (John Eisenhart) is a fictional character that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Hulk2099.jpg/250px-Hulk2099.jpg",
   "isHero": true,
   "isVillain": false,
@@ -46,6 +42,10 @@
     "John Eisenhart"
   ],
   "species": [
+  ],
+  "teams": [
+    "Lotusland Productions",
+    "Defenders 2099"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hulk_2099"

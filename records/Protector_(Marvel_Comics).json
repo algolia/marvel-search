@@ -2,16 +2,13 @@
   "aliases": [
     "Protector"
   ],
-  "alliances": [
-    "Champions of Xandar"
-  ],
   "authors": [
     "Marv Wolfman",
     "Keith Pollard",
     "and Joe Sinnott",
     "Joe Sinnott"
   ],
-  "description": "Protector is a fictional character in the Marvel Universe.",
+  "description": "Protector is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Protector",
@@ -32,6 +29,9 @@
     "Thoral Rul"
   ],
   "species": [
+  ],
+  "teams": [
+    "Champions of Xandar"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Protector_(Marvel_Comics)"

@@ -2,14 +2,11 @@
   "aliases": [
     "Ladyhawk"
   ],
-  "alliances": [
-    "New Warriors"
-  ],
   "authors": [
     "Pat Olliffe",
     "Tom DeFalco"
   ],
-  "description": "Ladyhawk (Rosetta and Regina) is the shared codename of a fictional character in the Marvel Comics' series Spider-Girl. Their first names were revealed to be Rosetta and Regina in Amazing Spider-Girl #7; their last names are still unknown.",
+  "description": "Ladyhawk (Rosetta and Regina) is the shared codename of a fictional character in the Marvel Comics' series Spider-Girl",
   "image": "https://upload.wikimedia.org/wikipedia/en/1/18/LadyhawkMC2.jpg",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +32,9 @@
     "Rosetta and Regina"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Warriors"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ladyhawk_(comics)"

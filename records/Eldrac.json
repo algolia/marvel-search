@@ -2,9 +2,6 @@
   "aliases": [
     "Eldrac the Door"
   ],
-  "alliances": [
-    "Inhumans"
-  ],
   "authors": [
     "Jonathan Hickman",
     "Dale Eaglesham"
@@ -28,6 +25,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Inhumans"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Eldrac"

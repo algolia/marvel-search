@@ -7,18 +7,6 @@
     "Oktober",
     "Yelena Belova"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "Avengers",
-    "Champions",
-    "KGB",
-    "Marvel Knights",
-    "Mighty Avengers",
-    "Lady Liberators",
-    "Thunderbolts",
-    "Secret Avengers",
-    "Heroes for Hire"
-  ],
   "authors": [
     "Stan Lee",
     "Don Rico",
@@ -61,6 +49,18 @@
     "Natalia Alianovna \"Natasha\" Romanova"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Avengers",
+    "Champions",
+    "KGB",
+    "Marvel Knights",
+    "Mighty Avengers",
+    "Lady Liberators",
+    "Thunderbolts",
+    "Secret Avengers",
+    "Heroes for Hire"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009189/black_widow",

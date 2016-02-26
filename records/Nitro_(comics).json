@@ -2,17 +2,11 @@
   "aliases": [
     "Nitro"
   ],
-  "alliances": [
-    "Hardcore's Untouchables",
-    "Defenders",
-    "Hardcore",
-    "'s Untouchables"
-  ],
   "authors": [
     "Jim Starlin",
     "Steve Englehart"
   ],
-  "description": "Nitro is a fictional character, a supervillain in the Marvel Comics universe. He first appeared in Captain Marvel  #34 (September 1974) and was created by Jim Starlin.Nitro is best known for being part of the tragedy that started off Marvel's Civil War crossover. He is also known by comic fans for playing a part in the death of the Kree superhero Mar-Vell.",
+  "description": "Nitro is a fictional character, a supervillain in the Marvel Comics universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c00372e0847c/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +30,12 @@
     "Robert Hunter"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hardcore's Untouchables",
+    "Defenders",
+    "Hardcore",
+    "'s Untouchables"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1614/nitro",

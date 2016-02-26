@@ -2,9 +2,6 @@
   "aliases": [
     "Warstar"
   ],
-  "alliances": [
-    "Imperial Guard"
-  ],
   "authors": [
     "Chris Claremont",
     "John Byrne"
@@ -32,6 +29,9 @@
     "B'nee and C'cil"
   ],
   "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2531/warstar",

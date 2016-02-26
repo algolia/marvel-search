@@ -2,16 +2,13 @@
   "aliases": [
     "Magician"
   ],
-  "alliances": [
-    "Ultimate X-Men"
-  ],
   "authors": [
     "Robert Kirkman",
     "Tom Raney",
     "Stan Lee",
     "Dick Ayers"
   ],
-  "description": "Magician (Elliot Boggs) is a fictional character in the Ultimate Marvel imprint of Marvel Comics. Created by Robert Kirkman, he first appears in Ultimate X-Men #66. Magician is one of the few Ultimate Marvel characters who are not based on counterparts from the Marvel Universe.",
+  "description": "Magician (Elliot Boggs) is a fictional character in the Ultimate Marvel imprint of Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/XMEN_Magician.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +30,9 @@
     "Lee Guardineer"
   ],
   "species": [
+  ],
+  "teams": [
+    "Ultimate X-Men"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Magician_(comics)"

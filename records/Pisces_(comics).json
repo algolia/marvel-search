@@ -2,14 +2,11 @@
   "aliases": [
     "Pisces"
   ],
-  "alliances": [
-    "Zodiac"
-  ],
   "authors": [
     "Roy Thomas",
     "Sal Buscema"
   ],
-  "description": "Pisces is the name of different characters in Marvel Comics.",
+  "description": "Pisces is the name of different characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Pisces",
@@ -29,6 +26,9 @@
     "Noah Perricone"
   ],
   "species": [
+  ],
+  "teams": [
+    "Zodiac"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Pisces_(comics)"

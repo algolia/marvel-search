@@ -3,15 +3,12 @@
     "Tysen S. the half and half.",
     "Deadalus"
   ],
-  "alliances": [
-    "MetalMites"
-  ],
   "authors": [
     "Chris Matonti",
     "Julia Coppola",
     "J.D. Matonti"
   ],
-  "description": "Sylvester Deadalus (Sly) is a fictional character, a supervillain that appears in the  NEW-GEN comic books published by Marvel Comics. Created by Chris Matonti, J.D. Matonti, and Julia Coppola, he first appeared in NEW-GEN #1 (2010).",
+  "description": "Sylvester Deadalus (Sly) is a fictional character, a supervillain that appears in the  NEW-GEN comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Deadalus_new_gen.jpg/250px-Deadalus_new_gen.jpg",
   "isHero": true,
   "isVillain": false,
@@ -35,6 +32,9 @@
     "Sylvester Deadalus"
   ],
   "species": [
+  ],
+  "teams": [
+    "MetalMites"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Deadalus_(comics)"

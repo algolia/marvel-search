@@ -2,10 +2,6 @@
   "aliases": [
     "Skybreaker"
   ],
-  "alliances": [
-    "Inhumans",
-    "Force of Nature"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
@@ -31,6 +27,10 @@
     "Aireo"
   ],
   "species": [
+  ],
+  "teams": [
+    "Inhumans",
+    "Force of Nature"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Aireo"

@@ -8,11 +8,6 @@
     "others",
     "Aphrodite"
   ],
-  "alliances": [
-    "Agents of Atlas",
-    "God Squad",
-    "G-Men"
-  ],
   "authors": [
     "Carlo Pagulayan",
     "Jeff Parker"
@@ -46,6 +41,11 @@
     "Aphrodite Pandemos"
   ],
   "species": [
+  ],
+  "teams": [
+    "Agents of Atlas",
+    "God Squad",
+    "G-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2480/venus",

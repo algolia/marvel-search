@@ -2,19 +2,11 @@
   "aliases": [
     "Puma"
   ],
-  "alliances": [
-    "Wild Pack",
-    "Fireheart Enterprises",
-    "Daily Bugle",
-    "The Outlaws",
-    "MODOK",
-    "'s 11"
-  ],
   "authors": [
     "Ron Frenz",
     "Tom DeFalco"
   ],
-  "description": "Puma (Thomas Fireheart) is a fictional character in the Marvel Comics universe most closely associated with Spider-Man. While originally a villain, he gained a great respect for Spider-Man and became his occasional ally.",
+  "description": "Puma (Thomas Fireheart) is a fictional character in the Marvel Comics universe most closely associated with Spider-Man",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/4c003c7a0ab21/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -58,6 +50,14 @@
     "Thomas Fireheart"
   ],
   "species": [
+  ],
+  "teams": [
+    "Wild Pack",
+    "Fireheart Enterprises",
+    "Daily Bugle",
+    "The Outlaws",
+    "MODOK",
+    "'s 11"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1831/puma",

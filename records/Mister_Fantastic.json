@@ -4,18 +4,11 @@
     "Reed Benjamin",
     "Mister Fantastic"
   ],
-  "alliances": [
-    "Defenders",
-    "Avengers",
-    "Fantastic Four",
-    "Future Foundation",
-    "Illuminati"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Mister Fantastic (Reed Richards) is a fictional character, a superhero that appears in comic books published by Marvel Comics. He is a founding member of the Fantastic Four. Richards possesses a mastery of mechanical, aerospace and electrical engineering, chemistry, all levels of physics, and human and alien biology. BusinessWeek listed Mr. Fantastic as one of the top ten most intelligent fictional characters in American comics. He is the inventor of the spacecraft which was bombarded by cosmic radiation on its maiden voyage, granting the Fantastic Four their powers. Richards gained the ability to stretch his body into any shape he desires.Richards acts as the leader and father figure of the Fantastic Four, although in recent years he has increasingly been portrayed as being cold and distant towards his teammates due to his scientific, methodical nature. This is particularly true with his best friend, Ben Grimm, who partially blames Richards for his transformation into a large, rocky creature called the Thing. Whenever Richards is confronted with a challenge, his attention can be so focused that he can neglect even his own family. Regardless, he is the loving husband of Susan Storm, father of son Franklin Richards and daughter Valeria Richards, and mentor of his brother-in-law, Johnny Storm.The character of Reed Richards was portrayed by actors Alex Hyde-White in the 1994 The Fantastic Four film, and then Ioan Gruffudd played him in the 2005 film Fantastic Four, and its 2007 sequel Fantastic Four: Rise of the Silver Surfer. In February 2014, Miles Teller was announced to portray Reed Richards in the upcoming 2015 The Fantastic Four.",
+  "description": "Mister Fantastic (Reed Richards) is a fictional character, a superhero that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Reedr.jpg/250px-Reedr.jpg",
   "isHero": false,
   "isVillain": false,
@@ -47,6 +40,13 @@
     "Reed Richards"
   ],
   "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "Avengers",
+    "Fantastic Four",
+    "Future Foundation",
+    "Illuminati"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mister_Fantastic"

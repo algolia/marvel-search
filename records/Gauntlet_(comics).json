@@ -3,20 +3,12 @@
     "Joseph Green",
     "Gauntlet"
   ],
-  "alliances": [
-    "Counter Force",
-    "Fifty State Initiative",
-    "New Warriors",
-    "United States Army",
-    "Avengers Resistance",
-    "The Initiative"
-  ],
   "authors": [
     "Dan Slott",
     "Eric Powell",
     "Stefano Caselli"
   ],
-  "description": "The Gauntlet (Joseph Green), is a comic book superhero in the Marvel Comics Universe. Created by Dan Slott, he first appeared in She-Hulk #100.",
+  "description": "The Gauntlet (Joseph Green), is a comic book superhero in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/535ff2a48869b/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +31,14 @@
     "Joseph Green"
   ],
   "species": [
+  ],
+  "teams": [
+    "Counter Force",
+    "Fifty State Initiative",
+    "New Warriors",
+    "United States Army",
+    "Avengers Resistance",
+    "The Initiative"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009316/gauntlet_joseph_green",

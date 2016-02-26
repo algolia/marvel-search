@@ -2,10 +2,6 @@
   "aliases": [
     "Talon"
   ],
-  "alliances": [
-    "Guardians of the Galaxy (1969 team)",
-    "Guardians of the Galaxy"
-  ],
   "authors": [
     "Jim Valentino"
   ],
@@ -34,6 +30,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Guardians of the Galaxy (1969 team)",
+    "Guardians of the Galaxy"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2289/talon",

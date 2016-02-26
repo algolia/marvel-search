@@ -3,15 +3,11 @@
     "Amos",
     "Spoor"
   ],
-  "alliances": [
-    "Acolytes",
-    "Renegade Faction"
-  ],
   "authors": [
     "Scott Lobdell",
     "John Romita, Jr."
   ],
-  "description": "Spoor (Andrew Hamish Graves) is a fictional comic book character appearing in Marvel Comics. He first appeared in Uncanny X-Men #300 and was a member of the Acolytes. His real name was established in Excalibur  #89. Spoor is a mutant with the ability to secrete pheromones, allowing him to control others.",
+  "description": "Spoor (Andrew Hamish Graves) is a fictional comic book character appearing in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Spoor",
@@ -36,6 +32,10 @@
     "Andrew Hamish Graves"
   ],
   "species": [
+  ],
+  "teams": [
+    "Acolytes",
+    "Renegade Faction"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Spoor_(comics)"

@@ -6,13 +6,6 @@
     "Clay Rider",
     "Tarantula"
   ],
-  "alliances": [
-    "Boca Del Rios Fascist Government",
-    "Brand Corporation",
-    "Boca Del Rios Revolutionist Forces",
-    "Heroes for Hire",
-    "-->'''(Vasquez)"
-  ],
   "authors": [
     "Ross Andru",
     "Alex Saviuk",
@@ -63,6 +56,13 @@
     "Luis Alvarez"
   ],
   "species": [
+  ],
+  "teams": [
+    "Boca Del Rios Fascist Government",
+    "Brand Corporation",
+    "Boca Del Rios Revolutionist Forces",
+    "Heroes for Hire",
+    "-->'''(Vasquez)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2293/tarantula",

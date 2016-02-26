@@ -2,14 +2,11 @@
   "aliases": [
     "Ion"
   ],
-  "alliances": [
-    "Femizons"
-  ],
   "authors": [
     "Tom DeFalco",
     "Steve Ditko"
   ],
-  "description": "Ion (Voletta Todd) is a fictional supervillain character in the Marvel Universe.",
+  "description": "Ion (Voletta Todd) is a fictional supervillain character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Ion",
@@ -35,6 +32,9 @@
     "Voletta Todd"
   ],
   "species": [
+  ],
+  "teams": [
+    "Femizons"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ion_(Marvel_Comics)"

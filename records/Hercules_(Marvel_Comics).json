@@ -4,27 +4,11 @@
     "Hercules",
     "Incredible Hercules"
   ],
-  "alliances": [
-    "Defenders",
-    "Damage Control",
-    "Champions",
-    "Olympians",
-    "World War Hulk",
-    "Avengers Academy",
-    "Heroes for Hire",
-    "Avengers",
-    "The Mighty Avengers",
-    "God Squad",
-    "Civil War",
-    "Olympian Pantheon",
-    "Renegades",
-    "Secret Avengers (Civil War)"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Hercules is a fictional character, a superhero that appears in publications by Marvel Comics. The character first appears in Journey into Mystery Annual #1 (1965) and was created by writer-editor Stan Lee and artist/co-plotter Jack Kirby.Debuting in the Silver Age of Comic Books, the character is based on Heracles of Greek mythology, although the name 'Hercules' is associated with the version from Roman mythology. The character has starred in three self-titled limited series and been a perennial member of the superhero team the Avengers, appearing in each of the three titles. In 2008, Hercules debuted in his own series titled The Incredible Hercules. The character has also appeared in associated Marvel merchandise including animated television series; toys; trading cards and video games.",
+  "description": "Hercules is a fictional character, a superhero that appears in publications by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/52052ebddfa53/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -65,6 +49,22 @@
     "Heracles"
   ],
   "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "Damage Control",
+    "Champions",
+    "Olympians",
+    "World War Hulk",
+    "Avengers Academy",
+    "Heroes for Hire",
+    "Avengers",
+    "The Mighty Avengers",
+    "God Squad",
+    "Civil War",
+    "Olympian Pantheon",
+    "Renegades",
+    "Secret Avengers (Civil War)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/952/hercules",

@@ -2,16 +2,11 @@
   "aliases": [
     "Sharon Friedlander"
   ],
-  "alliances": [
-    "X-Mansion",
-    "Muir Island X-Men",
-    "Xavier Institute"
-  ],
   "authors": [
     "Bill Sienkiewicz",
     "Chris Claremont"
   ],
-  "description": "Sharon Friedlander is a fictional character most often appearing in X-Men stories in the Marvel Comics universe. Sharon first appeared in New Mutants vol. 1 #19 (1984). She was created by Chris Claremont and Bill Sienkiewicz. Her last appearance was in Uncanny X-Men #298.",
+  "description": "Sharon Friedlander is a fictional character most often appearing in X-Men stories in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Sharon Friedlander",
@@ -32,6 +27,11 @@
     "Sharon Friedlander"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Mansion",
+    "Muir Island X-Men",
+    "Xavier Institute"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Friedlander"

@@ -3,14 +3,11 @@
     "Green Goblin",
     "Headsman"
   ],
-  "alliances": [
-    "Thunderbolts"
-  ],
   "authors": [
     "Kurt Busiek",
     "Pat Olliffe"
   ],
-  "description": "Headsman is a fictional character in the Marvel Universe. His apparent real name is Cleavon Twain (a play on the words \"cleave in twain\") though it's unclear if this is his actual birth name or simply an alias.",
+  "description": "Headsman is a fictional character in the Marvel Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4cd05ee55faa2/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -31,6 +28,9 @@
     "Cleavon Twain"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/852/green_goblin",

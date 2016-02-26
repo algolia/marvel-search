@@ -2,11 +2,6 @@
   "aliases": [
     "Carl Stricker"
   ],
-  "alliances": [
-    "Emissaries of Evil",
-    "Masters of Evil",
-    "Intelligencia"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby",
@@ -39,6 +34,11 @@
     "Elihas Starr"
   ],
   "species": [
+  ],
+  "teams": [
+    "Emissaries of Evil",
+    "Masters of Evil",
+    "Intelligencia"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Egghead_(Marvel_Comics)"

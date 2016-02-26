@@ -2,14 +2,11 @@
   "aliases": [
     "Poison"
   ],
-  "alliances": [
-    "The Hand"
-  ],
   "authors": [
     "Steve Gerber",
     "Cynthia Martin"
   ],
-  "description": "Poison is the name of two fictional comic book characters, owned by Marvel Comics. The first was created by writer Steve Gerber and artist Cynthia Martin and exists in the Marvel Universe while the second lives in an alternate world featured in the one-shot comic What If?: Spider-Man: The Other. This article is about the former. Information on the latter can be found at Alternative versions of Spider-Man.",
+  "description": "Poison is the name of two fictional comic book characters, owned by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Poison",
@@ -36,6 +33,9 @@
     "Cecilia Cardinale"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Hand"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Poison_(comics)"

@@ -6,15 +6,6 @@
     "Sentry",
     "Sentry (Robert Reynolds)"
   ],
-  "alliances": [
-    "Dark Avengers",
-    "Horsemen of Apocalypse",
-    "The New Avengers",
-    "The Mighty Avengers",
-    "New Avengers",
-    "Mighty Avengers",
-    "Horsemen of Death"
-  ],
   "authors": [
     "Jae Lee",
     "Rick Veitch",
@@ -58,6 +49,15 @@
     "Robert Reynolds"
   ],
   "species": [
+  ],
+  "teams": [
+    "Dark Avengers",
+    "Horsemen of Apocalypse",
+    "The New Avengers",
+    "The Mighty Avengers",
+    "New Avengers",
+    "Mighty Avengers",
+    "Horsemen of Death"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2048/sentry",

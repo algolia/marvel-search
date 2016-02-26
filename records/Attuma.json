@@ -5,17 +5,11 @@
     "Nerkkod: Breaker of Oceans",
     "Attuma"
   ],
-  "alliances": [
-    "Lethal Legion",
-    "Features of the Marvel Universe",
-    "Fear Itself",
-    "Deep Six"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Attuma is a fictional character, a supervillain in the Marvel Comics universe. He is an Atlantean nomadic warlord who is an enemy of Namor the Sub-Mariner, and is the father of the superhero Andromeda. He believes he is the prophesied conqueror of the Atlantean Empire.",
+  "description": "Attuma is a fictional character, a supervillain in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/d/d3/X-factoran4.jpg",
   "isHero": false,
   "isVillain": false,
@@ -53,6 +47,12 @@
     "Attuma"
   ],
   "species": [
+  ],
+  "teams": [
+    "Lethal Legion",
+    "Features of the Marvel Universe",
+    "Fear Itself",
+    "Deep Six"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Attuma"

@@ -4,20 +4,11 @@
     "Omega Gang",
     "Quentin Quire"
   ],
-  "alliances": [
-    "Quentin Quire",
-    "Hellfire Club",
-    "X-Mansion",
-    "Hellfire Academy",
-    "Jean Grey School for Higher Learning",
-    "Omega Gang",
-    "Xavier Institute"
-  ],
   "authors": [
     "Frank Quitely",
     "Grant Morrison"
   ],
-  "description": "Quintavius \"Quentin\" Quirinius Quire, also known as Kid Omega, is a fictional character appearing in books published by Marvel Comics, usually in those featuring the X-Men. A green-skinned character resembling Quire appeared in one panel of New X-Men #122 (March 2002), and appeared colored pink on the cover of New X-Men #126. Quire appeared in his now-familiar, canonical form in New X-Men #134 (January 2003). He was created by writer Grant Morrison and artist Frank Quitely.",
+  "description": "Quintavius \"Quentin\" Quirinius Quire, also known as Kid Omega, is a fictional character appearing in books published by Marvel Comics, usually in those featuring the X-Men",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c003d7fc6294/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": true,
@@ -45,6 +36,15 @@
     "Quintavius \"Quentin\" Quirinius Quire"
   ],
   "species": [
+  ],
+  "teams": [
+    "Quentin Quire",
+    "Hellfire Club",
+    "X-Mansion",
+    "Hellfire Academy",
+    "Jean Grey School for Higher Learning",
+    "Omega Gang",
+    "Xavier Institute"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2721/quentin_quire",

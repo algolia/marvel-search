@@ -21,21 +21,6 @@
     "/",
     "Scarlet Spider ll"
   ],
-  "alliances": [
-    "X-Mansion",
-    "Parker Industries",
-    "Heroes for Hire",
-    "Avengers",
-    "Fantastic Four",
-    "Defenders",
-    "The New Avengers",
-    "Future Foundation",
-    "New Avengers",
-    "New Fantastic Four",
-    "Secret Defenders",
-    "Jean Grey School",
-    "Uncanny Avengers"
-  ],
   "authors": [
     "Steve Ditko",
     "Stan Lee"
@@ -78,6 +63,21 @@
     "Peter Benjamin Parker"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Mansion",
+    "Parker Industries",
+    "Heroes for Hire",
+    "Avengers",
+    "Fantastic Four",
+    "Defenders",
+    "The New Avengers",
+    "Future Foundation",
+    "New Avengers",
+    "New Fantastic Four",
+    "Secret Defenders",
+    "Jean Grey School",
+    "Uncanny Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/54/spider-man",

@@ -4,14 +4,6 @@
     "Captain America",
     "Bucky"
   ],
-  "alliances": [
-    "Avengers",
-    "Kid Commandos",
-    "Invaders",
-    "Legion of the Unliving",
-    "Department X",
-    "Young Allies"
-  ],
   "authors": [
     "Winter Soldier:",
     "Bucky:",
@@ -20,7 +12,7 @@
     "Steve Epting",
     "Joe Simon"
   ],
-  "description": "Bucky is the name of several fictional characters that were masked superheroes in the Marvel Comics universe. The original one, James Buchanan \"Bucky\" Barnes, was created by Joe Simon and Jack Kirby as a sidekick character in Captain America Comics #1 (cover-dated March 1941), published by Timely Comics (Marvel's 1940s predecessor). Decades later, the original Bucky was brought back from supposed death as the Winter Soldier, and even as Captain America when Steve Rogers was presumed to be dead. Sebastian Stan portrays Bucky in the feature film Captain America: The First Avenger (2011) and the Winter Soldier in Captain America: The Winter Soldier (2014).",
+  "description": "Bucky is the name of several fictional characters that were masked superheroes in the Marvel Comics universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/4dc8478464008/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -63,6 +55,14 @@
     "James Buchanan Barnes"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "Kid Commandos",
+    "Invaders",
+    "Legion of the Unliving",
+    "Department X",
+    "Young Allies"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/363/bucky",

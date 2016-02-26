@@ -3,9 +3,6 @@
     "The Celestial Slayer",
     "Stellaris"
   ],
-  "alliances": [
-    "The Graces"
-  ],
   "authors": [
     "Tom DeFalco",
     "Gary Hartle"
@@ -31,6 +28,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "The Graces"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2217/stellaris",

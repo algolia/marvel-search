@@ -2,16 +2,11 @@
   "aliases": [
     "Post"
   ],
-  "alliances": [
-    "Brotherhood of Mutants",
-    "Dark Descendants",
-    "Brotherhood of Evil Mutants"
-  ],
   "authors": [
     "Andy Kubert",
     "Scott Lobdell"
   ],
-  "description": "Post is a fictional character and mutant in the Marvel Comics universe. His first appearance was in X-Men v2, #50.",
+  "description": "Post is a fictional character and mutant in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Post",
@@ -40,6 +35,11 @@
     "Kevin Tremain"
   ],
   "species": [
+  ],
+  "teams": [
+    "Brotherhood of Mutants",
+    "Dark Descendants",
+    "Brotherhood of Evil Mutants"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1778/post",

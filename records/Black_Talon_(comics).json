@@ -2,17 +2,13 @@
   "aliases": [
     "Black Talon"
   ],
-  "alliances": [
-    "X-Humed",
-    "Lethal Legion"
-  ],
   "authors": [
     "Gerry Conway",
     "John Buscema",
     "Gene Colan",
     "Len Wein"
   ],
-  "description": "The Black Talon is the name of a number of fictional characters, supervillains in the Marvel Comics universe.",
+  "description": "The Black Talon is the name of a number of fictional characters, supervillains in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Shehulk35.png/250px-Shehulk35.png",
   "isHero": false,
   "isVillain": true,
@@ -38,6 +34,10 @@
     "Desmond Drew"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Humed",
+    "Lethal Legion"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Talon_(comics)"

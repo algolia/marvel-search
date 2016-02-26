@@ -3,15 +3,10 @@
     "Jane Doe",
     "Fixx"
   ],
-  "alliances": [
-    "Xavier's Underground Enforcers",
-    "Xavier's Security Enforcers",
-    "X-Factor"
-  ],
   "authors": [
     "Howard Mackie"
   ],
-  "description": "Fixx is a fictional mutant character in the Marvel Comics Universe from an alternate future. She is a member of X-Factor, X.S.E., and X.U.E. She first appeared in X-Factor (1st. series) #140. Fixx was created by Howard Mackie.",
+  "description": "Fixx is a fictional mutant character in the Marvel Comics Universe from an alternate future",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Fixx.jpg/200px-Fixx.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +28,11 @@
     "Unknown"
   ],
   "species": [
+  ],
+  "teams": [
+    "Xavier's Underground Enforcers",
+    "Xavier's Security Enforcers",
+    "X-Factor"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Fixx"

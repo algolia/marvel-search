@@ -3,19 +3,13 @@
     "Eric the Red",
     "Erik the Red"
   ],
-  "alliances": [
-    "X-Men",
-    "Shi'ar Empire",
-    "Shi'ar",
-    "Empire"
-  ],
   "authors": [
     "Arnold Drake",
     "Jim Steranko",
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "description": "Erik the Red is a fictional cover identity in the Marvel Universe which has been used by three characters: Scott Summers (Cyclops), Davan Shakari, a Shi'ar agent, and Erik Magnus Lehnsherr (Magneto). The identity is named for the Norse colonizer of Greenland, Erik the Red, and all three characters assumed it as a disguise; Shakari is the character that used this identity the longest and is the one most commonly associated with it.",
+  "description": "Erik the Red is a fictional cover identity in the Marvel Universe which has been used by three characters: Scott Summers (Cyclops), Davan Shakari, a Shi'ar agent, and Erik Magnus Lehnsherr (Magneto)",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Xmen97erikthesmall.jpg/250px-Xmen97erikthesmall.jpg",
   "isHero": false,
   "isVillain": false,
@@ -46,6 +40,12 @@
     "(III) Erik Magnus Lehnsherr"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "Shi'ar Empire",
+    "Shi'ar",
+    "Empire"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/634/erik_the_red",

@@ -3,15 +3,11 @@
     "Scribe",
     "Mountjoy"
   ],
-  "alliances": [
-    "Hellfire Club",
-    "Lifers"
-  ],
   "authors": [
     "Carlos Pacheco",
     "John Ostrander"
   ],
-  "description": "Mountjoy is a fictional character, a mutant in the Marvel Comics Universe. The character first appeared in Bishop: The Mountjoy Crisis #1.",
+  "description": "Mountjoy is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Mountjoy",
@@ -32,6 +28,10 @@
     "Mountebank"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellfire Club",
+    "Lifers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mountjoy_(comics)"

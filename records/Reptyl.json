@@ -5,13 +5,11 @@
     "the Non-human",
     "Reptyl"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Steve Englehart",
     "Joe Staton"
   ],
-  "description": "Reptyl is a fictional character in the Marvel Universe.",
+  "description": "Reptyl is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Reptyl",
@@ -30,6 +28,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Reptyl"

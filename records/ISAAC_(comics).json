@@ -2,13 +2,10 @@
   "aliases": [
     "ISAAC"
   ],
-  "alliances": [
-    "Eternals"
-  ],
   "authors": [
     "Jim Starlin"
   ],
-  "description": "ISAAC is a fictional character in the Marvel Universe.ISAAC is an English version of an acronym in the language of the Eternals of Titan standing for: Integral Synaptic Anti+/Anionic Computer.",
+  "description": "ISAAC is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "ISAAC",
@@ -27,6 +24,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Eternals"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/ISAAC_(comics)"

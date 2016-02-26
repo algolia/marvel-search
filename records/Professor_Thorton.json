@@ -5,14 +5,10 @@
     "The Professor",
     "Professor Thorton"
   ],
-  "alliances": [
-    "Weapon X",
-    "Weapon Plus"
-  ],
   "authors": [
     "Barry Windsor-Smith"
   ],
-  "description": "Professor Andre Thorton (real name Truett Hudson; also known as The Professor) is a character in Marvel Comics, an enemy of Wolverine.",
+  "description": "Professor Andre Thorton (real name Truett Hudson; also known as The Professor) is a character in Marvel Comics, an enemy of Wolverine",
   "isHero": false,
   "isVillain": false,
   "name": "The Professor",
@@ -33,6 +29,10 @@
     "Truett Hudson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Weapon X",
+    "Weapon Plus"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1807/professor",

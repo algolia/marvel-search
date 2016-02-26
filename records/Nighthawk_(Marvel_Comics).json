@@ -2,18 +2,6 @@
   "aliases": [
     "Nighthawk"
   ],
-  "alliances": [
-    "Thunderbolts",
-    "Joaquin :",
-    "Squadron Sinister",
-    "Defenders",
-    "Neil :",
-    "America Redeemers",
-    "Legion of the Unliving",
-    "Kyle :",
-    "Squadron Supreme",
-    "Fearsome Four"
-  ],
   "authors": [
     "Kyle Richmond:",
     "Jim Muniz",
@@ -23,7 +11,7 @@
     "Joaquin Pennyworth:",
     "Joe Casey"
   ],
-  "description": "Nighthawk is the name of several fictional characters that appear in publications published by Marvel Comics. There have been five versions of the character: a supervillain-turned-superhero from the mainstream Marvel Universe continuity, Kyle Richmond, who belonged to the team Squadron Sinister; and four from alternate universes, who belonged to various permutations of team Squadron Supreme.",
+  "description": "Nighthawk is the name of several fictional characters that appear in publications published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c00391ba3a93/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -62,6 +50,18 @@
     "Joaquin Pennysworth (616)"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Joaquin :",
+    "Squadron Sinister",
+    "Defenders",
+    "Neil :",
+    "America Redeemers",
+    "Legion of the Unliving",
+    "Kyle :",
+    "Squadron Supreme",
+    "Fearsome Four"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1604/nighthawk",

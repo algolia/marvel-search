@@ -2,13 +2,11 @@
   "aliases": [
     "Anachronism"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Dennis Hopeless",
     "Kev Walker"
   ],
-  "description": "Anachronism (Aiden) is a fictional character from Marvel Comics.",
+  "description": "Anachronism (Aiden) is a fictional character from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Anachronism",
@@ -28,6 +26,8 @@
     "Aiden"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Anachronism_(comics)"

@@ -5,16 +5,13 @@
     "The Blood Rose",
     "Richard Fisk"
   ],
-  "alliances": [
-    "Hydra"
-  ],
   "authors": [
     "John Romita",
     "Sr.",
     "Stan Lee",
     "John Romita, Sr."
   ],
-  "description": "Richard Fisk is a fictional character, a criminal in the Marvel Comics Universe, featured in the comic books published by Marvel Comics. He is the son of the Kingpin and his wife Vanessa Fisk. Although he was originally a villain, he became an antihero.The character first appears in The Amazing Spider-Man #83 (April 1970) and was created by Stan Lee and John Romita, Sr.",
+  "description": "Richard Fisk is a fictional character, a criminal in the Marvel Comics Universe, featured in the comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Webofspiderman30.jpg/250px-Webofspiderman30.jpg",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +38,9 @@
     "Richard Fisk"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hydra"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2929/richard_fisk",

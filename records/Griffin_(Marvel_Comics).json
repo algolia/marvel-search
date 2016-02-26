@@ -2,15 +2,11 @@
   "aliases": [
     "Griffin"
   ],
-  "alliances": [
-    "Secret Empire",
-    "Masters of Evil"
-  ],
   "authors": [
     "Tom Sutton",
     "Steve Englehart"
   ],
-  "description": "Griffin (Johnny Horton) is a fictional character, a Marvel Comics supervillain.",
+  "description": "Griffin (Johnny Horton) is a fictional character, a Marvel Comics supervillain",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/John_Horton_%28Earth-616%29_%28Griffin%29.jpg/250px-John_Horton_%28Earth-616%29_%28Griffin%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +36,10 @@
     "Johnny Horton"
   ],
   "species": [
+  ],
+  "teams": [
+    "Secret Empire",
+    "Masters of Evil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Griffin_(Marvel_Comics)"

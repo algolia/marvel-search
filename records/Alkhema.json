@@ -4,14 +4,12 @@
     "War Toy",
     "Alkhema"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Roy & Dann Thomas",
     "David Ross",
     "and Tim Dzon"
   ],
-  "description": "Alkhema is a fictional robot supervillain in the Marvel Universe. Also known as War Toy, she first appeared in Avengers West Coast #90 in January 1993.",
+  "description": "Alkhema is a fictional robot supervillain in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Alkhema.jpg/250px-Alkhema.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +30,8 @@
     "Alkhema"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Alkhema"

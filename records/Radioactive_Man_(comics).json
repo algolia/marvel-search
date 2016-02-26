@@ -2,17 +2,11 @@
   "aliases": [
     "Radioactive Man"
   ],
-  "alliances": [
-    "Masters of Evil",
-    "Thunderbolts",
-    "Titanic Three",
-    "People's Defense Force"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Radioactive Man is the name of two characters from Marvel Comics.",
+  "description": "Radioactive Man is the name of two characters from Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c003c66d3393/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": true,
@@ -35,6 +29,12 @@
     "Chen Lu"
   ],
   "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Thunderbolts",
+    "Titanic Three",
+    "People's Defense Force"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1853/radioactive_man",

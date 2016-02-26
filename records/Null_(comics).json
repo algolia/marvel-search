@@ -4,14 +4,12 @@
     "the Over-Mind",
     "Null"
   ],
-  "alliances": [
-  ],
   "authors": [
     "J. M. DeMatteis",
     "Don Perlin",
     "J.M. DeMatteis"
   ],
-  "description": "Null, called also Null the Living Darkness, is a fictional character in the Marvel Universe.  Null is a demon and enemy of the Defenders and Squadron Supreme.  He first appeared in Defenders #103 (January 1982).",
+  "description": "Null, called also Null the Living Darkness, is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Null",
@@ -34,6 +32,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Null_(comics)"

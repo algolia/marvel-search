@@ -2,14 +2,11 @@
   "aliases": [
     "Warrior Woman"
   ],
-  "alliances": [
-    "Super-Axis"
-  ],
   "authors": [
     "Roy Thomas",
     "Frank Robbins"
   ],
-  "description": "Warrior Woman is a fictional character that appears in comic books published by Marvel Comics. The character first appears in Invaders #16 (May 1977) and was created by Roy Thomas and Frank Robbins.",
+  "description": "Warrior Woman is a fictional character that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Invaders-17.jpg/250px-Invaders-17.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
     "Julia Frieda Koenig Lohmer"
   ],
   "species": [
+  ],
+  "teams": [
+    "Super-Axis"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Warrior_Woman_(Marvel_Comics)"

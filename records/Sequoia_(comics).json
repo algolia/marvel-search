@@ -2,11 +2,9 @@
   "aliases": [
     "Sequoia"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "Sequoia, (AKA Quoi and Q) is a Marvel Comics character. He is the son of Mantis and the elder member of the Cotati contingent which was transplanted from the Kree home planet Hala to Viet Nam on Earth.",
+  "description": "Sequoia, (AKA Quoi and Q) is a Marvel Comics character",
   "isHero": false,
   "isVillain": false,
   "name": "Sequoia",
@@ -25,6 +23,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Sequoia_(comics)"

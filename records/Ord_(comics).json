@@ -3,13 +3,11 @@
     "Ord of the Breakworld",
     "Ord"
   ],
-  "alliances": [
-  ],
   "authors": [
     "John Cassaday",
     "Joss Whedon"
   ],
-  "description": "Ord is a fictional character, a comic book supervillain in books published by Marvel Comics, specifically as an enemy of the X-Men. He first appeared in Astonishing X-Men #1 in May 2004. He was created by writer Joss Whedon and artist John Cassaday.",
+  "description": "Ord is a fictional character, a comic book supervillain in books published by Marvel Comics, specifically as an enemy of the X-Men",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c002f1c476f9/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +35,8 @@
     "Ord"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1663/ord",

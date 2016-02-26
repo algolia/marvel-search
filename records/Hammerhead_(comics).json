@@ -3,18 +3,13 @@
     "Mr. H",
     "Hammerhead"
   ],
-  "alliances": [
-    "Sinister Six",
-    "Maggia",
-    "Sinister Twelve"
-  ],
   "authors": [
     "Gerry Conway",
     "John Romita",
     "Sr.",
     "John Romita, Sr."
   ],
-  "description": "Hammerhead is a fictional character, a supervillain that has appeared in various comic book series published by Marvel Comics. He is primarily an enemy of Spider-Man and a member of organized crime who exists in Marvel's main shared universe, known as the Marvel Universe.He is closely associated with the Hammerhead \"Family\", a Maggia crime family. Hammerhead distinguishes himself from other villains in that he dresses up and acts somewhat like a gangster from the 1920s. Due to an injury he suffered, much of his skull was replaced with an unbendable steel alloy by Jonas Harrow, giving his head a flattened shape.",
+  "description": "Hammerhead is a fictional character, a supervillain that has appeared in various comic book series published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c003ee47c207/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -47,6 +42,11 @@
     "Joseph"
   ],
   "species": [
+  ],
+  "teams": [
+    "Sinister Six",
+    "Maggia",
+    "Sinister Twelve"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/896/hammerhead",

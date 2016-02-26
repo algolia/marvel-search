@@ -9,18 +9,11 @@
     "Madelyne Pryor",
     "Goblin Queen"
   ],
-  "alliances": [
-    "X-Men",
-    "Brotherhood of Mutants",
-    "Hellfire Club",
-    "Hellfire Cult",
-    "Sisterhood of Mutants"
-  ],
   "authors": [
     "Paul Smith",
     "Chris Claremont"
   ],
-  "description": "Madelyne \"Maddie\" Jennifer Pryor-Summers is a fictional character, a supervillain in books published by Marvel Comics, in particular those featuring the X-Men. As the love interest and first wife of X-Men leader Cyclops (Scott Summers), she became a long-standing member of the X-Men supporting cast, until a series of traumas—being abandoned by her husband, losing her infant son, and discovering that she was a clone of Jean Grey—eventually led to her being manipulated into becoming a supervillain. She and Cyclops are the parents of Nathan Summers.Her biography has been rendered particularly complicated because of the many retcons involved in the publication history of both her character and that of Jean Grey.",
+  "description": "Madelyne \"Maddie\" Jennifer Pryor-Summers is a fictional character, a supervillain in books published by Marvel Comics, in particular those featuring the X-Men",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/528d33ddaef70/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -49,6 +42,13 @@
     "Madelyne \"Maddie\" Jennifer Pryor-Summers"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "Brotherhood of Mutants",
+    "Hellfire Club",
+    "Hellfire Cult",
+    "Sisterhood of Mutants"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2741/madelyne_pryor",

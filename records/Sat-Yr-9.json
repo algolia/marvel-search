@@ -4,13 +4,10 @@
     "White Queen",
     "Sat-Yr-9"
   ],
-  "alliances": [
-    "Hellfire Club"
-  ],
   "authors": [
     "Alan Davis"
   ],
-  "description": "Opul Lun Sat-Yr-9 (also spelled Sat-Yr-nin) is a fictional character and supervillainess in the Marvel Universe.",
+  "description": "Opul Lun Sat-Yr-9 (also spelled Sat-Yr-nin) is a fictional character and supervillainess in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "White Queen (Adrienne Frost)",
@@ -31,6 +28,9 @@
     "Opul Lun Sat-Yr-9"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellfire Club"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2556/white_queen",

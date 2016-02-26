@@ -2,20 +2,13 @@
   "aliases": [
     "Guardsman"
   ],
-  "alliances": [
-    "Avengers",
-    "Iron Legion",
-    "Features of the Marvel Universe",
-    "Vault",
-    "Stark Industries"
-  ],
   "authors": [
     "Don Heck",
     "Allyn Brodsky",
     "Herb Trimpe",
     "Len Wein"
   ],
-  "description": "Guardsman was the name of a supervillain/superhero in the Marvel Universe, but the name was later applied to a small squad of agents.  They wear suits of power armor while working security at the Vault. The suits were designed by Tony Stark, better known as the superhero Iron Man.",
+  "description": "Guardsman was the name of a supervillain/superhero in the Marvel Universe, but the name was later applied to a small squad of agents",
   "isHero": false,
   "isVillain": false,
   "name": "Guardsman",
@@ -41,6 +34,13 @@
     "Michael O'Brien"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "Iron Legion",
+    "Features of the Marvel Universe",
+    "Vault",
+    "Stark Industries"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Guardsman_(comics)"

@@ -5,14 +5,11 @@
     "Dorma",
     "Nebulon"
   ],
-  "alliances": [
-    "Former leader of the Celestial Mind Control Movement"
-  ],
   "authors": [
     "Len Wein",
     "Sal Buscema"
   ],
-  "description": "Nebulon is a fictional character in the Marvel Universe.",
+  "description": "Nebulon is a fictional character in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Defenders_34.jpg/250px-Defenders_34.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +29,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Former leader of the Celestial Mind Control Movement"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Nebulon_(comics)"

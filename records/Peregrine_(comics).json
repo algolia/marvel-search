@@ -2,9 +2,6 @@
   "aliases": [
     "Peregrine"
   ],
-  "alliances": [
-    "Wild Pack"
-  ],
   "authors": [
     "Mark Gruenwald",
     "Bill Mantlo",
@@ -13,7 +10,7 @@
     "and Pablo Marcos",
     "Pablo Marcos"
   ],
-  "description": "Le Peregrine (Alain Racine) is a fictional character in the Marvel Universe.",
+  "description": "Le Peregrine (Alain Racine) is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Peregrine",
@@ -43,6 +40,9 @@
     "Alain Racine"
   ],
   "species": [
+  ],
+  "teams": [
+    "Wild Pack"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Peregrine_(comics)"

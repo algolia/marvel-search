@@ -2,14 +2,10 @@
   "aliases": [
     "X-Cutioner"
   ],
-  "alliances": [
-    "Federal Bureau of Investigation",
-    "FBI"
-  ],
   "authors": [
     "Scott Lobdell"
   ],
-  "description": "This article is about the Marvel Comics supervillain X-Cutioner.  For the crossover series, see X-Cutioner's Song.The X-Cutioner (Carl Denti) is a fictional character appearing in the Marvel Comics universe.  He is a former FBI agent obsessed with stalking Mutants who kill humans, and uses an array of both alien technology (such as Shi'ar power armor and Z'nox sensors) and Earthly technology (such as Sentinel propulsion units) in his quest. He first appeared in Uncanny X-Men Annual #17, in 1993.",
+  "description": "This article is about the Marvel Comics supervillain X-Cutioner",
   "isHero": false,
   "isVillain": false,
   "name": "X-Cutioner",
@@ -31,6 +27,10 @@
     "Carl Denti"
   ],
   "species": [
+  ],
+  "teams": [
+    "Federal Bureau of Investigation",
+    "FBI"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2607/x-cutioner",

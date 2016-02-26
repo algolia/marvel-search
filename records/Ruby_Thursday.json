@@ -2,15 +2,12 @@
   "aliases": [
     "Ruby Thursday"
   ],
-  "alliances": [
-    "Headmen"
-  ],
   "authors": [
     "Sal Buscema",
     "Jim Mooney",
     "Steve Gerber"
   ],
-  "description": "Ruby Thursday (Thursday Rubinstein) is a fictional character in the Marvel Comics Universe and a member of the Headmen. She is named for the Rolling Stones song, \"Ruby Tuesday\".",
+  "description": "Ruby Thursday (Thursday Rubinstein) is a fictional character in the Marvel Comics Universe and a member of the Headmen",
   "isHero": false,
   "isVillain": false,
   "name": "Ruby Thursday",
@@ -36,6 +33,9 @@
     "Thursday Rubinstein"
   ],
   "species": [
+  ],
+  "teams": [
+    "Headmen"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ruby_Thursday"

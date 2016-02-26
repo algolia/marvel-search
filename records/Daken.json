@@ -6,18 +6,11 @@
     "\"Daken Akihiro\"",
     "Death"
   ],
-  "alliances": [
-    "Dark X-Men",
-    "Horsemen of Apocalypse",
-    "Dark Avengers",
-    "Brotherhood of Mutants",
-    "Horsemen of Death"
-  ],
   "authors": [
     "Daniel Way",
     "Steve Dillon"
   ],
-  "description": "Akihiro, codename Daken is a fictional comic book supervillain licensed by Marvel Comics. Daken is the mutant son of Wolverine and his deceased wife Itsu. He possesses superhuman abilities similar to his father (e.g., healing factor, retractable claws), and was a member of the Dark Avengers under the name Wolverine until the conclusion of the 2010 storyline, \"Siege\".  Daken was ranked sixth in Comics Alliance's \"50 Sexiest Male Characters in Comics\" list and is often recognized for his sex appeal.",
+  "description": "Akihiro, codename Daken is a fictional comic book supervillain licensed by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/520289a920fd9/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": true,
@@ -48,6 +41,13 @@
     "Akihiro"
   ],
   "species": [
+  ],
+  "teams": [
+    "Dark X-Men",
+    "Horsemen of Apocalypse",
+    "Dark Avengers",
+    "Brotherhood of Mutants",
+    "Horsemen of Death"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011001/daken",

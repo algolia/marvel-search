@@ -2,13 +2,11 @@
   "aliases": [
     "Nara"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Dennis Hopeless",
     "Kev Walker"
   ],
-  "description": "Nara is a fictional character from Marvel Comics.",
+  "description": "Nara is a fictional character from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Nara",
@@ -27,6 +25,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Nara_(comics)"

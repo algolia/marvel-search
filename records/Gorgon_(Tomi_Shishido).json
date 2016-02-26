@@ -4,19 +4,11 @@
     "The Gorgon",
     "Gorgon (Tomi Shishido)"
   ],
-  "alliances": [
-    "H.A.M.M.E.R.",
-    "The Hand",
-    "Dark Avengers",
-    "Hydra",
-    "Dawn of the White Light",
-    "Hand"
-  ],
   "authors": [
     "Mark Millar",
     "John Romita, Jr."
   ],
-  "description": "The Gorgon (real name Tomi Shishido) is a comic book character, a supervillain associated with the X-Men member Wolverine. He is unrelated to the Marvel character Gorgon of the Inhumans.",
+  "description": "The Gorgon (real name Tomi Shishido) is a comic book character, a supervillain associated with the X-Men member Wolverine",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/526033e7ac8ee/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -54,6 +46,14 @@
     "Tomi Shishido"
   ],
   "species": [
+  ],
+  "teams": [
+    "H.A.M.M.E.R.",
+    "The Hand",
+    "Dark Avengers",
+    "Hydra",
+    "Dawn of the White Light",
+    "Hand"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/837/gorgon",

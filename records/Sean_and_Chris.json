@@ -2,14 +2,12 @@
   "aliases": [
     "Sean and Chris"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Chris Matonti",
     "Julia Coppola",
     "J.D. Matonti"
   ],
-  "description": "Sean and Chris Daniels are a pair of characters that appear in the  NEW-GEN comic books published by Marvel Comics. Created by Chris Matonti, J.D. Matonti, and Julia Coppola, they first appeared in NEW-GEN #1 (2010). They are the twin sons of Gabriel and Thea, but were raised on Earth by foster parents.",
+  "description": "Sean and Chris Daniels are a pair of characters that appear in the  NEW-GEN comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Twins_new_gen.jpg",
   "isHero": true,
   "isVillain": false,
@@ -32,6 +30,8 @@
     "Chris Daniels"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Sean_and_Chris"

@@ -8,20 +8,11 @@
     "Moon+Knight",
     "Mr. Knight"
   ],
-  "alliances": [
-    "Marvel Knights",
-    "Heroes for Hire",
-    "Avengers",
-    "Secret Avengers",
-    "Defenders",
-    "West Coast Avengers",
-    "United States Marine Corps"
-  ],
   "authors": [
     "Doug Moench",
     "Don Perlin"
   ],
-  "description": "Moon Knight is a fictional character, a superhero who appears in comic books published by Marvel Comics. The character exists in the Marvel Universe and was created by Doug Moench and Don Perlin. He first appeared in Werewolf by Night #32 (August 1975).",
+  "description": "Moon Knight is a fictional character, a superhero who appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/52028af90e516/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -59,6 +50,15 @@
     "Marc Spector"
   ],
   "species": [
+  ],
+  "teams": [
+    "Marvel Knights",
+    "Heroes for Hire",
+    "Avengers",
+    "Secret Avengers",
+    "Defenders",
+    "West Coast Avengers",
+    "United States Marine Corps"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2851/moon_knight",

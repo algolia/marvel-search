@@ -2,11 +2,6 @@
   "aliases": [
     "War"
   ],
-  "alliances": [
-    "Horsemen of Apocalypse",
-    "The Riders of the Dark",
-    "Four Horsemen of Apocalypse"
-  ],
   "authors": [
     "Frank Tieri  Clayton Henry",
     "Walt Simonson",
@@ -37,6 +32,11 @@
     "Abraham Lincoln Kieros"
   ],
   "species": [
+  ],
+  "teams": [
+    "Horsemen of Apocalypse",
+    "The Riders of the Dark",
+    "Four Horsemen of Apocalypse"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2519/war",

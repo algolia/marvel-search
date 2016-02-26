@@ -2,13 +2,11 @@
   "aliases": [
     "Wildboys"
   ],
-  "alliances": [
-  ],
   "authors": [
     "John Romita, Jr.",
     "Ann Nocenti"
   ],
-  "description": "The Wildboys are fictional characters in the Marvel Universe.",
+  "description": "The Wildboys are fictional characters in the Marvel Universe",
   "isHero": false,
   "isVillain": true,
   "name": "Wildboys",
@@ -27,6 +25,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Wildboys_(comics)"

@@ -5,13 +5,6 @@
     "Warlock",
     "Warlock (New Mutants)"
   ],
-  "alliances": [
-    "X-Men",
-    "Fallen Angels",
-    "X-Factor",
-    "New Mutants",
-    "Excalibur"
-  ],
   "authors": [
     "Bill Sienkiewicz",
     "Chris Claremont"
@@ -46,6 +39,13 @@
     "Warlock"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "Fallen Angels",
+    "X-Factor",
+    "New Mutants",
+    "Excalibur"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2526/warlock",

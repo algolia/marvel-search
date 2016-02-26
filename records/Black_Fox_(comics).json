@@ -3,15 +3,13 @@
     "Raul Chalmers",
     "Black Fox"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Ron Frenz",
     "Tom DeFalco",
     "Roger Stern",
     "John Byrne"
   ],
-  "description": "Black Fox is a code name used by two unrelated fictional characters in Marvel Comics.",
+  "description": "Black Fox is a code name used by two unrelated fictional characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Black Fox",
@@ -32,6 +30,8 @@
     "Robert William Paine"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Fox_(comics)"

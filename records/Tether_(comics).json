@@ -2,13 +2,9 @@
   "aliases": [
     "Tether"
   ],
-  "alliances": [
-    "Morlocks",
-    "Gene Nation"
-  ],
   "authors": [
   ],
-  "description": "Tether is a fictional mutant character in the Marvel Comics Universe. Her first appearance was in Uncanny X-Men '97 Annual.",
+  "description": "Tether is a fictional mutant character in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Tether",
@@ -32,6 +28,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Morlocks",
+    "Gene Nation"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Tether_(comics)"

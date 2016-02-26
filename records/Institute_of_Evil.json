@@ -2,11 +2,9 @@
   "aliases": [
     "Institute of Evil"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "The Institute of Evil is a fictional organization, owned by Marvel Comics.",
+  "description": "The Institute of Evil is a fictional organization, owned by Marvel Comics",
   "isHero": false,
   "isVillain": true,
   "name": "Institute of Evil",
@@ -25,6 +23,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Institute_of_Evil"

@@ -3,10 +3,6 @@
     "'The Teflon Coated Man'",
     "Slyde"
   ],
-  "alliances": [
-    "Masters of Evil",
-    "Thunderbolts"
-  ],
   "authors": [
     "Tom DeFalco",
     "Sal Buscema"
@@ -36,6 +32,10 @@
     "Jalome Beacher"
   ],
   "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2147/slyde",

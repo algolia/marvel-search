@@ -2,14 +2,6 @@
   "aliases": [
     "Yellowjacket"
   ],
-  "alliances": [
-    "Avengers",
-    "Defenders",
-    "(",
-    "Hank Pym",
-    ")",
-    "Illuminati"
-  ],
   "authors": [
     "Roy Thomas",
     "John Buscema"
@@ -51,6 +43,14 @@
     "Ultron"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "Defenders",
+    "(",
+    "Hank Pym",
+    ")",
+    "Illuminati"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2636/yellowjacket",

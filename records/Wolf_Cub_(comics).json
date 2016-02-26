@@ -2,14 +2,6 @@
   "aliases": [
     "Wolf Cub"
   ],
-  "alliances": [
-    "Paragons",
-    "X-Mansion",
-    "Young X-Men",
-    "Paragons training squad",
-    "Xavier Institute",
-    "X-Men-In-Training"
-  ],
   "authors": [
     "Brian K. VaughanLee Ferguson",
     "Brian K. Vaughan",
@@ -39,6 +31,14 @@
     "Nicholas Gleason"
   ],
   "species": [
+  ],
+  "teams": [
+    "Paragons",
+    "X-Mansion",
+    "Young X-Men",
+    "Paragons training squad",
+    "Xavier Institute",
+    "X-Men-In-Training"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2590/wolf_cub",

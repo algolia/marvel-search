@@ -1,10 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "X-Cell",
-    "X-Corps"
-  ],
   "authors": [
     "Scott Lobdell",
     "Mark Waid",
@@ -36,6 +32,10 @@
     "Nils Styger"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Cell",
+    "X-Corps"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/85/abyss",

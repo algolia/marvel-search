@@ -2,14 +2,11 @@
   "aliases": [
     "Vyking"
   ],
-  "alliances": [
-    "Strikeforce: Morituri"
-  ],
   "authors": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "description": "Vyking (Harold Carl Everson) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri. The character was created by Peter B. Gillis and Brent Anderson.",
+  "description": "Vyking (Harold Carl Everson) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Vyking.jpg/250px-Vyking.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +30,9 @@
     "Harold Carl Everson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Vyking"

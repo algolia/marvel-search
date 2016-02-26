@@ -2,13 +2,11 @@
   "aliases": [
     "Lt. Ethan Warren"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Eduardo Risso",
     "Brian K. Vaughan"
   ],
-  "description": "Lt. Ethan Warren is a fictional character, a mutant supervillain in the Marvel Comics universe. He first appeared in the limited series Logan #1.",
+  "description": "Lt",
   "isHero": false,
   "isVillain": false,
   "name": "Lt. Ethan Warren",
@@ -28,6 +26,8 @@
     "Ethan Warren"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Lt._Ethan_Warren"

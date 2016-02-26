@@ -2,12 +2,9 @@
   "aliases": [
     "Jane Smythe"
   ],
-  "alliances": [
-    "Brotherhood of Mutants"
-  ],
   "authors": [
   ],
-  "description": "Jane/Dick Smythe is a fictional character, a mutant in the Marvel Comics Universe. His/Her first appearance was in The Brotherhood #8.",
+  "description": "Jane/Dick Smythe is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Jane Smythe",
@@ -27,6 +24,9 @@
     "Jane Smythe"
   ],
   "species": [
+  ],
+  "teams": [
+    "Brotherhood of Mutants"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Jane_Smythe"

@@ -6,21 +6,11 @@
     "Wanda Frank",
     "Scarlet Witch"
   ],
-  "alliances": [
-    "Avengers Unity Squad",
-    "Avengers",
-    "Lady Liberators",
-    "West Coast Avengers",
-    "Defenders",
-    "Secret Defenders",
-    "Brotherhood of Evil Mutants",
-    "Force Works"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "The Scarlet Witch (Wanda Maximoff) is a fictional comic book superhero that appears in books published by Marvel Comics. The character first appeared in X-Men #4 (March 1964) and was created by Stan Lee and Jack Kirby. She has since starred in two self-titled  limited series with husband the Vision and appears as a regular team member in superhero title the Avengers. Within the Marvel Universe, Scarlet Witch is a mutant, born with the ability to alter reality in unspecific ways. She is the twin sister of Quicksilver and the daughter of Magneto as well as the paternal half-sister of Polaris. The Scarlet Witch was ranked 97th in Wizard's \"200 Greatest Comic Book Characters of All Time\" list and  14th in Comics Buyer's Guide's \"100 Sexiest Women in Comics\" list. The character has also appeared in other Marvel-endorsed products such as animated films; arcade and video games; television series and merchandise such as action figures and trading cards. Elizabeth Olsen portrays the Scarlet Witch in a mid-credits scene in the Marvel Studios film Captain America: The Winter Soldier and will reprise the role in Avengers: Age of Ultron as a part of the Marvel Cinematic Universe.",
+  "description": "The Scarlet Witch (Wanda Maximoff) is a fictional comic book superhero that appears in books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5261a7d7c394b/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +34,16 @@
     "Wanda Maximoff"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers Unity Squad",
+    "Avengers",
+    "Lady Liberators",
+    "West Coast Avengers",
+    "Defenders",
+    "Secret Defenders",
+    "Brotherhood of Evil Mutants",
+    "Force Works"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/50/scarlet_witch",

@@ -3,18 +3,11 @@
     "Famine",
     "Ahab"
   ],
-  "alliances": [
-    "MI-13",
-    "Horsemen of Apocalypse",
-    "Hounds",
-    "Excalibur",
-    "Sentinels"
-  ],
   "authors": [
     "Jackson Guice",
     "Walt Simonson"
   ],
-  "description": "Ahab (Dr. Roderick \"Rory\" Campbell), a fictional supervillain in the Marvel Comics universe. Based upon Herman Melville's Captain Ahab but also named after Stan Lee's childhood friend Rory Campbell from Portland, Oregon, Ahab is a cyborg. Ahab's first appearance was a cameo in Fantastic Four Annual #23, as part of the \"Days of Future Present\" storyline.",
+  "description": "Ahab (Dr",
   "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/XMEN_04122005_0001.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +30,13 @@
     "Roderick \"Rory\" Campbell"
   ],
   "species": [
+  ],
+  "teams": [
+    "MI-13",
+    "Horsemen of Apocalypse",
+    "Hounds",
+    "Excalibur",
+    "Sentinels"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/662/famine",

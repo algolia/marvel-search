@@ -4,16 +4,11 @@
     "Edward Cobert",
     "Gargantua"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "Secret Empire",
-    "Masters of Evil"
-  ],
   "authors": [
     "Alan Kupperberg",
     "J.M. DeMatteis"
   ],
-  "description": "Gargantua (Edward Cobert) is a fictional character from Marvel Comics. He first appeared in Defenders #126.",
+  "description": "Gargantua (Edward Cobert) is a fictional character from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Gargantua",
@@ -34,6 +29,11 @@
     "Edward Cobert"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Secret Empire",
+    "Masters of Evil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Gargantua_(comics)"

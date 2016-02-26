@@ -4,19 +4,11 @@
     "Joe Silvermane",
     "Blackwing"
   ],
-  "alliances": [
-    "Maggia",
-    "Hydra",
-    "Masters of Evil",
-    "Skeleton Crew",
-    "Heavy Mettle",
-    "Circus of Crime"
-  ],
   "authors": [
     "Gerry Conway",
     "Don Heck"
   ],
-  "description": "Blackwing is the name of two fictional Marvel Comics supervillains and one hero.",
+  "description": "Blackwing is the name of two fictional Marvel Comics supervillains and one hero",
   "isHero": false,
   "isVillain": false,
   "name": "Blackwing",
@@ -40,6 +32,14 @@
     "Joseph Manfredi"
   ],
   "species": [
+  ],
+  "teams": [
+    "Maggia",
+    "Hydra",
+    "Masters of Evil",
+    "Skeleton Crew",
+    "Heavy Mettle",
+    "Circus of Crime"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Blackwing"

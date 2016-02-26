@@ -2,10 +2,6 @@
   "aliases": [
     "High Priestess of the Sun god"
   ],
-  "alliances": [
-    "Savage Land Mutates",
-    "Sun People"
-  ],
   "authors": [
     "Gerry Conway",
     "Barry Windsor-Smith"
@@ -33,6 +29,10 @@
     "Zala Dane"
   ],
   "species": [
+  ],
+  "teams": [
+    "Savage Land Mutates",
+    "Sun People"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2654/zaladane",

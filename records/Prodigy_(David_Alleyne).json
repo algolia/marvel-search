@@ -3,21 +3,12 @@
     "Prodigy",
     "Prodigy (David Alleyne)"
   ],
-  "alliances": [
-    "X-Mansion",
-    "New Mutants",
-    "Young Avengers",
-    "New X-Men",
-    "New Mutants training squad",
-    "Xavier Institute",
-    "X-Men-In-Training"
-  ],
   "authors": [
     "Christina Weir",
     "Keron Grant",
     "Nunzio DeFilippis"
   ],
-  "description": "Prodigy (David Alleyne) is a fictional comic book superhero appearing in books published by Marvel Comics, in particular the X-Men family of books. Prodigy is a former mutant, one of the student body of the Xavier Institute, and a member of the New X-Men squad. He was created by writers Nunzio DeFilippis and Christina Weir and artist Keron Grant, and he first appeared in New Mutants, vol. 2 #4 (October 2003).He was originally a mutant with the ability to absorb the knowledge and skills of anyone within a limited distance.  He could not control this ability and would forget his acquired knowledge once they became out of range.  He attends the Xavier Institute and becomes co-leader of the New Mutants training squad.  After the events of House of M and the ensuing \"Decimation\" of mutants, David loses his powers, but he remains at the Institute, becoming a member of the New X-Men team and utilizing his natural intellect to assist his teammates.  He later regains all the knowledge and skills he had absorbed before becoming depowered, including many of the X-Men's considerable expertise in science and physical combat, making him a stronger addition to the X-Men.  Despite being human, he remains with the X-Men as a substitute instructor and trainee for stories over a number of years.",
+  "description": "Prodigy (David Alleyne) is a fictional comic book superhero appearing in books published by Marvel Comics, in particular the X-Men family of books",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/535feca6710cd/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +35,15 @@
     "David Alleyne"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Mansion",
+    "New Mutants",
+    "Young Avengers",
+    "New X-Men",
+    "New Mutants training squad",
+    "Xavier Institute",
+    "X-Men-In-Training"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011030/prodigy",

@@ -7,16 +7,11 @@
     "The Clown",
     "Clown"
   ],
-  "alliances": [
-    "The Masters of Menace",
-    "Circus of Crime",
-    "Gamma Corps"
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "The Clown is the name of two fictional characters in Marvel Comics.",
+  "description": "The Clown is the name of two fictional characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Clown",
@@ -40,6 +35,11 @@
     "Eliot Franklin"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Masters of Menace",
+    "Circus of Crime",
+    "Gamma Corps"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Clown_(comics)"

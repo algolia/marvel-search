@@ -3,17 +3,11 @@
     "Bible John",
     "John Carik"
   ],
-  "alliances": [
-    "Cathari",
-    "occasional partner of Blade",
-    "Cathari, occasional partner of",
-    "Blade"
-  ],
   "authors": [
     "Douglas H. Wheatley",
     "Ian Edginton"
   ],
-  "description": "John Carik is a fictional character who was featured as the main supporting character in the mid-1990s American comic book series Blade: The Vampire Hunter, published by Marvel Comics. He was created by Ian Edginton and Douglas H. Wheatley.He was exclusively referred to in the solicitations for Blade the Vampire Hunter as Bible John and the use of that nickname was established in the first issue. However, the name Bible John was rarely used in other issues.He is the one of last of an order of warrior/scholars named the Cathari, who all take vows to combat the evil forces of the supernatural.",
+  "description": "John Carik is a fictional character who was featured as the main supporting character in the mid-1990s American comic book series Blade: The Vampire Hunter, published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/BladeVH4BibleJohn.jpg",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +29,12 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Cathari",
+    "occasional partner of Blade",
+    "Cathari, occasional partner of",
+    "Blade"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/John_Carik"

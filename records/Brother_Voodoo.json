@@ -12,18 +12,9 @@
     "Brother Voodoo",
     "brother+voodoo"
   ],
-  "alliances": [
-    "Heroes for Hire",
-    "Nick Fury's Howling Commandos",
-    "Uncanny Avengers",
-    "The New Avengers",
-    "Avengers Unity Division",
-    "S.H.I.E.L.D. Paranormal Containment Unit",
-    "New Avengers"
-  ],
   "authors": [
   ],
-  "description": "Brother Voodoo (Jericho Drumm) is a fictional character, a supernatural superhero in the Marvel Universe. He first appeared in Strange Tales #169 (Sept. 1973). The character was created by writer Len Wein and artist Gene Colan. Since replacing Doctor Strange as Sorcerer Supreme in The New Avengers #53 (July 2009), the character is referred to as Doctor Voodoo.",
+  "description": "Brother Voodoo (Jericho Drumm) is a fictional character, a supernatural superhero in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/BrotherVoodoo.png/225px-BrotherVoodoo.png",
   "isHero": true,
   "isVillain": false,
@@ -73,6 +64,15 @@
     "Jericho Drumm"
   ],
   "species": [
+  ],
+  "teams": [
+    "Heroes for Hire",
+    "Nick Fury's Howling Commandos",
+    "Uncanny Avengers",
+    "The New Avengers",
+    "Avengers Unity Division",
+    "S.H.I.E.L.D. Paranormal Containment Unit",
+    "New Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/3430/brother_voodoo",

@@ -2,16 +2,11 @@
   "aliases": [
     "Holocaust"
   ],
-  "alliances": [
-    "Horsemen of Apocalypse",
-    "Exiles",
-    "Dark Descendants"
-  ],
   "authors": [
     "Scott Lobdell",
     "Roger Cruz"
   ],
-  "description": "The character is not to be confused with the Milestone and DC Comics villain Holocaust. He is also not to be confused with the historical Holocaust.Holocaust is a fictional character that appears in comic books published by Marvel Comics. The character first appeared in X-Men Alpha (February 1995), and was created by Scott Lobdell and Roger Cruz; however, a character with the same name and similar appearance (without armor) was featured in \"Stryfe's Strike Files\" (January 1993), two years before X-Men Alpha was released (the information on Holocaust in Stryfe's Strike Files seems to support an understanding that both versions of the character are one and the same).",
+  "description": "The character is not to be confused with the Milestone and DC Comics villain Holocaust",
   "image": "https://upload.wikimedia.org/wikipedia/en/4/47/Holocaust_comics.jpg",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +33,11 @@
     "William Rolfson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Horsemen of Apocalypse",
+    "Exiles",
+    "Dark Descendants"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/970/holocaust",

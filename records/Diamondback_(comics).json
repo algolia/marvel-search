@@ -4,23 +4,11 @@
     "Snapdragon",
     "Diamondback"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "Fifty State Initiative",
-    "BAD Girls",
-    "Inc.",
-    "Serpent Society",
-    "Femizons",
-    "Counter Force",
-    "Avengers Resistance",
-    "The Initiative",
-    "BAD Girls, Inc."
-  ],
   "authors": [
     "Mark Gruenwald",
     "Paul Neary"
   ],
-  "description": "Diamondback is the name of four fictional characters appearing in comic books published by Marvel Comics.",
+  "description": "Diamondback is the name of four fictional characters appearing in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/526955c158ece/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +31,18 @@
     "Rachel Leighton"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Fifty State Initiative",
+    "BAD Girls",
+    "Inc.",
+    "Serpent Society",
+    "Femizons",
+    "Counter Force",
+    "Avengers Resistance",
+    "The Initiative",
+    "BAD Girls, Inc."
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009274/diamondback_rachel_leighton",

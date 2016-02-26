@@ -2,9 +2,6 @@
   "aliases": [
     "Red Queen"
   ],
-  "alliances": [
-    "Revengers"
-  ],
   "authors": [
     "Tom DeFalco",
     "Ron Frenz"
@@ -30,6 +27,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Revengers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hope_Pym"

@@ -2,15 +2,13 @@
   "aliases": [
     "Jarella"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Harlan Ellison",
     "Roy Thomas",
     "and Herb Trimpe",
     "Herb Trimpe"
   ],
-  "description": "Jarella is a fictional character that appears in publications by Marvel Comics. Along with Betty Ross Banner and Caiera, she was one of the Hulk's great loves. The character was introduced in The Incredible Hulk vol. 2 #140. Jarella was created by American science fiction author Harlan Ellison, who was the guest writer for that issue. The character was ranked 68th in Comics Buyer's Guide's \"100 Sexiest Women in Comics\" list.",
+  "description": "Jarella is a fictional character that appears in publications by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/5/54/Jarella_001.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +30,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Jarella"

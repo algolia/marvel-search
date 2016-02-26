@@ -2,14 +2,11 @@
   "aliases": [
     "Doctor Minerva"
   ],
-  "alliances": [
-    "Starforce"
-  ],
   "authors": [
     "Scott Edelman",
     "Al Milgrom"
   ],
-  "description": "Doctor Minerva is a fictional character in Marvel Comics.Doctor Minerva is a Kree geneticist. She was an enemy of the rogue Kree agent Captain Mar-Vell, and later became the partner of Captain Atlas.",
+  "description": "Doctor Minerva is a fictional character in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Doctor Minerva",
@@ -29,6 +26,9 @@
     "Minn-Erva"
   ],
   "species": [
+  ],
+  "teams": [
+    "Starforce"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Minerva"

@@ -6,20 +6,6 @@
     "'Berto",
     "Sunspot"
   ],
-  "alliances": [
-    "X-Force",
-    "Mutant Liberation Front",
-    "Fallen Angels",
-    "X-Men",
-    "Hellfire Club",
-    "X-Corporation",
-    "New Mutants",
-    "Avengers",
-    "Young X-Men",
-    "Costa International",
-    "A.I.M",
-    "New Avengers"
-  ],
   "authors": [
     "Chris Claremont",
     "Bob McLeod"
@@ -52,6 +38,20 @@
     "Roberto \"Bobby\" da Costa"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Force",
+    "Mutant Liberation Front",
+    "Fallen Angels",
+    "X-Men",
+    "Hellfire Club",
+    "X-Corporation",
+    "New Mutants",
+    "Avengers",
+    "Young X-Men",
+    "Costa International",
+    "A.I.M",
+    "New Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2252/sunspot",

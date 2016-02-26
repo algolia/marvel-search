@@ -2,14 +2,11 @@
   "aliases": [
     "Junior Juniper"
   ],
-  "alliances": [
-    "Howling Commandos"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Jonathan \"Junior\" Juniper is a fictional character in the Marvel Comics Universe. Created by Stan Lee and Jack Kirby, his first appearance was in Sgt. Fury and the Howling Commandos vol. 1 #1. He is known to be the first major character to find death in a Marvel comic and the only Howling Commando ever to die in battle.",
+  "description": "Jonathan \"Junior\" Juniper is a fictional character in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Juniper_Junior_Howling_Commandos_1.jpg/180px-Juniper_Junior_Howling_Commandos_1.jpg",
   "isHero": false,
   "isVillain": false,
@@ -30,6 +27,9 @@
     "Jonathan Juniper"
   ],
   "species": [
+  ],
+  "teams": [
+    "Howling Commandos"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Junior_Juniper"

@@ -5,9 +5,6 @@
     "Kingmaker III",
     "Kingmaker"
   ],
-  "alliances": [
-    "Hellfire Club"
-  ],
   "authors": [
     "Tom Raney",
     "Emma Rios",
@@ -43,6 +40,9 @@
     "Pryor Cashman"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellfire Club"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Kingmaker_(comics)"

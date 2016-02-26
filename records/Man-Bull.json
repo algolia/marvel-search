@@ -3,17 +3,11 @@
     "\"Bull Taurus\"",
     "Man-Bull"
   ],
-  "alliances": [
-    "Frightful Four",
-    "Death Squad",
-    "\"Death Squad\"",
-    "Vil-Anon"
-  ],
   "authors": [
     "Gary Friedrich",
     "Gerry Conway"
   ],
-  "description": "Man-Bull is a fictional character, a supervillain from Marvel Comics.",
+  "description": "Man-Bull is a fictional character, a supervillain from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Man-Bull",
@@ -39,6 +33,12 @@
     "William Taurens"
   ],
   "species": [
+  ],
+  "teams": [
+    "Frightful Four",
+    "Death Squad",
+    "\"Death Squad\"",
+    "Vil-Anon"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Man-Bull"

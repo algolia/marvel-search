@@ -5,10 +5,6 @@
     "Bird-Man I",
     "Bird-Man"
   ],
-  "alliances": [
-    "Ani-Men",
-    "Unholy Three"
-  ],
   "authors": [
     "Roger McKenzie",
     "Mary Jo Duffy",
@@ -16,7 +12,7 @@
     "Wally Wood",
     "Bob Powell"
   ],
-  "description": "Bird-Man is the name of three fictional characters in Marvel Comics. The first two have similar powers and appearances, and both appeared primarily as a member of the villain team the Ani-Men.",
+  "description": "Bird-Man is the name of three fictional characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Bird-Man",
@@ -48,6 +44,10 @@
     "Achille DiBacco"
   ],
   "species": [
+  ],
+  "teams": [
+    "Ani-Men",
+    "Unholy Three"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Bird-Man"

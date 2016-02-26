@@ -3,13 +3,6 @@
     "Arlys Tigershark",
     "Tiger Shark"
   ],
-  "alliances": [
-    "Deep Six",
-    "Masters of Evil",
-    "Defenders",
-    "Lethal Legion",
-    "Offenders"
-  ],
   "authors": [
     "Roy Thomas",
     "John Buscema"
@@ -45,6 +38,13 @@
     "Todd Arliss"
   ],
   "species": [
+  ],
+  "teams": [
+    "Deep Six",
+    "Masters of Evil",
+    "Defenders",
+    "Lethal Legion",
+    "Offenders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2375/tiger_shark",

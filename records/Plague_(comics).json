@@ -3,15 +3,11 @@
     "Pestilence",
     "Plague"
   ],
-  "alliances": [
-    "Horsemen of Apocalypse",
-    "Morlocks"
-  ],
   "authors": [
     "Paul Smith",
     "Chris Claremont"
   ],
-  "description": "Plague was a fictional character in the Marvel Comics universe. She was originally a member of the Morlocks before joining the Horsemen of Apocalypse.",
+  "description": "Plague was a fictional character in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Pestilence",
@@ -34,6 +30,10 @@
     "unrevealed"
   ],
   "species": [
+  ],
+  "teams": [
+    "Horsemen of Apocalypse",
+    "Morlocks"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1725/pestilence",

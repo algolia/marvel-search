@@ -6,16 +6,11 @@
     "Lion of Asgard",
     "Volstagg"
   ],
-  "alliances": [
-    "Warriors Three",
-    "Thor Corps",
-    "Asgard"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Volstagg is a fictional character in the Marvel Comics Universe, and is a charter member of the Warriors Three, a trio of Asgardian adventurers and supporting cast of Thor. He is known for having multiple children. These include, but are not limited to, Hilde, Rolfe and the adopted Midgardians Kevin and Mick.",
+  "description": "Volstagg is a fictional character in the Marvel Comics Universe, and is a charter member of the Warriors Three, a trio of Asgardian adventurers and supporting cast of Thor",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +34,11 @@
     "Volstagg"
   ],
   "species": [
+  ],
+  "teams": [
+    "Warriors Three",
+    "Thor Corps",
+    "Asgard"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Volstagg"

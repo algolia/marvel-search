@@ -3,19 +3,11 @@
     "Major Victory",
     "Vance Astro"
   ],
-  "alliances": [
-    "Avengers",
-    "Guardians of the Galaxy (1969 team)",
-    "United States Air Force",
-    "Guardians of the Galaxy (2008 team)",
-    "Guardians of the Galaxy",
-    "U.S. Air Force"
-  ],
   "authors": [
     "Gene Colan",
     "Arnold Drake"
   ],
-  "description": "This article is about Vance Astro, a.k.a. Major Victory, the member of the Guardians of the Galaxy; for his alternate timeline counterpart, once known as Marvel Boy and later as Justice, see Vance Astrovik; for other characters named Major Victory, see Major Victory (disambiguation).Vance Astro, born Vance Astrovik and going by the nickname Major Victory, is a fictional character, a Marvel Comics superhero from the Earth-691 timeline of the Marvel Universe.",
+  "description": "This article is about Vance Astro, a",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Vanceastro.jpg/250px-Vanceastro.jpg",
   "isHero": false,
   "isVillain": false,
@@ -45,6 +37,14 @@
     "Vance Astrovik; legally changed to Vance Astro"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "Guardians of the Galaxy (1969 team)",
+    "United States Air Force",
+    "Guardians of the Galaxy (2008 team)",
+    "Guardians of the Galaxy",
+    "U.S. Air Force"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2918/vance_astro",

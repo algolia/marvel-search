@@ -6,15 +6,12 @@
     "Myrrdin and many more",
     "Merlyn"
   ],
-  "alliances": [
-    "Captain Britain Corps"
-  ],
   "authors": [
     "Fred Kida",
     "Chris Claremont",
     "Herb Trimpe"
   ],
-  "description": "Merlyn is a fictional character in the Marvel Comics universe. He claims to be the Merlin of British Legends (see Identity) and served for many years as the Omniversal Guardian, a function his daughter Roma took from him. Though the Merlin character first appeared in earlier comics, Merlyn first appeared in Captain Britain #1 (1976).",
+  "description": "Merlyn is a fictional character in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Merlyn",
@@ -36,6 +33,9 @@
     "Merlyn"
   ],
   "species": [
+  ],
+  "teams": [
+    "Captain Britain Corps"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Merlyn_(Marvel_Comics)"

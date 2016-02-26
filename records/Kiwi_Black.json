@@ -2,13 +2,9 @@
   "aliases": [
     "Kiwi Black"
   ],
-  "alliances": [
-    "Mutant",
-    "Neyaphem"
-  ],
   "authors": [
   ],
-  "description": "Kiwi Black is a mutant from Marvel Comics. His first appearance was in Uncanny X-Men #429.",
+  "description": "Kiwi Black is a mutant from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Kiwi Black",
@@ -31,6 +27,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Mutant",
+    "Neyaphem"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Kiwi_Black"

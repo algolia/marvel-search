@@ -2,11 +2,9 @@
   "aliases": [
     "Ghost Rider 2099"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "Ghost Rider 2099 is a comic book series that was published by Marvel Comics, under the Marvel 2099 imprint, from 1994 to 1996. The series is set in the year 2099, in a dystopian possible future of the Marvel Universe, and features Kenshiro \"Zero\" Cochrane, a hacker who was killed but resurrected as the Ghost Rider — his mind controlling a powerful and well-armed robot. As with most of the Marvel 2099 titles, the protagonist was a futuristic version of a commercially successful Marvel Universe character. The series was heavily influenced by cyberpunk science fiction.",
+  "description": "Ghost Rider 2099 is a comic book series that was published by Marvel Comics, under the Marvel 2099 imprint, from 1994 to 1996",
   "image": "https://upload.wikimedia.org/wikipedia/en/7/71/Ghost_Rider_2099_2_cover.jpg",
   "isHero": false,
   "isVillain": false,
@@ -27,6 +25,8 @@
     "Kenshiro \"Zero\" Cochrane"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ghost_Rider_2099"

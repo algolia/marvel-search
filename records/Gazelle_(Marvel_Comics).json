@@ -2,14 +2,11 @@
   "aliases": [
     "Gazelle"
   ],
-  "alliances": [
-    "Salem's Seven"
-  ],
   "authors": [
     "Len Wein",
     "George Pérez"
   ],
-  "description": "Gazelle is a fictional character in the Marvel Universe.",
+  "description": "Gazelle is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Gazelle",
@@ -28,6 +25,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Salem's Seven"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Gazelle_(Marvel_Comics)"

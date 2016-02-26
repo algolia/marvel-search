@@ -2,15 +2,12 @@
   "aliases": [
     "Razorback"
   ],
-  "alliances": [
-    "Fifty State Initiative"
-  ],
   "authors": [
     "Sal Buscema",
     "Archie Goodwin",
     "Bill Mantlo"
   ],
-  "description": "Razorback (Buford Hollis) is a fictional Marvel Comics superhero. The character first appeared in shadow in Spectacular Spider-Man vol. 1 #12.  His first full appearance is in Spectacular Spider-Man vol. 1 #13.",
+  "description": "Razorback (Buford Hollis) is a fictional Marvel Comics superhero",
   "isHero": false,
   "isVillain": false,
   "name": "Razorback",
@@ -39,6 +36,9 @@
     "Buford T. Hollis"
   ],
   "species": [
+  ],
+  "teams": [
+    "Fifty State Initiative"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Razorback_(comics)"

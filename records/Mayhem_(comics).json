@@ -2,13 +2,11 @@
   "aliases": [
     "Mayhem"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Bill Mantlo",
     "Rick Leonardi"
   ],
-  "description": "Mayhem is a fictional character in the Marvel Universe.",
+  "description": "Mayhem is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Mayhem",
@@ -29,6 +27,8 @@
     "Brigid O'Rielly"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mayhem_(comics)"

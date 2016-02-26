@@ -3,15 +3,10 @@
     "Michael Wyatt",
     "Tatterdemalion"
   ],
-  "alliances": [
-    "Night Shift",
-    "Thunderbolts",
-    "Committee"
-  ],
   "authors": [
     "Tom Sutton"
   ],
-  "description": "The Tatterdemalion King is also another name for Hastur.Tatterdemalion is a fictional character and supervillain in the Marvel Comics universe, who wore gloves either coated with or secreting a chemical agent which dissolved any material composed of paper, such as dollar bills.  His appearance (and, indeed, his name, which roughly means \"ragged tramp\") suggested that he was homeless, and he was apparently insane, which presumably explains why he would want to destroy currency.",
+  "description": "The Tatterdemalion King is also another name for Hastur",
   "isHero": false,
   "isVillain": false,
   "name": "Tatterdemalion",
@@ -33,6 +28,11 @@
     "Arnold Paffenroth"
   ],
   "species": [
+  ],
+  "teams": [
+    "Night Shift",
+    "Thunderbolts",
+    "Committee"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Tatterdemalion"

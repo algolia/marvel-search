@@ -2,18 +2,13 @@
   "aliases": [
     "Inertia"
   ],
-  "alliances": [
-    "Squadron Supreme",
-    "The Squadron Supreme",
-    "America Redeemers"
-  ],
   "authors": [
     "Mark Gruenwald",
     "Paul Ryan",
     "Gary Frank",
     "J. Michael Straczynski"
   ],
-  "description": "Inertia is the name of two separate, but related superheroes from the fictional Marvel Universe.",
+  "description": "Inertia is the name of two separate, but related superheroes from the fictional Marvel Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/60/4c0030f6eab3d/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +34,11 @@
     "Edith ''Eddy'' Freiberg"
   ],
   "species": [
+  ],
+  "teams": [
+    "Squadron Supreme",
+    "The Squadron Supreme",
+    "America Redeemers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1034/inertia",

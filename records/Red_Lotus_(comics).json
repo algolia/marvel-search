@@ -2,19 +2,11 @@
   "aliases": [
     "Red Lotus"
   ],
-  "alliances": [
-    "X-Men",
-    "Chinese Triad",
-    "X-Treme X-Men",
-    "Hellfire Club",
-    "Chinese",
-    "Triad"
-  ],
   "authors": [
     "Salvador Larroca",
     "Chris Claremont"
   ],
-  "description": "Red Lotus (Paul Hark) is a fictional character, a mutant in the Marvel Comics Universe.",
+  "description": "Red Lotus (Paul Hark) is a fictional character, a mutant in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Red_Lotus_%28Paul_Hark%29.jpg/180px-Red_Lotus_%28Paul_Hark%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +35,14 @@
     "Paul Hark"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "Chinese Triad",
+    "X-Treme X-Men",
+    "Hellfire Club",
+    "Chinese",
+    "Triad"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Red_Lotus_(comics)"

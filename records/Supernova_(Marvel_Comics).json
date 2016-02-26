@@ -4,13 +4,10 @@
     "(Garthan Saal)",
     "Supernova"
   ],
-  "alliances": [
-    "Nova Corps"
-  ],
   "authors": [
     "Tom DeFalco"
   ],
-  "description": "Supernova, aka Nova Omega and (Garthan Saal), is a fictional character in Marvel Comics. He first appeared as an antagonist in Avengers vol 1 #301 in 1988.",
+  "description": "Supernova, aka Nova Omega and (Garthan Saal), is a fictional character in Marvel Comics",
   "isHero": false,
   "isVillain": true,
   "name": "Supernova",
@@ -31,6 +28,9 @@
     "Garthan Saal"
   ],
   "species": [
+  ],
+  "teams": [
+    "Nova Corps"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Supernova_(Marvel_Comics)"

@@ -6,15 +6,11 @@
     "Captain Canada",
     "Michael Pointer"
   ],
-  "alliances": [
-    "Omega Flight",
-    "Dark X-Men"
-  ],
   "authors": [
     "Steve McNiven",
     "Brian Michael Bendis"
   ],
-  "description": "Michael Pointer is a fictional character code-named Omega, a mutant in the Marvel Comics Universe. He first appeared in New Avengers #16 as the Collective before becoming a member of the Omega Flight team. He is currently a member of the Dark X-Men.",
+  "description": "Michael Pointer is a fictional character code-named Omega, a mutant in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4ce5a526259fd/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +34,10 @@
     "Michael Pointer"
   ],
   "species": [
+  ],
+  "teams": [
+    "Omega Flight",
+    "Dark X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2539/weapon_omega",

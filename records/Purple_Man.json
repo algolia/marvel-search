@@ -3,13 +3,11 @@
     "Zebediah Kilgrave",
     "Purple Man"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Joe Orlando"
   ],
-  "description": "The Purple Man (real name Dr. Zebediah Killgrave) is a fictional character, a Marvel Comics supervillain. Originally a foe of Daredevil, he was introduced in Daredevil vol. 1 #4 (October 1964). In the 2000s he emerged as an enemy of Jessica Jones and her husband Luke Cage. His body produces pheromones which allow him to verbally control the actions of others. David Tennant will play the character in A.K.A. Jessica Jones, a live-action television series set to premiere on Netflix in 2015.",
+  "description": "The Purple Man (real name Dr",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c003c7030b39/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +32,8 @@
     "Zebediah Killgrave"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1834/purple_man",

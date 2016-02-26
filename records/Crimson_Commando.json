@@ -4,18 +4,11 @@
     "Commando",
     "Crimson Commando"
   ],
-  "alliances": [
-    "Bohannan: Freedom Force",
-    "Project: Wideawake",
-    "Female: Brotherhood of Mutants",
-    "Freedom Force",
-    "Brotherhood of Mutants"
-  ],
   "authors": [
     "Chris Claremont",
     "Alan Davis"
   ],
-  "description": "Crimson Commando (Frank Bohannan) is a fictional character, a mutant in the Marvel Comics Universe.",
+  "description": "Crimson Commando (Frank Bohannan) is a fictional character, a mutant in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Uncanny215.jpg/250px-Uncanny215.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +32,13 @@
     "Frank Bohannan"
   ],
   "species": [
+  ],
+  "teams": [
+    "Bohannan: Freedom Force",
+    "Project: Wideawake",
+    "Female: Brotherhood of Mutants",
+    "Freedom Force",
+    "Brotherhood of Mutants"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Crimson_Commando"

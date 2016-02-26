@@ -2,15 +2,11 @@
   "aliases": [
     "Super Sabre"
   ],
-  "alliances": [
-    "Brotherhood of Mutants",
-    "Freedom Force"
-  ],
   "authors": [
     "Alan Davis",
     "Chris Claremont"
   ],
-  "description": "Super Sabre (Martin Fletcher) is a fictional character, a mutant in the Marvel Comics Universe. His first appearance was in Uncanny X-Men #215.",
+  "description": "Super Sabre (Martin Fletcher) is a fictional character, a mutant in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/SuperSabreDavis.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +28,10 @@
     "Martin Fletcher"
   ],
   "species": [
+  ],
+  "teams": [
+    "Brotherhood of Mutants",
+    "Freedom Force"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Super_Sabre_(comics)"

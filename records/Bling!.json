@@ -1,12 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "Chevaliers training squad",
-    "Xavier Institute",
-    "X-Men-In-Training",
-    "Jean Grey School Students"
-  ],
   "authors": [
     "Peter Milligan",
     "Salvador Larroca"
@@ -34,6 +28,12 @@
     "Roxanne \"Roxy\" Washington"
   ],
   "species": [
+  ],
+  "teams": [
+    "Chevaliers training squad",
+    "Xavier Institute",
+    "X-Men-In-Training",
+    "Jean Grey School Students"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Bling!"

@@ -7,13 +7,11 @@
     "Amos Moses",
     "Xemnu"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Xemnu the Titan, also known as Xemnu the Hulk, is a fictional character in the Marvel Comics universe. Xemnu is an alien who has attempted to conquer the Earth several times.",
+  "description": "Xemnu the Titan, also known as Xemnu the Hulk, is a fictional character in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Xemnu the Titan",
@@ -40,6 +38,8 @@
     "Xemnu"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Xemnu"

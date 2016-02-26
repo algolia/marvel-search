@@ -2,17 +2,6 @@
   "aliases": [
     "Stingray"
   ],
-  "alliances": [
-    "Defenders",
-    "Fifty State Initiative",
-    "Civil War",
-    "Heroes for Hire",
-    "Avengers",
-    "\"Secret Avengers\"",
-    "The Initiative",
-    "Astonishing Avengers",
-    "Mercs for Money"
-  ],
   "authors": [
     "Bill Everett",
     "Roy Thomas"
@@ -47,6 +36,17 @@
     "Dr. Walter Newell"
   ],
   "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "Fifty State Initiative",
+    "Civil War",
+    "Heroes for Hire",
+    "Avengers",
+    "\"Secret Avengers\"",
+    "The Initiative",
+    "Astonishing Avengers",
+    "Mercs for Money"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2225/stingray",

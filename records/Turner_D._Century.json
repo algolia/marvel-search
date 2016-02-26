@@ -2,15 +2,13 @@
   "aliases": [
     "Turner D. Century"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Steve Leialoha",
     "J. M. DeMatteis",
     "Bruce D. Patterson",
     "J.M. DeMatteis"
   ],
-  "description": "Turner D. Century is a comic book supervillain in the Marvel Comics universe.",
+  "description": "Turner D",
   "image": "https://upload.wikimedia.org/wikipedia/en/4/48/Turnerdcentury.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +32,8 @@
     "Clifford F. Michaels"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Turner_D._Century"

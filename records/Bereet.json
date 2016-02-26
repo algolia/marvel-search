@@ -2,13 +2,11 @@
   "aliases": [
     "Bereet"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Doug Moench",
     "Walt Simonson"
   ],
-  "description": "Bereet is a fictional character in the Marvel Universe.",
+  "description": "Bereet is a fictional character in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Bereet.jpg",
   "isHero": false,
   "isVillain": false,
@@ -28,6 +26,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Bereet"

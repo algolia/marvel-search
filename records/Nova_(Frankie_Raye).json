@@ -3,17 +3,12 @@
     "Nova",
     "Nova (Frankie Raye)"
   ],
-  "alliances": [
-    "Galactus",
-    "Fantastic Four",
-    "Heralds of Galactus"
-  ],
   "authors": [
     "Roy Thomas",
     "George Pérez",
     "(writer) and"
   ],
-  "description": "Nova is a fictional character that appears in comic books published by Marvel Comics.",
+  "description": "Nova is a fictional character that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/51756578d2a75/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +32,11 @@
     "Frankie Raye"
   ],
   "species": [
+  ],
+  "teams": [
+    "Galactus",
+    "Fantastic Four",
+    "Heralds of Galactus"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009477/nova",

@@ -5,11 +5,6 @@
     "Cable",
     "Stryfe"
   ],
-  "alliances": [
-    "Dark Riders",
-    "New Canaanites",
-    "Mutant Liberation Front"
-  ],
   "authors": [
     "Louise Simonson",
     "Rob Liefeld"
@@ -39,6 +34,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Dark Riders",
+    "New Canaanites",
+    "Mutant Liberation Front"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009632/stryfe",

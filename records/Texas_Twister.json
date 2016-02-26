@@ -2,16 +2,11 @@
   "aliases": [
     "Texas Twister"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "Thunderbolts",
-    "Rangers"
-  ],
   "authors": [
     "George P%C3%A9rez",
     "Roy Thomas"
   ],
-  "description": "Texas Twister is a fictional comic book superhero that appears in publications from Marvel Comics. The character was created by writer Roy Thomas and penciller George Pérez and first appeared in Fantastic Four vol.1 #177 (December 1976). He was a S.H.I.E.L.D. Super-Agent and he is a member of the Rangers, the American Southwest superhero team.",
+  "description": "Texas Twister is a fictional comic book superhero that appears in publications from Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4c0035e44d390/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +35,11 @@
     "Drew Daniels"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Thunderbolts",
+    "Rangers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2316/texas_twister",

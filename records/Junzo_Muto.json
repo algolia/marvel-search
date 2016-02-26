@@ -3,17 +3,13 @@
     "Iron Fist",
     "Junzo Muto"
   ],
-  "alliances": [
-    "The Hand",
-    "Hand"
-  ],
   "authors": [
     "by Jay Faerber",
     "Karl Kersche",
     "and Chris Renaud.",
     "Jay Faerber, Karl Kersche, and Chris Renaud."
   ],
-  "description": "Junzo Muto  is a fictional character, featured in comic books published by Marvel Comics.  He is a short, physically fit Asian with black hair, with no particularly  distinguishing features.  He first appeared in New Warriors (vol. 2) #5, published February 2000, in a story entitled \"Responsibility\".  He was created by Jay Faerber, Karl Kersche, and Chris Renaud.",
+  "description": "Junzo Muto  is a fictional character, featured in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/53176ebd40ad7/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +40,10 @@
     "Junzo Muto"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Hand",
+    "Hand"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1011318/iron_fist_bei_bang-wen/featured",

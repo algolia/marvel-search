@@ -2,17 +2,11 @@
   "aliases": [
     "Scorcher"
   ],
-  "alliances": [
-    "Sinister Sixteen",
-    "Masters of Evil",
-    "Sinister Six",
-    "teen"
-  ],
   "authors": [
     "Kurt Busiek",
     "Pat Olliffe"
   ],
-  "description": "Scorcher is a Marvel Comics supervillain.",
+  "description": "Scorcher is a Marvel Comics supervillain",
   "isHero": false,
   "isVillain": false,
   "name": "Scorcher",
@@ -38,6 +32,12 @@
     "Steven Hudak"
   ],
   "species": [
+  ],
+  "teams": [
+    "Sinister Sixteen",
+    "Masters of Evil",
+    "Sinister Six",
+    "teen"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Scorcher_(comics)"

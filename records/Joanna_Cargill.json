@@ -3,20 +3,11 @@
     "Frenzy",
     "Joanna Cargill"
   ],
-  "alliances": [
-    "Alliance of Evil",
-    "X-Mansion",
-    "Acolytes",
-    "X-Men",
-    "Femizons",
-    "Genoshan Assault X-Men",
-    "Jean Grey School"
-  ],
   "authors": [
     "Keith Pollard",
     "Bob Layton"
   ],
-  "description": "Joanna Cargill, also known as Frenzy, is a fictional character, a mutant superhuman in the Marvel Comics universe. She has been a member of supervillain groups, including the Alliance of Evil and the Acolytes, as well as the superhero team the X-Men.",
+  "description": "Joanna Cargill, also known as Frenzy, is a fictional character, a mutant superhuman in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Cargill_1.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +30,15 @@
     "Joanna Cargill"
   ],
   "species": [
+  ],
+  "teams": [
+    "Alliance of Evil",
+    "X-Mansion",
+    "Acolytes",
+    "X-Men",
+    "Femizons",
+    "Genoshan Assault X-Men",
+    "Jean Grey School"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Joanna_Cargill"

@@ -2,14 +2,11 @@
   "aliases": [
     "Living Brain"
   ],
-  "alliances": [
-    "Parker Industries"
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "The Living Brain is a fictional comic book character and robot in the Marvel Comics Universe. Created by writer Stan Lee and Steve Ditko, the character first appears in The Amazing Spider-Man #8 and has made few subsequent appearances since.A foe of the hero Spider-Man, the Living Brain was created by the fictional International Computing Machines Corporation and billed as the most intelligent computer and robot in existence, capable of solving virtually any question asked of it.",
+  "description": "The Living Brain is a fictional comic book character and robot in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/LivingBrainOriginal.png",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +40,9 @@
     "Living Brain"
   ],
   "species": [
+  ],
+  "teams": [
+    "Parker Industries"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Living_Brain"

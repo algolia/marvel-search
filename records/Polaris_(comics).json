@@ -9,27 +9,13 @@
     "Polaris",
     "Queen of the Mutants"
   ],
-  "alliances": [
-    "X-Men",
-    "Starjammers",
-    "Horsemen of Apocalypse",
-    "All-New X-Factor",
-    "X-Factor Investigations",
-    "X-Factor",
-    "Defenders",
-    "Apocalypse: The Twelve",
-    "Acolytes",
-    "X-Factor (Serval Industries)",
-    "\"Defenders for a Day\"",
-    "The Twelve"
-  ],
   "authors": [
     "Jim Steranko",
     "Werner Roth",
     "Arnold Drake",
     "Don Heck"
   ],
-  "description": "Polaris (Lorna Dane) is a fictional comic book character and superhero appearing in books published by Marvel Comics, in particular the X-Men family of books. Created by Arnold Drake, Don Heck, Werner Roth and Jim Steranko, Polaris first appeared in The X-Men #49 (October, 1968). For most of her publication history, she has been a superheroine, and a member of either the X-Men or one of its sister groups, such as X-Factor, though from 1987 to 1989, she was possessed by a villainous telepathic entity, and functioned as the supervillain Malice.A mutant, Polaris can control magnetism, much like Magneto, whom she long suspected to be her biological father, a fact confirmed in Uncanny X-Men #431 (2003), making her also the half sister of the Scarlet Witch and Quicksilver. She has also had a complicated long term relationship with the X-Man Havok, to whom she was engaged.",
+  "description": "Polaris (Lorna Dane) is a fictional comic book character and superhero appearing in books published by Marvel Comics, in particular the X-Men family of books",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5274122562b05/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -60,6 +46,20 @@
     "Lorna Sally Dane"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "Starjammers",
+    "Horsemen of Apocalypse",
+    "All-New X-Factor",
+    "X-Factor Investigations",
+    "X-Factor",
+    "Defenders",
+    "Apocalypse: The Twelve",
+    "Acolytes",
+    "X-Factor (Serval Industries)",
+    "\"Defenders for a Day\"",
+    "The Twelve"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1771/polaris",

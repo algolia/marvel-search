@@ -3,17 +3,11 @@
     "La Espirita",
     "Firebird"
   ],
-  "alliances": [
-    "Avengers",
-    "Rangers",
-    "West Coast Avengers",
-    "Avengers West Coast"
-  ],
   "authors": [
     "Sal Buscema",
     "Bill Mantlo"
   ],
-  "description": "Firebird (Bonita Juarez), is a fictional pyrokinetic character that has appeared in various comic book series published by Marvel Comics. A former member of the Avengers and a member of the Rangers, she exists in Marvel's main shared universe, known as the Marvel Universe. Firebird is a notable Latina superheroine.",
+  "description": "Firebird (Bonita Juarez), is a fictional pyrokinetic character that has appeared in various comic book series published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c0035b0a7de0/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -42,6 +36,12 @@
     "Bonita Juarez"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "Rangers",
+    "West Coast Avengers",
+    "Avengers West Coast"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/693/firebird",

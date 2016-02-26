@@ -2,13 +2,11 @@
   "aliases": [
     "Beetle"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Carl Burgos",
     "Stan Lee"
   ],
-  "description": "The Beetle is the name used by multiple comic book characters owned by Marvel Comics. It is also the name of the three versions of high tech armor used by five separate characters.",
+  "description": "The Beetle is the name used by multiple comic book characters owned by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Spider-Man_Web_of_Doom_3.jpg/250px-Spider-Man_Web_of_Doom_3.jpg",
   "isHero": true,
   "isVillain": true,
@@ -28,6 +26,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/254/beetle",

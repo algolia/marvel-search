@@ -2,15 +2,11 @@
   "aliases": [
     "Lifeguard"
   ],
-  "alliances": [
-    "X-Men",
-    "X-Corporation"
-  ],
   "authors": [
     "Chris Claremont",
     "Salvador Larroca"
   ],
-  "description": "Lifeguard (Heather Cameron) is a comic book character, a superhero in the Marvel Comics universe, associated with the X-Men. Created by writer Chris Claremont and artist Salvador Larroca, she first appeared in X-Treme X-Men #6 (December 2001).She is a mutant, gaining whatever superhuman abilities are needed in a life-threatening situation. She and her brother Slipstream were briefly members of the segment of X-Men featured in the series X-Treme X-Men.",
+  "description": "Lifeguard (Heather Cameron) is a comic book character, a superhero in the Marvel Comics universe, associated with the X-Men",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Lifeguard.PNG/200px-Lifeguard.PNG",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +28,10 @@
     "Heather Cameron"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "X-Corporation"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1241/lifeguard",

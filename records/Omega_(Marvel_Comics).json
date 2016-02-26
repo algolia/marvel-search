@@ -2,13 +2,11 @@
   "aliases": [
     "Omega"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Roy Thomas",
     "Ross Andru"
   ],
-  "description": "Omega is a fictional character in the Marvel Universe.",
+  "description": "Omega is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Omega",
@@ -27,6 +25,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Omega_(Marvel_Comics)"

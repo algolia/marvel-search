@@ -4,15 +4,11 @@
     "Hiroim the Last Oldstrong",
     "Hiroim"
   ],
-  "alliances": [
-    "Warbound",
-    "Shadow Guard"
-  ],
   "authors": [
     "Greg Pak",
     "Carlo Pagulayan"
   ],
-  "description": "Hiroim is a fictional, comic-book character who appears in books published by Marvel Comics, usually as a supporting character in Hulk books. He first appeared in Incredible Hulk vol. 2, #92.",
+  "description": "Hiroim is a fictional, comic-book character who appears in books published by Marvel Comics, usually as a supporting character in Hulk books",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/528d341abd6d9/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +32,10 @@
     "Hiroim the Oldstrong"
   ],
   "species": [
+  ],
+  "teams": [
+    "Warbound",
+    "Shadow Guard"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/962/hiroim",

@@ -3,14 +3,11 @@
     "Tempest",
     "Flashfire"
   ],
-  "alliances": [
-    "Imperial Guard"
-  ],
   "authors": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "description": "Flashfire is a fictional character in the Marvel Universe.Flashfire, also known as Tempest, is a long-time member of the Shi'ar Imperial Guard.  He can generate and fire powerful bolts of lightning.",
+  "description": "Flashfire is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Tempest",
@@ -31,6 +28,9 @@
     "Grannz"
   ],
   "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2305/tempest",

@@ -1,10 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "Shi'ar Imperium",
-    "Secret Order"
-  ],
   "authors": [
     "Chris Claremont",
     "Dave Cockrum"
@@ -34,6 +30,10 @@
     "D'Ken Neramari"
   ],
   "species": [
+  ],
+  "teams": [
+    "Shi'ar Imperium",
+    "Secret Order"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/D%27Ken"

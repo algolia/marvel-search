@@ -6,16 +6,11 @@
     "Man-Beast",
     "Hate Monger"
   ],
-  "alliances": [
-    "New Men",
-    "Legion of Light",
-    "United Nations"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "The Man-Beast is a fictional character who appears in the comic books published by Marvel Comics. The character first appears in Thor #135 (Dec. 1966) and was created by Stan Lee and Jack Kirby.",
+  "description": "The Man-Beast is a fictional character who appears in the comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c0035ea3151e/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -47,6 +42,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "New Men",
+    "Legion of Light",
+    "United Nations"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/913/hate-monger",

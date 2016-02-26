@@ -2,14 +2,11 @@
   "aliases": [
     "Hit-Monkey"
   ],
-  "alliances": [
-    "S.T.A.K.E"
-  ],
   "authors": [
     "Dalibor Talijic",
     "Daniel Way"
   ],
-  "description": "Hit-Monkey is a fictional comic book character appearing in books published by Marvel Comics. He first appeared in Hit-Monkey #1, released in February 2010 (with a cover date of April 2010), created by Daniel Way and Dalibor Talijić.",
+  "description": "Hit-Monkey is a fictional comic book character appearing in books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Hitmonkey1.jpg/250px-Hitmonkey1.jpg",
   "isHero": true,
   "isVillain": false,
@@ -33,6 +30,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "S.T.A.K.E"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hit-Monkey"

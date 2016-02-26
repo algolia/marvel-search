@@ -3,15 +3,6 @@
     "Wasp",
     "Winsome Wasp"
   ],
-  "alliances": [
-    "Uncanny Avengers",
-    "West Coast Avengers",
-    "Avengers",
-    "The Mighty Avengers",
-    "Lady Liberators",
-    "Avengers Unity Squad",
-    "Mighty Avengers"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
@@ -42,6 +33,15 @@
     "Janet van Dyne"
   ],
   "species": [
+  ],
+  "teams": [
+    "Uncanny Avengers",
+    "West Coast Avengers",
+    "Avengers",
+    "The Mighty Avengers",
+    "Lady Liberators",
+    "Avengers Unity Squad",
+    "Mighty Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2535/wasp",

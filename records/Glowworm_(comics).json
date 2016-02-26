@@ -4,9 +4,6 @@
     "White Devil",
     "Glowworm"
   ],
-  "alliances": [
-    "Morlocks"
-  ],
   "authors": [
     "Jackson Guise",
     "Jerry Acerno",
@@ -16,7 +13,7 @@
     "Jim Owsley",
     "Mark Bright"
   ],
-  "description": "Glowworm is the name of two unrelated fictional characters from Marvel Comics. Though created only a few months apart, they have little in common except the name.",
+  "description": "Glowworm is the name of two unrelated fictional characters from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Glowworm",
@@ -41,6 +38,9 @@
     "William Blake"
   ],
   "species": [
+  ],
+  "teams": [
+    "Morlocks"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Glowworm_(comics)"

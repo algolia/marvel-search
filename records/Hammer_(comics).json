@@ -2,19 +2,13 @@
   "aliases": [
     "Hammer"
   ],
-  "alliances": [
-    "none",
-    "Six Pack/Wild Pack",
-    "Six Pack",
-    "/Wild Pack"
-  ],
   "authors": [
     "Fabian Nicieza",
     "John Romita, Jr.",
     "Jim Cheung",
     "Jorge Gonzalez"
   ],
-  "description": "See also Hammer and Anvil (comics), Justin Hammer and H.A.M.M.E.R..Hammer is the name of various different characters in the Marvel Comics universe.",
+  "description": "See also Hammer and Anvil (comics), Justin Hammer and H",
   "isHero": false,
   "isVillain": false,
   "name": "Hammer",
@@ -39,6 +33,12 @@
     "Eisenhower Canty"
   ],
   "species": [
+  ],
+  "teams": [
+    "none",
+    "Six Pack/Wild Pack",
+    "Six Pack",
+    "/Wild Pack"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hammer_(comics)"

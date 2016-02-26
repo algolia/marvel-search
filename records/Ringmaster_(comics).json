@@ -4,14 +4,11 @@
     "The Ringmaster",
     "Ringmaster"
   ],
-  "alliances": [
-    "Circus of Crime"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "The Ringmaster is a fictional character, a supervillain in Marvel Comics. The best known Ringmaster in the Marvel Universe is Maynard Tiboldt who debuted in Hulk #3.",
+  "description": "The Ringmaster is a fictional character, a supervillain in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Ringmaster.png/201px-Ringmaster.png",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
     "Maynard Tiboldt"
   ],
   "species": [
+  ],
+  "teams": [
+    "Circus of Crime"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ringmaster_(comics)"

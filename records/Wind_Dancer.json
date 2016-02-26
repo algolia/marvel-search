@@ -3,11 +3,6 @@
     "Wind Dancer",
     "Renascence"
   ],
-  "alliances": [
-    "New Mutants",
-    "New Warriors",
-    "New Mutants training squad"
-  ],
   "authors": [
     "Nunzio DeFilippis",
     "Christina Weir",
@@ -45,6 +40,11 @@
     "Sofia Mantega"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Mutants",
+    "New Warriors",
+    "New Mutants training squad"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2577/wind_dancer",

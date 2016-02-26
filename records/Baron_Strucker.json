@@ -3,15 +3,11 @@
     "* Supreme Hydra\n* Grand Imperator of THEM\n* Don Guy Antonio Caballero\n* Emir Ali Bey\n* John Bronson\n* Sagittarius",
     "Baron Strucker"
   ],
-  "alliances": [
-    "Hydra",
-    "Great Wheel"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Baron Wolfgang von Strucker is a fictional character, a supervillain that appears in comic books published by Marvel Comics.Baron Strucker, a former Nazi officer, is one of the leaders of Hydra and an enemy of S.H.I.E.L.D., the Avengers, and the interests of the United States of America and of the free world in general. He has been physically augmented to be nearly ageless. He has been seemingly killed in the past only to return to plague the world with schemes of world domination and genocide, time and time again. Campbell Lane played him in the 1998 TV-movie Nick Fury: Agent of S.H.I.E.L.D., while Thomas Kretschmann portrays the character in a mid-credits scene in the Marvel Studios film Captain America: The Winter Soldier and the upcoming Avengers: Age of Ultron as a part of the Marvel Cinematic Universe.",
+  "description": "Baron Wolfgang von Strucker is a fictional character, a supervillain that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c0041fb5a90d/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -46,6 +42,10 @@
     "Wolfgang von Strucker"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hydra",
+    "Great Wheel"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/3240/baron_strucker",

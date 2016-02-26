@@ -3,14 +3,11 @@
     "Kleinstock Brothers",
     "Kleinstocks"
   ],
-  "alliances": [
-    "Acolytes"
-  ],
   "authors": [
     "Brandon Peterson",
     "Scott Lobdell"
   ],
-  "description": "The Kleinstocks were a set of triplets that are comic book fictional characters, and are mutant supervillains, in the Marvel Comics universe. The three brothers' names are Harlan, Sven and Eric, and they were created by Scott Lobdell and Brandon Peterson and first appeared in Uncanny X-Men #298 (March 1993).",
+  "description": "The Kleinstocks were a set of triplets that are comic book fictional characters, and are mutant supervillains, in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Kleinstock Brothers",
@@ -41,6 +38,9 @@
     "and Eric Kleinstock"
   ],
   "species": [
+  ],
+  "teams": [
+    "Acolytes"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Kleinstocks"

@@ -3,14 +3,11 @@
     "Nightshade",
     "Nightside"
   ],
-  "alliances": [
-    "Imperial Guard"
-  ],
   "authors": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "description": "Nightside is a fictional character in the Marvel Universe.",
+  "description": "Nightside is a fictional character in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Nightsidewiki.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1606/nightshade",

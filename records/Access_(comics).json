@@ -2,11 +2,9 @@
   "aliases": [
     "Access"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "Access (Axel Asher) is a fictional character owned by both DC Comics and Marvel Comics. He made his first appearance in DC vs. Marvel #1 (March 1996), a special crossover between the two companies. He was created as both a way to explain the events of the story as well as a means to enable future intercompany crossovers.",
+  "description": "Access (Axel Asher) is a fictional character owned by both DC Comics and Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/8/8c/DCM_AllAccess.jpg",
   "isHero": true,
   "isVillain": false,
@@ -31,6 +29,8 @@
     "Axel Asher"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Access_(comics)"

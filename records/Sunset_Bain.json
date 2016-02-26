@@ -3,14 +3,11 @@
     "Madame Menace",
     "Sunset Bain"
   ],
-  "alliances": [
-    "New Enforcers"
-  ],
   "authors": [
     "Steve Ditko",
     "Tom DeFalco"
   ],
-  "description": "Sunset Bain is a fictional villainess in the Marvel Comics universe. She is a shady business-woman who occasionally masquerades as Madame Menace. Although very technologically adept, she personally does not have any super-powers. Publicly she is the CEO of Baintronics.  Privately she maintains her wealth through black market weaponry deals and other shady practices.  She primarily is an adversary of Machine Man and Iron Man.Sunset Bain is an underworld armorer who supplies sophisticated weaponry to an elite clientele of master criminals, terrorists, and revolutionaries.",
+  "description": "Sunset Bain is a fictional villainess in the Marvel Comics universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4c003ab9ed7d6/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +30,9 @@
     "Sunset Bain"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Enforcers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1312/sunset_bain",

@@ -4,11 +4,6 @@
     "Grand Director",
     "Captain America"
   ],
-  "alliances": [
-    "National Force",
-    "Federal government of the United States",
-    "United States Government"
-  ],
   "authors": [
     "as \"The Grand Director\":",
     "Jim Shooter",
@@ -17,7 +12,7 @@
     "Steve Englehart",
     "Sal Buscema"
   ],
-  "description": "The Grand Director (William Burnside), also known as the Captain America of the 1950s, is a fictional character in the Marvel Comics Universe. He was created by writer Steve Englehart and artist Sal Buscema in Captain America #153-156 (September–December, 1972) as having been a specifically different Captain America, the Captain America introduced in 1953 in Young Men comics. In a later storyline, the character was given a new white costume and the title \"The Grand Director\" by Buscema and writers Roger McKenzie and Jim Shooter in Captain America #232 (April, 1979) and altered to be a villain, leader of a group of White Supremacists that included a brainwashed Sharon Carter. The character was killed off at the end of that storyline, and not used again until Captain America (Vol. 5) #42, returning to being active as the \"Captain America of the 1950s\" separate from the then-current Captain America, James \"Bucky\" Barnes.",
+  "description": "The Grand Director (William Burnside), also known as the Captain America of the 1950s, is a fictional character in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Grand_Director.jpg/250px-Grand_Director.jpg",
   "isHero": false,
   "isVillain": false,
@@ -52,6 +47,11 @@
     "William Burnside; legally changed to Steven \"Steve\" Rogers"
   ],
   "species": [
+  ],
+  "teams": [
+    "National Force",
+    "Federal government of the United States",
+    "United States Government"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Grand_Director"

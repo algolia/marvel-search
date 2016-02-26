@@ -9,13 +9,6 @@
     "\"",
     "Jean DeWolff"
   ],
-  "alliances": [
-    "'",
-    "Kree Underground",
-    "New York City Police Department",
-    "Nameless Kree",
-    "Genoshan Assault X-Men"
-  ],
   "authors": [
     "Javier Grillo-Marxuach",
     "Kyle Hotz",
@@ -26,7 +19,7 @@
     "Scott Lobdell",
     "Sal Buscema"
   ],
-  "description": "Wraith is the codename of four unrelated fictional characters from the Marvel Comics universe. It is also the surname of the character John Wraith.",
+  "description": "Wraith is the codename of four unrelated fictional characters from the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Wraith.jpg/250px-Wraith.jpg",
   "isHero": false,
   "isVillain": false,
@@ -72,6 +65,13 @@
     "Zak-Del"
   ],
   "species": [
+  ],
+  "teams": [
+    "'",
+    "Kree Underground",
+    "New York City Police Department",
+    "Nameless Kree",
+    "Genoshan Assault X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2596/wraith",

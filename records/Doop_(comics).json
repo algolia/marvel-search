@@ -2,17 +2,11 @@
   "aliases": [
     "Doop"
   ],
-  "alliances": [
-    "X-Force",
-    "X-Statix",
-    "X-Mansion",
-    "Jean Grey School"
-  ],
   "authors": [
     "Mike Allred",
     "Peter Milligan"
   ],
-  "description": "Doop is a fictional character in the Marvel Universe, created by writer Peter Milligan and artist Mike Allred. He made his debut in X-Force vol. 1 #116. He is a green, floating spheroid creature of unknown origins who speaks in a \"language\" all his own (represented in text by a special font).",
+  "description": "Doop is a fictional character in the Marvel Universe, created by writer Peter Milligan and artist Mike Allred",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4c7c646b68a2c/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +37,12 @@
     "Doop"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Force",
+    "X-Statix",
+    "X-Mansion",
+    "Jean Grey School"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/571/doop",

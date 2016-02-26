@@ -4,14 +4,6 @@
     "Human Torch",
     "Toro"
   ],
-  "alliances": [
-    "All-Winners Squad",
-    "Legion of the Unliving",
-    "Young Allies",
-    "Invaders",
-    "Kid Commandos",
-    "The Invaders"
-  ],
   "authors": [
     "Carl Burgos"
   ],
@@ -41,6 +33,14 @@
     "Thomas Raymond"
   ],
   "species": [
+  ],
+  "teams": [
+    "All-Winners Squad",
+    "Legion of the Unliving",
+    "Young Allies",
+    "Invaders",
+    "Kid Commandos",
+    "The Invaders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2398/toro",

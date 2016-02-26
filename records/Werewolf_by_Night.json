@@ -4,11 +4,6 @@
     "Werewolf By Night",
     "Jack Russell (adopted name)"
   ],
-  "alliances": [
-    "Midnight Sons",
-    "Legion of Monsters",
-    "Night Shift"
-  ],
   "authors": [
     "Roy Thomas",
     "Gerry Conway",
@@ -47,6 +42,11 @@
     "Jacob Russoff (given name)"
   ],
   "species": [
+  ],
+  "teams": [
+    "Midnight Sons",
+    "Legion of Monsters",
+    "Night Shift"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2547/werewolf_by_night",

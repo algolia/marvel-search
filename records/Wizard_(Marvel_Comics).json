@@ -5,16 +5,12 @@
     "The Wingless Wizard",
     "Wizard"
   ],
-  "alliances": [
-    "Intelligencia",
-    "Frightful Four"
-  ],
   "authors": [
     "Larry Lieber",
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "The Wizard (Bentley Wittman), also known as the Wingless Wizard, is a fictional character, a comic book supervillain in the Marvel Comics universe. He first appeared as an enemy for the Human Torch.",
+  "description": "The Wizard (Bentley Wittman), also known as the Wingless Wizard, is a fictional character, a comic book supervillain in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/The_wizard.jpg/250px-The_wizard.jpg",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +39,10 @@
     "Bentley Wittman"
   ],
   "species": [
+  ],
+  "teams": [
+    "Intelligencia",
+    "Frightful Four"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Wizard_(Marvel_Comics)"

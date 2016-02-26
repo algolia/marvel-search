@@ -3,15 +3,6 @@
     "Winston",
     "Pete Wisdom"
   ],
-  "alliances": [
-    "Black Air",
-    "Secret Intelligence Service",
-    "Excalibur",
-    "X-Force",
-    "MI-13",
-    "MI6",
-    "New Excalibur"
-  ],
   "authors": [
     "Ken Lashley",
     "Warren Ellis",
@@ -42,6 +33,15 @@
     "Peter Paul \"Pete\" Wisdom"
   ],
   "species": [
+  ],
+  "teams": [
+    "Black Air",
+    "Secret Intelligence Service",
+    "Excalibur",
+    "X-Force",
+    "MI-13",
+    "MI6",
+    "New Excalibur"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2825/pete_wisdom",

@@ -2,13 +2,11 @@
   "aliases": [
     "Diamanda Nero"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Pascal Alixe",
     "John Francis Moore"
   ],
-  "description": "Diamanda Nero is a fictional character, a Marvel Comics supervillain.",
+  "description": "Diamanda Nero is a fictional character, a Marvel Comics supervillain",
   "isHero": false,
   "isVillain": false,
   "name": "Diamanda Nero",
@@ -37,6 +35,8 @@
     "Diamanda Nero"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Diamanda_Nero"

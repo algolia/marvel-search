@@ -5,20 +5,12 @@
     "Eldon",
     "Rage"
   ],
-  "alliances": [
-    "Counter Force",
-    "Avengers",
-    "Psionex",
-    "New Warriors",
-    "Avengers: The Initiative",
-    "The Initiative"
-  ],
   "authors": [
     "Larry Hama",
     "Paul Ryan (cartoonist)",
     "Paul Ryan"
   ],
-  "description": "Rage (Elvin Daryl Haliday, sometimes misspelled \"Holliday\", first name sometimes given as \"Eldon\") is a fictional character, a comic book superhero in the Marvel Comics universe. He is African American. Rage was created by Larry Hama and Paul Ryan in The Avengers vol. 1 #326 (November 1990). Rage has been a member of the Avengers and the New Warriors, and appeared in the pages of The Avengers, New Warriors, Night Thrasher, and Avengers: The Initiative.",
+  "description": "Rage (Elvin Daryl Haliday, sometimes misspelled \"Holliday\", first name sometimes given as \"Eldon\") is a fictional character, a comic book superhero in the Marvel Comics universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4c0035e72e3d8/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -47,6 +39,14 @@
     "Elvin Daryl Haliday"
   ],
   "species": [
+  ],
+  "teams": [
+    "Counter Force",
+    "Avengers",
+    "Psionex",
+    "New Warriors",
+    "Avengers: The Initiative",
+    "The Initiative"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1857/rage",

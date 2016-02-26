@@ -4,15 +4,11 @@
     "The Man Called Cannonball",
     "Human Cannonball"
   ],
-  "alliances": [
-    "Circus of Crime",
-    "The Masters of Menace"
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "The Human Cannonball is a fictional character, a supervillain in the Marvel Universe.",
+  "description": "The Human Cannonball is a fictional character, a supervillain in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Human Cannonball",
@@ -35,6 +31,10 @@
     "Jack Pulver"
   ],
   "species": [
+  ],
+  "teams": [
+    "Circus of Crime",
+    "The Masters of Menace"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/989/human_cannonball",

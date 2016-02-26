@@ -2,15 +2,11 @@
   "aliases": [
     "Ghost"
   ],
-  "alliances": [
-    "Thunderbolts",
-    "Roxxon Oil"
-  ],
   "authors": [
     "Bob Layton",
     "David Michelinie"
   ],
-  "description": "The Ghost is a fictional character appearing in comic books set in the Marvel Universe. He originated as one of Iron Man's foes, and appeared as a member of the Thunderbolts during the \"Dark Reign\" and \"Heroic Age\" eras.",
+  "description": "The Ghost is a fictional character appearing in comic books set in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Ghost_%28Marvel_character%29.jpg/250px-Ghost_%28Marvel_character%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +34,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Roxxon Oil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ghost_(Marvel_Comics)"

@@ -2,14 +2,11 @@
   "aliases": [
     "Capricorn"
   ],
-  "alliances": [
-    "Zodiac"
-  ],
   "authors": [
     "Roy Thomas",
     "Sal Buscema"
   ],
-  "description": "Capricorn is the name of different characters in Marvel Comics.",
+  "description": "Capricorn is the name of different characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Capricorn",
@@ -29,6 +26,9 @@
     "Willard Weir"
   ],
   "species": [
+  ],
+  "teams": [
+    "Zodiac"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Capricorn_(comics)"

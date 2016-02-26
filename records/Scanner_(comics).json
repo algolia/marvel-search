@@ -3,9 +3,6 @@
     "Screener",
     "Scanner"
   ],
-  "alliances": [
-    "Acolytes"
-  ],
   "authors": [
     "Scott Lobdell",
     "John Romita, Jr.",
@@ -34,6 +31,9 @@
     "Sarah Ryall"
   ],
   "species": [
+  ],
+  "teams": [
+    "Acolytes"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Scanner_(comics)"

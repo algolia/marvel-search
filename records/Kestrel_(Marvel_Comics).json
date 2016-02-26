@@ -6,12 +6,6 @@
     "Expediter",
     "Kestrel"
   ],
-  "alliances": [
-    "Team X",
-    "Alpha Flight",
-    "S.H.I.E.L.D.",
-    "Weapon X"
-  ],
   "authors": [
     "Larry Hama",
     "Mark Millar",
@@ -43,6 +37,12 @@
     "John Wraith"
   ],
   "species": [
+  ],
+  "teams": [
+    "Team X",
+    "Alpha Flight",
+    "S.H.I.E.L.D.",
+    "Weapon X"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2493/vindicator",

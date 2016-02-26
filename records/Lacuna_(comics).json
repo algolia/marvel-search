@@ -2,14 +2,11 @@
   "aliases": [
     "Lacuna"
   ],
-  "alliances": [
-    "X-Statix"
-  ],
   "authors": [
     "Mike Allred",
     "Peter Milligan"
   ],
-  "description": "Lacuna (Woodstock Schumaker) is a fictional character, a mutant and the occasional ally of the superhero group X-Statix.",
+  "description": "Lacuna (Woodstock Schumaker) is a fictional character, a mutant and the occasional ally of the superhero group X-Statix",
   "isHero": false,
   "isVillain": false,
   "name": "Lacuna",
@@ -30,6 +27,9 @@
     "Woodstock Schumaker"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Statix"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Lacuna_(comics)"

@@ -5,17 +5,12 @@
     "Butterball",
     "Butterball (Emery Schaub)"
   ],
-  "alliances": [
-    "Avengers Academy",
-    "Fifty State Initiative",
-    "Initiative"
-  ],
   "authors": [
     "Christos Gage",
     "Steve Uy",
     "Christos N. Gage"
   ],
-  "description": "Butterball(Emery Schaub) is a fictional character of the Marvel Universe. He was created by Christos N. Gage and Steve Uy. Schaub's first appearance is in Avengers: The Initiative #13 (2008).",
+  "description": "Butterball(Emery Schaub) is a fictional character of the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Butterball.jpg/250px-Butterball.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +34,11 @@
     "Emery Schaub"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers Academy",
+    "Fifty State Initiative",
+    "Initiative"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Butterball_(Emery_Schaub)"

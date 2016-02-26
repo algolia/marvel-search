@@ -4,13 +4,6 @@
     "Agent R-1",
     "Grizzly"
   ],
-  "alliances": [
-    "Thunderbolts",
-    "Six Pack",
-    "Legion of Losers",
-    "Weapon P.R.I.M.E.",
-    "Advanced Idea Mechanics"
-  ],
   "authors": [
     "Joe Sinnott",
     "Gene Colan",
@@ -21,7 +14,7 @@
     "Stan Lee",
     "Gerry Conway"
   ],
-  "description": "Grizzly is the name of four unrelated fictional characters from the Marvel Comics universe. One is a wild west villain, one is an A.I.M. Agent, one is a foe of Spider-Man, and the fourth is a mutant who was a member of Six Pack.",
+  "description": "Grizzly is the name of four unrelated fictional characters from the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Amazing_Spider-Man_139.jpg/250px-Amazing_Spider-Man_139.jpg",
   "isHero": false,
   "isVillain": false,
@@ -61,6 +54,13 @@
     "Unrevealed"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Six Pack",
+    "Legion of Losers",
+    "Weapon P.R.I.M.E.",
+    "Advanced Idea Mechanics"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Grizzly_(comics)"

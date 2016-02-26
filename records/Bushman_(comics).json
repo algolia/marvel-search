@@ -3,12 +3,10 @@
     "Roald Bushman",
     "Bushman"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Doug Moench"
   ],
-  "description": "Raoul Bushman is a fictional character appearing in the Marvel Universe. He is the oldest nemesis of Marc Spector, whose secret identity is Moon Knight. He is interchangeably also known as Roald Bushman.",
+  "description": "Raoul Bushman is a fictional character appearing in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/MOONKN4.jpg/250px-MOONKN4.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +30,8 @@
     "Raoul Bushman"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Bushman_(comics)"

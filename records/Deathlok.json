@@ -2,19 +2,6 @@
   "aliases": [
     "Deathlok"
   ],
-  "alliances": [
-    "X-Force",
-    "S.H.I.E.L.D.",
-    "Defenders",
-    "Central Intelligence Agency",
-    "X-Mansion",
-    "Wild Pack",
-    "M-Tech",
-    "United States Army",
-    "CIA",
-    "Secret Defenders",
-    "Jean Grey School Staff"
-  ],
   "authors": [
     "Hayes:",
     "Manning:",
@@ -59,6 +46,19 @@
     "John Kelly"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Force",
+    "S.H.I.E.L.D.",
+    "Defenders",
+    "Central Intelligence Agency",
+    "X-Mansion",
+    "Wild Pack",
+    "M-Tech",
+    "United States Army",
+    "CIA",
+    "Secret Defenders",
+    "Jean Grey School Staff"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/527/deathlok",

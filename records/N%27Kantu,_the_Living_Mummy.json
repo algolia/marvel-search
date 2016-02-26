@@ -3,11 +3,6 @@
     "The Mummy",
     "Captain Ace Bandages"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.'s Paranormal Containment Unit",
-    "Shock Troop",
-    "Legion of Monsters"
-  ],
   "authors": [
     "Steve Gerber",
     "Rich Buckler"
@@ -36,6 +31,11 @@
     "N'Kantu"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.'s Paranormal Containment Unit",
+    "Shock Troop",
+    "Legion of Monsters"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2863/living_mummy",

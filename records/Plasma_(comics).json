@@ -3,13 +3,11 @@
     "Tracker",
     "Plasma"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Howard Mackie",
     "Rich Buckler"
   ],
-  "description": "Plasma is a fictional character in the Marvel Universe.",
+  "description": "Plasma is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Plasma",
@@ -29,6 +27,8 @@
     "Leila O'Toole"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Plasma_(comics)"

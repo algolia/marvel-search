@@ -2,15 +2,11 @@
   "aliases": [
     "Shooting Star"
   ],
-  "alliances": [
-    "Rangers",
-    "The Rangers"
-  ],
   "authors": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "description": "Shooting Star is a comic book superheroine appearing in Marvel Comics. The character was created by writer Bill Mantlo and penciller Sal Buscema and first appeared in Incredible Hulk vol.1 #265 (November 1981). She is a member of the Rangers, the American Southwest superhero team.",
+  "description": "Shooting Star is a comic book superheroine appearing in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Shootingstarh265.jpg/225px-Shootingstarh265.jpg",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +34,10 @@
     "Victoria Star"
   ],
   "species": [
+  ],
+  "teams": [
+    "Rangers",
+    "The Rangers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2083/shooting_star",

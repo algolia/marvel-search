@@ -2,12 +2,6 @@
   "aliases": [
     "Porcupine"
   ],
-  "alliances": [
-    "United States Army",
-    "Lethal Legion",
-    "Maggia",
-    "Thunderbolts"
-  ],
   "authors": [
     "Jimmy Palmiotti",
     "Justin Gray",
@@ -16,7 +10,7 @@
     "Stan Lee",
     "Don Heck"
   ],
-  "description": "Porcupine is any of three fictional characters in Marvel Comics.",
+  "description": "Porcupine is any of three fictional characters in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/PorcupineMarvel.jpg/250px-PorcupineMarvel.jpg",
   "isHero": false,
   "isVillain": false,
@@ -57,6 +51,12 @@
     "Alexander Gentry"
   ],
   "species": [
+  ],
+  "teams": [
+    "United States Army",
+    "Lethal Legion",
+    "Maggia",
+    "Thunderbolts"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Porcupine_(comics)"

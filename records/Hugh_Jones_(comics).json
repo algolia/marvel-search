@@ -2,15 +2,11 @@
   "aliases": [
     "Hugh Jones"
   ],
-  "alliances": [
-    "Roxxon Energy Corporation",
-    "Roxxon Oil"
-  ],
   "authors": [
     "Sal Buscema",
     "Steve Englehart"
   ],
-  "description": "Hugh Jones is a fictional character in Marvel Comics.",
+  "description": "Hugh Jones is a fictional character in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Hugh Jones",
@@ -29,6 +25,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Roxxon Energy Corporation",
+    "Roxxon Oil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Jones_(comics)"

@@ -2,10 +2,6 @@
   "aliases": [
     "Sabra"
   ],
-  "alliances": [
-    "X-Corporation",
-    "Mossad"
-  ],
   "authors": [
     "Sal Buscema",
     "Bill Mantlo"
@@ -47,6 +43,10 @@
     "Ruth Bat-Seraph"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Corporation",
+    "Mossad"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1972/sabra",

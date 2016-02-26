@@ -3,12 +3,9 @@
     "American Son",
     "Iron Patriot"
   ],
-  "alliances": [
-    "Dark Avengers"
-  ],
   "authors": [
   ],
-  "description": "Iron Patriot is a fictional powered exoskeleton used by several characters in Marvel Comics. The alias is an amalgam of Iron Man's armor and Captain America's colors.",
+  "description": "Iron Patriot is a fictional powered exoskeleton used by several characters in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Iron_Patriot.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +41,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Dark Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/30/iron_patriot",

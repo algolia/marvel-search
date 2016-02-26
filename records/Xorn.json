@@ -7,11 +7,6 @@
     "Kuan-Yin Xorn",
     "Shen Xorn"
   ],
-  "alliances": [
-    "X-Men",
-    "X-Mansion",
-    "Brotherhood of Mutants"
-  ],
   "authors": [
     "Frank Quitely",
     "Grant Morrison"
@@ -52,6 +47,11 @@
     "Shen Xorn"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "X-Mansion",
+    "Brotherhood of Mutants"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2629/xorn",

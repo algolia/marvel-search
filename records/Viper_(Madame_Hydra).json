@@ -9,21 +9,12 @@
     "Viper (Madame Hydra)",
     "Green Queen"
   ],
-  "alliances": [
-    "Hydra",
-    "H.A.M.M.E.R.",
-    "The Hand",
-    "Hellfire Club",
-    "Madripoor",
-    "Secret Empire",
-    "Serpent Squad"
-  ],
   "authors": [
     "Jim Steranko",
     "Bob Harras",
     "Paul Neary"
   ],
-  "description": "Viper, formerly known as Madame Hydra, is a fictional character, a supervillainess in the Marvel Comics universe who is a foe of the Avengers and the X-Men.",
+  "description": "Viper, formerly known as Madame Hydra, is a fictional character, a supervillainess in the Marvel Comics universe who is a foe of the Avengers and the X-Men",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4d5c39a54b1dd/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -56,6 +47,15 @@
     "Ophelia Sarkissian"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hydra",
+    "H.A.M.M.E.R.",
+    "The Hand",
+    "Hellfire Club",
+    "Madripoor",
+    "Secret Empire",
+    "Serpent Squad"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2729/madame_hydra",

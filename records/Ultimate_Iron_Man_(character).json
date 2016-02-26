@@ -2,12 +2,6 @@
   "aliases": [
     "Ultimate Iron Man"
   ],
-  "alliances": [
-    "Stark Industries",
-    "S.H.I.E.L.D.",
-    "Ultimates",
-    "New Ultimates"
-  ],
   "authors": [
     "Brian Michael Bendis",
     "Mike Allred",
@@ -56,6 +50,12 @@
     "Antonio \"Tony\" Stark"
   ],
   "species": [
+  ],
+  "teams": [
+    "Stark Industries",
+    "S.H.I.E.L.D.",
+    "Ultimates",
+    "New Ultimates"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ultimate_Iron_Man_(character)"

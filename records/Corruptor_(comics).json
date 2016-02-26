@@ -2,13 +2,11 @@
   "aliases": [
     "Corruptor"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Marv Wolfman",
     "Sal Buscema"
   ],
-  "description": "The Corruptor (real name Jackson Day) is a fictional character, a supervillain appearing in the Marvel Comics universe. He has fought Thor and Nova (Richard Rider). His sweat glands release a chemical that overrides the social inhibition center of the brain. He first appeared in Nova #4 in December 1976 and was created by Marv Wolfman and Sal Buscema.",
+  "description": "The Corruptor (real name Jackson Day) is a fictional character, a supervillain appearing in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Corruptor",
@@ -32,6 +30,8 @@
     "Jackson Day"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Corruptor_(comics)"

@@ -2,13 +2,11 @@
   "aliases": [
     "Armless Tiger Man"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Paul Gustavson",
     "Al Bellman"
   ],
-  "description": "Armless Tiger Man is a supervillain in Marvel Comics.",
+  "description": "Armless Tiger Man is a supervillain in Marvel Comics",
   "isHero": false,
   "isVillain": true,
   "name": "Armless Tiger Man",
@@ -34,6 +32,8 @@
     "Gustav Hertz"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Armless_Tiger_Man"

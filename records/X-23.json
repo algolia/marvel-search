@@ -6,17 +6,6 @@
     "X-23",
     "Wolverine"
   ],
-  "alliances": [
-    "X-Force",
-    "X-Men",
-    "New X-Men",
-    "X-Mansion",
-    "Avengers Academy",
-    "Weapon X",
-    "The Facility",
-    "Xavier Institute",
-    "X-Men-In-Training"
-  ],
   "authors": [
     "Craig Kyle",
     "Christopher Yost"
@@ -60,6 +49,17 @@
     "Laura Kinney"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Force",
+    "X-Men",
+    "New X-Men",
+    "X-Mansion",
+    "Avengers Academy",
+    "Weapon X",
+    "The Facility",
+    "Xavier Institute",
+    "X-Men-In-Training"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/67/x-23",

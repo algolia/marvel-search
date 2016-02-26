@@ -11,17 +11,11 @@
     "Frank Drake",
     "Dracula"
   ],
-  "alliances": [
-    "Legion of the Unliving",
-    "Vampire",
-    "Defenders",
-    "Vampires"
-  ],
   "authors": [
     "Gerry Conway",
     "Gene Colan"
   ],
-  "description": "Dracula is a fictional character, a supervillain that appears in comic books published by Marvel Comics. He is based on the vampire Count Dracula from the novel of the same name by author Bram Stoker, and is also influenced by Universal Studios' version of the character.",
+  "description": "Dracula is a fictional character, a supervillain that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/526955af18612/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": true,
@@ -61,6 +55,12 @@
     "Vlad Țepeș Dracula"
   ],
   "species": [
+  ],
+  "teams": [
+    "Legion of the Unliving",
+    "Vampire",
+    "Defenders",
+    "Vampires"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/576/dracula",

@@ -6,18 +6,10 @@
     "Doctor",
     "Doctor Strange"
   ],
-  "alliances": [
-    "The New Avengers",
-    "Midnight Sons",
-    "Defenders",
-    "Illuminati",
-    "The Order",
-    "New Avengers"
-  ],
   "authors": [
     "Steve Ditko"
   ],
-  "description": "Doctor Stephen Vincent Strange, best known under his alias Doctor Strange, is a superhero that appears in comic books published by Marvel Comics. A former neurosurgeon, Strange serves as the Sorcerer Supreme, the primary protector of Earth against magical and mystical threats. Debuting in the Silver Age of comics, the character has been featured in several eponymous comics series and licensed derivative media including video games, an animated television show, films, and merchandise such as trading cards and figurines. A Marvel Studios live-action film adaptation, starring Benedict Cumberbatch in the titular role, is set for a 2016 theatrical release.",
+  "description": "Doctor Stephen Vincent Strange, best known under his alias Doctor Strange, is a superhero that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5261a85a501fe/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -46,6 +38,14 @@
     "Stephen Vincent Strange"
   ],
   "species": [
+  ],
+  "teams": [
+    "The New Avengers",
+    "Midnight Sons",
+    "Defenders",
+    "Illuminati",
+    "The Order",
+    "New Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/14/dr_strange",

@@ -2,13 +2,11 @@
   "aliases": [
     "Mutant Liberation Front"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Rob Liefeld",
     "Louise Simonson"
   ],
-  "description": "The Mutant Liberation Front, or MLF, is a Marvel Comics supervillain group, primarily enemies of X-Force. Created by writer Louise Simonson and artist Rob Liefeld, the Mutant Liberation Front first appeared in The New Mutants #86 (February 1990).The Mutant Liberation group consisted of young terrorist mutants, formed under the mutant time-traveler Stryfe. After his apparent death, the group reforms under Reignfire.",
+  "description": "The Mutant Liberation Front, or MLF, is a Marvel Comics supervillain group, primarily enemies of X-Force",
   "isHero": false,
   "isVillain": true,
   "name": "Mutant Liberation Front",
@@ -27,6 +25,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mutant_Liberation_Front"

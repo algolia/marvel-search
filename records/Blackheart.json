@@ -8,15 +8,12 @@
     "Blackheart",
     "Kid Blackheart"
   ],
-  "alliances": [
-    "Hellfire Club"
-  ],
   "authors": [
     "Jason Aaron",
     "John Romita, Jr.",
     "Ann Nocenti"
   ],
-  "description": "Blackheart is a fictional demon in the Marvel Comics Universe. In the 2007 film Ghost Rider, Blackheart is portrayed by actor Wes Bentley.",
+  "description": "Blackheart is a fictional demon in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/4c0040a0ee5ba/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -55,6 +52,9 @@
     "Unknown"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellfire Club"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/289/blackheart",

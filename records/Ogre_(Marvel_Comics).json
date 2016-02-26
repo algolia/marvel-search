@@ -1,10 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "Factor Three",
-    "Thunderbolts"
-  ],
   "authors": [
     "Roy Thomas",
     "Werner Roth"
@@ -29,6 +25,10 @@
     "Brian Dunlap"
   ],
   "species": [
+  ],
+  "teams": [
+    "Factor Three",
+    "Thunderbolts"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ogre_(Marvel_Comics)"

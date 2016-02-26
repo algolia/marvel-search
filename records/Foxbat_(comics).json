@@ -2,20 +2,13 @@
   "aliases": [
     "Foxbat"
   ],
-  "alliances": [
-    "Inhumans",
-    "Nazg%C3%BBl",
-    "Dark Riders",
-    "Inhuman",
-    "s"
-  ],
   "authors": [
     "Chris Claremont",
     "Jim Lee",
     "Whilce Portacio",
     "and Whilce Portacio"
   ],
-  "description": "Foxbat is a comic book supervillain in the Marvel Comics Universe created by Chris Claremont.",
+  "description": "Foxbat is a comic book supervillain in the Marvel Comics Universe created by Chris Claremont",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Foxbat.JPG/150px-Foxbat.JPG",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +28,13 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Inhumans",
+    "Nazg%C3%BBl",
+    "Dark Riders",
+    "Inhuman",
+    "s"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Foxbat_(comics)"

@@ -3,16 +3,13 @@
     "Aubrey Thompson",
     "Crusader"
   ],
-  "alliances": [
-    "Fifty State Initiative"
-  ],
   "authors": [
     "Robert Kirkman",
     "Andy Kuhn",
     "Bob Hall",
     "Alan Zelenetz"
   ],
-  "description": "Crusader is the name of multiple fictional characters created and published by Marvel Comics. Two have made significant appearances and other are minor characters or aliases.The first Crusader first appeared in Thor  #330 (April, 1983). He was created by writer Alan Zelenetz and penciller Bob Hall. The second is a Skrull superhero created by Robert Kirkman.",
+  "description": "Crusader is the name of multiple fictional characters created and published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Cruseder.jpg/200px-Cruseder.jpg",
   "isHero": false,
   "isVillain": false,
@@ -51,6 +48,9 @@
     "Arthur Charles Blackwood"
   ],
   "species": [
+  ],
+  "teams": [
+    "Fifty State Initiative"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Crusader_(Marvel_Comics)"

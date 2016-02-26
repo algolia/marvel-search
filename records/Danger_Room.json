@@ -3,17 +3,12 @@
     "Danger",
     "Danger Room"
   ],
-  "alliances": [
-    "X-Factor",
-    "X-Club",
-    "X-Men"
-  ],
   "authors": [
     "Joss Whedon",
     "Jack Kirby",
     "John Cassaday"
   ],
-  "description": "The Danger Room is a fictional training facility built for the X-Men of Marvel Comics as part of the various incarnations of the X-Mansion.",
+  "description": "The Danger Room is a fictional training facility built for the X-Men of Marvel Comics as part of the various incarnations of the X-Mansion",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Danger_room.jpg/220px-Danger_room.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +39,11 @@
     "Inapplicable"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Factor",
+    "X-Club",
+    "X-Men"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Danger_Room"

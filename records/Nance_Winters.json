@@ -3,13 +3,9 @@
     "Winters",
     "Nance Winters"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "Acolytes"
-  ],
   "authors": [
   ],
-  "description": "Nance Winters is a fictional character in Marvel Comics.",
+  "description": "Nance Winters is a fictional character in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Winters",
@@ -30,6 +26,10 @@
     "Nance Winters"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Acolytes"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Nance_Winters"

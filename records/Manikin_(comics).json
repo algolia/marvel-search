@@ -2,15 +2,11 @@
   "aliases": [
     "Manikin"
   ],
-  "alliances": [
-    "Beta Flight",
-    "Alpha Flight"
-  ],
   "authors": [
     "Bill Mantlo",
     "Dave Ross"
   ],
-  "description": "Manikin (Whitman Knapp) is a fictional mutant character featured in the publications of Marvel Comics. He is a super hero and former member of Alpha Flight.",
+  "description": "Manikin (Whitman Knapp) is a fictional mutant character featured in the publications of Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Manikin",
@@ -31,6 +27,10 @@
     "Whitman Knapp"
   ],
   "species": [
+  ],
+  "teams": [
+    "Beta Flight",
+    "Alpha Flight"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Manikin_(comics)"

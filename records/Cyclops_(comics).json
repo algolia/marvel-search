@@ -9,25 +9,11 @@
     "Dark Phoenix",
     "Cyclops"
   ],
-  "alliances": [
-    "X-Men",
-    "Phoenix Force",
-    "X-Factor",
-    "Xavier's School for Gifted Youngsters",
-    "X-Force",
-    "Apocalypse: The Twelve",
-    "X-Terminators",
-    "Cyclops",
-    "New Xavier School",
-    "The Twelve",
-    "Phoenix Five",
-    "All-New X-Men"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Cyclops is a fictional character, a superhero that appears in American comic books published by Marvel Comics, as well as in a number of film, television, and video game adaptations; most often in fiction related to the X-Men. Created by writer Stan Lee and artist/co-writer Jack Kirby, the character first appeared in The X-Men #1 (September 1963).Cyclops is a member of a fictional sub-species of humanity known as \"mutants\", who are born with superhuman abilities. Cyclops can emit powerful beams of concussive force from his eyes. He cannot control the beams without the aid of special eye-wear which he must wear at all times. He is typically considered the first of the X-Men, a team of mutant heroes who fight for peace and equality between mutants and humans, and one of the team's primary leaders.Cyclops is most often portrayed as the archetypal hero of traditional American popular culture—the opposite of the tough, anti-authority, antiheroes that emerged in American popular culture after the Vietnam War (e.g., Wolverine, his X-Men teammate).Cyclops is one of Marvel's most popular characters. IGN.com rated Cyclops #1 on their list of Top 25 X-Men from the past forty years in 2006, and the 39th in their 2011 list of Top 100 Comic Book Heroes. In 2008, Wizard Magazine also ranked Cyclops the 106th in their list of the 200 Greatest Comic Book Characters of All Time. In a 2011 poll, readers of Comic Book Resources voted Cyclops as 9th in the ranking of 2011 Top Marvel Characters.James Marsden has portrayed Cyclops in the first three and the seventh X-Men films, while in the 2009 prequel film, X-Men Origins: Wolverine, he is portrayed as a teenager by actor Tim Pocock. In 2016's X-Men: Apocalypse, he will be portrayed by Tye Sheridan.",
+  "description": "Cyclops is a fictional character, a superhero that appears in American comic books published by Marvel Comics, as well as in a number of film, television, and video game adaptations; most often in fiction related to the X-Men",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/526547e2d90ad/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -54,6 +40,20 @@
     "Scott Summers"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "Phoenix Force",
+    "X-Factor",
+    "Xavier's School for Gifted Youngsters",
+    "X-Force",
+    "Apocalypse: The Twelve",
+    "X-Terminators",
+    "Cyclops",
+    "New Xavier School",
+    "The Twelve",
+    "Phoenix Five",
+    "All-New X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009257/cyclops",

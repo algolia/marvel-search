@@ -3,15 +3,11 @@
     "Scientist Supreme",
     "Andrew Forson"
   ],
-  "alliances": [
-    "Advanced Idea Mechanics",
-    "Cult of Entropy"
-  ],
   "authors": [
     "Ryan Stegman",
     "Jonathan Hickman"
   ],
-  "description": "Andrew Forson is a fictional character from Marvel Comics.",
+  "description": "Andrew Forson is a fictional character from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Andrew Forson",
@@ -31,6 +27,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Advanced Idea Mechanics",
+    "Cult of Entropy"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Forson"

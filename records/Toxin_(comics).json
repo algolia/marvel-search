@@ -5,12 +5,6 @@
     "Son of",
     "Carnage"
   ],
-  "alliances": [
-    "as Eddie Brock: Savage Six",
-    "as Patrick Mulligan: NYPD",
-    "NYPD",
-    "Savage Six"
-  ],
   "authors": [
     "Clayton Crain",
     "Peter Milligan"
@@ -51,6 +45,12 @@
     "Eddie Brock"
   ],
   "species": [
+  ],
+  "teams": [
+    "as Eddie Brock: Savage Six",
+    "as Patrick Mulligan: NYPD",
+    "NYPD",
+    "Savage Six"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2400/toxin",

@@ -2,8 +2,6 @@
   "aliases": [
     "Subterranea"
   ],
-  "alliances": [
-  ],
   "authors": [
     "'''",
     "Stan Lee",
@@ -11,7 +9,7 @@
     "Roy Thomas",
     "Don Heck'''"
   ],
-  "description": "Moloids redirect here.Subterranea is a fictional realm far beneath the Earth's surface in the Marvel Comics universe.",
+  "description": "Moloids redirect here",
   "isHero": false,
   "isVillain": false,
   "name": "Subterranea",
@@ -30,6 +28,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Subterranea_(comics)"

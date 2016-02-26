@@ -2,13 +2,10 @@
   "aliases": [
     "Black Raazer"
   ],
-  "alliances": [
-    "Desert Sword"
-  ],
   "authors": [
     "Bill Mantlo"
   ],
-  "description": "Black Raazer is a fictional character in Marvel Comics who first appeared in the first Alpha Flight series. (The character's name has been spelled or misspelled as Raazar and Razaar.)",
+  "description": "Black Raazer is a fictional character in Marvel Comics who first appeared in the first Alpha Flight series",
   "isHero": false,
   "isVillain": false,
   "name": "Black Raazer",
@@ -30,6 +27,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Desert Sword"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Raazer"

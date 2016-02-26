@@ -2,16 +2,11 @@
   "aliases": [
     "Snake Marston"
   ],
-  "alliances": [
-    "Enforcers",
-    "Thunderbolts",
-    "Satan Squad"
-  ],
   "authors": [
     "Tom DeFalco",
     "Steve Ditko"
   ],
-  "description": "Sylvester \"Snake\" Marston is a fictional character in the Marvel Comics Universe.",
+  "description": "Sylvester \"Snake\" Marston is a fictional character in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Snake Marston",
@@ -32,6 +27,11 @@
     "Sylvester Marston"
   ],
   "species": [
+  ],
+  "teams": [
+    "Enforcers",
+    "Thunderbolts",
+    "Satan Squad"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Snake_Marston_(comics)"

@@ -2,15 +2,11 @@
   "aliases": [
     "Black Bolt"
   ],
-  "alliances": [
-    "Illuminati",
-    "Inhumans"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Black Bolt (Blackagar Boltagon) is a fictional character that appears in publications by Marvel Comics. Created by Stan Lee and Jack Kirby, the character first appears in Fantastic Four #45 (December 1965). Black Bolt is the ruler of the Inhumans, a reclusive race of genetically altered superhumans. Black Bolt's signature power is his voice, as his electron-harnessing ability is linked to the speech center of his brain. Speaking triggers a massive disturbance in the form of a highly destructive shockwave capable of leveling a city. Due to the extreme danger posed by this power, the character has undergone rigorous mental training to prevent himself from uttering a sound, even in sleep, and he usually remains completely silent and communicates through sign language or via spokesperson.The character of Black Bolt has featured in other Marvel-endorsed products such as arcade and video games, animated television series, and merchandise such as trading cards.",
+  "description": "Black Bolt (Blackagar Boltagon) is a fictional character that appears in publications by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/52696929dc721/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -35,6 +31,10 @@
     "Blackagar Boltagon"
   ],
   "species": [
+  ],
+  "teams": [
+    "Illuminati",
+    "Inhumans"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/4/black_bolt",

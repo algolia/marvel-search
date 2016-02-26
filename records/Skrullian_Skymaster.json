@@ -5,13 +5,10 @@
     "Skymax.",
     "Skrullian Skymaster"
   ],
-  "alliances": [
-    "Squadron Supreme"
-  ],
   "authors": [
     "Mark Gruenwald"
   ],
-  "description": "The Skrullian Skymaster is a fictional comic book superhero appearing in books published by Marvel Comics, usually those featuring the Squadron Supreme, a superhero team of which Skymaster is a member. The character is the Squadron's counterpart of the Martian Manhunter, a member of DC Comics' superhero team, the Justice League of America.",
+  "description": "The Skrullian Skymaster is a fictional comic book superhero appearing in books published by Marvel Comics, usually those featuring the Squadron Supreme, a superhero team of which Skymaster is a member",
   "isHero": false,
   "isVillain": false,
   "name": "Skrullian Skymaster",
@@ -40,6 +37,9 @@
     "Sk'ym'x"
   ],
   "species": [
+  ],
+  "teams": [
+    "Squadron Supreme"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Skrullian_Skymaster"

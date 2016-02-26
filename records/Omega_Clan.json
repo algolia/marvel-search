@@ -3,10 +3,6 @@
     "Arkady Gregorivich",
     "Vasyliev Arkady"
   ],
-  "alliances": [
-    "The Hand",
-    "Red Mafia"
-  ],
   "authors": [
     "Jim Lee",
     "John Byrne"
@@ -47,6 +43,10 @@
     "Arkady Rossovich"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Hand",
+    "Red Mafia"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1652/omega_red",

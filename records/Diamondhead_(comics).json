@@ -2,14 +2,11 @@
   "aliases": [
     "Diamondhead"
   ],
-  "alliances": [
-    "Terrible Trio"
-  ],
   "authors": [
     "Marv Wolfman",
     "Sal Buscema"
   ],
-  "description": "Diamondhead is a fictional character in the Marvel Universe.",
+  "description": "Diamondhead is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Diamondhead",
@@ -29,6 +26,9 @@
     "Arch Dyker"
   ],
   "species": [
+  ],
+  "teams": [
+    "Terrible Trio"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Diamondhead_(comics)"

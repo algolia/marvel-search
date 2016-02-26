@@ -2,18 +2,13 @@
   "aliases": [
     "Redstone"
   ],
-  "alliances": [
-    "Squadron Supreme",
-    "Redeemers",
-    "Chinese government"
-  ],
   "authors": [
     "Mark Gruenwald J. Michael StraczynskiGary Frank",
     "Mark Gruenwald",
     "J. Michael Straczynski",
     "Gary Frank"
   ],
-  "description": "Redstone is the name of two characters from Marvel Comics.",
+  "description": "Redstone is the name of two characters from Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Redstone%28comics%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +35,11 @@
     "('''both''') Michael Redstone"
   ],
   "species": [
+  ],
+  "teams": [
+    "Squadron Supreme",
+    "Redeemers",
+    "Chinese government"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Redstone_(comics)"

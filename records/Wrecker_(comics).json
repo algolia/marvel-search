@@ -3,12 +3,6 @@
     "The Wrecker",
     "Wrecker"
   ],
-  "alliances": [
-    "Frightful Four",
-    "Legion Accursed",
-    "Masters of Evil",
-    "Wrecking Crew"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
@@ -44,6 +38,12 @@
     "Dirk Garthwaite"
   ],
   "species": [
+  ],
+  "teams": [
+    "Frightful Four",
+    "Legion Accursed",
+    "Masters of Evil",
+    "Wrecking Crew"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2597/wrecker",

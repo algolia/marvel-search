@@ -6,11 +6,6 @@
     "Dis",
     "Pluto"
   ],
-  "alliances": [
-    "Death Gods",
-    "Olympians",
-    "Gods of Olympus"
-  ],
   "authors": [
     "Adapted from the mythological Hades by Stan Lee & Jack Kirby",
     "Adapted from the mythological",
@@ -19,7 +14,7 @@
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Pluto is a fictional deity in the Marvel Comics Universe based on the Greco-Roman god of the same name. Pluto first appeared in the pages of Thor #127 in 1966, written by Stan Lee and drawn by Jack Kirby.",
+  "description": "Pluto is a fictional deity in the Marvel Comics Universe based on the Greco-Roman god of the same name",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Hades2.png/250px-Hades2.png",
   "isHero": false,
   "isVillain": false,
@@ -50,6 +45,11 @@
     "Hades"
   ],
   "species": [
+  ],
+  "teams": [
+    "Death Gods",
+    "Olympians",
+    "Gods of Olympus"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Pluto_(Marvel_Comics)"

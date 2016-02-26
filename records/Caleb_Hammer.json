@@ -2,11 +2,9 @@
   "aliases": [
     "Caleb Hammer"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "Caleb Hammer is a fictional comic book character owned by Marvel Comics. He is an Old West Pinkerton detective.",
+  "description": "Caleb Hammer is a fictional comic book character owned by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/CalebHammer.jpg/225px-CalebHammer.jpg",
   "isHero": false,
   "isVillain": false,
@@ -27,6 +25,8 @@
     "Caleb Hammer"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Caleb_Hammer"

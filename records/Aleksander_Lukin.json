@@ -3,16 +3,11 @@
     "Red Skull",
     "Aleksander Lukin"
   ],
-  "alliances": [
-    "Kronas Corporation",
-    "KGB",
-    "Roxxon Energy Corporation"
-  ],
   "authors": [
     "Steve Epting",
     "Ed Brubaker"
   ],
-  "description": "Aleksander Lukin (Russian: Александр Лукин) is a fictional character in Marvel Comics.",
+  "description": "Aleksander Lukin (Russian: Александр Лукин) is a fictional character in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/c/c7/Lukin.PNG",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +29,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Kronas Corporation",
+    "KGB",
+    "Roxxon Energy Corporation"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1901/red_skull",

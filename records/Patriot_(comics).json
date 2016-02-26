@@ -4,16 +4,11 @@
     "Patriot",
     "Lieutenant America"
   ],
-  "alliances": [
-    "The New Avengers",
-    "Young Avengers",
-    "\"Secret Avengers\" (Civil War)"
-  ],
   "authors": [
     "Allan Heinberg",
     "Jim Cheung"
   ],
-  "description": "Patriot is the name of two fictional, comic book superheroes in the Marvel Comics universe: the Golden Age hero Jeffrey Mace and the modern-day character Eli Bradley.",
+  "description": "Patriot is the name of two fictional, comic book superheroes in the Marvel Comics universe: the Golden Age hero Jeffrey Mace and the modern-day character Eli Bradley",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c003cfda4644/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +38,11 @@
     "Elijah \"Eli\" Bradley"
   ],
   "species": [
+  ],
+  "teams": [
+    "The New Avengers",
+    "Young Avengers",
+    "\"Secret Avengers\" (Civil War)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1703/patriot",

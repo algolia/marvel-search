@@ -5,23 +5,11 @@
     "Kuurth: Breaker of Stone",
     "Juggernaut"
   ],
-  "alliances": [
-    "Exemplars",
-    "Excalibur",
-    "Fear Itself",
-    "Exiles",
-    "X-Men",
-    "Thunderbolts",
-    "Brotherhood of Mutants",
-    "The All-New Exiles",
-    "New Excalibur",
-    "The Worthy"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Juggernaut (Cain Marko) is a fictional character, a supervillain and sometimes antihero that appears in publications published by Marvel Comics. The character first appeared in X-Men #12 (July 1965), and was created by writer Stan Lee and artist/co-plotter Jack Kirby.Since his debut during the Silver Age of Comic Books the character has appeared in over four decades of Marvel publications, featuring prominently in the X-Men titles and starring in two one-shot solo publications. The character has also been associated with Marvel merchandise including clothing, toys, trading cards, animated television series, video games, and the 2006 superhero feature film, X-Men: The Last Stand,  where he was played by Vinnie Jones as a member of Magneto's Brotherhood of Mutants.In 2008, Juggernaut was ranked 188th on Wizard's list of Top 200 Comic Book Characters. In 2009, Juggernaut was ranked 19th on IGN's list of Top 100 Comic Book Villains.",
+  "description": "Juggernaut (Cain Marko) is a fictional character, a supervillain and sometimes antihero that appears in publications published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/528d340442cca/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -52,6 +40,18 @@
     "Cain Marko"
   ],
   "species": [
+  ],
+  "teams": [
+    "Exemplars",
+    "Excalibur",
+    "Fear Itself",
+    "Exiles",
+    "X-Men",
+    "Thunderbolts",
+    "Brotherhood of Mutants",
+    "The All-New Exiles",
+    "New Excalibur",
+    "The Worthy"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1105/juggernaut",

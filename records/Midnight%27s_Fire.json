@@ -1,9 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "Folding Circle"
-  ],
   "authors": [
     "Fabian Nicieza",
     "Mark Bagley"
@@ -34,6 +31,9 @@
     "Aaron Chord"
   ],
   "species": [
+  ],
+  "teams": [
+    "Folding Circle"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Midnight%27s_Fire"

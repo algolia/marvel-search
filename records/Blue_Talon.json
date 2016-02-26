@@ -2,13 +2,11 @@
   "aliases": [
     "Blue Talon"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Gerry Conway",
     "Gene Colan"
   ],
-  "description": "Blue Talon aka Itto Yamura is a fictional character, and a supervillain in the Marvel Comics universe, first introduced in October 1972, in Daredevil Vol 1 #92, created by Gerry Conway and Gene Colan. A highly trained martial artist and mercenary, he fought with Daredevil.",
+  "description": "Blue Talon aka Itto Yamura is a fictional character, and a supervillain in the Marvel Comics universe, first introduced in October 1972, in Daredevil Vol 1 #92, created by Gerry Conway and Gene Colan",
   "isHero": false,
   "isVillain": false,
   "name": "Blue Talon",
@@ -31,6 +29,8 @@
     "Itto Yamura"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Blue_Talon"

@@ -1,10 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "Skrull",
-    "Empire"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
@@ -29,6 +25,10 @@
     "Anelle"
   ],
   "species": [
+  ],
+  "teams": [
+    "Skrull",
+    "Empire"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Anelle"

@@ -2,14 +2,11 @@
   "aliases": [
     "Leonus"
   ],
-  "alliances": [
-    "Inhumans"
-  ],
   "authors": [
     "Gary Friedrich",
     "Marie Severin"
   ],
-  "description": "Leonus is a fictional character in the Marvel Universe.",
+  "description": "Leonus is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Leonus",
@@ -30,6 +27,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Inhumans"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Leonus"

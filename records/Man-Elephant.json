@@ -3,13 +3,11 @@
     "Behemoth",
     "Man-Elephant"
   ],
-  "alliances": [
-  ],
   "authors": [
     "David Anthony Kraft",
     "Ed Hannigan"
   ],
-  "description": "Man-Elephant is the name of two fictional characters from Marvel Comics.",
+  "description": "Man-Elephant is the name of two fictional characters from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Man-Elephant",
@@ -31,6 +29,8 @@
     "Manfred Ellsworth Haller"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Man-Elephant"

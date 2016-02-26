@@ -3,14 +3,11 @@
     "Hell's Angel",
     "Dark Angel"
   ],
-  "alliances": [
-    "MI-13"
-  ],
   "authors": [
     "Bernie Jaye",
     "Geoff Senior"
   ],
-  "description": "Dark Angel is the name used by two fictional characters in Marvel UK, though they have no other relation.",
+  "description": "Dark Angel is the name used by two fictional characters in Marvel UK, though they have no other relation",
   "isHero": false,
   "isVillain": false,
   "name": "Dark Angel",
@@ -30,6 +27,9 @@
     "Shevaun Haldane"
   ],
   "species": [
+  ],
+  "teams": [
+    "MI-13"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Dark_Angel_(Marvel_Comics)"

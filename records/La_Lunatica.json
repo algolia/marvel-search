@@ -3,17 +3,11 @@
     "Luna",
     "La Lunatica"
   ],
-  "alliances": [
-    "X-Men 2099",
-    "Theatre of Pain",
-    "the Norns",
-    "Halo City Protectorate"
-  ],
   "authors": [
     "John Francis Moore",
     "Ron Lim"
   ],
-  "description": "La Lunatica is a fictional character in the Marvel Comics comic book X-Men 2099. During the majority of the series, she is a member of the future version of X-Men led by Xi'an Chi Xan and later her lover Tim Fitzgerald (Skullfire). La Lunatica is a Hispanic mutant with the ability to feed on the memories of pain and suffering of her victims through tactile interaction, thereby increasing her own strength and durability. She has white skin and red eyes, reminiscent of albinism as well as elongated canine teeth. Her name is translated into Spanish as the feminine form of \"the lunatic\".",
+  "description": "La Lunatica is a fictional character in the Marvel Comics comic book X-Men 2099",
   "isHero": false,
   "isVillain": false,
   "name": "La Lunatica",
@@ -40,6 +34,12 @@
     "Unknown"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men 2099",
+    "Theatre of Pain",
+    "the Norns",
+    "Halo City Protectorate"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/La_Lunatica"

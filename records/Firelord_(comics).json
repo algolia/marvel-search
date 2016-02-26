@@ -3,18 +3,11 @@
     "Nova Centurion",
     "Firelord"
   ],
-  "alliances": [
-    "Annihilation",
-    "Nova Corps",
-    "Galactus",
-    "Heralds of Galactus",
-    "United Front"
-  ],
   "authors": [
     "John Buscema",
     "Gerry Conway"
   ],
-  "description": "Firelord (Pyreus Kril) is a character in the fictional Marvel Universe. The character was created by Gerry Conway and John Buscema, and first appears in Thor #225 (vol. 1, Jul 1974).",
+  "description": "Firelord (Pyreus Kril) is a character in the fictional Marvel Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59fd314c38/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -48,6 +41,13 @@
     "Pyreus Kril"
   ],
   "species": [
+  ],
+  "teams": [
+    "Annihilation",
+    "Nova Corps",
+    "Galactus",
+    "Heralds of Galactus",
+    "United Front"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/701/firelord",

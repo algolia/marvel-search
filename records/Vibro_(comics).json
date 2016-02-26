@@ -2,14 +2,11 @@
   "aliases": [
     "Vibro"
   ],
-  "alliances": [
-    "Mandarin's Minions"
-  ],
   "authors": [
     "Denny O'Neil",
     "Luke McDonnell"
   ],
-  "description": "Vibro is a fictional character, a supervillain in Marvel Comics.",
+  "description": "Vibro is a fictional character, a supervillain in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Vibro",
@@ -29,6 +26,9 @@
     "Alton Francis Vibreaux"
   ],
   "species": [
+  ],
+  "teams": [
+    "Mandarin's Minions"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Vibro_(comics)"

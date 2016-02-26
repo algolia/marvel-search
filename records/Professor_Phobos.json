@@ -2,14 +2,11 @@
   "aliases": [
     "Professor Phobos"
   ],
-  "alliances": [
-    "Soviet Super-Soldiers"
-  ],
   "authors": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "description": "Professor Phobos is a fictional character in the Marvel Universe.",
+  "description": "Professor Phobos is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Professor Phobos",
@@ -31,6 +28,9 @@
     "Piotr Phobos"
   ],
   "species": [
+  ],
+  "teams": [
+    "Soviet Super-Soldiers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Professor_Phobos"

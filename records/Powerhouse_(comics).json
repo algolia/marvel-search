@@ -2,16 +2,13 @@
   "aliases": [
     "Powerhouse"
   ],
-  "alliances": [
-    "Champions of Xandar"
-  ],
   "authors": [
     "Marv Wolfman",
     "John Buscema",
     "and Joe Sinnott",
     "Joe Sinnott"
   ],
-  "description": "Powerhouse is a name used by several different fictional characters, operating in the Marvel Comics Universe.",
+  "description": "Powerhouse is a name used by several different fictional characters, operating in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Powerhouse",
@@ -37,6 +34,9 @@
     "Unknown"
   ],
   "species": [
+  ],
+  "teams": [
+    "Champions of Xandar"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Powerhouse_(comics)"

@@ -3,14 +3,12 @@
     "\"Sam\"",
     "Omega the Unknown"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Mary Skrenes",
     "Jim Mooney",
     "Steve Gerber"
   ],
-  "description": "Omega the Unknown was  an American comic book published by Marvel Comics from 1976 to 1977, featuring  the eponymous fictional character.  The series, written by Steve Gerber and Mary Skrenes and illustrated by Jim Mooney, ran for 10 issues before cancellation for low sales.  Despite its short run, it has remained as a cult classic due to its intriguing characters and unusual storytelling. A 10-issue series revamping the character was published from 2007 to 2008, written by novelist Jonathan Lethem and illustrated by Farel Dalrymple.",
+  "description": "Omega the Unknown was  an American comic book published by Marvel Comics from 1976 to 1977, featuring  the eponymous fictional character",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4ce5a4e4cd15d/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +32,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1654/omega_the_unknown",

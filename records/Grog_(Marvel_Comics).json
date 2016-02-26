@@ -4,13 +4,11 @@
     "Grog the God-Crusher",
     "Grog"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "description": "Grog the God-Slayer is a fictional character in the Marvel Universe, and a member of the Heliopolitan race of gods.",
+  "description": "Grog the God-Slayer is a fictional character in the Marvel Universe, and a member of the Heliopolitan race of gods",
   "isHero": false,
   "isVillain": false,
   "name": "Grog",
@@ -30,6 +28,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Grog_(Marvel_Comics)"

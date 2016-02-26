@@ -3,13 +3,11 @@
     "The Dinosaur Man",
     "Stegron"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Len Wein",
     "Gil Kane"
   ],
-  "description": "Stegron the Dinosaur Man is a Marvel Comics super-villain, primarily an antagonist of Spider-Man.",
+  "description": "Stegron the Dinosaur Man is a Marvel Comics super-villain, primarily an antagonist of Spider-Man",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/StegronDinosaur.jpg/250px-StegronDinosaur.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +35,8 @@
     "Vincent Stegron"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Stegron"

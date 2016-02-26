@@ -4,18 +4,11 @@
     "Kane",
     "Garrison Kane"
   ],
-  "alliances": [
-    "Six Pack",
-    "Clan Chosen",
-    "Weapon X",
-    "Weapon P.R.I.M.E.",
-    "Department K"
-  ],
   "authors": [
     "Fabian Nicieza",
     "Rob Liefeld"
   ],
-  "description": "Garrison Kane, also known as Weapon X and Kane, is a fictional character from the Marvel Universe. He was created by Fabian Nicieza and Rob Liefeld, and debuted in X-Force vol. 1 #2 (1991).",
+  "description": "Garrison Kane, also known as Weapon X and Kane, is a fictional character from the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Weapon X",
@@ -38,6 +31,13 @@
     "Garrison Kane"
   ],
   "species": [
+  ],
+  "teams": [
+    "Six Pack",
+    "Clan Chosen",
+    "Weapon X",
+    "Weapon P.R.I.M.E.",
+    "Department K"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2541/weapon_x",

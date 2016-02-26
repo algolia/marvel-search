@@ -2,15 +2,11 @@
   "aliases": [
     "Tyler Stone"
   ],
-  "alliances": [
-    "CEO Of Alchemax",
-    "Alchemax"
-  ],
   "authors": [
     "Rick Leonardi",
     "Peter David"
   ],
-  "description": "Tyler Stone is a fictional character in the Marvel Comics universe.",
+  "description": "Tyler Stone is a fictional character in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Tyler Stone",
@@ -30,6 +26,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "CEO Of Alchemax",
+    "Alchemax"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Tyler_Stone"

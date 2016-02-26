@@ -4,14 +4,6 @@
     "Lonnie Tombstone",
     "Tombstone"
   ],
-  "alliances": [
-    "Hardcore's Untouchables",
-    "Sinister Six",
-    "The Hand",
-    "Sinister Twelve",
-    "Hardcore",
-    "'s Untouchables"
-  ],
   "authors": [
     "Alex Saviuk",
     "Gerry Conway"
@@ -47,6 +39,14 @@
     "Lonnie Thompson Lincoln"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hardcore's Untouchables",
+    "Sinister Six",
+    "The Hand",
+    "Sinister Twelve",
+    "Hardcore",
+    "'s Untouchables"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2391/tombstone",

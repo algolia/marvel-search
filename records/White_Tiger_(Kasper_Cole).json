@@ -4,11 +4,6 @@
     "White Tiger",
     "White Tiger (Kasper Cole)"
   ],
-  "alliances": [
-    "The Crew",
-    "New York City Police Department",
-    "NYPD"
-  ],
   "authors": [
     "Dan Fraga",
     "Christopher Priest"
@@ -42,6 +37,11 @@
     "Kevin \"Kasper\" Cole"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Crew",
+    "New York City Police Department",
+    "NYPD"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2559/white_tiger",

@@ -2,15 +2,11 @@
   "aliases": [
     "Prester John"
   ],
-  "alliances": [
-    "Features of the Marvel Universe",
-    "Providence"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Prester John is a fictional character appearing in the Marvel Comics universe, based loosely on the mythical Christian king Prester John. Prester John first appeared in Fantastic Four Vol.1 #54 (September 1966). He has mostly appeared as a villain, opposing Thor and Deadpool as well as the Fantastic Four.",
+  "description": "Prester John is a fictional character appearing in the Marvel Comics universe, based loosely on the mythical Christian king Prester John",
   "isHero": false,
   "isVillain": false,
   "name": "Prester John",
@@ -36,6 +32,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Features of the Marvel Universe",
+    "Providence"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Prester_John_(comics)"

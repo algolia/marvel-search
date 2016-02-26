@@ -3,21 +3,11 @@
     "Tanya Sweet",
     "Black Mamba"
   ],
-  "alliances": [
-    "BAD Girls",
-    "Inc.",
-    "Serpent Society",
-    "Women Warriors",
-    "Femizons",
-    "Masters of Evil",
-    "Avengers",
-    "Serpent Squad"
-  ],
   "authors": [
     "Ralph Macchio",
     "Mark Gruenwald"
   ],
-  "description": "Black Mamba (Tanya Sealy) is a fictional character, a supervillain in the Marvel Comics universe, most notably a member of the Serpent Society and BAD Girls, Inc.",
+  "description": "Black Mamba (Tanya Sealy) is a fictional character, a supervillain in the Marvel Comics universe, most notably a member of the Serpent Society and BAD Girls, Inc",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Black_mamba_MarvelComics.jpg/198px-Black_mamba_MarvelComics.jpg",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +31,16 @@
     "Tanya Sealy"
   ],
   "species": [
+  ],
+  "teams": [
+    "BAD Girls",
+    "Inc.",
+    "Serpent Society",
+    "Women Warriors",
+    "Femizons",
+    "Masters of Evil",
+    "Avengers",
+    "Serpent Squad"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Mamba_(comics)"

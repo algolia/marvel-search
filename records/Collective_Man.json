@@ -2,22 +2,11 @@
   "aliases": [
     "Collective Man"
   ],
-  "alliances": [
-    "3",
-    "Marvel Super Hero Contest of Champions",
-    "Mutant Liberation Front",
-    "X-Men: The 198",
-    "People's Defense Force (China)",
-    "People's Defense Force",
-    "The 198",
-    "3-Peace",
-    "Death's Champions"
-  ],
   "authors": [
     "Sal Buscema",
     "Bill Mantlo"
   ],
-  "description": "The Collective Man (Sun, Chang, Ho, Lin, and Han Tao-Yu) is a fictional character, a Chinese superhero in the Marvel Comics universe. The Collective Man is actually an identity shared by the Tao-Yu brothers, a set of quintuplets. They possess the mutant power to merge into one body, which variously possesses the collective abilities of all five men or of all of the people of China. The brothers also share a psychic/spiritual link that allows them to telepathically communicate and teleport to one another.",
+  "description": "The Collective Man (Sun, Chang, Ho, Lin, and Han Tao-Yu) is a fictional character, a Chinese superhero in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Collective_Man.jpg/250px-Collective_Man.jpg",
   "isHero": false,
   "isVillain": false,
@@ -50,6 +39,17 @@
     "and Han Tao-Yu"
   ],
   "species": [
+  ],
+  "teams": [
+    "3",
+    "Marvel Super Hero Contest of Champions",
+    "Mutant Liberation Front",
+    "X-Men: The 198",
+    "People's Defense Force (China)",
+    "People's Defense Force",
+    "The 198",
+    "3-Peace",
+    "Death's Champions"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Collective_Man"

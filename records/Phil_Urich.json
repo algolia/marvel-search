@@ -5,16 +5,9 @@
     "Goblin Knight",
     "Phil Urich"
   ],
-  "alliances": [
-    "Daily Bugle",
-    "Goblin Underground",
-    "Loners",
-    "The Hand",
-    "Goblin Nation"
-  ],
   "authors": [
   ],
-  "description": "Philip Benjamin \"Phil\" Urich is a Marvel Comics fictional character whose first appearance was in Web of Spider-Man #125 by Gerry Conway. He once was the fourth Green Goblin as a superhero and later becomes the new Hobgoblin (and later as Goblin Knight) as a supervillain.",
+  "description": "Philip Benjamin \"Phil\" Urich is a Marvel Comics fictional character whose first appearance was in Web of Spider-Man #125 by Gerry Conway",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4cd05ee55faa2/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -47,6 +40,13 @@
     "Philip Benjamin \"Phil\" Urich"
   ],
   "species": [
+  ],
+  "teams": [
+    "Daily Bugle",
+    "Goblin Underground",
+    "Loners",
+    "The Hand",
+    "Goblin Nation"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/852/green_goblin",

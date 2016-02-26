@@ -3,16 +3,11 @@
     "Princess-Majestrix Lilandra Neramani",
     "Lilandra Neramani"
   ],
-  "alliances": [
-    "Shi'ar",
-    "Starjammers",
-    "Shi'ar Imperium"
-  ],
   "authors": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "description": "Lilandra Neramani is a fictional character in the Marvel Comics Universe. She is the Empress (or Majestrix) of the Shi'ar Empire and shares a lifelong bond with the leader of the X-Men, Charles Xavier. She and Xavier were married but their marriage was annulled after the Cassandra Nova incident. She first appeared in X-Men vol. 1 #97 (1976), making her the first Shi'ar to be introduced. As the Empress, Lilandra is protected by the Imperial Guard, led by Gladiator.Lilandra has often been a pivotal secondary character in the X-Men's history, from her participation in the Phoenix Saga, to her role in Grant Morrison's experimental and controversial run on New X-Men.  Her role as one of Professor X's most cherished loves has played a significant part in the development of both characters, as well as many of the plots throughout the X-Men books.",
+  "description": "Lilandra Neramani is a fictional character in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Xmen122.png/250px-Xmen122.png",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +33,11 @@
     "Lilandra Neramani"
   ],
   "species": [
+  ],
+  "teams": [
+    "Shi'ar",
+    "Starjammers",
+    "Shi'ar Imperium"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Lilandra_Neramani"

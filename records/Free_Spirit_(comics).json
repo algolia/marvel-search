@@ -3,13 +3,11 @@
     "Coachwhip",
     "Free Spirit"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Mark Gruenwald",
     "Dave Hoover"
   ],
-  "description": "Free Spirit is a fictional character in the Marvel Comics universe. She first appeared in Captain America vol. 1 #431 (September 1994), she was created by Mark Gruenwald and Dave Hoover.",
+  "description": "Free Spirit is a fictional character in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Freespiritmu0.jpg/200px-Freespiritmu0.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +32,8 @@
     "Cathy Webster"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Free_Spirit_(comics)"

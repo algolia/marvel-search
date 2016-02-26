@@ -8,17 +8,11 @@
     "The Oracle",
     "Bastion"
   ],
-  "alliances": [
-    "Purifiers",
-    "Humanity's Last Stand",
-    "Operation: Zero Tolerance",
-    "Features of the Marvel Universe"
-  ],
   "authors": [
     "Pasqual Ferry",
     "Scott Lobdell"
   ],
-  "description": "Bastion is a supervillain that appears in the fictional Marvel Universe. The character was created by Scott Lobdell and Pascual Ferry and first made a cameo appearance in X-Men #52 (May 1996). His first full appearance was Uncanny X-Men #333 (June 1996).",
+  "description": "Bastion is a supervillain that appears in the fictional Marvel Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/52695253215f4/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -48,6 +42,12 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Purifiers",
+    "Humanity's Last Stand",
+    "Operation: Zero Tolerance",
+    "Features of the Marvel Universe"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/244/bastion",

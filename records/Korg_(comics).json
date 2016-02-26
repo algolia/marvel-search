@@ -2,14 +2,11 @@
   "aliases": [
     "Korg"
   ],
-  "alliances": [
-    "Warbound"
-  ],
   "authors": [
     "Greg Pak",
     "Carlo Pagulayan"
   ],
-  "description": "Korg is a character in the Marvel Comics universe and is first seen in The Incredible Hulk #93 during the Planet Hulk storyline. Created by Greg Pak, Korg was inspired by Thor's origin story and was later retconned in The Incredible Hulk #94 into one of the stone creatures that fought Thor in Journey into Mystery #83 released in 1963.",
+  "description": "Korg is a character in the Marvel Comics universe and is first seen in The Incredible Hulk #93 during the Planet Hulk storyline",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5269581a55d0c/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
     "Korg"
   ],
   "species": [
+  ],
+  "teams": [
+    "Warbound"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011080/korg",

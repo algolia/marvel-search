@@ -3,14 +3,10 @@
     "Kris Keating",
     "Foreigner"
   ],
-  "alliances": [
-    "1400",
-    "1400 Club"
-  ],
   "authors": [
     "Peter David"
   ],
-  "description": "The Foreigner is a fictional comic book supervillain in the Marvel Comics universe. He was created by writer Peter David, and first appeared in Web of Spider-Man #15 (June 1986)The Foreigner is a mercenary and assassin. Although he has no superhuman abilities, he has trained his body to be in absolute peak physical condition, is among the greatest martial arts practitioners in the Marvel Universe, and as a professional assassin, who has evaded detection by various international law enforcement agencies, is highly intelligent. He is often depicted as being exceedingly competent.The Foreigner was formerly married to Silver Sable.",
+  "description": "The Foreigner is a fictional comic book supervillain in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/SpideyForeigner209.jpg/200px-SpideyForeigner209.jpg",
   "isHero": false,
   "isVillain": true,
@@ -33,6 +29,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "1400",
+    "1400 Club"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Foreigner_(comics)"

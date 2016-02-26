@@ -3,10 +3,6 @@
     "Sentry",
     "Sentry (Curtis Elkins)"
   ],
-  "alliances": [
-    "The Vault",
-    "The Jury"
-  ],
   "authors": [
     "Mark Bagley",
     "David Michelinie"
@@ -36,6 +32,10 @@
     "Curtis Elkins"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Vault",
+    "The Jury"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2048/sentry",

@@ -4,17 +4,12 @@
     "the Goddess of the Northern Skies",
     "Roma"
   ],
-  "alliances": [
-    "Superior to the Captain Britain Corps",
-    "Superior to the",
-    "Captain Britain Corps"
-  ],
   "authors": [
     "Chris Claremont",
     "Fred Kida",
     "Herb Trimpe"
   ],
-  "description": "Roma is a fictional character featured in numerous Marvel Comics titles. She is the daughter of Merlyn. Roma is the Omniversal Guardian, charged with the safety of the Omniverse. She is assisted in her task by Saturnyne, the Omniversal Majestrix and the Captain Britain Corps.",
+  "description": "Roma is a fictional character featured in numerous Marvel Comics titles",
   "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/Roma_-_uncanny_x-men_462.png",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +33,11 @@
     "Roma"
   ],
   "species": [
+  ],
+  "teams": [
+    "Superior to the Captain Britain Corps",
+    "Superior to the",
+    "Captain Britain Corps"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Roma_(comics)"

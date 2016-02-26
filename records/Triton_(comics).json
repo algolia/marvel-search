@@ -2,11 +2,6 @@
   "aliases": [
     "Triton"
   ],
-  "alliances": [
-    "Inhumans",
-    "Deep Six",
-    "Inhuman Royal Family"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
@@ -39,6 +34,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Inhumans",
+    "Deep Six",
+    "Inhuman Royal Family"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1010335/triton",

@@ -3,14 +3,11 @@
     "Michael McBride",
     "Forearm"
   ],
-  "alliances": [
-    "Mutant Liberation Front"
-  ],
   "authors": [
     "Rob Liefeld",
     "Louise Simonson"
   ],
-  "description": "Forearm (Michael McCain) is a fictional mutant villain in the Marvel Comics universe. As a member of the Mutant Liberation Front, Forearm has always been a mainstay on the terrorist group's roster, even staying through leader change and surviving incarceration.",
+  "description": "Forearm (Michael McCain) is a fictional mutant villain in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Forearm",
@@ -34,6 +31,9 @@
     "Michael McCain"
   ],
   "species": [
+  ],
+  "teams": [
+    "Mutant Liberation Front"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/719/forearm",

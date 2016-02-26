@@ -5,16 +5,11 @@
     "Candra of the Floating Spires",
     "Candra"
   ],
-  "alliances": [
-    "Externals",
-    "Thieves Guild",
-    "Assassins' Guild"
-  ],
   "authors": [
     "Lee Weeks",
     "Howard Mackie"
   ],
-  "description": "Candra, sometimes called Kandra is a fictional character, a Mutant supervillainess appearing in Marvel Comics universe.She is a member of the Externals and has exhibited immensely powerful telekinetic abilities in addition to being immortal.",
+  "description": "Candra, sometimes called Kandra is a fictional character, a Mutant supervillainess appearing in Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Candra.JPG/248px-Candra.JPG",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +36,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Externals",
+    "Thieves Guild",
+    "Assassins' Guild"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Candra_(comics)"

@@ -2,15 +2,11 @@
   "aliases": [
     "Reptilla"
   ],
-  "alliances": [
-    "Salem's Seven",
-    "Frightful Four"
-  ],
   "authors": [
     "Len Wein",
     "George Pérez"
   ],
-  "description": "Reptilla is a fictional character in the Marvel Universe.",
+  "description": "Reptilla is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Reptilla",
@@ -29,6 +25,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Salem's Seven",
+    "Frightful Four"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Reptilla"

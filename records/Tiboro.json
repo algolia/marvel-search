@@ -2,14 +2,11 @@
   "aliases": [
     "Tiboro"
   ],
-  "alliances": [
-    "Lords of the Netherwords"
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "Tiboro is a fictional character in the Marvel Universe.",
+  "description": "Tiboro is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Tiboro",
@@ -30,6 +27,9 @@
     "Tiboro"
   ],
   "species": [
+  ],
+  "teams": [
+    "Lords of the Netherwords"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Tiboro"

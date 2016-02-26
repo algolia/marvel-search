@@ -4,16 +4,12 @@
     "Big Blue",
     "Century"
   ],
-  "alliances": [
-    "Revengers",
-    "Force Works"
-  ],
   "authors": [
     "Tom Tenney",
     "Andy Lanning",
     "Dan Abnett"
   ],
-  "description": "Century is a fictional character, a comic book superhero who is a member of Force Works in the comic series of the same name from 1994–1996. Created by Dan Abnett, Andy Lanning, and Tom Tenney, the character first appeared in issue #1 of Force Works in July 1994.",
+  "description": "Century is a fictional character, a comic book superhero who is a member of Force Works in the comic series of the same name from 1994–1996",
   "image": "https://upload.wikimedia.org/wikipedia/en/2/29/Centuryfw5.jpg",
   "isHero": false,
   "isVillain": false,
@@ -48,6 +44,10 @@
     "Century"
   ],
   "species": [
+  ],
+  "teams": [
+    "Revengers",
+    "Force Works"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Century_(comics)"

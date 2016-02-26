@@ -2,12 +2,9 @@
   "aliases": [
     "Hazmat"
   ],
-  "alliances": [
-    "Avengers Academy"
-  ],
   "authors": [
   ],
-  "description": "Hazmat is a fictional character appearing in comic books from Marvel Comics.",
+  "description": "Hazmat is a fictional character appearing in comic books from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Hazmat",
@@ -28,6 +25,9 @@
     "Jennifer Takeda"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers Academy"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hazmat_(comics)"

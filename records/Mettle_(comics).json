@@ -3,14 +3,11 @@
     "Fortress",
     "Mettle"
   ],
-  "alliances": [
-    "Avengers Academy"
-  ],
   "authors": [
     "Christos Gage",
     "Mike McKone"
   ],
-  "description": "Mettle (Ken Mack) is a fictional character from Marvel Comics. He was recruited into training at the Avengers Academy to become an Avenger.",
+  "description": "Mettle (Ken Mack) is a fictional character from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Mettle",
@@ -37,6 +34,9 @@
     "Ken Mack"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers Academy"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mettle_(comics)"

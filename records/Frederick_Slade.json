@@ -3,14 +3,11 @@
     "Dr. Hartley",
     "Frederick Slade"
   ],
-  "alliances": [
-    "Clan Akkaba"
-  ],
   "authors": [
     "Frank Tieri",
     "Clayton Henry"
   ],
-  "description": "Frederick Slade is a fictional character and mutant in the Marvel Comics universe. His first appearance was in X-Men: Apocalypse vs. Dracula #2.",
+  "description": "Frederick Slade is a fictional character and mutant in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Fredrich_slade_profile.JPG/200px-Fredrich_slade_profile.JPG",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +30,9 @@
     "Frederick Slade"
   ],
   "species": [
+  ],
+  "teams": [
+    "Clan Akkaba"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Slade"

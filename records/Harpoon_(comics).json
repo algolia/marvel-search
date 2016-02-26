@@ -2,15 +2,12 @@
   "aliases": [
     "Harpoon"
   ],
-  "alliances": [
-    "Marauders"
-  ],
   "authors": [
     "John Romita, Jr.",
     "Dan Green",
     "Chris Claremont"
   ],
-  "description": "Harpoon (Kodiak Noatak) is a fictional character created by Marvel Comics. He is a member of the mutant assassin team known as Marauders, who are employed by Mister Sinister. Little is known about Harpoon other than that he is Inuit.",
+  "description": "Harpoon (Kodiak Noatak) is a fictional character created by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Harpoon",
@@ -31,6 +28,9 @@
     "Kodiak Noatak"
   ],
   "species": [
+  ],
+  "teams": [
+    "Marauders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/906/harpoon",

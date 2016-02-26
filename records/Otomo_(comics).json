@@ -2,11 +2,9 @@
   "aliases": [
     "Otomo"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "Otomo is a fictional character, a mutant in the Marvel Comics Universe. He first appeared in X-51 #6.",
+  "description": "Otomo is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Otomo",
@@ -28,6 +26,8 @@
     "Otomo"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Otomo_(comics)"

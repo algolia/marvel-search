@@ -15,12 +15,6 @@
     "Daniel Rand/",
     "Iron Fist"
   ],
-  "alliances": [
-    "Annihilation",
-    "Defenders",
-    "Secret Defenders",
-    "United Front"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
@@ -62,6 +56,12 @@
     "Kl'rt"
   ],
   "species": [
+  ],
+  "teams": [
+    "Annihilation",
+    "Defenders",
+    "Secret Defenders",
+    "United Front"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2260/super-skrull",

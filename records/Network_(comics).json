@@ -2,12 +2,6 @@
   "aliases": [
     "Network"
   ],
-  "alliances": [
-    "Alpha Squadron",
-    "X-Mansion",
-    "Alpha Squadron training squad",
-    "Xavier Institute"
-  ],
   "authors": [
     "Ramon Bachs",
     "Nunzio DeFilippis",
@@ -15,7 +9,7 @@
     "Paul Jenkins",
     "Nunzio DeFilippis and Christina Weir"
   ],
-  "description": "Network is the name of three unrelated fictional characters in the Marvel Comics universe. One is a teleporting villain, the others are both superheroines with the power to communicate with and/or manipulate machines.",
+  "description": "Network is the name of three unrelated fictional characters in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Network_%28NXM%29.jpg/130px-Network_%28NXM%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +33,12 @@
     "Sarah Vale"
   ],
   "species": [
+  ],
+  "teams": [
+    "Alpha Squadron",
+    "X-Mansion",
+    "Alpha Squadron training squad",
+    "Xavier Institute"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1582/network",

@@ -2,14 +2,11 @@
   "aliases": [
     "Roulette"
   ],
-  "alliances": [
-    "Hellions"
-  ],
   "authors": [
     "Sal Buscema",
     "Chris Claremont"
   ],
-  "description": "Roulette (real name: Jennifer Stavros) is a fictional character, a mutant in the Marvel Universe.",
+  "description": "Roulette (real name: Jennifer Stavros) is a fictional character, a mutant in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Roulette_%28Marvel_Comics%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -31,6 +28,9 @@
     "Jennifer Stavros"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellions"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1958/roulette",

@@ -7,16 +7,11 @@
     "Kaine Parker",
     "Kaine"
   ],
-  "alliances": [
-    "New Warriors",
-    "''New Warriors'' vol. 5",
-    "</ref>"
-  ],
   "authors": [
     "Steven Butler",
     "Terry Kavanagh"
   ],
-  "description": "Kaine Parker is a fictional character, a superhero and former supervillain in the Marvel Comics who serves as an ally, an enemy, and a foil of Spider-Man and Ben Reilly. He first appeared in Web of Spider-Man #119, and is the Jackal's first failed attempt at cloning Peter Parker (Spider-Man). The character was created by Terry Kavanagh and Steven Butler. He first appeared as the new Scarlet Spider in the Marvel Point One one-shot in November 2011 before starring in his own series with second volume of Scarlet Spider.",
+  "description": "Kaine Parker is a fictional character, a superhero and former supervillain in the Marvel Comics who serves as an ally, an enemy, and a foil of Spider-Man and Ben Reilly",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg/250px-Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg",
   "isHero": false,
   "isVillain": false,
@@ -58,6 +53,11 @@
     "Kaine Parker"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Warriors",
+    "''New Warriors'' vol. 5",
+    "</ref>"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2770/peter_parker",

@@ -2,16 +2,11 @@
   "aliases": [
     "Master Izo"
   ],
-  "alliances": [
-    "Chaste",
-    "The Hand",
-    "The Chaste"
-  ],
   "authors": [
     "Ed Brubaker",
     "Michael Lark"
   ],
-  "description": "Master Izo is a fictional character in the Marvel Comics universe.  A superhero martial artist, he is associated with Daredevil, and first appeared in issue #112 of his series.  He was created by Ed Brubaker and Michael Lark.",
+  "description": "Master Izo is a fictional character in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Master_Izo.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +31,11 @@
     "Izo"
   ],
   "species": [
+  ],
+  "teams": [
+    "Chaste",
+    "The Hand",
+    "The Chaste"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Master_Izo"

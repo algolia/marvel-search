@@ -2,14 +2,11 @@
   "aliases": [
     "Jack Starsmore"
   ],
-  "alliances": [
-    "Clan Akkaba"
-  ],
   "authors": [
     "Frank Tieri",
     "Clayton Henry"
   ],
-  "description": "Jack Starsmore is a fictional character, a mutant in the Marvel Comics universe. The character makes his first appearance in X-Men: Apocalypse vs. Dracula #1.",
+  "description": "Jack Starsmore is a fictional character, a mutant in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Jack Starsmore",
@@ -30,6 +27,9 @@
     "Jack Starsmore"
   ],
   "species": [
+  ],
+  "teams": [
+    "Clan Akkaba"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Jack_Starsmore"

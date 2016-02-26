@@ -2,25 +2,11 @@
   "aliases": [
     "Cloak and Dagger"
   ],
-  "alliances": [
-    "Defenders",
-    "Brides of Set",
-    "X-Men",
-    "Dark X-Men",
-    "Civil War",
-    "New Warriors",
-    "Runaways",
-    "Marvel Knights",
-    "Secret Avengers (Civil War)",
-    "''(Dagger)''",
-    "Secret Defenders",
-    "Brides of Set ''(Dagger)''"
-  ],
   "authors": [
     "Bill Mantlo",
     "Ed Hannigan"
   ],
-  "description": "Cloak (Tyrone \"Ty\" Johnson) and Dagger (Tandy Bowen) are a fictional comic book superhero duo in Marvel Universe. They were created by writer William \"Bill\" Mantlo and artist Edward Hannigan.",
+  "description": "Cloak (Tyrone \"Ty\" Johnson) and Dagger (Tandy Bowen) are a fictional comic book superhero duo in Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Cloak_and_Dagger_1_%281983%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -52,6 +38,20 @@
     "Dagger''': Tandy Bowen"
   ],
   "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "Brides of Set",
+    "X-Men",
+    "Dark X-Men",
+    "Civil War",
+    "New Warriors",
+    "Runaways",
+    "Marvel Knights",
+    "Secret Avengers (Civil War)",
+    "''(Dagger)''",
+    "Secret Defenders",
+    "Brides of Set ''(Dagger)''"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Cloak_and_Dagger_(comics)"

@@ -3,14 +3,11 @@
     "Magnus",
     "Magnus Lehnsherr"
   ],
-  "alliances": [
-    "Exiles"
-  ],
   "authors": [
     "Judd Winick",
     "Mike McKone"
   ],
-  "description": "Magnus (Magnus Lehnsherr) is a fictional character who appears in the comic books published by Marvel Comics. He is the son of an alternate-universe version of Magneto and Rogue. Created by Judd Winick and Mike McKone, this version first appeared in Exiles #1.",
+  "description": "Magnus (Magnus Lehnsherr) is a fictional character who appears in the comic books published by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Magnus",
@@ -35,6 +32,9 @@
     "Magnus Lehnsherr"
   ],
   "species": [
+  ],
+  "teams": [
+    "Exiles"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Magnus_Lehnsherr"

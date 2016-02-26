@@ -2,15 +2,11 @@
   "aliases": [
     "Portal"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "A.R.M.O.R."
-  ],
   "authors": [
     "Danny Fingeroth",
     "Rich Buckler"
   ],
-  "description": "Portal (Charles Little Sky) is a fictional character, a mutant superhero in the Marvel Comics Universe.",
+  "description": "Portal (Charles Little Sky) is a fictional character, a mutant superhero in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Portal",
@@ -33,6 +29,10 @@
     "Charles Little Sky"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "A.R.M.O.R."
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Portal_(comics)"

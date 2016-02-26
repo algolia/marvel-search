@@ -3,16 +3,6 @@
     "Firestar",
     "Spider-Man and His Amazing Friends"
   ],
-  "alliances": [
-    "X-Men: The 198",
-    "Avengers",
-    "Young Allies",
-    "Hellions",
-    "X-Men",
-    "New Warriors",
-    "The 198",
-    "Young Allies (Heroic Age)"
-  ],
   "authors": [
     "Christy Marx",
     "Dan Spiegle",
@@ -22,7 +12,7 @@
     "Dennis Marks",
     "John Romita, Sr."
   ],
-  "description": "Not be confused with Starfire.Firestar (Angelica \"Angel\" Jones) is a fictional mutant superheroine in the Marvel Comics Universe. Debuting in 1981 on the NBC animated television series Spider-Man and His Amazing Friends as a member of the X-Men, she has the ability to generate and manipulate microwave radiation, which allows her to generate intense heat and flames, and to fly. In the comics, she has acted a solo hero and as a member of the Hellions, the New Warriors, the Avengers, and the X-Men.",
+  "description": "Not be confused with Starfire",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4ce5a555585c6/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -46,6 +36,16 @@
     "Angelica \"Angel\" Jones"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men: The 198",
+    "Avengers",
+    "Young Allies",
+    "Hellions",
+    "X-Men",
+    "New Warriors",
+    "The 198",
+    "Young Allies (Heroic Age)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/703/firestar",

@@ -2,11 +2,6 @@
   "aliases": [
     "Captain America"
   ],
-  "alliances": [
-    "Crusaders",
-    "Invaders",
-    "All-Winners Squad"
-  ],
   "authors": [
     "Roy Thomas",
     "Frank Robbins"
@@ -36,6 +31,11 @@
     "William Naslund"
   ],
   "species": [
+  ],
+  "teams": [
+    "Crusaders",
+    "Invaders",
+    "All-Winners Squad"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Spirit_of_%2776_(Marvel_Comics)"

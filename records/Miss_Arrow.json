@@ -3,14 +3,12 @@
     "\"The Other\"",
     "Miss Arrow"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Mike Wieringo",
     "Todd Nauck",
     "Peter David"
   ],
-  "description": "Miss Arrow is a fictional character in the Marvel Universe. She was created by Peter David, Mike Wieringo, and Todd Nauck.",
+  "description": "Miss Arrow is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Miss Arrow",
@@ -33,6 +31,8 @@
     "Ero"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Miss_Arrow"

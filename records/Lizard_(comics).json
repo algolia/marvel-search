@@ -4,15 +4,11 @@
     "The Lizard",
     "Lizard"
   ],
-  "alliances": [
-    "Sinister Six",
-    "Sinister Twelve"
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "The Lizard (a.k.a. Curt Connors) is a fictional character, a supervillain in the Marvel Comics Universe. He is an enemy of Spider-Man. In 2009, the Lizard was named IGN's 62nd Greatest Comic Villain of All Time.In the stories, Dr. Connors was a genetic biologist who researched the ability of certain reptiles to regrow missing limbs, partially to find a way to regenerate his right arm. After a test on himself, he transforms into a violent lizard monster. Though able to revert to his human form, he suffers occasional fits of his alter ego breaking free.Curt Connors was played by Dylan Baker in Spider-Man 2 and Spider-Man 3. Rhys Ifans played Dr. Curtis Connors and his Lizard alter ego as the main antagonist in the 2012 film The Amazing Spider-Man.",
+  "description": "The Lizard (a",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/528d33efe2cae/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -53,6 +49,10 @@
     "Curtis \"Curt\" Connors"
   ],
   "species": [
+  ],
+  "teams": [
+    "Sinister Six",
+    "Sinister Twelve"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009404/lizard",

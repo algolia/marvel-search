@@ -4,24 +4,11 @@
     "\"Monstro\"",
     "Giganto"
   ],
-  "alliances": [
-    "Namor",
-    "Captain Barracuda",
-    "Llyra",
-    "Llyron",
-    "Triton",
-    "Droom",
-    "Eerok",
-    "Grogg,",
-    "Inorganic Technodrones",
-    "Kro",
-    "Mole Man"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Giganto is the name of two Marvel Comics monsters.",
+  "description": "Giganto is the name of two Marvel Comics monsters",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Giganto1.jpg/250px-Giganto1.jpg",
   "isHero": false,
   "isVillain": false,
@@ -52,6 +39,19 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Namor",
+    "Captain Barracuda",
+    "Llyra",
+    "Llyron",
+    "Triton",
+    "Droom",
+    "Eerok",
+    "Grogg,",
+    "Inorganic Technodrones",
+    "Kro",
+    "Mole Man"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Giganto"

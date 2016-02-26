@@ -2,15 +2,12 @@
   "aliases": [
     "Tusk"
   ],
-  "alliances": [
-    "Dark Riders"
-  ],
   "authors": [
     "Jim Lee",
     "Whilce Portacio",
     "Chris Claremont"
   ],
-  "description": "Tusk is a fictional supervillain in the Marvel Comics Universe. His name comes from the two large tusks that protrude out of his shoulders. He has superhuman strength and the ability to create smaller duplicates of himself that do his bidding.  He first appeared in X-Factor #65 and was created by Jim Lee, Chris Claremont, and Whilce Portacio",
+  "description": "Tusk is a fictional supervillain in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Tusk",
@@ -31,6 +28,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Dark Riders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2418/tusk",

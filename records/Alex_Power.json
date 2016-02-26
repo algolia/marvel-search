@@ -8,16 +8,11 @@
     "Zero-G",
     "Alex Power"
   ],
-  "alliances": [
-    "Power Pack",
-    "Future Foundation",
-    "New Warriors"
-  ],
   "authors": [
     "June Brigman",
     "Louise Simonson"
   ],
-  "description": "Alexander \"Alex\" Power (also known as Zero-G) is a fictional character in the Marvel Universe. He first appeared in Power Pack #1 and was created by Louise Simonson and June Brigman.",
+  "description": "Alexander \"Alex\" Power (also known as Zero-G) is a fictional character in the Marvel Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce5a385a2e82/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -47,6 +42,11 @@
     "Alexander Power"
   ],
   "species": [
+  ],
+  "teams": [
+    "Power Pack",
+    "Future Foundation",
+    "New Warriors"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1387/alex_power",

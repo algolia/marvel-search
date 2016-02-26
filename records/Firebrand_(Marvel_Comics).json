@@ -3,19 +3,13 @@
     "Project: Firebrand",
     "Firebrand"
   ],
-  "alliances": [
-    "Terra Tactics",
-    "Masters of Evil",
-    "The Flaming Sword",
-    "Force of Nature"
-  ],
   "authors": [
     "Archie Goodwin",
     "Sean Chen",
     "Don Heck",
     "Kurt Busiek"
   ],
-  "description": "Firebrand is the codename of different fictional supervillains in the Marvel Comics universe. Three of them were normal humans inside powered armor and relied on fire-based weapons; one was a mutated human.",
+  "description": "Firebrand is the codename of different fictional supervillains in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/9/96/Firebrand_001.jpg",
   "isHero": false,
   "isVillain": false,
@@ -46,6 +40,12 @@
     "Russ Broxtel"
   ],
   "species": [
+  ],
+  "teams": [
+    "Terra Tactics",
+    "Masters of Evil",
+    "The Flaming Sword",
+    "Force of Nature"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/695/firebrand",

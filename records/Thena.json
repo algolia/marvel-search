@@ -5,10 +5,6 @@
     "Corona",
     "Thena"
   ],
-  "alliances": [
-    "Heroes for Hire",
-    "Eternals"
-  ],
   "authors": [
     "Jack Kirby"
   ],
@@ -45,6 +41,10 @@
     "Azura"
   ],
   "species": [
+  ],
+  "teams": [
+    "Heroes for Hire",
+    "Eternals"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2350/thena",

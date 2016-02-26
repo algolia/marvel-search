@@ -2,13 +2,10 @@
   "aliases": [
     "Merlin"
   ],
-  "alliances": [
-    "Court of King Arthur"
-  ],
   "authors": [
     "Dan Berry"
   ],
-  "description": "Merlin is the name of multiple fictional characters in the Marvel Universe.",
+  "description": "Merlin is the name of multiple fictional characters in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Merlin",
@@ -28,6 +25,9 @@
     "Merlin"
   ],
   "species": [
+  ],
+  "teams": [
+    "Court of King Arthur"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Merlin_(Marvel_Comics)"

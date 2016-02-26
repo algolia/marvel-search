@@ -2,14 +2,11 @@
   "aliases": [
     "Wicked"
   ],
-  "alliances": [
-    "Excalibur"
-  ],
   "authors": [
     "Aaron Lopresti",
     "Chris Claremont"
   ],
-  "description": "Wicked is a fictional character created by Chris Claremont for Marvel Comics second installment of the series Excalibur. She is one of the few survivors of the island of Genosha which was decimated by the wild Sentinel attacks commissioned by Cassandra Nova.",
+  "description": "Wicked is a fictional character created by Chris Claremont for Marvel Comics second installment of the series Excalibur",
   "isHero": false,
   "isVillain": false,
   "name": "Wicked",
@@ -30,6 +27,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Excalibur"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Wicked_(comics)"

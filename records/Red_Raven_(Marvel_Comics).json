@@ -2,10 +2,6 @@
   "aliases": [
     "Red Raven"
   ],
-  "alliances": [
-    "Iron Mask's gang",
-    "Liberty Legion"
-  ],
   "authors": [
     "Joe Simon",
     "Louis Cazeneuve",
@@ -13,7 +9,7 @@
     "Dick Ayers",
     "Joe Simon and Louis Cazeneuve"
   ],
-  "description": "Red Raven is the name of three separate characters from Marvel Comics: The original Red Raven, a flying superhero. He appeared in print once in 1940, then not again until 1968, and occasionally since then. The second Red Raven, named Dania, a flying superhero and daughter of the original Red Raven. She first appeared in print in 1992, and occasionally since then. Redford Raven, a Wild West villain who owned a set of mechanical wings and was called Red Raven. He has appeared in print three times, in 1964, 1985, and 1987.",
+  "description": "Red Raven is the name of three separate characters from Marvel Comics: The original Red Raven, a flying superhero",
   "isHero": false,
   "isVillain": false,
   "name": "Red Raven",
@@ -35,6 +31,10 @@
     "Redford Raven"
   ],
   "species": [
+  ],
+  "teams": [
+    "Iron Mask's gang",
+    "Liberty Legion"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Red_Raven_(Marvel_Comics)"

@@ -5,15 +5,11 @@
     "Zane Marko",
     "J2"
   ],
-  "alliances": [
-    "A-Next",
-    "X-People"
-  ],
   "authors": [
     "Ron Frenz",
     "Tom DeFalco"
   ],
-  "description": "J2 (Zane Yama-Marko) is a fictional comic book mutant superhero in the Marvel Universe. He exists in MC2, an alternate future timeline of the main Marvel continuity and is the son of the former supervillain Juggernaut. J2 is a member of the future incarnation of the Avengers, A-Next. J2 once had his own series, which lasted for twelve issues. He has made a few appearances in Spider-Girl (also set in the MC2 universe, starring the daughter of Spider-Man).",
+  "description": "J2 (Zane Yama-Marko) is a fictional comic book mutant superhero in the Marvel Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/528d340442cca/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +36,10 @@
     "Zane Yama-Marko"
   ],
   "species": [
+  ],
+  "teams": [
+    "A-Next",
+    "X-People"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1105/juggernaut",

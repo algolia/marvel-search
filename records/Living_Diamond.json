@@ -2,13 +2,11 @@
   "aliases": [
     "Living Diamond"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Roy Thomas",
     "Werner Roth"
   ],
-  "description": "Living Diamond is a fictional character in the Marvel Universe.",
+  "description": "Living Diamond is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Living Diamond",
@@ -35,6 +33,8 @@
     "Jack Winters"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Living_Diamond"

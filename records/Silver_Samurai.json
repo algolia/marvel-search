@@ -2,12 +2,6 @@
   "aliases": [
     "Silver Samurai"
   ],
-  "alliances": [
-    "Clan Yashida",
-    "HYDRA",
-    "Big Hero 6",
-    "Legion Accursed"
-  ],
   "authors": [
     "Steve Gerber",
     "Bob Brown"
@@ -53,6 +47,12 @@
     "Kenuichio Harada"
   ],
   "species": [
+  ],
+  "teams": [
+    "Clan Yashida",
+    "HYDRA",
+    "Big Hero 6",
+    "Legion Accursed"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2101/silver_samurai",

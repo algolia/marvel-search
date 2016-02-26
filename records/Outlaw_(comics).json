@@ -4,16 +4,10 @@
     "Crazy Inez",
     "Outlaw"
   ],
-  "alliances": [
-    "Agent X",
-    "X-Men: The 198",
-    "Agency X",
-    "The 198"
-  ],
   "authors": [
     "Gail Simone"
   ],
-  "description": "Outlaw (Inez Temple) is a fictional character created by Marvel Comics for their series' Deadpool and Agent X. She is a mutant with the abilities of superhuman strength, durability, and an uncanny aptitude with firearms.",
+  "description": "Outlaw (Inez Temple) is a fictional character created by Marvel Comics for their series' Deadpool and Agent X",
   "image": "https://upload.wikimedia.org/wikipedia/en/6/61/Agent_X_02_Udon_Studios.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +36,12 @@
     "Inez Temple"
   ],
   "species": [
+  ],
+  "teams": [
+    "Agent X",
+    "X-Men: The 198",
+    "Agency X",
+    "The 198"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Outlaw_(comics)"

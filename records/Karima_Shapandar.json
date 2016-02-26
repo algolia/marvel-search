@@ -4,20 +4,11 @@
     "Omega Sentinel",
     "Karima Shapandar"
   ],
-  "alliances": [
-    "Prime Sentinel",
-    "Excalibur",
-    "Marauders",
-    "X-Men",
-    "Acolytes",
-    "Genoshan Excalibur",
-    "Omega Prime Sentinels"
-  ],
   "authors": [
     "Brett Booth",
     "Chris Claremont"
   ],
-  "description": "Omega Sentinel (Karima Shapandar) is a fictional character associated with the X-Men and its spinoff Excalibur. She first appeared in X-Men Unlimited, vol. 1 #27 (June 2000) and was created by Chris Claremont and Brett Booth.",
+  "description": "Omega Sentinel (Karima Shapandar) is a fictional character associated with the X-Men and its spinoff Excalibur",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4c002e4dc5f11/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -47,6 +38,15 @@
     "Karima Shapandar"
   ],
   "species": [
+  ],
+  "teams": [
+    "Prime Sentinel",
+    "Excalibur",
+    "Marauders",
+    "X-Men",
+    "Acolytes",
+    "Genoshan Excalibur",
+    "Omega Prime Sentinels"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1653/omega_sentinel",

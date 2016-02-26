@@ -2,14 +2,12 @@
   "aliases": [
     "Vibrania"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Don Perlin",
     "Ron Wilson",
     "Scott Lobdell"
   ],
-  "description": "Vibrania is a Marvel Comics superheroine character from the fictional country of Kwarrai, Africa. Though her appearance was brief in the Marvel Universe, it was memorable to the superhero Speedball. She was created by Scott Lobdell, Ron Wilson & Don Perlin and first appeared in Marvel Super-Heroes  vol. 3 #4. (December, 1990)",
+  "description": "Vibrania is a Marvel Comics superheroine character from the fictional country of Kwarrai, Africa",
   "isHero": false,
   "isVillain": false,
   "name": "Vibrania",
@@ -28,6 +26,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Vibrania"

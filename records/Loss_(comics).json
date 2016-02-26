@@ -2,15 +2,11 @@
   "aliases": [
     "Loss"
   ],
-  "alliances": [
-    "Morlocks",
-    "Gene Nation"
-  ],
   "authors": [
     "Warren Ellis",
     "Terry Dodson"
   ],
-  "description": "Loss is a mutant comic book character. She has been a member of both the Morlocks and later on of Gene Nation. She first appeared in Storm  #3.",
+  "description": "Loss is a mutant comic book character",
   "isHero": false,
   "isVillain": false,
   "name": "Loss",
@@ -30,6 +26,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Morlocks",
+    "Gene Nation"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Loss_(comics)"

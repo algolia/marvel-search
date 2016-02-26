@@ -3,17 +3,10 @@
     "Creepy Crawley",
     "Diamond Lil"
   ],
-  "alliances": [
-    "Gamma Flight",
-    "Omega Flight",
-    "Alpha Flight",
-    "X-Men: The 198",
-    "The 198"
-  ],
   "authors": [
     "John Byrne"
   ],
-  "description": "Diamond Lil (Lillian Crawley-Jeffries) is a fictional mutant character created by writer and artist John Byrne for the ongoing comic book series Alpha Flight published by Marvel Comics. Since her debut, Diamond Lil has been portrayed as both hero and villain.",
+  "description": "Diamond Lil (Lillian Crawley-Jeffries) is a fictional mutant character created by writer and artist John Byrne for the ongoing comic book series Alpha Flight published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/XMN_DiamondLil.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +29,13 @@
     "Lillian Crawley-Jeffries"
   ],
   "species": [
+  ],
+  "teams": [
+    "Gamma Flight",
+    "Omega Flight",
+    "Alpha Flight",
+    "X-Men: The 198",
+    "The 198"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Diamond_Lil_(comics)"

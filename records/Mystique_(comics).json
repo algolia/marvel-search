@@ -17,27 +17,11 @@
     "Amichai Benvenisti",
     "Mystique"
   ],
-  "alliances": [
-    "Astonishing Avengers",
-    "Brotherhood of Mutants",
-    "Chevaliers training squad",
-    "Daily Bugle",
-    "Dark X-Men",
-    "DARPA",
-    "Freedom Force",
-    "Marauders",
-    "Mossad",
-    "The Hand",
-    "Xavier Institute",
-    "X-Corps",
-    "X-Factor",
-    "X-Men"
-  ],
   "authors": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "description": "Mystique (Raven Darkhölme) is a fictional character who appears in American comic books published by Marvel Comics, as well as in a number of movie, television, and video game adaptations, typically in fiction related to the X-Men. Created by artist David Cockrum and writer Chris Claremont, she first appeared in the comic book Ms. Marvel #16, published in 1978.Mystique is a member of a fictional sub-species of humanity known as \"mutants\", who are born with superhuman abilities.  Mystique is a shapeshifter who can mimic the appearance and voice of any person with exquisite precision. She is typically a villain and foe of the X-Men.",
+  "description": "Mystique (Raven Darkhölme) is a fictional character who appears in American comic books published by Marvel Comics, as well as in a number of movie, television, and video game adaptations, typically in fiction related to the X-Men",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/5390dc2225782/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -62,6 +46,22 @@
     "Raven Darkhölme"
   ],
   "species": [
+  ],
+  "teams": [
+    "Astonishing Avengers",
+    "Brotherhood of Mutants",
+    "Chevaliers training squad",
+    "Daily Bugle",
+    "Dark X-Men",
+    "DARPA",
+    "Freedom Force",
+    "Marauders",
+    "Mossad",
+    "The Hand",
+    "Xavier Institute",
+    "X-Corps",
+    "X-Factor",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009465/mystique",

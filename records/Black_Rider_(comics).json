@@ -5,12 +5,10 @@
     "The Black Rider",
     "Black Rider"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Syd Shores"
   ],
-  "description": "The Black Rider is a fictional Western character in comic books published by Marvel Comics.  He first appeared in All-Western Winners #2 (Winter 1948), from the company's 1940s forerunner, Timely Comics.",
+  "description": "The Black Rider is a fictional Western character in comic books published by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Black Rider",
@@ -32,6 +30,8 @@
     "Matthew \"Doc\" Masters"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Rider_(comics)"

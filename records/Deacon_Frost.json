@@ -3,13 +3,11 @@
     "Whitehair",
     "Deacon Frost"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Gene Colan",
     "Marv Wolfman"
   ],
-  "description": "Deacon Frost is a fictional character appearing in Marvel Comics. He appears in The Tomb of Dracula and in the Blade limited series.In the comics, Deacon Frost was depicted as a tall white haired late middle aged gentleman with red eyes, and wearing 1860s Germany period clothing. His doppelgänger sported an accent and attire that suggested a Southern preacher.",
+  "description": "Deacon Frost is a fictional character appearing in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Deaconfrost.png/250px-Deaconfrost.png",
   "isHero": false,
   "isVillain": false,
@@ -29,6 +27,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2797/deacon_frost",

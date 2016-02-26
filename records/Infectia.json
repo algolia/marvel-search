@@ -2,13 +2,11 @@
   "aliases": [
     "Infectia"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Louise Simonson",
     "Walt Simonson"
   ],
-  "description": "Infectia (Josephine) is a fictional character appearing in the Marvel Comics universe.",
+  "description": "Infectia (Josephine) is a fictional character appearing in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Infectia",
@@ -29,6 +27,8 @@
     "Josephine"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Infectia"

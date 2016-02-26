@@ -2,15 +2,12 @@
   "aliases": [
     "Helix"
   ],
-  "alliances": [
-    "New Warriors"
-  ],
   "authors": [
     "Ron Lim",
     "Tom DeFalco",
     "Todd Dezago"
   ],
-  "description": "Helix (Rafael Carago) is a fictional character, a mutate superhero in the Marvel Comics universe. He was created by Tom DeFalco and Todd DeZago in Spider-Man: Maximum Clonage Alpha (part of the Clone Saga). His first appearance as a New Warrior was in New Warriors #62.",
+  "description": "Helix (Rafael Carago) is a fictional character, a mutate superhero in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Helixnw.png/225px-Helixnw.png",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +29,9 @@
     "Rafael Carago"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Warriors"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Helix_(Marvel_Comics)"

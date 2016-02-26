@@ -2,13 +2,9 @@
   "aliases": [
     "Eli Bard"
   ],
-  "alliances": [
-    "Purifiers",
-    "Roman Senate"
-  ],
   "authors": [
   ],
-  "description": "Eli Bard (born Eliphas) is a fictional character, a comic book supervillain from the Marvel Comics universe. He is a member of the Purifiers and an enemy of the X-Men.",
+  "description": "Eli Bard (born Eliphas) is a fictional character, a comic book supervillain from the Marvel Comics universe",
   "isHero": false,
   "isVillain": true,
   "name": "Eli Bard",
@@ -32,6 +28,10 @@
     "Eliphas"
   ],
   "species": [
+  ],
+  "teams": [
+    "Purifiers",
+    "Roman Senate"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Eli_Bard"

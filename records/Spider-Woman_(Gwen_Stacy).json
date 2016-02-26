@@ -2,9 +2,6 @@
   "aliases": [
     "Spider-Gwen"
   ],
-  "alliances": [
-    "Web Warriors"
-  ],
   "authors": [
     "Jason Latour",
     "Robbi Rodriguez"
@@ -41,6 +38,9 @@
     "Gwen Stacy"
   ],
   "species": [
+  ],
+  "teams": [
+    "Web Warriors"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1010795/spider-woman_charlotte_witter/featured",

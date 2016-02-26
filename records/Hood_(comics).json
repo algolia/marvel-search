@@ -3,19 +3,12 @@
     "The Hood",
     "Hood"
   ],
-  "alliances": [
-    "Avengers: The Initiative",
-    "Cabal",
-    "The Cabal",
-    "The Initiative",
-    "Illuminati"
-  ],
   "authors": [
     "Eric Powell",
     "Brian K. Vaughan",
     "Kyle Hotz"
   ],
-  "description": "The Hood (real name Parker Robbins) is a fictional character, a supervillain, and a crime boss in the Marvel Comics Universe. Created by writer Brian K. Vaughan and artists Kyle Hotz and Eric Powell, the character first appeared in The Hood #1 (July 2002).",
+  "description": "The Hood (real name Parker Robbins) is a fictional character, a supervillain, and a crime boss in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/539a09a2863cf/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -45,6 +38,13 @@
     "Parker Robbins"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers: The Initiative",
+    "Cabal",
+    "The Cabal",
+    "The Initiative",
+    "Illuminati"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1010715/the_hood",

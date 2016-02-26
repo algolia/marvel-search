@@ -4,14 +4,11 @@
     "Quiet Man",
     "Prudence Leighton"
   ],
-  "alliances": [
-    "X-Corporation"
-  ],
   "authors": [
     "Brian K. Vaughan",
     "Jorge Lucas"
   ],
-  "description": "Prudence Leighton is a fictional character, a mutant in the Marvel Comics Universe. Prudence, originally a female, was murdered by Steinbeck, a pyrokinetic mutant. She used her ability to possess his body, taking on the codename Agent 16, and also the Quiet Man. The first appearance of both is Mystique #1.",
+  "description": "Prudence Leighton is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Quiet Man",
@@ -33,6 +30,9 @@
     "Prudence Leighton / Steinbeck"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Corporation"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Prudence_Leighton"

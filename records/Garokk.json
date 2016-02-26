@@ -5,13 +5,11 @@
     "Terminus",
     "Garokk"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Roy Thomas",
     "Jack Kirby"
   ],
-  "description": "Garokk (also known as the Petrified Man) is a fictional character that appears in comic books published by Marvel Comics. The character first appeared in Astonishing Tales vol. 1 #2 (November 1970) and was created by Roy Thomas and Jack Kirby.",
+  "description": "Garokk (also known as the Petrified Man) is a fictional character that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Garokk.PNG/150px-Garokk.PNG",
   "isHero": false,
   "isVillain": false,
@@ -45,6 +43,8 @@
     "Kirk Marston (second body)"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Garokk"

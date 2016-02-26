@@ -2,15 +2,11 @@
   "aliases": [
     "Don Fortunato"
   ],
-  "alliances": [
-    "Maggia",
-    "Hydra"
-  ],
   "authors": [
     "John Romita, Jr.",
     "Howard Mackie"
   ],
-  "description": "Vincente Fortunato is an elderly crime boss and enemy of the Marvel Comics superhero Spider-Man. He first appeared in Spider-Man #70. He is affiliated with the Maggia and HYDRA, and a competitor to the Kingpin.",
+  "description": "Vincente Fortunato is an elderly crime boss and enemy of the Marvel Comics superhero Spider-Man",
   "isHero": false,
   "isVillain": false,
   "name": "Don Fortunato",
@@ -31,6 +27,10 @@
     "Vincente Fortunato"
   ],
   "species": [
+  ],
+  "teams": [
+    "Maggia",
+    "Hydra"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Don_Fortunato"

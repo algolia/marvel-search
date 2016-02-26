@@ -2,14 +2,11 @@
   "aliases": [
     "Motormouth"
   ],
-  "alliances": [
-    "MI-13"
-  ],
   "authors": [
     "Gary Frank",
     "Graham Marks"
   ],
-  "description": "Motormouth (Harley Davis) is a fictional character created by Paul Neary and developed by writer Graham Marks with initial designs by Gary Frank (Supreme Power, The Incredible Hulk). As the titular character of her own series, Motormouth (later Motormouth & Killpower), was part of a line of original comics released in the early-to-mid 1990s by Marvel UK. She is a teenage street-rat from London, England with a fierce temper who curses constantly. She is 5 ft 4 in tall and weighs roughly 7 st 7 lb / 105 lb (48 kg).",
+  "description": "Motormouth (Harley Davis) is a fictional character created by Paul Neary and developed by writer Graham Marks with initial designs by Gary Frank (Supreme Power, The Incredible Hulk)",
   "isHero": true,
   "isVillain": false,
   "name": "Motormouth",
@@ -34,6 +31,9 @@
     "Harley Davis"
   ],
   "species": [
+  ],
+  "teams": [
+    "MI-13"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Motormouth_(comics)"

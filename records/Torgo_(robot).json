@@ -5,14 +5,11 @@
     "Torgo",
     "Torgo (robot)"
   ],
-  "alliances": [
-    "\"Horror-Hunters\""
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Torgo is a fictional character, an alien robot appearing in the Marvel Comics universe.",
+  "description": "Torgo is a fictional character, an alien robot appearing in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Torgo",
@@ -33,6 +30,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "\"Horror-Hunters\""
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Torgo_(robot)"

@@ -2,15 +2,11 @@
   "aliases": [
     "Wysper"
   ],
-  "alliances": [
-    "The Jury",
-    "Vault Guardsmen"
-  ],
   "authors": [
     "John Calimee",
     "Dan Slott"
   ],
-  "description": "Wysper (Jennifer Stewart) is a fictional character in the Marvel Comics universe. She first appeared Venom: Sinner Takes All  #1 and was created by Dan Slott and John Calimee.",
+  "description": "Wysper (Jennifer Stewart) is a fictional character in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Wysper",
@@ -37,6 +33,10 @@
     "Jennifer Stewart"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Jury",
+    "Vault Guardsmen"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Wysper"

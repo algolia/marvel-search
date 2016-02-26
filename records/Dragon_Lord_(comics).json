@@ -3,8 +3,6 @@
     "Dragon Lord",
     "Dragon Lord I"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Ed Hannigan",
     "Steve Ditko",
@@ -12,7 +10,7 @@
     "Bill Everett",
     "Mike Friedrich"
   ],
-  "description": "Dragon Lord is the name of several unrelated fictional characters in Marvel Comics.",
+  "description": "Dragon Lord is the name of several unrelated fictional characters in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Dragonlordc.jpg/249px-Dragonlordc.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +34,8 @@
     "Ral Dorn"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2895/dragon_lord",

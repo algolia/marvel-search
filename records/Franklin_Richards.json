@@ -10,14 +10,6 @@
     "Richards",
     "Franklin"
   ],
-  "alliances": [
-    "Future Foundation",
-    "Fantastic Four",
-    "Fantastic Force",
-    "Generation X",
-    "Power Pack",
-    "Daydreamers"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
@@ -51,6 +43,14 @@
     "Franklin Benjamin Richards"
   ],
   "species": [
+  ],
+  "teams": [
+    "Future Foundation",
+    "Fantastic Four",
+    "Fantastic Force",
+    "Generation X",
+    "Power Pack",
+    "Daydreamers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2705/franklin_richards",

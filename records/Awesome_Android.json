@@ -3,18 +3,11 @@
     "Awesome Andy",
     "Awesome Android"
   ],
-  "alliances": [
-    "Heavy Metal",
-    "Intelligencia",
-    "Goodman",
-    "Lieber",
-    "Kurtzberg & Holliway"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "The Awesome Android, (also briefly known as Awesome Andy), is a fictional character that appears in comic books published by Marvel Comics. The character first appeared in Fantastic Four  #15 (June 1963) and was created by writer Stan Lee and artist and co-plotter Jack Kirby.Debuting in the Silver Age of Comic Books, the character has made appearances in Marvel titles for over four decades, and also appeared in Marvel-related products including animated television series and trading cards.",
+  "description": "The Awesome Android, (also briefly known as Awesome Andy), is a fictional character that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg/250px-ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +33,13 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Heavy Metal",
+    "Intelligencia",
+    "Goodman",
+    "Lieber",
+    "Kurtzberg & Holliway"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Awesome_Android"

@@ -2,15 +2,11 @@
   "aliases": [
     "Larry Trask"
   ],
-  "alliances": [
-    "Sentinel",
-    "Sentinels"
-  ],
   "authors": [
     "Roy Thomas",
     "Neal Adams"
   ],
-  "description": "Larry Trask is a fictional character in the Marvel Comics universe. He was a mutant who was introduced as a villain for the X-Men.",
+  "description": "Larry Trask is a fictional character in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Larry Trask",
@@ -32,6 +28,10 @@
     "Lawrence Trask"
   ],
   "species": [
+  ],
+  "teams": [
+    "Sentinel",
+    "Sentinels"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Larry_Trask_(comics)"

@@ -6,15 +6,11 @@
     "Nightshade",
     "Deadly Nightshade, Doctor Nightshade, Queen of the Werewolves"
   ],
-  "alliances": [
-    "MODOK's 11",
-    "Femizons"
-  ],
   "authors": [
     "Steve Englehart",
     "Alan Lee Weiss"
   ],
-  "description": "Nightshade (Tilda Johnson), formerly known as Dr. Nightshade and Deadly Nightshade is a fictional character in the Marvel Universe.  She first appeared in Captain America #164 and was created by Steve Englehart and Alan Lee Weiss.",
+  "description": "Nightshade (Tilda Johnson), formerly known as Dr",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/CaptainAmerica164.jpg/200px-CaptainAmerica164.jpg",
   "isHero": false,
   "isVillain": false,
@@ -46,6 +42,10 @@
     "Tilda Johnson"
   ],
   "species": [
+  ],
+  "teams": [
+    "MODOK's 11",
+    "Femizons"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1606/nightshade",

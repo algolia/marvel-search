@@ -2,13 +2,9 @@
   "aliases": [
     "Johnny Dee"
   ],
-  "alliances": [
-    "X-Men: The 198",
-    "The 198"
-  ],
   "authors": [
   ],
-  "description": "Johnny Dee (John D.) is a fictional mutant character, in the Marvel Comics universe. He debuted in Son of M #1 (2005).",
+  "description": "Johnny Dee (John D",
   "isHero": false,
   "isVillain": false,
   "name": "Johnny Dee",
@@ -29,6 +25,10 @@
     "John D."
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men: The 198",
+    "The 198"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Dee"

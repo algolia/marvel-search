@@ -2,13 +2,11 @@
   "aliases": [
     "Trump"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Steven Grant",
     "Geof Isherwood"
   ],
-  "description": "Trump is a fictional character in the Marvel Universe.",
+  "description": "Trump is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Trump",
@@ -28,6 +26,8 @@
     "Carlton Sanders"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Trump_(comics)"

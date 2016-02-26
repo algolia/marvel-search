@@ -3,15 +3,10 @@
     "Box",
     "Jerry Jaxon"
   ],
-  "alliances": [
-    "Roxxon Energy Corporation",
-    "Omega Flight",
-    "Roxxon Oil"
-  ],
   "authors": [
     "John Byrne"
   ],
-  "description": "Jerome \"Jerry\" Jaxon is a fictional character in the Marvel Universe.",
+  "description": "Jerome \"Jerry\" Jaxon is a fictional character in the Marvel Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4ce59ef63362d/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +27,11 @@
     "Jerome Jaxon"
   ],
   "species": [
+  ],
+  "teams": [
+    "Roxxon Energy Corporation",
+    "Omega Flight",
+    "Roxxon Oil"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/346/box",

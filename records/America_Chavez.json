@@ -1,11 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "All-Winners Squad",
-    "Liberty Legion",
-    "Invaders"
-  ],
   "authors": [
     "Otto Binder",
     "Al Gabriele"
@@ -34,6 +29,11 @@
     "Madeline Joyce"
   ],
   "species": [
+  ],
+  "teams": [
+    "All-Winners Squad",
+    "Liberty Legion",
+    "Invaders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2935/miss_america",

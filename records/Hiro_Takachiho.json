@@ -3,14 +3,11 @@
     "Hiro",
     "Hiro Takachiho"
   ],
-  "alliances": [
-    "Big Hero 6"
-  ],
   "authors": [
     "Steven T. Seagle",
     "Duncan Rouleau"
   ],
-  "description": "Hiro Takachiho is a fictional character, a superhero in the Marvel Comics Universe. His first appearance was in Sunfire & Big Hero 6 #1 and was created by Steven T. Seagle and Duncan Rouleau.",
+  "description": "Hiro Takachiho is a fictional character, a superhero in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Hiro_Takachiho_%28Marvel_Comics%29.jpg/250px-Hiro_Takachiho_%28Marvel_Comics%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
     "Hiro Takachiho"
   ],
   "species": [
+  ],
+  "teams": [
+    "Big Hero 6"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hiro_Takachiho"

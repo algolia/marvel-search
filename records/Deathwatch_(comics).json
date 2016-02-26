@@ -3,16 +3,12 @@
     "Stephen Lords",
     "Deathwatch"
   ],
-  "alliances": [
-    "The Translords",
-    "International Contractors Unlimited"
-  ],
   "authors": [
     "Howard Mackie",
     "Javier Saltares",
     "and Javier Saltares"
   ],
-  "description": "Deathwatch is a fictional character. He is a demonic supervillain in the Marvel Universe, most notably as an enemy of Ghost Rider.",
+  "description": "Deathwatch is a fictional character",
   "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Deathwatch_002.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +32,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "The Translords",
+    "International Contractors Unlimited"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Deathwatch_(comics)"

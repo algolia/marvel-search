@@ -3,13 +3,11 @@
     "The Norn Queen",
     "Karnilla"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Karnilla is a fictional character in the Marvel Comics universe.",
+  "description": "Karnilla is a fictional character in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Karnilla.jpg/200px-Karnilla.jpg",
   "isHero": false,
   "isVillain": false,
@@ -56,6 +54,8 @@
     "Karnilla"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Karnilla"

@@ -3,12 +3,10 @@
     "The Deacon",
     "Deacon"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Jason Aaron"
   ],
-  "description": "The Deacon is a fictional Marvel Comics character. He is a zealot who believes he is doing the work of God. He has been blessed with powers and weapons from Heaven. His sole weakness is that he will not destroy any holy object such as the Bible.",
+  "description": "The Deacon is a fictional Marvel Comics character",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Deacon_new.jpg/250px-Deacon_new.jpg",
   "isHero": false,
   "isVillain": false,
@@ -29,6 +27,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Deacon_(comics)"

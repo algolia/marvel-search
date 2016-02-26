@@ -2,15 +2,12 @@
   "aliases": [
     "Javitz"
   ],
-  "alliances": [
-    "Acolytes"
-  ],
   "authors": [
     "John Romita Jr.",
     "Brandon Peterson",
     "Scott Lobdell"
   ],
-  "description": "Isaac Javitz is a fictional character in Marvel Comics. He was one of the Acolytes, who first appeared in Uncanny X-Men #300.",
+  "description": "Isaac Javitz is a fictional character in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Javitz",
@@ -32,6 +29,9 @@
     "Isaac Javitz"
   ],
   "species": [
+  ],
+  "teams": [
+    "Acolytes"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Javitz"

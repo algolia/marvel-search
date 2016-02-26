@@ -3,14 +3,11 @@
     "The Profile",
     "Profile"
   ],
-  "alliances": [
-    "Committee"
-  ],
   "authors": [
     "David Finch",
     "Charlie Huston"
   ],
-  "description": "The Profile is a Marvel Comics character, created by writer Charlie Huston and penciler David Finch. He first appeared in Moon Knight (Vol. 3) #2 (July 2006) in the second chapter of \"The Bottom.\"",
+  "description": "The Profile is a Marvel Comics character, created by writer Charlie Huston and penciler David Finch",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/The_Profile.jpg/150px-The_Profile.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Committee"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Profile_(comics)"

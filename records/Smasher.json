@@ -2,10 +2,6 @@
   "aliases": [
     "Smasher"
   ],
-  "alliances": [
-    "Imperial Guard",
-    "Avengers"
-  ],
   "authors": [
     "Chris Claremont",
     "Dave Cockrum"
@@ -41,6 +37,10 @@
     "Isabel \"Izzy\" Kane (IV)"
   ],
   "species": [
+  ],
+  "teams": [
+    "Imperial Guard",
+    "Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2148/smasher",

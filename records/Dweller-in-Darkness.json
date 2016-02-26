@@ -4,16 +4,13 @@
     "Dweller+in+Darkness",
     "Dweller-in-Darkness"
   ],
-  "alliances": [
-    "Fear Lords"
-  ],
   "authors": [
     "Gerry Conway",
     "Rich Buckler",
     "Roger Stern",
     "Tom Sutton"
   ],
-  "description": "The Dweller-in-Darkness is a fictional character in the Marvel Comics universe.  He is a demon, one of the Fear Lords, who has clashed with Doctor Strange.",
+  "description": "The Dweller-in-Darkness is a fictional character in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/1/12/Dwellerdarkness.jpg",
   "isHero": false,
   "isVillain": true,
@@ -36,6 +33,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Fear Lords"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Dweller-in-Darkness"

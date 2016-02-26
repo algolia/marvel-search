@@ -2,17 +2,11 @@
   "aliases": [
     "Onyxx"
   ],
-  "alliances": [
-    "X-Mansion",
-    "Chevaliers training squad",
-    "Xavier Institute",
-    "X-Men-In-Training"
-  ],
   "authors": [
     "Salvador Larroca",
     "Peter Milligan"
   ],
-  "description": "Onyxx (Sidney Green) is a fictional mutant appearing in comic books published by Marvel Comics. He first appeared in X-Men, vol. 2 #171 and was created by Peter Milligan and Salvador Larroca.",
+  "description": "Onyxx (Sidney Green) is a fictional mutant appearing in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Onyxx.jpg/250px-Onyxx.jpg",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +29,12 @@
     "Sidney Green"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Mansion",
+    "Chevaliers training squad",
+    "Xavier Institute",
+    "X-Men-In-Training"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Onyxx"

@@ -2,13 +2,11 @@
   "aliases": [
     "Southpaw"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Paul Pelletier",
     "Dan Slott"
   ],
-  "description": "Southpaw (Sasha Martin) is a fictional character that first appeared in the Marvel comic She-Hulk. She is Holden Holliway's granddaughter and in the custody of She-Hulk (and if She-Hulk becomes Jennifer Walters, then Awesome Andy).She is incredibly powerful because of a gauntlet she wears that cannot be removed. She has a short temper and will often act without thinking (i.e., destroying her high school because they brought back school uniforms, or attacking the Champion because he took a piece of fruit from her).",
+  "description": "Southpaw (Sasha Martin) is a fictional character that first appeared in the Marvel comic She-Hulk",
   "isHero": false,
   "isVillain": false,
   "name": "Southpaw",
@@ -28,6 +26,8 @@
     "Sasha Martin"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Southpaw_(comics)"

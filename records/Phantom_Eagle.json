@@ -2,14 +2,11 @@
   "aliases": [
     "Phantom Eagle"
   ],
-  "alliances": [
-    "Freedom's Five"
-  ],
   "authors": [
     "Gary Friedrich",
     "Herb Trimpe"
   ],
-  "description": "Phantom Eagle is the name used by three fictional comic book aviator heroes. The first was introduced during the 1930s-1940s Golden Age of comic books by Fawcett Comics. The other two have appeared sporadically in various series published by Marvel Comics.",
+  "description": "Phantom Eagle is the name used by three fictional comic book aviator heroes",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/MarvelSuper-Heroes16.jpg/220px-MarvelSuper-Heroes16.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +29,9 @@
     "Karl Kaufman"
   ],
   "species": [
+  ],
+  "teams": [
+    "Freedom's Five"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Phantom_Eagle"

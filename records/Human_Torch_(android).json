@@ -6,21 +6,10 @@
     "Human Torch",
     "Human Torch (android)"
   ],
-  "alliances": [
-    "Invaders",
-    "S.H.I.E.L.D.",
-    "Legion of the Unliving",
-    "All-Winners Squad",
-    "V-Battalion",
-    "West Coast Avengers",
-    "Secret Avengers",
-    "Heroes for Hire",
-    "The Descendants"
-  ],
   "authors": [
     "Carl Burgos"
   ],
-  "description": "The Human Torch, also known as Jim Hammond, is a fictional character, a Marvel Comics-owned superhero. Created by writer-artist Carl Burgos, he first appeared in Marvel Comics #1 (Oct.1939), published by Marvel's predecessor, Timely Comics.The \"Human\" Torch was actually an android created by scientist Phineas Horton. He possessed the ability to surround himself with fire and control flames. In his earliest appearances, he was portrayed as a science fiction monstrosity, but quickly became a hero.The Human Torch was one of Timely Comics' three signature characters, along with Captain America and Namor the Sub-Mariner. Like many superheroes, the Human Torch fell into obscurity by the 1950s. In 1961, Marvel recycled his name and powers into a new, unrelated Human Torch, a member of the Fantastic Four (who actually was human). Unlike Captain America and the Sub-Mariner, the original Human Torch has had only a small presence in the post-1950s Marvel comic books and is closely associated with the Golden Age.",
+  "description": "The Human Torch, also known as Jim Hammond, is a fictional character, a Marvel Comics-owned superhero",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5261a7f7b0917/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -48,6 +37,17 @@
     "Jim Hammond"
   ],
   "species": [
+  ],
+  "teams": [
+    "Invaders",
+    "S.H.I.E.L.D.",
+    "Legion of the Unliving",
+    "All-Winners Squad",
+    "V-Battalion",
+    "West Coast Avengers",
+    "Secret Avengers",
+    "Heroes for Hire",
+    "The Descendants"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/26/human_torch",

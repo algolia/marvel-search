@@ -3,16 +3,11 @@
     "The First Light",
     "Transonic"
   ],
-  "alliances": [
-    "X-Men",
-    "Hope Summers",
-    "The Lights"
-  ],
   "authors": [
     "Kieron Gillen",
     "Matt Fraction"
   ],
-  "description": "Transonic (Laurie Tromette) is a fictional comic book superhero appearing in books published by Marvel Comics. The character first appeared in Uncanny X-Men #526, in the first chapter of the \"Five Lights\" storyline, and was created by Matt Fraction and Kieron Gillen. She is one of the \"Five Lights\"—a group of mutants who manifested their abilities after the events of \"Second Coming\".",
+  "description": "Transonic (Laurie Tromette) is a fictional comic book superhero appearing in books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/3/31/XMEN-Transonic.jpg",
   "isHero": true,
   "isVillain": false,
@@ -35,6 +30,11 @@
     "Laurie Tromette"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "Hope Summers",
+    "The Lights"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Transonic_(comics)"

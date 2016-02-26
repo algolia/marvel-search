@@ -3,15 +3,9 @@
     "The Fin",
     "Fin"
   ],
-  "alliances": [
-    "United States Navy",
-    "Invaders",
-    "Fifty State Initiative",
-    "Initiative"
-  ],
   "authors": [
   ],
-  "description": "For the British comic strip character, see Finn (comics).The Fin is the name of two characters from Marvel Comics. The Golden Age Fin has elements of both the swashbuckling pirate and superhero genres.",
+  "description": "For the British comic strip character, see Finn (comics)",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Fin-comics.jpg/250px-Fin-comics.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +31,12 @@
     "Peter Noble"
   ],
   "species": [
+  ],
+  "teams": [
+    "United States Navy",
+    "Invaders",
+    "Fifty State Initiative",
+    "Initiative"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Fin_(comics)"

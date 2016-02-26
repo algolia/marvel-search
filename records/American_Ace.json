@@ -2,12 +2,10 @@
   "aliases": [
     "American Ace"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Paul Lauretta"
   ],
-  "description": "American Ace (Perry Webb) is a fictional character in the Marvel Comics Universe.  He first appeared in the uncirculated Motion Picture Funnies Weekly #1 in 1939. The character would make his first public appearance when his Motion Pictures Funnies Weekly strip was published in Marvel Mystery Comics #2 and #3.",
+  "description": "American Ace (Perry Webb) is a fictional character in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "American Ace",
@@ -27,6 +25,8 @@
     "Perry Webb"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/American_Ace"

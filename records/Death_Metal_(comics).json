@@ -2,13 +2,11 @@
   "aliases": [
     "Death Metal"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Dell Barras",
     "Dan Abnett"
   ],
-  "description": "Death Metal is a character from the Marvel UK imprint of Marvel Comics. He first appeared in Death³ #1 and was created by Dan Abnett and Dell Barras.",
+  "description": "Death Metal is a character from the Marvel UK imprint of Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/DeathMetal1.png/200px-DeathMetal1.png",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +32,8 @@
     "Death Metal"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Death_Metal_(comics)"

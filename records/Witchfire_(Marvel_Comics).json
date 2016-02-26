@@ -2,14 +2,9 @@
   "aliases": [
     "Witchfire"
   ],
-  "alliances": [
-    "Beta Flight",
-    "Alpha Flight",
-    "Gamma Flight"
-  ],
   "authors": [
   ],
-  "description": "Witchfire (Ananym) is a fictional former superhero, now supervillain, and magician. She was a former member of Gamma Flight and was eventually recruited into Beta Flight. She is the daughter of X-Men villain Belasco.",
+  "description": "Witchfire (Ananym) is a fictional former superhero, now supervillain, and magician",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/XINFRNS003_COV_col.jpg/250px-XINFRNS003_COV_col.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +27,11 @@
     "Ananym"
   ],
   "species": [
+  ],
+  "teams": [
+    "Beta Flight",
+    "Alpha Flight",
+    "Gamma Flight"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Witchfire_(Marvel_Comics)"

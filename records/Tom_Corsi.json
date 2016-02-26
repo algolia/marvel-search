@@ -2,16 +2,11 @@
   "aliases": [
     "Tom Corsi"
   ],
-  "alliances": [
-    "X-Mansion",
-    "Xavier Institute",
-    "Muir Island X-Men"
-  ],
   "authors": [
     "Chris Claremont",
     "Bill Sienkiewicz"
   ],
-  "description": "Thomas \"Tom\" Corsi is a fictional character most often appearing in X-Men stories in Marvel Comics' shared universe, the Marvel Universe. Tom first appeared in New Mutants vol. 1 #19 (1984) and was created by Chris Claremont and Bill Sienkiewicz.",
+  "description": "Thomas \"Tom\" Corsi is a fictional character most often appearing in X-Men stories in Marvel Comics' shared universe, the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Tomcorsi.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +28,11 @@
     "Thomas Corsi"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Mansion",
+    "Xavier Institute",
+    "Muir Island X-Men"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Tom_Corsi"

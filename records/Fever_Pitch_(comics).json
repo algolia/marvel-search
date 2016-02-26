@@ -2,19 +2,11 @@
   "aliases": [
     "Fever Pitch"
   ],
-  "alliances": [
-    "Morlocks",
-    "X-Men: The 198",
-    "X-Corps",
-    "Brotherhood of Mutants",
-    "The 198",
-    "Gene Nation"
-  ],
   "authors": [
     "Jay Faerber",
     "Terry Dodson"
   ],
-  "description": "Fever Pitch is a fictional villain created by Marvel comics as a member of the second incarnation of the mutant terrorist organization Gene Nation and later as a member of X-Corps. He was one of the few Gene Nationals to make a sustained appearance outside of the group besides the various leaders: Marrow, Mikhail Rasputin, Callisto, and Dark Beast.",
+  "description": "Fever Pitch is a fictional villain created by Marvel comics as a member of the second incarnation of the mutant terrorist organization Gene Nation and later as a member of X-Corps",
   "isHero": false,
   "isVillain": false,
   "name": "Fever Pitch",
@@ -36,6 +28,14 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Morlocks",
+    "X-Men: The 198",
+    "X-Corps",
+    "Brotherhood of Mutants",
+    "The 198",
+    "Gene Nation"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Fever_Pitch_(comics)"

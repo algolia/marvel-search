@@ -3,9 +3,6 @@
     "Sylvan",
     "Sif"
   ],
-  "alliances": [
-    "Asgard"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
@@ -36,6 +33,9 @@
     "Sif"
   ],
   "species": [
+  ],
+  "teams": [
+    "Asgard"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/52/sif",

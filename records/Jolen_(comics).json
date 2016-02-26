@@ -2,14 +2,11 @@
   "aliases": [
     "Jolen"
   ],
-  "alliances": [
-    "Inhumans"
-  ],
   "authors": [
     "Matt Clark",
     "Sean McKeever"
   ],
-  "description": "Jolen is a fictional character, and a superhero in Marvel Comics' universe.  He is a member of the Inhumans, and was also part of the delegation sent to Earth.",
+  "description": "Jolen is a fictional character, and a superhero in Marvel Comics' universe",
   "isHero": true,
   "isVillain": false,
   "name": "Jolen",
@@ -30,6 +27,9 @@
     "Jolen"
   ],
   "species": [
+  ],
+  "teams": [
+    "Inhumans"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Jolen_(comics)"

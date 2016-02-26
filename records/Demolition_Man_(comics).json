@@ -5,22 +5,11 @@
     "Scourge of the Underworld",
     "Demolition Man"
   ],
-  "alliances": [
-    "Unlimited Class Wrestling Federation",
-    "United States Armed Forces",
-    "Inuit",
-    "Avengers",
-    "Demolition Man",
-    "Revengers",
-    "Night People",
-    "Inuit Tribe",
-    "US Military"
-  ],
   "authors": [
     "Mike Carlin",
     "Ron Wilson"
   ],
-  "description": "Demolition Man (Dennis Dunphy), also known as D-Man, is a fictional character in the Marvel Comics Universe.",
+  "description": "Demolition Man (Dennis Dunphy), also known as D-Man, is a fictional character in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/DennisDunphyDman.gif/250px-DennisDunphyDman.gif",
   "isHero": false,
   "isVillain": false,
@@ -47,6 +36,17 @@
     "Dennis Dunphy"
   ],
   "species": [
+  ],
+  "teams": [
+    "Unlimited Class Wrestling Federation",
+    "United States Armed Forces",
+    "Inuit",
+    "Avengers",
+    "Demolition Man",
+    "Revengers",
+    "Night People",
+    "Inuit Tribe",
+    "US Military"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Demolition_Man_(comics)"

@@ -2,14 +2,11 @@
   "aliases": [
     "Pretty Boy"
   ],
-  "alliances": [
-    "Reavers"
-  ],
   "authors": [
     "Marc Silvestri",
     "Chris Claremont"
   ],
-  "description": "Pretty Boy is a super villain in the Marvel Comics Universe.  He first appeared in Uncanny X-Men #229 (May 1988) and was created by Chris Claremont and Marc Silvestri.",
+  "description": "Pretty Boy is a super villain in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708/standard_xlarge.gif",
   "isHero": false,
   "isVillain": false,
@@ -31,6 +28,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Reavers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2740/pretty_boy",

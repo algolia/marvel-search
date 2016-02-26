@@ -2,16 +2,11 @@
   "aliases": [
     "Pretty Persuasions"
   ],
-  "alliances": [
-    "Psionex",
-    "Genetech",
-    "Thunderbolts"
-  ],
   "authors": [
     "Fabian Nicieza",
     "Mark Bagley"
   ],
-  "description": "Pretty Persuasions (Heidi P. Franklin) is a fictional Marvel Comics mutate character who first appeared in New Warriors vol. 1 #4. She was a member of Psionex.",
+  "description": "Pretty Persuasions (Heidi P",
   "isHero": false,
   "isVillain": false,
   "name": "Pretty Persuasions",
@@ -34,6 +29,11 @@
     "Heidi P. Franklin"
   ],
   "species": [
+  ],
+  "teams": [
+    "Psionex",
+    "Genetech",
+    "Thunderbolts"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Pretty_Persuasions"

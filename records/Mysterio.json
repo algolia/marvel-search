@@ -6,10 +6,6 @@
     "Daniel Berkhart",
     "Francis Klum"
   ],
-  "alliances": [
-    "Sinister Six",
-    "Maggia"
-  ],
   "authors": [
     "Stan Lee",
     "Terry Dodson",
@@ -18,7 +14,7 @@
     "Ross Andru",
     "Kevin Smith"
   ],
-  "description": "Mysterio is a fictional character, a supervillain and enemy of Spider-Man in the Marvel Comics Universe.In 2009, Mysterio was ranked as IGN's 85th Greatest Comic Book Villain of All Time.",
+  "description": "Mysterio is a fictional character, a supervillain and enemy of Spider-Man in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4ce5a083d8346/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -57,6 +53,10 @@
     "Quentin Beck"
   ],
   "species": [
+  ],
+  "teams": [
+    "Sinister Six",
+    "Maggia"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1550/mysterio",

@@ -2,13 +2,11 @@
   "aliases": [
     "Asmodeus"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Michael Fleisher",
     "Don Perlin"
   ],
-  "description": "Asmodeus is a fictional character in the Marvel Universe. Asmodeus is an extradimensional demon, subordinate to Mephisto, who has clashed on numerous occasions with the first Ghost Rider.",
+  "description": "Asmodeus is a fictional character in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Asmodeus_-_Ghost_Rider.png/200px-Asmodeus_-_Ghost_Rider.png",
   "isHero": false,
   "isVillain": false,
@@ -28,6 +26,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Asmodeus_(Marvel_Comics)"

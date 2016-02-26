@@ -6,15 +6,11 @@
     "Nuke",
     "Scourge"
   ],
-  "alliances": [
-    "Thunderbolts",
-    "Weapon Plus"
-  ],
   "authors": [
     "Frank Miller",
     "David Mazzucchelli"
   ],
-  "description": "Nuke (real name Frank Simpson) is a fictional supervillain in the Marvel Universe. The character first appears in Daredevil #232 and was created by Frank Miller and David Mazzucchelli. Nuke's most distinguishing feature is an American Flag tattooed on his face.",
+  "description": "Nuke (real name Frank Simpson) is a fictional supervillain in the Marvel Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4ce5a28ac1c48/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +37,10 @@
     "Frank Simpson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Weapon Plus"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1623/nuke",

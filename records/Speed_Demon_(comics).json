@@ -4,12 +4,6 @@
     "Harvey James",
     "Speed Demon"
   ],
-  "alliances": [
-    "Squadron Sinister",
-    "Sinister Syndicate",
-    "Sinister Six",
-    "Thunderbolts"
-  ],
   "authors": [
     "Roy Thomas",
     "Sal Buscema"
@@ -39,6 +33,12 @@
     "James Sanders"
   ],
   "species": [
+  ],
+  "teams": [
+    "Squadron Sinister",
+    "Sinister Syndicate",
+    "Sinister Six",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/3417/speed_demon",

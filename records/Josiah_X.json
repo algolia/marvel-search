@@ -7,16 +7,11 @@
     "Josiah Smith,",
     "Josiah Smith"
   ],
-  "alliances": [
-    "United States Army",
-    "The Crew",
-    "U.S. Army"
-  ],
   "authors": [
     "Christopher Priest",
     "Joe Bennett"
   ],
-  "description": "Josiah X is a fictional character who exists in Marvel Comics' shared universe, the Marvel Universe. He is the son of Isaiah Bradley, the black Captain America, and the uncle of Elijah Bradley, the Patriot. The character was created by Christopher Priest and Joe Bennett, and debuted in the The Crew #1.",
+  "description": "Josiah X is a fictional character who exists in Marvel Comics' shared universe, the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Josiahx.png/250px-Josiahx.png",
   "isHero": false,
   "isVillain": false,
@@ -45,6 +40,11 @@
     "Josiah al hajj Saddiq"
   ],
   "species": [
+  ],
+  "teams": [
+    "United States Army",
+    "The Crew",
+    "U.S. Army"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1100/josiah_x",

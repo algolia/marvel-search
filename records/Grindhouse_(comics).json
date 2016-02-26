@@ -2,15 +2,13 @@
   "aliases": [
     "Grindhouse"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Justin Gray",
     "Jimmy Palmiotti",
     "Billy Tucci",
     "Tom Palmer"
   ],
-  "description": "Grindhouse is a fictional character in the Marvel Comics Universe whose first appearance was in Heroes for Hire vol. 2 #1.",
+  "description": "Grindhouse is a fictional character in the Marvel Comics Universe whose first appearance was in Heroes for Hire vol",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Grindhouse.JPG/250px-Grindhouse.JPG",
   "isHero": false,
   "isVillain": false,
@@ -31,6 +29,8 @@
     "Unknown"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Grindhouse_(comics)"

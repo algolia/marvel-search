@@ -4,14 +4,11 @@
     "Typhaon",
     "Typhon"
   ],
-  "alliances": [
-    "Titans of Olympus"
-  ],
   "authors": [
     "Roy Thomas",
     "John Buscema"
   ],
-  "description": "Typhon is a fictional character, a supervillain in the Marvel Universe, most commonly associated with the hero Hercules. He is based on the legendary monster of the same name.",
+  "description": "Typhon is a fictional character, a supervillain in the Marvel Universe, most commonly associated with the hero Hercules",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Typhon.jpg/250px-Typhon.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +36,9 @@
     "Typhon"
   ],
   "species": [
+  ],
+  "teams": [
+    "Titans of Olympus"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Typhon_(comics)"

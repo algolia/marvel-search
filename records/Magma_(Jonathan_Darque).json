@@ -3,16 +3,12 @@
     "Magma",
     "Magma (Jonathan Darque)"
   ],
-  "alliances": [
-    "Roxxon Energy Corporation",
-    "Roxxon Oil Company"
-  ],
   "authors": [
     "David Michelinie",
     "Mike Esposito",
     "Herb Trimpe"
   ],
-  "description": "Magma (Jonathan Darque) is a fictional character, a supervillain from Marvel Comics.  He first appeared in Marvel Team-Up vol. 1 #110, as an enemy of Spider-Man and Iron Man.",
+  "description": "Magma (Jonathan Darque) is a fictional character, a supervillain from Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c003d55e4ce8/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +31,10 @@
     "Jonathan Darque"
   ],
   "species": [
+  ],
+  "teams": [
+    "Roxxon Energy Corporation",
+    "Roxxon Oil Company"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1328/magma",

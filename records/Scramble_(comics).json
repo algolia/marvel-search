@@ -7,15 +7,11 @@
     "Roger Bochs",
     ")"
   ],
-  "alliances": [
-    "New Life Clinic",
-    "Alpha Flight"
-  ],
   "authors": [
     "Bill Mantlo",
     "Mike Mignola"
   ],
-  "description": "Scramble (Lionel Jeffries), also known as Scramble the Mixed-Up Man, was a Marvel Comics supervillain and Canadian mutant.  Specifically, he was an enemy of Alpha Flight, but for a brief time he was alternately their ally.  His first appearance was Alpha Flight #30 (February 1986).",
+  "description": "Scramble (Lionel Jeffries), also known as Scramble the Mixed-Up Man, was a Marvel Comics supervillain and Canadian mutant",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Scramble.JPG/160px-Scramble.JPG",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +34,10 @@
     "Lionel Jeffries"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Life Clinic",
+    "Alpha Flight"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Scramble_(comics)"

@@ -2,14 +2,11 @@
   "aliases": [
     "Fredzilla"
   ],
-  "alliances": [
-    "Big Hero 6"
-  ],
   "authors": [
     "Chris Claremont",
     "David Nakayama"
   ],
-  "description": "Fred (nicknamed Fredzilla) is a fictional character from Marvel Comics.",
+  "description": "Fred (nicknamed Fredzilla) is a fictional character from Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Fred_%28Marvel_Comics%29.jpg/250px-Fred_%28Marvel_Comics%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +30,9 @@
     "Fred"
   ],
   "species": [
+  ],
+  "teams": [
+    "Big Hero 6"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Fredzilla"

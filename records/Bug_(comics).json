@@ -4,16 +4,11 @@
     "Lover Bug",
     "Bug"
   ],
-  "alliances": [
-    "Guardians of the Galaxy (2008 team)",
-    "Micronauts",
-    "Guardians of the Galaxy"
-  ],
   "authors": [
     "Michael Golden",
     "Bill Mantlo"
   ],
-  "description": "Bug is a fictional character, a superhero in the Marvel Comics Universe. Bug was originally a member of the Micronauts and later joined the second incarnation of the Guardians of the Galaxy.When he first appeared in Micronauts #1 (dated January 1979), Bug was known as Galactic Warrior, taking this name from a figure from the Micronauts toy line on which the comic book series was based. The toy based characters were all owned by Takara Co., Ltd., with any original characters owned by Marvel. Starting with the fourth issue Galactic Warrior's name was changed to Bug. This was done after Marvel realized that since the character's design looked nothing like the toy, they could assume ownership if they used a different name.",
+  "description": "Bug is a fictional character, a superhero in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c00323e50dda/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -39,6 +34,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Guardians of the Galaxy (2008 team)",
+    "Micronauts",
+    "Guardians of the Galaxy"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/364/bug",

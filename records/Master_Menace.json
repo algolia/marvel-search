@@ -3,18 +3,12 @@
     "Master Menace",
     "Emil Burbank"
   ],
-  "alliances": [
-    "Squadron Supreme",
-    "Redeemers",
-    "Squadron Supreme (Supreme Power)",
-    "America Redeemers"
-  ],
   "authors": [
     "J. Michael Straczynski",
     "Roy Thomas",
     "Wayne Boring"
   ],
-  "description": "Dr. Emil Burbank, also known as Master Menace, is a fictional Marvel Comics character.  Two different versions of the character appear in two separate (but related) continuities, Squadron Supreme and Supreme Power.",
+  "description": "Dr",
   "isHero": false,
   "isVillain": false,
   "name": "Master Menace",
@@ -41,6 +35,12 @@
     "Emil Zebediah Burbank"
   ],
   "species": [
+  ],
+  "teams": [
+    "Squadron Supreme",
+    "Redeemers",
+    "Squadron Supreme (Supreme Power)",
+    "America Redeemers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Master_Menace"

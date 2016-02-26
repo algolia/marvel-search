@@ -2,14 +2,11 @@
   "aliases": [
     "Mondo"
   ],
-  "alliances": [
-    "Generation X"
-  ],
   "authors": [
     "Chris Bachalo",
     "Scott Lobdell"
   ],
-  "description": "Mondo is the name of two fictional comic book characters that have appeared in the Marvel Comics series Generation X.  The first Mondo was a superhero later revealed to be a clone of the supervillain Mondo, who appeared years later.  The first Mondo's first appearance was in Generation X #3.",
+  "description": "Mondo is the name of two fictional comic book characters that have appeared in the Marvel Comics series Generation X",
   "isHero": false,
   "isVillain": false,
   "name": "Mondo",
@@ -33,6 +30,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Generation X"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mondo_(comics)"

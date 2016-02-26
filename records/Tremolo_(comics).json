@@ -2,12 +2,9 @@
   "aliases": [
     "Tremolo"
   ],
-  "alliances": [
-    "Hell's Belles"
-  ],
   "authors": [
   ],
-  "description": "Tremolo is a fictional mutant character in Marvel Comics' shared universe, the Marvel Universe.",
+  "description": "Tremolo is a fictional mutant character in Marvel Comics' shared universe, the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Tremolo",
@@ -29,6 +26,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Hell's Belles"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Tremolo_(comics)"

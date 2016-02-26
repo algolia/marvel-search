@@ -6,13 +6,6 @@
     "The Morrigan",
     "Tracy Cassidy"
   ],
-  "alliances": [
-    "X-Corporation",
-    "X-Force",
-    "Fallen Angels",
-    "X-Factor Investigations",
-    "Muir Island X-Men"
-  ],
   "authors": [
     "Chris Claremont",
     "Steve Leialoha"
@@ -47,6 +40,13 @@
     "Theresa Maeve Rourke Cassidy"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Corporation",
+    "X-Force",
+    "Fallen Angels",
+    "X-Factor Investigations",
+    "Muir Island X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/232/banshee",

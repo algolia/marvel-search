@@ -4,9 +4,6 @@
     "Terror",
     "Terror Inc."
   ],
-  "alliances": [
-    "Heroes for Hire"
-  ],
   "authors": [
     "Margaret Clark",
     "D. G. Chichester",
@@ -37,6 +34,9 @@
     "unknown"
   ],
   "species": [
+  ],
+  "teams": [
+    "Heroes for Hire"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2313/terror",

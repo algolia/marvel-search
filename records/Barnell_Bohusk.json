@@ -4,18 +4,11 @@
     "Blackwing",
     "Barnell Bohusk"
   ],
-  "alliances": [
-    "Teen Brigade",
-    "X-Mansion",
-    "Brotherhood of Mutants",
-    "New Warriors",
-    "Exiles"
-  ],
   "authors": [
     "Ethan Van Sciver",
     "Grant Morrison"
   ],
-  "description": "Barnell Bohusk, currently known as Blackwing, formerly known as Beak, is a fictional character, a superhero associated with the X-Men and its spinoff the Exiles. Beak first appeared in New X-Men #117 and was created by Grant Morrison and Ethan Van Sciver.",
+  "description": "Barnell Bohusk, currently known as Blackwing, formerly known as Beak, is a fictional character, a superhero associated with the X-Men and its spinoff the Exiles",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Blackwing.jpg/220px-Blackwing.jpg",
   "isHero": false,
   "isVillain": false,
@@ -45,6 +38,13 @@
     "Barnell Bohusk"
   ],
   "species": [
+  ],
+  "teams": [
+    "Teen Brigade",
+    "X-Mansion",
+    "Brotherhood of Mutants",
+    "New Warriors",
+    "Exiles"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Barnell_Bohusk"

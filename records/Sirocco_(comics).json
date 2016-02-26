@@ -2,14 +2,11 @@
   "aliases": [
     "Sirocco"
   ],
-  "alliances": [
-    "Desert Sword"
-  ],
   "authors": [
     "Kirk Jarvinen",
     "Fabian Nicieza"
   ],
-  "description": "Sirocco is a fictional character, a mutant in the Marvel Comics Universe. His first appearance was in New Mutants Annual #7.",
+  "description": "Sirocco is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Sirocco",
@@ -29,6 +26,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Desert Sword"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Sirocco_(comics)"

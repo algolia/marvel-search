@@ -3,14 +3,11 @@
     "Schuyler Belial",
     "Morning Star"
   ],
-  "alliances": [
-    "The Followers of the Left Hand Path"
-  ],
   "authors": [
     "Bill Sienkiewicz",
     "Doug Moench"
   ],
-  "description": "This article is about the occultist Morning Star.  For the Russian superhero from Marvel Comics, see Morningstar (comics).Morning Star is the alias of Schuyler Belial, a fictional Marvel Comics villain and Satanist who was an enemy of Moon Knight and the Werewolf by Night.  He first appeared in Moon Knight, Volume 1 #29.  He was created by Doug Moench and Bill Sienkiewicz.",
+  "description": "This article is about the occultist Morning Star",
   "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/Schuyler_Belial.png",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +29,9 @@
     "Schuyler Belial"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Followers of the Left Hand Path"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Morning_Star_(comics)"

@@ -5,17 +5,11 @@
     "Mandy Celestine",
     "Mantis"
   ],
-  "alliances": [
-    "West Coast Avengers",
-    "Avengers",
-    "Guardians of the Galaxy (2008 team)",
-    "Guardians of the Galaxy"
-  ],
   "authors": [
     "Steve Englehart",
     "Don Heck"
   ],
-  "description": "Mantis is a fictional character, a superhero in the Marvel Universe, and former member of the Avengers.  The character was ranked 99th in Comics Buyer's Guide's \"100 Sexiest Women in Comics\" list.",
+  "description": "Mantis is a fictional character, a superhero in the Marvel Universe, and former member of the Avengers",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/52740fa12e826/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -45,6 +39,12 @@
     "first name unknown"
   ],
   "species": [
+  ],
+  "teams": [
+    "West Coast Avengers",
+    "Avengers",
+    "Guardians of the Galaxy (2008 team)",
+    "Guardians of the Galaxy"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1366/mantis",

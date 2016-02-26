@@ -3,17 +3,12 @@
     "Krule",
     "Crule"
   ],
-  "alliances": [
-    "Nazi Germany",
-    "Externals",
-    "Third Reich"
-  ],
   "authors": [
     "Mark Pacella",
     "Rob Liefeld",
     "Fabian Nicieza"
   ],
-  "description": "Crule is a fictional character, a mutant in the Marvel Comics universe. His first appearance was in X-Force vol. 1 #12.",
+  "description": "Crule is a fictional character, a mutant in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Xforce12.jpg/250px-Xforce12.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +39,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Nazi Germany",
+    "Externals",
+    "Third Reich"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/477/crule",

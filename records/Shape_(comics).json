@@ -2,11 +2,6 @@
   "aliases": [
     "Shape"
   ],
-  "alliances": [
-    "Institute of Evil",
-    "Squadron Supreme",
-    "Redeemers"
-  ],
   "authors": [
     "Mark Gruenwald"
   ],
@@ -35,6 +30,11 @@
     "Raleigh Lund"
   ],
   "species": [
+  ],
+  "teams": [
+    "Institute of Evil",
+    "Squadron Supreme",
+    "Redeemers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2068/shape",

@@ -4,15 +4,13 @@
     "Midas II",
     "Midas"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Jim Mooney",
     "Gerry Conway",
     "Archie Goodwin",
     "George Tuska"
   ],
-  "description": "Midas is the name of two fictional character in the Marvel Universe.",
+  "description": "Midas is the name of two fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Midas",
@@ -33,6 +31,8 @@
     "Malcolm J. Meriwell"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Midas_(comics)"

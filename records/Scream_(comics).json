@@ -2,9 +2,6 @@
   "aliases": [
     "Scream"
   ],
-  "alliances": [
-    "Sinister Syndicate"
-  ],
   "authors": [
     "David Michelinie",
     "Ron Lim"
@@ -32,6 +29,9 @@
     "Donna Diego"
   ],
   "species": [
+  ],
+  "teams": [
+    "Sinister Syndicate"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2033/scream",

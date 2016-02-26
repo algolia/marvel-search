@@ -2,17 +2,11 @@
   "aliases": [
     "Hoss"
   ],
-  "alliances": [
-    "Ghost Rider",
-    "Ruth",
-    "Buttview",
-    "Ruth, Buttview"
-  ],
   "authors": [
     "Garth Ennis",
     "Clayton Crain"
   ],
-  "description": "Hoss is a fictional character appearing in Marvel Comics, created by writer Garth Ennis and artist Clayton Crain. He is a demon, an enemy and occasional ally of the Ghost Rider. Hoss has been described as \"one of Hell's most able tracker-scouts\". He first appeared in Ghost Rider (Road to Damnation) #1 (Nov. 2005)",
+  "description": "Hoss is a fictional character appearing in Marvel Comics, created by writer Garth Ennis and artist Clayton Crain",
   "isHero": false,
   "isVillain": false,
   "name": "Hoss",
@@ -35,6 +29,12 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Ghost Rider",
+    "Ruth",
+    "Buttview",
+    "Ruth, Buttview"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hoss_(comics)"

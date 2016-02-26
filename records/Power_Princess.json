@@ -4,20 +4,13 @@
     "Princess of Power",
     "Power Princess"
   ],
-  "alliances": [
-    "Exiles",
-    "Ultimates",
-    "Golden Agency",
-    "Squadron Supreme (Supreme Power)",
-    "Squadron Supreme"
-  ],
   "authors": [
     "Gary Frank",
     "J. Michael Straczynski",
     "Don Perlin",
     "J. M. DeMatteis"
   ],
-  "description": "Zarda, more commonly known as Power Princess, is a fictional comic book character appearing in books published by Marvel Comics. Two different versions of the character have appeared in two separate continuities.",
+  "description": "Zarda, more commonly known as Power Princess, is a fictional comic book character appearing in books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Zarda_Ultimate_Hulk_Annual.jpg/180px-Zarda_Ultimate_Hulk_Annual.jpg",
   "isHero": false,
   "isVillain": false,
@@ -54,6 +47,13 @@
     "Princess Zarda"
   ],
   "species": [
+  ],
+  "teams": [
+    "Exiles",
+    "Ultimates",
+    "Golden Agency",
+    "Squadron Supreme (Supreme Power)",
+    "Squadron Supreme"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Power_Princess"

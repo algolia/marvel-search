@@ -55,3 +55,8 @@ files and build a curated list of records saved in `./records`.
 - Find a way to better display a large list of powers
 - Add "Show all" to facets?
 
+- Remove too long descriptions
+- Remove bad authors
+- Do better ordering (Jean Grey is too low)
+- keep only real powers ? (capital letter?)
+

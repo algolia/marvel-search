@@ -3,13 +3,10 @@
     "Dr. Doom; Victor Von Doom; Kristoff Von Doom",
     "Kristoff Vernard"
   ],
-  "alliances": [
-    "Fantastic Four"
-  ],
   "authors": [
     "John Byrne"
   ],
-  "description": "Kristoff Vernard (formerly known as Kristoff von Doom and Dr. Doom) is a fictional character appearing in the Marvel Comics universe. He has been involved mainly with the Fantastic Four, as enemy, ally and even short-term member.",
+  "description": "Kristoff Vernard (formerly known as Kristoff von Doom and Dr",
   "image": "https://upload.wikimedia.org/wikipedia/en/b/b0/Kristoff.png",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +34,9 @@
     "Kristoff Vernard"
   ],
   "species": [
+  ],
+  "teams": [
+    "Fantastic Four"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Kristoff_Vernard"

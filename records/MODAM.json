@@ -5,17 +5,12 @@
     "MODAM",
     "Maria Trovaya Pym"
   ],
-  "alliances": [
-    "Femizons",
-    "Advanced Idea Mechanics",
-    "AIM"
-  ],
   "authors": [
     "Steve Englehart",
     "and Al Milgrom",
     "Al Milgrom"
   ],
-  "description": "MODAM is a fictional character in the Marvel Universe.",
+  "description": "MODAM is a fictional character in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Quasar9.jpg/200px-Quasar9.jpg",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +36,11 @@
     "Olinka Barankova"
   ],
   "species": [
+  ],
+  "teams": [
+    "Femizons",
+    "Advanced Idea Mechanics",
+    "AIM"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/MODAM"

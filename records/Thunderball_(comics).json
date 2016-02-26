@@ -2,13 +2,6 @@
   "aliases": [
     "Thunderball"
   ],
-  "alliances": [
-    "Wrecking Crew",
-    "Masters of Evil",
-    "Secret Empire",
-    "Frightful Four",
-    "Illuminati"
-  ],
   "authors": [
     "Len Wein",
     "Sal Buscema"
@@ -43,6 +36,13 @@
     "Eliot Franklin"
   ],
   "species": [
+  ],
+  "teams": [
+    "Wrecking Crew",
+    "Masters of Evil",
+    "Secret Empire",
+    "Frightful Four",
+    "Illuminati"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2363/thunderball",

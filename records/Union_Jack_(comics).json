@@ -3,12 +3,6 @@
     "The Mighty Destroyer",
     "Union Jack"
   ],
-  "alliances": [
-    "British Army",
-    "Invaders",
-    "V-Battalion",
-    "Freedom's Five"
-  ],
   "authors": [
     "Frank Robbins",
     "Roy Thomas"
@@ -46,6 +40,12 @@
     "Joseph Chapman"
   ],
   "species": [
+  ],
+  "teams": [
+    "British Army",
+    "Invaders",
+    "V-Battalion",
+    "Freedom's Five"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2451/union_jack",

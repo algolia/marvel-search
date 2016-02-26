@@ -6,15 +6,11 @@
     "Harry Osborn",
     "Harry Lyman"
   ],
-  "alliances": [
-    "Oscorp",
-    "Parker Industries"
-  ],
   "authors": [
     "Steve Ditko",
     "Stan Lee"
   ],
-  "description": "Harold \"Harry\" Osborn is a fictional character, an antihero and usually supervillain of Spider-Man in the Marvel Comics Universe. In addition to being Peter Parker's best friend, he is the son of Norman Osborn and became the second Green Goblin. Harry Osborn first appeared in The Amazing Spider-Man #31 (December 1965), and was created by Stan Lee and Steve Ditko.The character has appeared in many adaptations of Spider-Man outside of the comic books, including the 2002-2007 film trilogy portrayed by James Franco and appears in The Amazing Spider-Man 2 portrayed by Dane DeHaan.",
+  "description": "Harold \"Harry\" Osborn is a fictional character, an antihero and usually supervillain of Spider-Man in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4ce5a0b3181d8/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +38,10 @@
     "Harold Theopolis \"Harry\" Osborn"
   ],
   "species": [
+  ],
+  "teams": [
+    "Oscorp",
+    "Parker Industries"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2736/harry_osborn",

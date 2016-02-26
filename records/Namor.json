@@ -8,29 +8,10 @@
     "Namor the Sub-Mariner",
     "Namor"
   ],
-  "alliances": [
-    "Defenders",
-    "Invaders",
-    "Heroes for Hire/Oracle",
-    "Inc.",
-    "Illuminati",
-    "Dark X-Men",
-    "X-Men",
-    "Deep Six",
-    "The Order",
-    "All-Winners Squad",
-    "Phoenix Force",
-    "Cabal",
-    "Avengers",
-    "The Cabal",
-    "Heroes for Hire",
-    "/Oracle, Inc.",
-    "Phoenix Five"
-  ],
   "authors": [
     "Bill Everett"
   ],
-  "description": "Namor the Sub-Mariner (Namor McKenzie) is a fictional character, a comic book superhero and sometime antihero that appears in comic books published by Marvel Comics. Debuting in early 1939, the character was created by writer-artist Bill Everett for Funnies Inc., one of the first \"packagers\" in the early days of comic books that supplied comics on demand to publishers looking to enter the new medium. Initially created for the unreleased comic Motion Picture Funnies Weekly, the Sub-Mariner first appeared publicly in Marvel Comics #1 (Oct. 1939) – the first comic book from Timely Comics, the 1930s–1940s predecessor of the company Marvel Comics. During that period, known to historians and fans as the Golden Age of Comic Books, the Sub-Mariner was one of Timely's top three characters, along with Captain America and the original Human Torch. Everett said the character's name was inspired by Samuel Taylor Coleridge's poem, \"The Rime of the Ancient Mariner\". Everett came up with \"Namor\" by writing down noble sounding names backwards and thought Roman/Namor looked the best.The mutant son of a human sea captain and a princess of the mythical undersea kingdom of Atlantis, Namor possesses the super-strength and aquatic abilities of the Homo mermanus race, as well as the mutant ability of flight, along with other superhuman powers. Through the years, he has been alternately portrayed as a good-natured but short-fused superhero, or a hostile invader seeking vengeance for perceived wrongs that misguided surface-dwellers committed against his kingdom. The first known comic book antihero, the Sub-Mariner has remained a historically important and relatively popular Marvel character.  He has served directly with the Avengers, the Fantastic Four, the Invaders, the Defenders, the X-Men and the Illuminati as well as serving as a foil to them on occasion.",
+  "description": "Namor the Sub-Mariner (Namor McKenzie) is a fictional character, a comic book superhero and sometime antihero that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/50febf4ae101d/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -63,6 +44,25 @@
     "Namor McKenzie"
   ],
   "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "Invaders",
+    "Heroes for Hire/Oracle",
+    "Inc.",
+    "Illuminati",
+    "Dark X-Men",
+    "X-Men",
+    "Deep Six",
+    "The Order",
+    "All-Winners Squad",
+    "Phoenix Force",
+    "Cabal",
+    "Avengers",
+    "The Cabal",
+    "Heroes for Hire",
+    "/Oracle, Inc.",
+    "Phoenix Five"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/39/namor",

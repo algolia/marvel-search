@@ -3,15 +3,12 @@
     "Scott Shannon",
     "Hector"
   ],
-  "alliances": [
-    "Pantheon"
-  ],
   "authors": [
     "Peter David",
     "Dale Keown",
     ";"
   ],
-  "description": "Hector is a fictional character, a member of the Marvel Comics superhero family the Pantheon. Hector uses an energy flail as a weapon. Hector appears to be something of a master strategist.",
+  "description": "Hector is a fictional character, a member of the Marvel Comics superhero family the Pantheon",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Northstar_%26_hector.jpg/200px-Northstar_%26_hector.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
     "Unknown"
   ],
   "species": [
+  ],
+  "teams": [
+    "Pantheon"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hector_(Marvel_Comics)"

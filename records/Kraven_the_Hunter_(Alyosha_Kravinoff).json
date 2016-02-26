@@ -4,15 +4,11 @@
     "Kraven the Hunter",
     "Kraven the Hunter (Alyosha Kravinoff)"
   ],
-  "alliances": [
-    "Kravinoff Family",
-    "Sinister Six"
-  ],
   "authors": [
     "Luke Ross",
     "J. M. DeMatteis"
   ],
-  "description": "Alyosha Kravinoff, also known as the second Kraven the Hunter, is a fictional character in the Marvel Universe. He is the illegitimate son of Kraven the Hunter, the nephew of Chameleon, and the half-brother of Valdimir Kravinoff and Ana Kravinoff. He first appeared in the pages of Spectacular Spider-Man #243 (February 1997).",
+  "description": "Alyosha Kravinoff, also known as the second Kraven the Hunter, is a fictional character in the Marvel Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/527410063de71/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -47,6 +43,10 @@
     "Alexei Sergeevich \"Alyosha\" Kravinoff"
   ],
   "species": [
+  ],
+  "teams": [
+    "Kravinoff Family",
+    "Sinister Six"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1174/kraven_the_hunter",

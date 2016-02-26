@@ -2,16 +2,11 @@
   "aliases": [
     "Thin Man"
   ],
-  "alliances": [
-    "Liberty Legion",
-    "Invaders",
-    "New Invaders"
-  ],
   "authors": [
     "Unknown writer",
     "Klaus Nordling"
   ],
-  "description": "The Thin Man (Bruce Dickson) is a fictional, American comic book character in Marvel Comics' main shared universe.  Created by artist Klaus Nordling and an unknown writer in Mystic Comics #4 (July 1940), and published by Marvel predecessor Timely Comics during the time fans and historians call the Golden Age of Comic Books, the Thin Man was one of the first \"stretching\" superheroes, predating the more famous Plastic Man by more than a year and Mister Fantastic by more than twenty years.",
+  "description": "The Thin Man (Bruce Dickson) is a fictional, American comic book character in Marvel Comics' main shared universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/MarvelPremeire29.jpg/249px-MarvelPremeire29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +37,11 @@
     "Bruce Dickson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Liberty Legion",
+    "Invaders",
+    "New Invaders"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Thin_Man_(comics)"

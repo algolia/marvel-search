@@ -4,16 +4,11 @@
     "Blitzschlag",
     "Baron Von"
   ],
-  "alliances": [
-    "Nazi Party",
-    "Features of the Marvel Universe",
-    "Avengers: The Initiative"
-  ],
   "authors": [
     "Dan Slott",
     "Stefano Caselli"
   ],
-  "description": "Baron Werner Von Blitzschlag is a comic book character in Marvel Comics' main shared universe. Created by writer Dan Slott and artist Stefano Caselli, the Baron's last name is German for \"Lightning-Strike.\"",
+  "description": "Baron Werner Von Blitzschlag is a comic book character in Marvel Comics' main shared universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/e/eb/BVonBlitzschlag.jpg",
   "isHero": false,
   "isVillain": true,
@@ -37,6 +32,11 @@
     "Werner Von Blitzschlag"
   ],
   "species": [
+  ],
+  "teams": [
+    "Nazi Party",
+    "Features of the Marvel Universe",
+    "Avengers: The Initiative"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Baron_Von_Blitzschlag"

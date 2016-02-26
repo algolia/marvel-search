@@ -2,15 +2,11 @@
   "aliases": [
     "Flag-Smasher"
   ],
-  "alliances": [
-    "Features of the Marvel Universe",
-    "ULTIMATUM"
-  ],
   "authors": [
     "Mark Gruenwald",
     "Paul Neary"
   ],
-  "description": "The Flag-Smasher is the name used by two fictional supervillains appearing in the Marvel Comics universe. The original was most often a foe of Captain America while other adversaries of the Flag-Smasher include The Punisher, Moon Knight, Ghost Rider, The Runaways, and The Liberteens.",
+  "description": "The Flag-Smasher is the name used by two fictional supervillains appearing in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/FlagSmasherMarvel.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +32,10 @@
     "Karl Morgenthau"
   ],
   "species": [
+  ],
+  "teams": [
+    "Features of the Marvel Universe",
+    "ULTIMATUM"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Flag-Smasher"

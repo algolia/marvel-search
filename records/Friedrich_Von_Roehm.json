@@ -3,14 +3,11 @@
     "Black Rook",
     "Friedrich Von Roehm"
   ],
-  "alliances": [
-    "Hellfire Club"
-  ],
   "authors": [
     "Bill Sienkiewicz",
     "Chris Claremont"
   ],
-  "description": "Friedrich Von Roehm, also known as the Black Rook is a Marvel Comics supervillain, and an adversary of the X-Men.Von Roehm possesses a hereditary ability that is likened to lycanthropy. Von Roehm undergoes a transformation from his ordinary human form through a process mentally activated by Selene. He attained the rank of \"Black Rook,\" of the Lords Cardinal of the New York branch of the The Hellfire Club, an exclusive secret society bent on world domination. In civilian life, he was a jeweler.",
+  "description": "Friedrich Von Roehm, also known as the Black Rook is a Marvel Comics supervillain, and an adversary of the X-Men",
   "isHero": false,
   "isVillain": false,
   "name": "Friedrich Von Roehm",
@@ -33,6 +30,9 @@
     "Friedrich Von Roehm"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellfire Club"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Von_Roehm"

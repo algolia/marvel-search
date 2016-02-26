@@ -2,11 +2,9 @@
   "aliases": [
     "Lurking Unknown"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "The Lurking Unknown is a fictional character appearing in the Marvel Comics universe.  He is a demon, one of the Fear Lords, who has clashed with Doctor Strange and Thor. The character first appeared in Thor #136 (Jan 1967).",
+  "description": "The Lurking Unknown is a fictional character appearing in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Lurking Unknown",
@@ -25,6 +23,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Lurking_Unknown"

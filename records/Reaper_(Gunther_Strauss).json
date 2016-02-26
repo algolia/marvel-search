@@ -4,15 +4,11 @@
     "Reaper",
     "Reaper (Gunther Strauss)"
   ],
-  "alliances": [
-    "Nazism",
-    "Nazis"
-  ],
   "authors": [
     "Stan Lee",
     "Al Avison"
   ],
-  "description": "The Reaper, the alias of Gunther Strauss, is a supervillain in the fictional shared universe of Marvel Comics, and an enemy of Captain America and Bucky.  He first appeared in Captain America Comics #22 (Jan 1943), and his origin and first appearance were reprinted in full in The Invaders  vol. 1 #10 (November, 1976).",
+  "description": "The Reaper, the alias of Gunther Strauss, is a supervillain in the fictional shared universe of Marvel Comics, and an enemy of Captain America and Bucky",
   "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Reaper_%28World_War_II_Captain_America_foe%29.png",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +30,10 @@
     "Gunther Strauss"
   ],
   "species": [
+  ],
+  "teams": [
+    "Nazism",
+    "Nazis"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1888/reaper",

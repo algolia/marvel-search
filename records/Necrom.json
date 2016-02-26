@@ -4,13 +4,10 @@
     "Necrom",
     "The Anti-Phoenix (host)"
   ],
-  "alliances": [
-    "none"
-  ],
   "authors": [
     "Alan Davis"
   ],
-  "description": "Necrom is a fictional character created by Alan Davis for Marvel Comics. Necrom was a powerful sorcerer and an enemy of Excalibur.",
+  "description": "Necrom is a fictional character created by Alan Davis for Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Necrom",
@@ -39,6 +36,9 @@
     "Necrom"
   ],
   "species": [
+  ],
+  "teams": [
+    "none"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Necrom"

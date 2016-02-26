@@ -2,16 +2,11 @@
   "aliases": [
     "Savage Steel"
   ],
-  "alliances": [
-    "the Cabal",
-    "Darkhawk",
-    "the Cabal, Darkhawk"
-  ],
   "authors": [
     "Danny Fingeroth",
     "Mike Manley"
   ],
-  "description": "Savage Steel is an identity used by several fictional characters in the Marvel Universe, most notably Jimmy Zafar.",
+  "description": "Savage Steel is an identity used by several fictional characters in the Marvel Universe, most notably Jimmy Zafar",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Original_Savage_Steel_Armor.jpg/250px-Original_Savage_Steel_Armor.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +39,11 @@
     "(IV) Unknown"
   ],
   "species": [
+  ],
+  "teams": [
+    "the Cabal",
+    "Darkhawk",
+    "the Cabal, Darkhawk"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Savage_Steel"

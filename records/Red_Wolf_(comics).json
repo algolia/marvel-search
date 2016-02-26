@@ -3,12 +3,6 @@
     "Owayodata",
     "Red Wolf"
   ],
-  "alliances": [
-    "Anachronauts",
-    "The Rangers",
-    "The Sensational Seven",
-    "The Anachronauts"
-  ],
   "authors": [
     "Syd Shores",
     "Mark Gruenwald",
@@ -17,7 +11,7 @@
     "John Buscema",
     "Gardner Fox"
   ],
-  "description": "Red Wolf is the name of a number of fictional characters in Marvel Comics' shared universe, the Marvel Universe. The different characters are Native American heroes with mystical powers and have a trusted wolf companion named Lobo.",
+  "description": "Red Wolf is the name of a number of fictional characters in Marvel Comics' shared universe, the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Red Wolf",
@@ -51,6 +45,12 @@
     "Wildrun"
   ],
   "species": [
+  ],
+  "teams": [
+    "Anachronauts",
+    "The Rangers",
+    "The Sensational Seven",
+    "The Anachronauts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1902/red_wolf",

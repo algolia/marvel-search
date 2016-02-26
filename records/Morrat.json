@@ -2,17 +2,12 @@
   "aliases": [
     "Morrat"
   ],
-  "alliances": [
-    "Skrull Empire",
-    "Skrull",
-    "Empire"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby",
     "Chic Stone"
   ],
-  "description": "Warlord Morrat is a fictional character in Marvel Comics and a member of the Skrull Empire. Like all Skrulls, he can shapeshift.",
+  "description": "Warlord Morrat is a fictional character in Marvel Comics and a member of the Skrull Empire",
   "isHero": false,
   "isVillain": false,
   "name": "Morrat",
@@ -32,6 +27,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Skrull Empire",
+    "Skrull",
+    "Empire"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Morrat"

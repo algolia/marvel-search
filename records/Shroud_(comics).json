@@ -4,16 +4,11 @@
     "Michael Wyatt",
     "Shroud"
   ],
-  "alliances": [
-    "Night Shift",
-    "Cult of Kali",
-    "Heroes for Hire"
-  ],
   "authors": [
     "Steve Englehart",
     "Herb Trimpe"
   ],
-  "description": "The Shroud (Maximillian Quincy Coleridge) is a fictional superhero in the Marvel Comics universe. He first appeared in Super-Villain Team-Up #5, (April 1976), and was created by Steve Englehart and Herb Trimpe.",
+  "description": "The Shroud (Maximillian Quincy Coleridge) is a fictional superhero in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/The_shroud.jpg/250px-The_shroud.jpg",
   "isHero": false,
   "isVillain": false,
@@ -45,6 +40,11 @@
     "Maximillian Quincy Coleridge"
   ],
   "species": [
+  ],
+  "teams": [
+    "Night Shift",
+    "Cult of Kali",
+    "Heroes for Hire"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Shroud_(comics)"

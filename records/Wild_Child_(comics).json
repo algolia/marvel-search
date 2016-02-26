@@ -5,13 +5,6 @@
     "Wild Child",
     "Weapon Omega, Wildheart"
   ],
-  "alliances": [
-    "Omega Flight",
-    "X-Factor",
-    "Alpha Flight",
-    "Gamma Flight",
-    "Weapon X"
-  ],
   "authors": [
     "John Byrne"
   ],
@@ -51,6 +44,13 @@
     "Kyle Gibney"
   ],
   "species": [
+  ],
+  "teams": [
+    "Omega Flight",
+    "X-Factor",
+    "Alpha Flight",
+    "Gamma Flight",
+    "Weapon X"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2567/wild_child",

@@ -2,19 +2,12 @@
   "aliases": [
     "Hrimhari"
   ],
-  "alliances": [
-    "New Mutants",
-    "Asgard",
-    "X-Force",
-    "X-Mansion",
-    "Xavier Institute"
-  ],
   "authors": [
     "Chris Claremont",
     "Arthur Adams",
     "Art Adams"
   ],
-  "description": "Hrimhari is a fictional character published by Marvel Comics. He was first introduced in the New Mutants Special Edition #1 (December 1985), and was created by Chris Claremont and Art Adams.",
+  "description": "Hrimhari is a fictional character published by Marvel Comics",
   "isHero": true,
   "isVillain": false,
   "name": "Hrimhari",
@@ -39,6 +32,13 @@
     "Hrimhari"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Mutants",
+    "Asgard",
+    "X-Force",
+    "X-Mansion",
+    "Xavier Institute"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hrimhari"

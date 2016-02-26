@@ -2,9 +2,6 @@
   "aliases": [
     "Bruto"
   ],
-  "alliances": [
-    "Circus of Crime"
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
@@ -29,6 +26,9 @@
     "Bruce Olafsen"
   ],
   "species": [
+  ],
+  "teams": [
+    "Circus of Crime"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Strongman_(comics)"

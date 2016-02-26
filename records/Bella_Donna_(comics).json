@@ -4,17 +4,13 @@
     "Bella Donna",
     "Belladonna"
   ],
-  "alliances": [
-    "United Guilds",
-    "Assassins' Guild"
-  ],
   "authors": [
     "Mike Zeck",
     "Jim Lee",
     "Scott Lobdell",
     "Roger Stern"
   ],
-  "description": "Bella Donna or Belladonna (from the Italian expression \"bella donna\", beautiful woman) is a name or alias used by two fictional characters in the Marvel Comics universe.Possibly the most well-known character to use the name is Bella Donna Boudreaux, commonly associated with the X-Man Gambit.",
+  "description": "Bella Donna or Belladonna (from the Italian expression \"bella donna\", beautiful woman) is a name or alias used by two fictional characters in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/7/7f/BellaBoudreaux1.jpg",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +34,10 @@
     "Bella Donna Boudreaux"
   ],
   "species": [
+  ],
+  "teams": [
+    "United Guilds",
+    "Assassins' Guild"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Bella_Donna_(comics)"

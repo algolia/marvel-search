@@ -5,9 +5,6 @@
     "Master of the Mindstorm",
     "Angar the Screamer"
   ],
-  "alliances": [
-    "Redeemers"
-  ],
   "authors": [
     "Steve Gerber",
     "John Tartaglione",
@@ -42,6 +39,9 @@
     "David Alan Angar"
   ],
   "species": [
+  ],
+  "teams": [
+    "Redeemers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2033/scream",

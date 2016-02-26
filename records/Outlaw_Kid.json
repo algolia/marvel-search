@@ -3,12 +3,10 @@
     "The Outlaw Kid",
     "Outlaw Kid"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Doug Wildey"
   ],
-  "description": "The Outlaw Kid  is a fictional Western hero in comic books published by Marvel Comics. The character originally appeared in the company's 1950s iteration, Atlas Comics. A lesser-known character than the company's Kid Colt, Rawhide Kid or Two-Gun Kid, he also starred in a reprint series in the 1970s and a short-lived revival.The Outlaw Kid was Lance Temple, an Old West lawyer and Civil War veteran living with his blinded father on a ranch. Though promising his father he would never take up a gun, he'd nonetheless felt the need to right wrongs expediently on the near-lawless frontier, and created a masked identity in order to keep his gunslinging secret.",
+  "description": "The Outlaw Kid  is a fictional Western hero in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/OutlawKid11-pg2.png",
   "isHero": false,
   "isVillain": false,
@@ -29,6 +27,8 @@
     "Lance Temple"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1677/outlaw_kid",

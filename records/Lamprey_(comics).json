@@ -2,14 +2,10 @@
   "aliases": [
     "Lamprey"
   ],
-  "alliances": [
-    "Institute of Evil",
-    "Squadron Supreme"
-  ],
   "authors": [
     "Mark Gruenwald"
   ],
-  "description": "Lamprey (Donald McGuiggin) is a fictional character from Marvel Comics' original Squadron Supreme series. He was initially created as a pastiche of the DC Comics supervillain, the Parasite.",
+  "description": "Lamprey (Donald McGuiggin) is a fictional character from Marvel Comics' original Squadron Supreme series",
   "isHero": false,
   "isVillain": false,
   "name": "Lamprey",
@@ -32,6 +28,10 @@
     "Donald McGuiggin"
   ],
   "species": [
+  ],
+  "teams": [
+    "Institute of Evil",
+    "Squadron Supreme"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Lamprey_(comics)"

@@ -4,14 +4,11 @@
     "Doc Occulus",
     "Occulus"
   ],
-  "alliances": [
-    "The Gem Guild"
-  ],
   "authors": [
     "Tom DeFalco",
     "Paul Ryan"
   ],
-  "description": "Occulus is a fictional character in the Marvel Universe.Occulus is an enemy of the Fantastic Four. He was one of the first villains imprisoned in the Negative Zone prison.",
+  "description": "Occulus is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Occulus",
@@ -34,6 +31,9 @@
     "Occulus"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Gem Guild"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Occulus"

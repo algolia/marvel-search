@@ -7,15 +7,11 @@
     "矢志田信玄",
     "Shingen Yashida"
   ],
-  "alliances": [
-    "The Hand",
-    "Yashida Clan"
-  ],
   "authors": [
     "Chris Claremont",
     "Frank Miller"
   ],
-  "description": "Shingen Yashida (矢志田 信玄, Yashida Shingen), usually called Lord Shingen, is a fictional character, a supervillain in the Marvel Comics universe, a foe of Wolverine. The character was created by Chris Claremont and Frank Miller and first appeared in Wolverine (1st series) #1 (September, 1982).",
+  "description": "Shingen Yashida (矢志田 信玄, Yashida Shingen), usually called Lord Shingen, is a fictional character, a supervillain in the Marvel Comics universe, a foe of Wolverine",
   "isHero": false,
   "isVillain": false,
   "name": "Shingen Yashida",
@@ -39,6 +35,10 @@
     "Shingen Yashida"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Hand",
+    "Yashida Clan"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Shingen_Yashida"

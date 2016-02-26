@@ -6,10 +6,6 @@
     "Nomad",
     "Bucky"
   ],
-  "alliances": [
-    "Defenders",
-    "Secret Defenders"
-  ],
   "authors": [
     "As Jack Monroe/Nomad:",
     "As \"Bucky\":",
@@ -20,7 +16,7 @@
     "Fabian Nicieza",
     "James Fry"
   ],
-  "description": "Nomad is the name of a number of superhero characters who have appeared in comic books published by Marvel Comics. The Nomad name and costume was created by writer Steve Englehart and artist Sal Buscema as an alternate identity for the original Captain America, Steve Rogers, in Captain America #180 (December 1974).The identity was revived by writer J. M. DeMatteis for a minor character (\"Edward Ferbel\") in Captain America #261-263 (September - November 1981). The same writer later gave the title to its best known claimant (\"Jack Monroe\") in Captain America #281 (May 1983).",
+  "description": "Nomad is the name of a number of superhero characters who have appeared in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c003d1875f38/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -53,6 +49,10 @@
     "Jack Monroe"
   ],
   "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "Secret Defenders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1616/nomad",

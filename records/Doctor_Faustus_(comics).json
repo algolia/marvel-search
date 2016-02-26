@@ -4,17 +4,11 @@
     "Master of Men's Minds",
     "Edward Marlowe"
   ],
-  "alliances": [
-    "Secret Empire",
-    "National Force",
-    "S.H.I.E.L.D.",
-    "Corporation"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Doctor Faustus (Johann Fennhoff) is a fictional character, a Marvel Comics supervillain.An Austrian by birth, he is most commonly associated with Captain America, first appearing in issue #107 of his first series.",
+  "description": "Doctor Faustus (Johann Fennhoff) is a fictional character, a Marvel Comics supervillain",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4ce5a54ac4d4b/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +31,12 @@
     "Johann Fennhoff"
   ],
   "species": [
+  ],
+  "teams": [
+    "Secret Empire",
+    "National Force",
+    "S.H.I.E.L.D.",
+    "Corporation"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/564/doctor_faustus",

@@ -6,10 +6,6 @@
     "Belial",
     "Azazel"
   ],
-  "alliances": [
-    "Neyaphem",
-    "Hellfire Club"
-  ],
   "authors": [
     "Chuck Austen",
     "Sean Phillips"
@@ -46,6 +42,10 @@
     "Azazel"
   ],
   "species": [
+  ],
+  "teams": [
+    "Neyaphem",
+    "Hellfire Club"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/227/azazel",

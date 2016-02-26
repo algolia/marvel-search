@@ -2,13 +2,11 @@
   "aliases": [
     "Dire Wraith"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Bill Mantlo",
     "Al Milgrom"
   ],
-  "description": "The Dire Wraiths are a fictional extraterrestrial species published by Marvel Comics. The Dire Wraiths first appeared in Rom #1 (1979), and were created by Bill Mantlo and Al Milgrom. The Dire Wraiths are the main opponents of Rom the Spaceknight.",
+  "description": "The Dire Wraiths are a fictional extraterrestrial species published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Dire_Wraith.jpg/180px-Dire_Wraith.jpg",
   "isHero": false,
   "isVillain": false,
@@ -31,6 +29,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Dire_Wraith"

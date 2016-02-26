@@ -2,13 +2,11 @@
   "aliases": [
     "Apocalypse Twins"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Rick Remender",
     "Olivier Coipel"
   ],
-  "description": "The Apocalypse Twins are two supervillains from Marvel Comics.",
+  "description": "The Apocalypse Twins are two supervillains from Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Apocalypse_Twins.jpg/225px-Apocalypse_Twins.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +35,8 @@
     "Eimin Worthington"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Apocalypse_Twins"

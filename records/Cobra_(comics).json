@@ -4,19 +4,13 @@
     "King Cobra",
     "Cobra"
   ],
-  "alliances": [
-    "Serpent Society",
-    "Thunderbolts",
-    "Chaeyi",
-    "Serpent Squad"
-  ],
   "authors": [
     "Timothy Liebe",
     "Tamora Pierce",
     "Stan Lee",
     "Don Heck"
   ],
-  "description": "Cobra is the name of different characters that appear in Marvel Comics.",
+  "description": "Cobra is the name of different characters that appear in Marvel Comics",
   "isHero": false,
   "isVillain": true,
   "name": "King Cobra",
@@ -47,6 +41,12 @@
     "Klaus Voorhees"
   ],
   "species": [
+  ],
+  "teams": [
+    "Serpent Society",
+    "Thunderbolts",
+    "Chaeyi",
+    "Serpent Squad"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2839/king_cobra",

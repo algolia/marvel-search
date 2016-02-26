@@ -2,11 +2,9 @@
   "aliases": [
     "Ronin"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "Ronin is an alias used by multiple characters in the Marvel Comics Universe. The Ronin identity was created by Brian Michael Bendis and Joe Quesada, though the characters who have adopted the identity were pre-existing characters created by other writers.The name \"Ronin\" refers to the Japanese term for a masterless samurai, a lone warrior.",
+  "description": "Ronin is an alias used by multiple characters in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Ronin_Marvel_Comics.jpg/250px-Ronin_Marvel_Comics.jpg",
   "isHero": true,
   "isVillain": false,
@@ -26,6 +24,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ronin_(Marvel_Comics)"

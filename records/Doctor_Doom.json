@@ -4,19 +4,11 @@
     "Dr. Doom",
     "Doctor Doom"
   ],
-  "alliances": [
-    "Intelligencia",
-    "Cabal",
-    "Future Foundation",
-    "Terrible Trio",
-    "The Cabal",
-    "Astonishing Avengers"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Doctor Doom (Victor von Doom) is a fictional character, a supervillain that appears in publications by Marvel Comics. The son of Romani witch Cynthia Von Doom, Doctor Doom is a recurring supervillain, archenemy of the Fantastic Four, and leader of the fictional nation of Latveria. He is both a genius inventor and a sorcerer. While his chief opponents have been the Fantastic Four, he has also come into conflict with Spider-Man and other superheroes in the Marvel Universe.Doctor Doom has made many appearances in video games, television series, and merchandise such as action figures and trading cards. He was ranked as the 4th Greatest Villain by Wizard on its 100 Greatest Villains of All Time list. IGN's list of the Top 100 Comic Book Villains of All Time ranked Doctor Doom  as #3.Doctor Doom has also been featured in other Marvel-endorsed feature films such as The Fantastic Four played by Joseph Culp, while actor Julian McMahon played him in the 2005 film Fantastic Four and its 2007 sequel Fantastic Four: Rise of the Silver Surfer as the film's antagonist. Toby Kebbell will portray a new take on the character in the upcoming 2015 film reboot, The Fantastic Four.",
+  "description": "Doctor Doom (Victor von Doom) is a fictional character, a supervillain that appears in publications by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/53176bb096d17/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -57,6 +49,14 @@
     "Dr. Victor Von Doom"
   ],
   "species": [
+  ],
+  "teams": [
+    "Intelligencia",
+    "Cabal",
+    "Future Foundation",
+    "Terrible Trio",
+    "The Cabal",
+    "Astonishing Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/13/dr_doom",

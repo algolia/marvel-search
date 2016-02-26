@@ -2,14 +2,11 @@
   "aliases": [
     "Maximus Lobo"
   ],
-  "alliances": [
-    "Dominant Species"
-  ],
   "authors": [
     "Chuck Austen",
     "Kia Asamiya"
   ],
-  "description": "Maximus Lobo is a fictional character, a mutant in the Marvel Comics Universe. His first appearance was in Uncanny X-Men #417.",
+  "description": "Maximus Lobo is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Maximus Lobo",
@@ -31,6 +28,9 @@
     "Maximus Lobo"
   ],
   "species": [
+  ],
+  "teams": [
+    "Dominant Species"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Maximus_Lobo"

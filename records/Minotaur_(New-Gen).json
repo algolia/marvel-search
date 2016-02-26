@@ -4,17 +4,12 @@
     "Mini",
     "Minotaur (New-Gen)"
   ],
-  "alliances": [
-    "A.P.N.G.",
-    "Gabriel",
-    "A.P.N.G., Gabriel"
-  ],
   "authors": [
     "Julia Coppola",
     "J.D. Matonti",
     "Chris Matonti"
   ],
-  "description": "Minotaur or Mini is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics. Created by Chris Matonti, J.D. Matonti, and Julia Coppola, he first appeared in NEW-GEN #1 (2010). He is the oldest founding member of the A.P.N.G. and their field leader. He gained his powers when Deadalus released a nanobot swarm on New-Gen.",
+  "description": "Minotaur or Mini is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Minatour_new_gen.jpg/250px-Minatour_new_gen.jpg",
   "isHero": true,
   "isVillain": false,
@@ -38,6 +33,11 @@
     "None"
   ],
   "species": [
+  ],
+  "teams": [
+    "A.P.N.G.",
+    "Gabriel",
+    "A.P.N.G., Gabriel"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Minotaur_(New-Gen)"

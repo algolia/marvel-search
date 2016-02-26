@@ -2,17 +2,12 @@
   "aliases": [
     "Roboduck"
   ],
-  "alliances": [
-    "A.P.N.G.",
-    "Gabriel",
-    "A.P.N.G., Gabriel"
-  ],
   "authors": [
     "Julia Coppola",
     "J.D. Matonti",
     "Chris Matonti"
   ],
-  "description": "Roboduck is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics. Created by Chris Matonti, J.D. Matonti, and Julia Coppola, he first appeared in NEW-GEN #1 (2010). He is a sentient robot from the world of NEW-GEN, and a member of the A.P.N.G. since its founding.",
+  "description": "Roboduck is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Roboduck_new_gen.jpg/250px-Roboduck_new_gen.jpg",
   "isHero": true,
   "isVillain": false,
@@ -39,6 +34,11 @@
     "None"
   ],
   "species": [
+  ],
+  "teams": [
+    "A.P.N.G.",
+    "Gabriel",
+    "A.P.N.G., Gabriel"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Roboduck"

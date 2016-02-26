@@ -4,15 +4,9 @@
     "Patricia Walker",
     "Patsy Walker"
   ],
-  "alliances": [
-    "Legion of the Unliving",
-    "Defenders",
-    "Lady Liberators",
-    "Avengers"
-  ],
   "authors": [
   ],
-  "description": "Hellcat (Patricia \"Patsy\" Walker) is a fictional character, a superhero appearing in books published by Marvel Comics.  She premiered as the star of a teen romantic-comedy series and was later integrated into Marvel superhero franchises such as the Avengers and the Defenders.Created by Ruth Atkinson, Patsy Walker first appeared in Miss America Magazine #2 (Nov. 1944), published by Marvel precursor Timely Comics, and became Hellcat in The Avengers #144 (Feb. 1976).  The character was ranked 95th in Comics Buyer's Guide's \"100 Sexiest Women in Comics\" list.Actress Rachael Taylor will play the character in the television series A.K.A. Jessica Jones, set to premiere on Netflix in 2015.",
+  "description": "Hellcat (Patricia \"Patsy\" Walker) is a fictional character, a superhero appearing in books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d751d6b1bc7d/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +37,12 @@
     "Patricia \"Patsy\" Walker"
   ],
   "species": [
+  ],
+  "teams": [
+    "Legion of the Unliving",
+    "Defenders",
+    "Lady Liberators",
+    "Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/939/hellcat",

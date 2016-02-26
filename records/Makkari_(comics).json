@@ -13,15 +13,10 @@
     "Thoth",
     "Makkari"
   ],
-  "alliances": [
-    "Monster Hunters",
-    "Eternals",
-    "First Line"
-  ],
   "authors": [
     "Jack Kirby"
   ],
-  "description": "Makkari, formerly known as Hurricane and Mercury, is a member of the Eternals, a fictional race of superhumans in the Marvel Comics universe. He was created by writer-artist Jack Kirby in the 1976-1978 comic book series The Eternals, where the name was spelled Makarri.Marvel Comics continuity was later retconned so that the character presented as the mythological god Mercury, introduced as a Marvel protagonist in Red Raven Comics #1 (Aug. 1940; \"Mercury In the 20th Century\" by artist Kirby and writer Martin A. Bursten, pen name \"Burstein\") was, in fact, Makkari.",
+  "description": "Makkari, formerly known as Hurricane and Mercury, is a member of the Eternals, a fictional race of superhumans in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Makkari_1.jpg/250px-Makkari_1.jpg",
   "isHero": true,
   "isVillain": false,
@@ -62,6 +57,11 @@
     "Makkari"
   ],
   "species": [
+  ],
+  "teams": [
+    "Monster Hunters",
+    "Eternals",
+    "First Line"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1340/makkari",

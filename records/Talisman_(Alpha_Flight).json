@@ -6,11 +6,6 @@
     "Talisman",
     "Talisman (Alpha Flight)"
   ],
-  "alliances": [
-    "Omega Flight",
-    "Alpha Flight",
-    "Beta Flight"
-  ],
   "authors": [
     "John Byrne"
   ],
@@ -39,6 +34,11 @@
     "Elizabeth Twoyoungmen"
   ],
   "species": [
+  ],
+  "teams": [
+    "Omega Flight",
+    "Alpha Flight",
+    "Beta Flight"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2287/talisman",

@@ -2,11 +2,9 @@
   "aliases": [
     "Nightwatch"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "Nightwatch is a fictional super hero who has appeared in various comic book series published by Marvel Comics. He exists in Marvel's main shared universe, known as the Marvel Universe.",
+  "description": "Nightwatch is a fictional super hero who has appeared in various comic book series published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Nightwatch_HCV.jpg",
   "isHero": false,
   "isVillain": false,
@@ -31,6 +29,8 @@
     "Dr. Kevin Trench"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Nightwatch_(comics)"

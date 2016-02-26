@@ -8,14 +8,12 @@
     "The Great Shadow",
     "Chthon"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Bill Mantlo",
     "Yong Montano",
     "Marv Wolfman"
   ],
-  "description": "Chthon is a fictional character, a demonic Elder God in the Marvel Comics Universe. His name derives from chthon, the Greek word for \"earth\" and \"earthly\", especially pertaining to earth that was not life giving soil, but dark like that of the grave or the underworld. In some instances, Chthon is portrayed as the Marvel equivalent of the primal Devil of some kind predating that of Judeo-Christian teachings, as his creations, the N'Garai, were driven from Earth by the angel Lucifer before his rebellion against God.",
+  "description": "Chthon is a fictional character, a demonic Elder God in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Chthon",
@@ -39,6 +37,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Chthon_(Marvel_Comics)"

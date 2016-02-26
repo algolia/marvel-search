@@ -1,5 +1,8 @@
 {
  "globals": {
+    "_": true,
+    "$": true,
+    "instantsearch": true,
     "cleanUpStubs": true
   },
   "extends": "algolia",

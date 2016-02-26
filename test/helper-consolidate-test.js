@@ -202,16 +202,16 @@ describe('HelperConsolidate', () => {
       expect(actual.authors).toEqual(['Bar', 'Baz']);
     });
 
-    it('should merge alliances from infoboxData and wikidataData', () => {
+    it('should merge teams from infoboxData and wikidataData', () => {
       // Given
       let input = {
         dbpediaData: {
-          alliances: [
+          teams: [
             'Bar'
           ]
         },
         infoboxData: {
-          alliances: [
+          teams: [
             'Baz'
           ]
         }
@@ -221,7 +221,7 @@ describe('HelperConsolidate', () => {
       let actual = Helper.merge(input);
 
       // Then
-      expect(actual.alliances).toEqual(['Bar', 'Baz']);
+      expect(actual.teams).toEqual(['Bar', 'Baz']);
     });
 
     it('should remove empty keys', () => {
@@ -230,7 +230,7 @@ describe('HelperConsolidate', () => {
         wikidataData: {},
         dbpediaData: null,
         infoboxData: {
-          alliances: [
+          teams: [
             'Foo',
             'Bar'
           ]
@@ -241,7 +241,7 @@ describe('HelperConsolidate', () => {
       let actual = Helper.merge(input);
 
       // Then
-      expect(actual.alliances).toEqual(['Foo', 'Bar']);
+      expect(actual.teams).toEqual(['Foo', 'Bar']);
     });
 
     it('should remove duplicate value without case sensitivity', () => {

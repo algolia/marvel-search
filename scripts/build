@@ -1,9 +1,2 @@
 #!/usr/bin/env sh
-
-npm run init && \
-npm run wikidata && \
-npm run dbpedia && \
-npm run images &&
-npm run pageviews && \
-npm run marvel &&
-npm run consolidate
+brunch build --production

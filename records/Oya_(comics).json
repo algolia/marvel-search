@@ -4,19 +4,11 @@
     "The Third Light",
     "Oya"
   ],
-  "alliances": [
-    "X-Men",
-    "Hellfire Club",
-    "Hope Summers",
-    "The Lights",
-    "Jean Grey School Students",
-    "Hellfire Academy"
-  ],
   "authors": [
     "Matt Fraction",
     "Kieron Gillen"
   ],
-  "description": "Oya (Idie Okonkwo) is a fictional comic book superhero appearing in books published by Marvel Comics. The character first appeared in Uncanny X-Men #528, in the third chapter of the \"Five Lights\" storyline, and was created by Matt Fraction and Kieron Gillen. She is one of the \"Five Lights\"—a group of mutants who manifested their abilities after the events of \"Second Coming\".",
+  "description": "Oya (Idie Okonkwo) is a fictional comic book superhero appearing in books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/XMEN_Oya.jpg",
   "isHero": true,
   "isVillain": false,
@@ -38,6 +30,14 @@
     "Idie Okonkwo"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "Hellfire Club",
+    "Hope Summers",
+    "The Lights",
+    "Jean Grey School Students",
+    "Hellfire Academy"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Oya_(comics)"

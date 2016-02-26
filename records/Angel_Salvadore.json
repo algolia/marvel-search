@@ -4,18 +4,11 @@
     "Angel",
     "Angel Salvadore"
   ],
-  "alliances": [
-    "Hellfire Club",
-    "New Warriors",
-    "X-Mansion",
-    "Brotherhood of Mutants",
-    "Teen Brigade"
-  ],
   "authors": [
     "Ethan Van Sciver",
     "Grant Morrison"
   ],
-  "description": "Angel Salvadore, also known by her codename Tempest, is a fictional character created by Grant Morrison and Ethan Van Sciver, appearing in comic books published by Marvel Comics. She first appeared in New X-Men vol. 1 #118 (November 2001). She is portrayed by Zoë Kravitz in the 2011 feature film X-Men: First Class. In the film she becomes one of the members of the Hellfire Club and later joins Magneto's Brotherhood of Mutants.",
+  "description": "Angel Salvadore, also known by her codename Tempest, is a fictional character created by Grant Morrison and Ethan Van Sciver, appearing in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/531769834b15f/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +35,13 @@
     "Angel Salvadore"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellfire Club",
+    "New Warriors",
+    "X-Mansion",
+    "Brotherhood of Mutants",
+    "Teen Brigade"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1011396/angel_thomas_halloway/featured",

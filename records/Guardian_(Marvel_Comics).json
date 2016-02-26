@@ -4,16 +4,10 @@
     "Vindicator",
     "Guardian"
   ],
-  "alliances": [
-    "Beta Flight",
-    "Features of the Marvel Universe",
-    "Alpha Flight",
-    "Department H"
-  ],
   "authors": [
     "John Byrne"
   ],
-  "description": "Guardian (James \"Mac\" MacDonald Hudson, Jr.), also known as Weapon Alpha and Vindicator, is a fictional character, a Canadian superhero in the Marvel Comics Universe who was the leader of Alpha Flight. He was created by John Byrne, and first appeared in Uncanny X-Men #109 which was co-plotted by Byrne and his long-time collaborator Chris Claremont. He was designed to be the Canadian equivalent of Captain America, hence his costume markings are modeled after the Canadian flag.",
+  "description": "Guardian (James \"Mac\" MacDonald Hudson, Jr",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4dd531d26079c/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +33,12 @@
     "Jr."
   ],
   "species": [
+  ],
+  "teams": [
+    "Beta Flight",
+    "Features of the Marvel Universe",
+    "Alpha Flight",
+    "Department H"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/868/guardian",

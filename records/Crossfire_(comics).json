@@ -5,17 +5,11 @@
     "Prisoner V22503",
     "Crossfire"
   ],
-  "alliances": [
-    "Villains for Hire",
-    "Cross Technological Enterprises",
-    "Masters of Evil",
-    "Central Intelligence Agency"
-  ],
   "authors": [
     "Jim Craig",
     "Steven Grant"
   ],
-  "description": "Crossfire (William Cross) is a fictional character, a supervillain in the Marvel Comics universe. He was created by writer Steven Grant and artist Jim Craig in Marvel Two-in-One #52 (June 1979). Crossfire is a former CIA agent and is often depicted as an enemy of Hawkeye.",
+  "description": "Crossfire (William Cross) is a fictional character, a supervillain in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/87228-166129-crossfire.jpg/250px-87228-166129-crossfire.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +34,12 @@
     "William Cross"
   ],
   "species": [
+  ],
+  "teams": [
+    "Villains for Hire",
+    "Cross Technological Enterprises",
+    "Masters of Evil",
+    "Central Intelligence Agency"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Crossfire_(comics)"

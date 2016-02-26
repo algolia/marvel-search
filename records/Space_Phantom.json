@@ -2,13 +2,11 @@
   "aliases": [
     "Space Phantom"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Space Phantom is a name given to a number of fictional characters in the Marvel Comics universe. The first appearance of such a being was in Avengers vol. 1 #2 (Nov 1963), they were created by Stan Lee and Jack Kirby.",
+  "description": "Space Phantom is a name given to a number of fictional characters in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Space Phantom",
@@ -31,6 +29,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Space_Phantom"

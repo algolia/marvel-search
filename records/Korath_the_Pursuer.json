@@ -2,14 +2,11 @@
   "aliases": [
     "Korath the Pursuer"
   ],
-  "alliances": [
-    "Starforce"
-  ],
   "authors": [
     "Greg Capullo",
     "Mark Gruenwald"
   ],
-  "description": "Korath the Pursuer is a fictional character in Marvel Comics.",
+  "description": "Korath the Pursuer is a fictional character in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Korath_the_Pursuer.jpg",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +32,9 @@
     "Korath-Thak"
   ],
   "species": [
+  ],
+  "teams": [
+    "Starforce"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Korath_the_Pursuer"

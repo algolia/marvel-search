@@ -3,15 +3,11 @@
     "Huntsman of Zeus",
     "Huntsman"
   ],
-  "alliances": [
-    "Olympians",
-    "Olympian Gods"
-  ],
   "authors": [
     "Allyn Brodsky",
     "Frank Springer"
   ],
-  "description": "The Huntsman is a fictional character in Marvel Comics who is a tracker/hunter of the Olympian Gods for Zeus. Over the years he has appeared mainly as an enemy of Hercules.",
+  "description": "The Huntsman is a fictional character in Marvel Comics who is a tracker/hunter of the Olympian Gods for Zeus",
   "isHero": false,
   "isVillain": false,
   "name": "Huntsman",
@@ -46,6 +42,10 @@
     "Cephalus"
   ],
   "species": [
+  ],
+  "teams": [
+    "Olympians",
+    "Olympian Gods"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Huntsman_(Marvel_Comics)"

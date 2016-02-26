@@ -2,13 +2,11 @@
   "aliases": [
     "Gog"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Roy Thomas",
     "Gil Kane"
   ],
-  "description": "Gog is a fictional character, a comic book supervillain in the Marvel Comics Universe. Created by writer Roy Thomas and Gil Kane, the character first appears in The Amazing Spider-Man #103.An alien being from an unknown planet, Gog resembles a gigantic reptilian humanoid; despite his monstrous appearance and demeanor, Gog is actually quite intelligent, capable of understanding human speech and creating various complex devices.",
+  "description": "Gog is a fictional character, a comic book supervillain in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/5/56/AmazingSpider-Man103.jpg",
   "isHero": false,
   "isVillain": false,
@@ -31,6 +29,8 @@
     "Gog"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Gog_(Marvel_Comics)"

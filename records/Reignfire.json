@@ -4,9 +4,6 @@
     "Project Nineteen",
     "Reignfire"
   ],
-  "alliances": [
-    "Mutant Liberation Front"
-  ],
   "authors": [
     "Fabian Nicieza & Matt Broome",
     "Fabian Nicieza",
@@ -43,6 +40,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Mutant Liberation Front"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2252/sunspot",

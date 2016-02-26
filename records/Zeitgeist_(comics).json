@@ -2,14 +2,11 @@
   "aliases": [
     "Zeitgeist"
   ],
-  "alliances": [
-    "X-Force"
-  ],
   "authors": [
     "Peter Milligan",
     "Mike Allred"
   ],
-  "description": "Zeitgeist (Axel Cluney) is a fictional mutant character and superhero in the Marvel Comics Universe, a member of the second team of X-Force. Zeitgeist was created by Peter Milligan (writer) and Mike Allred (artist).",
+  "description": "Zeitgeist (Axel Cluney) is a fictional mutant character and superhero in the Marvel Comics Universe, a member of the second team of X-Force",
   "isHero": false,
   "isVillain": false,
   "name": "Zeitgeist",
@@ -30,6 +27,9 @@
     "Axel Cluney"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Force"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Zeitgeist_(comics)"

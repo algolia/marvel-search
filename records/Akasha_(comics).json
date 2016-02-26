@@ -3,13 +3,11 @@
     "The Living Pharaoh",
     "Akasha"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Richard Case",
     "Todd Dezago"
   ],
-  "description": "Akasha (Akasha Martinez), also sometimes called The Living Pharaoh, is a fictional character in the Marvel Universe, a former enemy of Spider-Man who has been associated with Ahmet Abdol. She is currently a potential Initiative recruit courtesy of Tony Stark. Akasha has only appeared in two comic book issues, but she has yet to appear in more.",
+  "description": "Akasha (Akasha Martinez), also sometimes called The Living Pharaoh, is a fictional character in the Marvel Universe, a former enemy of Spider-Man who has been associated with Ahmet Abdol",
   "isHero": false,
   "isVillain": false,
   "name": "Akasha",
@@ -31,6 +29,8 @@
     "Akasha Martinez"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Akasha_(comics)"

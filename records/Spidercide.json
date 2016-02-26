@@ -3,13 +3,11 @@
     "Freakface",
     "Spidercide"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Sal Buscema",
     "Tom DeFalco"
   ],
-  "description": "Spidercide is a fictional character, a comic book supervillain appearing in publications by Marvel Comics.  He is a clone of the superhero Spider-Man, serving as an enemy and a foil to both his original counterpart and Scarlet Spider (Ben Reilly), who was also a clone and an ally of Spider-Man.",
+  "description": "Spidercide is a fictional character, a comic book supervillain appearing in publications by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Spidercide",
@@ -31,6 +29,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Spidercide"

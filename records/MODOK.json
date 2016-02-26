@@ -4,19 +4,11 @@
     "MODOK",
     "MODOC (Mobile Organism Designed Only for Computing)"
   ],
-  "alliances": [
-    "The Headmen",
-    "Intelligencia",
-    "Advanced Idea Mechanics",
-    "AIM",
-    "The",
-    "Headmen"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "MODOK (also written as M.O.D.O.K.; acronym for Mental/Mobile/Mechanized Organism Designed Only for Killing) is a fictional character, a supervillain that appears in comic books published by Marvel Comics. The character first appeared in Tales of Suspense #93 (September  1967) and was created by Stan Lee and Jack Kirby.Debuting in the Silver Age of Comic Books, MODOK has appeared in over four decades of Marvel continuity, also starring in the limited series Super-Villain Team-Up: MODOK's Eleven #1–5 (September  – December  2008) and a self-titled one-shot publication MODOK: Reign Delay #1 (November  2009).The character has featured in other Marvel-endorsed products such as video games and animated television series and merchandise such as trading cards and toys. IGN's list of the Top 100 Comic Book Villains of All Time ranked MODOK as #100.",
+  "description": "MODOK (also written as M",
   "image": "https://upload.wikimedia.org/wikipedia/en/e/eb/Modok.PNG",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +35,14 @@
     "George Tarleton"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Headmen",
+    "Intelligencia",
+    "Advanced Idea Mechanics",
+    "AIM",
+    "The",
+    "Headmen"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/MODOK"

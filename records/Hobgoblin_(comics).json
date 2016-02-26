@@ -3,15 +3,13 @@
     "Hobgoblin 2211",
     "Hobgoblin"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Peter David",
     "Rick Leonardi",
     "John Romita, Jr.",
     "Roger Stern"
   ],
-  "description": "The Hobgoblin is the alias of several fictional characters, supervillains that appear in comic books published by Marvel Comics. The first Hobgoblin, Roderick Kingsley, first appeared in The Amazing Spider-Man #238, and was created by Roger Stern and John Romita, Jr. During the late 1980s and most of the 1990s, the Hobgoblin identity was carried exclusively by Jason Macendale instead. In 2009 the Hobgoblin was ranked by IGN as the 57th greatest comic book villain.",
+  "description": "The Hobgoblin is the alias of several fictional characters, supervillains that appear in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Hobgoblin_%28Marvel_Comics%29.png",
   "isHero": false,
   "isVillain": true,
@@ -41,6 +39,8 @@
     "Robin Bourne"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/965/hobgoblin",

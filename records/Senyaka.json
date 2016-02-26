@@ -2,15 +2,12 @@
   "aliases": [
     "Senyaka"
   ],
-  "alliances": [
-    "Acolytes"
-  ],
   "authors": [
     "Scott Lobdell",
     "John Romita, Jr.",
     "John Romita Jr."
   ],
-  "description": "Suvik Senyaka is a fictional mutant villain character in the Marvel Comics Universe.",
+  "description": "Suvik Senyaka is a fictional mutant villain character in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Senyaka",
@@ -36,6 +33,9 @@
     "Suvik Senyaka"
   ],
   "species": [
+  ],
+  "teams": [
+    "Acolytes"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Senyaka"

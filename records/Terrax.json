@@ -4,13 +4,6 @@
     "Terrax the Tamer",
     "Terrax"
   ],
-  "alliances": [
-    "Legion of the Unliving",
-    "Defenders",
-    "Galactus",
-    "Heralds of Galactus",
-    "Offenders"
-  ],
   "authors": [
     "Artists: John Byrne  Joe Sinnott",
     "Ben Sean",
@@ -52,6 +45,13 @@
     "Tyros"
   ],
   "species": [
+  ],
+  "teams": [
+    "Legion of the Unliving",
+    "Defenders",
+    "Galactus",
+    "Heralds of Galactus",
+    "Offenders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2311/terrax",

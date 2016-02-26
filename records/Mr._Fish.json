@@ -3,15 +3,11 @@
     "Mort",
     "Mr. Fish"
   ],
-  "alliances": [
-    "Maggia",
-    "Flashmob"
-  ],
   "authors": [
     "George Tuska",
     "Bill Mantlo"
   ],
-  "description": "Mr. Fish is the name of two Marvel Comics supervillains.",
+  "description": "Mr",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Power029a.jpg/170px-Power029a.jpg",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +31,10 @@
     "Bill Norris"
   ],
   "species": [
+  ],
+  "teams": [
+    "Maggia",
+    "Flashmob"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1525/mr_fish",

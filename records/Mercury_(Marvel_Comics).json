@@ -3,21 +3,12 @@
     "Cessily Kincaid",
     "Mercury"
   ],
-  "alliances": [
-    "Hellions",
-    "New X-Men",
-    "X-Mansion",
-    "Hellions training squad",
-    "Xavier Institute",
-    "X-Men-In-Training",
-    "Jean Grey School Students"
-  ],
   "authors": [
     "Nunzio DeFilippis",
     "Christina Weir",
     "Keron Grant"
   ],
-  "description": "Mercury (Cessily Kincaid) is a fictional character from Marvel Comic's X-Men series.  She is a teenage member of the student body at the Xavier Institute and a recurring member of the X-Men. She first appeared in New Mutants, vol. 2 #2 in August 2003.",
+  "description": "Mercury (Cessily Kincaid) is a fictional character from Marvel Comic's X-Men series",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Mercuryprofile.jpg/250px-Mercuryprofile.jpg",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +34,15 @@
     "Cessily Kincaid"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellions",
+    "New X-Men",
+    "X-Mansion",
+    "Hellions training squad",
+    "Xavier Institute",
+    "X-Men-In-Training",
+    "Jean Grey School Students"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1434/mercury",

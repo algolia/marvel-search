@@ -2,21 +2,11 @@
   "aliases": [
     "Drax the Destroyer"
   ],
-  "alliances": [
-    "Annihilation",
-    "Defenders",
-    "Legion of the Unliving",
-    "Guardians of the Galaxy (2008 team)",
-    "Infinity Watch",
-    "Guardians of the Galaxy",
-    "Secret Defenders",
-    "United Front"
-  ],
   "authors": [
     "Mike Friedrich",
     "Jim Starlin"
   ],
-  "description": "Drax the Destroyer (Arthur Douglas) is a fictional character, a superhero appearing in comic books published by Marvel Comics. Created by writer Mike Friedrich and writer/artist Jim Starlin, the character first appeared in Iron Man #55 (February 1973).Arthur Douglas was a human whose family was attacked and killed by the supervillain Thanos. Needing a champion to combat Thanos, the being known as Kronos took Arthur's spirit and placed it in a powerful new body, and Drax the Destroyer was born. Drax's powers included enhanced strength and resilience, flight, and the ability to project energy blasts from his hands. The character often battled Thanos, and on occasion the superheroes Captain Marvel and Adam Warlock. He was also a member of the group known as the Infinity Watch.In 2004, the character lost his flight and energy blasts, and a portion of his strength and resilience. This version of the character played a role in the crossover comic book events Annihilation and Annihilation: Conquest, and became a member of the relaunched Guardians of the Galaxy. He has been featured in a variety of associated Marvel merchandise, including animated television series, toys, trading cards, and video games. Drax appears in the 2014 live-action film Guardians of the Galaxy, portrayed by Dave Bautista.",
+  "description": "Drax the Destroyer (Arthur Douglas) is a fictional character, a superhero appearing in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/Drax.PNG",
   "isHero": false,
   "isVillain": false,
@@ -51,6 +41,16 @@
     "Arthur Sampson Douglas"
   ],
   "species": [
+  ],
+  "teams": [
+    "Annihilation",
+    "Defenders",
+    "Legion of the Unliving",
+    "Guardians of the Galaxy (2008 team)",
+    "Infinity Watch",
+    "Guardians of the Galaxy",
+    "Secret Defenders",
+    "United Front"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Drax_the_Destroyer"

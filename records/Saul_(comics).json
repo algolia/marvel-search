@@ -2,16 +2,12 @@
   "aliases": [
     "Saul"
   ],
-  "alliances": [
-    "High Lords",
-    "Externals"
-  ],
   "authors": [
     "Mark Pacella",
     "Fabian Nicieza",
     "Rob Liefeld"
   ],
-  "description": "Saul (real name Garbha-hsien) is a fictional character in Marvel Comics. His first appearance was in X-Force  #10. He is both a mutant and one of the Externals.",
+  "description": "Saul (real name Garbha-hsien) is a fictional character in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Saul",
@@ -37,6 +33,10 @@
     "Garbha-hsien"
   ],
   "species": [
+  ],
+  "teams": [
+    "High Lords",
+    "Externals"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Saul_(comics)"

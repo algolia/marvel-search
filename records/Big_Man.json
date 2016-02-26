@@ -3,14 +3,11 @@
     "Janice Foswell",
     "Big Man"
   ],
-  "alliances": [
-    "Enforcers"
-  ],
   "authors": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
-  "description": "Big Man is the name of different characters in Marvel Comics.",
+  "description": "Big Man is the name of different characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Janice Foswell",
@@ -32,6 +29,9 @@
     "Janice Foswell"
   ],
   "species": [
+  ],
+  "teams": [
+    "Enforcers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Big_Man"

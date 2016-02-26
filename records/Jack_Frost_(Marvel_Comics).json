@@ -3,14 +3,11 @@
     "The God in the Ice",
     "Jack Frost"
   ],
-  "alliances": [
-    "Liberty Legion"
-  ],
   "authors": [
     "Frank Giacoia",
     "Stan Lee"
   ],
-  "description": "Jack Frost is the name of two unrelated fictional characters in comic books published by the Marvel Comics. The first Jack Frost was published by Marvel's 1940s forerunner Timely Comics during the period fans and historians call the Golden Age of comic books.",
+  "description": "Jack Frost is the name of two unrelated fictional characters in comic books published by the Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/JackFrost_Marvel.jpg/150px-JackFrost_Marvel.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +34,9 @@
     "<small> (possibly Jack Frost)</small>"
   ],
   "species": [
+  ],
+  "teams": [
+    "Liberty Legion"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Jack_Frost_(Marvel_Comics)"

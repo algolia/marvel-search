@@ -3,15 +3,13 @@
     "Comet Man",
     "Comet+Man"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Bill Mumy",
     "Miguel Ferrer",
     "and Kelley Jones",
     "Kelley Jones"
   ],
-  "description": "Comet Man (Stephen Beckley) is a fictional character in the Marvel Comics universe.",
+  "description": "Comet Man (Stephen Beckley) is a fictional character in the Marvel Comics universe",
   "isHero": true,
   "isVillain": false,
   "name": "Comet Man",
@@ -41,6 +39,8 @@
     "Dr. Stephen Beckley"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Comet_Man"

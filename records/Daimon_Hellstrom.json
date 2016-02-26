@@ -5,21 +5,11 @@
     "Daimon Hellstrom",
     "Daimon"
   ],
-  "alliances": [
-    "Shadow Hunters",
-    "Hellfire Club",
-    "Masters of Evil",
-    "God Squad",
-    "Nick Fury's Howling Commandos",
-    "Midnight Sons",
-    "Defenders",
-    "S.H.I.E.L.D. Paranormal Containment Unit"
-  ],
   "authors": [
     "Roy Thomas",
     "Gary Friedrich"
   ],
-  "description": "Daimon Hellstrom, also known as the Son of Satan and Hellstorm, is a fictional character in the Marvel Comics universe.",
+  "description": "Daimon Hellstrom, also known as the Son of Satan and Hellstorm, is a fictional character in the Marvel Comics universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4ce5a2959ba25/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": true,
@@ -44,6 +34,16 @@
     "Daimon Hellstrom"
   ],
   "species": [
+  ],
+  "teams": [
+    "Shadow Hunters",
+    "Hellfire Club",
+    "Masters of Evil",
+    "God Squad",
+    "Nick Fury's Howling Commandos",
+    "Midnight Sons",
+    "Defenders",
+    "S.H.I.E.L.D. Paranormal Containment Unit"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2812/daimon_hellstrom",

@@ -3,15 +3,11 @@
     "Mister Fear",
     "Machinesmith"
   ],
-  "alliances": [
-    "Skeleton Crew",
-    "Masters of Evil"
-  ],
   "authors": [
     "Gene Colan",
     "Stan Lee"
   ],
-  "description": "Machinesmith (born Samuel \"Starr\" Saxon) is a fictional character, a supervillain in the Marvel Universe.  He specializes in robotics, and is able to make convincing doubles of other superhumans. His own mind was later transferred to a robotic body.",
+  "description": "Machinesmith (born Samuel \"Starr\" Saxon) is a fictional character, a supervillain in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Machinesmith.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +32,10 @@
     "Samuel \"Starr\" Saxon"
   ],
   "species": [
+  ],
+  "teams": [
+    "Skeleton Crew",
+    "Masters of Evil"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1476/mister_fear",

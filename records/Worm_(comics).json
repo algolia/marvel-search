@@ -2,14 +2,11 @@
   "aliases": [
     "Worm"
   ],
-  "alliances": [
-    "Savage Land Mutates"
-  ],
   "authors": [
     "Chris Claremont",
     "Marc Silvestri"
   ],
-  "description": "Worm is a fictional character in the Marvel Universe.",
+  "description": "Worm is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Worm",
@@ -29,6 +26,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Savage Land Mutates"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Worm_(comics)"

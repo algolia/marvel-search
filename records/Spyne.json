@@ -2,12 +2,9 @@
   "aliases": [
     "Spyne"
   ],
-  "alliances": [
-    "Dark Riders"
-  ],
   "authors": [
   ],
-  "description": "Spyne is a fictional character, a mutant in the Marvel Comics Universe. The character, unlike many mutants, is more monstrously deformed and reptilian as opposed to other mutants' somewhat-human appearances (Nightcrawler, Tusk, et al.). His first appearance was in Cable vol. 2 #17.",
+  "description": "Spyne is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Spyne",
@@ -36,6 +33,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Dark Riders"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Spyne"

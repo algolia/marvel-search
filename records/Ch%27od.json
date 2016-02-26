@@ -1,9 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "Starjammers"
-  ],
   "authors": [
     "Dave Cockrum"
   ],
@@ -32,6 +29,9 @@
     "Ch'od"
   ],
   "species": [
+  ],
+  "teams": [
+    "Starjammers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ch%27od"

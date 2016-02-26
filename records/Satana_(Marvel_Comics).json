@@ -5,20 +5,13 @@
     "Melissa Ramos",
     "Satana"
   ],
-  "alliances": [
-    "Avengers of the Supernatural",
-    "Nick Fury's Howling Commandos",
-    "Legion of Monsters",
-    "Witches",
-    "Thunderbolts"
-  ],
   "authors": [
     "John Romita",
     "Sr.",
     "Roy Thomas",
     "John Romita, Sr."
   ],
-  "description": "Satana is a fictional character, a comic book half-demon appearing in the Marvel Comics universe. She is the sister of Daimon Hellstrom,  also known as the Son of Satan.",
+  "description": "Satana is a fictional character, a comic book half-demon appearing in the Marvel Comics universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4ce5a46882aa9/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -46,6 +39,13 @@
     "Satana Hellstrom"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers of the Supernatural",
+    "Nick Fury's Howling Commandos",
+    "Legion of Monsters",
+    "Witches",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1997/satana",

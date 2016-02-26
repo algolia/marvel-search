@@ -11,25 +11,11 @@
     "The Creator",
     "Magneto"
   ],
-  "alliances": [
-    "Acolytes",
-    "X-Men",
-    "Brotherhood of Mutants",
-    "New Mutants",
-    "Savage Land Mutates",
-    "Excalibur",
-    "Hellfire Club",
-    "Apocalypse: The Twelve",
-    "Brotherhood of Evil Mutants",
-    "Genoshan Excalibur",
-    "The Twelve",
-    "Astonishing Avengers"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Magneto is a fictional character that appears in comic books published by Marvel Comics. He has most often been the primary villain of the X-Men comics, as well as the TV shows and the films; although in the comics, he has been an ally and even member of the X-Men at times. The character first appears in X-Men #1 (September 1963), and was created by writer Stan Lee and artist Jack Kirby. A powerful mutant with the ability to generate and control magnetic fields, Magneto desired mutants to eventually dominate the human race as he viewed humans as an outdated species that no longer deserves its continual domination over the world. However, writers have since fleshed out his character and origin, revealing him to be a Jewish Holocaust survivor whose actions are driven by the purpose of protecting the mutant race from suffering a similar fate. His role in comics has varied from supervillain to antihero to superhero. His character's early history has been compared with the civil rights leader Malcolm X and Jewish Defense League founder Meir Kahane. Magneto resents the pacifist attitude of Professor X and pushes for a more aggressive approach to achieving civil rights.  In 2009, IGN ranked Magneto as the greatest comic book villain of all time.Sir Ian McKellen portrayed Magneto in four films of the X-Men film series, while Michael Fassbender portrayed a younger version of the character in the 2011 prequel X-Men: First Class. In addition, both actors reprised the role in the film X-Men: Days of Future Past, set in two different eras.",
+  "description": "Magneto is a fictional character that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5261a7e53f827/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -63,6 +49,20 @@
     "Max Eisenhardt"
   ],
   "species": [
+  ],
+  "teams": [
+    "Acolytes",
+    "X-Men",
+    "Brotherhood of Mutants",
+    "New Mutants",
+    "Savage Land Mutates",
+    "Excalibur",
+    "Hellfire Club",
+    "Apocalypse: The Twelve",
+    "Brotherhood of Evil Mutants",
+    "Genoshan Excalibur",
+    "The Twelve",
+    "Astonishing Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/35/magneto",

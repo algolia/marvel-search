@@ -3,12 +3,10 @@
     "Desak",
     "the God Slayer"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Dan Jurgens"
   ],
-  "description": "Desak Sterixian, more commonly known as Desak the God Slayer, is a fictional character that appears in comic books published by Marvel Comics. The character was created by Dan Jurgens and Tom Grummett and first appears in Thor Annual 2001.",
+  "description": "Desak Sterixian, more commonly known as Desak the God Slayer, is a fictional character that appears in comic books published by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Desak",
@@ -49,6 +47,8 @@
     "Desak Sterixian"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Desak"

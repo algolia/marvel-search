@@ -2,17 +2,12 @@
   "aliases": [
     "Predator X"
   ],
-  "alliances": [
-    "Weapon X",
-    "Hydra",
-    "The Facility"
-  ],
   "authors": [
     "Christopher Yost",
     "Paco Medina",
     "Craig Kyle"
   ],
-  "description": "Predator X is a comic book character, in Marvel Comics'  main shared universe. The character is an adversary of Marvel's mutant characters, including the X-Men.",
+  "description": "Predator X is a comic book character, in Marvel Comics'  main shared universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Predatorx.jpg",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +36,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Weapon X",
+    "Hydra",
+    "The Facility"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Predator_X_(comics)"

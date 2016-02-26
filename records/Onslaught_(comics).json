@@ -4,15 +4,12 @@
     "Sir David the Great",
     "Onslaught"
   ],
-  "alliances": [
-    "Dark Descendants"
-  ],
   "authors": [
     "Andy Kubert",
     "Mark Waid",
     "Scott Lobdell"
   ],
-  "description": "Onslaught is a fictional character that appears in comic books published by Marvel Comics. The character first appeared in cameo X-Man #15 (May 1996), his first full appearance in X-Men vol. 2, #53 (June 1996). Onslaught was co-created by writers Scott Lobdell, Mark Waid, and artist Andy Kubert. Onslaught was a sentient psionic entity created from the consciousness of two mutants: Professor Charles Xavier and Magneto. During a battle between the X-Men and Magneto's Acolytes, Professor Xavier used his telepathic powers to shut down Magneto's mind, rendering him catatonic, but the darkest aspect of Magneto's mind escaped into Xavier's subconscious, where it 'merged' with Xavier's own darker nature to eventually grow into a separate persona of its own.The character of Onslaught has also been featured in video games and toy merchandise.In 2008, Onslaught was ranked #10 at Marvel.com on their list of Top 10 X-Men villains.",
+  "description": "Onslaught is a fictional character that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/535febc427605/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +38,9 @@
     "Red Skull"
   ],
   "species": [
+  ],
+  "teams": [
+    "Dark Descendants"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1657/onslaught",

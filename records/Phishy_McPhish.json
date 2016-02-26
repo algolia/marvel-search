@@ -2,12 +2,9 @@
   "aliases": [
     "Phishy McPhish"
   ],
-  "alliances": [
-    "Brotherhood of Mutants"
-  ],
   "authors": [
   ],
-  "description": "Phishy McPhish is a fictional character, a mutant in the Marvel Comics Universe. His first appearance was in The Brotherhood #7.",
+  "description": "Phishy McPhish is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Phishy McPhish",
@@ -28,6 +25,9 @@
     "McPhish"
   ],
   "species": [
+  ],
+  "teams": [
+    "Brotherhood of Mutants"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Phishy_McPhish"

@@ -2,14 +2,11 @@
   "aliases": [
     "American Dream"
   ],
-  "alliances": [
-    "A-Next"
-  ],
   "authors": [
     "Tom DeFalco",
     "Brent Anderson"
   ],
-  "description": "American Dream (Shannon Carter) is a fictional character featured in Marvel Comics MC2 series A-Next.  Her costume is very similar to that of Captain America. Her initial weapons are throwing disks like Captain America's alter ego Nomad, but later obtains Captain America's shield.  She appeared as a civilian in A-Next #1, and was named as \"Shannon\" in A-Next #3; it was not until A-Next #4 that she appeared in costume, as a prospective team member. American Dream has since appeared in two mini-series, her own in May 2008 and a second in June 2011, Captain America Corps.",
+  "description": "American Dream (Shannon Carter) is a fictional character featured in Marvel Comics MC2 series A-Next",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/American_Dream_%28Shannon_Carter%29.jpg/200px-American_Dream_%28Shannon_Carter%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +33,9 @@
     "Shannon Carter"
   ],
   "species": [
+  ],
+  "teams": [
+    "A-Next"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/American_Dream_(comics)"

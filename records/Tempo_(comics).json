@@ -3,15 +3,11 @@
     "Harriet Solomon",
     "Tempo"
   ],
-  "alliances": [
-    "Acolytes",
-    "Mutant Liberation Front"
-  ],
   "authors": [
     "Louise Simonson",
     "Rob Liefeld"
   ],
-  "description": "Tempo, a fictional character, is an African-American mutant in the Marvel Comics universe. She was first introduced as a member of the Mutant Liberation Front in New Mutants.",
+  "description": "Tempo, a fictional character, is an African-American mutant in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Tempo_A.JPG/250px-Tempo_A.JPG",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +30,10 @@
     "Heather Tucker"
   ],
   "species": [
+  ],
+  "teams": [
+    "Acolytes",
+    "Mutant Liberation Front"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Tempo_(comics)"

@@ -5,18 +5,11 @@
     "Mastermind",
     "Mastermind (Jason Wyngarde)"
   ],
-  "alliances": [
-    "Factor Three",
-    "Hellfire Club",
-    "Brotherhood of Mutants",
-    "Secret Empire",
-    "Brotherhood of Evil Mutants"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Mastermind (Jason Wyngarde) is a Marvel Comics supervillain, an adversary of the X-Men. The original Mastermind was a mutant with the psionic ability to generate complex telepathic illusions at will that cause his victims to see whatever he wishes them to see. He was a founding member of the first Brotherhood of Evil Mutants and later a probationary member of the Lords Cardinal of the Hellfire Club, where he played an important role in \"The Dark Phoenix Saga.\"After Wyngarde's death from the Legacy Virus, his three daughters appeared, two of whom possessed his illusion-creating abilities (Martinique Jason uses his code name, while Regan Wyngarde calls herself Lady Mastermind) and third is the X-Man, Pixie.In 2009, Mastermind was named IGN's 98th Top Comic Book Villain of All Time.",
+  "description": "Mastermind (Jason Wyngarde) is a Marvel Comics supervillain, an adversary of the X-Men",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4c003d43b02ab/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +33,13 @@
     "Jason Wyngarde"
   ],
   "species": [
+  ],
+  "teams": [
+    "Factor Three",
+    "Hellfire Club",
+    "Brotherhood of Mutants",
+    "Secret Empire",
+    "Brotherhood of Evil Mutants"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1395/mastermind",

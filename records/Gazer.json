@@ -3,11 +3,6 @@
     "War",
     "Gazer"
   ],
-  "alliances": [
-    "Horsemen of Apocalypse",
-    "NASA",
-    "Four Horsemen of Apocalypse"
-  ],
   "authors": [
     "Peter Milligan  Salvador Larroca",
     "Peter Milligan",
@@ -38,6 +33,11 @@
     "unrevealed"
   ],
   "species": [
+  ],
+  "teams": [
+    "Horsemen of Apocalypse",
+    "NASA",
+    "Four Horsemen of Apocalypse"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2519/war",

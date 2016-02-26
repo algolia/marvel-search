@@ -2,11 +2,9 @@
   "aliases": [
     "Hulkbusters"
   ],
-  "alliances": [
-  ],
   "authors": [
   ],
-  "description": "Hulkbusters is the name of three fictional organizations that have appeared in various comic book series published by Marvel Comics. All three groups exist within Marvel's shared universe known as the Marvel Universe and are so-named for their attempts to battle Hulk.",
+  "description": "Hulkbusters is the name of three fictional organizations that have appeared in various comic book series published by Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Hulkbusters",
@@ -25,6 +23,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hulkbusters"

@@ -7,21 +7,11 @@
     "Jessica Drew",
     "Spider-Woman (Jessica Drew)"
   ],
-  "alliances": [
-    "Hydra",
-    "Avengers",
-    "Secret Avengers",
-    "Lady Liberators",
-    "The New Avengers",
-    "S.W.O.R.D.",
-    "S.H.I.E.L.D.",
-    "New Avengers"
-  ],
   "authors": [
     "Marie Severin",
     "Archie Goodwin"
   ],
-  "description": "Spider-Woman (Jessica Drew) is a fictional character, a superheroine in comic books published by Marvel Comics. The character first appeared in Marvel Spotlight #32 (cover-dated February 1977), and 50 issues of an ongoing series titled Spider-Woman followed. At its conclusion she was killed, and though later resurrected in an Avengers story arc, she fell into disuse, supplanted by other characters using the name Spider-Woman.Writer Brian Michael Bendis added Spider-Woman to the roster of the high profile New Avengers. In 2009, the character received her second self-titled limited series, written by Bendis, which ran for seven issues.  As part of the Spider-Verse event, Spider-Woman will receive her third ongoing series, this time written by Dennis Hopeless.",
+  "description": "Spider-Woman (Jessica Drew) is a fictional character, a superheroine in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/531771afe4ffa/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -69,6 +59,16 @@
     "Jessica Miriam Drew"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hydra",
+    "Avengers",
+    "Secret Avengers",
+    "Lady Liberators",
+    "The New Avengers",
+    "S.W.O.R.D.",
+    "S.H.I.E.L.D.",
+    "New Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1010795/spider-woman_charlotte_witter/featured",

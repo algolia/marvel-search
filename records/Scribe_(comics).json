@@ -3,14 +3,11 @@
     "Red Rook",
     "Scribe"
   ],
-  "alliances": [
-    "Hellfire Club"
-  ],
   "authors": [
     "Carlos Pacheco",
     "Warren Ellis"
   ],
-  "description": "Scribe (Jane Hampshire) is a fictional character, a mutant in Marvel Comics' shared universe, the Marvel Universe. She first appeared in Excalibur #96.",
+  "description": "Scribe (Jane Hampshire) is a fictional character, a mutant in Marvel Comics' shared universe, the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Scribe",
@@ -32,6 +29,9 @@
     "Jane Hampshire"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellfire Club"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Scribe_(comics)"

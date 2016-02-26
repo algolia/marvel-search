@@ -2,16 +2,11 @@
   "aliases": [
     "Challenger"
   ],
-  "alliances": [
-    "Freedom Force",
-    "Fifty State Initiative",
-    "The Initiative"
-  ],
   "authors": [
     "George Klein",
     "Ray Gill"
   ],
-  "description": "The Challenger is a fictional superhero in comic books published by Marvel Comics, beginning with the company's 1940s iteration as Timely Comics during the period fans and historians call the Golden Age of Comic Books.",
+  "description": "The Challenger is a fictional superhero in comic books published by Marvel Comics, beginning with the company's 1940s iteration as Timely Comics during the period fans and historians call the Golden Age of Comic Books",
   "image": "https://upload.wikimedia.org/wikipedia/en/5/5c/Challenger-DaringMystery7.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +35,11 @@
     "William \"Bill\" Waring"
   ],
   "species": [
+  ],
+  "teams": [
+    "Freedom Force",
+    "Fifty State Initiative",
+    "The Initiative"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Challenger_(comics)"

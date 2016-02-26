@@ -3,16 +3,10 @@
     "The Blue Diamond",
     "Blue Diamond"
   ],
-  "alliances": [
-    "Liberty Legion",
-    "Invaders",
-    "Crazy Sues",
-    "New Invaders"
-  ],
   "authors": [
     "Ben Thompson"
   ],
-  "description": "Blue Diamond is a fictional character, a superhero in comic-books published by Marvel Comics, debuting under the company's 1940s forerunner, Timely Comics.An unrelated supervillain called the Blue Diamond appears as an antagonist in Timely's The Human Torch #11 (Spring 1943).",
+  "description": "Blue Diamond is a fictional character, a superhero in comic-books published by Marvel Comics, debuting under the company's 1940s forerunner, Timely Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/9/92/Blue_Diamond001.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +33,12 @@
     "Elton T. Morrow"
   ],
   "species": [
+  ],
+  "teams": [
+    "Liberty Legion",
+    "Invaders",
+    "Crazy Sues",
+    "New Invaders"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Blue_Diamond_(comics)"

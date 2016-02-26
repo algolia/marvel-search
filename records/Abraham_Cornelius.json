@@ -5,14 +5,10 @@
     "Abraham",
     "Abraham Cornelius"
   ],
-  "alliances": [
-    "Weapon X",
-    "The Hand"
-  ],
   "authors": [
     "Barry Windsor-Smith"
   ],
-  "description": "Doctor Abraham Cornelius is a fictional character in the Marvel Comics universe. He was first mentioned in Barry Windsor-Smith's eight page preview prequel chapter to the original \"Weapon X Saga\" in Marvel Comics Presents #72 but first appeared in Marvel Comics Presents #73 (March 1991).",
+  "description": "Doctor Abraham Cornelius is a fictional character in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/AbeCornelius.jpg",
   "isHero": false,
   "isVillain": true,
@@ -36,6 +32,10 @@
     "Dr. Abraham B. Cornelius"
   ],
   "species": [
+  ],
+  "teams": [
+    "Weapon X",
+    "The Hand"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/460/cornelius",

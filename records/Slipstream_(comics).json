@@ -2,9 +2,6 @@
   "aliases": [
     "Slipstream"
   ],
-  "alliances": [
-    "X-Men"
-  ],
   "authors": [
     "Chris Claremont",
     "Salvador Larroca"
@@ -38,6 +35,9 @@
     "Davis Cameron"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2143/slipstream",

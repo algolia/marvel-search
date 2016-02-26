@@ -2,9 +2,6 @@
   "aliases": [
     "Timeslip"
   ],
-  "alliances": [
-    "New Warriors"
-  ],
   "authors": [
     "Patrick Zircher",
     "Evan Skolnick"
@@ -35,6 +32,9 @@
     "Rina Patel"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Warriors"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2379/timeslip",

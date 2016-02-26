@@ -2,16 +2,12 @@
   "aliases": [
     "Monica Rappaccini"
   ],
-  "alliances": [
-    "Advanced Idea Mechanics",
-    "A.I.M."
-  ],
   "authors": [
     "Fred Van LenteLeonard Kirk",
     "Fred Van Lente",
     "Leonard Kirk"
   ],
-  "description": "Monica Rappaccini is a fictional character, a supervillain in the Marvel Comics universe. She first appeared in Amazing Fantasy #7 (2005), created by Fred Van Lente and Leonard Kirk. The character is depicted as the \"Supreme Scientist\" of the supervillain organization A.I.M..",
+  "description": "Monica Rappaccini is a fictional character, a supervillain in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Monica Rappaccini",
@@ -31,6 +27,10 @@
     "Monica Rappacini"
   ],
   "species": [
+  ],
+  "teams": [
+    "Advanced Idea Mechanics",
+    "A.I.M."
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Monica_Rappaccini"

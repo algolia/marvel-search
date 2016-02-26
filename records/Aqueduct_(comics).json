@@ -3,16 +3,11 @@
     "Water Wizard",
     "Aqueduct"
   ],
-  "alliances": [
-    "Thunderbolts",
-    "Masters of Evil",
-    "Force of Nature"
-  ],
   "authors": [
     "Don Heck",
     "Jim Shooter"
   ],
-  "description": "Aqueduct (Peter van Zante), originally known as Water Wizard, is a fictional character that appears in comic books published by Marvel Comics.",
+  "description": "Aqueduct (Peter van Zante), originally known as Water Wizard, is a fictional character that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c0035b3630cd/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +29,11 @@
     "Peter van Zante"
   ],
   "species": [
+  ],
+  "teams": [
+    "Thunderbolts",
+    "Masters of Evil",
+    "Force of Nature"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/169/aqueduct",

@@ -5,16 +5,11 @@
     "Pulse",
     "Pulse (Augustus)"
   ],
-  "alliances": [
-    "X-Men",
-    "X-Men: The 198",
-    "The 198"
-  ],
   "authors": [
     "Peter Milligan",
     "Salvador Larroca"
   ],
-  "description": "Pulse (Augustus), is a fictional character from the Marvel Comics universe.  Pulse is a mutant who retained his powers post-M-Day.  He first appeared in X-Men vol. 2, #173 (2004).",
+  "description": "Pulse (Augustus), is a fictional character from the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Pulse",
@@ -37,6 +32,11 @@
     "Augustus"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "X-Men: The 198",
+    "The 198"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Pulse_(Augustus)"

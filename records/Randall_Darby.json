@@ -4,12 +4,6 @@
     "Shocker",
     "Randall Darby"
   ],
-  "alliances": [
-    "Brotherhood of Mutants",
-    "Resistants",
-    "Mutant Force",
-    "Secret Empire"
-  ],
   "authors": [
     "Jack Kirby"
   ],
@@ -34,6 +28,12 @@
     "Randall Darby"
   ],
   "species": [
+  ],
+  "teams": [
+    "Brotherhood of Mutants",
+    "Resistants",
+    "Mutant Force",
+    "Secret Empire"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2081/shocker",

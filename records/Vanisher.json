@@ -4,15 +4,6 @@
     "The Vanisher",
     "Vanisher"
   ],
-  "alliances": [
-    "Marauders",
-    "Brotherhood of Mutants",
-    "Designer Gene Corporation",
-    "New Enforcers",
-    "X-Force",
-    "Factor Three",
-    "Fallen Angels"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
@@ -40,6 +31,15 @@
     "Telford Porter"
   ],
   "species": [
+  ],
+  "teams": [
+    "Marauders",
+    "Brotherhood of Mutants",
+    "Designer Gene Corporation",
+    "New Enforcers",
+    "X-Force",
+    "Factor Three",
+    "Fallen Angels"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2466/vanisher",

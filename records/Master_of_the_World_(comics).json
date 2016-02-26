@@ -6,13 +6,10 @@
     "Master of Life",
     "Master of the World"
   ],
-  "alliances": [
-    "Omega Flight"
-  ],
   "authors": [
     "John Byrne"
   ],
-  "description": "Master of the World (real name Eshu) is a fictional character, a supervillain appearing in publications from Marvel Comics. His first appearance was in Alpha Flight vol. 1 #2 and is one of the most recurring villains of Alpha Flight.",
+  "description": "Master of the World (real name Eshu) is a fictional character, a supervillain appearing in publications from Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Avengersv3-045pic2.png/300px-Avengersv3-045pic2.png",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +40,9 @@
     "Eshu"
   ],
   "species": [
+  ],
+  "teams": [
+    "Omega Flight"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Master_of_the_World_(comics)"

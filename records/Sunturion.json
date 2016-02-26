@@ -2,10 +2,6 @@
   "aliases": [
     "Sunturion"
   ],
-  "alliances": [
-    "Roxxon Energy Corporation",
-    "Roxxon Oil"
-  ],
   "authors": [
     "David Michelinie",
     "Bob Layton",
@@ -13,7 +9,7 @@
     "John Romita, Jr.",
     "Christopher Priest"
   ],
-  "description": "Sunturion is the name of two fictional characters that appear in comic books published by Marvel Comics. The first character, also called Arthur Dearborn debuted in Iron Man #143 (February 1981) and was created by writers David Michelinie, Bob Layton, and penciler John Romita, Jr.. The second character, Mike Stone, first appeared in Daredevil #224 (November 1985) and was created by writer Jim Owsley and penciller Dan Jurgens.",
+  "description": "Sunturion is the name of two fictional characters that appear in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sunturion.jpg/159px-Sunturion.jpg",
   "isHero": false,
   "isVillain": false,
@@ -46,6 +42,10 @@
     "Mike Stone"
   ],
   "species": [
+  ],
+  "teams": [
+    "Roxxon Energy Corporation",
+    "Roxxon Oil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Sunturion"

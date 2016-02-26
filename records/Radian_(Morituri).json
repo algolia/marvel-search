@@ -3,14 +3,11 @@
     "Radian",
     "Radian (Morituri)"
   ],
-  "alliances": [
-    "Strikeforce: Morituri"
-  ],
   "authors": [
     "Peter B. Gillis",
     "Brent Anderson"
   ],
-  "description": "Radian (Louis Armanetti) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri. The character was created by Peter B. Gillis and Brent Anderson.",
+  "description": "Radian (Louis Armanetti) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Radian_Morituri.bmp/250px-Radian_Morituri.bmp.png",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +30,9 @@
     "Louis Armanetti"
   ],
   "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Radian_(Morituri)"

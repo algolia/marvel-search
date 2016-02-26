@@ -1,9 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "The Blood"
-  ],
   "authors": [
     "Howard Mackie",
     "Andy Kubert"
@@ -33,6 +30,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "The Blood"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/394/caretaker",

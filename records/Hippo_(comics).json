@@ -3,16 +3,12 @@
     "Mrs. Fluffy Lumpkins",
     "Hippo"
   ],
-  "alliances": [
-    "Redeemers",
-    "Menagerie"
-  ],
   "authors": [
     "Tim Townsend",
     "Chris Bachalo",
     "Brian Reed"
   ],
-  "description": "Hippo is the name of a Marvel Comics supervillain.",
+  "description": "Hippo is the name of a Marvel Comics supervillain",
   "isHero": false,
   "isVillain": true,
   "name": "Hippo",
@@ -34,6 +30,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Redeemers",
+    "Menagerie"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hippo_(comics)"

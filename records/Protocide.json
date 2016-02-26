@@ -2,14 +2,10 @@
   "aliases": [
     "Protocide"
   ],
-  "alliances": [
-    "Weapon Plus",
-    "Project Rebirth"
-  ],
   "authors": [
     "Dan Jurgens"
   ],
-  "description": "Protocide is a fictional super-soldier from the Marvel Comic's universe. He originally appears in stories written and illustrated by Dan Jurgens.",
+  "description": "Protocide is a fictional super-soldier from the Marvel Comic's universe",
   "isHero": false,
   "isVillain": false,
   "name": "Protocide",
@@ -35,6 +31,10 @@
     "Clinton McIntyre"
   ],
   "species": [
+  ],
+  "teams": [
+    "Weapon Plus",
+    "Project Rebirth"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Protocide"

@@ -3,14 +3,10 @@
     "none",
     "Tangerine"
   ],
-  "alliances": [
-    "MI-13",
-    "Resistance Coordination Executive"
-  ],
   "authors": [
     "Alan Davis"
   ],
-  "description": "Tangerine is a fictional character appearing in Marvel Comics. She appears in two separate future timelines, and in the present day as a member of MI-13.",
+  "description": "Tangerine is a fictional character appearing in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/TaniaReen.JPG/180px-TaniaReen.JPG",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +31,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "MI-13",
+    "Resistance Coordination Executive"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Tangerine_(comics)"

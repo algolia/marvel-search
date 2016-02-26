@@ -3,13 +3,11 @@
     "The Presence",
     "Presence"
   ],
-  "alliances": [
-  ],
   "authors": [
     "David Anthony Kraft",
     "Keith Giffen"
   ],
-  "description": "Sergei Krylov is a fictional character in the Marvel Comics Universe.",
+  "description": "Sergei Krylov is a fictional character in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Presence",
@@ -33,6 +31,8 @@
     "Sergei Krylov"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Presence_(Marvel_Comics)"

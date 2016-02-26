@@ -2,13 +2,11 @@
   "aliases": [
     "Mister Jip"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Terry Austin",
     "Bret Blevins"
   ],
-  "description": "Mister Jip is a fictional character belonging to the Marvel Comics universe. He is an evil sorcerer, possessing a grotesque appearance and various mystical powers. He almost exclusively appeared as a villain to Cloak and Dagger, first in Strange Tales volume 3 and later in their own series with one appearance in an X-Men annual.",
+  "description": "Mister Jip is a fictional character belonging to the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Mister Jip",
@@ -36,6 +34,8 @@
     "unknown"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mister_Jip"

@@ -3,18 +3,11 @@
     "Witch Woman",
     "Jennifer Kale"
   ],
-  "alliances": [
-    "The Legion of Night",
-    "The Command",
-    "Midnight Sons",
-    "Witches",
-    "Legion of Night"
-  ],
   "authors": [
     "Rich Buckler",
     "Steve Gerber"
   ],
-  "description": "Jennifer Kale is a fictional character, a sorceress in the Marvel Comics universe.",
+  "description": "Jennifer Kale is a fictional character, a sorceress in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Jennifer Kale",
@@ -38,6 +31,13 @@
     "Jennifer Kale"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Legion of Night",
+    "The Command",
+    "Midnight Sons",
+    "Witches",
+    "Legion of Night"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Kale"

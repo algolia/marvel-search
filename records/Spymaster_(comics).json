@@ -15,23 +15,12 @@
     "Spymaster",
     "Anthony Stark"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "Zodiac",
-    "Advanced Idea Mechanics",
-    "Maggia",
-    "Espionage Elite",
-    "Roxxon Energy Corporation",
-    "AIM",
-    "The Maggia",
-    "Roxxon Oil"
-  ],
   "authors": [
     "Stan Lee",
     "Don Heck",
     "Allyn Brodsky"
   ],
-  "description": "Spymaster is a supervillain from Marvel Comics.",
+  "description": "Spymaster is a supervillain from Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/8/88/Spymaster.png",
   "isHero": false,
   "isVillain": false,
@@ -67,6 +56,17 @@
     "Sinclair Abbot"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Zodiac",
+    "Advanced Idea Mechanics",
+    "Maggia",
+    "Espionage Elite",
+    "Roxxon Energy Corporation",
+    "AIM",
+    "The Maggia",
+    "Roxxon Oil"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2811/santa_claus",

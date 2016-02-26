@@ -6,17 +6,13 @@
     "Damon Ryder",
     "Raptor"
   ],
-  "alliances": [
-    "New Warriors",
-    "Avengers"
-  ],
   "authors": [
     "Ron Frenz",
     "Marc Guggenheim",
     "Tom DeFalco",
     "Pat Olliffe"
   ],
-  "description": "Raptor is the name of three fictional characters in the Marvel Comics' universe. The first Raptor appeared Avengers West Coast as a minor villain, and is a mutant. The second Raptor appeared in the  Spider-Girl series in the alternative future MC2 universe. She is the daughter of the criminal Blackie Drago (the second person to use the identity of Vulture). The third Raptor (chronologically speaking, the second) appears in the The Amazing Spider-Man. He is a former college professor named Damon Ryder, who joined dinosaur genes with his own DNA, transforming him into a human/lizard hybrid.",
+  "description": "Raptor is the name of three fictional characters in the Marvel Comics' universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Raptor_%28Gary_Wilton_Jr%29.jpg/200px-Raptor_%28Gary_Wilton_Jr%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -55,6 +51,10 @@
     "Jr."
   ],
   "species": [
+  ],
+  "teams": [
+    "New Warriors",
+    "Avengers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Raptor_(Marvel_Comics)"

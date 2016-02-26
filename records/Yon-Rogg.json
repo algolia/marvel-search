@@ -3,13 +3,11 @@
     "Annihilus",
     "Yon-Rogg"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Gene Colan",
     "Stan Lee"
   ],
-  "description": "Yon-Rogg is a character in Marvel Comics. He is an alien Kree, a military commander whose weakness is his jealousy of others accomplishments and his love for the medic Una. He is sent to supervise the troublesome planet Earth.",
+  "description": "Yon-Rogg is a character in Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/528d31f20a2f6/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +30,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/154/annihilus",

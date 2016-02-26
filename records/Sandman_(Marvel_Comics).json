@@ -5,20 +5,11 @@
     "Quarryman",
     "Sandman"
   ],
-  "alliances": [
-    "Enforcers",
-    "Sinister Six",
-    "Frightful Four",
-    "Wild Pack",
-    "Avengers",
-    "The Outlaws",
-    "The Intruders"
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "Sandman (William Baker a.k.a. Flint Marko) is a fictional character, a supervillain that appears in comic books published by Marvel Comics. A shapeshifter endowed through an accident with the ability to turn himself into sand, he eventually reformed, and became an ally of Spider-Man. The character has been adapted into various other media incarnations of Spider-Man, including animated cartoons and the 2007 film Spider-Man 3, in which he is portrayed by Academy Award nominated actor Thomas Haden Church.In 2009, Sandman was ranked as IGN's 72nd Greatest Comic Book Villain of All Time.",
+  "description": "Sandman (William Baker a",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Tboltssandman.jpg/250px-Tboltssandman.jpg",
   "isHero": false,
   "isVillain": false,
@@ -50,6 +41,15 @@
     "William Baker"
   ],
   "species": [
+  ],
+  "teams": [
+    "Enforcers",
+    "Sinister Six",
+    "Frightful Four",
+    "Wild Pack",
+    "Avengers",
+    "The Outlaws",
+    "The Intruders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1989/sandman",

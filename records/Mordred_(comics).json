@@ -8,14 +8,11 @@
     "Modred the Mystic",
     ")"
   ],
-  "alliances": [
-    "Camelot"
-  ],
   "authors": [
     "Stan Lee",
     "Joe Maneely"
   ],
-  "description": "Mordred the Evil is a fictional character in the Marvel Universe.  He is based loosely on the Mordred of Arthurian legend.",
+  "description": "Mordred the Evil is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Mordred",
@@ -35,6 +32,9 @@
     "Sir Mordred"
   ],
   "species": [
+  ],
+  "teams": [
+    "Camelot"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mordred_(comics)"

@@ -2,13 +2,11 @@
   "aliases": [
     "Alternative versions of Magneto"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "In addition to his mainstream incarnation, Magneto has had been depicted in other fictional universes.",
+  "description": "In addition to his mainstream incarnation, Magneto has had been depicted in other fictional universes",
   "isHero": false,
   "isVillain": false,
   "name": "Alternative versions of Magneto",
@@ -27,6 +25,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Alternative_versions_of_Magneto"

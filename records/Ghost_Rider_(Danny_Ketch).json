@@ -6,17 +6,11 @@
     "Daniel Ketch",
     "Ghost Rider (Danny Ketch)"
   ],
-  "alliances": [
-    "Midnight Sons",
-    "Defenders",
-    "Secret Defenders",
-    "New Fantastic Four"
-  ],
   "authors": [
     "Howard Mackie",
     "Javier Saltares"
   ],
-  "description": "Ghost Rider (Daniel \"Danny\" Ketch) is a comic book character, a supernatural superhero in Marvel Comics' main shared universe.  He is the third Marvel character to use the name Ghost Rider, after Johnny Blaze, the first supernatural Ghost Rider, and the Western hero known as the Phantom Rider, who used the name in 1967, just a few years prior to the emergence of Blaze in Marvel Spotlight.",
+  "description": "Ghost Rider (Daniel \"Danny\" Ketch) is a comic book character, a supernatural superhero in Marvel Comics' main shared universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/535feaa671cc6/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -46,6 +40,12 @@
     "Daniel \"Danny\" Ketch"
   ],
   "species": [
+  ],
+  "teams": [
+    "Midnight Sons",
+    "Defenders",
+    "Secret Defenders",
+    "New Fantastic Four"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1010925/ghost_rider_daniel_ketch",

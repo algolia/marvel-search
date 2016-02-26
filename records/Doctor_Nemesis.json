@@ -3,12 +3,6 @@
     "Doctor Death",
     "Doctor Nemesis"
   ],
-  "alliances": [
-    "X-Club",
-    "X-Men",
-    "X-Force",
-    "Battle-Axis"
-  ],
   "authors": [
     "The creators of the version published by",
     "Ace Magazines",
@@ -20,7 +14,7 @@
     "Dave Hoover",
     "."
   ],
-  "description": "Doctor Nemesis is the name of two characters from Marvel Comics.",
+  "description": "Doctor Nemesis is the name of two characters from Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/XMN_Nemesis.jpg/250px-XMN_Nemesis.jpg",
   "isHero": true,
   "isVillain": false,
@@ -50,6 +44,12 @@
     "James Nicola Bradley"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Club",
+    "X-Men",
+    "X-Force",
+    "Battle-Axis"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Nemesis"

@@ -2,16 +2,13 @@
   "aliases": [
     "Basilisk"
   ],
-  "alliances": [
-    "Brotherhood of Mutants"
-  ],
   "authors": [
     "Gil Kane",
     "Grant Morrison",
     "Frank Quitely",
     "Len Wein"
   ],
-  "description": "The Basilisk is the name of four fictional characters that appear in comic books published by Marvel Comics.",
+  "description": "The Basilisk is the name of four fictional characters that appear in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/MTU047011basilisk.png/225px-MTU047011basilisk.png",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +38,9 @@
     "Mike Columbus"
   ],
   "species": [
+  ],
+  "teams": [
+    "Brotherhood of Mutants"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Basilisk_(comics)"

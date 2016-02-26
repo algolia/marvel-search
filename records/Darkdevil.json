@@ -2,14 +2,11 @@
   "aliases": [
     "Darkdevil"
   ],
-  "alliances": [
-    "New Warriors"
-  ],
   "authors": [
     "Tom DeFalco",
     "Pat Olliffe"
   ],
-  "description": "Darkdevil (Reilly Tyne) is a fictional character, a superhero in the \"MC2\" future of the Marvel Comics universe. He was created by Tom DeFalco and Pat Olliffe and first appeared in Spider-Girl #2. (November 1998)",
+  "description": "Darkdevil (Reilly Tyne) is a fictional character, a superhero in the \"MC2\" future of the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Darkdevil.png/250px-Darkdevil.png",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +40,9 @@
     "Reilly Tyne"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Warriors"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Darkdevil"

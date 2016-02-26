@@ -6,16 +6,11 @@
     "Starstreak",
     "Julie Power"
   ],
-  "alliances": [
-    "Loners",
-    "Avengers Academy",
-    "Power Pack"
-  ],
   "authors": [
     "June Brigman",
     "Louise Simonson"
   ],
-  "description": "Julie Power (also known as Lightspeed) is a fictional character in the Marvel Comics universe. She first appeared in Power Pack #1 and was created by Louise Simonson and June Brigman.",
+  "description": "Julie Power (also known as Lightspeed) is a fictional character in the Marvel Comics universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4c7c643921b8e/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +39,11 @@
     "Julie Power"
   ],
   "species": [
+  ],
+  "teams": [
+    "Loners",
+    "Avengers Academy",
+    "Power Pack"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1246/lightspeed",

@@ -5,12 +5,6 @@
     "Black Bishop",
     "Sebastian Shaw"
   ],
-  "alliances": [
-    "Hellfire Club",
-    "Shaw Industries",
-    "Hope Summers",
-    "The Lights"
-  ],
   "authors": [
     "Chris Claremont",
     "John Byrne"
@@ -43,6 +37,12 @@
     "Sebastian Hiram Shaw"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellfire Club",
+    "Shaw Industries",
+    "Hope Summers",
+    "The Lights"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2774/sebastian_shaw",

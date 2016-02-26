@@ -5,9 +5,6 @@
     "Alien Costume",
     "Venom"
   ],
-  "alliances": [
-    "Spider-Man"
-  ],
   "authors": [
     "David Michelinie",
     "Todd McFarlane",
@@ -59,6 +56,9 @@
     "Peter Parker"
   ],
   "species": [
+  ],
+  "teams": [
+    "Spider-Man"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/63/venom",

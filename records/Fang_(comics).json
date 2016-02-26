@@ -2,16 +2,11 @@
   "aliases": [
     "Fang"
   ],
-  "alliances": [
-    "Brood",
-    "Imperial Guard",
-    "Shi'ar Imperial Guard"
-  ],
   "authors": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "description": "Fang is a fictional Marvel Comics extraterrestrial character who first appeared in Uncanny X-Men #107 in October 1977.",
+  "description": "Fang is a fictional Marvel Comics extraterrestrial character who first appeared in Uncanny X-Men #107 in October 1977",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fang_%28comics%29.jpg/150px-Fang_%28comics%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +27,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Brood",
+    "Imperial Guard",
+    "Shi'ar Imperial Guard"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Fang_(comics)"

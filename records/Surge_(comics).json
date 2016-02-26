@@ -2,15 +2,6 @@
   "aliases": [
     "Surge"
   ],
-  "alliances": [
-    "New Mutants",
-    "X-Mansion",
-    "New X-Men",
-    "New Mutants training squad",
-    "Xavier Institute",
-    "X-Men-In-Training",
-    "Jean Grey School Students"
-  ],
   "authors": [
     "Nunzio DeFilippis",
     "Christina Weir",
@@ -40,6 +31,15 @@
     "Noriko \"Nori\" Ashida"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Mutants",
+    "X-Mansion",
+    "New X-Men",
+    "New Mutants training squad",
+    "Xavier Institute",
+    "X-Men-In-Training",
+    "Jean Grey School Students"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2267/surge",

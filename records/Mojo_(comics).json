@@ -2,20 +2,12 @@
   "aliases": [
     "Mojo"
   ],
-  "alliances": [
-    "Wildways",
-    "Baby Badies",
-    "Spineless Ones",
-    "X-Babies (revolted)",
-    "Mighty 'Vengers (revolted)",
-    "Exile Legal Eagles"
-  ],
   "authors": [
     "Ann Nocenti",
     "Arthur Adams",
     "Art Adams"
   ],
-  "description": "Mojo is a fictional character, a super villain appearing in books published by Marvel Comics, usually those featuring the X-Men family of characters. Created by writer Ann Nocenti and artist Arthur Adams, Mojo first appeared in Longshot #4 (December 1985), as the titular hero's archvillain. When Longshot later joined the superteam the X-Men, Mojo became a recurring villain to those characters as well.Mojo is one of the \"Spineless Ones,\" an alien race that is immobile without advanced technology. He is a slaver who rules the Mojoverse, a dimension where all beings are addicted to his gladiator-like television programs. The character is an absurdist parody of network executives, and was created as a result of the influence of writers like Marshall McLuhan, Noam Chomsky and Walter Lippmann on Nocenti.",
+  "description": "Mojo is a fictional character, a super villain appearing in books published by Marvel Comics, usually those featuring the X-Men family of characters",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c003d3444dce/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": true,
@@ -39,6 +31,14 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Wildways",
+    "Baby Badies",
+    "Spineless Ones",
+    "X-Babies (revolted)",
+    "Mighty 'Vengers (revolted)",
+    "Exile Legal Eagles"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1482/mojo",

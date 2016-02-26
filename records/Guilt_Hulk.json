@@ -4,13 +4,11 @@
     "Brian Banner",
     "Guilt Hulk"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Peter David",
     "Dale Keown"
   ],
-  "description": "Guilt Hulk is a fictional comic book supervillain appearing in books published Marvel Comics, usually as an antagonist to the Hulk. Created by writer Peter David and artist Dale Keown, the character first appeared in The Incredible Hulk Vol. 2, #377 (January 1991) as a malevolent representation of Bruce Banner's abusive father, Brian Banner, that manifests itself in Banner's childhood memories.",
+  "description": "Guilt Hulk is a fictional comic book supervillain appearing in books published Marvel Comics, usually as an antagonist to the Hulk",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/GuiltHulk.gif/250px-GuiltHulk.gif",
   "isHero": false,
   "isVillain": true,
@@ -31,6 +29,8 @@
     "Doctor Robert Bruce Banner"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Guilt_Hulk"

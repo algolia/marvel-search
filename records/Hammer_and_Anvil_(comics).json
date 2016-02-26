@@ -2,13 +2,11 @@
   "aliases": [
     "Hammer and Anvil"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Herb Trimpe",
     "Len Wein"
   ],
-  "description": "Hammer and Anvil are fictional characters, supervillains published by Marvel Comics. They first appeared in Hulk #182, (December 1974), and were created by Len Wein and Herb Trimpe.",
+  "description": "Hammer and Anvil are fictional characters, supervillains published by Marvel Comics",
   "isHero": false,
   "isVillain": true,
   "name": "Hammer and Anvil",
@@ -27,6 +25,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hammer_and_Anvil_(comics)"

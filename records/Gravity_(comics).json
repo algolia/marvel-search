@@ -3,19 +3,11 @@
     "Greg Willis",
     "Gravity"
   ],
-  "alliances": [
-    "Heavy Hitters",
-    "Fifty State Initiative",
-    "Young Allies",
-    "Great Lakes Avengers",
-    "Young Avengers",
-    "New Warriors"
-  ],
   "authors": [
     "Mike Norton",
     "Sean McKeever"
   ],
-  "description": "Gravity (Greg Willis) is a fictional comic book superhero appearing in books published by Marvel Comics. He first appeared in Gravity #1 (August 2005) and was created by Sean McKeever and Mike Norton.",
+  "description": "Gravity (Greg Willis) is a fictional comic book superhero appearing in books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/526033d50fa1b/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +30,14 @@
     "Gregory Willis"
   ],
   "species": [
+  ],
+  "teams": [
+    "Heavy Hitters",
+    "Fifty State Initiative",
+    "Young Allies",
+    "Great Lakes Avengers",
+    "Young Avengers",
+    "New Warriors"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/848/gravity",

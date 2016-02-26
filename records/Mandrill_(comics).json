@@ -4,16 +4,11 @@
     "Monkey Face",
     "Mandrill"
   ],
-  "alliances": [
-    "Black Spectre",
-    "Resistants",
-    "Mutant Force"
-  ],
   "authors": [
     "Carole Seuling",
     "Ross Andru"
   ],
-  "description": "Mandrill is a fictional character, a mutant supervillain in the Marvel Comics universe. His first appearance was in Shanna the She-Devil #4. He was created by writer Carole Seuling and artist Ross Andru. Steve Gerber dialogued his first appearance and wrote several subsequent appearances, but denied having a hand in the character's creation, saying he was all Seuling's.",
+  "description": "Mandrill is a fictional character, a mutant supervillain in the Marvel Comics universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c002efee8164/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -51,6 +46,11 @@
     "Jerome Beechman"
   ],
   "species": [
+  ],
+  "teams": [
+    "Black Spectre",
+    "Resistants",
+    "Mutant Force"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1357/mandrill",

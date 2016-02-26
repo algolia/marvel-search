@@ -5,21 +5,11 @@
     "Quicksilver",
     "Mateo Maximoff"
   ],
-  "alliances": [
-    "Avengers Unity Division",
-    "Avengers",
-    "Inhumans",
-    "X-Factor (Serval Industries)",
-    "Avengers Academy",
-    "Mighty Avengers",
-    "X-Factor",
-    "Brotherhood of Evil Mutants"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Quicksilver (Pietro Maximoff) is a fictional character, a superhero that appears in comic books published by Marvel Comics. The character first appears in X-Men #4 (March 1964) and was created by Stan Lee and Jack Kirby. He is the twin brother of the Scarlet Witch and the son of Magneto as well as the paternal half-brother of Polaris.Debuting in the Silver Age of comic books, Quicksilver has featured in several decades of Marvel continuity, starring in the self-titled series Quicksilver and as a regular team member in superhero title the Avengers. The character has also appeared in other Marvel-endorsed products such as animated films; arcade and video games; television series and merchandise such as action figures and trading cards.In 2006, IGN named Quicksilver #23 on their list of \"The Top 25 X-Men Of All Time\" commenting that \"Quicksilver was the shining example of a villain turned good.\"  Aaron Taylor-Johnson portrays the character in a mid-credits scene in the Marvel Studios film Captain America: The Winter Soldier and will reprise the role in  Avengers: Age of Ultron as a part of the Marvel Cinematic Universe while Evan Peters portrayed another adaptation of Quicksilver in the film X-Men: Days of Future Past and will reprise the role in X-Men: Apocalypse.",
+  "description": "Quicksilver (Pietro Maximoff) is a fictional character, a superhero that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/53176ffc42f58/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -54,6 +44,16 @@
     "Pietro Django Maximoff"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers Unity Division",
+    "Avengers",
+    "Inhumans",
+    "X-Factor (Serval Industries)",
+    "Avengers Academy",
+    "Mighty Avengers",
+    "X-Factor",
+    "Brotherhood of Evil Mutants"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/44/quicksilver",

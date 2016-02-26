@@ -6,14 +6,11 @@
     "Hobgoblin",
     "Hobgoblin (Imperial Guard)"
   ],
-  "alliances": [
-    "Imperial Guard"
-  ],
   "authors": [
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "description": "Hobgoblin is a fictional character in the Marvel Universe.",
+  "description": "Hobgoblin is a fictional character in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Hobgoblin_%28Imperial_Guard%29.jpg/175px-Hobgoblin_%28Imperial_Guard%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/965/hobgoblin",

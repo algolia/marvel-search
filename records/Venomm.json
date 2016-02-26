@@ -2,13 +2,11 @@
   "aliases": [
     "Venomm"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Don McGregor",
     "Rich Buckler"
   ],
-  "description": "Venomm is a fictional character in the Marvel Universe, distinct from the half-alien fictional character known as Venom.",
+  "description": "Venomm is a fictional character in the Marvel Universe, distinct from the half-alien fictional character known as Venom",
   "isHero": false,
   "isVillain": false,
   "name": "Venomm",
@@ -30,6 +28,8 @@
     "Horatio Walters"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Venomm"

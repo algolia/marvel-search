@@ -3,11 +3,6 @@
     "Supreme Hydra",
     "Silvermane"
   ],
-  "alliances": [
-    "Hydra",
-    "Maggia",
-    "The Maggia"
-  ],
   "authors": [
     "Stan Lee",
     "John Buscema"
@@ -40,6 +35,11 @@
     "Silvio Manfredi"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hydra",
+    "Maggia",
+    "The Maggia"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2104/silvermane",

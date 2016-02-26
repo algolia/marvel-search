@@ -13,20 +13,11 @@
     "Hope Eldridge",
     "Domino"
   ],
-  "alliances": [
-    "Underground",
-    "X-Men",
-    "X-Men: The 198",
-    "Six Pack",
-    "X-Force",
-    "X-Corporation",
-    "The 198"
-  ],
   "authors": [
     "Rob Liefeld",
     "Fabian Nicieza"
   ],
-  "description": "Domino (Neena Thurman) is a Marvel Comics character, best known as a member of the X-Men offshoot X-Force. Created by writer Fabian Nicieza and artist/co-writer Rob Liefeld, she first fully appeared in X-Force, vol. 1 #11 (June 1992).In addition to her exceptional marksmanship and hand-to-hand skills, Domino possesses mutant probability-altering powers, similar to those of the X-Man Longshot. She often uses her skills as a mercenary, but has also been the partner, confidante, and lover of the superhero Cable, a lieutenant in his militant group X-Force, and a member of the X-Men.",
+  "description": "Domino (Neena Thurman) is a Marvel Comics character, best known as a member of the X-Men offshoot X-Force",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/526031dc10516/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -55,6 +46,15 @@
     "Neena Thurman"
   ],
   "species": [
+  ],
+  "teams": [
+    "Underground",
+    "X-Men",
+    "X-Men: The 198",
+    "Six Pack",
+    "X-Force",
+    "X-Corporation",
+    "The 198"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/569/domino",

@@ -2,14 +2,10 @@
   "aliases": [
     "Moonglow"
   ],
-  "alliances": [
-    "Redeemers",
-    "Squadron Supreme"
-  ],
   "authors": [
     "Mark Gruenwald"
   ],
-  "description": "Moonglow is a fictional character found in comic books from Marvel Comics. She was a member of a team of superheroes, Squadron Supreme.The Supreme Squadron members exist in numerous alternate universes, but their main and original timeline is Earth-712.",
+  "description": "Moonglow is a fictional character found in comic books from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Moonglow",
@@ -30,6 +26,10 @@
     "Melissa Hanover"
   ],
   "species": [
+  ],
+  "teams": [
+    "Redeemers",
+    "Squadron Supreme"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Moonglow_(comics)"

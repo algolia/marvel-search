@@ -2,14 +2,11 @@
   "aliases": [
     "Shear"
   ],
-  "alliances": [
-    "Strikeforce: Morituri"
-  ],
   "authors": [
     "Brent Anderson",
     "Peter B. Gillis"
   ],
-  "description": "Shear (Walther Feyzioglu) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri. The character was created by Peter B. Gillis and Brent Anderson.",
+  "description": "Shear (Walther Feyzioglu) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Shear_comics.jpg/250px-Shear_comics.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +29,9 @@
     "Walther Feyzioglu"
   ],
   "species": [
+  ],
+  "teams": [
+    "Strikeforce: Morituri"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Shear_(comics)"

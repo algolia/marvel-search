@@ -2,16 +2,11 @@
   "aliases": [
     "Bolivar Trask"
   ],
-  "alliances": [
-    "Sentinel",
-    "Purifiers",
-    "Sentinels"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Bolivar Trask is a fictional supervillain appearing in publications by Marvel Comics. He is a military scientist whose company Trask Industries is well known as the creator of the Sentinels. He is also the father of Larry Trask.",
+  "description": "Bolivar Trask is a fictional supervillain appearing in publications by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/b/bb/BolivarTrask_ByValentineDeLandro.png",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +27,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Sentinel",
+    "Purifiers",
+    "Sentinels"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Bolivar_Trask"

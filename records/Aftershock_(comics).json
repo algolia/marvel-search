@@ -4,13 +4,11 @@
     "Electra",
     "Aftershock"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Casey Jones",
     "Sean McKeever"
   ],
-  "description": "Aftershock (Allison Dillon) is a fictional character who appeared in the Marvel Comics' Spider-Girl series. She is the daughter of Max Dillon (also known as Electro) in the MC2 timeline.",
+  "description": "Aftershock (Allison Dillon) is a fictional character who appeared in the Marvel Comics' Spider-Girl series",
   "image": "https://upload.wikimedia.org/wikipedia/en/e/ea/MC2Aftershock.jpg",
   "isHero": false,
   "isVillain": false,
@@ -35,6 +33,8 @@
     "Allison Dillon"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Aftershock_(comics)"

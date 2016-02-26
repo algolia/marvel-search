@@ -2,17 +2,11 @@
   "aliases": [
     "Martinex"
   ],
-  "alliances": [
-    "Avengers",
-    "Guardians of the Galaxy (1969 team)",
-    "Guardians of the Galaxy",
-    "Galactic Guardians"
-  ],
   "authors": [
     "Arnold Drake",
     "Gene Colan"
   ],
-  "description": "Martinex T'Naga is a fictional character, a superhero from an alternate future version of Marvel Comics' shared universe, the Marvel Universe. Most of Martinex's adventures take place as a member of the 31st century Guardians of the Galaxy.",
+  "description": "Martinex T'Naga is a fictional character, a superhero from an alternate future version of Marvel Comics' shared universe, the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Martinex",
@@ -34,6 +28,12 @@
     "Martinex T'Naga"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers",
+    "Guardians of the Galaxy (1969 team)",
+    "Guardians of the Galaxy",
+    "Galactic Guardians"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Martinex"

@@ -2,14 +2,11 @@
   "aliases": [
     "Elektro"
   ],
-  "alliances": [
-    "Fin Fang Foom"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Elektro is a fictional robot that appears in comic books published by Marvel Comics. Elektro first appeared in Tales of Suspense #13 (Jan. 1961), in the seven-page story \"Elektro\" by writer-editor Stan Lee and penciler Jack Kirby.",
+  "description": "Elektro is a fictional robot that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/TOS-13.jpg/250px-TOS-13.jpg",
   "isHero": true,
   "isVillain": true,
@@ -38,6 +35,9 @@
     "Elektro"
   ],
   "species": [
+  ],
+  "teams": [
+    "Fin Fang Foom"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Elektro_(comics)"

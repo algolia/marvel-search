@@ -2,14 +2,11 @@
   "aliases": [
     "Piranha"
   ],
-  "alliances": [
-    "Deep Six"
-  ],
   "authors": [
     "Marv Wolfman",
     "George Tuska"
   ],
-  "description": "Piranha is a fictional character in the Marvel Universe.",
+  "description": "Piranha is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Piranha",
@@ -32,6 +29,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Deep Six"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Piranha_(comics)"

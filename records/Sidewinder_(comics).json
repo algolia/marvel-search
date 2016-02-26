@@ -2,15 +2,11 @@
   "aliases": [
     "Sidewinder"
   ],
-  "alliances": [
-    "Serpent Squad",
-    "Serpent Society"
-  ],
   "authors": [
     "Mark Gruenwald",
     "Ralph Macchio"
   ],
-  "description": "Sidewinder is the name of different characters in Marvel Comics.",
+  "description": "Sidewinder is the name of different characters in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Sidewinder-Cap310-Paul-Neary.jpg/195px-Sidewinder-Cap310-Paul-Neary.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +28,10 @@
     "Seth Voelker"
   ],
   "species": [
+  ],
+  "teams": [
+    "Serpent Squad",
+    "Serpent Society"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Sidewinder_(comics)"

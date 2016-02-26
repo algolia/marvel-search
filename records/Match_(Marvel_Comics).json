@@ -2,19 +2,11 @@
   "aliases": [
     "Match"
   ],
-  "alliances": [
-    "X-Mansion",
-    "Paragons",
-    "Paragons training squad",
-    "Xavier Institute",
-    "X-Men-In-Training",
-    "Jean Grey School Students"
-  ],
   "authors": [
     "Nunzio DeFilippis",
     "Christina Weir"
   ],
-  "description": "Match (Ben Hamill) is a fictional character appearing in comic books published by Marvel Comics. A mutant, Hamill attended the Xavier Institute before its closing. While at the Institute, Hamill was the field leader of the Paragons training squad.",
+  "description": "Match (Ben Hamill) is a fictional character appearing in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Match%28NXM_39%29.jpg/250px-Match%28NXM_39%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +32,14 @@
     "Benjamin \"Ben\" Hamill"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Mansion",
+    "Paragons",
+    "Paragons training squad",
+    "Xavier Institute",
+    "X-Men-In-Training",
+    "Jean Grey School Students"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Match_(Marvel_Comics)"

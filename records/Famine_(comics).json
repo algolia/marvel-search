@@ -3,16 +3,12 @@
     "Autumn Rolfson",
     "Famine"
   ],
-  "alliances": [
-    "Horsemen of Apocalypse",
-    "Four Horsemen of Apocalypse"
-  ],
   "authors": [
     "Louise Simonson",
     "Walt Simonson",
     "Walter Simonson"
   ],
-  "description": "Famine (Autumn Rolfson) is a fictional character, a Mutant supervillain appearing in the Marvel Comics universe. She is most notable for being one of the original four horsemen of the villain Apocalypse.",
+  "description": "Famine (Autumn Rolfson) is a fictional character, a Mutant supervillain appearing in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Xforce16_001.jpg/175px-Xforce16_001.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +30,10 @@
     "Autumn Rolfson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Horsemen of Apocalypse",
+    "Four Horsemen of Apocalypse"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/662/famine",

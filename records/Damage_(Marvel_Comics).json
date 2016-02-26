@@ -3,9 +3,6 @@
     "Damage",
     "Punisher"
   ],
-  "alliances": [
-    "Bunsen Burners"
-  ],
   "authors": [
     "Jim Lee",
     "Carl Potts"
@@ -31,6 +28,9 @@
     "Jaime Ortiz"
   ],
   "species": [
+  ],
+  "teams": [
+    "Bunsen Burners"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Damage_(Marvel_Comics)"

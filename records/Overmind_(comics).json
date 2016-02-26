@@ -4,17 +4,11 @@
     "Champion of Champions",
     "Overmind"
   ],
-  "alliances": [
-    "Eternals",
-    "Defenders",
-    "Thunderbolts",
-    "the Psychics"
-  ],
   "authors": [
     "Stan Lee",
     "John Buscema"
   ],
-  "description": "Overmind (originally Over-Mind) is a villain in the Marvel Comics universe.",
+  "description": "Overmind (originally Over-Mind) is a villain in the Marvel Comics universe",
   "isHero": false,
   "isVillain": true,
   "name": "Overmind",
@@ -36,6 +30,12 @@
     "Grom"
   ],
   "species": [
+  ],
+  "teams": [
+    "Eternals",
+    "Defenders",
+    "Thunderbolts",
+    "the Psychics"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Overmind_(comics)"

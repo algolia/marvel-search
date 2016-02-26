@@ -2,14 +2,11 @@
   "aliases": [
     "Lunatik"
   ],
-  "alliances": [
-    "Empire State University"
-  ],
   "authors": [
     "David Anthony Kraft",
     "George Pérez"
   ],
-  "description": "Lunatik is a fictional character in the Marvel Universe.",
+  "description": "Lunatik is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Lunatik",
@@ -30,6 +27,9 @@
     "Harrison Turk"
   ],
   "species": [
+  ],
+  "teams": [
+    "Empire State University"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Lunatik"

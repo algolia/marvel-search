@@ -3,14 +3,6 @@
     "Dr. Ruhart Gnaan",
     "Gorilla-Man"
   ],
-  "alliances": [
-    "Headmen",
-    "Agents of Atlas",
-    "Circus of Crime",
-    "Nick Fury's Howling Commandos",
-    "Lethal Legion",
-    "Advanced Idea Mechanics"
-  ],
   "authors": [
     "Stan Lee",
     "Larry Liebery",
@@ -19,7 +11,7 @@
     "Robert Q. Sale",
     "Robert Q. Sale (artist)"
   ],
-  "description": "Gorilla-Man is the name of three fictional characters appearing in Marvel Comics.",
+  "description": "Gorilla-Man is the name of three fictional characters appearing in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Aoatlas002_cov_c.jpg/200px-Aoatlas002_cov_c.jpg",
   "isHero": false,
   "isVillain": false,
@@ -48,6 +40,14 @@
     "Franz Radzik"
   ],
   "species": [
+  ],
+  "teams": [
+    "Headmen",
+    "Agents of Atlas",
+    "Circus of Crime",
+    "Nick Fury's Howling Commandos",
+    "Lethal Legion",
+    "Advanced Idea Mechanics"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Gorilla-Man"

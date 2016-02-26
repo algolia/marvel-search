@@ -2,14 +2,11 @@
   "aliases": [
     "GoGo Tomago"
   ],
-  "alliances": [
-    "Big Hero 6"
-  ],
   "authors": [
     "Duncan Rouleau",
     "Steven T. Seagle"
   ],
-  "description": "GoGo Tomago is a fictional character, a superhero in the Marvel Comics Universe. Her first appearance was in Sunfire & Big Hero 6 #1 and was created by Steven T. Seagle and Duncan Rouleau.",
+  "description": "GoGo Tomago is a fictional character, a superhero in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/GoGo_Tomago_%28Marvel_Comics%29.jpg/250px-GoGo_Tomago_%28Marvel_Comics%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
     "Leiko Tanaka"
   ],
   "species": [
+  ],
+  "teams": [
+    "Big Hero 6"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/GoGo_Tomago"

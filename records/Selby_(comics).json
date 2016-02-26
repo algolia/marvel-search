@@ -2,12 +2,9 @@
   "aliases": [
     "Selby"
   ],
-  "alliances": [
-    "Mutant Liberation Front"
-  ],
   "authors": [
   ],
-  "description": "Selby is a fictional character, a mutant in the Marvel Comics Universe. His first appearance was in Excalibur vol. 1 #104.",
+  "description": "Selby is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Selby",
@@ -30,6 +27,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Mutant Liberation Front"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Selby_(comics)"

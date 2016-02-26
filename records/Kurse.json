@@ -4,13 +4,11 @@
     "Valgoth",
     "Kurse"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Walt Simonson",
     "Walter Simonson"
   ],
-  "description": "Kurse is a fictional character that appears in comic books published by Marvel Comics. The character first appears as the Dark Elf Algrim the Strong in  Thor #347 (Sep. 1984), is transformed into Kurse in Secret Wars II #4 (Oct. 1985) and was created by Walter Simonson.",
+  "description": "Kurse is a fictional character that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thor363.jpg/250px-Thor363.jpg",
   "isHero": false,
   "isVillain": false,
@@ -39,6 +37,8 @@
     "Algrim"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Kurse"

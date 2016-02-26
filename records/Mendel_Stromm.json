@@ -5,14 +5,11 @@
     "Dr. Mendel Stromm",
     "Mendel Stromm"
   ],
-  "alliances": [
-    "Oscorp"
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "Dr. Mendel Stromm is a fictional character in the Marvel universe that has also been known as Robot Master and Gaunt.",
+  "description": "Dr",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Stromm.jpg/249px-Stromm.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Oscorp"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mendel_Stromm"

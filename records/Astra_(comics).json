@@ -2,16 +2,12 @@
   "aliases": [
     "Astra"
   ],
-  "alliances": [
-    "Brotherhood of Mutants",
-    "Imperial Guard"
-  ],
   "authors": [
     "Alan Davis",
     "Dave Cockrum",
     "Chris Claremont"
   ],
-  "description": "Astra is the name of two unrelated fictional characters from the Marvel Comics Universe.",
+  "description": "Astra is the name of two unrelated fictional characters from the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Astrawiki.jpg/185px-Astrawiki.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +29,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Brotherhood of Mutants",
+    "Imperial Guard"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Astra_(comics)"

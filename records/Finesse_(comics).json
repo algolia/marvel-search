@@ -2,12 +2,9 @@
   "aliases": [
     "Finesse"
   ],
-  "alliances": [
-    "Avengers Academy"
-  ],
   "authors": [
   ],
-  "description": "Finesse is a fictional character appearing in comic books from Marvel Comics.",
+  "description": "Finesse is a fictional character appearing in comic books from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Finesse",
@@ -29,6 +26,9 @@
     "Jeanne Foucault"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers Academy"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Finesse_(comics)"

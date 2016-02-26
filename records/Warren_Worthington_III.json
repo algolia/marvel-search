@@ -7,28 +7,11 @@
     "Death",
     "Warren Worthington III"
   ],
-  "alliances": [
-    "X-Men",
-    "X-Force",
-    "X-Club",
-    "Mutantes Sans Frontières",
-    "X-Factor",
-    "Renegades",
-    "Champions of Los Angeles",
-    "Defenders/Secret Defenders",
-    "Hellfire Club",
-    "Horsemen of Apocalypse",
-    "X-Terminators",
-    "Worthington Industries",
-    "Cheyarafim",
-    "<Br>",
-    "Jean Grey School Students"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Warren Kenneth Worthington III, better known as Angel and later as Archangel, is a fictional character, a comic book superhero that appears in comic books published by Marvel Comics.  As Angel, Worthington was one of the founding members of the X-Men. A mutant, Angel originally possesses a pair of large feathered wings extending from his back, enabling him to fly. He is the heir and CEO of the multi-billion dollar Worthington Industries. This privileged background results in Warren being stereotyped as an arrogant and self-absorbed playboy during his early years with the X-Men. This personality was ultimately replaced with a more introspective and brooding personality in the late 1980s, when the character was revamped into the more grim and gritty \"Archangel\" persona.One of the original X-Men, Angel has had a frequent presence in X-Men-related comic books throughout the years. He appeared occasionally in X-Men animated series and video games. Ben Foster played the role of Angel in the 2006 film X-Men: The Last Stand.",
+  "description": "Warren Kenneth Worthington III, better known as Angel and later as Archangel, is a fictional character, a comic book superhero that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/WarrenWorthingtonAngel.jpg/250px-WarrenWorthingtonAngel.jpg",
   "isHero": false,
   "isVillain": false,
@@ -62,6 +45,23 @@
     "Warren Kenneth Worthington III"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "X-Force",
+    "X-Club",
+    "Mutantes Sans Frontières",
+    "X-Factor",
+    "Renegades",
+    "Champions of Los Angeles",
+    "Defenders/Secret Defenders",
+    "Hellfire Club",
+    "Horsemen of Apocalypse",
+    "X-Terminators",
+    "Worthington Industries",
+    "Cheyarafim",
+    "<Br>",
+    "Jean Grey School Students"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2802/warren_worthington_iii",

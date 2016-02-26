@@ -3,14 +3,11 @@
     "Crimson Cowl",
     "Crimson Cowl (Justine Hammer)"
   ],
-  "alliances": [
-    "Masters of Evil"
-  ],
   "authors": [
     "Kurt Busiek",
     "Mark Bagley"
   ],
-  "description": "The Crimson Cowl (real name Justine Hammer), is a fictional comic book supervillain appearing in books published by Marvel Comics universe, in particular those featuring Thunderbolts and Iron Man, for whom she has served as a recurring adversary. Justine was the second villain to use the alias Crimson Cowl, Ultron having been the first. Edwin Jarvis was framed as the first Crimson Cowl by Ultron. Dallas Riordan was framed as the second by Justine.",
+  "description": "The Crimson Cowl (real name Justine Hammer), is a fictional comic book supervillain appearing in books published by Marvel Comics universe, in particular those featuring Thunderbolts and Iron Man, for whom she has served as a recurring adversary",
   "isHero": false,
   "isVillain": true,
   "name": "Crimson Cowl",
@@ -37,6 +34,9 @@
     "Justine Hammer"
   ],
   "species": [
+  ],
+  "teams": [
+    "Masters of Evil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Crimson_Cowl_(Justine_Hammer)"

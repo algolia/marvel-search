@@ -2,13 +2,11 @@
   "aliases": [
     "Black Crow"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Paul Neary",
     "J. M. DeMatteis"
   ],
-  "description": "Black Crow (Jesse Black Crow) is a fictional Native American superhero published by Marvel Comics.",
+  "description": "Black Crow (Jesse Black Crow) is a fictional Native American superhero published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Black_Crow_%28Marvel_character%29.jpg/250px-Black_Crow_%28Marvel_character%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +30,8 @@
     "Jesse Black Crow"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/273/black_crow",

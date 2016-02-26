@@ -5,10 +5,6 @@
     "Clor",
     "Ragnarok"
   ],
-  "alliances": [
-    "Dark Avengers",
-    "Thunderbolts"
-  ],
   "authors": [
     "Mark Millar",
     "Steve McNiven"
@@ -47,6 +43,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Dark Avengers",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1017576/thor_goddess_of_thunder/featured",

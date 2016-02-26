@@ -5,13 +5,11 @@
     "the Maha Yogi",
     "Maha Yogi"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Maha Yogi is a fictional character in the Marvel Universe. He first appeared in Journey into Mystery #96 (September 1963), and was created by Stan Lee and Jack Kirby.",
+  "description": "Maha Yogi is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Maha Yogi",
@@ -30,6 +28,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Maha_Yogi"

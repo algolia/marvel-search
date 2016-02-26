@@ -3,16 +3,13 @@
     "Ronin",
     "Red Guardian"
   ],
-  "alliances": [
-    "KGB"
-  ],
   "authors": [
     "Mark Gruenwald",
     "Kieron Dwyer",
     "Roy Thomas",
     "John Buscema"
   ],
-  "description": "The Red Guardian is the name of several comic book superheroes in the Marvel Comics universe. The Red Guardian is an identity that was created as the Soviet equivalent of Captain America; since the fall of the Soviet Union, the name is no longer officially used, though at least two people have claimed the name.",
+  "description": "The Red Guardian is the name of several comic book superheroes in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Avengers-43.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +34,9 @@
     "Alexei Shostakov"
   ],
   "species": [
+  ],
+  "teams": [
+    "KGB"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Red_Guardian"

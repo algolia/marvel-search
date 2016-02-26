@@ -7,13 +7,9 @@
     "Smoking Head",
     "Blazing Skull"
   ],
-  "alliances": [
-    "Defenders",
-    "Invaders"
-  ],
   "authors": [
   ],
-  "description": "The Blazing Skull (Mark Anthony Todd) is a fictional superhero in the Marvel Comics universe, created during the 1930-'40s Golden Age of Comic Books for Marvel's predecessor, Timely Comics. He first appeared in Mystic Comics # 5 (March 1941), though his writer and artist creators are unknown. The Blazing Skull should not be confused with Marvel's unrelated supernatural motorcyclist the Ghost Rider, who is depicted with a flaming skull. Also, the unrelated Marvel character Skull the Slayer (James Scully) briefly used the alias \"Blazing Skull.\"",
+  "description": "The Blazing Skull (Mark Anthony Todd) is a fictional superhero in the Marvel Comics universe, created during the 1930-'40s Golden Age of Comic Books for Marvel's predecessor, Timely Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4ce5a37a830a3/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +36,10 @@
     "Mark Anthony Todd"
   ],
   "species": [
+  ],
+  "teams": [
+    "Defenders",
+    "Invaders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2837/blazing_skull",

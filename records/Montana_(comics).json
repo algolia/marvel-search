@@ -2,14 +2,11 @@
   "aliases": [
     "Montana"
   ],
-  "alliances": [
-    "Enforcers"
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "Montana (Jackson W. Brice) is a fictional character in the Marvel Universe.",
+  "description": "Montana (Jackson W",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Daredevil_vol._2%2C_102_%28Jan%2C_2008%29_artwork.jpg/250px-Daredevil_vol._2%2C_102_%28Jan%2C_2008%29_artwork.jpg",
   "isHero": false,
   "isVillain": false,
@@ -30,6 +27,9 @@
     "Jackson W. Brice"
   ],
   "species": [
+  ],
+  "teams": [
+    "Enforcers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Montana_(comics)"

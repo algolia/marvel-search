@@ -5,20 +5,11 @@
     "Cassandra Nova",
     "The Immensity (by Shi'ar)"
   ],
-  "alliances": [
-    "Shi'ar Imperium",
-    "X-Men",
-    "Shi'ar",
-    "Imperium",
-    "(in",
-    "Charles Xavier",
-    "'s body)"
-  ],
   "authors": [
     "Grant Morrison",
     "Frank Quitely"
   ],
-  "description": "Cassandra Nova is a fictional comic book supervillain appearing in books published by Marvel Comics, usually as an adversary of the X-Men.  Created by writer Grant Morrison and artist Frank Quitely, Cassandra first appeared in New X-Men #114 (July 2001). Cassandra is a \"mummudrai,\" a parasitic life form born bodiless on the astral plane.  The mummudrai that became Cassandra became telepathically entangled with the future Charles Xavier, who possesses vast mutant telepathic powers.  This granted Cassandra some psionic powers herself, including the ability to exit the womb and create a body.Cassandra is Xavier's ideological dark shadow, bent on destruction and genocide.  She is most infamous for commanding an army of Sentinels to massacre 16 million mutants within the mutant homeland of Genosha. In 2009, Cassandra Nova was ranked as IGN's 50th Greatest Comic Book Villain of All Time.",
+  "description": "Cassandra Nova is a fictional comic book supervillain appearing in books published by Marvel Comics, usually as an adversary of the X-Men",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c003d0f3c80c/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -56,6 +47,15 @@
     "Cassandra Nova Xavier"
   ],
   "species": [
+  ],
+  "teams": [
+    "Shi'ar Imperium",
+    "X-Men",
+    "Shi'ar",
+    "Imperium",
+    "(in",
+    "Charles Xavier",
+    "'s body)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2735/cassandra_nova",

@@ -2,16 +2,11 @@
   "aliases": [
     "Bulldozer"
   ],
-  "alliances": [
-    "Wrecking Crew",
-    "Masters of Evil",
-    "United States Army"
-  ],
   "authors": [
     "Len Wein",
     "Sal Buscema"
   ],
-  "description": "Bulldozer is the name of two characters in Marvel Comics.",
+  "description": "Bulldozer is the name of two characters in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/HenryCampBulldozer.jpg",
   "isHero": false,
   "isVillain": false,
@@ -38,6 +33,11 @@
     "Henry Camp"
   ],
   "species": [
+  ],
+  "teams": [
+    "Wrecking Crew",
+    "Masters of Evil",
+    "United States Army"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/365/bulldozer",

@@ -2,13 +2,11 @@
   "aliases": [
     "Christian Walker"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Brian Michael Bendis",
     "Michael Avon Oeming"
   ],
-  "description": "Christian Walker is the main character starring in the comic book series Powers.  He was created by writer Brian Michael Bendis, artist Michael Avon Oeming.  Originally published through Image Comics beginning in 2000, but in 2004, it moved to Marvel Comics, where the series launched Marvel's Icon Comics division for creator-owned titles.",
+  "description": "Christian Walker is the main character starring in the comic book series Powers",
   "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Christian_Walker_HCV.jpg",
   "isHero": false,
   "isVillain": false,
@@ -30,6 +28,8 @@
     "gor/gora/blue streak/diamond/millenium guard"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2888/christian_walker",

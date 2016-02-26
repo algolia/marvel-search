@@ -3,12 +3,9 @@
     "The Coach",
     "Coach"
   ],
-  "alliances": [
-    "X-Force"
-  ],
   "authors": [
   ],
-  "description": "The Coach is a fictional mutant character in Marvel Comics' shared universe, the Marvel Universe. He was the \"leader\" and member of the second team of X-Force and was created by Peter Milligan (writer) and Mike Allred (artist). His first appearance was in X-Force  #116. He is missing one arm and has odd eye coloring.",
+  "description": "The Coach is a fictional mutant character in Marvel Comics' shared universe, the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Coach",
@@ -29,6 +26,9 @@
     "unrevealed"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Force"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Coach_(comics)"

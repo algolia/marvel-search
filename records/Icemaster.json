@@ -1,9 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "Masters of Evil"
-  ],
   "authors": [
   ],
   "isHero": false,
@@ -27,6 +24,9 @@
     "Bradley Koone"
   ],
   "species": [
+  ],
+  "teams": [
+    "Masters of Evil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Icemaster"

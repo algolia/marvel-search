@@ -4,10 +4,6 @@
     "The Kangaroo",
     "Kangaroo"
   ],
-  "alliances": [
-    "Sinister Six",
-    "Corporation"
-  ],
   "authors": [
     "John Buscema",
     "Stan Lee",
@@ -20,7 +16,7 @@
     "Jim Mooney",
     "John Romita, Sr."
   ],
-  "description": "Kangaroo is the name of two characters in Marvel Comics.",
+  "description": "Kangaroo is the name of two characters in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Kanga1.jpg/249px-Kanga1.jpg",
   "isHero": false,
   "isVillain": false,
@@ -58,6 +54,10 @@
     "Frank Oliver"
   ],
   "species": [
+  ],
+  "teams": [
+    "Sinister Six",
+    "Corporation"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Kangaroo_(comics)"

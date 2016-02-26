@@ -6,15 +6,11 @@
     "Mephistopheles",
     "Mephisto"
   ],
-  "alliances": [
-    "Legion Accursed",
-    "Six-Fingered Hand"
-  ],
   "authors": [
     "Stan Lee",
     "John Buscema"
   ],
-  "description": "Mephisto is a fictional character that appears in comic books published by Marvel Comics. The character first appears in Silver Surfer #3 (Dec. 1968) and was introduced in the Marvel universe by Stan Lee and John Buscema, based on Mephistopheles – a demon character from the Faust legend, who often went by Mephisto as a nickname.Debuting in the Silver Age of comic books, the character has appeared in over four decades of Marvel continuity. The character has also appeared in associated Marvel merchandise including animated television series, feature film, toys, trading cards, and video games.In 2009, Mephisto was ranked as IGN's 48th Greatest Comic Book Villain of All Time.",
+  "description": "Mephisto is a fictional character that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/526034d178ddc/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +36,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Legion Accursed",
+    "Six-Fingered Hand"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1427/mephisto",

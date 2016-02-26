@@ -2,16 +2,11 @@
   "aliases": [
     "Mammomax"
   ],
-  "alliances": [
-    "X-Men: The 198",
-    "Brotherhood of Mutants",
-    "The 198"
-  ],
   "authors": [
     "Salvador Larroca",
     "Chuck Austen"
   ],
-  "description": "Mammomax is a fictional mammoth-shaped human mutant that has appeared in various comic books published by Marvel Comics. He exists in Marvel's main shared universe, known as the Marvel Universe.",
+  "description": "Mammomax is a fictional mammoth-shaped human mutant that has appeared in various comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/XMEN_Mammomax.jpg/200px-XMEN_Mammomax.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +32,11 @@
     "Maximus Jensen"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men: The 198",
+    "Brotherhood of Mutants",
+    "The 198"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mammomax"

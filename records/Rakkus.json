@@ -2,12 +2,9 @@
   "aliases": [
     "Rakkus"
   ],
-  "alliances": [
-    "Acolytes"
-  ],
   "authors": [
   ],
-  "description": "Rakkus (David Anthony Rice) is a fictional character, a mutant in the Marvel Comics Universe. His first appearance was in Avengers #380.",
+  "description": "Rakkus (David Anthony Rice) is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Rakkus",
@@ -29,6 +26,9 @@
     "David Anthony Rice"
   ],
   "species": [
+  ],
+  "teams": [
+    "Acolytes"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Rakkus"

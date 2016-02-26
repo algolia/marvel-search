@@ -3,21 +3,11 @@
     "Harold Simmons",
     "Killer Shrike"
   ],
-  "alliances": [
-    "United States Air Force",
-    "United States Army",
-    "Thunderbolts",
-    "Roxxon Energy Corporation",
-    "Masters of Evil",
-    "Brand Corporation",
-    "Roxxon Oil Company",
-    "Sinister Six"
-  ],
   "authors": [
     "John Warner",
     "John Buscema"
   ],
-  "description": "Killer Shrike is the name of two fictional characters in Marvel Comics.",
+  "description": "Killer Shrike is the name of two fictional characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Killer Shrike",
@@ -44,6 +34,16 @@
     "Simon Maddicks"
   ],
   "species": [
+  ],
+  "teams": [
+    "United States Air Force",
+    "United States Army",
+    "Thunderbolts",
+    "Roxxon Energy Corporation",
+    "Masters of Evil",
+    "Brand Corporation",
+    "Roxxon Oil Company",
+    "Sinister Six"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2928/killer_shrike",

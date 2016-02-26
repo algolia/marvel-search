@@ -2,13 +2,11 @@
   "aliases": [
     "Arsenal"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Bill Mantlo",
     "Keith Giffen"
   ],
-  "description": "Arsenal is a fictional character, a robot that appears in comic books published by Marvel Comics. The character first appears in Iron Man #114 (Sep. 1978) and was created by Bill Mantlo and Keith Giffen.",
+  "description": "Arsenal is a fictional character, a robot that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/AvengersAnnual-9.jpg/250px-AvengersAnnual-9.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +32,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Arsenal_(Marvel_Comics)"

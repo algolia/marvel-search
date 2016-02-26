@@ -3,11 +3,6 @@
     "Black King",
     "Shinobi Shaw"
   ],
-  "alliances": [
-    "Hellfire Club",
-    "Shaw Industries",
-    "Upstarts"
-  ],
   "authors": [
     "Chris Claremont"
   ],
@@ -33,6 +28,11 @@
     "Shinobi Shaw"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellfire Club",
+    "Shaw Industries",
+    "Upstarts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2758/shinobi_shaw",

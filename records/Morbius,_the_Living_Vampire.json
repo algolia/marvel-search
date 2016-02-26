@@ -7,17 +7,11 @@
     "the Living Vampire",
     "Morbius Revisited"
   ],
-  "alliances": [
-    "Legion of Monsters",
-    "Midnight Sons",
-    "S.H.I.E.L.D.",
-    "A.R.M.O.R."
-  ],
   "authors": [
     "Gil Kane",
     "Roy Thomas"
   ],
-  "description": "Morbius the Living Vampire, a scientist named Dr. Michael Morbius, MD PhD is a fictional character appearing in comic books published by Marvel Comics. Created by writer Roy Thomas and originally designed by penciler Gil Kane, the character, a man suffering from vampiric abilities and physical traits resulting from scientific rather than supernatural means, first appeared as an antagonist in The Amazing Spider-Man #101 (Oct. 1971), and went on to become a heroic, tragically flawed protagonist in his own series and other titles.",
+  "description": "Morbius the Living Vampire, a scientist named Dr",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/535fee11e0e1a/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": true,
@@ -47,6 +41,12 @@
     "Michael Morbius"
   ],
   "species": [
+  ],
+  "teams": [
+    "Legion of Monsters",
+    "Midnight Sons",
+    "S.H.I.E.L.D.",
+    "A.R.M.O.R."
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009454/morbius",

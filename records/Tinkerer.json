@@ -3,9 +3,6 @@
     "Terrible Tinkerer",
     "Tinkerer"
   ],
-  "alliances": [
-    "Tinkerer Repair Shop"
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
@@ -35,6 +32,9 @@
     "Phineas Mason"
   ],
   "species": [
+  ],
+  "teams": [
+    "Tinkerer Repair Shop"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2381/tinkerer",

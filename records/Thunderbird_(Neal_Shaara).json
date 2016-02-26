@@ -4,10 +4,6 @@
     "Thunderbird",
     "Thunderbird (Neal Shaara)"
   ],
-  "alliances": [
-    "X-Men",
-    "X-Corporation"
-  ],
   "authors": [
     "Leinil Francis Yu",
     "Chris Claremont"
@@ -38,6 +34,10 @@
     "Neal Shaara"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "X-Corporation"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2364/thunderbird",

@@ -5,14 +5,11 @@
     "Tale-er",
     "Possessor"
   ],
-  "alliances": [
-    "Elders of the Universe"
-  ],
   "authors": [
     "Gerry Conway",
     "John Buscema"
   ],
-  "description": "The Possessor (Kamo Tharnn) is a fictional character appearing in publications from Marvel Comics. The character is one of the Elders of the Universe.  His name comes from his self-given title Possessor of the Runestaff, a powerful alien artifact.",
+  "description": "The Possessor (Kamo Tharnn) is a fictional character appearing in publications from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Possessor",
@@ -37,6 +34,9 @@
     "Kamo Tharnn"
   ],
   "species": [
+  ],
+  "teams": [
+    "Elders of the Universe"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Possessor_(comics)"

@@ -4,13 +4,11 @@
     "Spider-Slayer",
     "Alistair Smythe"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Mary Wilshire",
     "Louise Simonson"
   ],
-  "description": "Alistair Smythe is a comic book supervillain, owned by Marvel Comics. He was one of Spider-Man's enemies. At one point Alistair used a wheelchair, but he later gained the ability to walk after transforming himself into what he called the Ultimate Spider-Slayer.",
+  "description": "Alistair Smythe is a comic book supervillain, owned by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg/250px-Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +31,8 @@
     "Alistair Alphonso Smythe"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Alistair_Smythe"

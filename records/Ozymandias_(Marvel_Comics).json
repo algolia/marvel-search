@@ -2,14 +2,11 @@
   "aliases": [
     "Ozymandias"
   ],
-  "alliances": [
-    "Clan Akkaba"
-  ],
   "authors": [
     "Joe Madureira",
     "Scott Lobdell"
   ],
-  "description": "Ozymandias is a fictional character that appears in comic books published by Marvel Comics. The character first appeared in 1996 in Uncanny X-Men #332, and was created by writer Scott Lobdell and artist Joe Madureira.",
+  "description": "Ozymandias is a fictional character that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/0/01/OzymandiasMarvel1.png",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +30,9 @@
     "Ozymandias"
   ],
   "species": [
+  ],
+  "teams": [
+    "Clan Akkaba"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1683/ozymandias",

@@ -6,15 +6,12 @@
     "The Witness",
     "Witness"
   ],
-  "alliances": [
-    "The Twelve"
-  ],
   "authors": [
     "Paul Ryan (cartoonist)",
     "Stan Lee",
     "Mark Gruenwald"
   ],
-  "description": "The Witness is the name of at least three fictional, American comic-book characters, the first published by Timely Comics in the 1940s and the final two by its successor company, Marvel Comics.",
+  "description": "The Witness is the name of at least three fictional, American comic-book characters, the first published by Timely Comics in the 1940s and the final two by its successor company, Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Twelve005.jpg/250px-Twelve005.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +41,9 @@
     "Nelson Kohler"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Twelve"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Witness_(comics)"

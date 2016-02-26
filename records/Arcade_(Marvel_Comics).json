@@ -5,13 +5,11 @@
     "A.R. Cadenski",
     "Arcade"
   ],
-  "alliances": [
-  ],
   "authors": [
     "John Byrne",
     "Chris Claremont"
   ],
-  "description": "Arcade is a fictional character, a supervillain in the Marvel Comics Universe.Arcade became one of the more popular villains in the Marvel Comics universe during the 1980s, and did battle with many other superheroes. Although confrontations with him rarely last more than one or two issues (making him more of a \"guest villain\") he has done battle with numerous superheroes from various corners of the Marvel Universe, although he has never once defeated any of them.",
+  "description": "Arcade is a fictional character, a supervillain in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c0042091ab69/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +42,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/178/arcade",

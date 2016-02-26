@@ -3,10 +3,6 @@
     "Uncanny Unicorn",
     "Unicorn"
   ],
-  "alliances": [
-    "Maggia",
-    "KGB"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
@@ -47,6 +43,10 @@
     "Milos Masaryk"
   ],
   "species": [
+  ],
+  "teams": [
+    "Maggia",
+    "KGB"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2450/unicorn",

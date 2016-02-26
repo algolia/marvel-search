@@ -4,16 +4,11 @@
     "Crystalia Amaquelin-Maximoff",
     "Crystal"
   ],
-  "alliances": [
-    "Inhumans",
-    "Fantastic Four",
-    "Avengers"
-  ],
   "authors": [
     "Stan Lee",
     "Jack Kirby"
   ],
-  "description": "Crystal (full name Crystalia Amaquelin) is a fictional character, a superhero in the Marvel Comics Universe. She is a member of the Inhumans and the younger sister of Medusa.Crystal possesses the power to manipulate the classic four elements. Originally, she was a girlfriend of the Human Torch, then the girlfriend of the Avenger the Sentry. She later married Quicksilver. They have a daughter, Luna, who is granddaughter of Magneto. Crystal had an affair during her marriage, though she claimed to still love Quicksilver. Eventually, their marriage was annulled and Quicksilver was forbidden to see Luna. She is later married to Ronan the Accuser of the Kree, purportedly as a symbol of Kree and Inhuman unity.",
+  "description": "Crystal (full name Crystalia Amaquelin) is a fictional character, a superhero in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/52695564bcf1e/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -48,6 +43,11 @@
     "Crystalia Amaquelin"
   ],
   "species": [
+  ],
+  "teams": [
+    "Inhumans",
+    "Fantastic Four",
+    "Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009255/crystal",

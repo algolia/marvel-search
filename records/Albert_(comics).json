@@ -2,13 +2,10 @@
   "aliases": [
     "Albert"
   ],
-  "alliances": [
-    "Reavers"
-  ],
   "authors": [
     "Larry Hama ,Marc Silvestri"
   ],
-  "description": "Albert is a fictional character appearing in Marvel Comics, and an ally of Wolverine. The character first appeared in Wolverine vol. 1 #37 suspended in a tank of liquid. Albert is a sapient automaton or android.",
+  "description": "Albert is a fictional character appearing in Marvel Comics, and an ally of Wolverine",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Albert_and_elsie.jpg/200px-Albert_and_elsie.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
     "Albert Wright"
   ],
   "species": [
+  ],
+  "teams": [
+    "Reavers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Albert_(comics)"

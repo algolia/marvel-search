@@ -2,14 +2,11 @@
   "aliases": [
     "Stonewall"
   ],
-  "alliances": [
-    "Freedom Force"
-  ],
   "authors": [
     "Alan Davis",
     "Chris Claremont"
   ],
-  "description": "Stonewall is the codename of two characters from Marvel Comics.",
+  "description": "Stonewall is the codename of two characters from Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Stonewall",
@@ -35,6 +32,9 @@
     "Jerry Sledge"
   ],
   "species": [
+  ],
+  "teams": [
+    "Freedom Force"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Stonewall_(comics)"

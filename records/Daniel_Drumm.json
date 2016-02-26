@@ -3,13 +3,11 @@
     "Doctor Voodoo",
     "Daniel Drumm"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Len Wein",
     "Gene Colan"
   ],
-  "description": "Daniel Drumm is a fictional character in Marvel Comics.",
+  "description": "Daniel Drumm is a fictional character in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Daniel Drumm",
@@ -30,6 +28,8 @@
     "Daniel Drumm"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Drumm"

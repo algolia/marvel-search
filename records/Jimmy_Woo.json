@@ -2,11 +2,6 @@
   "aliases": [
     "Jimmy Woo"
   ],
-  "alliances": [
-    "G-Men",
-    "Agents of Atlas",
-    "S.H.I.E.L.D."
-  ],
   "authors": [
     "Al Feldstein",
     "Joe Maneely"
@@ -32,6 +27,11 @@
     "James Woo"
   ],
   "species": [
+  ],
+  "teams": [
+    "G-Men",
+    "Agents of Atlas",
+    "S.H.I.E.L.D."
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2873/jimmy_woo",

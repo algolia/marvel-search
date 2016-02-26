@@ -5,13 +5,11 @@
     "Iron Patriot",
     "Goblin King"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "The Green Goblin is the alias of several supervillains that appear in comic books published by Marvel Comics. The first and most high-profile incarnation is Norman Osborn, who was created by Stan Lee and Steve Ditko in The Amazing Spider-Man #14 and is often considered the archenemy of Spider-Man. The Green Goblin is a Halloween-themed supervillain whose weapons resemble bats, ghosts and jack-o'-lanterns. Comics journalist and historian Mike Conroy writes of the character: \"Of all the costumed villains who've plagued Spider-Man over the years, the most flat-out unhinged and terrifying of them all is the Green Goblin.\" The Green Goblin has appeared in several films including 2002's Spider-Man as Norman Osborn, and 2014's The Amazing Spider-Man 2 as Harry Osborn, Norman's embittered son.",
+  "description": "The Green Goblin is the alias of several supervillains that appear in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4cd05ee55faa2/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": true,
@@ -31,6 +29,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/852/green_goblin",

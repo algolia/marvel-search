@@ -2,16 +2,11 @@
   "aliases": [
     "Rocket Racer"
   ],
-  "alliances": [
-    "Avengers Academy",
-    "Wild Pack",
-    "The Outlaws"
-  ],
   "authors": [
     "Len Wein",
     "Ross Andru"
   ],
-  "description": "The Rocket Racer is the name of two characters in Marvel Comics.",
+  "description": "The Rocket Racer is the name of two characters in Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c0037551d8c2/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +31,11 @@
     "Robert Farrell"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers Academy",
+    "Wild Pack",
+    "The Outlaws"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2822/rocket_racer",

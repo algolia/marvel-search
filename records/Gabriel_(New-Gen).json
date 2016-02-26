@@ -3,15 +3,12 @@
     "Gabriel",
     "Gabriel (New-Gen)"
   ],
-  "alliances": [
-    "A.P.N.G."
-  ],
   "authors": [
     "Julia Coppola",
     "Chris Matonti",
     "J.D. Matonti"
   ],
-  "description": "John Gabriel is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics. Created by Chris Matonti, J.D. Matonti, and Julia Coppola, he first appeared in NEW-GEN #1 (2010). He is the founder and leader of the A.P.N.G., and the leading scientific mind in the field of nanotechnology on the world of New-Gen.",
+  "description": "John Gabriel is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Gabriel_New-Gen.jpg",
   "isHero": true,
   "isVillain": false,
@@ -41,6 +38,9 @@
     "John Gabriel"
   ],
   "species": [
+  ],
+  "teams": [
+    "A.P.N.G."
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_(New-Gen)"

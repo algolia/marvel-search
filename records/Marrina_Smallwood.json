@@ -3,15 +3,10 @@
     "Leviathan",
     "Marrina Smallwood"
   ],
-  "alliances": [
-    "Beta Flight",
-    "Avengers",
-    "Alpha Flight"
-  ],
   "authors": [
     "John Byrne"
   ],
-  "description": "Marrina Smallwood is a fictional character of the Marvel Universe. She was a member of the Alpha Flight and an honorary member of the Avengers.  John Byrne created the character in Alpha Flight vol. 1 #1 (August 1983).",
+  "description": "Marrina Smallwood is a fictional character of the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Marrina.jpg/200px-Marrina.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +29,11 @@
     "Marrina Smallwood"
   ],
   "species": [
+  ],
+  "teams": [
+    "Beta Flight",
+    "Avengers",
+    "Alpha Flight"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Marrina_Smallwood"

@@ -2,14 +2,11 @@
   "aliases": [
     "Dusk"
   ],
-  "alliances": [
-    "Slingers"
-  ],
   "authors": [
     "Joseph Harris",
     "Adam Pollina"
   ],
-  "description": "Dusk was an identity used by several fictional superheroes in the Marvel Universe.  It was eventually adopted by college student Cassie St. Commons, who appeared in the Marvel Comics' series, Slingers.",
+  "description": "Dusk was an identity used by several fictional superheroes in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/DuskCassie.jpg/250px-DuskCassie.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +34,9 @@
     "Cassie St. Commons"
   ],
   "species": [
+  ],
+  "teams": [
+    "Slingers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Dusk_(comics)"

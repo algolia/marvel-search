@@ -7,17 +7,11 @@
     "The Warhawk",
     "Ares"
   ],
-  "alliances": [
-    "The Mighty Avengers",
-    "Olympians",
-    "Warhawks",
-    "Dark Avengers"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Ares is a fictional character, a deity in the Marvel Comics Universe based on the Greek god of the same name. He first appears in Thor (vol. 1) #129 (June 1966) and was created by Stan Lee and Jack Kirby.Ares has commonly appeared as an enemy of Thor and Hercules and starred in his own self-titled series in 2006.",
+  "description": "Ares is a fictional character, a deity in the Marvel Comics Universe based on the Greek god of the same name",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/535ff3daea603/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": true,
@@ -49,6 +43,12 @@
     "Ares"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Mighty Avengers",
+    "Olympians",
+    "Warhawks",
+    "Dark Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/183/ares",

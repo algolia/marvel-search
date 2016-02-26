@@ -2,13 +2,11 @@
   "aliases": [
     "Nth Man"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Bill Mantlo",
     "Ron Wilson"
   ],
-  "description": "Nth Man is a fictional character in the Marvel Universe.",
+  "description": "Nth Man is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Nth Man",
@@ -28,6 +26,8 @@
     "Thomas Lightner"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Nth_Man"

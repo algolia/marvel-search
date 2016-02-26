@@ -3,15 +3,12 @@
     "The Harbinger of Apocalypse",
     "Harbinger of Apocalypse"
   ],
-  "alliances": [
-    "Apocalypse"
-  ],
   "authors": [
     "James Robinson",
     "Jos%C3%A9 Ladr%C3%B6nn",
     "José Ladrönn"
   ],
-  "description": "The Harbinger of Apocalypse is a fictional character that appears in the Marvel Universe. He first appears in Cable #50, and was created by writer James Robinson and artist José Ladrönn.",
+  "description": "The Harbinger of Apocalypse is a fictional character that appears in the Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Cb67cvr.jpg/250px-Cb67cvr.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
     "Unknown"
   ],
   "species": [
+  ],
+  "teams": [
+    "Apocalypse"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Harbinger_of_Apocalypse"

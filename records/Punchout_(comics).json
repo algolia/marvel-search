@@ -2,16 +2,11 @@
   "aliases": [
     "Punchout"
   ],
-  "alliances": [
-    "Press Gang",
-    "Magistrates",
-    "Genoshan Magistrates"
-  ],
   "authors": [
     "Rick Leonardi",
     "Chris Claremont"
   ],
-  "description": "Punchout is a fictional character, a mutant in the Marvel Comics Universe. Her first appearance was in Uncanny X-Men #235.",
+  "description": "Punchout is a fictional character, a mutant in the Marvel Comics Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Punchout",
@@ -32,6 +27,11 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Press Gang",
+    "Magistrates",
+    "Genoshan Magistrates"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Punchout_(comics)"

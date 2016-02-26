@@ -2,16 +2,6 @@
   "aliases": [
     "Star-Lord"
   ],
-  "alliances": [
-    "Annihilation",
-    "Guardians of the Galaxy (2008 team)",
-    "Imperial Guard",
-    "Ship",
-    "Guardians of the Galaxy",
-    "Ravagers",
-    "United Front",
-    "Shi'ar Imperial Guard"
-  ],
   "authors": [
     "Steve Gan",
     "Steve Englehart"
@@ -46,6 +36,16 @@
     "Peter Jason Quill"
   ],
   "species": [
+  ],
+  "teams": [
+    "Annihilation",
+    "Guardians of the Galaxy (2008 team)",
+    "Imperial Guard",
+    "Ship",
+    "Guardians of the Galaxy",
+    "Ravagers",
+    "United Front",
+    "Shi'ar Imperial Guard"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/56/star-lord",

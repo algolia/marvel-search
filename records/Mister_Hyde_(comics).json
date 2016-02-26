@@ -3,11 +3,6 @@
     "Thor",
     "Mister Hyde"
   ],
-  "alliances": [
-    "Lethal Legion",
-    "Thunderbolts",
-    "Masters of Evil"
-  ],
   "authors": [
     "Stan Lee",
     "Don Heck"
@@ -46,6 +41,11 @@
     "Dr. Calvin Zabo"
   ],
   "species": [
+  ],
+  "teams": [
+    "Lethal Legion",
+    "Thunderbolts",
+    "Masters of Evil"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1017576/thor_goddess_of_thunder/featured",

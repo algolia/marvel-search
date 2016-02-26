@@ -5,15 +5,11 @@
     "Patch",
     "Big Man"
   ],
-  "alliances": [
-    "Enforcers",
-    "Daily Bugle"
-  ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "Frederick Foswell, also known as the Big Man and Patch, is a fictional character in the Marvel Universe.",
+  "description": "Frederick Foswell, also known as the Big Man and Patch, is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Frederick Foswell",
@@ -35,6 +31,10 @@
     "Frederick Foswell"
   ],
   "species": [
+  ],
+  "teams": [
+    "Enforcers",
+    "Daily Bugle"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Foswell"

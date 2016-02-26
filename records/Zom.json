@@ -2,13 +2,11 @@
   "aliases": [
     "Zom"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Stan Lee",
     "Marie Severin"
   ],
-  "description": "Zom is a fictional character appearing in the Marvel Comics universe. He is a gigantic semi-humanoid demon who has clashed with Doctor Strange.",
+  "description": "Zom is a fictional character appearing in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Zom",
@@ -28,6 +26,8 @@
     "Zom"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Zom"

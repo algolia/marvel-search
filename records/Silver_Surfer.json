@@ -2,16 +2,6 @@
   "aliases": [
     "Silver Surfer"
   ],
-  "alliances": [
-    "The Order",
-    "United Front",
-    "God Squad",
-    "Annihilators",
-    "Galactus",
-    "Star Masters",
-    "The Defenders",
-    "Heralds of Galactus"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
@@ -40,6 +30,16 @@
     "Norrin Radd"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Order",
+    "United Front",
+    "God Squad",
+    "Annihilators",
+    "Galactus",
+    "Star Masters",
+    "The Defenders",
+    "Heralds of Galactus"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009592/silver_surfer",

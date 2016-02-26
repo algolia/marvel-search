@@ -3,18 +3,13 @@
     "Melter II",
     "Melter"
   ],
-  "alliances": [
-    "Young Masters",
-    "Masters of Evil",
-    "Death Squad"
-  ],
   "authors": [
     "Paul Cornell",
     "Steve Ditko",
     "Mark Brooks",
     "Stan Lee"
   ],
-  "description": "The Melter is the name of three characters in Marvel Comics.",
+  "description": "The Melter is the name of three characters in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Melter.jpg/240px-Melter.jpg",
   "isHero": false,
   "isVillain": false,
@@ -41,6 +36,11 @@
     "Bruno Horgan"
   ],
   "species": [
+  ],
+  "teams": [
+    "Young Masters",
+    "Masters of Evil",
+    "Death Squad"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Melter"

@@ -3,13 +3,11 @@
     "Los Hermanos de Luna",
     "Lobo Brothers"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Gerry Conway",
     "Sal Buscema"
   ],
-  "description": "The Lobo Brothers are two supervillains from Marvel Comics: Carlos and Eduardo. They are later joined by their sister: Esmeralda Lobo.",
+  "description": "The Lobo Brothers are two supervillains from Marvel Comics: Carlos and Eduardo",
   "isHero": false,
   "isVillain": false,
   "name": "Lobo Brothers",
@@ -33,6 +31,8 @@
     "Carlos and Eduardo Lobo"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Lobo_Brothers"

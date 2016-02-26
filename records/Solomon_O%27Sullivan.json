@@ -1,9 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "O-Force"
-  ],
   "authors": [
     "Peter Milligan",
     "Mike Allred"
@@ -29,6 +26,9 @@
     "Solomon O'Sullivan"
   ],
   "species": [
+  ],
+  "teams": [
+    "O-Force"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Solomon_O%27Sullivan"

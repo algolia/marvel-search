@@ -2,14 +2,12 @@
   "aliases": [
     "Shadow Slasher"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Doug Moench",
     "Mick Zeck",
     "Gene Day"
   ],
-  "description": "Shadow Slasher is a fictional supervillain in the Marvel Comics universe.",
+  "description": "Shadow Slasher is a fictional supervillain in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Shadow Slasher",
@@ -37,6 +35,8 @@
     "Xi-shan Hao"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Shadow_Slasher"

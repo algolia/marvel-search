@@ -3,15 +3,9 @@
     "Paradigm\nimage=",
     "Paradigm"
   ],
-  "alliances": [
-    "Phalanx",
-    "Hellions",
-    "New Hellions",
-    "Phalanx race"
-  ],
   "authors": [
   ],
-  "description": "Paradigm is a fictional mutant character in the Marvel Comics Universe, created for their comic book series X-Force. His first appearance was in X-Force #87.",
+  "description": "Paradigm is a fictional mutant character in the Marvel Comics Universe, created for their comic book series X-Force",
   "isHero": false,
   "isVillain": true,
   "name": "Paradigm\nimage=",
@@ -34,6 +28,12 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Phalanx",
+    "Hellions",
+    "New Hellions",
+    "Phalanx race"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Paradigm_(comics)"

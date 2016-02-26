@@ -4,22 +4,10 @@
     "Mister Machine",
     "Machine Man"
   ],
-  "alliances": [
-    "Civil War",
-    "S.H.I.E.L.D.",
-    "Ancient Order of the Shield",
-    "Operation: Lightning Storm",
-    "Avengers",
-    "West Coast Avengers",
-    "Nextwave",
-    "Secret Avengers (Civil War)",
-    "Heavy Metal",
-    "A.R.M.O.R."
-  ],
   "authors": [
     "Jack Kirby"
   ],
-  "description": "Machine Man (Aaron Stack, serial number Z2P45-9-X-51 or X-51 for short) is a fictional character, an android superhero in the Marvel Comics Universe. The character was created by Jack Kirby for 2001: A Space Odyssey #8 (July 1977), a comic written and drawn by Kirby featuring concepts based on the eponymous Stanley Kubrick film and Arthur C. Clarke novel.  Shortly thereafter, Machine Man spun off into his own Kirby-created series.  He is a robot, the only survivor of a series, raised as a human son of scientist Abel Stack, who was killed removing his auto-destruct mechanism, and further evolved to sentience by a Monolith.",
+  "description": "Machine Man (Aaron Stack, serial number Z2P45-9-X-51 or X-51 for short) is a fictional character, an android superhero in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4c003727804b4/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -53,6 +41,18 @@
     "Aaron Stack"
   ],
   "species": [
+  ],
+  "teams": [
+    "Civil War",
+    "S.H.I.E.L.D.",
+    "Ancient Order of the Shield",
+    "Operation: Lightning Storm",
+    "Avengers",
+    "West Coast Avengers",
+    "Nextwave",
+    "Secret Avengers (Civil War)",
+    "Heavy Metal",
+    "A.R.M.O.R."
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1306/machine_man",

@@ -4,16 +4,13 @@
     "Jr.",
     "Enforcer"
   ],
-  "alliances": [
-    "Committee"
-  ],
   "authors": [
     "Gerry Conway",
     "Don Glut",
     "and Don Heck",
     "Don Heck"
   ],
-  "description": "Enforcer is the name of two fictional characters in Marvel Comics.",
+  "description": "Enforcer is the name of two fictional characters in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Enforcer",
@@ -34,6 +31,9 @@
     "Jr."
   ],
   "species": [
+  ],
+  "teams": [
+    "Committee"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Enforcer_(comics)"

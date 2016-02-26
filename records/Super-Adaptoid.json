@@ -4,12 +4,6 @@
     "Alessandro Brannex",
     "Super-Adaptoid"
   ],
-  "alliances": [
-    "Advanced Idea Mechanics",
-    "Phalanx",
-    "A.I.M.",
-    "Heavy Metal"
-  ],
   "authors": [
     "Jack Kirby",
     "Gene Colan",
@@ -38,6 +32,12 @@
     "Super-Adaptoid"
   ],
   "species": [
+  ],
+  "teams": [
+    "Advanced Idea Mechanics",
+    "Phalanx",
+    "A.I.M.",
+    "Heavy Metal"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2256/super-adaptoid",

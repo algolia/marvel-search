@@ -4,19 +4,11 @@
     "The Crooked Man",
     "Mad Jim Jaspers"
   ],
-  "alliances": [
-    "Crazy Gang",
-    "Parliament of the United Kingdom",
-    "Hellfire Club",
-    "UK parliament",
-    "the Hellfire Club",
-    "The Crazy Gang"
-  ],
   "authors": [
     "Dave Thorpe",
     "Alan Davis"
   ],
-  "description": "Sir James Jaspers (aka Mad Jim Jaspers) is a fictional character created by Dave Thorpe and Alan Davis for the Captain Britain stories in Marvel UK comics and later developed by Alan Moore.Jaspers was a British member of Parliament with a mutated brain that enabled him to alter reality; an unfortunate side effect of this power was that it quickly drove him mad once he began to use it on a larger scale. He led an anti-superhuman campaign so that he could play with the world without interference. His character design was based on the English comic actor Terry-Thomas.",
+  "description": "Sir James Jaspers (aka Mad Jim Jaspers) is a fictional character created by Dave Thorpe and Alan Davis for the Captain Britain stories in Marvel UK comics and later developed by Alan Moore",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Mad_Jim_Jaspers.jpg/250px-Mad_Jim_Jaspers.jpg",
   "isHero": false,
   "isVillain": false,
@@ -40,6 +32,14 @@
     "Sir James Jaspers"
   ],
   "species": [
+  ],
+  "teams": [
+    "Crazy Gang",
+    "Parliament of the United Kingdom",
+    "Hellfire Club",
+    "UK parliament",
+    "the Hellfire Club",
+    "The Crazy Gang"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mad_Jim_Jaspers"

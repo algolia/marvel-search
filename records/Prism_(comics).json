@@ -2,14 +2,11 @@
   "aliases": [
     "Prism"
   ],
-  "alliances": [
-    "Marauders"
-  ],
   "authors": [
     "Chris Claremont",
     "Louise Simonson"
   ],
-  "description": "Prism (Robbie) is a fictional character, a supervillain in the Marvel Comics universe.  He is a member of the Marauders.",
+  "description": "Prism (Robbie) is a fictional character, a supervillain in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Prism",
@@ -33,6 +30,9 @@
     "Robbie"
   ],
   "species": [
+  ],
+  "teams": [
+    "Marauders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1803/prism",

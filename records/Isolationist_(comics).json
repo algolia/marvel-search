@@ -2,16 +2,11 @@
   "aliases": [
     "Isolationist"
   ],
-  "alliances": [
-    "Damian Tryp",
-    "X-Cell",
-    "Singularity Investigations"
-  ],
   "authors": [
     "Pablo Raimondi",
     "Peter David"
   ],
-  "description": "The Isolationist (Josef Huber) is a fictional character in the Marvel Comics Universe, created by Peter David and Pablo Raimondi. The character's first appearance was in X-Factor vol. 1, #89 on a single page, but his story wasn't continued until X-Factor vol. 3 #16, fifteen years later.",
+  "description": "The Isolationist (Josef Huber) is a fictional character in the Marvel Comics Universe, created by Peter David and Pablo Raimondi",
   "image": "https://upload.wikimedia.org/wikipedia/en/d/d0/Isolationist.jpg",
   "isHero": false,
   "isVillain": false,
@@ -36,6 +31,11 @@
     "Josef Huber"
   ],
   "species": [
+  ],
+  "teams": [
+    "Damian Tryp",
+    "X-Cell",
+    "Singularity Investigations"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Isolationist_(comics)"

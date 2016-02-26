@@ -2,15 +2,12 @@
   "aliases": [
     "Skullbuster"
   ],
-  "alliances": [
-    "Reavers"
-  ],
   "authors": [
     "Marc Silvestri",
     "Salvador Larroca",
     "Chris Claremont"
   ],
-  "description": "Skullbuster  is the name of three comic book super villains all of which exist in Marvel Comics' main shared universe. The original Skullbuster first appeared in Uncanny X-Men #229 (May 1988) and was created by Chris Claremont and Marc Silvestri.",
+  "description": "Skullbuster  is the name of three comic book super villains all of which exist in Marvel Comics' main shared universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c003c072eb58/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +31,9 @@
     "Cylla Markham"
   ],
   "species": [
+  ],
+  "teams": [
+    "Reavers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2133/skullbuster",

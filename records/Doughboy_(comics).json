@@ -2,12 +2,10 @@
   "aliases": [
     "Doughboy"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Jack Kirby"
   ],
-  "description": "Doughboy is a fictional character in Marvel Comics.",
+  "description": "Doughboy is a fictional character in Marvel Comics",
   "isHero": false,
   "isVillain": false,
   "name": "Doughboy",
@@ -30,6 +28,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Doughboy_(comics)"

@@ -3,22 +3,12 @@
     "The Cure",
     "Leech"
   ],
-  "alliances": [
-    "Future Foundation",
-    "Weapon X",
-    "The 198",
-    "Generation X",
-    "Daydreamers",
-    "X-Terminators",
-    "X-Factor",
-    "Morlocks"
-  ],
   "authors": [
     "John Romita, Jr.",
     "Chris Claremont",
     "John Romita Jr"
   ],
-  "description": "Leech is a character in the Marvel Comics Universe.Leech made his first appearance in Uncanny X-Men as a Morlock, a group of mutants whose deformities force them to live in the sewers under Manhattan. He is usually depicted as being around twelve years old (his exact age is unrevealed). He speaks in broken English and refers to himself in the third person.",
+  "description": "Leech is a character in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/X198leech.jpg/250px-X198leech.jpg",
   "isHero": true,
   "isVillain": false,
@@ -43,6 +33,16 @@
     "James 'Jimmy'"
   ],
   "species": [
+  ],
+  "teams": [
+    "Future Foundation",
+    "Weapon X",
+    "The 198",
+    "Generation X",
+    "Daydreamers",
+    "X-Terminators",
+    "X-Factor",
+    "Morlocks"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1223/leech",

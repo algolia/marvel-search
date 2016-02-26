@@ -9,21 +9,11 @@
     "Blade: Vampire Hunter",
     "Blade: The Vampire Hunter"
   ],
-  "alliances": [
-    "Midnight Sons",
-    "The Mighty Avengers",
-    "Avengers of the Supernatural",
-    "Nightstalkers",
-    "MI-13",
-    "MI: 13",
-    "Vanguard",
-    "Mighty Avengers"
-  ],
   "authors": [
     "Marv Wolfman",
     "Gene Colan"
   ],
-  "description": "Blade is a fictional character, a superhero and vampire hunter in the Marvel Comics Universe. Created by writer Marv Wolfman and penciller Gene Colan, his first appearance was in the comic book The Tomb of Dracula #10 (July 1973) as a supporting character.The character went on to star and co-star in several comic book series as well as a Blade film series and television series. Actor Wesley Snipes portrayed the vampire hunter in the Blade film series while Kirk \"Sticky Fingaz\" Jones took on the role for the television series.",
+  "description": "Blade is a fictional character, a superhero and vampire hunter in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/523ca6f2b11e4/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -65,6 +55,16 @@
     "Eric Brooks"
   ],
   "species": [
+  ],
+  "teams": [
+    "Midnight Sons",
+    "The Mighty Avengers",
+    "Avengers of the Supernatural",
+    "Nightstalkers",
+    "MI-13",
+    "MI: 13",
+    "Vanguard",
+    "Mighty Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/295/blade",

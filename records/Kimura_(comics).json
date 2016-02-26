@@ -2,16 +2,12 @@
   "aliases": [
     "Kimura"
   ],
-  "alliances": [
-    "Weapon X",
-    "The Facility"
-  ],
   "authors": [
     "Christopher Yost",
     "Paco Medina",
     "Craig Kyle"
   ],
-  "description": "Kimura is a fictional character in the Marvel Comics Universe. She first appeared in New X-Men #31 as the handler of X-23. She is X-23's greatest foe to date, someone she was never able to defeat in many ways echoing Wolverine's relationship with Sabretooth.",
+  "description": "Kimura is a fictional character in the Marvel Comics Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/2/20/X23VOL2005.jpg",
   "isHero": false,
   "isVillain": false,
@@ -33,6 +29,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Weapon X",
+    "The Facility"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Kimura_(comics)"

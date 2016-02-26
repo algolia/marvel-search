@@ -3,14 +3,11 @@
     "Mellencamp",
     "Seamus Mellencamp"
   ],
-  "alliances": [
-    "Acolytes"
-  ],
   "authors": [
     "Scott Lobdell",
     "John Romita, Jr."
   ],
-  "description": "Seamus Mellencamp is a reptilian fictional character in Marvel Comics comic book Uncanny X-Men. He is a member of the supervillain group the Acolytes, who serve Magneto. He first appeared (named Seamus Melloncamp) in Uncanny X-Men #300, created by Scott Lobdell and John Romita, Jr..",
+  "description": "Seamus Mellencamp is a reptilian fictional character in Marvel Comics comic book Uncanny X-Men",
   "isHero": false,
   "isVillain": false,
   "name": "Mellencamp",
@@ -42,6 +39,9 @@
     "Seamus Mellencamp (sometimes spelled Melloncamp)"
   ],
   "species": [
+  ],
+  "teams": [
+    "Acolytes"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Seamus_Mellencamp"

@@ -3,9 +3,6 @@
     "High-Tech",
     "Chemistro"
   ],
-  "alliances": [
-    "Stark Industries"
-  ],
   "authors": [
     "Kurt Busiek",
     "Ernie Chan",
@@ -14,7 +11,7 @@
     "Steve Englehart",
     "George Tuska"
   ],
-  "description": "Three people have taken the moniker of the supervillain Chemistro in the fictional Marvel Comics universe.",
+  "description": "Three people have taken the moniker of the supervillain Chemistro in the fictional Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Chemistro",
@@ -44,6 +41,9 @@
     "Calvin Carr"
   ],
   "species": [
+  ],
+  "teams": [
+    "Stark Industries"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Chemistro"

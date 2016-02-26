@@ -5,18 +5,11 @@
     "Control",
     "Misty Knight"
   ],
-  "alliances": [
-    "Heroes for Hire",
-    "New York City Police Department",
-    "Nightwing Restorations Ltd",
-    "Daughters of the Dragon",
-    "New York Police Department"
-  ],
   "authors": [
     "Tony Isabella",
     "Arvell Jones"
   ],
-  "description": "Misty Knight is a fictional character in Marvel Comics' Marvel Universe.  She was first mentioned (by name) in Marvel Premiere #20 (January 1975) and appeared in the next issue. She appears frequently with Colleen Wing.",
+  "description": "Misty Knight is a fictional character in Marvel Comics' Marvel Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/511151789a863/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -50,6 +43,13 @@
     "Mercedes \"Misty\" Knight"
   ],
   "species": [
+  ],
+  "teams": [
+    "Heroes for Hire",
+    "New York City Police Department",
+    "Nightwing Restorations Ltd",
+    "Daughters of the Dragon",
+    "New York Police Department"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1010682/misty_knight",

@@ -2,14 +2,11 @@
   "aliases": [
     "Manta"
   ],
-  "alliances": [
-    "Imperial Guard"
-  ],
   "authors": [
     "Chris Claremont",
     "John Byrne"
   ],
-  "description": "Manta is a fictional character in Marvel Comics.",
+  "description": "Manta is a fictional character in Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4c003d5308145/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +29,9 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Imperial Guard"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1365/manta",

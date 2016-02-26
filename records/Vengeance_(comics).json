@@ -3,11 +3,6 @@
     "Ghost Rider",
     "Vengeance"
   ],
-  "alliances": [
-    "NYPD",
-    "Midnight Sons",
-    "New York Police Department"
-  ],
   "authors": [
     "Howard Mackie"
   ],
@@ -47,6 +42,11 @@
     "Lt. Michael Badilino / Deputy Kowalski"
   ],
   "species": [
+  ],
+  "teams": [
+    "NYPD",
+    "Midnight Sons",
+    "New York Police Department"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2476/vengeance",

@@ -3,11 +3,6 @@
     "Desert Ghost",
     "Controller X"
   ],
-  "alliances": [
-    "X-Men 2099",
-    "Lawless",
-    "Theatre of Pain"
-  ],
   "authors": [
     "John Francis Moore",
     "Ron Lim"
@@ -35,6 +30,11 @@
     "Xi'an Chi Xan"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men 2099",
+    "Lawless",
+    "Theatre of Pain"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Xi%27an_(comics)"

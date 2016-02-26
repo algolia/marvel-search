@@ -3,17 +3,11 @@
     "The Second Light",
     "Velocidad"
   ],
-  "alliances": [
-    "X-Men",
-    "Hope Summers",
-    "The Lights",
-    "Jean Grey School Students"
-  ],
   "authors": [
     "Kieron Gillen",
     "Matt Fraction"
   ],
-  "description": "Velocidad (Gabriel Cohuelo) is a fictional comic book superhero appearing in books published by Marvel Comics. The character first appeared in Uncanny X-Men #527, in the second chapter of the \"Five Lights\" storyline, and was created by Matt Fraction and Kieron Gillen. He is one of the \"Five Lights\"—a group of mutants who manifested their abilities after the events of \"Second Coming\".",
+  "description": "Velocidad (Gabriel Cohuelo) is a fictional comic book superhero appearing in books published by Marvel Comics",
   "isHero": true,
   "isVillain": false,
   "name": "Velocidad",
@@ -34,6 +28,12 @@
     "Gabriel Cohuelo"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "Hope Summers",
+    "The Lights",
+    "Jean Grey School Students"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Velocidad_(comics)"

@@ -3,13 +3,6 @@
     "Hybrid",
     "Hybrid (Scott Washington)"
   ],
-  "alliances": [
-    "New York City Police Department",
-    "New Warriors",
-    "Guardsman",
-    "Guardsmen",
-    "NYPD"
-  ],
   "authors": [
     "Scott Washington",
     "Fabian Nicieza",
@@ -18,7 +11,7 @@
     "Evan Skolnick",
     "Patrick Zircher"
   ],
-  "description": "Hybrid (real name Scott Washington) is a fictional anti-hero of the Marvel Universe. Scott Washington first appeared in The New Warriors #21 (March 1992) by writer Fabian Nicieza and penciller Mark Bagley. The symbiote first appeared in the back-up stories in the Venom: Along Came A Spider (1996) miniseries by writer Evan Skolnick and penciller Patrick Zircher.",
+  "description": "Hybrid (real name Scott Washington) is a fictional anti-hero of the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Hybrid",
@@ -40,6 +33,13 @@
     "Scott Washington"
   ],
   "species": [
+  ],
+  "teams": [
+    "New York City Police Department",
+    "New Warriors",
+    "Guardsman",
+    "Guardsmen",
+    "NYPD"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hybrid_(Scott_Washington)"

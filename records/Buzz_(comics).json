@@ -5,15 +5,11 @@
     "JJ",
     "Buzz"
   ],
-  "alliances": [
-    "Spider-Girl",
-    "New Warriors"
-  ],
   "authors": [
     "Ron Frenz",
     "Tom DeFalco"
   ],
-  "description": "The Buzz (Jack \"JJ\" Jameson) is a fictional character in the Spider-Girl comic book series, published by Marvel Comics. JJ is the grandson of J. Jonah Jameson and the son of John Jameson. His costume bears some similarities to Henry Pym's Yellowjacket suit.",
+  "description": "The Buzz (Jack \"JJ\" Jameson) is a fictional character in the Spider-Girl comic book series, published by Marvel Comics",
   "isHero": true,
   "isVillain": false,
   "name": "Buzz",
@@ -39,6 +35,10 @@
     "Jack Benjamin Jameson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Spider-Girl",
+    "New Warriors"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Buzz_(comics)"

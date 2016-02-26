@@ -3,13 +3,11 @@
     "None",
     "Polestar"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Mark Bagley",
     "Tom DeFalco"
   ],
-  "description": "Polestar is the name used by a pair of mercenaries and antagonists of Spider-Man, closely associated with the Great Game. The first is currently deceased.",
+  "description": "Polestar is the name used by a pair of mercenaries and antagonists of Spider-Man, closely associated with the Great Game",
   "isHero": false,
   "isVillain": false,
   "name": "Polestar",
@@ -36,6 +34,8 @@
     "Patrick Trettel (Polestar II)"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Polestar_(comics)"

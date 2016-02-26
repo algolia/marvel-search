@@ -1,10 +1,6 @@
 {
   "aliases": [
   ],
-  "alliances": [
-    "The Hand",
-    "FBI"
-  ],
   "authors": [
     "Brian Michael Bendis",
     "Alex Maleev"
@@ -38,6 +34,10 @@
     "Angela del Toro"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Hand",
+    "FBI"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2559/white_tiger",

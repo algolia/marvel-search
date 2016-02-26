@@ -3,15 +3,12 @@
     "The Hornet",
     "Hornet"
   ],
-  "alliances": [
-    "Slingers"
-  ],
   "authors": [
     "Todd DeZago",
     "Joseph Harris",
     "Mike Wieringo"
   ],
-  "description": "The Hornet is an identity used by three fictional characters in the Marvel Universe, one villain, and two heroes. Both the first and third Hornets have suffered from physical disabilities.",
+  "description": "The Hornet is an identity used by three fictional characters in the Marvel Universe, one villain, and two heroes",
   "isHero": false,
   "isVillain": false,
   "name": "Hornet",
@@ -37,6 +34,9 @@
     "Scotty McDowell"
   ],
   "species": [
+  ],
+  "teams": [
+    "Slingers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hornet_(comics)"

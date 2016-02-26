@@ -3,16 +3,13 @@
     "Mr. Dunn",
     "Masked Marauder"
   ],
-  "alliances": [
-    "Maggia"
-  ],
   "authors": [
     "Stan Lee",
     "Frank Giacoia",
     "John Romita",
     "Sr."
   ],
-  "description": "The Masked Marauder is a fictional comic book character owned by Marvel Comics and appearing in that company's Marvel Universe. He briefly served as the central villain of the Daredevil title.",
+  "description": "The Masked Marauder is a fictional comic book character owned by Marvel Comics and appearing in that company's Marvel Universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Daredevil_cover_-_number_17.jpg/250px-Daredevil_cover_-_number_17.jpg",
   "isHero": false,
   "isVillain": false,
@@ -37,6 +34,9 @@
     "Frank Farnum"
   ],
   "species": [
+  ],
+  "teams": [
+    "Maggia"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Masked_Marauder"

@@ -7,15 +7,11 @@
     "Kid Colt Outlaw",
     "Kid Colt"
   ],
-  "alliances": [
-    "Young Allies",
-    "The Sensational Seven"
-  ],
   "authors": [
     "Mark Bagley",
     "Fabian Nicieza"
   ],
-  "description": "Kid Colt is the name of two fictional characters in comic books published by Marvel Comics. The first is a cowboy whose adventures have taken place in numerous western themed comic book series published by Marvel. The second is a cowboy-themed horse-like superhero.",
+  "description": "Kid Colt is the name of two fictional characters in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Kid_Colt%2C_Outlaw1.jpg/200px-Kid_Colt%2C_Outlaw1.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +38,10 @@
     "Elric Freedom Whitemane"
   ],
   "species": [
+  ],
+  "teams": [
+    "Young Allies",
+    "The Sensational Seven"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1135/kid_colt",

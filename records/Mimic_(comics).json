@@ -3,20 +3,13 @@
     "Calvin Rankin",
     "Mimic"
   ],
-  "alliances": [
-    "X-Men",
-    "Brotherhood of Mutants",
-    "X-Mansion",
-    "Dark X-Men",
-    "Jean Grey School"
-  ],
   "authors": [
     "Stan Lee",
     "Mike McKone",
     "Judd Winick",
     "Werner Roth"
   ],
-  "description": "Mimic (Calvin Montgomery Rankin) is a Marvel Comics fictional character who was briefly a member of the X-Men in the 1960s. He was then the first character to be added to the team after the original line-up and the first X-Man who was not a mutant.An alternate reality version of Mimic became a popular member of the Exiles, the reality-hopping team.",
+  "description": "Mimic (Calvin Montgomery Rankin) is a Marvel Comics fictional character who was briefly a member of the X-Men in the 1960s",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Mimic%28comic%29.jpg/250px-Mimic%28comic%29.jpg",
   "isHero": false,
   "isVillain": false,
@@ -58,6 +51,13 @@
     "Calvin Montgomery Rankin"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "Brotherhood of Mutants",
+    "X-Mansion",
+    "Dark X-Men",
+    "Jean Grey School"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1460/mimic",

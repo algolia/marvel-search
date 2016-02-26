@@ -5,18 +5,12 @@
     "Spider-Girl",
     "Amazing Spider-Girl"
   ],
-  "alliances": [
-    "New Warriors",
-    "Fantastic Five",
-    "A-Next",
-    "Web Warriors"
-  ],
   "authors": [
     "Tom DeFalco",
     "Ron Frenz",
     "Mark Bagley"
   ],
-  "description": "Spider-Girl (May \"Mayday\" Parker) is a superheroine in Marvel Comics' MC2 universe. The character was created by Tom DeFalco and Ron Frenz as the teenage daughter of Peter Parker (Spider-Man) and Mary Jane Watson, and first appeared in What If (vol. 2) #105 (February 1998). She later acquired her own ongoing comic book, Spider-Girl, written by DeFalco and drawn by Frenz and Pat Olliffe, which was the longest-running superhero book with a lead female character ever published by Marvel before being relaunched as The Amazing Spider-Girl, and later The Spectacular Spider-Girl. Peter and Mary Jane named their daughter after his Aunt May.",
+  "description": "Spider-Girl (May \"Mayday\" Parker) is a superheroine in Marvel Comics' MC2 universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/528d369de3e4f/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -52,6 +46,12 @@
     "May \"Mayday\" Parker"
   ],
   "species": [
+  ],
+  "teams": [
+    "New Warriors",
+    "Fantastic Five",
+    "A-Next",
+    "Web Warriors"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2171/spider-girl",

@@ -4,18 +4,13 @@
     "Living+Laser",
     "Living Laser"
   ],
-  "alliances": [
-    "Legion Accursed",
-    "Mandarin's Minions",
-    "Lethal Legion"
-  ],
   "authors": [
     "Don Heck",
     "Stan Lee",
     "Artie Simek",
     "Art Simek"
   ],
-  "description": "The Living Laser is a fictional character, a supervillain that appears in comic books published by Marvel Comics.  The character first appeared in Avengers #34 (Nov. 1966) and was created by Stan Lee, Artie Simek and Don Heck.",
+  "description": "The Living Laser is a fictional character, a supervillain that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Ironman211livinglaser.jpg/250px-Ironman211livinglaser.jpg",
   "isHero": false,
   "isVillain": true,
@@ -46,6 +41,11 @@
     "Arthur Parks"
   ],
   "species": [
+  ],
+  "teams": [
+    "Legion Accursed",
+    "Mandarin's Minions",
+    "Lethal Legion"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Living_Laser"

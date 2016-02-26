@@ -3,14 +3,11 @@
     "Sir Waltham Pierce",
     "Jacob Shaw"
   ],
-  "alliances": [
-    "Hellfire Club"
-  ],
   "authors": [
     "Ben Raab",
     "Charlie Adlard"
   ],
-  "description": "Jacob Shaw is a fictional character in Marvel Comics, created by Ben Raab and Charlie Adlard. He is the father of Sebastian Shaw (the Black King of the Hellfire Club and enemy of the X-Men). He is a human mutate and a member of the Hellfire Club.",
+  "description": "Jacob Shaw is a fictional character in Marvel Comics, created by Ben Raab and Charlie Adlard",
   "isHero": false,
   "isVillain": false,
   "name": "Jacob Shaw",
@@ -31,6 +28,9 @@
     "Jacob Shaw"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellfire Club"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Jacob_Shaw_(comics)"

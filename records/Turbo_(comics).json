@@ -4,11 +4,6 @@
     "Turbo",
     "(I)''' Torpedo Sue"
   ],
-  "alliances": [
-    "Avengers Academy",
-    "Loners",
-    "New Warriors"
-  ],
   "authors": [
     "James Brock",
     "Evan Skolnick",
@@ -42,6 +37,11 @@
     "(II)''' Michael Brent \"Mike\" Jeffries"
   ],
   "species": [
+  ],
+  "teams": [
+    "Avengers Academy",
+    "Loners",
+    "New Warriors"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2417/turbo",

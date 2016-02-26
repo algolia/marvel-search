@@ -5,11 +5,6 @@
     "Great Vulcan",
     "Vulcan"
   ],
-  "alliances": [
-    "X-Men",
-    "Shi'ar",
-    "Shi'ar Imperium"
-  ],
   "authors": [
     "Ed Brubaker",
     "Trevor Hairsine"
@@ -49,6 +44,11 @@
     "Gabriel Summers"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "Shi'ar",
+    "Shi'ar Imperium"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011011/vulcan_gabriel_summers",

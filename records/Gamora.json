@@ -4,18 +4,10 @@
     "Bambi Long",
     "Gamora"
   ],
-  "alliances": [
-    "Infinity Watch",
-    "Guardians of the Galaxy (2008 team)",
-    "Annihilation",
-    "Phalanx",
-    "Guardians of the Galaxy",
-    "United Front"
-  ],
   "authors": [
     "Jim Starlin"
   ],
-  "description": "Gamora is a fictional character, an antiheroine that appears in comic books published by Marvel Comics. Created by Jim Starlin, the character first appeared in Strange Tales #180 (June 1975). Gamora is the adopted daughter of the supervillain Thanos, and the last of her species. Her powers include superhuman strength and agility and an accelerated healing factor. She has appeared as the occasional love interest of the superheroes Adam Warlock and Nova, and a member of the group known as the Infinity Watch.The character played a role in the 2007 crossover comic book event Annihilation: Conquest, and became a member of the titular team in its spin-off comic, Guardians of the Galaxy. She has been featured in a variety of associated Marvel merchandise. Zoe Saldana plays the character in the 2014 live-action film Guardians of the Galaxy.",
+  "description": "Gamora is a fictional character, an antiheroine that appears in comic books published by Marvel Comics",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/526032a2cce62/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -44,6 +36,14 @@
     "Gamora"
   ],
   "species": [
+  ],
+  "teams": [
+    "Infinity Watch",
+    "Guardians of the Galaxy (2008 team)",
+    "Annihilation",
+    "Phalanx",
+    "Guardians of the Galaxy",
+    "United Front"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/20/gamora",

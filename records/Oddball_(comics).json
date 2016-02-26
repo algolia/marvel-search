@@ -2,14 +2,10 @@
   "aliases": [
     "Oddball"
   ],
-  "alliances": [
-    "Masters of Evil",
-    "Death-Throws"
-  ],
   "authors": [
     "Mark Gruenwald"
   ],
-  "description": "Oddball is the name of two supervillains in Marvel Comics.",
+  "description": "Oddball is the name of two supervillains in Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Oddball.jpg",
   "isHero": false,
   "isVillain": false,
@@ -32,6 +28,10 @@
     "Elton Healey"
   ],
   "species": [
+  ],
+  "teams": [
+    "Masters of Evil",
+    "Death-Throws"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Oddball_(comics)"

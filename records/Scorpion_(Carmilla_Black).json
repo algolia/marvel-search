@@ -3,10 +3,6 @@
     "Scorpion",
     "Scorpion (Carmilla Black)"
   ],
-  "alliances": [
-    "S.H.I.E.L.D.",
-    "Hydra"
-  ],
   "authors": [
     "Fred Van Lente",
     "Leonard Kirk"
@@ -38,6 +34,10 @@
     "Carmilla Black (born Thasanee Rappaccini)"
   ],
   "species": [
+  ],
+  "teams": [
+    "S.H.I.E.L.D.",
+    "Hydra"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2028/scorpion",

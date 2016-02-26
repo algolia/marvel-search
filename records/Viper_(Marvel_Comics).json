@@ -3,10 +3,6 @@
     "Jordan Dixon",
     "Viper"
   ],
-  "alliances": [
-    "Serpent Squad",
-    "Secret Empire"
-  ],
   "authors": [
     "John Verpoorten",
     "Steve Gerber",
@@ -43,6 +39,10 @@
     "Jordan Stryke"
   ],
   "species": [
+  ],
+  "teams": [
+    "Serpent Squad",
+    "Secret Empire"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2495/viper",

@@ -3,21 +3,11 @@
     "Lucas Bishop",
     "Bishop"
   ],
-  "alliances": [
-    "X-Men",
-    "O*N*E",
-    "Xavier's Security Enforcers",
-    "Interpol",
-    "The Twelve",
-    "X-Treme Sanctions Executive",
-    "NYPD",
-    "X-Treme X-Men"
-  ],
   "authors": [
     "Whilce Portacio",
     "Jim Lee"
   ],
-  "description": "Bishop (Lucas Bishop) is a fictional comic book superhero, appearing in books published by Marvel Comics, in particular the X-Men family of books.Bishop was a member of Xavier's Security Enforcers (initially called the Xavier School Enforcers), a mutant police force from a dystopian future of the Marvel Universe.  He traveled to the 20th century and joined the X-Men, a team he knew only as legends.  A brash antihero, he had difficulty adjusting to the norms of the time period. After a decade and a half of acting as a member of the team, Bishop was instead portrayed as one of the X-Men's main antagonists.Bishop made frequent appearances in the X-Men animated series of the 1990s. Bishop is portrayed by Omar Sy in the 2014 film X-Men: Days of Future Past.",
+  "description": "Bishop (Lucas Bishop) is a fictional comic book superhero, appearing in books published by Marvel Comics, in particular the X-Men family of books",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/52602f4b42d98/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +32,16 @@
     "Lucas \"Luke\" Bishop"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "O*N*E",
+    "Xavier's Security Enforcers",
+    "Interpol",
+    "The Twelve",
+    "X-Treme Sanctions Executive",
+    "NYPD",
+    "X-Treme X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/264/bishop",

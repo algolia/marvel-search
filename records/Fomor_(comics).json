@@ -4,13 +4,11 @@
     "The Formore",
     "Fomor"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Steven Grant",
     "Greg LaRocque"
   ],
-  "description": "The Fomor, also known as Fomore or Fomorians, are fictional characters in the Marvel Universe. They are loosely based on the Fomorians of Celtic mythology.The Fomor are a race of extra-dimensional beings. They have the ability to tap into and manipulate mystical and elemental powers, and many have superhuman strength and endurance.",
+  "description": "The Fomor, also known as Fomore or Fomorians, are fictional characters in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Formore",
@@ -29,6 +27,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Fomor_(comics)"

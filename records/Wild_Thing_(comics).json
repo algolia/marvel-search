@@ -2,14 +2,11 @@
   "aliases": [
     "Wild Thing"
   ],
-  "alliances": [
-    "X-People"
-  ],
   "authors": [
     "Tom DeFalco",
     "Ron Lim"
   ],
-  "description": "Wild Thing (Rina Logan) is a fictional character from Marvel Comics, who exists in the MC2 universe, an alternate future to the Marvel Universe. She is the daughter of the X-Men's Wolverine and the rogue mercenary Elektra.  She first appeared in J2 #5 and was created by Tom DeFalco and Ron Lim.An unrelated character named Wild Thing (Nikki Doyle), who fought crime in a future virtual reality world, had her own brief series under the Marvel UK imprint in 1993.",
+  "description": "Wild Thing (Rina Logan) is a fictional character from Marvel Comics, who exists in the MC2 universe, an alternate future to the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Wild Thing",
@@ -44,6 +41,9 @@
     "Rina Logan"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-People"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Wild_Thing_(comics)"

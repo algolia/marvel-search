@@ -7,13 +7,11 @@
     "Shakespeare",
     "Typeface"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Paul Jenkins",
     "Mark Buckingham"
   ],
-  "description": "Typeface (Gordon Thomas) was a Marvel Comics antihero. He first appeared in Peter Parker: Spider-Man vol. 2 #23 (November 2000), and was created by Paul Jenkins and Mark Buckingham.",
+  "description": "Typeface (Gordon Thomas) was a Marvel Comics antihero",
   "isHero": false,
   "isVillain": false,
   "name": "Typeface",
@@ -36,6 +34,8 @@
     "Gordon Thomas"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Typeface_(comics)"

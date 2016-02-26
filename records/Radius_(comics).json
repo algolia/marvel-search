@@ -2,20 +2,12 @@
   "aliases": [
     "Radius"
   ],
-  "alliances": [
-    "Hellhouse",
-    "Features of the Marvel Universe",
-    "Beta Flight",
-    "X-Corps",
-    "Alpha Flight",
-    "Department H"
-  ],
   "authors": [
     "Steven T. Seagle",
     "Scott Clark",
     "Steven Seagle"
   ],
-  "description": "Radius (Jared Corbo) is a fictional character, a superhero in the Marvel Comics universe. He is a former member of the superhero team Alpha Flight. He first appeared in Alpha Flight: In The Beginning #-1, and first appeared as Radius in Alpha Flight vol. 2 #1 (both published in 1998).",
+  "description": "Radius (Jared Corbo) is a fictional character, a superhero in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Radius",
@@ -36,6 +28,14 @@
     "Jared Corbo"
   ],
   "species": [
+  ],
+  "teams": [
+    "Hellhouse",
+    "Features of the Marvel Universe",
+    "Beta Flight",
+    "X-Corps",
+    "Alpha Flight",
+    "Department H"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Radius_(comics)"

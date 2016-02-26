@@ -3,13 +3,6 @@
     "Guardian",
     "Vindicator"
   ],
-  "alliances": [
-    "Alpha Prime",
-    "Features of the Marvel Universe",
-    "Alpha Flight",
-    "Alpha Strike",
-    "Department H"
-  ],
   "authors": [
     "John Byrne",
     "Chris Claremont"
@@ -38,6 +31,13 @@
     "Heather MacNeil Hudson"
   ],
   "species": [
+  ],
+  "teams": [
+    "Alpha Prime",
+    "Features of the Marvel Universe",
+    "Alpha Flight",
+    "Alpha Strike",
+    "Department H"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2493/vindicator",

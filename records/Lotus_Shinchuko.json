@@ -2,14 +2,11 @@
   "aliases": [
     "Lotus Shinchuko"
   ],
-  "alliances": [
-    "Sons of the Tiger"
-  ],
   "authors": [
     "Bill Mantlo",
     "George Pérez"
   ],
-  "description": "Lotus Shinchuko is a fictional character in the Marvel Universe.",
+  "description": "Lotus Shinchuko is a fictional character in the Marvel Universe",
   "isHero": false,
   "isVillain": false,
   "name": "Lotus Shinchuko",
@@ -29,6 +26,9 @@
     "Lotus Shinchuko"
   ],
   "species": [
+  ],
+  "teams": [
+    "Sons of the Tiger"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Lotus_Shinchuko"

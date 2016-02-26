@@ -5,14 +5,11 @@
     "Mikaboshi",
     "Amatsu-Mikaboshi"
   ],
-  "alliances": [
-    "God Squad"
-  ],
   "authors": [
     "Scott Kolins",
     "Michael Avon Oeming"
   ],
-  "description": "Amatsu-Mikaboshi  is a fictional character in the Marvel Comics Universe, a supervillain and demonic god of evil who is best known as an enemy of Hercules and Thor. He is based on the Mikaboshi of Japanese mythology and the gods of Japan known as Kami.",
+  "description": "Amatsu-Mikaboshi  is a fictional character in the Marvel Comics Universe, a supervillain and demonic god of evil who is best known as an enemy of Hercules and Thor",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Mikaboshi2.jpg/200px-Mikaboshi2.jpg",
   "isHero": false,
   "isVillain": false,
@@ -45,6 +42,9 @@
     "Amatsu-Mikaboshi"
   ],
   "species": [
+  ],
+  "teams": [
+    "God Squad"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Amatsu-Mikaboshi_(comics)"

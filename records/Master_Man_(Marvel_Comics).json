@@ -2,9 +2,6 @@
   "aliases": [
     "Master Man"
   ],
-  "alliances": [
-    "Super-Axis"
-  ],
   "authors": [
     "Frank Robbins",
     "John Byrne",
@@ -12,7 +9,7 @@
     "Roy Thomas",
     "Steve Epting"
   ],
-  "description": "Master Man is the name of three fictional characters that appear in comic books published by Marvel Comics. The original Master Man (Wilhelm Lohmer) first appears in the title Giant-Size Invaders #1 (June 1975) and was created by Roy Thomas and Frank Robbins. The second version (Axl Nacht), first appears in Namor the Sub-Mariner #11  (Feb. 1991) and was created by John Byrne, and a third version (Max Lohmer) debuts in Captain America #18 (July, 2006) by Ed Brubaker and Steve Epting.",
+  "description": "Master Man is the name of three fictional characters that appear in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Invaders-16.jpg/250px-Invaders-16.jpg",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +40,9 @@
     "(III)Max Lohmer"
   ],
   "species": [
+  ],
+  "teams": [
+    "Super-Axis"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Master_Man_(Marvel_Comics)"

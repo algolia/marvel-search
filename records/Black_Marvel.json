@@ -2,12 +2,9 @@
   "aliases": [
     "Black Marvel"
   ],
-  "alliances": [
-    "Slingers"
-  ],
   "authors": [
   ],
-  "description": "The Black Marvel (Daniel Lyons) is a fictional comic book superhero in the Marvel Comics universe. Created by artist Al Gabriele with an unknown writer, he first appeared in Mystic Comics #5 (March 1941), published by Marvel's 1940s forerunner Timely Comics during the period fans and historians call the Golden Age of comic books.",
+  "description": "The Black Marvel (Daniel Lyons) is a fictional comic book superhero in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/MysticComics5.jpg/220px-MysticComics5.jpg",
   "isHero": false,
   "isVillain": false,
@@ -30,6 +27,9 @@
     "Dan Lyons"
   ],
   "species": [
+  ],
+  "teams": [
+    "Slingers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Marvel"

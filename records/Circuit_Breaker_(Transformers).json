@@ -5,16 +5,10 @@
     "Circuit Breaker",
     "Circuit Breaker (Transformers)"
   ],
-  "alliances": [
-    "The Transformers",
-    "Neo-Knights",
-    "Rapid Anti-Robot Attack Team",
-    "G.B. Blackrock"
-  ],
   "authors": [
     "Marvel Comics"
   ],
-  "description": "Circuit Breaker (also known as Circuit-Smasher and the Emulator) is a fictional comic book character originally from the 1980s Marvel Comics Transformers series.",
+  "description": "Circuit Breaker (also known as Circuit-Smasher and the Emulator) is a fictional comic book character originally from the 1980s Marvel Comics Transformers series",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Circuitbreaker-autobots.jpg/200px-Circuitbreaker-autobots.jpg",
   "isHero": false,
   "isVillain": false,
@@ -42,6 +36,12 @@
     "Josephine \"Josie\" Beller"
   ],
   "species": [
+  ],
+  "teams": [
+    "The Transformers",
+    "Neo-Knights",
+    "Rapid Anti-Robot Attack Team",
+    "G.B. Blackrock"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Circuit_Breaker_(Transformers)"

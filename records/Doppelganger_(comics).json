@@ -3,15 +3,13 @@
     "Spider-Doppelganger",
     "Doppelganger"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Jim StarlinRon LimAl Milgrom",
     "Jim Starlin",
     "Ron Lim",
     "Al Milgrom"
   ],
-  "description": "The Doppelganger, also called the Spider-Doppelganger, is a fictional character and supervillain in the Marvel Comics universe. It first appeared in The Infinity War #1.",
+  "description": "The Doppelganger, also called the Spider-Doppelganger, is a fictional character and supervillain in the Marvel Comics universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Spiderdoppelganger.png",
   "isHero": false,
   "isVillain": false,
@@ -43,6 +41,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Doppelganger_(comics)"

@@ -2,14 +2,10 @@
   "aliases": [
     "Moon-Boy"
   ],
-  "alliances": [
-    "Fallen Angels",
-    "Circus of Crime"
-  ],
   "authors": [
     "Jack Kirby"
   ],
-  "description": "Moon-Boy is a Marvel Comics character who resembles a small, furry humanoid. He is best known as the constant companion of the red tyrannosaurus-like creature known as Devil Dinosaur.",
+  "description": "Moon-Boy is a Marvel Comics character who resembles a small, furry humanoid",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/DevilDinosaurandMoonBoy.jpg/250px-DevilDinosaurandMoonBoy.jpg",
   "isHero": false,
   "isVillain": false,
@@ -29,6 +25,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Fallen Angels",
+    "Circus of Crime"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Moon-Boy"

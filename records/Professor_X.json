@@ -12,26 +12,11 @@
     "Doctor X",
     "Prisoner M-13"
   ],
-  "alliances": [
-    "Skrull",
-    "Apocalypse: The Twelve",
-    "Defenders",
-    "X-Men",
-    "Illuminati",
-    "Brotherhood of Mutants",
-    "Excalibur",
-    "Shi'ar",
-    "Starjammers",
-    "Genoshan Excalibur",
-    "Cadre K",
-    "Shi'ar Imperium",
-    "The Twelve"
-  ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Professor Charles Francis Xavier, M.D., Ph.D. (also known as Professor X) is a fictional character, a superhero that appears in comic books published by Marvel Comics. He is known as the leader and founder of the X-Men. Throughout most of his comic book history, Xavier is paraplegic, although his body houses one of the world's most powerful mutant minds. As a high-level telepath, Xavier can read, control, and influence human minds. A scientific genius, he is also a leading authority on genetics, mutation, and psionic powers. Xavier resents the violent methods of the supervillain Magneto and argues for a pacifistic path towards civil rights. Xavier's actions and goals in life are often compared to those of Martin Luther King, Jr. for his involvement with the American civil rights struggle, whereas Magneto is often compared with the more militant civil rights activist Malcolm X.Sir Patrick Stewart portrayed the character in five films of the X-Men film series and in various video games, while James McAvoy portrayed a younger version of the character in the 2011 prequel X-Men: First Class, with both actors reprising the role in the film X-Men: Days of Future Past.",
+  "description": "Professor Charles Francis Xavier, M",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/528d3378de525/standard_xlarge.jpg",
   "isHero": false,
   "isVillain": false,
@@ -68,6 +53,21 @@
     "Charles Francis Xavier"
   ],
   "species": [
+  ],
+  "teams": [
+    "Skrull",
+    "Apocalypse: The Twelve",
+    "Defenders",
+    "X-Men",
+    "Illuminati",
+    "Brotherhood of Mutants",
+    "Excalibur",
+    "Shi'ar",
+    "Starjammers",
+    "Genoshan Excalibur",
+    "Cadre K",
+    "Shi'ar Imperium",
+    "The Twelve"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009504/professor_x",

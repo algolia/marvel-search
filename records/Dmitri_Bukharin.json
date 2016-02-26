@@ -8,18 +8,11 @@
     "Bukharin",
     "Dmitri"
   ],
-  "alliances": [
-    "KGB",
-    "Soviet Super-Soldiers",
-    "Legion Accursed",
-    "Supreme Soviets",
-    "Supreme Soviets/People's Protectorate"
-  ],
   "authors": [
     "Bill Mantlo",
     "Carmine Infantino"
   ],
-  "description": "Dmitri Bukharin, also known as the Crimson Dynamo and Airstrike, is a fictional character in the Marvel Comics Universe.While he was not the first or last character to go by the Crimson Dynamo name, he spent the longest time using the identity and armor.",
+  "description": "Dmitri Bukharin, also known as the Crimson Dynamo and Airstrike, is a fictional character in the Marvel Comics Universe",
   "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5239c1307d9c9/standard_xlarge.jpg",
   "isHero": true,
   "isVillain": false,
@@ -48,6 +41,13 @@
     "Dmitri Bukharin"
   ],
   "species": [
+  ],
+  "teams": [
+    "KGB",
+    "Soviet Super-Soldiers",
+    "Legion Accursed",
+    "Supreme Soviets",
+    "Supreme Soviets/People's Protectorate"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2697/crimson_dynamo",

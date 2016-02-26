@@ -3,15 +3,11 @@
     "Master of the Fundamental Force",
     "Graviton"
   ],
-  "alliances": [
-    "Advanced Idea Mechanics",
-    "A.I.M."
-  ],
   "authors": [
     "Jim Shooter",
     "Sal Buscema"
   ],
-  "description": "Graviton (Franklin Hall) is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
+  "description": "Graviton (Franklin Hall) is a fictional character, a supervillain that appears in comic books published by Marvel Comics",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Thunderbolts_17_cvr.jpg/250px-Thunderbolts_17_cvr.jpg",
   "isHero": false,
   "isVillain": false,
@@ -34,6 +30,10 @@
     "Franklin Hall"
   ],
   "species": [
+  ],
+  "teams": [
+    "Advanced Idea Mechanics",
+    "A.I.M."
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Graviton_(comics)"

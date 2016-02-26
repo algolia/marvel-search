@@ -6,15 +6,11 @@
     "Kate Power",
     "Katie Power"
   ],
-  "alliances": [
-    "Power Pack",
-    "X-Men"
-  ],
   "authors": [
     "Louise Simonson",
     "June Brigman"
   ],
-  "description": "Energizer (Kate Margaret \"Katie\" Power), is a fictional character in Marvel Comics' universe. She first appeared in Power Pack #1 and was created by Louise Simonson and June Brigman.",
+  "description": "Energizer (Kate Margaret \"Katie\" Power), is a fictional character in Marvel Comics' universe",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Ktpower2005.jpg/200px-Ktpower2005.jpg",
   "isHero": false,
   "isVillain": false,
@@ -45,6 +41,10 @@
     "Kate Margaret Power"
   ],
   "species": [
+  ],
+  "teams": [
+    "Power Pack",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/620/energizer",

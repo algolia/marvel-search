@@ -4,13 +4,11 @@
     "Kearson Z. DeWitt",
     "Kearson DeWitt"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Len Kaminski",
     "Gene Colan"
   ],
-  "description": "Kearson DeWitt is a Marvel Comics supervillain (mostly of Iron Man). He first appeared in Iron Man Annual #13. Kearson DeWitt was created by Gene Colan and Len Kaminski.",
+  "description": "Kearson DeWitt is a Marvel Comics supervillain (mostly of Iron Man)",
   "isHero": false,
   "isVillain": false,
   "name": "Overlord",
@@ -30,6 +28,8 @@
     "Kearson DeWitt"
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1679/overlord",

@@ -2,10 +2,6 @@
   "aliases": [
     "Mar-Vell"
   ],
-  "alliances": [
-    "Church of Hala",
-    "Skrull Empire"
-  ],
   "authors": [
     "Paul Jenkins",
     "Tom Raney"
@@ -35,6 +31,10 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
+    "Church of Hala",
+    "Skrull Empire"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/9/captain_marvel",

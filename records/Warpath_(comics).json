@@ -4,13 +4,6 @@
     "Running Sun",
     "Warpath"
   ],
-  "alliances": [
-    "X-Men",
-    "X-Corporation",
-    "Hellions",
-    "New Mutants",
-    "X-Force"
-  ],
   "authors": [
     "Chris Claremont",
     "Sal Buscema"
@@ -54,6 +47,13 @@
     "James Jonathan Proudstar"
   ],
   "species": [
+  ],
+  "teams": [
+    "X-Men",
+    "X-Corporation",
+    "Hellions",
+    "New Mutants",
+    "X-Force"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2527/warpath",

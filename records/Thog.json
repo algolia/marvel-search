@@ -3,13 +3,11 @@
     "Thog the Nether-Spawn, Overmaster of Sominus",
     "Thog"
   ],
-  "alliances": [
-  ],
   "authors": [
     "Steve Gerber",
     "Rich Buckler"
   ],
-  "description": "Thog the Nether-Spawn, Overmaster of Sominus is a fictional character appearing in the Marvel Comics universe.  He is a demon from the extra-dimensional world of Sominus who has clashed with the Man-Thing.",
+  "description": "Thog the Nether-Spawn, Overmaster of Sominus is a fictional character appearing in the Marvel Comics universe",
   "isHero": false,
   "isVillain": false,
   "name": "Thog",
@@ -30,6 +28,8 @@
   "secretIdentities": [
   ],
   "species": [
+  ],
+  "teams": [
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Thog"
