@@ -293,6 +293,7 @@ describe('HelperDBPedia', () => {
       let input = [
         'Plain list |*',
         'Foo',
+        'Plainlist|',
         'Bar',
         'Baz'
       ];
