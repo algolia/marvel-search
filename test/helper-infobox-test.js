@@ -277,6 +277,9 @@ describe('HelperDBPedia', () => {
         '&',
         '?',
         'Bar',
+        ')',
+        '"',
+        'The',
         'and',
         'Baz'
       ];
@@ -313,6 +316,22 @@ describe('HelperDBPedia', () => {
         'In armor:',
         'Bar',
         'Before 1998:',
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should remove words cut in the middle', () => {
+      // Given
+      let input = [
+        'Foo',
+        '-sense',
+        'Bar',
         'Baz'
       ];
 
@@ -692,6 +711,19 @@ describe('HelperDBPedia', () => {
       // Then
       expect(actual).toEqual(['Peter Parker']);
     });
+
+    it('should split complex values', () => {
+      // Given
+      let input = {
+        alter_ego: '- Kevin "Keen" Marlow<br> - Brian Falsworth'
+      };
+
+      // When
+      let actual = Helper.getSecretIdentities(input);
+
+      // Then
+      expect(actual).toEqual(['Kevin "Keen" Marlow', 'Brian Falsworth']);
+    });
   });
 
   describe('getAuthors', () => {
@@ -795,6 +827,30 @@ describe('HelperDBPedia', () => {
 
       // Then
       expect(actual).toEqual(['Stan Lee', 'Don Rico']);
+    });
+
+    it('should remove values with unbalanced parenthesis', () => {
+      // Given
+      let input = {
+        creators: [
+          'Stan Lee (keep me)',
+          '(Marvel',
+          'Marvel)',
+          '(Marvel<br>',
+          'Marvel)<br>',
+          'something (and',
+          'some other thing) here',
+          "'''(Marvel'''",
+          "'''Marvel)'''",
+          'Don Rico'
+        ]
+      };
+
+      // When
+      let actual = Helper.getAuthors(input);
+
+      // Then
+      expect(actual).toEqual(['Stan Lee (keep me)', 'Don Rico']);
     });
 
     it('should remove unknown authors (?)', () => {

@@ -295,7 +295,8 @@ describe('HelperConsolidate', () => {
       let input = {
         dbpediaData: {
           powers: [
-            'Teleportation'
+            'Teleportation',
+            'Transform into'
           ]
         },
         infoboxData: {
