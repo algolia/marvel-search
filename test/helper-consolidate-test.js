@@ -265,5 +265,27 @@ describe('HelperConsolidate', () => {
       // Then
       expect(actual.powers.length).toEqual(1);
     });
+
+    it('should merge species', () => {
+      // Given
+      let input = {
+        dbpediaData: {
+          species: [
+            'Mutant'
+          ]
+        },
+        infoboxData: {
+          species: [
+            'Human'
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.merge(input);
+
+      // Then
+      expect(actual.species).toEqual(['Mutant', 'Human']);
+    });
   });
 });
