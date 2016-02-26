@@ -140,6 +140,17 @@ describe('HelperString', () => {
       expect(actual).toEqual('Part of A.C.M.E Inc. Corp.');
     });
 
+    it('should work with St..', () => {
+      // Given
+      let input = 'Monet St. Croix was born in Sarajevo. She is an X-Man.';
+
+      // When
+      let actual = Helper.firstSentence(input);
+
+      // Then
+      expect(actual).toEqual('Monet St. Croix was born in Sarajevo.');
+    });
+
     it('should return null if no input', () => {
       // Given
       let input = null;
