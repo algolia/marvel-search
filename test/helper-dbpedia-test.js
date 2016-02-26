@@ -468,6 +468,21 @@ describe('HelperDBPedia', () => {
       expect(actual).toEqual(['John Romita, Jr.']);
     });
 
+    it('should handle John Romita, Sr.', () => {
+      // Given
+      let input = {
+        property: {
+          creators: 'John Romita, Sr.'
+        }
+      };
+
+      // When
+      let actual = Helper.getAuthors(input);
+
+      // Then
+      expect(actual).toEqual(['John Romita, Sr.']);
+    });
+
     it('should remove (writer) from names', () => {
       // Given
       let input = {
