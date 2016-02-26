@@ -18,6 +18,10 @@ let Marvel = {
     this.search.start();
   },
   transformItem(data) {
+    // Add a default image if none exists
+    if (!data.image) {
+      data.image = './default.jpg';
+    }
     return data;
   },
   getHighlightedValue(object, property) {
