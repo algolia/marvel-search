@@ -122,6 +122,7 @@ var Marvel = {
     if (!data.image) {
       data.image = './default.jpg';
     }
+    data.image = data.image.replace(/^https?:/, '');
     return data;
   },
   getHighlightedValue: function getHighlightedValue(object, property) {
