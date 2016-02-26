@@ -24,9 +24,8 @@
     "pageviews": "./scripts/download-pageviews",
     "marvel": "./scripts/download-marvel",
     "consolidate": "./scripts/consolidate",
-
+    "push": "./scripts/push",
     "build": "./scripts/build",
-    "push": "babel-node ./scripts/push.js",
     "cloudinary": "babel-node ./scripts/cloudinary.js",
     "lint": "eslint ./scripts/*.js",
     "test": "BABEL_ENV=test mocha --reporter dot ./test/helpers.js ./test/*-test.js",
@@ -35,7 +34,7 @@
     "deploy": "./scripts/gh-pages"
   },
   "devDependencies": {
-    "algoliasearch": "^3.10.2",
+    "algoliasearch": "^3.13.0",
     "async": "^1.5.0",
     "babel": "^5.8.29",
     "babel-core": "^5.8.29",

@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+babel-node ./lib/push.js
