@@ -24,6 +24,9 @@ let Marvel = {
       data.image = './default.jpg';
     }
     data.image = data.image.replace(/^https?:/, '');
+
+    data.description = Marvel.getHighlightedValue(data, 'description');
+    data.name = Marvel.getHighlightedValue(data, 'name');
     return data;
   },
   getHighlightedValue(object, property) {
