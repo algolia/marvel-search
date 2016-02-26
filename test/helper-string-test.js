@@ -140,7 +140,7 @@ describe('HelperString', () => {
       expect(actual).toEqual('Part of A.C.M.E Inc. Corp.');
     });
 
-    it('should work with St..', () => {
+    it('should work with St.', () => {
       // Given
       let input = 'Monet St. Croix was born in Sarajevo. She is an X-Man.';
 
@@ -149,6 +149,17 @@ describe('HelperString', () => {
 
       // Then
       expect(actual).toEqual('Monet St. Croix was born in Sarajevo.');
+    });
+
+    it('should work with P.', () => {
+      // Given
+      let input = 'Pretty Persuasions (Heidi P. Franklin) is a fictional character. For real.';
+
+      // When
+      let actual = Helper.firstSentence(input);
+
+      // Then
+      expect(actual).toEqual('Pretty Persuasions (Heidi P. Franklin) is a fictional character.');
     });
 
     it('should return null if no input', () => {

@@ -3,7 +3,8 @@ let Marvel = {
     this.search = instantsearch({
       appId: 'O3F8QXYK6R',
       apiKey: '78e45b023b7ff7d8ba88c59c9db19890',
-      indexName: 'marvel'
+      indexName: 'marvel',
+      urlSync: true
     });
 
     this.addSearchBoxWidget();
