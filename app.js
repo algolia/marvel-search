@@ -102,8 +102,7 @@ var Marvel = {
     this.search = instantsearch({
       appId: 'O3F8QXYK6R',
       apiKey: '78e45b023b7ff7d8ba88c59c9db19890',
-      indexName: 'marvel',
-      urlSync: true
+      indexName: 'marvel'
     });
 
     this.addSearchBoxWidget();
@@ -123,6 +122,9 @@ var Marvel = {
       data.image = './default.jpg';
     }
     data.image = data.image.replace(/^https?:/, '');
+
+    data.description = Marvel.getHighlightedValue(data, 'description');
+    data.name = Marvel.getHighlightedValue(data, 'name');
     return data;
   },
   getHighlightedValue: function getHighlightedValue(object, property) {
