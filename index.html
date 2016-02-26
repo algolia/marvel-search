@@ -35,10 +35,10 @@
         <div id="teams" class="facet"></div>
         <h3 class="facet--title">Powers</h3>
         <div id="powers" class="facet"></div>
-        <h3 class="facet--title">Race</h3>
+        <h3 class="facet--title">Species</h3>
         <div id="species" class="facet"></div>
-        <h3 class="facet--title">Creators</h3>
-        <div id="creators" class="facet"></div>
+        <h3 class="facet--title">Authors</h3>
+        <div id="authors" class="facet"></div>
       </section>
       <div class="thank-you">Data from <a href="https://en.wikipedia.org/">Wikipedia</a> and the <a href="http://developer.marvel.com/">Marvel API</a>, code available on <a href="https://github.com/pixelastic/marvel/">GitHub</a></div>
     </aside>
@@ -61,14 +61,17 @@
         {{#description}}
         <div class="hit--description">{{{description}}}</div>
         {{/description}}
+        <ul>
+          {{#urls.wikipedia}}<li><a href="{{urls.wikipedia}}">Wikipedia</a></li>{{/urls.wikipedia}}
+          {{#urls.marvel}}<li><a href="{{urls.marvel}}">Marvel</a></li>{{/urls.marvel}}
+
+        </ul>
       </div>
     </article>
   </script>
-  <!-- <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script> -->
-  <script src="./instantsearch.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/jquery/1.11.3/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/lodash/3.10.1/lodash.min.js"></script>
-  <script src="search.js"></script>
+  <script src="https://cdn.jsdelivr.net/g/lodash@4.5.1,jquery@2.2.1,instantsearch.js@1.2.3"></script>
+  <script src="app.js"></script>
+  <script>require('app').default.init()</script>
 </body>
 </html>
 
