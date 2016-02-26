@@ -1173,6 +1173,21 @@ describe('HelperDBPedia', () => {
       expect(actual).toEqual('Good.');
     });
 
+    it('should split on real sentences', () => {
+      // Given
+      let input = {
+        ontology: {
+          abstract: 'Good, M.D, Ph.D. (aka Good).        He is good.'
+        }
+      };
+
+      // When
+      let actual = Helper.getDescription(input);
+
+      // Then
+      expect(actual).toEqual('Good, M.D, Ph.D. (aka Good).');
+    });
+
     it('should return null if no description', () => {
       // Given
       let input = {
