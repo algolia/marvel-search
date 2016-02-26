@@ -244,28 +244,6 @@ describe('HelperConsolidate', () => {
       expect(actual.teams).toEqual(['Foo', 'Bar']);
     });
 
-    it('should remove duplicate value without case sensitivity', () => {
-      // Given
-      let input = {
-        dbpediaData: {
-          powers: [
-            'Teleportation'
-          ]
-        },
-        infoboxData: {
-          powers: [
-            'teleportation'
-          ]
-        }
-      };
-
-      // When
-      let actual = Helper.merge(input);
-
-      // Then
-      expect(actual.powers.length).toEqual(1);
-    });
-
     it('should merge species', () => {
       // Given
       let input = {
@@ -286,6 +264,74 @@ describe('HelperConsolidate', () => {
 
       // Then
       expect(actual.species).toEqual(['Mutant', 'Human']);
+    });
+  });
+
+  describe('getPowers', () => {
+    it('should remove duplicate value without case sensitivity', () => {
+      // Given
+      let input = {
+        dbpediaData: {
+          powers: [
+            'Teleportation'
+          ]
+        },
+        infoboxData: {
+          powers: [
+            'teleportation'
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.getPowers(input);
+
+      // Then
+      expect(actual.length).toEqual(1);
+    });
+
+    it('should keep only the most relevant powers', () => {
+      // Given
+      let input = {
+        dbpediaData: {
+          powers: [
+            'Teleportation'
+          ]
+        },
+        infoboxData: {
+          powers: [
+            'Ability to do stuff'
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.getPowers(input);
+
+      // Then
+      expect(actual).toEqual(['Teleportation']);
+    });
+
+    it('should capitalize the powers', () => {
+      // Given
+      let input = {
+        dbpediaData: {
+          powers: [
+            'Teleportation'
+          ]
+        },
+        infoboxData: {
+          powers: [
+            'durability'
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.getPowers(input);
+
+      // Then
+      expect(actual).toEqual(['Teleportation', 'Durability']);
     });
   });
 });
