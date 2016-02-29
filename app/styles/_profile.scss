@@ -1,0 +1,15 @@
+.hero-profile {
+  max-width: 360px;
+  height: 100%;
+  position: absolute;
+  float: left;
+  background: $primary-color;
+  transform: translateX(360px);
+  top: 0;
+  right: 0;
+  width: 100%;
+
+  &.shown {
+    transform: translateX(0);
+  }
+}

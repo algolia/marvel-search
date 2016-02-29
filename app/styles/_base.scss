@@ -1,13 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Marvel:400,700,400italic,700italic);
 
+
 ::root{
   font-size: 16px;
+
 }
 
 *{
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscaled;
+  text-rendering: optimizeLegibility
 }
 
 
@@ -21,7 +24,7 @@ a {
 
   &:hover {
     text-decoration: none;
-    color: #F11E22
+    color: $brand-primary
   }
 }
 
@@ -31,3 +34,17 @@ p {
 }
 
 
+%hr{
+  width: 50%;
+  height: 1px;
+  background: linear-gradient(to right, rgba(255,255,255,0) 0%, #aaa 50%, rgba(255,255,255,0) 100%);
+  background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, #aaa 50%, rgba(255,255,255,0) 100%);
+  background: -moz-linear-gradient(left, rgba(255,255,255,0) 0%, #aaa 50%, rgba(255,255,255,0) 100%);
+  background: -ms-linear-gradient(left, rgba(255,255,255,0) 0%, #aaa 50%, rgba(255,255,255,0) 100%);
+  background: -o-linear-gradient(left, rgba(255,255,255,0) 0%, #aaa 50%, rgba(255,255,255,0) 100%);
+  border: none;
+}
+hr{
+  margin: 1em auto;
+  @extend %hr;
+}

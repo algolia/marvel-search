@@ -14,6 +14,8 @@ let Marvel = {
     this.addSpeciesWidget();
     this.addHitsWidget();
     this.addPaginationWidget();
+    this.addRefinementList();
+    this.renderHits();
 
     this.search.start();
   },
@@ -26,6 +28,8 @@ let Marvel = {
 
     data.description = Marvel.getHighlightedValue(data, 'description');
     data.name = Marvel.getHighlightedValue(data, 'name');
+    data.powersSummary = data.powers.slice(0, 5);
+    console.log(data.powerSummary);
     return data;
   },
   getHighlightedValue(object, property) {
@@ -120,14 +124,69 @@ let Marvel = {
         showFirstLast: false
       })
     );
+  },
+  addRefinementList(){
+    this.search.addWidget(
+      instantsearch.widgets.currentRefinedValues({
+        container: '#current-refined-values',
+        clearAll: 'after'
+      })
+    );
+  },
+  renderHits(){
+    var renderedHits = {
+      render: function(options) {
+        toggleHeroProfile();
+      }
+    };
+
+    this.search.addWidget(renderedHits);
   }
+
 };
 
 export default Marvel;
+function toggleHeroProfile(){
+  var hit = document.querySelectorAll('.hit'),
+      results = document.querySelector('.hits'),
+      profile = document.querySelector('.hero-profile');
+  for(var i=0;i<hit.length;i++){
+    hit[i].addEventListener('click', function(){
+      if(!results.classList.contains('open')){
+        results.classList.add('open')
+        profile.classList.add('shown')
+      } else {
+        results.classList.remove('open')
+        profile.classList.remove('shown')
+      }
+    })
+  }
+}
+///////////////////////////
+/// Toggle hero-profile \\\ 
+///////////////////////////
+// function toggleHeroProfile(){
+//   var hit = document.querySelectorAll('.hit'),
+//       results = document.querySelector('.hits'),
+//       profile = document.querySelector('.hero-profile');
+//   for(var i=0;i<hit.length;i++){
+//     hit[i].addEventListener('click', function(){
+//       alert()
+//       if(!results.classList.contains('open')){
+//         results.classList.add('open')
+//         profile.classList.add('shown')
+//       } else {
+//         results.classList.remove('open')
+//         profile.classList.remove('shown')
+//       }
+//     })
+//   }
+// }
 
 
-
-
+// window.onload = function(){
+//   toggleHeroProfile()
+// }
 
 
 

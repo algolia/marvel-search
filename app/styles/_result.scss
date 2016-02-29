@@ -1,0 +1,212 @@
+/* HITS */
+.ais-hits {
+  width: 100%;
+}
+.hits {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  left: 270px;
+  flex-wrap: wrap;
+  width: calc(100% - 270px);
+
+  &.open {
+    width: calc(100% - 270px - 360px);
+  }
+}
+
+.hit {
+  float: left;
+  width: calc(33% - 10px);
+  background: #eff0f1;
+  margin: 5px;
+  height: 260px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  border-radius: 2px;
+  outline: 1px solid darken(#eff0f1, 10%);
+  box-shadow: 0 1px 0 #c5cad8, 0 2px 3px #d4d8e3;
+
+  @media (max-width: 960px + 270px) {
+    width: calc(50% - 10px);
+  }
+  @media (max-width: 640px + 270px) {
+    width: calc(100% - 10px);
+  }
+
+   &:hover {
+    .hit--picture-wrapper {
+      
+      img {
+        -webkit-filter: brightness(115%);
+        filter: brightness(115%);
+        transform: scale(1.1);
+      }
+
+      &:after {
+        box-shadow:inset 0 0 0  rgba(#000, 0.5);
+        transition: all 0.3s ease;
+        background-size: 200%;
+      }
+    }
+    a {
+      color: $brand-primary
+    }
+  }
+}
+.hit--picture-wrapper {
+  float: left;
+  padding: 5px;
+  width: 75%;
+  height: 100%;
+  text-align: center;
+  position: relative;
+  background: #000;
+  overflow: hidden;
+
+  &:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(#000, 0.2);
+    box-shadow: inset -16px 0 3em rgba(#000, 0.5);
+    transition: box-shadow 0.3s ease, -webkit-filter 0.3s ease, filter 0.3s ease, background 0.3s ease;
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 0;
+    transition: transform 0.3s ease;
+    object: {
+      fit: cover;
+      position: center center;
+    }
+  }
+
+}
+
+.hit--desc-wrapper {
+  float: left;
+  width: 100%;
+  height: 100%;
+  padding: 8px 16px;
+  overflow: scroll
+}
+.hit--name {
+  font-size: 2rem;
+  font-weight: bold;
+  color: inherit;
+  line-height: 2rem;
+  padding: 5px 0px;
+  display: block;
+
+  h3 {
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+    font-size: 1.5em;
+  }
+}
+.hit--realname {
+  font-size: 1rem;
+}
+.hit--aliases {
+  font-size: 1rem;
+}
+.hit--species {
+  font-size: 1rem;
+}
+.hit--creators {
+  font-size: 1rem;
+  padding-bottom: .5rem;
+}
+.hit--description {
+  margin-top: .5rem;
+  font-size: 1.1rem;
+  overflow: scroll;
+
+  p {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400;
+    color: darken(#BDC3C7, 35%);
+
+    display: block; /* Fallback for non-webkit */
+    display: -webkit-box;
+    max-width: 400px;
+    height: $font-size*$line-height*$lines-to-show; /* Fallback for non-webkit */
+    margin: 0 auto;
+    font-size: $font-size;
+    line-height: $line-height;
+    -webkit-line-clamp: $lines-to-show;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+.hit--powers {
+  height: $font-size/1.5*$line-height/1.2*9; /* Fallback for non-webkit */
+  margin: 6px auto;
+  font-size: $font-size/1.5;
+  line-height: $line-height/1.2;
+
+
+  svg.icon {
+    max-width: 18px;
+    max-height: 18px;
+    float: left;
+    margin: 2px;
+  
+    &.shape-super use{
+      fill: $primary-color
+    }
+  }
+
+  span.power {
+    display: inline-block;
+    float: left;
+    background: $brand-primary;
+    background-image: linear-gradient(to top right, $primary-color, darken($primary-color, 20%));
+    margin: 2px 4px;
+    padding: 6px;
+    border-radius: 100px;
+    display: block;
+    color: #fff;
+    font-weight: bold;
+    font-size: 10px;
+    position: relative;
+    padding-left: 22px;
+    &:before {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 22px;
+      height: 100%;
+      background: {
+        image: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewbox=\'100 100 100 100\' width=\'100\' height=\'100\'><path d=\'M49.06,4.275c4.639,0,9.341-0.024,13.974-0.024h23.272c3.411,0,9.282-0.366,10.687,2.789  c1.626,3.655,0.524,4.666-4.677,11.794l-4.655,6.235l0.61,0.818c4.535,7.165,7.162,15.656,7.162,24.761  c0,25.607-20.766,46.373-46.373,46.373c-5.695,0-11.15-1.029-16.191-2.909c0,0-0.949-0.4-1.138-0.458l-5.414,3.191  c-5.49,3.236-11.172-1.234-9.226-7.856l1.129-3.84c-0.199-0.181-0.581-0.385-0.981-0.774C8.28,75.919,2.687,63.936,2.687,50.648  C2.687,25.041,23.453,4.275,49.06,4.275L49.06,4.275z M89.098,14.131c1.917-2.507,0.184-4.332-2.104-4.332H63.722  c-5.167,0-6.748,1.757-7.737,3.033L29.6,46.86c-2.659,3.429-0.464,6.282,1.826,6.282h5.632c3.992,0,4.237,3.647,3.066,5.594  L22.111,88.699c-1.962,3.263,0.979,5.277,3.423,3.215l54.022-45.578c2.424-2.307,0.064-4.428-1.635-4.428h-4.042  c-3.288,0-3.809-2.76-2.378-4.642L89.098,14.131L89.098,14.131z\' fill=\'%23fff\'></path></svg>");
+        size: 60%;
+        repeat: no-repeat;
+        position: center center;
+      }
+      top: 0;
+      left: 0;
+    }
+  }
+}
+
+.hit em {
+  color: #000000;
+  font-style: normal;
+  background-color: #FFBE61;
+}
