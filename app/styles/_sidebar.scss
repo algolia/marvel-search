@@ -9,6 +9,11 @@
   padding: 20px;
   border-right: 1px solid #EEE;
   background: #FFFFFF; 
+
+  @media (max-width: 640px + 270px) {
+    transform: translateX(-270px)
+  }
+
 }
 
 /* CLEAR ALL */

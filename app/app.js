@@ -29,7 +29,8 @@ let Marvel = {
     data.description = Marvel.getHighlightedValue(data, 'description');
     data.name = Marvel.getHighlightedValue(data, 'name');
     data.powersSummary = data.powers.slice(0, 5);
-    console.log(data.powerSummary);
+    data.data = JSON.stringify(data);
+    
     return data;
   },
   getHighlightedValue(object, property) {
@@ -147,18 +148,36 @@ let Marvel = {
 
 export default Marvel;
 function toggleHeroProfile(){
-  var hit = document.querySelectorAll('.hit'),
+  var hit = document.querySelectorAll('.btn-profile'),
       results = document.querySelector('.hits'),
-      profile = document.querySelector('.hero-profile');
+      profile = document.querySelector('.hero-profile'),
+      profileName = document.querySelector('.hero-profile .hero-name'),
+      profileAvatar = document.querySelector('.hero-profile .hero-avatar img'),
+      profileDescription = document.querySelector('.hero-profile .hero-description'),
+      profilePowers = document.querySelector('.hero-profile .hero-powers');
+ 
   for(var i=0;i<hit.length;i++){
     hit[i].addEventListener('click', function(){
+      var data = this.parentNode.parentNode.parentNode.childNodes[5].textContent,
+          data = JSON.parse(data);
+      
+      var heroName, heroAvatar, heroDesc, heroPowers;
+      heroName = data.name,
+      heroAvatar = data.image,
+      heroDesc = data.desc,
+      heroPowers = data.powers;
+
+      profileName.textContent = heroName;
+      profileAvatar.src = heroAvatar;
+      profileDescription.textContent = heroDesc;
+      profilePowers.textContent = heroPowers;
+      
       if(!results.classList.contains('open')){
         results.classList.add('open')
         profile.classList.add('shown')
-      } else {
-        results.classList.remove('open')
-        profile.classList.remove('shown')
       }
+
+
     })
   }
 }

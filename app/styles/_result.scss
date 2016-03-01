@@ -10,15 +10,24 @@
   left: 270px;
   flex-wrap: wrap;
   width: calc(100% - 270px);
+  height: 100%;
+  overflow: scroll;
+  transition: width 0.3s ease;
 
   &.open {
     width: calc(100% - 270px - 360px);
   }
+
+  @media (max-width: 640px + 270px) {
+    left: 0;
+    width: 100%
+  }
+
 }
 
 .hit {
   float: left;
-  width: calc(33% - 10px);
+  width: calc(50% - 10px);
   background: #eff0f1;
   margin: 5px;
   height: 260px;
@@ -28,14 +37,16 @@
   border-radius: 2px;
   outline: 1px solid darken(#eff0f1, 10%);
   box-shadow: 0 1px 0 #c5cad8, 0 2px 3px #d4d8e3;
+  position: relative;
+  
 
   @media (max-width: 960px + 270px) {
-    width: calc(50% - 10px);
-  }
-  @media (max-width: 640px + 270px) {
     width: calc(100% - 10px);
   }
-
+  @media (max-width: 640px + 270px) {
+    width: calc(100%);
+  }
+ 
    &:hover {
     .hit--picture-wrapper {
       
@@ -89,7 +100,7 @@
     transition: transform 0.3s ease;
     object: {
       fit: cover;
-      position: center center;
+      position: top center;
     }
   }
 
@@ -100,7 +111,9 @@
   width: 100%;
   height: 100%;
   padding: 8px 16px;
-  overflow: scroll
+  overflow: scroll;
+  position: relative;
+  
 }
 .hit--name {
   font-size: 2rem;
@@ -144,7 +157,7 @@
     display: block; /* Fallback for non-webkit */
     display: -webkit-box;
     max-width: 400px;
-    height: $font-size*$line-height*$lines-to-show; /* Fallback for non-webkit */
+    max-height: $font-size*$line-height*$lines-to-show; /* Fallback for non-webkit */
     margin: 0 auto;
     font-size: $font-size;
     line-height: $line-height;
@@ -154,9 +167,13 @@
     text-overflow: ellipsis;
   }
 }
-
-.hit--powers {
-  height: $font-size/1.5*$line-height/1.2*9; /* Fallback for non-webkit */
+.hit--powers,
+.hit--footer {
+  width: 100%;
+  height: auto;
+  clear: both;
+} 
+.hit--powers {  
   margin: 6px auto;
   font-size: $font-size/1.5;
   line-height: $line-height/1.2;
@@ -187,6 +204,12 @@
     font-size: 10px;
     position: relative;
     padding-left: 22px;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 150px;
+    
     &:before {
       content: '';
       display: block;
@@ -203,6 +226,16 @@
       left: 0;
     }
   }
+}
+
+.hit--footer {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  max-width: calc( 100% - 32px );
+  left: 16px;
+  padding-bottom: 16px;
 }
 
 .hit em {
