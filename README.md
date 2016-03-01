@@ -24,6 +24,13 @@ The DBPedia is an unofficial API for the Wikipedia. It contains much more data
 than the Wikidata, including the actual content of the right infobox as well as
 all the page redirects. All DBPedia data is saved in `./download/dbpedia`.
 
+`npm run infobox` will get data from the infoboxes (box on the right of each
+Wikipedia page). This should get the same data than `npm run dbpedia` but this
+one will be more fresh (the DBPedia is only a dump at a specific date). The
+downside is that the data is harder to parse and results are sometimes not that
+great. We take data from both sources and merge them, to be sure we have the
+best of both worlds.
+
 `npm run images` will crawl all the Wikipedia pages to get the url of the
 character image. This data is not available in the DBPedia dump. The complete
 list of images is stored in `./download/images/images.json`.
@@ -45,18 +52,41 @@ The Marvel API gives us access to a nice description as well as a nice picture
 (we only use the one from the Wikipedia as fallback). This data is stored in
 `./download/marvel`.
 
+You can also run `npm run download:all` to download from all the sources in
+sequence.
+
 `npm run consolidate` actually grabs data from all the previous downloaded json
-files and build a curated list of records saved in `./records`.
+files and build a curated list of records saved in `./records`. Then `npm run
+push` will push all those records to the Algolia index (and configure it
+properly).
+
+## Tests
+
+Getting data from various sources and cleaning them is an error-prone process.
+You can easily break something when fixing something else. That's why this
+project has so many tests. You can run them all with `npm run test` and start
+a TDD-ready live watching with `npm run test:watch`.
+
+`npm run lint` also take care of the styleguide.
+
+## Front-end
+
+The front-end code uses Brunch. It has everything a front-end build tool should
+have, including live reload and SCSS/Babel compiling. Just run `npm run serve`
+to start the server on [http://localhost:5006/](http://localhost:5006/). You can
+also manually run `npm run build` to populate the `./public` directory with all
+the built website.
+
+Following Brunch conventions:
+
+- `./app/*.js` files will be compiled through Babel
+- `./app/styles/*.scss` files will be compiled to CSS
+- `./app/assets/*` files will be copied without modifications to `./public`
 
 ## TODO
 
-- Get real name for heroes (cf Spider-man Noir) (Use url name?)
-- Allow click on authors to filter faceting
-- Find a way to better display a large list of powers
+- Allow click on facets to filter faceting
 - Add "Show all" to facets?
-
-- Remove too long descriptions
-- Remove bad authors
-- Do better ordering (Jean Grey is too low)
-- keep only real powers ? (capital letter?)
+- Show the team/power/specy/author that matches
+- Clic sur une facet directement dans les cards
 
