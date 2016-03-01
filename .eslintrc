@@ -1,5 +1,5 @@
 {
- "globals": {
+  "globals": {
     "_": true,
     "$": true,
     "instantsearch": true,
@@ -10,10 +10,16 @@
     "no-var": 2,
     "no-console": 0,
     "no-use-before-define": 0,
+    "no-unused-vars": [
+      2,
+      {
+        "args": "after-used",
+        "argsIgnorePattern": "^_"
+      }
+    ],
     "algolia/relative-require": 2,
     "algolia/force-import-root": 2,
     "algolia/no-require": 1,
     "algolia/no-module-exports": 2
   }
 }
-

@@ -25,14 +25,13 @@
     "marvel": "./scripts/download-marvel",
     "download:all": "./scripts/download-all",
     "consolidate": "./scripts/consolidate",
-    "test": "./scripts/test",
-    "test:watch": "./scripts/test-watch",
     "push": "./scripts/push",
+    "test": "./scripts/test",
+    "lint": "eslint ./lib/*.js",
+    "test:watch": "./scripts/test-watch",
     "build": "./scripts/build",
     "serve": "./scripts/serve",
-    "deploy": "./scripts/deploy",
-    "cloudinary": "babel-node ./scripts/cloudinary.js",
-    "lint": "eslint ./scripts/*.js"
+    "deploy": "./scripts/deploy"
   },
   "devDependencies": {
     "algoliasearch": "^3.13.0",
