@@ -137,7 +137,7 @@ let Marvel = {
   renderHits(){
     var renderedHits = {
       render: function(options) {
-        toggleHeroProfile();
+        processHeroProfile();
       }
     };
 
@@ -147,44 +147,64 @@ let Marvel = {
 };
 
 export default Marvel;
-function toggleHeroProfile(){
-  var hit = document.querySelectorAll('.btn-profile'),
-      results = document.querySelector('.hits'),
-      profile = document.querySelector('.hero-profile'),
-      profileName = document.querySelector('.hero-profile .hero-name'),
-      profileAvatar = document.querySelector('.hero-profile .hero-avatar img'),
-      profileDescription = document.querySelector('.hero-profile .hero-description'),
-      profilePowers = document.querySelector('.hero-profile .hero-powers');
- 
-  for(var i=0;i<hit.length;i++){
-    hit[i].addEventListener('click', function(){
-      var data = this.parentNode.parentNode.parentNode.childNodes[5].textContent,
-          data = JSON.parse(data);
-      
-      var heroName, heroAvatar, heroDesc, heroPowers;
-      heroName = data.name,
-      heroAvatar = data.image,
-      heroDesc = data.desc,
-      heroPowers = data.powers;
 
-      profileName.textContent = heroName;
-      profileAvatar.src = heroAvatar;
-      profileDescription.textContent = heroDesc;
-      profilePowers.textContent = heroPowers;
+function processHeroProfile(){
+
+  var hit = $('.btn-profile'),
+      results = $('.hits'),
+      profile = $('.hero-profile'),
+      profileName = $('.hero-profile .hero-name'),
+      profileRealName = $('.hero-profile .hero-secret-identity'),
+      profileAvatar = $('.hero-profile .hero-avatar img'),
+      profileDescription = $('.hero-profile .hero-description'),
+      profilePowers = $('.hero-profile .hero-powers');
+  
+  hit.each(function(){
+    $(this).click(function(e,t){
+      var $this = $(this);
+      var datas = $(this).closest('.hit').find('.dump').val(),
+          datas = $.parseJSON(datas);
       
-      if(!results.classList.contains('open')){
-        results.classList.add('open')
-        profile.classList.add('shown')
+      // Fetch & define values
+      var 
+      heroName = datas.name,
+      heroSecretId = datas.secretIdentities,
+      heroAvatar = datas.image,
+      heroDesc = datas.description,
+      heroPowers = datas.powers;
+     
+      // Appy them
+      profileName.text(heroName);
+      profileAvatar.attr('src', heroAvatar);
+      profileDescription.html('<p>'+heroDesc+'</p>');
+      profileRealName.html(heroSecretId)
+      
+      // Loop & wrap all the powers
+      profilePowers.html('');
+      var power = '';
+      $.each(heroPowers, function (index, key){
+        power += "<span class='power'>"+key+"</span>"; 
+      });
+      profilePowers.append(power);
+
+
+      
+      if(!results.hasClass('open')){
+        results.addClass('open')
+        profile.addClass('shown')
       }
+    });
+  })
+}
 
+function imageDimensions($url) {
+  var u = $url;
 
-    })
-  }
 }
 ///////////////////////////
 /// Toggle hero-profile \\\ 
 ///////////////////////////
-// function toggleHeroProfile(){
+// function processHeroProfile(){
 //   var hit = document.querySelectorAll('.hit'),
 //       results = document.querySelector('.hits'),
 //       profile = document.querySelector('.hero-profile');
@@ -204,7 +224,7 @@ function toggleHeroProfile(){
 
 
 // window.onload = function(){
-//   toggleHeroProfile()
+//   processHeroProfile()
 // }
 
 

@@ -54,10 +54,13 @@
     <div class="hero-profile">
       <header>
         <span class="hero-name"></span>
+        <span class="hero-secret-identity"></span>
+        
+        <div class="hero-avatar">
+          <img src="http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b/standard_xlarge.jpg" alt="">
+        </div>
       </header>
-      <div class="hero-avatar">
-        <img src="http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b/standard_xlarge.jpg" alt="">
-      </div>
+
 
       <section class="hero-description"></section>
       <section class="hero-powers"></section>
@@ -70,7 +73,7 @@
         <img src="{{image}}" />
       </div>
       <div class="hit--desc-wrapper">
-        <a class="hit--name" href="{{url}}"><h3>{{{_highlightResult.name.value}}}</h3></a>
+        <h3>{{{_highlightResult.name.value}}}</h3>
 
         {{#description}}
         <div class="hit--description"><p>{{{description}}}</p></div>
@@ -84,10 +87,10 @@
         </div>
         
         <div class="hit--footer">
-         <button class="btn-profile full">View profile</button>
+         <a class="btn-profile full" href="#">View profile</a>
         </div>
       </div>
-      <textarea class="dump" style="display:none">{{{data}}}</textarea>
+      <textarea class="dump" style="display:none">{{data}}</textarea>
     </article>
   </script>
 
