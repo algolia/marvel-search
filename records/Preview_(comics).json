@@ -9,9 +9,12 @@
     "Nunzio DeFilippis, Christina Weir, Michael Ryan"
   ],
   "description": "Preview (Jessica Vale) is a fictional character, a mutant appearing in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Preview_%28NXM_12%29.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ec/Preview_%28NXM_12%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Preview",
   "partners": [
   ],

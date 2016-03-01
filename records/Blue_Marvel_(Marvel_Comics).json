@@ -6,9 +6,14 @@
     "Kevin Grevioux"
   ],
   "description": "Blue Marvel (Adam Bernard Brashear) is a fictional character, a comic book superhero published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg/250px-Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg/250px-Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Blue Marvel",
   "partners": [
   ],

@@ -8,8 +8,13 @@
     "Peter Milligan"
   ],
   "description": "Spike and The Spike are the names of several fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "The Spike",
   "partners": [
   ],

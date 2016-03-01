@@ -9,9 +9,14 @@
     "Chris Claremont"
   ],
   "description": "Omega Sentinel (Karima Shapandar) is a fictional character associated with the X-Men and its spinoff Excalibur.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4c002e4dc5f11/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4c002e4dc5f11/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Omega Sentinel",
   "partners": [
   ],

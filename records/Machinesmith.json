@@ -8,9 +8,14 @@
     "Stan Lee"
   ],
   "description": "Machinesmith (born Samuel \"Starr\" Saxon) is a fictional character, a supervillain in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Machinesmith.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/18/Machinesmith.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mister Fear",
   "partners": [
   ],

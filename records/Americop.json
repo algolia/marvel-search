@@ -7,9 +7,12 @@
     "Mark Gruenwald"
   ],
   "description": "Americop (Bartholomew Gallows) is a fictional vigilante published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Americop.jpg/250px-Americop.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Americop.jpg/250px-Americop.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Americop",
   "partners": [
   ],

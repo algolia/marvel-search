@@ -9,9 +9,14 @@
     "Sal Buscema"
   ],
   "description": "The long-standing Black Queen of the Hellfire Club's Inner Circle, Selene Gallio professes to have lived for several millennia, and to have been a foe of the ancient sorcerer, Kulan Gath.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c003c337aff5/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c003c337aff5/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Selene",
   "partners": [
     "Senyaka",

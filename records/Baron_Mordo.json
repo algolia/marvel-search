@@ -7,9 +7,12 @@
     "Stan Lee"
   ],
   "description": "Baron Karl Amadeus Mordo (known as Baron Mordo) is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Mordo.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/46/Mordo.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Baron Mordo",
   "partners": [
     "Ancient One",

@@ -7,9 +7,12 @@
     "Matt Fraction",
     "Kieron Gillen"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/XMEN-Zero.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0c/XMEN-Zero.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Kenji Uedo",
   "partners": [
   ],

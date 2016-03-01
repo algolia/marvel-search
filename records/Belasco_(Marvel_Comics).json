@@ -6,9 +6,12 @@
     "Bruce Jones",
     "Brent Anderson"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/BELASCO_NEO.JPG/250px-BELASCO_NEO.JPG",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/BELASCO_NEO.JPG/250px-BELASCO_NEO.JPG"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Belasco",
   "partners": [
     "S'ym",

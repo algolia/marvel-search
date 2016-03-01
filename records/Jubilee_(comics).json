@@ -9,9 +9,14 @@
     "Chris Claremont"
   ],
   "description": "Jubilee (Jubilation Lee) is a fictional character, a Marvel Comics superheroine associated with the X-Men.A mutant, Jubilee had the superhuman power to generate pyrotechnic energy plasmoids out of her hands.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4e7a2148b6e59/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4e7a2148b6e59/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Jubilee",
   "partners": [
   ],

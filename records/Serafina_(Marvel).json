@@ -6,9 +6,12 @@
     "Mike Carey",
     "Chris Bachalo"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Children_of_the_Vault.png/250px-Children_of_the_Vault.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Children_of_the_Vault.png/250px-Children_of_the_Vault.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Serafina (Marvel)",
   "partners": [
   ],

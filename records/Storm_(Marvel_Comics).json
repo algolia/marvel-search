@@ -19,9 +19,19 @@
     "Dave Cockrum"
   ],
   "description": "Ororo Monroe is the descendant of an ancient line of African priestesses, all of whom have white hair, blue eyes, and the potential to wield magic.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/526963dad214d/standard_xlarge.jpg",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/90/537bc6087eb62.gif",
+    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/c/b0/537bc5f8a8df0.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/526963dad214d/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 42,
+    "green": 25,
+    "red": 35,
+    "rgb": "23192A"
+  },
   "name": "Storm",
   "partners": [
     "Black Panther"

@@ -8,8 +8,11 @@
     "Dave Cockrum"
   ],
   "description": "Magique is a fictional character in the Marvel Universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Magique",
   "partners": [
   ],

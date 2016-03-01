@@ -4,9 +4,12 @@
   ],
   "authors": [
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Shehulk35.png/250px-Shehulk35.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Shehulk35.png/250px-Shehulk35.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Black Talon (Samuel Barone)",
   "partners": [
   ],

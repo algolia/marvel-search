@@ -8,9 +8,12 @@
     "Scott Lobdell"
   ],
   "description": "Omertà (Paul \"Paulie\" Provenzano) is a fictional character, a mutant in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/OmertaX-Men.JPG",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d4/OmertaX-Men.JPG"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Omertà",
   "partners": [
   ],

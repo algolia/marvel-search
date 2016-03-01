@@ -10,9 +10,14 @@
     "Grant Morrison"
   ],
   "description": "Noh-Varr is a fictional character, a superhero appearing in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4c003d4a0e1c0/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4c003d4a0e1c0/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Marvel Boy",
   "partners": [
   ],

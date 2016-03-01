@@ -7,8 +7,11 @@
     "Larry Lieber"
   ],
   "description": "The Finisher is a fictional character and super-villain in the Marvel Universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Finisher",
   "partners": [
     "Red Skull",

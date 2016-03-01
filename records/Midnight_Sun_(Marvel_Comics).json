@@ -9,9 +9,14 @@
     "Al Milgrom"
   ],
   "description": "Midnight Sun (M'Nai) is a fictional character, a former supervillain in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/MidnightSun02.JPG/250px-MidnightSun02.JPG",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/MidnightSun02.JPG/250px-MidnightSun02.JPG"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Midnight (Earth-811)",
   "partners": [
   ],

@@ -8,9 +8,14 @@
     "John Byrne"
   ],
   "description": "Destiny (Irene Adler) is a Marvel Comics fictional character, known as an adversary of the X-Men.Although blind, Destiny was a mutant precognitive able to accurately predict future events.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Destiny1.jpg/150px-Destiny1.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Destiny1.jpg/150px-Destiny1.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Destiny",
   "partners": [
   ],

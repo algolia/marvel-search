@@ -4,9 +4,12 @@
   "authors": [
     "Dave Cockrum"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Ch%27od_%28Marvel_character%29.jpg/250px-Ch%27od_%28Marvel_character%29.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Ch%27od_%28Marvel_character%29.jpg/250px-Ch%27od_%28Marvel_character%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ch%27od",
   "partners": [
   ],

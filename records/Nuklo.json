@@ -8,9 +8,12 @@
     "Dan Adkins"
   ],
   "description": "Nuklo (Robert Frank, Jr.) is a fictional character, a mutant in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Nuklo.jpg/249px-Nuklo.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Nuklo.jpg/249px-Nuklo.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Nuklo",
   "partners": [
   ],

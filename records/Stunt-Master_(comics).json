@@ -8,9 +8,12 @@
     "Gene Colan"
   ],
   "description": "Stuntmaster is a fictional character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/StuntMasterDD.jpg/250px-StuntMasterDD.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/StuntMasterDD.jpg/250px-StuntMasterDD.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Stuntmaster",
   "partners": [
   ],

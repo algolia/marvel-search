@@ -7,9 +7,14 @@
     "Christina Weir"
   ],
   "description": "Rockslide (Santo Vaccarro) is a fictional character, a mutant superhero and member of the X-Men in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Rockslide.jpg/250px-Rockslide.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Rockslide.jpg/250px-Rockslide.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Rockslide",
   "partners": [
   ],

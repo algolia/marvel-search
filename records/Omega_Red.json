@@ -9,9 +9,14 @@
     "Jim Lee"
   ],
   "description": "Omega Red is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003d09267ae/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003d09267ae/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Omega Red",
   "partners": [
   ],

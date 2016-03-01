@@ -8,9 +8,14 @@
     "Christina Weir"
   ],
   "description": "Elixir (Joshua \"Josh\" Foley), is a fictional character, a mutant in the Marvel Comics Universe and a student at the Xavier Institute.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/52740e1b4ad81/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/52740e1b4ad81/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Elixir",
   "partners": [
   ],
@@ -42,7 +47,7 @@
     "X-Men-In-Training"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1011082/elixir",
+    "marvel": "http://marvel.com/characters/608/elixir",
     "wikipedia": "https://en.wikipedia.org/wiki/Elixir_(comics)"
   }
 }

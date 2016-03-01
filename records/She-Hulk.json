@@ -8,9 +8,19 @@
     "John Buscema"
   ],
   "description": "She-Hulk is the Hulk's action-loving cousin. She's unbelievably strong, pilots the group's heavily armed Jump Jet, and uses a pair of Gamma Gauntlets that give her fists an added energy wallop. As the most competitive member of the team, She-Hulk never backs down from a fight, arm-wrestling match, or burping contest!",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/523214b8ea2cf/standard_xlarge.jpg",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/c/40/537bc2cfa9f13.gif",
+    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/537bc2bdb3c39.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/523214b8ea2cf/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": {
+    "blue": 11,
+    "green": 37,
+    "red": 23,
+    "rgb": "17250B"
+  },
   "name": "She-Hulk (HAS)",
   "partners": [
   ],

@@ -5,8 +5,11 @@
     "Charles Soule",
     "Joe Madureira"
   ],
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Inferno",
   "partners": [
     "Medusa",

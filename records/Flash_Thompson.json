@@ -9,9 +9,14 @@
     "Stan Lee"
   ],
   "description": "Flash Thompson was the high school bully of Peter Parker while also being one of Spider-Man's biggest fans. After losing his legs during military service, he became the new Venom, working as an operative of the United States government.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/5269668c7d5df/standard_xlarge.jpg",
+  "images": {
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "banner": "http://i.annihil.us/u/prod/marvel/universe3zx/images/d/de/Venom(MacGargan)_Head.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/5269668c7d5df/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Venom (Flash Thompson)",
   "partners": [
   ],

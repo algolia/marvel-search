@@ -7,9 +7,12 @@
     "Ron Wilson"
   ],
   "description": "Gladiatrix (Robin Braxton) is a fictional heroine published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Gladiatrixmu0.png/200px-Gladiatrixmu0.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Gladiatrixmu0.png/200px-Gladiatrixmu0.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Gladiatrix",
   "partners": [
   ],

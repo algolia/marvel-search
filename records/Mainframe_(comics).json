@@ -5,9 +5,12 @@
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Mainframe_HCV.jpg/160px-Mainframe_HCV.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Mainframe_HCV.jpg/160px-Mainframe_HCV.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mainframe",
   "partners": [
   ],

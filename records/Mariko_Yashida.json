@@ -7,9 +7,14 @@
     "John Byrne"
   ],
   "description": "Mariko Yashida was the daughter of Japanese crimelord Lord Shingen, leader of Clan Yashida, and one-time fiance of Wolverine.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c00393d65a55/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c00393d65a55/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mariko Yashida",
   "partners": [
     "Wolverine"

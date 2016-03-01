@@ -8,9 +8,14 @@
     "Jack Kirby"
   ],
   "description": "Machine Man (Aaron Stack, serial number Z2P45-9-X-51 or X-51 for short) is a fictional character, an android superhero in the Marvel Comics Universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4c003727804b4/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4c003727804b4/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Machine Man",
   "partners": [
   ],

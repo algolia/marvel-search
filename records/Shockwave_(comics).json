@@ -9,9 +9,14 @@
     "Paul Gulacy"
   ],
   "description": "Lancaster Sneed was a secret agent working for the United Kingdom’s MI:6, but no one esteemed him as highly as himself, and despite his pride, he was wounded in an explosion on his first field assignment and forced to undergo a radical surgery that grafted metal plates and cybernetic systems to his body.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c0035c193fc3/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c0035c193fc3/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Shockwave",
   "partners": [
   ],

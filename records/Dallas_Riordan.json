@@ -10,8 +10,13 @@
     "Kurt Busiek"
   ],
   "description": "Dallas Riordan  is a character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Atlas (Team)",
   "partners": [
   ],

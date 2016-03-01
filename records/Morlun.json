@@ -8,9 +8,14 @@
     "J. Michael Straczynski"
   ],
   "description": "Morlun is a fictional comic book supervillain in Marvel Comics' shared universe, the Marvel Universe, and a foe of Spider-Man.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/527411be42b48/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/527411be42b48/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Morlun",
   "partners": [
   ],

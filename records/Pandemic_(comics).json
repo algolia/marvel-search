@@ -7,9 +7,14 @@
     "Humberto Ramos"
   ],
   "description": "Pandemic (Richard Palance) is a fictional supervillan in Marvel Comics was first mentioned in X-Men vol. 2 #188 (2006) and appeared in X-Men vol. 2 #194 (2007).",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Xmen-195.jpg/250px-Xmen-195.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Xmen-195.jpg/250px-Xmen-195.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Pandemic",
   "partners": [
   ],

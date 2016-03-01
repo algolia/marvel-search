@@ -7,9 +7,12 @@
     "Marc Guggenheim"
   ],
   "description": "Graymalkin is a fictional character appearing in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/300219-123649-greymalkin_large.jpg/200px-300219-123649-greymalkin_large.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/300219-123649-greymalkin_large.jpg/200px-300219-123649-greymalkin_large.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Graymalkin",
   "partners": [
   ],

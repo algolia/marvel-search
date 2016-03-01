@@ -7,9 +7,12 @@
     "Stan Lee"
   ],
   "description": "Warlord Krang is a fictional character in the Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Krang1.jpg/250px-Krang1.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Krang1.jpg/250px-Krang1.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Krang",
   "partners": [
     "Attuma",

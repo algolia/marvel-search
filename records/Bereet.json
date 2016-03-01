@@ -7,9 +7,12 @@
     "Walt Simonson"
   ],
   "description": "Bereet is a fictional character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Bereet.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/01/Bereet.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Bereet",
   "partners": [
   ],

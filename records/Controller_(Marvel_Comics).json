@@ -7,9 +7,14 @@
     "Archie Goodwin"
   ],
   "description": "The Controller, real name Basil Sandhurst, is a fictional character, a supervillain appearing in Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/4c003923719ff/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/4c003923719ff/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Controller",
   "partners": [
   ],

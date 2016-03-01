@@ -7,9 +7,12 @@
     "Steve Ditko"
   ],
   "description": "The Living Brain is a fictional comic book character and robot in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/LivingBrainOriginal.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0b/LivingBrainOriginal.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Living Brain",
   "partners": [
   ],

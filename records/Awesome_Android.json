@@ -8,9 +8,12 @@
     "Stan Lee"
   ],
   "description": "The Awesome Android, (also briefly known as Awesome Andy), is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg/250px-ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg/250px-ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Awesome Android",
   "partners": [
   ],

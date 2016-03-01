@@ -7,9 +7,12 @@
     "Phil Jimenez"
   ],
   "description": "Overdrive is a fictional comic book supervillain, appearing in books published by Marvel Comics, usually as an enemy of Spider-Man.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Overdrive_Marvel.jpg/231px-Overdrive_Marvel.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Overdrive_Marvel.jpg/231px-Overdrive_Marvel.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Overdrive",
   "partners": [
   ],

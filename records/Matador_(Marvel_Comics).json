@@ -10,9 +10,12 @@
     "Michael Lark"
   ],
   "description": "Matador is the name of two Marvel Comics characters.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Daredevil_cover_-_number_5.jpg/250px-Daredevil_cover_-_number_5.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Daredevil_cover_-_number_5.jpg/250px-Daredevil_cover_-_number_5.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Matador",
   "partners": [
     "Man-Bull"

@@ -10,9 +10,14 @@
     "Arnold Drake"
   ],
   "description": "Mesmero (Vincent) is a fictional mutant, a comic book supervillain in the Marvel Comics universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/4c003d3b033e8/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/4c003d3b033e8/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mesmero",
   "partners": [
   ],

@@ -60,7 +60,7 @@ describe('HelperConsolidate', () => {
         dbpediaData: {
           description: 'bad'
         },
-        marvelData: {
+        marvelApiData: {
           description: 'good'
         }
       };
@@ -93,7 +93,7 @@ describe('HelperConsolidate', () => {
         dbpediaData: {
           name: 'bad'
         },
-        marvelData: {
+        marvelApiData: {
           name: 'good'
         }
       };
@@ -118,39 +118,6 @@ describe('HelperConsolidate', () => {
 
       // Then
       expect(actual.name).toEqual('good');
-    });
-
-    it('should take image from marvel if exists', () => {
-      // Given
-      let input = {
-        imageData: {
-          url: 'bad'
-        },
-        marvelData: {
-          image: 'good'
-        }
-      };
-
-      // When
-      let actual = Helper.merge(input);
-
-      // Then
-      expect(actual.image).toEqual('good');
-    });
-
-    it('should fallback to imageData', () => {
-      // Given
-      let input = {
-        imageData: {
-          url: 'good'
-        }
-      };
-
-      // When
-      let actual = Helper.merge(input);
-
-      // Then
-      expect(actual.image).toEqual('good');
     });
 
     it('should merge aliases from wikidata, dbpedia and infoboxes', () => {
@@ -267,6 +234,72 @@ describe('HelperConsolidate', () => {
     });
   });
 
+  describe('getImages', () => {
+    it('should take thumbnail image from marvel if exists', () => {
+      // Given
+      let input = {
+        imageData: {
+          url: 'bad'
+        },
+        marvelApiData: {
+          image: 'good'
+        }
+      };
+
+      // When
+      let actual = Helper.getImages(input);
+
+      // Then
+      expect(actual.thumbnail).toEqual('good');
+    });
+
+    it('should fallback to imageData', () => {
+      // Given
+      let input = {
+        imageData: {
+          url: 'good'
+        }
+      };
+
+      // When
+      let actual = Helper.getImages(input);
+
+      // Then
+      expect(actual.thumbnail).toEqual('good');
+    });
+
+
+    it('should get the banner from marvelWebsite if available', () => {
+      // Given
+      let input = {
+        marvelWebsiteData: {
+          featuredImage: 'good'
+        }
+      };
+
+      // When
+      let actual = Helper.getImages(input);
+
+      // Then
+      expect(actual.banner).toEqual('good');
+    });
+
+    it('should get the background from marvelWebsite if available', () => {
+      // Given
+      let input = {
+        marvelWebsiteData: {
+          featuredBackground: 'good'
+        }
+      };
+
+      // When
+      let actual = Helper.getImages(input);
+
+      // Then
+      expect(actual.background).toEqual('good');
+    });
+  });
+
   describe('getPowers', () => {
     it('should remove duplicate value without case sensitivity', () => {
       // Given
@@ -335,4 +368,64 @@ describe('HelperConsolidate', () => {
       expect(actual).toEqual(['Teleportation', 'Durability']);
     });
   });
+
+  describe('pickDataForCharacter', () => {
+    it('should pick the character that has the same name', () => {
+      // Given
+      let character = {
+        dbpediaData: {
+          name: 'Thor'
+        }
+      };
+      let marvelCharacters = {
+        Thor: 'foo'
+      };
+
+      // When
+      let actual = Helper.pickDataForCharacter(character, marvelCharacters);
+
+      // Then
+      expect(actual).toEqual('foo');
+    });
+
+    it('should pick the character that matches one of the aliases', () => {
+      // Given
+      let character = {
+        dbpediaData: {
+          aliases: [
+            'Beetle'
+          ]
+        }
+      };
+      let marvelCharacters = {
+        'Beetle (Abner Jenkins)': 'foo'
+      };
+
+      // When
+      let actual = Helper.pickDataForCharacter(character, marvelCharacters);
+
+      // Then
+      expect(actual).toEqual('foo');
+    });
+
+    it('should return null if no name and no aliases', () => {
+      // Given
+      let character = {
+        dbpediaData: {
+          name: null,
+          aliases: []
+        }
+      };
+      let marvelCharacters = {
+        Thor: 'foo'
+      };
+
+      // When
+      let actual = Helper.pickDataForCharacter(character, marvelCharacters);
+
+      // Then
+      expect(actual).toEqual(null);
+    });
+  });
+
 });

@@ -12,8 +12,11 @@
     "Mark Bagley"
   ],
   "description": "Cyclone is the alias of a number of fictional characters appearing in the comic books published by Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Cyclone",
   "partners": [
     "Hood"

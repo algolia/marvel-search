@@ -6,8 +6,13 @@
     "Gerry Conway",
     "Barry Windsor-Smith"
   ],
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Zaladane",
   "partners": [
     "Garokk"

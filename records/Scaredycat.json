@@ -7,9 +7,12 @@
     "Brent Anderson"
   ],
   "description": "Scaredycat (Pilar Lisieux) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/Scaredycat.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/Scaredycat.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Scaredycat",
   "partners": [
   ],

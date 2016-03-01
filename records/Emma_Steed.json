@@ -10,9 +10,14 @@
     "Ken Lashley (AoA version)"
   ],
   "description": "Miss Steed (Emma Steed), also known as Black Queen is a fictional character created by Warren Ellis and Carlos Pacheco, a mutant in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/MsSteed2.jpg/200px-MsSteed2.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/MsSteed2.jpg/200px-MsSteed2.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Black Queen",
   "partners": [
   ],

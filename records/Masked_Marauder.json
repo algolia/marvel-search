@@ -9,9 +9,12 @@
     "John Romita, Sr."
   ],
   "description": "The Masked Marauder is a fictional comic book character owned by Marvel Comics and appearing in that company's Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Daredevil_cover_-_number_17.jpg/250px-Daredevil_cover_-_number_17.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Daredevil_cover_-_number_17.jpg/250px-Daredevil_cover_-_number_17.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Masked Marauder",
   "partners": [
   ],

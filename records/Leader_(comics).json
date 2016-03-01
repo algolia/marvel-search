@@ -10,9 +10,14 @@
     "Stan Lee"
   ],
   "description": "The Leader (Samuel Sterns) is a fictional character, a supervillain  that appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/52b0d25c3dbb9/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/52b0d25c3dbb9/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Leader",
   "partners": [
     "Abomination",

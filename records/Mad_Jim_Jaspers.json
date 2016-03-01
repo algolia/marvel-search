@@ -9,9 +9,12 @@
     "Alan Davis"
   ],
   "description": "Sir James Jaspers (aka Mad Jim Jaspers) is a fictional character created by Dave Thorpe and Alan Davis for the Captain Britain stories in Marvel UK comics and later developed by Alan Moore.Jaspers was a British member of Parliament with a mutated brain that enabled him to alter reality; an unfortunate side effect of this power was that it quickly drove him mad once he began to use it on a larger scale.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Mad_Jim_Jaspers.jpg/250px-Mad_Jim_Jaspers.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Mad_Jim_Jaspers.jpg/250px-Mad_Jim_Jaspers.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mad Jim Jaspers",
   "partners": [
     "Fury",

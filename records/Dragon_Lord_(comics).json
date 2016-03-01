@@ -11,9 +11,14 @@
     "Mike Friedrich"
   ],
   "description": "Dragon Lord is the name of several unrelated fictional characters in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Dragonlordc.jpg/249px-Dragonlordc.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Dragonlordc.jpg/249px-Dragonlordc.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Dragon Lord",
   "partners": [
   ],

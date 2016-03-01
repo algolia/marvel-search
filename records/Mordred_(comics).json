@@ -11,8 +11,11 @@
     "Joe Maneely"
   ],
   "description": "Mordred the Evil is a fictional character in the Marvel Universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mordred",
   "partners": [
   ],

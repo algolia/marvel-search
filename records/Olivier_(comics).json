@@ -14,9 +14,12 @@
     "Bernie Wrightson"
   ],
   "description": "Olivier is a fictional character in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Olivierpun1.jpg/250px-Olivierpun1.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Olivierpun1.jpg/250px-Olivierpun1.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Olivier",
   "partners": [
   ],

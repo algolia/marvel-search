@@ -11,8 +11,11 @@
     "Jeff Matsuda"
   ],
   "description": "Fatale is a fictional comic book supervillain who appears in books published by Marvel Comics, usually those featuring the X-Men family of characters.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Fatale",
   "partners": [
   ],

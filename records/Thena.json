@@ -9,9 +9,14 @@
     "Jack Kirby"
   ],
   "description": "Thena, a second generation Eternal, is the eldest daughter of Zuras, leader of the Eternals of Earth, and Cybele, and although she has lived for more than 4,000 years, she is still considered a young woman by Eternal standards.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c002f2a83a8c/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c002f2a83a8c/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Thena",
   "partners": [
   ],

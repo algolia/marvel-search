@@ -8,9 +8,14 @@
     "Allan Heinberg"
   ],
   "description": "Believing himself to be one of the Scarlet Witch's twin boys, Billy Kaplan also has reality-altering powers and is a member of the Young Avengers.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4c003a6e38300/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4c003a6e38300/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Wiccan",
   "partners": [
     "Hulkling"

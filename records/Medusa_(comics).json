@@ -8,9 +8,19 @@
     "Jack Kirby"
   ],
   "description": "Medusa is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/537bb549bebd0/standard_xlarge.jpg",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/537bb577be87e.gif",
+    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/3/40/537bb5668021d.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/537bb549bebd0/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 25,
+    "green": 11,
+    "red": 42,
+    "rgb": "2A0B19"
+  },
   "name": "Medusa",
   "partners": [
   ],

@@ -10,9 +10,12 @@
     "Alan Kupperberg"
   ],
   "description": "The Walrus is a comedic Marvel Comics supervillain who first appeared in Defenders #131 (May 1984).",
-  "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Walrus_comics.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ec/Walrus_comics.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Walrus",
   "partners": [
     "White Rabbit"

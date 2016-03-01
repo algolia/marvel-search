@@ -7,9 +7,12 @@
     "Fabrice Sapolsky",
     "Carmine Di Giandomenico"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Spider-Man_Noir.png/250px-Spider-Man_Noir.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Spider-Man_Noir.png/250px-Spider-Man_Noir.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Spider-Man Noir",
   "partners": [
   ],

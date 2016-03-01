@@ -7,9 +7,12 @@
     "Jeff Purves",
     "Jeff Purves (pencils)"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Madman_%28Marvel_Comics%29.jpg/250px-Madman_%28Marvel_Comics%29.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Madman_%28Marvel_Comics%29.jpg/250px-Madman_%28Marvel_Comics%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Madman",
   "partners": [
     "Leader",

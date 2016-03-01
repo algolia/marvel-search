@@ -14,9 +14,12 @@
     "Justin Gray"
   ],
   "description": "Blue Streak is the name of three Marvel Comics supervillains.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Blue-streak.jpg/249px-Blue-streak.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Blue-streak.jpg/249px-Blue-streak.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Blue Streak",
   "partners": [
   ],

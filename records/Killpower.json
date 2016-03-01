@@ -8,9 +8,12 @@
     "Graham Mark"
   ],
   "description": "Killpower (Julius Mullarkey) is a fictional British comic book character from Marvel UK.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Killpower.jpg/200px-Killpower.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Killpower.jpg/200px-Killpower.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Killpower",
   "partners": [
   ],

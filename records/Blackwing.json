@@ -9,8 +9,11 @@
     "Don Heck"
   ],
   "description": "Blackwing is the name of two fictional Marvel Comics supervillains and one hero.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Blackwing",
   "partners": [
   ],

@@ -9,9 +9,14 @@
     "Jack Kirby"
   ],
   "description": "The Miracle Man is a supervillain featured in Marvel Comics, created by Stan Lee and Jack Kirby as one of the first enemies of the Fantastic Four.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/8/82/FF_3_panel.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/82/FF_3_panel.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Miracle Man",
   "partners": [
   ],

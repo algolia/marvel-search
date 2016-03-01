@@ -7,9 +7,12 @@
     "Jack Kirby"
   ],
   "description": "Jonathan \"Junior\" Juniper is a fictional character in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Juniper_Junior_Howling_Commandos_1.jpg/180px-Juniper_Junior_Howling_Commandos_1.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Juniper_Junior_Howling_Commandos_1.jpg/180px-Juniper_Junior_Howling_Commandos_1.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Junior Juniper",
   "partners": [
   ],

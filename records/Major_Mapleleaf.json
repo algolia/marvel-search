@@ -8,9 +8,14 @@
     "Mark Pacella"
   ],
   "description": "Major Mapleleaf is the name of two fictional superheroes appearing in books published by Marvel Comics, primarily in the series Alpha Flight, both of whom were created by writer Scott Lobdell.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Majormaple.png/250px-Majormaple.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Majormaple.png/250px-Majormaple.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Major Mapleleaf",
   "partners": [
   ],

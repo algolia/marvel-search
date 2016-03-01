@@ -7,9 +7,14 @@
     "Adam Kubert"
   ],
   "description": "Chimera is a fictional mutant character in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/ChimeraX-Men.jpg/250px-ChimeraX-Men.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/ChimeraX-Men.jpg/250px-ChimeraX-Men.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Chimera",
   "partners": [
     "Dirtnap",

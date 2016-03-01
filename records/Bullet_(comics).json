@@ -7,8 +7,11 @@
     "Ann Nocenti"
   ],
   "description": "Bullet is a fictional character that has appeared in comic books published by Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Bullet",
   "partners": [
   ],

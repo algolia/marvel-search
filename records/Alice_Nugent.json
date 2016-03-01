@@ -4,9 +4,12 @@
   ],
   "authors": [
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/IronMan-63.jpg/250px-IronMan-63.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/IronMan-63.jpg/250px-IronMan-63.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Alice Nugent",
   "partners": [
   ],

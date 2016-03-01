@@ -9,9 +9,12 @@
     "Stan Lee"
   ],
   "description": "Wilhelm van Vile, better known as The Painter, is a fictional character, a supervillain appearing in Marvel Comics-published comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Strang_Tales_108_cover.jpg/250px-Strang_Tales_108_cover.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Strang_Tales_108_cover.jpg/250px-Strang_Tales_108_cover.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Painter",
   "partners": [
   ],

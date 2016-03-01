@@ -9,9 +9,12 @@
     "Gerry Conway"
   ],
   "description": "Mercurio the 4-D Man (abbreviation of four dimensional - a feature of Mercurio's home world) is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/CaptainMarvel51.jpg/260px-CaptainMarvel51.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/CaptainMarvel51.jpg/260px-CaptainMarvel51.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mercurio the 4-D Man",
   "partners": [
     "Thor"

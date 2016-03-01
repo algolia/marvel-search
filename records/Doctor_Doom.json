@@ -9,9 +9,12 @@
     "Jack Kirby"
   ],
   "description": "Doctor Doom (Victor von Doom) is a fictional character, a supervillain that appears in publications by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/53176bb096d17/standard_xlarge.jpg",
+  "images": {
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/53176bb096d17/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Doctor Doom",
   "partners": [
   ],
@@ -60,7 +63,7 @@
     "Astonishing Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/13/dr_doom",
+    "marvel": "http://marvel.com/comics/characters/1009281/doctor_doom",
     "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Doom"
   }
 }

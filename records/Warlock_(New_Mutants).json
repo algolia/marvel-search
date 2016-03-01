@@ -10,9 +10,14 @@
     "Chris Claremont"
   ],
   "description": "College design student Janie Chin was transformed by Adam Warlock into a female version of him, who then tried to cure the planet.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Technarchy.jpg/250px-Technarchy.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Technarchy.jpg/250px-Technarchy.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Warlock (Janie Chin)",
   "partners": [
   ],

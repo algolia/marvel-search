@@ -10,9 +10,14 @@
     "Jim Starlin"
   ],
   "description": "Shang-Chi (Chinese: 上氣; pinyin: shàng qì; literally: \"rising of the spirit\") is a Marvel Comics character, often called the \"Master of Kung Fu\".",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Shang-Chi.jpg/250px-Shang-Chi.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Shang-Chi.jpg/250px-Shang-Chi.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Shang-Chi (Ultimate)",
   "partners": [
   ],

@@ -4,9 +4,12 @@
   ],
   "authors": [
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/3/39/DeciMation.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/39/DeciMation.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Caiman",
   "partners": [
   ],

@@ -11,9 +11,19 @@
     "Stan Lee"
   ],
   "description": "Iceman (Robert \"Bobby\" Drake) is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/52696c836898c/standard_xlarge.jpg",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/8/50/537bb12caf103.gif",
+    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/537bb11d2bd79.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/52696c836898c/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 57,
+    "green": 31,
+    "red": 18,
+    "rgb": "121F39"
+  },
   "name": "Iceman",
   "partners": [
   ],

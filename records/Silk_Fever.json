@@ -9,8 +9,13 @@
     "Mark Bagley"
   ],
   "description": "Silk Fever is a villain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Silk Fever",
   "partners": [
   ],

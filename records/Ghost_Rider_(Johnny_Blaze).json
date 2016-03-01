@@ -11,9 +11,14 @@
     "Roy Thomas"
   ],
   "description": "Ghost Rider is a fictional character, a superhero who appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/535feaa671cc6/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/535feaa671cc6/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ghost Rider (Daniel Ketch)",
   "partners": [
   ],

@@ -5,9 +5,12 @@
   "authors": [
   ],
   "description": "Ghost Rider 2099 is a comic book series that was published by Marvel Comics, under the Marvel 2099 imprint, from 1994 to 1996.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/7/71/Ghost_Rider_2099_2_cover.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/71/Ghost_Rider_2099_2_cover.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ghost Rider 2099",
   "partners": [
   ],

@@ -7,9 +7,12 @@
     "John Romita, Sr."
   ],
   "description": "Man Mountain Marko (Michael Marko) is a Marvel Comics supervillain.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/ASM073CVR_160ref.jpg/250px-ASM073CVR_160ref.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/ASM073CVR_160ref.jpg/250px-ASM073CVR_160ref.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Man Mountain Marko",
   "partners": [
   ],

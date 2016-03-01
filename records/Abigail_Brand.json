@@ -7,9 +7,12 @@
     "Joss Whedon"
   ],
   "description": "Special Agent Abigail Brand is a fictional character in the Marvel Comics' universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/AbigailBrand.png/250px-AbigailBrand.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/AbigailBrand.png/250px-AbigailBrand.png"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Abigail Brand",
   "partners": [
     "Beast"

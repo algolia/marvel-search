@@ -11,9 +11,14 @@
     "Stan Lee"
   ],
   "description": "Dr. Bill Foster, also known as Black Goliath, the second Giant-Man, and the fourth Goliath, is a fictional character, a comic book superhero in the Marvel Comics universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c00343d177d6/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c00343d177d6/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Goliath (Bill Foster)",
   "partners": [
   ],

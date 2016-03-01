@@ -15,8 +15,13 @@
     "John Romita, Sr."
   ],
   "description": "Ultimate Wolverine is a fictional comic book superhero appearing in books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Logan",
   "partners": [
   ],

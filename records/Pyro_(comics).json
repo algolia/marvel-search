@@ -9,9 +9,14 @@
     "Chris Claremont"
   ],
   "description": "Pyro (St. John Allerdyce) is a fictional character, a supervillain in Marvel Comics and an enemy of the X-Men.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4ce5a0eeab435/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4ce5a0eeab435/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Pyro",
   "partners": [
   ],

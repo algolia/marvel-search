@@ -10,9 +10,12 @@
     "Chris Claremont"
   ],
   "description": "Margali Szardos, also known as Margali of the Winding Way, Red Queen or Fata Morgana, is a fictional comic book character appearing in books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Margali.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a6/Margali.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Margali Szardos",
   "partners": [
   ],

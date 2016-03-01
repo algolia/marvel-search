@@ -9,9 +9,12 @@
     "and Whilce Portacio"
   ],
   "description": "Psynapse is a comic book villain in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Psynapse.jpg/150px-Psynapse.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Psynapse.jpg/150px-Psynapse.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Psynapse",
   "partners": [
   ],

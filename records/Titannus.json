@@ -7,9 +7,12 @@
     "Scott Kolins"
   ],
   "description": "Titannus is a fictional character in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/MARVTU012cov.jpg/250px-MARVTU012cov.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/MARVTU012cov.jpg/250px-MARVTU012cov.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Titannus",
   "partners": [
   ],

@@ -9,8 +9,11 @@
     "Jim Mooney"
   ],
   "description": "Solarman was a superhero that ran briefly in his own 1989 title from Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Solarman",
   "partners": [
   ],

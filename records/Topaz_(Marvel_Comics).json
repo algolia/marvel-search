@@ -7,9 +7,12 @@
     "Mike Ploog"
   ],
   "description": "Topaz is a fictional character, a sorceress in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/DeodatoTopaz.jpg/250px-DeodatoTopaz.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/DeodatoTopaz.jpg/250px-DeodatoTopaz.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Topaz",
   "partners": [
     "Doctor Strange",

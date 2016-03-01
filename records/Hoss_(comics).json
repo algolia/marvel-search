@@ -7,8 +7,11 @@
     "Clayton Crain"
   ],
   "description": "Hoss is a fictional character appearing in Marvel Comics, created by writer Garth Ennis and artist Clayton Crain.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Hoss",
   "partners": [
   ],

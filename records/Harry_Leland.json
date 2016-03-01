@@ -8,9 +8,12 @@
     "John Byrne"
   ],
   "description": "Harry Leland, also known as the Black Bishop, is a Marvel Comics supervillain and an adversary of the X-Men.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/c/c8/Harry_Leland.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c8/Harry_Leland.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Harry Leland",
   "partners": [
   ],

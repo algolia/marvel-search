@@ -11,9 +11,14 @@
     "Will Murray"
   ],
   "description": "Escaping the taunts of her fellow school students regarding her physical mutation, Los-Angeles born Doreen Green fled into the nearby woods where she quickly discovered her affinity for squirrels.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c0035beb0c55/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c0035beb0c55/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Squirrel Girl",
   "partners": [
     "Monkey Joe",

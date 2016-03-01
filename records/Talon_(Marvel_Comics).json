@@ -6,8 +6,13 @@
     "Jim Valentino"
   ],
   "description": "Falling to Earth wrapped in a ball of flame, Talon crash landed next to the home of Chris Powell, the young hero known as Darkhawk.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Talon (Fraternity of Raptors)",
   "partners": [
     "The Sorcerer Supreme",

@@ -7,9 +7,12 @@
     "Frank Tieri"
   ],
   "description": "Underworld (Jackie Dio) is a fictional character, a supervillain in publications from Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/UNDRWLD005_FLCOV.jpg/250px-UNDRWLD005_FLCOV.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/UNDRWLD005_FLCOV.jpg/250px-UNDRWLD005_FLCOV.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Underworld",
   "partners": [
   ],

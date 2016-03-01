@@ -9,9 +9,12 @@
     "Walter Simonson"
   ],
   "description": "Kurse is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thor363.jpg/250px-Thor363.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thor363.jpg/250px-Thor363.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Kurse",
   "partners": [
     "Malekith the Accursed",

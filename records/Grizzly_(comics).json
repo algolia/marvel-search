@@ -15,9 +15,12 @@
     "Gerry Conway"
   ],
   "description": "Grizzly is the name of four unrelated fictional characters from the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Amazing_Spider-Man_139.jpg/250px-Amazing_Spider-Man_139.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Amazing_Spider-Man_139.jpg/250px-Amazing_Spider-Man_139.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Grizzly",
   "partners": [
     "Jackal"

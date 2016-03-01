@@ -6,8 +6,11 @@
     "Fabian Nicieza"
   ],
   "description": "Smuggler (Conrad Josten) is a fictional character in Marvel Comics as a superhero.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Smuggler",
   "partners": [
   ],

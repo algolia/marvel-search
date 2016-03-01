@@ -8,9 +8,12 @@
     "Kieron Dwyer"
   ],
   "description": "Sputnik is a fictional character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Sputnik_-_captain_america_353.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a5/Sputnik_-_captain_america_353.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Sputnik",
   "partners": [
   ],

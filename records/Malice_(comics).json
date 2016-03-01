@@ -7,9 +7,14 @@
     "Rick Leonardi"
   ],
   "description": "Malice is the name of four separate fictional comic book supervillains in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Malicewiki.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5b/Malicewiki.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Malice (Earth-161)",
   "partners": [
   ],

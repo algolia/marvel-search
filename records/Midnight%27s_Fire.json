@@ -5,9 +5,12 @@
     "Fabian Nicieza",
     "Mark Bagley"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Midnightsfire.png/160px-Midnightsfire.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Midnightsfire.png/160px-Midnightsfire.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Midnight's Fire",
   "partners": [
   ],

@@ -21,9 +21,14 @@
     "Warren Ellis"
   ],
   "description": "The Captain (formerly Captain ☠☠☠☠, with the crosses denoting censorship of an expletive) is a fictional character, a satiric Marvel Comics superhero  appearing in the book Nextwave.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c00324c12ba2/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c00324c12ba2/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Captain Universe",
   "partners": [
   ],

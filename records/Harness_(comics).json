@@ -7,9 +7,12 @@
     "Fabian Nicieza"
   ],
   "description": "Harness (Erika Benson) is a fictional mutant character in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/Newmutantsann7.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/ff/Newmutantsann7.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Harness",
   "partners": [
   ],

@@ -8,9 +8,14 @@
     "Jim Shooter"
   ],
   "description": "Aqueduct (Peter van Zante), originally known as Water Wizard, is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c0035b3630cd/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c0035b3630cd/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Aqueduct",
   "partners": [
   ],

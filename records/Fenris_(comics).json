@@ -11,8 +11,13 @@
     "John Romita, Jr."
   ],
   "description": "Fenris (Andrea von Strucker and Andreas von Strucker) are two fictional characters from the Marvel Comics universe, namely German twins Andrea and Andreas von Strucker.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Fenris",
   "partners": [
   ],

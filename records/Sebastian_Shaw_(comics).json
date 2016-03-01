@@ -10,9 +10,14 @@
     "John Byrne"
   ],
   "description": "Sebastian Shaw was invited to join the elite Hellfire Club and quickly worked his way into a position within the Inner Circle.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c003c1e9a90e/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c003c1e9a90e/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Sebastian Shaw",
   "partners": [
   ],

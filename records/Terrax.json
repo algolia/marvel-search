@@ -13,9 +13,14 @@
     "Joe Sinnott"
   ],
   "description": "Tyros was once the dictator of the city Lanlak on the planet Birj, where his superhuman ability to command rocks and earth enabled him to overcome all resistance, but his rule of Lanlak came to an end when he was sought by the world-devouring Galactus to serve as his latest Herald.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/8/85/FantasticFour-242.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/85/FantasticFour-242.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Terrax",
   "partners": [
   ],

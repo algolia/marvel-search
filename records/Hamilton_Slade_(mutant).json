@@ -8,9 +8,12 @@
     "Frank Tieri"
   ],
   "description": "For the other Marvel Comics character, who is the current Phantom Rider see Phantom Rider (Hamilton Slade)Hamilton Slade is a fictional character, a mutant in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Slad_mom.JPG/250px-Slad_mom.JPG",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Slad_mom.JPG/250px-Slad_mom.JPG"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Hamilton Slade",
   "partners": [
   ],

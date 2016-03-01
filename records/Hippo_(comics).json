@@ -9,8 +9,11 @@
     "Brian Reed"
   ],
   "description": "Hippo is the name of a Marvel Comics supervillain.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Hippo",
   "partners": [
   ],

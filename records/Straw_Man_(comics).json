@@ -10,9 +10,14 @@
     "Rico Rival"
   ],
   "description": "Realizing the criminal potential of his abilities, Umberto stole a flock of trained birds from a fellow performer to assist him in his new costumed criminal guise as the Scarecrow.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/9/96/StrawMan.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/96/StrawMan.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Scarecrow (Ebenezer Laughton)",
   "partners": [
   ],

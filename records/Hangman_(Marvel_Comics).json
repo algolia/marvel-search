@@ -9,8 +9,11 @@
     "Barry Smith"
   ],
   "description": "Hangman is the name of two fictional characters in the Marvel Universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Hangman",
   "partners": [
   ],

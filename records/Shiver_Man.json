@@ -9,9 +9,14 @@
     "Frank Tieri"
   ],
   "description": "The Shiver Man is an undead bounty hunter who has worked with Nick Fury and Wolverine.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Shiverma4.jpg/250px-Shiverma4.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Shiverma4.jpg/250px-Shiverma4.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Shiver Man",
   "partners": [
     "Wolverine",

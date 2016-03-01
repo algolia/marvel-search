@@ -17,9 +17,14 @@
     "Chris Claremont"
   ],
   "description": "James Arthur \"Jamie\" Madrox, also called the Multiple Man, is a fictional character, a Marvel Comics superhero, associated with the X-Men.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c00310e9dc27/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c00310e9dc27/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Multiple Man",
   "partners": [
   ],

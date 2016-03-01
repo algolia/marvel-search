@@ -8,9 +8,14 @@
     "Grant Morrison"
   ],
   "description": "Tattoo, later Longstrike, is a fictional mutant character in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Longstrike.jpg/200px-Longstrike.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Longstrike.jpg/200px-Longstrike.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Tattoo",
   "partners": [
   ],

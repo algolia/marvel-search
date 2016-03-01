@@ -11,8 +11,11 @@
     "Stan Lee"
   ],
   "description": "Cat-Man is the name of a number of fictional characters in Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Cat-Man",
   "partners": [
   ],

@@ -14,9 +14,14 @@
     "Stan Lee"
   ],
   "description": "Freak is the name of three fictional characters in the Marvel Universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/4ce5a5b3cc0aa/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/4ce5a5b3cc0aa/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Freak",
   "partners": [
   ],

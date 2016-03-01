@@ -8,8 +8,11 @@
     "Steve Dillon"
   ],
   "description": "Whiteface is a fictional comic book supervillain in Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Whiteface",
   "partners": [
   ],

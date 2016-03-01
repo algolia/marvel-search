@@ -8,9 +8,12 @@
     "Craig Kyle"
   ],
   "description": "Predator X is a comic book character, in Marvel Comics'  main shared universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Predatorx.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5f/Predatorx.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Predator X",
   "partners": [
   ],

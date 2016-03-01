@@ -8,9 +8,12 @@
     "Yong Montano"
   ],
   "description": "Modred the Mystic is a fictional magician in the Marvel Comics universe who has alternated between being an anti-hero and an outright supervillain.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/MODREDTHEMYSTIC.jpg/200px-MODREDTHEMYSTIC.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/MODREDTHEMYSTIC.jpg/200px-MODREDTHEMYSTIC.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Modred the Mystic",
   "partners": [
   ],

@@ -12,8 +12,11 @@
     "Herb Trimpe"
   ],
   "description": "Merlyn is a fictional character in the Marvel Comics universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Merlyn",
   "partners": [
   ],

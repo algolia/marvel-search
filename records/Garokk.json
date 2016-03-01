@@ -10,9 +10,12 @@
     "Jack Kirby"
   ],
   "description": "Garokk (also known as the Petrified Man) is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Garokk.PNG/150px-Garokk.PNG",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Garokk.PNG/150px-Garokk.PNG"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Garokk",
   "partners": [
     "Magneto",

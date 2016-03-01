@@ -8,9 +8,14 @@
     "Jim Lee"
   ],
   "description": "Bishop (Lucas Bishop) is a fictional comic book superhero, appearing in books published by Marvel Comics, in particular the X-Men family of books.Bishop was a member of Xavier's Security Enforcers (initially called the Xavier School Enforcers), a mutant police force from a dystopian future of the Marvel Universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/52602f4b42d98/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/52602f4b42d98/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Bishop",
   "partners": [
   ],
@@ -44,7 +49,7 @@
     "X-Treme X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/264/bishop",
+    "marvel": "http://marvel.com/comics/characters/1009182/bishop",
     "wikipedia": "https://en.wikipedia.org/wiki/Bishop_(comics)"
   }
 }

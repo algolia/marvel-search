@@ -7,9 +7,12 @@
     "Jason Aaron"
   ],
   "description": "The Deacon is a fictional Marvel Comics character.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Deacon_new.jpg/250px-Deacon_new.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Deacon_new.jpg/250px-Deacon_new.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Deacon",
   "partners": [
   ],

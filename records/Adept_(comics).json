@@ -7,9 +7,12 @@
     "Brent Anderson"
   ],
   "description": "Adept (Jelene Anderson) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/f/f4/Adept_Morituri.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f4/Adept_Morituri.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Adept",
   "partners": [
   ],

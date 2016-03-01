@@ -6,8 +6,11 @@
     "Bob Harras"
   ],
   "description": "Werner von Strucker is a fictional character in the Marvel Comics universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Werner von Strucker",
   "partners": [
   ],

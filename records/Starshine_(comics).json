@@ -8,9 +8,12 @@
     "Al Milgrom"
   ],
   "description": "Starshine is the name of three fictional American comic book characters owned by the Marvel Comics and appearing in that company's Marvel Universe.The first was an alien woman named Landra who first appeared in Rom: Spaceknight #14 (1980) by writer Bill Mantlo and artist Sal Buscema.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/6/6c/Starshine_I.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6c/Starshine_I.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Starshine",
   "partners": [
   ],

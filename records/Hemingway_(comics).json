@@ -8,8 +8,13 @@
     "Scott Lobdell"
   ],
   "description": "Hemingway is a fictional villain created by Marvel Comics for their team called Gene Nation.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Hemingway",
   "partners": [
   ],

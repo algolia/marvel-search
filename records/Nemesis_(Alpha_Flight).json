@@ -10,9 +10,14 @@
     "James Hudnall"
   ],
   "description": "Nemesis is the name of three fictional superheroines appearing in books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/1/14/Nemesis_%28Alpha_Flight%29.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/14/Nemesis_%28Alpha_Flight%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Nemesis",
   "partners": [
   ],

@@ -7,9 +7,14 @@
     "Doug Wildey"
   ],
   "description": "The Outlaw Kid  is a fictional Western hero in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/OutlawKid11-pg2.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4c/OutlawKid11-pg2.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Outlaw Kid",
   "partners": [
   ],

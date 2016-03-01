@@ -5,9 +5,12 @@
     "Simon Furman",
     "Geoff Senior"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/Deathsheadcomic.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/ba/Deathsheadcomic.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Death's Head",
   "partners": [
   ],

@@ -11,9 +11,14 @@
     "Steve Dillon"
   ],
   "description": "Akihiro, codename Daken is a fictional comic book supervillain licensed by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/520289a920fd9/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/520289a920fd9/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Daken",
   "partners": [
   ],
@@ -51,7 +56,7 @@
     "Horsemen of Death"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1011001/daken",
+    "marvel": "http://marvel.com/characters/497/daken",
     "wikipedia": "https://en.wikipedia.org/wiki/Daken"
   }
 }

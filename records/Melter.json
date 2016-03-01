@@ -10,9 +10,12 @@
     "Stan Lee"
   ],
   "description": "The Melter is the name of three characters in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Melter.jpg/240px-Melter.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Melter.jpg/240px-Melter.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Melter",
   "partners": [
   ],

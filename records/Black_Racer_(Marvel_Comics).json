@@ -7,9 +7,12 @@
     "Tom Morgan"
   ],
   "description": "Black Racer (Ariana) is a fictional character, a supervillain in the Marvel Comics universe and member of the second Serpent Society.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/Black_racer_marvel.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1d/Black_racer_marvel.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Black Racer",
   "partners": [
   ],

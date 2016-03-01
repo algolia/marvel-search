@@ -6,9 +6,12 @@
     "Roy Thomas",
     "Frank Robbins"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Spiritof76-comics.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/07/Spiritof76-comics.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Spirit of '76",
   "partners": [
   ],

@@ -9,9 +9,14 @@
     "Jack Kirby"
   ],
   "description": "David Cannon was always a bully, so his mutant abilities naturally led him to a life of crime and petty thievery, until his constant defeat at the hands of the Hank Pym and the Wasp led him to create the Whirlwind identity.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4c7c643e59215/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4c7c643e59215/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Whirlwind",
   "partners": [
   ],

@@ -7,8 +7,11 @@
     "Scott Lobdell"
   ],
   "description": "Mondo is the name of two fictional comic book characters that have appeared in the Marvel Comics series Generation X.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mondo",
   "partners": [
     "Black Tom Cassidy",

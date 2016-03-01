@@ -8,8 +8,11 @@
     "Dan Jurgens"
   ],
   "description": "The Answer is the name of three fictional comic book characters, owned by Marvel Comics and appearing in that company's Marvel Universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Answer",
   "partners": [
   ],

@@ -7,9 +7,12 @@
     "Jack Kirby",
     "Larry Lieber"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Egghead_comics.jpg/250px-Egghead_comics.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Egghead_comics.jpg/250px-Egghead_comics.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Egghead",
   "partners": [
     "Mad Thinker",

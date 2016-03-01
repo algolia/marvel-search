@@ -7,9 +7,12 @@
     "Gil Kane"
   ],
   "description": "Gog is a fictional character, a comic book supervillain in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/5/56/AmazingSpider-Man103.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/56/AmazingSpider-Man103.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Gog",
   "partners": [
   ],

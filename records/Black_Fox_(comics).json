@@ -10,8 +10,11 @@
     "John Byrne"
   ],
   "description": "Black Fox is a code name used by two unrelated fictional characters in Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Black Fox",
   "partners": [
     "Red Ghost"

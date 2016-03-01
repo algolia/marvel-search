@@ -10,9 +10,12 @@
     "Tony Isabella"
   ],
   "description": "Stuart Clarke is a comic book character in the Marvel Comics universe, an ex-supervillain who first fought as Rampage against the short-lived Champions team.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Stuartclarke.jpg/250px-Stuartclarke.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Stuartclarke.jpg/250px-Stuartclarke.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Stuart Clarke",
   "partners": [
   ],

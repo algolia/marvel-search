@@ -8,9 +8,12 @@
     "Grant Morrison"
   ],
   "description": "Vincent Stewart, codenamed Redneck and later Skybolt is a fictional mutant character in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Skybolt1.jpg/250px-Skybolt1.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Skybolt1.jpg/250px-Skybolt1.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Skybolt",
   "partners": [
   ],

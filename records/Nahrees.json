@@ -7,9 +7,12 @@
     "Jae Lee"
   ],
   "description": "Nahrees is a fictional character, a superhero in Marvel Comics' universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nahreesinhuman.jpg/225px-Nahreesinhuman.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nahreesinhuman.jpg/225px-Nahreesinhuman.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Nahrees",
   "partners": [
   ],

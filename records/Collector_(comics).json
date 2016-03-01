@@ -7,9 +7,12 @@
     "Stan Lee"
   ],
   "description": "The Collector (Taneleer Tivan) is a fictional comic book character, a supervillain that has appeared in books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Avengers_119.jpg/250px-Avengers_119.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Avengers_119.jpg/250px-Avengers_119.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Collector",
   "partners": [
   ],

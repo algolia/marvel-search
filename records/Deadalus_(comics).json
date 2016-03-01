@@ -9,9 +9,12 @@
     "J.D. Matonti"
   ],
   "description": "Sylvester Deadalus (Sly) is a fictional character, a supervillain that appears in the  NEW-GEN comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Deadalus_new_gen.jpg/250px-Deadalus_new_gen.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Deadalus_new_gen.jpg/250px-Deadalus_new_gen.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Tysen S. the half and half.",
   "partners": [
   ],

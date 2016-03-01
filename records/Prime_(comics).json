@@ -8,8 +8,11 @@
     "Len Strazewski"
   ],
   "description": "Prime is a superhero created by Bob Jacob, Gerard Jones, Len Strazewski, and Norm Breyfogle.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Prime",
   "partners": [
   ],

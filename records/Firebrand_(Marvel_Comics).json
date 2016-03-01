@@ -10,9 +10,14 @@
     "Kurt Busiek"
   ],
   "description": "Firebrand is the codename of different fictional supervillains in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/9/96/Firebrand_001.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/96/Firebrand_001.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Firebrand",
   "partners": [
   ],

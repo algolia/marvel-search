@@ -8,8 +8,13 @@
     "Chris Claremont"
   ],
   "description": "Plague was a fictional character in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Pestilence",
   "partners": [
   ],

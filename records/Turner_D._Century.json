@@ -9,9 +9,12 @@
     "J.M. DeMatteis"
   ],
   "description": "Turner D.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/48/Turnerdcentury.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/48/Turnerdcentury.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Turner D. Century",
   "partners": [
   ],

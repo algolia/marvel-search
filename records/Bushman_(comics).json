@@ -7,9 +7,12 @@
     "Doug Moench"
   ],
   "description": "Raoul Bushman is a fictional character appearing in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/MOONKN4.jpg/250px-MOONKN4.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/MOONKN4.jpg/250px-MOONKN4.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Bushman",
   "partners": [
   ],

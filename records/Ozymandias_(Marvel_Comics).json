@@ -7,9 +7,14 @@
     "Scott Lobdell"
   ],
   "description": "Ozymandias is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/0/01/OzymandiasMarvel1.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/01/OzymandiasMarvel1.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ozymandias",
   "partners": [
   ],

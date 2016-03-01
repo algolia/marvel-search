@@ -7,9 +7,14 @@
     "Warren Ellis"
   ],
   "description": "Dirk Anger is a satirical Marvel Comics character appearing in the book Nextwave.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/One_Crazy_MammaJamma.jpg/250px-One_Crazy_MammaJamma.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/One_Crazy_MammaJamma.jpg/250px-One_Crazy_MammaJamma.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Dirk Anger",
   "partners": [
   ],

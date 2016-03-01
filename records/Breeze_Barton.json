@@ -6,9 +6,12 @@
     "Jack Binder"
   ],
   "description": "Breeze Barton is a fictional character, a superhero who appears in comics published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Breeze_Barton1.jpg/200px-Breeze_Barton1.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Breeze_Barton1.jpg/200px-Breeze_Barton1.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Breeze Barton",
   "partners": [
   ],

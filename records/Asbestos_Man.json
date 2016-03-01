@@ -8,9 +8,12 @@
     "Stan Lee"
   ],
   "description": "Dr. Orson Karloff, better known as the Asbestos Man, is a fictional character, a supervillain who appears in comics published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Strange_Tales_111_cover.jpg/250px-Strange_Tales_111_cover.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Strange_Tales_111_cover.jpg/250px-Strange_Tales_111_cover.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Asbestos Man",
   "partners": [
   ],

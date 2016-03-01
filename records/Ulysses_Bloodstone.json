@@ -12,9 +12,12 @@
     "Len Wein"
   ],
   "description": "Ulysses Bloodstone is a fictional character, an immortal monster-hunter in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Bloodstone_Ulysses.jpg/200px-Bloodstone_Ulysses.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Bloodstone_Ulysses.jpg/200px-Bloodstone_Ulysses.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ulysses Bloodstone",
   "partners": [
   ],

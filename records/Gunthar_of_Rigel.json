@@ -8,9 +8,12 @@
     "Roger Stern",
     "John Buscema"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Avengers_318.jpg/250px-Avengers_318.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Avengers_318.jpg/250px-Avengers_318.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Gunthar of Rigel",
   "partners": [
   ],

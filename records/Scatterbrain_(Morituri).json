@@ -8,9 +8,12 @@
     "Peter B. Gillis"
   ],
   "description": "Scatterbrain (Will Deguchi) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Scatterbrain_Morituri.jpg/250px-Scatterbrain_Morituri.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Scatterbrain_Morituri.jpg/250px-Scatterbrain_Morituri.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Scatterbrain",
   "partners": [
   ],

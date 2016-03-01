@@ -15,9 +15,12 @@
     "Jim Mooney"
   ],
   "description": "Kangaroo is the name of two characters in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Kanga1.jpg/249px-Kanga1.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Kanga1.jpg/249px-Kanga1.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Kangaroo",
   "partners": [
     "Spot",

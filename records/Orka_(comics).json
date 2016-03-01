@@ -8,9 +8,12 @@
     "Marie Severin"
   ],
   "description": "Orka is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Sub-mariner23.jpg/250px-Sub-mariner23.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Sub-mariner23.jpg/250px-Sub-mariner23.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Orka",
   "partners": [
     "Virago",

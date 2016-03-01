@@ -10,8 +10,13 @@
     "John Byrne"
   ],
   "description": "Primus is the name of three characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Nomad (Steve Rogers)",
   "partners": [
   ],

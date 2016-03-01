@@ -7,9 +7,12 @@
     "Bill Mantlo"
   ],
   "description": "The Collective Man (Sun, Chang, Ho, Lin, and Han Tao-Yu) is a fictional character, a Chinese superhero in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Collective_Man.jpg/250px-Collective_Man.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Collective_Man.jpg/250px-Collective_Man.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Collective Man",
   "partners": [
   ],

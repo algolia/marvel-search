@@ -13,9 +13,12 @@
     "Frank Springer"
   ],
   "description": "In the Marvel Universe, there have been a number of fictional characters known as Golem.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Strange_Tales_174.jpg/200px-Strange_Tales_174.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Strange_Tales_174.jpg/200px-Strange_Tales_174.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Golem",
   "partners": [
   ],

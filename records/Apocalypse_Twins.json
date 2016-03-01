@@ -7,9 +7,12 @@
     "Olivier Coipel"
   ],
   "description": "The Apocalypse Twins are two supervillains from Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Apocalypse_Twins.jpg/225px-Apocalypse_Twins.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Apocalypse_Twins.jpg/225px-Apocalypse_Twins.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Apocalypse Twins",
   "partners": [
   ],

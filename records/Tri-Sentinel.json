@@ -7,8 +7,11 @@
     "David Michelinie"
   ],
   "description": "The Tri-Sentinel is a fictional robot who has appeared in the superhero comics of Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Tri-Sentinel",
   "partners": [
   ],

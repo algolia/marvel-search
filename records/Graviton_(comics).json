@@ -8,9 +8,12 @@
     "Sal Buscema"
   ],
   "description": "Graviton (Franklin Hall) is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Thunderbolts_17_cvr.jpg/250px-Thunderbolts_17_cvr.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Thunderbolts_17_cvr.jpg/250px-Thunderbolts_17_cvr.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Graviton",
   "partners": [
   ],

@@ -8,8 +8,11 @@
     "Bob Wiacek"
   ],
   "description": "Flying Tiger is a fictional Marvel Comics supervillain.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Flying Tiger",
   "partners": [
   ],

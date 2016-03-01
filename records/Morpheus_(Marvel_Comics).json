@@ -7,8 +7,11 @@
     "Bill Sienkiewicz"
   ],
   "description": "Morpheus is a fictional character in the Marvel Universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Morpheus",
   "partners": [
   ],

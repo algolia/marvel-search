@@ -9,9 +9,12 @@
     "Stan Lee"
   ],
   "description": "The Ringmaster is a fictional character, a supervillain in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Ringmaster.png/201px-Ringmaster.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Ringmaster.png/201px-Ringmaster.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ringmaster",
   "partners": [
   ],

@@ -12,9 +12,12 @@
     "Jason Aaron"
   ],
   "description": "Zadkiel is a fictional character appearing in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Zadkiel_Head.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/2f/Zadkiel_Head.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Zadkiel",
   "partners": [
   ],

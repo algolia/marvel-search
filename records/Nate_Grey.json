@@ -11,9 +11,14 @@
     "Steve Skroce"
   ],
   "description": "A clone of Nathan Summers (Cable), Nate Grey was created in the \"Age of Apocalypse\" timeline by that timeline's Mr. Sinister for the sole purpose of destroying Apocalypse.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/535febd73f84f/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/535febd73f84f/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "X-Man",
   "partners": [
     "Threnody",

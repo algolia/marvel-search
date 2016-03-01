@@ -7,8 +7,13 @@
     "Louise Simonson"
   ],
   "description": "Prism (Robbie) is a fictional character, a supervillain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Prism",
   "partners": [
   ],

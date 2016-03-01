@@ -7,9 +7,14 @@
     "Scott Lobdell"
   ],
   "description": "Angelo Espinosa, a founding member of Generation X, code-named \"Skin\" due to his mutant ability to extend and control his extra skin in any number of ways.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/20/4c003c0ce4a43/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/20/4c003c0ce4a43/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Skin",
   "partners": [
   ],

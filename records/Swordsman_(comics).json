@@ -7,9 +7,14 @@
     "Don Heck"
   ],
   "description": "Andreas reappeared as the Swordsman in the latest incarnation of the Thunderbolts, though his true identity was kept secret for some time.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/535ff38904fff/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/535ff38904fff/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Swordsman",
   "partners": [
   ],

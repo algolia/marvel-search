@@ -9,9 +9,12 @@
     "Len Wein"
   ],
   "description": "The Basilisk is the name of four fictional characters that appear in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/MTU047011basilisk.png/225px-MTU047011basilisk.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/MTU047011basilisk.png/225px-MTU047011basilisk.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Basilisk",
   "partners": [
   ],

@@ -10,9 +10,14 @@
     "Takeshi Miyazawa"
   ],
   "description": "Amadeus Cho, also known as Mastermind Excello, is a fictional character, a superhero appearing in books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/520288b9cb581/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/520288b9cb581/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Amadeus Cho",
   "partners": [
     "Hercules"

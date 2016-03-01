@@ -7,9 +7,14 @@
     "Steve Gerber",
     "Rich Buckler"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Nkantumu0.png/250px-Nkantumu0.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Nkantumu0.png/250px-Nkantumu0.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Living Mummy",
   "partners": [
   ],

@@ -9,9 +9,12 @@
     "Grant Morrison"
   ],
   "description": "Barnell Bohusk, currently known as Blackwing, formerly known as Beak, is a fictional character, a superhero associated with the X-Men and its spinoff the Exiles.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Blackwing.jpg/220px-Blackwing.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Blackwing.jpg/220px-Blackwing.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Barnell Bohusk",
   "partners": [
   ],

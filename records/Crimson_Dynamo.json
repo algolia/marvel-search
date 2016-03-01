@@ -9,9 +9,14 @@
     "Stan Lee"
   ],
   "description": "The Crimson Dynamo (Russian: Багровый Динамо, Bagrovyj Dinamo; also Красный Динамо (Krasný Dinamo) ) is the name of several fictional characters in the Marvel Comics Universe, most of whom have been supervillains.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/526955e3c7c41/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/526955e3c7c41/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Crimson Dynamo",
   "partners": [
   ],
@@ -47,7 +52,7 @@
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2697/crimson_dynamo",
+    "marvel": "http://marvel.com/comics/characters/1009251/crimson_dynamo",
     "wikipedia": "https://en.wikipedia.org/wiki/Crimson_Dynamo"
   }
 }

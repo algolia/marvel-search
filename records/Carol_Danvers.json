@@ -13,9 +13,14 @@
     "Gene Colan"
   ],
   "description": "Carol Danvers is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Ms.Marvel1.jpg/250px-Ms.Marvel1.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Ms.Marvel1.jpg/250px-Ms.Marvel1.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Carol Danvers",
   "partners": [
     "Anya Corazon",

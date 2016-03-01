@@ -7,9 +7,12 @@
     "Scott Kolins"
   ],
   "description": "Javelynn is a fictional supervillain in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Javelynn.jpg/100px-Javelynn.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Javelynn.jpg/100px-Javelynn.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Javelynn",
   "partners": [
   ],

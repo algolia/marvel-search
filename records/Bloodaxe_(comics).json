@@ -8,9 +8,14 @@
     "Pat Olliffe"
   ],
   "description": "Bloodaxe (Jackie Lukus) is a fictional character, owned by Marvel Comics who exists in that company's Marvel Universe as a foe of Thor and Thunderstrike.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Bloodaxe.jpg/250px-Bloodaxe.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Bloodaxe.jpg/250px-Bloodaxe.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Bloodaxe",
   "partners": [
   ],

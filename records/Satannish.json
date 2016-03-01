@@ -8,9 +8,12 @@
     "Gene Colan"
   ],
   "description": "Satannish is a fictional character appearing in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Satannish.jpg/250px-Satannish.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Satannish.jpg/250px-Satannish.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Satannish",
   "partners": [
   ],

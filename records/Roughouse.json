@@ -8,9 +8,12 @@
     "(story) and"
   ],
   "description": "Roughouse is a fictional character, a comic book supervillain in the Marvel Comics universe and the occasional enemy of Wolverine.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Roughouse.jpg/250px-Roughouse.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Roughouse.jpg/250px-Roughouse.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Roughouse",
   "partners": [
   ],

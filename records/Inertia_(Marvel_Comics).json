@@ -9,9 +9,14 @@
     "J. Michael Straczynski"
   ],
   "description": "Inertia is the name of two separate, but related superheroes from the fictional Marvel Universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/60/4c0030f6eab3d/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/60/4c0030f6eab3d/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Inertia",
   "partners": [
   ],

@@ -12,9 +12,14 @@
     "Terry Kavanagh"
   ],
   "description": "Kaine Parker is a fictional character, a superhero and former supervillain in the Marvel Comics who serves as an ally, an enemy, and a foil of Spider-Man and Ben Reilly.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg/250px-Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg/250px-Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Peter Parker",
   "partners": [
   ],

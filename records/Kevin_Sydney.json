@@ -19,9 +19,14 @@
     "Werner Roth"
   ],
   "description": "Kevin Sydney is a fictional character that has been a member of the X-Men in comic book stories published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c00326c980ac/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c00326c980ac/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Changeling",
   "partners": [
   ],

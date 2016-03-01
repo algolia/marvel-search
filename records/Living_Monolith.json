@@ -12,9 +12,12 @@
     "Roy Thomas"
   ],
   "description": "The Living Monolith (Ahmet Abdol) is a fictional character, a supervillain in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Living_Monolith_%28Marvel_character%29.png/250px-Living_Monolith_%28Marvel_character%29.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Living_Monolith_%28Marvel_character%29.png/250px-Living_Monolith_%28Marvel_character%29.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Living Monolith",
   "partners": [
     "Plasma"

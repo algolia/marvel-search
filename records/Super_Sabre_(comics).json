@@ -7,9 +7,12 @@
     "Chris Claremont"
   ],
   "description": "Super Sabre (Martin Fletcher) is a fictional character, a mutant in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/SuperSabreDavis.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1e/SuperSabreDavis.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Super Sabre",
   "partners": [
   ],

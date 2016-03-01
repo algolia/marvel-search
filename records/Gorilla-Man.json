@@ -12,9 +12,12 @@
     "Robert Q. Sale (artist)"
   ],
   "description": "Gorilla-Man is the name of three fictional characters appearing in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Aoatlas002_cov_c.jpg/200px-Aoatlas002_cov_c.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Aoatlas002_cov_c.jpg/200px-Aoatlas002_cov_c.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Gorilla-Man",
   "partners": [
   ],

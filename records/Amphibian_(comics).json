@@ -8,9 +8,14 @@
     "J. Michael Straczynski"
   ],
   "description": "Amphibian is the name of two different fictional characters that have appeared in publications from Marvel Comics.The first debuted as a member of the team of superheroes called the Squadron Supreme in Avengers (vol. 1) #148 (June 1976).",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Amphibiansqsup001.jpg/125px-Amphibiansqsup001.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Amphibiansqsup001.jpg/125px-Amphibiansqsup001.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Amphibian (Earth-712)",
   "partners": [
   ],

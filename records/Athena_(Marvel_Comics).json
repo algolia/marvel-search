@@ -10,9 +10,12 @@
     "Jack Kirby"
   ],
   "description": "Athena is a fictional deity in the Marvel Comics Universe based on the Greek Goddess of the same name.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Athena_in_Hercules.jpg/159px-Athena_in_Hercules.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Athena_in_Hercules.jpg/159px-Athena_in_Hercules.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Athena",
   "partners": [
   ],

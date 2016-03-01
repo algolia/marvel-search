@@ -7,9 +7,14 @@
     "Bill Mantlo"
   ],
   "description": "Ruth Bat-Seraph is an Israeli national who, along with her family, was taken to a special community by the Israeli government when her genetic mutation manifested.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Sabramu0.jpg/229px-Sabramu0.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Sabramu0.jpg/229px-Sabramu0.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Sabra",
   "partners": [
   ],

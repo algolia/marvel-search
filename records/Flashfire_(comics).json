@@ -8,8 +8,13 @@
     "Dave Cockrum"
   ],
   "description": "Flashfire is a fictional character in the Marvel Universe.Flashfire, also known as Tempest, is a long-time member of the Shi'ar Imperial Guard.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Tempest",
   "partners": [
   ],

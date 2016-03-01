@@ -9,9 +9,12 @@
     "Rich Buckler"
   ],
   "description": "Devil-Slayer (Eric Simon Payne) is a fictional character that has appeared in various comic book series published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Devil-Slayer.jpg/250px-Devil-Slayer.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Devil-Slayer.jpg/250px-Devil-Slayer.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Devil-Slayer",
   "partners": [
   ],

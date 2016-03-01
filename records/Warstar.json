@@ -7,9 +7,14 @@
     "John Byrne"
   ],
   "description": "Warstar, a former member of the Imperial Guard, was one of eight Imperial Guardsmen chosen to battle the team of superhuman Earthling mutants known as the X-Men over the fate of Phoenix, a primal force of the cosmos that had assumed the form of the X-Man Jean Grey.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c003a73b6673/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c003a73b6673/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Warstar",
   "partners": [
   ],

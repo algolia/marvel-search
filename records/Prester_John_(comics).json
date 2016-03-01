@@ -7,8 +7,11 @@
     "Stan Lee"
   ],
   "description": "Prester John is a fictional character appearing in the Marvel Comics universe, based loosely on the mythical Christian king Prester John.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Prester John",
   "partners": [
   ],

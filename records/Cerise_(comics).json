@@ -6,9 +6,14 @@
     "Alan Davis"
   ],
   "description": "Cerise is a fictional character, a superhero appearing in books published by Marvel Comics, in particular those featuring Excalibur  and other books of the X-Men franchise.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Cerise_excalibur57-jmadureira.jpg/250px-Cerise_excalibur57-jmadureira.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Cerise_excalibur57-jmadureira.jpg/250px-Cerise_excalibur57-jmadureira.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Cerise",
   "partners": [
   ],

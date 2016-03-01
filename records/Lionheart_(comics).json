@@ -9,9 +9,14 @@
     "Chuck Austen"
   ],
   "description": "Lionheart (Kelsey Leigh Kirkland), formerly called Captain Britain, is a fictional character, a Marvel Comics superhero.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/Lionheart.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/ba/Lionheart.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Lionheart",
   "partners": [
   ],

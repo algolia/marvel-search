@@ -7,9 +7,14 @@
     "Phil Jimenez"
   ],
   "description": "Jackpot is the hero name shared by two fictional comic book characters, Sara Ehret and Alana Jobson, owned by Marvel Comics and primarily appearing in Spider-Man's stories.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Jackpot_Marvel_Comics.JPG/250px-Jackpot_Marvel_Comics.JPG",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Jackpot_Marvel_Comics.JPG/250px-Jackpot_Marvel_Comics.JPG"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Jackpot",
   "partners": [
   ],

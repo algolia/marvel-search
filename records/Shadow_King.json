@@ -12,9 +12,14 @@
     "John Byrne"
   ],
   "description": "One of the oldest and more powerful mutants ever, Amahl Farouk has been a threat to mankind at least for decades. He was the first evil mutant met by Charles Xavier, convincing him of the need of the X-Men.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4ce5a16fd4182/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4ce5a16fd4182/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Shadow King",
   "partners": [
   ],

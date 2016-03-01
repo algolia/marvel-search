@@ -9,9 +9,14 @@
     "Roy Thomas"
   ],
   "description": "Killraven (Jonathan Raven) is a fictional freedom fighter in several post-apocalyptic alternate futures of the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/2/24/Amazing_Adventures_30_%281970%29.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/24/Amazing_Adventures_30_%281970%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Killraven",
   "partners": [
   ],

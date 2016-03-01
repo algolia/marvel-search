@@ -8,9 +8,12 @@
     "Brian Michael Bendis"
   ],
   "description": "Geldoff is a fictional character in Marvel Comics who first appeared in the Ultimate Marvel Universe's Ultimate Spider-Man #40 (July 2003) written by Brian Michael Bendis with art from Mark Bagley.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Ulgeldoff.jpg/150px-Ulgeldoff.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Ulgeldoff.jpg/150px-Ulgeldoff.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Geldoff",
   "partners": [
   ],

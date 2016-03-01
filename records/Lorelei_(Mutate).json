@@ -8,9 +8,12 @@
     "Neal Adams"
   ],
   "description": "Lorelei (Lani Ubana) is a fictional character, a mutant in the Marvel Comics Universe whose first appearance was in X-Men #63.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/f/f3/Lorelei_%28mutate%29.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f3/Lorelei_%28mutate%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Lorelei",
   "partners": [
   ],

@@ -9,8 +9,11 @@
     "Paul Pelletier"
   ],
   "description": "Machete is the name of three fictional characters in the Marvel Comics Universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Machete",
   "partners": [
   ],

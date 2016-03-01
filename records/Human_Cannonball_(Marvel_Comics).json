@@ -9,8 +9,13 @@
     "Steve Ditko"
   ],
   "description": "The Human Cannonball is a fictional character, a supervillain in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Human Cannonball",
   "partners": [
   ],

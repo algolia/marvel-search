@@ -10,9 +10,12 @@
     "Joe Kelly"
   ],
   "description": "Ajax is the codename belonging to two different characters in Marvel Comics, one the descendant of a demigod, the other a mercenary.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Ajazpantheon.jpg/200px-Ajazpantheon.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Ajazpantheon.jpg/200px-Ajazpantheon.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ajax",
   "partners": [
   ],

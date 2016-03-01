@@ -9,9 +9,12 @@
     "Jack Kirby"
   ],
   "description": "Hulk 2099 (John Eisenhart) is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Hulk2099.jpg/250px-Hulk2099.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Hulk2099.jpg/250px-Hulk2099.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Hulk 2099",
   "partners": [
   ],

@@ -11,9 +11,14 @@
     "Jim Lee"
   ],
   "description": "David North (born Christoph Nord) is a mutant comic book character in the fictional Marvel Universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c0042121d790/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c0042121d790/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Agent Zero",
   "partners": [
   ],

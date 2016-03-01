@@ -10,8 +10,13 @@
     "Sal Buscema"
   ],
   "description": "After the apparent death of Baron von Strucker, Viper took the name Madame Hydra and took control of the New York-based faction of Hydra.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Viper",
   "partners": [
   ],

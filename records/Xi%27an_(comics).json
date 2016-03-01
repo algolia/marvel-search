@@ -7,9 +7,12 @@
     "John Francis Moore",
     "Ron Lim"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Xmen2099-22.jpg/250px-Xmen2099-22.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Xmen2099-22.jpg/250px-Xmen2099-22.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Xi'an",
   "partners": [
   ],

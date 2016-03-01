@@ -9,9 +9,12 @@
     "Bing McCoy (toy design)"
   ],
   "description": "Rom (also known as Rom The Space Knight or Rom: SpaceKnight) is a fictional character, a cosmic superhero in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Rom-1.jpg/250px-Rom-1.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Rom-1.jpg/250px-Rom-1.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Rom",
   "partners": [
   ],

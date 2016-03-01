@@ -6,9 +6,12 @@
     "Chris Claremont",
     "John Byrne"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Dspayreface.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/36/Dspayreface.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "D'Spayre",
   "partners": [
   ],

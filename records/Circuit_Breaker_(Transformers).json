@@ -9,9 +9,12 @@
     "Marvel Comics"
   ],
   "description": "Circuit Breaker (also known as Circuit-Smasher and the Emulator) is a fictional comic book character originally from the 1980s Marvel Comics Transformers series.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Circuitbreaker-autobots.jpg/200px-Circuitbreaker-autobots.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Circuitbreaker-autobots.jpg/200px-Circuitbreaker-autobots.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Circuit Breaker",
   "partners": [
   ],

@@ -10,9 +10,12 @@
     "Ron Wilson"
   ],
   "description": "Demolition Man (Dennis Dunphy), also known as D-Man, is a fictional character in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/DennisDunphyDman.gif/250px-DennisDunphyDman.gif",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/DennisDunphyDman.gif/250px-DennisDunphyDman.gif"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Demolition Man",
   "partners": [
     "Captain America"

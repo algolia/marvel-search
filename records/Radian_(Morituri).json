@@ -8,9 +8,12 @@
     "Brent Anderson"
   ],
   "description": "Radian (Louis Armanetti) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Radian_Morituri.bmp/250px-Radian_Morituri.bmp.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Radian_Morituri.bmp/250px-Radian_Morituri.bmp.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Radian",
   "partners": [
   ],

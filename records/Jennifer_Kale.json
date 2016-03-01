@@ -8,8 +8,11 @@
     "Steve Gerber"
   ],
   "description": "Jennifer Kale is a fictional character, a sorceress in the Marvel Comics universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Jennifer Kale",
   "partners": [
     "Man-Thing",

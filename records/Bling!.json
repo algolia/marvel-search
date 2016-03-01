@@ -5,9 +5,12 @@
     "Peter Milligan",
     "Salvador Larroca"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Bling%28x-men%29.jpg/200px-Bling%28x-men%29.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Bling%28x-men%29.jpg/200px-Bling%28x-men%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Bling!",
   "partners": [
   ],

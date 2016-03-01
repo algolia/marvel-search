@@ -9,9 +9,19 @@
     "Stan Lee"
   ],
   "description": "Groot (also known as the Monarch of Planet X) is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/526033c8b474a/standard_xlarge.jpg",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/c/d0/538cda86a8b5f.gif",
+    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/538caf3a6c767.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/526033c8b474a/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "red": 58,
+    "rgb": "3A2409"
+  },
   "name": "Groot",
   "partners": [
   ],

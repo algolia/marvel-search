@@ -7,9 +7,14 @@
     "Salvador Larroca"
   ],
   "description": "Australian mutant siblings Heather and Davis Cameron were sent to live in Surfer's Paradise by their father in an effort to spare them from his life as Viceroy, godfather of Australian organized crime.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Slipstream_%28Davis_Cameron%29.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1f/Slipstream_%28Davis_Cameron%29.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Slipstream",
   "partners": [
   ],

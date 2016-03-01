@@ -5,9 +5,12 @@
     "Chris Claremont",
     "Brent Anderson"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Symface.jpg/175px-Symface.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Symface.jpg/175px-Symface.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "S'ym",
   "partners": [
   ],

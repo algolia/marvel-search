@@ -8,9 +8,14 @@
     "Tom DeFalco"
   ],
   "description": "Sunset Bain is a fictional villainess in the Marvel Comics universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4c003ab9ed7d6/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4c003ab9ed7d6/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Sunset Bain",
   "partners": [
   ],

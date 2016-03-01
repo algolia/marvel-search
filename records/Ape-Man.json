@@ -15,9 +15,12 @@
     "Don Heck"
   ],
   "description": "Ape-Man is the name of three characters in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/a/af/ApeMan.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/af/ApeMan.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ape-Man",
   "partners": [
   ],

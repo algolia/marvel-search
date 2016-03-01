@@ -6,8 +6,11 @@
     "John Compton",
     "Carl Burgos"
   ],
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Thunderer",
   "partners": [
   ],

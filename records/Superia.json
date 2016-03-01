@@ -8,9 +8,12 @@
     "Rik Levins"
   ],
   "description": "A Muslim-American teenager growing up in Jersey City, Kamala Khan gained shape-shifting powers when Inhumanity spread over the Earth. A fan of super heroes, in particular Carol Danvers, Kamala took up Captain Marvel's former identity, becoming the new Ms. Marvel. This up and coming hero works to protect her community and understand her place in the world.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/548730dac2a40/standard_xlarge.jpg",
+  "images": {
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/548730dac2a40/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ms. Marvel (Kamala Khan)",
   "partners": [
   ],

@@ -7,9 +7,12 @@
     "Steve Ditko"
   ],
   "description": "Googam is a fictional character and that appears in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/TOS-17.jpg/250px-TOS-17.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/TOS-17.jpg/250px-TOS-17.jpg"
+  },
   "isHero": true,
   "isVillain": true,
+  "mainColor": null,
   "name": "Googam",
   "partners": [
   ],

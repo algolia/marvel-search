@@ -7,9 +7,12 @@
     "Herb Trimpe"
   ],
   "description": "Galaxy Master is a fictional character, a comic book supervillain in the Marvel Comics Universe.The Galaxy Master is a monstrous but intelligent bio-mechanical cosmic entity created by extra-dimensional beings.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/GalaxyMasterTwo.png/250px-GalaxyMasterTwo.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/GalaxyMasterTwo.png/250px-GalaxyMasterTwo.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Galaxy Master",
   "partners": [
     "Abomination"

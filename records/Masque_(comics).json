@@ -7,9 +7,14 @@
     "Chris Claremont"
   ],
   "description": "Masque is a fictional character in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Masquewiki.jpg/250px-Masquewiki.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Masquewiki.jpg/250px-Masquewiki.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Masque",
   "partners": [
   ],

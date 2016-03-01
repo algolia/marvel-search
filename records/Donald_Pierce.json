@@ -10,9 +10,19 @@
     "Chris Claremont"
   ],
   "description": "Donald Pierce is a comic book supervillain in the Marvel Comics universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/53176b8fe1dfa/standard_xlarge.jpg",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/9/d0/537ba69f1b9b7.gif",
+    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/537ba68d90042.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/53176b8fe1dfa/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "red": 63,
+    "rgb": "3F0606"
+  },
   "name": "Cyclops (Ultimate)",
   "partners": [
   ],

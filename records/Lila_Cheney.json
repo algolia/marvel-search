@@ -7,9 +7,14 @@
     "Bob McLeod"
   ],
   "description": "Lila Cheney is a fictional character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Lila_Cheney.jpg/200px-Lila_Cheney.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Lila_Cheney.jpg/200px-Lila_Cheney.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Lila Cheney",
   "partners": [
   ],

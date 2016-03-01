@@ -9,9 +9,12 @@
     "Michael A Barreiro"
   ],
   "description": "Humus Sapien (Sonny Baredo) is a fictional supervillain published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/HumusSapiens.jpg/250px-HumusSapiens.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/HumusSapiens.jpg/250px-HumusSapiens.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Humus Sapien",
   "partners": [
   ],

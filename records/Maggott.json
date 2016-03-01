@@ -7,9 +7,14 @@
     "Scott Lobdell"
   ],
   "description": "Maggott (Japheth), is a Marvel Comics superhero who was briefly a member of the X-Men.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Maggottproflie.jpg/250px-Maggottproflie.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Maggottproflie.jpg/250px-Maggottproflie.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Maggott",
   "partners": [
   ],

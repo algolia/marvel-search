@@ -12,9 +12,14 @@
     "Barry Windsor-Smith"
   ],
   "description": "Lady Deathstrike (Yuriko Oyama), occasionally spelled \"Deathstryke\", is a Marvel Comics supervillain, a foe of the X-Men, especially Wolverine.Her father Lord Dark Wind created the adamantium-bonding process that was forced on Wolverine by Weapon X.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/535ff2c1ef191/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/535ff2c1ef191/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Lady Deathstrike",
   "partners": [
   ],

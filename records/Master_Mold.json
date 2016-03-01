@@ -7,9 +7,14 @@
     "Stan Lee"
   ],
   "description": "Master Mold is a fictional character, a robot supervillain in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Uxm016.PNG/250px-Uxm016.PNG",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Uxm016.PNG/250px-Uxm016.PNG"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Master Mold",
   "partners": [
   ],

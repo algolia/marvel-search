@@ -9,9 +9,12 @@
     "Doug Moench"
   ],
   "description": "Coldblood-7 (Eric Savin) is a fictional character in Marvel Comics who first appeared in Marvel Comics Presents vol. 1 #26 (August 1989).",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Coldbloodmu0.png/250px-Coldbloodmu0.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Coldbloodmu0.png/250px-Coldbloodmu0.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Coldblood",
   "partners": [
   ],

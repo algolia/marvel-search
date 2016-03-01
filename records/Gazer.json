@@ -9,9 +9,14 @@
     "Salvador Larroca"
   ],
   "description": "A young veteran wounded during the Vietnam War, Abraham Kieros was selected by Apocalypse to become the Horseman War.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GazerWar.png/250px-GazerWar.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GazerWar.png/250px-GazerWar.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "War (Abraham Kieros)",
   "partners": [
   ],

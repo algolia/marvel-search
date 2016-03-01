@@ -8,9 +8,12 @@
     "Chris Claremont"
   ],
   "description": "Astra is the name of two unrelated fictional characters from the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Astrawiki.jpg/185px-Astrawiki.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Astrawiki.jpg/185px-Astrawiki.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Astra",
   "partners": [
   ],

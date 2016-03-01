@@ -9,9 +9,14 @@
     "Grant Morrison"
   ],
   "description": "Fantomex is a fictional superhero associated with the X-Men in titles published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/535ff35da5ccd/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/535ff35da5ccd/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Fantomex",
   "partners": [
   ],

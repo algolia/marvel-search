@@ -15,9 +15,14 @@
   "authors": [
   ],
   "description": "Brother Voodoo (Jericho Drumm) is a fictional character, a supernatural superhero in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/BrotherVoodoo.png/225px-BrotherVoodoo.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/BrotherVoodoo.png/225px-BrotherVoodoo.png"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Brother Voodoo",
   "partners": [
   ],

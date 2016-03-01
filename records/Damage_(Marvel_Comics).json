@@ -7,9 +7,12 @@
     "Jim Lee",
     "Carl Potts"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/DamagePunisher.jpg/250px-DamagePunisher.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/DamagePunisher.jpg/250px-DamagePunisher.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Damage",
   "partners": [
   ],

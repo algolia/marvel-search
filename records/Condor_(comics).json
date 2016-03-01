@@ -7,9 +7,12 @@
     "John Buscema"
   ],
   "description": "Condor is a fictional character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Condor_HCV.jpg/200px-Condor_HCV.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Condor_HCV.jpg/200px-Condor_HCV.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Condor",
   "partners": [
   ],

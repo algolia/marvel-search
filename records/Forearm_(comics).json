@@ -8,8 +8,13 @@
     "Louise Simonson"
   ],
   "description": "Forearm (Michael McCain) is a fictional mutant villain in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Forearm",
   "partners": [
   ],

@@ -9,8 +9,13 @@
     "Rob Liefeld"
   ],
   "description": "Garrison Kane, also known as Weapon X and Kane, is a fictional character from the Marvel Universe.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Weapon X",
   "partners": [
   ],

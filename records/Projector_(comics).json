@@ -5,9 +5,12 @@
   "authors": [
   ],
   "description": "Projector (Zachary Williams) is a fictional character, a mutant villain from Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/XMEN-Projector.jpg/250px-XMEN-Projector.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/XMEN-Projector.jpg/250px-XMEN-Projector.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Projector",
   "partners": [
   ],

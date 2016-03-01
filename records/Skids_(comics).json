@@ -7,9 +7,12 @@
     "Jackson Guice"
   ],
   "description": "Skids (Sally Blevins) is a Marvel Comics mutant.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Skids.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/18/Skids.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Skids",
   "partners": [
   ],

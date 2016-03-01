@@ -7,9 +7,12 @@
     "Brent Anderson"
   ],
   "description": "American Dream (Shannon Carter) is a fictional character featured in Marvel Comics MC2 series A-Next.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/American_Dream_%28Shannon_Carter%29.jpg/200px-American_Dream_%28Shannon_Carter%29.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/American_Dream_%28Shannon_Carter%29.jpg/200px-American_Dream_%28Shannon_Carter%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "American Dream",
   "partners": [
   ],

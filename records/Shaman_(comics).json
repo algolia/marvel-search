@@ -10,9 +10,14 @@
     "John Byrne"
   ],
   "description": "Dr. Michael Twoyoungmen was a surgeon who found that modern science was insufficient to accomplish everything he wished to do, and so he turned to mysticism that his grandfather told him about.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Alphaflight27.jpg/250px-Alphaflight27.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Alphaflight27.jpg/250px-Alphaflight27.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Shaman",
   "partners": [
   ],

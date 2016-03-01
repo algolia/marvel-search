@@ -8,8 +8,13 @@
     "Paul Neary"
   ],
   "description": "Cottonmouth is the name of two villains in Marvel Comics.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Cottonmouth",
   "partners": [
   ],

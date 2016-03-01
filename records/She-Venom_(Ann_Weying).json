@@ -11,9 +11,12 @@
     "Mike Zeck",
     "Todd McFarlane"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Venom-artmm.jpg/250px-Venom-artmm.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Venom-artmm.jpg/250px-Venom-artmm.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "She-Venom (Ann Weying)",
   "partners": [
   ],

@@ -9,9 +9,12 @@
     "José Ladrönn"
   ],
   "description": "The Harbinger of Apocalypse is a fictional character that appears in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Cb67cvr.jpg/250px-Cb67cvr.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Cb67cvr.jpg/250px-Cb67cvr.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Harbinger of Apocalypse",
   "partners": [
   ],

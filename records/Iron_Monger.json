@@ -7,9 +7,14 @@
     "Luke McDonnell"
   ],
   "description": "The Iron Monger is an identity used by several fictional supervillains published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/IronMonger.jpg/230px-IronMonger.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/IronMonger.jpg/230px-IronMonger.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Iron Monger",
   "partners": [
   ],

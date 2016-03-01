@@ -9,9 +9,19 @@
     "Roy Thomas",
     "John Buscema"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Valkyrie.jpeg/200px-Valkyrie.jpeg",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/537bc87e3986f.gif",
+    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/c/70/537bc86cd1ff0.jpg",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Valkyrie.jpeg/200px-Valkyrie.jpeg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 57,
+    "green": 31,
+    "red": 18,
+    "rgb": "121F39"
+  },
   "name": "Valkyrie (Brunnhilde)",
   "partners": [
   ],

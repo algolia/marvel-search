@@ -8,9 +8,12 @@
     "Chris Matonti"
   ],
   "description": "Roboduck is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Roboduck_new_gen.jpg/250px-Roboduck_new_gen.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Roboduck_new_gen.jpg/250px-Roboduck_new_gen.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Roboduck",
   "partners": [
   ],

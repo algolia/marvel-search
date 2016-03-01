@@ -7,9 +7,14 @@
     "Paul Cornell"
   ],
   "description": "Captain Midlands, real name \"Rambling\" Sid Ridley, is a fictional comic book character within Marvel Comics' shared universe the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/CaptainMidlands.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d8/CaptainMidlands.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Captain Midlands",
   "partners": [
   ],

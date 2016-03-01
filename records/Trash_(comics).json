@@ -7,8 +7,11 @@
     "John Bogdanove"
   ],
   "description": "Trash is a fictional organization in the Marvel Universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Trash",
   "partners": [
   ],

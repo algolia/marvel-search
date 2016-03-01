@@ -7,9 +7,12 @@
     "George Tuska"
   ],
   "description": "Dreadknight is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/6/6c/DreadknightIM102.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6c/DreadknightIM102.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Dreadknight",
   "partners": [
   ],

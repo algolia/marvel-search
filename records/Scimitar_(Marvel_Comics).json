@@ -8,9 +8,12 @@
     "Chris Claremont"
   ],
   "description": "Scimitar is a supervillain in the Marvel Comics.Scimitar is a master of bladed weapons who serves Master Khan.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/0/02/ScimitarExcalibur.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/02/ScimitarExcalibur.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Scimitar",
   "partners": [
   ],

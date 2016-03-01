@@ -7,9 +7,12 @@
     "Howard Mackie"
   ],
   "description": "Fixx is a fictional mutant character in the Marvel Comics Universe from an alternate future.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Fixx.jpg/200px-Fixx.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Fixx.jpg/200px-Fixx.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Fixx",
   "partners": [
   ],

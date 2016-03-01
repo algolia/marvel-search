@@ -8,9 +8,14 @@
     "<br >"
   ],
   "description": "Spencer Smythe is a fictional character, a comic book villain in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/SpiderSlayers.jpg/220px-SpiderSlayers.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/SpiderSlayers.jpg/220px-SpiderSlayers.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Spencer Smythe",
   "partners": [
   ],

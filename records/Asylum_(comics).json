@@ -6,9 +6,14 @@
   "authors": [
   ],
   "description": "Asylum is the name of two characters in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/f/f0/DarklingC.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f0/DarklingC.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Asylum",
   "partners": [
   ],

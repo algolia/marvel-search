@@ -5,9 +5,14 @@
   ],
   "authors": [
   ],
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4d78fbb55546e/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4d78fbb55546e/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Frankenstein's Monster",
   "partners": [
   ],

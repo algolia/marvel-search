@@ -10,9 +10,12 @@
     "Herb Trimpe"
   ],
   "description": "Roma is a fictional character featured in numerous Marvel Comics titles.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/Roma_-_uncanny_x-men_462.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/Roma_-_uncanny_x-men_462.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Roma",
   "partners": [
   ],

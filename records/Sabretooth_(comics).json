@@ -12,9 +12,14 @@
     "Chris Claremont"
   ],
   "description": "Sabretooth (Victor Creed) is a fictional character, a Marvel Comics supervillain created by writer Chris Claremont and artist/co-writer John Byrne.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/4ce1895117793/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/4ce1895117793/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Sabretooth",
   "partners": [
   ],

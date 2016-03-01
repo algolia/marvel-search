@@ -8,9 +8,14 @@
     "Carl Burgos"
   ],
   "description": "As the Torch approached Toro, his presence caused Toro to burst into flame like the Torch himself, but while remaining unharmed, causing the Torch to realize that Toro had the same powers that he himself did.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4e7a2165364ca/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4e7a2165364ca/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Toro (Thomas Raymond)",
   "partners": [
     "Human Torch (android)",

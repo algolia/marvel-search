@@ -10,9 +10,19 @@
     "Arvell Jones"
   ],
   "description": "Misty Knight is a fictional character in Marvel Comics' Marvel Universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/511151789a863/standard_xlarge.jpg",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/537bb605ded59.gif",
+    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/537bb5ee79404.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/511151789a863/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "red": 63,
+    "rgb": "3F0606"
+  },
   "name": "Misty Knight",
   "partners": [
     "Colleen Wing",

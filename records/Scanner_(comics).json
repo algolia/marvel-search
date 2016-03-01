@@ -8,9 +8,12 @@
     "John Romita, Jr.",
     "John Romita Jr."
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/5/57/Scanner_xm86.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/57/Scanner_xm86.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Scanner",
   "partners": [
   ],

@@ -11,9 +11,12 @@
     "Don Perlin"
   ],
   "description": "Andromeda Attumasen is a fictional character that appears in various comic book series published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/Andromeda616.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/2d/Andromeda616.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Andromeda",
   "partners": [
     "Namor"

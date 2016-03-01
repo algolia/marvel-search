@@ -11,9 +11,12 @@
     "Al Milgrom"
   ],
   "description": "MODAM is a fictional character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Quasar9.jpg/200px-Quasar9.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Quasar9.jpg/200px-Quasar9.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "MODAM",
   "partners": [
   ],

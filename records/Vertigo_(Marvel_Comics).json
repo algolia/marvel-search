@@ -7,9 +7,14 @@
     "Chris Claremont"
   ],
   "description": "Vertigo was a native of the Savage Land and mutated by the mutant known as Magneto, granting her the power to alter the perceptions of others.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Vertigo236.jpg/250px-Vertigo236.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Vertigo236.jpg/250px-Vertigo236.jpg"
+  },
   "isHero": true,
   "isVillain": true,
+  "mainColor": null,
   "name": "Vertigo (Savage Land Mutate)",
   "partners": [
   ],

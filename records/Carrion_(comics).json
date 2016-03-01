@@ -11,9 +11,12 @@
     "Jim Mooney"
   ],
   "description": "Carrion is a fictional character, a supervillain appearing in the Marvel Comics universe, in which he is an enemy of Spider-Man.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Carrion.jpg/250px-Carrion.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Carrion.jpg/250px-Carrion.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Carrion",
   "partners": [
     "as Malcolm McBride",

@@ -15,8 +15,11 @@
     "David Kraft"
   ],
   "description": "Kismet, also known as Paragon and  Her, is a fictional superheroine that has appeared in various comic book series published by Marvel Comics.",
+  "images": {
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Kismet",
   "partners": [
   ],

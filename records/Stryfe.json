@@ -10,9 +10,14 @@
     "Rob Liefeld"
   ],
   "description": "Stryfe is the clone of Nathan Christopher Summers, alias Cable, the son of Cyclops of the X-Men.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/527413b06270b/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/527413b06270b/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Stryfe",
   "partners": [
   ],

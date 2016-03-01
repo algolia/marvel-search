@@ -6,9 +6,14 @@
     "Chris Claremont",
     "Paul Smith"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Callistox.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/7c/Callistox.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Brute",
   "partners": [
   ],

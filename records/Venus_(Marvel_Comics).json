@@ -13,9 +13,14 @@
     "Jeff Parker"
   ],
   "description": "During her time as an adventurer, Venus was approached by FBI agent Jimmy Woo, and she agreed to join Jimmy and his allies in freeing President Eisenhower from the clutches of the Yellow Claw.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/535ff36a8fbef/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/535ff36a8fbef/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Venus (Siren)",
   "partners": [
   ],

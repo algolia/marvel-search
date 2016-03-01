@@ -11,9 +11,14 @@
     "Art Adams"
   ],
   "description": "Spiral was created to be an agent of Mojo, the despotic leader of Mojo World, often used as his favored personal servant, executioner, and spy.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c003ad84f314/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c003ad84f314/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Spiral (Rita Wayword)",
   "partners": [
     "Mojo"

@@ -12,9 +12,12 @@
     "Heck",
     "Kirby"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Ultimate_AR.jpg/250px-Ultimate_AR.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Ultimate_AR.jpg/250px-Ultimate_AR.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ultimate Iron Man",
   "partners": [
     "Captain America",

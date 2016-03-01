@@ -13,9 +13,14 @@
     "Marc Guggenheim"
   ],
   "description": "Filled with dreams of grandeur, Mark Scarlotti was a brilliant young man with a bright future who graduated with top honors from college and immediately had a promising job at Stark International, but it all went south, however, when he became friends with the wrong people who wanted him to develop weapons, which Scarlotti used to become the first Whiplash.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MarvelTeam-Up145.jpg/250px-MarvelTeam-Up145.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MarvelTeam-Up145.jpg/250px-MarvelTeam-Up145.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Whiplash (Mark Scarlotti)",
   "partners": [
   ],

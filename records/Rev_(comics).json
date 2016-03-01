@@ -10,9 +10,12 @@
     "Klaus Janson"
   ],
   "description": "The Rev (Samuel Smith) is a fictional character, a comic book supervillain in the Marvel Comics Universe.The Rev is a Satanist and recurring foe of the vigilante the Punisher.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RevPunisher.jpg/250px-RevPunisher.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RevPunisher.jpg/250px-RevPunisher.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Rev",
   "partners": [
     "Jigsaw"

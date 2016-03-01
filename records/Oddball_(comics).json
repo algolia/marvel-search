@@ -6,9 +6,12 @@
     "Mark Gruenwald"
   ],
   "description": "Oddball is the name of two supervillains in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Oddball.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4d/Oddball.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Oddball",
   "partners": [
   ],

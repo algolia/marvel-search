@@ -7,8 +7,11 @@
     "Brian Postman"
   ],
   "description": "The Locksmith is a fictional character in the Marvel Universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Locksmith",
   "partners": [
   ],

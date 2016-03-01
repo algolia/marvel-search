@@ -8,8 +8,11 @@
     "Jack Kirby"
   ],
   "description": "The Trapster is the name of two supervillains in Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Trapster",
   "partners": [
     "Zodiac"

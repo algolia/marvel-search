@@ -8,9 +8,12 @@
     "Duncan Rouleau"
   ],
   "description": "Hiro Takachiho is a fictional character, a superhero in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Hiro_Takachiho_%28Marvel_Comics%29.jpg/250px-Hiro_Takachiho_%28Marvel_Comics%29.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Hiro_Takachiho_%28Marvel_Comics%29.jpg/250px-Hiro_Takachiho_%28Marvel_Comics%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Hiro",
   "partners": [
   ],

@@ -7,9 +7,12 @@
     "Herb Trimpe"
   ],
   "description": "Super-Patriot is a name used by two supervillains and a superhero in the universe of Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Super-Patriot.jpg/200px-Super-Patriot.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Super-Patriot.jpg/200px-Super-Patriot.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Super-Patriot",
   "partners": [
   ],

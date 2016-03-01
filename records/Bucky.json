@@ -13,9 +13,14 @@
     "Joe Simon"
   ],
   "description": "Bucky is the name of several fictional characters that were masked superheroes in the Marvel Comics universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/4dc8478464008/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/4dc8478464008/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Bucky",
   "partners": [
     "Falcon",

@@ -7,9 +7,14 @@
     "Mike Zeck"
   ],
   "description": "Edward Whelan was found roaming the streets of New York by Baron Helmut Zemo, who subjected Whelan to Zemo's genetic experiments, which granted him superhuman strength, but, in the process of the mutation, he manifested a rat-like physical appearance, and was called Vermin.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/528d3638185cb/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/528d3638185cb/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Vermin (Edward Whelan)",
   "partners": [
     "Baron Zemo",

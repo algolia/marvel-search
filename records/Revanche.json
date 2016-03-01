@@ -9,9 +9,14 @@
     "Andy Kubert"
   ],
   "description": "Revanche (Kwannon) was a Marvel Comics character associated with the X-Men.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708/standard_xlarge.gif",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708/standard_xlarge.gif"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Revanche",
   "partners": [
   ],

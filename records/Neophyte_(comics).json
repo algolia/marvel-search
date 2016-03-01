@@ -7,9 +7,12 @@
     "Scott Lobdell"
   ],
   "description": "Neophyte (Simon Hall) is a fictional mutant super villain in the Marvel Comics universe and a member of the Acolytes.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/XMEN_Neophyte.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c0/XMEN_Neophyte.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Neophyte",
   "partners": [
   ],

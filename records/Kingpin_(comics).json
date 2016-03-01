@@ -12,9 +12,14 @@
     "John Romita, Sr."
   ],
   "description": "The Kingpin (Wilson Fisk) is a fictional character, a supervillain in the Marvel Comics Universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/526034fb5aff7/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/526034fb5aff7/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Kingpin",
   "partners": [
   ],

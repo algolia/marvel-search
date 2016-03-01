@@ -7,9 +7,14 @@
     "Stan Lee"
   ],
   "description": "The Beetle is the name used by multiple comic book characters owned by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Spider-Man_Web_of_Doom_3.jpg/250px-Spider-Man_Web_of_Doom_3.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Spider-Man_Web_of_Doom_3.jpg/250px-Spider-Man_Web_of_Doom_3.jpg"
+  },
   "isHero": true,
   "isVillain": true,
+  "mainColor": null,
   "name": "Beetle (Abner Jenkins)",
   "partners": [
   ],

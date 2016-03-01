@@ -8,9 +8,12 @@
     "George Pérez"
   ],
   "description": "Nicholas Scratch is a fictional wizard in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Four27.jpg/250px-Four27.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Four27.jpg/250px-Four27.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Nicholas Scratch",
   "partners": [
     "Salem's Seven",

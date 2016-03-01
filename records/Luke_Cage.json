@@ -8,9 +8,19 @@
     "John Romita, Sr."
   ],
   "description": "Luke Cage (born Carl Lucas and also called Power Man) is a fictional character, a superhero appearing in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5112d8b6e596c/standard_xlarge.jpg",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/4/40/537bb4889f364.gif",
+    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/537bb479ab0fc.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5112d8b6e596c/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "red": 58,
+    "rgb": "3A2409"
+  },
   "name": "Luke Cage",
   "partners": [
     "Colleen Wing",

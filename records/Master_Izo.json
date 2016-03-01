@@ -7,9 +7,12 @@
     "Michael Lark"
   ],
   "description": "Master Izo is a fictional character in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Master_Izo.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3e/Master_Izo.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Master Izo",
   "partners": [
   ],

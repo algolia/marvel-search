@@ -7,9 +7,14 @@
     "Peter Milligan"
   ],
   "description": "Dead Girl (Moonbeam) is a fictional character, a  mutant superheroine in Marvel Comics' X-Statix series.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/20/4c0030c61eb15/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/20/4c0030c61eb15/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Dead Girl",
   "partners": [
   ],

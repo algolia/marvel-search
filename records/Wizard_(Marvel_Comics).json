@@ -11,9 +11,12 @@
     "Jack Kirby"
   ],
   "description": "The Wizard (Bentley Wittman), also known as the Wingless Wizard, is a fictional character, a comic book supervillain in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/The_wizard.jpg/250px-The_wizard.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/The_wizard.jpg/250px-The_wizard.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Wizard",
   "partners": [
   ],

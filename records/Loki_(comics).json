@@ -13,9 +13,19 @@
     "Jack Kirby"
   ],
   "description": "Loki is a fictional character, a supervillain and sometime anti-hero that appears in comic books by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/526547f509313/standard_xlarge.jpg",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/537bb40a94729.gif",
+    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/537bb3f94d3b0.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/526547f509313/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 40,
+    "green": 38,
+    "red": 13,
+    "rgb": "0D2628"
+  },
   "name": "Loki",
   "partners": [
   ],

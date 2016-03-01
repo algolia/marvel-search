@@ -13,9 +13,12 @@
     "Stan Lee"
   ],
   "description": "The Eel is an alias used by two fictional characters in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Serpent_Squad.jpg/250px-Serpent_Squad.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Serpent_Squad.jpg/250px-Serpent_Squad.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Eel",
   "partners": [
     "Nightshade"

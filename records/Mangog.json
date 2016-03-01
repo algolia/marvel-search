@@ -8,9 +8,14 @@
     "Jack Kirby"
   ],
   "description": "Mangog is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/539a06a64b262/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/539a06a64b262/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Odin",
   "partners": [
     "Thanos"

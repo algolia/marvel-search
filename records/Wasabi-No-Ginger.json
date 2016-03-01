@@ -7,9 +7,12 @@
     "David Nakayama"
   ],
   "description": "Wasabi-No-Ginger is a fictional comic book superhero appearing in books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Wasabi-No-Ginger_%28Marvel_Comics%29.jpg/250px-Wasabi-No-Ginger_%28Marvel_Comics%29.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Wasabi-No-Ginger_%28Marvel_Comics%29.jpg/250px-Wasabi-No-Ginger_%28Marvel_Comics%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Wasabi-No-Ginger",
   "partners": [
   ],

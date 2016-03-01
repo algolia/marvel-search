@@ -16,9 +16,14 @@
     "Don Heck"
   ],
   "description": "Polaris (Lorna Dane) is a fictional comic book character and superhero appearing in books published by Marvel Comics, in particular the X-Men family of books.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5274122562b05/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5274122562b05/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Polaris",
   "partners": [
   ],
