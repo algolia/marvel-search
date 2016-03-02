@@ -1,0 +1,57 @@
+$font-size: 16px;
+$line-height: 1.2;
+$lines-to-show: 3;
+
+h2 {
+
+}
+
+/* Make the content use the whole width */
+.content-wrapper {
+  margin: 0 -15px;
+  min-width: 620px; 
+}
+
+
+
+/* RESULTS */
+.results {
+  padding: 70px 10px 10px;
+
+}
+
+
+/* PAGINATION */
+.pagination {
+  margin-top: 10px;
+  background-color: #EEE;
+  font-size: 1.2em;
+  line-height: 3em;
+  text-align: center; 
+  width: 100%;
+}
+.ais-pagination--item__active a {
+  color: #000000;
+  font-weight: bold; 
+}
+.ais-pagination--item__disabled {
+  visibility: visible; 
+}
+.ais-pagination--item__disabled a {
+  color: #bbbbbb; 
+}
+.ais-pagination--item__disabled a:hover {
+  cursor: default;
+  text-decoration: none; 
+}
+.pagination  ul {
+  margin: 0;
+  padding: 0; 
+}
+.pagination li {
+  padding: 0 8px; 
+}
+.pagination .fa {
+  position: relative;
+  top: 5px; 
+}

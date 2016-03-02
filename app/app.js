@@ -14,6 +14,8 @@ let Marvel = {
     this.addSpeciesWidget();
     this.addHitsWidget();
     this.addPaginationWidget();
+    this.addRefinementList();
+    this.renderHits();
 
     this.search.start();
   },
@@ -26,6 +28,9 @@ let Marvel = {
 
     data.description = Marvel.getHighlightedValue(data, 'description');
     data.name = Marvel.getHighlightedValue(data, 'name');
+    data.powersSummary = data.powers.slice(0, 5);
+    data.data = JSON.stringify(data);
+    
     return data;
   },
   getHighlightedValue(object, property) {
@@ -120,14 +125,142 @@ let Marvel = {
         showFirstLast: false
       })
     );
+  },
+  addRefinementList(){
+    this.search.addWidget(
+      instantsearch.widgets.currentRefinedValues({
+        container: '#current-refined-values',
+        clearAll: 'after'
+      })
+    );
+  },
+  renderHits(){
+    var renderedHits = {
+      render: function(options) {
+        processHeroProfile();
+      }
+    };
+
+    this.search.addWidget(renderedHits);
   }
+
 };
 
 export default Marvel;
 
+function processHeroProfile(){
+
+  var hit = $('.btn-profile'),
+      results = $('.hits'),
+      profile = $('.hero-profile'),
+      profileName = $('.hero-profile .hero-name'),
+      profileRealName = $('.hero-profile .hero-secret-identity'),
+      profileAvatar = $('.hero-profile .hero-avatar img'),
+      profileDescription = $('.hero-profile .hero-description'),
+      profilePartners = $('.hero-profile .hero-partners'),
+      profileHeroVillain = $('.hero-profile .hero-statement'),
+      profilePowers = $('.hero-profile .hero-powers');
+  
+  hit.each(function(){
+    $(this).click(function(e,t){
+      var $this = $(this);
+      var datas = $(this).closest('.hit').find('.dump').val(),
+          datas = $.parseJSON(datas);
+      
+      // Fetch & define values
+      var
+      heroName = datas.name,
+      heroSecretId = datas.secretIdentities,
+      heroAvatar = datas.image.thumnail,
+      heroBanner = datas.image.banner,
+      heroBackground = datas.image.background,
+      heroDesc = datas.description,
+      heroPowers = datas.powers,
+      heroPartners = datas.partners,
+      isHero = datas.isHero,
+      isVillain = datas.isVillain;
+
+     
+      // Appy them
+      profileName.html(heroName);
+      profileAvatar.attr('src', heroAvatar);
+      profileDescription.html('<p>'+heroDesc+'</p>');
+      profileRealName.html(heroSecretId)
+
+      // Check if he is a hero, a vilain, both, or null
+      if(isHero==true && isVillain==false) {
+        profileHeroVillain.html('He is a hero <span class="hero-badge"></span>')
+      }
+      if(isVillain==true && isHero==false) {
+        profileHeroVillain.html('He is a Villain <span class="villain-badge"></span>')
+      }
+      if(isHero==false && isVillain==false) {
+        profileHeroVillain.html('He is both a hero and a villain <span class="hero-villain-badge"></span>')
+      }
+      if(isHero==null && isVillain==null){
+        profileBothHeroVillain.html('Unknown')
+      }
+
+      profile.attr({
+        'data-hero': isHero,
+        'data-villain': isVillain
+      })
+
+      // Loop & wrap all the powers
+      profilePowers.html('');
+      var power = '';
+      $.each(heroPowers, function (index, key){
+        power += "<span class='power'>"+key+"</span>"; 
+      });
+      profilePowers.append(power);
+      
+      // Loop & wrap all the partners
+      profilePartners.html('');
+      var partner = '';
+      $.each(heroPartners, function (index, key){
+        partner += "<span class='partner'>"+key+"</span>"; 
+      });
+      profilePartners.append(partner);
 
 
+      
+      if(!results.hasClass('open')){
+        results.addClass('open')
+        profile.addClass('shown')
+      }
+    });
+  })
+}
 
+function imageDimensions($url) {
+  var u = $url;
+
+}
+///////////////////////////
+/// Toggle hero-profile \\\ 
+///////////////////////////
+// function processHeroProfile(){
+//   var hit = document.querySelectorAll('.hit'),
+//       results = document.querySelector('.hits'),
+//       profile = document.querySelector('.hero-profile');
+//   for(var i=0;i<hit.length;i++){
+//     hit[i].addEventListener('click', function(){
+//       alert()
+//       if(!results.classList.contains('open')){
+//         results.classList.add('open')
+//         profile.classList.add('shown')
+//       } else {
+//         results.classList.remove('open')
+//         profile.classList.remove('shown')
+//       }
+//     })
+//   }
+// }
+
+
+// window.onload = function(){
+//   processHeroProfile()
+// }
 
 
 

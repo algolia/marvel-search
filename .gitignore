@@ -8,3 +8,5 @@ _marvel_api_key
 _marvel_api_key_private
 _cloudinary_api_key
 _cloudinary_api_secret
+.DS_Store
+app/assets/.DS_Store
