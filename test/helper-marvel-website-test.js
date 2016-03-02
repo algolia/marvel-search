@@ -103,7 +103,7 @@ describe('HelperMarvelWebsite', () => {
       expect(actual.blue).toEqual(9);
     });
 
-    it('should get the main color as rgb', () => {
+    it('should get the main color as hexa', () => {
       // Given
       let input = `
       <script>
@@ -115,7 +115,7 @@ describe('HelperMarvelWebsite', () => {
       let actual = Helper.getMainColor(input);
 
       // Then
-      expect(actual.rgb).toEqual('3A2409');
+      expect(actual.hexa).toEqual('3A2409');
     });
 
     it('should return null if none defined', () => {
