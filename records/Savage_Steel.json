@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Original_Savage_Steel_Armor.jpg/250px-Original_Savage_Steel_Armor.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Savage Steel",
   "partners": [
@@ -20,8 +20,7 @@
     "Superhuman strength",
     "Enhanced durability",
     "Flight",
-    "Energy manipulation .",
-    "Energy manipulation (all derived from powered battle armor)."
+    "Energy manipulation"
   ],
   "ranking": {
     "comicCount": 0,
@@ -34,11 +33,12 @@
   "secretIdentities": [
     "Unknown",
     "Arthur Vale",
-    "James \"Jimmy\" Zafar",
+    "James Zafar",
     "Harry Lennox",
+    "Jimmy",
     "(I) Harry Lennox",
     "(II) Arthur Vale",
-    "(III) James \"Jimmy\" Zafar",
+    "(III) James Zafar",
     "(IV) Unknown"
   ],
   "species": [

@@ -13,14 +13,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/27/AVNINITANN001_cov_col.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Armory",
   "partners": [
   ],
   "powers": [
-    "An alien-created weapon worn on the arm that is seemingly able to transform into any weapon that she may need at a given time."
   ],
   "ranking": {
     "comicCount": 2,
@@ -37,7 +36,7 @@
     "Human"
   ],
   "teams": [
-    "Avengers: The Initiative"
+    "The Initiative"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/193/armory",

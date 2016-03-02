@@ -9,8 +9,8 @@
   "description": "Cancer is the name of three fictional characters in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Cancer",
   "partners": [

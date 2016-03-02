@@ -10,21 +10,16 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/MarvelPremeire29.jpg/249px-MarvelPremeire29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Thin Man",
   "partners": [
   ],
   "powers": [
-    "Intense water pressure resistance at a superhuman extent",
     "Elasticity",
-    "Accomplished airplane pilot",
     "Eternal youth",
-    "Immunity to all known diseases",
     "Shapeshifting",
-    "Intense superhuman water pressure resistance",
-    "Advanced knowledge of kalahian science",
     "Technology"
   ],
   "ranking": {

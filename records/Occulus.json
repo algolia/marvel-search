@@ -11,16 +11,15 @@
   "description": "Occulus is a fictional character in the Marvel Universe.Occulus is an enemy of the Fantastic Four.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Occulus",
   "partners": [
   ],
   "powers": [
     "Can form force fields",
-    "Project energy blasts",
-    "Detect various forms of energy."
+    "Project energy blasts"
   ],
   "ranking": {
     "comicCount": 0,

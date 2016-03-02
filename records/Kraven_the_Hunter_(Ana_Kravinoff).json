@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Kraven the Hunter",
-    "Kraven the Hunter (Ana Kravinoff)"
+    "Kraven the Hunter"
   ],
   "authors": [
     "Phil Jimenez",
@@ -15,7 +14,7 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/527410063de71/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Kraven the Hunter",
@@ -27,7 +26,6 @@
     "Expert martial artist",
     "Tracker",
     "Good medical knowledge",
-    "Minimal superhuman strength",
     "Speed"
   ],
   "ranking": {
@@ -39,7 +37,8 @@
     "storyCount": 27
   },
   "secretIdentities": [
-    "Anastasia \"Ana\" Tatiana Kravinoff"
+    "Anastasia Tatiana Kravinoff",
+    "Ana"
   ],
   "species": [
   ],

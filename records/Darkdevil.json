@@ -10,23 +10,19 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Darkdevil.png/250px-Darkdevil.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Darkdevil",
   "partners": [
   ],
   "powers": [
     "Usually into a weapon",
-    "Precognitive \"spider-sense\"",
     "Teleportation",
-    "Change his appearance from demon to human",
     "Superhuman strength",
     "Agility",
-    "Excellent hand-to-hand combatant",
     "Free style fighter",
-    "Cling to any surface",
-    "Turn any body part into flame"
+    "Cling to any surface"
   ],
   "ranking": {
     "comicCount": 0,

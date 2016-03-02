@@ -15,8 +15,8 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Rattler",
   "partners": [
@@ -24,12 +24,9 @@
   "powers": [
     "Skilled athlete",
     "Super-strength",
-    "Has a bionic tail that generates sonic vibrations used to create shockwaves",
     "Deflect projectiles",
-    "Or disorient.",
+    "Or disorient",
     "Super-speed",
-    "Wears electronic hearing aids in his cowl",
-    "Bionic tail that generates sonic vibrations used to create shockwaves",
     "Or inducing vertigo",
     "Disorientation",
     "Unconsciousness",

@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Tiger",
-    "White Tiger",
-    "White Tiger (Heroes for Hire)"
+    "White Tiger"
   ],
   "authors": [
     "Pasqual Ferry",
@@ -15,8 +14,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/WhiteTigerH4H4.jpg/250px-WhiteTigerH4H4.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "White Tiger (Angela Del Toro)",
   "partners": [
@@ -25,8 +24,7 @@
     "Martial arts skills",
     "Cat-like speed",
     "Agility",
-    "Reflexes",
-    "Resistance to mental powers."
+    "Reflexes"
   ],
   "ranking": {
     "comicCount": 10,

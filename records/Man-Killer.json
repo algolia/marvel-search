@@ -12,7 +12,7 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Man-Killer.jpg/250px-Man-Killer.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Man-Killer",
@@ -20,8 +20,7 @@
   ],
   "powers": [
     "Superhuman strength",
-    "Durability",
-    "Size-alteration through pym particle exposure"
+    "Durability"
   ],
   "ranking": {
     "comicCount": 0,

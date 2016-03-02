@@ -7,15 +7,13 @@
   "description": "Otomo is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Otomo",
   "partners": [
   ],
   "powers": [
-    "Requires drugs to survive. has superhuman strength",
-    "Flight. skilled martial artist."
   ],
   "ranking": {
     "comicCount": 0,

@@ -13,7 +13,7 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c003d3444dce/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Mojo",
@@ -22,8 +22,7 @@
     "Major Domo"
   ],
   "powers": [
-    "Mystical powers",
-    "Superhuman physical attributes"
+    "Mystical powers"
   ],
   "ranking": {
     "comicCount": 31,

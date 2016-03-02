@@ -9,8 +9,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/99/Nightstalkers16.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Dreadnought",
   "partners": [
@@ -18,7 +18,6 @@
   "powers": [
     "Freezing breath",
     "Electrifying touch",
-    "Projectile spikes on knuckles",
     "Flame-throwing gauntlets"
   ],
   "ranking": {

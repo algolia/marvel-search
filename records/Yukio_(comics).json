@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/46/Yukio_Profile.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Yukio",
   "partners": [
@@ -22,8 +22,6 @@
     "Amiko Kobayashi"
   ],
   "powers": [
-    "Experienced martial artist",
-    "Superior fighting abilities",
     "Film only",
     "Genius-level intellect"
   ],

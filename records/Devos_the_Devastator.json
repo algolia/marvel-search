@@ -11,19 +11,16 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Devosff.jpg/250px-Devosff.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Devos the Devastator",
   "partners": [
   ],
   "powers": [
     "Assorted alien firearms",
-    "Command of various space vessels",
     "Various offensive weapons",
-    "Sensors",
-    "High-level resistance to injury",
-    "Temporary superhuman strength via exoskeleton"
+    "Sensors"
   ],
   "ranking": {
     "comicCount": 0,

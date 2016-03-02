@@ -9,11 +9,13 @@
   "description": "Mayhem is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mayhem",
   "partners": [
+    "Cloak",
+    "Dagger",
     "Cloak and Dagger"
   ],
   "powers": [

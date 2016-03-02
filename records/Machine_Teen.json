@@ -11,8 +11,8 @@
   "description": "Machine Teen is a fictional character that appears in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Machine Teen",
   "partners": [

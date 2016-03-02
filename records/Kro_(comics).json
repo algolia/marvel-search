@@ -12,15 +12,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Kro_from_Thor_-_The_Deviants_Saga_05.jpg/200px-Kro_from_Thor_-_The_Deviants_Saga_05.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kro",
   "partners": [
   ],
   "powers": [
-    "Accelerated healing factor",
-    "Superhuman physical attributes",
     "Shapeshifting",
     "Immortal",
     "Shape-shifting",

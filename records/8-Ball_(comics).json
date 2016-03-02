@@ -2,7 +2,6 @@
   "aliases": [
     "The Crook With the Jet-Propelled Cue-Stick",
     "Eightball",
-    "8",
     "8-Ball"
   ],
   "authors": [
@@ -13,7 +12,7 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/8-Ball_%28comics%29_sleepwalker_cover.jpg/250px-8-Ball_%28comics%29_sleepwalker_cover.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "8",
@@ -23,13 +22,10 @@
     "Brilliant engineer",
     "Skilled gymnast",
     "Expert pool player",
-    "Experienced missile propulsion system designer",
     "Gifted inventor",
-    "Possesses a pool rack-like four man hovercraft",
     "A cue stick",
     "Use of explosive grenades",
     "Fireworks",
-    "A round floating hovercraft",
     "Flying miniature cameras"
   ],
   "ranking": {
@@ -46,7 +42,6 @@
   "species": [
   ],
   "teams": [
-    "8",
     "8-Ball Gang"
   ],
   "urls": {

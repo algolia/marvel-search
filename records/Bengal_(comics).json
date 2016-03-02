@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5269523ee6c03/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bengal",
   "partners": [
@@ -41,7 +41,7 @@
     "Human"
   ],
   "teams": [
-    "Avengers: The Initiative"
+    "The Initiative"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/257/bengal",

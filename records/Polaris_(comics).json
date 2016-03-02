@@ -21,8 +21,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5274122562b05/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Polaris",
   "partners": [
@@ -32,7 +32,6 @@
     "Fields allowing flight",
     "Force-fields",
     "Concussive blasts",
-    "The manipulation of ferrous metals.",
     "Electromagnetic control",
     "Flight",
     "Magnetic field generation"
@@ -60,11 +59,10 @@
     "X-Factor Investigations",
     "X-Factor",
     "Defenders",
-    "Apocalypse: The Twelve",
+    "The Twelve",
     "Acolytes",
     "X-Factor (Serval Industries)",
-    "\"Defenders for a Day\"",
-    "The Twelve"
+    "Defenders for a Day"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1771/polaris",

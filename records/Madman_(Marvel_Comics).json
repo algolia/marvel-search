@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Madman"
+    "Madman",
+    "actual identities the character uses"
   ],
   "authors": [
     "Peter David",
@@ -10,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Madman_%28Marvel_Comics%29.jpg/250px-Madman_%28Marvel_Comics%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Madman",
   "partners": [

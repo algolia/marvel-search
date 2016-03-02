@@ -11,15 +11,14 @@
   "description": "Aron, the Rogue Watcher is a fictional character; an extraterrestrial supervillain in the fictional Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Aron",
   "partners": [
   ],
   "powers": [
-    "Cosmic powers",
-    "Superhuman level intellect"
+    "Cosmic powers"
   ],
   "ranking": {
     "comicCount": 0,

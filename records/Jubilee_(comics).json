@@ -15,17 +15,16 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4e7a2148b6e59/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Jubilee",
   "partners": [
   ],
   "powers": [
     "Possesses the powers",
-    "Abilities of a vampire.",
+    "Abilities of a vampire",
     "Concussive blasts",
-    "Plasmoid",
-    "S"
+    "Plasmoid"
   ],
   "ranking": {
     "comicCount": 170,
@@ -36,7 +35,8 @@
     "storyCount": 191
   },
   "secretIdentities": [
-    "Jubilation \"Jubilee\" Lee"
+    "Jubilation Lee",
+    "Jubilee"
   ],
   "species": [
     "Vampire"

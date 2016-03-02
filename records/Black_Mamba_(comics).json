@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Black_mamba_MarvelComics.jpg/198px-Black_mamba_MarvelComics.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Black Mamba",
   "partners": [
@@ -38,7 +38,7 @@
   ],
   "teams": [
     "BAD Girls",
-    "Inc.",
+    "Inc",
     "Serpent Society",
     "Women Warriors",
     "Femizons",

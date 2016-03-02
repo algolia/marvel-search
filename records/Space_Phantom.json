@@ -9,16 +9,14 @@
   "description": "Space Phantom is a name given to a number of fictional characters in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Space Phantom",
   "partners": [
   ],
   "powers": [
     "Shapeshifting",
-    "Knowledge of sophisticated alien technology",
-    "Advanced knowledge of time",
     "Time travel"
   ],
   "ranking": {

@@ -17,18 +17,16 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg/250px-Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Peter Parker",
   "partners": [
   ],
   "powers": [
-    "Immunity to sonic-based attacks",
     "Mark of kaine",
     "Invisibility",
     "Forearm stingers",
-    "Immunity to the world-wide mind purging of spider-man's identity",
     "Four large spider legs",
     "Enhanced strength",
     "Speed",
@@ -40,9 +38,7 @@
     "Reflexes",
     "Equilibrium",
     "Two retractable stingers",
-    "Organic webbing generation",
     "Precognitive spider sense",
-    "Regenerative healing factor",
     "Night vision"
   ],
   "ranking": {

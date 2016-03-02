@@ -9,16 +9,15 @@
   "description": "Tutinax is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tutinax",
   "partners": [
   ],
   "powers": [
     "Superhuman strength",
-    "Resilience",
-    "Creates fear in his opponents"
+    "Resilience"
   ],
   "ranking": {
     "comicCount": 0,

@@ -24,7 +24,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5205305343bfd/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -38,15 +38,11 @@
   ],
   "powers": [
     "Genius-level intellect",
-    "Size-shifting from nearly microscopic to ~100 feet gigantic",
     "Objects",
     "Bio-energy projection",
     "Also known as a bio-sting",
-    "Flight using grafted wings during his period as yellowjacket",
-    "Telepathic communication with ants using a cybernetic helmet as ant-man",
     "Superhuman strength",
     "Stamina",
-    "Mass in giant form as giant-man",
     "Goliath",
     "Yellowjacket"
   ],
@@ -59,7 +55,8 @@
     "storyCount": 301
   },
   "secretIdentities": [
-    "Henry Jonathan \"Hank\" Pym"
+    "Henry Jonathan Pym",
+    "Hank"
   ],
   "species": [
     "Human Mutate"
@@ -72,7 +69,7 @@
     "Defenders",
     "Avengers Academy",
     "Secret Avengers",
-    "Avengers A.I.",
+    "Avengers A.I",
     "Illuminati"
   ],
   "urls": {

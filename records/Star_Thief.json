@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Star Thief"
+    "Star Thief",
+    "actual identities the character uses"
   ],
   "authors": [
     "Mark Bagley",
@@ -9,8 +10,8 @@
   "description": "Star Thief (Ditmal Pirval) is a fictional Marvel Comics character.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Star Thief",
   "partners": [

@@ -14,16 +14,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c0035c193fc3/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shockwave",
   "partners": [
   ],
   "powers": [
     "Wears exoskeleton",
-    "Enhanced strength",
-    "Generate electric shock on contact"
+    "Enhanced strength"
   ],
   "ranking": {
     "comicCount": 0,
@@ -43,7 +42,7 @@
     "Oriental Expediters",
     "Secret Intelligence Service",
     "Golden Dagger Sect",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "MI6"
   ],
   "urls": {

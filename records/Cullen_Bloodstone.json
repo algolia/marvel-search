@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Cullen_Bloodstone_Avengers_Arena_6.jpg/250px-Cullen_Bloodstone_Avengers_Arena_6.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bloodstone",
   "partners": [

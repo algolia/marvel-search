@@ -11,14 +11,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/StuntMasterDD.jpg/250px-StuntMasterDD.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Stuntmaster",
   "partners": [
   ],
   "powers": [
-    "Use of a flying motorcycle",
     "Skilled stuntman",
     "Motorcyclist"
   ],

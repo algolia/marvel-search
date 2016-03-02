@@ -6,8 +6,6 @@
     "Gerry Conway",
     "Stan Lee",
     "Steve Ditko",
-    "Jackal:",
-    "Miles Warren:",
     "Ross Andru"
   ],
   "description": "The Jackal is a fictional character that appears in comic books published by Marvel Comics.",
@@ -16,8 +14,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/4c002e7012876/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Jackal",
   "partners": [
@@ -27,7 +25,6 @@
     "Punisher"
   ],
   "powers": [
-    "Genius in the fields of genetics",
     "Biochemistry",
     "Cloning",
     "Engineering",
@@ -37,7 +34,6 @@
     "Drug-tipped",
     "Or electro-prod",
     "Claws",
-    "Superhuman physical attributes",
     "Genius geneticist",
     "Biochemist",
     "Cloner",

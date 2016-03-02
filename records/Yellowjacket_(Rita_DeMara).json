@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Yellowjacket",
-    "Yellowjacket (Rita DeMara)"
+    "Yellowjacket"
   ],
   "authors": [
     "John Buscema",
@@ -13,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5398a8a4b8ca9/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Yellowjacket (Rita DeMara)",
   "partners": [
@@ -25,8 +24,7 @@
     "Size changing",
     "Cybernetics expert",
     "High-speed flight",
-    "Size manipulation",
-    "Electrical bolt projection via stinger blasts"
+    "Size manipulation"
   ],
   "ranking": {
     "comicCount": 3,
@@ -42,11 +40,10 @@
   "species": [
   ],
   "teams": [
-    "Guardians of the Galaxy (1969 team)",
+    "Guardians of the Galaxy",
     "Femizons",
     "Avengers",
-    "Masters of Evil",
-    "Guardians of the Galaxy"
+    "Masters of Evil"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2636/yellowjacket",

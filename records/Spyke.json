@@ -14,17 +14,14 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Spyke.jpg/220px-Spyke.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Spyke",
   "partners": [
   ],
   "powers": [
-    "Can extend self-repairing exoskeleton",
     "Projectile spikes",
-    "Later able to produce flaming spikes",
-    "Regenerative healing factor",
     "Enhanced strength"
   ],
   "ranking": {

@@ -14,8 +14,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/99/Mikhail_Rasputin.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mikhail Rasputin",
   "partners": [
@@ -25,7 +25,6 @@
     "Teleportation",
     "Matter manipulation",
     "Energy blast",
-    "S",
     "Portal creation"
   ],
   "ranking": {
@@ -44,11 +43,10 @@
   ],
   "teams": [
     "Morlocks",
-    "Apocalypse: The Twelve",
+    "The Twelve",
     "Astronaut",
     "Russian Cosmonaut program",
-    "Gene Nation",
-    "The Twelve"
+    "Gene Nation"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2745/mikhail_rasputin",

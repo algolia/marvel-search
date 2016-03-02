@@ -18,8 +18,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Hades2.png/250px-Hades2.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Pluto",
   "partners": [
@@ -29,9 +29,6 @@
     "Stamina",
     "Durability",
     "Energy-draining touch",
-    "High-level magical energies",
-    "Helmet grants invisibility",
-    "Regenerative healing factor",
     "Immortality",
     "Invisibility via helmet"
   ],

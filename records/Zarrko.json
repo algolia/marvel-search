@@ -12,19 +12,17 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Journey_into_Mystery_101.jpg/220px-Journey_into_Mystery_101.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Zarrko",
   "partners": [
   ],
   "powers": [
     "Super-genius",
-    "Controls an arsenal of advanced futuristic weaponry",
     "Genius-level intellect",
     "Advanced scientific",
-    "Technological skills",
-    "Possesses an arsenal of futuristic weaponry"
+    "Technological skills"
   ],
   "ranking": {
     "comicCount": 0,

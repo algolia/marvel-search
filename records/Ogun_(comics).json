@@ -13,16 +13,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4c003d0c92efb/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ogun",
   "partners": [
   ],
   "powers": [
-    "Slowed or halted aging.",
-    "Telepathic ability to switch bodies",
-    "Control minds which is derived from either a mutation or mystical powers",
+    "Slowed or halted aging",
     "Superhuman agility",
     "Reflexes"
   ],

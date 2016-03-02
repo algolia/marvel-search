@@ -12,17 +12,13 @@
   "description": "Shock aka Ariel Tremmore is a fictional character, and a supervillain in the Marvel Comics universe, first introduced in 1993 on March 1, created by Dan G.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shock",
   "partners": [
   ],
   "powers": [
-    "Fear-inducing hallucinogen emitted through pheromones",
-    "Razor-sharp fangs & talons",
-    "Emotion manipulation via pheromones",
-    "Fear-inducing hallucination generation",
     "Razor-sharp teeth",
     "Talons"
   ],

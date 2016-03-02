@@ -12,7 +12,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Beta_Ray_Bill.jpg/250px-Beta_Ray_Bill.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Beta Ray Bill",
   "partners": [
@@ -22,7 +22,6 @@
     "Flight",
     "Energy absorption",
     "Projection",
-    "Superior hand to hand combatant",
     "Vast superhuman strength",
     "Speed",
     "Stamina",

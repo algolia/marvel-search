@@ -7,8 +7,8 @@
   "description": "The Doombots are fictional robots in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Doombot",
   "partners": [

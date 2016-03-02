@@ -10,16 +10,13 @@
   "description": "Spidercide is a fictional character, a comic book supervillain appearing in publications by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Spidercide",
   "partners": [
   ],
   "powers": [
-    "Possesses all of spider-man's powers. can grow",
-    "Shrink in size. can turn body semi-liquid",
-    "Form blades. limited shapeshifting."
   ],
   "ranking": {
     "comicCount": 0,

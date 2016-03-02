@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Danger_room.jpg/220px-Danger_room.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Danger",
   "partners": [
@@ -22,13 +22,10 @@
     "Rogue"
   ],
   "powers": [
-    "Able to create realistic holographic projections",
     "Enhanced strength",
     "Durability",
-    "Control over other machines",
     "Flight",
-    "Energy blasts",
-    "Detailed knowledge of the x-men."
+    "Energy blasts"
   ],
   "ranking": {
     "comicCount": 0,

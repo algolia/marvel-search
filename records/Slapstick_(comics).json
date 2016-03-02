@@ -12,20 +12,16 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c00310b887bc/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Slapstick",
   "partners": [
   ],
   "powers": [
-    "Experienced practical joker",
     "Superhuman agility",
     "Durability",
     "Reflexes",
-    "Virtually unlimited malleability",
-    "Minimal reality manipulation",
-    "Enhanced strength when electrocuted",
     "Indestructibility"
   ],
   "ranking": {
@@ -42,10 +38,9 @@
   "species": [
   ],
   "teams": [
-    "Avengers: The Initiative",
+    "The Initiative",
     "Counter Force",
     "New Warriors",
-    "The Initiative",
     "Heroes for Hire",
     "Mercs for Money"
   ],

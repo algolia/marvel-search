@@ -10,8 +10,8 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Talon (Fraternity of Raptors)",
   "partners": [
@@ -19,8 +19,7 @@
     "Sorcerer Supreme"
   ],
   "powers": [
-    "Feline attributes",
-    "Minor mystical talents such as levitation"
+    "Feline attributes"
   ],
   "ranking": {
     "comicCount": 0,
@@ -37,7 +36,6 @@
     "Inhumans"
   ],
   "teams": [
-    "Guardians of the Galaxy (1969 team)",
     "Guardians of the Galaxy"
   ],
   "urls": {

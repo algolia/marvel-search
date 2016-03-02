@@ -8,8 +8,8 @@
   "description": "Smuggler (Conrad Josten) is a fictional character in Marvel Comics as a superhero.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Smuggler",
   "partners": [

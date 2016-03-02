@@ -18,18 +18,16 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Amazing_Spider-Man_139.jpg/250px-Amazing_Spider-Man_139.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Grizzly",
   "partners": [
     "Jackal"
   ],
   "powers": [
-    "Use of conventional firearms",
     "Razor sharp claws",
     "Adept at wrestling",
-    "Wore a grizzly bear costume lined with steel.",
     "Use of a laser pistol",
     "Razor sharp fangs",
     "Claws",
@@ -38,8 +36,7 @@
     "Speed",
     "Stamina",
     "Senses",
-    "Size",
-    "Wears a steel-lined grizzly bear costume"
+    "Size"
   ],
   "ranking": {
     "comicCount": 0,
@@ -63,7 +60,7 @@
     "Thunderbolts",
     "Six Pack",
     "Legion of Losers",
-    "Weapon P.R.I.M.E.",
+    "Weapon P.R.I.M.E",
     "Advanced Idea Mechanics"
   ],
   "urls": {

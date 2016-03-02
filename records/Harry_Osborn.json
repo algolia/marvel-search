@@ -16,8 +16,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4ce5a0b3181d8/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Harry Osborn",
   "partners": [
@@ -25,11 +25,8 @@
   ],
   "powers": [
     "Enhanced intelligence",
-    "Superhuman physical attributes identical to that of the green goblin",
     "Goblin-themed weapons",
-    "Paraphernalia",
-    "Superhuman physical attributes",
-    "Use of goblin-themed weapons"
+    "Paraphernalia"
   ],
   "ranking": {
     "comicCount": 50,
@@ -40,7 +37,8 @@
     "storyCount": 53
   },
   "secretIdentities": [
-    "Harold Theopolis \"Harry\" Osborn"
+    "Harold Theopolis Osborn",
+    "Harry"
   ],
   "species": [
   ],

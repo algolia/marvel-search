@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Claire Voyant",
-    "Black Widow",
-    "Black Widow (Claire Voyant)"
+    "Black Widow"
   ],
   "authors": [
     "Harry Sahle",
@@ -14,8 +13,8 @@
     "banner": "http://x.annihil.us/u/prod/marvel/i/mg/3/40/537ba41563b66.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/50fecad1f395b/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -34,7 +33,6 @@
     "Death touch",
     "Mental suggestion",
     "Enhanced endurance",
-    "Mystically regenerate or heal others",
     "Superhuman strength"
   ],
   "ranking": {

@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Gabriel",
-    "Gabriel (New-Gen)"
+    "Gabriel"
   ],
   "authors": [
     "Julia Coppola",
@@ -13,21 +12,19 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a7/Gabriel_New-Gen.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Gabriel",
   "partners": [
   ],
   "powers": [
-    "Able to travel to any point in time",
     "Space",
     "Technopathy",
     "Superhuman strength",
     "Telekinesis",
     "Energy blasts",
     "Genius level intellect",
-    "Energy blast",
-    "S"
+    "Energy blast"
   ],
   "ranking": {
     "comicCount": 0,
@@ -44,7 +41,7 @@
     "Human"
   ],
   "teams": [
-    "A.P.N.G."
+    "A.P.N.G"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_(New-Gen)"

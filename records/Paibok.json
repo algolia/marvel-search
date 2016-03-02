@@ -6,9 +6,8 @@
   ],
   "authors": [
     "Tom DeFalco",
-    "Paul Ryan (cartoonist)",
-    "Danny Bulanadi",
-    "Paul Ryan"
+    "Paul Ryan",
+    "Danny Bulanadi"
   ],
   "description": "Paibok the Power Skrull is a fictional alien, a comic book supervillain appearing in the Marvel Comics universe.",
   "images": {
@@ -16,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4c002f617817e/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Paibok",
   "partners": [
@@ -31,10 +30,7 @@
     "Superhuman strength",
     "Stamina",
     "Durability",
-    "Immunity to effects of his energy",
-    "Ice blasts",
-    "Expert armed/unarmed combatant",
-    "Immunity to the effects of his energy"
+    "Ice blasts"
   ],
   "ranking": {
     "comicCount": 0,

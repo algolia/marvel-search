@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Freedomring.png/150px-Freedomring.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Freedom Ring",
   "partners": [
@@ -20,8 +20,7 @@
     "Superhuman strength",
     "Speed",
     "Stamina",
-    "Durability",
-    "Reality manipulation via cosmic powered ring"
+    "Durability"
   ],
   "ranking": {
     "comicCount": 0,

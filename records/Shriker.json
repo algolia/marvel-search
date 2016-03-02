@@ -10,18 +10,16 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/JackShriker.jpg/150px-JackShriker.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shriker",
   "partners": [
-    "Ghost Rider (Johnny Blaze)",
     "Ghost Rider",
     "John Blaze",
     "Caretaker"
   ],
   "powers": [
-    "Extensive martial arts training"
   ],
   "ranking": {
     "comicCount": 0,

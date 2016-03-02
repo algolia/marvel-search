@@ -11,8 +11,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/10/4ce5a70abf6fb/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Cypher",
   "partners": [
@@ -34,7 +34,8 @@
     "storyCount": 7
   },
   "secretIdentities": [
-    "Douglas Aaron \"Doug\" Ramsey"
+    "Douglas Aaron Ramsey",
+    "Doug"
   ],
   "species": [
   ],

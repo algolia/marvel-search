@@ -10,15 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Ebon_Samurai_%28Marvel_Comics%29.jpg/250px-Ebon_Samurai_%28Marvel_Comics%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ebon Samurai",
   "partners": [
   ],
   "powers": [
-    "Undead warrior with cursed samurai long sword",
-    "Superb hand-to-hand combatant",
     "Superb",
     "Hand-to-hand combat",
     "Ant"

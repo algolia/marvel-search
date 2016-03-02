@@ -12,15 +12,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/48/Turnerdcentury.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Turner D. Century",
   "partners": [
   ],
   "powers": [
     "Flying bicycle",
-    "Magic horn that kills people under age 65",
     "Flame-throwing umbrella"
   ],
   "ranking": {

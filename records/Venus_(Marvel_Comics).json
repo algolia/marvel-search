@@ -1,12 +1,10 @@
 {
   "aliases": [
     "Venus",
-    "\"V\"",
-    "\"Goddess\"",
-    "\"Aphrodite\"",
+    "Goddess",
+    "Aphrodite",
     "Victoria Nutley Starr",
-    "others",
-    "Aphrodite"
+    "others"
   ],
   "authors": [
     "Carlo Pagulayan",
@@ -18,8 +16,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/535ff36a8fbef/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Venus (Siren)",
   "partners": [
@@ -47,7 +45,7 @@
   ],
   "species": [
     "Olympians",
-    "Siren (mythology)"
+    "Siren"
   ],
   "teams": [
     "Agents of Atlas",

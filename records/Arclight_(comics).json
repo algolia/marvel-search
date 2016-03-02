@@ -11,8 +11,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c0042067fd8b/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Arclight",
   "partners": [
@@ -39,7 +39,7 @@
   ],
   "teams": [
     "Femizons",
-    "X-Men: The 198",
+    "The 198",
     "Marauders"
   ],
   "urls": {

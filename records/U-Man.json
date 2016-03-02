@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "U-Man"
+    "U-Man",
+    "actual identities the character uses"
   ],
   "authors": [
     "Frank Robbins",
@@ -10,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Invaders-39.jpg/225px-Invaders-39.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "U-Man",
   "partners": [

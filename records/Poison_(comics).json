@@ -9,8 +9,8 @@
   "description": "Poison is the name of two fictional comic book characters, owned by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Poison",
   "partners": [
@@ -21,7 +21,6 @@
     "Endurance",
     "Agility",
     "Reflexes",
-    "Limited matter manipulation over skin",
     "Flight"
   ],
   "ranking": {

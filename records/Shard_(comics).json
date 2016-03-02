@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4c003c24b9222/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shard",
   "partners": [
@@ -22,8 +22,7 @@
   ],
   "powers": [
     "Energy blasts",
-    "Intangibility",
-    "Intangibility (holographic shard only)"
+    "Intangibility"
   ],
   "ranking": {
     "comicCount": 29,
@@ -37,7 +36,8 @@
     "Shard Bishop"
   ],
   "species": [
-    "Human Mutant, later Holographic"
+    "Human Mutant",
+    "later Holographic"
   ],
   "teams": [
     "X-Factor",

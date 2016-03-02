@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Deathlok",
-    "Siege",
-    "Siege (John Kelly)"
+    "Siege"
   ],
   "authors": [
     "Dwayne McDuffie",
@@ -14,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/526165a98dd8e/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Deathlok",
   "partners": [
@@ -23,10 +22,7 @@
   "powers": [
     "Superhuman strength",
     "Superhuman durability",
-    "Flight",
-    "Variety of weapons systems",
-    "Sensor arrays built into his body",
-    "Vast library of information stored in his information databanks"
+    "Flight"
   ],
   "ranking": {
     "comicCount": 22,
@@ -43,7 +39,7 @@
     "Human Cyborg"
   ],
   "teams": [
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Fifty State Initiative"
   ],
   "urls": {

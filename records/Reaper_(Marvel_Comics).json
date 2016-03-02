@@ -11,18 +11,16 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Reaper",
   "partners": [
   ],
   "powers": [
-    "Generates neurosynaptic energy causing slowness",
     "Paralysis",
     "Nerve damage",
-    "Which he can channel through his scythes. cybernetic hands",
-    "Leg."
+    "Leg"
   ],
   "ranking": {
     "comicCount": 10,

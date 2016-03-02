@@ -11,8 +11,8 @@
   "description": "See also Hammer and Anvil (comics), Justin Hammer and H.A.M.M.E.R..Hammer is the name of various different characters in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hammer",
   "partners": [
@@ -41,7 +41,7 @@
     "none",
     "Six Pack/Wild Pack",
     "Six Pack",
-    "/Wild Pack"
+    "Wild Pack"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hammer_(comics)"

@@ -2,7 +2,7 @@
   "aliases": [
     "Wolverine",
     "The Gorgon",
-    "Gorgon (Tomi Shishido)"
+    "Gorgon"
   ],
   "authors": [
     "Mark Millar",
@@ -14,8 +14,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/526033e7ac8ee/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Gorgon",
   "partners": [
@@ -30,11 +30,8 @@
     "Balance",
     "Endurance",
     "Teleportation device",
-    "Extraordinary hand to hand combatant",
-    "Genius level intellect in multiple areas",
     "Telepathy",
     "Expert swordsman",
-    "Regenerative healing factor",
     "Regenerative",
     "Healing factor"
   ],
@@ -53,7 +50,7 @@
     "Mutant"
   ],
   "teams": [
-    "H.A.M.M.E.R.",
+    "H.A.M.M.E.R",
     "The Hand",
     "Dark Avengers",
     "Hydra",

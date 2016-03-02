@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Webofspiderman30.jpg/250px-Webofspiderman30.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Richard Fisk",
   "partners": [
@@ -26,8 +26,7 @@
     "Good martial artist",
     "Wears a bulletproof suit",
     "Use of guns",
-    "Carries a handgun",
-    "A variety of mini-grenades"
+    "Carries a handgun"
   ],
   "ranking": {
     "comicCount": 0,

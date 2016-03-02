@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Torgo",
-    "Torgo (vampire)"
+    "Torgo"
   ],
   "authors": [
     "Marv Wolfman",
@@ -10,8 +9,8 @@
   "description": "Torgo is a fictional character, a vampire in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Torgo",
   "partners": [

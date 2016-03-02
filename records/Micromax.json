@@ -12,14 +12,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0035aac6564/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Micromax",
   "partners": [
   ],
   "powers": [
-    "Strength proportionate to size",
     "Mass",
     "Size manipulation",
     "Limited shapeshifting"
@@ -44,7 +43,7 @@
     "Directorate of Military Intelligence",
     "Features of the Marvel Universe",
     "Vanguard",
-    "R.C.X.",
+    "R.C.X",
     "MI16"
   ],
   "urls": {

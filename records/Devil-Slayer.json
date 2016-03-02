@@ -2,7 +2,7 @@
   "aliases": [
     "Agent of Death",
     "The Reaper of Souls",
-    "\"Cape Man\"",
+    "Cape Man",
     "Devil-Slayer"
   ],
   "authors": [
@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Devil-Slayer.jpg/250px-Devil-Slayer.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Devil-Slayer",
   "partners": [

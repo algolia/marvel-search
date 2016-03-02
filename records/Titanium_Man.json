@@ -16,8 +16,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/528d368ab3f46/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Titanium Man (Topolov)",
   "partners": [
@@ -28,11 +28,7 @@
     "Concussive blasts",
     "Enhanced strength",
     "Weapons",
-    "Superhuman intelligence",
-    "Projection of constrictive force \"rings\"",
-    "Electromagnetically paralytic beams",
-    "Accomplished genetic engineer",
-    "Resistance to conventional artillery"
+    "Superhuman intelligence"
   ],
   "ranking": {
     "comicCount": 25,
@@ -44,9 +40,10 @@
   },
   "secretIdentities": [
     "Boris Bullski",
-    " Kondrati \"Gremlin\" Topolov",
+    "Kondrati Topolov",
+    "Gremlin",
     "(I) Boris Bullski",
-    "(II) Kondrati \"Gremlin\" Topolov"
+    "(II) Kondrati Topolov"
   ],
   "species": [
   ],

@@ -16,19 +16,15 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/03/Mrfear.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mister Fear",
   "partners": [
     "Lucia von Bardas"
   ],
   "powers": [
-    "Trained hand to hand combatant",
-    "Use of a perfume that made him able to influence other people",
-    "Fear pheromone administered primarily by gas pellets",
     "Occasionally by syringe",
-    "Most recently by an aerosol sprayer",
     "Accomplished wax sculptor",
     "Talented amateur chemist",
     "Gifted intellect"
@@ -42,9 +38,10 @@
     "storyCount": 1
   },
   "secretIdentities": [
-    "Lawrence \"Larry\" Cranston",
+    "Lawrence Cranston",
     "Zoltan Drago",
-    "Alan Fagan"
+    "Alan Fagan",
+    "Larry"
   ],
   "species": [
   ],

@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cobalt_Man.jpg/250px-Cobalt_Man.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Cobalt Man",
   "partners": [

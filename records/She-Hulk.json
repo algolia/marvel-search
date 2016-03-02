@@ -14,7 +14,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/523214b8ea2cf/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": {
     "blue": 11,
     "green": 37,
@@ -30,12 +30,9 @@
     "Agility",
     "Stamina",
     "Durability",
-    "Regenerative healing factor",
     "Emotion empowerment",
-    "Breaking the \"fourth wall\"",
+    "Breaking the \"fourth wall",
     "Power-switching",
-    "Highly skilled law practitioner",
-    "Expert hand to hand combatant",
     "Skilled pilot",
     "Endurance",
     "Regenerative",
@@ -70,7 +67,7 @@
     "The Initiative",
     "Lady Liberators",
     "Mighty Avengers",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Hulkbusters",
     "Goodman, Lieber, Kurtzberg & Holliway",
     "A-Force"

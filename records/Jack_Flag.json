@@ -14,8 +14,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4c003787cd7e1/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Jack Flag",
   "partners": [
@@ -40,7 +40,6 @@
   "species": [
   ],
   "teams": [
-    "Guardians of the Galaxy (2008 team)",
     "Guardians of the Galaxy"
   ],
   "urls": {

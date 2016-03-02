@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Sabra"
+    "Sabra",
+    "actual identities the character uses"
   ],
   "authors": [
     "Sal Buscema",
@@ -13,7 +14,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Sabramu0.jpg/229px-Sabramu0.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sabra",
   "partners": [
@@ -25,15 +26,9 @@
     "Reflexes",
     "Durability",
     "The ability to heal",
-    "Anti-gravity devices with the ability to fly",
-    "Wrist gauntlets that fire plasma bursts",
     "Paralyzing quills",
-    "Trained armed/unarmed combatant",
     "Stamina",
-    "Endurance",
-    "Flight via anti-gravity devices",
-    "Wears wrist gauntlets that fire plasma bursts",
-    "Use of conventional weapons"
+    "Endurance"
   ],
   "ranking": {
     "comicCount": 14,

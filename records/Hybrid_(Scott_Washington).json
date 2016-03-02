@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Hybrid",
-    "Hybrid (Scott Washington)"
+    "Hybrid"
   ],
   "authors": [
     "Scott Washington",
@@ -14,8 +13,8 @@
   "description": "Hybrid (real name Scott Washington) is a fictional anti-hero of the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hybrid",
   "partners": [

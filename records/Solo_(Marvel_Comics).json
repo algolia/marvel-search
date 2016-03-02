@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c7c641408c12/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Solo (James Bourne)",
   "partners": [
@@ -21,12 +21,9 @@
   "powers": [
     "Teleportation",
     "Expert marksmanship",
-    "Master hand to hand combatant",
     "Expert marksman",
     "Gifted intellect",
     "Limited teleportation",
-    "Wears a bullet-proof quilted kevlar armor",
-    "Use of conventional weapons",
     "Firearms"
   ],
   "ranking": {

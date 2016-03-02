@@ -16,13 +16,12 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5269553f4bc6a/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Darkhawk",
   "partners": [
   ],
   "powers": [
-    "Accelerated healing factor",
     "Night vision",
     "Flight",
     "Energy blasts",
@@ -39,7 +38,8 @@
     "storyCount": 7
   },
   "secretIdentities": [
-    "Christopher \"Chris\" Powell"
+    "Christopher Powell",
+    "Chris"
   ],
   "species": [
   ],

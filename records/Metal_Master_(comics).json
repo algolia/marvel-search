@@ -12,16 +12,14 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/55/Metal_Master_63.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Metal Master",
   "partners": [
   ],
   "powers": [
-    "Atom",
-    "Metal molecule manipulation",
-    "Control virtually all known forms of metal"
+    "Atom"
   ],
   "ranking": {
     "comicCount": 0,

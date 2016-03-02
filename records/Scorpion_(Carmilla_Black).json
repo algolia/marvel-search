@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Scorpion",
-    "Scorpion (Carmilla Black)"
+    "Scorpion"
   ],
   "authors": [
     "Fred Van Lente",
@@ -13,17 +12,16 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c0037366fae7/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Scorpion (Carmilla Black)",
   "partners": [
   ],
   "powers": [
     "Immunity to poisons",
-    "Left arm delivers \"sting\" ranging from causing mild discomfort to killing with a touch",
-    "Trained martial artist.",
     "Trained martial artist",
+    "Sting",
     "Semi-organic tail"
   ],
   "ranking": {
@@ -41,7 +39,7 @@
   "species": [
   ],
   "teams": [
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Hydra"
   ],
   "urls": {

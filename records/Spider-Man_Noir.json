@@ -10,18 +10,16 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Spider-Man_Noir.png/250px-Spider-Man_Noir.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Spider-Man Noir",
   "partners": [
   ],
   "powers": [
-    "The proportionate strength",
     "Speed",
     "Agility of a spider",
     "A spider-sense",
-    "The ability to spray organic webbing from his hands. uses his webbing as nets to both stun",
     "Capture his enemies"
   ],
   "ranking": {

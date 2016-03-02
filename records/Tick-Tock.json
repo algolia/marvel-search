@@ -9,14 +9,14 @@
   "description": "Tick-Tock is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tick-Tock",
   "partners": [
   ],
   "powers": [
-    "Low level precognition."
+    "Low level precognition"
   ],
   "ranking": {
     "comicCount": 0,

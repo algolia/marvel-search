@@ -9,8 +9,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b8/Freakshow-by-Aaron-Lopresti.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Freakshow",
   "partners": [

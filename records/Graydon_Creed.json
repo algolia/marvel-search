@@ -11,14 +11,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Graydon_Creed.jpg/250px-Graydon_Creed.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Graydon Creed",
   "partners": [
   ],
   "powers": [
-    "None"
   ],
   "ranking": {
     "comicCount": 0,

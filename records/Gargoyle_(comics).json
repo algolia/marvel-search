@@ -13,21 +13,18 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Gargoyle",
   "partners": [
   ],
   "powers": [
-    "Used a gun that fired will-weakening pellets",
     "Superhuman strength",
     "Durability",
     "Physical resistance",
-    "Limited immunity to magic spells",
     "Regeneration",
     "Highly intelligent",
-    "Biomystical energy manipulation",
     "Flight"
   ],
   "ranking": {

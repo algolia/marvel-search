@@ -8,19 +8,16 @@
   "description": "Kirigi is a fictional ninja assassin in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kirigi",
   "partners": [
   ],
   "powers": [
     "Weapons master",
-    "Healing factor via meditation",
-    "Accomplished martial artist",
     "Superhuman strength",
-    "Resistance to injury",
-    "Virtual imperviousness to all but devastating wounds"
+    "Resistance to injury"
   ],
   "ranking": {
     "comicCount": 0,

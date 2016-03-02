@@ -12,24 +12,20 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Reedr.jpg/250px-Reedr.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mister Fantastic",
   "partners": [
   ],
   "powers": [
-    "Extreme superhuman elasticity",
     "Malleability",
     "Endurance",
-    "Virtual immunity to psychic powers",
-    "Near immunity to most physical assaults by blunt force",
     "Piercing/stabbing",
     "Cutting/slashing",
     "Electricity",
     "Genius-level intellect",
-    "Shapeshifting",
-    "Resistance to most physical assaults"
+    "Shapeshifting"
   ],
   "ranking": {
     "comicCount": 0,

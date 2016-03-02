@@ -12,15 +12,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708/standard_xlarge.gif"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Pretty Boy",
   "partners": [
   ],
   "powers": [
     "Cybernetic body",
-    "Robotic weaponry."
+    "Robotic weaponry"
   ],
   "ranking": {
     "comicCount": 3,

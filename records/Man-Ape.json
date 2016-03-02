@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/63/Manape.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Man-Ape",
   "partners": [
@@ -24,8 +24,7 @@
     "Speed",
     "Agility",
     "Stamina",
-    "Durability",
-    "Expert hand to hand combatant"
+    "Durability"
   ],
   "ranking": {
     "comicCount": 0,

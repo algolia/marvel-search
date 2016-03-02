@@ -9,16 +9,15 @@
   "description": "Powderkeg is a Marvel Comics supervillain who first appeared in Captain Marvel Special #1.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Powderkeg",
   "partners": [
   ],
   "powers": [
-    "Super-strength.",
-    "Superhuman strength",
-    "High-level resistance to injury"
+    "Super-strength",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,

@@ -1,6 +1,11 @@
 {
   "aliases": [
-    "* Supreme Hydra\n* Grand Imperator of THEM\n* Don Guy Antonio Caballero\n* Emir Ali Bey\n* John Bronson\n* Sagittarius",
+    "Supreme Hydra",
+    "Grand Imperator of THEM",
+    "Don Guy Antonio Caballero",
+    "Emir Ali Bey",
+    "John Bronson",
+    "Sagittarius",
     "Baron Strucker"
   ],
   "authors": [
@@ -13,8 +18,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c0041fb5a90d/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Baron Strucker",
   "partners": [
@@ -23,17 +28,13 @@
   "powers": [
     "High-level intellect",
     "Healing factor",
-    "Limited invulnerability derived from death spore virus in blood",
     "Repressed aging",
-    "Skilled military strategist",
     "Spy",
     "Master of disguise",
     "Excellent actor",
-    "Exceptional hand to hand combatant",
     "Marksman",
     "Swordsman",
-    "Enhanced strength",
-    "Energy bolts derived from satan claw"
+    "Enhanced strength"
   ],
   "ranking": {
     "comicCount": 26,

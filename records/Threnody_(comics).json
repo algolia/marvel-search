@@ -11,18 +11,16 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Xman13.jpg/250px-Xman13.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Threnody",
   "partners": [
   ],
   "powers": [
     "Absorb the necro-energy",
-    "Then use that to release a concussive blast or zombie creation.",
-    "Then use that to release a concussive blast or",
     "Zombie",
-    "Creation."
+    "Creation"
   ],
   "ranking": {
     "comicCount": 0,

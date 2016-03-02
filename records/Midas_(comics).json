@@ -13,8 +13,8 @@
   "description": "Midas is the name of two fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Midas",
   "partners": [

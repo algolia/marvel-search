@@ -5,15 +5,14 @@
   "authors": [
     "David Michelinie",
     "Bob Layton",
-    "and Mark Bright",
     "Mark Bright"
   ],
   "description": "Firepower is the name of two Marvel Comics supervillains.",
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Firepower_supervillain.jpg/250px-Firepower_supervillain.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Firepower",
   "partners": [

@@ -9,15 +9,13 @@
   "description": "Victorius is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Victorius",
   "partners": [
   ],
   "powers": [
-    "Peak physical abilities due to the super-soldier serum",
-    "Trained various forms of combat"
   ],
   "ranking": {
     "comicCount": 0,
@@ -35,7 +33,7 @@
   "teams": [
     "Cult of Entropy",
     "Advanced Idea Mechanics",
-    "A.I.M."
+    "A.I.M"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Victorius_(comics)"

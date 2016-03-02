@@ -18,8 +18,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Ms.Marvel1.jpg/250px-Ms.Marvel1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Carol Danvers",
   "partners": [
@@ -47,25 +47,24 @@
     "Carol Susan Jane Danvers"
   ],
   "species": [
-    "Human ",
-    " Kree hybrid"
+    "Human",
+    "Kree hybrid"
   ],
   "teams": [
     "NASA",
-    "Guardians of the Galaxy (2008 team)",
-    "S.H.I.E.L.D.",
+    "Guardians of the Galaxy",
+    "S.H.I.E.L.D",
     "Defenders",
     "X-Men",
     "Avengers",
     "The New Avengers",
-    "Operation: Lightning Storm",
+    "Lightning Storm",
     "The Mighty Avengers",
     "United States Air Force",
     "Starjammers",
-    "\"Defenders for a Day\"",
+    "Defenders for a Day",
     "Mighty Avengers",
     "New Avengers",
-    "Guardians of the Galaxy",
     "Ultimates",
     "A-Force",
     "Alpha Flight Space Program"

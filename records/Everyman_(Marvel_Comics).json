@@ -10,8 +10,8 @@
   "description": "Everyman (Larry Ekler) is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Everyman",
   "partners": [
@@ -20,7 +20,6 @@
     "Use of sword",
     "Shield",
     "The absorbascann",
-    "Use of camera that took pictures of people's death",
     "Shapeshifting",
     "Invisibility"
   ],

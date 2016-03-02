@@ -18,16 +18,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Meltdown01.jpg/250px-Meltdown01.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Boomer",
   "partners": [
   ],
   "powers": [
-    "Creates variably-sized yellow orbs of pure psionic energy that explode with concussive",
-    "Destructive force.",
-    "Creates variably-sized orbs of pure psionic energy that explode with concussive",
     "Destructive force"
   ],
   "ranking": {

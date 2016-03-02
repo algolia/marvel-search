@@ -14,8 +14,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/John_sublime.jpg/250px-John_sublime.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sublime",
   "partners": [
@@ -25,7 +25,6 @@
     "Biokinesis",
     "Power enhancement",
     "Shapeshifting",
-    "Regenerative healing factor",
     "Mind control"
   ],
   "ranking": {

@@ -12,16 +12,13 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Riptide",
   "partners": [
   ],
   "powers": [
-    "Spins his body at greatly increased speeds",
-    "Creating a vacuum suction that draws in nearby objects",
-    "Also acts as a high-powered sling for objects which he generates out of calcified substances"
   ],
   "ranking": {
     "comicCount": 8,

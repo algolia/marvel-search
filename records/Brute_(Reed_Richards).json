@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Mister Fantastic",
-    "Brute",
-    "Brute (Reed Richards)"
+    "Brute"
   ],
   "authors": [
     "Roy Thomas",
@@ -13,8 +12,8 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Brute",
   "partners": [

@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Project: Postmortem",
     "Postmortem"
   ],
   "authors": [
@@ -14,18 +13,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Postmortem_%28comics%29.png/200px-Postmortem_%28comics%29.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Postmortem",
   "partners": [
   ],
   "powers": [
-    "Cybernetic body that grants him immortality",
     "Superhuman strength",
-    "Endurance. one arm is a chainsaw",
-    "The other a collection of scalpels",
-    "Knives."
+    "Knives"
   ],
   "ranking": {
     "comicCount": 0,

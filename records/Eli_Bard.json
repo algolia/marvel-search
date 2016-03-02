@@ -7,7 +7,7 @@
   "description": "Eli Bard (born Eliphas) is a fictional character, a comic book supervillain from the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Eli Bard",
@@ -15,9 +15,7 @@
     "Selene"
   ],
   "powers": [
-    "Immortal vampire-like being",
-    "Knowledge of arcane magic",
-    "Able to reanimate the dead."
+    "Knowledge of arcane magic"
   ],
   "ranking": {
     "comicCount": 0,

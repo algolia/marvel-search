@@ -10,21 +10,17 @@
   "description": "Prime is a superhero created by Bob Jacob, Gerard Jones, Len Strazewski, and Norm Breyfogle.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Prime",
   "partners": [
   ],
   "powers": [
     "Flight",
-    "Prime: superhuman strength",
+    "Superhuman strength",
     "Stamina",
-    "Durability",
-    "Kevin green: able to create prime bodies around himself",
-    "Release energy as a concussive blast",
-    "Prime''': superhuman strength",
-    "Kevin green''': able to create prime bodies around himself"
+    "Durability"
   ],
   "ranking": {
     "comicCount": 0,

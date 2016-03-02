@@ -14,8 +14,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/53629b9e24ef5/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sunfire",
   "partners": [
@@ -37,7 +37,8 @@
     "Shiro Yoshida"
   ],
   "species": [
-    "Human Mutant and Human Mutate"
+    "Human Mutant",
+    "Human Mutate"
   ],
   "teams": [
     "Marvel Super Hero Contest of Champions",
@@ -46,13 +47,12 @@
     "Pacific Overlords",
     "Uncanny Avengers",
     "Horsemen of Apocalypse",
-    "Apocalypse: The Twelve",
+    "The Twelve",
     "Big Hero 6",
     "X-Corporation",
     "Avengers Unity Squad",
     "Death's Champions",
-    "X-Corporation Mumbai",
-    "The Twelve"
+    "X-Corporation Mumbai"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2250/sunfire",

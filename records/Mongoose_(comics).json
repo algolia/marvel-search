@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c00359f53bde/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mongoose",
   "partners": [
@@ -21,7 +21,6 @@
   "powers": [
     "Wears claws",
     "Gas pellets",
-    "Skilled hand-to-hand fighter",
     "Superhuman senses",
     "Strength",
     "Speed",

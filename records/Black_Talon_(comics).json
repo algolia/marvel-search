@@ -12,7 +12,7 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Shehulk35.png/250px-Shehulk35.png"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Black Talon",
@@ -21,7 +21,6 @@
     "Mama Limbo"
   ],
   "powers": [
-    "Voodoo magic manipulation that allows him to create",
     "Control zombies"
   ],
   "ranking": {

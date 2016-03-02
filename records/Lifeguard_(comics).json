@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Lifeguard.PNG/200px-Lifeguard.PNG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Lifeguard",
   "partners": [
@@ -33,8 +33,8 @@
     "Heather Cameron"
   ],
   "species": [
-    "Human Mutant ",
-    " Shi'ar hybrid"
+    "Human Mutant",
+    "Shi'ar hybrid"
   ],
   "teams": [
     "X-Men",

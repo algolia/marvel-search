@@ -9,15 +9,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0a/Bombshell_Marvel.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Bombshell",
   "partners": [
   ],
   "powers": [
-    "Explosive energy projection",
-    "Stun blasters concealed in her wrist bands",
     "Master juggler",
     "Explosives expert"
   ],

@@ -13,16 +13,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4c00406e4731b/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Chamber",
   "partners": [
   ],
   "powers": [
-    "Possesses a furnace of psionic energy in chest",
     "Telepathy",
-    "Created solidified sound constructs",
     "Possesses a furnace of",
     "Psionic",
     "Energy",
@@ -37,7 +35,8 @@
     "storyCount": 24
   },
   "secretIdentities": [
-    "Jonothon \"Jono\" Evan Starsmore"
+    "Jonothon Evan Starsmore",
+    "Jono"
   ],
   "species": [
     "Mutant"

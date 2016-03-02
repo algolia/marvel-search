@@ -1,7 +1,8 @@
 {
   "aliases": [
-    "Theodore \"Teddy\" Altman",
-    "Hulkling"
+    "Theodore Altman",
+    "Hulkling",
+    "Teddy"
   ],
   "authors": [
     "Allan Heinberg",
@@ -14,7 +15,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/20/4c003ed070fa0/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hulkling",
   "partners": [
@@ -22,7 +23,6 @@
     "Billy Kaplan"
   ],
   "powers": [
-    "Accelerated healing factor",
     "Superhuman strength",
     "Shapeshifting",
     "Metamorphic adaptation"

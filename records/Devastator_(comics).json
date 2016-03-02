@@ -1,21 +1,19 @@
 {
   "aliases": [
-    "I: Peter Kirkman",
+    "Peter Kirkman",
     "Devastator"
   ],
   "authors": [
-    "I: Len Wein",
-    "Herb Trimpe",
-    "II: Bill Mantlo",
-    "Sal Buscema",
     "Len Wein",
-    "Bill Mantlo"
+    "Herb Trimpe",
+    "Bill Mantlo",
+    "Sal Buscema"
   ],
   "description": "Devastator is a name used by three fictional characters that have appeared in various comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Devastator",
   "partners": [
@@ -31,8 +29,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "I: Kirov Petrovna",
-    "II: Gregori Larionov"
+    "Kirov Petrovna",
+    "Gregori Larionov"
   ],
   "species": [
   ],

@@ -16,8 +16,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Daredevil_cover_-_number_101.jpg/250px-Daredevil_cover_-_number_101.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Scream (Donna Diego)",
   "partners": [
@@ -25,7 +25,6 @@
   ],
   "powers": [
     "Immunity to physical harm",
-    "Vocal hallucination inducing",
     "Superhuman scream",
     "Sonokinesis",
     "Sonic form",

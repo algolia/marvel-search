@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "2",
     "Flatman",
     "2-D Avenger"
   ],
@@ -14,7 +13,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Flatman.PNG/222px-Flatman.PNG"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Flatman",
   "partners": [
@@ -22,7 +21,6 @@
   "powers": [
     "Origami shapeshifting",
     "Elasticity",
-    "Excellent hand to hand combatant",
     "Flat body"
   ],
   "ranking": {

@@ -7,8 +7,8 @@
   "description": "Skinner is a fictional villain in the Marvel Comics Universe, created by Howard Mackie and Adam Kubert.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Skinner",
   "partners": [

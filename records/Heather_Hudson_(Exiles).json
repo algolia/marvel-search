@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Sasquatch",
-    "Heather Hudson",
-    "Heather Hudson (Exiles)"
+    "Heather Hudson"
   ],
   "authors": [
     "Mike McKone",
@@ -13,18 +12,15 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sasquatch (Walter Langkowski)",
   "partners": [
   ],
   "powers": [
-    "-superhuman strength",
     "Stamina",
-    "Resistance",
-    "-regenerative factor",
-    "Formerly: capable of assuming the form of the great beast tanaraq"
+    "Resistance"
   ],
   "ranking": {
     "comicCount": 77,

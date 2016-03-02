@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Saul"
+    "Saul",
+    "actual identities the character uses"
   ],
   "authors": [
     "Mark Pacella",
@@ -10,8 +11,8 @@
   "description": "Saul (real name Garbha-hsien) is a fictional character in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Saul",
   "partners": [

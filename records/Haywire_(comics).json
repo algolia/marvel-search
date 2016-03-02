@@ -10,13 +10,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Haywire.jpg/250px-Haywire.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Haywire",
   "partners": [
   ],
   "powers": [
+    "Tanglewire"
   ],
   "ranking": {
     "comicCount": 0,

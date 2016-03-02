@@ -10,16 +10,13 @@
   "description": "Snapdragon (Sheoke Sanada) is a Japanese supervillain in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Snapdragon",
   "partners": [
   ],
   "powers": [
-    "Snapdragon possesses no superhuman abilities other than a protective suit",
-    "A helmet with infrared sensors.  she is a master hand-to-hand combatant",
-    "Skilled with various forms of weaponry."
   ],
   "ranking": {
     "comicCount": 0,

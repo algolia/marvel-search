@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Tyrak"
+    "Tyrak",
+    "actual identities the character uses"
   ],
   "authors": [
     "George Pérez",
@@ -9,8 +10,8 @@
   "description": "Tyrak is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tyrak",
   "partners": [

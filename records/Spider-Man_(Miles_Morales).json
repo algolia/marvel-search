@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Spider-Man",
-    "Ultimate Spider-Man",
-    "Spider-Man (Miles Morales)"
+    "Ultimate Spider-Man"
   ],
   "authors": [
     "Brian Michael Bendis",
@@ -15,7 +14,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
@@ -32,7 +31,6 @@
     "Stamina",
     "Reflexes",
     "Endurance",
-    "Able to shoot very strong spider-web strings from wrists via web-shooters",
     "Precognitive spider-sense",
     "Venom blast",
     "Camouflage",

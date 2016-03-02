@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Jamie_Braddock.jpg/200px-Jamie_Braddock.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Jamie Braddock",
   "partners": [
@@ -34,7 +34,8 @@
     "storyCount": 1
   },
   "secretIdentities": [
-    "James \"Jamie\" Braddock Jr."
+    "James Braddock Jr.",
+    "Jamie"
   ],
   "species": [
     "Mutant"

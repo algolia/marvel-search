@@ -13,15 +13,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Melter.jpg/240px-Melter.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Melter",
   "partners": [
   ],
   "powers": [
-    "Almost all types of substances via melting device",
-    "Extensive knowledge of weapons",
     "Munitions"
   ],
   "ranking": {

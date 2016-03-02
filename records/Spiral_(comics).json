@@ -1,7 +1,7 @@
 {
   "aliases": [
     "Rita Wayword",
-    "\"Ricochet\" Rita",
+    "Ricochet\" Rita",
     "The Apocalypse",
     "Spiral"
   ],
@@ -16,8 +16,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c003ad84f314/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Spiral (Rita Wayword)",
   "partners": [
@@ -29,7 +29,6 @@
     "Teleportation",
     "Skilled in sorcery",
     "Metamorphosis",
-    "Skilled hand-to-hand combatant",
     "Acrobat",
     "Skilled in cybernetics",
     "Genetics"

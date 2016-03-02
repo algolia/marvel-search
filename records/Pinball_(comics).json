@@ -8,8 +8,8 @@
   "description": "Pinball is a character from Marvel Comics' original Squadron Supreme series.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Pinball",
   "partners": [

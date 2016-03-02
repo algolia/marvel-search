@@ -9,14 +9,13 @@
   "description": "Vincente Fortunato is an elderly crime boss and enemy of the Marvel Comics superhero Spider-Man.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Don Fortunato",
   "partners": [
   ],
   "powers": [
-    "None."
   ],
   "ranking": {
     "comicCount": 0,

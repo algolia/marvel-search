@@ -9,29 +9,25 @@
   "authors": [
     "Ann Weying was created by David Michelinie",
     "Mark Bagley . Patricia Robertson was created by Daniel Way",
-    "Francisco Herrera .",
+    "Francisco Herrera",
     "Ann Weying was created by",
     "David Michelinie",
     "Mark Bagley",
     "(artist). Patricia Robertson was created by",
-    "Daniel Way",
-    "Francisco Herrera",
-    "(artist)."
+    "Daniel Way"
   ],
   "description": "She-Venom (also known as The Bride of Venom) is the name of two fictional characters in Marvel comics.",
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5c/Brideofvenom.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "She-Venom",
   "partners": [
   ],
   "powers": [
-    "Has all of spider-man's abilities",
     "Shape-shifting",
-    "Cannot be detected by spider-man's spider sense",
     "Has all of",
     "Spider-man's abilities"
   ],

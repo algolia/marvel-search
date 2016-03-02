@@ -17,7 +17,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/MagikII.png/250px-MagikII.png"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Amanda Sefton",
   "partners": [
@@ -26,9 +26,8 @@
     "Teleportation",
     "Illusion generation",
     "Force bolts",
-    "Formerly wielded the soulsword",
     "Shapeshifting",
-    "Magic (paranormal)",
+    "Magic",
     "Hypnosis"
   ],
   "ranking": {

@@ -11,14 +11,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Helixnw.png/225px-Helixnw.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Helix",
   "partners": [
   ],
   "powers": [
-    "Reactive adaptoid."
+    "Reactive adaptoid"
   ],
   "ranking": {
     "comicCount": 0,

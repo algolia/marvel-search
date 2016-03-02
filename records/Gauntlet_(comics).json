@@ -14,15 +14,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/535ff2a48869b/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Gauntlet (Joseph Green)",
   "partners": [
   ],
   "powers": [
     "Right hand controls large",
-    "Robotic gauntlet. allows for projection of energy \"hand\"."
+    "Hand"
   ],
   "ranking": {
     "comicCount": 25,

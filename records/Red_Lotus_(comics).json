@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Red_Lotus_%28Paul_Hark%29.jpg/180px-Red_Lotus_%28Paul_Hark%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Red Lotus",
   "partners": [
@@ -24,7 +24,7 @@
     "Dexterity",
     "Coordination",
     "Balance",
-    "Endurance."
+    "Endurance"
   ],
   "ranking": {
     "comicCount": 0,

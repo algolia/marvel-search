@@ -12,7 +12,7 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/ChimeraX-Men.jpg/250px-ChimeraX-Men.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Chimera",
@@ -21,7 +21,6 @@
     "Emplate"
   ],
   "powers": [
-    "Generate telekinetic dragon-shaped flares",
     "Telepathy"
   ],
   "ranking": {

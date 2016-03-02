@@ -10,7 +10,7 @@
     "Cheryl Marks",
     "Debbie",
     "Marguerite",
-    "Amy and numerous others",
+    "Amy",
     "Copycat"
   ],
   "authors": [
@@ -23,8 +23,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/526957a91a469/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Titania",
   "partners": [

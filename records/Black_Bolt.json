@@ -13,7 +13,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/52696929dc721/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": {
     "blue": 9,
     "green": 36,
@@ -24,10 +24,8 @@
   "partners": [
   ],
   "powers": [
-    "Destructive hypersonic voice",
     "Flight",
-    "Molecular manipulation",
-    "Superhuman physical attributes"
+    "Molecular manipulation"
   ],
   "ranking": {
     "comicCount": 68,

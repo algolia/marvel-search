@@ -6,7 +6,6 @@
   "authors": [
     "Bill Mantlo",
     "Len Wein",
-    "and Gil Kane",
     "Gil Kane"
   ],
   "description": "The Human Fly is the name of two comic book characters in the Marvel Comics universe, one a super-villain that was an occasional antagonist of Spider-Man, and the other a superhero.",
@@ -15,8 +14,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Amazing_Spider-Man_Annual_10.jpg/250px-Amazing_Spider-Man_Annual_10.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Human Fly (Richard Deacon)",
   "partners": [

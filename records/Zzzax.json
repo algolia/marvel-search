@@ -1,8 +1,9 @@
 {
   "aliases": [
-    "General \"Thunderbolt\" Ross",
+    "General Ross",
     "The Living Dynamo",
-    "Zzzax"
+    "Zzzax",
+    "Thunderbolt"
   ],
   "authors": [
     "Steve Englehart",
@@ -14,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4ced5ab9078c9/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Zzzax",
   "partners": [
@@ -24,7 +25,6 @@
     "Super-strength",
     "Durability",
     "Flight",
-    "Electrical energy absorption",
     "Projection",
     "Manipulation",
     "Heat generation"

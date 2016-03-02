@@ -10,14 +10,13 @@
   "description": "Ogress  is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Orgress",
   "partners": [
   ],
   "powers": [
-    "Regenerative healing factor",
     "Superhuman strength",
     "Stamina",
     "Durability"

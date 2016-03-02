@@ -10,8 +10,8 @@
   "description": "La Lunatica is a fictional character in the Marvel Comics comic book X-Men 2099.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "La Lunatica",
   "partners": [
@@ -21,8 +21,7 @@
     "Superhuman strength",
     "Speed",
     "Senses",
-    "Reflexes",
-    "Resistance to physical injury"
+    "Reflexes"
   ],
   "ranking": {
     "comicCount": 0,

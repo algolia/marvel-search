@@ -1,8 +1,6 @@
 {
   "aliases": [
     "Fenris",
-    "(Andrea von Strucker)''': Fenris",
-    "(Andreas von Strucker)''': Fenris",
     "Swordsman",
     "Baron Strucker"
   ],
@@ -15,8 +13,8 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Fenris",
   "partners": [
@@ -25,12 +23,9 @@
     "Disintegration beam",
     "Concussive blast",
     "Flight",
-    "Disintegrative energy projection",
-    "Concussive bolt projection",
     "Phenomenal acrobat",
     "Hand-to-hand combatant",
     "Force blasts",
-    "Flight while in physical contact",
     "Sword usage"
   ],
   "ranking": {

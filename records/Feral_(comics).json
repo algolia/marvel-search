@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Feral01.jpg/193px-Feral01.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Feral",
   "partners": [
@@ -25,13 +25,11 @@
     "Healing factor",
     "Sharp claws",
     "Fangs",
-    "Prehensile tail.",
+    "Prehensile tail",
     "Feline",
-    "Appearance; enhanced senses",
-    "Agility; healing factor; sharp claws",
     "Fangs and",
     "Prehensile",
-    "Tail."
+    "Tail"
   ],
   "ranking": {
     "comicCount": 1,

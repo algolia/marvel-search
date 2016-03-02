@@ -11,14 +11,13 @@
   "description": "Luke Carlyle is a fictional character from Marvel Comics, created by J. Michael Straczynski and first appeared in The Amazing Spider-Man.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Luke Carlyle",
   "partners": [
   ],
   "powers": [
-    "Six machine extendable steel tentacles that fire powerful jolts of energy"
   ],
   "ranking": {
     "comicCount": 0,
@@ -29,7 +28,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Lucas \"Luke\" Carlyle"
+    "Lucas Carlyle",
+    "Luke"
   ],
   "species": [
     "Human"

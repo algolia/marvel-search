@@ -17,14 +17,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/535ff2c1ef191/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Lady Deathstrike",
   "partners": [
   ],
   "powers": [
-    "Accelerated healing factor",
     "Superhuman strength",
     "Speed",
     "Agility",

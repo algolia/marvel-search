@@ -3,11 +3,9 @@
     "Morg"
   ],
   "authors": [
-    "Writer: Ron Marz",
-    "Artists: Ron Lim",
-    "Tom Christopher",
     "Ron Marz",
-    "Ron Lim"
+    "Ron Lim",
+    "Tom Christopher"
   ],
   "description": "Morg is a fictional supervillain published by Marvel Comics universe, appearing as a herald of Galactus.",
   "images": {
@@ -15,8 +13,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Morg1.jpg/250px-Morg1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Morg",
   "partners": [

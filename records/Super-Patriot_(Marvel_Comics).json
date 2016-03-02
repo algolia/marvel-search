@@ -10,15 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Super-Patriot.jpg/200px-Super-Patriot.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Super-Patriot",
   "partners": [
   ],
   "powers": [
-    "Although has access to various high-tech weapons.",
-    "None"
   ],
   "ranking": {
     "comicCount": 0,

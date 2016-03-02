@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Human Top",
-    "Human Top (David Mitchell)"
+    "Human Top"
   ],
   "authors": [
     "Frank Robbins",
@@ -11,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4d/Goldengrrl.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Human Top",
   "partners": [

@@ -9,15 +9,14 @@
   "description": "Pipeline (Cormick Grimshaw) is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Pipeline",
   "partners": [
   ],
   "powers": [
     "Cybernetic travel",
-    "Also called cybernetic/digital conversion",
     "Organic or inorganic"
   ],
   "ranking": {

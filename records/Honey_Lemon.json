@@ -10,14 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Honey_Lemon_%28Marvel_Comics%29.jpg/250px-Honey_Lemon_%28Marvel_Comics%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Honey Lemon",
   "partners": [
   ],
   "powers": [
-    "Extensively trained martial artist",
     "Pull any item out it",
     "Brilliant scientist",
     "Pull any item out of it"

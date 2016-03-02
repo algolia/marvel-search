@@ -1,7 +1,8 @@
 {
   "aliases": [
     "Magnus",
-    "Magnus Lehnsherr"
+    "Magnus Lehnsherr",
+    "actual identities the character uses"
   ],
   "authors": [
     "Judd Winick",
@@ -10,14 +11,13 @@
   "description": "Magnus (Magnus Lehnsherr) is a fictional character who appears in the comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Magnus",
   "partners": [
   ],
   "powers": [
-    "Electromagnetic manipulation",
     "Energy blasts",
     "Flight",
     "Force field generation"
@@ -34,7 +34,7 @@
     "Magnus Lehnsherr"
   ],
   "species": [
-    "Mutant (fictional)"
+    "Mutant"
   ],
   "teams": [
     "Exiles"

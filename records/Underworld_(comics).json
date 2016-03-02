@@ -10,24 +10,19 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/UNDRWLD005_FLCOV.jpg/250px-UNDRWLD005_FLCOV.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Underworld",
   "partners": [
   ],
   "powers": [
-    "Regenerative healing factor",
-    "Uses bulletproof sunglasses",
-    "Weapons with adamantium bullets",
     "A titanium-lined coat",
-    "Peak of human physical attributes",
     "Regenerative",
     "Healing factor",
     "Weapons with",
     "Adamantium",
     "Bullets",
-    "A",
     "Titanium"
   ],
   "ranking": {

@@ -1,8 +1,9 @@
 {
   "aliases": [
     "Lady Dorma",
-    "Laura \"Laurie\" Morris",
-    "Llyra"
+    "Laura Morris",
+    "Llyra",
+    "Laurie"
   ],
   "authors": [
     "Roy Thomas",
@@ -12,7 +13,7 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Sub-Mariner-32.jpg/250px-Sub-Mariner-32.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Llyra",
@@ -23,8 +24,7 @@
   ],
   "powers": [
     "Shape/color shifting",
-    "Superhuman strength",
-    "Fully amphibious physiology"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,

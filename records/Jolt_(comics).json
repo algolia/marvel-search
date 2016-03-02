@@ -9,8 +9,8 @@
   "description": "Jolt (Helen \"Hallie\" Takahama) is a fictional character, a superheroine in the Marvel Universe and a member of the Thunderbolts and Young Allies.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Jolt",
   "partners": [
@@ -20,10 +20,7 @@
     "Energy control",
     "Super-human agility",
     "Electric shocks",
-    "Later electrical control",
-    "Discharges while in energy form",
-    "Originally''' kinetic powers",
-    "Electric shocks  '''later''' electrical control"
+    "Later electrical control"
   ],
   "ranking": {
     "comicCount": 0,

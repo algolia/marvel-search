@@ -10,15 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5e/XMN_DiamondLil.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Diamond Lil",
   "partners": [
   ],
   "powers": [
-    "Superhuman physical resistance",
-    "Superhuman physical resistance (via homeostatic bio-aura)"
   ],
   "ranking": {
     "comicCount": 0,
@@ -38,7 +36,6 @@
     "Gamma Flight",
     "Omega Flight",
     "Alpha Flight",
-    "X-Men: The 198",
     "The 198"
   ],
   "urls": {

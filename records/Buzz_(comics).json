@@ -13,7 +13,7 @@
   "images": {
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Buzz",
   "partners": [
@@ -22,9 +22,7 @@
   "powers": [
     "Superhuman strength",
     "360",
-    "Flight",
-    "Gauntlets that fire electric blasts or streamers of sticky adhesive",
-    "360 degree vision via goggles"
+    "Flight"
   ],
   "ranking": {
     "comicCount": 0,

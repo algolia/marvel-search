@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg/250px-ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Awesome Android",
   "partners": [
@@ -20,7 +20,6 @@
   "powers": [
     "Textures",
     "Abilities",
-    "Emit close-range gale-force wind blasts via his mouth",
     "Superhuman strength",
     "Durability"
   ],

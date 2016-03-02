@@ -14,8 +14,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/52740f7c6f0b7/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Maximus",
   "partners": [
@@ -23,10 +23,8 @@
   "powers": [
     "Genius-level intellect",
     "Mind control",
-    "Extraordinarily gifted inventor",
     "Superhuman intellect",
     "Mental powers",
-    "Advanced knowledge of physics",
     "Mechanics",
     "Biology"
   ],

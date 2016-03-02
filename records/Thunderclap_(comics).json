@@ -10,15 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Thunderclapmu0.png/225px-Thunderclapmu0.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Thunderclap",
   "partners": [
   ],
   "powers": [
-    "Sonic boom projection via metal gloves",
-    "Wears cowl which contains protective silicone cups",
     "An electronic device"
   ],
   "ranking": {

@@ -10,8 +10,8 @@
   "description": "Man-Elephant is the name of two fictional characters from Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Man-Elephant",
   "partners": [

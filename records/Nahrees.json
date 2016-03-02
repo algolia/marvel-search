@@ -10,15 +10,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nahreesinhuman.jpg/225px-Nahreesinhuman.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nahrees",
   "partners": [
   ],
   "powers": [
     "Generates electricity",
-    "Flight."
+    "Flight"
   ],
   "ranking": {
     "comicCount": 0,

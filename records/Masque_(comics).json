@@ -12,14 +12,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Masquewiki.jpg/250px-Masquewiki.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Masque",
   "partners": [
   ],
   "powers": [
-    "Organs of living creatures"
   ],
   "ranking": {
     "comicCount": 30,

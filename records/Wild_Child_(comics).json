@@ -14,8 +14,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/00/4c003a6b5d11a/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Wild Child",
   "partners": [
@@ -28,12 +28,9 @@
     "Coordination",
     "Balance",
     "Endurance",
-    "Regenerative healing factor",
     "Slowed aging process",
     "Razor sharp claws",
     "Fangs",
-    "Olympic-level trained acrobat/gymnast",
-    "Special ops-trained hand-to-hand fighter",
     "Regenerative",
     "Healing factor"
   ],

@@ -10,14 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/98/XMEN-Bliss.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bliss",
   "partners": [
   ],
   "powers": [
-    "Extend another mouth from inside hers that carries a poisonous bite."
   ],
   "ranking": {
     "comicCount": 0,

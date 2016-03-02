@@ -11,15 +11,14 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mathemanic",
   "partners": [
   ],
   "powers": [
     "Psionically based",
-    "Undetermined capabillities",
     "Undetermined capabilities"
   ],
   "ranking": {

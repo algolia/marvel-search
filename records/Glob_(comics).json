@@ -13,8 +13,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Glob1.jpg/250px-Glob1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Glob",
   "partners": [
@@ -23,8 +23,7 @@
     "Superhuman strength",
     "Stamina",
     "Durability",
-    "Skilled geneticist",
-    "Recreate itself as a humanoid"
+    "Skilled geneticist"
   ],
   "ranking": {
     "comicCount": 0,

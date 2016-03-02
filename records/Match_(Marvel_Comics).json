@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Match%28NXM_39%29.jpg/250px-Match%28NXM_39%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Match",
   "partners": [
@@ -30,7 +30,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Benjamin \"Ben\" Hamill"
+    "Benjamin Hamill",
+    "Ben"
   ],
   "species": [
     "Mutant"

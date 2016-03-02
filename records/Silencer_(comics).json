@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5b/Silencer_comics.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Silencer",
   "partners": [
@@ -34,7 +34,7 @@
   "species": [
   ],
   "teams": [
-    "Strikeforce: Morituri"
+    "Morituri"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Silencer_(comics)"

@@ -1,7 +1,8 @@
 {
   "aliases": [
     "Starr the Slayer",
-    "Starr"
+    "Starr",
+    "actual identities the character uses"
   ],
   "authors": [
     "Roy Thomas",
@@ -12,7 +13,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Starr.jpg/246px-Starr.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Starr the Slayer",
   "partners": [

@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/50/4c003c8acc314/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Prowler",
   "partners": [
@@ -22,14 +22,11 @@
   "powers": [
     "Gliding via cape",
     "Titanium-laced claws",
-    "Gauntlets capable of shooting compressed air blasts",
     "Sleeping pellets",
     "Other projectiles",
     "Technological genius",
     "Wall crawling",
-    "Use of hypnotic aids",
-    "Conventional hand-held weapons",
-    "Skilled hand-to-hand combatant"
+    "Use of hypnotic aids"
   ],
   "ranking": {
     "comicCount": 15,

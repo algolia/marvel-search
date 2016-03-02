@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Der Rote Schädel ",
+    "Der Rote Schädel",
     "Dell Rusk",
     "Bettman P. Lyles",
-    "the Agent of a Thousand Faces ",
-    "The Man ",
+    "the Agent of a Thousand Faces",
+    "The Man",
     "Cyrus Fenton",
     "John Smith",
     "Teacher",
-    "Tod March ",
+    "Tod March",
     "Aleksander Lukin",
     "Red Skull",
     "Der Rote Schädel (German name)",
@@ -28,8 +28,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/526036550cd37/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Red Skull",
   "partners": [
@@ -37,17 +37,14 @@
     "Baron Strucker",
     "Crossbones",
     "Sin",
-    "Viper (Madame Hydra)",
+    "Viper",
     "The Viper",
     "Baron Helmut Zemo"
   ],
   "powers": [
-    "Cloned body of captain america",
-    "Skilled hand-to-hand combatant",
     "Strategic genius",
     "Political mastermind",
     "Expert marksman",
-    "Skilled hand to hand combatant",
     "Possesses cloned body of",
     "Captain america"
   ],
@@ -67,13 +64,12 @@
   "teams": [
     "Features of the Marvel Universe",
     "Nazi Germany",
-    "Exiles (Red Skull allies)",
+    "Exiles",
     "Aleksander Lukin",
     "Hydra",
     "Advanced Idea Mechanics",
     "Skeleton Crew",
     "Kronas Corporation",
-    "Exiles",
     "AIM",
     "ULTIMATUM",
     "Astonishing Avengers"

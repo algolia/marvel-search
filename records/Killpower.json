@@ -1,7 +1,7 @@
 {
   "aliases": [
     "Killpower",
-    "Killpower: The Early Years"
+    "The Early Years"
   ],
   "authors": [
     "Gary Frank",
@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Killpower.jpg/200px-Killpower.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Killpower",
   "partners": [

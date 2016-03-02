@@ -12,14 +12,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Thunderball_001-1-.jpg/250px-Thunderball_001-1-.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Thunderball",
   "partners": [
   ],
   "powers": [
-    "Wields a virtually indestructible wrecking ball",
     "Genius-level intellect",
     "Superhuman strength",
     "Durability",

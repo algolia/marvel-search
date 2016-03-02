@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1f/Korath_the_Pursuer.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Korath the Pursuer",
   "partners": [
@@ -20,7 +20,6 @@
     "Superhuman strength",
     "Stamina",
     "Durability",
-    "Psionically locate individuals by tracing their brain patterns",
     "Cyber-genetic engineering"
   ],
   "ranking": {

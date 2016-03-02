@@ -10,16 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Moses_Magnum_in_Dark_Wolverine_78.jpg/250px-Moses_Magnum_in_Dark_Wolverine_78.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Moses Magnum",
   "partners": [
   ],
   "powers": [
-    "Releasing seismic energy through his fingertips",
-    "Using it to create earthquakes",
-    "Shockwaves or otherwise transport earth matter."
   ],
   "ranking": {
     "comicCount": 0,

@@ -10,8 +10,8 @@
   "description": "Razorback (Buford Hollis) is a fictional Marvel Comics superhero.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Razorback",
   "partners": [

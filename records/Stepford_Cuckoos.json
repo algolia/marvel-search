@@ -18,16 +18,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c003acc72680/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Stepford Cuckoos",
   "partners": [
   ],
   "powers": [
-    "Telepathic hive-like super-mind",
-    "Telekinesis",
-    "Flawless diamond form impervious to destruction or emotion."
+    "Telekinesis"
   ],
   "ranking": {
     "comicCount": 13,
@@ -41,10 +39,11 @@
     "Esme Cuckoo",
     "Celeste Cuckoo",
     "Phoebe Cuckoo",
-    "Irma \"Mindee\" Cuckoo",
+    "Irma Cuckoo",
     "Sophie Cuckoo",
-    "Esme Cuckoo '''(deceased)",
-    "Sophie Cuckoo '''(deceased)"
+    "Mindee",
+    "Esme Cuckoo (deceased)",
+    "Sophie Cuckoo (deceased)"
   ],
   "species": [
     "Molecular cloning",

@@ -10,22 +10,20 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/LaufeyMarvel.jpg/250px-LaufeyMarvel.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Laufey",
   "partners": [
   ],
   "powers": [
-    "Resistance to earthly illness",
     "Superhuman strength",
     "Physical resistance",
     "Immunity to hypothermia",
     "Frostbite",
     "Weakness to heat",
     "Resistance to injury",
-    "Cryokinesis",
-    "Resistance to earthly diseases"
+    "Cryokinesis"
   ],
   "ranking": {
     "comicCount": 0,

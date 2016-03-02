@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Cyclone"
+    "Cyclone",
+    "actual identities the character uses"
   ],
   "authors": [
     "Sholly Fisch",
@@ -14,8 +15,8 @@
   "description": "Cyclone is the alias of a number of fictional characters appearing in the comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Cyclone",
   "partners": [

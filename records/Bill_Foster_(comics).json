@@ -16,8 +16,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c00343d177d6/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Goliath (Bill Foster)",
   "partners": [
@@ -38,14 +38,16 @@
     "storyCount": 8
   },
   "secretIdentities": [
-    "Dr. William Barrett \"Bill\" Foster"
+    "Dr. William Barrett Foster",
+    "Bill"
   ],
   "species": [
   ],
   "teams": [
     "Defenders",
     "Champions",
-    "Centers for Disease Control and Prevention",
+    "Centers for Disease Control",
+    "Prevention",
     "Features of the Marvel Universe"
   ],
   "urls": {

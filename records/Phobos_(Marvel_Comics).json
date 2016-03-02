@@ -1,19 +1,13 @@
 {
   "aliases": [
-    "Currently:",
-    "Original:",
     "God of Fear",
     "Phobos",
     "God of War",
-    "Current:",
-    "Pre-Retcon:",
     "''Pre-Retcon:''"
   ],
   "authors": [
     "Roy Thomas",
     "Jean-Marc Lofficier",
-    "Original:",
-    "Current:",
     "Travel Foreman",
     "Michael Avon Oeming"
   ],
@@ -22,7 +16,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Phobos-Comics.jpg/200px-Phobos-Comics.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Phobos",
   "partners": [
@@ -32,7 +26,6 @@
     "Control others",
     "Super strength",
     "Endurance",
-    "Mastery of all forms of weaponry",
     "''pre-retcon:''"
   ],
   "ranking": {
@@ -45,18 +38,14 @@
   },
   "secretIdentities": [
     "Phobos",
-    "Alexander Aaron",
-    "Original:",
-    "Current:"
+    "Alexander Aaron"
   ],
   "species": [
     "Olympian"
   ],
   "teams": [
-    "Original:",
     "Secret Warriors",
-    "Olympians",
-    "Current:"
+    "Olympians"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Phobos_(Marvel_Comics)"

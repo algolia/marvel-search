@@ -5,22 +5,19 @@
   "authors": [
     "Marv Wolfman",
     "John Buscema",
-    "and Joe Sinnott",
     "Joe Sinnott"
   ],
   "description": "Powerhouse is a name used by several different fictional characters, operating in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Powerhouse",
   "partners": [
     "Masterblaster"
   ],
   "powers": [
-    "Siphon the energies of any power-source",
-    "Draw energy to grow her powers.",
     "Superhuman strength"
   ],
   "ranking": {

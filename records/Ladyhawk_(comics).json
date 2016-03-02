@@ -10,15 +10,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/18/LadyhawkMC2.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ladyhawk",
   "partners": [
   ],
   "powers": [
     "Skilled martial artists",
-    "Use of bird-themed shuriken",
     "Other weapons"
   ],
   "ranking": {

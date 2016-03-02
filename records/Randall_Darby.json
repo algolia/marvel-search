@@ -12,14 +12,13 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shocker (Herman Schultz)",
   "partners": [
   ],
   "powers": [
-    "Bio-em generation / manipulation"
   ],
   "ranking": {
     "comicCount": 21,

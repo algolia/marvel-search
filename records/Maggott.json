@@ -12,14 +12,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Maggottproflie.jpg/250px-Maggottproflie.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Maggott",
   "partners": [
   ],
   "powers": [
-    "Slug-based digestive system",
     "Psychometry"
   ],
   "ranking": {

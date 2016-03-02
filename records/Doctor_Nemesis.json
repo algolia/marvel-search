@@ -11,15 +11,14 @@
     "version of the character was co-created by",
     "Roy Thomas",
     "(writer) and",
-    "Dave Hoover",
-    "."
+    "Dave Hoover"
   ],
   "description": "Doctor Nemesis is the name of two characters from Marvel Comics.",
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/XMN_Nemesis.jpg/250px-XMN_Nemesis.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Doctor Nemesis",
   "partners": [
@@ -27,11 +26,11 @@
   "powers": [
     "Heightened eyesight",
     "Enhanced immune system",
-    "\"self-evolved intellect\"",
+    "Self-evolved intellect",
     "Extended longevity",
     "Accomplished investigator",
     "Hand to hand combatant",
-    "\"self-evolved\" intellect",
+    "Self-evolved\" intellect",
     "Eyesight",
     "Prolonged longevity"
   ],

@@ -17,8 +17,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4c003a7f39967/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Vindicator",
   "partners": [
@@ -46,7 +46,7 @@
   "teams": [
     "Team X",
     "Alpha Flight",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Weapon X"
   ],
   "urls": {

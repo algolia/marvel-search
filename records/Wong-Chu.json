@@ -10,8 +10,8 @@
   "description": "Wong-Chu is a fictional character, a comic book supervillain that appears in comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Wong-Chu",
   "partners": [

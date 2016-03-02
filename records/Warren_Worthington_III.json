@@ -17,8 +17,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/WarrenWorthingtonAngel.jpg/250px-WarrenWorthingtonAngel.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Warren Worthington III",
   "partners": [
@@ -30,12 +30,9 @@
     "Peak physical attributes",
     "Metal wings for flight",
     "Speed",
-    "Projection of razor sharp feathers",
     "Healing factor",
-    "Flight via feathered wings",
     "Hollow bones",
     "Flight via metal wings",
-    "Razor sharp feather projection",
     "Near immunity to injury"
   ],
   "ranking": {

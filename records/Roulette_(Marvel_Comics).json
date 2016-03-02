@@ -12,14 +12,15 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/99/Roulette_%28Marvel_Comics%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Roulette",
   "partners": [
   ],
   "powers": [
-    "Roulette can create discs of psionic energy which alter the probability field around the victim at whom she throws the disc. her black energy discs create \"bad luck\" while her red energy discs bestow \"good luck.\""
+    "Good luck",
+    "Bad luck"
   ],
   "ranking": {
     "comicCount": 1,

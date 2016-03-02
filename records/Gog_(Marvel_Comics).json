@@ -10,15 +10,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/56/AmazingSpider-Man103.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Gog",
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Interdimensional teleportation via bracelets"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,

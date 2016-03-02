@@ -9,8 +9,8 @@
   "description": "Portal (Charles Little Sky) is a fictional character, a mutant superhero in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Portal",
   "partners": [
@@ -35,8 +35,8 @@
     "Mutant"
   ],
   "teams": [
-    "S.H.I.E.L.D.",
-    "A.R.M.O.R."
+    "S.H.I.E.L.D",
+    "A.R.M.O.R"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Portal_(comics)"

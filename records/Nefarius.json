@@ -17,21 +17,17 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/535ff3e867252/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Moonstone",
   "partners": [
   ],
   "powers": [
-    "Gravimetric powers derived from alien gem",
-    "Seemingly unlimited superhuman strength",
     "Speed",
     "Stamina",
     "Laser-vision",
-    "Invulnerability",
-    "(as nefarius) seemingly unlimited superhuman strength",
-    "(as moonstone) gravimetric powers derived from alien gem"
+    "Invulnerability"
   ],
   "ranking": {
     "comicCount": 20,

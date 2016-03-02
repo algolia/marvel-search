@@ -6,19 +6,18 @@
     "Crime Master"
   ],
   "authors": [
-    "as Crime-Master: Rick Remender",
+    "Rick Remender",
     "Tony Moore",
-    "as Bennett Brant: Stan Lee",
+    "Stan Lee",
     "Steve Ditko",
     "Bill Mantlo",
-    "Sal Buscema",
-    "Stan Lee"
+    "Sal Buscema"
   ],
   "description": "The Crime Master is a Marvel Comics super-villain, of the professional-criminal type, and an enemy of Spider-Man.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Crime Master",
   "partners": [
@@ -34,9 +33,11 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Nicholas \"Nick\" \"Lucky\" Lewis",
-    "Nicholas \"Nick\" Lewis Jr.",
-    "Bennett Brant"
+    "Nicholas Lewis",
+    "Nicholas Lewis Jr.",
+    "Bennett Brant",
+    "Lucky",
+    "Nick"
   ],
   "species": [
   ],

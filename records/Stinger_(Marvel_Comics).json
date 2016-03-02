@@ -9,14 +9,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/7a/XMEN_Stinger.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Stinger",
   "partners": [
   ],
   "powers": [
-    "Able to discharge electricity from her hands."
   ],
   "ranking": {
     "comicCount": 0,

@@ -13,22 +13,18 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4d278ee344785/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Maestro",
   "partners": [
   ],
   "powers": [
-    "Unlimited superhuman strength",
     "Speed",
     "Stamina",
     "Durability",
-    "Regenerative healing factor",
     "Radiation absorption",
     "Transformation",
-    "Resistance to mind control",
-    "Genius-level intellect in certain incarnations",
     "Astral forms"
   ],
   "ranking": {

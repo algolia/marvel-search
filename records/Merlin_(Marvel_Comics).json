@@ -8,8 +8,8 @@
   "description": "Merlin is the name of multiple fictional characters in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Merlin",
   "partners": [

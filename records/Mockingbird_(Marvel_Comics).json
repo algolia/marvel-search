@@ -15,7 +15,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51e829af23af9/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mockingbird",
   "partners": [
@@ -27,7 +27,6 @@
     "Gymnast",
     "Unarmed combatant",
     "Spy",
-    "Expert with battle-stave weapon",
     "Greatly enhanced strength",
     "Agility"
   ],
@@ -40,12 +39,13 @@
     "storyCount": 33
   },
   "secretIdentities": [
-    "Barbara \"Bobbi\" Morse Barton"
+    "Barbara Morse Barton",
+    "Bobbi"
   ],
   "species": [
   ],
   "teams": [
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Avengers",
     "West Coast Avengers",
     "Great Lakes Avengers",

@@ -21,8 +21,8 @@
     "banner": "http://x.annihil.us/u/prod/marvel/i/mg/e/e0/537bafa34baa9.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 11,
     "green": 37,
@@ -34,7 +34,6 @@
   ],
   "powers": [
     "Genius-level intellect",
-    "Skilled hand-to-hand combatant",
     "Superhuman strength",
     "Speed",
     "Jumping",
@@ -47,10 +46,7 @@
     "Anger empowerment",
     "Accelerated healing",
     "Longevity",
-    "Resistance to mind control",
-    "Hold his breath for long periods of time",
     "Immortality",
-    "Immense superhuman strength",
     "Stamina"
   ],
   "ranking": {
@@ -72,7 +68,7 @@
     "Defenders",
     "Avengers",
     "Horsemen of Apocalypse",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Illuminati",
     "Secret Avengers",
     "The New Avengers",

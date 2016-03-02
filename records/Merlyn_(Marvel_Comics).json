@@ -3,8 +3,10 @@
     "Merlin",
     "Myrdh",
     "the Magus",
-    "Myrrdin and many more",
-    "Merlyn"
+    "Myrrdin",
+    "many more",
+    "Merlyn",
+    "Myrrdin and many more"
   ],
   "authors": [
     "Fred Kida",
@@ -14,8 +16,8 @@
   "description": "Merlyn is a fictional character in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Merlyn",
   "partners": [

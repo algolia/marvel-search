@@ -13,7 +13,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Hulk2099.jpg/250px-Hulk2099.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hulk 2099",
   "partners": [
@@ -25,7 +25,6 @@
     "Durability",
     "Razor sharp claws",
     "Fangs",
-    "Accelerated healing factor",
     "Near invulnerability",
     "Leaping",
     "Accelerated",

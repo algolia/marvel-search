@@ -17,15 +17,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/91/Quill%28comics%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Quill",
   "partners": [
   ],
   "powers": [
-    "Porcupine-like spikes that grow in place of hair",
-    "Can be fired as high-speed projectiles"
   ],
   "ranking": {
     "comicCount": 0,
@@ -36,7 +34,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Maxwell \"Max\" Jordan"
+    "Maxwell Jordan",
+    "Max"
   ],
   "species": [
     "Mutant"
@@ -44,7 +43,7 @@
   "teams": [
     "Resistants",
     "Warpies",
-    "Arena (disambiguation)",
+    "Arena",
     "Cherub",
     "X-Mansion",
     "Cherubim"

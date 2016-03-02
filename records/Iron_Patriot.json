@@ -11,8 +11,8 @@
     "banner": "http://x.annihil.us/u/prod/marvel/i/mg/8/90/537bb2503ac5b.jpg",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/22/Iron_Patriot.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
@@ -26,19 +26,15 @@
   ],
   "powers": [
     "Heat seeking missiles",
-    "Communications system via helmet",
     "Magnetic impact blasts",
     "Flight",
     "Flamethrowers",
     "Superhuman strength",
     "Durability",
     "Miniaturized lasers",
-    "*superhuman strength",
-    "*a cyberpathic link with a prior version of his powered armored suit",
-    "*supersonic flight at mach 3",
-    "*energy repulsors",
-    "*missiles",
-    "*regenerative life support"
+    "Energy repulsors",
+    "Missiles",
+    "Regenerative life support"
   ],
   "ranking": {
     "comicCount": 0,

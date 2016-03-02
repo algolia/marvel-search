@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Blacklight",
-    "Blacklight (MC2)"
+    "Blacklight"
   ],
   "authors": [
     "Tom DeFalco",
@@ -11,16 +10,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/BlacklightAN.jpg/250px-BlacklightAN.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Blacklight",
   "partners": [
   ],
   "powers": [
     "Energy projection",
-    "High speed flight",
-    "Control over solid light constructs"
+    "High speed flight"
   ],
   "ranking": {
     "comicCount": 0,

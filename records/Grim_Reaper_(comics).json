@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4c003ee8885e4/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Grim Reaper",
   "partners": [
@@ -27,19 +27,12 @@
   ],
   "powers": [
     "Illusion casting",
-    "Absorb human life-forces via his scythe",
     "Clairvoyance",
     "Necromancy",
-    "Wields magically sharp scythe replaced with right hand that can drain energy",
     "Project energy blasts",
-    "Wielded techno-scythe that could spin at rapid speed",
-    "Fire electromagnetic power blasts",
     "Anesthetic gas pellets",
-    "Dispense electric stun shocks on touch",
     "Induce deep comas",
-    "Revive victims from them as well",
-    "Teleportation",
-    "Slight supernatural strength"
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 22,

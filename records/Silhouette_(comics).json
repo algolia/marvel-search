@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Silhouette"
+    "Silhouette",
+    "actual identities the character uses"
   ],
   "authors": [
     "Mark Bagley",
@@ -13,7 +14,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/bc/Silhouetteani.png"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Silhouette",
   "partners": [
@@ -22,11 +23,8 @@
     "Enhanced strength",
     "Speed",
     "Agility",
-    "Superb hand to hand combatant",
-    "Darkforce energy manipulation",
     "Shadow teleportation",
-    "Expert martial artist",
-    "Can become a living shadow"
+    "Expert martial artist"
   ],
   "ranking": {
     "comicCount": 2,

@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/46/Mordo.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Baron Mordo",
   "partners": [
@@ -23,12 +23,10 @@
     "Good martial artist",
     "Astral projection",
     "Teleportation",
-    "Magical energy manipulation",
     "Force blast projection",
     "Thought",
     "Illusion casting",
-    "Hypnotism",
-    "Extensive knowledge of magical lore"
+    "Hypnotism"
   ],
   "ranking": {
     "comicCount": 0,

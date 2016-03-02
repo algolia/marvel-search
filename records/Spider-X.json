@@ -15,8 +15,8 @@
   "description": "Spider-X (Brian Kornfield) is a fictional character and supervillain in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Spider-X",
   "partners": [
@@ -27,9 +27,6 @@
     "Agility",
     "Durability",
     "Black magic",
-    "Unlimited adhesive \"webbing\"",
-    "Accelerated healing factor",
-    "Bursts of destructive energy from his mouth.",
     "Wall crawling"
   ],
   "ranking": {

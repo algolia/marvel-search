@@ -10,14 +10,13 @@
   "description": "Peepers is a fictional character in comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Peepers",
   "partners": [
   ],
   "powers": [
-    "Telescopic/microscopic eyesight",
     "X-ray vision",
     "Eye beams"
   ],
@@ -39,7 +38,6 @@
     "Secret Empire",
     "Resistants",
     "Brotherhood of Mutants",
-    "X-Men: The 198",
     "The 198",
     "Brotherhood of Evil Mutants",
     "Mutant Force"

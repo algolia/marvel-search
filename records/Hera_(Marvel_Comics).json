@@ -11,17 +11,16 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Hera_in_Hercules.jpg/250px-Hera_in_Hercules.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hera",
   "partners": [
   ],
   "powers": [
-    "Magical powers.",
-    "Superhuman physical attributes.",
-    "Healing factor cure.",
-    "Immortality.",
+    "Magical powers",
+    "Healing factor cure",
+    "Immortality",
     "Cunning strategist",
     "Superhuman strength",
     "Speed",

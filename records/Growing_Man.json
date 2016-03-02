@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Growing_Man_on_the_cover_of_Thor.jpg/250px-Growing_Man_on_the_cover_of_Thor.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Growing Man",
   "partners": [

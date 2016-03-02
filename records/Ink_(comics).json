@@ -12,14 +12,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Ink_Wiki.png/200px-Ink_Wiki.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ink",
   "partners": [
   ],
   "powers": [
-    "Iconic tattoos on his body grant him several abilities."
   ],
   "ranking": {
     "comicCount": 1,

@@ -13,21 +13,19 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fe/Wundarr_the_Aquarian.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Wundarr the Aquarian",
   "partners": [
   ],
   "powers": [
-    "Null energy field  that nullies all forms of energy",
     "Vast knowledge",
     "Limited flight",
     "Leaping",
     "Superhuman strength",
-    "Transmitting knowledge through touch",
     "Energy projection",
-    "Null energy field (\"entropy field\") that nullies all forms of energy"
+    "Entropy field"
   ],
   "ranking": {
     "comicCount": 0,

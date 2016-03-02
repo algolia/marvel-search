@@ -3,8 +3,7 @@
     "Danny Ketch",
     "The Spirit of Vengeance",
     "Ghost Rider",
-    "Daniel Ketch",
-    "Ghost Rider (Danny Ketch)"
+    "Daniel Ketch"
   ],
   "authors": [
     "Howard Mackie",
@@ -16,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/535feaa671cc6/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ghost Rider (Daniel Ketch)",
   "partners": [
@@ -40,7 +39,8 @@
     "storyCount": 11
   },
   "secretIdentities": [
-    "Daniel \"Danny\" Ketch"
+    "Daniel Ketch",
+    "Danny"
   ],
   "species": [
   ],

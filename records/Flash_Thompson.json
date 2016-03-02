@@ -14,15 +14,14 @@
     "banner": "http://i.annihil.us/u/prod/marvel/universe3zx/images/d/de/Venom(MacGargan)_Head.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/5269668c7d5df/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Venom (Flash Thompson)",
   "partners": [
   ],
   "powers": [
     "Trained marksman",
-    "Experienced hand to hand combatant",
     "Superhuman strength",
     "Agility",
     "Reflexes",
@@ -41,12 +40,13 @@
     "storyCount": 53
   },
   "secretIdentities": [
-    "Eugene \"Flash\" Thompson"
+    "Eugene Thompson",
+    "Flash"
   ],
   "species": [
   ],
   "teams": [
-    "Guardians of the Galaxy (2008 team)",
+    "Guardians of the Galaxy",
     "United States Army",
     "Avengers",
     "Thunderbolts",

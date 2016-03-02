@@ -14,8 +14,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GazerWar.png/250px-GazerWar.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "War (Abraham Kieros)",
   "partners": [
@@ -37,7 +37,8 @@
     "unrevealed"
   ],
   "species": [
-    "Human Mutant and Human Mutate"
+    "Human Mutant",
+    "Human Mutate"
   ],
   "teams": [
     "Horsemen of Apocalypse",

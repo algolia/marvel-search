@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/LivingColossus.jpg/249px-LivingColossus.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "It! The Living Colossus",
   "partners": [
@@ -21,9 +21,7 @@
     "Superhuman strength",
     "Flight",
     "Stamina",
-    "Durability",
-    "Flight via gravity manipulation",
-    "Survive underwater without air"
+    "Durability"
   ],
   "ranking": {
     "comicCount": 0,
@@ -34,7 +32,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Robert \"Bob\" O'Bryan"
+    "Robert O'Bryan",
+    "Bob"
   ],
   "species": [
   ],

@@ -11,8 +11,8 @@
   "description": "Psyklop is a fictional character, a comic book supervillain in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Psyklop",
   "partners": [
@@ -26,7 +26,6 @@
     "Endurance",
     "Clawed digits",
     "Project energy blasts",
-    "Hypnotize people via his single eye",
     "Genius-level intellect",
     "Sharpened canine teeth"
   ],

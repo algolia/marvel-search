@@ -15,15 +15,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4ce5a205a2322/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Wonder Man",
   "partners": [
   ],
   "powers": [
     "Flight",
-    "Trained electrical engineer",
     "Superhuman strength",
     "Speed",
     "Stamina",
@@ -58,7 +57,7 @@
     "Force Works",
     "Williams Innovations",
     "West Coast Avengers",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Masters of Evil",
     "Avengers",
     "Defenders",

@@ -13,15 +13,13 @@
   "description": "Steeplejack is the name of two fictional characters in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Steeplejack",
   "partners": [
   ],
   "powers": [
-    "Use of a multipurpose acetylene gun",
-    "Protection from physical attacks"
   ],
   "ranking": {
     "comicCount": 0,

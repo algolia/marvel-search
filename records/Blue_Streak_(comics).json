@@ -17,8 +17,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Blue-streak.jpg/249px-Blue-streak.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Blue Streak",
   "partners": [
@@ -46,7 +46,7 @@
     "Mutant"
   ],
   "teams": [
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "A-Next",
     "Corporation",
     "X-People"

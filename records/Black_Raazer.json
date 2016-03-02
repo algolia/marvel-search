@@ -8,16 +8,15 @@
   "description": "Black Raazer is a fictional character in Marvel Comics who first appeared in the first Alpha Flight series. (The character's name has been spelled or misspelled as Raazar and Razaar.).",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Black Raazer",
   "partners": [
   ],
   "powers": [
     "Wraith powers",
-    "Limited sorcery",
-    "Control of a mystic weapon."
+    "Limited sorcery"
   ],
   "ranking": {
     "comicCount": 0,

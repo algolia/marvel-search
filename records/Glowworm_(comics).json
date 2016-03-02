@@ -16,15 +16,14 @@
   "description": "Glowworm is the name of two unrelated fictional characters from Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Glowworm",
   "partners": [
   ],
   "powers": [
     "Generate",
-    "Release spheres of destructive energy",
     "Superhuman strength",
     "Steel hard skin",
     "Shrug off double"

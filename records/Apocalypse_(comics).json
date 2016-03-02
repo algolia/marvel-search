@@ -16,7 +16,7 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/526166076a1d0/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Apocalypse",
@@ -49,7 +49,7 @@
     "Dark Riders",
     "Clan Akkaba",
     "Alliance of Evil",
-    "S.H.I.E.L.D."
+    "S.H.I.E.L.D"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/166/apocalypse",

@@ -12,15 +12,14 @@
   "description": "Arcanna is the name of two different fictional comic book characters in the Marvel Comics multiverse.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Arcanna",
   "partners": [
   ],
   "powers": [
     "Psychic awareness",
-    "Influence parallel quantum dimensions",
     "Magic abilities",
     "Flight"
   ],

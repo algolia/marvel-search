@@ -10,15 +10,15 @@
   "description": "The Kleinstocks were a set of triplets that are comic book fictional characters, and are mutant supervillains, in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kleinstock Brothers",
   "partners": [
   ],
   "powers": [
     "Explosive plasma blasts",
-    "When merged: superhuman size",
+    "Superhuman size",
     "Strength",
     "Speed",
     "Stamina",
@@ -35,9 +35,8 @@
   },
   "secretIdentities": [
     "Sven",
-    "Harlan,",
-    "Eric Kleinstock",
     "Harlan",
+    "Eric Kleinstock",
     "and Eric Kleinstock"
   ],
   "species": [

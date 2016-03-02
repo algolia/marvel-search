@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/MarvelPremiere-39.jpg/250px-MarvelPremiere-39.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Torpedo",
   "partners": [
@@ -34,7 +34,7 @@
   ],
   "teams": [
     "Defenders",
-    "\"Defenders for a Day\""
+    "Defenders for a Day"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Torpedo_(Marvel_Comics)"

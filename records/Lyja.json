@@ -8,7 +8,6 @@
   ],
   "authors": [
     "Tom DeFalco",
-    "Paul Ryan (cartoonist)",
     "Paul Ryan"
   ],
   "description": "Lyja is a fictional character in the Marvel Comics universe.",
@@ -17,8 +16,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c003594c52e8/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Lyja",
   "partners": [
@@ -27,8 +26,6 @@
     "Shapeshifting",
     "Heat",
     "Flame resistance",
-    "Flight via dragon-like wings",
-    "Talented creator of abstract sculptures",
     "Energy blasts",
     "Trained actress",
     "Armed/unarmed combatant"

@@ -11,14 +11,14 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Smiling Tiger",
   "partners": [
   ],
   "powers": [
-    "Razor sharp claws."
+    "Razor sharp claws"
   ],
   "ranking": {
     "comicCount": 0,

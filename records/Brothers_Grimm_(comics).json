@@ -7,20 +7,19 @@
     "Carmine Infantino",
     "Denny O'Neil",
     "Luke McDonnell",
-    "and Steve Mitchell"
+    "Steve Mitchell"
   ],
   "description": "The Brothers Grimm are two sets of fictional twin comic book supervillains, owned by Marvel Comics and existing in that company's Marvel Universe.",
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Brothers-Grimm-Marvel.jpg/225px-Brothers-Grimm-Marvel.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Brothers Grimm",
   "partners": [
   ],
   "powers": [
-    "Costume granted matter production"
   ],
   "ranking": {
     "comicCount": 0,

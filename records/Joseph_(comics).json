@@ -17,15 +17,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/5260339868b8c/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Joseph",
   "partners": [
   ],
   "powers": [
-    "Generation",
-    "Manipulation of magnetic fields"
+    "Generation"
   ],
   "ranking": {
     "comicCount": 36,
@@ -39,7 +38,8 @@
     "Joseph"
   ],
   "species": [
-    "Human Mutant, clone"
+    "Human Mutant",
+    "clone"
   ],
   "teams": [
     "Brotherhood of Mutants",

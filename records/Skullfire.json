@@ -10,15 +10,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Xmen2099-29.jpg/250px-Xmen2099-29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Skullfire",
   "partners": [
   ],
   "powers": [
     "Made of pure energy",
-    "Rechannel energy around him",
     "Levitation"
   ],
   "ranking": {

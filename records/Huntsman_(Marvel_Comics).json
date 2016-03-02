@@ -10,8 +10,8 @@
   "description": "The Huntsman is a fictional character in Marvel Comics who is a tracker/hunter of the Olympian Gods for Zeus.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Huntsman",
   "partners": [
@@ -23,14 +23,10 @@
     "Speed",
     "Stamina",
     "Durability",
-    "Javelin made of light that never misses",
     "Immortality",
-    "Wields a javelin made of light that never misses a target",
     "Energy projection",
     "Illusion creation",
-    "Inter-dimensional travel",
-    "Drain their powers on contact",
-    "Summon or create duplicates of greek mythology creatures"
+    "Inter-dimensional travel"
   ],
   "ranking": {
     "comicCount": 0,

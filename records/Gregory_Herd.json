@@ -2,8 +2,7 @@
   "aliases": [
     "Override",
     "Shadrac",
-    "Gregory Herd",
-    "\"Override \""
+    "Gregory Herd"
   ],
   "authors": [
     "Todd Dezago",
@@ -14,8 +13,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Gregory_Herd_Shadrac.JPG/150px-Gregory_Herd_Shadrac.JPG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Gregory Herd",
   "partners": [

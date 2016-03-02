@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Styx and Stone"
+    "Styx",
+    "Stone"
   ],
   "authors": [
     "Todd McFarlane",
@@ -9,17 +10,14 @@
   "description": "Styx and Stone (Jacob Eishorn and Gerald Stone) are two fictional comic book characters in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Styx and Stone",
   "partners": [
   ],
   "powers": [
-    "Lethal touch",
-    "His clawlike hands disintegrate all organic material within seconds",
-    "Claw-like hands that disintegrate all organic material within seconds",
-    "Wears two large weapons on his shoulders"
+    "Lethal touch"
   ],
   "ranking": {
     "comicCount": 0,
@@ -30,7 +28,7 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Jacob Eishorn ",
+    "Jacob Eishorn",
     "Gerald Stone",
     "Jacob Eishorn (Styx) and Gerald Stone"
   ],

@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Vanceastro.jpg/250px-Vanceastro.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Vance Astro",
   "partners": [
@@ -26,9 +26,7 @@
     "Excellent astronaut",
     "Starship pilot",
     "Hand to hand combatant",
-    "Psychokinesis",
-    "Wears copper alloy bodysuit",
-    "Use of indestructible shield"
+    "Psychokinesis"
   ],
   "ranking": {
     "comicCount": 0,
@@ -46,10 +44,8 @@
   ],
   "teams": [
     "Avengers",
-    "Guardians of the Galaxy (1969 team)",
-    "United States Air Force",
-    "Guardians of the Galaxy (2008 team)",
     "Guardians of the Galaxy",
+    "United States Air Force",
     "U.S. Air Force"
   ],
   "urls": {

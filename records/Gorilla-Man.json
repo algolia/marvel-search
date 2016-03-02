@@ -15,8 +15,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Aoatlas002_cov_c.jpg/200px-Aoatlas002_cov_c.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Gorilla-Man",
   "partners": [
@@ -24,8 +24,6 @@
   "powers": [
     "Immortality",
     "Weapons expert",
-    "Skilled hand to hand combatant",
-    "Possesses the form of a gorilla",
     "Expert transplant surgeon",
     "Inventor"
   ],

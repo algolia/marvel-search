@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/539a06a64b262/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Odin",
   "partners": [
@@ -26,9 +26,7 @@
     "Stamina",
     "Durability",
     "Endurance",
-    "Empathic ability to feed on the hatred of sentient beings",
-    "Shapeshifting",
-    "Energy projection via magic manipulation"
+    "Shapeshifting"
   ],
   "ranking": {
     "comicCount": 142,

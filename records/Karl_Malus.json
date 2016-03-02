@@ -11,8 +11,8 @@
   "description": "Dr. Karl Malus is a fictional mad scientist and criminal in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Dr. Karl Malus",
   "partners": [
@@ -20,10 +20,8 @@
   "powers": [
     "Brilliant surgeon",
     "Gifted intellect",
-    "Great knowledge of chemistry",
     "Genetic manipulation",
-    "Radiology",
-    "Weaknesses of alien symbiote creatures"
+    "Radiology"
   ],
   "ranking": {
     "comicCount": 0,

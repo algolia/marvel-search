@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Gabriel_the_Devil_Hunter.png/175px-Gabriel_the_Devil_Hunter.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Gabriel the Devil Hunter",
   "partners": [
@@ -32,7 +32,8 @@
   },
   "secretIdentities": [
     "Gabriel Rosetti",
-    "although some of his earlier appearances imply that \"Gabriel\" is his last name."
+    "although some of his earlier appearances imply that is his last name",
+    "Gabriel"
   ],
   "species": [
   ],

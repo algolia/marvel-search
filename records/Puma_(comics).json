@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/4c003c7a0ab21/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Puma",
   "partners": [
@@ -33,11 +33,7 @@
     "Superhumanly acute senses",
     "Razor sharp fangs",
     "Claws",
-    "Expertise in numerous martial arts",
-    "Extraordinary hand to hand combatant",
     "Skilled businessman",
-    "Access to highly advanced technology",
-    "Use of personal customized lear jet",
     "Durability",
     "Intelligence",
     "Razor sharp claws",

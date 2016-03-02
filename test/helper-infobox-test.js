@@ -3,7 +3,7 @@ import sinon from 'sinon';
 import expect from 'expect';
 import Helper from '../lib/utils/helper-infobox.js';
 
-describe('HelperDBPedia', () => {
+describe('HelperInfobox', () => {
   afterEach(() => {
     cleanUpStubs(Helper);
   });
@@ -94,313 +94,6 @@ describe('HelperDBPedia', () => {
 
       // Then
       expect(actual).toEqual(null);
-    });
-  });
-
-  describe('splitOnCommonSeparators', () => {
-    it('should split on <br>', () => {
-      // Given
-      let input = [
-        '<br>Foo<BR>',
-        '<br/>Bar<br />',
-        'Baz'
-      ];
-
-      // When
-      let actual = Helper.splitOnCommonSeparators(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should split on bullet points', () => {
-      // Given
-      let input = [
-        '*Foo*Bar',
-        'Baz'
-      ];
-
-      // When
-      let actual = Helper.splitOnCommonSeparators(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-  });
-
-  describe('trimItemsInList', () => {
-    it('should remove commas and bullet points', () => {
-      // Given
-      let input = [
-        'Foo,',
-        '*Bar',
-        '*Baz,'
-      ];
-
-      // When
-      let actual = Helper.trimItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should remove {curly braces}', () => {
-      // Given
-      let input = [
-        '{{Foo',
-        'Bar}}',
-        '{{Baz}}'
-      ];
-
-      // When
-      let actual = Helper.trimItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should remove unclosed "<ref name"', () => {
-      // Given
-      let input = [
-        'Foo',
-        'Bar <ref name',
-        'Baz'
-      ];
-
-      // When
-      let actual = Helper.trimItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should remove unclosed "<ref>"', () => {
-      // Given
-      let input = [
-        'Foo',
-        'Bar <ref>{{cite book|last',
-        'Baz'
-      ];
-
-      // When
-      let actual = Helper.trimItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should remove triple quotes', () => {
-      // Given
-      let input = [
-        "'''Foo",
-        "Bar'''",
-        "'''Baz'''"
-      ];
-
-      // When
-      let actual = Helper.trimItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should remove list dashes', () => {
-      // Given
-      let input = [
-        '- Foo',
-        '- Bar',
-        '- Baz'
-      ];
-
-      // When
-      let actual = Helper.trimItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should trim whitespace', () => {
-      // Given
-      let input = [
-        ' Foo',
-        'Bar  ',
-        ' Baz      '
-      ];
-
-      // When
-      let actual = Helper.trimItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should remove any <ref>blahblah</ref>', () => {
-      // Given
-      let input = [
-        'Foo<ref>nope</ref>',
-        '<ref>Still nope</ref>Bar',
-        '<ref>Nopenopenope</ref>Baz<ref>Huzzah</ref>'
-      ];
-
-      // When
-      let actual = Helper.trimItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-  });
-
-  describe('rejectBadItemsInList', () => {
-    it('should remove new lines', () => {
-      // Given
-      let input = [
-        '<br>',
-        'Foo',
-        '<br/>',
-        'Bar',
-        '<br />',
-        'Baz'
-      ];
-
-      // When
-      let actual = Helper.rejectBadItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should remove common separators', () => {
-      // Given
-      let input = [
-        '*',
-        'Foo',
-        '&',
-        '?',
-        'Bar',
-        ')',
-        '"',
-        'The',
-        'and',
-        'Baz'
-      ];
-
-      // When
-      let actual = Helper.rejectBadItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should remove Plain list markers', () => {
-      // Given
-      let input = [
-        'Plain list |*',
-        'Foo',
-        'Plainlist|',
-        'Bar',
-        'Baz'
-      ];
-
-      // When
-      let actual = Helper.rejectBadItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should remove "Formerly:" types', () => {
-      // Given
-      let input = [
-        'Formerly:',
-        'Foo',
-        'In armor:',
-        'Bar',
-        'Before 1998:',
-        'Baz'
-      ];
-
-      // When
-      let actual = Helper.rejectBadItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should remove words cut in the middle', () => {
-      // Given
-      let input = [
-        'Foo',
-        '-sense',
-        'Bar',
-        'Baz'
-      ];
-
-      // When
-      let actual = Helper.rejectBadItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should removes comments', () => {
-      // Given
-      let input = [
-        '<!-- Foo',
-        'Bar -->',
-        '<!-- Baz -->'
-      ];
-
-      // When
-      let actual = Helper.rejectBadItemsInList(input);
-
-      // Then
-      expect(actual).toEqual([]);
-    });
-
-    it('should remove "Related topics"', () => {
-      // Given
-      let input = [
-        'Foo',
-        'Related topics',
-        'Bar',
-        'Baz'
-      ];
-
-      // When
-      let actual = Helper.rejectBadItemsInList(input);
-
-      // Then
-      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
-    });
-
-    it('should removes values in parenthesis', () => {
-      // Given
-      let input = [
-        '(Foo)',
-        '(Bar)',
-        '(Baz)'
-      ];
-
-      // When
-      let actual = Helper.rejectBadItemsInList(input);
-
-      // Then
-      expect(actual).toEqual([]);
-    });
-  });
-
-  describe('cleanUpList', () => {
-    it('should handle Black Widow', () => {
-      // Given
-      let input = [
-        "* '''via gauntlets:''' ** grappling hook ** taser"
-      ];
-
-      // When
-      let actual = Helper.cleanUpList(input);
-
-      // Then
-      expect(actual).toEqual(['grappling hook', 'taser']);
     });
   });
 
@@ -722,7 +415,7 @@ describe('HelperDBPedia', () => {
       let actual = Helper.getSecretIdentities(input);
 
       // Then
-      expect(actual).toEqual(['Kevin "Keen" Marlow', 'Brian Falsworth']);
+      expect(actual).toEqual(['Kevin Marlow', 'Brian Falsworth', 'Keen']);
     });
   });
 
@@ -1003,6 +696,26 @@ describe('HelperDBPedia', () => {
 
       // Then
       expect(actual).toEqual(['Expert tactician', 'Slowed aging']);
+    });
+
+    it('should remove entries that are too long', () => {
+      // Given
+      let input = {
+        powers: [
+          'Allows him to slip through the grips of others',
+          'Foo',
+          'Wears a personal force field which can protect him from most harm',
+          'Bar',
+          "I'm actually writing a full novel in those entries",
+          'Baz'
+        ]
+      };
+
+      // When
+      let actual = Helper.getPowers(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
     });
 
     it('should remove triple quotes', () => {

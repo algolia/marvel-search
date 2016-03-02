@@ -7,16 +7,13 @@
   "description": "Smokescreen is a fictional character that appeared in comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Smokescreen",
   "partners": [
   ],
   "powers": [
-    "No apparent supernatural powers",
-    "Uses smoke to disable enemies",
-    "Uses smoke(from an unknown source) to disable enemies"
   ],
   "ranking": {
     "comicCount": 0,

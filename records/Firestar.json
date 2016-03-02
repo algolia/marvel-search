@@ -1,7 +1,8 @@
 {
   "aliases": [
     "Firestar",
-    "Spider-Man and His Amazing Friends"
+    "Spider-Man",
+    "His Amazing Friends"
   ],
   "authors": [
     "Christy Marx",
@@ -17,14 +18,12 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4ce5a555585c6/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Firestar (Ultimate)",
   "partners": [
   ],
   "powers": [
-    "Microwave radiation manipulation",
-    "Electromagnetic energy wavelength disruption",
     "Flight"
   ],
   "ranking": {
@@ -36,19 +35,19 @@
     "storyCount": 2
   },
   "secretIdentities": [
-    "Angelica \"Angel\" Jones"
+    "Angelica Jones",
+    "Angel"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "X-Men: The 198",
+    "The 198",
     "Avengers",
     "Young Allies",
     "Hellions",
     "X-Men",
     "New Warriors",
-    "The 198",
     "Young Allies (Heroic Age)"
   ],
   "urls": {

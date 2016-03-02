@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/XMEN_04122005_0001.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Famine",
   "partners": [
@@ -32,7 +32,8 @@
     "storyCount": 15
   },
   "secretIdentities": [
-    "Roderick \"Rory\" Campbell"
+    "Roderick Campbell",
+    "Rory"
   ],
   "species": [
   ],

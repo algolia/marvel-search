@@ -16,7 +16,7 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Serpent_Squad.jpg/250px-Serpent_Squad.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Eel",
@@ -24,8 +24,6 @@
     "Nightshade"
   ],
   "powers": [
-    "Electrified lubricated costume",
-    "Wears electrified lubricated costume",
     "Use of various weapons"
   ],
   "ranking": {

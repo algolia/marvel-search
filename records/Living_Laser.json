@@ -1,7 +1,6 @@
 {
   "aliases": [
     "The Living Laser",
-    "Living+Laser",
     "Living Laser"
   ],
   "authors": [
@@ -14,7 +13,7 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Ironman211livinglaser.jpg/250px-Ironman211livinglaser.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Living Laser",
@@ -24,8 +23,6 @@
     "Genius level intellect",
     "Limited telepathy",
     "Illusion generation",
-    "Invisibility via light refraction",
-    "Three dimensional holographic image creation",
     "Gifted research scientist",
     "Energy absorption",
     "Projection",

@@ -5,7 +5,6 @@
     "Onslaught",
     "Consort-Royal",
     "Founder",
-    "X",
     "Warlord",
     "Entity",
     "Professor X",
@@ -22,8 +21,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/528d3378de525/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Professor X",
   "partners": [
@@ -62,7 +61,7 @@
   ],
   "teams": [
     "Skrull",
-    "Apocalypse: The Twelve",
+    "The Twelve",
     "Defenders",
     "X-Men",
     "Illuminati",
@@ -72,8 +71,7 @@
     "Starjammers",
     "Genoshan Excalibur",
     "Cadre K",
-    "Shi'ar Imperium",
-    "The Twelve"
+    "Shi'ar Imperium"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009504/professor_x",

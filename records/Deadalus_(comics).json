@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Tysen S. the half and half.",
+    "Tysen S. the half",
+    "half",
     "Deadalus"
   ],
   "authors": [
@@ -13,7 +14,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Deadalus_new_gen.jpg/250px-Deadalus_new_gen.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tysen S. the half and half.",
   "partners": [

@@ -7,24 +7,22 @@
   "authors": [
     "Gerry Conway",
     "Len Wein",
-    "and Ross Andru",
     "Ross Andru"
   ],
   "description": "Moondark is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Moondark",
   "partners": [
   ],
   "powers": [
-    "Magic (paranormal)",
+    "Magic",
     "Wikt:mesmerize",
     "Teleportation",
     "Hypnosis",
-    "Magic",
     "Teleport",
     "Mesmerize"
   ],

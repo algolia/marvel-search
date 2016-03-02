@@ -8,13 +8,14 @@
   "authors": [
     "J. Michael Straczynski",
     "John Romita, Jr.",
+    "Scott Hanna",
     "and Scott Hanna"
   ],
   "description": "Shathra is a Spider-Man villain and a character in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shathra",
   "partners": [

@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/4c0035bc1dcf1/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Unicorn",
   "partners": [
@@ -24,17 +24,11 @@
     "Mandarin"
   ],
   "powers": [
-    "Formidable hand-to-hand combatant",
     "Marksman",
     "Flight via rocket belt",
     "Superhuman strength",
-    "Endurance via radiation treatments",
-    "High resistance to physical injury",
     "Energy projection",
-    "Force field generation",
-    "Magnetic levitation via emitter on brow of suit",
-    "Highly proficient in the use of knives",
-    "High-level resistance to injury"
+    "Force field generation"
   ],
   "ranking": {
     "comicCount": 1,

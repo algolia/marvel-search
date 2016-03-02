@@ -12,14 +12,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Blue_shield.jpg/250px-Blue_shield.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Blue Shield",
   "partners": [
   ],
   "powers": [
-    "Superhuman physical attributes",
     "Force field generation"
   ],
   "ranking": {

@@ -13,8 +13,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Avengersv3-045pic2.png/300px-Avengersv3-045pic2.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Master of the World",
   "partners": [
@@ -28,7 +28,6 @@
     "Agility",
     "Durability",
     "Genius-level intellect",
-    "Battlesuit contains advanced technology",
     "Weapons"
   ],
   "ranking": {

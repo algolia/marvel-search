@@ -14,8 +14,8 @@
     "banner": "http://x.annihil.us/u/prod/marvel/i/mg/3/30/537b88aa21075.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/531769834b15f/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 9,
     "green": 36,
@@ -26,11 +26,8 @@
   "partners": [
   ],
   "powers": [
-    "Winged flight with sonic vibrational capacities",
     "Flight",
     "Acid spit",
-    "Technologically granted ice generation from her left hand",
-    "Heat/fire generation from her right hand",
     "Insectoid physiology"
   ],
   "ranking": {

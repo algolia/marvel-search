@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Blacktom.PNG/200px-Blacktom.PNG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Black Tom Cassidy",
   "partners": [
@@ -19,9 +19,7 @@
     "Juggernaut"
   ],
   "powers": [
-    "Plant manipulation",
-    "Immunity to powers of banshee",
-    "Concussive blasts via wooden mediums"
+    "Plant manipulation"
   ],
   "ranking": {
     "comicCount": 0,

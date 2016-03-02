@@ -9,15 +9,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Mortis.PNG/175px-Mortis.PNG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mortis",
   "partners": [
     "Selene"
   ],
   "powers": [
-    "Creates an energy field that disrupts solid matter."
   ],
   "ranking": {
     "comicCount": 0,

@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Triton"
+    "Triton",
+    "actual identities the character uses"
   ],
   "authors": [
     "Stan Lee",
@@ -12,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/528d367108dfb/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Triton",
   "partners": [

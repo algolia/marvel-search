@@ -13,15 +13,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/DennisDunphyDman.gif/250px-DennisDunphyDman.gif"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Demolition Man",
   "partners": [
     "Captain America"
   ],
   "powers": [
-    "Excellent hand to hand combatant",
     "Skilled aircraft pilot",
     "Superhuman strength",
     "Stamina",

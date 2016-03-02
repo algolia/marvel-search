@@ -19,34 +19,17 @@
   "description": "The various incarnations of Aries are Marvel Comics supervillains who were members of various incarnations of the supervillain group, the Zodiac.In the history of the Marvel Universe, seven different characters have assumed the role of Aries.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Aries",
   "partners": [
   ],
   "powers": [
-    "Wore a ram's horns upon his head",
-    "Would ram his opponents in battle. he often carried a star-blazer",
-    "A pistol which could fire energy blasts. while possessed by lucifer",
-    "His body was charged with ionic energy",
-    "Granting him superhuman strength.",
-    "Wore the horns of a ram on his head which he could use to ram opponents.",
-    "Possessed superhuman strength",
     "Shapshifting ability",
-    "Possessed a pair of horns on its head",
     "Enhanced strength",
-    "Would attempt to ram its opponents in battle. in its most recent form",
-    "It also wore a suit of protective armor",
-    "Could project fire from its horns. as a lmd",
-    "It could also exist underwater.",
-    "Wore a pair of ram's horns upon his head which he could use to ram opponents in battle. he briefly possessed the zodiac key",
-    "Which he was able to use to channel energy blasts",
-    "Powered his ship's force field",
-    "Which he used to surround all of manhattan.",
     "Had horns",
-    "Wielded a gun",
-    "Used the zodiac's teleportation device."
+    "Wielded a gun"
   ],
   "ranking": {
     "comicCount": 0,
@@ -59,9 +42,7 @@
   "secretIdentities": [
     "Marcus Lassiter",
     "Grover Raymond",
-    "Unrevealed",
-    "?",
-    "None"
+    "Unrevealed"
   ],
   "species": [
   ],

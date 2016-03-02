@@ -15,8 +15,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Ultimate_AR.jpg/250px-Ultimate_AR.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ultimate Iron Man",
   "partners": [
@@ -26,17 +26,13 @@
   ],
   "powers": [
     "Genius",
-    "A",
     "Powered armored suit",
     "Superhuman strength",
-    "Supersonic flight at mach 3",
     "Energy repulsors",
     "Missile",
-    "S",
     "Durability",
     "Regenerative",
-    "Life support",
-    "But sometimes powered by solar power"
+    "Life support"
   ],
   "ranking": {
     "comicCount": 0,
@@ -47,13 +43,14 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Antonio \"Tony\" Stark"
+    "Antonio Stark",
+    "Tony"
   ],
   "species": [
   ],
   "teams": [
     "Stark Industries",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Ultimates",
     "New Ultimates"
   ],

@@ -11,8 +11,8 @@
   "description": "Digitek (Jonathan Bryant) is a fictional character appearing in the comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Digitek",
   "partners": [
@@ -21,10 +21,7 @@
     "Energy analogue",
     "Can create armor",
     "A vast amount of weapons",
-    "Establish psi-links with others",
-    "Travel through phone lines",
-    "Create holograms.",
-    "Energy analogue; can create armor"
+    "Create holograms"
   ],
   "ranking": {
     "comicCount": 0,

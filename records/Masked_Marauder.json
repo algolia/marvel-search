@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Daredevil_cover_-_number_17.jpg/250px-Daredevil_cover_-_number_17.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Masked Marauder",
   "partners": [

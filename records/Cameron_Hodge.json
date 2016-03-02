@@ -11,16 +11,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/UncannyX-Men271.jpg/250px-UncannyX-Men271.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Cameron Hodge",
   "partners": [
   ],
   "powers": [
-    "Superhuman physical attributes through cyberntic body",
-    "Immortality",
-    "Superhuman physical attributes through cybernetic body"
+    "Immortality"
   ],
   "ranking": {
     "comicCount": 0,

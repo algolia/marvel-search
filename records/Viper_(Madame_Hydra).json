@@ -6,7 +6,6 @@
     "Warrior White Princess",
     "Mrs. Smith",
     "Leona Hiss",
-    "Viper (Madame Hydra)",
     "Green Queen"
   ],
   "authors": [
@@ -14,20 +13,19 @@
     "Bob Harras",
     "Paul Neary"
   ],
-  "description": "Viper, formerly known as Madame Hydra, is a fictional character, a supervillainess in the Marvel Comics universe who is a foe of the Avengers and the X-Men.",
+  "description": "After the apparent death of Baron von Strucker, Viper took the name Madame Hydra and took control of the New York-based faction of Hydra.",
   "images": {
     "background": null,
     "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4d5c39a54b1dd/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6e/Madame_Hydra_Viper.JPG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
-  "name": "Madame Hydra",
+  "name": "Viper",
   "partners": [
   ],
   "powers": [
-    "Immune to most forms of venom",
     "Toxins",
     "Skilled martial artist",
     "Swordswoman",
@@ -37,16 +35,15 @@
     "Tactician",
     "Enhanced life span",
     "Marksman",
-    "Immunity to most forms of venom",
     "Enhanced lifespan"
   ],
   "ranking": {
-    "comicCount": 0,
-    "eventCount": 0,
+    "comicCount": 40,
+    "eventCount": 1,
     "pageviewCount": 16650,
     "pageviewRank": -1,
-    "serieCount": 0,
-    "storyCount": 0
+    "serieCount": 19,
+    "storyCount": 34
   },
   "secretIdentities": [
     "Ophelia Sarkissian"
@@ -55,7 +52,7 @@
   ],
   "teams": [
     "Hydra",
-    "H.A.M.M.E.R.",
+    "H.A.M.M.E.R",
     "The Hand",
     "Hellfire Club",
     "Madripoor",
@@ -63,7 +60,7 @@
     "Serpent Squad"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2729/madame_hydra",
+    "marvel": "http://marvel.com/characters/2495/viper",
     "wikipedia": "https://en.wikipedia.org/wiki/Viper_(Madame_Hydra)"
   }
 }

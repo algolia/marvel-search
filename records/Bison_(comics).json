@@ -3,15 +3,15 @@
     "Bison"
   ],
   "authors": [
-    "Artists: Ron Frenz",
+    "Ron Frenz",
     "Al Milgrom",
-    "Writers: Tom DeFalco & Ron Frenz"
+    "Tom DeFalco & Ron Frenz"
   ],
   "description": "Bison (William \"Billy\" Kitson) is a fictional character from the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bison",
   "partners": [

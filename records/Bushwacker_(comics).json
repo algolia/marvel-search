@@ -13,14 +13,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Daredevil_cover_-_number_335.jpg/250px-Daredevil_cover_-_number_335.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Bushwacker",
   "partners": [
   ],
   "powers": [
-    "Familiarity with the workings of international intelligence agencies",
     "Their methods",
     "A flamethrower",
     "Trained assassin",

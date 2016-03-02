@@ -5,7 +5,6 @@
     "the Justice Killer",
     "Justice Warrior Tensen",
     "Justice",
-    "Justice (New Universe)",
     "the Prophet of",
     "Thor"
   ],
@@ -19,14 +18,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4c0037678b4ff/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Justice",
   "partners": [
   ],
   "powers": [
-    "Psionic \"swords\""
+    "Psionic \"swords"
   ],
   "ranking": {
     "comicCount": 64,

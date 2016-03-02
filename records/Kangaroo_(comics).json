@@ -18,8 +18,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Kanga1.jpg/249px-Kanga1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kangaroo",
   "partners": [
@@ -31,14 +31,12 @@
   "powers": [
     "Distances",
     "Pouch-level cannon",
-    "Superhuman strength in his legs",
     "Enhanced strength",
     "Agility",
     "Endurance",
     "Semi-prehensile tail",
     "Peak physical condition",
-    "Professional boxer",
-    "Master hand to hand combatant"
+    "Professional boxer"
   ],
   "ranking": {
     "comicCount": 0,

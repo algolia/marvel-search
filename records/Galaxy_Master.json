@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/GalaxyMasterTwo.png/250px-GalaxyMasterTwo.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Galaxy Master",
   "partners": [
@@ -20,10 +20,8 @@
   "powers": [
     "Capable of manipulating",
     "Firing beams of energy",
-    "Capable of regenerating injuries",
     "Damage done to it",
-    "Shapeshifting",
-    "Capable of manipulating objects telekinetically"
+    "Shapeshifting"
   ],
   "ranking": {
     "comicCount": 0,

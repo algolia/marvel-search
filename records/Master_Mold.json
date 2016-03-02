@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Uxm016.PNG/250px-Uxm016.PNG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Master Mold",
   "partners": [
@@ -41,7 +41,7 @@
   ],
   "teams": [
     "Sentinels",
-    "Project: Armageddon"
+    "Armageddon"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2731/master_mold",

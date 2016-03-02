@@ -9,16 +9,15 @@
   "description": "Futurist (Randolph James) is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Futurist",
   "partners": [
     "Alpha the Ultimate Mutant"
   ],
   "powers": [
-    "Fly",
-    "Superhuman mental abilities"
+    "Fly"
   ],
   "ranking": {
     "comicCount": 0,

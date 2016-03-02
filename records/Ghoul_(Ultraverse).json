@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Ghoul",
-    "Ghoul (Ultraverse)"
+    "Ghoul"
   ],
   "authors": [
     "Dinosaurs for Hire",
@@ -14,8 +13,8 @@
   "description": "Ghoul is a character from Malibu Comics' Ultraverse continuity.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ghoul",
   "partners": [

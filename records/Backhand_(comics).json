@@ -9,8 +9,8 @@
   "description": "Backhand (Greg Mattingly) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Backhand",
   "partners": [
@@ -33,7 +33,7 @@
   "species": [
   ],
   "teams": [
-    "Strikeforce: Morituri"
+    "Morituri"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Backhand_(comics)"

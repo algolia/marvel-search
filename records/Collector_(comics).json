@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Avengers_119.jpg/250px-Avengers_119.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Collector",
   "partners": [
@@ -22,10 +22,7 @@
     "Precognition",
     "Telepathy",
     "Armored suit",
-    "Controls the power primordial to create virtually unlimited effects",
-    "Controls the",
-    "Power primordial",
-    "To create virtually unlimited effects"
+    "Power primordial"
   ],
   "ranking": {
     "comicCount": 0,

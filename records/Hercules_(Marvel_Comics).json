@@ -15,14 +15,13 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/52052ebddfa53/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hercules",
   "partners": [
     "Amadeus Cho"
   ],
   "powers": [
-    "Resistance to all earthly diseases",
     "Highly skilled archer",
     "Hand-to-hand combatant",
     "Superhuman strength",
@@ -31,15 +30,12 @@
     "Reflexes",
     "Endurance",
     "Durability",
-    "Exceptional peak physical condition",
     "Healing factor",
     "Limited immunity to magic",
     "Immortality",
-    "Access to a variety of weapons from greek mythology",
     "Wields adamantine mace",
     "Pre-",
     "Chaos war",
-    "Exceptional physical condition",
     "Use of mystical weapons"
   ],
   "ranking": {

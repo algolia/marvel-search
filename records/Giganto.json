@@ -1,7 +1,7 @@
 {
   "aliases": [
     "Moby Dick",
-    "\"Monstro\"",
+    "Monstro",
     "Giganto"
   ],
   "authors": [
@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Giganto1.jpg/250px-Giganto1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Giganto",
   "partners": [
@@ -24,11 +24,9 @@
   "powers": [
     "Super-strength",
     "Damage-resistant",
-    "Shoots water from its blowhole",
     "Endurance",
     "Digging",
-    "Superhuman strength",
-    "Hold his breath underwater"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
@@ -52,7 +50,7 @@
     "Triton",
     "Droom",
     "Eerok",
-    "Grogg,",
+    "Grogg",
     "Inorganic Technodrones",
     "Kro",
     "Mole Man"

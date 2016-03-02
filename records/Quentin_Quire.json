@@ -14,7 +14,7 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c003d7fc6294/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Quentin Quire",
@@ -22,7 +22,6 @@
   ],
   "powers": [
     "Superhuman intellect",
-    "Omega level psionic powers including telepathy",
     "Telekinesis",
     "Omega level",
     "Psionic",
@@ -38,7 +37,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Quintavius \"Quentin\" Quirinius Quire"
+    "Quintavius Quirinius Quire",
+    "Quentin"
   ],
   "species": [
     "Mutant"

@@ -20,7 +20,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/526547e2d90ad/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -35,8 +35,7 @@
     "Spatial awareness",
     "Gifted strategist",
     "Hand-to-hand combatant",
-    "Pilot",
-    "Immunity to havok's plasma energy blasts"
+    "Pilot"
   ],
   "ranking": {
     "comicCount": 699,
@@ -58,11 +57,10 @@
     "X-Factor",
     "Xavier's School for Gifted Youngsters",
     "X-Force",
-    "Apocalypse: The Twelve",
+    "The Twelve",
     "X-Terminators",
     "Cyclops",
     "New Xavier School",
-    "The Twelve",
     "Phoenix Five",
     "All-New X-Men"
   ],

@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Radian",
-    "Radian (Morituri)"
+    "Radian"
   ],
   "authors": [
     "Peter B. Gillis",
@@ -11,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Radian_Morituri.bmp/250px-Radian_Morituri.bmp.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Radian",
   "partners": [
@@ -35,7 +34,7 @@
   "species": [
   ],
   "teams": [
-    "Strikeforce: Morituri"
+    "Morituri"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Radian_(Morituri)"

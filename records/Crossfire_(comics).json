@@ -13,17 +13,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/87228-166129-crossfire.jpg/250px-87228-166129-crossfire.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Crossfire",
   "partners": [
   ],
   "powers": [
     "Cybernetic enhancements",
-    "Expert marksman",
-    "Skilled in various arts of espionage",
-    "Particularly brainwashing techniques"
+    "Expert marksman"
   ],
   "ranking": {
     "comicCount": 0,

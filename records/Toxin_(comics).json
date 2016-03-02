@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4c003a94e668a/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Toxin",
   "partners": [
@@ -26,15 +26,11 @@
     "Durability",
     "Endurance",
     "Reflexes",
-    "Organic \"webbing\"",
-    "Regenerative healing factor",
+    "Organic \"webbing",
     "Limited shapeshifting",
-    "Including the ability to shape shift his limbs into weapons",
     "Camouflage",
-    "Immunity to spider sense as well as venom",
-    "Carnage tracking him down.",
-    "Fangs",
-    "Claws appear when he is angry"
+    "Carnage tracking him down",
+    "Fangs"
   ],
   "ranking": {
     "comicCount": 7,
@@ -51,10 +47,8 @@
   "species": [
   ],
   "teams": [
-    "as Eddie Brock: Savage Six",
-    "as Patrick Mulligan: NYPD",
-    "NYPD",
-    "Savage Six"
+    "Savage Six",
+    "NYPD"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2400/toxin",

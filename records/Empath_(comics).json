@@ -13,15 +13,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4ce59faf350ea/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Empath",
   "partners": [
   ],
   "powers": [
-    "Psionic ability to sense",
-    "Control emotions of others"
+    "Psionic ability to sense"
   ],
   "ranking": {
     "comicCount": 9,
@@ -39,7 +38,7 @@
   ],
   "teams": [
     "Hellions",
-    "X-Men: The 198",
+    "The 198",
     "Hellfire Cult",
     "X-Corporation"
   ],

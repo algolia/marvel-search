@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c0030a8ec05b/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Jimmy Woo",
   "partners": [
@@ -36,7 +36,7 @@
   "teams": [
     "G-Men",
     "Agents of Atlas",
-    "S.H.I.E.L.D."
+    "S.H.I.E.L.D"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2873/jimmy_woo",

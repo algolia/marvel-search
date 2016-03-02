@@ -13,22 +13,18 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/528d368ab3f46/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Titanium Man (Topolov)",
   "partners": [
   ],
   "powers": [
-    "Accomplished genetic engineer",
     "Superhuman intelligence",
     "Weapons",
     "Superhuman strength",
     "Supersonic flight",
-    "Concussive blasts",
-    "Projection of constrictive force \"rings\"",
-    "Electromagnetically paralytic beams",
-    "Resistance to conventional artillery"
+    "Concussive blasts"
   ],
   "ranking": {
     "comicCount": 25,

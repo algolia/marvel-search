@@ -11,16 +11,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Mad_dog_-_solo_avengers_9.jpg/250px-Mad_dog_-_solo_avengers_9.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mad-Dog",
   "partners": [
   ],
   "powers": [
     "Enhanced senses",
-    "Physical abilities",
-    "Secretes neurotoxin in saliva"
+    "Physical abilities"
   ],
   "ranking": {
     "comicCount": 0,
@@ -31,7 +30,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Robert \"Buzz\" Baxter"
+    "Robert Baxter",
+    "Buzz"
   ],
   "species": [
   ],

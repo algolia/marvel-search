@@ -10,8 +10,8 @@
   "description": "Shadow Slasher is a fictional supervillain in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shadow Slasher",
   "partners": [
@@ -19,7 +19,6 @@
   "powers": [
     "Uses nunchaku",
     "Other asian weapons",
-    "None: highly proficient martial artist",
     "Uses",
     "Nunchaku",
     "Other",

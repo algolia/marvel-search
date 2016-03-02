@@ -9,14 +9,13 @@
   "description": "Wipeout is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Wipeout",
   "partners": [
   ],
   "powers": [
-    "Remove powers from mutants or other superhumans."
   ],
   "ranking": {
     "comicCount": 0,

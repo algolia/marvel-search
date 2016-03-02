@@ -7,15 +7,14 @@
   "description": "Kiwi Black is a mutant from Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kiwi Black",
   "partners": [
   ],
   "powers": [
     "Has large information",
-    "Knowledge on all energies as well as physics",
     "Science"
   ],
   "ranking": {

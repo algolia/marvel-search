@@ -13,18 +13,15 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1e/Stacy_X_%28Miranda_Leevald%29.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Stacy X",
   "partners": [
   ],
   "powers": [
-    "Skilled hand-to-hand fighter",
-    "Pheromone control through touch",
     "Scaly",
-    "Protective skin",
-    "Extendable wrist tentacles"
+    "Protective skin"
   ],
   "ranking": {
     "comicCount": 38,

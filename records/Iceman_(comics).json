@@ -16,8 +16,8 @@
     "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/537bb11d2bd79.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/52696c836898c/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
@@ -31,15 +31,12 @@
     "Thermokinesis",
     "Cryokinesis",
     "Hydrokinesis",
-    "Molecular moisture inversion",
     "Conversion",
     "Thermal vision",
     "Augmented strength",
     "Durability",
-    "Causes water vapor to freeze",
     "Generating ice",
     "Snow",
-    "Transformation of body into solid ice",
     "Superhuman strength",
     "Durability in ice form"
   ],
@@ -52,13 +49,14 @@
     "storyCount": 466
   },
   "secretIdentities": [
-    "Robert Louis \"Bobby\" Drake"
+    "Robert Louis Drake",
+    "Bobby"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "Apocalypse: The Twelve",
+    "The Twelve",
     "X-Terminators",
     "Defenders",
     "X-Factor",
@@ -67,7 +65,6 @@
     "Cataclysm Keys",
     "Champions",
     "All-New X-Men",
-    "The Twelve",
     "Secret Defenders",
     "Jean Grey School",
     "All New X-Men"

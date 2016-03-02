@@ -10,14 +10,13 @@
   "description": "Phone Ranger is a superhero in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Phone Ranger",
   "partners": [
   ],
   "powers": [
-    "Can interface to any telecommunications system"
   ],
   "ranking": {
     "comicCount": 0,

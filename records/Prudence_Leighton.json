@@ -11,15 +11,13 @@
   "description": "Prudence Leighton is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Quiet Man",
   "partners": [
   ],
   "powers": [
-    "Prudence: telepath capable of projecting her consciousness into the body of other women",
-    "Steinbeck: pyrokinetic capable of spewing flames from his throat"
   ],
   "ranking": {
     "comicCount": 0,

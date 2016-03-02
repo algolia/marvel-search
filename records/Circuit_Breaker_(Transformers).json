@@ -1,9 +1,8 @@
 {
   "aliases": [
     "Emulator",
-    "\"Sephie\"",
-    "Circuit Breaker",
-    "Circuit Breaker (Transformers)"
+    "Sephie",
+    "Circuit Breaker"
   ],
   "authors": [
     "Marvel Comics"
@@ -12,17 +11,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Circuitbreaker-autobots.jpg/200px-Circuitbreaker-autobots.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Circuit Breaker",
   "partners": [
   ],
   "powers": [
-    "Her suit allows her to disrupt a robot's circuitry",
     "Causing it to malfunction",
-    "Break down.",
-    "Her suit allows her to disrupt a",
+    "Break down",
     "Robot",
     "'s",
     "Circuitry"
@@ -36,10 +33,12 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Josephine \"Josie\" Beller"
+    "Josephine Beller",
+    "Josie"
   ],
   "species": [
-    "Human, Anti-Robot"
+    "Human",
+    "Anti-Robot"
   ],
   "teams": [
     "The Transformers",

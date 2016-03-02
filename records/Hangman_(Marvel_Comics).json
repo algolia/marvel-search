@@ -11,20 +11,16 @@
   "description": "Hangman is the name of two fictional characters in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hangman",
   "partners": [
   ],
   "powers": [
-    "Climb rope without attaching it",
     "Mind-link with satannish",
     "Skilled in use of rope",
-    "Scythe",
-    "Magically enhanced physical attributes",
-    "Virtually indestructible rope",
-    "Extensive knowledge of american cinema"
+    "Scythe"
   ],
   "ranking": {
     "comicCount": 0,

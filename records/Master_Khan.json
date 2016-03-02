@@ -9,8 +9,8 @@
   "description": "Master Khan is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Master Khan",
   "partners": [

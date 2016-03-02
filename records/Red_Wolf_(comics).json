@@ -16,8 +16,8 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Red Wolf",
   "partners": [
@@ -26,12 +26,10 @@
     "Adept combat gymnast",
     "Superhuman strength",
     "Sensory acuity",
-    "Expert marksman with throwing weapons",
     "Experienced wrestler",
     "Expert tracker",
     "Skilled animal trainer",
     "Superb archer",
-    "Highly skilled hand-to-hand combatant",
     "Tracker"
   ],
   "ranking": {
@@ -43,7 +41,6 @@
     "storyCount": 13
   },
   "secretIdentities": [
-    "-William Talltrees",
     "Thomas Thunderhead",
     "Johnny Wakely",
     "Wilrun",

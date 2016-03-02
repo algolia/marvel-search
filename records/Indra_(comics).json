@@ -10,15 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Indra_%28NXM%29.jpg/250px-Indra_%28NXM%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Indra",
   "partners": [
   ],
   "powers": [
-    "Retractable armored plates",
-    "Psionic matter manifestation"
   ],
   "ranking": {
     "comicCount": 0,

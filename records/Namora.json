@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Namora"
+    "Namora",
+    "actual identities the character uses"
   ],
   "authors": [
     "Ken Bald",
@@ -12,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c003d248f331/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Namora",
   "partners": [
@@ -23,10 +24,7 @@
     "Limited invulnerability",
     "Swim at superhuman speeds",
     "Air",
-    "Slowed aging process",
-    "Wings-like appendages on her ankles that allow her to fly.",
-    "Durability invulnerability",
-    "Wings-like appendages on her ankles allow her to fly"
+    "Slowed aging process"
   ],
   "ranking": {
     "comicCount": 35,
@@ -49,7 +47,7 @@
     "Agents of Atlas",
     "Monster Hunters",
     "Renegades",
-    "\"Avengers\" (1959)"
+    "Avengers\" (1959)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1561/namora",

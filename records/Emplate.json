@@ -13,21 +13,19 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bb3bcffb8325/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Emplate",
   "partners": [
-    "D.O.A.",
+    "D.O.A",
     "Chimera"
   ],
   "powers": [
     "Invisibility",
     "Interdimensional travel",
     "Density control",
-    "Able to transform others into beings like himself through vampire-like infection",
-    "Fanged mouths in the palms of hands",
-    "\"read\" mutant auras"
+    "Read\" mutant auras"
   ],
   "ranking": {
     "comicCount": 2,

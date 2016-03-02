@@ -2,7 +2,7 @@
   "aliases": [
     "James Doe",
     "the Skrull",
-    "Skymax.",
+    "Skymax",
     "Skrullian Skymaster"
   ],
   "authors": [
@@ -11,8 +11,8 @@
   "description": "The Skrullian Skymaster is a fictional comic book superhero appearing in books published by Marvel Comics, usually those featuring the Squadron Supreme, a superhero team of which Skymaster is a member.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Skrullian Skymaster",
   "partners": [
@@ -22,10 +22,8 @@
     "Fire projection",
     "Elasticity",
     "Accomplished pilot",
-    "Superhuman strength greater than a normal skrull",
     "Flight",
     "Invisibility",
-    "Excellent hand-to-hand combatant",
     "Telepathy"
   ],
   "ranking": {

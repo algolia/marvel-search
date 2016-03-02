@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Spider-Verse_Spider-Men.jpg/250px-Spider-Verse_Spider-Men.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Alternative versions of Spider-Man",
   "partners": [

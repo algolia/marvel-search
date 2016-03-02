@@ -9,14 +9,13 @@
   "description": "Sirocco is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sirocco",
   "partners": [
   ],
   "powers": [
-    "Create funnels of air that can be used to pick things up or strike enemies with concussive force."
   ],
   "ranking": {
     "comicCount": 0,

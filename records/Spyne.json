@@ -7,14 +7,14 @@
   "description": "Spyne is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Spyne",
   "partners": [
   ],
   "powers": [
-    "Spiked tail.",
+    "Spiked tail",
     "Hyper keen senses",
     "Reptilian body",
     "Superhuman strength",

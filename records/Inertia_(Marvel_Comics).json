@@ -14,14 +14,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/60/4c0030f6eab3d/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Inertia",
   "partners": [
   ],
   "powers": [
-    "Transfer kinetic energy into object or person",
     "Transfer",
     "Kinetic energy",
     "Into object or person"

@@ -3,8 +3,7 @@
     "The Void",
     "Death",
     "The Sentry",
-    "Sentry",
-    "Sentry (Robert Reynolds)"
+    "Sentry"
   ],
   "authors": [
     "Jae Lee",
@@ -18,7 +17,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/52695b1392c78/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sentry (Robert Reynolds)",
   "partners": [

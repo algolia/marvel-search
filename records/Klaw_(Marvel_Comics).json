@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/526034e1c6ede/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Klaw",
   "partners": [
@@ -42,7 +42,7 @@
     "Masters of Evil",
     "Fearsome Foursome",
     "Frightful Four",
-    "A.I.M."
+    "A.I.M"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009390/klaw",

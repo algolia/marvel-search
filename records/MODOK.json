@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/eb/Modok.PNG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "MODOK",
   "partners": [
@@ -22,8 +22,7 @@
     "Superhuman intellect",
     "Psionic powers",
     "Psionic",
-    "Powers",
-    "Exceptional ability to calculate probabilities"
+    "Powers"
   ],
   "ranking": {
     "comicCount": 0,

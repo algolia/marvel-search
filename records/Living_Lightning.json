@@ -5,9 +5,8 @@
   ],
   "authors": [
     "Dann Thomas",
-    "Paul Ryan (cartoonist)",
-    "Roy Thomas",
-    "Paul Ryan"
+    "Paul Ryan",
+    "Roy Thomas"
   ],
   "description": "Living Lightning (Miguel Santos) is a fictional character, a superhero from the Marvel Universe.",
   "images": {
@@ -15,14 +14,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0035c72cc26/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Living Lightning",
   "partners": [
   ],
   "powers": [
-    "Flight at sub-light speeds",
     "Electrical manipulation",
     "Skilled street fighter"
   ],

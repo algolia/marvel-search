@@ -9,8 +9,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Massacre%2C_as_he_appears_on_the_cover_of_Superior_Spider-Man.jpg/204px-Massacre%2C_as_he_appears_on_the_cover_of_Superior_Spider-Man.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Massacre",
   "partners": [

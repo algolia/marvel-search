@@ -9,14 +9,13 @@
   "description": "Margaret Slade is a fictional character and mutant in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Margaret Slade",
   "partners": [
   ],
   "powers": [
-    "Limited molecular rearrangement"
   ],
   "ranking": {
     "comicCount": 0,

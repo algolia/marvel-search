@@ -12,20 +12,16 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hemingway",
   "partners": [
   ],
   "powers": [
-    "Exoskeletal mutation gives him razor-sharp bony protrusion from his back",
-    "Arms that can be used for weapons",
-    "Greatly increase his size to immense proportions",
     "Superhuman strength",
     "Durability",
     "Exoskeletal",
-    "Mutation gives him razor-sharp bony protrusion from his back",
     "Superhuman",
     "Strength"
   ],

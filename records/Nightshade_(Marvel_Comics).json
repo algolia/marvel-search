@@ -16,8 +16,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/CaptainAmerica164.jpg/200px-CaptainAmerica164.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nightshade",
   "partners": [
@@ -25,15 +25,9 @@
   ],
   "powers": [
     "Extraordinary genius",
-    "Wears protective battle armor",
     "Including silver spikes",
-    "Array of advanced weaponry",
     "Humanoid robots",
-    "Chemical serum that turns humans into werewolves",
-    "Chemical pheromones in her body allows her to affect the will of certain animals",
-    "Including werewolves",
-    "Use of concentrated pheromones to control men through her allure",
-    "A chemical serum that turns humans into werewolves"
+    "Including werewolves"
   ],
   "ranking": {
     "comicCount": 0,

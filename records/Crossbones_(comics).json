@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4c00405a403c0/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Crossbones",
   "partners": [
@@ -25,14 +25,10 @@
     "Red Skull (Albert Malik)"
   ],
   "powers": [
-    "Master hand-to-hand combatant",
     "Skilled pilot",
     "Driver",
     "Expert marksman",
-    "Brilliant military tactician",
-    "Strategist",
-    "Mastery of various weapons",
-    "Highly skilled hand-to-hand combatant"
+    "Strategist"
   ],
   "ranking": {
     "comicCount": 35,

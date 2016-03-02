@@ -14,8 +14,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/The_wizard.jpg/250px-The_wizard.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Wizard",
   "partners": [
@@ -26,9 +26,7 @@
     "Mind control via helmet",
     "Genius-level intellect",
     "Master of disguise",
-    "Use of anti-gravity disks",
-    "Electrical blasts from power gloves",
-    "Electrical blasts via power gloves"
+    "Use of anti-gravity disks"
   ],
   "ranking": {
     "comicCount": 0,

@@ -10,14 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Wot6.jpg/250px-Wot6.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bloodhawk",
   "partners": [
   ],
   "powers": [
-    "Transmorph into hawk-like form",
     "Accelerated healing",
     "Heightened senses",
     "Flight",

@@ -15,7 +15,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a9/Agent_X_03_Udon_Studios.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Agent X (Nijo)",
   "partners": [
@@ -27,9 +27,7 @@
     "Reflexes&reactions",
     "Coordination",
     "Endurance",
-    "Regenerative healing factor",
-    "Expert marksman",
-    "Subconscious telepathic blocking"
+    "Expert marksman"
   ],
   "ranking": {
     "comicCount": 10,

@@ -17,8 +17,8 @@
     "banner": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/537ba19573285.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/511a79a0451a3/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
@@ -52,7 +52,8 @@
     "storyCount": 618
   },
   "secretIdentities": [
-    "Henry Philip \"Hank\" McCoy"
+    "Henry Philip McCoy",
+    "Hank"
   ],
   "species": [
     "Mutant"
@@ -60,7 +61,7 @@
   "teams": [
     "X-Men",
     "X-Club",
-    "S.W.O.R.D.",
+    "S.W.O.R.D",
     "Xavier Institute For Higher Learning",
     "Avengers",
     "Defenders",

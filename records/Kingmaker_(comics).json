@@ -17,18 +17,15 @@
   "description": "The Kingmaker is the name of three Marvel Comics characters.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kingmaker",
   "partners": [
   ],
   "powers": [
     "Memory manipulation",
-    "Unknown",
-    "Has access to high-tech personal equipment",
-    "A network of powerful associates.",
-    "Unknown; has access to high-tech personal equipment"
+    "Unknown"
   ],
   "ranking": {
     "comicCount": 0,

@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Prester John"
+    "Prester John",
+    "actual identities the character uses"
   ],
   "authors": [
     "Jack Kirby",
@@ -9,17 +10,15 @@
   "description": "Prester John is a fictional character appearing in the Marvel Comics universe, based loosely on the mythical Christian king Prester John.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Prester John",
   "partners": [
   ],
   "powers": [
     "Concussive energy blasts",
-    "Force fields via stellar rod",
     "Superhuman strength",
-    "Durability via stone of power",
     "Evil eye"
   ],
   "ranking": {

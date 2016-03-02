@@ -13,15 +13,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4dd531d26079c/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Guardian",
   "partners": [
   ],
   "powers": [
     "Personal force field",
-    "Physical attributes enhanced to peak of human potential",
     "Flight"
   ],
   "ranking": {
@@ -33,6 +32,7 @@
     "storyCount": 27
   },
   "secretIdentities": [
+    "James MacDonald Hudson, Jr.",
     "James MacDonald Hudson",
     "Jr."
   ],

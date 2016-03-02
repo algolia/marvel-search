@@ -13,8 +13,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/29/Centuryfw5.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Century",
   "partners": [
@@ -28,11 +28,8 @@
     "Durability",
     "Martial arts expert",
     "Teleportation",
-    "Intelligence greater than any other individual",
-    "Expert hand to hand combatant",
     "Greatly enhanced strength",
     "Endurance",
-    "Interdimensional space teleportation via staff",
     "Longevity"
   ],
   "ranking": {

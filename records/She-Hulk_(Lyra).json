@@ -2,8 +2,7 @@
   "aliases": [
     "Lyra Walters",
     "She-Hulk",
-    "Lyra",
-    "She-Hulk (Lyra)"
+    "Lyra"
   ],
   "authors": [
     "Mitch Breitweiser",
@@ -17,7 +16,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/523214b8ea2cf/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": {
     "blue": 11,
     "green": 37,
@@ -34,12 +33,10 @@
     "Stamina",
     "Durability",
     "Healing factor",
-    "Expert hand to hand combatant",
     "Killer",
     "Vast superhuman strength",
     "Superhuman speed",
     "Great leaping",
-    "Immunity to the",
     "Venom symbiote",
     "Knowledge of future tech",
     "History"
@@ -60,10 +57,10 @@
   "teams": [
     "Defenders",
     "The Sisterhood",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Frightful Four",
     "Avengers Academy",
-    "A.R.M.O.R."
+    "A.R.M.O.R"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/51/she-hulk",

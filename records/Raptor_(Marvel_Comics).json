@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Brenda Drago",
-    "Gary Wilton",
-    "Jr.",
+    "Gary Wilton, Jr.",
     "Damon Ryder",
     "Raptor"
   ],
@@ -16,7 +15,7 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Raptor_%28Gary_Wilton_Jr%29.jpg/200px-Raptor_%28Gary_Wilton_Jr%29.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": false,
   "mainColor": null,
   "name": "Raptor",
@@ -27,15 +26,11 @@
     "Speed",
     "Senses",
     "Endurance",
-    "Carries a pair of submachine guns",
     "Skilled geneticist",
-    "Shapeshifter that can transform himself into bird-like form",
     "Superhuman strength",
     "Durability",
-    "High speed flight via artificial wings",
     "Flight",
     "Fangs",
-    "Wings also used as bladed weapons",
     "High-level intellect"
   ],
   "ranking": {
@@ -49,6 +44,7 @@
   "secretIdentities": [
     "Damon Ryder",
     "Brenda Drago",
+    "Gary Wilton, Jr.",
     "Gary Wilton",
     "Jr."
   ],

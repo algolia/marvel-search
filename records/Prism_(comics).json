@@ -11,17 +11,16 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Prism",
   "partners": [
   ],
   "powers": [
-    "Crystalline body which enables him to absorb",
     "Reflect",
     "Amplify beams of light",
-    "Energy."
+    "Energy"
   ],
   "ranking": {
     "comicCount": 3,

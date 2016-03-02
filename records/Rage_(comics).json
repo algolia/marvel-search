@@ -7,7 +7,6 @@
   ],
   "authors": [
     "Larry Hama",
-    "Paul Ryan (cartoonist)",
     "Paul Ryan"
   ],
   "description": "Rage (Elvin Daryl Haliday, sometimes misspelled \"Holliday\", first name sometimes given as \"Eldon\") is a fictional character, a comic book superhero in the Marvel Comics universe.",
@@ -16,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4c0035e72e3d8/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Rage",
   "partners": [
@@ -49,7 +48,6 @@
     "Avengers",
     "Psionex",
     "New Warriors",
-    "Avengers: The Initiative",
     "The Initiative"
   ],
   "urls": {

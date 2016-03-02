@@ -12,22 +12,16 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6c/ArkonC.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Arkon",
   "partners": [
     "Enchantress"
   ],
   "powers": [
-    "Accelerated healing factor",
-    "Cunning military strategist",
-    "Rides on various dinosaur-like mounts",
-    "Extraordinary hand-to-hand combatant",
     "Swordsman",
-    "Possesses three lightning-shaped energy weapons",
     "A shield",
-    "Highly skilled with throwing weapons",
     "Superhuman strength",
     "Speed",
     "Agility",

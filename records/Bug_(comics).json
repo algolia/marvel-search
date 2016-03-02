@@ -15,17 +15,14 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c00323e50dda/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bug",
   "partners": [
   ],
   "powers": [
-    "Enhanced peripheral vision via helmet",
     "Exceptional agility",
-    "Extraordinary sight",
-    "Heightened sensory awareness with a limited degree of danger sense",
-    "Communication with others bearing antennae"
+    "Extraordinary sight"
   ],
   "ranking": {
     "comicCount": 2,
@@ -40,9 +37,8 @@
   "species": [
   ],
   "teams": [
-    "Guardians of the Galaxy (2008 team)",
-    "Micronauts",
-    "Guardians of the Galaxy"
+    "Guardians of the Galaxy",
+    "Micronauts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/364/bug",

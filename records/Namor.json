@@ -17,8 +17,8 @@
     "banner": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/537bb802b44f3.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/50febf4ae101d/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 40,
     "green": 38,
@@ -35,11 +35,7 @@
     "Agility",
     "Reflexes",
     "Mild invulnerability",
-    "Flight via the tiny wings on his ankles",
-    "Telepathic control over sea creatures",
-    "Able to copy the powers of sea creatures",
-    "Aquatic adaptation",
-    "Flight via tiny wings on his ankles"
+    "Aquatic adaptation"
   ],
   "ranking": {
     "comicCount": 22,
@@ -60,7 +56,7 @@
     "Defenders",
     "Invaders",
     "Heroes for Hire/Oracle",
-    "Inc.",
+    "Inc",
     "Illuminati",
     "Dark X-Men",
     "X-Men",
@@ -72,7 +68,7 @@
     "Avengers",
     "The Cabal",
     "Heroes for Hire",
-    "/Oracle, Inc.",
+    "Oracle, Inc",
     "Phoenix Five"
   ],
   "urls": {

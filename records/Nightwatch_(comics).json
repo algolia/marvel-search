@@ -8,8 +8,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/67/Nightwatch_HCV.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nightwatch",
   "partners": [

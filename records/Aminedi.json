@@ -10,15 +10,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/bc/Aminedi_001.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Aminedi",
   "partners": [
   ],
   "powers": [
-    "Can transform himself into air particles",
-    "Superhuman speed."
+    "Superhuman speed"
   ],
   "ranking": {
     "comicCount": 0,

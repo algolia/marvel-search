@@ -14,7 +14,7 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c003c337aff5/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Selene",
@@ -30,9 +30,6 @@
     "Telekinesis",
     "Telepathy",
     "Animation",
-    "Control of non-living materials",
-    "Superhuman physical attributes",
-    "Extensive magical knowledge",
     "Powers",
     "Flame manipulation",
     "Reality warping"

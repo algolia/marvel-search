@@ -12,20 +12,17 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Killer Shrike",
   "partners": [
   ],
   "powers": [
     "Resistance to injury",
-    "Electrical bolt projection via twin power-blasters",
     "Possesses various weapons",
     "Flight",
-    "Expert hand to hand combatant",
-    "Martial artist",
-    "Enhanced physical attributes"
+    "Martial artist"
   ],
   "ranking": {
     "comicCount": 0,

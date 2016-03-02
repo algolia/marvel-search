@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/535feaa671cc6/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ghost Rider (Daniel Ketch)",
   "partners": [
@@ -26,25 +26,19 @@
     "Reflexes",
     "Endurance",
     "Durability",
-    "Enchanted hellfire shotgun",
-    "\"penance stare\"",
+    "Penance stare",
     "Resurrection",
     "Immortality",
     "Ethereal flame",
     "Along any surface",
-    "Accelerated healing factor",
-    "Enchanted hellfire motorcycle",
     "Regeneration",
     "Enchanted hellfire chain",
     "Invulnerability to fire",
     "Heat",
     "Lava",
     "Flames",
-    "Immense superhuman strength",
     "Motorcycle",
-    "Shotgun",
-    "Penance stare",
-    "Travel between interdimensional realms"
+    "Shotgun"
   ],
   "ranking": {
     "comicCount": 13,
@@ -57,8 +51,6 @@
   "secretIdentities": [
     "Alejandra",
     "Ghost Rider",
-    "Ghost Rider (Danny Ketch)",
-    "Ghost Rider (Johnny Blaze)",
     "Phantom Rider",
     "Carter Slade",
     "Johnny Blaze",

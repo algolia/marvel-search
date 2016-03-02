@@ -14,15 +14,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Secret_Warriors_22_textless.jpg/250px-Secret_Warriors_22_textless.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Daisy Johnson",
   "partners": [
   ],
   "powers": [
     "Earthquake generation",
-    "Immunity to the harmful effects of the vibrations",
     "Psychic shielding"
   ],
   "ranking": {
@@ -40,7 +39,7 @@
   ],
   "teams": [
     "Secret Warriors",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Avengers"
   ],
   "urls": {

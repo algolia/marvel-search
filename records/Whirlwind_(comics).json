@@ -14,8 +14,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4c7c643e59215/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Whirlwind",
   "partners": [
@@ -27,10 +27,8 @@
     "Balance",
     "Wears full body armor",
     "Create small tornadoes",
-    "Use of two hardened tool-steel sawblades mounted on his wrists",
     "Throwing shuriken",
     "Razor sharp jacks",
-    "Focus air currents into a jet stream",
     "A windscreen"
   ],
   "ranking": {

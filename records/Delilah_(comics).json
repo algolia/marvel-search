@@ -9,17 +9,16 @@
   "description": "Delilah is a fictional Marvel Comics character, a Spider-Man villain from the 1990s and an enforcer of the Rose.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Delilah",
   "partners": [
   ],
   "powers": [
-    "Skilled in hand to hand combat & martial arts",
     "Superhuman strength",
     "Stamina",
-    "Agility."
+    "Agility"
   ],
   "ranking": {
     "comicCount": 0,

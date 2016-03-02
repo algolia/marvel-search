@@ -9,16 +9,14 @@
   "description": "Diamanda Nero is a fictional character, a Marvel Comics supervillain.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Diamanda Nero",
   "partners": [
   ],
   "powers": [
-    "Duplicates the powers of those who die close to her",
     "Enhanced speed",
-    "Indestructible exoesqueleton",
     "Poisonous claws",
     "Telepathic immunity",
     "Genetic lycanthropy",

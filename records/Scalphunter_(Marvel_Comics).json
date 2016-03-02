@@ -13,16 +13,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4ce5a473b81b3/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Scalphunter",
   "partners": [
   ],
   "powers": [
-    "Accelerated healing factor",
-    "Technomorphic powers allow him to control",
-    "Manipulate mechanical constructs into any configuration he desires",
     "Master marksmanship"
   ],
   "ranking": {

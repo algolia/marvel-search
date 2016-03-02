@@ -12,16 +12,15 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Pestilence",
   "partners": [
   ],
   "powers": [
     "Adapt to",
-    "Absorb any disease",
-    "Then spread it through touch"
+    "Absorb any disease"
   ],
   "ranking": {
     "comicCount": 9,

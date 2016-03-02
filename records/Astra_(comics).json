@@ -11,14 +11,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Astrawiki.jpg/185px-Astrawiki.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Astra",
   "partners": [
   ],
   "powers": [
-    "Interstellar teleportation",
     "Density alteration"
   ],
   "ranking": {

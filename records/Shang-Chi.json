@@ -1,9 +1,8 @@
 {
   "aliases": [
     "Master of Kung-Fu",
-    "Shang-Chi: Master of Kung Fu",
-    "Shang-Chi",
-    "Prologue from Master of Kung Fu:"
+    "Master of Kung Fu",
+    "Shang-Chi"
   ],
   "authors": [
     "Steve Englehart",
@@ -16,14 +15,13 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Shang-Chi.jpg/250px-Shang-Chi.jpg"
   },
   "isHero": false,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shang-Chi (Ultimate)",
   "partners": [
   ],
   "powers": [
-    "Superb athlete",
-    "Expert practitioner of the chinese martial arts"
+    "Superb athlete"
   ],
   "ranking": {
     "comicCount": 3,
@@ -45,8 +43,7 @@
     "Avengers",
     "Secret Intelligence Service",
     "Secret Avengers",
-    "MI-6",
-    "\"Marvel Knights\""
+    "MI-6"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2066/shang-chi",

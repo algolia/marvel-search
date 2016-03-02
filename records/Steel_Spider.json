@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Steelspider.jpg/250px-Steelspider.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Steel Spider",
   "partners": [
@@ -21,8 +21,6 @@
   "powers": [
     "Genius intelligence",
     "Gifted inventor",
-    "Wears mechanical spider legs",
-    "Gauntlets containing a grappling hook launcher",
     "Pepper spray blasters"
   ],
   "ranking": {
@@ -34,7 +32,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Oliver \"Ollie\" Osnick"
+    "Oliver Osnick",
+    "Ollie"
   ],
   "species": [
   ],

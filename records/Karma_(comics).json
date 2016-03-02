@@ -12,15 +12,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/00/50febe78aacca/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Karma",
   "partners": [
   ],
   "powers": [
     "Psychic possession",
-    "Protection from mental attacks",
     "Telepathy"
   ],
   "ranking": {

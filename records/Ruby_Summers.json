@@ -11,14 +11,13 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/15/Ruby_Summers.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ruby Summers",
   "partners": [
   ],
   "powers": [
-    "Optic force beams",
-    "Capable of shapeshifting into a ruby form"
+    "Optic force beams"
   ],
   "ranking": {
     "comicCount": 0,

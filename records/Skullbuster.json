@@ -13,15 +13,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c003c072eb58/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Skullbuster (Cylla Markham)",
   "partners": [
   ],
   "powers": [
     "Cybernetic body",
-    "Robotic weaponry."
+    "Robotic weaponry"
   ],
   "ranking": {
     "comicCount": 3,

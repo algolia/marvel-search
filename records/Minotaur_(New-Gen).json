@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Minotaur",
-    "Mini",
-    "Minotaur (New-Gen)"
+    "Mini"
   ],
   "authors": [
     "Julia Coppola",
@@ -14,13 +13,12 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Minatour_new_gen.jpg/250px-Minatour_new_gen.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mini",
   "partners": [
   ],
   "powers": [
-    "Anthropomorphic bovine form",
     "Super-strength",
     "Superhuman durability"
   ],
@@ -33,13 +31,12 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "None"
   ],
   "species": [
     "Former Human"
   ],
   "teams": [
-    "A.P.N.G.",
+    "A.P.N.G",
     "Gabriel",
     "A.P.N.G., Gabriel"
   ],

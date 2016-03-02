@@ -11,15 +11,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Ulgeldoff.jpg/150px-Ulgeldoff.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Geldoff",
   "partners": [
   ],
   "powers": [
-    "Can generate",
-    "Discharge explosive energy balls"
+    "Can generate"
   ],
   "ranking": {
     "comicCount": 0,

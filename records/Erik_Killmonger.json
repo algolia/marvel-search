@@ -9,8 +9,8 @@
   "description": "Erik Killmonger is a fictional supervillain published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Erik Killmonger",
   "partners": [

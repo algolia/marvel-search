@@ -13,8 +13,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Candra.JPG/248px-Candra.JPG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Candra",
   "partners": [
@@ -22,7 +22,6 @@
   "powers": [
     "Pyrokinesis",
     "Slowed aging process",
-    "Accelerated healing factor",
     "Psychokinesis",
     "Telekinesis",
     "Accelerated",

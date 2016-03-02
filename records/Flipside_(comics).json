@@ -8,8 +8,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Flipside_%28Spider-Man_2099%29.jpg/250px-Flipside_%28Spider-Man_2099%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Flipside",
   "partners": [

@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/50/4c003ab716add/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sunspot",
   "partners": [
@@ -27,12 +27,8 @@
     "Super strength",
     "Flight",
     "Projection of heat",
-    "Light as concussive blasts or in a stream of fiery rain",
-    "Forge a telepathic link with genetic host.",
-    "Rechanneling; super strength; flight; projection of heat",
-    "Light as concussive blasts or in a stream of fiery rain; forge a",
     "Telepathic link",
-    "With genetic host."
+    "With genetic host"
   ],
   "ranking": {
     "comicCount": 151,

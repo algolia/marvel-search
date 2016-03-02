@@ -1,20 +1,20 @@
 {
   "aliases": [
+    "Carson Collier, Jr.",
+    "Enforcer",
     "Carson Collier",
-    "Jr.",
-    "Enforcer"
+    "Jr."
   ],
   "authors": [
     "Gerry Conway",
     "Don Glut",
-    "and Don Heck",
     "Don Heck"
   ],
   "description": "Enforcer is the name of two fictional characters in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Enforcer",
   "partners": [
@@ -30,6 +30,7 @@
     "storyCount": 0
   },
   "secretIdentities": [
+    "Charles L. Delazny, Jr.",
     "Charles L. Delazny",
     "Jr."
   ],

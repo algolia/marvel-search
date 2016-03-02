@@ -336,8 +336,6 @@ describe('HelperDBPedia', () => {
     });
   });
 
-
-
   describe('getAuthors', () => {
     it('should understand "A and B"', () => {
       // Given
@@ -483,11 +481,26 @@ describe('HelperDBPedia', () => {
       expect(actual).toEqual(['John Romita, Sr.']);
     });
 
+    it('should handle John Romita, Sr., even in urls', () => {
+      // Given
+      let input = {
+        property: {
+          creators: 'http://dbpedia.org/resource/John_Romita,_Sr.'
+        }
+      };
+
+      // When
+      let actual = Helper.getAuthors(input);
+
+      // Then
+      expect(actual).toEqual(['John Romita, Sr.']);
+    });
+
     it('should remove (writer) from names', () => {
       // Given
       let input = {
         property: {
-          creators: 'John Francis Moore (writer)'
+          creators: 'http://dbpedia.org/resource/John_Francis_Moore_(writer)'
         }
       };
 
@@ -496,6 +509,21 @@ describe('HelperDBPedia', () => {
 
       // Then
       expect(actual).toEqual(['John Francis Moore']);
+    });
+
+    it('should accept DBPedia urls', () => {
+      // Given
+      let input = {
+        property: {
+          creators: 'http://dbpedia.org/resource/Bret_Blevins'
+        }
+      };
+
+      // When
+      let actual = Helper.getAuthors(input);
+
+      // Then
+      expect(actual).toEqual(['Bret Blevins']);
     });
   });
 
@@ -528,6 +556,28 @@ describe('HelperDBPedia', () => {
 
       // Then
       expect(actual).toEqual(['Superhuman strength', 'stamina']);
+    });
+
+    it('should remove entries that are too long', () => {
+      // Given
+      let input = {
+        property: {
+          powers: [
+            'Allows him to slip through the grips of others',
+            'Foo',
+            'Wears a personal force field which can protect him from most harm',
+            'Bar',
+            "I'm actually writing a full novel in those entries",
+            'Baz'
+          ]
+        }
+      };
+
+      // When
+      let actual = Helper.getPowers(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
     });
 
     it('should cleanup * for bullets', () => {
@@ -579,6 +629,21 @@ describe('HelperDBPedia', () => {
 
       // Then
       expect(actual).toEqual(['Super strength', 'Invulnerability']);
+    });
+
+    it('should accept DBPedia urls', () => {
+      // Given
+      let input = {
+        property: {
+          powers: 'http://dbpedia.org/resource/Psychometry'
+        }
+      };
+
+      // When
+      let actual = Helper.getPowers(input);
+
+      // Then
+      expect(actual).toEqual(['Psychometry']);
     });
 
     it('should remove lines that specify what an armor or uniform grants', () => {
@@ -1046,6 +1111,20 @@ describe('HelperDBPedia', () => {
       // Then
       expect(actual).toEqual(true);
     });
+
+    it('should return null if no such entry', () => {
+      // Given
+      let input = {
+        property: {
+        }
+      };
+
+      // When
+      let actual = Helper.isVillain(input);
+
+      // Then
+      expect(actual).toEqual(null);
+    });
   });
 
   describe('isHero', () => {
@@ -1062,6 +1141,20 @@ describe('HelperDBPedia', () => {
 
       // Then
       expect(actual).toEqual(true);
+    });
+
+    it('should return null if no such entry', () => {
+      // Given
+      let input = {
+        property: {
+        }
+      };
+
+      // When
+      let actual = Helper.isHero(input);
+
+      // Then
+      expect(actual).toEqual(null);
     });
   });
 
@@ -1346,7 +1439,7 @@ describe('HelperDBPedia', () => {
       expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
     });
 
-    it('should split on " and "', () => {
+    it('should split on "and"', () => {
       // Given
       let input = {
         property: {

@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/53176ba52dea1/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Doctor Doom (Ultimate)",
   "partners": [
@@ -24,7 +24,6 @@
     "Flight via rocket pack",
     "Protective force fields",
     "Genius-level intellect",
-    "Nanomachines in blood allow for cyberpathy",
     "Healing",
     "Wide array of sensors",
     "Scanners",
@@ -34,9 +33,7 @@
     "Nanomachines",
     "In blood that allow",
     "Cyberpathy",
-    "Wears a custom-designed suit of",
-    "Powered armor",
-    "Energy blast projection via gauntlets"
+    "Powered armor"
   ],
   "ranking": {
     "comicCount": 5,

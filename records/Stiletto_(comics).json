@@ -9,8 +9,8 @@
   "description": "Stiletto (Tom Stuart) is a fictional character in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Stiletto",
   "partners": [
@@ -18,9 +18,7 @@
     "Discus"
   ],
   "powers": [
-    "Uses throwing knives as weapons",
     "Other assorted weaponry",
-    "Wears wrist devices that shoot small blades",
     "Use of knives"
   ],
   "ranking": {

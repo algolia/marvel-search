@@ -11,14 +11,13 @@
   "description": "Blackwing is the name of two fictional Marvel Comics supervillains and one hero.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Blackwing",
   "partners": [
   ],
   "powers": [
-    "Short distanced flight via directed motion hovering",
     "Expert bat trainer",
     "Specially mutated bats",
     "Skilled marksman"

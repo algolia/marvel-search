@@ -1,6 +1,6 @@
 {
   "aliases": [
-    "\"Son of the Hunter\"",
+    "Son of the Hunter",
     "Grim Hunter"
   ],
   "authors": [
@@ -10,8 +10,8 @@
   "description": "Grim Hunter is a fictional character, a supervillain in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Grim Hunter",
   "partners": [
@@ -36,7 +36,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Vladimir \"Vlad\" Kravinoff"
+    "Vladimir Kravinoff",
+    "Vlad"
   ],
   "species": [
   ],

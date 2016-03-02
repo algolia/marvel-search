@@ -13,7 +13,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Mahr-Vehl.jpg/250px-Mahr-Vehl.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Captain Mahr Vehll",
   "partners": [
@@ -24,8 +24,7 @@
     "Energy shields",
     "Projection",
     "Invisibility",
-    "Combat training",
-    "Extensive knowledge of physics"
+    "Combat training"
   ],
   "ranking": {
     "comicCount": 0,
@@ -42,7 +41,7 @@
   ],
   "teams": [
     "Kree Empire",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Kree",
     "Empire"
   ],

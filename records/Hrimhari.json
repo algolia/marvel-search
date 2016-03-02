@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Hrimhari"
+    "Hrimhari",
+    "actual identities the character uses"
   ],
   "authors": [
     "Chris Claremont",
@@ -11,13 +12,12 @@
   "images": {
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hrimhari",
   "partners": [
   ],
   "powers": [
-    "Grey wolf with various in between forms",
     "Shapeshift",
     "Between human"
   ],

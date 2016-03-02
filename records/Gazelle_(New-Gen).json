@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Gazelle",
-    "Gazelle (New-Gen)"
+    "Gazelle"
   ],
   "authors": [
     "J.D. Matonti",
@@ -13,14 +12,13 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Gazelle_new_gen.jpg/200px-Gazelle_new_gen.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Gazelle",
   "partners": [
   ],
   "powers": [
-    "Speedster (fiction)",
-    "Anthropomorphic gazelle-like form",
+    "Speedster",
     "Enhanced reflexes",
     "Anthropomorphic",
     "Gazelle-like",
@@ -42,7 +40,7 @@
     "Human"
   ],
   "teams": [
-    "A.P.N.G.",
+    "A.P.N.G",
     "Gabriel",
     "A.P.N.G., Gabriel"
   ],

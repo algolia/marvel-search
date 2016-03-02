@@ -9,15 +9,14 @@
   "description": "Forbush Man (spelled Forbush-Man in his early appearances), is a fictional character published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Forbush Man",
   "partners": [
   ],
   "powers": [
-    "Forbush vision",
-    "Forbush vision (shows the recipient a hell of their own creation)"
+    "Forbush vision"
   ],
   "ranking": {
     "comicCount": 0,

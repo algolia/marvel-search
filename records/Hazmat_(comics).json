@@ -7,8 +7,8 @@
   "description": "Hazmat is a fictional character appearing in comic books from Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hazmat",
   "partners": [

@@ -14,7 +14,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4c003727804b4/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Machine Man",
   "partners": [
@@ -22,7 +22,6 @@
   "powers": [
     "Telescoping arms",
     "Legs",
-    "Flight by usage of anti-gravity disks",
     "Various installed weapons",
     "Superhuman strength",
     "Speed",
@@ -49,15 +48,15 @@
   ],
   "teams": [
     "Civil War",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Ancient Order of the Shield",
-    "Operation: Lightning Storm",
+    "Lightning Storm",
     "Avengers",
     "West Coast Avengers",
     "Nextwave",
     "Secret Avengers (Civil War)",
     "Heavy Metal",
-    "A.R.M.O.R."
+    "A.R.M.O.R"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1306/machine_man",

@@ -10,15 +10,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/American_Dream_%28Shannon_Carter%29.jpg/200px-American_Dream_%28Shannon_Carter%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "American Dream",
   "partners": [
   ],
   "powers": [
     "Superb aim",
-    "Possesses an indestructible shield",
     "Disc weapons",
     "Peak physical condition",
     "Olympic level athlete",

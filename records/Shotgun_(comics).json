@@ -12,15 +12,13 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shotgun",
   "partners": [
   ],
   "powers": [
-    "Highly skilled hand-to-hand combatant",
-    "Use of a high-powered recoilless rifle",
     "One-man tank",
     "Wears body armor",
     "Expert marksman"

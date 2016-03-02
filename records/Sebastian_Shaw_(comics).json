@@ -15,19 +15,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c003c1e9a90e/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sebastian Shaw",
   "partners": [
   ],
   "powers": [
-    "Converts energy into greater physical attributes",
     "Energy",
-    "To enhance his physical attributes",
-    "Healing",
-    "Possesses access to sophisticated weaponry",
-    "Telepathic blocking technology"
+    "Healing"
   ],
   "ranking": {
     "comicCount": 16,

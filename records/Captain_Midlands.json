@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Captain Midlands"
+    "Captain Midlands",
+    "actual identities the character uses"
   ],
   "authors": [
     "Trevor Hairsine",
@@ -12,8 +13,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d8/CaptainMidlands.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Captain Midlands",
   "partners": [
@@ -21,7 +22,6 @@
   "powers": [
     "Master tactician",
     "Field commander",
-    "Physical attributes enhanced to peak of human potential",
     "Expert martial artist",
     "Hand-to-hand combatant",
     "All terrain acrobatics",
@@ -29,8 +29,7 @@
     "Expert",
     "Martial artist",
     "Master",
-    "Tactician",
-    "Circular shield with anti-magic gloss"
+    "Tactician"
   ],
   "ranking": {
     "comicCount": 0,

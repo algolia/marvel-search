@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c003c738f74c/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Puppet Master",
   "partners": [
@@ -26,8 +26,7 @@
     "Warlord Krang"
   ],
   "powers": [
-    "Genius-level intellect",
-    "Extremely talented craftsman"
+    "Genius-level intellect"
   ],
   "ranking": {
     "comicCount": 26,

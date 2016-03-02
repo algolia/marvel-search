@@ -9,8 +9,8 @@
   "description": "Scorcher is a Marvel Comics supervillain.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Scorcher",
   "partners": [

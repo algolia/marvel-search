@@ -3,8 +3,7 @@
     "Penance",
     "Penny",
     "Yvette",
-    "Hollow",
-    "Penance (X-Men)"
+    "Hollow"
   ],
   "authors": [
     "Chris Bachalo",
@@ -16,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/52695808ada2e/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Penance (Robert Baldwin)",
   "partners": [
@@ -27,7 +26,7 @@
     "Exceptionally tough skin",
     "Has long claws for hands",
     "Feet",
-    "Hair."
+    "Hair"
   ],
   "ranking": {
     "comicCount": 64,

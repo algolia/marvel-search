@@ -17,8 +17,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/4ce5a6abaea69/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ben Reilly",
   "partners": [
@@ -31,11 +31,9 @@
     "Durability",
     "Agility",
     "High pain tolerance",
-    "Able to shoot impact webbing from devices.",
     "Precognitive spider-sense",
     "Genius-level intellect",
-    "Expert swordsman",
-    "Master hand-to-hand combatant"
+    "Expert swordsman"
   ],
   "ranking": {
     "comicCount": 4,
@@ -46,7 +44,8 @@
     "storyCount": 4
   },
   "secretIdentities": [
-    "Benjamin \"Ben\" Reilly"
+    "Benjamin Reilly",
+    "Ben"
   ],
   "species": [
   ],

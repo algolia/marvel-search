@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Glenn Talbot"
+    "Glenn Talbot",
+    "actual identities the character uses"
   ],
   "authors": [
     "Steve Ditko",
@@ -11,8 +12,8 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Glenn Talbot",
   "partners": [

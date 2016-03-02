@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "None",
     "Scimitar"
   ],
   "authors": [
@@ -11,14 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/02/ScimitarExcalibur.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Scimitar",
   "partners": [
   ],
   "powers": [
-    "None: highly skilled with a blade"
   ],
   "ranking": {
     "comicCount": 0,

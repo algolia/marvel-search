@@ -7,14 +7,14 @@
   "authors": [
     "Roy & Dann Thomas",
     "David Ross",
-    "and Tim Dzon"
+    "Tim Dzon"
   ],
   "description": "Alkhema is a fictional robot supervillain in the Marvel Universe.",
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Alkhema.jpg/250px-Alkhema.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Alkhema",
   "partners": [

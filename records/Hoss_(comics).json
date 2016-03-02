@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Hoss"
+    "Hoss",
+    "actual identities the character uses"
   ],
   "authors": [
     "Garth Ennis",
@@ -9,17 +10,15 @@
   "description": "Hoss is a fictional character appearing in Marvel Comics, created by writer Garth Ennis and artist Clayton Crain.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hoss",
   "partners": [
   ],
   "powers": [
     "Superhuman strength",
-    "Durability. able to repair his own body",
-    "To rebuild humans into new forms. able to track other demons. able to extrude tentacles. other magical powers",
-    "Exact extent unknown."
+    "Exact extent unknown"
   ],
   "ranking": {
     "comicCount": 0,

@@ -12,21 +12,19 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/The_shroud.jpg/250px-The_shroud.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shroud",
   "partners": [
   ],
   "powers": [
-    "\"see\" through walls",
+    "See\" through walls",
     "Darkness",
-    "Transform darkforce dimension energy into anything imaginable",
     "Olympic-level athlete",
     "Adept acrobat",
     "Infiltrator",
     "Trained martial artist",
-    "Carries explosive \"bombarangs\"",
     "Use of one-man aircraft",
     "Flight at walking speed"
   ],

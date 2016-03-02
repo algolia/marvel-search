@@ -14,8 +14,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Carrion.jpg/250px-Carrion.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Carrion",
   "partners": [
@@ -49,8 +49,8 @@
   ],
   "teams": [
     "Carnage Family/Maximum Carnage",
-    "S.H.I.E.L.D.",
-    "Carnage Family/",
+    "S.H.I.E.L.D",
+    "Carnage Family",
     "Maximum Carnage"
   ],
   "urls": {

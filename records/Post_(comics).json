@@ -11,8 +11,8 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Post",
   "partners": [
@@ -24,9 +24,7 @@
     "Teleporter",
     "Able to manipulate energy",
     "A variety of other powers",
-    "Durability;",
-    ";",
-    "; able to manipulate energy"
+    "Durability;"
   ],
   "ranking": {
     "comicCount": 12,

@@ -13,8 +13,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/WhiteRabbitMarvel.jpg/250px-WhiteRabbitMarvel.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "White Rabbit",
   "partners": [
@@ -23,10 +23,7 @@
   "powers": [
     "Good martial artist",
     "Use of a giant",
-    "Heavily armed robotic rabbit",
-    "Genetically altered killer rabbits",
     "Two modified vehicles",
-    "An umbrella that fires explosive",
     "Razor tipped carrots",
     "Flight via rocket boots"
   ],

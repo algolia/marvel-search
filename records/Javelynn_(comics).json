@@ -10,16 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Javelynn.jpg/100px-Javelynn.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Javelynn",
   "partners": [
   ],
   "powers": [
-    "-hand-to-hand combat skills",
-    "-deadly accuracy in use of miniature javelins",
-    "-excellent athlete",
     "Gymnast"
   ],
   "ranking": {

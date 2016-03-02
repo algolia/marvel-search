@@ -1,9 +1,7 @@
 {
   "aliases": [
-    "Second Android Vision:",
     "Victor Shade",
     "Jonas",
-    "First Android Vision:",
     "Vision",
     "Aarkus"
   ],
@@ -20,8 +18,8 @@
     "banner": "http://x.annihil.us/u/prod/marvel/i/mg/6/e0/537bc95e556b4.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -32,19 +30,12 @@
   "partners": [
   ],
   "powers": [
-    "Density control ranging from invulnerability to intangibility",
-    "Mass control ranging from extraordinarily heavy to weightlessness",
-    "Utilizes phasing into beings/objects then solidifying as a means of molecular disruption",
-    "Causing pain/damage or death/destruction",
     "Flight",
     "Solar energy projection",
-    "Computer/it network interfacing",
     "Superhuman strength",
     "Intelligence",
     "Reflexes",
-    "Senses as an artificial being",
     "Capable of self repair",
-    "Regeneration as an artificial being",
     "Superhuman agility",
     "Strength",
     "Speed",
@@ -66,21 +57,17 @@
   "secretIdentities": [
     "Inapplicable; brain patterns based on Vision program files",
     "mental engrams of Iron Lad",
-    "Second Android Vision:",
     "Inapplicable; brain patterns based on Wonder Man",
-    "Human Torch",
-    "First Android Vision:"
+    "Human Torch"
   ],
   "species": [
   ],
   "teams": [
     "The Mighty Avengers",
-    "Avengers A.I.",
+    "Avengers A.I",
     "Defenders",
     "Young Avengers",
     "Avengers",
-    "Second Android Vision:",
-    "First Android Vision:",
     "West Coast Avengers",
     "Mighty Avengers"
   ],

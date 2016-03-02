@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Ms. Marvel",
-    "Ms. Marvel (Kamala Khan)"
+    "Ms. Marvel"
   ],
   "authors": [
     "Adrian Alphona",
@@ -14,7 +13,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/548730dac2a40/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ms. Marvel (Kamala Khan)",
   "partners": [

@@ -2,8 +2,7 @@
   "aliases": [
     "Thomas Foster",
     "Tom Foster",
-    "Goliath",
-    "Goliath (Tom Foster)"
+    "Goliath"
   ],
   "authors": [
     "Reginald Hudlin",
@@ -16,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c00343d177d6/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Goliath (Bill Foster)",
   "partners": [
@@ -37,7 +36,8 @@
     "storyCount": 8
   },
   "secretIdentities": [
-    "Thomas \"Tom\" Foster"
+    "Thomas Foster",
+    "Tom"
   ],
   "species": [
   ],
@@ -45,7 +45,7 @@
     "Revengers",
     "Massachusetts Institute of Technology",
     "Damage Control",
-    "M.I.T."
+    "M.I.T"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/830/goliath",

@@ -7,12 +7,11 @@
     "Scorpio"
   ],
   "authors": [
-    ": Steve Englehart",
+    "Steve Englehart",
     "Don Heck",
     "Archie Goodwin",
-    ": Jim Steranko",
-    "Howard Chaykin",
-    "Jim Steranko"
+    "Jim Steranko",
+    "Howard Chaykin"
   ],
   "description": "Scorpio is the name of several fictional characters in Marvel Comics.",
   "images": {
@@ -20,8 +19,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/4c0032832d0de/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nick Fury (Ultimate)",
   "partners": [
@@ -38,13 +37,14 @@
   },
   "secretIdentities": [
     "Mikel Fury",
-    "Jacob \"Jake\" Fury",
-    "Jacques LaPoint"
+    "Jacob Fury",
+    "Jacques LaPoint",
+    "Jake"
   ],
   "species": [
   ],
   "teams": [
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Hydra",
     "Zodiac",
     "Great Wheel"

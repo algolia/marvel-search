@@ -12,15 +12,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003ae66139c/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Smasher (Vril Rokk)",
   "partners": [
   ],
   "powers": [
-    "Superhuman strength via cosmic radiation absorption",
-    "Flight via anti-gravity \"flight patches\""
+    "Flight via anti-gravity",
+    "Flight patches"
   ],
   "ranking": {
     "comicCount": 17,
@@ -32,13 +32,14 @@
   },
   "secretIdentities": [
     "Unrevealed",
-    "Isabel \"Izzy\" Kane",
+    "Isabel Kane",
     "Vril Rokk",
     "Salac Tuur",
+    "Izzy",
     "Vril Rokk (I)",
     "Salac Tuur (II)",
     "Unrevealed (III)",
-    "Isabel \"Izzy\" Kane (IV)"
+    "Isabel Kane (IV)"
   ],
   "species": [
     "Human",

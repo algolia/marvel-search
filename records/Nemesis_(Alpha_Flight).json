@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Nemesis",
-    "Nemesis (Alpha Flight)"
+    "Nemesis"
   ],
   "authors": [
     "John Byrne",
@@ -15,8 +14,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/14/Nemesis_%28Alpha_Flight%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nemesis",
   "partners": [
@@ -36,9 +35,6 @@
     "storyCount": 3
   },
   "secretIdentities": [
-    "-Amelia Weatherly",
-    "-Jane Thorne",
-    "-Isabel St. Ives"
   ],
   "species": [
   ],

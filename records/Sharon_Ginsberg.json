@@ -10,8 +10,8 @@
   "description": "Sharon Ginsberg is a fictional character, a mutant lawyer in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sharon Ginsberg",
   "partners": [
@@ -20,8 +20,7 @@
   "powers": [
     "Bat-like wings",
     "Flight",
-    "Razor-sharp claws protruding from her fingertips",
-    "Enhanced strength."
+    "Enhanced strength"
   ],
   "ranking": {
     "comicCount": 0,

@@ -17,8 +17,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/ASM134Cover.jpg/250px-ASM134Cover.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tarantula (Luis Alvarez)",
   "partners": [
@@ -28,9 +28,7 @@
     "Superhuman strength",
     "Wrist blades",
     "Finger claws",
-    "Toe blades incorporated into costume",
     "Great athlete",
-    "Excellent hand-to-hand combatant",
     "Peak level strength",
     "Agility",
     "Stamina",
@@ -42,8 +40,7 @@
     "Incredible agility",
     "Leaping",
     "Wall crawling",
-    "Skilled martial artist",
-    "Toe blades incorporated into his costume"
+    "Skilled martial artist"
   ],
   "ranking": {
     "comicCount": 7,

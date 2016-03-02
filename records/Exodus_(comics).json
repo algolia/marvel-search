@@ -5,8 +5,7 @@
   ],
   "authors": [
     "Joe Quesada",
-    "Scott Lobdell",
-    "."
+    "Scott Lobdell"
   ],
   "description": "Exodus is a fictional character, a comic book supervillain in the Marvel Comics universe.",
   "images": {
@@ -14,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/52695589e1721/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Exodus",
   "partners": [
@@ -25,7 +24,6 @@
     "Telekinesis",
     "Teleportation",
     "Telepathy",
-    "Superhuman physical attributes",
     "Healing factor"
   ],
   "ranking": {
@@ -43,12 +41,11 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men: The 198",
+    "The 198",
     "Brotherhood of Mutants",
     "Acolytes",
     "Crusades",
     "Marauders",
-    "The 198",
     "Crusaders"
   ],
   "urls": {

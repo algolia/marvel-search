@@ -12,18 +12,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003ac5e5195/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Stingray (Walter Newell)",
   "partners": [
   ],
   "powers": [
-    "Electrical bolt projection via gloves",
-    "Stored air for underwater exploration",
-    "Skilled inventor of oceanographic equipment",
     "Experienced oceanographer",
-    "Gliding via streamlined wings",
     "Gifted intellect",
     "Enhanced swimming speed",
     "Superhuman strength",
@@ -48,7 +44,7 @@
     "Civil War",
     "Heroes for Hire",
     "Avengers",
-    "\"Secret Avengers\"",
+    "Secret Avengers",
     "The Initiative",
     "Astonishing Avengers",
     "Mercs for Money"

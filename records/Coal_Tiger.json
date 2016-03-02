@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Coaltiger.jpg/250px-Coaltiger.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Coal Tiger",
   "partners": [
@@ -20,8 +20,7 @@
     "Agility",
     "Enhanced senses",
     "Razor sharp claws",
-    "Superhuman strength",
-    "Retractable razor sharp claws"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,

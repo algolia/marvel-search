@@ -2,8 +2,7 @@
   "aliases": [
     "Douglock",
     "Phalanx",
-    "Warlock",
-    "Warlock (New Mutants)"
+    "Warlock"
   ],
   "authors": [
     "Bill Sienkiewicz",
@@ -15,22 +14,16 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Technarchy.jpg/250px-Technarchy.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Warlock (Janie Chin)",
   "partners": [
   ],
   "powers": [
-    "Body is composed of a techno-organic material that can be reshaped at will",
     "Can infect organic beings",
-    "Technology with an alien virus that transforms the target into a techno-organic being like himself",
-    "Can drain the life force of other techno-organic beings for sustenance",
-    "Killing them. unlike others of his aggressive",
     "Warlike race",
-    "Warlock has compassion.",
-    "Body is composed of a techno-organic material that can be reshaped at will; can infect organic beings",
-    "Technology with an alien virus that transforms the target into a techno-organic being like himself;"
+    "Warlock has compassion"
   ],
   "ranking": {
     "comicCount": 0,

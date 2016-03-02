@@ -16,7 +16,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Capitanmarvel3.png/250px-Capitanmarvel3.png"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Genis-Vell",
   "partners": [
@@ -31,8 +31,7 @@
     "Absorption",
     "Manipulation",
     "Dimension transportation",
-    "Cosmic awareness granting omniversal level telepathy",
-    "Wields nega-bands."
+    "Wields nega-bands"
   ],
   "ranking": {
     "comicCount": 0,

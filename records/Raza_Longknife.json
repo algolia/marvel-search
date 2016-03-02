@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4ce5a1057fce9/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Raza",
   "partners": [
@@ -22,8 +22,7 @@
     "Superhuman strength",
     "Enhanced agility",
     "Speed",
-    "Reflexes",
-    "Skilled hand-to-hand combatant."
+    "Reflexes"
   ],
   "ranking": {
     "comicCount": 35,

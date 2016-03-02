@@ -17,16 +17,14 @@
   "description": "The Grasshopper is the name of multiple humorous Marvel Comics superheroes, all created by Dan Slott.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Grasshopper",
   "partners": [
   ],
   "powers": [
     "Maximum jump",
-    "Superhuman leaping via robotic grasshopper legs",
-    "Minimal protection from attacks",
     "Shapeshifting",
     "Zoom lenses",
     "Insectroid sensors"

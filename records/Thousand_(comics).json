@@ -13,17 +13,14 @@
   "description": "The Thousand is a fictional character, a comic book supervillain and enemy of Spider-Man in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Thousand",
   "partners": [
   ],
   "powers": [
-    "Capable of adhering to surfaces",
     "Super strength",
-    "Body is composed of one-thousand spiders capable of devouring the innards of humans",
-    "Using their leftover skin like a suit",
     "Venomous bite",
     "Super-strength"
   ],
@@ -41,7 +38,6 @@
   "species": [
   ],
   "teams": [
-    "None"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Thousand_(comics)"

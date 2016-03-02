@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "Alex Nevsky: Alex Niven",
-    "Yuri Petrovich: the Outcast",
+    "Alex Niven",
+    "the Outcast",
     "Crimson Dynamo"
   ],
   "authors": [
@@ -14,23 +14,21 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/526955e3c7c41/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Crimson Dynamo",
   "partners": [
   ],
   "powers": [
     "Varies with each version",
-    "But usually includes: resistance to damage",
+    "Resistance to damage",
     "Super-strength",
     "Electrical discharges",
-    "Flight. the 8th version could also be piloted by remote control using only its helmet",
     "Superhuman strength",
     "Durability",
     "Flight via boot jets",
     "Hand-blasters",
-    "Small missiles on the back shoulder area",
     "Computer",
     "Radio transmitter",
     "Receiver"

@@ -10,15 +10,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Americop.jpg/250px-Americop.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Americop",
   "partners": [
   ],
   "powers": [
     "Trained marksman",
-    "Martial artist."
+    "Martial artist"
   ],
   "ranking": {
     "comicCount": 0,
@@ -29,7 +29,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Bartholomew \"Bart\" Gallows"
+    "Bartholomew Gallows",
+    "Bart"
   ],
   "species": [
   ],

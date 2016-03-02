@@ -12,19 +12,16 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Blackwing.jpg/220px-Blackwing.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Barnell Bohusk",
   "partners": [
   ],
   "powers": [
-    "Bird-like mutation which gives him heightened agility",
     "A beaked nose",
     "Finger talons",
-    "Wings that fold up along his arms",
     "Allow limited flight",
-    "Advanced bird suit allowing flight",
     "Superhuman strength",
     "Energy blasts",
     "Enhanced protection"

@@ -11,20 +11,18 @@
   "description": "Rock Python (M'Gula) is a fictional super villain in the Marvel Comics Universe, and is a member of the Serpent Society.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Rock Python",
   "partners": [
   ],
   "powers": [
     "Rock-hard skin",
-    "Uses egg-shaped bombs which ensnare his enemies with steel ribbons or poisons them.",
     "Rock-hard bones",
     "Skin",
     "Muscles",
-    "Resistance to injury",
-    "Use of egg-shaped bombs which ensnare his enemies with steel ribbons or poisons them"
+    "Resistance to injury"
   ],
   "ranking": {
     "comicCount": 0,

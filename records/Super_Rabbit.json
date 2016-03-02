@@ -9,15 +9,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/SuperRabbit6.jpg/180px-SuperRabbit6.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Super Rabbit",
   "partners": [
   ],
   "powers": [
     "Flight",
-    "Invulnerability except for a single spot at top of head",
     "Super strength"
   ],
   "ranking": {

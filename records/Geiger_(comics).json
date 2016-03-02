@@ -12,14 +12,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/52740dec5e17a/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Geiger",
   "partners": [
   ],
   "powers": [
-    "Can mimic the powers of any gamma-powered beings in her immediate vicinity"
   ],
   "ranking": {
     "comicCount": 0,
@@ -35,9 +34,8 @@
   "species": [
   ],
   "teams": [
-    "Avengers: The Initiative",
-    "Empire State University",
-    "The Initiative"
+    "The Initiative",
+    "Empire State University"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011248/geiger",

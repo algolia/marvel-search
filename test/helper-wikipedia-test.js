@@ -82,6 +82,17 @@ describe('HelperWikipedia', () => {
       expect(actual).toEqual('Exiles');
     });
 
+    it('should remove anything in parenthesis', () => {
+      // Given
+      let input = 'Exiles_(something)';
+
+      // When
+      let actual = Helper.readablePageName(input);
+
+      // Then
+      expect(actual).toEqual('Exiles');
+    });
+
     it('should exclude the list of Marvel characters', () => {
       // Given
       let input = 'List_of_Marvel_Comics_characters:_K';

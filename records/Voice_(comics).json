@@ -14,8 +14,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/The_Voice_from_Avengers_Assemble_One-Shot_July_2010.jpg/200px-The_Voice_from_Avengers_Assemble_One-Shot_July_2010.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Voice",
   "partners": [
@@ -25,7 +25,6 @@
     "Red Skull"
   ],
   "powers": [
-    "His voice can make people who hear him believe that he's speaking the truth."
   ],
   "ranking": {
     "comicCount": 0,
