@@ -17,7 +17,7 @@
 .header--input-group {
   float: left;
   display: inline-block;
-  width: 350px;
+
   height: 60px;
   overflow: hidden; 
   position: relative;
@@ -32,6 +32,9 @@
   background: darken($brand-primary, 8%);
   color: #fff;
   position: relative;
+  width: 330px;
+  transition: width 0.3s ease;
+
 
   @include placeholders{
     color: #fff
@@ -39,6 +42,7 @@
 }
 .header--input:focus {
   outline: none;
+  width: 450px;
 }
 .header--stats {
   line-height: 40px;
@@ -51,6 +55,9 @@
   float: right;
   margin-left: 20px;
   color: white;
+  position: absolute;
+  right: 16px;
+  top: 8px;
 }
 .header--algolia:hover {
   color: #FFF;

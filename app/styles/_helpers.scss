@@ -3,7 +3,7 @@ span.power {
     float: left;
     background: $brand-primary;
     background-image: linear-gradient(to top right, $primary-color, darken($primary-color, 20%));
-    margin: 2px 4px;
+    margin: 4px 4px;
     padding: 6px;
     border-radius: 100px;
     display: block;
@@ -32,5 +32,43 @@ span.power {
       }
       top: 0;
       left: 0;
+    }
+  }
+
+
+  .hero-badge,
+  .villain-badge,
+  .hero-villain-badge {
+    width: 44px;
+    height: 44px;
+    display: block;
+    float: left;
+  }
+
+  .hero-badge {
+    background:{
+      image:  url("data:image/svg+xml;utf8,#{$hero-tag}");
+      size: contain;
+      repeat: no-repeat;
+      position: center center;
+    }
+  }
+
+
+  .villain-badge {
+    background:{
+      image:  url("data:image/svg+xml;utf8,#{$villain-tag}");
+      size: contain;
+      repeat: no-repeat;
+      position: center center;
+    }
+  }
+
+  .hero-villain-badge {
+    background:{
+      image:  url("data:image/svg+xml;utf8,#{$hero-villain-tag}");
+      size: contain;
+      repeat: no-repeat;
+      position: center center;
     }
   }

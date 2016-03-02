@@ -158,13 +158,14 @@
     display: -webkit-box;
     max-width: 400px;
     max-height: $font-size*$line-height*$lines-to-show; /* Fallback for non-webkit */
-    margin: 0 auto;
+    margin: auto 0;
     font-size: $font-size;
     line-height: $line-height;
     -webkit-line-clamp: $lines-to-show;
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
+    padding: 0;
   }
 }
 .hit--powers,

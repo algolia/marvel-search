@@ -157,6 +157,8 @@ function processHeroProfile(){
       profileRealName = $('.hero-profile .hero-secret-identity'),
       profileAvatar = $('.hero-profile .hero-avatar img'),
       profileDescription = $('.hero-profile .hero-description'),
+      profilePartners = $('.hero-profile .hero-partners'),
+      profileHeroVillain = $('.hero-profile .hero-statement'),
       profilePowers = $('.hero-profile .hero-powers');
   
   hit.each(function(){
@@ -166,19 +168,44 @@ function processHeroProfile(){
           datas = $.parseJSON(datas);
       
       // Fetch & define values
-      var 
+      var
       heroName = datas.name,
       heroSecretId = datas.secretIdentities,
-      heroAvatar = datas.image,
+      heroAvatar = datas.image.thumnail,
+      heroBanner = datas.image.banner,
+      heroBackground = datas.image.background,
       heroDesc = datas.description,
-      heroPowers = datas.powers;
+      heroPowers = datas.powers,
+      heroPartners = datas.partners,
+      isHero = datas.isHero,
+      isVillain = datas.isVillain;
+
      
       // Appy them
-      profileName.text(heroName);
+      profileName.html(heroName);
       profileAvatar.attr('src', heroAvatar);
       profileDescription.html('<p>'+heroDesc+'</p>');
       profileRealName.html(heroSecretId)
-      
+
+      // Check if he is a hero, a vilain, both, or null
+      if(isHero==true && isVillain==false) {
+        profileHeroVillain.html('He is a hero <span class="hero-badge"></span>')
+      }
+      if(isVillain==true && isHero==false) {
+        profileHeroVillain.html('He is a Villain <span class="villain-badge"></span>')
+      }
+      if(isHero==false && isVillain==false) {
+        profileHeroVillain.html('He is both a hero and a villain <span class="hero-villain-badge"></span>')
+      }
+      if(isHero==null && isVillain==null){
+        profileBothHeroVillain.html('Unknown')
+      }
+
+      profile.attr({
+        'data-hero': isHero,
+        'data-villain': isVillain
+      })
+
       // Loop & wrap all the powers
       profilePowers.html('');
       var power = '';
@@ -186,6 +213,14 @@ function processHeroProfile(){
         power += "<span class='power'>"+key+"</span>"; 
       });
       profilePowers.append(power);
+      
+      // Loop & wrap all the partners
+      profilePartners.html('');
+      var partner = '';
+      $.each(heroPartners, function (index, key){
+        partner += "<span class='partner'>"+key+"</span>"; 
+      });
+      profilePartners.append(partner);
 
 
       
