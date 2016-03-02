@@ -113,6 +113,8 @@ var Marvel = {
     this.addSpeciesWidget();
     this.addHitsWidget();
     this.addPaginationWidget();
+    this.addRefinementList();
+    this.renderHits();
 
     this.search.start();
   },
@@ -125,6 +127,9 @@ var Marvel = {
 
     data.description = Marvel.getHighlightedValue(data, 'description');
     data.name = Marvel.getHighlightedValue(data, 'name');
+    data.powersSummary = data.powers.slice(0, 5);
+    data.data = JSON.stringify(data);
+
     return data;
   },
   getHighlightedValue: function getHighlightedValue(object, property) {
@@ -203,10 +208,175 @@ var Marvel = {
       },
       showFirstLast: false
     }));
+  },
+  addRefinementList: function addRefinementList() {
+    this.search.addWidget(instantsearch.widgets.currentRefinedValues({
+      container: '#current-refined-values',
+      clearAll: 'after'
+    }));
+  },
+  renderHits: function renderHits() {
+    var renderedHits = {
+      render: function render(options) {
+        processHeroProfile();
+      }
+    };
+
+    this.search.addWidget(renderedHits);
   }
 };
 
 exports.default = Marvel;
+
+
+function processHeroProfile() {
+
+  var hit = $('.btn-profile'),
+      results = $('.hits'),
+      profile = $('.hero-profile'),
+      profileHeader = $('.hero-profile header'),
+      profileName = $('.hero-profile .hero-name'),
+      profileRealName = $('.hero-profile .hero-secret-identity'),
+      profileAvatar = $('.hero-profile .hero-avatar img'),
+      profileDescription = $('.hero-profile .hero-description'),
+      profilePartners = $('.hero-profile .hero-partners'),
+      profileHeroVillain = $('.hero-profile .hero-statement'),
+      profilePowers = $('.hero-profile .hero-powers');
+
+  // Add dynamic style tag
+  profileHeader.prepend('<style id="dynamic-style" />');
+  var dynamicStyle = $('#dynamic-style');
+
+  hit.each(function () {
+    $(this).click(function (e, t) {
+      var $this = $(this);
+      var datas = $(this).closest('.hit').find('.dump').val(),
+          datas = $.parseJSON(datas);
+
+      // Fetch & define values
+      var heroName = datas.name,
+          heroSecretId = datas.secretIdentities[0],
+          heroAvatar = datas.images.thumbnail,
+          heroBanner = datas.images.banner,
+          heroBackground = datas.images.background,
+          heroDesc = datas.description,
+          heroPowers = datas.powers,
+          heroPartners = datas.partners,
+          isHero = datas.isHero,
+          isVillain = datas.isVillain;
+
+      if (datas.mainColor == null) {
+        var heroColor = '#ccc';
+      } else {
+        var heroColor = datas.mainColor.hexa,
+            heroColor = colorLuminance('#' + heroColor, 1.5); // Lighten up the color
+      }
+
+      // Appy them
+      profileName.html(heroName);
+      profileAvatar.attr('src', heroAvatar);
+      profileDescription.html('<p>' + heroDesc + '</p>');
+      profileRealName.html(heroSecretId);
+
+      // Add the proper colors
+      profileAvatar.parent().attr('style', 'border-color:' + heroColor);
+      dynamicStyle.text('').text('.hero-profile header:after{background-color:' + heroColor + '}');
+
+      // Give the profile header the proper images
+      profileHeader.attr('style', 'background-image:url(' + heroBackground + ');border-color:' + heroColor);
+
+      // Check if he is a hero, a vilain, both, or null
+      if (isHero && !isVillain) {
+        profileHeroVillain.html('He is a hero <span class="hero-badge"></span>');
+      }
+      if (isVillain && !isHero) {
+        profileHeroVillain.html('He is a Villain <span class="villain-badge"></span>');
+      }
+      if (!isHero && !isVillain) {
+        profileHeroVillain.html('He is both a hero and a villain <span class="hero-villain-badge"></span>');
+      }
+      if (isHero == null && isVillain == null) {
+        profileBothHeroVillain.html('Unknown');
+      }
+      // Also, give the profile data attributes
+      // Can be useful for next designs steps
+      profile.attr({
+        'data-hero': isHero,
+        'data-villain': isVillain
+      });
+
+      // Loop & wrap all the powers
+      profilePowers.html('');
+      var power = '';
+      $.each(heroPowers, function (index, key) {
+        power += "<span class='power'>" + key + "</span>";
+      });
+      profilePowers.append(power);
+
+      // Loop & wrap all the partners
+      profilePartners.html('');
+      var partner = '';
+      $.each(heroPartners, function (index, key) {
+        partner += "<span class='partner'>" + key + "</span>, ";
+      });
+      profilePartners.append(partner);
+
+      if (!results.hasClass('open')) {
+        results.addClass('open');
+        profile.addClass('shown');
+      }
+    });
+  });
+}
+
+function colorLuminance(hex, lum) {
+
+  // validate hex string
+  hex = String(hex).replace(/[^0-9a-f]/gi, '');
+  if (hex.length < 6) {
+    hex = hex[0] + hex[0] + hex[1] + hex[1] + hex[2] + hex[2];
+  }
+  lum = lum || 0;
+
+  // convert to decimal and change luminosity
+  var rgb = "#",
+      c,
+      i;
+  for (i = 0; i < 3; i++) {
+    c = parseInt(hex.substr(i * 2, 2), 16);
+    c = Math.round(Math.min(Math.max(0, c + c * lum), 255)).toString(16);
+    rgb += ("00" + c).substr(c.length);
+  }
+
+  return rgb;
+}
+function imageDimensions($url) {
+  var u = $url;
+}
+///////////////////////////
+/// Toggle hero-profile \\\
+///////////////////////////
+// function processHeroProfile(){
+//   var hit = document.querySelectorAll('.hit'),
+//       results = document.querySelector('.hits'),
+//       profile = document.querySelector('.hero-profile');
+//   for(var i=0;i<hit.length;i++){
+//     hit[i].addEventListener('click', function(){
+//       alert()
+//       if(!results.classList.contains('open')){
+//         results.classList.add('open')
+//         profile.classList.add('shown')
+//       } else {
+//         results.classList.remove('open')
+//         profile.classList.remove('shown')
+//       }
+//     })
+//   }
+// }
+
+// window.onload = function(){
+//   processHeroProfile()
+// }
 
 // // Returns the Marvel image if available, otherwise the one from Wikipedia.
 // // Back to default if none is found
