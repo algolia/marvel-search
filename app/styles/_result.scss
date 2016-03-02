@@ -62,10 +62,16 @@
         background-size: 200%;
       }
     }
-    a {
+    a:not(.btn-profile) {
       color: $brand-primary
     }
   }
+
+  a.btn-profile {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+}
 }
 .hit--picture-wrapper {
   float: left;
@@ -192,15 +198,17 @@
   }
 }
 
-.hit--footer {
-  bottom: 0;
-  left: 0;
-  position: absolute;
-  width: 100%;
-  max-width: calc( 100% - 32px );
-  left: 16px;
-  padding-bottom: 16px;
-}
+
+
+// .hit--footer {
+//   bottom: 0;
+//   left: 0;
+//   position: absolute;
+//   width: 100%;
+//   max-width: calc( 100% - 32px );
+//   left: 16px;
+//   padding-bottom: 16px;
+// }
 
 .hit em {
   color: #000000;

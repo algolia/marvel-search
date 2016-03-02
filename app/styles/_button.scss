@@ -38,3 +38,21 @@ button {
     }
   }
 }
+
+a{
+  &.btn-profile {
+   color: $primary-color;
+   display: inline-block;
+   padding: 2px 8px;
+   border: 1px solid currentColor;
+   border-radius: 50px;
+   outline: none;
+   font-size: 14px;
+
+   &:hover {
+    background: $primary-color;
+    color: #fff;
+    border-color: $primary-color
+   }
+  }
+}

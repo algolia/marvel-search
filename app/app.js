@@ -153,7 +153,7 @@ function processHeroProfile(){
   var hit = $('.btn-profile'),
       results = $('.hits'),
       profile = $('.hero-profile'),
-      profileHeader = $('.profile-header'),
+      profileHeader = $('.hero-profile header'),
       profileName = $('.hero-profile .hero-name'),
       profileRealName = $('.hero-profile .hero-secret-identity'),
       profileAvatar = $('.hero-profile .hero-avatar img'),
@@ -161,6 +161,11 @@ function processHeroProfile(){
       profilePartners = $('.hero-profile .hero-partners'),
       profileHeroVillain = $('.hero-profile .hero-statement'),
       profilePowers = $('.hero-profile .hero-powers');
+
+      // Add dynamic style tag
+      profileHeader.prepend('<style id="dynamic-style" />');
+      var dynamicStyle = $('#dynamic-style');
+
   
   hit.each(function(){
     $(this).click(function(e,t){
@@ -172,25 +177,39 @@ function processHeroProfile(){
       // Fetch & define values
       var
       heroName = datas.name,
-      heroSecretId = datas.secretIdentities,
-      heroAvatar = datas.image.thumnail,
-      heroBanner = datas.image.banner,
-      heroBackground = datas.image.background,
+      heroSecretId = datas.secretIdentities[0],
+      heroAvatar = datas.images.thumbnail,
+      heroBanner = datas.images.banner,
+      heroBackground = datas.images.background,
       heroDesc = datas.description,
       heroPowers = datas.powers,
       heroPartners = datas.partners,
       isHero = datas.isHero,
       isVillain = datas.isVillain;
 
+      if(datas.mainColor==null){
+       var heroColor = '#ccc'
+      }
+      else {
+        var heroColor = datas.mainColor.hexa,
+            heroColor = colorLuminance('#'+heroColor, 1.5); // Lighten up the color
+      }
+
+
      
       // Appy them
       profileName.html(heroName);
       profileAvatar.attr('src', heroAvatar);
       profileDescription.html('<p>'+heroDesc+'</p>');
-      profileRealName.html(heroSecretId)
+      profileRealName.html(heroSecretId);
+
+      // Add the proper colors
+      profileAvatar.parent().attr('style','border-color:'+ heroColor);
+      dynamicStyle.text('').text('.hero-profile header:after{background-color:'+heroColor+'}')
+
 
       // Give the profile header the proper images
-      profileHeader.background = 'url(' + heroBackground + ')no-repeat center center / cover';
+      profileHeader.attr('style','background-image:url(' + heroBackground + ');border-color:' + heroColor);
 
       // Check if he is a hero, a vilain, both, or null
       if(isHero && !isVillain) {
@@ -238,6 +257,25 @@ function processHeroProfile(){
   })
 }
 
+function colorLuminance(hex, lum) {
+
+  // validate hex string
+  hex = String(hex).replace(/[^0-9a-f]/gi, '');
+  if (hex.length < 6) {
+    hex = hex[0]+hex[0]+hex[1]+hex[1]+hex[2]+hex[2];
+  }
+  lum = lum || 0;
+
+  // convert to decimal and change luminosity
+  var rgb = "#", c, i;
+  for (i = 0; i < 3; i++) {
+    c = parseInt(hex.substr(i*2,2), 16);
+    c = Math.round(Math.min(Math.max(0, c + (c * lum)), 255)).toString(16);
+    rgb += ("00"+c).substr(c.length);
+  }
+
+  return rgb;
+}
 function imageDimensions($url) {
   var u = $url;
 
