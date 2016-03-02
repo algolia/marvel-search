@@ -9,8 +9,13 @@
     "Jack Kirby"
   ],
   "description": "Sleeper is a fictional character in Marvel Comics.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Sleeper",
   "partners": [
   ],

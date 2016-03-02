@@ -10,8 +10,13 @@
     "Mike Zeck"
   ],
   "description": "Zaran is a Marvel Comics super-villain, and is a codename carried by two characters related to another.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Zaran",
   "partners": [
   ],

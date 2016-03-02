@@ -9,8 +9,11 @@
     "Mike Wieringo"
   ],
   "description": "The Hornet is an identity used by three fictional characters in the Marvel Universe, one villain, and two heroes.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Hornet",
   "partners": [
   ],

@@ -8,9 +8,12 @@
     "Gail Simone"
   ],
   "description": "Outlaw (Inez Temple) is a fictional character created by Marvel Comics for their series' Deadpool and Agent X.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/6/61/Agent_X_02_Udon_Studios.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/61/Agent_X_02_Udon_Studios.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Outlaw",
   "partners": [
   ],

@@ -7,8 +7,11 @@
     "Luke McDonnell"
   ],
   "description": "Vibro is a fictional character, a supervillain in Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Vibro",
   "partners": [
   ],

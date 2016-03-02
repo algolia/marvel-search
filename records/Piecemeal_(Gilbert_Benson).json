@@ -10,9 +10,14 @@
     "Guang Yap"
   ],
   "description": "Piecemeal (Gilbert Benson) is a fictional mutant character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/Newmutantsann7.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/ff/Newmutantsann7.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Proteus (House of M)",
   "partners": [
   ],

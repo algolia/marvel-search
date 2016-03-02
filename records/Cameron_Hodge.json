@@ -8,9 +8,12 @@
     "Jackson Guice"
   ],
   "description": "Cameron Hodge is a fictional comic book supervillain and opponent of the X-Men, as seen in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/UncannyX-Men271.jpg/250px-UncannyX-Men271.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/UncannyX-Men271.jpg/250px-UncannyX-Men271.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Cameron Hodge",
   "partners": [
   ],

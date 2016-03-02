@@ -9,9 +9,14 @@
     "Wally Wood"
   ],
   "description": "Wilbur Day was a scientist at Kaxton Labs who stole designs for a hydraulic ramming device from his company out of frustration of his position in his job.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4c003ac98d3ce/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4c003ac98d3ce/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Stilt-Man (Wibur Day)",
   "partners": [
   ],

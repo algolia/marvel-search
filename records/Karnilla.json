@@ -8,9 +8,12 @@
     "Jack Kirby"
   ],
   "description": "Karnilla is a fictional character in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Karnilla.jpg/200px-Karnilla.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Karnilla.jpg/200px-Karnilla.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Karnilla",
   "partners": [
   ],

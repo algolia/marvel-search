@@ -9,9 +9,12 @@
     "Darko Macan"
   ],
   "description": "Blaquesmith is the name of two characters in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/440px-Blaqsmth.jpg/250px-440px-Blaqsmth.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/440px-Blaqsmth.jpg/250px-440px-Blaqsmth.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Blaquesmith",
   "partners": [
   ],

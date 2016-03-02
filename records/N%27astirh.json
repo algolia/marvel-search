@@ -5,9 +5,12 @@
     "Louise Simonson",
     "Jon Bogdanove"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/NewMutants72.jpg/249px-NewMutants72.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/NewMutants72.jpg/249px-NewMutants72.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "N'astirh",
   "partners": [
     "N'asteris (subordinate demons)",

@@ -7,9 +7,14 @@
     "Joss Whedon"
   ],
   "description": "Armor (Hisako Ichiki (市来 久子, Ichiki Hisako)) is a fictional character who exists in Marvel Comics' shared universe, the Marvel Universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c002e6cbf990/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c002e6cbf990/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Armor (Hisako Ichiki)",
   "partners": [
   ],
@@ -23,12 +28,12 @@
     "Durability"
   ],
   "ranking": {
-    "comicCount": 4,
+    "comicCount": 5,
     "eventCount": 0,
     "pageviewCount": 4256,
     "pageviewRank": -1,
     "serieCount": 2,
-    "storyCount": 4
+    "storyCount": 5
   },
   "secretIdentities": [
     "Hisako Ichiki"

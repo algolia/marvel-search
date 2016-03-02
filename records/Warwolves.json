@@ -7,9 +7,12 @@
     "Chris Claremont"
   ],
   "description": "The Warwolves are fictional characters appearing in the comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Warwolf.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/00/Warwolf.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Warwolves",
   "partners": [
   ],

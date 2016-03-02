@@ -11,9 +11,12 @@
     "Brian Michael Bendis"
   ],
   "description": "Veranke is a fictional character created by Marvel Comics who serves as the queen of the Skrull empire in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Queenveranke.jpg/250px-Queenveranke.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Queenveranke.jpg/250px-Queenveranke.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Veranke",
   "partners": [
   ],

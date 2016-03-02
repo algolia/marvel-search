@@ -7,8 +7,13 @@
     "Mark Bagley"
   ],
   "description": "Smiling Tiger (Conrad Mack) is a Marvel Comics supervillain.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Smiling Tiger",
   "partners": [
   ],

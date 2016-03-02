@@ -10,9 +10,12 @@
     "Mike Baron and Neil Hansen"
   ],
   "description": "Lifeform is a fictional character, a comic book supervillain in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/LifeformMarvelComics.jpg/250px-LifeformMarvelComics.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/LifeformMarvelComics.jpg/250px-LifeformMarvelComics.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Lifeform",
   "partners": [
   ],

@@ -9,9 +9,14 @@
   "authors": [
   ],
   "description": "Mockingbird (Barbara \"Bobbi\" Morse) is a fictional character, a superheroine in Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51e829af23af9/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51e829af23af9/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mockingbird",
   "partners": [
     "Hawkeye"

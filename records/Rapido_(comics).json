@@ -6,9 +6,12 @@
     "Andy Lanning",
     "Doug Braithwaite"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/RapidoPunisher.jpg/250px-RapidoPunisher.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/RapidoPunisher.jpg/250px-RapidoPunisher.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Rapido",
   "partners": [
   ],

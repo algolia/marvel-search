@@ -5,9 +5,12 @@
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Cover_of_Warriors_Three-3.jpg/250px-Cover_of_Warriors_Three-3.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Cover_of_Warriors_Three-3.jpg/250px-Cover_of_Warriors_Three-3.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Fenris Wolf",
   "partners": [
   ],

@@ -8,9 +8,12 @@
     "John Romita Jr."
   ],
   "description": "The Dark Gods are fictional characters appearing in comic books published byMarvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/DarkGods.jpg/250px-DarkGods.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/DarkGods.jpg/250px-DarkGods.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Dark Gods",
   "partners": [
   ],

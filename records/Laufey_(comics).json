@@ -7,9 +7,12 @@
     "Jack Kirby"
   ],
   "description": "Laufey is a comic book supervillain appearing in books published by Marvel Comics, usually as an enemy of the Asgardian king Odin, father of Thor.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/LaufeyMarvel.jpg/250px-LaufeyMarvel.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/LaufeyMarvel.jpg/250px-LaufeyMarvel.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Laufey",
   "partners": [
   ],

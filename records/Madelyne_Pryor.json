@@ -14,9 +14,14 @@
     "Chris Claremont"
   ],
   "description": "Madelyne \"Maddie\" Jennifer Pryor-Summers is a fictional character, a supervillain in books published by Marvel Comics, in particular those featuring the X-Men.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/528d33ddaef70/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/528d33ddaef70/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Madelyne Pryor",
   "partners": [
   ],

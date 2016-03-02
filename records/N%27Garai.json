@@ -6,9 +6,12 @@
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Uncanny_X-Men_143.jpg/250px-Uncanny_X-Men_143.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Uncanny_X-Men_143.jpg/250px-Uncanny_X-Men_143.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "N%27Garai",
   "partners": [
   ],

@@ -10,9 +10,14 @@
     "Al Milgrom"
   ],
   "description": "Leila Davis is a fictional character, a comic book supervillainess and later costumed hero in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Thunderbolts35.jpg/250px-Thunderbolts35.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Thunderbolts35.jpg/250px-Thunderbolts35.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Beetle (Abner Jenkins)",
   "partners": [
     "Ringer",

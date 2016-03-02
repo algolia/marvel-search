@@ -9,9 +9,12 @@
     "Humberto Ramos"
   ],
   "description": "Val Rhymin is a fictional character in the Marvel Comics award-winning series, Runaways.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Val_Rhymin.jpg/250px-Val_Rhymin.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Val_Rhymin.jpg/250px-Val_Rhymin.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Val Rhymin",
   "partners": [
   ],

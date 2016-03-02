@@ -8,9 +8,14 @@
     "Rick Leonardi"
   ],
   "description": "Bushwacker (Carl Burbank) is a fictional character, a supervillain in the Marvel Comics Universe, who is primarily an enemy of Daredevil, although he has had dealings with the Punisher and Wolverine.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Daredevil_cover_-_number_335.jpg/250px-Daredevil_cover_-_number_335.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Daredevil_cover_-_number_335.jpg/250px-Daredevil_cover_-_number_335.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Bushwacker",
   "partners": [
   ],

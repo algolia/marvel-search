@@ -7,9 +7,12 @@
     "Jack Kirby"
   ],
   "description": "Surtur is a fictional demon that appears in comic books published by Marvel Comics, usually as a villain in stories featuring the Norse hero Thor.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thorvs.Surtur.jpg/249px-Thorvs.Surtur.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thorvs.Surtur.jpg/249px-Thorvs.Surtur.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Surtur",
   "partners": [
     "Malekith the Accursed",

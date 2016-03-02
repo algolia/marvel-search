@@ -8,9 +8,14 @@
     "Jack Kirby"
   ],
   "description": "The Mole Man is a fictional character, a comic book supervillain that exists in Marvel Universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c003d3176a50/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c003d3176a50/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mole Man",
   "partners": [
     "Red Ghost",

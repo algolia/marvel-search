@@ -10,9 +10,12 @@
     "Steve Ditko"
   ],
   "description": "Doctor Stephen Vincent Strange, best known under his alias Doctor Strange, is a superhero that appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5261a85a501fe/standard_xlarge.jpg",
+  "images": {
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5261a85a501fe/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Doctor Strange",
   "partners": [
   ],
@@ -27,12 +30,12 @@
     "Medical science"
   ],
   "ranking": {
-    "comicCount": 417,
+    "comicCount": 418,
     "eventCount": 13,
     "pageviewCount": 263686,
     "pageviewRank": -1,
     "serieCount": 125,
-    "storyCount": 567
+    "storyCount": 568
   },
   "secretIdentities": [
     "Stephen Vincent Strange"
@@ -48,7 +51,7 @@
     "New Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/14/dr_strange",
+    "marvel": "http://marvel.com/comics/characters/1009282/doctor_strange",
     "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Strange"
   }
 }

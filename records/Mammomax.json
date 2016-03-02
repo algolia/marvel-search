@@ -7,9 +7,12 @@
     "Chuck Austen"
   ],
   "description": "Mammomax is a fictional mammoth-shaped human mutant that has appeared in various comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/XMEN_Mammomax.jpg/200px-XMEN_Mammomax.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/XMEN_Mammomax.jpg/200px-XMEN_Mammomax.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mammomax",
   "partners": [
   ],

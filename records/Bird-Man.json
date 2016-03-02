@@ -13,8 +13,11 @@
     "Bob Powell"
   ],
   "description": "Bird-Man is the name of three fictional characters in Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Bird-Man",
   "partners": [
   ],

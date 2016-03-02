@@ -9,9 +9,12 @@
     "Sean McKeever"
   ],
   "description": "Aftershock (Allison Dillon) is a fictional character who appeared in the Marvel Comics' Spider-Girl series.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/e/ea/MC2Aftershock.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ea/MC2Aftershock.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Aftershock",
   "partners": [
     "Electro"

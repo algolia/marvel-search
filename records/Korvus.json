@@ -7,8 +7,11 @@
     "Billy Tan"
   ],
   "description": "Korvus, is a fictional character in the Marvel Universe.",
+  "images": {
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Korvus",
   "partners": [
   ],

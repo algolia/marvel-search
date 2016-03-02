@@ -9,8 +9,11 @@
     "Joe Sinnott"
   ],
   "description": "Powerhouse is a name used by several different fictional characters, operating in the Marvel Comics Universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Powerhouse",
   "partners": [
     "Masterblaster"

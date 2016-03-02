@@ -8,9 +8,14 @@
     "Roy Thomas"
   ],
   "description": "Umar and her sibling Dormammu gathered matter to themselves to increase their power, a practice anathema to their fellow Faltine who consider energy to be superior to matter.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/StrangeTales_150.jpg/240px-StrangeTales_150.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/StrangeTales_150.jpg/240px-StrangeTales_150.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Umar",
   "partners": [
     "Dormammu"

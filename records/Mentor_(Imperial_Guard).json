@@ -8,9 +8,14 @@
     "Dave Cockrum"
   ],
   "description": "Mentor is a fictional character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/9/95/Mentorwiki.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/95/Mentorwiki.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mentor",
   "partners": [
   ],

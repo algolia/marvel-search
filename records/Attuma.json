@@ -10,9 +10,12 @@
     "Jack Kirby"
   ],
   "description": "Attuma is a fictional character, a supervillain in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/d/d3/X-factoran4.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d3/X-factoran4.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Attuma",
   "partners": [
     "Krang",

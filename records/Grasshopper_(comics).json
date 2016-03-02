@@ -15,8 +15,11 @@
     "Dan Slott"
   ],
   "description": "The Grasshopper is the name of multiple humorous Marvel Comics superheroes, all created by Dan Slott.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Grasshopper",
   "partners": [
   ],

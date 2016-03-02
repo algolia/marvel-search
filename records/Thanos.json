@@ -8,9 +8,19 @@
     "Jim Starlin"
   ],
   "description": "The Mad Titan Thanos, a melancholy, brooding individual, consumed with the concept of death, sought out personal power and increased strength, endowing himself with cybernetic implants until he became more powerful than any of his brethren.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5274137e3e2cd/standard_xlarge.jpg",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/2/50/537bc6be6cafc.gif",
+    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/6/00/537bc6a21256d.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5274137e3e2cd/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": {
+    "blue": 42,
+    "green": 25,
+    "red": 35,
+    "rgb": "23192A"
+  },
   "name": "Thanos",
   "partners": [
   ],

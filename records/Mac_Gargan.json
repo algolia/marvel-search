@@ -13,8 +13,13 @@
     "Stan Lee"
   ],
   "description": "MacDonald \"Mac\" Gargan is a fictional character that appears in comic books published by Marvel Comics.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Mac Gargan",
   "partners": [
   ],

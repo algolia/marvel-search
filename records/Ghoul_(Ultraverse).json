@@ -12,8 +12,11 @@
     "Tom Mason"
   ],
   "description": "Ghoul is a character from Malibu Comics' Ultraverse continuity.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ghoul",
   "partners": [
   ],

@@ -7,9 +7,12 @@
     "Steve Ditko"
   ],
   "description": "The Mindless Ones are fictional monsters appearing in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Mindless_One.jpg/250px-Mindless_One.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Mindless_One.jpg/250px-Mindless_One.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mindless Ones",
   "partners": [
   ],

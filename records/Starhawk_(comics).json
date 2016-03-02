@@ -8,9 +8,14 @@
     "Sal Buscema"
   ],
   "description": "Though best known as a 31st century hero in the alternate Reality-691 timeline, the enigmatic, space-faring Starhawk originated a millennium earlier.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Starhawk.jpg/250px-Starhawk.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Starhawk.jpg/250px-Starhawk.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Starhawk (Stakar Ogord)",
   "partners": [
   ],

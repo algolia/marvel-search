@@ -9,9 +9,12 @@
     "Roy Thomas",
     "Frank Robbins"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Mystic_Comics_8.jpg/250px-Mystic_Comics_8.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Mystic_Comics_8.jpg/250px-Mystic_Comics_8.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "The Destroyer",
   "partners": [
   ],

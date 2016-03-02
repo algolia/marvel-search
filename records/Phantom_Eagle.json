@@ -7,9 +7,12 @@
     "Herb Trimpe"
   ],
   "description": "Phantom Eagle is the name used by three fictional comic book aviator heroes.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/MarvelSuper-Heroes16.jpg/220px-MarvelSuper-Heroes16.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/MarvelSuper-Heroes16.jpg/220px-MarvelSuper-Heroes16.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Phantom Eagle",
   "partners": [
   ],

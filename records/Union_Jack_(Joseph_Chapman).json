@@ -8,9 +8,14 @@
     "Roger Stern"
   ],
   "description": "Imprisoned in Germany during WWII, Brian Falsworth shared a cell with a German scientist who had tried to recreate the super-soldier serum, but didn't want it to fall into Nazi hands, so he gave his only sample to Brian, who gained enhanced strength, speed, stamina and reflexes.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/UNION_JACK_1.jpg/250px-UNION_JACK_1.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/UNION_JACK_1.jpg/250px-UNION_JACK_1.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Union Jack (Brian Falsworth)",
   "partners": [
   ],

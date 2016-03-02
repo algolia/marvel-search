@@ -7,9 +7,14 @@
     "Adam Pollina"
   ],
   "description": "Risque (Gloria Dolores Muñoz) is a fictional character, a mutant in the Marvel Universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c7c645aa1623/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c7c645aa1623/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Risque",
   "partners": [
   ],

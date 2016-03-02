@@ -29,9 +29,14 @@
     "Tony Isabella"
   ],
   "description": "Baron Zemo is the name of two fictional characters, both supervillains, in various Marvel Comics comic books, notably Captain America and the Avengers.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4c0041f84c9fe/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4c0041f84c9fe/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": true,
+  "mainColor": null,
   "name": "Baron Zemo (Heinrich Zemo)",
   "partners": [
     "Primus",

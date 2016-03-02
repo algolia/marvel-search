@@ -8,9 +8,12 @@
     "John Buscema"
   ],
   "description": "Man-Ape is a fictional character, a supervillain in the Marvel Comics Universe, and frequent enemy of the Black Panther.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/6/63/Manape.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/63/Manape.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Man-Ape",
   "partners": [
     "Grim Reaper",

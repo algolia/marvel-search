@@ -10,9 +10,14 @@
     "Tom DeFalco"
   ],
   "description": "Jason Philip Macendale, Jr. is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Webofspiderman93panel.jpg/250px-Webofspiderman93panel.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Webofspiderman93panel.jpg/250px-Webofspiderman93panel.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Hobgoblin (Jason Macendale)",
   "partners": [
     "Mendel Stromm",

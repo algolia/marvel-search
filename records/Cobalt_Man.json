@@ -7,9 +7,14 @@
     "Roy Thomas"
   ],
   "description": "Cobalt Man (Ralph Roberts) is a fictional supervillain in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cobalt_Man.jpg/250px-Cobalt_Man.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cobalt_Man.jpg/250px-Cobalt_Man.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Cobalt Man",
   "partners": [
   ],

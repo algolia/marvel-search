@@ -9,9 +9,12 @@
     "Jack Kirby"
   ],
   "description": "Giganto is the name of two Marvel Comics monsters.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Giganto1.jpg/250px-Giganto1.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Giganto1.jpg/250px-Giganto1.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Giganto",
   "partners": [
     "Inorganic Technodrones",

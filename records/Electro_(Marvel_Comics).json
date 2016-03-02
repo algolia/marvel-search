@@ -8,9 +8,14 @@
     "Stan Lee"
   ],
   "description": "Electro (Maxwell \"Max\" Dillon) is a fictional character, a supervillain who appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4c003f1214bd7/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4c003f1214bd7/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Electro",
   "partners": [
   ],

@@ -6,9 +6,12 @@
     "Len Wein",
     "Ross Andru"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/WillO_Wisp.jpg/250px-WillO_Wisp.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/WillO_Wisp.jpg/250px-WillO_Wisp.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Will o' the Wisp",
   "partners": [
     "Jonas Harrow",

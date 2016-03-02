@@ -9,9 +9,14 @@
     "Gail Simone"
   ],
   "description": "Originally a partner of the mind-altering assassin Black Swan, Nijo spied on Deadpool as part of the Swan's plan to exact revenge for Deadpool falsely taking credit for the Swan's assassination of the Four Winds crime family, which included Nijo's brother.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/Agent_X_03_Udon_Studios.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a9/Agent_X_03_Udon_Studios.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Agent X (Nijo)",
   "partners": [
   ],

@@ -8,8 +8,11 @@
     "Peter David"
   ],
   "description": "Tracer is a fictional character, a supervillain in the Marvel Comics Universe, in which he is an enemy of Spider-Man.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Tracer",
   "partners": [
   ],

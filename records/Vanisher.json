@@ -9,9 +9,14 @@
     "Stan Lee"
   ],
   "description": "Vanisher worked for Apocalypse.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Xforce69.jpg/250px-Xforce69.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Xforce69.jpg/250px-Xforce69.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Vanisher (Age of Apocalypse)",
   "partners": [
   ],

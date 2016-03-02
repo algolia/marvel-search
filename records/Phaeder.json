@@ -8,9 +8,12 @@
     "Mark Gruenwald"
   ],
   "description": "Phaeder is a fictional supervillain in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sinistermeets12.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sinistermeets12.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Phaeder",
   "partners": [
   ],

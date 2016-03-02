@@ -8,9 +8,12 @@
     "Christopher Yost"
   ],
   "description": "Matthew Risman is a fictional character, in the Marvel Universe and a deadly enemy of mutants including the X-Men.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Matthewrisman.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/Matthewrisman.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Matthew Risman",
   "partners": [
   ],

@@ -5,9 +5,12 @@
   "authors": [
   ],
   "description": "Dirtnap is a fictional mutant character in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Dirtnap_genx38_tdodson.jpg/250px-Dirtnap_genx38_tdodson.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Dirtnap_genx38_tdodson.jpg/250px-Dirtnap_genx38_tdodson.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Dirtnap",
   "partners": [
     "Generation X",

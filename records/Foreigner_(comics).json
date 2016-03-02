@@ -7,9 +7,12 @@
     "Peter David"
   ],
   "description": "The Foreigner is a fictional comic book supervillain in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/SpideyForeigner209.jpg/200px-SpideyForeigner209.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/SpideyForeigner209.jpg/200px-SpideyForeigner209.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Foreigner",
   "partners": [
   ],

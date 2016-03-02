@@ -7,9 +7,12 @@
     "Chris Claremont"
   ],
   "description": "Red Lotus (Paul Hark) is a fictional character, a mutant in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Red_Lotus_%28Paul_Hark%29.jpg/180px-Red_Lotus_%28Paul_Hark%29.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Red_Lotus_%28Paul_Hark%29.jpg/180px-Red_Lotus_%28Paul_Hark%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Red Lotus",
   "partners": [
   ],

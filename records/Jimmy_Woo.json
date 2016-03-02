@@ -7,9 +7,14 @@
     "Joe Maneely"
   ],
   "description": "Jimmy Woo is a former FBI and SHIELD agent from the '50s who now leads the Agents of Atlas in the present.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c0030a8ec05b/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c0030a8ec05b/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Jimmy Woo",
   "partners": [
   ],

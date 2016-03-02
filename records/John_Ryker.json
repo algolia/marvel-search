@@ -8,9 +8,12 @@
     "Paul JenkinsRon Garney"
   ],
   "description": "General John Ryker is a fictional comic book antagonist who appears in books published by Marvel Comics, usually as an enemy of the Hulk.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/John_Ryker.jpg/100px-John_Ryker.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/John_Ryker.jpg/100px-John_Ryker.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "General John Ryker",
   "partners": [
   ],

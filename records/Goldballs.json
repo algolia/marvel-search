@@ -6,9 +6,12 @@
     "Brian Michael Bendis",
     "Chris Bachalo"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/Fabio_Medina_X-Men.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d2/Fabio_Medina_X-Men.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Goldballs",
   "partners": [
   ],

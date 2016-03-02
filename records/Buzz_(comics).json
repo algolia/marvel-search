@@ -10,8 +10,11 @@
     "Tom DeFalco"
   ],
   "description": "The Buzz (Jack \"JJ\" Jameson) is a fictional character in the Spider-Girl comic book series, published by Marvel Comics.",
+  "images": {
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Buzz",
   "partners": [
     "Spider-Girl"

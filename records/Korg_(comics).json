@@ -7,9 +7,14 @@
     "Carlo Pagulayan"
   ],
   "description": "Korg is a character in the Marvel Comics universe and is first seen in The Incredible Hulk #93 during the Planet Hulk storyline.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5269581a55d0c/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5269581a55d0c/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Korg",
   "partners": [
   ],

@@ -5,9 +5,12 @@
   "authors": [
     "Archie Goodwin"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/PsiForce1.jpg/250px-PsiForce1.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/PsiForce1.jpg/250px-PsiForce1.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Rodstvow",
   "partners": [
   ],

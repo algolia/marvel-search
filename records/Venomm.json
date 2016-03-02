@@ -7,8 +7,11 @@
     "Rich Buckler"
   ],
   "description": "Venomm is a fictional character in the Marvel Universe, distinct from the half-alien fictional character known as Venom.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Venomm",
   "partners": [
     "Erik Killmonger",

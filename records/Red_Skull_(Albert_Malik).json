@@ -18,9 +18,14 @@
     "Jack Kirby",
     "France Herron"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Capa038.jpg/200px-Capa038.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Capa038.jpg/200px-Capa038.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Red Skull (Albert Malik)",
   "partners": [
     "Sin",

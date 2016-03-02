@@ -15,9 +15,14 @@
     "Paul Neary"
   ],
   "description": "Viper, formerly known as Madame Hydra, is a fictional character, a supervillainess in the Marvel Comics universe who is a foe of the Avengers and the X-Men.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4d5c39a54b1dd/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4d5c39a54b1dd/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Madame Hydra",
   "partners": [
   ],

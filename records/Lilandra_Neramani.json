@@ -8,9 +8,12 @@
     "Dave Cockrum"
   ],
   "description": "Lilandra Neramani is a fictional character in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Xmen122.png/250px-Xmen122.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Xmen122.png/250px-Xmen122.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Princess-Majestrix Lilandra Neramani",
   "partners": [
   ],

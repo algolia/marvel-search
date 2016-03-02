@@ -7,9 +7,14 @@
     "Pete Woods"
   ],
   "description": "Suzanne Chan saw her parents gunned down in front of her, though she remained unscathed due to her manifesting mutant ability to stop time.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/4c003266ccbab/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/4c003266ccbab/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Sway",
   "partners": [
   ],

@@ -8,9 +8,14 @@
     "Joss Whedon"
   ],
   "description": "Ord is a fictional character, a comic book supervillain in books published by Marvel Comics, specifically as an enemy of the X-Men.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c002f1c476f9/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c002f1c476f9/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ord",
   "partners": [
   ],

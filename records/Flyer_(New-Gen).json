@@ -9,9 +9,12 @@
     "Chris Matonti"
   ],
   "description": "Flyer (Jude Jackson) is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Flyer_new_gen.jpg/250px-Flyer_new_gen.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Flyer_new_gen.jpg/250px-Flyer_new_gen.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Flyer",
   "partners": [
   ],

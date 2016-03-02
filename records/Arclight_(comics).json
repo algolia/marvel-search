@@ -6,9 +6,14 @@
     "Chris Claremont"
   ],
   "description": "Arclight (Philippa Sontag) is a mutant supervillain in the Marvel Comics universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c0042067fd8b/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c0042067fd8b/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Arclight",
   "partners": [
   ],

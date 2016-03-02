@@ -13,9 +13,14 @@
     "Don Glut"
   ],
   "description": "Quasar (Wendell Elvis Vaughn) is a fictional character, a comic book superhero in the Marvel Comics Universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/52741171e681e/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/52741171e681e/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Quasar (Phyla-Vell)",
   "partners": [
   ],

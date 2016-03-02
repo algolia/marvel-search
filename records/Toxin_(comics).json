@@ -10,9 +10,14 @@
     "Peter Milligan"
   ],
   "description": "NYPD Officer Patrick Mulligan was implanted with a symbiote offspring during a chance encounter with Carnage.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4c003a94e668a/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4c003a94e668a/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Toxin",
   "partners": [
   ],

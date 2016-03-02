@@ -5,9 +5,12 @@
     "Tom DeFalco",
     "Ron Frenz"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Cover_of_The_Mighty_Thor-392.jpg/250px-Cover_of_The_Mighty_Thor-392.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Cover_of_The_Mighty_Thor-392.jpg/250px-Cover_of_The_Mighty_Thor-392.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Quicksand",
   "partners": [
   ],

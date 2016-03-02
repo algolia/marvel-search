@@ -8,9 +8,12 @@
     "Bob Budiansky"
   ],
   "description": "Centurious is a fictional character in the Marvel Universe.Centurious was a servant of Mephisto and an enemy of Zarathos.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Centurious1.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/44/Centurious1.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Centurious",
   "partners": [
   ],

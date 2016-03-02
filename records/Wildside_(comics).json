@@ -7,8 +7,13 @@
     "Louise Simonson"
   ],
   "description": "Wildside (Richard Gill) is a fictional mutant villain and sadist in the Marvel Comics universe.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Wildside",
   "partners": [
   ],

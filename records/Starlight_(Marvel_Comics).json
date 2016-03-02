@@ -7,9 +7,12 @@
     "Steve Gerber",
     "Sal Buscema"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Starlight1.jpg/153px-Starlight1.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Starlight1.jpg/153px-Starlight1.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Starlight",
   "partners": [
     "Presence"

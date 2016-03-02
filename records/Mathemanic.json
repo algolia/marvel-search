@@ -7,8 +7,13 @@
     "Fabian Nicieza"
   ],
   "description": "Mathemanic (Thomas Sorenson) is a fictional character in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mathemanic",
   "partners": [
   ],

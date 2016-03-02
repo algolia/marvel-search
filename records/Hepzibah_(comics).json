@@ -10,9 +10,14 @@
     "Chris Claremont"
   ],
   "description": "Hepzibah is a fictional character in the Marvel Comics universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4c003eda76ac7/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4c003eda76ac7/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Hepzibah",
   "partners": [
   ],

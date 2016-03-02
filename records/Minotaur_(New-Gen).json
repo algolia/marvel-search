@@ -10,9 +10,12 @@
     "Chris Matonti"
   ],
   "description": "Minotaur or Mini is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Minatour_new_gen.jpg/250px-Minatour_new_gen.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Minatour_new_gen.jpg/250px-Minatour_new_gen.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mini",
   "partners": [
   ],

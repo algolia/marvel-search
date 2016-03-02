@@ -8,8 +8,13 @@
     "Chris Claremont"
   ],
   "description": "Harpoon (Kodiak Noatak) is a fictional character created by Marvel Comics.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Harpoon",
   "partners": [
   ],

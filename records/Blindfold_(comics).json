@@ -7,9 +7,14 @@
     "John Cassaday"
   ],
   "description": "Blindfold (Ruth Aldine) is a fictional character, a mutant and a member of the student body of the Xavier Institute in Marvel Comics' X-Men-related comic books.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/4ce5a5f7cabea/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/4ce5a5f7cabea/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Blindfold",
   "partners": [
   ],

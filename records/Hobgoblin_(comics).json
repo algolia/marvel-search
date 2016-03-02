@@ -10,9 +10,14 @@
     "Roger Stern"
   ],
   "description": "The Hobgoblin is the alias of several fictional characters, supervillains that appear in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Hobgoblin_%28Marvel_Comics%29.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/89/Hobgoblin_%28Marvel_Comics%29.png"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Hobgoblin (Jason Macendale)",
   "partners": [
   ],

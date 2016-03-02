@@ -8,8 +8,13 @@
     "Chris Claremont"
   ],
   "description": "Tusk is a fictional supervillain in the Marvel Comics Universe.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Tusk",
   "partners": [
   ],

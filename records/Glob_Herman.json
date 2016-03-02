@@ -7,9 +7,12 @@
     "Ethan Van Sciver"
   ],
   "description": "Glob Herman (Robert Herman) is a fictional mutant character, a supervillain of the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Omega_gang_full.jpg/250px-Omega_gang_full.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Omega_gang_full.jpg/250px-Omega_gang_full.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Glob Herman",
   "partners": [
   ],

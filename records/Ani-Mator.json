@@ -7,9 +7,12 @@
     "Bret Blevins"
   ],
   "description": "The Ani-Mator (Dr. Frederick Animus) is a fictional character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/0/05/AniMator.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/05/AniMator.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ani-Mator",
   "partners": [
   ],

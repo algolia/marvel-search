@@ -7,9 +7,12 @@
     "John Romita, Jr."
   ],
   "description": "Tommy is a Marvel Comics mutant, who first appeared in Uncanny X-Men #210.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Tommymorlock1.jpg/200px-Tommymorlock1.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Tommymorlock1.jpg/200px-Tommymorlock1.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Tommy",
   "partners": [
   ],

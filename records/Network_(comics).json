@@ -10,9 +10,14 @@
     "Nunzio DeFilippis and Christina Weir"
   ],
   "description": "Network is the name of three unrelated fictional characters in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Network_%28NXM%29.jpg/130px-Network_%28NXM%29.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Network_%28NXM%29.jpg/130px-Network_%28NXM%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Network",
   "partners": [
   ],

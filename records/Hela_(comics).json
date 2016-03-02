@@ -7,9 +7,12 @@
     "Stan Lee"
   ],
   "description": "Hela is a fictional character, the Asgardian goddess of death in the Marvel Comics universe, based on the Norse goddess, Hel.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Cover_of_Thor-150.jpg/250px-Cover_of_Thor-150.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Cover_of_Thor-150.jpg/250px-Cover_of_Thor-150.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Hela",
   "partners": [
   ],

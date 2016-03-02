@@ -9,8 +9,13 @@
     "Gene Colan"
   ],
   "description": "Thunderbolt is the name of two fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Thunderbolt (Bill Carver)",
   "partners": [
   ],

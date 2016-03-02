@@ -8,8 +8,11 @@
     "Jack Kirby"
   ],
   "description": "Wong-Chu is a fictional character, a comic book supervillain that appears in comic books published by Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Wong-Chu",
   "partners": [
   ],

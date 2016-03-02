@@ -8,9 +8,19 @@
     "Jack Kirby"
   ],
   "description": "The Punisher is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5261675f6b22f/standard_xlarge.jpg",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/2/10/537bbfbac70ee.gif",
+    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/3/a0/537bbf9760505.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5261675f6b22f/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 40,
+    "green": 38,
+    "red": 13,
+    "rgb": "0D2628"
+  },
   "name": "Punisher",
   "partners": [
   ],

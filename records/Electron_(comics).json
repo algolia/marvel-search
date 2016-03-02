@@ -7,8 +7,11 @@
     "Dave Cockrum"
   ],
   "description": "Electron is a fictional character in the Marvel Universe.Electron is a warrior serving in the Royal Elite of the Shi'ar Imperial Guard.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Electron",
   "partners": [
   ],

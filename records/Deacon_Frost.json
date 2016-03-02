@@ -8,9 +8,14 @@
     "Marv Wolfman"
   ],
   "description": "Deacon Frost is a fictional character appearing in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Deaconfrost.png/250px-Deaconfrost.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Deaconfrost.png/250px-Deaconfrost.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Deacon Frost",
   "partners": [
   ],

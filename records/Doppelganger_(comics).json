@@ -10,9 +10,12 @@
     "Al Milgrom"
   ],
   "description": "The Doppelganger, also called the Spider-Doppelganger, is a fictional character and supervillain in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Spiderdoppelganger.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/36/Spiderdoppelganger.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "spider-doppelganger",
   "partners": [
     "Carnage",

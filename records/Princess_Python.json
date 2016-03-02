@@ -7,9 +7,12 @@
     "Steve Ditko"
   ],
   "description": "Princess Python is the name of two characters in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Pwj16.jpg/200px-Pwj16.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Pwj16.jpg/200px-Pwj16.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Princess Python",
   "partners": [
   ],

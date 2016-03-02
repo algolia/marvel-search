@@ -8,9 +8,12 @@
     "Jack Kirby"
   ],
   "description": "Based on the frost giant of the same name from Norse mythology, Ymir is a fictional character that appears in publications published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png/250px-Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png/250px-Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ymir",
   "partners": [
     "Surtur"

@@ -10,9 +10,14 @@
     "Paul Neary"
   ],
   "description": "With the end of the Vietnam War, John Walker thought his dreams of becoming a war hero had also ended, until he learned of the Power Broker, who could give anyone superhuman powers, which Walker used to first become Super-Patriot and later, U.S. Agent.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/535febe8b095a/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/535febe8b095a/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "U.S. Agent",
   "partners": [
     "Battlestar"

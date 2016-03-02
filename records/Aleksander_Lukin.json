@@ -8,9 +8,14 @@
     "Ed Brubaker"
   ],
   "description": "Aleksander Lukin (Russian: Александр Лукин) is a fictional character in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/c/c7/Lukin.PNG",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c7/Lukin.PNG"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Red Skull (Albert Malik)",
   "partners": [
   ],

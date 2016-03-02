@@ -10,9 +10,12 @@
     "John Buscema"
   ],
   "description": "The Red Guardian is the name of several comic book superheroes in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Avengers-43.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/69/Avengers-43.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Red Guardian",
   "partners": [
   ],

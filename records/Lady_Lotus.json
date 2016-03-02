@@ -9,9 +9,12 @@
     "Alan Kupperberg"
   ],
   "description": "Lady Lotus (also known as Lotus Newmark) is a fictional supervillainess from Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Lady_Lotus.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f8/Lady_Lotus.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Lady Lotus",
   "partners": [
     "Yellow Claw"

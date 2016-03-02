@@ -8,9 +8,12 @@
     "Jack Kirby"
   ],
   "description": "It! The Living Colossus (Robert \"Bob\" O'Bryan) is a fictional character in comic-book published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/LivingColossus.jpg/249px-LivingColossus.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/LivingColossus.jpg/249px-LivingColossus.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "It! The Living Colossus",
   "partners": [
   ],

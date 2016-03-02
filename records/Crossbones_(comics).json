@@ -10,9 +10,14 @@
     "Mark Gruenwald"
   ],
   "description": "Crossbones (Brock Rumlow) is a fictional character, a supervillain in the Marvel Comics universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4c00405a403c0/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4c00405a403c0/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Crossbones",
   "partners": [
     "Red Skull",

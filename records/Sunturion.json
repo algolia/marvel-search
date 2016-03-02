@@ -10,9 +10,12 @@
     "Christopher Priest"
   ],
   "description": "Sunturion is the name of two fictional characters that appear in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sunturion.jpg/159px-Sunturion.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sunturion.jpg/159px-Sunturion.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Sunturion",
   "partners": [
   ],

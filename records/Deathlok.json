@@ -15,9 +15,14 @@
     "Jackson Guice"
   ],
   "description": "&nbsp;",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/526165a98dd8e/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/526165a98dd8e/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Deathlok",
   "partners": [
   ],

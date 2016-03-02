@@ -4,9 +4,12 @@
   ],
   "authors": [
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/1/19/Marvel_Nemesis.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/19/Marvel_Nemesis.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Hazmat (Marvel Nemesis: Rise of the Imperfects)",
   "partners": [
   ],

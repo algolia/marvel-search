@@ -13,9 +13,12 @@
     "Sal Buscema"
   ],
   "description": "The Grand Director (William Burnside), also known as the Captain America of the 1950s, is a fictional character in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Grand_Director.jpg/250px-Grand_Director.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Grand_Director.jpg/250px-Grand_Director.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Grand Director",
   "partners": [
   ],

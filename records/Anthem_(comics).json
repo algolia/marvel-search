@@ -5,9 +5,14 @@
     "Matt Fraction",
     "Barry Kitson"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Anthem_%28comics%29.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9b/Anthem_%28comics%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Anthem",
   "partners": [
   ],

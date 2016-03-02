@@ -9,9 +9,19 @@
     "John Byrne"
   ],
   "description": "Spider-Woman (Mattie Franklin) is a fictional character who is a superhero in the Marvel Comics universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/531771afe4ffa/standard_xlarge.jpg",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/8/c0/537bc50e40e1c.gif",
+    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/a/00/537bc4cb87e68.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/531771afe4ffa/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "red": 63,
+    "rgb": "3F0606"
+  },
   "name": "Spider-Woman (Charlotte Witter)",
   "partners": [
   ],

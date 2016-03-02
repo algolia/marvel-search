@@ -15,9 +15,19 @@
     "Ed McGuiness"
   ],
   "description": "General Thaddeus E. \"Thunderbolt\" Ross (Red Hulk) is a fictional character, a supervillain and anti-hero and one of the arch-enemies of the Hulk, who appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/5102cb7fc1262/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/5102cb7fc1262/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": {
+    "blue": 6,
+    "green": 6,
+    "red": 63,
+    "rgb": "3F0606"
+  },
   "name": "Red Hulk",
   "partners": [
   ],

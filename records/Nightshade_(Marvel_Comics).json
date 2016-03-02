@@ -11,9 +11,14 @@
     "Alan Lee Weiss"
   ],
   "description": "Nightshade (Tilda Johnson), formerly known as Dr. Nightshade and Deadly Nightshade is a fictional character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/CaptainAmerica164.jpg/200px-CaptainAmerica164.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/CaptainAmerica164.jpg/200px-CaptainAmerica164.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Nightshade",
   "partners": [
     "Yellow Claw"

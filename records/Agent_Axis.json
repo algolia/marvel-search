@@ -13,8 +13,11 @@
     "Frank Robbins"
   ],
   "description": "Agent Axis is the name of three fictional comic book supervillains, two from DC Comics and the other from Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Agent Axis",
   "partners": [
   ],

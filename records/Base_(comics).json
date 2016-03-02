@@ -4,9 +4,12 @@
   ],
   "authors": [
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Base-HiroSokuto.gif",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3e/Base-HiroSokuto.gif"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Base",
   "partners": [
   ],

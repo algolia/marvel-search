@@ -7,9 +7,12 @@
     "Doug Moench"
   ],
   "description": "Razor Fist is a Marvel Comics supervillain.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Razor_fist.jpg/250px-Razor_fist.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Razor_fist.jpg/250px-Razor_fist.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Razor Fist",
   "partners": [
   ],

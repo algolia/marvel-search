@@ -10,9 +10,12 @@
     "Howard Mackie"
   ],
   "description": "Candra, sometimes called Kandra is a fictional character, a Mutant supervillainess appearing in Marvel Comics universe.She is a member of the Externals and has exhibited immensely powerful telekinetic abilities in addition to being immortal.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Candra.JPG/248px-Candra.JPG",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Candra.JPG/248px-Candra.JPG"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Candra",
   "partners": [
   ],

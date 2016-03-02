@@ -11,8 +11,13 @@
     "Dick Ayers"
   ],
   "description": "The Rattler (Gustav Krueger) is a fictional character from the Marvel Comics Universe, and is a member of the Serpent Society.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Rattler",
   "partners": [
   ],

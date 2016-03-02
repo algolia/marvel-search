@@ -7,9 +7,12 @@
     "Peter B. Gillis"
   ],
   "description": "Blackthorn (Aline Pagrovna) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Blackthorn_Morituri_cover.jpg/250px-Blackthorn_Morituri_cover.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Blackthorn_Morituri_cover.jpg/250px-Blackthorn_Morituri_cover.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Blackthorn",
   "partners": [
   ],

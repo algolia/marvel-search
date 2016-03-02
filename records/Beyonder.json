@@ -10,9 +10,14 @@
     "Mike Zeck"
   ],
   "description": "The Beyonder is a fictional comic book character appearing in books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/528d31df87c49/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/528d31df87c49/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Beyonder",
   "partners": [
   ],
@@ -37,7 +42,7 @@
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1011138/beyonder",
+    "marvel": "http://marvel.com/characters/260/beyonder",
     "wikipedia": "https://en.wikipedia.org/wiki/Beyonder"
   }
 }

@@ -7,9 +7,14 @@
     "Yanick Paquette"
   ],
   "description": "Ink (Eric Gitter) is a comic book character, a superhero in Marvel Comics' main shared universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Ink_Wiki.png/200px-Ink_Wiki.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Ink_Wiki.png/200px-Ink_Wiki.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Ink",
   "partners": [
   ],

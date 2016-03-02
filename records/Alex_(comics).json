@@ -4,9 +4,12 @@
   ],
   "authors": [
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Callistox.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/7c/Callistox.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Alex",
   "partners": [
   ],

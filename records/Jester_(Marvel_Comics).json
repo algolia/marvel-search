@@ -12,8 +12,11 @@
     "Stan Lee"
   ],
   "description": "Jester is the name of several Marvel Comics supervillains.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Jester",
   "partners": [
   ],

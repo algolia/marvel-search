@@ -11,9 +11,12 @@
     "Jimmy Palmiotti"
   ],
   "description": "Dr. Gregory Herd is a fictional character, a supervillain who appears in the comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Gregory_Herd_Shadrac.JPG/150px-Gregory_Herd_Shadrac.JPG",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Gregory_Herd_Shadrac.JPG/150px-Gregory_Herd_Shadrac.JPG"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Gregory Herd",
   "partners": [
   ],

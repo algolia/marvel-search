@@ -9,9 +9,14 @@
     "Sal Buscema"
   ],
   "description": "James Saunders, a disgruntled chemist tired of his job with the Hudson Pharmaceutical Company of West Caldwell, New Jersey, was contacted by the Grandmaster and offered superhuman powers in exchange for joining a team that would compete on his behalf.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c0032463bef2/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c0032463bef2/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Speed Demon",
   "partners": [
   ],

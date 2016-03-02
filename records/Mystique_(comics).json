@@ -22,9 +22,14 @@
     "Dave Cockrum"
   ],
   "description": "Mystique (Raven Darkhölme) is a fictional character who appears in American comic books published by Marvel Comics, as well as in a number of movie, television, and video game adaptations, typically in fiction related to the X-Men.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/5390dc2225782/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/5390dc2225782/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mystique",
   "partners": [
   ],

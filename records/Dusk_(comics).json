@@ -7,9 +7,12 @@
     "Adam Pollina"
   ],
   "description": "Dusk was an identity used by several fictional superheroes in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/DuskCassie.jpg/250px-DuskCassie.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/DuskCassie.jpg/250px-DuskCassie.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Dusk",
   "partners": [
   ],

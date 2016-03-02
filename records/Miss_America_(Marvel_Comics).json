@@ -8,9 +8,14 @@
     "Al Gabriele"
   ],
   "description": "Miss America (Madeline Joyce Frank) is a superhero fictional character in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/MissAmericaComics_n1_1944.jpg/200px-MissAmericaComics_n1_1944.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/MissAmericaComics_n1_1944.jpg/200px-MissAmericaComics_n1_1944.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Miss America",
   "partners": [
   ],

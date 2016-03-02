@@ -9,9 +9,14 @@
     "Christopher Priest"
   ],
   "description": "Federal agent Angela Del Toro is the heir to a heroic legacy that began with the Jade Tiger, a long-lost enchanted statue from the fabled kingdom of K'un-Lun, and had been last held by her uncle, Hector Ayala, who fought alongside such heroes as Daredevil and Spider-Man.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Kaspercole.png/250px-Kaspercole.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Kaspercole.png/250px-Kaspercole.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "White Tiger (Angela Del Toro)",
   "partners": [
   ],

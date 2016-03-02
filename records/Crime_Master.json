@@ -15,8 +15,11 @@
     "Stan Lee"
   ],
   "description": "The Crime Master is a Marvel Comics super-villain, of the professional-criminal type, and an enemy of Spider-Man.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Crime Master",
   "partners": [
   ],

@@ -7,8 +7,13 @@
     "Rob Liefeld"
   ],
   "description": "Reaper is the name of several fictional characters in the pages of Marvel Comics, most notably the Reaper whose real name is Pantu Hurageb, a mutant in the X-Force comic book series.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Reaper",
   "partners": [
   ],

@@ -7,9 +7,12 @@
     "Brent Anderson"
   ],
   "description": "Vyking (Harold Carl Everson) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Vyking.jpg/250px-Vyking.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Vyking.jpg/250px-Vyking.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Vyking",
   "partners": [
   ],

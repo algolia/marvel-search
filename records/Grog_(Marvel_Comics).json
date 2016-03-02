@@ -9,8 +9,11 @@
     "Ron Frenz"
   ],
   "description": "Grog the God-Slayer is a fictional character in the Marvel Universe, and a member of the Heliopolitan race of gods.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Grog",
   "partners": [
     "Seth"

@@ -8,9 +8,14 @@
     "Gerry Conway"
   ],
   "description": "Firelord (Pyreus Kril) is a character in the fictional Marvel Universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59fd314c38/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59fd314c38/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Firelord",
   "partners": [
   ],

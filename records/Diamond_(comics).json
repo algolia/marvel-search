@@ -9,9 +9,12 @@
     "J.D. Matonti"
   ],
   "description": "Diamond (Kent Chang) is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Diamond_new_gen.jpg/250px-Diamond_new_gen.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Diamond_new_gen.jpg/250px-Diamond_new_gen.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Diamond",
   "partners": [
   ],

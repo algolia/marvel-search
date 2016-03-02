@@ -7,9 +7,14 @@
     "Charles Nicholas"
   ],
   "description": "The Blue Blade (real name Roy Chambers) is an American comic book character owned by Marvel Comics who exists in that company's Marvel Universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4ce5a4b76d1c0/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4ce5a4b76d1c0/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Blue Blade",
   "partners": [
   ],

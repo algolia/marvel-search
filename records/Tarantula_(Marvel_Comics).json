@@ -12,9 +12,14 @@
     "Gerry Conway"
   ],
   "description": "Alvarez replaced the original Tarantula after his death by the dictatorship Delvadian government.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/ASM134Cover.jpg/250px-ASM134Cover.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/ASM134Cover.jpg/250px-ASM134Cover.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Tarantula (Luis Alvarez)",
   "partners": [
   ],

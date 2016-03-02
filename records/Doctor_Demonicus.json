@@ -7,9 +7,12 @@
     "Tom Sutton"
   ],
   "description": "Doctor Demonicus (Douglas Birely) is a fictional character, a supervillain in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Dr._demonicus.jpg/249px-Dr._demonicus.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Dr._demonicus.jpg/249px-Dr._demonicus.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Doctor Demonicus",
   "partners": [
   ],

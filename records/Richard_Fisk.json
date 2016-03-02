@@ -10,9 +10,14 @@
     "Stan Lee"
   ],
   "description": "Richard Fisk is a fictional character, a criminal in the Marvel Comics Universe, featured in the comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Webofspiderman30.jpg/250px-Webofspiderman30.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Webofspiderman30.jpg/250px-Webofspiderman30.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Richard Fisk",
   "partners": [
   ],

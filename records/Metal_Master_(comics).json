@@ -7,9 +7,14 @@
     "Steve Ditko"
   ],
   "description": "Metal Master is a fictional character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Metal_Master_63.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/55/Metal_Master_63.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Metal Master",
   "partners": [
   ],

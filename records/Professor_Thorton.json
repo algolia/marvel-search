@@ -9,8 +9,13 @@
     "Barry Windsor-Smith"
   ],
   "description": "Professor Andre Thorton (real name Truett Hudson; also known as The Professor) is a character in Marvel Comics, an enemy of Wolverine.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "The Professor",
   "partners": [
   ],

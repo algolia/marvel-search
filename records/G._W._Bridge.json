@@ -9,9 +9,12 @@
     "Fabian Nicieza"
   ],
   "description": "George Washington \"G.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Gebridge.jpg/250px-Gebridge.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Gebridge.jpg/250px-Gebridge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "G. W. Bridge",
   "partners": [
   ],

@@ -9,9 +9,14 @@
     "Walter Simonson"
   ],
   "description": "A young veteran wounded during the Vietnam War, Abraham Kieros was selected by Apocalypse to become the Horseman War.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Xfactor19_005.jpg/199px-Xfactor19_005.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Xfactor19_005.jpg/199px-Xfactor19_005.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "War (Abraham Kieros)",
   "partners": [
   ],

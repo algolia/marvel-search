@@ -7,9 +7,12 @@
     "Jack Kirby"
   ],
   "description": "General Samuel \"Happy Sam\" Sawyer is a fictional character in Marvel Comics Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Samsawyer.jpg/150px-Samsawyer.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Samsawyer.jpg/150px-Samsawyer.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Happy Sam Sawyer",
   "partners": [
   ],

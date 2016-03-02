@@ -5,9 +5,12 @@
     "Stan Lee",
     "Steve Ditko"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/Superior-Spider-Man-26.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f2/Superior-Spider-Man-26.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Goblin",
   "partners": [
   ],

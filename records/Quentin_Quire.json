@@ -9,9 +9,14 @@
     "Grant Morrison"
   ],
   "description": "Quintavius \"Quentin\" Quirinius Quire, also known as Kid Omega, is a fictional character appearing in books published by Marvel Comics, usually in those featuring the X-Men.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c003d7fc6294/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c003d7fc6294/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Quentin Quire",
   "partners": [
   ],

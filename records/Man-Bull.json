@@ -8,8 +8,11 @@
     "Gerry Conway"
   ],
   "description": "Man-Bull is a fictional character, a supervillain from Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Man-Bull",
   "partners": [
     "Matador"

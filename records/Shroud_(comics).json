@@ -9,9 +9,12 @@
     "Herb Trimpe"
   ],
   "description": "The Shroud (Maximillian Quincy Coleridge) is a fictional superhero in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/The_shroud.jpg/250px-The_shroud.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/The_shroud.jpg/250px-The_shroud.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Shroud",
   "partners": [
   ],

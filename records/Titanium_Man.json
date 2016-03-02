@@ -11,9 +11,14 @@
     "Don Heck"
   ],
   "description": "The Titanium Man (\"Chelovek-Titan\") is the name of two fictional supervillains in the Marvel Comics universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/528d368ab3f46/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/528d368ab3f46/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Titanium Man (Topolov)",
   "partners": [
   ],

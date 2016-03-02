@@ -7,9 +7,12 @@
     "Peter Milligan"
   ],
   "description": "Onyxx (Sidney Green) is a fictional mutant appearing in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Onyxx.jpg/250px-Onyxx.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Onyxx.jpg/250px-Onyxx.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Onyxx",
   "partners": [
   ],

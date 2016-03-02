@@ -9,9 +9,12 @@
     "Chris Matonti"
   ],
   "description": "Thea is a fictional character that appears in the NEW-GEN comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/5/54/Thea_New_Gen.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/54/Thea_New_Gen.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Thea",
   "partners": [
   ],

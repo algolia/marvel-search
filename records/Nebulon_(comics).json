@@ -10,9 +10,12 @@
     "Sal Buscema"
   ],
   "description": "Nebulon is a fictional character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Defenders_34.jpg/250px-Defenders_34.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Defenders_34.jpg/250px-Defenders_34.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Nebulon",
   "partners": [
   ],

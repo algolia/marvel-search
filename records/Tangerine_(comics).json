@@ -7,9 +7,12 @@
     "Alan Davis"
   ],
   "description": "Tangerine is a fictional character appearing in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/TaniaReen.JPG/180px-TaniaReen.JPG",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/TaniaReen.JPG/180px-TaniaReen.JPG"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Tangerine",
   "partners": [
   ],

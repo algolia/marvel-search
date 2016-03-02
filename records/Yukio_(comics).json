@@ -7,9 +7,12 @@
     "Frank Miller"
   ],
   "description": "Yukio (雪緒) is a fictional character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Yukio_Profile.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/46/Yukio_Profile.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Yukio",
   "partners": [
     "Mariko Yashida",

@@ -7,9 +7,12 @@
     "Sal Buscema"
   ],
   "description": "Commander Kraken is a fictional character in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Cm.Kraken.jpg/250px-Cm.Kraken.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Cm.Kraken.jpg/250px-Cm.Kraken.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Commander Kraken",
   "partners": [
   ],

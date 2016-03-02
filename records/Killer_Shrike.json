@@ -8,8 +8,13 @@
     "John Buscema"
   ],
   "description": "Killer Shrike is the name of two fictional characters in Marvel Comics.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Killer Shrike",
   "partners": [
   ],

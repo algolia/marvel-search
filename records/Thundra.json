@@ -7,9 +7,14 @@
     "Gerry Conway"
   ],
   "description": "Thundra was quite possibly her world's greatest female specimens, and as she won countless battles against the men, she was revered as the Sisterhood's greatest hero.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4ce5a61df19e5/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4ce5a61df19e5/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Thundra",
   "partners": [
   ],

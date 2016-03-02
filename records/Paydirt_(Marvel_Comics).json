@@ -4,9 +4,12 @@
   ],
   "authors": [
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Avengers_Initiavive_number_1.jpeg/250px-Avengers_Initiavive_number_1.jpeg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Avengers_Initiavive_number_1.jpeg/250px-Avengers_Initiavive_number_1.jpeg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Paydirt",
   "partners": [
   ],

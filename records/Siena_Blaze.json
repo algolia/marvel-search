@@ -8,9 +8,12 @@
     "Tom Grummett"
   ],
   "description": "Siena Blaze (also spelled Sienna Blaze) is a mutant in Marvel Comics's X-Men comics series.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Siena_Blaze.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b6/Siena_Blaze.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Siena Blaze",
   "partners": [
   ],

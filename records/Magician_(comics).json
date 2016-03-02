@@ -9,9 +9,12 @@
     "Dick Ayers"
   ],
   "description": "Magician (Elliot Boggs) is a fictional character in the Ultimate Marvel imprint of Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/XMEN_Magician.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/XMEN_Magician.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Magician",
   "partners": [
   ],

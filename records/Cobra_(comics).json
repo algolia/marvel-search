@@ -11,8 +11,13 @@
     "Don Heck"
   ],
   "description": "Cobra is the name of different characters that appear in Marvel Comics.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "King Cobra",
   "partners": [
   ],

@@ -7,8 +7,13 @@
     "Stan Lee"
   ],
   "description": "Major Glenn Talbot was member of United States Air Force, United States Army and Hulkbusters.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Glenn Talbot",
   "partners": [
   ],

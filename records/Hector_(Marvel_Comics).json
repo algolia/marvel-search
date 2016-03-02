@@ -9,9 +9,12 @@
     ";"
   ],
   "description": "Hector is a fictional character, a member of the Marvel Comics superhero family the Pantheon.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Northstar_%26_hector.jpg/200px-Northstar_%26_hector.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Northstar_%26_hector.jpg/200px-Northstar_%26_hector.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Hector",
   "partners": [
   ],

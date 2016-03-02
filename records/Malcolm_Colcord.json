@@ -9,9 +9,14 @@
     "Sean Chen"
   ],
   "description": "Malcolm Colcord, also known as The Director, is a fictional character in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Director_Colcord.jpg/250px-Director_Colcord.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Director_Colcord.jpg/250px-Director_Colcord.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Malcolm Colcord",
   "partners": [
   ],

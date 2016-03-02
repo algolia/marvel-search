@@ -7,8 +7,11 @@
     "Dave Ross"
   ],
   "description": "Manikin (Whitman Knapp) is a fictional mutant character featured in the publications of Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Manikin",
   "partners": [
   ],

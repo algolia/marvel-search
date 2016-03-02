@@ -5,8 +5,13 @@
     "Howard Mackie",
     "Andy Kubert"
   ],
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Caretaker",
   "partners": [
   ],

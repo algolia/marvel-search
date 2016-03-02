@@ -5,9 +5,14 @@
   "authors": [
   ],
   "description": "Simon Utrecht wanted superhuman powers in order to persue personal power and gain, and commissioned a project that would ultimately simulate the crash that gave the Fantastic Four their powers; he has remained with the U-Foes ever since.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c0035a7dd04d/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c0035a7dd04d/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Vector",
   "partners": [
   ],

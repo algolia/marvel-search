@@ -8,9 +8,12 @@
     "June Brigman"
   ],
   "description": "Bird-Brain is a fictional character, a superhero from Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/BirdB.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/ad/BirdB.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Bird-Brain",
   "partners": [
   ],

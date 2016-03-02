@@ -7,8 +7,11 @@
     "Steven T. Seagle"
   ],
   "description": "Flex (Adrian Corbo) is a fictional character, a superhero in the Marvel Comics universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Flex",
   "partners": [
   ],

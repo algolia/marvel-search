@@ -14,9 +14,19 @@
     "Rob Liefeld"
   ],
   "description": "Cable (Nathan Summers) is a fictional character, a superhero appearing in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/526165df2b584/standard_xlarge.jpg",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/40/537ba51b565e4.gif",
+    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/5/c0/537ba50b434c4.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/526165df2b584/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "red": 58,
+    "rgb": "3A2409"
+  },
   "name": "Cable",
   "partners": [
     "Domino",

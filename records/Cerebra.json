@@ -7,9 +7,12 @@
     "Ron Lim"
   ],
   "description": "Cerebra (Shakti Haddad) is a mutant comic book character in the fictional Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/Xmen2099-30b.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a0/Xmen2099-30b.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Cerebra",
   "partners": [
   ],

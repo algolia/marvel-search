@@ -13,9 +13,19 @@
     "Neal Adams"
   ],
   "description": "Havok (Alexander \"Alex\" Summers) is a fictional character, a mutant superhero in the Marvel Comics Universe and member of the X-Men.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5261659ebeaf8/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5261659ebeaf8/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 40,
+    "green": 38,
+    "red": 13,
+    "rgb": "0D2628"
+  },
   "name": "Havok",
   "partners": [
   ],

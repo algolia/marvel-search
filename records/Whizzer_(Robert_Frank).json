@@ -7,9 +7,14 @@
     "Al Avison"
   ],
   "description": "Stanley Stewart is a native of the alternate Earth (Earth-S) on which the organization of the superhuman champions known as the Squadron Supreme arose.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/TheWhizzer.jpg/230px-TheWhizzer.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/TheWhizzer.jpg/230px-TheWhizzer.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Whizzer (Stanley Stewart)",
   "partners": [
   ],

@@ -8,9 +8,14 @@
     "Terry Dodson."
   ],
   "description": "Adrienne Frost is a fictional character of the Marvel Universe, the older sister of Emma Frost and Cordelia Frost.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Adriennefrost.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4b/Adriennefrost.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "White Queen (Adrienne Frost)",
   "partners": [
   ],

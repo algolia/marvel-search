@@ -9,9 +9,14 @@
     "Marv Wolfman",
     "Sal Buscema"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Thing-34.jpg/250px-Thing-34.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Thing-34.jpg/250px-Thing-34.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Sphinx (Anath-Na Mut)",
   "partners": [
   ],

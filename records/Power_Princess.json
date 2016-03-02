@@ -11,9 +11,12 @@
     "J. M. DeMatteis"
   ],
   "description": "Zarda, more commonly known as Power Princess, is a fictional comic book character appearing in books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Zarda_Ultimate_Hulk_Annual.jpg/180px-Zarda_Ultimate_Hulk_Annual.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Zarda_Ultimate_Hulk_Annual.jpg/180px-Zarda_Ultimate_Hulk_Annual.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Power Princess",
   "partners": [
     "Hyperion"

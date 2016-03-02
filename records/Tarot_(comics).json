@@ -8,9 +8,14 @@
     "Chris Claremont"
   ],
   "description": "Tarot (Marie-Ange Colbert) is a fictional character, a mutant in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/8/8b/TarotXM.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/8b/TarotXM.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Tarot",
   "partners": [
   ],

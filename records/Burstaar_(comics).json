@@ -8,9 +8,12 @@
     "Stan Lee",
     "Jack Kirby"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Thing006blastaar.jpg/250px-Thing006blastaar.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Thing006blastaar.jpg/250px-Thing006blastaar.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Burstaar",
   "partners": [
   ],

@@ -7,9 +7,12 @@
     "John Francis Moore"
   ],
   "description": "Bloodhawk (Lemuel) is a fictional character owned by Marvel Comics, who was featured in X-Men 2099, one of the tites of Marvel's Marvel 2099 imprint.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Wot6.jpg/250px-Wot6.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Wot6.jpg/250px-Wot6.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Bloodhawk",
   "partners": [
   ],

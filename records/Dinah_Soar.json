@@ -6,9 +6,14 @@
     "John Byrne"
   ],
   "description": "Dinah Soar is a fictional superheroine in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Dinah_Soar.jpg/250px-Dinah_Soar.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Dinah_Soar.jpg/250px-Dinah_Soar.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Dinah Soar",
   "partners": [
   ],

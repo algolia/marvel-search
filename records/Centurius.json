@@ -9,9 +9,12 @@
     "Frank Giacoia"
   ],
   "description": "Noah Black, also called Centurius, is a fictional supervillain appearing  in publications by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Centuriusmu0.jpg/250px-Centuriusmu0.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Centuriusmu0.jpg/250px-Centuriusmu0.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Centurius",
   "partners": [
   ],

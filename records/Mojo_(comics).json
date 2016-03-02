@@ -8,9 +8,14 @@
     "Art Adams"
   ],
   "description": "Mojo is a fictional character, a super villain appearing in books published by Marvel Comics, usually those featuring the X-Men family of characters.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c003d3444dce/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c003d3444dce/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Mojo",
   "partners": [
     "Spiral",

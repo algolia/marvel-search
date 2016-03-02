@@ -8,9 +8,14 @@
     "Tom Raney"
   ],
   "description": "Stacy X is an alias of Miranda Leevald, a fictional character in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/Stacy_X_%28Miranda_Leevald%29.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1e/Stacy_X_%28Miranda_Leevald%29.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Stacy X",
   "partners": [
   ],

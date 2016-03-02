@@ -6,8 +6,11 @@
     "Mark Gruenwald"
   ],
   "description": "Moonglow is a fictional character found in comic books from Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Moonglow",
   "partners": [
   ],

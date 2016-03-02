@@ -8,9 +8,12 @@
     "Craig Kyle"
   ],
   "description": "Kimura is a fictional character in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/2/20/X23VOL2005.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/20/X23VOL2005.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Kimura",
   "partners": [
   ],

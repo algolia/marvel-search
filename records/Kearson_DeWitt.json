@@ -9,8 +9,13 @@
     "Gene Colan"
   ],
   "description": "Kearson DeWitt is a Marvel Comics supervillain (mostly of Iron Man).",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Overlord",
   "partners": [
   ],

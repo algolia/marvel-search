@@ -7,9 +7,12 @@
     "Ron Lim"
   ],
   "description": "Junkpile is a fictional character in Marvel Comics's 2099 universe, a look at superheroes in the year 2099.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Xmen2099-23.jpg/250px-Xmen2099-23.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Xmen2099-23.jpg/250px-Xmen2099-23.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Junkpile",
   "partners": [
   ],

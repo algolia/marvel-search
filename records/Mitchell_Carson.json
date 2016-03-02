@@ -5,9 +5,12 @@
     "Robert Kirkman",
     "Andy Kuhn"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Mitchell_Carson.jpg/250px-Mitchell_Carson.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Mitchell_Carson.jpg/250px-Mitchell_Carson.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mitchell Carson",
   "partners": [
   ],

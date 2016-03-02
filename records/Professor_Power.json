@@ -9,9 +9,12 @@
     "Herb Trimpe"
   ],
   "description": "Professor Power (Anthony Power) is a fictional character in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Professor_power_-_nomad_girl_without_a_world_03.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/44/Professor_power_-_nomad_girl_without_a_world_03.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "The Professor",
   "partners": [
   ],

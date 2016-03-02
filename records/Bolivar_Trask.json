@@ -7,9 +7,12 @@
     "Stan Lee"
   ],
   "description": "Bolivar Trask is a fictional supervillain appearing in publications by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/b/bb/BolivarTrask_ByValentineDeLandro.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/bb/BolivarTrask_ByValentineDeLandro.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Bolivar Trask",
   "partners": [
   ],

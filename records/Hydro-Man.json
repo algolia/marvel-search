@@ -7,9 +7,14 @@
     "Dennis O'Neil"
   ],
   "description": "Hydro-Man is a fictional character, a supervillain in Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/f0/4c003ec140c31/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/f0/4c003ec140c31/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Hydro-Man",
   "partners": [
   ],

@@ -9,9 +9,12 @@
     "Ron Garney"
   ],
   "description": "Devil Hulk is a fictional villain in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/DevilHulk.gif/250px-DevilHulk.gif",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/DevilHulk.gif/250px-DevilHulk.gif"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Devil Hulk",
   "partners": [
   ],

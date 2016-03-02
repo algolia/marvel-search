@@ -10,9 +10,12 @@
     "Michael Avon Oeming"
   ],
   "description": "Amatsu-Mikaboshi  is a fictional character in the Marvel Comics Universe, a supervillain and demonic god of evil who is best known as an enemy of Hercules and Thor.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Mikaboshi2.jpg/200px-Mikaboshi2.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Mikaboshi2.jpg/200px-Mikaboshi2.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mikaboshi",
   "partners": [
   ],

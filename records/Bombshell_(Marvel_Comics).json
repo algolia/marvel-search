@@ -6,9 +6,12 @@
     "Mark Gruenwald"
   ],
   "description": "Bombshell (Wendy Conrad) is a fictional character, a supervillain in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Bombshell_Marvel.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0a/Bombshell_Marvel.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Bombshell",
   "partners": [
   ],

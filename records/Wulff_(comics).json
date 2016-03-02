@@ -6,9 +6,12 @@
     "Tom Peyer",
     "Humberto Ramos"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Xnation2099-2.jpg/250px-Xnation2099-2.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Xnation2099-2.jpg/250px-Xnation2099-2.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Wulff",
   "partners": [
   ],

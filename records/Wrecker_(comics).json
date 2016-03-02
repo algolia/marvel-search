@@ -8,9 +8,14 @@
     "Jack Kirby"
   ],
   "description": "Dirk Garthwaite, the son of a construction worker and abusive father and husband, grew up filled with resentment and anger toward his father, who abandoned the family, and quickly turned to crime, in which he used a crowbar as a reminder of his father, destroying each place he robbed.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Wreck3.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/25/Wreck3.png"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Wrecker",
   "partners": [
   ],

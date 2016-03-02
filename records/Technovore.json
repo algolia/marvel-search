@@ -8,8 +8,11 @@
     "Kevin Hopgood"
   ],
   "description": "Technovore is a Marvel Comics supervillain.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Technovore",
   "partners": [
   ],

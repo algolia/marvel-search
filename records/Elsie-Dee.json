@@ -8,9 +8,12 @@
     "Marc Silvestri"
   ],
   "description": "Elsie-Dee is a fictional character appearing in Marvel Comics, and an ally of Wolverine.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Albert_and_elsie.jpg/200px-Albert_and_elsie.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Albert_and_elsie.jpg/200px-Albert_and_elsie.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Elsie-Dee",
   "partners": [
   ],

@@ -8,9 +8,12 @@
     "Roy Thomas"
   ],
   "description": "The Human Top (David Mitchell) is a fictional character in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Goldengrrl.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4d/Goldengrrl.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Human Top",
   "partners": [
   ],

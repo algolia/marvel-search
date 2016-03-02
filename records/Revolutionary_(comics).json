@@ -8,9 +8,12 @@
     "Christos Gage"
   ],
   "description": "The Revolutionary is a fictional superhero published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Revolutionary.jpg/250px-Revolutionary.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Revolutionary.jpg/250px-Revolutionary.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Revolutionary",
   "partners": [
   ],

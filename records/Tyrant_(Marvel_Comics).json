@@ -6,9 +6,12 @@
     "Ron Lim",
     "Tom Christopher"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/TyrantCosmic49iyxwh.jpg/250px-TyrantCosmic49iyxwh.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/TyrantCosmic49iyxwh.jpg/250px-TyrantCosmic49iyxwh.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Tyrant",
   "partners": [
   ],

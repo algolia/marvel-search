@@ -12,9 +12,14 @@
     "Jack Kirby"
   ],
   "description": "Joseph is a Marvel Comics character who was briefly a member of the X-Men.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/5260339868b8c/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/5260339868b8c/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Joseph",
   "partners": [
   ],

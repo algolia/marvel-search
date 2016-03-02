@@ -7,9 +7,19 @@
     "Gene Colan"
   ],
   "description": "Yondu is a fictional character, a superhero in the Marvel Comics universe, and a founding member of the original Guardians of the Galaxy team.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Guardians_of_the_Galaxy_44.jpg/250px-Guardians_of_the_Galaxy_44.jpg",
+  "images": {
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/1/03/53d1526f11419.jpg",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Guardians_of_the_Galaxy_44.jpg/250px-Guardians_of_the_Galaxy_44.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 57,
+    "green": 31,
+    "red": 18,
+    "rgb": "121F39"
+  },
   "name": "Yondu",
   "partners": [
   ],

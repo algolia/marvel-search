@@ -7,9 +7,12 @@
     "Ben Thompson"
   ],
   "description": "Blue Diamond is a fictional character, a superhero in comic-books published by Marvel Comics, debuting under the company's 1940s forerunner, Timely Comics.An unrelated supervillain called the Blue Diamond appears as an antagonist in Timely's The Human Torch #11 (Spring 1943).",
-  "image": "https://upload.wikimedia.org/wikipedia/en/9/92/Blue_Diamond001.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/92/Blue_Diamond001.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Blue Diamond",
   "partners": [
   ],

@@ -12,8 +12,13 @@
     "Gardner Fox"
   ],
   "description": "Red Wolf is the name of a number of fictional characters in Marvel Comics' shared universe, the Marvel Universe.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Red Wolf",
   "partners": [
   ],

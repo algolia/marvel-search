@@ -11,9 +11,12 @@
     "Art Simek"
   ],
   "description": "The Living Laser is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Ironman211livinglaser.jpg/250px-Ironman211livinglaser.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Ironman211livinglaser.jpg/250px-Ironman211livinglaser.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Living Laser",
   "partners": [
   ],

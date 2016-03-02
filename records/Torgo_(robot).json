@@ -10,8 +10,11 @@
     "Stan Lee"
   ],
   "description": "Torgo is a fictional character, an alien robot appearing in the Marvel Comics universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Torgo",
   "partners": [
   ],

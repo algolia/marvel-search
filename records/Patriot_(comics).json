@@ -9,9 +9,14 @@
     "Jim Cheung"
   ],
   "description": "Patriot is the name of two fictional, comic book superheroes in the Marvel Comics universe: the Golden Age hero Jeffrey Mace and the modern-day character Eli Bradley.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c003cfda4644/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c003cfda4644/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Patriot",
   "partners": [
   ],

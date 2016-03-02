@@ -7,9 +7,14 @@
     "Jack Kirby"
   ],
   "description": "The Puppet Master (real name Phillip Masters) is a fictional character, a supervillain that appears in comic books published by Marvel Comics.The Puppet Master uses radioactive clay to make puppets of people that he can then control, attaching them to strings and moving them as puppets; presumably he has some sort of psionic ability that enables him to do this.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c003c738f74c/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c003c738f74c/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Puppet Master",
   "partners": [
     "Doctor Doom",

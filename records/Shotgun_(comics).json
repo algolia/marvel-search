@@ -8,8 +8,13 @@
     "John Romita, Jr."
   ],
   "description": "Shotgun (J.R.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Shotgun",
   "partners": [
   ],

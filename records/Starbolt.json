@@ -8,9 +8,14 @@
     "Dave Cockrum"
   ],
   "description": "Starbolt is a member of the Shi'ar Imperial Guard.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/4c003acf4e4bc/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/4c003acf4e4bc/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Starbolt",
   "partners": [
   ],

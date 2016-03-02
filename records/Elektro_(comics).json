@@ -7,9 +7,12 @@
     "Stan Lee"
   ],
   "description": "Elektro is a fictional robot that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/TOS-13.jpg/250px-TOS-13.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/TOS-13.jpg/250px-TOS-13.jpg"
+  },
   "isHero": true,
   "isVillain": true,
+  "mainColor": null,
   "name": "Elektro",
   "partners": [
     "Fin Fang Foom"

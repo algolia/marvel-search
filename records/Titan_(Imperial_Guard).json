@@ -9,8 +9,13 @@
     "Dave Cockrum"
   ],
   "description": "Titan is a fictional character that appears in the Marvel Universe.",
+  "images": {
+    "background": null,
+    "banner": null
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Onslaught (Ultimate)",
   "partners": [
   ],

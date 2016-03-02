@@ -9,9 +9,12 @@
     "Gary Frank"
   ],
   "description": "Redstone is the name of two characters from Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Redstone%28comics%29.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/Redstone%28comics%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Redstone",
   "partners": [
   ],

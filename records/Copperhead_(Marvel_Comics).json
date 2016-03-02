@@ -14,8 +14,11 @@
     "Gene Colan"
   ],
   "description": "Copperhead is the name of a number of fictional characters in the Marvel Universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Copperhead",
   "partners": [
     "Agent of unnamed demon"

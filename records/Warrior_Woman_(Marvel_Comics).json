@@ -7,9 +7,12 @@
     "Frank Robbins"
   ],
   "description": "Warrior Woman is a fictional character that appears in comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Invaders-17.jpg/250px-Invaders-17.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Invaders-17.jpg/250px-Invaders-17.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Warrior Woman",
   "partners": [
   ],

@@ -9,9 +9,12 @@
     "J.D. Matonti"
   ],
   "description": "John Gabriel is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Gabriel_New-Gen.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a7/Gabriel_New-Gen.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Gabriel",
   "partners": [
   ],

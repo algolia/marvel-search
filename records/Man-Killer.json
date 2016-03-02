@@ -9,9 +9,12 @@
     "Jim Mooney"
   ],
   "description": "The Man-Killer (real name Katrina Luisa Van Horn) is a fictional supervillain in Marvel Comics' universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Man-Killer.jpg/250px-Man-Killer.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Man-Killer.jpg/250px-Man-Killer.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Man-Killer",
   "partners": [
   ],

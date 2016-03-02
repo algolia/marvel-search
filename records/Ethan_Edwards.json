@@ -13,9 +13,12 @@
     "Billy Tan"
   ],
   "description": "Virtue (Ethan Edwards) is a fictional character, a superhero in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/MKSM018.jpg/250px-MKSM018.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/MKSM018.jpg/250px-MKSM018.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Virtue",
   "partners": [
   ],

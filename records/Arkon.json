@@ -9,9 +9,12 @@
     "John Buscema"
   ],
   "description": "Arkon is a fictional character in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/6/6c/ArkonC.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6c/ArkonC.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Arkon",
   "partners": [
     "Enchantress"

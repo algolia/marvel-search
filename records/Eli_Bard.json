@@ -5,8 +5,11 @@
   "authors": [
   ],
   "description": "Eli Bard (born Eliphas) is a fictional character, a comic book supervillain from the Marvel Comics universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Eli Bard",
   "partners": [
     "Selene"

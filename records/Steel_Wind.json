@@ -7,9 +7,12 @@
     "Bob Budiansky"
   ],
   "description": "Steel Wind (original name Ruriko Tsumura) is a fictional character appearing in the Marvel Comics universe, she is a cyborg and mercenary who is normally employed by the Freakmaster and Centurious.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Steel_Wind.jpg/300px-Steel_Wind.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Steel_Wind.jpg/300px-Steel_Wind.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Steel Wind",
   "partners": [
   ],

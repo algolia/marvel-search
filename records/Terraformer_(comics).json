@@ -8,8 +8,11 @@
     "Fabian Nicieza"
   ],
   "description": "Terraformer is the name of a supervillain in Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Terraformer",
   "partners": [
   ],

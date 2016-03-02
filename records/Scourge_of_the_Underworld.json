@@ -7,9 +7,12 @@
     "John Byrne"
   ],
   "description": "The Scourge of the Underworld is the name of a series of fictional characters that have appeared in various series set in the Marvel Comics universe.Writer/editor Mark Gruenwald originally created the Scourge in 1985 as a plot device intended to thin the criminal population of the Marvel Universe, in particular eliminating those supervillain characters he deemed to be too minor, redundant, or ill-conceived.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Scourge_of_the_Underworld.jpg/200px-Scourge_of_the_Underworld.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Scourge_of_the_Underworld.jpg/200px-Scourge_of_the_Underworld.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Scourge of the Underworld",
   "partners": [
   ],

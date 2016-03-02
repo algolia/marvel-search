@@ -9,9 +9,12 @@
     "Greg Pak"
   ],
   "description": "Caiera is a fictional character in the Marvel Comics Universe, introduced during the \"Planet Hulk\" storyline.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Caiera.PNG/200px-Caiera.PNG",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Caiera.PNG/200px-Caiera.PNG"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Caiera",
   "partners": [
   ],

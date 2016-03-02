@@ -8,9 +8,14 @@
     "Chris Claremont"
   ],
   "description": "Northstar (Jean-Paul Beaubier) is a fictional character, a superhero who appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c003d15985a0/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c003d15985a0/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": true,
+  "mainColor": null,
   "name": "Northstar",
   "partners": [
   ],

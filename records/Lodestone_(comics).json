@@ -7,9 +7,12 @@
     "Mike Manley"
   ],
   "description": "Lodestone is a Marvel Comics supervillain, who first appears in Darkhawk #7.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Lode_stone-1-.jpg/200px-Lode_stone-1-.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Lode_stone-1-.jpg/200px-Lode_stone-1-.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Lodestone",
   "partners": [
   ],

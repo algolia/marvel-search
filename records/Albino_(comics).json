@@ -7,9 +7,12 @@
     "Jeff Johnson"
   ],
   "description": "Albino (Augusta Seger) is a fictional character, a supervillain in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Albino.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d6/Albino.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Albino",
   "partners": [
   ],

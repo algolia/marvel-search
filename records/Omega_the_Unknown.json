@@ -9,9 +9,14 @@
     "Steve Gerber"
   ],
   "description": "Omega the Unknown was  an American comic book published by Marvel Comics from 1976 to 1977, featuring  the eponymous fictional character.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4ce5a4e4cd15d/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4ce5a4e4cd15d/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Omega the Unknown",
   "partners": [
     "James-Michael Starling"

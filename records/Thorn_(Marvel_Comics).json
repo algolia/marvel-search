@@ -7,9 +7,12 @@
     "Chuck Dixon",
     "John Romita, Jr."
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/ThornPunisher.jpg/250px-ThornPunisher.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/ThornPunisher.jpg/250px-ThornPunisher.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Thorn",
   "partners": [
   ],

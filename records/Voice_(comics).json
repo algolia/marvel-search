@@ -11,9 +11,12 @@
     "Don Heck"
   ],
   "description": "Voice is a Marvel Comics supervillain.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/The_Voice_from_Avengers_Assemble_One-Shot_July_2010.jpg/200px-The_Voice_from_Avengers_Assemble_One-Shot_July_2010.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/The_Voice_from_Avengers_Assemble_One-Shot_July_2010.jpg/200px-The_Voice_from_Avengers_Assemble_One-Shot_July_2010.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Voice",
   "partners": [
     "Quicksilver",

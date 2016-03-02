@@ -8,9 +8,12 @@
     "Gil Kane"
   ],
   "description": "Stegron the Dinosaur Man is a Marvel Comics super-villain, primarily an antagonist of Spider-Man.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/StegronDinosaur.jpg/250px-StegronDinosaur.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/StegronDinosaur.jpg/250px-StegronDinosaur.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Stegron",
   "partners": [
   ],

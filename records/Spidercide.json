@@ -8,8 +8,11 @@
     "Tom DeFalco"
   ],
   "description": "Spidercide is a fictional character, a comic book supervillain appearing in publications by Marvel Comics.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Spidercide",
   "partners": [
   ],

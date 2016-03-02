@@ -9,9 +9,12 @@
     "Peter David"
   ],
   "description": "Agamemnon is a fictional character in Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/1/18/AgamemnonC.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/18/AgamemnonC.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Agamemnon",
   "partners": [
   ],

@@ -7,9 +7,12 @@
     "Ed Brubaker"
   ],
   "description": "Petra is a fictional character, a mutant appearing in the comic books published by Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Petra_%28comics%29.JPG/225px-Petra_%28comics%29.JPG",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Petra_%28comics%29.JPG/225px-Petra_%28comics%29.JPG"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Petra",
   "partners": [
   ],

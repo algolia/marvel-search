@@ -11,9 +11,12 @@
     "Mike Grell"
   ],
   "description": "Temugin is a fictional character from Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Temujin.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b1/Temujin.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Temujin",
   "partners": [
   ],

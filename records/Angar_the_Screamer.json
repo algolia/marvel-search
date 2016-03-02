@@ -11,9 +11,14 @@
     "Gene Colan"
   ],
   "description": "Out of the five alien symbiotes that were forcefully extracted from Venom (while bonded with Eddie Brock) by the Life Foundation, Donna's is the only one still active today that is not bonded to Hybrid.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Daredevil_cover_-_number_101.jpg/250px-Daredevil_cover_-_number_101.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Daredevil_cover_-_number_101.jpg/250px-Daredevil_cover_-_number_101.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Scream (Donna Diego)",
   "partners": [
     "Songbird"

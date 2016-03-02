@@ -9,9 +9,14 @@
     "Keron Grant"
   ],
   "description": "Mercury (Cessily Kincaid) is a fictional character from Marvel Comic's X-Men series.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Mercuryprofile.jpg/250px-Mercuryprofile.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Mercuryprofile.jpg/250px-Mercuryprofile.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Mercury",
   "partners": [
   ],

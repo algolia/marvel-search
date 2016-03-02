@@ -10,9 +10,14 @@
     "John Buscema"
   ],
   "description": "Blue Eagle is a fictional comic-book character in the Marvel Comics multiverse.The character debuted as a member of the team of superheroes called the Squadron Supreme in The Avengers #85 (Feb 1971) as American Eagle, then as Cap'n Hawk in The Avengers #148 (June 1976), and finally as Blue Eagle in Squadron Supreme #1 (Sept 1985).",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4ce5a6d8b8f2a/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4ce5a6d8b8f2a/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "American Eagle (Jason Strongbow)",
   "partners": [
   ],

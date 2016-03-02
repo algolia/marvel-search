@@ -7,9 +7,12 @@
     "Jack Kirby",
     "Dick Ayers"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Dorrek_VII1.jpg/190px-Dorrek_VII1.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Dorrek_VII1.jpg/190px-Dorrek_VII1.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Dorrek VII",
   "partners": [
   ],

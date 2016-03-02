@@ -5,9 +5,12 @@
     "Charles Soule",
     "Joe Madureira"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Lash_Marvel_Comics.png/250px-Lash_Marvel_Comics.png",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Lash_Marvel_Comics.png/250px-Lash_Marvel_Comics.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Lash",
   "partners": [
   ],

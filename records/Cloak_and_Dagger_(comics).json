@@ -7,9 +7,12 @@
     "Ed Hannigan"
   ],
   "description": "Cloak (Tyrone \"Ty\" Johnson) and Dagger (Tandy Bowen) are a fictional comic book superhero duo in Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Cloak_and_Dagger_1_%281983%29.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/27/Cloak_and_Dagger_1_%281983%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Cloak and Dagger",
   "partners": [
   ],

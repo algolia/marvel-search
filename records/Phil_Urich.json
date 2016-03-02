@@ -8,9 +8,19 @@
   "authors": [
   ],
   "description": "Philip Benjamin \"Phil\" Urich is a Marvel Comics fictional character whose first appearance was in Web of Spider-Man #125 by Gerry Conway.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4cd05ee55faa2/standard_xlarge.jpg",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/3/90/5398a3e5255d1.gif",
+    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/538cf0e1c4a90.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4cd05ee55faa2/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 11,
+    "green": 37,
+    "red": 23,
+    "rgb": "17250B"
+  },
   "name": "Green Goblin (Barry Norman Osborn)",
   "partners": [
   ],

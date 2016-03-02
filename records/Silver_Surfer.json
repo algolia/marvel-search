@@ -7,9 +7,14 @@
     "Stan Lee"
   ],
   "description": "When Zenn-La was threatened by the world-devouring entity known as Galactus, Norrin Radd stood up for his home planet and offered to work for Galactus, finding him new planets to eat, in exchange for saving his own. Years later, the Surfer has protected Earth and many other planets, becoming one of the greatest heroes in the universe.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/527bb6490a176/standard_xlarge.jpg",
+  "images": {
+    "background": "http://x.annihil.us/u/prod/marvel/i/mg/7/10/537bc3b796f74.gif",
+    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/537bc39d9b20b.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/527bb6490a176/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Silver Surfer",
   "partners": [
   ],

@@ -11,9 +11,14 @@
     "Marv Wolfman"
   ],
   "description": "The Black Cat (Felicia Hardy) is a fictional character, a supervillain and sometimes anti-hero that appears in comic books published by Marvel Comics.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/526952357d91c/standard_xlarge.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/526952357d91c/standard_xlarge.jpg"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Black Cat",
   "partners": [
     "Spider-Man"
@@ -45,7 +50,7 @@
     "Heroes for Hire"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009185/black_cat",
+    "marvel": "http://marvel.com/characters/271/black_cat",
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Cat_(comics)"
   }
 }

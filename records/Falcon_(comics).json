@@ -11,9 +11,19 @@
     "Stan Lee"
   ],
   "description": "With a mental connection to all birds and a suit that gives him wings to fly, The Falcon has been both the partner to Captain America and an Avenger himself. Whether as a super hero or in his secret identity of social worker Sam Wilson, The Falcon dedicates his life to standing up for others.",
-  "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/5111505fb7009/standard_xlarge.jpg",
+  "images": {
+    "background": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/537baa97aad94.gif",
+    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/537baa87dbe40.jpg",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/5111505fb7009/standard_xlarge.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": {
+    "blue": 9,
+    "green": 36,
+    "red": 58,
+    "rgb": "3A2409"
+  },
   "name": "Falcon",
   "partners": [
     "Captain America",
@@ -55,7 +65,7 @@
     "Avengers Unity Squad"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/18/falcon",
+    "marvel": "http://marvel.com/comics/characters/1009297/falcon",
     "wikipedia": "https://en.wikipedia.org/wiki/Falcon_(comics)"
   }
 }

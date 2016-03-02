@@ -8,9 +8,14 @@
     "John Byrne"
   ],
   "description": "Flatman (Dr. Val Ventura) is a fictional mutant superhero in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Flatman.PNG/222px-Flatman.PNG",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Flatman.PNG/222px-Flatman.PNG"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Flatman",
   "partners": [
   ],

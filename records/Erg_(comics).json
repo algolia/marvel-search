@@ -7,9 +7,12 @@
     "June Brigman"
   ],
   "description": "Erg is a fictional mutant character in the Marvel Comics Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/6/65/XMEN_ERG.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/65/XMEN_ERG.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Erg",
   "partners": [
   ],

@@ -5,8 +5,11 @@
     "Stan Lee",
     "Steve Ditko"
   ],
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Fancy Dan",
   "partners": [
   ],

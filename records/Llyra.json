@@ -9,9 +9,12 @@
     "Sal Buscema"
   ],
   "description": "Llyra is a fictional character, a Marvel Comics super-villainess.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Sub-Mariner-32.jpg/250px-Sub-Mariner-32.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Sub-Mariner-32.jpg/250px-Sub-Mariner-32.jpg"
+  },
   "isHero": false,
   "isVillain": true,
+  "mainColor": null,
   "name": "Llyra",
   "partners": [
     "Ghaur",

@@ -5,8 +5,11 @@
     "Stan Lee",
     "Jack Kirby"
   ],
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Anelle",
   "partners": [
   ],

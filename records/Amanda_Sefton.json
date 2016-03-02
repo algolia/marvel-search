@@ -11,9 +11,14 @@
     "Dave Cockrum"
   ],
   "description": "Amanda Sefton (real name Jimaine Szardos) (also known as Daytripper and the second Magik) is a fictional character, a witch in the Marvel Universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/MagikII.png/250px-MagikII.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/MagikII.png/250px-MagikII.png"
+  },
   "isHero": true,
   "isVillain": false,
+  "mainColor": null,
   "name": "Amanda Sefton",
   "partners": [
   ],

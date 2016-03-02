@@ -9,9 +9,14 @@
     "Al Avison"
   ],
   "description": "The Reaper, the alias of Gunther Strauss, is a supervillain in the fictional shared universe of Marvel Comics, and an enemy of Captain America and Bucky.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Reaper_%28World_War_II_Captain_America_foe%29.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f6/Reaper_%28World_War_II_Captain_America_foe%29.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Reaper",
   "partners": [
   ],

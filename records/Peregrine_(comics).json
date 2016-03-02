@@ -11,8 +11,11 @@
     "Pablo Marcos"
   ],
   "description": "Le Peregrine (Alain Racine) is a fictional character in the Marvel Universe.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Peregrine",
   "partners": [
     "Silver Sable"

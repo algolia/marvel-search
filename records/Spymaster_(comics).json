@@ -21,9 +21,14 @@
     "Allyn Brodsky"
   ],
   "description": "Spymaster is a supervillain from Marvel Comics.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/8/88/Spymaster.png",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/88/Spymaster.png"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Santa Claus",
   "partners": [
     "Justin Hammer"

@@ -6,9 +6,12 @@
     "Tom DeFalco",
     "Steve Ditko"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Peter_Parker_The_Spectacular_Spider-Man_%28no._56%2C_front_cover%29.jpg/249px-Peter_Parker_The_Spectacular_Spider-Man_%28no._56%2C_front_cover%29.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Peter_Parker_The_Spectacular_Spider-Man_%28no._56%2C_front_cover%29.jpg/249px-Peter_Parker_The_Spectacular_Spider-Man_%28no._56%2C_front_cover%29.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Jack O'Lantern",
   "partners": [
   ],

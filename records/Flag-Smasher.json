@@ -7,9 +7,12 @@
     "Paul Neary"
   ],
   "description": "The Flag-Smasher is the name used by two fictional supervillains appearing in the Marvel Comics universe.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/FlagSmasherMarvel.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/ca/FlagSmasherMarvel.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Flag-Smasher",
   "partners": [
   ],

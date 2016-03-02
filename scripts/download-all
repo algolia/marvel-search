@@ -6,4 +6,5 @@ npm run dbpedia && \
 npm run infobox && \
 npm run images &&
 npm run pageviews && \
-npm run marvel
+npm run marvel:api &&
+npm run marvel:website

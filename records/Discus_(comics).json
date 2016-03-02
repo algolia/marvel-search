@@ -5,8 +5,11 @@
     "Tony Isabella",
     "Billy Graham"
   ],
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Discus",
   "partners": [
     "Stiletto",

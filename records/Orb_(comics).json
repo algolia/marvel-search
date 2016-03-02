@@ -10,9 +10,12 @@
     "Guy Davis"
   ],
   "description": "The Orb is the name of two Marvel Comics supervillains who are primarily an adversary of Ghost Rider.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Orb_ghost.jpg/250px-Orb_ghost.jpg",
+  "images": {
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Orb_ghost.jpg/250px-Orb_ghost.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Orb",
   "partners": [
     "Doctor Midas",

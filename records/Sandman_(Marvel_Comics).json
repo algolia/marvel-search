@@ -10,9 +10,14 @@
     "Steve Ditko"
   ],
   "description": "Sandman (William Baker a.k.a.",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Tboltssandman.jpg/250px-Tboltssandman.jpg",
+  "images": {
+    "background": null,
+    "banner": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Tboltssandman.jpg/250px-Tboltssandman.jpg"
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Sandman",
   "partners": [
   ],

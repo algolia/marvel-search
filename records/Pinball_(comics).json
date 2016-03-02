@@ -6,8 +6,11 @@
     "Mark Gruenwald"
   ],
   "description": "Pinball is a character from Marvel Comics' original Squadron Supreme series.",
+  "images": {
+  },
   "isHero": false,
   "isVillain": false,
+  "mainColor": null,
   "name": "Pinball",
   "partners": [
   ],
