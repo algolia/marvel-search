@@ -1,5 +1,7 @@
 .hero-profile {
   max-width: $profile-bar-width;
+  min-width: calc(#{$profile-bar-width} / 1.6);
+  width: 30%;
   height: calc(100% - #{$header-height});
   position: fixed;
   float: left;
@@ -7,7 +9,6 @@
   transform: translateX(#{$profile-bar-width});
   top: $header-height;
   right: 0;
-  width: 100%;
   transition: transform 0.3s ease;
   border-left: 1px solid darken($third-color, 10%);
   padding: 0 16px;

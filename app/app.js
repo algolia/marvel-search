@@ -153,6 +153,7 @@ function processHeroProfile(){
   var hit = $('.btn-profile'),
       results = $('.hits'),
       profile = $('.hero-profile'),
+      profileHeader = $('.profile-header'),
       profileName = $('.hero-profile .hero-name'),
       profileRealName = $('.hero-profile .hero-secret-identity'),
       profileAvatar = $('.hero-profile .hero-avatar img'),
@@ -166,6 +167,7 @@ function processHeroProfile(){
       var $this = $(this);
       var datas = $(this).closest('.hit').find('.dump').val(),
           datas = $.parseJSON(datas);
+
       
       // Fetch & define values
       var
@@ -187,24 +189,28 @@ function processHeroProfile(){
       profileDescription.html('<p>'+heroDesc+'</p>');
       profileRealName.html(heroSecretId)
 
+      // Give the profile header the proper images
+      profileHeader.background = 'url(' + heroBackground + ')no-repeat center center / cover';
+
       // Check if he is a hero, a vilain, both, or null
-      if(isHero==true && isVillain==false) {
+      if(isHero && !isVillain) {
         profileHeroVillain.html('He is a hero <span class="hero-badge"></span>')
       }
-      if(isVillain==true && isHero==false) {
+      if(isVillain && !isHero) {
         profileHeroVillain.html('He is a Villain <span class="villain-badge"></span>')
       }
-      if(isHero==false && isVillain==false) {
+      if(!isHero && !isVillain) {
         profileHeroVillain.html('He is both a hero and a villain <span class="hero-villain-badge"></span>')
       }
       if(isHero==null && isVillain==null){
         profileBothHeroVillain.html('Unknown')
       }
-
+      // Also, give the profile data attributes
+      // Can be useful for next designs steps
       profile.attr({
         'data-hero': isHero,
         'data-villain': isVillain
-      })
+      });
 
       // Loop & wrap all the powers
       profilePowers.html('');
@@ -218,7 +224,7 @@ function processHeroProfile(){
       profilePartners.html('');
       var partner = '';
       $.each(heroPartners, function (index, key){
-        partner += "<span class='partner'>"+key+"</span>"; 
+        partner += "<span class='partner'>"+key+"</span>, "; 
       });
       profilePartners.append(partner);
 
