@@ -168,7 +168,6 @@ function processHeroProfile(){
       var datas = $(this).closest('.hit').find('.dump').val(),
           datas = $.parseJSON(datas);
 
-          console.log(datas)
       
       // Fetch & define values
       var
