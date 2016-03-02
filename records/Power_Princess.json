@@ -14,8 +14,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Zarda_Ultimate_Hulk_Annual.jpg/180px-Zarda_Ultimate_Hulk_Annual.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Power Princess",
   "partners": [
@@ -32,7 +32,6 @@
     "Flight",
     "Life-force absorption",
     "Transference",
-    "Extensive experience in hand-to-hand combat",
     "Experienced armed",
     "Unarmed combatant",
     "Extended longevity"
@@ -56,7 +55,6 @@
     "Exiles",
     "Ultimates",
     "Golden Agency",
-    "Squadron Supreme (Supreme Power)",
     "Squadron Supreme"
   ],
   "urls": {

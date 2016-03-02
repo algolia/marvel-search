@@ -9,14 +9,14 @@
   "description": "Jackhammer (Matthew Banham) is a fictional character from the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Jackhammer",
   "partners": [
   ],
   "powers": [
-    "Super-strength."
+    "Super-strength"
   ],
   "ranking": {
     "comicCount": 0,

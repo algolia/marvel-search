@@ -10,8 +10,8 @@
   "description": "The Trapster is the name of two supervillains in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Trapster",
   "partners": [
@@ -19,11 +19,9 @@
   ],
   "powers": [
     "Wall crawling",
-    "Various trap-based weapons",
     "Skilled marksman",
     "Genius level intellect",
     "Talented disguise artist",
-    "Adhesive or lubricant projection",
     "Expert chemist"
   ],
   "ranking": {

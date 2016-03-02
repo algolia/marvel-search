@@ -5,15 +5,14 @@
   ],
   "authors": [
     "Peter David",
-    "Dale Keown",
-    ";"
+    "Dale Keown"
   ],
   "description": "Hector is a fictional character, a member of the Marvel Comics superhero family the Pantheon.",
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Northstar_%26_hector.jpg/200px-Northstar_%26_hector.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hector",
   "partners": [

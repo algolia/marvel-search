@@ -15,7 +15,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c003eac7419a/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Jocasta",
   "partners": [
@@ -24,13 +24,10 @@
   ],
   "powers": [
     "Superhuman strength",
-    "Physical resistance & senses",
-    "Holographic image disguise inducer",
     "Optic cannons",
     "Force field generation",
     "Computer integration",
-    "Enhanced senses",
-    "Holographic disguise projector"
+    "Enhanced senses"
   ],
   "ranking": {
     "comicCount": 54,

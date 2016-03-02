@@ -14,14 +14,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Msmarvel2.jpg/250px-Msmarvel2.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sharon Ventura",
   "partners": [
   ],
   "powers": [
-    "Highly proficient hand to hand combatant",
     "Superhuman strength",
     "Endurance",
     "Skilled martial artist",

@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c00407fb91b5/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Cannonball",
   "partners": [
@@ -22,7 +22,8 @@
   "powers": [
     "Jet propulsion",
     "Unstoppability",
-    "Superhuman endurance"
+    "Superhuman endurance",
+    "Blast field"
   ],
   "ranking": {
     "comicCount": 237,
@@ -33,7 +34,8 @@
     "storyCount": 250
   },
   "secretIdentities": [
-    "Samuel  Zachary \"Sam\" Guthrie"
+    "Samuel  Zachary Guthrie",
+    "Sam"
   ],
   "species": [
     "Mutant"

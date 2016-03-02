@@ -11,7 +11,7 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Mister_Negative.jpg/250px-Mister_Negative.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Mister Negative",
@@ -25,10 +25,8 @@
     "Superhuman strength",
     "Reflexes",
     "Healing touch",
-    "Access to advanced technology",
     "Secret laboratories",
-    "Charge up knives",
-    "Swords with black electrical energy"
+    "Charge up knives"
   ],
   "ranking": {
     "comicCount": 0,

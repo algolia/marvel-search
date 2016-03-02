@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Sub-mariner23.jpg/250px-Sub-mariner23.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Orka",
   "partners": [
@@ -27,7 +27,6 @@
     "Stamina",
     "Durability",
     "Can communicate with",
-    "Summon killer whales via high-pitched whistles",
     "Swim at superhuman speeds",
     "Superhuman swimming speed",
     "Land adaptation via belt"

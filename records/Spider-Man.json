@@ -14,11 +14,9 @@
     "Dusk",
     "Hornet",
     "Spider-Man",
-    "Related topics",
     "Dusk ll",
     "Prodigy ll",
     "Hornet ll",
-    "/",
     "Scarlet Spider ll"
   ],
   "authors": [
@@ -32,7 +30,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
@@ -50,14 +48,11 @@
     "Reflexes",
     "Endurance",
     "Healing factor",
-    "Able to shoot very strong spider-web strings from wrists via web-shooters",
     "Precognitive spider-sense",
     "Genius-level intellect",
-    "Master hand-to-hand combatant",
     "Genius",
     "Precognitive",
-    "Spider-sense",
-    "Utilizes web-shooters to shoot strong spider-web strings from wrists"
+    "Spider-sense"
   ],
   "ranking": {
     "comicCount": 2593,

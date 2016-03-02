@@ -8,11 +8,11 @@
     "Bobby Wright",
     "Daniel Rand/Iron Fist",
     "Super-Skrull",
-    "Dr.",
+    "Dr",
     "Franklin Storm",
     "the",
     "Thing",
-    "Daniel Rand/",
+    "Daniel Rand",
     "Iron Fist"
   ],
   "authors": [
@@ -25,8 +25,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5274138fe6deb/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Super-Skrull",
   "partners": [
@@ -57,7 +57,6 @@
     "storyCount": 9
   },
   "secretIdentities": [
-    "*",
     "Kl'rt"
   ],
   "species": [

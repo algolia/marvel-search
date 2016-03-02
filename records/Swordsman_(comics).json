@@ -12,14 +12,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/535ff38904fff/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Swordsman",
   "partners": [
   ],
   "powers": [
-    "Uses modified sword that projects various energy attacks",
     "Master swordsman",
     "Master tactician",
     "Strategist",
@@ -27,9 +26,6 @@
     "Unarmed combatant",
     "Olympic-level athlete",
     "Cunning strategist",
-    "Highly skilled unarmed combatant",
-    "Uses a modified sword that projects various energy beams",
-    "Carries various throwing knives",
     "Daggers"
   ],
   "ranking": {

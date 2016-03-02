@@ -10,8 +10,8 @@
   "description": "Seamus Mellencamp is a reptilian fictional character in Marvel Comics comic book Uncanny X-Men.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mellencamp",
   "partners": [
@@ -26,8 +26,7 @@
     "Reflexes",
     "Coordination",
     "Endurance",
-    "Invulnerability",
-    "Resistant to life draining"
+    "Invulnerability"
   ],
   "ranking": {
     "comicCount": 0,

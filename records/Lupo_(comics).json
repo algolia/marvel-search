@@ -10,15 +10,13 @@
   "description": "Lupo is a fictional character, a mutate in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Lupo",
   "partners": [
   ],
   "powers": [
-    "Psionically command animals",
-    "Psionically command animals (notably wolves)"
   ],
   "ranking": {
     "comicCount": 0,

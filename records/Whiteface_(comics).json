@@ -10,15 +10,14 @@
   "description": "Whiteface is a fictional comic book supervillain in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Whiteface",
   "partners": [
   ],
   "powers": [
     "Has no superhuman powers",
-    "But is skilled in chemistry",
     "Toxicology",
     "But is skilled in",
     "Chemistry"

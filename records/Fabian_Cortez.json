@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/f0/4c0040603dda1/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Fabian Cortez",
   "partners": [
@@ -38,8 +38,7 @@
     "Genoshan",
     "Upstarts",
     "Acolytes",
-    "Genosha",
-    "n"
+    "Genosha"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2695/fabian_cortez",

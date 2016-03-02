@@ -23,19 +23,17 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Makkari_1.jpg/250px-Makkari_1.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Makkari",
   "partners": [
   ],
   "powers": [
     "Energy blasts",
-    "Accelerated healing factor",
     "Superhuman strength",
     "Speed",
     "Illusion generation",
     "Flight",
-    "Cosmic energy manipulation",
     "Psychokinesis",
     "Matter transmutation",
     "Teleportation",

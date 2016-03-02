@@ -9,24 +9,18 @@
   "description": "Naga is a fictional character and Marvel Comics supervillain.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Naga",
   "partners": [
   ],
   "powers": [
-    "Fully amphibious physiognomy",
-    "Suited for high water pressure",
     "Super strength",
-    "High-speed swimming. with the serpent crown: mind control",
+    "Mind control",
     "Teleportation",
-    "Matter transformation abilities",
-    "Further increased strength levels",
-    "Immortality.",
-    "High-speed swimming. with the",
-    "Serpent crown",
-    "Mind control"
+    "Immortality",
+    "Serpent crown"
   ],
   "ranking": {
     "comicCount": 0,

@@ -12,15 +12,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Gentleprofile.jpg/250px-Gentleprofile.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Gentle",
   "partners": [
   ],
   "powers": [
-    "Extreme strength",
-    "By temporarily increasing his muscle mass"
+    "Extreme strength"
   ],
   "ranking": {
     "comicCount": 0,
@@ -31,7 +30,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Nezhno \"Nez\" Abidemi"
+    "Nezhno Abidemi",
+    "Nez"
   ],
   "species": [
     "Mutant"

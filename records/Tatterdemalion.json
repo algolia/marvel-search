@@ -9,15 +9,14 @@
   "description": "The Tatterdemalion King is also another name for Hastur.Tatterdemalion is a fictional character and supervillain in the Marvel Comics universe, who wore gloves either coated with or secreting a chemical agent which dissolved any material composed of paper, such as dollar bills.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tatterdemalion",
   "partners": [
   ],
   "powers": [
-    "Peak physical condition",
-    "Special coating makes difficult to hold"
+    "Peak physical condition"
   ],
   "ranking": {
     "comicCount": 0,

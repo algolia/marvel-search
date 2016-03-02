@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Die-Cut"
+    "Die-Cut",
+    "actual identities the character uses"
   ],
   "authors": [
     "John Royle",
@@ -9,14 +10,14 @@
   "description": "Die-Cut (real name: Czorn Yson) is a fictional character who appears in comic books published by the Marvel UK imprint of Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Die-Cut",
   "partners": [
   ],
   "powers": [
-    "A blade called the \"pscythe\" that can cut through any material"
+    "Pscythe"
   ],
   "ranking": {
     "comicCount": 0,

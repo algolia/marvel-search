@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Death Metal"
+    "Death Metal",
+    "actual identities the character uses"
   ],
   "authors": [
     "Dell Barras",
@@ -10,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/DeathMetal1.png/200px-DeathMetal1.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Death Metal",
   "partners": [

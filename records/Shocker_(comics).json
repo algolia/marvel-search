@@ -12,16 +12,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/28/AmazingSpider-Man046.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shocker (Herman Schultz)",
   "partners": [
   ],
   "powers": [
-    "Gauntlets that project concentrated vibrational air blasts",
-    "Deflection of physical attacks",
-    "Resistance to being grasped"
   ],
   "ranking": {
     "comicCount": 21,

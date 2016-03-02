@@ -5,14 +5,13 @@
   "authors": [
     "Roger Stern",
     "Ralph Macchio",
-    "and Tom Sutton",
     "Tom Sutton"
   ],
   "description": "Ludi is a fictional character appearing in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ludi",
   "partners": [

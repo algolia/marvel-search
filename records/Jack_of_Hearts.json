@@ -10,15 +10,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/99/JackofHearts.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Jack of Hearts",
   "partners": [
   ],
   "powers": [
     "Flight",
-    "Sensitive brain that senses motion",
     "Concussive blasts",
     "Increased intelligence",
     "Strength",
@@ -34,10 +33,12 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Jonathan \"Jack\" Hart"
+    "Jonathan Hart",
+    "Jack"
   ],
   "species": [
-    "Half human, half-Contraxian"
+    "Half human",
+    "half-Contraxian"
   ],
   "teams": [
     "Avengers",

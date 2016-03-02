@@ -3,10 +3,9 @@
     "The Tiller",
     "Moral Man",
     "Virtue",
-    "Ethan+Edwards",
+    "Ethan Edwards",
     "Edwards",
-    "Ethan",
-    "Ethan Edwards"
+    "Ethan"
   ],
   "authors": [
     "Reginald Hudlin",
@@ -17,7 +16,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/MKSM018.jpg/250px-MKSM018.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Virtue",
   "partners": [

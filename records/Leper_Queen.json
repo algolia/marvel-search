@@ -12,19 +12,15 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/XFORCE013_cov.jpg/250px-XFORCE013_cov.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Leper Queen",
   "partners": [
   ],
   "powers": [
-    "Competent ability with weapons",
-    "Skilled fighter.",
-    "Infected with the transmode virus.",
-    "Infected with the",
-    "Transmode virus",
-    "."
+    "Skilled fighter",
+    "Transmode virus"
   ],
   "ranking": {
     "comicCount": 0,

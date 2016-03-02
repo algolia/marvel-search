@@ -9,14 +9,13 @@
   "description": "Tumbler is the name of four fictional character in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tumbler",
   "partners": [
   ],
   "powers": [
-    "Exceptional acrobatic skills."
   ],
   "ranking": {
     "comicCount": 0,

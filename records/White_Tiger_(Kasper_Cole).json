@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Black Panther",
-    "White Tiger",
-    "White Tiger (Kasper Cole)"
+    "White Tiger"
   ],
   "authors": [
     "Dan Fraga",
@@ -14,8 +13,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Kaspercole.png/250px-Kaspercole.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "White Tiger (Angela Del Toro)",
   "partners": [
@@ -23,7 +22,6 @@
   "powers": [
     "Superhuman eyesight",
     "Night vision",
-    "Peak human physical strength",
     "Speed",
     "Reflexes",
     "Reactions",
@@ -39,7 +37,8 @@
     "storyCount": 8
   },
   "secretIdentities": [
-    "Kevin \"Kasper\" Cole"
+    "Kevin Cole",
+    "Kasper"
   ],
   "species": [
   ],

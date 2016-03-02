@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c002f1c476f9/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ord",
   "partners": [
@@ -23,7 +23,6 @@
     "Flight",
     "Enhanced durability",
     "Enhanced hearing",
-    "Highly skilled in use of bladed weapons",
     "Master martial artist",
     "Superhuman strength speed",
     "Endurance"

@@ -17,8 +17,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce5a36f31b94/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "MVP",
   "partners": [
@@ -29,7 +29,7 @@
     "Speed",
     "Reflexes",
     "Agility",
-    "Endurance."
+    "Endurance"
   ],
   "ranking": {
     "comicCount": 3,
@@ -45,10 +45,9 @@
   "species": [
   ],
   "teams": [
-    "Avengers: The Initiative",
+    "The Initiative",
     "New Warriors",
     "Counter Force",
-    "The Initiative",
     "Shadow Initiative",
     "Avengers Resistance"
   ],

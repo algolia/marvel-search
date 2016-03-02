@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4ce5a531089da/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Scarlet Spider (Ben Reilly)",
   "partners": [
@@ -22,10 +22,7 @@
   "powers": [
     "Skilled martial artist",
     "Gymnast",
-    "Wields web-shooters that fire smoke bombs",
-    "Sonic blasts",
-    "A high-tech cat o'nine tails whip",
-    "Great investigative skills"
+    "Sonic blasts"
   ],
   "ranking": {
     "comicCount": 6,

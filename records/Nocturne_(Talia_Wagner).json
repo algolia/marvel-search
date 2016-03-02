@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Nocturne",
-    "Nocturne (Talia Wagner)"
+    "Nocturne"
   ],
   "authors": [
     "Jim Calafiore"
@@ -12,8 +11,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Nocturnexcal.png/230px-Nocturnexcal.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nocturne",
   "partners": [
@@ -35,7 +34,8 @@
     "storyCount": 24
   },
   "secretIdentities": [
-    "Talia Josephine \"T.J.\" Wagner"
+    "Talia Josephine Wagner",
+    "T.J"
   ],
   "species": [
     "Mutant"

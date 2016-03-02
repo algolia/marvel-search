@@ -11,16 +11,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/57/Scanner_xm86.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Scanner",
   "partners": [
   ],
   "powers": [
-    "Depowered",
-    "Formerly: psionic detection of mutants",
-    "Astral projection/electro-transitional state"
+    "Depowered"
   ],
   "ranking": {
     "comicCount": 0,

@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Rom"
+    "Rom",
+    "actual identities the character uses"
   ],
   "authors": [
     "Sal Buscema",
@@ -13,7 +14,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Rom-1.jpg/250px-Rom-1.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Rom",
   "partners": [
@@ -21,13 +22,10 @@
   "powers": [
     "Extreme durability",
     "Flight",
-    "Survive the vacuum of space",
     "Superhuman strength",
     "Self-repair capabilities",
-    "Space travel via backpack rockets",
     "Use of high tech weapons",
-    "Space",
-    "Travel via backpack rockets"
+    "Space"
   ],
   "ranking": {
     "comicCount": 0,

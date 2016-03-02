@@ -13,8 +13,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Defenders_34.jpg/250px-Defenders_34.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nebulon",
   "partners": [

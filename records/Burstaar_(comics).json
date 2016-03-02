@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Thing006blastaar.jpg/250px-Thing006blastaar.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Burstaar",
   "partners": [
@@ -22,11 +22,9 @@
     "Endurance",
     "Enhanced durability",
     "Resistance to injury",
-    "Virtually unlimited stamina",
     "Self-propelled flight",
     "Energy blasts",
-    "Highly trained in warfare",
-    "Access to advanced technology"
+    "Highly trained in warfare"
   ],
   "ranking": {
     "comicCount": 0,
@@ -42,7 +40,6 @@
   "species": [
   ],
   "teams": [
-    "Aliens of the",
     "Negative Zone",
     "Frightful Four",
     "Legion Accursed"

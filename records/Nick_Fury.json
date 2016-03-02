@@ -15,22 +15,19 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/5261a745e658d/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nick Fury",
   "partners": [
   ],
   "powers": [
-    "Halted aging from the infinity formula",
     "Skilled with many weapons",
     "Fighting techniques",
     "Skilled",
     "Experienced soldier",
-    "Extensive military training",
     "Highly skilled in armed",
-    "Unarmed combat",
-    "Longevity from the infinity formula"
+    "Unarmed combat"
   ],
   "ranking": {
     "comicCount": 279,
@@ -41,20 +38,22 @@
     "storyCount": 275
   },
   "secretIdentities": [
-    "Nicholas Joseph \"Nick\" Fury"
+    "Nicholas Joseph Fury",
+    "Nick"
   ],
   "species": [
   ],
   "teams": [
-    "Sgt. Fury and his Howling Commandos",
+    "Sgt. Fury",
+    "his Howling Commandos",
     "Secret Warriors",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Central Intelligence Agency",
     "Great Wheel",
     "United States Army",
-    "C.I.A.",
+    "C.I.A",
     "Howling Commandos",
-    "\"Avengers\" (1959)"
+    "Avengers\" (1959)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2782/nick_fury",

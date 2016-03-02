@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/RicochetJohnny.jpg/220px-RicochetJohnny.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ricochet",
   "partners": [
@@ -35,7 +35,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Jonathan \"Johnny\" Gallo"
+    "Jonathan Gallo",
+    "Johnny"
   ],
   "species": [
     "Mutant"

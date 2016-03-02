@@ -18,7 +18,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/526961ce86539/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": {
     "blue": 42,
     "green": 25,
@@ -34,7 +34,6 @@
     "Precognition",
     "Katana",
     "Telepathy",
-    "Highly skilled martial artist",
     "Empathy",
     "Psychokinesis",
     "Telekinesis",
@@ -50,7 +49,8 @@
     "storyCount": 287
   },
   "secretIdentities": [
-    "Elizabeth \"Betsy\" Braddock"
+    "Elizabeth Braddock",
+    "Betsy"
   ],
   "species": [
     "Mutant"
@@ -66,9 +66,9 @@
     "Features of the Marvel Universe",
     "Hellfire Club",
     "X-Men",
-    "S.T.R.I.K.E.",
+    "S.T.R.I.K.E",
     "The Hand",
-    "R.C.X.",
+    "R.C.X",
     "Sisterhood of Mutants",
     "X-Club"
   ],

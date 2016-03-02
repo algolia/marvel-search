@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/92/Blue_Diamond001.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Blue Diamond",
   "partners": [

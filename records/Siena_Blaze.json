@@ -11,16 +11,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b6/Siena_Blaze.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Siena Blaze",
   "partners": [
   ],
   "powers": [
-    "Electromagnetic energy generation",
     "Flight",
-    "Teleportation."
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 0,

@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5c/Challenger-DaringMystery7.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Challenger",
   "partners": [
@@ -21,7 +21,6 @@
     "Boxer",
     "Pilot",
     "Immunity to pain",
-    "Master of several martial arts",
     "Chemistry",
     "Swordsmanship",
     "Weaponry"
@@ -35,7 +34,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "William \"Bill\" Waring"
+    "William Waring",
+    "Bill"
   ],
   "species": [
     "Human"

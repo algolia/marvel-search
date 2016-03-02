@@ -13,15 +13,14 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Tag_%28comics%29.png/250px-Tag_%28comics%29.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tag",
   "partners": [
   ],
   "powers": [
-    "Through physical contact can \"tag\" others",
-    "Temporarily leaving a psionic signature on them"
+    "Tag"
   ],
   "ranking": {
     "comicCount": 2,

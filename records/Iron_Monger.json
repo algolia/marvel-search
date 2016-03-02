@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Iron Monger"
+    "Iron Monger",
+    "actual identities the character uses"
   ],
   "authors": [
     "Dennis O'Neil",
@@ -12,25 +13,21 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/IronMonger.jpg/230px-IronMonger.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Iron Monger",
   "partners": [
   ],
   "powers": [
-    "Abilities derived from armored suit: superhuman strength",
+    "Superhuman strength",
     "Stamina",
     "Speed",
     "Flight",
     "Energy blasts",
     "Genius-level intellect",
-    "Master of psychological warfare",
-    "Cunning business strategist",
     "Champion chess player",
     "Use of circuits breaker",
-    "A consciousness exchanging device",
-    "Superhuman strength",
     "Durability",
     "Subsonic flight",
     "Laser beam"

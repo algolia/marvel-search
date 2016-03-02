@@ -10,14 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/CrimsonCurse.jpg/220px-CrimsonCurse.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Crimson Curse",
   "partners": [
   ],
   "powers": [
-    "Magical element manipulation",
     "Flight"
   ],
   "ranking": {

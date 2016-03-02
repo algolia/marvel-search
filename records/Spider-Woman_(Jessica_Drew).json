@@ -4,8 +4,7 @@
     "Ariadne Hyde",
     "Hunter",
     "Spider-Woman",
-    "Jessica Drew",
-    "Spider-Woman (Jessica Drew)"
+    "Jessica Drew"
   ],
   "authors": [
     "Marie Severin",
@@ -18,7 +17,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/531771afe4ffa/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -41,8 +40,6 @@
     "Radiations",
     "Superb athlete",
     "Hand to hand combatant",
-    "Bio-electric energy projection",
-    "Fear-inducing pheromone generation",
     "Trained fencer",
     "Spy",
     "Stealth artist",
@@ -75,8 +72,8 @@
     "Secret Avengers",
     "Lady Liberators",
     "The New Avengers",
-    "S.W.O.R.D.",
-    "S.H.I.E.L.D.",
+    "S.W.O.R.D",
+    "S.H.I.E.L.D",
     "New Avengers"
   ],
   "urls": {

@@ -14,14 +14,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Xforce69.jpg/250px-Xforce69.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Vanisher (Age of Apocalypse)",
   "partners": [
   ],
   "powers": [
-    "Use of guns that fire gas or energy beams",
     "Teleportation"
   ],
   "ranking": {

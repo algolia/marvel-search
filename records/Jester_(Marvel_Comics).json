@@ -14,8 +14,8 @@
   "description": "Jester is the name of several Marvel Comics supervillains.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Jester",
   "partners": [
@@ -29,10 +29,7 @@
     "Kickboxer",
     "Well trained acrobat",
     "Hand to hand combatant",
-    "Possesses an arsenal of joke-themed weapons",
-    "Use of armed miniature robots",
-    "A one-man submarine",
-    "Possesses an arsenal of weaponry"
+    "A one-man submarine"
   ],
   "ranking": {
     "comicCount": 0,

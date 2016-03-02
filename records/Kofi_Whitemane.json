@@ -9,8 +9,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/NewPowerPack1.jpg/250px-NewPowerPack1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kofi Whitemane",
   "partners": [

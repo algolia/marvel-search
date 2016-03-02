@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/527413be6077d/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Stature",
   "partners": [
@@ -34,15 +34,14 @@
     "storyCount": 20
   },
   "secretIdentities": [
-    "Cassandra Eleanor \"Cassie\"  Lang",
-    "Cassandra Eleanor \"Cassie\" Lang"
+    "Cassandra Eleanor Lang",
+    "Cassie"
   ],
   "species": [
   ],
   "teams": [
     "The Mighty Avengers",
     "Young Avengers",
-    "Avengers: The Initiative",
     "The Initiative",
     "Mighty Avengers"
   ],

@@ -10,18 +10,17 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/TaniaReen.JPG/180px-TaniaReen.JPG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tangerine",
   "partners": [
   ],
   "powers": [
-    "Psychometry (paranormal)",
+    "Psychometry",
     "Telepathy",
     "Psionic-electric blasts",
-    "Empathy",
-    "Psychometry"
+    "Empathy"
   ],
   "ranking": {
     "comicCount": 0,

@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Invaders-17.jpg/250px-Invaders-17.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Warrior Woman",
   "partners": [
@@ -19,7 +19,6 @@
   "powers": [
     "Enhanced strength",
     "Stamina",
-    "Excellent skills in espionage",
     "Hypnotism"
   ],
   "ranking": {

@@ -17,8 +17,8 @@
     "banner": "http://x.annihil.us/u/prod/marvel/i/mg/2/30/537baaede2ff3.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/52696aa8aee99/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 25,
     "green": 11,
@@ -30,20 +30,16 @@
   ],
   "powers": [
     "Control",
-    "Manipulation of potential energy",
     "Kinetic energy",
-    "Enhanced physical abilities",
     "Hypnotic charm",
     "Highly skilled in savate",
     "Bōjutsu",
-    "Transmutation of substances into acid or poison",
     "Kinetic conversion",
     "Acceleration",
     "Static generation",
     "Martial artist",
     "Acrobat",
-    "Disintegration",
-    "Card imprisonment{{vague|date"
+    "Disintegration"
   ],
   "ranking": {
     "comicCount": 299,

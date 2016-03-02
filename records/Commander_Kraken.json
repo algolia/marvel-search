@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Cm.Kraken.jpg/250px-Cm.Kraken.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Commander Kraken",
   "partners": [

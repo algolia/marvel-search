@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/84/Haven%28comics%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Haven",
   "partners": [

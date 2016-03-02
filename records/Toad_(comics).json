@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/53ad8faa127fa/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Toad",
   "partners": [
@@ -25,12 +25,7 @@
     "Expert kickboxer",
     "Mechanic",
     "Machinist",
-    "Psychoactive venom secretion",
-    "Elongated prehensile tongue",
-    "Paralyzing mucus secretion",
     "Adhesive spit",
-    "Expel gusts of air from his lungs",
-    "Communicate with amphibious life",
     "Superhuman leg",
     "Tongue strength",
     "Endurance",
@@ -38,8 +33,7 @@
     "Reflexes",
     "Coordination",
     "Balance",
-    "Leaping",
-    "Regenerative healing factor"
+    "Leaping"
   ],
   "ranking": {
     "comicCount": 32,
@@ -59,9 +53,8 @@
     "Brotherhood of Mutants",
     "The Misfits",
     "X-Mansion",
-    "X-Men: The 198",
-    "Defenders",
     "The 198",
+    "Defenders",
     "Jean Grey School"
   ],
   "urls": {

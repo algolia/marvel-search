@@ -13,14 +13,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GoldenGirl.jpg/200px-GoldenGirl.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Golden Girl",
   "partners": [
   ],
   "powers": [
-    "Golden force beam projection via her hands",
     "Energy",
     "Light generation",
     "Wears bulletproof cape"
@@ -35,7 +34,8 @@
   },
   "secretIdentities": [
     "Betsy Ross",
-    "Gwendolyne \"Gwenny\" Lou Sabuki"
+    "Gwendolyne Lou Sabuki",
+    "Gwenny"
   ],
   "species": [
   ],

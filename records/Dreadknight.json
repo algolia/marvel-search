@@ -10,7 +10,7 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6c/DreadknightIM102.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Dreadknight",
@@ -20,7 +20,7 @@
     "Body armor",
     "Weaponry",
     "Gifted scientist",
-    "Rides the \"hellhorse\"",
+    "Rides the \"hellhorse",
     "Use of weapons",
     "Superhuman strength",
     "Durability"

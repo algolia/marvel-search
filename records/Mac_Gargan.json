@@ -1,7 +1,7 @@
 {
   "aliases": [
     "Scorpion",
-    "\"Kilgore Trout\"",
+    "Kilgore Trout",
     "Venom",
     "Spider-Man",
     "Gargan",
@@ -17,7 +17,7 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Mac Gargan",
@@ -25,11 +25,8 @@
   ],
   "powers": [
     "Limited shapeshifting",
-    "Wears scorpion-like armor with a cybernetic tail that has projectile weapons",
     "As venom",
-    "Precognitive scorpion sense",
     "Immunity to spider-sense",
-    "All of spider-man's powers",
     "Superhuman strength",
     "Speed",
     "Agility",
@@ -48,7 +45,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "MacDonald \"Mac\" Gargan"
+    "MacDonald Gargan",
+    "Mac"
   ],
   "species": [
   ],

@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4c7c646b68a2c/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Doop",
   "partners": [
@@ -21,10 +21,8 @@
   "powers": [
     "Physical malleability",
     "Flight",
-    "Accelerated healing factor",
     "Superhuman strength",
     "Durability",
-    "Extra-dimensional void within body that can store objects",
     "People",
     "Accelerated",
     "Healing factor"

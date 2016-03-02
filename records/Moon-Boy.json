@@ -9,8 +9,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/DevilDinosaurandMoonBoy.jpg/250px-DevilDinosaurandMoonBoy.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Moon-Boy",
   "partners": [

@@ -1,7 +1,8 @@
 {
   "aliases": [
     "The Weapons Master",
-    "Master of the Staff and Sais",
+    "Master of the Staff",
+    "Sais",
     "Zaran"
   ],
   "authors": [
@@ -14,16 +15,14 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Zaran",
   "partners": [
   ],
   "powers": [
-    "Possesses various weapons",
-    "Expert armed/unarmed combatant",
-    "Extensive knowledge of weapons"
+    "Possesses various weapons"
   ],
   "ranking": {
     "comicCount": 7,

@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Marrina.jpg/200px-Marrina.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Marrina Smallwood",
   "partners": [

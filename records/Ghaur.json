@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a4/AvengersWestCoastAnnual4.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ghaur",
   "partners": [
@@ -21,7 +21,6 @@
     "Set"
   ],
   "powers": [
-    "Mind control of other deviants",
     "Shapeshifting",
     "Mind control",
     "Of other deviants"

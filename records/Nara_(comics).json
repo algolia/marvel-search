@@ -9,8 +9,8 @@
   "description": "Nara is a fictional character from Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nara",
   "partners": [

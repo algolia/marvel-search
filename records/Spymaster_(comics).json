@@ -1,6 +1,6 @@
 {
   "aliases": [
-    "I: Cobalt Man",
+    "Cobalt Man",
     "Iron Knight",
     "Hogan Potts",
     "Spare Parts Man",
@@ -8,12 +8,11 @@
     "Shellhead",
     "Ted Calloway",
     "Jake Jordan",
-    "Anthony Stark,",
-    "II: Number One",
+    "Anthony Stark",
+    "Number One",
     "Santa Claus",
     "Harmon Taylor",
-    "Spymaster",
-    "Anthony Stark"
+    "Spymaster"
   ],
   "authors": [
     "Stan Lee",
@@ -26,36 +25,29 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/88/Spymaster.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
-  "name": "Santa Claus",
+  "name": "Cobalt Man",
   "partners": [
     "Justin Hammer"
   ],
   "powers": [
-    "None: espionage master",
+    "Espionage master",
     "Exceptional strategist",
-    "Excellent hand to hand combatant",
-    "Extraordinary industrial spy",
     "Saboteur",
     "Master of disguise",
     "Superb actor",
     "Highly agile",
-    "Skilled athlete",
-    "Greatly skilled in the uses of virtually any kind of gun",
-    "Access to cutting-edge technology",
-    "Use of electronically amplified nun-chakas",
-    "Minimal protection from physical attacks",
-    "Various pockets for holding weaponry"
+    "Skilled athlete"
   ],
   "ranking": {
-    "comicCount": 3,
+    "comicCount": 1,
     "eventCount": 0,
     "pageviewCount": 1687,
     "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 4
+    "serieCount": 1,
+    "storyCount": 1
   },
   "secretIdentities": [
     "Sinclair Abbot"
@@ -63,7 +55,7 @@
   "species": [
   ],
   "teams": [
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Zodiac",
     "Advanced Idea Mechanics",
     "Maggia",
@@ -74,7 +66,7 @@
     "Roxxon Oil"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2811/santa_claus",
+    "marvel": "http://marvel.com/characters/444/cobalt_man",
     "wikipedia": "https://en.wikipedia.org/wiki/Spymaster_(comics)"
   }
 }

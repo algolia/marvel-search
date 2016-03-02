@@ -12,14 +12,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Xmen-195.jpg/250px-Xmen-195.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Pandemic",
   "partners": [
   ],
   "powers": [
-    "The ability to copy other mutants' powers"
   ],
   "ranking": {
     "comicCount": 2,

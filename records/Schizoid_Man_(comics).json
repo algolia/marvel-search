@@ -11,15 +11,14 @@
   "description": "The Schizoid Man is a Marvel Comics supervillain.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Schizoid Man",
   "partners": [
   ],
   "powers": [
-    "Multiple disorder",
-    "Animate solid constructs with his mind"
+    "Multiple disorder"
   ],
   "ranking": {
     "comicCount": 0,

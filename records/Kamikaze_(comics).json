@@ -7,15 +7,14 @@
   "description": "Kamikaze (Haruo Tsuburaya) is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kamikaze",
   "partners": [
   ],
   "powers": [
-    "Fly",
-    "Give off an explosive charge upon impact"
+    "Fly"
   ],
   "ranking": {
     "comicCount": 0,

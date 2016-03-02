@@ -11,18 +11,14 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Jetstream",
   "partners": [
   ],
   "powers": [
-    "Concentrates thermo-kinetic energy beneath his feet to aid him in jet-like propulsion",
-    "Also has various technological components surgically inserted into his legs",
-    "Back which help to focus his abilities",
-    "Direct his flight path",
-    "Concentrates thermo-kinetic energy beneath his feet to aid him in jet-like propulsion; also has various technological components surgically inserted into his legs"
+    "Direct his flight path"
   ],
   "ranking": {
     "comicCount": 1,

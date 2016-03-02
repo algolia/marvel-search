@@ -14,8 +14,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/539a09a2863cf/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "The Hood",
   "partners": [
@@ -24,12 +24,10 @@
     "Infinity gems",
     "Criminal mastermind",
     "Marksman",
-    "Formerly: reality manipulation using the norn stones",
     "Magical cloak",
     "Boots for invisibility",
     "Air walking",
-    "Demon transformation",
-    "Marksman formerly: reality manipulation using the norn stones"
+    "Demon transformation"
   ],
   "ranking": {
     "comicCount": 0,
@@ -45,10 +43,9 @@
   "species": [
   ],
   "teams": [
-    "Avengers: The Initiative",
+    "The Initiative",
     "Cabal",
     "The Cabal",
-    "The Initiative",
     "Illuminati"
   ],
   "urls": {

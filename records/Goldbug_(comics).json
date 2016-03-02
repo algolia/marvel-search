@@ -10,8 +10,8 @@
   "description": "Goldbug is a supervillain in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Goldbug",
   "partners": [
@@ -23,9 +23,7 @@
     "Gifted intellect",
     "Use of a gold gun",
     "An aqua regia solution",
-    "A jet-propelled hovercraft",
     "A submarine",
-    "Wears powered armored suit",
     "Superhuman strength",
     "Wafer-thin parachute"
   ],

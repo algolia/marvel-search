@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Scatterbrain",
-    "Scatterbrain (Morituri)"
+    "Scatterbrain"
   ],
   "authors": [
     "Brent Anderson",
@@ -11,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Scatterbrain_Morituri.jpg/250px-Scatterbrain_Morituri.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Scatterbrain",
   "partners": [
@@ -35,7 +34,7 @@
   "species": [
   ],
   "teams": [
-    "Strikeforce: Morituri"
+    "Morituri"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Scatterbrain_(Morituri)"

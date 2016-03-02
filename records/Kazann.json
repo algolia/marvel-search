@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Kazann"
+    "Kazann",
+    "actual identities the character uses"
   ],
   "authors": [
     "Clayton Crain",
@@ -9,16 +10,15 @@
   "description": "Kazann is a fictional character appearing in Marvel Comics, created by writer Garth Ennis and artist Clayton Crain.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kazann",
   "partners": [
   ],
   "powers": [
     "Naturally bodiless",
-    "But able to manifest by constructing a physical form from the bodies of others. able to heal others. extensive magical powers",
-    "Exact limits undefined."
+    "Exact limits undefined"
   ],
   "ranking": {
     "comicCount": 0,

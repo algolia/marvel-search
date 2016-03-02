@@ -9,17 +9,15 @@
   "description": "The Blank is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Blank",
   "partners": [
   ],
   "powers": [
-    "Wears a personal force field which can protect him from most harm",
-    "Allows him to slip through the grips of others",
     "Rendered himself",
-    "Anything he held in his hands \"blurry,\" making him impossible to identify."
+    "Blurry"
   ],
   "ranking": {
     "comicCount": 0,

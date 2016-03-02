@@ -17,7 +17,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/528d369de3e4f/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Spider-Girl (Anya Corazon)",
   "partners": [
@@ -25,7 +25,6 @@
   "powers": [
     "Repel objects",
     "People",
-    "Bio-magnetism manipulation",
     "Superhuman strength",
     "Durability",
     "Stamina",
@@ -33,7 +32,6 @@
     "Agility",
     "Reflexes",
     "Endurance",
-    "Precognitive \"spider-sense\"",
     "Bio-magnetism",
     "Manipulation"
   ],
@@ -46,7 +44,8 @@
     "storyCount": 43
   },
   "secretIdentities": [
-    "May \"Mayday\" Parker"
+    "May Parker",
+    "Mayday"
   ],
   "species": [
   ],

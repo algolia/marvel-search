@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Warrior_Woman.jpg/250px-Warrior_Woman.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hippolyta",
   "partners": [
@@ -21,9 +21,7 @@
     "Enhanced strength",
     "Enhanced speed",
     "Enhanced durability",
-    "Ageless immortality",
-    "Highly developed fighting skills. with the gauntlet of ares her strength increases by 100 times.",
-    "Highly developed fighting skills. with the ''gauntlet of ares'' her strength increases by 100 times."
+    "Ageless immortality"
   ],
   "ranking": {
     "comicCount": 0,

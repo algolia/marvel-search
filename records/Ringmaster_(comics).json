@@ -12,15 +12,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Ringmaster.png/201px-Ringmaster.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ringmaster",
   "partners": [
   ],
   "powers": [
-    "Hypnotic mind control via device on his hat",
-    "Reality manipulation via cosmic powered ring"
   ],
   "ranking": {
     "comicCount": 0,

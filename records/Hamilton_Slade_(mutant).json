@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Hamilton Slade",
-    "Hamilton Slade (mutant)"
+    "Hamilton Slade"
   ],
   "authors": [
     "Clayton Henry",
@@ -11,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Slad_mom.JPG/250px-Slad_mom.JPG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hamilton Slade",
   "partners": [

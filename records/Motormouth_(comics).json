@@ -10,17 +10,13 @@
   "images": {
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Motormouth",
   "partners": [
     "Killpower"
   ],
   "powers": [
-    "Can teleport to any alternate reality",
-    "Planet or place within them",
-    "-sonic scream",
-    "Some energy identification abilities"
   ],
   "ranking": {
     "comicCount": 0,

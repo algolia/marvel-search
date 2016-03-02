@@ -21,20 +21,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c0030bee8c86/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Captain Marvel (Monica Rambeau)",
   "partners": [
   ],
   "powers": [
-    "Able to travel in energy form through the vacuum of space.",
     "Energy generation",
-    "Absorption & manipulation.",
-    "Can convert body into any form of energy within the electromagnetic spectrum.",
-    "Travel at speeds up to the speed of light while in her energy form.",
-    "Can convert body into any form of energy within the electromagnetic spectrum.{{clear}}energy generation",
-    "Absorption & manipulation.{{clear}} travel at speeds up to the speed of light while in her energy form.{{clear}} able to travel in energy form through the vacuum of space."
+    "Absorption & manipulation"
   ],
   "ranking": {
     "comicCount": 0,

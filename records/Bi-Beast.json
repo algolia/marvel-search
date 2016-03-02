@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/H-169.jpg/250px-H-169.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bi-Beast",
   "partners": [
@@ -23,7 +23,6 @@
     "Avians"
   ],
   "powers": [
-    "Extensive knowledge of avian warfare",
     "Culture",
     "Superhuman strength",
     "Stamina",

@@ -3,12 +3,11 @@
     "Marvel Boy"
   ],
   "authors": [
-    ": Bob Oksner",
-    ": Joe Simon & Jack Kirby",
+    "Bob Oksner",
+    "Joe Simon & Jack Kirby",
     "Stan Lee & Russ Heath",
     "Joe Simon",
     "Jack Kirby",
-    "Bob Oksner",
     "Stan Lee",
     "Russ Heath"
   ],
@@ -18,8 +17,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4c003d4a0e1c0/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Marvel Boy",
   "partners": [
@@ -43,9 +42,10 @@
     "David Bank",
     "Vance Astrovik",
     "Noh-Varr",
-    "Martin \"Marty\" Simon Burns",
-    "(I)''' Martin \"Marty\" Simon Burns",
-    "(II)''' Martin Oksner Burns"
+    "Martin Simon Burns",
+    "Marty",
+    "(I) Martin Simon Burns",
+    "(II) Martin Oksner Burns"
   ],
   "species": [
   ],

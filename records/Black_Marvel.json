@@ -8,15 +8,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/MysticComics5.jpg/220px-MysticComics5.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Black Marvel",
   "partners": [
   ],
   "powers": [
-    "Peak physical condition",
-    "Skilled hand to hand combatant"
+    "Peak physical condition"
   ],
   "ranking": {
     "comicCount": 0,

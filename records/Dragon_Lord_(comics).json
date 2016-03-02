@@ -16,15 +16,14 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Dragonlordc.jpg/249px-Dragonlordc.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Dragon Lord",
   "partners": [
   ],
   "powers": [
-    "Summon",
-    "Control dragons through elixirs"
+    "Summon"
   ],
   "ranking": {
     "comicCount": 2,

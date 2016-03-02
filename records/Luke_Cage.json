@@ -13,8 +13,8 @@
     "banner": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/537bb479ab0fc.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5112d8b6e596c/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 9,
     "green": 36,
@@ -32,12 +32,9 @@
     "Superhuman strength",
     "Stamina",
     "Durability",
-    "Unbreakable skin is highly impervious to damage",
     "Temperature",
-    "Accelerated healing factor",
     "Excellent street fighter",
-    "Hand-to-hand combatant",
-    "Unbreakable skin that is impervious to damage"
+    "Hand-to-hand combatant"
   ],
   "ranking": {
     "comicCount": 106,
@@ -60,10 +57,9 @@
     "Avengers",
     "Dark Avengers",
     "Thunderbolts",
-    "\"Marvel Knights\"",
+    "Marvel Knights",
     "Defenders",
     "New Avengers",
-    "Marvel Knights",
     "Mighty Avengers"
   ],
   "urls": {

@@ -9,16 +9,14 @@
   "description": "Scorpia (real name Elaine Colls) is a fictional super villain in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Scorpia",
   "partners": [
   ],
   "powers": [
-    "Micro-thin force field generation",
-    "Energy blasts",
-    "Superhuman physical attributes derived from that of scorpion"
+    "Energy blasts"
   ],
   "ranking": {
     "comicCount": 0,

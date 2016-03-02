@@ -2,9 +2,10 @@
   "aliases": [
     "Big M",
     "the Director",
-    "Kristine \"Krissy\" Longfellow",
+    "Kristine Longfellow",
     "Madame Masque",
-    "Kristine \"Krissy\" Longfellow<!--",
+    "Krissy",
+    "Kristine Longfellow<!--",
     "Bethany Cabe"
   ],
   "authors": [
@@ -17,8 +18,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/00/4ce5a251c1100/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Madame Masque",
   "partners": [
@@ -28,8 +29,7 @@
     "Expert markswoman",
     "Master strategist",
     "Organizer",
-    "Proficiency with robotics",
-    "Skilled hand to hand combatant"
+    "Proficiency with robotics"
   ],
   "ranking": {
     "comicCount": 6,
@@ -40,7 +40,7 @@
     "storyCount": 6
   },
   "secretIdentities": [
-    "Giulietta Nefaria ",
+    "Giulietta Nefaria",
     "Whitney Frost",
     "Giulietta Nefaria (originally)",
     "Whitney Frost (legally changed)"

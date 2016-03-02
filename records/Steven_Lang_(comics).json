@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/XMN_StevenLang.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Master Mold",
   "partners": [
@@ -40,7 +40,7 @@
   "teams": [
     "Department of Defense",
     "Purifiers",
-    "Project: Armageddon",
+    "Armageddon",
     "Human Council",
     "Phalanx"
   ],

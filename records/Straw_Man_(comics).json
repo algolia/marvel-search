@@ -1,9 +1,8 @@
 {
   "aliases": [
     "Scarecrow",
-    " Skirra Corvus",
-    "Straw Man",
-    "Skirra Corvus"
+    "Skirra Corvus",
+    "Straw Man"
   ],
   "authors": [
     "Scott Edelman",
@@ -15,7 +14,7 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/96/StrawMan.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": false,
   "mainColor": null,
   "name": "Scarecrow (Ebenezer Laughton)",

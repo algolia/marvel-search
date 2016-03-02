@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/NinaPrice_HCV.jpg/200px-NinaPrice_HCV.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Vampire By Night",
   "partners": [
@@ -23,7 +23,7 @@
     "Superhuman senses",
     "Hypnosis",
     "Immortality",
-    "Speedster (fiction)",
+    "Speedster",
     "Night vision",
     "Superhuman agility",
     "Superhuman strength",

@@ -18,7 +18,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/5202887448860/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Adam Warlock",
   "partners": [
@@ -45,7 +45,7 @@
   "species": [
   ],
   "teams": [
-    "Guardians of the Galaxy (2008 team)",
+    "Guardians of the Galaxy",
     "Infinity Watch"
   ],
   "urls": {

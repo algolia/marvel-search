@@ -10,7 +10,7 @@
   "authors": [
     "Roger McKenzie",
     "Mary Jo Duffy",
-    "and Gene Colan",
+    "Gene Colan",
     "Stan Lee",
     "Don Heck"
   ],
@@ -18,14 +18,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/af/ApeMan.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ape-Man",
   "partners": [
   ],
   "powers": [
-    "Ape-like superhuman strength",
     "Agility",
     "Durability",
     "Reflexes",
@@ -33,8 +32,7 @@
     "Enhanced agility",
     "Use of t-ray gun",
     "Considerable strength",
-    "Ape-like appearance",
-    "Excellent hand-to-hand combatant"
+    "Ape-like appearance"
   ],
   "ranking": {
     "comicCount": 0,

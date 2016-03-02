@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/RingerMarvel.jpg/200px-RingerMarvel.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ringer",
   "partners": [
@@ -24,10 +24,7 @@
     "Skilled inventor",
     "Engineer",
     "Energy projection",
-    "Gifted mechanical engineer",
     "Levitation",
-    "Wears battlesuit that grants him the ability to condense",
-    "Use several ring-based weapons",
     "Teleportation"
   ],
   "ranking": {
@@ -39,7 +36,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Anthony \"Tony\" Davis"
+    "Anthony Davis",
+    "Tony"
   ],
   "species": [
   ],

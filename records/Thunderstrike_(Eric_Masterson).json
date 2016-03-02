@@ -2,8 +2,7 @@
   "aliases": [
     "Thor",
     "Thunderstrike",
-    "Eric Masterson",
-    "Thunderstrike (Eric Masterson)"
+    "Eric Masterson"
   ],
   "authors": [
     "Tom DeFalco",
@@ -15,8 +14,8 @@
     "banner": "http://i.annihil.us/u/prod/marvel/universe3zx/images/e/e3/DragynWulf--Thor(Odinson).jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/545a857a38f92/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Thor (Goddess of Thunder)",
   "partners": [
@@ -24,7 +23,6 @@
   "powers": [
     "Dimensional travel",
     "Flight",
-    "Formidable hand to hand combatant",
     "Superhuman strength",
     "Speed",
     "Agility",
@@ -51,7 +49,7 @@
     "Defenders",
     "Legion of the Unliving",
     "Asgard",
-    "\"Thor Corps\"",
+    "Thor Corps",
     "Avengers",
     "Secret Defenders"
   ],

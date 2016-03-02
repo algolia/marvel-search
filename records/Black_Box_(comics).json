@@ -10,8 +10,8 @@
   "description": "Black Box (Garabed Bashur), formerly known as Commcast, is a fictional character in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Black Box",
   "partners": [
@@ -27,7 +27,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Garabed \"Gareb\" Bashur"
+    "Garabed Bashur",
+    "Gareb"
   ],
   "species": [
     "Mutant"

@@ -18,8 +18,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4ce5a0614487a/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Dani Moonstar",
   "partners": [
@@ -33,7 +33,6 @@
     "Psionic arrows",
     "Psionic bullets",
     "Psionic bolts",
-    "Empathic/telepathic link with all kinds of animals",
     "Superhuman strength",
     "Limited",
     "Psionic",
@@ -48,7 +47,8 @@
     "storyCount": 15
   },
   "secretIdentities": [
-    "Danielle \"Dani\" Moonstar"
+    "Danielle Moonstar",
+    "Dani"
   ],
   "species": [
     "Decimation",
@@ -63,8 +63,7 @@
     "Valkyrior",
     "Mutant Liberation Front",
     "X-Men",
-    "S.H.I.E.L.D.",
-    "Avengers: The Initiative",
+    "S.H.I.E.L.D",
     "The Initiative",
     "Xavier Institute"
   ],

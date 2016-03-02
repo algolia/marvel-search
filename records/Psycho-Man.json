@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c003c82b377c/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Psycho-Man",
   "partners": [
@@ -21,12 +21,9 @@
   "powers": [
     "Powered exoskeleton",
     "Genius-level intellect",
-    "Emotional manipulation via emotion-controlling device",
     "Use of",
     "Powered armor",
-    "Possesses a futuristic space vessel",
-    "Emotion manipulation",
-    "Via emotion-controlling device"
+    "Emotion manipulation"
   ],
   "ranking": {
     "comicCount": 8,

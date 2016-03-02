@@ -7,8 +7,8 @@
   "description": "Jane/Dick Smythe is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Jane Smythe",
   "partners": [

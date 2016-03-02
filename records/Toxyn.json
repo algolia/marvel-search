@@ -10,14 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Toxyn.bmp/103px-Toxyn.bmp.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Toxyn",
   "partners": [
   ],
   "powers": [
-    "Biochemistry analysis through physical touch",
     "Poison synthesis",
     "Enhanced strength"
   ],
@@ -35,7 +34,7 @@
   "species": [
   ],
   "teams": [
-    "Strikeforce: Morituri"
+    "Morituri"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Toxyn"

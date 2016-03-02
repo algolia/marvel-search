@@ -10,8 +10,8 @@
   "description": "Ahura is a fictional character that appears in the Marvel Universe and is a member of the Inhumans species.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ahura",
   "partners": [
@@ -20,10 +20,9 @@
     "Initially",
     "Hypersonic scream",
     "Later",
-    "His power evolves into a psionic \"evil eye\" which can cause death",
-    "But this is largely dormant",
     "Telepathy",
-    "Limited mind control"
+    "Limited mind control",
+    "Evil eye"
   ],
   "ranking": {
     "comicCount": 0,

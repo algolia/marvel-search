@@ -11,16 +11,16 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Shdowwoman.jpg/250px-Shdowwoman.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sepulchre",
   "partners": [
   ],
   "powers": [
-    "Darkforce manipulation.",
+    "Darkforce manipulation",
     "Darkforce",
-    "Manipulation."
+    "Manipulation"
   ],
   "ranking": {
     "comicCount": 0,

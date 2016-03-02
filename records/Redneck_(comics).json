@@ -11,18 +11,16 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Skybolt1.jpg/250px-Skybolt1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Skybolt",
   "partners": [
   ],
   "powers": [
     "Uses weaponry",
-    "Flight pack derived from the designs of the beetle",
     "Depowered",
     "Heat generation",
-    "Flight pack derived from the designs of",
     "The beetle"
   ],
   "ranking": {
@@ -34,7 +32,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Vincent \"Vin\" Stewart"
+    "Vincent Stewart",
+    "Vin"
   ],
   "species": [
   ],

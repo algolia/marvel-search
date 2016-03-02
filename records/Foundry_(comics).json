@@ -8,15 +8,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a3/Foundry-marvel.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Foundry",
   "partners": [
   ],
   "powers": [
-    "Fires eyeblasts",
-    "Can morph hands into weapons"
+    "Fires eyeblasts"
   ],
   "ranking": {
     "comicCount": 0,

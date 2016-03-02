@@ -12,14 +12,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Val_Rhymin.jpg/250px-Val_Rhymin.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Val Rhymin",
   "partners": [
   ],
   "powers": [
-    "Magic."
+    "Magic"
   ],
   "ranking": {
     "comicCount": 0,

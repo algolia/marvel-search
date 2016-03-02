@@ -9,8 +9,8 @@
   "description": "Spore is a fictional character that has appeared in comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Spore",
   "partners": [

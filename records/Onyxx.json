@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Onyxx"
+    "Onyxx",
+    "actual identities the character uses"
   ],
   "authors": [
     "Salvador Larroca",
@@ -10,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Onyxx.jpg/250px-Onyxx.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Onyxx",
   "partners": [

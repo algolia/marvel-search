@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4c004065a3a78/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Constrictor",
   "partners": [
@@ -22,10 +22,8 @@
   "powers": [
     "Skilled unarmed combatant",
     "Street fighter",
-    "Cybernetic coils made of vibranium",
     "Skilled street fighter",
     "Unarmed combatant",
-    "Wears cybernetic coils made of",
     "Vibranium"
   ],
   "ranking": {
@@ -44,9 +42,9 @@
   "teams": [
     "Masters of Evil",
     "Six Pack",
-    "Avengers: The Initiative",
+    "The Initiative",
     "Sinister Syndicate",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Frightful Four",
     "Corporation",
     "Initiative",

@@ -11,18 +11,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Roughouse.jpg/250px-Roughouse.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Roughouse",
   "partners": [
   ],
   "powers": [
-    "Formidable hand to hand combatant",
     "Superhuman strength",
-    "Stamina",
-    "Durability due to his rock troll heritage",
-    "Many criminal underworld connections"
+    "Stamina"
   ],
   "ranking": {
     "comicCount": 0,

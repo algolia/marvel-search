@@ -5,30 +5,25 @@
   "authors": [
     "Len Wein",
     "Marv Wolfman",
-    "and Gene Colan",
+    "Gene Colan",
     "Bill Mantlo",
     "Frank Robbins",
     "Mark Gruenwald",
     "Ralph Macchio",
-    "Tom Morgan",
-    "Gene Colan"
+    "Tom Morgan"
   ],
   "description": "Copperhead is the name of a number of fictional characters in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Copperhead",
   "partners": [
     "Agent of unnamed demon"
   ],
   "powers": [
-    "Use of a gun that shoots paralyzing or lethal darts",
-    "Possesses arsenal of gadgets",
-    "Wears copper suit",
-    "Gauntlets that shoot poisonous energy blasts",
-    "Wears a suit of copper armor"
+    "Wears copper suit"
   ],
   "ranking": {
     "comicCount": 0,

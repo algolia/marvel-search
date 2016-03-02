@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/AlphaMutant.jpg/250px-AlphaMutant.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Alpha the Ultimate Mutant",
   "partners": [
@@ -20,7 +20,6 @@
     "Teleportation",
     "Force field generation",
     "Telepathy",
-    "Continuously increasing intellect",
     "Psychokinesis"
   ],
   "ranking": {

@@ -11,7 +11,7 @@
   "description": "Mallen is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Mallen",

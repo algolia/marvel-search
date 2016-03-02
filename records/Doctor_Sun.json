@@ -1,6 +1,6 @@
 {
   "aliases": [
-    "H.E.R.B.I.E.",
+    "H.E.R.B.I.E",
     "Doctor Sun"
   ],
   "authors": [
@@ -9,14 +9,11 @@
   ],
   "description": "Doctor Sun is a fictional character, a supervillain in the Marvel Universe.",
   "images": {
-    "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4ce59fe9811cb/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
-  "name": "H.E.R.B.I.E.",
+  "name": "Doctor Sun",
   "partners": [
   ],
   "powers": [
@@ -39,7 +36,6 @@
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/880/herbie.",
     "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Sun"
   }
 }

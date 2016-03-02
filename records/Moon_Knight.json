@@ -5,7 +5,6 @@
     "The Fist of Khonshu",
     "Yitzak Topol",
     "Moon Knight",
-    "Moon+Knight",
     "Mr. Knight"
   ],
   "authors": [
@@ -18,26 +17,23 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/52028af90e516/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Moon Knight",
   "partners": [
   ],
   "powers": [
-    "Possesses both traditional",
     "Sophisticated weaponry",
     "Master at martial arts",
     "Hand-to-hand combatant",
     "Skilled acrobat",
     "Gymnast",
     "Detective",
-    "Resistance to some psychic assaults",
     "Superb athlete",
     "Expert aviator",
     "Marksman",
     "Expert detective",
-    "Proficient in martial arts",
     "Armed combat",
     "Increased strength",
     "Endurance",

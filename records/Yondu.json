@@ -12,8 +12,8 @@
     "banner": "http://x.annihil.us/u/prod/marvel/i/mg/1/03/53d1526f11419.jpg",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Guardians_of_the_Galaxy_44.jpg/250px-Guardians_of_the_Galaxy_44.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
@@ -24,8 +24,7 @@
   "partners": [
   ],
   "powers": [
-    "Expert archer",
-    "Empathic relationship with all life forms"
+    "Expert archer"
   ],
   "ranking": {
     "comicCount": 0,
@@ -41,9 +40,8 @@
   "species": [
   ],
   "teams": [
-    "Guardians of the Galaxy (1969 team)",
-    "Avengers",
-    "Guardians of the Galaxy"
+    "Guardians of the Galaxy",
+    "Avengers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Yondu"

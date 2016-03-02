@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b5/Barney_Barton.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Trickshot",
   "partners": [
@@ -20,8 +20,6 @@
   "powers": [
     "Exceptional athlete",
     "Highly skilled archer",
-    "Uses a variety of trick arrows",
-    "Skilled hand to hand combatant",
     "Proficient marksman"
   ],
   "ranking": {
@@ -33,7 +31,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Charles Bernard \"Barney\" Barton"
+    "Charles Bernard Barton",
+    "Barney"
   ],
   "species": [
   ],

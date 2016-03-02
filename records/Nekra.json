@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c002e11323ba/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nekra",
   "partners": [
@@ -22,10 +22,8 @@
   ],
   "powers": [
     "Hate",
-    "Rage build superhuman power",
     "Invulnerability",
     "Magical knowledge",
-    "Skills for creating zombies",
     "Fangs",
     "Claws"
   ],

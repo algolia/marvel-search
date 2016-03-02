@@ -13,15 +13,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c003c7030b39/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Purple Man",
   "partners": [
   ],
   "powers": [
     "High-level intellect",
-    "Regenerative healing factor",
     "Skilled manipulator",
     "Mind control"
   ],

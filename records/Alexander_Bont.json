@@ -13,15 +13,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/526034fb5aff7/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kingpin",
   "partners": [
-    "The Gladiator, The Fixer"
+    "The Gladiator",
+    "The Fixer"
   ],
   "powers": [
-    "Extremely strong when on mutant growth hormone",
     "Highly intelligent"
   ],
   "ranking": {

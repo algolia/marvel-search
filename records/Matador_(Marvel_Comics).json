@@ -13,8 +13,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Daredevil_cover_-_number_5.jpg/250px-Daredevil_cover_-_number_5.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Matador",
   "partners": [

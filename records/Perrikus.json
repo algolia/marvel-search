@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Perrikus.jpg/249px-Perrikus.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Perrikus",
   "partners": [
@@ -20,8 +20,7 @@
     "Superhuman strength",
     "Durability",
     "Endurance",
-    "Advanced fighting skills",
-    "Energy projection via magical scythe"
+    "Advanced fighting skills"
   ],
   "ranking": {
     "comicCount": 0,
@@ -32,7 +31,6 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "None"
   ],
   "species": [
   ],

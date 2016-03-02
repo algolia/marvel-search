@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thor363.jpg/250px-Thor363.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kurse",
   "partners": [
@@ -21,7 +21,6 @@
     "Thor"
   ],
   "powers": [
-    "Locate enemies over large distances",
     "Superhuman strength",
     "Speed",
     "Stamina",

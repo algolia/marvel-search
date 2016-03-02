@@ -1,7 +1,8 @@
 {
   "aliases": [
     "The Outlaw Kid",
-    "Outlaw Kid"
+    "Outlaw Kid",
+    "actual identities the character uses"
   ],
   "authors": [
     "Doug Wildey"
@@ -12,8 +13,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4c/OutlawKid11-pg2.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Outlaw Kid",
   "partners": [

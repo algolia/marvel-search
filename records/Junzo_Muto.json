@@ -6,8 +6,8 @@
   "authors": [
     "by Jay Faerber",
     "Karl Kersche",
-    "and Chris Renaud.",
-    "Jay Faerber, Karl Kersche, and Chris Renaud."
+    "Chris Renaud",
+    "Jay Faerber, Karl Kersche, and Chris Renaud"
   ],
   "description": "Junzo Muto  is a fictional character, featured in comic books published by Marvel Comics.",
   "images": {
@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/53176ebd40ad7/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Iron Fist (Bei Bang-Wen)",
   "partners": [
@@ -25,9 +25,6 @@
     "Water manipulation",
     "Teleportation",
     "The iron fist",
-    "A concentration of his chi in his fist",
-    "Master of the martial arts",
-    "Capable of draining an opponent's power from its wielder",
     "Enhanced speed",
     "Fire manipulation",
     "Air manipulation",

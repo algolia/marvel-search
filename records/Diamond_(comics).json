@@ -13,13 +13,12 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Diamond_new_gen.jpg/250px-Diamond_new_gen.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Diamond",
   "partners": [
   ],
   "powers": [
-    "Invulnerable diamond hard skin",
     "Limited super strength",
     "Elite martial artist",
     "Invulnerable",
@@ -43,7 +42,7 @@
     "Human"
   ],
   "teams": [
-    "A.P.N.G.",
+    "A.P.N.G",
     "Gabriel",
     "A.P.N.G., Gabriel"
   ],

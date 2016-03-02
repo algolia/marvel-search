@@ -11,16 +11,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Phaser.jpg/250px-Phaser.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Phaser",
   "partners": [
   ],
   "powers": [
-    "Depowered",
-    "Formerly ultraviolet light generation.",
-    "Depowered; formerly ultraviolet light generation."
+    "Depowered"
   ],
   "ranking": {
     "comicCount": 0,

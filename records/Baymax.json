@@ -11,14 +11,13 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Baymax_%28Marvel_Comics%29.jpg/250px-Baymax_%28Marvel_Comics%29.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Baymax",
   "partners": [
     "Hiro Takachiho"
   ],
   "powers": [
-    "Morph body into dragon or mecha"
   ],
   "ranking": {
     "comicCount": 0,

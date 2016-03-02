@@ -10,8 +10,8 @@
   "description": "Mother Night is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mother Night",
   "partners": [
@@ -19,10 +19,7 @@
   "powers": [
     "Illusions",
     "Hypnosis",
-    "Martial arts",
-    "Can project dark light to vanish into shadows",
-    "Possesses a necklace that emits a mind-subverting gas",
-    "Can project ''dark light'' to vanish into shadows"
+    "Martial arts"
   ],
   "ranking": {
     "comicCount": 0,

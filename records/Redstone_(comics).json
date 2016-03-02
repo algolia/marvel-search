@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Redstone"
+    "Redstone",
+    "actual identities the character uses"
   ],
   "authors": [
     "Mark Gruenwald J. Michael StraczynskiGary Frank",
@@ -12,18 +13,17 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/Redstone%28comics%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Redstone",
   "partners": [
   ],
   "powers": [
-    "Super-strength super strength",
     "Invulnerability",
     "Flash-vision",
-    "('''first''') super-strength",
-    "('''second''') super strength"
+    "(first) super-strength",
+    "(second) super strength"
   ],
   "ranking": {
     "comicCount": 0,
@@ -35,7 +35,7 @@
   },
   "secretIdentities": [
     "Michael Redstone",
-    "('''both''') Michael Redstone"
+    "(both) Michael Redstone"
   ],
   "species": [
   ],

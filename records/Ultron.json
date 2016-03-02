@@ -27,8 +27,8 @@
     "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/537bc7f6d5d23.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5261a838e93c0/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -39,17 +39,12 @@
   "partners": [
   ],
   "powers": [
-    "Artificial intelligence with robotic body",
-    "Abilities vary with each redesign but generally include extreme durability",
-    "Energy projection.",
+    "Energy projection",
     "Artificial intelligence",
-    "With genius level intellect",
-    "Abilities of robotic body vary with each redesign but generally include hidden weapons",
     "Flight",
     "Superhuman strength",
     "Durability",
-    "Stamina",
-    "Extreme projection of concussion blasts from his fingertips."
+    "Stamina"
   ],
   "ranking": {
     "comicCount": 53,

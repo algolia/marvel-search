@@ -15,15 +15,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4c003eeedf93c/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Genesis",
   "partners": [
   ],
   "powers": [
-    "Could project solid holograms of memories of others",
-    "Advanced knowledge of technology"
   ],
   "ranking": {
     "comicCount": 3,

@@ -12,14 +12,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/ca/HenryCampBulldozer.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bulldozer",
   "partners": [
   ],
   "powers": [
-    "Wears a specially-made armored helmet",
     "Neck",
     "Shoulder apparatus",
     "Superhuman strength",

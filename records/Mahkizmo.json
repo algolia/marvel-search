@@ -10,15 +10,16 @@
   "description": "Mahkizmo, also known as the Nuclear Man, is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mahkizmo",
   "partners": [
   ],
   "powers": [
     "Superhuman strength",
-    "Durability"
+    "Durability",
+    "Nuclear punch"
   ],
   "ranking": {
     "comicCount": 0,

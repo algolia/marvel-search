@@ -13,8 +13,8 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Weapon X",
   "partners": [
@@ -39,7 +39,7 @@
     "Six Pack",
     "Clan Chosen",
     "Weapon X",
-    "Weapon P.R.I.M.E.",
+    "Weapon P.R.I.M.E",
     "Department K"
   ],
   "urls": {

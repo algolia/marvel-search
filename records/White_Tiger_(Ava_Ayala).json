@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "White Tiger",
-    "White Tiger (Ava Ayala)"
+    "White Tiger"
   ],
   "authors": [
     "Christos Gage",
@@ -13,16 +12,14 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Avengers_Academy_24.jpg/250px-Avengers_Academy_24.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "White Tiger (Angela Del Toro)",
   "partners": [
   ],
   "powers": [
-    "Razor sharp claws",
-    "Superhuman martial arts skills",
-    "Slightly superhuman physical attributes via mystical amulets"
+    "Razor sharp claws"
   ],
   "ranking": {
     "comicCount": 10,

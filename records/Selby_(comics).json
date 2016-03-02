@@ -7,15 +7,13 @@
   "description": "Selby is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Selby",
   "partners": [
   ],
   "powers": [
-    "Intuitive understanding of binary language",
-    "Intuitive understanding of",
     "Binary",
     "Language"
   ],

@@ -10,21 +10,18 @@
   "description": "Mirage is the name of two Marvel Comics villain.",
   "images": {
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Mirage",
   "partners": [
   ],
   "powers": [
-    "Three dimensional holographic image projection",
     "Carries a handgun",
     "Tranquilizer gun",
     "Genius electrician",
     "Physicist",
-    "Laser technologist",
-    "Laser technologist; carries a handgun",
-    "Tranquilizer gun; costume grants three dimensional holographic image projection"
+    "Laser technologist"
   ],
   "ranking": {
     "comicCount": 0,

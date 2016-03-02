@@ -5,26 +5,25 @@
     "Captain America"
   ],
   "authors": [
-    "as \"The Grand Director\":",
     "Jim Shooter",
-    "as \"Captain America\" :",
     "Roger McKenzie",
     "Steve Englehart",
-    "Sal Buscema"
+    "Sal Buscema",
+    "The Grand Director",
+    "Captain America"
   ],
   "description": "The Grand Director (William Burnside), also known as the Captain America of the 1950s, is a fictional character in the Marvel Comics Universe.",
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Grand_Director.jpg/250px-Grand_Director.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Grand Director",
   "partners": [
   ],
   "powers": [
     "Superhuman strength",
-    "Peak physical athletic ability",
     "Trained boxer",
     "Peak-level speed",
     "Agility",
@@ -33,10 +32,8 @@
     "Coordination",
     "Balance",
     "Endurance",
-    "Access to various forms of advanced technology",
-    "Wears a chain-mail costume",
-    "Carries a bulletproof steel shield",
-    "Use of an \"atom-blaster\" weapon"
+    "Use of an weapon",
+    "Atom-blaster"
   ],
   "ranking": {
     "comicCount": 0,
@@ -47,7 +44,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "William Burnside; legally changed to Steven \"Steve\" Rogers"
+    "William Burnside; legally changed to Steven Rogers",
+    "Steve"
   ],
   "species": [
   ],

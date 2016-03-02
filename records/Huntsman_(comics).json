@@ -10,14 +10,13 @@
   "description": "Huntsman, also known as Weapon XII, is a supervillain in the Marvel Universe and enemy of the X-Men.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Huntsman",
   "partners": [
   ],
   "powers": [
-    "Viral consciousness that spreads through touch",
     "Superhuman strength",
     "Stamina",
     "Psychic immunity"

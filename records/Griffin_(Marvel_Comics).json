@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/John_Horton_%28Earth-616%29_%28Griffin%29.jpg/250px-John_Horton_%28Earth-616%29_%28Griffin%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Griffin",
   "partners": [
@@ -24,8 +24,7 @@
     "Agility",
     "Reflexes",
     "Resiliency",
-    "Endurance",
-    "Telepathic ability to command birds"
+    "Endurance"
   ],
   "ranking": {
     "comicCount": 0,

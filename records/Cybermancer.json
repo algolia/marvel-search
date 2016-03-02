@@ -1,7 +1,8 @@
 {
   "aliases": [
     "Stark Industries",
-    "Cybermancer"
+    "Cybermancer",
+    "actual identities the character uses"
   ],
   "authors": [
     "Dan Abnett",
@@ -15,13 +16,12 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Cybermancer_001.jpg/198px-Cybermancer_001.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Stark Industries",
   "partners": [
   ],
   "powers": [
-    "Wears a special armor that gives her powers"
   ],
   "ranking": {
     "comicCount": 0,
@@ -32,7 +32,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Suzanne \"Suzie\" Endo"
+    "Suzanne Endo",
+    "Suzie"
   ],
   "species": [
   ],

@@ -1,7 +1,8 @@
 {
   "aliases": [
     "Doctor Lemuel Dorcas",
-    "Lemuel Dorcas"
+    "Lemuel Dorcas",
+    "actual identities the character uses"
   ],
   "authors": [
     "John Buscema",
@@ -10,8 +11,8 @@
   "description": "Lemuel Dorcas is a fictional character in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Doctor Lemuel Dorcas",
   "partners": [
@@ -22,8 +23,7 @@
   ],
   "powers": [
     "Wields many devices",
-    "Scientific knowledge",
-    "Regenerative healing factor"
+    "Scientific knowledge"
   ],
   "ranking": {
     "comicCount": 0,

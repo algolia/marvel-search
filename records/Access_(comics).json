@@ -9,16 +9,14 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/8c/DCM_AllAccess.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Access",
   "partners": [
   ],
   "powers": [
     "Time travel",
-    "Dimensional transportation",
-    "Merge",
-    "Cross-dimensional awareness"
+    "Merge"
   ],
   "ranking": {
     "comicCount": 0,

@@ -12,16 +12,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Uncanny215.jpg/250px-Uncanny215.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Crimson Commando",
   "partners": [
   ],
   "powers": [
-    "Cyborg implants",
-    "Non-superhuman physical perfection",
-    "Non-superhuman physical perfection (peak state possible for baseline humans)"
+    "Cyborg implants"
   ],
   "ranking": {
     "comicCount": 0,
@@ -38,10 +36,8 @@
     "Mutant"
   ],
   "teams": [
-    "Bohannan: Freedom Force",
-    "Project: Wideawake",
-    "Female: Brotherhood of Mutants",
     "Freedom Force",
+    "Wideawake",
     "Brotherhood of Mutants"
   ],
   "urls": {

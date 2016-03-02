@@ -12,15 +12,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708/standard_xlarge.gif"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Synch",
   "partners": [
   ],
   "powers": [
-    "Mastery of any powers duplicated",
-    "Metabolize bio-energy signatures",
     "Sense",
     "Track superpowered beings"
   ],

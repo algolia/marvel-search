@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Thunderbolts_17_cvr.jpg/250px-Thunderbolts_17_cvr.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Graviton",
   "partners": [
@@ -36,7 +36,7 @@
   ],
   "teams": [
     "Advanced Idea Mechanics",
-    "A.I.M."
+    "A.I.M"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Graviton_(comics)"

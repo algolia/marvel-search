@@ -9,8 +9,8 @@
   "description": "Al MacKenzie is a fictional character in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Al MacKenzie",
   "partners": [
@@ -31,8 +31,8 @@
   "species": [
   ],
   "teams": [
-    "S.H.I.E.L.D.",
-    "C.I.A."
+    "S.H.I.E.L.D",
+    "C.I.A"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Al_MacKenzie"

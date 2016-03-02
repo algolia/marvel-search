@@ -10,8 +10,8 @@
   "description": "Terraformer is the name of a supervillain in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Terraformer",
   "partners": [

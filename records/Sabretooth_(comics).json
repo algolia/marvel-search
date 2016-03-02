@@ -5,7 +5,8 @@
     "El Tigre",
     "Der Schlächter",
     "Sabretooth",
-    "Der Schlächter (\"The Butcher\" in German)"
+    "Der Schlächter ( in German)",
+    "The Butcher"
   ],
   "authors": [
     "John Byrne",
@@ -17,24 +18,21 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/4ce1895117793/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Sabretooth",
   "partners": [
   ],
   "powers": [
-    "Regenerative healing factor",
     "Superhuman senses",
     "Strength",
     "Stamina",
     "Agility",
     "Reflexes",
-    "Resistance to telepathic assault",
     "Control",
     "Retractable claws",
     "Sharp teeth",
-    "Extended longevity due to healing factor",
     "Regenerative",
     "Healing factor",
     "Superhuman strength",
@@ -66,7 +64,7 @@
     "Marauders",
     "X-Factor",
     "Brotherhood of Evil Mutants",
-    "\"Avengers\" (1959)",
+    "Avengers\" (1959)",
     "Hand",
     "Astonishing Avengers"
   ],

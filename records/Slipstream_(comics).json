@@ -12,20 +12,14 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1f/Slipstream_%28Davis_Cameron%29.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Slipstream",
   "partners": [
   ],
   "powers": [
-    "Limited space-time manipulation",
-    "Reality warping capabilities that enables him to conjure a \"warp wave\"",
-    "A quantum portal that connects any two locations on earth",
-    "Can take other people through the warp wave through increased concentration to maintain the wave",
-    "Navigated with the use of a shortened metal surfboard",
-    "Psychic navigation",
-    "Use of a shortened metal surfboard"
+    "Psychic navigation"
   ],
   "ranking": {
     "comicCount": 2,
@@ -39,8 +33,8 @@
     "Davis Cameron"
   ],
   "species": [
-    "Depowered Human Mutant ",
-    " Shi'ar hybrid"
+    "Depowered Human Mutant",
+    "Shi'ar hybrid"
   ],
   "teams": [
     "X-Men"

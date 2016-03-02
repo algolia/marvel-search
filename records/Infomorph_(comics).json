@@ -5,14 +5,13 @@
   "authors": [
     "D. G. Chichester",
     "Scott McDaniel",
-    "Bill Oakley",
-    "."
+    "Bill Oakley"
   ],
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/System_Crash.png/250px-System_Crash.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Infomorph",
   "partners": [

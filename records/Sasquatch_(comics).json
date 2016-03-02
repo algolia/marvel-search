@@ -14,8 +14,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Walter_Langkowski_.jpg/250px-Walter_Langkowski_.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sasquatch (Walter Langkowski)",
   "partners": [
@@ -25,7 +25,6 @@
     "Endurance",
     "Durability",
     "Stamina",
-    "Regenerative healing factor",
     "Sharp claws",
     "Teeth",
     "Orange-furred form",

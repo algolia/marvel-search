@@ -13,8 +13,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Orb_ghost.jpg/250px-Orb_ghost.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Orb",
   "partners": [
@@ -24,11 +24,10 @@
     "Zadkiel"
   ],
   "powers": [
-    "Helmet is capable of powerful laser blasts. can also project illusions",
-    "Hypnotize people.",
+    "Hypnotize people",
     "Master martial artist",
     "Swordsman",
-    "Marksman."
+    "Marksman"
   ],
   "ranking": {
     "comicCount": 0,

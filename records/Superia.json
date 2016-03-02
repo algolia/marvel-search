@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/548730dac2a40/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ms. Marvel (Kamala Khan)",
   "partners": [
@@ -20,7 +20,6 @@
   "powers": [
     "Superhuman strength",
     "Concussive blasts",
-    "Highly trained martial artist",
     "Genius scientist"
   ],
   "ranking": {
@@ -39,9 +38,9 @@
   "teams": [
     "Advanced Idea Mechanics",
     "Femizons",
-    "H.A.M.M.E.R.",
+    "H.A.M.M.E.R",
     "Dark Avengers",
-    "A.I.M."
+    "A.I.M"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1017577/ms_marvel_kamala_khan/featured",

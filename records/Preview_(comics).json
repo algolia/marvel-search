@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ec/Preview_%28NXM_12%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Preview",
   "partners": [
@@ -30,7 +30,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Jessica \"Jessie\" Vale"
+    "Jessica Vale",
+    "Jessie"
   ],
   "species": [
     "Decimation",

@@ -17,7 +17,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5261a7f7b0917/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": {
     "blue": 9,
     "green": 36,
@@ -28,14 +28,12 @@
   "partners": [
   ],
   "powers": [
-    "Fiery form that enables flight",
     "Serves as damage shield",
     "Pyrokinesis",
     "Skilled race-car driver",
     "Auto-mechanic",
     "Designer",
-    "Heat energy absorption",
-    "Resistance to extreme heat"
+    "Heat energy absorption"
   ],
   "ranking": {
     "comicCount": 783,
@@ -46,7 +44,8 @@
     "storyCount": 1283
   },
   "secretIdentities": [
-    "Jonathan Lowell Spencer \"Johnny\" Storm"
+    "Jonathan Lowell Spencer Storm",
+    "Johnny"
   ],
   "species": [
     "Mutate"

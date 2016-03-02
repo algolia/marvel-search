@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Grindhouse.JPG/250px-Grindhouse.JPG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Grindhouse",
   "partners": [

@@ -12,22 +12,19 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/10/4c0030f13bcaf/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Victor Mancha",
   "partners": [
   ],
   "powers": [
-    "High intelligence.",
+    "High intelligence",
     "Eidetic memory",
     "Superhuman strength",
-    "Speed.",
-    "Electromagnetic manipulation. technopathy.",
+    "Speed",
     "Photographic memory",
-    ".",
-    "Electromagnetic manipulation",
-    ".<br/ >",
+    "<br/ >",
     "Technopathy"
   ],
   "ranking": {
@@ -44,7 +41,7 @@
   "species": [
   ],
   "teams": [
-    "Avengers A.I.",
+    "Avengers A.I",
     "Runaways"
   ],
   "urls": {

@@ -9,24 +9,20 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Paragon%28Maya%29.jpg/200px-Paragon%28Maya%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Paragon",
   "partners": [
   ],
   "powers": [
-    "Skilled hand-to-hand combatant",
-    "Invulnerability due to the ability to control his density",
     "As well as flight",
     "Superhuman strength",
-    "Speed.",
-    "Invulnerability",
     "Speed",
+    "Invulnerability",
     "Stamina",
     "Agility",
     "Energy blasts",
-    "Retractable blades capable of draining organic life-force",
     "Teleportation"
   ],
   "ranking": {
@@ -45,7 +41,7 @@
   ],
   "teams": [
     "50",
-    "Marvel Nemesis: Rise of the Imperfects",
+    "Rise of the Imperfects",
     "Imperfects"
   ],
   "urls": {

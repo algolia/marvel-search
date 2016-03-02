@@ -18,26 +18,20 @@
     "banner": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/537bc8d02fed2.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/5269668c7d5df/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Venom (Flash Thompson)",
   "partners": [
   ],
   "powers": [
-    "Grants the host all the powers of its first known host",
-    "Spider-man. greatly enhances physical attributes of its current host. superhuman strength",
-    "Ability of the symbiote to fight",
-    "Defend itself when either the host or it is in danger.",
     "Limited shapeshifting",
-    "Undetectable by spider-man's \"spider-sense\". it can also turn its host invisible through camouflage.",
+    "Spider-sense",
     "Limited",
     "Shapeshifting",
     "Invisibility",
     "Through",
-    "Camouflage",
-    "Defend itself when either the host or it is in danger",
-    "Undetectable by spider-man's \"spider-sense\""
+    "Camouflage"
   ],
   "ranking": {
     "comicCount": 49,

@@ -7,14 +7,13 @@
     "Bill Mantlo",
     "Steven Grant",
     "John Romita, Jr.",
-    "and Pablo Marcos",
     "Pablo Marcos"
   ],
   "description": "Le Peregrine (Alain Racine) is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Peregrine",
   "partners": [
@@ -27,7 +26,6 @@
     "Master of",
     "Savate",
     "Gifted intellect",
-    "Flight via anti-gravity devices",
     "Goggles",
     "Radar detection devices"
   ],

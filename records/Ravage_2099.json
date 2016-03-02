@@ -12,7 +12,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Ravage2099-1.jpg/250px-Ravage2099-1.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ravage 2099",
   "partners": [
@@ -28,7 +28,6 @@
     "Stamina",
     "Agility",
     "Senses",
-    "Bio-energy blasts from hands",
     "Healing factor"
   ],
   "ranking": {

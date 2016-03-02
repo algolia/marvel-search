@@ -10,15 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/RuckusXFactor.jpg/270px-RuckusXFactor.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ruckus",
   "partners": [
   ],
   "powers": [
-    "Able to absorb the sounds around him",
-    "Send them back with concussive force through his vocal cords."
   ],
   "ranking": {
     "comicCount": 0,

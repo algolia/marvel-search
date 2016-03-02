@@ -12,8 +12,8 @@
   "description": "The Possessor (Kamo Tharnn) is a fictional character appearing in publications from Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Possessor",
   "partners": [
@@ -21,7 +21,6 @@
   "powers": [
     "Vast intelligence",
     "Telepath",
-    "Cosmic energy manipulation used to project concussive force blasts",
     "Increase mass",
     "Size"
   ],

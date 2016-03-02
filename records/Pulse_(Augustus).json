@@ -1,9 +1,8 @@
 {
   "aliases": [
-    "\"Gus\"",
-    "Pulsey\"",
-    "Pulse",
-    "Pulse (Augustus)"
+    "Gus",
+    "Pulsey",
+    "Pulse"
   ],
   "authors": [
     "Peter Milligan",
@@ -12,8 +11,8 @@
   "description": "Pulse (Augustus), is a fictional character from the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Pulse",
   "partners": [
@@ -38,7 +37,6 @@
   ],
   "teams": [
     "X-Men",
-    "X-Men: The 198",
     "The 198"
   ],
   "urls": {

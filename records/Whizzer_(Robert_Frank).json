@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Whizzer",
-    "Whizzer (Robert Frank)"
+    "Whizzer"
   ],
   "authors": [
     "Al Avison"
@@ -12,16 +11,15 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/TheWhizzer.jpg/230px-TheWhizzer.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Whizzer (Stanley Stewart)",
   "partners": [
   ],
   "powers": [
     "Superhuman speed",
-    "Reflexes",
-    "Self-taught hand to hand combatant"
+    "Reflexes"
   ],
   "ranking": {
     "comicCount": 2,

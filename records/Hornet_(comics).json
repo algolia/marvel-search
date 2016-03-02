@@ -11,18 +11,14 @@
   "description": "The Hornet is an identity used by three fictional characters in the Marvel Universe, one villain, and two heroes.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hornet",
   "partners": [
   ],
   "powers": [
-    "High-speed flight via jet-powered wing harness",
-    "Superhuman strength",
-    "Laser beam/sedative dart projection via gauntlets",
-    "High-speed flight via insect-like wings",
-    "Bio-electricity projection"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,

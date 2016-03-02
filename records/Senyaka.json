@@ -10,8 +10,8 @@
   "description": "Suvik Senyaka is a fictional mutant villain character in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Senyaka",
   "partners": [
@@ -19,7 +19,6 @@
   ],
   "powers": [
     "Energy whips",
-    "Life-draining gives him superhuman healing",
     "Immortality",
     "Strength"
   ],

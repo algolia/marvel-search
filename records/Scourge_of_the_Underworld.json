@@ -10,15 +10,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Scourge_of_the_Underworld.jpg/200px-Scourge_of_the_Underworld.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Scourge of the Underworld",
   "partners": [
   ],
   "powers": [
     "Master of disguise",
-    "Exploding armor-piercing bullets",
     "Master of",
     "Disguise"
   ],

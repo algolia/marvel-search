@@ -15,15 +15,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/2f/Zadkiel_Head.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Zadkiel",
   "partners": [
   ],
   "powers": [
-    "Unknown",
-    "But briefly possessed the powers of god."
+    "Unknown"
   ],
   "ranking": {
     "comicCount": 0,

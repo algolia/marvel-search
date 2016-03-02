@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Snapdragon",
-    "Snapdragon (Morituri)"
+    "Snapdragon"
   ],
   "authors": [
     "Peter B. Gillis",
@@ -11,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Snapdragon_Morituri.jpg/250px-Snapdragon_Morituri.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Snapdragon",
   "partners": [
@@ -35,7 +34,7 @@
   "species": [
   ],
   "teams": [
-    "Strikeforce: Morituri"
+    "Morituri"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Snapdragon_(Morituri)"

@@ -11,16 +11,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Hiro_Takachiho_%28Marvel_Comics%29.jpg/250px-Hiro_Takachiho_%28Marvel_Comics%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hiro",
   "partners": [
   ],
   "powers": [
     "Extremely intelligent",
-    "Flight suit",
-    "Extremely intelligent; flight suit"
+    "Flight suit"
   ],
   "ranking": {
     "comicCount": 0,

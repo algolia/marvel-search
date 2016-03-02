@@ -2,7 +2,7 @@
   "aliases": [
     "Attuma the Barbarian",
     "Lords of the Murky Depths",
-    "Nerkkod: Breaker of Oceans",
+    "Breaker of Oceans",
     "Attuma"
   ],
   "authors": [
@@ -13,8 +13,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d3/X-factoran4.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Attuma",
   "partners": [
@@ -27,7 +27,6 @@
     "Llyra"
   ],
   "powers": [
-    "Expert hand-to-hand combatant",
     "Self-propelled flight",
     "Underwater",
     "Land adaptation",

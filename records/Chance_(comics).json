@@ -11,16 +11,15 @@
   "description": "Chance is the name of two unrelated fictional characters in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Chance",
   "partners": [
   ],
   "powers": [
     "Flight via ankle jets",
-    "Wrist-mounted blasters",
-    "Scanning devices via cybernetic helmet"
+    "Wrist-mounted blasters"
   ],
   "ranking": {
     "comicCount": 0,

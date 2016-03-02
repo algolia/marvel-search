@@ -1,6 +1,6 @@
 {
   "aliases": [
-    "Valkyrie (Brunnhilde)",
+    "Valkyrie",
     "Barbara Denton-Norris",
     "Sian Bowen",
     "Brunnhilde of Asgard"
@@ -9,35 +9,35 @@
     "Roy Thomas",
     "John Buscema"
   ],
+  "description": "Amora magically transformed Samantha Parrington into a raging, man-hating facsimile of the Asgardian warrior goddess Brunnhilde the Valkyrie, whose form and might Amora could replicate at will, having trapped Brunnhilde's soul in a mystical crystal centuries earlier.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/537bc87e3986f.gif",
     "banner": "http://x.annihil.us/u/prod/marvel/i/mg/c/70/537bc86cd1ff0.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Valkyrie.jpeg/200px-Valkyrie.jpeg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/535fed8a3a00f/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
     "hexa": "121F39",
     "red": 18
   },
-  "name": "Valkyrie (Brunnhilde)",
+  "name": "Valkyrie (Samantha Parrington)",
   "partners": [
   ],
   "powers": [
     "Superhuman strength",
     "Endurance",
-    "Longevity",
-    "Convey spirits of the dead"
+    "Longevity"
   ],
   "ranking": {
-    "comicCount": 0,
-    "eventCount": 0,
+    "comicCount": 16,
+    "eventCount": 1,
     "pageviewCount": 102,
     "pageviewRank": -1,
-    "serieCount": 0,
-    "storyCount": 0
+    "serieCount": 14,
+    "storyCount": 17
   },
   "secretIdentities": [
     "Brunnhilde"
@@ -51,6 +51,7 @@
     "Secret Avengers"
   ],
   "urls": {
+    "marvel": "http://marvel.com/characters/62/valkyrie",
     "wikipedia": "https://en.wikipedia.org/wiki/Valkyrie_(Brunnhilde)"
   }
 }

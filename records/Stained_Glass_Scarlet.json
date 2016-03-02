@@ -11,14 +11,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Stained_Glass_Scarlet_001.jpg/200px-Stained_Glass_Scarlet_001.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Stained Glass Scarlet",
   "partners": [
   ],
   "powers": [
-    "Mysterious psychic bond with moon knight",
     "Expert in martial art",
     "Weapons",
     "Mysterious",

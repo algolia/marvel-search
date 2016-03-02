@@ -10,7 +10,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Breeze_Barton1.jpg/200px-Breeze_Barton1.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Breeze Barton",
   "partners": [
@@ -19,8 +19,6 @@
     "Use of jetpacks",
     "Ray guns",
     "Enhanced endurance",
-    "Exceptional hand-to-hand combatant",
-    "Experienced military pilot",
     "Marksman"
   ],
   "ranking": {
@@ -37,8 +35,8 @@
   "species": [
   ],
   "teams": [
-    "S.H.I.E.L.D.",
-    "A.R.M.O.R."
+    "S.H.I.E.L.D",
+    "A.R.M.O.R"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Breeze_Barton"

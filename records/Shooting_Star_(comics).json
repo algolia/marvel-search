@@ -12,20 +12,16 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Shootingstarh265.jpg/225px-Shootingstarh265.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shooting Star",
   "partners": [
   ],
   "powers": [
-    "Wears specially-designed \"star shooters\"",
-    "Boots which contain miniature gyroscopes",
     "Expert markswoman",
     "Rodeo rider",
-    "Boots which contain miniature",
-    "Gyroscope",
-    "S"
+    "Gyroscope"
   ],
   "ranking": {
     "comicCount": 2,

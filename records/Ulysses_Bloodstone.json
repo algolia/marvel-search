@@ -16,7 +16,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Bloodstone_Ulysses.jpg/200px-Bloodstone_Ulysses.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ulysses Bloodstone",
   "partners": [
@@ -30,7 +30,6 @@
     "Durability",
     "Reflexes",
     "Heightened senses",
-    "Invisible third eye granted psychic powers",
     "Regeneration"
   ],
   "ranking": {
@@ -48,7 +47,7 @@
   ],
   "teams": [
     "Monster Hunters",
-    "\"Avengers\" (1959)"
+    "Avengers\" (1959)"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ulysses_Bloodstone"

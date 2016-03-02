@@ -11,7 +11,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/AbigailBrand.png/250px-AbigailBrand.png"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Abigail Brand",
   "partners": [
@@ -36,7 +36,7 @@
   ],
   "teams": [
     "X-Men",
-    "S.W.O.R.D.",
+    "S.W.O.R.D",
     "Alpha Flight"
   ],
   "urls": {

@@ -12,14 +12,13 @@
   "description": "Null, called also Null the Living Darkness, is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Null",
   "partners": [
   ],
   "powers": [
-    "Nearly unlimited magic manipulation",
     "Immeasurable intelligence",
     "Enhanced stamina",
     "Durability"

@@ -1,9 +1,8 @@
 {
   "aliases": [
     "Mr. Kant",
-    "King Hyperion.",
-    "Hyperion",
-    "King Hyperion"
+    "King Hyperion",
+    "Hyperion"
   ],
   "authors": [
     "Roy Thomas",
@@ -16,24 +15,21 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Hyperionmarvel.png/250px-Hyperionmarvel.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hyperion (Earth-712)",
   "partners": [
   ],
   "powers": [
     "Flight",
-    "Greatly enhanced sensory perceptions",
     "Great longevity",
-    "Regenerative healing factor via cosmic energy manipulation",
-    "\"atomic vision\"",
+    "Atomic vision",
     "Skilled journalist",
     "Superhuman strength",
     "Speed",
     "Stamina",
-    "Durability",
-    "Enhanced sensory perceptions"
+    "Durability"
   ],
   "ranking": {
     "comicCount": 32,

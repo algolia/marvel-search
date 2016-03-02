@@ -2,7 +2,7 @@
   "aliases": [
     "Cain Marko",
     "Crimson Gem of Cyttorak",
-    "Kuurth: Breaker of Stone",
+    "Breaker of Stone",
     "Juggernaut"
   ],
   "authors": [
@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/528d340442cca/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Juggernaut",
   "partners": [
@@ -24,13 +24,10 @@
     "Black Tom Cassidy"
   ],
   "powers": [
-    "Regenerative healing factor",
     "Superhuman strength",
     "Stamina",
     "Durability",
     "Force field generation",
-    "Virtually unstoppable momentum",
-    "Immunity to mental attacks via helmet",
     "Extreme durability"
   ],
   "ranking": {

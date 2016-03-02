@@ -13,16 +13,13 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Human Cannonball",
   "partners": [
   ],
   "powers": [
-    "Carries a mace to hit opponents while flying",
-    "Padded steel armor grants minimal protection from physical attacks",
-    "Use of a trailer mounted air-cannon"
   ],
   "ranking": {
     "comicCount": 2,

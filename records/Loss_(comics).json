@@ -9,14 +9,13 @@
   "description": "Loss is a mutant comic book character.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Loss",
   "partners": [
   ],
   "powers": [
-    "Razor-like shards on her entire body"
   ],
   "ranking": {
     "comicCount": 0,

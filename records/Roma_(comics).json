@@ -13,8 +13,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/Roma_-_uncanny_x-men_462.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Roma",
   "partners": [
@@ -39,7 +39,6 @@
   ],
   "teams": [
     "Superior to the Captain Britain Corps",
-    "Superior to the",
     "Captain Britain Corps"
   ],
   "urls": {

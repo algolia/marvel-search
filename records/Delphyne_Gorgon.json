@@ -11,15 +11,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1c/Delphyne.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Delphyne Gorgon",
   "partners": [
   ],
   "powers": [
-    "Skilled combatant",
-    "Poison administered through fangs."
+    "Skilled combatant"
   ],
   "ranking": {
     "comicCount": 0,

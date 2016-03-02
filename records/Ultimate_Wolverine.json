@@ -19,14 +19,13 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Logan",
   "partners": [
   ],
   "powers": [
-    "Adamantium-laced skeletal structure with retractable claws",
     "Expert martial artist",
     "Superhuman senses",
     "Strength",
@@ -34,7 +33,6 @@
     "Stamina",
     "Reflexes",
     "Longevity",
-    "Regenerative healing factor",
     "Regenerative",
     "Healing factor",
     "Adamantium"
@@ -48,8 +46,9 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "James or Jimmy \"Lucky Jim\" Howlett",
-    "James \"Lucky Jim\" Howlett"
+    "James or Jimmy Howlett",
+    "Lucky Jim",
+    "James Howlett"
   ],
   "species": [
     "Mutant"

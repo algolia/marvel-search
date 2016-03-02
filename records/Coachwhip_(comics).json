@@ -10,16 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/41/Coachwhip1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Coachwhip",
   "partners": [
   ],
   "powers": [
-    "Wears a polarized strip of material which protects her eyes from bright light",
-    "Wields electrically-charged chain-whips attached to gauntlets",
-    "Wields electrically-charged steel link whips attached to wristbands"
   ],
   "ranking": {
     "comicCount": 0,

@@ -13,25 +13,22 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Athena_in_Hercules.jpg/159px-Athena_in_Hercules.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Athena",
   "partners": [
   ],
   "powers": [
     "Super-genius intellect",
-    "Enhanced by cosmic awareness",
-    "Mastery over multiple forms of combat",
     "Flight",
     "Their descendants",
     "Immortality",
     "Superhuman strength",
     "Speed",
     "Stamina",
-    "Agility.",
-    "Limited transmutation",
-    "Lightning projection inherited from zeus"
+    "Agility",
+    "Limited transmutation"
   ],
   "ranking": {
     "comicCount": 0,

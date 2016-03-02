@@ -9,7 +9,6 @@
   "authors": [
     "Mark Gruenwald",
     "Ralph Macchio",
-    "and Ron Wilson",
     "Ron Wilson"
   ],
   "description": "Maelstrom is a fictional character that appears in comic books published by Marvel Comics.",
@@ -18,18 +17,16 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4c003114d6700/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Maelstrom",
   "partners": [
   ],
   "powers": [
-    "\"cosmic awareness\"",
+    "Cosmic awareness",
     "Genius biologist",
-    "Geneticist",
-    "Kinetic energy manipulation",
-    "Use of quantum bands that absorbed virtually unlimited energy from the \"quantum zone\""
+    "Geneticist"
   ],
   "ranking": {
     "comicCount": 1,

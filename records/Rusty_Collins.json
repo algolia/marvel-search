@@ -10,15 +10,14 @@
   "description": "Russell \"Rusty\" Collins, formerly known as Firefist, is a fictional character, a superhero from Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Rusty Collins",
   "partners": [
   ],
   "powers": [
-    "Pyrokinesis",
-    "\"pyromorphing\" (pyric form or fiery form)"
+    "Pyrokinesis"
   ],
   "ranking": {
     "comicCount": 0,
@@ -29,7 +28,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Russel \"Rusty\" Collins"
+    "Russel Collins",
+    "Rusty"
   ],
   "species": [
     "Mutant"

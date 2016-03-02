@@ -2,8 +2,8 @@
   "aliases": [
     "Andrew \"Andy\" Maguire",
     "Andy Maguire",
-    "\"Speedball\"",
-    "\"Nova\"",
+    "Speedball",
+    "Nova",
     "Alpha"
   ],
   "authors": [
@@ -12,17 +12,17 @@
   ],
   "description": "Alpha (Andrew \"Andy\" Maguire) is a fictional character in Marvel Comics who first appeared in The Amazing Spider-Man.",
   "images": {
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Alpha-Marvel.jpg/250px-Alpha-Marvel.jpg"
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/4d52f6a668e76/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
-  "name": "Alpha",
+  "name": "Speedball (Robert Baldwin)",
   "partners": [
   ],
   "powers": [
-    "Exposure to parker particles",
-    "Able to protract energy blasts",
     "Super strength",
     "Super speed",
     "Telekinesis",
@@ -48,6 +48,7 @@
   "teams": [
   ],
   "urls": {
+    "marvel": "http://marvel.com/characters/2165/speedball",
     "wikipedia": "https://en.wikipedia.org/wiki/Alpha_(Marvel_Comics)"
   }
 }

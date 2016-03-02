@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png/250px-Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ymir",
   "partners": [
@@ -22,7 +22,6 @@
     "Ice",
     "Cold manipulation",
     "Regeneration",
-    "Superhuman physical attributes",
     "Superhuman strength",
     "Superhuman durability",
     "Cold",
@@ -43,6 +42,8 @@
     "Giants"
   ],
   "teams": [
+    "Frost",
+    "Storm Giants",
     "Frost and Storm Giants"
   ],
   "urls": {

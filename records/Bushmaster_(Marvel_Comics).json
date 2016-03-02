@@ -14,16 +14,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d5/Bushmaster_Avengers_vs_XMen.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bushmaster",
   "partners": [
   ],
   "powers": [
-    "\"fangs\" strapped to his hands with sharp needles that contain a fast-acting poison derived from snake venom",
     "Energy absorption",
-    "Super strong snake-like tail",
     "Skilled street fighter",
     "Superhuman strength",
     "Durability",

@@ -13,7 +13,7 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/HulkVTyrannus.jpg/250px-HulkVTyrannus.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Tyrannus",
@@ -24,8 +24,6 @@
     "Minor mystic",
     "Extraordinary genius",
     "Immortality",
-    "Extraordinary scientific genius",
-    "Limited mystic knowledge of sorcery",
     "Use of roman",
     "Deviant weaponry"
   ],

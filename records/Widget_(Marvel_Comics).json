@@ -10,16 +10,14 @@
   "description": "Widget, alias Katherine \"Kate\" Anne Pryde-Rasputin is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Widget",
   "partners": [
   ],
   "powers": [
-    "Time travel  inter-universal travel",
-    "Intangibility",
-    "(currently) time travel (formerly) inter-universal travel"
+    "Intangibility"
   ],
   "ranking": {
     "comicCount": 0,
@@ -30,7 +28,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Katherine \"Kate\" Anne Pryde-Rasputin"
+    "Katherine Anne Pryde-Rasputin",
+    "Kate"
   ],
   "species": [
   ],

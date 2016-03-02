@@ -10,14 +10,13 @@
   "description": "Mountjoy is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mountjoy",
   "partners": [
   ],
   "powers": [
-    "Merge with and/or possess others."
   ],
   "ranking": {
     "comicCount": 0,

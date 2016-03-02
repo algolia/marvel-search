@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Revolutionary"
+    "Revolutionary",
+    "actual identities the character uses"
   ],
   "authors": [
     "Dan Slott",
@@ -11,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Revolutionary.jpg/250px-Revolutionary.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Revolutionary",
   "partners": [

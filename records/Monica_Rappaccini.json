@@ -10,8 +10,8 @@
   "description": "Monica Rappaccini is a fictional character, a supervillain in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Monica Rappaccini",
   "partners": [
@@ -33,7 +33,7 @@
   ],
   "teams": [
     "Advanced Idea Mechanics",
-    "A.I.M."
+    "A.I.M"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Monica_Rappaccini"

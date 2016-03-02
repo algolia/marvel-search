@@ -12,18 +12,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4ce5a75b67009/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Romulus",
   "partners": [
   ],
   "powers": [
-    "Regenerative healing factor",
     "Telepathy",
-    "Skilled combatant & strategist",
     "Animalistic traits",
-    "Adamantium laced skeleton & claws",
     "Superhuman senses",
     "Strength",
     "Stamina",

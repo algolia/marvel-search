@@ -10,8 +10,8 @@
   "description": "Power Broker is the name of two characters in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Power Broker",
   "partners": [
@@ -35,9 +35,9 @@
   "teams": [
     "Corporation",
     "Power Broker",
-    "Inc.",
+    "Inc",
     "The Corporation",
-    "Power Broker, Inc."
+    "Power Broker, Inc"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Power_Broker"

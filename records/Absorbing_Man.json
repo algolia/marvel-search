@@ -2,7 +2,7 @@
   "aliases": [
     "Rocky Davis",
     "Lightningbolt",
-    "Greithoth: Breaker of Wills",
+    "Breaker of Wills",
     "The Absorbing Man",
     "Absorbing Man"
   ],
@@ -16,7 +16,7 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/5269678709fb7/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Absorbing Man",
@@ -34,7 +34,8 @@
     "storyCount": 43
   },
   "secretIdentities": [
-    "Carl \"Crusher\" Creel"
+    "Carl Creel",
+    "Crusher"
   ],
   "species": [
   ],

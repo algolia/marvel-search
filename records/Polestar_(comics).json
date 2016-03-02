@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "None",
     "Polestar"
   ],
   "authors": [
@@ -10,16 +9,14 @@
   "description": "Polestar is the name used by a pair of mercenaries and antagonists of Spider-Man, closely associated with the Great Game.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Polestar",
   "partners": [
   ],
   "powers": [
     "Costume",
-    "Gauntlets provided for manipulation of magnetic fields",
-    "Including but not limited to the magnetic manipulation of metal objects",
     "Flight"
   ],
   "ranking": {
@@ -31,7 +28,7 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Thomas Duffy ",
+    "Thomas Duffy",
     "Patrick Trettel",
     "Thomas Duffy (Polestar I)",
     "Patrick Trettel (Polestar II)"

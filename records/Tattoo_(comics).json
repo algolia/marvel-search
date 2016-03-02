@@ -13,20 +13,16 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Longstrike.jpg/200px-Longstrike.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tattoo",
   "partners": [
   ],
   "powers": [
-    "Disrupt neurochemistry of others by phasing through them.",
-    "Uses a version of the stilt-man armor that allows her to elongate her limbs",
     "Enhance her strength",
     "Depowered",
-    "Uses a version of the",
-    "Stilt-man",
-    "Armor that allows her to elongate her limbs"
+    "Stilt-man"
   ],
   "ranking": {
     "comicCount": 0,

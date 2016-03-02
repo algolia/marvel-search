@@ -10,8 +10,8 @@
   "description": "Spoor (Andrew Hamish Graves) is a fictional comic book character appearing in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Spoor",
   "partners": [
@@ -19,9 +19,7 @@
   "powers": [
     "Pheromone manipulation",
     "Generates",
-    "Amplifies feelings of violence",
-    "Hatred in others",
-    "Pheromone manipulation; generates"
+    "Hatred in others"
   ],
   "ranking": {
     "comicCount": 0,

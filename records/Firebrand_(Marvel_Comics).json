@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Project: Firebrand",
     "Firebrand"
   ],
   "authors": [
@@ -15,17 +14,14 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/96/Firebrand_001.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Firebrand",
   "partners": [
   ],
   "powers": [
-    "Thermal blasts via flamethrowers",
     "Resistance to fire",
-    "Heat rays of thousands of degrees",
-    "Cybernetic harness which could reconfigure itself into different modes",
     "Flight",
     "Flight via flying jets",
     "Superhuman strength",

@@ -11,7 +11,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Silk-comic_cover.jpg/250px-Silk-comic_cover.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Silk",
   "partners": [
@@ -26,9 +26,6 @@
     "Reflexes",
     "Endurance",
     "Healing factor",
-    "Able to shoot very strong spider-web strings from fingers",
-    "Long range precognitive spider-sense",
-    "Master hand-to-hand combatant",
     "Reflexes and",
     "Long range",
     "Precognitive",

@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Drax the Destroyer"
+    "Drax the Destroyer",
+    "actual identities the character uses"
   ],
   "authors": [
     "Mike Friedrich",
@@ -10,17 +11,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a4/Drax.PNG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Drax the Destroyer",
   "partners": [
   ],
   "powers": [
-    "Psychic detection of others",
     "Energy blasts",
     "High speed flight",
-    "Highly skilled in use of knives",
     "Superhuman strength",
     "Stamina",
     "Resistance to injury",
@@ -47,9 +46,8 @@
     "Annihilation",
     "Defenders",
     "Legion of the Unliving",
-    "Guardians of the Galaxy (2008 team)",
-    "Infinity Watch",
     "Guardians of the Galaxy",
+    "Infinity Watch",
     "Secret Defenders",
     "United Front"
   ],

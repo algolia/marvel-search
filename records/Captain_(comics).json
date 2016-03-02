@@ -26,14 +26,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c00324c12ba2/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Captain Universe",
   "partners": [
   ],
   "powers": [
-    "The generic powers of superhuman strength",
     "Endurance",
     "Flight & enhanced sight"
   ],
@@ -52,7 +51,7 @@
   "teams": [
     "Features of the Marvel Universe",
     "Nextwave",
-    "H.A.T.E."
+    "H.A.T.E"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/392/captain_universe",

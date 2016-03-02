@@ -7,8 +7,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Bogatyrimu0.jpg/250px-Bogatyrimu0.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Morningstar",
   "partners": [

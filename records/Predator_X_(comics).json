@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5f/Predatorx.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Predator X",
   "partners": [
@@ -24,8 +24,6 @@
     "Teeth",
     "Toxic saliva",
     "Accelerated healing",
-    "Body covered in non-toxic inorganic mercury",
-    "Body covered in non-toxic inorganic",
     "Mercury"
   ],
   "ranking": {

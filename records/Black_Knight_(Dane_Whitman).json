@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Black Knight",
-    "Black Knight (Dane Whitman)"
+    "Black Knight"
   ],
   "authors": [
     "Roy Thomas",
@@ -13,17 +12,17 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59ed1590a7/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Black Knight (Sir Percy of Scandia)",
   "partners": [
   ],
   "powers": [
     "Wields the sword of light",
-    "Shield of night.",
+    "Shield of night",
     "Expert swordsmanship",
-    "Magic senses."
+    "Magic senses"
   ],
   "ranking": {
     "comicCount": 96,

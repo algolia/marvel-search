@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Pixie",
-    "Pixie (Morlock)"
+    "Pixie"
   ],
   "authors": [
   ],
@@ -11,16 +10,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4c002f2d626ee/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Pixie",
   "partners": [
   ],
   "powers": [
     "Fairy-like appearance",
-    "Butterfly wings that able her to fly",
-    "Empath."
+    "Empath"
   ],
   "ranking": {
     "comicCount": 6,

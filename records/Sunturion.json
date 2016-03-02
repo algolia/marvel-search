@@ -13,15 +13,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sunturion.jpg/159px-Sunturion.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sunturion",
   "partners": [
   ],
   "powers": [
     "Density control",
-    "Microwave energy projection",
     "Force field generation",
     "Flight",
     "Teleportation",

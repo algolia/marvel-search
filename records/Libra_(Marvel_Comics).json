@@ -11,16 +11,14 @@
   "description": "For the DC Comics version, see Libra.Libra is the name of different characters in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Libra",
   "partners": [
   ],
   "powers": [
-    "Psychic senses",
-    "Teleportation into the between.",
-    "Psychic senses; teleportation into the between."
+    "Psychic senses"
   ],
   "ranking": {
     "comicCount": 0,

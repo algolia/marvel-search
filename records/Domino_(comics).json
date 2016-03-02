@@ -23,16 +23,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/526031dc10516/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Domino",
   "partners": [
     "Cable"
   ],
   "powers": [
-    "Superb markswoman with various firearms",
-    "Skilled hand-to-hand combatant",
     "Subconscious",
     "Telekinetic",
     "Probability manipulation",
@@ -56,11 +54,10 @@
   "teams": [
     "Underground",
     "X-Men",
-    "X-Men: The 198",
+    "The 198",
     "Six Pack",
     "X-Force",
-    "X-Corporation",
-    "The 198"
+    "X-Corporation"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/569/domino",

@@ -9,8 +9,8 @@
   "description": "Dragoness (Tamara Kurtz) is a fictional character, a mutant supervillain in the Marvel Comics Universe, created for their on-going series New Mutants and X-Force.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Dragoness",
   "partners": [
@@ -32,9 +32,8 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men: The 198",
-    "Mutant Liberation Front",
-    "The 198"
+    "The 198",
+    "Mutant Liberation Front"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Dragoness_(comics)"

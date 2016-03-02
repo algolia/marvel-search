@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Untold_spiderm2.jpg/250px-Untold_spiderm2.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Batwing",
   "partners": [
@@ -35,13 +35,14 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "James \"Jimmy\" Santini"
+    "James Santini",
+    "Jimmy"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "Avengers: The Initiative",
+    "The Initiative",
     "Avengers Academy"
   ],
   "urls": {

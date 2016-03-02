@@ -14,7 +14,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4c003a6e38300/standard_xlarge.jpg"
   },
   "isHero": false,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Wiccan",
   "partners": [
@@ -35,12 +35,10 @@
     "Concussive force blasts",
     "Energy contruction",
     "Illusions casting",
-    "Lightning/light generation",
     "Magic",
     "Spell casting",
     "Mind control",
     "Portal creation",
-    "Reality alteration/warping",
     "Telekinesis",
     "Telepathy"
   ],
@@ -53,7 +51,8 @@
     "storyCount": 13
   },
   "secretIdentities": [
-    "William \"Billy\" Kaplan"
+    "William Kaplan",
+    "Billy"
   ],
   "species": [
   ],

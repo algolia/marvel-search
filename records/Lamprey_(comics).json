@@ -8,8 +8,8 @@
   "description": "Lamprey (Donald McGuiggin) is a fictional character from Marvel Comics' original Squadron Supreme series.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Lamprey",
   "partners": [
@@ -17,7 +17,7 @@
   "powers": [
     "Absorption of energy",
     "Super-powers",
-    "Intellect."
+    "Intellect"
   ],
   "ranking": {
     "comicCount": 0,

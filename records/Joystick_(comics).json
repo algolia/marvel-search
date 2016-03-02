@@ -14,14 +14,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c0032437ece7/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Joystick",
   "partners": [
   ],
   "powers": [
-    "Superhuman athletic abilities",
     "Energy manipulation"
   ],
   "ranking": {

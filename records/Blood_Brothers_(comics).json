@@ -11,17 +11,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Iron_Man_v1_055_-_00.jpg/250px-Iron_Man_v1_055_-_00.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Blood Brothers",
   "partners": [
   ],
   "powers": [
-    "Vampiric need to drain blood",
     "Superhuman strength",
-    "Durability",
-    "Durability (increased when in proximity to one another)"
+    "Durability"
   ],
   "ranking": {
     "comicCount": 0,

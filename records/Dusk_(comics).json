@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/DuskCassie.jpg/250px-DuskCassie.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Dusk",
   "partners": [
@@ -20,7 +20,6 @@
     "Shadow manipulation",
     "Clairvoyance",
     "Teleportation",
-    "Regenerative healing factor",
     "Darkforce projection",
     "Darkforce",
     "Projection"

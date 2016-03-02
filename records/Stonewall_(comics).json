@@ -9,15 +9,13 @@
   "description": "Stonewall is the codename of two characters from Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Stonewall",
   "partners": [
   ],
   "powers": [
-    "Enhanced resistance to injury",
-    "Skilled hand to hand combatant",
     "Superhuman strength",
     "Endurance"
   ],

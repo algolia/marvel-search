@@ -15,15 +15,15 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/24/MassMasterCloud1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Jack Power",
   "partners": [
   ],
   "powers": [
     "Healing powers",
-    "Previously: controlling gravity",
+    "Controlling gravity",
     "Disintegrating",
     "Absorbing",
     "Releasing energy",

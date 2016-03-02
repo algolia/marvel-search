@@ -10,16 +10,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/cd/XMEN_AmeliaVoght.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Amelia Voght",
   "partners": [
   ],
   "powers": [
     "Teleportation",
-    "Can turn herself",
-    "Matter around her into a mist-like state."
+    "Can turn herself"
   ],
   "ranking": {
     "comicCount": 0,

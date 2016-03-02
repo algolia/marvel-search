@@ -12,13 +12,12 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/31/XMEN-Transonic.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Transonic",
   "partners": [
   ],
   "powers": [
-    "General physiological enhancement",
     "Supersonic flight"
   ],
   "ranking": {

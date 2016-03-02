@@ -2,8 +2,7 @@
   "aliases": [
     "Emery Schaub",
     "Boulder",
-    "Butterball",
-    "Butterball (Emery Schaub)"
+    "Butterball"
   ],
   "authors": [
     "Christos Gage",
@@ -14,16 +13,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Butterball.jpg/250px-Butterball.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Butterball",
   "partners": [
   ],
   "powers": [
     "Unlimited stamina",
-    "Total invulnerability",
-    "Complete numbness to physical sensation"
+    "Total invulnerability"
   ],
   "ranking": {
     "comicCount": 0,

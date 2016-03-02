@@ -12,15 +12,14 @@
   "description": "Frederick Foswell, also known as the Big Man and Patch, is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Frederick Foswell",
   "partners": [
   ],
   "powers": [
-    "He was adept at disguise",
-    "An excellent marksman with handguns."
+    "He was adept at disguise"
   ],
   "ranking": {
     "comicCount": 0,

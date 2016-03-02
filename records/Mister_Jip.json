@@ -9,14 +9,13 @@
   "description": "Mister Jip is a fictional character belonging to the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mister Jip",
   "partners": [
   ],
   "powers": [
-    "Vast ability to manipulate black magic",
     "Enhanced strength",
     "Astral projection",
     "Teleportation",

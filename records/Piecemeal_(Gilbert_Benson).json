@@ -2,8 +2,7 @@
   "aliases": [
     "Proteus",
     "Kevin MacTaggert",
-    "Piecemeal",
-    "Piecemeal (Gilbert Benson)"
+    "Piecemeal"
   ],
   "authors": [
     "Fabian Nicieza",
@@ -15,15 +14,14 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/ff/Newmutantsann7.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Proteus (House of M)",
   "partners": [
   ],
   "powers": [
-    "Absorb energy frequencies",
-    "Store them within his body."
+    "Absorb energy frequencies"
   ],
   "ranking": {
     "comicCount": 0,

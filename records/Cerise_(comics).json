@@ -11,14 +11,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Cerise_excalibur57-jmadureira.jpg/250px-Cerise_excalibur57-jmadureira.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Cerise",
   "partners": [
   ],
   "powers": [
-    "Manipulate solid light constructs",
     "Red spectrum energy"
   ],
   "ranking": {

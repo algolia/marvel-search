@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Samsawyer.jpg/150px-Samsawyer.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Happy Sam Sawyer",
   "partners": [
@@ -32,7 +32,8 @@
   "species": [
   ],
   "teams": [
-    "Sgt. Fury and his Howling Commandos",
+    "Sgt. Fury",
+    "his Howling Commandos",
     "United States Army",
     "Howling Commandos"
   ],

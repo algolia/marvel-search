@@ -9,30 +9,23 @@
   "description": "Desak Sterixian, more commonly known as Desak the God Slayer, is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Desak",
   "partners": [
-    "Designate/Spirit of the Jewel, Zarrko the Tomorrow Man",
     "Designate/Spirit of the Jewel",
     "Zarrko the Tomorrow Man"
   ],
   "powers": [
     "Weapons mastery",
-    "Superhuman strength & stamina",
     "Nigh-invulnerability",
-    "Possesses powers of multiple gods",
-    "Immunity to powers of gods",
     "Absorption",
-    "Redirection of energy attacks",
     "Superhuman strength",
     "Durability",
     "Endurance",
     "Flight",
     "Teleportation",
-    "Energy projection through his eyes",
-    "Sense all aspects of godliness",
     "His power"
   ],
   "ranking": {

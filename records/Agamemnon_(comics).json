@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/18/AgamemnonC.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Agamemnon",
   "partners": [
@@ -22,10 +22,7 @@
     "Skilled magician",
     "Spell caster",
     "Genius analyzer",
-    "Forecaster of future development of social structures",
     "Master battle strategist",
-    "Access to highly advanced technology",
-    "Excellent physical condition",
     "Immortality"
   ],
   "ranking": {

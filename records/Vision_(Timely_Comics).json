@@ -1,7 +1,7 @@
 {
   "aliases": [
     "The Vision",
-    "Vision (Timely Comics)"
+    "Vision"
   ],
   "authors": [
     "Jack Kirby",
@@ -13,8 +13,8 @@
     "banner": "http://x.annihil.us/u/prod/marvel/i/mg/6/e0/537bc95e556b4.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -25,7 +25,6 @@
   "partners": [
   ],
   "powers": [
-    "Generate illusory images of himself",
     "Flight",
     "Limited teleportation",
     "Cold",

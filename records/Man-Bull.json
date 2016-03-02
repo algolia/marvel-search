@@ -1,6 +1,6 @@
 {
   "aliases": [
-    "\"Bull Taurus\"",
+    "Bull Taurus",
     "Man-Bull"
   ],
   "authors": [
@@ -10,15 +10,14 @@
   "description": "Man-Bull is a fictional character, a supervillain from Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Man-Bull",
   "partners": [
     "Matador"
   ],
   "powers": [
-    "High-level resistance to injury",
     "Superhuman strength",
     "Agility",
     "Endurance",
@@ -40,7 +39,6 @@
   "teams": [
     "Frightful Four",
     "Death Squad",
-    "\"Death Squad\"",
     "Vil-Anon"
   ],
   "urls": {

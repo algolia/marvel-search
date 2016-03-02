@@ -4,14 +4,13 @@
   ],
   "authors": [
     "Peter David",
-    "Dale Keown",
-    ";"
+    "Dale Keown"
   ],
   "description": "Paris is a fictional character in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Paris",
   "partners": [

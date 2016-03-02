@@ -1,29 +1,27 @@
 {
   "aliases": [
-    "Astra (Imperial Guard)"
+    "Astra"
   ],
   "authors": [
   ],
   "images": {
-    "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/539a0286b06bf/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Astrawiki.jpg/185px-Astrawiki.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
-  "name": "Imperial Guard",
+  "name": "Astra",
   "partners": [
   ],
   "powers": [
   ],
   "ranking": {
-    "comicCount": 5,
+    "comicCount": 0,
     "eventCount": 0,
     "pageviewCount": 87,
     "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 4
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
@@ -32,7 +30,6 @@
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009363/imperial_guard",
     "wikipedia": "https://en.wikipedia.org/wiki/Astra_(Imperial_Guard)"
   }
 }

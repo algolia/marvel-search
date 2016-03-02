@@ -10,14 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Lode_stone-1-.jpg/200px-Lode_stone-1-.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Lodestone",
   "partners": [
   ],
   "powers": [
-    "Manipulation of magnetic force."
   ],
   "ranking": {
     "comicCount": 0,

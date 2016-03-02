@@ -8,16 +8,14 @@
   "description": "Nightmask is a title given to several fictional characters who appear in the comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nightmask",
   "partners": [
   ],
   "powers": [
-    "Able to enter",
-    "Manipulate the dreams of others",
-    "Able to project illusions directly into another person's mind. he can also fire concussive energy blasts."
+    "Able to enter"
   ],
   "ranking": {
     "comicCount": 0,

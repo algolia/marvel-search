@@ -9,15 +9,13 @@
   "description": "Ion (Voletta Todd) is a fictional supervillain character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ion",
   "partners": [
   ],
   "powers": [
-    "Body composed of living ionized gas",
-    "Can manipulate electromagnetic energy",
     "Flight",
     "Can manipulate",
     "Electromagnetic",

@@ -10,16 +10,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/65/XMEN_ERG.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Erg",
   "partners": [
   ],
   "powers": [
-    "Absorb nearby energy",
-    "Release it as electricity from right eye",
-    "Absorb nearby energy (including kinetic impacts)"
+    "Absorb nearby energy"
   ],
   "ranking": {
     "comicCount": 0,
@@ -35,10 +33,9 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men: The 198",
+    "The 198",
     "Drain Dwellers",
-    "Morlocks",
-    "The 198"
+    "Morlocks"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Erg_(comics)"

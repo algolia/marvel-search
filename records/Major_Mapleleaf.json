@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Majormaple.png/250px-Majormaple.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Major Mapleleaf",
   "partners": [
@@ -31,7 +31,8 @@
   },
   "secretIdentities": [
     "Louis Sadler",
-    "Louis \"Lou\" Sadler Jr."
+    "Louis Sadler Jr.",
+    "Lou"
   ],
   "species": [
   ],

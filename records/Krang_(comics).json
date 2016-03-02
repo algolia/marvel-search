@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Krang"
+    "Krang",
+    "actual identities the character uses"
   ],
   "authors": [
     "Jack Kirby",
@@ -10,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Krang1.jpg/250px-Krang1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Krang",
   "partners": [

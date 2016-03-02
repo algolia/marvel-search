@@ -5,8 +5,6 @@
     "Bucky"
   ],
   "authors": [
-    "Winter Soldier:",
-    "Bucky:",
     "Ed Brubaker",
     "Jack Kirby",
     "Steve Epting",
@@ -18,14 +16,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/4dc8478464008/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bucky",
   "partners": [
     "Falcon",
     "Captain America",
-    "Black Widow (Natalia Romanova)",
     "Black Widow"
   ],
   "powers": [
@@ -33,20 +30,14 @@
     "Throwing knives",
     "Expert assassin",
     "Spy",
-    "Master hand to hand combatant",
     "Martial artist",
     "Gifted advance scout",
     "Energy projection",
     "Enhanced reaction time",
     "Holographic projector",
-    "Carries conventional weapons",
     "Emp discharger",
     "Superhuman strength",
-    "Use of vibranium alloy shield",
-    "Shock absorbing costume",
-    "Carries a vibranium alloy shield",
-    "Wears a shock absorbing costume",
-    "Use of conventional weapons"
+    "Shock absorbing costume"
   ],
   "ranking": {
     "comicCount": 4,

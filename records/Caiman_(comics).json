@@ -7,8 +7,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/39/DeciMation.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Caiman",
   "partners": [

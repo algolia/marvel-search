@@ -10,19 +10,17 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Blackwulf1_HCV.jpg/200px-Blackwulf1_HCV.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Blackwulf",
   "partners": [
-    "Sparrow, Mammoth, Giant-Man",
     "Sparrow",
     "Mammoth",
     "Giant-Man"
   ],
   "powers": [
-    "Enhanced strength",
-    "Durability. black legacy energy manipulation."
+    "Enhanced strength"
   ],
   "ranking": {
     "comicCount": 0,
@@ -33,7 +31,7 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Blackwulf I ",
+    "Blackwulf I",
     "Blackwulf II",
     "Blackwulf I (Pelops)",
     "Blackwulf II (Lucian)"
@@ -44,7 +42,7 @@
   "teams": [
     "Underground Legion",
     "Avengers",
-    "Code: Blue"
+    "Blue"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Blackwulf"

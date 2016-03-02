@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Mentor",
-    "Mentor (Imperial Guard)"
+    "Mentor"
   ],
   "authors": [
     "Chris Claremont",
@@ -14,7 +13,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/95/Mentorwiki.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mentor",
   "partners": [

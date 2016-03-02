@@ -14,14 +14,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/TheSlaymaster.JPG/215px-TheSlaymaster.JPG"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Slaymaster",
   "partners": [
   ],
   "powers": [
-    "Exceptional martial artist",
     "Tactician",
     "Exceptional",
     "Martial artist"

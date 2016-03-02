@@ -10,8 +10,8 @@
   "description": "The Answer is the name of three fictional comic book characters, owned by Marvel Comics and appearing in that company's Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Answer",
   "partners": [
@@ -36,7 +36,7 @@
   ],
   "teams": [
     "Hydra",
-    "S.H.I.E.L.D."
+    "S.H.I.E.L.D"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Answer_(comics)"

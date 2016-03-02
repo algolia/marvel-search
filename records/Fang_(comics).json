@@ -10,14 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fang_%28comics%29.jpg/150px-Fang_%28comics%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Fang",
   "partners": [
   ],
   "powers": [
-    "Highly developed feral senses"
   ],
   "ranking": {
     "comicCount": 0,

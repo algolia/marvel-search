@@ -9,15 +9,15 @@
   "description": "Maximus Lobo is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Maximus Lobo",
   "partners": [
   ],
   "powers": [
     "Lupine form",
-    "Enhanced senses."
+    "Enhanced senses"
   ],
   "ranking": {
     "comicCount": 0,

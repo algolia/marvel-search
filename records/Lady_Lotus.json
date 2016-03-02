@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f8/Lady_Lotus.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Lady Lotus",
   "partners": [
@@ -21,18 +21,14 @@
   ],
   "powers": [
     "Mind control",
-    "Hypnotizes others from miles away",
-    "Psychically projects images into a crystal ball",
     "Casts illusions",
     "Limited precognition",
     "Slow aging",
     "Hypnotizes",
     "Others from miles away",
     "Psychically",
-    "Projects images into a crystal ball",
     "Casts",
     "Illusion",
-    "S",
     "Limited",
     "Precognition"
   ],

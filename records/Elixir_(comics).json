@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/52740e1b4ad81/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Elixir",
   "partners": [
@@ -31,7 +31,8 @@
     "storyCount": 5
   },
   "secretIdentities": [
-    "Joshua \"Josh\" Foley"
+    "Joshua Foley",
+    "Josh"
   ],
   "species": [
     "Mutant"

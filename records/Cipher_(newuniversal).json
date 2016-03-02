@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Cipher",
-    "Cipher (newuniversal)"
+    "Cipher"
   ],
   "authors": [
     "Warren Ellis",
@@ -11,16 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Shockfront2.jpg/250px-Shockfront2.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Cipher",
   "partners": [
   ],
   "powers": [
-    "The cipher glyph grants its wielder advanced technological knowledge",
-    "Perceptions that allow individuals to understand",
-    "Construct advanced technology."
   ],
   "ranking": {
     "comicCount": 0,
@@ -36,7 +32,7 @@
   "species": [
   ],
   "teams": [
-    "Spitfire (New Universe)",
+    "Spitfire",
     "NSA",
     "Project Spitfire"
   ],

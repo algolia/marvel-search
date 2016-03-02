@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Fredrich_slade_profile.JPG/200px-Fredrich_slade_profile.JPG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Frederick Slade",
   "partners": [

@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/18/Machinesmith.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mister Fear",
   "partners": [
@@ -33,7 +33,8 @@
     "storyCount": 1
   },
   "secretIdentities": [
-    "Samuel \"Starr\" Saxon"
+    "Samuel Saxon",
+    "Starr"
   ],
   "species": [
   ],

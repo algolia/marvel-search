@@ -14,15 +14,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4d2b364a69f77/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shanna the She-Devil",
   "partners": [
     "Ka-Zar"
   ],
   "powers": [
-    "Experienced hand to hand combatant",
     "Extraordinary agility",
     "Olympic-level athlete",
     "Peak-level strength",

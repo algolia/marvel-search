@@ -21,7 +21,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc654cf9d0ac/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -43,23 +43,20 @@
     "Induced paralysis",
     "Astral projection",
     "Eidetic memory",
-    "Travel unaided through space",
-    "Psionically manipulate matter",
     "Any form of energy",
-    "Create powerful \"cosmic\" fire",
+    "Create powerful fire",
     "Resurrect from death",
-    "Manipulate life energy in others",
     "Manipulate timelines",
+    "Cosmic",
     "Telekinesis",
     "Phoenix force",
     "Matter",
     "Energy manipulation",
     "Time manipulation",
     "Space travel",
-    "\"cosmic fire\"",
+    "Cosmic fire",
     "Disintegration energy",
-    "Resurrection from death",
-    "Manipulation of life energy in others"
+    "Resurrection from death"
   ],
   "ranking": {
     "comicCount": 46,
@@ -76,12 +73,11 @@
     "Mutant"
   ],
   "teams": [
-    "Apocalypse: The Twelve",
+    "The Twelve",
     "X-Terminators",
     "Phoenix Corps",
     "X-Factor",
     "X-Men",
-    "The Twelve",
     "All-New X-Men"
   ],
   "urls": {

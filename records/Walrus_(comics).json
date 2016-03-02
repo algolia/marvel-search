@@ -13,20 +13,17 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ec/Walrus_comics.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Walrus",
   "partners": [
     "White Rabbit"
   ],
   "powers": [
-    "Minimal superhuman strength",
     "Agility",
     "Endurance",
-    "Good at crossword puzzles",
-    "Hold his breath much longer than humans",
-    "Survive in freezing water via his layer of blubber"
+    "Good at crossword puzzles"
   ],
   "ranking": {
     "comicCount": 0,

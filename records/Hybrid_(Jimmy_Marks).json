@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Hybrid",
-    "Hybrid (Jimmy Marks)"
+    "Hybrid"
   ],
   "authors": [
     "Bill Mantlo",
@@ -12,8 +11,8 @@
   "description": "Hybrid (real name James \"Jimmy\" Marks) is a fictional character, a supervillain appearing in publications in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hybrid",
   "partners": [
@@ -33,7 +32,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "James \"Jimmy\" Marks"
+    "James Marks",
+    "Jimmy"
   ],
   "species": [
     "Dire Wraith",

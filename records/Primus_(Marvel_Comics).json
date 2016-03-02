@@ -14,14 +14,13 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nomad (Steve Rogers)",
   "partners": [
   ],
   "powers": [
-    "Transformation into living shadow",
     "Telepathy",
     "Shapeshifting"
   ],
@@ -38,7 +37,7 @@
   ],
   "species": [
     "Flb'Dbi",
-    "Android (robot)"
+    "Android"
   ],
   "teams": [
     "Thunderbolts"

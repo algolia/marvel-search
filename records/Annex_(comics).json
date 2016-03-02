@@ -10,17 +10,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Annex_%28Marvel_Comics_character%29.jpg/250px-Annex_%28Marvel_Comics_character%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Annex",
   "partners": [
   ],
   "powers": [
-    "Superhuman athletic ability",
     "Weapon creation",
-    "Flight",
-    "Informational downloading methods"
+    "Flight"
   ],
   "ranking": {
     "comicCount": 0,
@@ -36,7 +34,7 @@
   "species": [
   ],
   "teams": [
-    "Avengers: The Initiative"
+    "The Initiative"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Annex_(comics)"

@@ -13,17 +13,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4c00377e2a541/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nico Minoru",
   "partners": [
   ],
   "powers": [
-    "Casts magical spells through her staff of one",
-    "Can only cast a spell once",
     "Magical spells",
-    "Through the staff of one."
+    "Through the staff of one"
   ],
   "ranking": {
     "comicCount": 8,

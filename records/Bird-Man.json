@@ -8,15 +8,15 @@
   "authors": [
     "Roger McKenzie",
     "Mary Jo Duffy",
-    "and Gene Colan",
+    "Gene Colan",
     "Wally Wood",
     "Bob Powell"
   ],
   "description": "Bird-Man is the name of three fictional characters in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bird-Man",
   "partners": [
@@ -31,8 +31,7 @@
     "Agility",
     "Durability",
     "Stamina",
-    "Reflexes",
-    "Flight via artificial wings"
+    "Reflexes"
   ],
   "ranking": {
     "comicCount": 0,

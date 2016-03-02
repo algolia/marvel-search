@@ -7,8 +7,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/7c/Callistox.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Alex",
   "partners": [

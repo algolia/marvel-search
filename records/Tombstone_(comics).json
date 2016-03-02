@@ -14,8 +14,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c003a981c496/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tombstone",
   "partners": [
@@ -29,8 +29,7 @@
     "Razor sharp teeth",
     "Excellent street fighter",
     "Speed",
-    "Reflexes",
-    "High-level resistance to injury"
+    "Reflexes"
   ],
   "ranking": {
     "comicCount": 23,

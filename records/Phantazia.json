@@ -10,17 +10,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Phantazia_without_costume_from_X-Men_Unlimited.jpg/150px-Phantazia_without_costume_from_X-Men_Unlimited.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Phantazia",
   "partners": [
   ],
   "powers": [
-    "Electromagnetic energy wavelength manipulation/disruption",
     "Invisibility",
-    "Flight",
-    "Electromagnetic energy wavelength manipulation/disruption; invisibility"
+    "Flight"
   ],
   "ranking": {
     "comicCount": 0,

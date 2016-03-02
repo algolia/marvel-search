@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Neal Shaara",
-    "Thunderbird",
-    "Thunderbird (Neal Shaara)"
+    "Thunderbird"
   ],
   "authors": [
     "Leinil Francis Yu",
@@ -14,14 +13,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/4c003aa43b1ec/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Thunderbird (John Proudstar)",
   "partners": [
   ],
   "powers": [
-    "Generation of superheated plasma",
     "Superstrengh",
     "Speed",
     "Durability",

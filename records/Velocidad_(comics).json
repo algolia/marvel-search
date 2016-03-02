@@ -11,13 +11,12 @@
   "images": {
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Velocidad",
   "partners": [
   ],
   "powers": [
-    "Localized time manipulation creating the appearance of super-speed"
   ],
   "ranking": {
     "comicCount": 0,

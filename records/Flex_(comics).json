@@ -9,8 +9,8 @@
   "description": "Flex (Adrian Corbo) is a fictional character, a superhero in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Flex",
   "partners": [

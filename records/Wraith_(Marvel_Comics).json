@@ -1,12 +1,11 @@
 {
   "aliases": [
-    "\"Jean DeWolff\"",
+    "Jean DeWolff",
     "Pale Rider",
     "Kree with no name",
-    "\"Paleface\"",
+    "Paleface",
     "Wraith",
-    "\"Paleface\" '''(Watanabe)",
-    "Jean DeWolff"
+    "Paleface\" (Watanabe)"
   ],
   "authors": [
     "Javier Grillo-Marxuach",
@@ -24,8 +23,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Wraith.jpg/250px-Wraith.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Wraith",
   "partners": [
@@ -39,18 +38,15 @@
     "Accelerated healing",
     "Polymorphic weapon",
     "Transparent skin",
-    "The ability to temporarily \"infect\" others with this transparency condition",
     "Image projection",
     "Enhanced strength",
     "Speed",
     "Agility",
     "Darkness manifestation",
-    "Skilled armed/unarmed combatant",
     "Induce mental pain",
-    "Unnaturally high tolerance for pain",
-    "Deactivate/disarm other weapons",
     "Longevity via agelessness",
-    "Carries a smoke gun"
+    "Carries a smoke gun",
+    "Infect"
   ],
   "ranking": {
     "comicCount": 8,
@@ -72,7 +68,6 @@
     "Kree"
   ],
   "teams": [
-    "'",
     "Kree Underground",
     "New York City Police Department",
     "Nameless Kree",

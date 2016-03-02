@@ -18,18 +18,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/52695253215f4/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bastion",
   "partners": [
   ],
   "powers": [
-    "A mystical fusion of master mold",
     "Nimrod",
-    "Immunity to telepathic probes",
     "Mutant abilities",
-    "Command of other sentinels",
     "Energy projection",
     "Superhuman strength",
     "Durability",
@@ -47,12 +44,12 @@
   ],
   "species": [
     "Artificial intelligence",
-    "Android (robot)"
+    "Android"
   ],
   "teams": [
     "Purifiers",
     "Humanity's Last Stand",
-    "Operation: Zero Tolerance",
+    "Zero Tolerance",
     "Features of the Marvel Universe"
   ],
   "urls": {

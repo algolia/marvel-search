@@ -10,14 +10,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c0/XMEN_Neophyte.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Neophyte",
   "partners": [
   ],
   "powers": [
-    "Appear on the other side."
+    "Appear on the other side"
   ],
   "ranking": {
     "comicCount": 0,

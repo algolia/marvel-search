@@ -14,8 +14,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Scare_crow-1-.jpg/250px-Scare_crow-1-.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Scarecrow (Ebenezer Laughton)",
   "partners": [
@@ -31,7 +31,6 @@
     "Flexibility",
     "Superhuman strength",
     "Stamina",
-    "A mutated pheromone via implants",
     "Master bird trainer",
     "Highly apt contortionist",
     "Trained acrobat",

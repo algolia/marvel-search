@@ -14,8 +14,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/PorcupineMarvel.jpg/250px-PorcupineMarvel.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Porcupine",
   "partners": [
@@ -23,17 +23,10 @@
   "powers": [
     "Enhanced strength",
     "Durability",
-    "Razor-tipped quill-like surface",
     "Flight via boot jets",
-    "Minimal resistance to injury",
-    "Short-distance flight via belt jets",
     "21600.0",
-    "Skilled automotive mechanic",
     "Body",
     "Right arm",
-    "Fire them as projectile bolts",
-    "Distort his left arm into a misshapen",
-    "Extended form with elongated fingers",
     "Claws",
     "Wide variety of offensive",
     "Defensive weapons"

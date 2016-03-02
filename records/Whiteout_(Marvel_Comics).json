@@ -9,14 +9,14 @@
   "description": "Whiteout is a fictional character in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Whiteout",
   "partners": [
   ],
   "powers": [
-    "Blinding flash."
+    "Blinding flash"
   ],
   "ranking": {
     "comicCount": 0,

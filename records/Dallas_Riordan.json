@@ -14,14 +14,13 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Atlas (Team)",
   "partners": [
   ],
   "powers": [
-    "None"
   ],
   "ranking": {
     "comicCount": 12,

@@ -10,17 +10,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Wildstreakmu0.jpg/225px-Wildstreakmu0.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Wildstreak",
   "partners": [
-    "Thunderstrike (Eric Masterson)",
     "Thunderstrike"
   ],
   "powers": [
     "Exo-skeleton",
-    "Gauntlets giving her advanced strength",
     "Speed",
     "Agility"
   ],

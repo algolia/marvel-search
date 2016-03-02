@@ -11,16 +11,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/ValkyrieDefenders4.jpg/200px-ValkyrieDefenders4.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Aragorn",
   "partners": [
-    "Black Knight (Dane Whitman)",
+    "Black Knight",
     "Valkyrie"
   ],
   "powers": [
-    "Flight via feathered wings",
     "Experienced battle steed",
     "Enhanced intelligence"
   ],

@@ -9,8 +9,8 @@
   "description": "Vibro is a fictional character, a supervillain in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Vibro",
   "partners": [

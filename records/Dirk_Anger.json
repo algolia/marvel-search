@@ -12,14 +12,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/One_Crazy_MammaJamma.jpg/250px-One_Crazy_MammaJamma.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Dirk Anger",
   "partners": [
   ],
   "powers": [
-    "Chemically retarded aging process"
   ],
   "ranking": {
     "comicCount": 0,
@@ -36,7 +35,7 @@
   ],
   "teams": [
     "Features of the Marvel Universe",
-    "H.A.T.E."
+    "H.A.T.E"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2856/dirk_anger",

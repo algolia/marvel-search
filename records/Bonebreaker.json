@@ -9,8 +9,8 @@
   "description": "Bonebreaker is a super villain in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bonebreaker",
   "partners": [

@@ -10,8 +10,8 @@
   "description": "Equinox (Terrance Sorenson) is a fictional character, a supervillain appearing in publications from Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Equinox",
   "partners": [
@@ -32,7 +32,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Terrance \"Terry\" Sorenson"
+    "Terrance Sorenson",
+    "Terry"
   ],
   "species": [
   ],

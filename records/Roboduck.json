@@ -12,13 +12,12 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Roboduck_new_gen.jpg/250px-Roboduck_new_gen.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Roboduck",
   "partners": [
   ],
   "powers": [
-    "Arm-mounted plasma cannons",
     "Flight",
     "Powerful plasma burp",
     "Arm-mounted",
@@ -34,13 +33,12 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "None"
   ],
   "species": [
     "Robot"
   ],
   "teams": [
-    "A.P.N.G.",
+    "A.P.N.G",
     "Gabriel",
     "A.P.N.G., Gabriel"
   ],

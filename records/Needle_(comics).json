@@ -11,16 +11,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Spider_Woman_1978_Issue_9.jpg/250px-Spider_Woman_1978_Issue_9.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Needle",
   "partners": [
   ],
   "powers": [
     "Stronger",
-    "More spry than a typical man his age",
-    "Wields a yard long needle."
+    "Wields a yard long needle"
   ],
   "ranking": {
     "comicCount": 0,

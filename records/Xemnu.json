@@ -14,8 +14,8 @@
   "description": "Xemnu the Titan, also known as Xemnu the Hulk, is a fictional character in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Xemnu the Titan",
   "partners": [
@@ -25,7 +25,6 @@
     "Stamina",
     "Durability",
     "Gifted intellect",
-    "Advanced knowledge of genetics",
     "Self-recreation",
     "Psionic powers"
   ],

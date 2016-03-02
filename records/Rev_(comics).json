@@ -13,7 +13,7 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RevPunisher.jpg/250px-RevPunisher.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Rev",
@@ -21,7 +21,6 @@
     "Jigsaw"
   ],
   "powers": [
-    "Capable of healing injuries",
     "Resurrecting the dead",
     "Healing powers"
   ],

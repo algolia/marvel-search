@@ -3,8 +3,7 @@
     "Steve Rogers",
     "Nomad",
     "The Captain",
-    "Captain America",
-    "Related topics"
+    "Captain America"
   ],
   "authors": [
     "Joe Simon",
@@ -17,7 +16,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
@@ -43,13 +42,9 @@
     "Tactician",
     "Marksman",
     "Excellent field commander",
-    "Olympic-level athleticism with peak human cognition",
     "Physical condition",
-    "Wields vibranium-steel alloy shield",
-    "Enhanced physical condition",
     "Hand-to-hand combatant",
     "Wields",
-    "Vibranium-steel alloy shield",
     "Master tactician",
     "Field commander"
   ],
@@ -62,7 +57,8 @@
     "storyCount": 2326
   },
   "secretIdentities": [
-    "Steven \"Steve\" Rogers",
+    "Steven Rogers",
+    "Steve",
     "Steve Rogers"
   ],
   "species": [
@@ -75,10 +71,9 @@
     "Invaders",
     "Landau, Luckman, and Lake",
     "New Avengers",
-    "Project: Rebirth",
+    "Rebirth",
     "Redeemers",
-    "S.H.I.E.L.D.",
-    "\"Secret Avengers\"",
+    "S.H.I.E.L.D",
     "Secret Avengers",
     "Secret Defenders",
     "U.S. Army"

@@ -14,19 +14,16 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/528d33efe2cae/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Lizard",
   "partners": [
   ],
   "powers": [
-    "Telepathic control over reptiles",
-    "6",
     "Genius-level intellect",
     "Razor-sharp teeth",
     "Claws",
-    "Regenerative healing factor",
     "Hardened scale-like skin",
     "Superhuman strength",
     "Speed",
@@ -35,11 +32,8 @@
     "Stamina",
     "Durability",
     "Leaping ability",
-    "Ferocious hand-to-hand combatant",
-    "Ferocious hand to hand combatant",
     "Razor-sharp claws",
-    "Teeth",
-    "6-foot-long tail capable of shattering concrete"
+    "Teeth"
   ],
   "ranking": {
     "comicCount": 54,
@@ -50,7 +44,8 @@
     "storyCount": 62
   },
   "secretIdentities": [
-    "Curtis \"Curt\" Connors"
+    "Curtis Connors",
+    "Curt"
   ],
   "species": [
   ],

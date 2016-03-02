@@ -9,8 +9,8 @@
   "description": "Living Diamond is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Living Diamond",
   "partners": [
@@ -19,10 +19,7 @@
     "Perspicuity",
     "Telepathy",
     "Diamond form",
-    "Teleportation",
-    "Perspicuity (resistance to psychic attack)",
-    "Diamond form (in normal form it only extended to the hands)",
-    "Teleportation (perhaps lost)"
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 0,

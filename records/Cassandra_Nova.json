@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c003d0f3c80c/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Cassandra Nova",
   "partners": [
@@ -26,9 +26,7 @@
     "Shapeshifting",
     "Telepathy",
     "Dna duplication",
-    "Accelerated healing factor",
     "Intangibility",
-    "Spontaneous cell regeneration",
     "Cosmic fire",
     "Infernal control",
     "Immunity to magic",

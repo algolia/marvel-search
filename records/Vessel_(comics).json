@@ -12,19 +12,16 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/25/Vessel2.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Vessel",
   "partners": [
   ],
   "powers": [
-    "Capable of absorbing the physical",
-    "Psychic residue from the deceased to increase his size",
     "Strength",
     "Durability",
     "Resistance to injury",
-    "Healing ability to superhuman proportions",
     "Healing ability to",
     "Superhuman",
     "Proportions"

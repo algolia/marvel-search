@@ -16,8 +16,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c0035beb0c55/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Squirrel Girl",
   "partners": [
@@ -28,7 +28,6 @@
     "Superhuman agility",
     "Strength",
     "Razor sharp claws",
-    "Superb hand to hand combatant",
     "Prehensile tail",
     "Squirrel-like abilities",
     "Claw",
@@ -36,8 +35,7 @@
     "Vision",
     "Reflexes",
     "Senses",
-    "Razor-sharp claws",
-    "Retractable knuckle spikes"
+    "Razor-sharp claws"
   ],
   "ranking": {
     "comicCount": 11,

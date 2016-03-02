@@ -9,14 +9,13 @@
   "description": "Gamesmaster (Jeremy Stevens) is a fictional mutant character in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Gamesmaster",
   "partners": [
   ],
   "powers": [
-    "Omnipathic awareness places him in constant contact with every mind on the planet by way of the astral plane"
   ],
   "ranking": {
     "comicCount": 0,

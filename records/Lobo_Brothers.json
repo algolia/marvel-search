@@ -10,15 +10,14 @@
   "description": "The Lobo Brothers are two supervillains from Marvel Comics: Carlos and Eduardo.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Lobo Brothers",
   "partners": [
   ],
   "powers": [
-    "Lycanthropy",
-    "Lycanthropy (transform into werewolves during full moon)"
+    "Lycanthropy"
   ],
   "ranking": {
     "comicCount": 0,

@@ -15,18 +15,15 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Alphaflight27.jpg/250px-Alphaflight27.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shaman",
   "partners": [
   ],
   "powers": [
-    "Can summon anything needed from the bag",
-    "Carries a medicine bag which contains a pocket dimension",
     "Carries a",
-    "Medicine bag",
-    "Which contains a pocket dimension"
+    "Medicine bag"
   ],
   "ranking": {
     "comicCount": 47,

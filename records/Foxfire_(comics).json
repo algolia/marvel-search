@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Foxfire"
+    "Foxfire",
+    "actual identities the character uses"
   ],
   "authors": [
     "Mark Gruenwald"
@@ -8,8 +9,8 @@
   "description": "Foxfire is a fictional character from Marvel Comics' original Squadron Supreme series.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Foxfire",
   "partners": [

@@ -11,8 +11,8 @@
   "description": "Dr. Emil Burbank, also known as Master Menace, is a fictional Marvel Comics character.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Master Menace",
   "partners": [
@@ -42,7 +42,6 @@
   "teams": [
     "Squadron Supreme",
     "Redeemers",
-    "Squadron Supreme (Supreme Power)",
     "America Redeemers"
   ],
   "urls": {

@@ -18,7 +18,7 @@
   "images": {
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kismet",
   "partners": [
@@ -28,8 +28,7 @@
     "Flight",
     "Energy blasts",
     "Super-strength",
-    "Durability",
-    "Unaided survival in vacuum"
+    "Durability"
   ],
   "ranking": {
     "comicCount": 0,

@@ -17,8 +17,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Kid_Colt%2C_Outlaw1.jpg/200px-Kid_Colt%2C_Outlaw1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kid Colt",
   "partners": [
@@ -27,7 +27,6 @@
   ],
   "powers": [
     "Teleportation",
-    "Creation of sub-space pockets",
     "Shapeshifting"
   ],
   "ranking": {

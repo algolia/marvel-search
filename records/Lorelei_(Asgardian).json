@@ -3,8 +3,7 @@
     "Melodi",
     "Ice Queen",
     "Valkyrie",
-    "Lorelei",
-    "Lorelei (Asgardian)"
+    "Lorelei"
   ],
   "authors": [
     "Walt Simonson",
@@ -16,8 +15,8 @@
     "banner": "http://x.annihil.us/u/prod/marvel/i/mg/c/70/537bc86cd1ff0.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/535fed8a3a00f/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
@@ -35,9 +34,6 @@
     "Superhuman strength",
     "Durability",
     "Endurance",
-    "Immunity to all earth diseases",
-    "Powers via mystical abilities",
-    "Seduces virtually any male god or mortal to do whatever she wants",
     "Some knowledge of sorcery",
     "Mostly love charms",
     "Potions"

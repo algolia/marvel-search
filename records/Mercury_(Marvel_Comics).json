@@ -14,17 +14,15 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Mercuryprofile.jpg/250px-Mercuryprofile.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mercury",
   "partners": [
   ],
   "powers": [
-    "Body is composed of a non-toxic form of mercury",
     "Which she can reshape",
     "Stretch at will",
-    "Body is composed of a non-toxic form of",
     "Mercury"
   ],
   "ranking": {

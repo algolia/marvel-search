@@ -12,15 +12,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Cb67cvr.jpg/250px-Cb67cvr.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Harbinger of Apocalypse",
   "partners": [
   ],
   "powers": [
-    "Adaptive powers",
-    "Giving him new powers depending on circumstances."
+    "Adaptive powers"
   ],
   "ranking": {
     "comicCount": 0,

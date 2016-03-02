@@ -13,15 +13,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Stromm.jpg/249px-Stromm.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Dr. Mendel Stromm",
   "partners": [
   ],
   "powers": [
-    "Cybernetic implants that provide superhuman strength",
-    "Regenerative powers."
+    "Regenerative powers"
   ],
   "ranking": {
     "comicCount": 0,

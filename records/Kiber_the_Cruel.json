@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Kiber the Cruel"
+    "Kiber the Cruel",
+    "actual identities the character uses"
   ],
   "authors": [
     "Jack Kirby"
@@ -8,14 +9,13 @@
   "description": "Kiber the Cruel is a fictional supervillain published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kiber the Cruel",
   "partners": [
   ],
   "powers": [
-    "Able to consume psionic consciousness/life-energy"
   ],
   "ranking": {
     "comicCount": 0,

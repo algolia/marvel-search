@@ -14,14 +14,13 @@
   "description": "The Clown is the name of two fictional characters in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Clown",
   "partners": [
   ],
   "powers": [
-    "Use of clown paraphernalia",
     "Sharp claws",
     "Talons"
   ],

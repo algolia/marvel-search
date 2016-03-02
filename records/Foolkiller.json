@@ -17,14 +17,14 @@
   "description": "The Foolkiller is a fictional character appearing in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Foolkiller",
   "partners": [
   ],
   "powers": [
-    "Wields \"purification gun\" capable of firing a disintegrating ray"
+    "Purification gun"
   ],
   "ranking": {
     "comicCount": 0,

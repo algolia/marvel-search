@@ -12,7 +12,7 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/eb/BVonBlitzschlag.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Baron Von Blitzschlag",
@@ -39,7 +39,7 @@
   "teams": [
     "Nazi Party",
     "Features of the Marvel Universe",
-    "Avengers: The Initiative"
+    "The Initiative"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Baron_Von_Blitzschlag"

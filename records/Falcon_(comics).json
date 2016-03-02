@@ -1,6 +1,6 @@
 {
   "aliases": [
-    "\"Snap\" Wilson",
+    "Snap\" Wilson",
     "Blackwing",
     "Blackbird",
     "Captain America",
@@ -16,8 +16,8 @@
     "banner": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/537baa87dbe40.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/5111505fb7009/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 9,
     "green": 36,
@@ -35,9 +35,7 @@
     "Excellent bird trainer",
     "Flight via wing harness",
     "Skilled martial artist",
-    "Gymnast",
-    "Empathic link with pet falcon",
-    "Limited control over birds"
+    "Gymnast"
   ],
   "ranking": {
     "comicCount": 117,
@@ -48,7 +46,8 @@
     "storyCount": 116
   },
   "secretIdentities": [
-    "Samuel Thomas \"Sam\" Wilson"
+    "Samuel Thomas Wilson",
+    "Sam"
   ],
   "species": [
   ],
@@ -56,11 +55,11 @@
     "All-New Invaders",
     "Uncanny Avengers",
     "The Mighty Avengers",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Heroes for Hire",
     "Avengers",
     "Defenders",
-    "\"Defenders for a Day\"",
+    "Defenders for a Day",
     "Mighty Avengers",
     "Avengers Unity Squad"
   ],

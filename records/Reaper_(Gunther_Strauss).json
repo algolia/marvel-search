@@ -1,8 +1,7 @@
 {
   "aliases": [
     "The Man the Law Could Not Touch",
-    "Reaper",
-    "Reaper (Gunther Strauss)"
+    "Reaper"
   ],
   "authors": [
     "Stan Lee",
@@ -14,14 +13,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f6/Reaper_%28World_War_II_Captain_America_foe%29.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Reaper",
   "partners": [
   ],
   "powers": [
-    "None"
   ],
   "ranking": {
     "comicCount": 10,

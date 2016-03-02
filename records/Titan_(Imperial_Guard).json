@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Onslaught",
-    "Titan",
-    "Titan (Imperial Guard)"
+    "Titan"
   ],
   "authors": [
     "Chris Claremont",
@@ -13,8 +12,8 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Onslaught (Ultimate)",
   "partners": [

@@ -9,17 +9,15 @@
   "description": "Scaleface is a fictional character in the Marvel Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Scaleface",
   "partners": [
   ],
   "powers": [
-    "Can transform into a large",
     "Sentient",
-    "Lizard-like creature",
-    "Dragon-like reptilian creature."
+    "Lizard-like creature"
   ],
   "ranking": {
     "comicCount": 0,

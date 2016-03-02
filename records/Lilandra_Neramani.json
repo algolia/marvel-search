@@ -1,7 +1,8 @@
 {
   "aliases": [
     "Princess-Majestrix Lilandra Neramani",
-    "Lilandra Neramani"
+    "Lilandra Neramani",
+    "actual identities the character uses"
   ],
   "authors": [
     "Chris Claremont",
@@ -11,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Xmen122.png/250px-Xmen122.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Princess-Majestrix Lilandra Neramani",
   "partners": [

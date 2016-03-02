@@ -2,8 +2,8 @@
   "aliases": [
     "Hobgoblin",
     "Jack O'Lantern",
-    "Jason Macendale",
-    "Jr."
+    "Jason Macendale, Jr.",
+    "Jason Macendale"
   ],
   "authors": [
     "Steve Ditko",
@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Webofspiderman93panel.jpg/250px-Webofspiderman93panel.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hobgoblin (Jason Macendale)",
   "partners": [
@@ -24,25 +24,17 @@
     "Gaunt"
   ],
   "powers": [
-    "Superhuman physical abilities due to kraven's formula",
     "Cybernetic implants",
     "Various weapons",
     "Goblin paraphernalia",
-    "Including cybernetically-controlled \"goblin glider\"",
-    "Highly trained armed/unarmed combatant",
-    "Expertise in mechanical engineering",
     "Physics",
-    "Highly trained hand to hand combatant",
     "Martial artist",
     "Spy",
-    "Expert mechanical engineer",
     "Physicists",
-    "Superhuman physical abilities due to",
     "Kraven",
     "'s formula and",
     "Cybernetic",
     "Implants",
-    "Use of various goblin-themed weapons",
     "Paraphernalia",
     "Superhuman strength",
     "Speed",
@@ -58,6 +50,7 @@
     "storyCount": 0
   },
   "secretIdentities": [
+    "Jason Philip Macendale, Jr.",
     "Jason Philip Macendale",
     "Jr."
   ],

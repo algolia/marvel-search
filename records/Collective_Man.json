@@ -10,16 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Collective_Man.jpg/250px-Collective_Man.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Collective Man",
   "partners": [
   ],
   "powers": [
-    "While in a collective state",
-    "Teleport to each other via psychic/spiritual-link.",
-    "Mental ability of a single tao-yu brother"
   ],
   "ranking": {
     "comicCount": 0,
@@ -33,22 +30,18 @@
     "Sun",
     "Chang",
     "Ho",
-    "Lin,",
-    "Han Tao-Yu",
     "Lin",
+    "Han Tao-Yu",
     "and Han Tao-Yu"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "3",
     "Marvel Super Hero Contest of Champions",
     "Mutant Liberation Front",
-    "X-Men: The 198",
-    "People's Defense Force (China)",
-    "People's Defense Force",
     "The 198",
+    "People's Defense Force",
     "3-Peace",
     "Death's Champions"
   ],

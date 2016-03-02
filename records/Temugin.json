@@ -14,14 +14,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b1/Temujin.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Temujin",
   "partners": [
   ],
   "powers": [
-    "Enhanced resistance to injury",
     "Superhuman strength",
     "Speed",
     "Reflexes"

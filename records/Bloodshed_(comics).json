@@ -9,8 +9,8 @@
   "description": "Bloodshed (real name Wyndell Dichinson) is a fictional comic-book supervillain in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bloodshed",
   "partners": [
@@ -18,9 +18,7 @@
   "powers": [
     "Superhuman strength",
     "Durability",
-    "Trained mercenary",
-    "Skilled hand to hand combatant",
-    "Retractable bladed weapons"
+    "Trained mercenary"
   ],
   "ranking": {
     "comicCount": 0,

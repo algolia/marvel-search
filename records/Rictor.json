@@ -12,16 +12,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/527414130f76d/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Rictor",
   "partners": [
   ],
   "powers": [
-    "Capable of releasing seismic energy through his fingertips",
-    "Using it to create earthquakes",
-    "Shockwaves or otherwise transport earth matter."
   ],
   "ranking": {
     "comicCount": 89,
@@ -32,13 +29,14 @@
     "storyCount": 96
   },
   "secretIdentities": [
-    "Julio Esteban \"Ric\" Richter"
+    "Julio Esteban Richter",
+    "Ric"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "Weapon P.R.I.M.E.",
+    "Weapon P.R.I.M.E",
     "X-Factor Investigations",
     "X-Factor",
     "X-Force",

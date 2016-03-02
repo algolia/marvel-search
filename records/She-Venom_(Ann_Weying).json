@@ -1,6 +1,6 @@
 {
   "aliases": [
-    "She-Venom (Ann Weying)",
+    "She-Venom",
     "Spider-Man",
     "The Black Suit",
     "Alien Costume"
@@ -14,22 +14,18 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Venom-artmm.jpg/250px-Venom-artmm.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
-  "name": "She-Venom (Ann Weying)",
+  "name": "She-Venom",
   "partners": [
   ],
   "powers": [
-    "Grants the host all the powers of its first known host",
     "Limited",
     "Shapeshifting",
     "Invisibility",
     "Through",
-    "Camouflage",
-    "Ability of the symbiote to fight",
-    "Defend itself when either the host or it is in danger",
-    "Undetectable by spider-man's \"spider-sense\""
+    "Camouflage"
   ],
   "ranking": {
     "comicCount": 0,

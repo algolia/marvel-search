@@ -17,17 +17,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c0038c9c6580/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Iron Lad",
   "partners": [
   ],
   "powers": [
     "Genius-level intellect",
-    "Slowed aging through time travel",
-    "Skilled armed/unarmed combatant",
-    "Access to advanced technology",
     "Master tactician",
     "Strategist",
     "Expert historical scholar",
@@ -37,15 +34,14 @@
     "Hand to hand combatant",
     "Tactician",
     "Resistance to radiation",
-    "Access to advanced technology via \"time-ship\"",
-    "Slowed aging via time travel",
     "Enhanced strength",
     "Energy",
     "Hologram",
     "Force-field projection",
     "30 day supply of air",
     "Food",
-    "Use of \"ultra-diode\" ray-gun"
+    "Use of ray-gun",
+    "Ultra-diode"
   ],
   "ranking": {
     "comicCount": 7,

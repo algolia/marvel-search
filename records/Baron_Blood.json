@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "John Falsworth",
-    "Jr.",
+    "John Falsworth, Jr.",
     "Dr. Jacob Cromwell",
     "Baron Blood"
   ],
@@ -16,8 +15,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Invaders-7.jpg/250px-Invaders-7.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Baron Blood",
   "partners": [

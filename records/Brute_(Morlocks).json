@@ -1,6 +1,6 @@
 {
   "aliases": [
-    "Brute (Morlocks)"
+    "Brute"
   ],
   "authors": [
     "Chris Claremont",
@@ -11,8 +11,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/7c/Callistox.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Brute",
   "partners": [

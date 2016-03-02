@@ -12,16 +12,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/535ff2b245409/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hardball",
   "partners": [
   ],
   "powers": [
-    "Normally originating from his hand",
-    "Including \"hard energy\"",
-    "Electro-magnetic energy."
+    "Including \"hard energy",
+    "Electro-magnetic energy"
   ],
   "ranking": {
     "comicCount": 10,
@@ -39,9 +38,8 @@
   ],
   "teams": [
     "Heavy Hitters",
-    "Avengers: The Initiative",
-    "Hydra",
-    "The Initiative"
+    "The Initiative",
+    "Hydra"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/901/hardball",

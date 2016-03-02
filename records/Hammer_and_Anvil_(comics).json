@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Hammer and Anvil"
+    "Hammer",
+    "Anvil"
   ],
   "authors": [
     "Herb Trimpe",
@@ -9,7 +10,7 @@
   "description": "Hammer and Anvil are fictional characters, supervillains published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Hammer and Anvil",

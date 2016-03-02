@@ -9,8 +9,8 @@
   "description": "The Tri-Sentinel is a fictional robot who has appeared in the superhero comics of Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tri-Sentinel",
   "partners": [

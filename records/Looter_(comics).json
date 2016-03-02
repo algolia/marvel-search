@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Looter.jpg/250px-Looter.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Looter",
   "partners": [
@@ -22,8 +22,7 @@
     "Agility",
     "Use of gadgets",
     "Weapons",
-    "High degree of durability",
-    "Extraordinary leaping ability"
+    "High degree of durability"
   ],
   "ranking": {
     "comicCount": 0,

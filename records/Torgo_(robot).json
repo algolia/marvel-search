@@ -1,9 +1,8 @@
 {
   "aliases": [
     "The Ultimate Weapon",
-    "\"Robot Man\"",
-    "Torgo",
-    "Torgo (robot)"
+    "Robot Man",
+    "Torgo"
   ],
   "authors": [
     "Jack Kirby",
@@ -12,8 +11,8 @@
   "description": "Torgo is a fictional character, an alien robot appearing in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Torgo",
   "partners": [
@@ -36,7 +35,7 @@
     "Robot"
   ],
   "teams": [
-    "\"Horror-Hunters\""
+    "Horror-Hunters"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Torgo_(robot)"

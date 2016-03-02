@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Destiny",
-    "Destiny (Irene Adler)"
+    "Destiny"
   ],
   "authors": [
     "Chris Claremont",
@@ -13,8 +12,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Destiny1.jpg/150px-Destiny1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Destiny",
   "partners": [
@@ -38,7 +37,7 @@
   ],
   "teams": [
     "Brotherhood of Mutants",
-    "Project: Black Womb",
+    "Black Womb",
     "Freedom Force",
     "Hydra"
   ],

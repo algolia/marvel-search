@@ -1,6 +1,6 @@
 {
   "aliases": [
-    "\"El Professor\"",
+    "El Professor",
     "Crusher II",
     "Crusher I",
     "Crusher III",
@@ -16,8 +16,8 @@
   "description": "Crusher is the name of three Marvel Comics supervillains.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Crusher",
   "partners": [

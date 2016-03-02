@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Steel Wind"
+    "Steel Wind",
+    "actual identities the character uses"
   ],
   "authors": [
     "J. M. DeMatteis",
@@ -10,18 +11,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Steel_Wind.jpg/300px-Steel_Wind.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Steel Wind",
   "partners": [
   ],
   "powers": [
-    "A cyborg",
-    "Steel wind has been rebuilt many times",
-    "Much of her body is currently cybernetic",
-    "Granting her superhuman strength",
-    "Durability. her ultra-light metal components are bulletproof."
+    "A cyborg"
   ],
   "ranking": {
     "comicCount": 0,

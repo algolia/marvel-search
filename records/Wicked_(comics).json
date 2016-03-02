@@ -9,14 +9,13 @@
   "description": "Wicked is a fictional character created by Chris Claremont for Marvel Comics second installment of the series Excalibur.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Wicked",
   "partners": [
   ],
   "powers": [
-    "Possesses an empathic link with ghosts"
   ],
   "ranking": {
     "comicCount": 0,

@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/4c0030dc410d6/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Grandmaster",
   "partners": [
@@ -28,7 +28,7 @@
     "Matter manipulation",
     "Master strategist",
     "Tactician",
-    "User of the",
+    "Will",
     "Power primordial"
   ],
   "ranking": {

@@ -10,15 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/86/Trance.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Trance",
   "partners": [
   ],
   "powers": [
-    "Energetic astral-projective form",
-    "Astral self can travel over far distances",
     "Avoid physical injury"
   ],
   "ranking": {

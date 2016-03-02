@@ -10,15 +10,14 @@
   "description": "Big Man is the name of different characters in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Janice Foswell",
   "partners": [
   ],
   "powers": [
-    "She was adept at disguise",
-    "An excellent marksman with handguns."
+    "She was adept at disguise"
   ],
   "ranking": {
     "comicCount": 0,

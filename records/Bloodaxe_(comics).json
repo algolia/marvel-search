@@ -13,29 +13,22 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Bloodaxe.jpg/250px-Bloodaxe.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bloodaxe",
   "partners": [
   ],
   "powers": [
     "Wields enchanted",
-    "Virtually indestructible axe that can cut through nearly anything",
-    "Project fire or ice energy",
-    "Bolts of asgardian mystical force",
     "Hurricane winds",
     "Deflect bullets",
     "Create dimensional rifts",
-    "Teleport to previous places",
     "Superhuman strength",
     "Speed",
     "Durability",
     "Reflexes",
-    "Endurance",
-    "Invulnerability to conventional firearms",
-    "Incendiary or ballistic devices",
-    "Virtually indestructible axe"
+    "Endurance"
   ],
   "ranking": {
     "comicCount": 5,

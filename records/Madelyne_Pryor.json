@@ -5,9 +5,8 @@
     "Black Rook",
     "Red Queen",
     "Anodyne",
-    "Goblin Queen,",
-    "Madelyne Pryor",
-    "Goblin Queen"
+    "Goblin Queen",
+    "Madelyne Pryor"
   ],
   "authors": [
     "Paul Smith",
@@ -19,8 +18,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/528d33ddaef70/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Madelyne Pryor",
   "partners": [
@@ -44,7 +43,8 @@
     "storyCount": 3
   },
   "secretIdentities": [
-    "Madelyne \"Maddie\" Jennifer Pryor-Summers"
+    "Madelyne Jennifer Pryor-Summers",
+    "Maddie"
   ],
   "species": [
     "Mutant",

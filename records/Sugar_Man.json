@@ -12,15 +12,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/527413a2480b5/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sugar Man",
   "partners": [
   ],
   "powers": [
     "Enhanced sense of smell",
-    "Indefinitely long bio-electric razor sharp tongue",
     "Expert biologist",
     "Genetics",
     "Size",
@@ -29,8 +28,7 @@
     "Razor sharp claws",
     "Teeth",
     "Geneticist",
-    "Indefinitely long",
-    "Bio-electric razor sharp tongue"
+    "Indefinitely long"
   ],
   "ranking": {
     "comicCount": 3,

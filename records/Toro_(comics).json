@@ -13,12 +13,11 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4e7a2165364ca/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Toro (Thomas Raymond)",
   "partners": [
-    "Human Torch (android)",
     "Human Torch"
   ],
   "powers": [

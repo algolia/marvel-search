@@ -4,7 +4,6 @@
     "Maverick",
     "Agent Zero",
     "David North",
-    "Maverick,",
     "David North, Maverick"
   ],
   "authors": [
@@ -16,19 +15,17 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c0042121d790/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Agent Zero",
   "partners": [
   ],
   "powers": [
     "Depowered",
-    "Accelerated healing factor",
     "Kinetic blasts",
     "Inodorosity",
-    "Kinetic absorption",
-    "Anti-healing factor corrosive"
+    "Kinetic absorption"
   ],
   "ranking": {
     "comicCount": 20,
@@ -39,7 +36,8 @@
     "storyCount": 20
   },
   "secretIdentities": [
-    "Christoph \"Christopher\" Nord"
+    "Christoph Nord",
+    "Christopher"
   ],
   "species": [
     "Mutant"

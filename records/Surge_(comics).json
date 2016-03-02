@@ -14,7 +14,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4c0038d51109f/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Surge",
   "partners": [
@@ -33,7 +33,8 @@
     "storyCount": 5
   },
   "secretIdentities": [
-    "Noriko \"Nori\" Ashida"
+    "Noriko Ashida",
+    "Nori"
   ],
   "species": [
     "Mutant"

@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Thunderstrike",
-    "Thunderstrike (Kevin Masterson)"
+    "Thunderstrike"
   ],
   "authors": [
     "Tom DeFalco",
@@ -11,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/ThunderstrikeHA.jpg/250px-ThunderstrikeHA.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Thunderstrike",
   "partners": [
@@ -38,7 +37,7 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Kevin \"The\" Masterson"
+    "Kevin Masterson"
   ],
   "species": [
   ],

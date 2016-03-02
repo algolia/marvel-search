@@ -15,8 +15,8 @@
     "banner": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/537bb5ee79404.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/511151789a863/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -33,9 +33,6 @@
     "Superb detective",
     "Superhuman strength",
     "Technopathy",
-    "Weapons in right bionic arm",
-    "Proficient hand-to-hand combatant",
-    "Highly skilled martial artist",
     "Near-perfect aim",
     "Near perfect aim",
     "Magnetism",
@@ -50,7 +47,8 @@
     "storyCount": 28
   },
   "secretIdentities": [
-    "Mercedes \"Misty\" Knight"
+    "Mercedes Knight",
+    "Misty"
   ],
   "species": [
   ],

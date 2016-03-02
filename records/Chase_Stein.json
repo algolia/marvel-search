@@ -16,8 +16,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4ce5a2e831d0c/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Chase Stein",
   "partners": [
@@ -25,12 +25,9 @@
   "powers": [
     "Skilled pilot",
     "Mechanic",
-    "Energy-conjuring gauntlets",
     "Boots",
-    "Telepathic link to a genetically-engineered deinonychus",
     "Skilled",
     "Pilot",
-    "Telepathic link to a genetically-engineered",
     "Deinonychus"
   ],
   "ranking": {

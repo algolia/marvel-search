@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Madcap_Roland_Boschi.jpg/250px-Madcap_Roland_Boschi.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Madcap",
   "partners": [
@@ -20,7 +20,6 @@
   "powers": [
     "Immortality",
     "Insanity inducement",
-    "Accelerated healing factor",
     "Healing factor"
   ],
   "ranking": {

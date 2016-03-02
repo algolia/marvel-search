@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Blue Marvel"
+    "Blue Marvel",
+    "actual identities the character uses"
   ],
   "authors": [
     "Kevin Grevioux"
@@ -12,7 +13,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg/250px-Blue_Marvel_vs_King_Hyperion_drawn_by_M.C._Wyman_-_Age_of_Heroes_-3.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Blue Marvel",
   "partners": [
@@ -21,7 +22,6 @@
     "Nigh-invulnerability",
     "Durability",
     "Flight",
-    "Regenerative healing factor",
     "Vast superhuman strength",
     "Light creation",
     "Energy generation",
@@ -30,7 +30,6 @@
     "Reflexes",
     "Senses",
     "Antimatter manipulation",
-    "Enhanced mental perception",
     "Genius engineer",
     "Physicists",
     "Physicist",

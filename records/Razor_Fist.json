@@ -10,17 +10,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Razor_fist.jpg/250px-Razor_fist.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Razor Fist",
   "partners": [
   ],
   "powers": [
-    "Hands replaced by steel blades",
-    "Extensively trained hand to hand combatants",
-    "Martial artists",
-    "Peak-level physical attributes"
+    "Martial artists"
   ],
   "ranking": {
     "comicCount": 0,

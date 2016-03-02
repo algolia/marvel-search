@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4c7c6465c79c5/standard_xlarge.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Lockheed",
   "partners": [
@@ -38,8 +38,9 @@
     "Dragon"
   ],
   "teams": [
-    "Lockjaw and the Pet Avengers",
-    "S.W.O.R.D.",
+    "Lockjaw",
+    "the Pet Avengers",
+    "S.W.O.R.D",
     "X-Men",
     "Excalibur",
     "The Flock",

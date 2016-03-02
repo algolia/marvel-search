@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thorvs.Surtur.jpg/249px-Thorvs.Surtur.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Surtur",
   "partners": [
@@ -35,12 +35,10 @@
     "Molecular manipulation",
     "Intense heat",
     "Flame",
-    "Concussive force generation",
     "Endurance",
     "Longevity",
     "Fire",
     "Heat manipulation",
-    "Dimensional transportation",
     "Magic"
   ],
   "ranking": {

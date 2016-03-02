@@ -9,7 +9,6 @@
     "Red Hulk:Jeph Loeb",
     "Jack Kirby",
     "Stan Lee",
-    "Thunderbolt Ross:",
     "Ed McGuinness",
     "Jeph Loeb",
     "Ed McGuiness"
@@ -20,7 +19,7 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/5102cb7fc1262/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": {
     "blue": 6,
@@ -36,14 +35,10 @@
     "Superhuman strength",
     "Stamina",
     "Durability",
-    "Access to advanced technology",
     "Weapons",
     "Healing factor",
     "Heat generation",
-    "Expert military strategist",
-    "Commanding officer with access to many soldiers",
-    "Armies",
-    "Immense superhuman strength"
+    "Armies"
   ],
   "ranking": {
     "comicCount": 55,
@@ -54,7 +49,8 @@
     "storyCount": 64
   },
   "secretIdentities": [
-    "Thaddeus E. \"Thunderbolt\" Ross"
+    "Thaddeus E. Ross",
+    "Thunderbolt"
   ],
   "species": [
   ],

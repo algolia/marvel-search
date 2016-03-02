@@ -14,15 +14,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/528d33a253447/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Namorita",
   "partners": [
   ],
   "powers": [
     "Can become transparent",
-    "Touch can create burning acid or paralytic toxin",
     "Aquatic adaptation",
     "Super strength",
     "High speed swimming",
@@ -43,7 +42,8 @@
     "storyCount": 29
   },
   "secretIdentities": [
-    "Namorita \"Nita\" Prentiss"
+    "Namorita Prentiss",
+    "Nita"
   ],
   "species": [
     "Atlantean",
@@ -57,8 +57,7 @@
     "Water Children",
     "Atlantean Council of Three",
     "New Warriors",
-    "Secret Defenders",
-    "Atlantean '''Council of Three"
+    "Secret Defenders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1562/namorita",

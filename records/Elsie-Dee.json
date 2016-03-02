@@ -3,7 +3,6 @@
     "Elsie-Dee"
   ],
   "authors": [
-    "Larry Hama ,Marc Silvestri",
     "Larry Hama",
     "Marc Silvestri"
   ],
@@ -11,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Albert_and_elsie.jpg/200px-Albert_and_elsie.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Elsie-Dee",
   "partners": [

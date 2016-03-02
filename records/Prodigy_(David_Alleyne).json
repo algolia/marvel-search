@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Prodigy",
-    "Prodigy (David Alleyne)"
+    "Prodigy"
   ],
   "authors": [
     "Christina Weir",
@@ -14,17 +13,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/535feca6710cd/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Prodigy",
   "partners": [
   ],
   "powers": [
     "High-level intellect",
-    "Possesses the combined knowledge of every mind he has encountered up to m-day",
     "Including the x-men",
-    "Possesses the combined knowledge of every mind he has encountered up to",
     "M-day"
   ],
   "ranking": {

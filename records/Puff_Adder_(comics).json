@@ -12,20 +12,20 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c0035b602a0a/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Puff Adder",
   "partners": [
   ],
   "powers": [
     "Superhuman strength",
-    "Or \"puff up,\" body",
-    "Experienced aircraft pilot",
+    "Or \"puff up",
+    "Body",
     "Street fighter",
-    "Slight superhuman strength",
     "Stamina",
-    "Noxious gas projection via costume's cowl"
+    "Or body",
+    "Puff up"
   ],
   "ranking": {
     "comicCount": 0,
@@ -36,7 +36,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Gordon \"Gordo\" Fraley"
+    "Gordon Fraley",
+    "Gordo"
   ],
   "species": [
     "Mutant"

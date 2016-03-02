@@ -10,16 +10,14 @@
   "images": {
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Korvus",
   "partners": [
   ],
   "powers": [
-    "As wielder of the phoenix blade:",
     "Flight",
-    "Energy blasts",
-    "Shi'ar superhuman attributes."
+    "Energy blasts"
   ],
   "ranking": {
     "comicCount": 0,

@@ -3,7 +3,7 @@
     "Hobgoblin/Jason Philip Macendale Jr.",
     "Demogoblin",
     "Hobgoblin",
-    "/Jason Philip Macendale Jr. (original host form)"
+    "Jason Philip Macendale Jr. (original host form)"
   ],
   "authors": [
     "Gerry Conway",
@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/535fedd611db9/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Demogoblin",
   "partners": [
@@ -35,7 +35,6 @@
     "Magical glider",
     "Weaponry",
     "Skills",
-    "Memories retained from original host",
     "Hellfire projection",
     "Use of magical glider"
   ],
@@ -53,7 +52,7 @@
   ],
   "teams": [
     "Carnage Family/Maximum Carnage",
-    "Carnage Family/",
+    "Carnage Family",
     "Maximum Carnage"
   ],
   "urls": {

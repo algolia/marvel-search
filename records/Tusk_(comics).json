@@ -12,14 +12,13 @@
     "background": null,
     "banner": null
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tusk",
   "partners": [
   ],
   "powers": [
-    "Generation of miniature genetic duplicates",
     "Superhuman strength"
   ],
   "ranking": {

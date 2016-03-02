@@ -11,8 +11,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Cyttorak.jpg/250px-Cyttorak.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Cyttorak",
   "partners": [
@@ -20,7 +20,6 @@
     "Octessence"
   ],
   "powers": [
-    "Nearly unlimited mystical abilities."
   ],
   "ranking": {
     "comicCount": 0,

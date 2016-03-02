@@ -11,8 +11,8 @@
   "description": "Cutthroat (Daniel \"Danny\" Leighton) is a comic book character, a supervillain in Marvel Comics' main shared universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Cutthroat",
   "partners": [
@@ -29,7 +29,7 @@
   },
   "secretIdentities": [
     "Daniel Leighton",
-    "Daniel \"Danny\" Leighton"
+    "Danny"
   ],
   "species": [
   ],

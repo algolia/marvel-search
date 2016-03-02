@@ -4,7 +4,6 @@
     "Josiah X",
     "Justice",
     "A-39",
-    "Josiah Smith,",
     "Josiah Smith"
   ],
   "authors": [
@@ -17,21 +16,20 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Josiahx.png/250px-Josiahx.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Josiah X",
   "partners": [
   ],
   "powers": [
-    "Artificially enhanced physiology at the absolute peak of human strength",
     "Speed",
     "Agility",
     "Dexterity",
     "Reflexes/reactions",
     "Coordination",
     "Balance",
-    "Endurance."
+    "Endurance"
   ],
   "ranking": {
     "comicCount": 2,

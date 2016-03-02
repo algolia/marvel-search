@@ -16,20 +16,17 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4ce5a043191dc/standard_xlarge.jpg"
   },
   "isHero": false,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Man-Thing",
   "partners": [
     "Howard the Duck"
   ],
   "powers": [
-    "Speaks the universal language",
     "A counter agent",
     "Superhuman strength",
     "Durability",
-    "Empathic senses",
-    "Teleport himself or others through 'the nexus of all realities'",
-    "Speak the universal language"
+    "Empathic senses"
   ],
   "ranking": {
     "comicCount": 57,
@@ -40,8 +37,9 @@
     "storyCount": 74
   },
   "secretIdentities": [
-    "Theodore \"Ted\" Sallis",
-    "Dr. Theodore \"Ted\" Sallis"
+    "Theodore Sallis",
+    "Ted",
+    "Dr. Theodore Sallis"
   ],
   "species": [
   ],

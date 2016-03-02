@@ -13,14 +13,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c1/BedlamXForce.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bedlam",
   "partners": [
   ],
   "powers": [
-    "Perceive existing energy fields"
   ],
   "ranking": {
     "comicCount": 8,
@@ -38,7 +37,7 @@
   ],
   "teams": [
     "Hellions",
-    "M.U.S.E.",
+    "M.U.S.E",
     "X-Force"
   ],
   "urls": {

@@ -1,7 +1,7 @@
 {
   "aliases": [
     "He Who Dwells in Darkness",
-    "Dweller+in+Darkness",
+    "Dweller in Darkness",
     "Dweller-in-Darkness"
   ],
   "authors": [
@@ -14,7 +14,7 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/12/Dwellerdarkness.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Dweller-in-Darkness",
@@ -23,7 +23,7 @@
   "powers": [
     "Fear generation",
     "Immortality",
-    "Superhuman strength."
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,

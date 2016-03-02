@@ -12,18 +12,17 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4c7c6433e79f5/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Humbug",
   "partners": [
   ],
   "powers": [
-    "Formerly used audio tapes to communicate with insects",
     "Superhuman strength",
     "Speed",
     "Agility",
-    "Senses."
+    "Senses"
   ],
   "ranking": {
     "comicCount": 4,

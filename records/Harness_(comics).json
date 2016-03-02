@@ -10,16 +10,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/ff/Newmutantsann7.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Harness",
   "partners": [
   ],
   "powers": [
-    "Concentrated energy handcuffs links her to her victims",
-    "Restraining or paralysing them",
-    "Causing intense pain."
+    "Causing intense pain"
   ],
   "ranking": {
     "comicCount": 0,
@@ -38,7 +36,7 @@
   "teams": [
     "Alliance of Evil",
     "Advanced Idea Mechanics",
-    "A.I.M."
+    "A.I.M"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Harness_(comics)"

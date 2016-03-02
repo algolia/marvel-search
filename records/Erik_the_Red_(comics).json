@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Xmen97erikthesmall.jpg/250px-Xmen97erikthesmall.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Erik the Red",
   "partners": [
@@ -38,8 +38,8 @@
   },
   "secretIdentities": [
     "Scott Summers",
-    " Davan Shakari",
-    " Erik Magnus Lehnsherr",
+    "Davan Shakari",
+    "Erik Magnus Lehnsherr",
     "(I) Scott Summers",
     "(II) Davan Shakari",
     "(III) Erik Magnus Lehnsherr"

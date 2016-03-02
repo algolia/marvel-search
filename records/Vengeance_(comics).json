@@ -12,20 +12,18 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/528d3655b9f06/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Vengeance (Michael Badilino)",
   "partners": [
     "Ghost Rider",
     "Eddie Brock",
-    "Ghost Rider (Johnny Blaze)",
     "John Blaze"
   ],
   "powers": [
-    "\"penance stare\"",
+    "Penance stare",
     "Rides flaming motorcycle",
-    "Immune to most non magical attack",
     "Along any surface",
     "Invulnerability to heat",
     "Flame",

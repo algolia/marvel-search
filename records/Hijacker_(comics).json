@@ -10,8 +10,8 @@
   "description": "Hijacker is a fictional American comic book character owned by Marvel Comics who exists in that company's Marvel Universe.Hijacker was a gimmick-laden villain who specialized in stealing technology for later resale in criminal auctions.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hijacker",
   "partners": [

@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Union Jack",
-    "Union Jack (Joseph Chapman)"
+    "Union Jack"
   ],
   "authors": [
     "John Byrne",
@@ -14,21 +13,18 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/UNION_JACK_1.jpg/250px-UNION_JACK_1.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Union Jack (Brian Falsworth)",
   "partners": [
   ],
   "powers": [
-    "Mystically enhanced strength",
     "Speed",
     "Endurance",
     "Martial arts",
     "Hand-to-hand combatant",
-    "Highly skilled with a knife",
-    "Handgun.",
-    "Endurance;",
-    "Hand-to-hand combatant; highly skilled with a knife"
+    "Handgun",
+    "Endurance;"
   ],
   "ranking": {
     "comicCount": 3,
@@ -39,7 +35,8 @@
     "storyCount": 2
   },
   "secretIdentities": [
-    "Joseph \"Joe\" Chapman"
+    "Joseph Chapman",
+    "Joe"
   ],
   "species": [
   ],

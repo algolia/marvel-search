@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b0/Kristoff.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Kristoff Vernard",
   "partners": [
@@ -20,10 +20,8 @@
     "Energy projection",
     "Flight",
     "Skilled in science",
-    "Powered armor grants a certain degree of superhuman strength",
     "Durability",
-    "Powered armor",
-    "Grants a certain degree of superhuman strength"
+    "Powered armor"
   ],
   "ranking": {
     "comicCount": 0,

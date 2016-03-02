@@ -14,8 +14,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/2d/Andromeda616.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Andromeda",
   "partners": [

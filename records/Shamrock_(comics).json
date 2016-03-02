@@ -6,20 +6,19 @@
     "Mark Gruenwald",
     "Bill Mantlo",
     "Steven Grant",
-    "and John Romita, Jr.",
     "John Romita, Jr."
   ],
   "description": "Shamrock is a fictional comic book superheroine appearing in books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shamrock",
   "partners": [
   ],
   "powers": [
-    "Probability manipulation."
+    "Probability manipulation"
   ],
   "ranking": {
     "comicCount": 0,

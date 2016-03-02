@@ -13,16 +13,14 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/8b/TarotXM.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tarot",
   "partners": [
   ],
   "powers": [
-    "Materialize tangible representations of 2d images into 3d objects",
-    "Psychometric precognition.",
-    "Materialize tangible representations of 2d images into 3d objects; psychometric precognition."
+    "Psychometric precognition"
   ],
   "ranking": {
     "comicCount": 5,

@@ -11,15 +11,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1f/BladeVH4BibleJohn.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "John Carik",
   "partners": [
   ],
   "powers": [
-    "Precognition",
-    "Holy symbols in his flesh provide limited protection against the supernatural"
+    "Precognition"
   ],
   "ranking": {
     "comicCount": 0,

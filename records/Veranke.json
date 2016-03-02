@@ -1,10 +1,9 @@
 {
   "aliases": [
     "Skrull Queen",
-    "Spider-Woman ",
+    "Spider-Woman",
     "Sybil Dvorak",
-    "Veranke",
-    "Spider-Woman"
+    "Veranke"
   ],
   "authors": [
     "Jim Cheung",
@@ -12,26 +11,28 @@
   ],
   "description": "Veranke is a fictional character created by Marvel Comics who serves as the queen of the Skrull empire in the Marvel Universe.",
   "images": {
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Queenveranke.jpg/250px-Queenveranke.jpg"
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/531771afe4ffa/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
-  "name": "Veranke",
+  "name": "Spider-Woman (Charlotte Witter)",
   "partners": [
   ],
   "powers": [
     "Shapeshifting",
-    "Spider-woman (jessica drew)",
+    "Spider-woman",
     "Spider-woman's powers"
   ],
   "ranking": {
-    "comicCount": 0,
-    "eventCount": 0,
+    "comicCount": 9,
+    "eventCount": 1,
     "pageviewCount": 5831,
     "pageviewRank": -1,
-    "serieCount": 0,
-    "storyCount": 0
+    "serieCount": 6,
+    "storyCount": 9
   },
   "secretIdentities": [
     "Veranke"
@@ -44,12 +45,13 @@
     "Skrull",
     "Hydra",
     "The Mighty Avengers",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Skrull Empire",
     "Mighty Avengers",
     "New Avengers"
   ],
   "urls": {
+    "marvel": "http://marvel.com/characters/1010795/spider-woman_charlotte_witter/featured",
     "wikipedia": "https://en.wikipedia.org/wiki/Veranke"
   }
 }

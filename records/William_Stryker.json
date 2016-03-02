@@ -13,17 +13,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/4c003abcc72e7/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": false,
   "mainColor": null,
   "name": "William Stryker",
   "partners": [
   ],
   "powers": [
-    "Stryker possesses the arm  of the sentinel nimrod",
-    "William stryker possesses the forearm (hand to elbow) of the sentinel",
-    "Nimrod",
-    "."
+    "Nimrod"
   ],
   "ranking": {
     "comicCount": 3,
@@ -39,8 +36,8 @@
     "Human"
   ],
   "teams": [
-    "Stryker's Crusade and the Purifiers",
-    "Stryker's Crusade and the",
+    "Stryker's Crusade",
+    "the Purifiers",
     "Purifiers"
   ],
   "urls": {

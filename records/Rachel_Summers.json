@@ -5,7 +5,7 @@
     "Mother Askani",
     "Bright Lady",
     "Alyzr'n Summerset",
-    "\"Hound\"",
+    "Hound",
     "the Celestial Avatar",
     "the Cosmic Avatar",
     "R'Chell",
@@ -27,7 +27,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/52741143108e7/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Rachel Grey",
   "partners": [
@@ -36,7 +36,6 @@
     "Empathy",
     "Psychokinesis",
     "Phoenix force abilities",
-    "Temporal astral projection",
     "Telepathy",
     "Telekinesis",
     "Phoenix force",

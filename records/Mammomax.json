@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/XMEN_Mammomax.jpg/200px-XMEN_Mammomax.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mammomax",
   "partners": [
@@ -38,9 +38,8 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men: The 198",
-    "Brotherhood of Mutants",
-    "The 198"
+    "The 198",
+    "Brotherhood of Mutants"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mammomax"

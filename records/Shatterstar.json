@@ -14,7 +14,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4c003c21cd9e1/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shatterstar",
   "partners": [
@@ -23,13 +23,7 @@
     "Superhuman senses",
     "Physical abilities",
     "Accelerated healing",
-    "Enhanced cognition.",
-    "Can generate vibratory shockwaves",
-    "Create teleportation portals through his swords.",
-    "Superhuman physical attributes",
-    "Accelerated healing factor",
-    "Enhanced cognition",
-    "Create teleportation portals through his swords"
+    "Enhanced cognition"
   ],
   "ranking": {
     "comicCount": 96,
@@ -43,8 +37,8 @@
     "Gaveedra-Seven"
   ],
   "species": [
-    "Genetically engineered humanoid ",
-    " Human Mutant"
+    "Genetically engineered humanoid",
+    "Human Mutant"
   ],
   "teams": [
     "The Cadre Alliance",

@@ -14,14 +14,13 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/XMEN-Primal.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Primal",
   "partners": [
   ],
   "powers": [
-    "Hyperinstinct",
-    "Superhuman physical ability"
+    "Hyperinstinct"
   ],
   "ranking": {
     "comicCount": 0,

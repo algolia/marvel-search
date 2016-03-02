@@ -1,7 +1,9 @@
 {
   "aliases": [
-    "\"One Who Knows,\" \"Giver of Light\"",
-    "Starhawk"
+    "One Who Knows",
+    "Giver of Light",
+    "Starhawk",
+    "One Who Knows, Giver of Light"
   ],
   "authors": [
     "Steve Gerber",
@@ -13,8 +15,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Starhawk.jpg/250px-Starhawk.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Starhawk (Stakar Ogord)",
   "partners": [
@@ -42,7 +44,6 @@
   ],
   "teams": [
     "Avengers",
-    "Guardians of the Galaxy (1969 team)",
     "Guardians of the Galaxy"
   ],
   "urls": {

@@ -10,8 +10,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Thornn01.jpg/250px-Thornn01.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Thornn",
   "partners": [
@@ -23,13 +23,11 @@
     "Healing factor",
     "Sharp claws",
     "Fangs",
-    "Prehensile tail.",
+    "Prehensile tail",
     "Feline",
-    "Appearance; enhanced senses",
-    "Agility; healing factor; sharp claws",
     "Fangs and",
     "Prehensile",
-    "Tail."
+    "Tail"
   ],
   "ranking": {
     "comicCount": 0,

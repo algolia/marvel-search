@@ -10,17 +10,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d0/Isolationist.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Isolationist",
   "partners": [
   ],
   "powers": [
-    "Possesses the powers of all living mutants.",
-    "Possesses the powers of all living",
-    "Mutants",
-    "."
+    "Mutants"
   ],
   "ranking": {
     "comicCount": 0,

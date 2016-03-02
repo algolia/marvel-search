@@ -1,17 +1,15 @@
 {
   "aliases": [
-    "\"Bucky\"",
+    "Bucky",
     "Scourge",
     "Jack Barnes",
-    "Nomad",
-    "Bucky"
+    "Nomad"
   ],
   "authors": [
-    "As Jack Monroe/Nomad:",
-    "As \"Bucky\":",
     "J. M. DeMatteis",
     "Sal Buscema",
     "Steve Englehart",
+    "Bucky",
     "Mike Zeck",
     "Fabian Nicieza",
     "James Fry"
@@ -22,8 +20,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c003d1875f38/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nomad",
   "partners": [
@@ -31,16 +29,12 @@
     "Falcon",
     "1950.0",
     "Captain America",
-    "1950s \"Captain America\"",
+    "1950s \"Captain America",
     "D-Man"
   ],
   "powers": [
-    "Skilled in many martial arts",
     "Acrobatics",
-    "Primary weapons are throwing discs called \"stun discs\"",
-    "Later in his career used firearms",
-    "Expert marksman",
-    "Artificially enhanced physiology at a slightly higher level than captain america"
+    "Expert marksman"
   ],
   "ranking": {
     "comicCount": 12,

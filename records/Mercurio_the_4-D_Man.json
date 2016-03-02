@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/CaptainMarvel51.jpg/260px-CaptainMarvel51.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mercurio the 4-D Man",
   "partners": [
@@ -26,8 +26,7 @@
     "Enhanced strength",
     "Durability",
     "Intense heat",
-    "Cold generation",
-    "Interplanetary teleportation through his mind"
+    "Cold generation"
   ],
   "ranking": {
     "comicCount": 0,
@@ -38,7 +37,6 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "None"
   ],
   "species": [
   ],

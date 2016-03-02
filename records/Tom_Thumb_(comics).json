@@ -10,16 +10,15 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Tom_thumb_sqsup001.jpg/200px-Tom_thumb_sqsup001.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Tom Thumb",
   "partners": [
   ],
   "powers": [
-    "'none: scientific genius ' none: permanently reduced size",
-    "(712)'''none: scientific genius",
-    "(31916)''' none: permanently reduced size"
+    "Permanently reduced size",
+    "Scientific genius"
   ],
   "ranking": {
     "comicCount": 0,

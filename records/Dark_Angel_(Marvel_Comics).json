@@ -10,8 +10,8 @@
   "description": "Dark Angel is the name used by two fictional characters in Marvel UK, though they have no other relation.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Dark Angel",
   "partners": [

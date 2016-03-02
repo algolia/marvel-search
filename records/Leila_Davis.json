@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Thunderbolts35.jpg/250px-Thunderbolts35.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Beetle (Abner Jenkins)",
   "partners": [
@@ -30,8 +30,7 @@
     "Superhuman strength",
     "Flight",
     "Powered armor",
-    "Durability",
-    "Flight via artificial wings"
+    "Durability"
   ],
   "ranking": {
     "comicCount": 13,

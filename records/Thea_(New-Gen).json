@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Thea",
-    "Thea (New-Gen)"
+    "Thea"
   ],
   "authors": [
     "Julia Coppola",
@@ -13,7 +12,7 @@
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/54/Thea_New_Gen.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Thea",
   "partners": [
@@ -31,14 +30,13 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "None"
   ],
   "species": [
     "Human"
   ],
   "teams": [
     "Gabriel",
-    "A.P.N.G."
+    "A.P.N.G"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Thea_(New-Gen)"

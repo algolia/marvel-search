@@ -6,7 +6,6 @@
     "Franklin Benjamin",
     "Richard Franklin",
     "Franklin Richards",
-    "Franklin+Richards",
     "Richards",
     "Franklin"
   ],
@@ -21,7 +20,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/535fedbaaf234/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Franklin Richards",
   "partners": [

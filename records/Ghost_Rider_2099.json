@@ -8,8 +8,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/71/Ghost_Rider_2099_2_cover.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ghost Rider 2099",
   "partners": [
@@ -25,7 +25,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Kenshiro \"Zero\" Cochrane"
+    "Kenshiro Cochrane",
+    "Zero"
   ],
   "species": [
   ],

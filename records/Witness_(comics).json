@@ -7,7 +7,7 @@
     "Witness"
   ],
   "authors": [
-    "Paul Ryan (cartoonist)",
+    "Paul Ryan",
     "Stan Lee",
     "Mark Gruenwald"
   ],
@@ -15,8 +15,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Twelve005.jpg/250px-Twelve005.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Witness",
   "partners": [
@@ -24,8 +24,6 @@
   "powers": [
     "Invisible",
     "Intangible",
-    "Able to possess mindless bodies",
-    "Able to detect other paranormals.",
     "Strength",
     "Speed",
     "Durability",

@@ -13,17 +13,17 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/69/Avengers-43.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Red Guardian",
   "partners": [
   ],
   "powers": [
     "Highly skilled athlete",
-    "Master hand to hand combatant",
     "Expert pilot",
-    "Use of \"belt-buckle\" disc"
+    "Use of disc",
+    "Belt-buckle"
   ],
   "ranking": {
     "comicCount": 0,

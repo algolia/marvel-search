@@ -10,24 +10,18 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0b/LivingBrainOriginal.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Living Brain",
   "partners": [
   ],
   "powers": [
-    "Find any weaknesses in a being or structure",
     "Clawed hands",
     "Process",
-    "Collate large amounts of information",
     "Flight",
     "Super-strength",
     "Speed",
-    "Limbs that can rotate at nearly 360 degrees",
-    "Capable of analyzing any situation",
-    "Determine how best to achieve its goals",
-    "External controls on its thorax",
     "Superhuman strength"
   ],
   "ranking": {

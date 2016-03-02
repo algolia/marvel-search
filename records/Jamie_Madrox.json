@@ -22,8 +22,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c00310e9dc27/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Multiple Man",
   "partners": [
@@ -40,7 +40,8 @@
     "storyCount": 13
   },
   "secretIdentities": [
-    "James Arthur \"Jamie\" Madrox"
+    "James Arthur Madrox",
+    "Jamie"
   ],
   "species": [
     "Mutant"
@@ -53,7 +54,7 @@
     "X-Corporation",
     "X-Men",
     "X-Factor",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Nasty Boys",
     "Muir Island X-Men",
     "Dead X-Men"

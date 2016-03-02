@@ -11,14 +11,13 @@
   "description": "Slash (also known as Sister Agony) is a fictional character in the Marvel Comics Universe, most notably as a member of the Sisters of Sin.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Slash",
   "partners": [
   ],
   "powers": [
-    "Razor-sharp claws for hands."
   ],
   "ranking": {
     "comicCount": 0,

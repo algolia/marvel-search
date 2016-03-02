@@ -15,15 +15,14 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4ce5a390b929b/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Two-Gun Kid",
   "partners": [
   ],
   "powers": [
-    "Expert marksman",
-    "Trained hand-to-hand combatant"
+    "Expert marksman"
   ],
   "ranking": {
     "comicCount": 134,

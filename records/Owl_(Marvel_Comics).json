@@ -13,8 +13,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4ce5a45d60e63/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Owl",
   "partners": [
@@ -30,10 +30,8 @@
     "Resiliency/resistance",
     "Reflexes/reactions",
     "Master manipulator",
-    "Extremely skilled criminal organizer",
     "Money launderer",
-    "Hollow bones",
-    "Talons (with attachment devices)"
+    "Hollow bones"
   ],
   "ranking": {
     "comicCount": 1,
@@ -50,7 +48,7 @@
     "Human Mutate"
   ],
   "teams": [
-    "\"Owl Gang\"",
+    "Owl Gang",
     "Gang of Four",
     "Sinister Six",
     "teen"

@@ -13,7 +13,7 @@
     "banner": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/537bcef223ec2.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5260363fc40f2/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": {
     "blue": 40,
@@ -26,22 +26,17 @@
   ],
   "powers": [
     "Molecular manipulation",
-    "Interstellar teleportation",
     "Flight",
     "Cybernetic armor",
-    "Creation of \"time-motion displacement fields\"",
     "Superhuman strength",
     "Speed",
     "Reflexes",
     "Endurance",
     "Force field generation",
     "Energy projection",
-    "Brilliant military strategist",
     "Enhanced endurance",
     "Invisible field creation",
-    "Cosmic energy projection",
-    "Cold generation via gauntlets",
-    "Energy absorption/projection"
+    "Cosmic energy projection"
   ],
   "ranking": {
     "comicCount": 21,

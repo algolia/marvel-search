@@ -6,7 +6,6 @@
     "Wallace Frost",
     "Mark Bagley",
     "Scott Hanna",
-    "Adapted for Marvel Comics by:",
     "Kurt Busiek",
     "Kroja Frost"
   ],
@@ -14,8 +13,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/77/Thunderbolts53.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Charcoal",
   "partners": [

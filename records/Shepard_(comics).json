@@ -9,15 +9,13 @@
   "description": "Shepard (Francis Leighton) is a mutant villain in the Marvel Comics Universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shepard",
   "partners": [
   ],
   "powers": [
-    "Project concussive black bile from his eyes. unconfirmed regenerative powers",
-    "Project concussive ''black bile'' from his eyes. unconfirmed regenerative powers"
   ],
   "ranking": {
     "comicCount": 0,

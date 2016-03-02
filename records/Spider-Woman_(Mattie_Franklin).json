@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Spider-Man",
-    "Spider-Woman",
-    "Spider-Woman (Mattie Franklin)"
+    "Spider-Woman"
   ],
   "authors": [
     "Rafael Kayanan",
@@ -14,8 +13,8 @@
     "banner": "http://x.annihil.us/u/prod/marvel/i/mg/a/00/537bc4cb87e68.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/531771afe4ffa/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -29,7 +28,6 @@
     "Psionic spider legs",
     "Webbing",
     "Telepathy",
-    "Precognitive \"spider sense\"",
     "Superhuman strength",
     "Speed",
     "Reflexes",
@@ -47,7 +45,8 @@
     "storyCount": 9
   },
   "secretIdentities": [
-    "Martha \"Mattie\" Franklin"
+    "Martha Franklin",
+    "Mattie"
   ],
   "species": [
   ],

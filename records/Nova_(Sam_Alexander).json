@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Sam Alexander",
-    "Nova",
-    "Nova (Sam Alexander)"
+    "Nova"
   ],
   "authors": [
     "Jeph Loeb",
@@ -15,8 +14,8 @@
     "banner": "http://i.annihil.us/u/prod/marvel/universe3zx/images/3/3b/Novafrankie.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/5269615681f91/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Nova (Sam Alexander)",
   "partners": [
@@ -27,8 +26,7 @@
     "Flight",
     "Energy projection",
     "Universal translation",
-    "Survivability in space.",
-    "Access to the nova force via helmet: superhuman strength"
+    "Survivability in space"
   ],
   "ranking": {
     "comicCount": 0,

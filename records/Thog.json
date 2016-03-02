@@ -10,14 +10,13 @@
   "description": "Thog the Nether-Spawn, Overmaster of Sominus is a fictional character appearing in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Thog",
   "partners": [
   ],
   "powers": [
-    "Magical energy bolts projection",
     "Immortality"
   ],
   "ranking": {

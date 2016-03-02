@@ -9,8 +9,8 @@
   "description": "Pisces is the name of different characters in Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Pisces",
   "partners": [

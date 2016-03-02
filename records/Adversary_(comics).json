@@ -12,8 +12,8 @@
   "description": "The Adversary is a fictional character, a demonic supervillain in the Marvel Comics universe.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Adversary",
   "partners": [

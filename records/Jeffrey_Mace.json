@@ -15,7 +15,7 @@
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c003cfda4644/standard_xlarge.jpg"
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Patriot",
   "partners": [
@@ -24,7 +24,6 @@
     "Skilled athlete",
     "Hand-to-hand combatant",
     "Exceptional athlete",
-    "Superb hand to hand combatant",
     "Licensed pilot",
     "Carries a titanium shield"
   ],

@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Tboltssandman.jpg/250px-Tboltssandman.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sandman",
   "partners": [
@@ -30,9 +30,7 @@
     "Shapeshifting",
     "Earth manipulation",
     "Size",
-    "Mass manipulation",
-    "Completely organic sand within body",
-    "Flight (in sandstorm form)"
+    "Mass manipulation"
   ],
   "ranking": {
     "comicCount": 63,

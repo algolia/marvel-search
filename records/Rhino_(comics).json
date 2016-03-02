@@ -15,21 +15,19 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c003c58f1a0c/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Rhino",
   "partners": [
   ],
   "powers": [
     "Razor sharp horn",
-    "High-level resistance to temperature",
     "Damage",
     "Superhuman strength",
     "Speed",
     "Stamina",
     "Durability",
-    "High-level resistance to damage",
     "Extreme temperatures",
     "Razor sharp horns"
   ],
@@ -49,7 +47,7 @@
   ],
   "teams": [
     "Sinister Syndicate",
-    "S.H.I.E.L.D.",
+    "S.H.I.E.L.D",
     "Klaw's Army",
     "Defenders",
     "Emissaries of Evil",

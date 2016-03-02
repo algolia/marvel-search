@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/01/OzymandiasMarvel1.png"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Ozymandias",
   "partners": [

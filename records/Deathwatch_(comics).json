@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fe/Deathwatch_002.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Deathwatch",
   "partners": [
@@ -21,8 +21,7 @@
   "powers": [
     "Superhuman strength",
     "Speed",
-    "Agility",
-    "Reflexes. ability to absorb life essence upon the death of another being to enhance his physiology. ability to psychically view others' short-term memories."
+    "Agility"
   ],
   "ranking": {
     "comicCount": 0,

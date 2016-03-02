@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/CaptainUltra500.jpg/250px-CaptainUltra500.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Captain Ultra",
   "partners": [
@@ -25,7 +25,7 @@
     "Durability",
     "Reflexes",
     "Endurance",
-    "Tap his \"ultra potential\"",
+    "Tap his \"ultra potential",
     "Intangibility",
     "Super breath"
   ],
@@ -45,7 +45,7 @@
   "teams": [
     "Defenders",
     "Revengers",
-    "Avengers: The Initiative",
+    "The Initiative",
     "Initiative"
   ],
   "urls": {

@@ -3,8 +3,7 @@
     "The Binder of Spirits",
     "The Breaker of Dark Spells",
     "The Promised One",
-    "Talisman",
-    "Talisman (Alpha Flight)"
+    "Talisman"
   ],
   "authors": [
     "John Byrne"
@@ -15,14 +14,13 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5b/Alpha_Flight_-19.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Talisman (Elizabeth Twoyoungmen)",
   "partners": [
   ],
   "powers": [
-    "Wide ranging magical abilities",
     "Wide ranging",
     "Magical",
     "Abilities"

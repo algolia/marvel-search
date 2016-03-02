@@ -13,7 +13,7 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/527410063de71/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Kraven the Hunter",
@@ -49,7 +49,7 @@
   "teams": [
     "Sinister Six",
     "Kravinoff Family",
-    "\"Avengers\" (1959)"
+    "Avengers\" (1959)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1174/kraven_the_hunter",

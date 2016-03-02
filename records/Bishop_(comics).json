@@ -13,16 +13,15 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/52602f4b42d98/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Bishop",
   "partners": [
   ],
   "powers": [
     "Energy absorption",
-    "Redirection",
-    "Superhuman physical attributes"
+    "Redirection"
   ],
   "ranking": {
     "comicCount": 240,
@@ -33,14 +32,14 @@
     "storyCount": 295
   },
   "secretIdentities": [
-    "Lucas \"Luke\" Bishop"
+    "Lucas Bishop",
+    "Luke"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
     "X-Men",
-    "O*N*E",
     "Xavier's Security Enforcers",
     "Interpol",
     "The Twelve",

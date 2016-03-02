@@ -10,18 +10,16 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Pwj16.jpg/200px-Pwj16.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Princess Python",
   "partners": [
   ],
   "powers": [
-    "Extremely talented snake charmer",
     "Handler",
     "Carries a hand held",
     "Electric cattle prod",
-    "Use of pet snakes as sidekicks",
     "Trained athlete"
   ],
   "ranking": {

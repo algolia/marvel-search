@@ -1,7 +1,7 @@
 {
   "aliases": [
     "Bridge",
-    "G. W.",
+    "G. W",
     "G. W. Bridge"
   ],
   "authors": [
@@ -12,14 +12,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Gebridge.jpg/250px-Gebridge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "G. W. Bridge",
   "partners": [
   ],
   "powers": [
-    "Skilled in hand-to-hand combat",
     "Firearms",
     "Skilled strategist"
   ],
@@ -37,8 +36,8 @@
   "species": [
   ],
   "teams": [
-    "Weapon P.R.I.M.E.",
-    "S.H.I.E.L.D.",
+    "Weapon P.R.I.M.E",
+    "S.H.I.E.L.D",
     "Six Pack"
   ],
   "urls": {

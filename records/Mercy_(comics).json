@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Mercyhulk.jpg/249px-Mercyhulk.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mercy",
   "partners": [
@@ -25,7 +25,6 @@
     "Telepathy",
     "Extrasensory perceptions",
     "Invisibility",
-    "Energy projection in spear form",
     "Flight",
     "Astral projection",
     "Energy projection",

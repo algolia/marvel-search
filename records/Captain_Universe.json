@@ -15,8 +15,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c00324c12ba2/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Captain Universe",
   "partners": [
@@ -48,12 +48,11 @@
   "species": [
   ],
   "teams": [
-    "Guardians of the Galaxy (1969 team)",
+    "Guardians of the Galaxy",
     "Badoon",
     "Avengers",
     "Micronauts",
-    "Kree",
-    "Guardians of the Galaxy"
+    "Kree"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/392/captain_universe",

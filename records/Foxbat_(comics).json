@@ -12,8 +12,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Foxbat.JPG/150px-Foxbat.JPG"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Foxbat",
   "partners": [
@@ -36,8 +36,7 @@
     "Inhumans",
     "Nazg%C3%BBl",
     "Dark Riders",
-    "Inhuman",
-    "s"
+    "Inhuman"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Foxbat_(comics)"

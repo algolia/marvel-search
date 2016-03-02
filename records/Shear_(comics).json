@@ -10,14 +10,13 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Shear_comics.jpg/250px-Shear_comics.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Shear",
   "partners": [
   ],
   "powers": [
-    "Disruption of molecular bonds",
     "Enhanced strength"
   ],
   "ranking": {
@@ -34,7 +33,7 @@
   "species": [
   ],
   "teams": [
-    "Strikeforce: Morituri"
+    "Morituri"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Shear_(comics)"

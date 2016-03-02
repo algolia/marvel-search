@@ -13,8 +13,8 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5c/Sun_Girl_no.1_-_August_1948.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Sun Girl",
   "partners": [
@@ -23,10 +23,7 @@
     "Proficient engineer",
     "Expert martial artist",
     "Wields a sunbeam ray gun",
-    "Wields dual-wielding pistols",
-    "Other light-based weaponry",
     "Good acrobat",
-    "Suit with harnesses that enable her to fly",
     "Project light blasts"
   ],
   "ranking": {

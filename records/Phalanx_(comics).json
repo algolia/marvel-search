@@ -14,17 +14,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/527411987e35d/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Phalanx",
   "partners": [
   ],
   "powers": [
-    "Transforms sentient beings into techno-organic lifeforms",
-    "Assimilates them into its collective. superhumanly strong",
-    "Also possess ability to teleport",
-    "Shapeshift - molding their limbs into weapons or mimicking the appearance of others."
   ],
   "ranking": {
     "comicCount": 0,

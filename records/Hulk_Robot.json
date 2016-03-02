@@ -7,8 +7,8 @@
   "description": "The Hulk Robot is a robot in Marvel Comics that is modeled after the Hulk.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Hulk Robot",
   "partners": [

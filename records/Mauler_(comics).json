@@ -12,19 +12,16 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/IronMan-156.jpg/250px-IronMan-156.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Mauler",
   "partners": [
   ],
   "powers": [
     "Flight via turbines",
-    "Internal life support systems",
     "Superhuman strength",
-    "Heavy resistance to injury",
-    "Laser cannon on left arm",
-    "Electric shock generator on right arm"
+    "Laser cannon on left arm"
   ],
   "ranking": {
     "comicCount": 1,
@@ -35,8 +32,6 @@
     "storyCount": 1
   },
   "secretIdentities": [
-    "-Aaron Soames",
-    "-Brendan Doyle",
     "Aaron Soames",
     "Turk Barrett",
     "Brendan Doyle",

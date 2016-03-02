@@ -21,7 +21,7 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/526955af18612/standard_xlarge.jpg"
   },
-  "isHero": false,
+  "isHero": null,
   "isVillain": true,
   "mainColor": null,
   "name": "Dracula",
@@ -36,7 +36,6 @@
     "Immortality",
     "Mind control",
     "Telepathy",
-    "Regenerative healing factor",
     "Weather modification",
     "Skilled swordsman",
     "Hand-to-hand combatant",

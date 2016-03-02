@@ -11,8 +11,8 @@
   "description": "The Black Rider is a fictional Western character in comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Black Rider",
   "partners": [
@@ -30,7 +30,8 @@
     "storyCount": 0
   },
   "secretIdentities": [
-    "Matthew \"Doc\" Masters"
+    "Matthew Masters",
+    "Doc"
   ],
   "species": [
   ],

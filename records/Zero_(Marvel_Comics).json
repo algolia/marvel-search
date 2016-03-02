@@ -13,7 +13,7 @@
   "images": {
   },
   "isHero": true,
-  "isVillain": false,
+  "isVillain": null,
   "mainColor": null,
   "name": "Zero",
   "partners": [
@@ -23,12 +23,11 @@
     "Manipulation",
     "Enhanced strength",
     "Computerized intelligence",
-    "Open teleportation portals",
     "Energy damping",
     "Absorption",
     "Scan for bio-mechanical",
     "Technological weapons",
-    "Neutralize them."
+    "Neutralize them"
   ],
   "ranking": {
     "comicCount": 0,

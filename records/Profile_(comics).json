@@ -11,17 +11,14 @@
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/The_Profile.jpg/150px-The_Profile.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Profile",
   "partners": [
   ],
   "powers": [
-    "Can profile people at a glance",
-    "Discovering relevant background information",
-    "Important characteristics",
-    "Allowing him to predict their reactions to certain situations."
+    "Important characteristics"
   ],
   "ranking": {
     "comicCount": 0,

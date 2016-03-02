@@ -18,14 +18,13 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4c0042010d383/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Avalanche",
   "partners": [
   ],
   "powers": [
-    "Geological manipulation via seismic wave generation from his hands."
   ],
   "ranking": {
     "comicCount": 30,

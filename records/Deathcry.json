@@ -14,8 +14,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/535ff379c7c1b/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Deathcry",
   "partners": [
@@ -25,7 +25,7 @@
     "Stamina",
     "Sturdiness",
     "Sharp talons",
-    "Enhanced senses."
+    "Enhanced senses"
   ],
   "ranking": {
     "comicCount": 3,

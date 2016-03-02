@@ -11,8 +11,8 @@
     "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f0/DarklingC.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Asylum",
   "partners": [
@@ -20,7 +20,7 @@
   "powers": [
     "Harness darkforce",
     "Teleport",
-    "Create weapons."
+    "Create weapons"
   ],
   "ranking": {
     "comicCount": 0,

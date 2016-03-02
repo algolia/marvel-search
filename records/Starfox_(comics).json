@@ -12,8 +12,8 @@
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4c0030cbcba98/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Starfox",
   "partners": [
@@ -24,8 +24,7 @@
     "Agility",
     "Flight",
     "Healing factor",
-    "Halted aging",
-    "Psychic control over the emotions of others"
+    "Halted aging"
   ],
   "ranking": {
     "comicCount": 11,

@@ -12,15 +12,13 @@
   "description": "Red Raven is the name of three separate characters from Marvel Comics: The original Red Raven, a flying superhero.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Red Raven",
   "partners": [
   ],
   "powers": [
-    "Flight using mechanical wings. access to alien technology. skilled hand-to-hand combatant",
-    "Gliding on artificial wings."
   ],
   "ranking": {
     "comicCount": 0,
