@@ -4,3 +4,36 @@
   &:-ms-input-placeholder { @content; } /* ie */
   &input:-moz-placeholder { @content; }
 }
+
+@mixin villainBadge($size, $bgSize){
+    content: '';
+    position: absolute;
+    bottom: -#{$size/4};
+    left: -#{$size/4};
+    width: #{$size};
+    height: #{$size};
+    border-radius: 100px;
+
+}
+
+@mixin heroBadge($size, $bgSize){
+    content: '';
+    position: absolute;
+    bottom: -#{$size/4};
+    right: -#{$size/4};
+    width: #{$size};
+    height: #{$size};
+    border-radius: 100px;
+
+}
+
+@mixin nullBadge($size, $bgSize){
+    content: '';
+    position: absolute;
+    bottom: -#{$size/4};
+    right: -#{$size/4};
+    width: #{$size};
+    height: #{$size};
+    border-radius: 100px;
+
+}

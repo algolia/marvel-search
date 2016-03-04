@@ -1,3 +1,15 @@
-@import 'variables', 'mixins','base', 'helpers';
-@import 'layout', 'header', 'sidebar','result', 'input', 'button', 'profile';
+@import 'variables',
+        'cssvg',
+        'mixins',
+        'base',
+        'helpers';
+
+@import 'layout',
+        'header',
+        'sidebar',
+        'result',
+        'input',
+        'button',
+        'profile',
+        'factions';
 

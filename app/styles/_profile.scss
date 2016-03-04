@@ -119,22 +119,7 @@
     
   }
 
-  .hero-statement {
-    [class$="-badge"] {
-      position: absolute;
-      top: 35%;
-      left: 50%;
-      transform: translate(-50%, 50%);
-      width: 160px;
-      height: 160px;
-      margin: 0;
-      z-index: -1;
-    }
-    [class*="hero-villain-badge"] {
-      width: 230px;
-      
-    }
-  }
+  
 
   .hero-description {
     padding-top: 1em;

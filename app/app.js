@@ -159,7 +159,7 @@ function processHeroProfile(){
       profileAvatar = $('.hero-profile .hero-avatar img'),
       profileDescription = $('.hero-profile .hero-description'),
       profilePartners = $('.hero-profile .hero-partners'),
-      profileHeroVillain = $('.hero-profile .hero-statement'),
+      profileHeroVillain = $('.hero-profile .factions'),
       profilePowers = $('.hero-profile .hero-powers');
 
       // Add dynamic style tag
@@ -169,6 +169,7 @@ function processHeroProfile(){
   
   hit.each(function(){
     $(this).click(function(e,t){
+      e.preventDefault();
       var $this = $(this);
       var datas = $(this).closest('.hit').find('.dump').val(),
           datas = $.parseJSON(datas);
@@ -180,32 +181,31 @@ function processHeroProfile(){
       heroSecretId = datas.secretIdentities[0],
       heroAvatar = datas.images.thumbnail,
       heroBanner = datas.images.banner,
-      heroBackground = datas.images.background,
+      heroBackground = datas.images.background || 'http://i.annihil.us/u/prod/marvel/i/mg/c/50/537bafe4149ad.gif',
       heroDesc = datas.description,
       heroPowers = datas.powers,
       heroPartners = datas.partners,
       isHero = datas.isHero,
       isVillain = datas.isVillain;
 
-      if(datas.mainColor==null){
-       var heroColor = '#ccc'
-      }
-      else {
-        var heroColor = datas.mainColor.hexa,
-            heroColor = colorLuminance('#'+heroColor, 1.5); // Lighten up the color
+      if (_.has(datas, 'mainColor.hexa')) {
+        var heroColor = colorLuminance('#' + datas.mainColor.hexa, 1.5);
+      } else {
+        var heroColor = '#ccc'
       }
 
-
-     
       // Appy them
       profileName.html(heroName);
       profileAvatar.attr('src', heroAvatar);
       profileDescription.html('<p>'+heroDesc+'</p>');
       profileRealName.html(heroSecretId);
 
+
+
+
       // Add the proper colors
       profileAvatar.parent().attr('style','border-color:'+ heroColor);
-      dynamicStyle.text('').text('.hero-profile header:after{background-color:'+heroColor+'}')
+      dynamicStyle.text('').text('.hero-profile header:after{background-color:'+heroColor+';}.hero-profile .hero-faction:before,.hero-profile .hero-faction:after{background: linear-gradient(to bottom, '+heroColor+', '+  colorLuminance(heroColor, 1.5)+') !important}')
 
 
       // Give the profile header the proper images
@@ -213,23 +213,30 @@ function processHeroProfile(){
 
       // Check if he is a hero, a vilain, both, or null
       if(isHero && !isVillain) {
-        profileHeroVillain.html('He is a hero <span class="hero-badge"></span>')
+        profileHeroVillain.attr({
+          'data-is-hero': 'true',
+          'data-is-villain': 'false'
+        })
       }
       if(isVillain && !isHero) {
-        profileHeroVillain.html('He is a Villain <span class="villain-badge"></span>')
+        profileHeroVillain.attr({
+          'data-is-hero': 'false',
+          'data-is-villain': 'true'
+        })
       }
       if(!isHero && !isVillain) {
-        profileHeroVillain.html('He is both a hero and a villain <span class="hero-villain-badge"></span>')
+        profileHeroVillain.attr({
+          'data-is-hero': 'true',
+          'data-is-villain': 'true'
+        })
       }
-      if(isHero==null && isVillain==null){
-        profileBothHeroVillain.html('Unknown')
+      if(isHero===null && isVillain===null){
+        profileHeroVillain.attr({
+          'data-is-hero': 'false',
+          'data-is-villain': 'false'
+        })
       }
-      // Also, give the profile data attributes
-      // Can be useful for next designs steps
-      profile.attr({
-        'data-hero': isHero,
-        'data-villain': isVillain
-      });
+
 
       // Loop & wrap all the powers
       profilePowers.html('');
@@ -242,9 +249,13 @@ function processHeroProfile(){
       // Loop & wrap all the partners
       profilePartners.html('');
       var partner = '';
-      $.each(heroPartners, function (index, key){
-        partner += "<span class='partner'>"+key+"</span>, "; 
-      });
+      if(heroPartners===0){
+        partner += "<span>Unknown</span>"
+      } else {
+        $.each(heroPartners, function (index, key){
+          partner += "<span class='partner'>"+key+"</span>, "; 
+        });
+      }
       profilePartners.append(partner);
 
 
@@ -256,6 +267,7 @@ function processHeroProfile(){
     });
   })
 }
+
 
 function colorLuminance(hex, lum) {
 
@@ -276,10 +288,10 @@ function colorLuminance(hex, lum) {
 
   return rgb;
 }
-function imageDimensions($url) {
-  var u = $url;
+// function imageDimensions($url) {
+//   var u = $url;
 
-}
+// }
 ///////////////////////////
 /// Toggle hero-profile \\\ 
 ///////////////////////////

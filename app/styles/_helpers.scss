@@ -36,39 +36,4 @@ span.power {
   }
 
 
-  .hero-badge,
-  .villain-badge,
-  .hero-villain-badge {
-    width: 44px;
-    height: 44px;
-    display: block;
-    float: left;
-  }
-
-  .hero-badge {
-    background:{
-      image:  url("data:image/svg+xml;utf8,#{$hero-tag}");
-      size: contain;
-      repeat: no-repeat;
-      position: center center;
-    }
-  }
-
-
-  .villain-badge {
-    background:{
-      image:  url("data:image/svg+xml;utf8,#{$villain-tag}");
-      size: contain;
-      repeat: no-repeat;
-      position: center center;
-    }
-  }
-
-  .hero-villain-badge {
-    background:{
-      image:  url("data:image/svg+xml;utf8,#{$hero-villain-tag}");
-      size: contain;
-      repeat: no-repeat;
-      position: center center;
-    }
-  }
+  
