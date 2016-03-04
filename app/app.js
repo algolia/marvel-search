@@ -160,13 +160,15 @@ function processHeroProfile(){
       profileDescription = $('.hero-profile .hero-description'),
       profilePartners = $('.hero-profile .hero-partners'),
       profileHeroVillain = $('.hero-profile .factions'),
-      profilePowers = $('.hero-profile .hero-powers');
+      profilePowers = $('.hero-profile .hero-powers'),
+
+      closeProfile = $('#closeProfile');
 
       // Add dynamic style tag
       profileHeader.prepend('<style id="dynamic-style" />');
       var dynamicStyle = $('#dynamic-style');
 
-  
+  // When a "view profile" button is pressed
   hit.each(function(){
     $(this).click(function(e,t){
       e.preventDefault();
@@ -258,13 +260,20 @@ function processHeroProfile(){
       }
       profilePartners.append(partner);
 
-
       
       if(!results.hasClass('open')){
         results.addClass('open')
         profile.addClass('shown')
       }
     });
+  })
+
+  // When the "close profile" button is pressed
+  closeProfile.on('click', function(){
+    if(results.hasClass('open')){
+      results.removeClass('open')
+      profile.removeClass('shown')
+    }
   })
 }
 
