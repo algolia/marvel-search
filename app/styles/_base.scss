@@ -10,7 +10,9 @@
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscaled;
-  text-rendering: optimizeLegibility
+  text-rendering: optimizeLegibility;
+
+  -ms-overflow-style: none;
 }
 
 

@@ -1,6 +1,43 @@
 #current-refined-values {
   float: left;
-  max-width: 400px;
+  max-width: 60%;
+  height: calc( 100% + 20px );
+  display: block;
+  padding: 10px;
+  top: -10px;
+  
+  a {
+    color: #fff;
+
+   
+  }
+
+  .ais-current-refined-values--item {
+    float: left;
+    display: inline-block;
+    padding: 0 8px;
+    position: relative;
+    margin-right: 6px;
+    font-weight: bold;
+    
+    
+     &:after {
+      content: " › ";
+      position: absolute;
+      top: 0;
+      right: -4px;
+      color: #fff;
+      padding: 0 2px;
+      font-weight: 400
+    }
+  }
+  .ais-current-refined-values--count {
+    display: none;
+    
+  }
+
+.ais-current-refined-values--clear-all {
   position: absolute;
-  background: #fff;
+  
+}
 }

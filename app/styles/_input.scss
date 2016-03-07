@@ -11,6 +11,7 @@ input[type="radio"],
 .ais-refinement-list--checkbox {
   margin: 5px 0 0;
   line-height: normal;
+  outline: none;
 }
 .radio,
 .ais-refinement-list--label {
@@ -78,8 +79,9 @@ input[type="radio"],
 }
 .ais-refinement-list--label [type="checkbox"]:focus,
 .radio [type="radio"]:focus {
-  outline: thin dotted #444;
+  // outline: thin dotted #444;
   outline-offset: 1px;
+  outline: none;
 }
 .ais-refinement-list--label [type="checkbox"] {
   width: 42px;
@@ -88,22 +90,23 @@ input[type="radio"],
 }
 .ais-refinement-list--label [type="checkbox"]::before {
   width: 42px;
-  height: 24px;
+  height: 18px;
   background: #bdc3c7;
 }
 .ais-refinement-list--label [type="checkbox"]::after {
   width: 20px;
   height: 20px;
-  top: 2px;
-  left: 2px;
-  background: #fff;
+  top: -1px;
+  left: -1px;
+  background: linear-gradient( to bottom, lighten($brand-primary, 15%), $brand-primary);
+  transform: scale(1.1)
 }
 .ais-refinement-list--label [type="checkbox"]:checked::before {
-  background: #F11E22;
+  background: rgba(#F11E22, 0.4);
 }
 .ais-refinement-list--label [type="checkbox"]:checked::after {
-  -webkit-transform: translateX(18px);
-          transform: translateX(18px);
+  -webkit-transform: translateX(22px);
+          transform: translateX(22px);
 }
 .no-csstransforms.ais-refinement-list--label [type="checkbox"]:checked::after {
   left: 22px;
@@ -117,13 +120,4 @@ input[type="radio"],
   height: 24px;
   background: #fff;
   border: 2px solid #F11E22;
-}
-.radio [type="radio"]::after {
-  width: 12px;
-  height: 12px;
-  top: 6px;
-  left: 6px;
-}
-.radio [type="radio"]:checked::after {
-  background: #F11E22;
 }

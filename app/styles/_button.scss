@@ -41,13 +41,14 @@ button {
 
 a{
   &.btn-profile {
-   color: $primary-color;
+   color: #fff;
    display: inline-block;
    padding: 2px 8px;
    border: 1px solid currentColor;
    border-radius: 50px;
    outline: none;
    font-size: 14px;
+  background-image: linear-gradient(to bottom, $secondary-color, darken($secondary-color, 10%)) !important;
 
    &:hover {
     background: $primary-color;
