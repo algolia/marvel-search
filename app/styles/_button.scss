@@ -48,7 +48,7 @@ a{
    border-radius: 50px;
    outline: none;
    font-size: 14px;
-  background-image: linear-gradient(to bottom, $secondary-color, darken($secondary-color, 10%)) !important;
+  background-image: linear-gradient(to bottom, $brand-primary, darken($brand-primary, 10%)) !important;
 
    &:hover {
     background: $primary-color;
