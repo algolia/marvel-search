@@ -1,7 +1,6 @@
 .hero-profile {
   max-width: $profile-bar-width;
-  min-width: calc(#{$profile-bar-width} / 1.6);
-  width: 30%;
+  width: 20%;
   height: calc(100% - #{$header-height});
   position: fixed;
   float: left;

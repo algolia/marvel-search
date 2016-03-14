@@ -255,7 +255,7 @@ function processHeroProfile(){
         partner += "<span>Unknown</span>"
       } else {
         $.each(heroPartners, function (index, key){
-          partner += "<span class='partner'>"+key+"</span>, "; 
+          partner = "<span class='partner'>"+key+"</span>, "; 
         });
       }
       profilePartners.append(partner);
