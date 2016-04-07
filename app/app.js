@@ -30,7 +30,7 @@ let Marvel = {
     data.name = Marvel.getHighlightedValue(data, 'name');
     data.powersSummary = data.powers.slice(0, 5);
     data.data = JSON.stringify(data);
-    
+
     return data;
   },
   getHighlightedValue(object, property) {
@@ -150,7 +150,7 @@ export default Marvel;
 
 function processHeroProfile(){
 
-  var hit = $('.btn-profile'),
+  var hit = $('.hit'),
       results = $('.hits'),
       profile = $('.hero-profile'),
       profileHeader = $('.hero-profile header'),
@@ -176,7 +176,7 @@ function processHeroProfile(){
       var datas = $(this).closest('.hit').find('.dump').val(),
           datas = $.parseJSON(datas);
 
-      
+
       // Fetch & define values
       var
       heroName = datas.name,
@@ -244,10 +244,10 @@ function processHeroProfile(){
       profilePowers.html('');
       var power = '';
       $.each(heroPowers, function (index, key){
-        power += "<span class='power'>"+key+"</span>"; 
+        power += "<span class='power'>"+key+"</span>";
       });
       profilePowers.append(power);
-      
+
       // Loop & wrap all the partners
       profilePartners.html('');
       var partner = '';
@@ -255,12 +255,12 @@ function processHeroProfile(){
         partner += "<span>Unknown</span>"
       } else {
         $.each(heroPartners, function (index, key){
-          partner = "<span class='partner'>"+key+"</span>, "; 
+          partner = "<span class='partner'>"+key+"</span>, ";
         });
       }
       profilePartners.append(partner);
 
-      
+
       if(!results.hasClass('open')){
         results.addClass('open')
         profile.addClass('shown')
@@ -302,7 +302,7 @@ function colorLuminance(hex, lum) {
 
 // }
 ///////////////////////////
-/// Toggle hero-profile \\\ 
+/// Toggle hero-profile \\\
 ///////////////////////////
 // function processHeroProfile(){
 //   var hit = document.querySelectorAll('.hit'),
@@ -343,7 +343,7 @@ function colorLuminance(hex, lum) {
 //   }
 //   return 'https://pixelastic.github.io/marvel/default.jpg';
 // }
-// 
+//
 // // Returns Marvel description if found, list of powers otherwise
 // function getDescription(record) {
 //   // Si description on l'affiche
@@ -356,8 +356,8 @@ function colorLuminance(hex, lum) {
 //   }
 //   return record.powersText.join('<br>');
 // }
-// 
-// 
+//
+//
 // search.addWidget(
 //   instantsearch.widgets.hits({
 //     container: '#hits',
@@ -374,25 +374,25 @@ function colorLuminance(hex, lum) {
 //         if (data.species) {
 //           data.species = data.species.join(', ');
 //         }
-// 
+//
 //         data.description = getDescription(data);
-// 
+//
 //         // Use cloudinary to load smaller images
 //         var cloudinaryPrefix = 'http://res.cloudinary.com/pixelastic-marvel/image/fetch/h_190,q_100,c_scale,f_auto/';
 //         data.image = cloudinaryPrefix + getImage(data);
-// 
+//
 //         return data;
 //       }
 //     }
 //   })
 // );
-// 
+//
 // search.addWidget(
 //   instantsearch.widgets.stats({
 //     container: '#stats'
 //   })
 // );
-// 
+//
 // search.addWidget(
 //   instantsearch.widgets.refinementList({
 //     container: '#creators',
@@ -401,7 +401,7 @@ function colorLuminance(hex, lum) {
 //     limit: 10
 //   })
 // );
-// 
+//
 // search.addWidget(
 //   instantsearch.widgets.refinementList({
 //     container: '#teams',
@@ -410,7 +410,7 @@ function colorLuminance(hex, lum) {
 //     limit: 8
 //   })
 // );
-// 
+//
 // search.addWidget(
 //   instantsearch.widgets.refinementList({
 //     container: '#species',
@@ -419,7 +419,7 @@ function colorLuminance(hex, lum) {
 //     limit: 5
 //   })
 // );
-// 
+//
 // search.addWidget(
 //   instantsearch.widgets.refinementList({
 //     container: '#powers',
@@ -428,7 +428,7 @@ function colorLuminance(hex, lum) {
 //     limit: 8
 //   })
 // );
-// 
+//
 // search.addWidget(
 //   instantsearch.widgets.pagination({
 //     container: '#pagination',
@@ -442,7 +442,7 @@ function colorLuminance(hex, lum) {
 //     showFirstLast: false
 //   })
 // );
-// 
+//
 // search.addWidget(
 //   instantsearch.widgets.clearAll({
 //     container: '#clear-all',
@@ -455,7 +455,7 @@ function colorLuminance(hex, lum) {
 //     autoHideContainer: true
 //   })
 // );
-// 
+//
 // search.start();
-// 
+//
 // $('#q').focus();

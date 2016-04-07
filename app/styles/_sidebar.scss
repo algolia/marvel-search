@@ -5,10 +5,10 @@
   top: 60px;
   left: 0;
   bottom: 0;
-  width: 270px;
+  width: 200px;
   padding: 20px;
   border-right: 1px solid #EEE;
-  background: #FFFFFF; 
+  background: #FFFFFF;
 
   @media (max-width: 640px + 270px) {
     transform: translateX(-270px)
