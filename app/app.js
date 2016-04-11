@@ -181,7 +181,7 @@ function processHeroProfile(){
       var
       heroName = datas.name,
       heroSecretId = datas.secretIdentities[0],
-      heroAvatar = datas.images.thumbnail || './default.jpg',
+      heroAvatar = datas.images.thumbnail,
       heroBanner = datas.images.banner,
       heroBackground = datas.images.background || 'http://i.annihil.us/u/prod/marvel/i/mg/c/50/537bafe4149ad.gif',
       heroDesc = datas.description,
