@@ -7,7 +7,7 @@
   width: 100%;
   height: 60px;
   padding: 10px;
-  background: $brand-primary; 
+  background: $brand-primary;
 }
 .header--logo {
   height: 40px;
@@ -19,15 +19,15 @@
   display: inline-block;
 
   height: 60px;
-  overflow: hidden; 
+  overflow: hidden;
   position: relative;
   top: -10px;
 }
 .header--input {
   border: 0;
   height: 60px;
-  -webkit-appearance: none; 
-  appearance: none; 
+  -webkit-appearance: none;
+  appearance: none;
   border-radius: 0;
   background: darken($brand-primary, 8%);
   color: #fff;
@@ -46,7 +46,7 @@
 }
 .header--stats {
   line-height: 40px;
-  float: left;
+  float: right;
   margin-left: 20px;
   color: white;
 }
@@ -55,7 +55,6 @@
   float: right;
   margin-left: 20px;
   color: white;
-  position: absolute;
   right: 16px;
   top: 8px;
 }
