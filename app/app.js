@@ -6,6 +6,7 @@ let Marvel = {
       indexName: 'marvel'
     });
 
+    this.addLogoClear();
     this.addSearchBoxWidget();
     this.addStatsWidget();
     this.addTeamsWidget();
@@ -131,6 +132,17 @@ let Marvel = {
       instantsearch.widgets.currentRefinedValues({
         container: '#current-refined-values',
         clearAll: 'after'
+      })
+    );
+  },
+  addLogoClear(){
+    this.search.addWidget(
+      instantsearch.widgets.clearAll({
+        container: '#header--logo',
+        templates: {
+          link: '<img src="marvel_logo.svg" class="header--logo"/>'
+        },
+        autoHideContainer: false
       })
     );
   },
