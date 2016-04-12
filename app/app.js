@@ -251,8 +251,8 @@ function processHeroProfile(){
       // Loop & wrap all the partners
       profilePartners.html('');
       var partner = '';
-      if(heroPartners===0){
-        partner += "<span>Unknown</span>"
+      if(heroPartners==0){
+        partner += "Unknown"
       } else {
         $.each(heroPartners, function (index, key){
           partner = "<span class='partner'>"+key+"</span>, ";
@@ -266,7 +266,7 @@ function processHeroProfile(){
         profile.addClass('shown')
       }
     });
-  })
+  });
 
   // When the "close profile" button is pressed
   closeProfile.on('click', function(){
@@ -274,7 +274,7 @@ function processHeroProfile(){
       results.removeClass('open')
       profile.removeClass('shown')
     }
-  })
+  });
 }
 
 

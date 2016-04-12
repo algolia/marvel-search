@@ -127,3 +127,36 @@ input[type="radio"],
 .radio [type="radio"]:checked::after {
   background: #F11E22;
 }
+
+
+@-moz-document url-prefix() {
+
+  label {
+    position: relative;
+    width: 100%;
+    height: 40px;
+    float: left;
+    font-size: 12px;
+
+    input {
+      visibility: hidden;
+    }
+
+    span:before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    max-width: 40px;
+    min-height: 40px;
+    top: 0;
+    left: 0;
+    background: url("data:image/svg+xml;utf8,<svg width=\'244\' height=\'104\' viewBox=\'0 0 244 104\' xmlns=\'http://www.w3.org/2000/svg\'><title>toggle_OFF</title><g fill=\'none\' fill-rule=\'evenodd\'><rect fill=\'%23B4BBC0\' width=\'244\' height=\'104\' rx=\'59\'/><circle fill=\'%23FFF\' cx=\'55\' cy=\'52\' r=\'41\'/></g></svg>")no-repeat center center / contain;
+  }
+
+  input:checked ~ span:before {
+    background: url("data:image/svg+xml;utf8,<svg width=\'244\' height=\'104\' viewBox=\'0 0 244 104\' xmlns=\'http://www.w3.org/2000/svg\'><title>toggle_OFF</title><g fill=\'none\' fill-rule=\'evenodd\'><rect fill=\'%23FA0015\' width=\'244\' height=\'104\' rx=\'59\'/><circle fill=\'%23FFF\' cx=\'191\' cy=\'52\' r=\'41\'/></g></svg>")no-repeat center center / contain;
+  }
+  }
+}

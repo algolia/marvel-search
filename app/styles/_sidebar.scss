@@ -65,4 +65,5 @@ input.ais-refinement-list--checkbox {
   text-align: center;
   padding-top: .5rem;
   font-size: 1.3rem;
+  float: left; // Avoid bug in FF
 }

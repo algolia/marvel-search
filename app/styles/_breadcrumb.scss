@@ -1,27 +1,39 @@
 #current-refined-values {
   float: left;
-  max-width: 60%;
+  max-width: 640px;
   height: calc( 100% + 20px );
   display: block;
-  padding: 10px;
-  top: -10px;
-  
+  padding: 10px 0;
+  position: relative;
+  text-overflow: ellipsis;
+
+
   a {
     color: #fff;
-
-   
   }
 
   .ais-current-refined-values--item {
     float: left;
-    display: inline-block;
-    padding: 0 8px;
+    display: none;
+    padding: 0 6px;
     position: relative;
-    margin-right: 6px;
-    font-weight: bold;
-    
-    
-     &:after {
+    font-size: 12px;
+
+    .ais-current-refined-values--link {
+      display: block;
+      width: 100%;
+      max-width: 160px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      color: rgba(white, 0.75);
+
+      &:hover {
+        color: rgba(white, 1)
+      }
+    }
+
+    &:after {
       content: " › ";
       position: absolute;
       top: 0;
@@ -30,14 +42,26 @@
       padding: 0 2px;
       font-weight: 400
     }
+
+    @include first(5) {
+      display: inline-block;
+    }
   }
   .ais-current-refined-values--count {
     display: none;
-    
+
   }
 
-.ais-current-refined-values--clear-all {
-  position: absolute;
-  
+  .ais-current-refined-values--clear-all {
+    position: absolute;
+    right: -112px;
+    top: 0;
+    background: #fff;
+    color: $brand-primary;
+    font-weight: bold;
+    padding: 8px 12px;
+    border-radius: 4px;
+  }
+
 }
-}
+

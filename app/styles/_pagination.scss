@@ -1,0 +1,19 @@
+#pagination {
+  background: $brand-primary;
+  position: relative;
+  width: calc(100% - 200px);
+  left: 200px;
+  transition: width 0.3s ease;
+}
+
+.hits.open ~ #pagination {
+ width: calc(100% - 200px - 20%);
+}
+
+.ais-pagination {
+  width: 100%;
+
+  a {
+    color: #fff
+  }
+}
