@@ -36,7 +36,6 @@
   },
   "devDependencies": {
     "algoliasearch": "^3.13.0",
-    "async": "^1.5.0",
     "auto-reload-brunch": "^2.0.0",
     "babel": "^5.8.29",
     "babel-brunch": "^6.0.2",
