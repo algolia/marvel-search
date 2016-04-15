@@ -5,15 +5,15 @@
   top: 60px;
   left: 0;
   bottom: 0;
-  width: 200px;
+  width: $sidebar-width;
   padding: 20px;
   border-right: 1px solid #EEE;
   background: #FFFFFF;
 
-  @media (max-width: 640px + 270px) {
-    transform: translateX(-270px)
+  // If room enough to display main area, we add the sidebar
+  @media (max-width: $main-area-two-columns + $sidebar-width) {
+    transform: translateX(-$sidebar-width)
   }
-
 }
 
 /* CLEAR ALL */
@@ -28,7 +28,6 @@
   margin: 0 0 8px;
   font-weight: bolder;
   color: $brand-primary;
-  float: left;
   width: 100%;
 }
 .ais-refinement-list {

@@ -1,0 +1,66 @@
+$checkbox-height: 15px;
+$checkbox-width: 30px;
+$checkbox-mark-height: 13px;
+$checkbox-mark-width: $checkbox-mark-height;
+$checkbox-background-color: #BDC3C7;
+$checkbox-mark-color: #FFF;
+$checkbox-active-background-color: #F11E22;
+
+.ais-refinement-list--label {
+  position: relative;
+  padding-left: $checkbox-width + 5px;
+  height: 2rem;
+  line-height: 2rem;
+  overflow: hidden;
+
+  // Fake checkbox made with before/after
+  &:before, &:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    left: 0;
+    border-radius: 50px;
+  }
+  // Fake checkbox background
+  &:before {
+    width: $checkbox-width;
+    height: $checkbox-height;
+    margin-top: -$checkbox-height / 2;
+    background: $checkbox-background-color;
+  }
+  // Fake checkbox mark
+  &:after {
+    width: $checkbox-mark-width;
+    height: $checkbox-mark-height;
+    left: 2px;
+    margin-top: -$checkbox-mark-height / 2;
+    background: $checkbox-mark-color;
+  }
+
+  // When checked
+  .ais-refinement-list--item__active & {
+    &:before {
+      background: $checkbox-active-background-color;
+    }
+    &:after {
+      transform: translateX($checkbox-width - $checkbox-mark-width - 4px);
+    }
+  }
+}
+
+// Hide checkbox
+.ais-refinement-list--checkbox {
+  display: none;
+}
+
+// Count
+.ais-refinement-list--count {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  background: #FFF;
+  box-shadow: -6px 0px 6px 0px #FFF;
+}

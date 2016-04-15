@@ -1,162 +1,162 @@
-
-*,
-*::after,
-*::before {
-  box-sizing: border-box;
-}
-label {
-  cursor: pointer;
-}
-input[type="radio"],
-.ais-refinement-list--checkbox {
-  margin: 5px 0 0;
-  line-height: normal;
-}
-.radio,
-.ais-refinement-list--label {
-  padding-left: 20px;
-}
-.radio label,
-.ais-refinement-list--label label {
-  margin-bottom: 0;
-}
-.radio input[type="radio"],
-.ais-refinement-list--label .ais-refinement-list--checkbox {
-  float: left;
-  margin-left: -19px;
-}
-.js .ais-refinement-list--label,
-.js .radio {
-  visibility: hidden;
-}
-.ais-refinement-list--label,
-.ais-refinement-list--label,
-.radio,
-.radio {
-  visibility: visible;
-}
-.ais-refinement-list--label,
-.radio {
-  padding-left: 0;
-  padding-top: 10px;
-}
-.ais-refinement-list--label label,
-.radio label {
-  display: inline-block;
-  vertical-align: middle;
-  margin: 0 0 0 10px;
-}
-.ais-refinement-list--label [type="checkbox"],
-.radio [type="radio"] {
-  position: relative;
-  margin: 0;
-  vertical-align: middle;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  border: 0;
-  background: none;
-}
-.ais-refinement-list--label [type="checkbox"]::before,
-.radio [type="radio"]::before,
-.ais-refinement-list--label [type="checkbox"]::after,
-.radio [type="radio"]::after {
-  display: inline-block;
-  content: "";
-  border-radius: 50px;
-  -webkit-transition: all .3s ease;
-  transition: all .3s ease;
-}
-.ais-refinement-list--label [type="checkbox"]::before,
-.radio [type="radio"]::before {
-  vertical-align: top;
-  cursor: pointer;
-}
-.ais-refinement-list--label [type="checkbox"]::after,
-.radio [type="radio"]::after {
-  position: absolute;
-  z-index: 2;
-}
-.ais-refinement-list--label [type="checkbox"]:focus,
-.radio [type="radio"]:focus {
-  outline: thin dotted #444;
-  outline-offset: 1px;
-}
-.ais-refinement-list--label [type="checkbox"] {
-  width: 42px;
-  height: 24px;
-  margin-right: 8px;
-}
-.ais-refinement-list--label [type="checkbox"]::before {
-  width: 42px;
-  height: 24px;
-  background: #bdc3c7;
-}
-.ais-refinement-list--label [type="checkbox"]::after {
-  width: 20px;
-  height: 20px;
-  top: 2px;
-  left: 2px;
-  background: #fff;
-}
-.ais-refinement-list--label [type="checkbox"]:checked::before {
-  background: #F11E22;
-}
-.ais-refinement-list--label [type="checkbox"]:checked::after {
-  -webkit-transform: translateX(18px);
-          transform: translateX(18px);
-}
-.no-csstransforms.ais-refinement-list--label [type="checkbox"]:checked::after {
-  left: 22px;
-}
-.radio [type="radio"] {
-  width: 24px;
-  height: 24px;
-}
-.radio [type="radio"]::before {
-  width: 24px;
-  height: 24px;
-  background: #fff;
-  border: 2px solid #F11E22;
-}
-.radio [type="radio"]::after {
-  width: 12px;
-  height: 12px;
-  top: 6px;
-  left: 6px;
-}
-.radio [type="radio"]:checked::after {
-  background: #F11E22;
-}
-
-
-@-moz-document url-prefix() {
-
-  label {
-    position: relative;
-    width: 100%;
-    height: 40px;
-    float: left;
-    font-size: 12px;
-
-    input {
-      visibility: hidden;
-    }
-
-    span:before {
-    content: '';
-    display: block;
-    position: absolute;
-    top: 50%;
-    width: 100%;
-    max-width: 40px;
-    min-height: 40px;
-    top: 0;
-    left: 0;
-    background: url("data:image/svg+xml;utf8,<svg width=\'244\' height=\'104\' viewBox=\'0 0 244 104\' xmlns=\'http://www.w3.org/2000/svg\'><title>toggle_OFF</title><g fill=\'none\' fill-rule=\'evenodd\'><rect fill=\'%23B4BBC0\' width=\'244\' height=\'104\' rx=\'59\'/><circle fill=\'%23FFF\' cx=\'55\' cy=\'52\' r=\'41\'/></g></svg>")no-repeat center center / contain;
-  }
-
-  input:checked ~ span:before {
-    background: url("data:image/svg+xml;utf8,<svg width=\'244\' height=\'104\' viewBox=\'0 0 244 104\' xmlns=\'http://www.w3.org/2000/svg\'><title>toggle_OFF</title><g fill=\'none\' fill-rule=\'evenodd\'><rect fill=\'%23FA0015\' width=\'244\' height=\'104\' rx=\'59\'/><circle fill=\'%23FFF\' cx=\'191\' cy=\'52\' r=\'41\'/></g></svg>")no-repeat center center / contain;
-  }
-  }
-}
+// 
+// *,
+// *::after,
+// *::before {
+//   box-sizing: border-box;
+// }
+// label {
+//   cursor: pointer;
+// }
+// input[type="radio"],
+// .ais-refinement-list--checkbox {
+//   margin: 5px 0 0;
+//   line-height: normal;
+// }
+// .radio,
+// .ais-refinement-list--label {
+//   padding-left: 20px;
+// }
+// .radio label,
+// .ais-refinement-list--label label {
+//   margin-bottom: 0;
+// }
+// .radio input[type="radio"],
+// .ais-refinement-list--label .ais-refinement-list--checkbox {
+//   float: left;
+//   margin-left: -19px;
+// }
+// .js .ais-refinement-list--label,
+// .js .radio {
+//   visibility: hidden;
+// }
+// .ais-refinement-list--label,
+// .ais-refinement-list--label,
+// .radio,
+// .radio {
+//   visibility: visible;
+// }
+// .ais-refinement-list--label,
+// .radio {
+//   padding-left: 0;
+//   padding-top: 10px;
+// }
+// .ais-refinement-list--label label,
+// .radio label {
+//   display: inline-block;
+//   vertical-align: middle;
+//   margin: 0 0 0 10px;
+// }
+// .ais-refinement-list--label [type="checkbox"],
+// .radio [type="radio"] {
+//   position: relative;
+//   margin: 0;
+//   vertical-align: middle;
+//   -webkit-appearance: none;
+//   -moz-appearance: none;
+//   border: 0;
+//   background: none;
+// }
+// .ais-refinement-list--label [type="checkbox"]::before,
+// .radio [type="radio"]::before,
+// .ais-refinement-list--label [type="checkbox"]::after,
+// .radio [type="radio"]::after {
+//   display: inline-block;
+//   content: "";
+//   border-radius: 50px;
+//   -webkit-transition: all .3s ease;
+//   transition: all .3s ease;
+// }
+// .ais-refinement-list--label [type="checkbox"]::before,
+// .radio [type="radio"]::before {
+//   vertical-align: top;
+//   cursor: pointer;
+// }
+// .ais-refinement-list--label [type="checkbox"]::after,
+// .radio [type="radio"]::after {
+//   position: absolute;
+//   z-index: 2;
+// }
+// .ais-refinement-list--label [type="checkbox"]:focus,
+// .radio [type="radio"]:focus {
+//   outline: thin dotted #444;
+//   outline-offset: 1px;
+// }
+// .ais-refinement-list--label [type="checkbox"] {
+//   width: 42px;
+//   height: 24px;
+//   margin-right: 8px;
+// }
+// .ais-refinement-list--label [type="checkbox"]::before {
+//   width: 42px;
+//   height: 24px;
+//   background: #bdc3c7;
+// }
+// .ais-refinement-list--label [type="checkbox"]::after {
+//   width: 20px;
+//   height: 20px;
+//   top: 2px;
+//   left: 2px;
+//   background: #fff;
+// }
+// .ais-refinement-list--label [type="checkbox"]:checked::before {
+//   background: #F11E22;
+// }
+// .ais-refinement-list--label [type="checkbox"]:checked::after {
+//   -webkit-transform: translateX(18px);
+//           transform: translateX(18px);
+// }
+// .no-csstransforms.ais-refinement-list--label [type="checkbox"]:checked::after {
+//   left: 22px;
+// }
+// .radio [type="radio"] {
+//   width: 24px;
+//   height: 24px;
+// }
+// .radio [type="radio"]::before {
+//   width: 24px;
+//   height: 24px;
+//   background: #fff;
+//   border: 2px solid #F11E22;
+// }
+// .radio [type="radio"]::after {
+//   width: 12px;
+//   height: 12px;
+//   top: 6px;
+//   left: 6px;
+// }
+// .radio [type="radio"]:checked::after {
+//   background: #F11E22;
+// }
+// 
+// 
+// @-moz-document url-prefix() {
+// 
+//   label {
+//     position: relative;
+//     width: 100%;
+//     height: 40px;
+//     float: left;
+//     font-size: 12px;
+// 
+//     input {
+//       visibility: hidden;
+//     }
+// 
+//     span:before {
+//     content: '';
+//     display: block;
+//     position: absolute;
+//     top: 50%;
+//     width: 100%;
+//     max-width: 40px;
+//     min-height: 40px;
+//     top: 0;
+//     left: 0;
+//     background: url("data:image/svg+xml;utf8,<svg width=\'244\' height=\'104\' viewBox=\'0 0 244 104\' xmlns=\'http://www.w3.org/2000/svg\'><title>toggle_OFF</title><g fill=\'none\' fill-rule=\'evenodd\'><rect fill=\'%23B4BBC0\' width=\'244\' height=\'104\' rx=\'59\'/><circle fill=\'%23FFF\' cx=\'55\' cy=\'52\' r=\'41\'/></g></svg>")no-repeat center center / contain;
+//   }
+// 
+//   input:checked ~ span:before {
+//     background: url("data:image/svg+xml;utf8,<svg width=\'244\' height=\'104\' viewBox=\'0 0 244 104\' xmlns=\'http://www.w3.org/2000/svg\'><title>toggle_OFF</title><g fill=\'none\' fill-rule=\'evenodd\'><rect fill=\'%23FA0015\' width=\'244\' height=\'104\' rx=\'59\'/><circle fill=\'%23FFF\' cx=\'191\' cy=\'52\' r=\'41\'/></g></svg>")no-repeat center center / contain;
+//   }
+//   }
+// }

@@ -1,22 +1,19 @@
-@import url(https://fonts.googleapis.com/css?family=Marvel);
-
-::root{
-  font-size: 16px;
-
+::root {
+  // Base font-size, refered to as `rem` after that
+  font-size: $base-font-size;
 }
 
-*{
+* {
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscaled;
   text-rendering: optimizeLegibility;
-
   -ms-overflow-style: none;
 }
 
 
 body {
-  font-family: Verdana, sans-serif;
+  font-family: Helvetica, sans-serif;
 }
 
 a {
@@ -43,13 +40,10 @@ p {
 }
 
 
-%hr{
+hr {
+  border: none;
+  margin: 1em auto;
   width: 50%;
   height: 1px;
   background: linear-gradient(to right, rgba(255,255,255,0) 0%, #aaa 50%, rgba(255,255,255,0) 100%);
-  border: none;
-}
-hr{
-  margin: 1em auto;
-  @extend %hr;
 }

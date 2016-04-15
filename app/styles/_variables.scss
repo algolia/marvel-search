@@ -5,8 +5,21 @@ $secondary-color: #279ce1;
 $third-color: #eff0f1;
 $secondary-color: $primary-color;
 
-///// sizes
+$base-font-size: 16px;
+
 $header-height: 60px;
 $profile-bar-width: 480px;
-$sidebar-width: 200px;
+$sidebar-width: 250px;
+$main-area-two-columns: 640px;
 
+
+// Handy method to remove units from values, to ease computation
+// @args value: Value in any unit
+// @returns: Value without unit
+@function _($value) {
+  @return $value / ($value * 0 + 1);
+}
+
+@function rem2px($rem) {
+  @return #{_($rem) * _($base-font-size)}px;
+}
