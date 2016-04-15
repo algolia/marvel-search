@@ -5,15 +5,14 @@
 
 * {
   box-sizing: border-box;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscaled;
-  text-rendering: optimizeLegibility;
-  -ms-overflow-style: none;
 }
-
 
 body {
   font-family: Helvetica, sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscaled;
+  -ms-overflow-style: none;
 }
 
 a {
@@ -22,21 +21,23 @@ a {
 
   &:hover {
     text-decoration: none;
-    color: $brand-primary
+    color: $red;
   }
   &:active {
     text-decoration: none;
-
   }
   &:focus {
     text-decoration: none;
-
   }
 }
 
 h1, h2, h3, h4, h5, h6,
 p {
   font-family: 'Marvel', helvetica neue, sans-serif;
+}
+
+input {
+  appearance: none;
 }
 
 

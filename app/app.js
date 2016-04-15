@@ -3,10 +3,10 @@ let Marvel = {
     this.search = instantsearch({
       appId: 'O3F8QXYK6R',
       apiKey: '78e45b023b7ff7d8ba88c59c9db19890',
-      indexName: 'marvel'
+      indexName: 'marvel',
+      urlSync: true
     });
 
-    this.addLogoClear();
     this.addSearchBoxWidget();
     this.addStatsWidget();
     this.addTeamsWidget();
@@ -16,6 +16,8 @@ let Marvel = {
     this.addHitsWidget();
     this.addPaginationWidget();
     this.addRefinementList();
+
+    this.addLogoClear();
 
     this.search.start();
   },
@@ -134,12 +136,12 @@ let Marvel = {
       })
     );
   },
-  addLogoClear(){
+  addLogoClear() {
     this.search.addWidget(
       instantsearch.widgets.clearAll({
         container: '#header--logo',
         templates: {
-          link: '<img src="marvel_logo.svg" class="header--logo"/>'
+          link: '<img src="img/logo-marvel.svg" class="header--logo"/>'
         },
         autoHideContainer: false
       })

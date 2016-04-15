@@ -1,68 +1,18 @@
-/* SIDEBAR */
-.sidebar {
-  position: fixed;
-  overflow-y: auto;
-  top: 60px;
-  left: 0;
-  bottom: 0;
-  width: $sidebar-width;
-  padding: 20px;
+.l-sidebar {
+  padding: 20px 15px 20px 20px;
   border-right: 1px solid #EEE;
-  background: #FFFFFF;
-
-  // If room enough to display main area, we add the sidebar
-  @media (max-width: $main-area-two-columns + $sidebar-width) {
-    transform: translateX(-$sidebar-width)
-  }
 }
 
-/* CLEAR ALL */
-.ais-clear-all {
-  margin-bottom: 10px;
-}
-
-/* FACETS */
+// Titles of each facet
 .facet--title {
-  font-size: 1.5em;
-  color: #888;
+  font-size: 1.5rem;
   margin: 0 0 8px;
-  font-weight: bolder;
-  color: $brand-primary;
-  width: 100%;
-}
-.ais-refinement-list {
-  margin-bottom: 1.3rem;
-}
-.ais-refinement-list--item {
-  padding-bottom: .3rem;
-}
-.ais-refinement-list--label {
-  font-weight: normal;
-  display: block;
-  cursor: pointer;
-  font-size: 1.3rem;
-  margin: 0;
-}
-.ais-refinement-list--label:hover {
-  color: $brand-primary;
-}
-input.ais-refinement-list--checkbox {
-  margin: 0px 5px 0px 0px;
-}
-.ais-refinement-list--count {
-  margin-left: 4px;
-  color: #888;
-  float: right;
-}
-.ais-refinement-list--item__active .ais-refinement-list--label {
-  font-weight: bold;
+  color: $red;
 }
 
-/* THANK YOU */
+// Bottom page thank you note
 .thank-you {
-  border-top: 1px solid #888;
   text-align: center;
-  padding-top: .5rem;
-  font-size: 1.3rem;
-  float: left; // Avoid bug in FF
+  font-size: .8rem;
+  padding-bottom: .5rem;
 }

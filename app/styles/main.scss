@@ -1,19 +1,19 @@
 @import 'variables',
-        'cssvg',
+          // 'cssvg',
         'mixins',
         'base',
-        'fonts',
-        'helpers';
+          'fonts',
+          'helpers';
 
 @import 'layout',
         'header',
-        'breadcrumb',
         'sidebar',
-        'facets',
-        'result',
-        'input',
-        'button',
-        'profile',
-        'factions',
-        'pagination';
+        'breadcrumb',
+        'facets'
+        // 'result',
+        // 'button',
+        // 'profile',
+        // 'factions',
+        // 'pagination'
+        ;
 

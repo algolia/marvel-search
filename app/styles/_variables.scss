@@ -1,25 +1,23 @@
-$brand-primary: #f11e22;
+$base-font-size: 16px;
 
+// Colors
+$red: #F11E22;
+
+// UI dimensions
+$header-height: 60px;
+$sidebar-width: 250px;
+$main-area-two-columns: 640px;
+$profile-bar-width: 480px;
+
+// RWD breakpoints
+$breakpoint-sidebar: $sidebar-width + $main-area-two-columns;
+
+// Vars I'd like to remove
+$brand-primary: #f11e22;
+$font-size: 16px;
+$line-height: 1.2;
+$lines-to-show: 3;
 $primary-color: #bdc3c7;
 $secondary-color: #279ce1;
 $third-color: #eff0f1;
 $secondary-color: $primary-color;
-
-$base-font-size: 16px;
-
-$header-height: 60px;
-$profile-bar-width: 480px;
-$sidebar-width: 250px;
-$main-area-two-columns: 640px;
-
-
-// Handy method to remove units from values, to ease computation
-// @args value: Value in any unit
-// @returns: Value without unit
-@function _($value) {
-  @return $value / ($value * 0 + 1);
-}
-
-@function rem2px($rem) {
-  @return #{_($rem) * _($base-font-size)}px;
-}

@@ -6,12 +6,27 @@ $checkbox-background-color: #BDC3C7;
 $checkbox-mark-color: #FFF;
 $checkbox-active-background-color: #F11E22;
 
+.ais-refinement-list {
+  margin-bottom: 1.3rem;
+}
+
+.ais-refinement-list--item {
+  padding-bottom: .3rem;
+}
+
 .ais-refinement-list--label {
-  position: relative;
-  padding-left: $checkbox-width + 5px;
-  height: 2rem;
-  line-height: 2rem;
+  cursor: pointer;
+  display: block;
+  font-weight: normal;
+  height: 1.3rem;
+  line-height: 1.3rem;
+  margin: 0;
   overflow: hidden;
+  padding-left: $checkbox-width + 5px;
+  position: relative;
+  &:hover {
+    color: $brand-primary;
+  }
 
   // Fake checkbox made with before/after
   &:before, &:after {
@@ -41,6 +56,7 @@ $checkbox-active-background-color: #F11E22;
 
   // When checked
   .ais-refinement-list--item__active & {
+    font-weight: bold;
     &:before {
       background: $checkbox-active-background-color;
     }
@@ -63,4 +79,5 @@ $checkbox-active-background-color: #F11E22;
   right: 0;
   background: #FFF;
   box-shadow: -6px 0px 6px 0px #FFF;
+  color: #888;
 }

@@ -1,57 +1,46 @@
-$font-size: 16px;
-$line-height: 1.2;
-$lines-to-show: 3;
+// All layout classes are prefixed with `l-`
+// Display follows a mobile-first approach. All classes are by default for
+// a display on small screens, and will be enhanced as more screen real-estate
+// appears.
+//
+// We prevent scrolling on the main page, and only activate it on the sidebar
+// and main panel. This makes the header act as if it was fixed.
 
-h2 {
-
-}
-
-/* Make the content use the whole width */
-.content-wrapper {
-  margin: 0 -15px;
-  min-width: 620px; 
-}
-
-
-
-/* RESULTS */
-.results {
-  padding: 70px 10px 10px;
-
-}
-
-
-/* PAGINATION */
-.pagination {
-  margin-top: 10px;
-  background-color: #EEE;
-  font-size: 1.2em;
-  line-height: 3em;
-  text-align: center; 
-  width: 100%;
-}
-.ais-pagination--item__active a {
-  color: #000000;
-  font-weight: bold; 
-}
-.ais-pagination--item__disabled {
-  visibility: visible; 
-}
-.ais-pagination--item__disabled a {
-  color: #bbbbbb; 
-}
-.ais-pagination--item__disabled a:hover {
-  cursor: default;
-  text-decoration: none; 
-}
-.pagination  ul {
+// Force the content to take all the vertical space, and prevent scrolling
+html, body {
   margin: 0;
-  padding: 0; 
+  height: 100%;
+  overflow: hidden;
 }
-.pagination li {
-  padding: 0 8px; 
+
+// Fixed header on top
+.l-header {
+  height: $header-height;
 }
-.pagination .fa {
-  position: relative;
-  top: 5px; 
+
+// Main container
+// Takes all the available vertical space, and its children are flexbox elements
+.l-container {
+  height: calc(100vh - #{$header-height});
+  display: flex;
+  flex-flow: row wrap;
+}
+
+// Sidebar hidden by default
+.l-sidebar {
+  display: none;
+  overflow-y: auto;
+}
+
+.l-results {
+  flex: 1;
+  overflow-y: auto;
+}
+
+// Room enough to display the sidebar
+@media (min-width: $breakpoint-sidebar) {
+  .l-sidebar {
+    display: block;
+    flex: 0 0 $sidebar-width;
+  }
 }
