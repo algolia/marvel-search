@@ -1,15 +1,15 @@
 {
   "aliases": [
-    "Tyomni Zvesda ; formerly \"Great Beast",
     "Darkstar",
+    "Great Beast",
     "Tyomni Zvesda (Russian translation of codename); formerly (with",
-    "Vanguard",
+    "Tyomni Zvesda ; formerly \"Great Beast",
     "Ursa Major",
-    "Great Beast"
+    "Vanguard"
   ],
   "authors": [
-    "Tony Isabella",
-    "George Tuska"
+    "George Tuska",
+    "Tony Isabella"
   ],
   "description": "Darkstar (Laynia Petrovna) is a fictional character, a mutant superheroine in the Marvel Comics universe.",
   "images": {
@@ -22,20 +22,20 @@
   "mainColor": null,
   "name": "Darkstar",
   "partners": [
-    "Griffin",
     "Crimson Dynamo",
+    "Griffin",
     "Titanium Man"
   ],
   "powers": [
+    "Concussive blasts",
     "Darkforce manipulation",
-    "Teleportation",
     "Flight",
-    "Concussive blasts"
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 20,
     "eventCount": 1,
-    "pageviewCount": 4061,
+    "pageviewCount": 295,
     "pageviewRank": -1,
     "serieCount": 13,
     "storyCount": 14
@@ -48,15 +48,15 @@
     "Mutant"
   ],
   "teams": [
-    "Siberforce",
+    "Champions",
+    "Champions of Los Angeles",
+    "Exiles",
+    "Exiles (Earth-616)",
     "KGB",
+    "Siberforce",
     "Soviet Super-Soldiers",
     "Winter Guard",
-    "X-Corporation",
-    "Champions",
-    "Exiles",
-    "Champions of Los Angeles",
-    "Exiles (Earth-616)"
+    "X-Corporation"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/512/darkstar",

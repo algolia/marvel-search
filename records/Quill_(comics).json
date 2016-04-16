@@ -4,14 +4,14 @@
     "Quills"
   ],
   "authors": [
-    "Nunzio DeFilippis",
-    "Christina Weir",
-    "Jamie Delano",
-    "Chris Claremont",
-    "Igor Kordey",
-    "Kieron Dwyer",
     "Alan Davis",
-    "Mark Gruenwald"
+    "Chris Claremont",
+    "Christina Weir",
+    "Igor Kordey",
+    "Jamie Delano",
+    "Kieron Dwyer",
+    "Mark Gruenwald",
+    "Nunzio DeFilippis"
   ],
   "description": "Quill has been the name of four different fictional comic book characters in the Marvel Comics universe.",
   "images": {
@@ -28,25 +28,25 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 3479,
+    "pageviewCount": 238,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Maxwell Jordan",
-    "Max"
+    "Max",
+    "Maxwell Jordan"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "Resistants",
-    "Warpies",
     "Arena",
     "Cherub",
-    "X-Mansion",
-    "Cherubim"
+    "Cherubim",
+    "Resistants",
+    "Warpies",
+    "X-Mansion"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Quill_(comics)"

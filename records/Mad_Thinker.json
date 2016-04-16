@@ -1,12 +1,12 @@
 {
   "aliases": [
     "Dr. José Santini",
-    "The Thinker",
-    "Mad Thinker"
+    "Mad Thinker",
+    "The Thinker"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "The Mad Thinker is a fictional character, a supervillain in the Marvel Comics Universe.",
   "images": {
@@ -19,23 +19,23 @@
   "mainColor": null,
   "name": "Mad Thinker",
   "partners": [
-    "Wizard",
-    "Puppet Master",
+    "Awesome Android",
     "Egghead",
     "Klaw",
-    "Awesome Android"
+    "Puppet Master",
+    "Wizard"
   ],
   "powers": [
-    "Master tactician",
-    "Strategist",
-    "Other robots",
+    "Awesome android",
     "Genius-level intellect",
-    "Awesome android"
+    "Master tactician",
+    "Other robots",
+    "Strategist"
   ],
   "ranking": {
     "comicCount": 16,
     "eventCount": 0,
-    "pageviewCount": 3699,
+    "pageviewCount": 261,
     "pageviewRank": -1,
     "serieCount": 11,
     "storyCount": 13
@@ -45,10 +45,10 @@
   "species": [
   ],
   "teams": [
-    "Maggia",
+    "Illuminati",
     "Intelligencia",
-    "Triumvirate of Terror",
-    "Illuminati"
+    "Maggia",
+    "Triumvirate of Terror"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2728/mad_thinker",

@@ -1,13 +1,13 @@
 {
   "aliases": [
+    "Paibok",
     "Paul Balk",
-    "Power Skrull",
-    "Paibok"
+    "Power Skrull"
   ],
   "authors": [
-    "Tom DeFalco",
+    "Danny Bulanadi",
     "Paul Ryan",
-    "Danny Bulanadi"
+    "Tom DeFalco"
   ],
   "description": "Paibok the Power Skrull is a fictional alien, a comic book supervillain appearing in the Marvel Comics universe.",
   "images": {
@@ -22,20 +22,20 @@
   "partners": [
   ],
   "powers": [
+    "Durability",
     "Energy",
-    "Ice projection",
-    "Shapeshifting",
     "Flight",
     "Hypnosis",
-    "Superhuman strength",
+    "Ice blasts",
+    "Ice projection",
+    "Shapeshifting",
     "Stamina",
-    "Durability",
-    "Ice blasts"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1127,
+    "pageviewCount": 73,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -47,9 +47,10 @@
     "Skrull"
   ],
   "teams": [
-    "Fearsome Foursome",
     "Annihilation",
-    "Annihilation Wave"
+    "Annihilation Wave",
+    "Fearsome Foursome",
+    "New Revengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1685/paibok",

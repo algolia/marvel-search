@@ -1,16 +1,16 @@
 {
   "aliases": [
-    "Time Bomb",
     "Boom-Boom",
     "Boomer",
-    "Meltdown",
     "Firecracker",
+    "Meltdown",
     "Mutate #35",
-    "Tabitha Smith"
+    "Tabitha Smith",
+    "Time Bomb"
   ],
   "authors": [
-    "Jim Shooter",
-    "Al Milgrom"
+    "Al Milgrom",
+    "Jim Shooter"
   ],
   "description": "Tabitha Smith is a fictional character, a comic book superhero in the Marvel Comics universe.",
   "images": {
@@ -30,7 +30,7 @@
   "ranking": {
     "comicCount": 56,
     "eventCount": 2,
-    "pageviewCount": 8813,
+    "pageviewCount": 469,
     "pageviewRank": -1,
     "serieCount": 11,
     "storyCount": 70
@@ -42,13 +42,13 @@
     "Mutant"
   ],
   "teams": [
-    "X-Force",
-    "Nextwave",
-    "X-Men",
-    "New Mutants",
-    "X-Terminators",
     "Fallen Angels",
-    "Underground"
+    "New Mutants",
+    "Nextwave",
+    "Underground",
+    "X-Force",
+    "X-Men",
+    "X-Terminators"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2800/boom_boom",

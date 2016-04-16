@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "Fandral the Dashing",
-    "Fandral"
+    "Fandral",
+    "Fandral the Dashing"
   ],
   "authors": [
     "Jack Kirby",
@@ -18,18 +18,18 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
     "Agility",
-    "Stamina",
     "Durability",
+    "Extended lifespan",
     "Master swordsman",
-    "Extended lifespan"
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 10918,
+    "pageviewCount": 710,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -40,9 +40,9 @@
   "species": [
   ],
   "teams": [
-    "Warriors Three",
     "Asgard",
-    "Thor Corps"
+    "Thor Corps",
+    "Warriors Three"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Fandral"

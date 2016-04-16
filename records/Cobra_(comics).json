@@ -1,14 +1,14 @@
 {
   "aliases": [
+    "Cobra",
     "Human Cobra",
-    "King Cobra",
-    "Cobra"
+    "King Cobra"
   ],
   "authors": [
-    "Timothy Liebe",
-    "Tamora Pierce",
+    "Don Heck",
     "Stan Lee",
-    "Don Heck"
+    "Tamora Pierce",
+    "Timothy Liebe"
   ],
   "description": "Cobra is the name of different characters that appear in Marvel Comics.",
   "images": {
@@ -22,36 +22,36 @@
   "partners": [
   ],
   "powers": [
+    "Agility",
+    "Balance",
+    "Coordination",
+    "Endurance",
+    "Reflexes & reactions",
+    "Slithery body",
+    "Superhuman strength",
     "Various poisonous gadgets",
     "Very flexible",
-    "Slithery body",
-    "Wall crawling",
-    "Superhuman strength",
-    "Agility",
-    "Reflexes & reactions",
-    "Coordination",
-    "Balance",
-    "Endurance"
+    "Wall crawling"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2719,
+    "pageviewCount": 169,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Piet Voorhees",
-    "Klaus Voorhees"
+    "Klaus Voorhees",
+    "Piet Voorhees"
   ],
   "species": [
   ],
   "teams": [
-    "Serpent Society",
-    "Thunderbolts",
     "Chaeyi",
-    "Serpent Squad"
+    "Serpent Society",
+    "Serpent Squad",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2839/king_cobra",

@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Luke Charles",
     "Black Leopard",
-    "Mr. Okonkwo",
-    "Black Panther"
+    "Black Panther",
+    "Luke Charles",
+    "Mr. Okonkwo"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "The Black Panther (T'Challa) is a fictional character, a superhero that appears in publications by Marvel Comics.",
   "images": {
@@ -28,30 +28,36 @@
     "Storm"
   ],
   "powers": [
-    "Trained acrobat",
-    "Gymnast",
-    "Martial artist",
-    "Superhuman senses",
-    "Wields vibranium uniform",
-    "Boots",
-    "Equipment",
-    "Skilled hunter",
-    "Tracker",
-    "Strategist",
-    "Politician",
-    "Inventor",
-    "Scientist",
-    "Genius-level intellect",
-    "Olympic-level strength",
-    "Speed",
     "Agility",
+    "Boots",
+    "Durability",
+    "Equipment",
+    "Genius-level intellect",
+    "Gymnast",
+    "Healing",
+    "Inventor",
+    "Martial artist",
+    "Olympic-level strength",
+    "Politician",
+    "Reflexes",
+    "Scientist",
+    "Skilled hunter",
+    "Speed",
     "Stamina",
-    "Reflexes"
+    "Strategist",
+    "Strength",
+    "Superhuman senses",
+    "Tracker",
+    "Trained acrobat",
+    "Uniform",
+    "Vibranium",
+    "Wields",
+    "Wields vibranium uniform"
   ],
   "ranking": {
     "comicCount": 320,
     "eventCount": 13,
-    "pageviewCount": 253115,
+    "pageviewCount": 8799,
     "pageviewRank": -1,
     "serieCount": 101,
     "storyCount": 468
@@ -62,11 +68,12 @@
   "species": [
   ],
   "teams": [
-    "Fantastic Force",
-    "Defenders",
     "Avengers",
+    "Defenders",
+    "Fantastic Force",
     "Fantastic Four",
-    "Illuminati"
+    "Illuminati",
+    "Ultimates"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009187/black_panther",

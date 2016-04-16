@@ -1,16 +1,17 @@
 {
   "aliases": [
-    "Natalie Rushman",
     "Laura Matthers",
     "Mary Farrell",
+    "Natalia Alianovna Romanova",
+    "Natalie Rushman",
     "Natasha Romanoff",
     "Oktober",
     "Yelena Belova"
   ],
   "authors": [
-    "Stan Lee",
+    "Don Heck",
     "Don Rico",
-    "Don Heck"
+    "Stan Lee"
   ],
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/537ba452ba274.gif",
@@ -27,30 +28,30 @@
   },
   "name": "Black Widow",
   "partners": [
+    "Boris Turgenov",
+    "Captain America",
     "Daredevil",
     "Hawkeye",
-    "Boris Turgenov",
-    "Winter Soldier",
-    "Captain America"
+    "Winter Soldier"
   ],
   "powers": [
-    "Expert",
-    "Tactician",
-    "Martial artist",
-    "Secret agent",
-    "Slowed aging",
     "Enhanced immune system",
+    "Expert",
+    "Explosives",
     "Grappling hook",
     "Knock out gas",
+    "Martial artist",
+    "Radio transmitter",
+    "Secret agent",
+    "Slowed aging",
+    "Tactician",
     "Taser",
-    "Explosives",
-    "Tear gas pellets",
-    "Radio transmitter"
+    "Tear gas pellets"
   ],
   "ranking": {
     "comicCount": 294,
     "eventCount": 8,
-    "pageviewCount": 43149,
+    "pageviewCount": 2627,
     "pageviewRank": -1,
     "serieCount": 125,
     "storyCount": 307
@@ -62,16 +63,16 @@
   "species": [
   ],
   "teams": [
-    "S.H.I.E.L.D",
     "Avengers",
     "Champions",
+    "Heroes for Hire",
     "KGB",
+    "Lady Liberators",
     "Marvel Knights",
     "Mighty Avengers",
-    "Lady Liberators",
-    "Thunderbolts",
+    "S.H.I.E.L.D",
     "Secret Avengers",
-    "Heroes for Hire"
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009189/black_widow",

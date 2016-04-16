@@ -1,8 +1,8 @@
 {
   "aliases": [
-    "Weapon Alpha",
+    "Guardian",
     "Vindicator",
-    "Guardian"
+    "Weapon Alpha"
   ],
   "authors": [
     "John Byrne"
@@ -20,29 +20,29 @@
   "partners": [
   ],
   "powers": [
-    "Personal force field",
-    "Flight"
+    "Flight",
+    "Personal force field"
   ],
   "ranking": {
     "comicCount": 30,
     "eventCount": 1,
-    "pageviewCount": 5149,
+    "pageviewCount": 289,
     "pageviewRank": -1,
     "serieCount": 16,
     "storyCount": 27
   },
   "secretIdentities": [
-    "James MacDonald Hudson, Jr.",
     "James MacDonald Hudson",
+    "James MacDonald Hudson, Jr.",
     "Jr."
   ],
   "species": [
   ],
   "teams": [
-    "Beta Flight",
-    "Features of the Marvel Universe",
     "Alpha Flight",
-    "Department H"
+    "Beta Flight",
+    "Department H",
+    "Features of the Marvel Universe"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/868/guardian",

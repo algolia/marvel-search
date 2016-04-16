@@ -3,11 +3,11 @@
     "Husk"
   ],
   "authors": [
-    "Tony Daniel",
     "Bill Mantlo",
-    "william johnson",
+    "Fabian Nicieza",
+    "Tony Daniel",
     "re-established by",
-    "Fabian Nicieza"
+    "william johnson"
   ],
   "description": "Husk (Paige Guthrie) is a fictional character from Marvel Comics.",
   "images": {
@@ -22,13 +22,13 @@
   "partners": [
   ],
   "powers": [
-    "Shape",
-    "Or size beneath"
+    "Or size beneath",
+    "Shape"
   ],
   "ranking": {
     "comicCount": 27,
     "eventCount": 2,
-    "pageviewCount": 5278,
+    "pageviewCount": 300,
     "pageviewRank": -1,
     "serieCount": 9,
     "storyCount": 37
@@ -40,12 +40,12 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men",
     "Generation X",
-    "X-Corps",
+    "Jean Grey School",
     "Mutantes Sans Frontières",
-    "Xavier Institute",
-    "Jean Grey School"
+    "X-Corps",
+    "X-Men",
+    "Xavier Institute"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/999/husk",

@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Spidey",
-    "Spider-Girl Red",
+    "Amazing Spider-Girl",
     "Spider-Girl",
-    "Amazing Spider-Girl"
+    "Spider-Girl Red",
+    "Spidey"
   ],
   "authors": [
-    "Tom DeFalco",
+    "Mark Bagley",
     "Ron Frenz",
-    "Mark Bagley"
+    "Tom DeFalco"
   ],
   "description": "Spider-Girl (May \"Mayday\" Parker) is a superheroine in Marvel Comics' MC2 universe.",
   "images": {
@@ -23,22 +23,22 @@
   "partners": [
   ],
   "powers": [
-    "Repel objects",
-    "People",
-    "Superhuman strength",
-    "Durability",
-    "Stamina",
-    "Speed",
     "Agility",
-    "Reflexes",
-    "Endurance",
     "Bio-magnetism",
-    "Manipulation"
+    "Durability",
+    "Endurance",
+    "Manipulation",
+    "People",
+    "Reflexes",
+    "Repel objects",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 34,
     "eventCount": 1,
-    "pageviewCount": 15083,
+    "pageviewCount": 956,
     "pageviewRank": -1,
     "serieCount": 8,
     "storyCount": 43
@@ -50,9 +50,9 @@
   "species": [
   ],
   "teams": [
-    "New Warriors",
-    "Fantastic Five",
     "A-Next",
+    "Fantastic Five",
+    "New Warriors",
     "Web Warriors"
   ],
   "urls": {

@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Bloodsport",
-    "Bloodscream"
+    "Bloodscream",
+    "Bloodsport"
   ],
   "authors": [
-    "John Buscema",
-    "Chris Claremont"
+    "Chris Claremont",
+    "John Buscema"
   ],
   "description": "Bloodscream is a fictional character, a comic book supervillain in the Marvel Comics universe and an enemy of Wolverine.",
   "images": {
@@ -20,20 +20,20 @@
   "partners": [
   ],
   "powers": [
-    "Extended lifespan",
-    "Limited shape-shifting",
-    "Superhuman strength",
-    "Speed",
-    "Stamina",
     "Agility",
+    "Extended lifespan",
+    "Healing factor",
+    "Limited shape-shifting",
     "Reflexes",
     "Regenerative",
-    "Healing factor"
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 5,
     "eventCount": 0,
-    "pageviewCount": 960,
+    "pageviewCount": 49,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 6

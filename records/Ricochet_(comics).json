@@ -19,32 +19,32 @@
   "partners": [
   ],
   "powers": [
-    "Use of throwing discs",
-    "Precognition",
-    "Superhuman agility",
-    "Reflexes",
     "Coordination",
-    "Danger sense"
+    "Danger sense",
+    "Precognition",
+    "Reflexes",
+    "Superhuman agility",
+    "Use of throwing discs"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2222,
+    "pageviewCount": 136,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Jonathan Gallo",
-    "Johnny"
+    "Johnny",
+    "Jonathan Gallo"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "Slingers",
     "Avengers Academy",
-    "Loners"
+    "Loners",
+    "Slingers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1923/ricochet",

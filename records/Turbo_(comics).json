@@ -1,13 +1,13 @@
 {
   "aliases": [
+    "(I) Torpedo Sue",
     "Torpedo Sue",
-    "Turbo",
-    "(I) Torpedo Sue"
+    "Turbo"
   ],
   "authors": [
-    "James Brock",
+    "Dwight Coye",
     "Evan Skolnick",
-    "Dwight Coye"
+    "James Brock"
   ],
   "description": "As Turbo, young journalist Michiko Musashi is the latest in a line of heroes who have worn the turbine-powered flying armor.",
   "images": {
@@ -22,26 +22,26 @@
   "partners": [
   ],
   "powers": [
-    "Flight",
-    "Energy disruption",
     "Air blasts",
+    "Energy disruption",
+    "Flight",
     "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 3,
     "eventCount": 0,
-    "pageviewCount": 1233,
+    "pageviewCount": 88,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 3
   },
   "secretIdentities": [
+    "(I) Michiko Musashi",
+    "(II) Michael Brent Jeffries",
     "Michael Brent Jeffries",
     "Michiko Musashi",
-    "Mike",
     "Mickey",
-    "(I) Michiko Musashi",
-    "(II) Michael Brent Jeffries"
+    "Mike"
   ],
   "species": [
   ],

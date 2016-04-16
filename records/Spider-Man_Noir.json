@@ -3,9 +3,9 @@
     "Spider-Man Noir"
   ],
   "authors": [
+    "Carmine Di Giandomenico",
     "David Hine",
-    "Fabrice Sapolsky",
-    "Carmine Di Giandomenico"
+    "Fabrice Sapolsky"
   ],
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Spider-Man_Noir.png/250px-Spider-Man_Noir.png"
@@ -17,15 +17,15 @@
   "partners": [
   ],
   "powers": [
-    "Speed",
-    "Agility of a spider",
     "A spider-sense",
-    "Capture his enemies"
+    "Agility of a spider",
+    "Capture his enemies",
+    "Speed"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 6761,
+    "pageviewCount": 493,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

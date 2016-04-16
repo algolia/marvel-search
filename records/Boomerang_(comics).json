@@ -1,9 +1,9 @@
 {
   "aliases": [
     "Boomer",
+    "Boomerang",
     "Fred Slade",
-    "Outback",
-    "Boomerang"
+    "Outback"
   ],
   "authors": [
     "Jack Kirby",
@@ -21,39 +21,39 @@
   "name": "Boomerang",
   "partners": [
     "Kingpin",
-    "Viper",
-    "Silver Samurai"
+    "Silver Samurai",
+    "Viper"
   ],
   "powers": [
+    "Flight via jet boots",
+    "Gimmicked boomerangs",
     "Skilled marksman",
     "Street fighter",
-    "Wields variety of lethal",
-    "Gimmicked boomerangs",
-    "Flight via jet boots"
+    "Wields variety of lethal"
   ],
   "ranking": {
     "comicCount": 18,
     "eventCount": 1,
-    "pageviewCount": 5289,
+    "pageviewCount": 641,
     "pageviewRank": -1,
     "serieCount": 15,
     "storyCount": 13
   },
   "secretIdentities": [
-    "Frederick Myers",
-    "Fred"
+    "Fred",
+    "Frederick Myers"
   ],
   "species": [
   ],
   "teams": [
-    "Secret Empire",
-    "Thunderbolts",
-    "Sinister Syndicate",
     "Assassins' Guild",
-    "Sinister Six",
     "Masters of Evil",
+    "Secret Empire",
+    "Sinister Six",
+    "Sinister Sixteen",
+    "Sinister Syndicate",
     "Sinister Twelve",
-    "Sinister Sixteen"
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/339/boomerang",

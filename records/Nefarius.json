@@ -1,15 +1,15 @@
 {
   "aliases": [
-    "Moonstone",
     "Byron Becton",
+    "Moonstone",
     "Nefarius"
   ],
   "authors": [
-    "Steve Englehart",
-    "Mike Friedrich  & Sal Buscema",
-    "Mike Friedrich",
     "(story) &",
-    "Sal Buscema"
+    "Mike Friedrich",
+    "Mike Friedrich  & Sal Buscema",
+    "Sal Buscema",
+    "Steve Englehart"
   ],
   "description": "Nefarius (Lloyd Bloch), previously known as Moonstone, is a fictional character, a supervillain in the Marvel Comics universe.",
   "images": {
@@ -24,15 +24,15 @@
   "partners": [
   ],
   "powers": [
-    "Speed",
-    "Stamina",
+    "Invulnerability",
     "Laser-vision",
-    "Invulnerability"
+    "Speed",
+    "Stamina"
   ],
   "ranking": {
     "comicCount": 20,
     "eventCount": 4,
-    "pageviewCount": 776,
+    "pageviewCount": 65,
     "pageviewRank": -1,
     "serieCount": 15,
     "storyCount": 20
@@ -43,8 +43,8 @@
   "species": [
   ],
   "teams": [
-    "Secret Empire",
-    "Maggia"
+    "Maggia",
+    "Secret Empire"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1503/moonstone",

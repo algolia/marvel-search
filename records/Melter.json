@@ -1,13 +1,14 @@
 {
   "aliases": [
-    "Melter II",
-    "Melter"
+    "Bruno Horgan",
+    "Melter",
+    "Melter II"
   ],
   "authors": [
-    "Paul Cornell",
-    "Steve Ditko",
     "Mark Brooks",
-    "Stan Lee"
+    "Paul Cornell",
+    "Stan Lee",
+    "Steve Ditko"
   ],
   "description": "The Melter is the name of three characters in Marvel Comics.",
   "images": {
@@ -25,22 +26,22 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2117,
+    "pageviewCount": 140,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Christopher Colchiss",
-    "Bruno Horgan"
+    "Bruno Horgan",
+    "Christopher Colchiss"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "Young Masters",
+    "Death Squad",
     "Masters of Evil",
-    "Death Squad"
+    "Young Masters"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Melter"

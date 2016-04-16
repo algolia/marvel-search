@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Hardshell",
     "Beetle",
+    "Hardshell",
     "Leila Davis"
   ],
   "authors": [
+    "Al Milgrom",
     "Danny Fingeroth",
-    "Kerry Gammill",
-    "Al Milgrom"
+    "Kerry Gammill"
   ],
   "description": "Leila Davis is a fictional character, a comic book supervillainess and later costumed hero in the Marvel Comics universe.",
   "images": {
@@ -20,22 +20,22 @@
   "mainColor": null,
   "name": "Beetle (Abner Jenkins)",
   "partners": [
-    "Ringer",
-    "Vulture",
     "Boomerang",
-    "Rhino"
+    "Rhino",
+    "Ringer",
+    "Vulture"
   ],
   "powers": [
-    "Variety of weapon systems",
-    "Superhuman strength",
+    "Durability",
     "Flight",
     "Powered armor",
-    "Durability"
+    "Superhuman strength",
+    "Variety of weapon systems"
   ],
   "ranking": {
     "comicCount": 13,
     "eventCount": 2,
-    "pageviewCount": 986,
+    "pageviewCount": 63,
     "pageviewRank": -1,
     "serieCount": 9,
     "storyCount": 15
@@ -46,8 +46,8 @@
   "species": [
   ],
   "teams": [
-    "Sinister Syndicate",
     "Redeemers",
+    "Sinister Syndicate",
     "The Redeemers"
   ],
   "urls": {

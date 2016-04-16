@@ -1,13 +1,13 @@
 {
   "aliases": [
+    "Abomination",
     "Agent R-7",
-    "The Ravager of Worlds",
     "The Abomination",
-    "Abomination"
+    "The Ravager of Worlds"
   ],
   "authors": [
-    "Stan Lee",
-    "Gil Kane"
+    "Gil Kane",
+    "Stan Lee"
   ],
   "description": "Formerly known as Emil Blonsky, a spy of Soviet Yugoslavian origin working for the KGB, the Abomination gained his powers after receiving a dose of gamma radiation similar to that which transformed Bruce Banner into the incredible Hulk.",
   "images": {
@@ -20,23 +20,23 @@
   "mainColor": null,
   "name": "Abomination (Emil Blonsky)",
   "partners": [
-    "Rhino",
     "Leader",
+    "Rhino",
     "The Leader"
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
-    "Stamina",
     "Durability",
+    "Healing factor",
     "Hellfire projection",
     "Regenerative",
-    "Healing factor"
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 43,
     "eventCount": 2,
-    "pageviewCount": 28841,
+    "pageviewCount": 1449,
     "pageviewRank": -1,
     "serieCount": 24,
     "storyCount": 39
@@ -48,9 +48,9 @@
     "Mutate"
   ],
   "teams": [
-    "Masters of Evil",
+    "KGB",
     "Legion Accursed",
-    "KGB"
+    "Masters of Evil"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/81/abomination",

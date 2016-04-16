@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Rahne Sinclair",
-    "Princess/Queen Rain of Gesham",
     "Grimfang",
     "Mutate #490",
-    "Wolfsbane",
-    "Mutate #490 (in Genosha)"
+    "Mutate #490 (in Genosha)",
+    "Princess/Queen Rain of Gesham",
+    "Rahne Sinclair",
+    "Wolfsbane"
   ],
   "authors": [
     "Bob McLeod",
@@ -24,14 +24,14 @@
   "partners": [
   ],
   "powers": [
-    "Shapeshift",
     "Into a wolf-like humanoid",
-    "Lycanthropy"
+    "Lycanthropy",
+    "Shapeshift"
   ],
   "ranking": {
     "comicCount": 59,
     "eventCount": 3,
-    "pageviewCount": 7718,
+    "pageviewCount": 572,
     "pageviewRank": -1,
     "serieCount": 21,
     "storyCount": 61
@@ -43,13 +43,13 @@
     "Mutant"
   ],
   "teams": [
-    "X-Factor Investigations",
     "Excalibur",
-    "New Mutants",
     "Hellions",
-    "X-Force",
-    "X-Factor",
+    "New Mutants",
     "Paragons",
+    "X-Factor",
+    "X-Factor Investigations",
+    "X-Force",
     "X-Mansion",
     "Xavier Institute"
   ],

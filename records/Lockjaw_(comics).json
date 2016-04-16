@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Sparky",
-    "Lockjaw"
+    "Lockjaw",
+    "Sparky"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Lockjaw is a fictional character, a bulldog-like being that appears in comic books published by Marvel Comics.",
   "images": {
@@ -20,16 +20,16 @@
   "partners": [
   ],
   "powers": [
+    "Durability",
     "Matter ingestion",
     "Precognition",
-    "Teleportation",
     "Super strength",
-    "Durability"
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 27,
     "eventCount": 0,
-    "pageviewCount": 8164,
+    "pageviewCount": 467,
     "pageviewRank": -1,
     "serieCount": 20,
     "storyCount": 24
@@ -40,11 +40,11 @@
     "Inhumans"
   ],
   "teams": [
-    "Inhumans",
     "Fantastic Four",
+    "Inhumans",
     "Lockjaw",
-    "the Pet Avengers",
-    "Pet Avengers"
+    "Pet Avengers",
+    "the Pet Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1267/lockjaw",

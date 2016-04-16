@@ -1,34 +1,33 @@
 {
   "aliases": [
+    "America Chavez"
   ],
   "authors": [
-    "Otto Binder",
-    "Al Gabriele"
+    "Al Gabriele",
+    "Otto Binder"
   ],
   "images": {
-    "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/MissAmericaComics_n1_1944.jpg/200px-MissAmericaComics_n1_1944.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
-  "name": "Miss America",
+  "name": "America Chavez",
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Flight",
     "Enhanced stamina",
+    "Flight",
+    "Superhuman strength",
     "X-ray vision"
   ],
   "ranking": {
-    "comicCount": 41,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1252,
+    "pageviewCount": 82,
     "pageviewRank": -1,
-    "serieCount": 4,
-    "storyCount": 41
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Madeline Joyce"
@@ -37,11 +36,10 @@
   ],
   "teams": [
     "All-Winners Squad",
-    "Liberty Legion",
-    "Invaders"
+    "Invaders",
+    "Liberty Legion"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2935/miss_america",
     "wikipedia": "https://en.wikipedia.org/wiki/America_Chavez"
   }
 }

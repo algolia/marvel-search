@@ -1,15 +1,15 @@
 {
   "aliases": [
-    "Venom",
     "Anti-Venom",
-    "Toxin",
-    "Eddie Brock",
     "Brock",
-    "Eddie"
+    "Eddie",
+    "Eddie Brock",
+    "Toxin",
+    "Venom"
   ],
   "authors": [
-    "Todd McFarlane",
-    "David Michelinie"
+    "David Michelinie",
+    "Todd McFarlane"
   ],
   "description": "Eddie Brock is a fictional character created by David Michelinie and Todd McFarlane.",
   "images": {
@@ -24,20 +24,22 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
     "Agility",
-    "Reflexes",
+    "Alien symbiote",
+    "Camouflage",
+    "Durability",
     "Endurance",
-    "Organic webbing",
     "Immunity to spider sense",
     "Limited shapeshifting",
-    "Camouflage",
-    "Alien symbiote"
+    "Organic webbing",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 19641,
+    "pageviewCount": 1270,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -48,9 +50,9 @@
   "species": [
   ],
   "teams": [
-    "Sinister Six",
+    "Revengers",
     "Savage Six",
-    "Revengers"
+    "Sinister Six"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2829/eddie_brock",

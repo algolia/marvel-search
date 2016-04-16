@@ -3,9 +3,9 @@
     "Anole"
   ],
   "authors": [
-    "Nunzio DeFilippis",
+    "Carlo Barberi",
     "Christina Weir",
-    "Carlo Barberi"
+    "Nunzio DeFilippis"
   ],
   "description": "Anole (Victor Borkowski) is a fictional mutant superhero in the Marvel Universe.",
   "images": {
@@ -20,41 +20,43 @@
   "partners": [
   ],
   "powers": [
-    "Green scaly skin",
-    "Spiked head carapace",
-    "Prehensile sticky tongue",
-    "Superhuman agility",
-    "Speed",
-    "Reflexes/reactions",
-    "Coordination",
     "Balance",
-    "Wallcrawling",
+    "Camouflage",
+    "Coordination",
+    "Green scaly skin",
+    "Prehensile sticky tongue",
+    "Reflexes/reactions",
     "Regeneration",
-    "Camouflage"
+    "Speed",
+    "Spiked head carapace",
+    "Superhuman agility",
+    "Wallcrawling"
   ],
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 2994,
+    "pageviewCount": 190,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 1
   },
   "secretIdentities": [
-    "Victor Borkowski",
-    "Vic"
+    "Vic",
+    "Victor Borkowski"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
+    "Alpha Squadron",
     "Alpha Squadron training squad",
-    "New X-Men",
-    "Xavier Institute",
-    "X-Men-In-Training",
-    "Young X-Men",
     "Jean Grey School Students",
-    "X-Men"
+    "New X-Men",
+    "X-Mansion",
+    "X-Men",
+    "X-Men-In-Training",
+    "Xavier Institute",
+    "Young X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/155/anole",

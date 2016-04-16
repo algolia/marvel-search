@@ -1,12 +1,13 @@
 {
   "aliases": [
-    "Nathan Winters",
-    "Nathan Dayspring",
     "Askani'son",
-    "Soldier X",
+    "Cable",
     "Chosen One",
+    "Nathan Dayspring",
+    "Nathan Winters",
+    "Soldier X",
     "Traveler",
-    "Cable"
+    "X-Men"
   ],
   "authors": [
     "Chris Claremont",
@@ -29,22 +30,22 @@
   },
   "name": "Cable",
   "partners": [
-    "Domino",
-    "Rachel Summers",
     "Deadpool",
-    "Hope Summers"
+    "Domino",
+    "Hope Summers",
+    "Rachel Summers"
   ],
   "powers": [
-    "Telepathy",
-    "Telekinesis",
-    "Technopathy",
     "Expert",
-    "Marksman"
+    "Marksman",
+    "Technopathy",
+    "Telekinesis",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 285,
     "eventCount": 12,
-    "pageviewCount": 64517,
+    "pageviewCount": 6509,
     "pageviewRank": -1,
     "serieCount": 63,
     "storyCount": 427
@@ -56,14 +57,14 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men",
-    "X-Force",
     "Askani",
+    "Avengers Unity Division",
+    "New Mutants",
     "Six Pack",
     "The Twelve",
-    "New Mutants",
-    "Avengers Unity Division",
-    "The Underground"
+    "The Underground",
+    "X-Force",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/7/cable",

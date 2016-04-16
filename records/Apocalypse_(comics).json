@@ -1,14 +1,14 @@
 {
   "aliases": [
+    "Apocalypse",
     "En Sabah Nur",
-    "Various mythological deities",
-    "The First One",
     "Genesis",
-    "Apocalypse"
+    "The First One",
+    "Various mythological deities"
   ],
   "authors": [
-    "Louise Simonson",
-    "Jackson Guice"
+    "Jackson Guice",
+    "Louise Simonson"
   ],
   "description": "Apocalypse (also known as En Sabah Nur or \"the first one\") is a fictional character, a supervillain born with mutant powers, appearing in comic books published by Marvel Comics.",
   "images": {
@@ -25,15 +25,20 @@
     "Ozymandias"
   ],
   "powers": [
+    "Energy manipulation",
+    "Genius-level intellect",
     "Healing factor",
-    "Teleportation",
     "Immortality",
-    "Genius-level intellect"
+    "Mass manipulation",
+    "Technopathy",
+    "Telekinesis",
+    "Telepathy",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 71,
     "eventCount": 7,
-    "pageviewCount": 410815,
+    "pageviewCount": 13242,
     "pageviewRank": -1,
     "serieCount": 37,
     "storyCount": 68
@@ -45,10 +50,10 @@
     "Mutant"
   ],
   "teams": [
-    "Four Horsemen",
-    "Dark Riders",
-    "Clan Akkaba",
     "Alliance of Evil",
+    "Clan Akkaba",
+    "Dark Riders",
+    "Four Horsemen",
     "S.H.I.E.L.D"
   ],
   "urls": {

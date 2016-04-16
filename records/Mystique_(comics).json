@@ -1,21 +1,21 @@
 {
   "aliases": [
-    "Raven Darkhölme",
-    "Raven Darkholme",
-    "Jean Grey",
-    "Professor Charles Xavier",
-    "Nick Fury",
-    "Storm",
-    "Raven Wagner",
-    "Leni Zauber",
-    "Valerie Cooper",
-    "Mallory Brickman",
-    "Ronnie Lake",
-    "Holt Adler",
-    "Surge",
-    "Foxx",
     "Amichai Benvenisti",
-    "Mystique"
+    "Foxx",
+    "Holt Adler",
+    "Jean Grey",
+    "Leni Zauber",
+    "Mallory Brickman",
+    "Mystique",
+    "Nick Fury",
+    "Professor Charles Xavier",
+    "Raven Darkholme",
+    "Raven Darkhölme",
+    "Raven Wagner",
+    "Ronnie Lake",
+    "Storm",
+    "Surge",
+    "Valerie Cooper"
   ],
   "authors": [
     "Chris Claremont",
@@ -34,15 +34,15 @@
   "partners": [
   ],
   "powers": [
-    "Shapeshifting",
-    "Superhuman agility",
+    "Agelessness",
     "Reflexes",
-    "Agelessness"
+    "Shapeshifting",
+    "Superhuman agility"
   ],
   "ranking": {
     "comicCount": 119,
     "eventCount": 5,
-    "pageviewCount": 74954,
+    "pageviewCount": 4438,
     "pageviewRank": 6578,
     "serieCount": 38,
     "storyCount": 136
@@ -57,17 +57,17 @@
     "Astonishing Avengers",
     "Brotherhood of Mutants",
     "Chevaliers training squad",
+    "DARPA",
     "Daily Bugle",
     "Dark X-Men",
-    "DARPA",
     "Freedom Force",
     "Marauders",
     "Mossad",
     "The Hand",
-    "Xavier Institute",
     "X-Corps",
     "X-Factor",
-    "X-Men"
+    "X-Men",
+    "Xavier Institute"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009465/mystique",

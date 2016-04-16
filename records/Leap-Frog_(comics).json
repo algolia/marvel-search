@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Vincent Colorito",
     "Frog-Face",
     "Frog-Man",
-    "Leap-Frog"
+    "Leap-Frog",
+    "Vincent Colorito"
   ],
   "authors": [
     "Frank Giacoia",
-    "Stan Lee",
-    "Gene Colan"
+    "Gene Colan",
+    "Stan Lee"
   ],
   "description": "Leap-Frog is the name of two Marvel Comics supervillains who use a frog suit containing electrical coils on the soles of each of the two flippers which allow the wearer to leap great distances up to 60 ft (18 m) high or 100 ft (30 m) long.",
   "images": {
@@ -23,13 +23,13 @@
   "partners": [
   ],
   "powers": [
-    "Enhanced strength",
-    "Agility"
+    "Agility",
+    "Enhanced strength"
   ],
   "ranking": {
     "comicCount": 2,
     "eventCount": 1,
-    "pageviewCount": 1396,
+    "pageviewCount": 78,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 3
@@ -41,10 +41,10 @@
   "species": [
   ],
   "teams": [
-    "Defenders",
-    "Emissaries of Evil",
     "Damage Control",
-    "Defenders Impersonators"
+    "Defenders",
+    "Defenders Impersonators",
+    "Emissaries of Evil"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/740/frog-man",

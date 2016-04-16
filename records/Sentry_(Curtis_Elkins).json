@@ -3,8 +3,8 @@
     "Sentry"
   ],
   "authors": [
-    "Mark Bagley",
-    "David Michelinie"
+    "David Michelinie",
+    "Mark Bagley"
   ],
   "description": "Empowered by the enigmatic Professor's secret formula, high school student Robert Reynolds became a superhuman.",
   "images": {
@@ -19,15 +19,15 @@
   "partners": [
   ],
   "powers": [
-    "No superhuman powers",
     "Body-armor",
     "Jet-boots",
+    "No superhuman powers",
     "Repulsor gun"
   ],
   "ranking": {
     "comicCount": 60,
     "eventCount": 7,
-    "pageviewCount": 396,
+    "pageviewCount": 38,
     "pageviewRank": -1,
     "serieCount": 26,
     "storyCount": 59
@@ -38,8 +38,8 @@
   "species": [
   ],
   "teams": [
-    "The Vault",
-    "The Jury"
+    "The Jury",
+    "The Vault"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2048/sentry",

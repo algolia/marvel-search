@@ -1,8 +1,8 @@
 {
   "aliases": [
     "Bandit",
-    "Night Thrasher",
-    "Donyell Taylor"
+    "Donyell Taylor",
+    "Night Thrasher"
   ],
   "authors": [
     "Fabian Nicieza",
@@ -22,23 +22,23 @@
   "partners": [
   ],
   "powers": [
-    "Advanced body armor",
-    "Superhuman speed",
-    "Reflexes",
-    "Use of weapons",
-    "Accomplished marksman",
-    "Martial artist",
-    "Acrobat",
-    "Thief",
-    "Scientist",
     "Accomplished acrobat",
+    "Accomplished marksman",
+    "Acrobat",
+    "Advanced body armor",
     "Marksman",
+    "Martial artist",
+    "Reflexes",
+    "Scientist",
+    "Superhuman speed",
+    "Thief",
+    "Use of weapons",
     "Wears advanced body armor"
   ],
   "ranking": {
     "comicCount": 13,
     "eventCount": 3,
-    "pageviewCount": 967,
+    "pageviewCount": 64,
     "pageviewRank": -1,
     "serieCount": 8,
     "storyCount": 12
@@ -50,8 +50,8 @@
     "Mutant"
   ],
   "teams": [
-    "Night Thrasher",
     "New Warriors",
+    "Night Thrasher",
     "Taylor Foundation"
   ],
   "urls": {

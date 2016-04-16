@@ -1,15 +1,15 @@
 {
   "aliases": [
-    "Yuriko Oyama",
-    "Lady Deathstrike"
+    "Lady Deathstrike",
+    "Yuriko Oyama"
   ],
   "authors": [
+    "Barry Windsor-Smith",
     "Bill Mantlo",
-    "Sal Buscema",
+    "Chris Claremont",
     "Dennis O'Neil",
     "Larry Hama",
-    "Chris Claremont",
-    "Barry Windsor-Smith"
+    "Sal Buscema"
   ],
   "description": "Lady Deathstrike (Yuriko Oyama), occasionally spelled \"Deathstryke\", is a Marvel Comics supervillain, a foe of the X-Men, especially Wolverine.Her father Lord Dark Wind created the adamantium-bonding process that was forced on Wolverine by Weapon X.",
   "images": {
@@ -24,19 +24,19 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
-    "Agility",
-    "Reflexes",
     "Adamantium skeleton",
-    "Retractable claw nails",
+    "Agility",
     "Excellent athlete",
-    "Hand-to-hand combatant"
+    "Hand-to-hand combatant",
+    "Reflexes",
+    "Retractable claw nails",
+    "Speed",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 49,
     "eventCount": 1,
-    "pageviewCount": 15656,
+    "pageviewCount": 1216,
     "pageviewRank": -1,
     "serieCount": 19,
     "storyCount": 49
@@ -47,10 +47,10 @@
   "species": [
   ],
   "teams": [
-    "Reavers",
     "Brotherhood of Mutants",
-    "Thunderbolts",
-    "Sisterhood of Mutants"
+    "Reavers",
+    "Sisterhood of Mutants",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009393/lady_deathstrike",

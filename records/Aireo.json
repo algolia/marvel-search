@@ -1,26 +1,29 @@
 {
   "aliases": [
+    "Aireo",
     "Skybreaker"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
+  "description": "Aireo is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Aireo",
   "partners": [
   ],
   "powers": [
+    "Aerokinesis",
     "Flight"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 931,
+    "pageviewCount": 53,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -29,10 +32,11 @@
     "Aireo"
   ],
   "species": [
+    "Inhumans"
   ],
   "teams": [
-    "Inhumans",
-    "Force of Nature"
+    "Force of Nature",
+    "Inhumans"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Aireo"

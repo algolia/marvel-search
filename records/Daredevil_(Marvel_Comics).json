@@ -1,12 +1,12 @@
 {
   "aliases": [
+    "Daredevil",
     "Matt Murdock",
-    "Matthew Michael Murdock",
-    "Daredevil"
+    "Matthew Michael Murdock"
   ],
   "authors": [
-    "Stan Lee",
-    "Bill Everett"
+    "Bill Everett",
+    "Stan Lee"
   ],
   "description": "Abandoned by his mother, Matt Murdock was raised by his father, boxer \"Battling Jack\" Murdock, in Hell's Kitchen. Realizing that rules were needed to prevent people from behaving badly, young Matt decided to study law; however, when he saved a man from an oncoming truck, it spilled a radioactive cargo that rendered Matt blind while enhancing his remaining senses. Under the harsh tutelage of blind martial arts master Stick, Matt mastered his heightened senses and became a formidable fighter.",
   "images": {
@@ -28,46 +28,46 @@
     "Elektra"
   ],
   "powers": [
-    "Master acrobat",
-    "Martial artist",
-    "Gymnast",
-    "Radar sense",
-    "Superhuman senses",
-    "Skilled detective",
-    "Tracker",
-    "Expert marksman",
-    "Interrogator",
+    "Club",
     "Excellent athlete",
-    "Peak human physical",
-    "Mental condition",
-    "Highly skilled acrobat",
+    "Expert marksman",
+    "Gymnast",
     "Hand-to-hand combatant",
-    "Club"
+    "Highly skilled acrobat",
+    "Interrogator",
+    "Martial artist",
+    "Master acrobat",
+    "Mental condition",
+    "Peak human physical",
+    "Radar sense",
+    "Skilled detective",
+    "Superhuman senses",
+    "Tracker"
   ],
   "ranking": {
     "comicCount": 827,
     "eventCount": 11,
-    "pageviewCount": 151627,
+    "pageviewCount": 8012,
     "pageviewRank": -1,
     "serieCount": 163,
     "storyCount": 1326
   },
   "secretIdentities": [
-    "Matthew Murdock",
     "Matt",
-    "Matthew Michael Murdock"
+    "Matthew Michael Murdock",
+    "Matthew Murdock"
   ],
   "species": [
   ],
   "teams": [
-    "Defenders",
-    "S.H.I.E.L.D",
-    "The Hand",
-    "Nelson & Murdock",
     "Chaste",
-    "The New Avengers",
+    "Defenders",
+    "Nelson & Murdock",
+    "New Avengers",
+    "S.H.I.E.L.D",
     "The Chaste",
-    "New Avengers"
+    "The Hand",
+    "The New Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/11/daredevil",

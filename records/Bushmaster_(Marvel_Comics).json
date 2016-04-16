@@ -1,14 +1,14 @@
 {
   "aliases": [
+    "Bushmaster",
     "John Bushmaster",
-    "Power Master",
-    "Bushmaster"
+    "Power Master"
   ],
   "authors": [
-    "Mark Gruenwald",
-    "Paul Neary",
     "Chris Claremont",
-    "John Byrne"
+    "John Byrne",
+    "Mark Gruenwald",
+    "Paul Neary"
   ],
   "description": "Bushmaster is the name of two Marvel Comics supervillains.",
   "images": {
@@ -21,16 +21,16 @@
   "partners": [
   ],
   "powers": [
+    "Bionic arms",
+    "Durability",
     "Energy absorption",
     "Skilled street fighter",
-    "Superhuman strength",
-    "Durability",
-    "Bionic arms"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2639,
+    "pageviewCount": 91,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -42,9 +42,9 @@
   "species": [
   ],
   "teams": [
+    "Maggia",
     "Serpent Society",
-    "Thunderbolts",
-    "Maggia"
+    "Thunderbolts"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Bushmaster_(Marvel_Comics)"

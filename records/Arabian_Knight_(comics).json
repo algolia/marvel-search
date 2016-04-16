@@ -3,12 +3,12 @@
     "Arabian Knight"
   ],
   "authors": [
-    "Reginald Hudlin",
-    "Mike Perkins",
-    "Bill Mantlo",
-    "Scot Eaton",
     "Al Milgrom",
-    "Christos Gage"
+    "Bill Mantlo",
+    "Christos Gage",
+    "Mike Perkins",
+    "Reginald Hudlin",
+    "Scot Eaton"
   ],
   "description": "Arabian Knight is a title used by three fictional characters appearing in the comic books published by Marvel Comics.",
   "images": {
@@ -21,29 +21,33 @@
   "partners": [
   ],
   "powers": [
+    "Exceptional swordsman",
+    "Indestructible uniform",
     "Magic carpet",
-    "Magic scimitar",
     "Magic sash",
-    "Indestructible uniform"
+    "Magic scimitar",
+    "Sash",
+    "Scimitar",
+    "Use of magic carpet"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1581,
+    "pageviewCount": 93,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
+    "Abdul Qamar",
     "Navid Hashim",
-    "Unknown",
-    "Abdul Qamar"
+    "Unknown"
   ],
   "species": [
   ],
   "teams": [
-    "Pantheon",
-    "Desert Sword"
+    "Desert Sword",
+    "Pantheon"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Arabian_Knight_(comics)"

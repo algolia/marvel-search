@@ -19,18 +19,18 @@
   "partners": [
   ],
   "powers": [
-    "Physical malleability",
-    "Flight",
-    "Superhuman strength",
-    "Durability",
-    "People",
     "Accelerated",
-    "Healing factor"
+    "Durability",
+    "Flight",
+    "Healing factor",
+    "People",
+    "Physical malleability",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 28,
     "eventCount": 1,
-    "pageviewCount": 3158,
+    "pageviewCount": 226,
     "pageviewRank": -1,
     "serieCount": 8,
     "storyCount": 39
@@ -41,10 +41,10 @@
   "species": [
   ],
   "teams": [
+    "Jean Grey School",
     "X-Force",
-    "X-Statix",
     "X-Mansion",
-    "Jean Grey School"
+    "X-Statix"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/571/doop",

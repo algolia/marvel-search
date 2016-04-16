@@ -4,8 +4,8 @@
     "Random"
   ],
   "authors": [
-    "Peter David",
-    "Joe Quesada"
+    "Joe Quesada",
+    "Peter David"
   ],
   "description": "Random (Marshall Evan Stone III) is a fictional character and antihero created by writer Peter David for the Marvel Comics series X-Factor.",
   "images": {
@@ -25,7 +25,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 0,
-    "pageviewCount": 1501,
+    "pageviewCount": 95,
     "pageviewRank": -1,
     "serieCount": 3,
     "storyCount": 2
@@ -37,11 +37,11 @@
     "Mutant"
   ],
   "teams": [
-    "Dark Descendants",
-    "X-Factor",
-    "Strikeforce",
     "Acolytes",
-    "Brotherhood of Mutants"
+    "Brotherhood of Mutants",
+    "Dark Descendants",
+    "Strikeforce",
+    "X-Factor"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1867/random",

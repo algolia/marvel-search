@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Iron Patriot",
     "Iron Man",
+    "Iron Patriot",
     "War Machine"
   ],
   "authors": [
-    "David Michelinie",
-    "Bob Layton"
+    "Bob Layton",
+    "David Michelinie"
   ],
   "description": "War Machine (James Rupert \"Rhodey\" Rhodes) is a fictional character, a  superhero appearing in comic books set in the Marvel Comics universe.",
   "images": {
@@ -21,20 +21,34 @@
   "partners": [
   ],
   "powers": [
-    "Variety of offensive",
-    "Laser blasters",
-    "Unarmed combat",
-    "Pilot",
+    "Armed",
+    "Armor",
+    "At",
+    "Aviation",
     "Aviation engineer",
+    "Defensive",
+    "Energy",
     "Energy repulsors",
-    "Superhuman strength",
+    "Engineer",
+    "Including",
+    "Laser blasters",
+    "Mach 3",
     "Missile",
-    "S and"
+    "Offensive",
+    "Pilot",
+    "Repulsors",
+    "S &",
+    "Superhuman strength",
+    "Supersonic flight",
+    "Unarmed combat",
+    "Variety of",
+    "Variety of offensive",
+    "Weapons"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 43300,
+    "pageviewCount": 2236,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -46,25 +60,25 @@
   "species": [
   ],
   "teams": [
-    "United States Marine Corps",
-    "Team War Machine",
-    "West Coast Avengers",
-    "Force Works",
-    "Secret Avengers",
-    "Defenders",
-    "United States Department of Defense",
-    "Sentinel",
-    "Features of the Marvel Universe",
-    "Stark Industries",
-    "Worldwatch Incorporated",
-    "Iron Legion",
     "Avengers",
+    "Defenders",
+    "Features of the Marvel Universe",
+    "Force Works",
+    "Iron Legion",
+    "Office of National Emergency",
+    "Secret Avengers",
+    "Secret Defenders",
+    "Sentinel",
+    "Sentinel Squad O",
+    "Stark Enterprises",
+    "Stark Industries",
+    "Team War Machine",
     "The Crew",
     "The Initiative",
-    "Stark Enterprises",
-    "Secret Defenders",
-    "Office of National Emergency",
-    "Sentinel Squad O"
+    "United States Department of Defense",
+    "United States Marine Corps",
+    "West Coast Avengers",
+    "Worldwatch Incorporated"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2520/war_machine",

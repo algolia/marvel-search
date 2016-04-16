@@ -1,21 +1,21 @@
 {
   "aliases": [
-    "Neena Thurman",
-    "Neena Beatrice Thurman",
     "Beatrice Thurman",
-    "Samantha Wu",
-    "Tamara Winter",
+    "Christina Elizabeth Alioso",
+    "Domino",
     "Elena Vladescu",
+    "Hope Eldridge",
     "Jessica Marie Costello",
     "Luisa Mendoza",
-    "Christina Elizabeth Alioso",
+    "Neena Beatrice Thurman",
+    "Neena Thurman",
     "Priscilla Sutherland",
-    "Hope Eldridge",
-    "Domino"
+    "Samantha Wu",
+    "Tamara Winter"
   ],
   "authors": [
-    "Rob Liefeld",
-    "Fabian Nicieza"
+    "Fabian Nicieza",
+    "Rob Liefeld"
   ],
   "description": "Domino (Neena Thurman) is a Marvel Comics character, best known as a member of the X-Men offshoot X-Force.",
   "images": {
@@ -28,19 +28,20 @@
   "mainColor": null,
   "name": "Domino",
   "partners": [
-    "Cable"
+    "Cable",
+    "Deadpool"
   ],
   "powers": [
-    "Subconscious",
-    "Telekinetic",
-    "Probability manipulation",
     "Enhanced reflexes",
-    "Expert markswoman"
+    "Expert markswoman",
+    "Probability manipulation",
+    "Subconscious",
+    "Telekinetic"
   ],
   "ranking": {
     "comicCount": 124,
     "eventCount": 5,
-    "pageviewCount": 25584,
+    "pageviewCount": 1938,
     "pageviewRank": -1,
     "serieCount": 28,
     "storyCount": 150
@@ -52,12 +53,12 @@
     "Mutant"
   ],
   "teams": [
-    "Underground",
-    "X-Men",
-    "The 198",
     "Six Pack",
+    "The 198",
+    "Underground",
+    "X-Corporation",
     "X-Force",
-    "X-Corporation"
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/569/domino",

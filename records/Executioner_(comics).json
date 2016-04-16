@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Skurge",
+    "Executioner",
     "Hans Grubervelt",
+    "Skurge",
     "The Evil One",
-    "The Executioner",
-    "Executioner"
+    "The Executioner"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "The Executioner is a fictional character in the Marvel Comics Universe.",
   "images": {
@@ -23,17 +23,17 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Stamina",
     "Durability",
-    "Visual acuity",
     "Extended lifespan",
-    "Use of enchanted axe"
+    "Stamina",
+    "Superhuman strength",
+    "Use of enchanted axe",
+    "Visual acuity"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 3211,
+    "pageviewCount": 196,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -44,11 +44,11 @@
   "species": [
   ],
   "teams": [
-    "Masters of Evil",
     "Einherjar",
+    "Einherjar (warriors of Valhalla)",
     "Legion of the Unliving",
     "Mandarin's Minions",
-    "Einherjar (warriors of Valhalla)"
+    "Masters of Evil"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2327/the_executioner",

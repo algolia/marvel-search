@@ -1,16 +1,16 @@
 {
   "aliases": [
-    "Madame Hydra",
-    "Viper",
-    "Merriem Drew",
-    "Warrior White Princess",
-    "Mrs. Smith",
+    "Green Queen",
     "Leona Hiss",
-    "Green Queen"
+    "Madame Hydra",
+    "Merriem Drew",
+    "Mrs. Smith",
+    "Viper",
+    "Warrior White Princess"
   ],
   "authors": [
-    "Jim Steranko",
     "Bob Harras",
+    "Jim Steranko",
     "Paul Neary"
   ],
   "description": "After the apparent death of Baron von Strucker, Viper took the name Madame Hydra and took control of the New York-based faction of Hydra.",
@@ -26,21 +26,21 @@
   "partners": [
   ],
   "powers": [
-    "Toxins",
+    "Enhanced life span",
+    "Enhanced lifespan",
+    "Excellent strategist",
+    "Marksman",
+    "Markswoman",
     "Skilled martial artist",
     "Swordswoman",
-    "Markswoman",
-    "Teleportation",
-    "Excellent strategist",
     "Tactician",
-    "Enhanced life span",
-    "Marksman",
-    "Enhanced lifespan"
+    "Teleportation",
+    "Toxins"
   ],
   "ranking": {
     "comicCount": 40,
     "eventCount": 1,
-    "pageviewCount": 16650,
+    "pageviewCount": 2145,
     "pageviewRank": -1,
     "serieCount": 19,
     "storyCount": 34
@@ -51,13 +51,13 @@
   "species": [
   ],
   "teams": [
-    "Hydra",
     "H.A.M.M.E.R",
-    "The Hand",
     "Hellfire Club",
+    "Hydra",
     "Madripoor",
     "Secret Empire",
-    "Serpent Squad"
+    "Serpent Squad",
+    "The Hand"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2495/viper",

@@ -1,11 +1,13 @@
 {
   "aliases": [
     "Asgardian",
-    "Wiccan"
+    "Billy Kaplan",
+    "Wiccan",
+    "William Kaplan"
   ],
   "authors": [
-    "Jim Cheung",
-    "Allan Heinberg"
+    "Allan Heinberg",
+    "Jim Cheung"
   ],
   "description": "Believing himself to be one of the Scarlet Witch's twin boys, Billy Kaplan also has reality-altering powers and is a member of the Young Avengers.",
   "images": {
@@ -22,43 +24,43 @@
   ],
   "powers": [
     "Astral projection",
+    "Clairvoyance",
+    "Concussive force blasts",
+    "Conjuration",
+    "Energy construction",
     "Flight",
     "Force field generation",
     "Healing",
-    "Lightning generation",
-    "Pyrokinesis",
-    "Reality alteration",
-    "Spell-casting",
-    "Teleportation",
-    "Clairvoyance",
-    "Conjuration",
-    "Concussive force blasts",
-    "Energy contruction",
     "Illusions casting",
+    "Lightning generation",
     "Magic",
-    "Spell casting",
     "Mind control",
     "Portal creation",
+    "Pyrokinesis",
+    "Reality alteration",
+    "Spell casting",
+    "Spell-casting",
     "Telekinesis",
-    "Telepathy"
+    "Telepathy",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 15,
     "eventCount": 3,
-    "pageviewCount": 13788,
+    "pageviewCount": 900,
     "pageviewRank": -1,
     "serieCount": 10,
     "storyCount": 13
   },
   "secretIdentities": [
-    "William Kaplan",
-    "Billy"
+    "Billy",
+    "William Kaplan"
   ],
   "species": [
   ],
   "teams": [
-    "Young Avengers",
-    "Avengers Idea Mechanics"
+    "Avengers Idea Mechanics",
+    "Young Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2563/wiccan",

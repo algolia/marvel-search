@@ -22,7 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2423,
+    "pageviewCount": 111,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -34,10 +34,10 @@
   ],
   "teams": [
     "Corporation",
-    "Power Broker",
     "Inc",
-    "The Corporation",
-    "Power Broker, Inc"
+    "Power Broker",
+    "Power Broker, Inc",
+    "The Corporation"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Power_Broker"

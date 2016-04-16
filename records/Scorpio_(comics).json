@@ -1,17 +1,17 @@
 {
   "aliases": [
+    "Count Julio Scarlotti",
     "Flip Mason",
     "Jacques LaPoint",
-    "Count Julio Scarlotti",
     "Nick Fury",
     "Scorpio"
   ],
   "authors": [
-    "Steve Englehart",
-    "Don Heck",
     "Archie Goodwin",
+    "Don Heck",
+    "Howard Chaykin",
     "Jim Steranko",
-    "Howard Chaykin"
+    "Steve Englehart"
   ],
   "description": "Scorpio is the name of several fictional characters in Marvel Comics.",
   "images": {
@@ -30,24 +30,24 @@
   "ranking": {
     "comicCount": 33,
     "eventCount": 0,
-    "pageviewCount": 2318,
+    "pageviewCount": 156,
     "pageviewRank": -1,
     "serieCount": 21,
     "storyCount": 29
   },
   "secretIdentities": [
-    "Mikel Fury",
     "Jacob Fury",
     "Jacques LaPoint",
-    "Jake"
+    "Jake",
+    "Mikel Fury"
   ],
   "species": [
   ],
   "teams": [
-    "S.H.I.E.L.D",
+    "Great Wheel",
     "Hydra",
-    "Zodiac",
-    "Great Wheel"
+    "S.H.I.E.L.D",
+    "Zodiac"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2782/nick_fury",

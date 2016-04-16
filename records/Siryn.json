@@ -25,17 +25,17 @@
     "Juggernaut"
   ],
   "powers": [
-    "Sonic scream",
     "Flight",
-    "Sound manipulation",
     "Hypnosis",
-    "Teleportation",
-    "Immortality/longevity"
+    "Immortality/longevity",
+    "Sonic scream",
+    "Sound manipulation",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 137,
     "eventCount": 5,
-    "pageviewCount": 7501,
+    "pageviewCount": 586,
     "pageviewRank": -1,
     "serieCount": 31,
     "storyCount": 160
@@ -47,11 +47,11 @@
     "Mutant"
   ],
   "teams": [
-    "X-Corporation",
-    "X-Force",
     "Fallen Angels",
+    "Muir Island X-Men",
+    "X-Corporation",
     "X-Factor Investigations",
-    "Muir Island X-Men"
+    "X-Force"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/232/banshee",

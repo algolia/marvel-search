@@ -1,14 +1,14 @@
 {
   "aliases": [
+    "Captain America",
     "Clint Barton",
-    "Ronin",
     "Golden Archer",
     "Goliath",
     "Hawkeye",
-    "Hawkeye vol. 3",
-    "Hawkeye vol. 2",
     "Hawkeye vol. 1",
-    "Captain America"
+    "Hawkeye vol. 2",
+    "Hawkeye vol. 3",
+    "Ronin"
   ],
   "authors": [
     "Don Heck",
@@ -31,59 +31,59 @@
   "name": "Hawkeye",
   "partners": [
     "Black Widow",
-    "Mockingbird",
     "Hawkeye",
-    "Kate Bishop"
+    "Kate Bishop",
+    "Mockingbird"
   ],
   "powers": [
-    "Master martial artist",
-    "Tactician",
     "Acrobat",
-    "Marksman",
-    "Swordsman",
-    "Superb athlete",
-    "Enhanced eyesight",
-    "Superhuman strength",
     "Durability",
-    "Experienced pilot",
-    "Size",
-    "Mass manipulation",
+    "Enhanced eyesight",
     "Exceptional arm strength",
-    "Grandmaster archer",
-    "Master archer",
+    "Experienced pilot",
     "Expert tactician",
+    "Grandmaster archer",
+    "Marksman",
     "Martial artist",
-    "Uses a variety of",
-    "Trick arrows"
+    "Mass manipulation",
+    "Master archer",
+    "Master martial artist",
+    "Size",
+    "Superb athlete",
+    "Superhuman strength",
+    "Swordsman",
+    "Tactician",
+    "Trick arrows",
+    "Uses a variety of"
   ],
   "ranking": {
     "comicCount": 222,
     "eventCount": 14,
-    "pageviewCount": 70569,
+    "pageviewCount": 3656,
     "pageviewRank": 8510,
     "serieCount": 106,
     "storyCount": 225
   },
   "secretIdentities": [
+    "Clint",
     "Clint Barton",
-    "Clinton Francis Barton",
-    "Clint"
+    "Clinton Francis Barton"
   ],
   "species": [
   ],
   "teams": [
-    "West Coast Avengers",
-    "Defenders",
-    "World Counter-terrorism Agency",
-    "Avengers Academy",
-    "Secret Avengers",
-    "Great Lakes Avengers",
     "Avengers",
-    "The New Avengers",
-    "Wild Pack",
-    "Thunderbolts",
+    "Avengers Academy",
+    "Avengers Idea Mechanics",
+    "Defenders",
+    "Great Lakes Avengers",
     "New Avengers",
-    "Avengers Idea Mechanics"
+    "Secret Avengers",
+    "The New Avengers",
+    "Thunderbolts",
+    "West Coast Avengers",
+    "Wild Pack",
+    "World Counter-terrorism Agency"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/23/hawkeye",

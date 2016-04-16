@@ -1,15 +1,15 @@
 {
   "aliases": [
-    "Nebula",
-    "Terminatrix",
-    "Kang-Nebula",
     "Hecate",
+    "Kang-Nebula",
+    "Nebula",
+    "Ravonna",
     "Temptress",
-    "Ravonna"
+    "Terminatrix"
   ],
   "authors": [
-    "Stan Lee",
-    "Don Heck"
+    "Don Heck",
+    "Stan Lee"
   ],
   "description": "Ravonna Lexus Renslayer, also known as Terminatrix, is a fictional character in the Marvel Comics universe.",
   "images": {
@@ -35,7 +35,7 @@
   "ranking": {
     "comicCount": 8,
     "eventCount": 0,
-    "pageviewCount": 1116,
+    "pageviewCount": 78,
     "pageviewRank": -1,
     "serieCount": 5,
     "storyCount": 5
@@ -46,8 +46,8 @@
   "species": [
   ],
   "teams": [
-    "The Council of Kangs",
-    "Anachronauts"
+    "Anachronauts",
+    "The Council of Kangs"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/40/nebula",

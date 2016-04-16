@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Think Tank",
-    "Mentallo"
+    "Mentallo",
+    "Think Tank"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Mentallo (Marvin Flumm) is a fictional comic book supervillain, a mutant who appears in books published by Marvel Comics.After having been fired for cause after attempting a covert S.H.I.E.L.D. takeover, he has since operated as both a freelance criminal and subversive and a high-ranking agent of HYDRA.",
   "images": {
@@ -21,13 +21,16 @@
     "Fixer"
   ],
   "powers": [
+    "Limited psionic powers",
+    "Radar",
     "Telepathy",
-    "Radar"
+    "Use of various weapons",
+    "Wears a battle-suit"
   ],
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 1491,
+    "pageviewCount": 109,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 1
@@ -39,12 +42,12 @@
     "Mutant"
   ],
   "teams": [
-    "Resistants",
+    "A.I.M",
     "Advanced Idea Mechanics",
     "Hydra",
-    "S.H.I.E.L.D",
     "New Enforcers",
-    "A.I.M"
+    "Resistants",
+    "S.H.I.E.L.D"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1424/mentallo",

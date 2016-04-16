@@ -4,8 +4,8 @@
     "Winsome Wasp"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "When Janet Van Dyne's father died, she convinced her father's associate Hank Pym to give her a supply of \"Pym particles\"; Pym also subjected her to a procedure which granted her the ability to, upon shrinking, grow wings and fire blasts of energy, which she called her \"wasp's stings.\"",
   "images": {
@@ -21,14 +21,14 @@
     "Hank Pym"
   ],
   "powers": [
-    "Size manipulation",
     "Flight",
+    "Size manipulation",
     "Telepathic insect control"
   ],
   "ranking": {
     "comicCount": 234,
     "eventCount": 11,
-    "pageviewCount": 58102,
+    "pageviewCount": 2442,
     "pageviewRank": -1,
     "serieCount": 105,
     "storyCount": 251
@@ -40,13 +40,13 @@
     "Human Mutate"
   ],
   "teams": [
-    "Uncanny Avengers",
-    "West Coast Avengers",
     "Avengers",
-    "The Mighty Avengers",
-    "Lady Liberators",
     "Avengers Unity Squad",
-    "Mighty Avengers"
+    "Lady Liberators",
+    "Mighty Avengers",
+    "The Mighty Avengers",
+    "Uncanny Avengers",
+    "West Coast Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2535/wasp",

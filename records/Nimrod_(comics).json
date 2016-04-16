@@ -1,9 +1,9 @@
 {
   "aliases": [
     "Nicholas Hunter",
+    "Nimrod",
     "Oracle",
-    "Rod Walker",
-    "Nimrod"
+    "Rod Walker"
   ],
   "authors": [
     "Chris Claremont",
@@ -22,18 +22,18 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Durability",
-    "Regeneration",
-    "Energy projection",
     "Computer interfacing",
+    "Durability",
+    "Energy projection",
+    "Regeneration",
     "Shapeshifting",
+    "Superhuman strength",
     "Teleportation"
   ],
   "ranking": {
     "comicCount": 19,
     "eventCount": 0,
-    "pageviewCount": 6737,
+    "pageviewCount": 511,
     "pageviewRank": -1,
     "serieCount": 12,
     "storyCount": 11
@@ -43,9 +43,9 @@
   "species": [
   ],
   "teams": [
+    "Nimrod",
     "Purifiers",
-    "Sentinels",
-    "Nimrod"
+    "Sentinels"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1659/oracle",

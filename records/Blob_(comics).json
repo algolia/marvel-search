@@ -1,12 +1,12 @@
 {
   "aliases": [
+    "Blob",
     "Fred Dukes",
-    "Frederick Dukes",
-    "Blob"
+    "Frederick Dukes"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "The Blob (Frederick J. Dukes) is a Marvel Comics supervillain, an adversary of the X-Men.",
   "images": {
@@ -21,38 +21,38 @@
   "partners": [
   ],
   "powers": [
-    "Personal gravity field",
     "Currently depowered",
-    "Superhuman strength",
-    "Endurance",
     "Durability",
+    "Endurance",
+    "Near impenetrable skin",
+    "Personal gravity field",
     "Resilience",
-    "Near impenetrable skin"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 60,
     "eventCount": 5,
-    "pageviewCount": 13184,
+    "pageviewCount": 1242,
     "pageviewRank": -1,
     "serieCount": 22,
     "storyCount": 57
   },
   "secretIdentities": [
-    "Frederick J. Dukes",
-    "Fred"
+    "Fred",
+    "Frederick J. Dukes"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "X-Cell",
-    "Defenders",
-    "X-Corps",
+    "Brotherhood of Evil Mutants",
     "Brotherhood of Mutants",
+    "Defenders",
     "Factor Three",
     "Freedom Force",
     "Secret Empire",
-    "Brotherhood of Evil Mutants"
+    "X-Cell",
+    "X-Corps"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/308/blob",

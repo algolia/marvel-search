@@ -1,10 +1,10 @@
 {
   "aliases": [
+    "Bill Foster",
     "Black Goliath",
     "Giant-Man",
     "Goliath",
-    "Rockwell Dodsworth",
-    "Bill Foster"
+    "Rockwell Dodsworth"
   ],
   "authors": [
     "Don Heck",
@@ -23,32 +23,34 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Size",
-    "Mass manipulation",
     "Brilliant biochemist",
-    "Gifted intellect"
+    "Gifted intellect",
+    "Mass manipulation",
+    "Size",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 9,
     "eventCount": 1,
-    "pageviewCount": 30065,
+    "pageviewCount": 667,
     "pageviewRank": -1,
     "serieCount": 6,
     "storyCount": 8
   },
   "secretIdentities": [
+    "Bill",
     "Dr. William Barrett Foster",
-    "Bill"
+    "William Foster"
   ],
   "species": [
   ],
   "teams": [
-    "Defenders",
-    "Champions",
     "Centers for Disease Control",
-    "Prevention",
-    "Features of the Marvel Universe"
+    "Champions",
+    "Defenders",
+    "Features of the Marvel Universe",
+    "Pegasus",
+    "Prevention"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/830/goliath",

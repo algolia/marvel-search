@@ -1,19 +1,21 @@
 {
   "aliases": [
+    "Abyss"
   ],
   "authors": [
-    "Scott Lobdell",
     "Mark Waid",
     "Roger Cruz",
+    "Scott Lobdell",
     "Steve Epting"
   ],
+  "description": "Abyss is a name used for three distinct characters appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
     "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/535feab462a64/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Abyss",
   "partners": [
@@ -21,13 +23,13 @@
   ],
   "powers": [
     "Dimensional form",
-    "Shapeshifting",
-    "Empathy"
+    "Empathy",
+    "Shapeshifting"
   ],
   "ranking": {
     "comicCount": 8,
     "eventCount": 1,
-    "pageviewCount": 4702,
+    "pageviewCount": 362,
     "pageviewRank": -1,
     "serieCount": 3,
     "storyCount": 8
@@ -36,6 +38,7 @@
     "Nils Styger"
   ],
   "species": [
+    "Mutant"
   ],
   "teams": [
     "X-Cell",

@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Steve Rogers",
+    "Captain America",
     "Nomad",
-    "The Captain",
-    "Captain America"
+    "Steve Rogers",
+    "The Captain"
   ],
   "authors": [
-    "Joe Simon",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Joe Simon"
   ],
   "description": "Vowing to serve his country any way he could, young Steve Rogers took the super soldier serum to become America's one-man army. Fighting for the red, white and blue for over 60 years, Captain America is the living, breathing symbol of freedom and liberty.",
   "images": {
@@ -25,41 +25,44 @@
   },
   "name": "Captain America",
   "partners": [
-    "Bucky (James Barnes)",
-    "Falcon",
     "Black Widow",
+    "Bucky (James Barnes)",
     "Bucky (Rick Jones)",
-    "Nomad (Jack Monroe)",
+    "Bucky (Rikki Barnes)",
+    "Demolition Man",
+    "Falcon",
     "Free Spirit",
     "Jack Flag",
-    "Demolition Man",
-    "Bucky (Rikki Barnes)",
+    "Nomad (Jack Monroe)",
     "Sharon Carter"
   ],
   "powers": [
-    "Master martial artist",
     "Agility expert",
-    "Tactician",
-    "Marksman",
+    "Enhanced mental faculties",
     "Excellent field commander",
-    "Physical condition",
+    "Expert marksman",
+    "Field commander",
     "Hand-to-hand combatant",
-    "Wields",
+    "Marksman",
+    "Master martial artist",
     "Master tactician",
-    "Field commander"
+    "Physical condition",
+    "Strategist",
+    "Tactician",
+    "Wields"
   ],
   "ranking": {
     "comicCount": 1411,
     "eventCount": 19,
-    "pageviewCount": 193434,
+    "pageviewCount": 13052,
     "pageviewRank": 770,
     "serieCount": 382,
     "storyCount": 2326
   },
   "secretIdentities": [
-    "Steven Rogers",
     "Steve",
-    "Steve Rogers"
+    "Steve Rogers",
+    "Steven Rogers"
   ],
   "species": [
   ],

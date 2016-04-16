@@ -3,8 +3,8 @@
     "Cyber"
   ],
   "authors": [
-    "Sam Kieth",
-    "Peter David"
+    "Peter David",
+    "Sam Kieth"
   ],
   "description": "Cyber is a fictional comic book supervillain appearing in books published by Marvel Comics, usually as an enemy of Wolverine of the X-Men.",
   "images": {
@@ -19,22 +19,22 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Stamina",
     "Adamantium skin",
-    "Retractable claws"
+    "Retractable claws",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 11,
     "eventCount": 0,
-    "pageviewCount": 3468,
+    "pageviewCount": 203,
     "pageviewRank": -1,
     "serieCount": 3,
     "storyCount": 13
   },
   "secretIdentities": [
-    "Silas Burr",
-    "Milo Gunderson"
+    "Milo Gunderson",
+    "Silas Burr"
   ],
   "species": [
     "Mutant"
@@ -43,8 +43,8 @@
     "Hell's Belles",
     "Pinkerton National Detective Agency",
     "The Coven",
-    "Unnamed Drug Cartel",
-    "Undisclosed Canadian Paramilitary Training Facility"
+    "Undisclosed Canadian Paramilitary Training Facility",
+    "Unnamed Drug Cartel"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/486/cyber",

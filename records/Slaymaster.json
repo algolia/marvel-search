@@ -4,10 +4,10 @@
     "Slaymaster"
   ],
   "authors": [
-    "Larry Lieber",
-    "Ron Wilson",
     "Jim Lawrence",
     "Jim Lawrence (writer)",
+    "Larry Lieber",
+    "Ron Wilson",
     "Ron Wilson (artist)"
   ],
   "description": "Slaymaster is a fictional comic book character from Marvel Comics's Captain Britain series.",
@@ -21,14 +21,14 @@
   "partners": [
   ],
   "powers": [
-    "Tactician",
     "Exceptional",
-    "Martial artist"
+    "Martial artist",
+    "Tactician"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 925,
+    "pageviewCount": 56,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

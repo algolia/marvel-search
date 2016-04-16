@@ -2,9 +2,9 @@
   "aliases": [
     "Darkchylde",
     "Lightchylde",
+    "Magik",
     "Redflag #133",
-    "the Darkchilde Archimage",
-    "Magik"
+    "the Darkchilde Archimage"
   ],
   "authors": [
   ],
@@ -28,23 +28,24 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 2,
-    "pageviewCount": 18620,
+    "pageviewCount": 1151,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 3
   },
   "secretIdentities": [
+    "Illyana Nikolaevna Alexandria Rasputin",
     "Illyana Nikolaevna Alexandria Rasputina"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "Phoenix Force",
     "Hellions",
     "New Mutants",
-    "X-Men",
-    "Phoenix Five"
+    "Phoenix Five",
+    "Phoenix Force",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1325/magik",

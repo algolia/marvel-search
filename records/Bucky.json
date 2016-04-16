@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Winter Soldier",
+    "Bucky",
     "Captain America",
-    "Bucky"
+    "Winter Soldier"
   ],
   "authors": [
     "Ed Brubaker",
     "Jack Kirby",
-    "Steve Epting",
-    "Joe Simon"
+    "Joe Simon",
+    "Steve Epting"
   ],
   "description": "Bucky is the name of several fictional characters that were masked superheroes in the Marvel Comics universe.",
   "images": {
@@ -21,28 +21,28 @@
   "mainColor": null,
   "name": "Bucky",
   "partners": [
-    "Falcon",
+    "Black Widow",
     "Captain America",
-    "Black Widow"
+    "Falcon"
   ],
   "powers": [
-    "Use of military weapons",
-    "Throwing knives",
-    "Expert assassin",
-    "Spy",
-    "Martial artist",
-    "Gifted advance scout",
+    "Emp discharger",
     "Energy projection",
     "Enhanced reaction time",
+    "Expert assassin",
+    "Gifted advance scout",
     "Holographic projector",
-    "Emp discharger",
+    "Martial artist",
+    "Shock absorbing costume",
+    "Spy",
     "Superhuman strength",
-    "Shock absorbing costume"
+    "Throwing knives",
+    "Use of military weapons"
   ],
   "ranking": {
     "comicCount": 4,
     "eventCount": 0,
-    "pageviewCount": 125289,
+    "pageviewCount": 4802,
     "pageviewRank": 632,
     "serieCount": 1,
     "storyCount": 4
@@ -54,10 +54,10 @@
   ],
   "teams": [
     "Avengers",
-    "Kid Commandos",
-    "Invaders",
-    "Legion of the Unliving",
     "Department X",
+    "Invaders",
+    "Kid Commandos",
+    "Legion of the Unliving",
     "Young Allies"
   ],
   "urls": {

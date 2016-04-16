@@ -1,10 +1,12 @@
 {
   "aliases": [
-    "Snap\" Wilson",
-    "Blackwing",
     "Blackbird",
+    "Blackwing",
     "Captain America",
-    "Falcon"
+    "Falcon",
+    "Sam Wilson",
+    "Samuel Wilson",
+    "Snap\" Wilson"
   ],
   "authors": [
     "Gene Colan",
@@ -26,42 +28,42 @@
   },
   "name": "Falcon",
   "partners": [
-    "Captain America",
     "Bucky",
-    "Redwing",
-    "Nomad"
+    "Captain America",
+    "Nomad",
+    "Redwing"
   ],
   "powers": [
     "Excellent bird trainer",
     "Flight via wing harness",
-    "Skilled martial artist",
-    "Gymnast"
+    "Gymnast",
+    "Skilled martial artist"
   ],
   "ranking": {
     "comicCount": 117,
     "eventCount": 5,
-    "pageviewCount": 77167,
+    "pageviewCount": 3734,
     "pageviewRank": 3214,
     "serieCount": 56,
     "storyCount": 116
   },
   "secretIdentities": [
-    "Samuel Thomas Wilson",
-    "Sam"
+    "Sam",
+    "Samuel Thomas Wilson"
   ],
   "species": [
   ],
   "teams": [
     "All-New Invaders",
-    "Uncanny Avengers",
-    "The Mighty Avengers",
-    "S.H.I.E.L.D",
-    "Heroes for Hire",
     "Avengers",
+    "Avengers Unity Squad",
     "Defenders",
     "Defenders for a Day",
+    "Heroes for Hire",
     "Mighty Avengers",
-    "Avengers Unity Squad"
+    "S.H.I.E.L.D",
+    "The Mighty Avengers",
+    "Uncanny Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009297/falcon",

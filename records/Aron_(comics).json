@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "The Rogue Watcher",
+    "Aron",
     "The Renegade Watcher",
-    "Aron"
+    "The Rogue Watcher"
   ],
   "authors": [
-    "Steve Englehart",
-    "Al Milgrom"
+    "Al Milgrom",
+    "Steve Englehart"
   ],
   "description": "Aron, the Rogue Watcher is a fictional character; an extraterrestrial supervillain in the fictional Marvel Universe.",
   "images": {
@@ -18,12 +18,15 @@
   "partners": [
   ],
   "powers": [
-    "Cosmic powers"
+    "Cosmic powers",
+    "Technology",
+    "Vast psionic powers",
+    "Virtual immortality"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1012,
+    "pageviewCount": 56,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -34,7 +37,8 @@
   "species": [
   ],
   "teams": [
-    "Watcher"
+    "Watcher",
+    "Watchers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Aron_(comics)"

@@ -1,15 +1,15 @@
 {
   "aliases": [
-    "Rémy LeBeau",
-    "Le Diable Blanc",
-    "Robert Lord",
     "Death",
+    "Gambit",
+    "Le Diable Blanc",
     "Ragin' Cajun",
-    "Gambit"
+    "Robert Lord",
+    "Rémy LeBeau"
   ],
   "authors": [
-    "Jim Lee",
-    "Chris Claremont"
+    "Chris Claremont",
+    "Jim Lee"
   ],
   "description": "Gambit is a fictional character, a superhero who appears in comic books published by Marvel Comics.",
   "images": {
@@ -29,22 +29,22 @@
   "partners": [
   ],
   "powers": [
-    "Control",
-    "Kinetic energy",
-    "Hypnotic charm",
-    "Highly skilled in savate",
-    "Bōjutsu",
-    "Kinetic conversion",
     "Acceleration",
-    "Static generation",
-    "Martial artist",
     "Acrobat",
-    "Disintegration"
+    "Bōjutsu",
+    "Control",
+    "Disintegration",
+    "Highly skilled in savate",
+    "Hypnotic charm",
+    "Kinetic conversion",
+    "Kinetic energy",
+    "Martial artist",
+    "Static generation"
   ],
   "ranking": {
     "comicCount": 299,
     "eventCount": 11,
-    "pageviewCount": 58635,
+    "pageviewCount": 4438,
     "pageviewRank": -1,
     "serieCount": 85,
     "storyCount": 375
@@ -56,18 +56,18 @@
     "Mutant"
   ],
   "teams": [
-    "Horsemen of Apocalypse",
-    "Marauders",
     "All-New X-Factor",
-    "X-Men",
-    "Thieves' guild",
-    "LeBeau Clan",
-    "X-Mansion",
-    "X-Treme Sanctions Executive",
     "Crimson Pirates",
+    "Horsemen of Apocalypse",
+    "Jean Grey School",
+    "LeBeau Clan",
+    "Marauders",
+    "Thieves' guild",
     "X-Factor",
-    "XSE",
-    "Jean Grey School"
+    "X-Mansion",
+    "X-Men",
+    "X-Treme Sanctions Executive",
+    "XSE"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009313/gambit",

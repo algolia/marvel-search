@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Hawkeye",
     "Hawkette",
+    "Hawkeye",
     "Lady Hawkeye"
   ],
   "authors": [
-    "Allan HeinbergJim Cheung",
     "Allan Heinberg",
+    "Allan HeinbergJim Cheung",
     "Jim Cheung"
   ],
   "description": "Hawkeye (Katherine \"Kate\" Bishop) is a fictional character.",
@@ -25,36 +25,37 @@
   },
   "name": "Hawkeye",
   "partners": [
-    "Patriot",
     "Hawkeye",
     "Hawkeye (Clint Barton)",
+    "Marvel Boy",
+    "Patriot",
     "Patriot (Eli Bradley)",
-    "Speed",
-    "Marvel Boy"
+    "Speed"
   ],
   "powers": [
-    "Highly skilled archer",
-    "Fencer",
-    "Swordswoman",
-    "Martial artist",
-    "Boxer",
-    "Other forms of combat",
-    "Use of two battle staves",
-    "A sword",
     "A bow",
-    "Trick arrows"
+    "A sword",
+    "Boxer",
+    "Fencer",
+    "Highly skilled archer",
+    "Martial artist",
+    "Other forms of combat",
+    "Swordswoman",
+    "Trick arrows",
+    "Use of two battle staves"
   ],
   "ranking": {
     "comicCount": 222,
     "eventCount": 14,
-    "pageviewCount": 11910,
+    "pageviewCount": 622,
     "pageviewRank": -1,
     "serieCount": 106,
     "storyCount": 225
   },
   "secretIdentities": [
-    "Katherine Elizabeth Bishop",
-    "Kate"
+    "Kate",
+    "Katherine Bishop",
+    "Katherine Elizabeth Bishop"
   ],
   "species": [
   ],

@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Vantage",
     "Atlas",
     "Citizen V",
-    "Dallas Riordan"
+    "Dallas Riordan",
+    "Vantage"
   ],
   "authors": [
-    "Mark Bagley",
-    "Kurt Busiek"
+    "Kurt Busiek",
+    "Mark Bagley"
   ],
   "description": "Dallas Riordan  is a character in the Marvel Comics universe.",
   "images": {
@@ -25,7 +25,7 @@
   "ranking": {
     "comicCount": 12,
     "eventCount": 0,
-    "pageviewCount": 667,
+    "pageviewCount": 61,
     "pageviewRank": -1,
     "serieCount": 8,
     "storyCount": 8
@@ -36,10 +36,10 @@
   "species": [
   ],
   "teams": [
-    "Thunderbolts",
-    "V-Battalion",
+    "NYPD",
     "New York City Police Department",
-    "NYPD"
+    "Thunderbolts",
+    "V-Battalion"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/214/atlas",

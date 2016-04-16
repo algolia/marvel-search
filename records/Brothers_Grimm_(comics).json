@@ -3,10 +3,10 @@
     "Brothers Grimm"
   ],
   "authors": [
-    "Marv Wolfman",
     "Carmine Infantino",
     "Denny O'Neil",
     "Luke McDonnell",
+    "Marv Wolfman",
     "Steve Mitchell"
   ],
   "description": "The Brothers Grimm are two sets of fictional twin comic book supervillains, owned by Marvel Comics and existing in that company's Marvel Universe.",
@@ -24,23 +24,23 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1097,
+    "pageviewCount": 57,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Jake",
-    "William Dolly",
-    "Percy",
     "Barton Grimes",
-    "Jake and William Dolly"
+    "Jake",
+    "Jake and William Dolly",
+    "Percy",
+    "William Dolly"
   ],
   "species": [
   ],
   "teams": [
-    "Night Shift",
-    "Masters of Evil"
+    "Masters of Evil",
+    "Night Shift"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Brothers_Grimm_(comics)"

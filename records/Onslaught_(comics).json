@@ -1,8 +1,8 @@
 {
   "aliases": [
     "Charles Xavier",
-    "Sir David the Great",
-    "Onslaught"
+    "Onslaught",
+    "Sir David the Great"
   ],
   "authors": [
     "Andy Kubert",
@@ -22,24 +22,24 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
     "Durability",
-    "Telepathy",
-    "Telekinesis",
     "Magnetism manipulation",
-    "Reality warping"
+    "Reality warping",
+    "Superhuman strength",
+    "Telekinesis",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 33,
     "eventCount": 1,
-    "pageviewCount": 23252,
+    "pageviewCount": 1345,
     "pageviewRank": -1,
     "serieCount": 21,
     "storyCount": 28
   },
   "secretIdentities": [
-    "Professor X",
     "Magneto",
+    "Professor X",
     "Red Skull"
   ],
   "species": [

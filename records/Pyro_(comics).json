@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Saint-John Allerdyce",
     "John Allerdyce",
-    "Pyro"
+    "Pyro",
+    "Saint-John Allerdyce"
   ],
   "authors": [
-    "John Byrne",
-    "Chris Claremont"
+    "Chris Claremont",
+    "John Byrne"
   ],
   "description": "Pyro (St. John Allerdyce) is a fictional character, a supervillain in Marvel Comics and an enemy of the X-Men.",
   "images": {
@@ -26,7 +26,7 @@
   "ranking": {
     "comicCount": 39,
     "eventCount": 5,
-    "pageviewCount": 8819,
+    "pageviewCount": 664,
     "pageviewRank": -1,
     "serieCount": 15,
     "storyCount": 39
@@ -38,9 +38,9 @@
     "Mutant"
   ],
   "teams": [
-    "Freedom Force",
+    "Brotherhood of Evil Mutants",
     "Brotherhood of Mutants",
-    "Brotherhood of Evil Mutants"
+    "Freedom Force"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1837/pyro",

@@ -4,8 +4,8 @@
     "actual identities the character uses"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Triton is a member of the Inhumans.",
   "images": {
@@ -20,32 +20,33 @@
   "partners": [
   ],
   "powers": [
-    "Aquatic vision",
-    "Superhuman strength",
-    "Stamina",
-    "Speed",
-    "Durability",
     "Agility",
+    "Aquatic vision",
+    "Durability",
     "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
     "Underwater breathing"
   ],
   "ranking": {
     "comicCount": 33,
     "eventCount": 0,
-    "pageviewCount": 5824,
+    "pageviewCount": 305,
     "pageviewRank": -1,
     "serieCount": 15,
     "storyCount": 37
   },
   "secretIdentities": [
+    "Triton Mander-Azur{{issue|date"
   ],
   "species": [
     "Inhumans"
   ],
   "teams": [
-    "Inhumans",
     "Deep Six",
-    "Inhuman Royal Family"
+    "Inhuman Royal Family",
+    "Inhumans"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1010335/triton",

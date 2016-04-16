@@ -19,33 +19,33 @@
   "partners": [
   ],
   "powers": [
-    "Speed",
     "Endurance",
-    "Martial arts",
+    "Endurance;",
     "Hand-to-hand combatant",
     "Handgun",
-    "Endurance;"
+    "Martial arts",
+    "Speed"
   ],
   "ranking": {
     "comicCount": 3,
     "eventCount": 0,
-    "pageviewCount": 1426,
+    "pageviewCount": 108,
     "pageviewRank": -1,
     "serieCount": 3,
     "storyCount": 2
   },
   "secretIdentities": [
-    "Joseph Chapman",
-    "Joe"
+    "Joe",
+    "Joseph Chapman"
   ],
   "species": [
   ],
   "teams": [
-    "Knights of Pendragon",
     "Invaders",
+    "Knights of Pendragon",
+    "MI-13",
     "MI5",
-    "New Invaders",
-    "MI-13"
+    "New Invaders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2451/union_jack",

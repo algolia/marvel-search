@@ -4,9 +4,9 @@
     "Zarathos"
   ],
   "authors": [
-    "Roy Thomas",
     "Gary Friedrich",
-    "Mike Ploog"
+    "Mike Ploog",
+    "Roy Thomas"
   ],
   "description": "Zarathos is a fictional character appearing in books published by Marvel Comics, usually as a villain in stories featuring the character Ghost Rider.",
   "images": {
@@ -23,20 +23,20 @@
     "Mephisto"
   ],
   "powers": [
-    "Hysterical strength",
-    "Virtual immortality",
-    "Healing factor",
-    "Elemental powers",
-    "Virtual",
-    "Immortality",
-    "Superhuman strength",
     "Elemental",
-    "Powers"
+    "Elemental powers",
+    "Healing factor",
+    "Hysterical strength",
+    "Immortality",
+    "Powers",
+    "Superhuman strength",
+    "Virtual",
+    "Virtual immortality"
   ],
   "ranking": {
     "comicCount": 13,
     "eventCount": 2,
-    "pageviewCount": 5285,
+    "pageviewCount": 324,
     "pageviewRank": -1,
     "serieCount": 5,
     "storyCount": 11

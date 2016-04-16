@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Harrier",
-    "Cardinal"
+    "Cardinal",
+    "Harrier"
   ],
   "authors": [
-    "Fabian Nicieza",
-    "Darick Robertson"
+    "Darick Robertson",
+    "Fabian Nicieza"
   ],
   "description": "Cardinal (also known as Harrier) is a fictional character, a supervillain appearing in the Marvel Comics universe.",
   "images": {
@@ -21,13 +21,13 @@
   ],
   "powers": [
     "Flight",
-    "Superhuman strength",
-    "Physical resistance"
+    "Physical resistance",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 666,
+    "pageviewCount": 45,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -38,9 +38,9 @@
   "species": [
   ],
   "teams": [
-    "United States Air Force",
     "Masters of Evil",
-    "Thunderbolts"
+    "Thunderbolts",
+    "United States Air Force"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/909/harrier",

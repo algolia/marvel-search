@@ -1,14 +1,16 @@
 {
   "aliases": [
-    "Sebastion Gilbert",
-    "Nicolas Hunter",
-    "Master Mold",
     "Arnold Rodriguez",
+    "Bastion",
+    "Master Mold",
+    "Nicolas Hunter",
+    "Sebastion Gilbert",
+    "Sebastion Gilberti",
     "Template",
-    "The Oracle",
-    "Bastion"
+    "The Oracle"
   ],
   "authors": [
+    "Pascual Ferry",
     "Pasqual Ferry",
     "Scott Lobdell"
   ],
@@ -25,17 +27,21 @@
   "partners": [
   ],
   "powers": [
-    "Nimrod",
-    "Mutant abilities",
-    "Energy projection",
-    "Superhuman strength",
+    "Command of other",
     "Durability",
-    "Flight"
+    "Energy projection",
+    "Flight",
+    "Mutant abilities",
+    "Nimrod",
+    "Nimrod;",
+    "Prime sentinels",
+    "Sentinels",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 25,
     "eventCount": 2,
-    "pageviewCount": 4726,
+    "pageviewCount": 339,
     "pageviewRank": -1,
     "serieCount": 14,
     "storyCount": 24
@@ -43,14 +49,15 @@
   "secretIdentities": [
   ],
   "species": [
-    "Artificial intelligence",
-    "Android"
+    "Android",
+    "Artificial intelligence"
   ],
   "teams": [
-    "Purifiers",
+    "Features of the Marvel Universe",
+    "Friends of Humanity",
     "Humanity's Last Stand",
-    "Zero Tolerance",
-    "Features of the Marvel Universe"
+    "Purifiers",
+    "Zero Tolerance"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/244/bastion",

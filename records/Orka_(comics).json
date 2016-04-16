@@ -4,8 +4,8 @@
     "Orka"
   ],
   "authors": [
-    "Roy Thomas",
-    "Marie Severin"
+    "Marie Severin",
+    "Roy Thomas"
   ],
   "description": "Orka is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
@@ -16,25 +16,25 @@
   "mainColor": null,
   "name": "Orka",
   "partners": [
-    "Virago",
     "Krang",
+    "Virago",
     "Warlord Krang"
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
     "Agility",
-    "Stamina",
-    "Durability",
     "Can communicate with",
-    "Swim at superhuman speeds",
+    "Durability",
+    "Land adaptation via belt",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
     "Superhuman swimming speed",
-    "Land adaptation via belt"
+    "Swim at superhuman speeds"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1398,
+    "pageviewCount": 112,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -46,10 +46,10 @@
     "Homo mermanus"
   ],
   "teams": [
-    "Heroes for Hire",
+    "Brand Corporation",
     "Deep Six",
-    "Roxxon Energy Corporation",
-    "Brand Corporation"
+    "Heroes for Hire",
+    "Roxxon Energy Corporation"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Orka_(comics)"

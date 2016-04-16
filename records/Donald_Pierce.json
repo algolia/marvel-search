@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "White Bishop",
-    "White King",
     "Cyclops",
-    "Donald Pierce"
+    "Donald Pierce",
+    "White Bishop",
+    "White King"
   ],
   "authors": [
-    "John Byrne",
-    "Chris Claremont"
+    "Chris Claremont",
+    "John Byrne"
   ],
   "description": "Donald Pierce is a comic book supervillain in the Marvel Comics universe.",
   "images": {
@@ -27,15 +27,15 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Reflexes",
     "Cyborg body",
-    "Mechanical genius"
+    "Mechanical genius",
+    "Reflexes",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 44,
     "eventCount": 0,
-    "pageviewCount": 2673,
+    "pageviewCount": 212,
     "pageviewRank": -1,
     "serieCount": 17,
     "storyCount": 58
@@ -46,9 +46,9 @@
   "species": [
   ],
   "teams": [
-    "Reavers",
+    "Hellfire Club",
     "Purifiers",
-    "Hellfire Club"
+    "Reavers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/10/cyclops",

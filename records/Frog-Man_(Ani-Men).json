@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Frog\" LeBlanc",
     "Croaker",
+    "Frog\" LeBlanc",
     "Frog-Man",
     "Frog-Man II"
   ],
   "authors": [
-    "Wally Wood",
     "Bob Powell",
-    "Stan Lee"
+    "Stan Lee",
+    "Wally Wood"
   ],
   "description": "For the Marvel superhero, see Frog-Man.Frog-Man is the name of two fictional characters in Marvel Comics.",
   "images": {
@@ -23,17 +23,17 @@
   "partners": [
   ],
   "powers": [
-    "Expert french kickboxer",
-    "Superhuman strength",
     "Agility",
-    "Stamina",
+    "Expert french kickboxer",
+    "Frog-like legs",
     "Leaping",
-    "Frog-like legs"
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 2,
     "eventCount": 1,
-    "pageviewCount": 378,
+    "pageviewCount": 16,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 3

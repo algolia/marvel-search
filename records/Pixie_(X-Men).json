@@ -3,10 +3,10 @@
     "Pixie"
   ],
   "authors": [
-    "Nunzio DeFilippis",
     "Christina Weir",
     "Michael Ryan",
-    "Michael Ryan (artist)"
+    "Michael Ryan (artist)",
+    "Nunzio DeFilippis"
   ],
   "description": "Pixie (Megan Gwynn) is a fictional character, a mutant in the Marvel Universe.",
   "images": {
@@ -21,14 +21,14 @@
   "partners": [
   ],
   "powers": [
+    "Flight via insect wings",
     "Limited magic",
-    "Wields a soul dagger",
-    "Flight via insect wings"
+    "Wields a soul dagger"
   ],
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 5336,
+    "pageviewCount": 349,
     "pageviewRank": -1,
     "serieCount": 5,
     "storyCount": 6
@@ -40,16 +40,16 @@
     "Mutant"
   ],
   "teams": [
-    "Paragons",
     "Hope Summers",
+    "Jean Grey School Students",
+    "New X-Men",
+    "Paragons",
+    "Paragons training squad",
+    "The Lights",
     "X-Mansion",
     "X-Men",
-    "New X-Men",
-    "The Lights",
-    "Paragons training squad",
-    "Xavier Institute",
     "X-Men-In-Training",
-    "Jean Grey School Students"
+    "Xavier Institute"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1758/pixie",

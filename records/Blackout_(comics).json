@@ -3,11 +3,11 @@
     "Blackout"
   ],
   "authors": [
-    "Marv Wolfman",
-    "Howard Mackie",
-    "Tom Palmer",
     "Carmine Infantino",
-    "Javier Saltares"
+    "Howard Mackie",
+    "Javier Saltares",
+    "Marv Wolfman",
+    "Tom Palmer"
   ],
   "description": "Blackout is a fictional character, a supervillain in Marvel Comics.",
   "images": {
@@ -20,28 +20,28 @@
   "mainColor": null,
   "name": "Blackout",
   "partners": [
-    "Deathwatch",
-    "Moonstone",
     "Baron Zemo",
-    "Lilith"
+    "Deathwatch",
+    "Lilith",
+    "Moonstone"
   ],
   "powers": [
-    "Portal creation",
-    "Darkforce manipulation",
-    "Flight",
-    "Superhuman strength",
-    "Speed",
-    "Durability",
-    "Reflexes",
-    "Teeth",
-    "Energy blasts",
     "Darkforce",
-    "Manipulation"
+    "Darkforce manipulation",
+    "Durability",
+    "Energy blasts",
+    "Flight",
+    "Manipulation",
+    "Portal creation",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength",
+    "Teeth"
   ],
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 11237,
+    "pageviewCount": 1687,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 2
@@ -50,13 +50,13 @@
     "Marcus Daniels"
   ],
   "species": [
-    "Human",
-    "Demon Hybrid"
+    "Demon Hybrid",
+    "Human"
   ],
   "teams": [
+    "Masters of Evil",
     "The Firm",
-    "Thunderbolts",
-    "Masters of Evil"
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/291/blackout",

@@ -1,16 +1,16 @@
 {
   "aliases": [
     "Ashta",
-    "devourer of worlds",
-    "the monster of all worlds",
-    "the hunger that does not cease",
-    "god of oblivion",
     "Galactus",
-    "The Origin of Galactus"
+    "The Origin of Galactus",
+    "devourer of worlds",
+    "god of oblivion",
+    "the hunger that does not cease",
+    "the monster of all worlds"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Galactus is a fictional character, a cosmic entity appearing in comic books and other publications by Marvel Comics.",
   "images": {
@@ -26,17 +26,17 @@
   ],
   "powers": [
     "Cosmic awareness",
-    "Telekinesis",
-    "Telepathy",
     "Energy",
-    "Matter",
     "Life-force manipulation",
-    "Reality alteration"
+    "Matter",
+    "Reality alteration",
+    "Telekinesis",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 106,
     "eventCount": 5,
-    "pageviewCount": 84322,
+    "pageviewCount": 4001,
     "pageviewRank": -1,
     "serieCount": 50,
     "storyCount": 101
@@ -47,8 +47,8 @@
   "species": [
   ],
   "teams": [
-    "Heralds of Galactus",
-    "God Squad"
+    "God Squad",
+    "Heralds of Galactus"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/751/galactus",

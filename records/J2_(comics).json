@@ -1,9 +1,9 @@
 {
   "aliases": [
-    "Masked Midget",
+    "J2",
     "Juggernaut",
-    "Zane Marko",
-    "J2"
+    "Masked Midget",
+    "Zane Marko"
   ],
   "authors": [
     "Ron Frenz",
@@ -22,15 +22,15 @@
   "partners": [
   ],
   "powers": [
-    "Stamina",
-    "Speed",
+    "Durability",
     "Endurance",
-    "Durability"
+    "Speed",
+    "Stamina"
   ],
   "ranking": {
     "comicCount": 151,
     "eventCount": 9,
-    "pageviewCount": 1180,
+    "pageviewCount": 83,
     "pageviewRank": -1,
     "serieCount": 74,
     "storyCount": 153

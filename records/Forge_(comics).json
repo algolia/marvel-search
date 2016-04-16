@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "The Maker",
+    "Forge",
     "Genesis",
-    "Forge"
+    "The Maker"
   ],
   "authors": [
     "Chris Claremont",
-    "John Romita, Jr.",
-    "John Romita Jr."
+    "John Romita Jr.",
+    "John Romita, Jr."
   ],
   "description": "Forge is a fictional character in Marvel Comics.A mutant with an unsurpassed brilliance in technology, Forge has had a lengthy career as a government weapons contractor.",
   "images": {
@@ -28,7 +28,7 @@
   "ranking": {
     "comicCount": 121,
     "eventCount": 7,
-    "pageviewCount": 9767,
+    "pageviewCount": 706,
     "pageviewRank": -1,
     "serieCount": 33,
     "storyCount": 131
@@ -39,11 +39,11 @@
     "Mutant"
   ],
   "teams": [
+    "United States Army",
+    "X-Corporation",
     "X-Factor",
     "X-Force",
-    "X-Corporation",
-    "X-Men",
-    "United States Army"
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009309/forge",

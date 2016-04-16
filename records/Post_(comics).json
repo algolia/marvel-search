@@ -18,18 +18,18 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Durability",
-    "Genius",
-    "Teleporter",
-    "Able to manipulate energy",
     "A variety of other powers",
-    "Durability;"
+    "Able to manipulate energy",
+    "Durability",
+    "Durability;",
+    "Genius",
+    "Superhuman strength",
+    "Teleporter"
   ],
   "ranking": {
     "comicCount": 12,
     "eventCount": 1,
-    "pageviewCount": 606,
+    "pageviewCount": 34,
     "pageviewRank": -1,
     "serieCount": 8,
     "storyCount": 9
@@ -41,9 +41,9 @@
     "Mutant"
   ],
   "teams": [
+    "Brotherhood of Evil Mutants",
     "Brotherhood of Mutants",
-    "Dark Descendants",
-    "Brotherhood of Evil Mutants"
+    "Dark Descendants"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1778/post",

@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Krule",
-    "Crule"
+    "Crule",
+    "Krule"
   ],
   "authors": [
+    "Fabian Nicieza",
     "Mark Pacella",
-    "Rob Liefeld",
-    "Fabian Nicieza"
+    "Rob Liefeld"
   ],
   "description": "Crule is a fictional character, a mutant in the Marvel Comics universe.",
   "images": {
@@ -21,21 +21,21 @@
   "partners": [
   ],
   "powers": [
-    "Enhanced senses",
-    "Strength",
-    "Speed",
     "Agility",
-    "Reflexes",
-    "Coordination",
     "Balance",
+    "Coordination",
     "Endurance",
+    "Enhanced senses",
     "Fangs",
-    "Gauntlet-covered claws"
+    "Gauntlet-covered claws",
+    "Reflexes",
+    "Speed",
+    "Strength"
   ],
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 485,
+    "pageviewCount": 29,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 7
@@ -46,8 +46,8 @@
     "Mutant"
   ],
   "teams": [
-    "Nazi Germany",
     "Externals",
+    "Nazi Germany",
     "Third Reich"
   ],
   "urls": {

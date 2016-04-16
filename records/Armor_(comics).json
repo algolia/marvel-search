@@ -19,18 +19,18 @@
   "partners": [
   ],
   "powers": [
+    "Agility",
+    "Dexterity",
+    "Durability",
+    "Endurance",
     "Invulnerability",
     "Reflexes",
-    "Agility",
-    "Endurance",
-    "Stamina",
-    "Dexterity",
-    "Durability"
+    "Stamina"
   ],
   "ranking": {
     "comicCount": 5,
     "eventCount": 0,
-    "pageviewCount": 4256,
+    "pageviewCount": 260,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 5
@@ -42,10 +42,11 @@
     "Mutant"
   ],
   "teams": [
+    "Jean Grey School Students",
+    "New X-Men",
+    "Paladins training squad",
     "X-Men",
     "X-Men-In-Training",
-    "New X-Men",
-    "Jean Grey School Students",
     "Xavier Institute"
   ],
   "urls": {

@@ -1,8 +1,8 @@
 {
   "aliases": [
+    "Ringer",
     "Strikeback",
-    "The Ringer",
-    "Ringer"
+    "The Ringer"
   ],
   "authors": [
     "David Kraft",
@@ -17,20 +17,20 @@
   "mainColor": null,
   "name": "Ringer",
   "partners": [
-    "The Beetle",
-    "Beetle"
+    "Beetle",
+    "The Beetle"
   ],
   "powers": [
-    "Skilled inventor",
-    "Engineer",
     "Energy projection",
+    "Engineer",
     "Levitation",
+    "Skilled inventor",
     "Teleportation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 962,
+    "pageviewCount": 52,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

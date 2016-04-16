@@ -3,8 +3,8 @@
     "Sugar Man"
   ],
   "authors": [
-    "Scott Lobdell",
-    "Chris Bachalo"
+    "Chris Bachalo",
+    "Scott Lobdell"
   ],
   "description": "The Sugar Man was in charge of the Seattle Core, a slave camp that helped power North America during the Age of Apocalypse.",
   "images": {
@@ -21,19 +21,19 @@
   "powers": [
     "Enhanced sense of smell",
     "Expert biologist",
-    "Genetics",
-    "Size",
     "Four arms",
-    "Superhuman strength",
-    "Razor sharp claws",
-    "Teeth",
     "Geneticist",
-    "Indefinitely long"
+    "Genetics",
+    "Indefinitely long",
+    "Razor sharp claws",
+    "Size",
+    "Superhuman strength",
+    "Teeth"
   ],
   "ranking": {
     "comicCount": 3,
     "eventCount": 0,
-    "pageviewCount": 4181,
+    "pageviewCount": 276,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 3
@@ -44,9 +44,9 @@
     "Mutant"
   ],
   "teams": [
-    "Seattle Core",
+    "Age of Apocalypse",
     "Genegineer",
-    "Age of Apocalypse"
+    "Seattle Core"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011212/sugar_man",

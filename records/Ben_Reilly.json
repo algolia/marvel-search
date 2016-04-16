@@ -1,15 +1,19 @@
 {
   "aliases": [
-    "Scarlet Spider",
-    "Spider-Man",
-    "Spider-Carnage",
-    "Peter Parker",
+    "Ben Reilly",
     "Henry Jones",
-    "Ben Reilly"
+    "Peter Parker",
+    "Scarlet Spider",
+    "Spider-Carnage",
+    "Spider-Man"
   ],
   "authors": [
+    "Gerry Conway",
     "Ross Andru",
-    "Gerry Conway"
+    "Spider-Man",
+    "Stan Lee",
+    "Steve Ditko",
+    "by"
   ],
   "description": "Ben Reilly was the most genetically stable of the many clones of Spider-Man created by Professor Miles Warren, the Jackal.",
   "images": {
@@ -24,28 +28,28 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
-    "Stamina",
-    "Reflexes",
-    "Durability",
     "Agility",
+    "Durability",
+    "Expert swordsman",
+    "Genius-level intellect",
     "High pain tolerance",
     "Precognitive spider-sense",
-    "Genius-level intellect",
-    "Expert swordsman"
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 4,
     "eventCount": 0,
-    "pageviewCount": 10121,
+    "pageviewCount": 721,
     "pageviewRank": -1,
     "serieCount": 3,
     "storyCount": 4
   },
   "secretIdentities": [
-    "Benjamin Reilly",
-    "Ben"
+    "Ben",
+    "Benjamin Reilly"
   ],
   "species": [
   ],

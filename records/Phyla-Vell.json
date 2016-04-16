@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Quasar",
     "Captain Marvel",
     "Martyr",
-    "Phyla-Vell"
+    "Phyla-Vell",
+    "Quasar"
   ],
   "authors": [
-    "Peter David",
-    "Paul Azaceta"
+    "Paul Azaceta",
+    "Peter David"
   ],
   "description": "Phyla-Vell is a fictional character, a comic book superhero in the Marvel Comics universe.",
   "images": {
@@ -22,16 +22,16 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Flight",
-    "Energy projection",
     "Absorption",
-    "Cosmic awareness"
+    "Cosmic awareness",
+    "Energy projection",
+    "Flight",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 9134,
+    "pageviewCount": 527,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -42,8 +42,8 @@
   "species": [
   ],
   "teams": [
-    "Guardians of the Galaxy",
     "Annihilation",
+    "Guardians of the Galaxy",
     "United Front"
   ],
   "urls": {

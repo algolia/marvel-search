@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "Thunderbird",
     "Running Sun",
+    "Thunderbird",
     "Warpath"
   ],
   "authors": [
@@ -21,27 +21,27 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
-    "Stamina",
     "Agility",
-    "Reflexes",
     "Durability",
-    "Senses",
-    "Trained in armed",
-    "Unarmed combat",
-    "Flight",
-    "Skilled hunter",
-    "Tracker",
     "Endurance",
     "Flexibility",
+    "Flight",
+    "Reflexes",
     "Reflexes/reactions",
-    "Resistance to injury"
+    "Resistance to injury",
+    "Senses",
+    "Skilled hunter",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Tracker",
+    "Trained in armed",
+    "Unarmed combat"
   ],
   "ranking": {
     "comicCount": 154,
     "eventCount": 5,
-    "pageviewCount": 18214,
+    "pageviewCount": 1146,
     "pageviewRank": -1,
     "serieCount": 27,
     "storyCount": 188
@@ -53,11 +53,11 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men",
-    "X-Corporation",
     "Hellions",
     "New Mutants",
-    "X-Force"
+    "X-Corporation",
+    "X-Force",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2527/warpath",

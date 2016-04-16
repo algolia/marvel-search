@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "The Leaper",
-    "Batroc the Leaper"
+    "Batroc the Leaper",
+    "The Leaper"
   ],
   "authors": [
     "Jack Kirby",
@@ -21,18 +21,20 @@
   ],
   "powers": [
     "Experienced thief",
-    "Smuggler",
-    "Savate",
-    "Peak physical condition",
     "Extraordinary agility",
-    "Reflexes",
+    "Flexibility",
+    "Master french kickboxer",
     "Olympic level athlete",
+    "Peak physical condition",
+    "Reflexes",
+    "Savate",
+    "Smuggler",
     "Weightlifter"
   ],
   "ranking": {
     "comicCount": 10,
     "eventCount": 0,
-    "pageviewCount": 10241,
+    "pageviewCount": 703,
     "pageviewRank": -1,
     "serieCount": 6,
     "storyCount": 10
@@ -45,8 +47,8 @@
   "teams": [
     "Batroc's Brigade",
     "Legion Accursed",
-    "Thunderbolts",
-    "Masters of Evil"
+    "Masters of Evil",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/246/batroc_the_leaper",

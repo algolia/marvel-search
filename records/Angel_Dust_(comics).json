@@ -1,9 +1,8 @@
 {
   "aliases": [
+    "Angel Dust",
     "Christine",
-    "Angel",
-    "Dusty",
-    "Angel Dust"
+    "Dusty"
   ],
   "authors": [
     "Geoff Johns",
@@ -11,35 +10,29 @@
   ],
   "description": "Angel Dust (Christine) is a fictional mutant character in the Marvel Comics Universe.",
   "images": {
-    "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/537b9f24ab731.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/3/30/537b88aa21075.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/531769834b15f/standard_xlarge.jpg"
   },
   "isHero": null,
   "isVillain": null,
-  "mainColor": {
-    "blue": 9,
-    "green": 36,
-    "hexa": "3A2409",
-    "red": 58
-  },
-  "name": "Angel (Thomas Halloway)",
+  "mainColor": null,
+  "name": "Angel Dust",
   "partners": [
   ],
   "powers": [
-    "Depowered",
-    "Speed",
-    "Durability"
+    "Agility",
+    "Enhanced speed",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 4,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 115424,
+    "pageviewCount": 10799,
     "pageviewRank": -1,
-    "serieCount": 4,
-    "storyCount": 4
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
+    "Christina",
     "Christine"
   ],
   "species": [
@@ -49,7 +42,6 @@
     "Morlocks"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1011396/angel_thomas_halloway/featured",
     "wikipedia": "https://en.wikipedia.org/wiki/Angel_Dust_(comics)"
   }
 }

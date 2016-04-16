@@ -1,11 +1,12 @@
 {
   "aliases": [
-    "Carl Stricker"
+    "Carl Stricker",
+    "Elihas Starr"
   ],
   "authors": [
-    "Stan Lee",
     "Jack Kirby",
-    "Larry Lieber"
+    "Larry Lieber",
+    "Stan Lee"
   ],
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Egghead_comics.jpg/250px-Egghead_comics.jpg"
@@ -25,7 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 3488,
+    "pageviewCount": 201,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -37,8 +38,8 @@
   ],
   "teams": [
     "Emissaries of Evil",
-    "Masters of Evil",
-    "Intelligencia"
+    "Intelligencia",
+    "Masters of Evil"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Egghead_(Marvel_Comics)"

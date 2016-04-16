@@ -4,8 +4,8 @@
   ],
   "authors": [
     "Ann Nocenti",
-    "Arthur Adams",
-    "Art Adams"
+    "Art Adams",
+    "Arthur Adams"
   ],
   "description": "Longshot is a fictional comic book superhero appearing in books published by Marvel Comics, usually those featuring the X-Men family of characters.",
   "images": {
@@ -20,20 +20,21 @@
   "partners": [
   ],
   "powers": [
-    "Psychometry",
-    "Probability manipulation",
-    "Superhuman agility",
-    "Expert",
-    "Hand-to-hand combatant",
-    "Proficient in the use of",
+    "Ant",
     "Bladed weaponry",
+    "Expert",
     "Firearms",
-    "Healing factor"
+    "Hand-to-hand combat",
+    "Healing factor",
+    "Probability manipulation",
+    "Proficient in the use of",
+    "Psychometry",
+    "Superhuman agility"
   ],
   "ranking": {
     "comicCount": 69,
     "eventCount": 5,
-    "pageviewCount": 8708,
+    "pageviewCount": 658,
     "pageviewRank": -1,
     "serieCount": 21,
     "storyCount": 82
@@ -45,11 +46,11 @@
     "mutant"
   ],
   "teams": [
-    "X-Factor Investigations",
-    "New Excalibur",
     "Exiles",
-    "X-Men",
-    "Wildways Rebellion"
+    "New Excalibur",
+    "Wildways Rebellion",
+    "X-Factor Investigations",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1275/longshot",

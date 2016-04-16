@@ -1,12 +1,12 @@
 {
   "aliases": [
     "Shiv",
-    "The Shiver Man",
-    "Shiver Man"
+    "Shiver Man",
+    "The Shiver Man"
   ],
   "authors": [
-    "Mark Texeira",
-    "Frank Tieri"
+    "Frank Tieri",
+    "Mark Texeira"
   ],
   "description": "The Shiver Man is an undead bounty hunter who has worked with Nick Fury and Wolverine.",
   "images": {
@@ -19,20 +19,20 @@
   "mainColor": null,
   "name": "Shiver Man",
   "partners": [
-    "Wolverine",
-    "Nick Fury",
     "Beast",
-    "The Beast"
+    "Nick Fury",
+    "The Beast",
+    "Wolverine"
   ],
   "powers": [
+    "Immortality",
     "Intangibility",
-    "Teleportation",
-    "Immortality"
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 268,
+    "pageviewCount": 19,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 1

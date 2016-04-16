@@ -3,8 +3,8 @@
     "Baron Mordo"
   ],
   "authors": [
-    "Steve Ditko",
-    "Stan Lee"
+    "Stan Lee",
+    "Steve Ditko"
   ],
   "description": "Baron Karl Amadeus Mordo (known as Baron Mordo) is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
   "images": {
@@ -19,19 +19,19 @@
     "Dormammu"
   ],
   "powers": [
-    "Mesmerism",
-    "Good martial artist",
     "Astral projection",
-    "Teleportation",
     "Force blast projection",
-    "Thought",
+    "Good martial artist",
+    "Hypnotism",
     "Illusion casting",
-    "Hypnotism"
+    "Mesmerism",
+    "Teleportation",
+    "Thought"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 40617,
+    "pageviewCount": 1610,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -43,7 +43,8 @@
   ],
   "teams": [
     "Defenders",
-    "Legion Accursed"
+    "Legion Accursed",
+    "Offenders"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Baron_Mordo"

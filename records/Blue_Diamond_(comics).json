@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "The Blue Diamond",
-    "Blue Diamond"
+    "Blue Diamond",
+    "The Blue Diamond"
   ],
   "authors": [
     "Ben Thompson"
@@ -17,16 +17,16 @@
   "partners": [
   ],
   "powers": [
-    "Slow aging",
     "Diamond hard skin",
-    "Superhuman strength",
     "Flight",
-    "Nigh-invulnerability"
+    "Nigh-invulnerability",
+    "Slow aging",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1049,
+    "pageviewCount": 68,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -37,9 +37,9 @@
   "species": [
   ],
   "teams": [
-    "Liberty Legion",
-    "Invaders",
     "Crazy Sues",
+    "Invaders",
+    "Liberty Legion",
     "New Invaders"
   ],
   "urls": {

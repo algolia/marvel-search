@@ -1,8 +1,8 @@
 {
   "aliases": [
-    "The Mad Titan",
     "Avatar of Death",
-    "Thanos"
+    "Thanos",
+    "The Mad Titan"
   ],
   "authors": [
     "Jim Starlin"
@@ -25,20 +25,20 @@
   "partners": [
   ],
   "powers": [
-    "Teleportation",
-    "Psychokinesis",
+    "Durability",
     "Endurance",
+    "Energy manipulation",
     "Hysterical strength",
     "Longevity",
+    "Psychokinesis",
     "Superhuman strength",
-    "Durability",
-    "Energy manipulation",
-    "Telekinesis"
+    "Telekinesis",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 75,
     "eventCount": 4,
-    "pageviewCount": 124637,
+    "pageviewCount": 6918,
     "pageviewRank": 5752,
     "serieCount": 41,
     "storyCount": 72
@@ -49,14 +49,14 @@
     "Eternals"
   ],
   "teams": [
-    "Cull Obsidian",
-    "Infinity Watch",
-    "Defenders",
-    "Cabal",
     "Annihilation",
-    "Secret Defenders",
     "Annihilation Wave",
-    "Cull Obsidian (The Black Order)"
+    "Cabal",
+    "Cull Obsidian",
+    "Cull Obsidian (The Black Order)",
+    "Defenders",
+    "Infinity Watch",
+    "Secret Defenders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/58/thanos",

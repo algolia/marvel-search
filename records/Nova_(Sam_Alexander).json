@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Sam Alexander",
-    "Nova"
+    "Nova",
+    "Sam Alexander"
   ],
   "authors": [
-    "Jeph Loeb",
+    "Ed McGuiness",
     "Ed McGuinness",
-    "Ed McGuiness"
+    "Jeph Loeb"
   ],
   "description": "Sam Alexander inherited the role of Nova from his father, who went missing mysteriously. The new Human Rocket struggles to become a hero while searching for his dad.",
   "images": {
@@ -21,17 +21,17 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
     "Durability",
-    "Flight",
     "Energy projection",
-    "Universal translation",
-    "Survivability in space"
+    "Flight",
+    "Superhuman strength",
+    "Survivability in space",
+    "Universal translation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 15906,
+    "pageviewCount": 855,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -44,11 +44,11 @@
     "Human"
   ],
   "teams": [
+    "Avengers",
+    "New Avengers",
     "New Warriors",
     "Nova Corps",
-    "The New Avengers",
-    "New Avengers",
-    "Avengers"
+    "The New Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/41/nova",

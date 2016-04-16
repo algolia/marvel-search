@@ -3,8 +3,8 @@
     "Red Lotus"
   ],
   "authors": [
-    "Salvador Larroca",
-    "Chris Claremont"
+    "Chris Claremont",
+    "Salvador Larroca"
   ],
   "description": "Red Lotus (Paul Hark) is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
@@ -17,19 +17,19 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
-    "Reflexes",
     "Agility",
-    "Dexterity",
-    "Coordination",
     "Balance",
-    "Endurance"
+    "Coordination",
+    "Dexterity",
+    "Endurance",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 739,
+    "pageviewCount": 42,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -41,12 +41,12 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men",
-    "Chinese Triad",
-    "X-Treme X-Men",
-    "Hellfire Club",
     "Chinese",
-    "Triad"
+    "Chinese Triad",
+    "Hellfire Club",
+    "Triad",
+    "X-Men",
+    "X-Treme X-Men"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Red_Lotus_(comics)"

@@ -4,14 +4,14 @@
     "Olivier"
   ],
   "authors": [
-    "Tony DeZuniga",
-    "Christopher Golden",
-    "Thomas E. Sniegoski",
-    "Frank Costa",
-    "Olivier",
     "Archie Goodwin",
+    "Bernie Wrightson",
+    "Christopher Golden",
+    "Frank Costa",
     "Joe Quesada",
-    "Bernie Wrightson"
+    "Olivier",
+    "Thomas E. Sniegoski",
+    "Tony DeZuniga"
   ],
   "description": "Olivier is a fictional character in Marvel Comics.",
   "images": {
@@ -24,18 +24,18 @@
   "partners": [
   ],
   "powers": [
-    "Portal generation",
-    "Illusion creation",
-    "Manipulation",
-    "Hellfire projection",
-    "Immunity to age",
     "Disease",
-    "Injuries"
+    "Hellfire projection",
+    "Illusion creation",
+    "Immunity to age",
+    "Injuries",
+    "Manipulation",
+    "Portal generation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2244,
+    "pageviewCount": 186,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -46,9 +46,9 @@
   "species": [
   ],
   "teams": [
-    "Hell-lords ; Lucifer's Inner Circle ; former member of the Costa crime family of the Maggia",
-    "Hell-lords",
     "Costa Family",
+    "Hell-lords",
+    "Hell-lords ; Lucifer's Inner Circle ; former member of the Costa crime family of the Maggia",
     "Lucifer's Inner Circle"
   ],
   "urls": {

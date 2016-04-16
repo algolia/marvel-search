@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "Mr. H",
-    "Hammerhead"
+    "Hammerhead",
+    "Mr. H"
   ],
   "authors": [
     "Gerry Conway",
@@ -19,23 +19,23 @@
   "name": "Hammerhead",
   "partners": [
     "Chameleon",
-    "Tombstone",
-    "Mister Negative"
+    "Mister Negative",
+    "Tombstone"
   ],
   "powers": [
+    "Adamantium-laced skull",
+    "Durability",
+    "Effective hit-man",
+    "Endurance",
+    "Excellent street fighter",
     "Skilled marksman",
     "Superhuman strength",
-    "Durability",
-    "Endurance",
-    "Adamantium-laced skull",
-    "Upper body",
-    "Effective hit-man",
-    "Excellent street fighter"
+    "Upper body"
   ],
   "ranking": {
     "comicCount": 20,
     "eventCount": 0,
-    "pageviewCount": 5515,
+    "pageviewCount": 321,
     "pageviewRank": -1,
     "serieCount": 11,
     "storyCount": 20
@@ -46,8 +46,8 @@
   "species": [
   ],
   "teams": [
-    "Sinister Six",
     "Maggia",
+    "Sinister Six",
     "Sinister Twelve"
   ],
   "urls": {

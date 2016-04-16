@@ -3,12 +3,12 @@
     "Cat-Man"
   ],
   "authors": [
-    "Roger McKenzie",
-    "Mary Jo Duffy",
-    "Gene Colan",
-    "Wally Wood",
     "Bob Powell",
-    "Stan Lee"
+    "Gene Colan",
+    "Mary Jo Duffy",
+    "Roger McKenzie",
+    "Stan Lee",
+    "Wally Wood"
   ],
   "description": "Cat-Man is the name of a number of fictional characters in Marvel Comics.",
   "images": {
@@ -20,17 +20,17 @@
   "partners": [
   ],
   "powers": [
-    "Natural razor-sharp claws",
-    "Use of a t-ray gun",
     "Cat-like claws",
-    "Superhuman agility",
     "Considerable agility",
-    "Reflexes"
+    "Natural razor-sharp claws",
+    "Reflexes",
+    "Superhuman agility",
+    "Use of a t-ray gun"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 583,
+    "pageviewCount": 41,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

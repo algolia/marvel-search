@@ -1,8 +1,8 @@
 {
   "aliases": [
     "Meteorite",
-    "Ms. Marvel",
-    "Moonstone"
+    "Moonstone",
+    "Ms. Marvel"
   ],
   "authors": [
     "Frank Robbins",
@@ -21,21 +21,21 @@
   "partners": [
   ],
   "powers": [
-    "Photon blasts",
-    "Intangibility",
+    "Flight",
     "Gravity manipulation",
+    "Intangibility",
     "Light generation",
-    "Superhuman strength",
+    "Minor molecular control",
+    "Photon blasts",
+    "Reflexes",
     "Speed",
     "Stamina",
-    "Reflexes",
-    "Flight",
-    "Minor molecular control"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 20,
     "eventCount": 4,
-    "pageviewCount": 9095,
+    "pageviewCount": 602,
     "pageviewRank": -1,
     "serieCount": 15,
     "storyCount": 20
@@ -46,11 +46,11 @@
   "species": [
   ],
   "teams": [
-    "Thunderbolts",
     "Corporation",
     "Dark Avengers",
     "Masters of Evil",
-    "The Corporation"
+    "The Corporation",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1503/moonstone",

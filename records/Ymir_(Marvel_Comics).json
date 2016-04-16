@@ -4,8 +4,8 @@
     "Ymir"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Based on the frost giant of the same name from Norse mythology, Ymir is a fictional character that appears in publications published by Marvel Comics.",
   "images": {
@@ -19,19 +19,19 @@
     "Surtur"
   ],
   "powers": [
-    "Ice",
-    "Cold manipulation",
-    "Regeneration",
-    "Superhuman strength",
-    "Superhuman durability",
     "Cold",
+    "Cold manipulation",
+    "Healing factor",
+    "Ice",
     "Ice manipulation",
-    "Healing factor"
+    "Regeneration",
+    "Superhuman durability",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2560,
+    "pageviewCount": 138,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -43,8 +43,8 @@
   ],
   "teams": [
     "Frost",
-    "Storm Giants",
-    "Frost and Storm Giants"
+    "Frost and Storm Giants",
+    "Storm Giants"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ymir_(Marvel_Comics)"

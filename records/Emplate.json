@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "M-Plate",
-    "Emplate"
+    "Emplate",
+    "M-Plate"
   ],
   "authors": [
     "Chris Bachalo",
@@ -18,19 +18,19 @@
   "mainColor": null,
   "name": "Emplate",
   "partners": [
-    "D.O.A",
-    "Chimera"
+    "Chimera",
+    "D.O.A"
   ],
   "powers": [
-    "Invisibility",
-    "Interdimensional travel",
     "Density control",
+    "Interdimensional travel",
+    "Invisibility",
     "Read\" mutant auras"
   ],
   "ranking": {
     "comicCount": 2,
     "eventCount": 1,
-    "pageviewCount": 1359,
+    "pageviewCount": 80,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 1

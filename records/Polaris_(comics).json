@@ -2,18 +2,18 @@
   "aliases": [
     "Lorna Dane",
     "M2",
-    "Magnetrix",
-    "Pestilence",
-    "Malice",
     "Magneto the Second",
+    "Magnetrix",
+    "Malice",
+    "Pestilence",
     "Polaris",
     "Queen of the Mutants"
   ],
   "authors": [
-    "Jim Steranko",
-    "Werner Roth",
     "Arnold Drake",
-    "Don Heck"
+    "Don Heck",
+    "Jim Steranko",
+    "Werner Roth"
   ],
   "description": "Polaris (Lorna Dane) is a fictional comic book character and superhero appearing in books published by Marvel Comics, in particular the X-Men family of books.",
   "images": {
@@ -28,18 +28,18 @@
   "partners": [
   ],
   "powers": [
-    "Waves",
-    "Fields allowing flight",
-    "Force-fields",
     "Concussive blasts",
     "Electromagnetic control",
+    "Fields allowing flight",
     "Flight",
-    "Magnetic field generation"
+    "Force-fields",
+    "Magnetic field generation",
+    "Waves"
   ],
   "ranking": {
     "comicCount": 192,
     "eventCount": 6,
-    "pageviewCount": 15299,
+    "pageviewCount": 945,
     "pageviewRank": -1,
     "serieCount": 55,
     "storyCount": 226
@@ -52,17 +52,17 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men",
-    "Starjammers",
-    "Horsemen of Apocalypse",
-    "All-New X-Factor",
-    "X-Factor Investigations",
-    "X-Factor",
-    "Defenders",
-    "The Twelve",
     "Acolytes",
+    "All-New X-Factor",
+    "Defenders",
+    "Defenders for a Day",
+    "Horsemen of Apocalypse",
+    "Starjammers",
+    "The Twelve",
+    "X-Factor",
     "X-Factor (Serval Industries)",
-    "Defenders for a Day"
+    "X-Factor Investigations",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1771/polaris",

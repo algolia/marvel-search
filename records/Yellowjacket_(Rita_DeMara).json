@@ -19,17 +19,17 @@
   "partners": [
   ],
   "powers": [
-    "Stinger blasts",
-    "Flight",
-    "Size changing",
     "Cybernetics expert",
+    "Flight",
     "High-speed flight",
-    "Size manipulation"
+    "Size changing",
+    "Size manipulation",
+    "Stinger blasts"
   ],
   "ranking": {
     "comicCount": 3,
     "eventCount": 1,
-    "pageviewCount": 4087,
+    "pageviewCount": 206,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 3
@@ -40,9 +40,9 @@
   "species": [
   ],
   "teams": [
-    "Guardians of the Galaxy",
-    "Femizons",
     "Avengers",
+    "Femizons",
+    "Guardians of the Galaxy",
     "Masters of Evil"
   ],
   "urls": {

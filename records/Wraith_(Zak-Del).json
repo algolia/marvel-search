@@ -1,20 +1,20 @@
 {
   "aliases": [
-    "Wraith",
-    "Pale Rider",
+    "Jean DeWolff",
     "Kree with no name",
+    "Pale Rider",
     "Paleface\" (Watanabe)",
-    "Jean DeWolff"
+    "Wraith"
   ],
   "authors": [
     "Bill Mantlo",
-    "Sal Buscema",
-    "Scott Lobdell",
-    "Salvador Larroca",
-    "Javier Grillo-Marxuach",
-    "Kyle Hotz",
     "Dan Slott",
-    "John Romita, Jr."
+    "Javier Grillo-Marxuach",
+    "John Romita, Jr.",
+    "Kyle Hotz",
+    "Sal Buscema",
+    "Salvador Larroca",
+    "Scott Lobdell"
   ],
   "images": {
     "background": null,
@@ -26,29 +26,29 @@
   "mainColor": null,
   "name": "Wraith",
   "partners": [
-    "Phillip DeWolff",
-    "Iron Man"
+    "Iron Man",
+    "Phillip DeWolff"
   ],
   "powers": [
-    "Thought reading",
-    "Induce mental pain",
-    "Mind control",
-    "Carries a smoke gun",
-    "Transparent skin",
-    "Polymorphic weapon",
-    "Enhanced strength",
-    "Speed",
-    "Agility",
-    "Travel through the air",
     "Accelerated healing",
+    "Agility",
+    "Carries a smoke gun",
     "Darkness manifestation",
+    "Enhanced strength",
+    "Induce mental pain",
+    "Infect",
     "Longevity via agelessness",
-    "Infect"
+    "Mind control",
+    "Polymorphic weapon",
+    "Speed",
+    "Thought reading",
+    "Transparent skin",
+    "Travel through the air"
   ],
   "ranking": {
     "comicCount": 8,
     "eventCount": 2,
-    "pageviewCount": 352,
+    "pageviewCount": 16,
     "pageviewRank": -1,
     "serieCount": 3,
     "storyCount": 11
@@ -56,16 +56,16 @@
   "secretIdentities": [
     "Brian DeWolff",
     "Hector Rendoza",
-    "Zak-Del",
-    "Yuri Watanabe"
+    "Yuri Watanabe",
+    "Zak-Del"
   ],
   "species": [
   ],
   "teams": [
-    "New York City Police Department",
     "Genoshan Assault X-Men",
     "Kree Underground",
-    "Nameless Kree"
+    "Nameless Kree",
+    "New York City Police Department"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2596/wraith",

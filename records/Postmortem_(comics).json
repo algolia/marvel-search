@@ -3,11 +3,11 @@
     "Postmortem"
   ],
   "authors": [
-    "Terry Kavanagh",
     "Doug Wheatley",
-    "Fish Police",
     "Douglas H. Wheatley",
-    "Steve Moncuse"
+    "Fish Police",
+    "Steve Moncuse",
+    "Terry Kavanagh"
   ],
   "description": "Postmortem is a fictional cyborg supervillain in the Marvel Universe.",
   "images": {
@@ -20,13 +20,13 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Knives"
+    "Knives",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 456,
+    "pageviewCount": 25,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

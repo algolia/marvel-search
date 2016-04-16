@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Three-in-One",
     "Five-in-One",
-    "Thousand-in-One",
-    "Weapon XIV",
-    "The Three-in-One",
     "Stepford Cuckoos",
+    "The Three-in-One",
+    "Thousand-in-One",
+    "Three-in-One",
+    "Weapon XIV",
     "Weapon XIV (Units 1 to 5)"
   ],
   "authors": [
@@ -30,19 +30,19 @@
   "ranking": {
     "comicCount": 13,
     "eventCount": 1,
-    "pageviewCount": 5954,
+    "pageviewCount": 374,
     "pageviewRank": -1,
     "serieCount": 5,
     "storyCount": 13
   },
   "secretIdentities": [
-    "Esme Cuckoo",
     "Celeste Cuckoo",
-    "Phoebe Cuckoo",
-    "Irma Cuckoo",
-    "Sophie Cuckoo",
-    "Mindee",
+    "Esme Cuckoo",
     "Esme Cuckoo (deceased)",
+    "Irma Cuckoo",
+    "Mindee",
+    "Phoebe Cuckoo",
+    "Sophie Cuckoo",
     "Sophie Cuckoo (deceased)"
   ],
   "species": [
@@ -50,19 +50,18 @@
     "Mutant"
   ],
   "teams": [
-    "Weapon Plus",
-    "X-Mansion",
     "Brotherhood of Mutants",
+    "Chaos War",
     "Chaos War's Dead X-Men",
-    "Xavier Institute",
     "Corsairs training squad",
-    "Street Team X-Men",
-    "X-Men-In-Training",
+    "Dead X-Men",
     "Jean Grey School Students",
     "New Charles Xavier School Students",
-    "Chaos War",
-    "'s",
-    "Dead X-Men"
+    "Street Team X-Men",
+    "Weapon Plus",
+    "X-Mansion",
+    "X-Men-In-Training",
+    "Xavier Institute"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2219/stepford_cuckoos",

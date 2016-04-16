@@ -1,16 +1,16 @@
 {
   "aliases": [
+    "Jessica",
     "Jessica Campbell Jones Cage",
-    "Jewel",
-    "Knightress",
-    "Power Woman",
     "Jessica Jones",
+    "Jewel",
     "Jones",
-    "Jessica"
+    "Knightress",
+    "Power Woman"
   ],
   "authors": [
-    "Michael Gaydos",
-    "Brian Michael Bendis"
+    "Brian Michael Bendis",
+    "Michael Gaydos"
   ],
   "description": "Jessica Campbell Jones Cage is a fictional character appearing in books published by Marvel Comics.",
   "images": {
@@ -23,19 +23,19 @@
   "mainColor": null,
   "name": "Jessica Jones",
   "partners": [
-    "Luke Cage",
-    "Carol Danvers"
+    "Carol Danvers",
+    "Luke Cage"
   ],
   "powers": [
-    "Psionic protection",
-    "Superhuman strength",
     "Endurance",
-    "Flight"
+    "Flight",
+    "Psionic protection",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 40,
     "eventCount": 2,
-    "pageviewCount": 1900776,
+    "pageviewCount": 43589,
     "pageviewRank": -1,
     "serieCount": 15,
     "storyCount": 58
@@ -46,13 +46,13 @@
   "species": [
   ],
   "teams": [
-    "Daily Bugle",
-    "The Pulse",
-    "The New Avengers",
     "Alias",
+    "Alias Private Investigations",
+    "Daily Bugle",
     "New Avengers",
-    "The Pulse Magazine",
-    "Alias Private Investigations"
+    "The New Avengers",
+    "The Pulse",
+    "The Pulse Magazine"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2722/jessica_jones",

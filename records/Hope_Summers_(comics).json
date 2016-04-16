@@ -1,17 +1,17 @@
 {
   "aliases": [
-    "Mutant Messiah",
-    "White Phoenix of the Crown",
-    "MeMe",
-    "Hope Summers",
     "Generation Hope",
+    "Hope",
+    "Hope Summers",
+    "MeMe",
+    "Mutant Messiah",
     "Summers",
-    "Hope"
+    "White Phoenix of the Crown"
   ],
   "authors": [
-    "Mike Carey",
+    "Chris Bachalo",
     "Matt Fraction",
-    "Chris Bachalo"
+    "Mike Carey"
   ],
   "description": "Hope Summers is a superheroine appearing in books published by Marvel Comics.",
   "images": {
@@ -32,15 +32,15 @@
     "Cable"
   ],
   "powers": [
-    "Power mimicry",
     "Empathetic power mimicry",
+    "Phoenix force",
     "Power activation",
-    "Phoenix force"
+    "Power mimicry"
   ],
   "ranking": {
     "comicCount": 66,
     "eventCount": 5,
-    "pageviewCount": 17144,
+    "pageviewCount": 1080,
     "pageviewRank": -1,
     "serieCount": 12,
     "storyCount": 88
@@ -53,10 +53,10 @@
     "Mutant"
   ],
   "teams": [
+    "Jean Grey School Students",
     "The Lights",
     "X-Force",
-    "X-Men",
-    "Jean Grey School Students"
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/24/hope",

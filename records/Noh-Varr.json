@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Marvel Boy",
     "Captain Marvel",
-    "Protector",
-    "Noh-Varr"
+    "Marvel Boy",
+    "Noh-Varr",
+    "Protector"
   ],
   "authors": [
-    "J. G. Jones",
-    "Grant Morrison"
+    "Grant Morrison",
+    "J. G. Jones"
   ],
   "description": "Noh-Varr is a fictional character, a superhero appearing in comic books published by Marvel Comics.",
   "images": {
@@ -23,15 +23,15 @@
   ],
   "powers": [
     "Enhanced reflexes",
-    "Strength",
     "Speed",
     "Stamina",
+    "Strength",
     "Weaponry"
   ],
   "ranking": {
     "comicCount": 38,
     "eventCount": 4,
-    "pageviewCount": 7454,
+    "pageviewCount": 428,
     "pageviewRank": -1,
     "serieCount": 22,
     "storyCount": 76
@@ -43,16 +43,16 @@
     "Kree"
   ],
   "teams": [
-    "Dark Avengers",
-    "Young Avengers",
-    "Supreme Intelligence",
-    "Kree Empire",
-    "Avengers",
     "18",
-    "Plex",
-    "Kree",
+    "18th Kree Diplomatic Gestalt",
+    "Avengers",
+    "Dark Avengers",
     "Empire",
-    "18th Kree Diplomatic Gestalt"
+    "Kree",
+    "Kree Empire",
+    "Plex",
+    "Supreme Intelligence",
+    "Young Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1377/marvel_boy",

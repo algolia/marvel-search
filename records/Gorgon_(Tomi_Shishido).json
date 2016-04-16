@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Wolverine",
+    "Gorgon",
     "The Gorgon",
-    "Gorgon"
+    "Wolverine"
   ],
   "authors": [
-    "Mark Millar",
-    "John Romita, Jr."
+    "John Romita, Jr.",
+    "Mark Millar"
   ],
   "description": "The Gorgon (real name Tomi Shishido) is a comic book character, a supervillain associated with the X-Men member Wolverine.",
   "images": {
@@ -21,24 +21,24 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
     "Agility",
-    "Dexterity",
-    "Reflexes/reactions",
-    "Coordination",
     "Balance",
+    "Coordination",
+    "Dexterity",
     "Endurance",
-    "Teleportation device",
-    "Telepathy",
     "Expert swordsman",
+    "Healing factor",
+    "Reflexes/reactions",
     "Regenerative",
-    "Healing factor"
+    "Speed",
+    "Superhuman strength",
+    "Telepathy",
+    "Teleportation device"
   ],
   "ranking": {
     "comicCount": 47,
     "eventCount": 3,
-    "pageviewCount": 5245,
+    "pageviewCount": 272,
     "pageviewRank": -1,
     "serieCount": 23,
     "storyCount": 48
@@ -50,12 +50,12 @@
     "Mutant"
   ],
   "teams": [
-    "H.A.M.M.E.R",
-    "The Hand",
     "Dark Avengers",
-    "Hydra",
     "Dawn of the White Light",
-    "Hand"
+    "H.A.M.M.E.R",
+    "Hand",
+    "Hydra",
+    "The Hand"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/837/gorgon",

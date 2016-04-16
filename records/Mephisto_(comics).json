@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Satan",
     "Lucifer",
-    "The Devil",
+    "Mephisto",
     "Mephistopheles",
-    "Mephisto"
+    "Satan",
+    "The Devil"
   ],
   "authors": [
-    "Stan Lee",
-    "John Buscema"
+    "John Buscema",
+    "Stan Lee"
   ],
   "description": "Mephisto is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
@@ -23,16 +23,16 @@
   "partners": [
   ],
   "powers": [
-    "Intelligence",
-    "Superhuman",
-    "Physical attributes",
     "Immortality",
-    "Magic"
+    "Intelligence",
+    "Magic",
+    "Physical attributes",
+    "Superhuman"
   ],
   "ranking": {
     "comicCount": 53,
     "eventCount": 2,
-    "pageviewCount": 17340,
+    "pageviewCount": 1048,
     "pageviewRank": -1,
     "serieCount": 24,
     "storyCount": 52

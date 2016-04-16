@@ -1,16 +1,16 @@
 {
   "aliases": [
+    "Ikol",
+    "Loki",
     "Loki Laufeyson",
     "Loki Odinson",
     "Scarlet Witch",
-    "Serrure",
-    "Loki",
-    "Ikol"
+    "Serrure"
   ],
   "authors": [
+    "Jack Kirby",
     "Larry Lieber",
-    "Stan Lee",
-    "Jack Kirby"
+    "Stan Lee"
   ],
   "description": "Loki is a fictional character, a supervillain and sometime anti-hero that appears in comic books by Marvel Comics.",
   "images": {
@@ -30,30 +30,30 @@
   "partners": [
   ],
   "powers": [
-    "Genius-level intellect",
-    "Superhuman strength",
-    "Durability",
-    "Healing factor",
-    "Stamina",
-    "Longevity",
-    "Telepathy",
-    "Flight",
-    "Shapeshifting",
-    "Psionic ability",
     "Astral projection",
-    "Molecular rearrangement",
+    "Durability",
     "Energy blasts",
-    "Illusion casting",
+    "Flight",
+    "Genius-level intellect",
+    "Healing factor",
     "Hypnosis",
-    "Superhuman intelligence",
+    "Illusion casting",
+    "Longevity",
+    "Magical powers",
+    "Molecular rearrangement",
+    "Psionic ability",
+    "Shapeshifting",
+    "Stamina",
     "Strength",
-    "Via",
-    "Magical powers"
+    "Superhuman intelligence",
+    "Superhuman strength",
+    "Telepathy",
+    "Via"
   ],
   "ranking": {
     "comicCount": 194,
     "eventCount": 7,
-    "pageviewCount": 35369,
+    "pageviewCount": 2329,
     "pageviewRank": 7142,
     "serieCount": 79,
     "storyCount": 193
@@ -66,9 +66,9 @@
   ],
   "teams": [
     "Acts of Vengeance",
-    "Young Avengers",
+    "Astonishing Avengers",
     "Cabal",
-    "Astonishing Avengers"
+    "Young Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/33/loki",

@@ -4,10 +4,10 @@
   ],
   "authors": [
     "Gary Frank",
-    "Steve Engelhart",
-    "J. Michael Straczynski"
+    "J. Michael Straczynski",
+    "Steve Engelhart"
   ],
-  "description": "Amphibian is the name of two different fictional characters that have appeared in publications from Marvel Comics.The first debuted as a member of the team of superheroes called the Squadron Supreme in Avengers (vol. 1) #148 (June 1976).",
+  "description": "Amphibian is the name of two different fictional characters that have appeared in publications from Marvel Comics.The first Amphibian debuted as a member of the team of superheroes called the Squadron Supreme in Avengers (vol. 1) #148 (June 1976).",
   "images": {
     "background": null,
     "banner": null,
@@ -22,24 +22,29 @@
   "powers": [
     "Metamorphic abilities",
     "Sharp claws",
-    "Telepathy",
-    "Superhuman strength"
+    "Superhuman strength",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 3,
     "eventCount": 0,
-    "pageviewCount": 1532,
+    "pageviewCount": 96,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 2
   },
   "secretIdentities": [
-    "Kingsley Rice"
+    "Kingsley Rice",
+    "Kingsley Rice (female)",
+    "Kingsley Rice (male)"
   ],
   "species": [
   ],
   "teams": [
-    "Squadron Supreme"
+    "</ref>",
+    "Squadron Supreme",
+    "Squadron Supreme of Earth-31916",
+    "Squadron Supreme of Earth-712"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/137/amphibian",

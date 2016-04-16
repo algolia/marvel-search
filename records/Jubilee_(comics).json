@@ -1,12 +1,12 @@
 {
   "aliases": [
     "Jubilation Lee",
-    "Wondra",
-    "Jubilee"
+    "Jubilee",
+    "Wondra"
   ],
   "authors": [
-    "Marc Silvestri",
-    "Chris Claremont"
+    "Chris Claremont",
+    "Marc Silvestri"
   ],
   "description": "Jubilee (Jubilation Lee) is a fictional character, a Marvel Comics superheroine associated with the X-Men.A mutant, Jubilee had the superhuman power to generate pyrotechnic energy plasmoids out of her hands.",
   "images": {
@@ -21,15 +21,15 @@
   "partners": [
   ],
   "powers": [
-    "Possesses the powers",
     "Abilities of a vampire",
     "Concussive blasts",
-    "Plasmoid"
+    "Plasmoid",
+    "Possesses the powers"
   ],
   "ranking": {
     "comicCount": 170,
     "eventCount": 8,
-    "pageviewCount": 57114,
+    "pageviewCount": 2633,
     "pageviewRank": -1,
     "serieCount": 33,
     "storyCount": 191
@@ -42,12 +42,12 @@
     "Vampire"
   ],
   "teams": [
-    "Generation X",
     "Forgiven",
+    "Generation X",
     "New Warriors",
-    "X-Men",
     "X-Corps",
     "X-Mansion",
+    "X-Men",
     "Xavier Institute"
   ],
   "urls": {

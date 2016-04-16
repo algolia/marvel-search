@@ -1,18 +1,18 @@
 {
   "aliases": [
-    "Jack O'Lantern",
-    "Mysterio",
-    "Dr. Ludwig Rinehart",
     "Daniel Berkhart",
-    "Francis Klum"
+    "Dr. Ludwig Rinehart",
+    "Francis Klum",
+    "Jack O'Lantern",
+    "Mysterio"
   ],
   "authors": [
-    "Stan Lee",
-    "Terry Dodson",
-    "Steve Ditko",
     "Gerry Conway",
+    "Kevin Smith",
     "Ross Andru",
-    "Kevin Smith"
+    "Stan Lee",
+    "Steve Ditko",
+    "Terry Dodson"
   ],
   "description": "Mysterio is a fictional character, a supervillain and enemy of Spider-Man in the Marvel Comics Universe.In 2009, Mysterio was ranked as IGN's 85th Greatest Comic Book Villain of All Time.",
   "images": {
@@ -28,26 +28,26 @@
     "J. Jonah Jameson"
   ],
   "powers": [
-    "Master hypnotist",
+    "Amateur chemist",
+    "Amateur chemist and",
+    "Expert",
+    "Hypnotist",
+    "Illusion",
+    "Illusion expert",
     "Magician",
+    "Master",
+    "Master hypnotist",
+    "Psychokinesis",
+    "Roboticist",
+    "Special effects",
     "Telepathy",
     "Teleportation",
-    "Special effects",
-    "Illusion expert",
-    "Use of weapons",
-    "Amateur chemist",
-    "Roboticist",
-    "Psychokinesis",
-    "Illusion",
-    "Expert",
-    "Master",
-    "Hypnotist",
-    "Amateur chemist and"
+    "Use of weapons"
   ],
   "ranking": {
     "comicCount": 41,
     "eventCount": 0,
-    "pageviewCount": 15397,
+    "pageviewCount": 978,
     "pageviewRank": -1,
     "serieCount": 19,
     "storyCount": 49
@@ -60,8 +60,8 @@
     "Mutant"
   ],
   "teams": [
-    "Sinister Six",
-    "Maggia"
+    "Maggia",
+    "Sinister Six"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1550/mysterio",

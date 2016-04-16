@@ -1,18 +1,18 @@
 {
   "aliases": [
-    "Morph",
-    "Changeling",
     "#2",
-    "Kevin MacTaggert",
-    "John Askegren",
-    "Jack Bolton",
-    "Martina Johanssen",
-    "Werner Reiman",
+    "<nowiki>#2</nowiki>",
+    "Changeling",
     "Charles Sage",
     "Francisco Zerilli",
-    "Professor Charles Xavier",
+    "Jack Bolton",
+    "John Askegren",
+    "Kevin MacTaggert",
     "Kevin Sydney",
-    "<nowiki>#2</nowiki>"
+    "Martina Johanssen",
+    "Morph",
+    "Professor Charles Xavier",
+    "Werner Reiman"
   ],
   "authors": [
     "Roy Thomas",
@@ -31,19 +31,19 @@
   "partners": [
   ],
   "powers": [
+    "Efficient organizer",
     "Expert computer engineer",
-    "Telepathy",
-    "Shapeshifting",
-    "Levitation",
-    "Skilled actor",
     "Good prankster",
     "Highly trained",
-    "Efficient organizer"
+    "Levitation",
+    "Shapeshifting",
+    "Skilled actor",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 4805,
+    "pageviewCount": 309,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -56,9 +56,9 @@
   ],
   "teams": [
     "Exiles",
-    "X-Men",
     "Factor Three",
-    "X-Humed"
+    "X-Humed",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/421/changeling",

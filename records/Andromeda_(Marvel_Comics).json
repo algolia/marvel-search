@@ -1,14 +1,14 @@
 {
   "aliases": [
     "Andrea McPhee",
+    "Andromeda",
     "Genevieve Cross",
-    "Lady Andromeda",
-    "Andromeda"
+    "Lady Andromeda"
   ],
   "authors": [
+    "Don Perlin",
     "Kim DeMulder",
-    "Peter B. Gillis",
-    "Don Perlin"
+    "Peter B. Gillis"
   ],
   "description": "Andromeda Attumasen is a fictional character that appears in various comic book series published by Marvel Comics.",
   "images": {
@@ -19,16 +19,17 @@
   "mainColor": null,
   "name": "Andromeda",
   "partners": [
-    "Namor"
+    "Namor",
+    "Namor the Sub-Mariner"
   ],
   "powers": [
-    "Superhuman strength",
-    "Durability"
+    "Durability",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1889,
+    "pageviewCount": 118,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -41,8 +42,8 @@
   ],
   "teams": [
     "Deep Six",
-    "Dragon Circle",
-    "Defenders"
+    "Defenders",
+    "Dragon Circle"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Andromeda_(Marvel_Comics)"

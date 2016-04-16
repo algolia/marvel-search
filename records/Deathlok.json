@@ -3,13 +3,13 @@
     "Deathlok"
   ],
   "authors": [
-    "Rich Buckler",
-    "Nathan Edmondson",
-    "Gregory Wright",
     "Doug Moench",
     "Dwayne McDuffie",
+    "Gregory Wright",
+    "Jackson Guice",
     "Mike Perkins",
-    "Jackson Guice"
+    "Nathan Edmondson",
+    "Rich Buckler"
   ],
   "description": "&nbsp;",
   "images": {
@@ -24,40 +24,40 @@
   "partners": [
   ],
   "powers": [
-    "Strength",
     "Durability",
-    "Reflexes"
+    "Reflexes",
+    "Strength"
   ],
   "ranking": {
     "comicCount": 22,
     "eventCount": 1,
-    "pageviewCount": 22463,
+    "pageviewCount": 1348,
     "pageviewRank": 3397,
     "serieCount": 12,
     "storyCount": 21
   },
   "secretIdentities": [
-    "Siege",
     "Henry Hayes",
-    "Michael Collins",
-    "Luther Manning",
     "Jack Truman/Larry Young",
-    "John Kelly"
+    "John Kelly",
+    "Luther Manning",
+    "Michael Collins",
+    "Siege"
   ],
   "species": [
   ],
   "teams": [
-    "X-Force",
-    "S.H.I.E.L.D",
-    "Defenders",
-    "Central Intelligence Agency",
-    "X-Mansion",
-    "Wild Pack",
-    "M-Tech",
-    "United States Army",
     "CIA",
+    "Central Intelligence Agency",
+    "Defenders",
+    "Jean Grey School Staff",
+    "M-Tech",
+    "S.H.I.E.L.D",
     "Secret Defenders",
-    "Jean Grey School Staff"
+    "United States Army",
+    "Wild Pack",
+    "X-Force",
+    "X-Mansion"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/527/deathlok",

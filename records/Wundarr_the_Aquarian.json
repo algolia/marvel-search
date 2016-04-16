@@ -20,17 +20,17 @@
   "partners": [
   ],
   "powers": [
-    "Vast knowledge",
-    "Limited flight",
-    "Leaping",
-    "Superhuman strength",
     "Energy projection",
-    "Entropy field"
+    "Entropy field",
+    "Leaping",
+    "Limited flight",
+    "Superhuman strength",
+    "Vast knowledge"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 976,
+    "pageviewCount": 82,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -43,9 +43,9 @@
   "teams": [
     "Features of the Marvel Universe",
     "Fifty State Initiative",
-    "The Command",
     "Initiative",
-    "Project Pegasus"
+    "Project Pegasus",
+    "The Command"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Wundarr_the_Aquarian"

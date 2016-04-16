@@ -1,11 +1,12 @@
 {
   "aliases": [
-    "Hellion"
+    "Hellion",
+    "Julian Keller"
   ],
   "authors": [
-    "Nunzio DeFilippis",
     "Christina Weir",
-    "Keron Grant"
+    "Keron Grant",
+    "Nunzio DeFilippis"
   ],
   "description": "Hellion (Julian Keller) is a fictional character, a mutant appearing in comic books published by Marvel Comics.",
   "images": {
@@ -20,21 +21,21 @@
   "partners": [
   ],
   "powers": [
-    "Telekinetic shields",
     "Barriers",
-    "Telekinetic bolts",
-    "Telekinetic waves",
+    "Psychokinesis",
+    "Telekinesis",
     "Telekinetic aura",
+    "Telekinetic blasts",
+    "Telekinetic bolts",
     "Telekinetic crushing",
     "Telekinetic projectiles",
-    "Telekinetic blasts",
-    "Psychokinesis",
-    "Telekinesis"
+    "Telekinetic shields",
+    "Telekinetic waves"
   ],
   "ranking": {
     "comicCount": 13,
     "eventCount": 1,
-    "pageviewCount": 2485,
+    "pageviewCount": 152,
     "pageviewRank": -1,
     "serieCount": 7,
     "storyCount": 9
@@ -46,13 +47,13 @@
     "Mutant"
   ],
   "teams": [
-    "New X-Men",
-    "X-Mansion",
     "Hellions",
     "Hellions training squad",
-    "Xavier Institute",
+    "Jean Grey School Students",
+    "New X-Men",
+    "X-Mansion",
     "X-Men-In-Training",
-    "Jean Grey School Students"
+    "Xavier Institute"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/945/hellion",

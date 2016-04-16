@@ -1,14 +1,14 @@
 {
   "aliases": [
     "Alicia Masters Storm",
-    "The Lazerfist",
     "Bridget O'Neil",
     "Laura Green",
-    "Lyja"
+    "Lyja",
+    "The Lazerfist"
   ],
   "authors": [
-    "Tom DeFalco",
-    "Paul Ryan"
+    "Paul Ryan",
+    "Tom DeFalco"
   ],
   "description": "Lyja is a fictional character in the Marvel Comics universe.",
   "images": {
@@ -23,17 +23,17 @@
   "partners": [
   ],
   "powers": [
-    "Shapeshifting",
-    "Heat",
-    "Flame resistance",
+    "Armed/unarmed combatant",
     "Energy blasts",
-    "Trained actress",
-    "Armed/unarmed combatant"
+    "Flame resistance",
+    "Heat",
+    "Shapeshifting",
+    "Trained actress"
   ],
   "ranking": {
     "comicCount": 3,
     "eventCount": 0,
-    "pageviewCount": 2597,
+    "pageviewCount": 149,
     "pageviewRank": -1,
     "serieCount": 3,
     "storyCount": 2
@@ -45,8 +45,8 @@
     "Skrull"
   ],
   "teams": [
-    "Skrull",
     "Fantastic Four",
+    "Skrull",
     "Skrull Empire"
   ],
   "urls": {

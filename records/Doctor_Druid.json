@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Druid",
     "Doctor Droom",
-    "Doctor Druid"
+    "Doctor Druid",
+    "Druid"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Doctor Druid, also known as Doctor Droom and Druid, is a fictional character, a supernatural monster-hunter in the Marvel Comics universe.Co-created by writer-editor Stan Lee and penciller Jack Kirby, he starred in his own continuing feature that debuted in Amazing Adventures #1 (June 1961), predating Lee & Kirby's milestone creation The Fantastic Four #1 (Nov. 1961).",
   "images": {
@@ -25,7 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 4716,
+    "pageviewCount": 253,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -36,9 +36,9 @@
   "species": [
   ],
   "teams": [
+    "Avengers",
     "Legion of the Unliving",
-    "Monster Hunters",
-    "Avengers"
+    "Monster Hunters"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Druid"

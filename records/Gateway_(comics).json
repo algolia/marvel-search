@@ -3,8 +3,8 @@
     "Gateway"
   ],
   "authors": [
-    "Marc Silvestri",
-    "Chris Claremont"
+    "Chris Claremont",
+    "Marc Silvestri"
   ],
   "description": "Gateway is a fictional comic book superhero in the Marvel Comics Universe, an Australian mutant with the ability to teleport objects and people from one location to another.",
   "images": {
@@ -19,16 +19,16 @@
   "partners": [
   ],
   "powers": [
-    "Remote viewing",
+    "Postcognition",
     "Precognition",
+    "Remote viewing",
     "Telepathy",
-    "Teleportation",
-    "Postcognition"
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 25,
     "eventCount": 3,
-    "pageviewCount": 1704,
+    "pageviewCount": 86,
     "pageviewRank": -1,
     "serieCount": 11,
     "storyCount": 21
@@ -39,9 +39,9 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men",
     "Generation X",
-    "Reavers"
+    "Reavers",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/769/gateway",

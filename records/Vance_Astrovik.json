@@ -1,18 +1,18 @@
 {
   "aliases": [
+    "Justice",
+    "Manglin' John Mahoney",
     "Marvel Boy",
+    "Marvel Boy,  Manglin' John Mahoney",
+    "Marvel Man",
     "Squire Justice",
     "Super Tights",
-    "Manglin' John Mahoney",
-    "Marvel Man",
     "The Astounding Astrovik",
-    "Justice",
-    "Vance Astrovik",
-    "Marvel Boy,  Manglin' John Mahoney"
+    "Vance Astrovik"
   ],
   "authors": [
-    "Gerry Conway",
-    "Don Heck"
+    "Don Heck",
+    "Gerry Conway"
   ],
   "description": "Vance Astrovik, also known as Justice and formerly known as Marvel Boy, is a fictional mutant superhero in the Marvel Comics universe.",
   "images": {
@@ -27,13 +27,13 @@
   "partners": [
   ],
   "powers": [
-    "Telekinesis",
-    "High-speed flight"
+    "High-speed flight",
+    "Telekinesis"
   ],
   "ranking": {
     "comicCount": 64,
     "eventCount": 4,
-    "pageviewCount": 3806,
+    "pageviewCount": 214,
     "pageviewRank": -1,
     "serieCount": 14,
     "storyCount": 81
@@ -45,14 +45,14 @@
     "Mutant"
   ],
   "teams": [
-    "Unlimited Class Wrestling Federation",
-    "The Initiative",
-    "New Warriors",
-    "Counter Force",
     "Avengers",
     "Avengers Academy",
+    "Counter Force",
+    "New Warriors",
+    "The Initiative",
     "Triune Understanding",
-    "UCWF"
+    "UCWF",
+    "Unlimited Class Wrestling Federation"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1109/justice",

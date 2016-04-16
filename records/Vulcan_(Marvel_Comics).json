@@ -1,8 +1,8 @@
 {
   "aliases": [
-    "Kid Vulcan",
     "Emperor Vulcan",
     "Great Vulcan",
+    "Kid Vulcan",
     "Vulcan"
   ],
   "authors": [
@@ -22,24 +22,24 @@
   "partners": [
   ],
   "powers": [
-    "Vast energy absorption",
-    "Manipulation",
-    "Transformation",
-    "Projection",
+    "Disruption",
+    "Energy siphon",
     "Flight",
     "Force field projection",
     "Life support",
     "Limited regeneration",
-    "Variable energy blasts",
+    "Manipulation",
+    "Projection",
+    "Psionic resistance",
     "Repression",
-    "Energy siphon",
-    "Disruption",
-    "Psionic resistance"
+    "Transformation",
+    "Variable energy blasts",
+    "Vast energy absorption"
   ],
   "ranking": {
     "comicCount": 7,
     "eventCount": 0,
-    "pageviewCount": 22099,
+    "pageviewCount": 1296,
     "pageviewRank": -1,
     "serieCount": 6,
     "storyCount": 4
@@ -51,9 +51,9 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men",
     "Shi'ar",
-    "Shi'ar Imperium"
+    "Shi'ar Imperium",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011011/vulcan_gabriel_summers",

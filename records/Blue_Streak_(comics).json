@@ -1,17 +1,17 @@
 {
   "aliases": [
-    "Bluestreak",
-    "Blue Streak"
+    "Blue Streak",
+    "Bluestreak"
   ],
   "authors": [
-    "John Buscema",
-    "Roy Thomas",
     "Brent Anderson",
-    "Tom DeFalco",
-    "William Tucci",
-    "Jimmy Palmiotti",
     "Francis Portella",
-    "Justin Gray"
+    "Jimmy Palmiotti",
+    "John Buscema",
+    "Justin Gray",
+    "Roy Thomas",
+    "Tom DeFalco",
+    "William Tucci"
   ],
   "description": "Blue Streak is the name of three Marvel Comics supervillains.",
   "images": {
@@ -24,31 +24,31 @@
   "partners": [
   ],
   "powers": [
-    "Various built in weapons",
+    "Enhanced stamina",
     "Rapid healing",
     "Superhuman speed",
-    "Enhanced stamina"
+    "Various built in weapons"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1017,
+    "pageviewCount": 62,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Jonathan Swift",
+    "Blue Kelso",
     "Don Thomas",
-    "Blue Kelso"
+    "Jonathan Swift"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "S.H.I.E.L.D",
     "A-Next",
     "Corporation",
+    "S.H.I.E.L.D",
     "X-People"
   ],
   "urls": {

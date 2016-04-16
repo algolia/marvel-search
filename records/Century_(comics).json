@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Deliverer",
     "Big Blue",
-    "Century"
+    "Century",
+    "Deliverer"
   ],
   "authors": [
-    "Tom Tenney",
     "Andy Lanning",
-    "Dan Abnett"
+    "Dan Abnett",
+    "Tom Tenney"
   ],
   "description": "Century is a fictional character, a comic book superhero who is a member of Force Works in the comic series of the same name from 1994–1996.",
   "images": {
@@ -20,22 +20,22 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
+    "Agility",
+    "Durability",
+    "Endurance",
+    "Greatly enhanced strength",
+    "Longevity",
+    "Martial arts expert",
+    "Reflexes",
     "Speed",
     "Stamina",
-    "Agility",
-    "Reflexes",
-    "Durability",
-    "Martial arts expert",
-    "Teleportation",
-    "Greatly enhanced strength",
-    "Endurance",
-    "Longevity"
+    "Superhuman strength",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 893,
+    "pageviewCount": 55,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -46,8 +46,8 @@
   "species": [
   ],
   "teams": [
-    "Revengers",
-    "Force Works"
+    "Force Works",
+    "Revengers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Century_(comics)"

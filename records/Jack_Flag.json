@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "King Cobra",
     "AZ-1260",
-    "Jack Flag"
+    "Jack Flag",
+    "King Cobra"
   ],
   "authors": [
-    "Mark Gruenwald",
-    "Dave Hoover"
+    "Dave Hoover",
+    "Mark Gruenwald"
   ],
   "description": "Jack Flag (Jack Harrison) is a fictional character, a superhero in the Marvel Comics universe.",
   "images": {
@@ -22,14 +22,14 @@
     "Captain America"
   ],
   "powers": [
-    "Superhuman strength",
     "Speed",
-    "Stamina"
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2981,
+    "pageviewCount": 180,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

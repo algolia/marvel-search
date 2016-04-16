@@ -1,10 +1,10 @@
 {
   "aliases": [
     "19",
-    "X-Man",
-    "Nate Grey",
     "19X",
-    "Shaman of the Mutant Tribe"
+    "Nate Grey",
+    "Shaman of the Mutant Tribe",
+    "X-Man"
   ],
   "authors": [
     "Jeph Loeb",
@@ -21,23 +21,23 @@
   "mainColor": null,
   "name": "X-Man",
   "partners": [
-    "Threnody",
-    "Madelyne Pryor"
+    "Madelyne Pryor",
+    "Threnody"
   ],
   "powers": [
+    "Cross-",
+    "Cross-dimensional travel",
+    "Dimensional",
+    "Precognition",
+    "Psychometry",
     "Telekinesis",
     "Telepathy",
-    "Psychometry",
-    "Precognition",
-    "Cross-dimensional travel",
-    "Cross-",
-    "Dimensional",
     "Travel"
   ],
   "ranking": {
     "comicCount": 94,
     "eventCount": 5,
-    "pageviewCount": 16424,
+    "pageviewCount": 984,
     "pageviewRank": -1,
     "serieCount": 25,
     "storyCount": 158
@@ -49,8 +49,8 @@
     "Mutant"
   ],
   "teams": [
-    "New Mutants",
     "Brotherhood of Mutants",
+    "New Mutants",
     "Outcasts",
     "X-Men"
   ],

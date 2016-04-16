@@ -3,8 +3,10 @@
     "Bison"
   ],
   "authors": [
-    "Ron Frenz",
     "Al Milgrom",
+    "Ron Frenz",
+    "Ron Frenz (Pencils)",
+    "Tom DeFalco",
     "Tom DeFalco & Ron Frenz"
   ],
   "description": "Bison (William \"Billy\" Kitson) is a fictional character from the Marvel Comics universe.",
@@ -17,20 +19,22 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
     "Durability",
-    "Horns"
+    "Horns",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 368,
+    "pageviewCount": 19,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Billy Kitson"
+    "Billy",
+    "Billy Kitson",
+    "William Kitson"
   ],
   "species": [
   ],

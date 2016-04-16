@@ -3,11 +3,11 @@
     "Sunturion"
   ],
   "authors": [
-    "David Michelinie",
     "Bob Layton",
+    "Christopher Priest",
     "Dan Jurgens",
-    "John Romita, Jr.",
-    "Christopher Priest"
+    "David Michelinie",
+    "John Romita, Jr."
   ],
   "description": "Sunturion is the name of two fictional characters that appear in comic books published by Marvel Comics.",
   "images": {
@@ -20,21 +20,21 @@
   "partners": [
   ],
   "powers": [
-    "Density control",
-    "Force field generation",
-    "Flight",
-    "Teleportation",
-    "Density",
     "Control",
-    "Microwave",
+    "Density",
+    "Density control",
     "Energy projection",
+    "Flight",
     "Force field",
-    "Generation"
+    "Force field generation",
+    "Generation",
+    "Microwave",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 581,
+    "pageviewCount": 34,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

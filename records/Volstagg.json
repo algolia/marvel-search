@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Volstagg the Valiant",
-    "Volstagg the Voluminous",
-    "Volstagg the Enormous",
     "Lion of Asgard",
-    "Volstagg"
+    "Volstagg",
+    "Volstagg the Enormous",
+    "Volstagg the Valiant",
+    "Volstagg the Voluminous"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Volstagg is a fictional character in the Marvel Comics Universe, and is a charter member of the Warriors Three, a trio of Asgardian adventurers and supporting cast of Thor.",
   "images": {
@@ -21,13 +21,13 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Durability"
+    "Durability",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 6680,
+    "pageviewCount": 412,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -38,9 +38,9 @@
   "species": [
   ],
   "teams": [
-    "Warriors Three",
+    "Asgard",
     "Thor Corps",
-    "Asgard"
+    "Warriors Three"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Volstagg"

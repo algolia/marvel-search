@@ -1,15 +1,15 @@
 {
   "aliases": [
-    "Erik Lensherr",
-    "Max Eisenhardt",
-    "Magnus",
     "Erik Lehnsherr",
-    "White King  of the Hellfire Club",
-    "Michael Xavier",
+    "Erik Lensherr",
     "Erik the Red",
-    "White Pilgrim",
+    "Magneto",
+    "Magnus",
+    "Max Eisenhardt",
+    "Michael Xavier",
     "The Creator",
-    "Magneto"
+    "White King  of the Hellfire Club",
+    "White Pilgrim"
   ],
   "authors": [
     "Jack Kirby",
@@ -34,18 +34,18 @@
   ],
   "powers": [
     "Genius-level intellect",
-    "Magnetism manipulation",
-    "Magnetic force fields",
     "Magnetic flight",
-    "Skilled leader",
-    "Strategist",
+    "Magnetic force fields",
     "Magnetism",
-    "Manipulation"
+    "Magnetism manipulation",
+    "Manipulation",
+    "Skilled leader",
+    "Strategist"
   ],
   "ranking": {
     "comicCount": 252,
     "eventCount": 16,
-    "pageviewCount": 57765,
+    "pageviewCount": 3827,
     "pageviewRank": 8572,
     "serieCount": 111,
     "storyCount": 252
@@ -58,16 +58,14 @@
   ],
   "teams": [
     "Acolytes",
-    "X-Men",
+    "Brotherhood of Evil Mutants",
     "Brotherhood of Mutants",
-    "New Mutants",
-    "Savage Land Mutates",
     "Excalibur",
     "Hellfire Club",
+    "New Mutants",
+    "Savage Land Mutates",
     "The Twelve",
-    "Brotherhood of Evil Mutants",
-    "Genoshan Excalibur",
-    "Astonishing Avengers"
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/35/magneto",

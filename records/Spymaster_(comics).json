@@ -1,23 +1,23 @@
 {
   "aliases": [
-    "Cobalt Man",
-    "Iron Knight",
-    "Hogan Potts",
-    "Spare Parts Man",
-    "Golden Avenger",
-    "Shellhead",
-    "Ted Calloway",
-    "Jake Jordan",
     "Anthony Stark",
+    "Cobalt Man",
+    "Golden Avenger",
+    "Harmon Taylor",
+    "Hogan Potts",
+    "Iron Knight",
+    "Jake Jordan",
     "Number One",
     "Santa Claus",
-    "Harmon Taylor",
-    "Spymaster"
+    "Shellhead",
+    "Spare Parts Man",
+    "Spymaster",
+    "Ted Calloway"
   ],
   "authors": [
-    "Stan Lee",
+    "Allyn Brodsky",
     "Don Heck",
-    "Allyn Brodsky"
+    "Stan Lee"
   ],
   "description": "Spymaster is a supervillain from Marvel Comics.",
   "images": {
@@ -35,16 +35,16 @@
   "powers": [
     "Espionage master",
     "Exceptional strategist",
-    "Saboteur",
-    "Master of disguise",
-    "Superb actor",
     "Highly agile",
-    "Skilled athlete"
+    "Master of disguise",
+    "Saboteur",
+    "Skilled athlete",
+    "Superb actor"
   ],
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 1687,
+    "pageviewCount": 77,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 1
@@ -55,15 +55,15 @@
   "species": [
   ],
   "teams": [
-    "S.H.I.E.L.D",
-    "Zodiac",
-    "Advanced Idea Mechanics",
-    "Maggia",
-    "Espionage Elite",
-    "Roxxon Energy Corporation",
     "AIM",
+    "Advanced Idea Mechanics",
+    "Espionage Elite",
+    "Maggia",
+    "Roxxon Energy Corporation",
+    "Roxxon Oil",
+    "S.H.I.E.L.D",
     "The Maggia",
-    "Roxxon Oil"
+    "Zodiac"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/444/cobalt_man",

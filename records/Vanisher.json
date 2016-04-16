@@ -26,7 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2510,
+    "pageviewCount": 203,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -38,13 +38,13 @@
     "Mutant"
   ],
   "teams": [
-    "Marauders",
     "Brotherhood of Mutants",
     "Designer Gene Corporation",
-    "New Enforcers",
-    "X-Force",
     "Factor Three",
-    "Fallen Angels"
+    "Fallen Angels",
+    "Marauders",
+    "New Enforcers",
+    "X-Force"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2466/vanisher",

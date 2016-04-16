@@ -1,13 +1,13 @@
 {
   "aliases": [
     "Gene Khan",
-    "Zhang Tong",
+    "Mandarin",
     "Tem Borjigin",
-    "Mandarin"
+    "Zhang Tong"
   ],
   "authors": [
-    "Stan Lee",
-    "Don Heck"
+    "Don Heck",
+    "Stan Lee"
   ],
   "description": "The Mandarin is a fictional character, a supervillain who appears in comic books published by Marvel Comics.",
   "images": {
@@ -22,19 +22,19 @@
   "partners": [
   ],
   "powers": [
-    "Genius-level intellect",
-    "Ten rings grant [[#powers",
     "Abilities",
-    "Superb athlete",
     "Brilliant",
     "Brutal tactician",
+    "Genius-level intellect",
     "Gifted strategist",
+    "Superb athlete",
+    "Ten rings grant [[#powers",
     "Various powers"
   ],
   "ranking": {
     "comicCount": 41,
     "eventCount": 1,
-    "pageviewCount": 20842,
+    "pageviewCount": 1276,
     "pageviewRank": -1,
     "serieCount": 20,
     "storyCount": 45
@@ -44,10 +44,10 @@
   "species": [
   ],
   "teams": [
-    "Tong",
-    "The Hand",
+    "Hand",
     "Mandarin's Minions",
-    "Hand"
+    "The Hand",
+    "Tong"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1356/mandarin",

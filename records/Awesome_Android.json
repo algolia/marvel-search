@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "Awesome Andy",
-    "Awesome Android"
+    "Awesome Android",
+    "Awesome Andy"
   ],
   "authors": [
     "Jack Kirby",
@@ -16,17 +16,18 @@
   "mainColor": null,
   "name": "Awesome Android",
   "partners": [
+    "Mad Thinker"
   ],
   "powers": [
-    "Textures",
     "Abilities",
+    "Durability",
     "Superhuman strength",
-    "Durability"
+    "Textures"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2119,
+    "pageviewCount": 128,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -36,11 +37,12 @@
   "species": [
   ],
   "teams": [
+    "Goodman",
+    "Goodman, Lieber, Kurtzberg & Holliway",
     "Heavy Metal",
     "Intelligencia",
-    "Goodman",
-    "Lieber",
-    "Kurtzberg & Holliway"
+    "Kurtzberg & Holliway",
+    "Lieber"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Awesome_Android"

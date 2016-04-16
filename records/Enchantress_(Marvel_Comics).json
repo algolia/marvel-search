@@ -1,20 +1,20 @@
 {
   "aliases": [
     "Amora",
-    "Amora the Enchantress",
-    "Christine Collins",
-    "Helen Eve",
     "Amora Incantare",
     "Amora Lorelei",
+    "Amora the Enchantress",
+    "Christine Collins",
+    "Enchantress",
+    "Helen Eve",
     "Leena Moran",
-    "Valkyrie",
-    "Enchantress"
+    "Valkyrie"
   ],
   "authors": [
-    "Mark Brooks",
-    "Stan Lee",
     "Jack Kirby",
-    "Paul Cornell"
+    "Mark Brooks",
+    "Paul Cornell",
+    "Stan Lee"
   ],
   "description": "“The Enchantress” is the common primary alias of two fictional characters, supervillains in the Marvel Comics universe.",
   "images": {
@@ -28,59 +28,58 @@
   "name": "Enchantress (Amora)",
   "partners": [
     "Arkon",
-    "Loki",
-    "Wonder Man",
-    "Erik Josten",
     "Doctor Doom",
+    "Erik Josten",
     "Executioner",
-    "Power Man"
+    "Loki",
+    "Power Man",
+    "Wonder Man"
   ],
   "powers": [
-    "Mind control",
-    "Telepathy",
+    "Agility",
     "Dimensional travel",
+    "Durability",
     "Energy blasts",
-    "Levitation",
-    "Teleportation",
+    "Healing factor",
     "Illusions",
-    "Transmutation",
-    "Time manipulation",
+    "Levitation",
     "Longevity",
+    "Mind control",
+    "Possesses superhuman",
+    "Reflexes",
+    "Reflexes and",
     "Speed",
     "Stamina",
-    "Durability",
-    "Agility",
-    "Reflexes",
-    "Healing factor",
-    "Possesses superhuman",
     "Strength",
-    "Reflexes and"
+    "Telepathy",
+    "Teleportation",
+    "Time manipulation",
+    "Transmutation"
   ],
   "ranking": {
     "comicCount": 5,
     "eventCount": 0,
-    "pageviewCount": 18837,
+    "pageviewCount": 2662,
     "pageviewRank": -1,
     "serieCount": 4,
     "storyCount": 4
   },
   "secretIdentities": [
-    "Sylvie Lushton",
-    "Amora"
+    "Amora",
+    "Sylvie Lushton"
   ],
   "species": [
     "Asgard"
   ],
   "teams": [
+    "Asgard",
+    "Astonishing Avengers",
+    "Brotherhood of Mutants",
     "Lady Liberators",
     "Mandarin's Minions",
-    "Brotherhood of Mutants",
-    "Young Masters",
-    "Asgard",
     "Masters of Evil",
     "Sisterhood of Mutants",
-    "Astonishing Avengers",
-    "Illuminati"
+    "Young Masters"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1010671/enchantress_amora",

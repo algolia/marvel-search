@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "Jane Doe",
-    "Fixx"
+    "Fixx",
+    "Jane Doe"
   ],
   "authors": [
     "Howard Mackie"
@@ -22,7 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 759,
+    "pageviewCount": 56,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -34,9 +34,9 @@
     "Mutant"
   ],
   "teams": [
-    "Xavier's Underground Enforcers",
+    "X-Factor",
     "Xavier's Security Enforcers",
-    "X-Factor"
+    "Xavier's Underground Enforcers"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Fixx"

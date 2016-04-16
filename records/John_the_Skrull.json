@@ -4,8 +4,8 @@
     "John the Skrull"
   ],
   "authors": [
-    "Trevor Hairsine",
-    "Paul Cornell"
+    "Paul Cornell",
+    "Trevor Hairsine"
   ],
   "description": "John the Skrull is a fictional character, a superhero published by Marvel Comics.",
   "images": {
@@ -18,13 +18,13 @@
   "partners": [
   ],
   "powers": [
-    "Shapeshifting",
-    "Flight via wings"
+    "Flight via wings",
+    "Shapeshifting"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 547,
+    "pageviewCount": 31,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -36,8 +36,8 @@
     "Skrull"
   ],
   "teams": [
-    "Skrull",
     "MI-13",
+    "Skrull",
     "Skrull Empire"
   ],
   "urls": {

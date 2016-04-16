@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "The Petrified Man",
+    "Garokk",
     "Lazarus",
     "Terminus",
-    "Garokk"
+    "The Petrified Man"
   ],
   "authors": [
-    "Roy Thomas",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Roy Thomas"
   ],
   "description": "Garokk (also known as the Petrified Man) is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
@@ -22,28 +22,28 @@
     "Zaladane"
   ],
   "powers": [
-    "Immortality",
-    "Energy",
-    "Matter manipulation",
-    "Telepathy",
-    "Superhuman strength",
-    "Stamina",
     "Durability",
-    "Shape-shifting"
+    "Energy",
+    "Immortality",
+    "Matter manipulation",
+    "Shape-shifting",
+    "Stamina",
+    "Superhuman strength",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 870,
+    "pageviewCount": 65,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
     "Kirk Marston",
+    "Kirk Marston (second body)",
     "Unknown",
-    "Unknown (first body)",
-    "Kirk Marston (second body)"
+    "Unknown (first body)"
   ],
   "species": [
   ],

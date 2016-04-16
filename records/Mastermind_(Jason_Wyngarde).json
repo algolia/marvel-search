@@ -1,12 +1,12 @@
 {
   "aliases": [
     "Jason Wyngarde",
-    "Nikos",
-    "Mastermind"
+    "Mastermind",
+    "Nikos"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Mastermind (Jason Wyngarde) is a Marvel Comics supervillain, an adversary of the X-Men.",
   "images": {
@@ -21,14 +21,14 @@
   "partners": [
   ],
   "powers": [
-    "Memory alteration",
     "Erasure",
-    "Illusion creation"
+    "Illusion creation",
+    "Memory alteration"
   ],
   "ranking": {
     "comicCount": 45,
     "eventCount": 0,
-    "pageviewCount": 6760,
+    "pageviewCount": 475,
     "pageviewRank": -1,
     "serieCount": 21,
     "storyCount": 36
@@ -40,11 +40,11 @@
     "Mutant"
   ],
   "teams": [
+    "Brotherhood of Evil Mutants",
+    "Brotherhood of Mutants",
     "Factor Three",
     "Hellfire Club",
-    "Brotherhood of Mutants",
-    "Secret Empire",
-    "Brotherhood of Evil Mutants"
+    "Secret Empire"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1395/mastermind",

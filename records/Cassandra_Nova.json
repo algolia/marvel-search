@@ -1,13 +1,13 @@
 {
   "aliases": [
+    "Cassandra Nova",
     "Charles Xavier",
     "The Immensity",
-    "Cassandra Nova",
     "The Immensity (by Shi'ar)"
   ],
   "authors": [
-    "Grant Morrison",
-    "Frank Quitely"
+    "Frank Quitely",
+    "Grant Morrison"
   ],
   "description": "Cassandra Nova is a fictional comic book supervillain appearing in books published by Marvel Comics, usually as an adversary of the X-Men.",
   "images": {
@@ -22,26 +22,26 @@
   "partners": [
   ],
   "powers": [
-    "Telekinesis",
-    "Shapeshifting",
-    "Telepathy",
-    "Dna duplication",
-    "Intangibility",
-    "Cosmic fire",
-    "Infernal control",
-    "Immunity to magic",
-    "Mimicry",
-    "Premonition",
-    "Mind",
     "Body exchange",
+    "Cosmic fire",
+    "Dematerialization",
+    "Dna duplication",
+    "Immunity to magic",
+    "Infernal control",
+    "Intangibility",
+    "Mimicry",
+    "Mind",
     "Mind control",
+    "Premonition",
+    "Shapeshifting",
     "Souls gathering",
-    "Dematerialization"
+    "Telekinesis",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 8894,
+    "pageviewCount": 657,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -52,11 +52,11 @@
   "species": [
   ],
   "teams": [
-    "Shi'ar Imperium",
-    "X-Men",
-    "Shi'ar",
+    "Charles Xavier",
     "Imperium",
-    "Charles Xavier"
+    "Shi'ar",
+    "Shi'ar Imperium",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2735/cassandra_nova",

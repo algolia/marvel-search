@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Bucky",
-    "Battlestar"
+    "Battlestar",
+    "Bucky"
   ],
   "authors": [
-    "Paul Neary",
-    "Mark Gruenwald"
+    "Mark Gruenwald",
+    "Paul Neary"
   ],
   "description": "Battlestar (Lemar Hoskins), who was also the fifth Bucky, is a fictional character, who is a superhero in the Marvel Comics universe.",
   "images": {
@@ -21,18 +21,20 @@
     "U.S. Agent"
   ],
   "powers": [
-    "Superhuman strength",
-    "Stamina",
-    "Durability",
+    "Adamantium",
     "Agility",
-    "Reflexes",
+    "Durability",
+    "Gymnast",
     "Highly trained acrobat",
-    "Gymnast"
+    "Reflexes",
+    "Shield",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 4,
     "eventCount": 0,
-    "pageviewCount": 1575,
+    "pageviewCount": 91,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 4
@@ -43,8 +45,9 @@
   "species": [
   ],
   "teams": [
-    "Features of the Marvel Universe",
     "Bold Urban Commandos",
+    "CSA",
+    "Features of the Marvel Universe",
     "Wild Pack"
   ],
   "urls": {

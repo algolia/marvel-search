@@ -4,9 +4,9 @@
     "Vessel"
   ],
   "authors": [
-    "Scott Lobdell",
+    "Bryan Hitch",
     "Joe Madureira",
-    "Bryan Hitch"
+    "Scott Lobdell"
   ],
   "description": "Vessel is a fictional villain created by Marvel Comics for their team called Gene Nation.",
   "images": {
@@ -19,17 +19,17 @@
   "partners": [
   ],
   "powers": [
-    "Strength",
     "Durability",
-    "Resistance to injury",
     "Healing ability to",
-    "Superhuman",
-    "Proportions"
+    "Proportions",
+    "Resistance to injury",
+    "Strength",
+    "Superhuman"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 161,
+    "pageviewCount": 12,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -40,8 +40,8 @@
     "Mutant"
   ],
   "teams": [
-    "Morlocks",
-    "Gene Nation"
+    "Gene Nation",
+    "Morlocks"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Vessel_(comics)"

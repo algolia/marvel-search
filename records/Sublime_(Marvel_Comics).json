@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "John Sublime",
     "Dr. Sublime",
-    "Michael Grand",
+    "John Sublime",
     "Kick",
+    "Michael Grand",
     "Sublime"
   ],
   "authors": [
-    "Leinil Francis Yu",
-    "Grant Morrison"
+    "Grant Morrison",
+    "Leinil Francis Yu"
   ],
   "description": "Sublime, also known as John Sublime, is a fictional supervillain (actually a sentient bacterium), appearing in books published by Marvel Comics, usually as an enemy of the X-Men.",
   "images": {
@@ -21,16 +21,16 @@
   "partners": [
   ],
   "powers": [
-    "Possession",
     "Biokinesis",
+    "Mind control",
+    "Possession",
     "Power enhancement",
-    "Shapeshifting",
-    "Mind control"
+    "Shapeshifting"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2678,
+    "pageviewCount": 157,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -41,12 +41,12 @@
     "Sentient bacteria"
   ],
   "teams": [
-    "Weapon Plus",
     "Megacorp",
-    "Winterbrand Tech",
     "TransSpecies Movement",
     "U-Men",
-    "Weapon Plus Project"
+    "Weapon Plus",
+    "Weapon Plus Project",
+    "Winterbrand Tech"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Sublime_(Marvel_Comics)"

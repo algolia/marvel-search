@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "The Sub-Mariner",
+    "Imperius Rex",
+    "Namor",
     "Namor McKenzie",
     "Namor the First",
-    "The Avenging Son",
-    "Imperius Rex",
     "Namor the Sub-Mariner",
-    "Namor"
+    "The Avenging Son",
+    "The Sub-Mariner"
   ],
   "authors": [
     "Bill Everett"
@@ -29,18 +29,18 @@
   "partners": [
   ],
   "powers": [
-    "Longevity",
-    "Superhuman strength",
-    "Speed",
     "Agility",
-    "Reflexes",
+    "Aquatic adaptation",
+    "Longevity",
     "Mild invulnerability",
-    "Aquatic adaptation"
+    "Reflexes",
+    "Speed",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 22,
     "eventCount": 1,
-    "pageviewCount": 43405,
+    "pageviewCount": 2485,
     "pageviewRank": -1,
     "serieCount": 10,
     "storyCount": 20
@@ -53,23 +53,23 @@
     "Human Mutant hybrid"
   ],
   "teams": [
-    "Defenders",
-    "Invaders",
-    "Heroes for Hire/Oracle",
-    "Inc",
-    "Illuminati",
-    "Dark X-Men",
-    "X-Men",
-    "Deep Six",
-    "The Order",
     "All-Winners Squad",
-    "Phoenix Force",
-    "Cabal",
     "Avengers",
-    "The Cabal",
+    "Cabal",
+    "Dark X-Men",
+    "Deep Six",
+    "Defenders",
     "Heroes for Hire",
+    "Heroes for Hire/Oracle",
+    "Illuminati",
+    "Inc",
+    "Invaders",
     "Oracle, Inc",
-    "Phoenix Five"
+    "Phoenix Five",
+    "Phoenix Force",
+    "The Cabal",
+    "The Order",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/39/namor",

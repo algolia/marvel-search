@@ -1,12 +1,12 @@
 {
   "aliases": [
+    "Eric Masterson",
     "Thor",
-    "Thunderstrike",
-    "Eric Masterson"
+    "Thunderstrike"
   ],
   "authors": [
-    "Tom DeFalco",
-    "Ron Frenz"
+    "Ron Frenz",
+    "Tom DeFalco"
   ],
   "description": "<p class=\"Body\">When the Odinson lost his ability to wield Mjolnir, the role of Thor, God of Thunder, was left unoccupied&hellip;albeit for a short time. A mysterious female figure picked up the hammer with ease, changing the inscription to fit her status as the Goddess of Thunder.</p>",
   "images": {
@@ -21,21 +21,21 @@
   "partners": [
   ],
   "powers": [
-    "Dimensional travel",
-    "Flight",
-    "Superhuman strength",
-    "Speed",
     "Agility",
+    "Dimensional travel",
     "Durability",
-    "Reflexes",
     "Endurance",
     "Energy blasts",
-    "Highly skilled architect"
+    "Flight",
+    "Highly skilled architect",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 5629,
+    "pageviewCount": 339,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -46,12 +46,12 @@
   "species": [
   ],
   "teams": [
+    "Asgard",
+    "Avengers",
     "Defenders",
     "Legion of the Unliving",
-    "Asgard",
-    "Thor Corps",
-    "Avengers",
-    "Secret Defenders"
+    "Secret Defenders",
+    "Thor Corps"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1017576/thor_goddess_of_thunder/featured",

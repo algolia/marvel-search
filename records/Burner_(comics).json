@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "Crucible",
-    "Burner"
+    "Burner",
+    "Crucible"
   ],
   "authors": [
     "Jack Kirby"
@@ -21,7 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 561,
+    "pageviewCount": 42,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -33,10 +33,10 @@
     "Mutant"
   ],
   "teams": [
-    "Resistants",
-    "Brotherhood of Mutants",
     "Brotherhood of Evil Mutants",
+    "Brotherhood of Mutants",
     "Mutant Force/Resistants",
+    "Resistants",
     "Secret Empire"
   ],
   "urls": {

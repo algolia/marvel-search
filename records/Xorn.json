@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Magneto",
-    "The Collective",
-    "Michael Pointer",
-    "Xorn",
     "Kuan-Yin Xorn",
-    "Shen Xorn"
+    "Magneto",
+    "Michael Pointer",
+    "Shen Xorn",
+    "The Collective",
+    "Xorn"
   ],
   "authors": [
     "Frank Quitely",
@@ -24,19 +24,19 @@
   "partners": [
   ],
   "powers": [
-    "Healing powers",
-    "Magnetism manipulation",
-    "Gravity manipulation",
-    "Telepathy",
-    "White star in head",
     "Electricity generation",
+    "Gravity manipulation",
+    "Healing powers",
+    "Magnetism generation",
+    "Magnetism manipulation",
     "Manipulation",
-    "Magnetism generation"
+    "Telepathy",
+    "White star in head"
   ],
   "ranking": {
     "comicCount": 19,
     "eventCount": 0,
-    "pageviewCount": 6289,
+    "pageviewCount": 395,
     "pageviewRank": -1,
     "serieCount": 10,
     "storyCount": 24
@@ -49,9 +49,9 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men",
+    "Brotherhood of Mutants",
     "X-Mansion",
-    "Brotherhood of Mutants"
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2629/xorn",

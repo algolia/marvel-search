@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Claire Voyant",
-    "Black Widow"
+    "Black Widow",
+    "Claire Voyant"
   ],
   "authors": [
-    "Harry Sahle",
-    "George Kapitan"
+    "George Kapitan",
+    "Harry Sahle"
   ],
   "description": "Black Widow (Claire Voyant) is a fictional character appearing in comic books published by Marvel Comics.",
   "images": {
@@ -25,20 +25,21 @@
   "partners": [
   ],
   "powers": [
-    "Immortality",
-    "Teleportation",
-    "Flight",
-    "Invisibility",
+    "Appearance alteration",
     "Appearance altering",
     "Death touch",
-    "Mental suggestion",
     "Enhanced endurance",
-    "Superhuman strength"
+    "Flight",
+    "Immortality",
+    "Invisibility",
+    "Mental suggestion",
+    "Superhuman strength",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 294,
     "eventCount": 8,
-    "pageviewCount": 3503,
+    "pageviewCount": 486,
     "pageviewRank": -1,
     "serieCount": 125,
     "storyCount": 307

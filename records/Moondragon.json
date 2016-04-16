@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Madame MacEvil",
     "H.D. Steckley",
+    "Madame MacEvil",
     "Moondragon"
   ],
   "authors": [
+    "Bill Everett",
     "George Tuska",
     "Jim Starlin",
-    "Bill Everett",
     "Mike Friedrich"
   ],
   "description": "Moondragon is a fictional character in Marvel Comics Universe.",
@@ -23,21 +23,21 @@
   "partners": [
   ],
   "powers": [
-    "Highly skilled geneticist",
     "Engineer",
-    "Master martial artist",
-    "Low-level telekinetic",
     "Enormously powerful",
-    "Telepath",
+    "Highly skilled geneticist",
     "Low-level",
-    "Telekinetic",
+    "Low-level telekinetic",
+    "Martial artist",
     "Master",
-    "Martial artist"
+    "Master martial artist",
+    "Telekinetic",
+    "Telepath"
   ],
   "ranking": {
     "comicCount": 17,
     "eventCount": 2,
-    "pageviewCount": 13722,
+    "pageviewCount": 712,
     "pageviewRank": -1,
     "serieCount": 9,
     "storyCount": 21
@@ -48,9 +48,9 @@
   "species": [
   ],
   "teams": [
+    "Avengers",
     "Defenders",
     "Guardians of the Galaxy",
-    "Avengers",
     "Infinity Watch"
   ],
   "urls": {

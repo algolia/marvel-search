@@ -1,17 +1,17 @@
 {
   "aliases": [
-    "Scott Summers",
-    "Slim",
-    "Slym Dayspring",
+    "Cyclops",
+    "Dark Phoenix",
     "Eric the Red",
     "Mutate #007",
     "Phoenix",
-    "Dark Phoenix",
-    "Cyclops"
+    "Scott Summers",
+    "Slim",
+    "Slym Dayspring"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Cyclops is a fictional character, a superhero that appears in American comic books published by Marvel Comics, as well as in a number of film, television, and video game adaptations; most often in fiction related to the X-Men.",
   "images": {
@@ -31,16 +31,16 @@
   "partners": [
   ],
   "powers": [
-    "Optic force blasts",
-    "Spatial awareness",
     "Gifted strategist",
     "Hand-to-hand combatant",
-    "Pilot"
+    "Optic force blasts",
+    "Pilot",
+    "Spatial awareness"
   ],
   "ranking": {
     "comicCount": 699,
     "eventCount": 26,
-    "pageviewCount": 46868,
+    "pageviewCount": 3187,
     "pageviewRank": -1,
     "serieCount": 215,
     "storyCount": 757
@@ -52,17 +52,15 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men",
-    "Phoenix Force",
-    "X-Factor",
-    "Xavier's School for Gifted Youngsters",
-    "X-Force",
-    "The Twelve",
-    "X-Terminators",
     "Cyclops",
-    "New Xavier School",
     "Phoenix Five",
-    "All-New X-Men"
+    "Phoenix Force",
+    "The Twelve",
+    "X-Factor",
+    "X-Force",
+    "X-Men",
+    "X-Terminators",
+    "Xavier's School for Gifted Youngsters"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/10/cyclops",

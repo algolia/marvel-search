@@ -1,9 +1,9 @@
 {
   "aliases": [
-    "Kymaera",
     "Hard",
-    "Namorita Prentiss",
-    "Namorita"
+    "Kymaera",
+    "Namorita",
+    "Namorita Prentiss"
   ],
   "authors": [
     "Bill Everett"
@@ -21,22 +21,22 @@
   "partners": [
   ],
   "powers": [
-    "Can become transparent",
-    "Aquatic adaptation",
-    "Super strength",
-    "High speed swimming",
-    "Atmospheric flight",
-    "Superhuman strength",
     "Agility",
-    "Reflexes",
-    "Durability",
     "Ankle wing-granted flight",
-    "Paralyzing/acidic touch"
+    "Aquatic adaptation",
+    "Atmospheric flight",
+    "Can become transparent",
+    "Durability",
+    "High speed swimming",
+    "Paralyzing/acidic touch",
+    "Reflexes",
+    "Super strength",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 30,
     "eventCount": 5,
-    "pageviewCount": 3973,
+    "pageviewCount": 227,
     "pageviewRank": -1,
     "serieCount": 18,
     "storyCount": 29
@@ -50,14 +50,14 @@
     "Human hybrid mutant"
   ],
   "teams": [
-    "Defenders",
-    "Soldiers of Misfortune",
-    "Fantastic Four",
-    "SURF",
-    "Water Children",
     "Atlantean Council of Three",
+    "Defenders",
+    "Fantastic Four",
     "New Warriors",
-    "Secret Defenders"
+    "SURF",
+    "Secret Defenders",
+    "Soldiers of Misfortune",
+    "Water Children"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1562/namorita",

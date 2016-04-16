@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Red Skull",
-    "Aleksander Lukin"
+    "Aleksander Lukin",
+    "Red Skull"
   ],
   "authors": [
-    "Steve Epting",
-    "Ed Brubaker"
+    "Ed Brubaker",
+    "Steve Epting"
   ],
   "description": "Aleksander Lukin (Russian: Александр Лукин) is a fictional character in Marvel Comics.",
   "images": {
@@ -20,13 +20,13 @@
   "partners": [
   ],
   "powers": [
-    "Strategic genius",
-    "Political mastermind"
+    "Political mastermind",
+    "Strategic genius"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2917,
+    "pageviewCount": 147,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -36,9 +36,10 @@
   "species": [
   ],
   "teams": [
-    "Kronas Corporation",
     "KGB",
-    "Roxxon Energy Corporation"
+    "Kronas Corporation",
+    "Roxxon Energy Corporation",
+    "Roxxon Oil"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1901/red_skull",

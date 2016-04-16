@@ -1,8 +1,9 @@
 {
   "aliases": [
-    "Jack Daniels",
-    "Super-Patriot",
     "Captain America",
+    "Jack Daniels",
+    "John Walker",
+    "Super-Patriot",
     "U.S. Agent"
   ],
   "authors": [
@@ -23,24 +24,24 @@
     "Battlestar"
   ],
   "powers": [
-    "Peak human speed",
-    "Dexterity",
-    "Coordination",
-    "Balance",
-    "Highly skilled acrobat",
-    "Gymnast",
-    "Superhuman strength",
     "Agility",
-    "Reflexes/reactions",
+    "Balance",
+    "Coordination",
+    "Dexterity",
     "Endurance",
     "Firearms",
+    "Gymnast",
+    "Highly skilled acrobat",
     "Highly trained acrobat",
-    "Peak-level speed"
+    "Peak human speed",
+    "Peak-level speed",
+    "Reflexes/reactions",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 33,
     "eventCount": 2,
-    "pageviewCount": 12917,
+    "pageviewCount": 731,
     "pageviewRank": -1,
     "serieCount": 12,
     "storyCount": 34
@@ -52,22 +53,22 @@
     "Human"
   ],
   "teams": [
-    "West Coast Avengers",
-    "S.T.A.R.S",
-    "Defenders",
-    "Invaders",
-    "Features of the Marvel Universe",
-    "Omega Flight",
+    "Astonishing Avengers",
     "Bold Urban Commandos",
-    "The Mighty Avengers",
-    "Force Works",
+    "Commission on Superhuman Activities",
     "Dark Avengers",
-    "The Jury",
+    "Defenders",
+    "Features of the Marvel Universe",
+    "Force Works",
+    "Invaders",
     "Mighty Avengers",
     "New Invaders",
+    "Omega Flight",
+    "S.T.A.R.S",
     "Secret Defenders",
-    "Commission on Superhuman Activities",
-    "Astonishing Avengers"
+    "The Jury",
+    "The Mighty Avengers",
+    "West Coast Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2431/us_agent",

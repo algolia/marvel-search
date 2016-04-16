@@ -1,15 +1,16 @@
 {
   "aliases": [
-    "The Magus",
-    "Warlock",
     "Adam",
-    "Adam Warlock"
+    "Adam Warlock",
+    "Magus",
+    "The Magus",
+    "Warlock"
   ],
   "authors": [
     "Gil Kane",
+    "Jack Kirby",
     "Roy Thomas",
-    "Stan Lee",
-    "Jack Kirby"
+    "Stan Lee"
   ],
   "description": "Adam Warlock is an artificially created human who was born in a cocoon at a scientific complex called The Beehive.",
   "images": {
@@ -24,17 +25,17 @@
   "partners": [
   ],
   "powers": [
-    "Energy manipulation",
-    "Superhuman strength",
-    "Stamina",
     "Agility",
     "Endurance",
-    "Flight"
+    "Energy manipulation",
+    "Flight",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 104,
     "eventCount": 10,
-    "pageviewCount": 40844,
+    "pageviewCount": 2753,
     "pageviewRank": -1,
     "serieCount": 46,
     "storyCount": 124

@@ -3,9 +3,9 @@
     "Big Wheel"
   ],
   "authors": [
+    "Marv Wolfman",
     "Mike Esposito",
-    "Ross Andru",
-    "Marv Wolfman"
+    "Ross Andru"
   ],
   "description": "Big Wheel is a Marvel Comics supervillain created by Marv Wolfman, Ross Andru, and Mike Esposito.",
   "images": {
@@ -20,12 +20,13 @@
   "partners": [
   ],
   "powers": [
-    "Drives large metal wheel"
+    "Drives large metal wheel",
+    "Waldo-arms"
   ],
   "ranking": {
     "comicCount": 2,
     "eventCount": 0,
-    "pageviewCount": 1241,
+    "pageviewCount": 80,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 2

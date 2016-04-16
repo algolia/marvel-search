@@ -1,7 +1,8 @@
 {
   "aliases": [
+    "Alexander Bont",
     "Kingpin",
-    "Alexander Bont"
+    "The Kingpin"
   ],
   "authors": [
     "Alex Maleev",
@@ -18,16 +19,20 @@
   "mainColor": null,
   "name": "Kingpin",
   "partners": [
-    "The Gladiator",
-    "The Fixer"
+    "Fixer",
+    "Gladiator",
+    "The Fixer",
+    "The Gladiator"
   ],
   "powers": [
-    "Highly intelligent"
+    "Extremely strong when on",
+    "Highly intelligent",
+    "Mutant growth hormone"
   ],
   "ranking": {
     "comicCount": 102,
     "eventCount": 4,
-    "pageviewCount": 570,
+    "pageviewCount": 37,
     "pageviewRank": -1,
     "serieCount": 40,
     "storyCount": 98
@@ -37,7 +42,9 @@
   "species": [
   ],
   "teams": [
-    "New York City criminal underground"
+    "New York City",
+    "New York City criminal underground",
+    "criminal underground"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1150/kingpin",

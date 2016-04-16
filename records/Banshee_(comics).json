@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Sean Cassidy",
-    "Banshee"
+    "Banshee",
+    "Sean Cassidy"
   ],
   "authors": [
-    "Werner Roth",
-    "Roy Thomas"
+    "Roy Thomas",
+    "Werner Roth"
   ],
   "description": "Banshee is a fictional character, a superhero who appears in comic books published by Marvel Comics.",
   "images": {
@@ -20,18 +20,20 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman hearing",
-    "Sonic screams",
-    "Flight",
+    "Black tom cassidy",
     "Concussive blasts",
-    "Sonic energy lances",
     "Disorientation",
-    "Or unconsciousness"
+    "Flight",
+    "Immunity to powers of",
+    "Or unconsciousness",
+    "Sonic energy lances",
+    "Sonic screams",
+    "Superhuman hearing"
   ],
   "ranking": {
     "comicCount": 166,
     "eventCount": 8,
-    "pageviewCount": 13854,
+    "pageviewCount": 985,
     "pageviewRank": -1,
     "serieCount": 44,
     "storyCount": 179
@@ -43,13 +45,13 @@
     "Mutant"
   ],
   "teams": [
+    "Factor Three",
+    "Generation X",
+    "Horsemen of Death",
     "Interpol",
     "NYPD",
-    "Factor Three",
-    "X-Men",
-    "Generation X",
     "X-Corps",
-    "Horsemen of Death"
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/232/banshee",

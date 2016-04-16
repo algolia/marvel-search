@@ -1,11 +1,11 @@
 {
   "aliases": [
+    "Ares",
+    "God of War",
+    "John Aaron",
     "Mars",
     "Mister Talon",
-    "John Aaron",
-    "God of War",
-    "The Warhawk",
-    "Ares"
+    "The Warhawk"
   ],
   "authors": [
     "Jack Kirby",
@@ -24,20 +24,21 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
     "Agility",
-    "Stamina",
     "Durability",
     "Immunity to all diseases",
     "Infections",
     "Magic manipulation",
+    "Shapeshifting",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
     "Virtual immortality"
   ],
   "ranking": {
     "comicCount": 41,
     "eventCount": 4,
-    "pageviewCount": 6525,
+    "pageviewCount": 395,
     "pageviewRank": -1,
     "serieCount": 17,
     "storyCount": 43
@@ -48,10 +49,12 @@
   "species": [
   ],
   "teams": [
-    "The Mighty Avengers",
+    "Dark Avengers",
+    "Gods of Olympus",
+    "Mighty Avengers",
     "Olympians",
-    "Warhawks",
-    "Dark Avengers"
+    "The Mighty Avengers",
+    "Warhawks"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/183/ares",

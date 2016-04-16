@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Sarah Rushman",
-    "Marrow"
+    "Marrow",
+    "Sarah Rushman"
   ],
   "authors": [
-    "Scott Lobdell",
-    "Joe Madureira",
+    "David Brewer",
     "Jeph Loeb",
-    "David Brewer"
+    "Joe Madureira",
+    "Scott Lobdell"
   ],
   "description": "Marrow (Sarah), is a Marvel Comics character, associated with the X-Men franchise.",
   "images": {
@@ -22,18 +22,18 @@
   "partners": [
   ],
   "powers": [
-    "Controlled bone growth",
-    "Superhuman strength",
-    "Stamina",
-    "Durability",
     "Agility",
+    "Controlled bone growth",
+    "Durability",
+    "Healing factor",
     "Regenerative",
-    "Healing factor"
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 75,
     "eventCount": 1,
-    "pageviewCount": 7933,
+    "pageviewCount": 572,
     "pageviewRank": -1,
     "serieCount": 20,
     "storyCount": 91
@@ -45,13 +45,13 @@
     "Mutant"
   ],
   "teams": [
-    "S.H.I.E.L.D",
-    "X-Force",
-    "X-Men",
-    "X-Cell",
-    "Weapon X",
+    "Gene Nation",
     "Morlocks",
-    "Gene Nation"
+    "S.H.I.E.L.D",
+    "Weapon X",
+    "X-Cell",
+    "X-Force",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1375/marrow",

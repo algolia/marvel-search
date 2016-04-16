@@ -1,8 +1,8 @@
 {
   "aliases": [
+    "Cable",
     "Chaos Bringer",
     "Scion of the Dark Lord",
-    "Cable",
     "Stryfe"
   ],
   "authors": [
@@ -22,16 +22,16 @@
   "partners": [
   ],
   "powers": [
-    "Psychokinesis",
-    "Telepathy",
-    "Superhuman strength",
     "Durability",
-    "Telekinesis"
+    "Psychokinesis",
+    "Superhuman strength",
+    "Telekinesis",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 36,
     "eventCount": 1,
-    "pageviewCount": 9348,
+    "pageviewCount": 593,
     "pageviewRank": -1,
     "serieCount": 15,
     "storyCount": 39
@@ -44,8 +44,8 @@
   ],
   "teams": [
     "Dark Riders",
-    "New Canaanites",
-    "Mutant Liberation Front"
+    "Mutant Liberation Front",
+    "New Canaanites"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009632/stryfe",

@@ -3,8 +3,8 @@
     "Guardsman"
   ],
   "authors": [
-    "Don Heck",
     "Allyn Brodsky",
+    "Don Heck",
     "Herb Trimpe",
     "Len Wein"
   ],
@@ -18,16 +18,16 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Physical resistance",
     "Flight",
+    "Physical resistance",
+    "Repulsor rays",
     "Superhuman stamina",
-    "Repulsor rays"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1346,
+    "pageviewCount": 86,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -40,10 +40,10 @@
   ],
   "teams": [
     "Avengers",
-    "Iron Legion",
     "Features of the Marvel Universe",
-    "Vault",
-    "Stark Industries"
+    "Iron Legion",
+    "Stark Industries",
+    "Vault"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Guardsman_(comics)"

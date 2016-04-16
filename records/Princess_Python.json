@@ -17,15 +17,15 @@
   "partners": [
   ],
   "powers": [
-    "Handler",
     "Carries a hand held",
     "Electric cattle prod",
+    "Handler",
     "Trained athlete"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1681,
+    "pageviewCount": 121,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -36,10 +36,10 @@
   "species": [
   ],
   "teams": [
-    "Serpent Squad",
-    "Femizons",
     "Circus of Crime",
-    "Serpent Society"
+    "Femizons",
+    "Serpent Society",
+    "Serpent Squad"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Princess_Python"

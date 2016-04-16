@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Spider-Doppelganger",
-    "Doppelganger"
+    "Doppelganger",
+    "Spider-Doppelganger"
   ],
   "authors": [
-    "Jim StarlinRon LimAl Milgrom",
+    "Al Milgrom",
     "Jim Starlin",
-    "Ron Lim",
-    "Al Milgrom"
+    "Jim StarlinRon LimAl Milgrom",
+    "Ron Lim"
   ],
   "description": "The Doppelganger, also called the Spider-Doppelganger, is a fictional character and supervillain in the Marvel Comics universe.",
   "images": {
@@ -19,22 +19,22 @@
   "name": "spider-doppelganger",
   "partners": [
     "Carnage",
-    "Shriek",
     "Carrion",
-    "Demogoblin"
+    "Demogoblin",
+    "Shriek"
   ],
   "powers": [
-    "Hardened talons",
-    "Superhuman strength",
     "Agility",
-    "Stamina",
+    "Hardened talons",
     "Reflexes",
-    "Speed"
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2950,
+    "pageviewCount": 163,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

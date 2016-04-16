@@ -4,9 +4,9 @@
   ],
   "authors": [
     "Gerry Conway",
+    "Ross Andru",
     "Stan Lee",
-    "Steve Ditko",
-    "Ross Andru"
+    "Steve Ditko"
   ],
   "description": "The Jackal is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
@@ -19,34 +19,34 @@
   "mainColor": null,
   "name": "Jackal",
   "partners": [
-    "Spidercide",
-    "Tarantula",
     "Grizzly",
-    "Punisher"
+    "Punisher",
+    "Spidercide",
+    "Tarantula"
   ],
   "powers": [
-    "Biochemistry",
-    "Cloning",
-    "Engineering",
-    "Master schemer",
-    "Manipulator",
-    "Trained athlete",
-    "Drug-tipped",
-    "Or electro-prod",
-    "Claws",
-    "Genius geneticist",
+    "Agility",
     "Biochemist",
+    "Biochemistry",
+    "Claws",
     "Cloner",
-    "Talented martial artist",
+    "Cloning",
+    "Drug-tipped",
+    "Engineering",
+    "Genius geneticist",
     "Gymnast",
-    "Superhuman strength",
+    "Manipulator",
+    "Master schemer",
+    "Or electro-prod",
     "Speed",
-    "Agility"
+    "Superhuman strength",
+    "Talented martial artist",
+    "Trained athlete"
   ],
   "ranking": {
     "comicCount": 15,
     "eventCount": 1,
-    "pageviewCount": 6396,
+    "pageviewCount": 412,
     "pageviewRank": -1,
     "serieCount": 5,
     "storyCount": 20

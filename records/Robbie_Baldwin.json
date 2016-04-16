@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Speedball",
-    "Penance",
     "Masked Marvel",
-    "Robbie Baldwin"
+    "Penance",
+    "Robbie Baldwin",
+    "Speedball"
   ],
   "authors": [
-    "Tom DeFalco",
-    "Steve Ditko"
+    "Steve Ditko",
+    "Tom DeFalco"
   ],
   "description": "Robert \"Robbie\" Baldwin is a fictional character, a superhero appearing in books published by Marvel Comics.Originally known as Speedball, the character was created by artist Steve Ditko and writer Tom DeFalco, initially as a candidate for Marvel's separate New Universe imprint.Baldwin first appeared in The Amazing Spider-Man Annual #22 (January 1988).",
   "images": {
@@ -22,29 +22,29 @@
   "partners": [
   ],
   "powers": [
-    "Force field generation",
-    "Energy blasts"
+    "Energy blasts",
+    "Force field generation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 11403,
+    "pageviewCount": 527,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Robert Baldwin",
-    "Robbie"
+    "Robbie",
+    "Robert Baldwin"
   ],
   "species": [
   ],
   "teams": [
-    "Damage Control",
-    "Shadow Initiative",
     "Avengers Academy",
-    "Thunderbolts",
-    "New Warriors"
+    "Damage Control",
+    "New Warriors",
+    "Shadow Initiative",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2165/speedball",

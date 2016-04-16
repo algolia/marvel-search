@@ -3,8 +3,8 @@
     "Doctor Spectrum"
   ],
   "authors": [
-    "Roy Thomas",
-    "John Buscema"
+    "John Buscema",
+    "Roy Thomas"
   ],
   "description": "Doctor Spectrum is the name of several fictional characters that appear in publications published by Marvel Comics.",
   "images": {
@@ -20,14 +20,14 @@
   ],
   "powers": [
     "Energy projection",
-    "Manipulation",
     "Flight",
-    "Intangibility"
+    "Intangibility",
+    "Manipulation"
   ],
   "ranking": {
     "comicCount": 13,
     "eventCount": 0,
-    "pageviewCount": 6581,
+    "pageviewCount": 384,
     "pageviewRank": -1,
     "serieCount": 5,
     "storyCount": 12
@@ -37,8 +37,8 @@
   "species": [
   ],
   "teams": [
-    "Squadron Supreme",
-    "Squadron Sinister"
+    "Squadron Sinister",
+    "Squadron Supreme"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/566/doctor_spectrum",

@@ -19,19 +19,19 @@
   "partners": [
   ],
   "powers": [
-    "Genius-level intellect",
-    "Superhuman strength",
     "Durability",
     "Endurance",
-    "Gifted physicist",
     "Experienced planner",
-    "Tactician",
-    "High-level intellect"
+    "Genius-level intellect",
+    "Gifted physicist",
+    "High-level intellect",
+    "Superhuman strength",
+    "Tactician"
   ],
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 3380,
+    "pageviewCount": 226,
     "pageviewRank": -1,
     "serieCount": 3,
     "storyCount": 6
@@ -42,11 +42,11 @@
   "species": [
   ],
   "teams": [
-    "Wrecking Crew",
+    "Frightful Four",
+    "Illuminati",
     "Masters of Evil",
     "Secret Empire",
-    "Frightful Four",
-    "Illuminati"
+    "Wrecking Crew"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2363/thunderball",

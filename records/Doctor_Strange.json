@@ -1,10 +1,11 @@
 {
   "aliases": [
-    "Stephen Sanders",
-    "Vincent Stevens",
-    "Strange",
     "Doctor",
-    "Doctor Strange"
+    "Doctor Strange",
+    "Sorcerer Supreme",
+    "Stephen Sanders",
+    "Strange",
+    "Vincent Stevens"
   ],
   "authors": [
     "Steve Ditko"
@@ -20,19 +21,19 @@
   "partners": [
   ],
   "powers": [
-    "Mastery of magic",
     "Genius-level intellect",
-    "Trained martial artist",
-    "Skilled neurosurgeon",
-    "Mastery of",
     "Magic",
+    "Mastery of",
+    "Mastery of magic",
+    "Medical science",
+    "Skilled neurosurgeon",
     "Trained in",
-    "Medical science"
+    "Trained martial artist"
   ],
   "ranking": {
     "comicCount": 418,
     "eventCount": 13,
-    "pageviewCount": 263686,
+    "pageviewCount": 9553,
     "pageviewRank": -1,
     "serieCount": 125,
     "storyCount": 568
@@ -43,12 +44,12 @@
   "species": [
   ],
   "teams": [
-    "The New Avengers",
-    "Midnight Sons",
     "Defenders",
     "Illuminati",
-    "The Order",
-    "New Avengers"
+    "Midnight Sons",
+    "New Avengers",
+    "The New Avengers",
+    "The Order"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009282/doctor_strange",

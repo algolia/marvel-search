@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Maria Troyvana Pym",
-    "SODAM",
     "MODAM",
-    "Maria Trovaya Pym"
+    "Maria Trovaya Pym",
+    "Maria Troyvana Pym",
+    "SODAM"
   ],
   "authors": [
-    "Steve Englehart",
-    "Al Milgrom"
+    "Al Milgrom",
+    "Steve Englehart"
   ],
   "description": "MODAM is a fictional character in the Marvel Universe.",
   "images": {
@@ -20,15 +20,15 @@
   "partners": [
   ],
   "powers": [
-    "Various psionic abilities",
-    "Superhuman intelligence",
     "Powered exo-skeleton",
-    "Telepathy"
+    "Superhuman intelligence",
+    "Telepathy",
+    "Various psionic abilities"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1822,
+    "pageviewCount": 120,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -40,9 +40,9 @@
   "species": [
   ],
   "teams": [
-    "Femizons",
+    "AIM",
     "Advanced Idea Mechanics",
-    "AIM"
+    "Femizons"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/MODAM"

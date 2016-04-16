@@ -1,16 +1,16 @@
 {
   "aliases": [
-    "Whiplash",
     "Blacklash",
-    "Leeann Foreman"
+    "Leeann Foreman",
+    "Whiplash"
   ],
   "authors": [
-    "Gene Colan",
     "Erik Larsen",
+    "Gene Colan",
+    "Marc Guggenheim",
     "Marko Djurdjevi%C4%87",
     "Philipe Briones",
-    "Stan Lee",
-    "Marc Guggenheim"
+    "Stan Lee"
   ],
   "description": "Filled with dreams of grandeur, Mark Scarlotti was a brilliant young man with a bright future who graduated with top honors from college and immediately had a promising job at Stark International, but it all went south, however, when he became friends with the wrong people who wanted him to develop weapons, which Scarlotti used to become the first Whiplash.",
   "images": {
@@ -25,35 +25,35 @@
   "partners": [
   ],
   "powers": [
-    "Skilled athlete",
-    "Wears a",
     "Bulletproof",
-    "Costume"
+    "Costume",
+    "Skilled athlete",
+    "Wears a"
   ],
   "ranking": {
     "comicCount": 10,
     "eventCount": 0,
-    "pageviewCount": 12028,
+    "pageviewCount": 715,
     "pageviewRank": -1,
     "serieCount": 5,
     "storyCount": 12
   },
   "secretIdentities": [
     "Anton Vanko",
-    "Marco Scarlotti",
-    "Leeann Foreman"
+    "Leeann Foreman",
+    "Marco Scarlotti"
   ],
   "species": [
     "Human",
     "Mutant"
   ],
   "teams": [
-    "Masters of Evil",
     "Band of Baddies",
     "Death Squad",
-    "Maggia",
-    "Femme Fatales",
     "Femizons",
+    "Femme Fatales",
+    "Maggia",
+    "Masters of Evil",
     "Sinister Syndicate"
   ],
   "urls": {

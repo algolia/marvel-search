@@ -3,8 +3,8 @@
     "Jackhammer"
   ],
   "authors": [
-    "Tony Isabella",
-    "Bob Brown"
+    "Bob Brown",
+    "Tony Isabella"
   ],
   "description": "Jackhammer (Matthew Banham) is a fictional character from the Marvel Comics universe.",
   "images": {
@@ -21,7 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 512,
+    "pageviewCount": 32,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -32,8 +32,8 @@
   "species": [
   ],
   "teams": [
-    "Masters of Evil",
     "Hydra",
+    "Masters of Evil",
     "Power Tools"
   ],
   "urls": {

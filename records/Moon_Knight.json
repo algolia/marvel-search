@@ -1,15 +1,15 @@
 {
   "aliases": [
-    "Steven Grant",
     "Jake Lockley",
-    "The Fist of Khonshu",
-    "Yitzak Topol",
     "Moon Knight",
-    "Mr. Knight"
+    "Mr. Knight",
+    "Steven Grant",
+    "The Fist of Khonshu",
+    "Yitzak Topol"
   ],
   "authors": [
-    "Doug Moench",
-    "Don Perlin"
+    "Don Perlin",
+    "Doug Moench"
   ],
   "description": "Moon Knight is a fictional character, a superhero who appears in comic books published by Marvel Comics.",
   "images": {
@@ -24,25 +24,25 @@
   "partners": [
   ],
   "powers": [
-    "Sophisticated weaponry",
-    "Master at martial arts",
-    "Hand-to-hand combatant",
-    "Skilled acrobat",
-    "Gymnast",
-    "Detective",
-    "Superb athlete",
-    "Expert aviator",
-    "Marksman",
-    "Expert detective",
+    "Agility",
     "Armed combat",
-    "Increased strength",
+    "Detective",
     "Endurance",
-    "Agility"
+    "Expert aviator",
+    "Expert detective",
+    "Gymnast",
+    "Hand-to-hand combatant",
+    "Increased strength",
+    "Marksman",
+    "Master at martial arts",
+    "Skilled acrobat",
+    "Sophisticated weaponry",
+    "Superb athlete"
   ],
   "ranking": {
     "comicCount": 110,
     "eventCount": 3,
-    "pageviewCount": 36510,
+    "pageviewCount": 2310,
     "pageviewRank": -1,
     "serieCount": 37,
     "storyCount": 129
@@ -53,13 +53,13 @@
   "species": [
   ],
   "teams": [
-    "Marvel Knights",
-    "Heroes for Hire",
     "Avengers",
-    "Secret Avengers",
     "Defenders",
-    "West Coast Avengers",
-    "United States Marine Corps"
+    "Heroes for Hire",
+    "Marvel Knights",
+    "Secret Avengers",
+    "United States Marine Corps",
+    "West Coast Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2851/moon_knight",

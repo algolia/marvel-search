@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Stark Industries",
     "Cybermancer",
+    "Stark Industries",
     "actual identities the character uses"
   ],
   "authors": [
+    "Andy Lanning",
     "Dan Abnett",
-    "Tom Tenney",
-    "Andy Lanning"
+    "Tom Tenney"
   ],
   "description": "Cybermancer is a fictional character, a superheroine published by Marvel Comics.",
   "images": {
@@ -26,7 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 287,
+    "pageviewCount": 14,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -38,8 +38,8 @@
   "species": [
   ],
   "teams": [
-    "Stark Industries",
-    "Force Works"
+    "Force Works",
+    "Stark Industries"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2206/stark_industries",

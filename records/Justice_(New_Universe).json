@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Net Prophet",
-    "the Prophet of Thor",
-    "the Justice Killer",
-    "Justice Warrior Tensen",
     "Justice",
+    "Justice Warrior Tensen",
+    "Net Prophet",
+    "Thor",
+    "the Justice Killer",
     "the Prophet of",
-    "Thor"
+    "the Prophet of Thor"
   ],
   "authors": [
     "Archie Goodwin",
@@ -30,7 +30,7 @@
   "ranking": {
     "comicCount": 64,
     "eventCount": 4,
-    "pageviewCount": 922,
+    "pageviewCount": 54,
     "pageviewRank": -1,
     "serieCount": 14,
     "storyCount": 81
@@ -41,11 +41,11 @@
   "species": [
   ],
   "teams": [
+    "DEA",
     "Drug Enforcement Administration",
     "Forsaken",
-    "National Security Agency",
     "NSA",
-    "DEA"
+    "National Security Agency"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1109/justice",

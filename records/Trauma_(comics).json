@@ -3,9 +3,9 @@
     "Trauma"
   ],
   "authors": [
-    "Peter David",
     "Dan Slott",
     "Gary Frank",
+    "Peter David",
     "Stefano Caselli"
   ],
   "description": "Terrance Ward was drafted into the Initiative training program because of his telepathic and shape-shifting abilities.",
@@ -22,18 +22,18 @@
   ],
   "powers": [
     "Channel",
-    "Project cosmic energy",
-    "Experienced warrior",
-    "Strategist",
-    "Superhuman strength",
-    "Durability",
     "Cosmic energy generation",
-    "Projection"
+    "Durability",
+    "Experienced warrior",
+    "Project cosmic energy",
+    "Projection",
+    "Strategist",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 13,
     "eventCount": 3,
-    "pageviewCount": 1364,
+    "pageviewCount": 77,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 15
@@ -47,9 +47,9 @@
     "Troyjan"
   ],
   "teams": [
+    "Armageddon",
     "The Initiative",
-    "Troyjan Empire",
-    "Armageddon"
+    "Troyjan Empire"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2405/trauma",

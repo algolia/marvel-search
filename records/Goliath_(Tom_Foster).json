@@ -1,13 +1,13 @@
 {
   "aliases": [
+    "Goliath",
     "Thomas Foster",
-    "Tom Foster",
-    "Goliath"
+    "Tom Foster"
   ],
   "authors": [
-    "Reginald Hudlin",
+    "Greg Pak",
     "Koi Turnbull",
-    "Greg Pak"
+    "Reginald Hudlin"
   ],
   "description": "Thomas Foster is a fictional comic book superhero published by Marvel Comics, and is the fifth person to hold the mantle of Goliath.",
   "images": {
@@ -22,15 +22,15 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
     "Durability",
+    "Mass manipulation",
     "Size",
-    "Mass manipulation"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 9,
     "eventCount": 1,
-    "pageviewCount": 1944,
+    "pageviewCount": 94,
     "pageviewRank": -1,
     "serieCount": 6,
     "storyCount": 8
@@ -42,10 +42,10 @@
   "species": [
   ],
   "teams": [
-    "Revengers",
-    "Massachusetts Institute of Technology",
     "Damage Control",
-    "M.I.T"
+    "M.I.T",
+    "Massachusetts Institute of Technology",
+    "Revengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/830/goliath",

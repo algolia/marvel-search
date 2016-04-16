@@ -4,9 +4,9 @@
     "Zero"
   ],
   "authors": [
-    "Matt Fraction",
     "Kieron Gillen",
     "Louise Simonson",
+    "Matt Fraction",
     "Rob Liefeld"
   ],
   "description": "Zero (Kenji Uedo) is a fictional comic book superhero appearing in books published by Marvel Comics.",
@@ -19,36 +19,36 @@
   "partners": [
   ],
   "powers": [
-    "Techno-organic creation",
-    "Manipulation",
-    "Enhanced strength",
+    "Absorption",
     "Computerized intelligence",
     "Energy damping",
-    "Absorption",
+    "Enhanced strength",
+    "Manipulation",
+    "Neutralize them",
     "Scan for bio-mechanical",
-    "Technological weapons",
-    "Neutralize them"
+    "Techno-organic creation",
+    "Technological weapons"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1661,
+    "pageviewCount": 141,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Kenji Uedo",
-    "ADAM unit Zero"
+    "ADAM unit Zero",
+    "Kenji Uedo"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "X-Men",
     "Hope Summers",
     "Mutant Liberation Front",
-    "New Canaanites"
+    "New Canaanites",
+    "X-Men"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Zero_(Marvel_Comics)"

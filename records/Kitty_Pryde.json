@@ -1,10 +1,10 @@
 {
   "aliases": [
-    "Shadowcat",
     "Ariel",
-    "Sprite",
     "Katherine Pryde",
     "Kitty Pryde",
+    "Shadowcat",
+    "Sprite",
     "Star-Lord"
   ],
   "authors": [
@@ -34,7 +34,7 @@
   "ranking": {
     "comicCount": 151,
     "eventCount": 7,
-    "pageviewCount": 47350,
+    "pageviewCount": 3350,
     "pageviewRank": -1,
     "serieCount": 60,
     "storyCount": 163
@@ -47,17 +47,7 @@
     "Mutant"
   ],
   "teams": [
-    "All-New X-Men",
-    "X-Men",
-    "Excalibur",
-    "S.H.I.E.L.D",
-    "New Mutants",
-    "Gladiators",
-    "Jean Grey School",
-    "New Xavier School",
-    "Guardians of the Galaxy",
-    "A-Force",
-    "cn|date"
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/32/kitty_pryde",

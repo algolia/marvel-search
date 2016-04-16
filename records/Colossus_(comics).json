@@ -1,15 +1,15 @@
 {
   "aliases": [
-    "Piotr Rasputin",
-    "Peter Rasputin",
-    "Rasputin",
-    "Peter Nicholas",
+    "Colossus",
     "Juggernaut",
-    "Colossus"
+    "Peter Nicholas",
+    "Peter Rasputin",
+    "Piotr Rasputin",
+    "Rasputin"
   ],
   "authors": [
-    "Len Wein",
-    "Dave Cockrum"
+    "Dave Cockrum",
+    "Len Wein"
   ],
   "description": "Colossus (Piotr Nikolaievitch Rasputin) is a fictional character, a superhero in the Marvel Comics universe.",
   "images": {
@@ -24,38 +24,38 @@
   "partners": [
   ],
   "powers": [
-    "Unstoppable momentum",
-    "Resistance to injury",
-    "Trained acrobat",
-    "Swordsman",
-    "Stamina",
     "Durability",
     "Organic steel",
-    "Steel"
+    "Resistance to injury",
+    "Stamina",
+    "Steel",
+    "Swordsman",
+    "Trained acrobat",
+    "Unstoppable momentum"
   ],
   "ranking": {
     "comicCount": 554,
     "eventCount": 22,
-    "pageviewCount": 73029,
+    "pageviewCount": 5693,
     "pageviewRank": -1,
     "serieCount": 149,
     "storyCount": 667
   },
   "secretIdentities": [
-    "Piotr Nikolaievitch Rasputin",
-    "Peter"
+    "Peter",
+    "Piotr Nikolaievitch Rasputin"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "X-Men",
-    "X-Force",
-    "Defenders",
-    "Phoenix Force",
-    "Excalibur",
     "Acolytes",
-    "Phoenix Five"
+    "Defenders",
+    "Excalibur",
+    "Phoenix Five",
+    "Phoenix Force",
+    "X-Force",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/450/colossus",

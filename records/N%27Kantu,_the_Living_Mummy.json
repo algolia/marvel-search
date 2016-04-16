@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "The Mummy",
-    "Captain Ace Bandages"
+    "Captain Ace Bandages",
+    "The Mummy"
   ],
   "authors": [
-    "Steve Gerber",
-    "Rich Buckler"
+    "Rich Buckler",
+    "Steve Gerber"
   ],
   "images": {
     "background": null,
@@ -19,14 +19,14 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
     "Durability",
-    "Mystic senses"
+    "Mystic senses",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 5,
     "eventCount": 0,
-    "pageviewCount": 1824,
+    "pageviewCount": 127,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 5
@@ -37,9 +37,9 @@
   "species": [
   ],
   "teams": [
+    "Legion of Monsters",
     "S.H.I.E.L.D.'s Paranormal Containment Unit",
-    "Shock Troop",
-    "Legion of Monsters"
+    "Shock Troop"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2863/living_mummy",

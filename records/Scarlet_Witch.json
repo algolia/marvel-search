@@ -1,10 +1,10 @@
 {
   "aliases": [
-    "Wanda Maximoff",
     "Ana Maximoff",
-    "Wanda Magnus",
+    "Scarlet Witch",
     "Wanda Frank",
-    "Scarlet Witch"
+    "Wanda Magnus",
+    "Wanda Maximoff"
   ],
   "authors": [
     "Jack Kirby",
@@ -28,33 +28,31 @@
   "partners": [
   ],
   "powers": [
+    "Chaos magic",
     "Probability manipulation",
-    "Reality warping",
-    "Chaos magic"
+    "Reality warping"
   ],
   "ranking": {
     "comicCount": 261,
     "eventCount": 13,
-    "pageviewCount": 106549,
+    "pageviewCount": 5115,
     "pageviewRank": 1558,
     "serieCount": 105,
     "storyCount": 295
   },
   "secretIdentities": [
-    "Wanda Maximoff"
+    "Wanda Maximoff",
+    "Wanda Maximoff <!-- As Wanda's species varies so much in comics",
+    "and so significantly of late",
+    "it makes most sense to leave this field out and let the lead explain her history.  Wiki articles about fictional characters are not biographies"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "Avengers Unity Squad",
     "Avengers",
-    "Lady Liberators",
-    "West Coast Avengers",
-    "Defenders",
-    "Secret Defenders",
     "Brotherhood of Evil Mutants",
-    "Force Works"
+    "Defenders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/50/scarlet_witch",

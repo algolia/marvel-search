@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Dr. Leonard Skivorski Jr.",
     "Doc Samson",
+    "Dr. Leonard Skivorski Jr.",
     "Leo"
   ],
   "authors": [
-    "Roy Thomas",
-    "Herb Trimpe"
+    "Herb Trimpe",
+    "Roy Thomas"
   ],
   "description": "Doc Samson (Dr. Leonard \"Leo\" Samson) is a fictional character, a superhero and psychiatrist in the Marvel Comics universe, known as a supporting character in stories featuring the Hulk.",
   "images": {
@@ -19,23 +19,23 @@
   "mainColor": null,
   "name": "Doc Samson",
   "partners": [
-    "Hulk",
-    "Dr. Bruce Banner"
+    "Dr. Bruce Banner",
+    "Hulk"
   ],
   "powers": [
-    "Great leaping",
-    "Superhuman strength",
-    "Stamina",
     "Durability",
+    "Genius psychiatrist",
+    "Great leaping",
+    "Inventor",
     "Resistance to injury",
     "Resistance to telepathy",
-    "Genius psychiatrist",
-    "Inventor"
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 62,
     "eventCount": 0,
-    "pageviewCount": 8209,
+    "pageviewCount": 470,
     "pageviewRank": -1,
     "serieCount": 19,
     "storyCount": 60

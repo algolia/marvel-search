@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "The Ultimate Weapon",
     "Robot Man",
+    "The Ultimate Weapon",
     "Torgo"
   ],
   "authors": [
@@ -18,13 +18,15 @@
   "partners": [
   ],
   "powers": [
+    "Durability",
     "Super-strength",
-    "Durability"
+    "Superhuman strength",
+    "Use of combat staff"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 683,
+    "pageviewCount": 45,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -35,7 +37,8 @@
     "Robot"
   ],
   "teams": [
-    "Horror-Hunters"
+    "Horror-Hunters",
+    "Hulk-Hunters"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Torgo_(robot)"

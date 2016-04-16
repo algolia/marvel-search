@@ -1,11 +1,11 @@
 {
   "aliases": [
+    "Clown",
     "Crafty",
-    "Griffin",
-    "Funny Man",
     "Crafty Clown",
-    "The Clown",
-    "Clown"
+    "Funny Man",
+    "Griffin",
+    "The Clown"
   ],
   "authors": [
     "Stan Lee",
@@ -27,7 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 954,
+    "pageviewCount": 64,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -38,9 +38,9 @@
   "species": [
   ],
   "teams": [
-    "The Masters of Menace",
     "Circus of Crime",
-    "Gamma Corps"
+    "Gamma Corps",
+    "The Masters of Menace"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Clown_(comics)"

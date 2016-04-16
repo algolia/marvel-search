@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "Spider-Man",
-    "Kraven the Hunter"
+    "Kraven the Hunter",
+    "Spider-Man"
   ],
   "authors": [
     "Stan Lee",
@@ -20,23 +20,23 @@
   "partners": [
   ],
   "powers": [
-    "Gifted tactician",
-    "Hunter",
-    "Hand-to-hand combatant",
-    "Olympic-level athlete",
-    "Superhuman strength",
-    "Speed",
     "Agility",
-    "Stamina",
     "Durability",
-    "Senses",
+    "Gifted tactician",
+    "Hand-to-hand combatant",
+    "Hunter",
+    "Longevity",
+    "Olympic-level athlete",
     "Reflexes",
-    "Longevity"
+    "Senses",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 23,
     "eventCount": 0,
-    "pageviewCount": 13983,
+    "pageviewCount": 823,
     "pageviewRank": -1,
     "serieCount": 18,
     "storyCount": 27
@@ -47,9 +47,9 @@
   "species": [
   ],
   "teams": [
-    "Sinister Six",
+    "Avengers\" (1959)",
     "Kravinoff Family",
-    "Avengers\" (1959)"
+    "Sinister Six"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1174/kraven_the_hunter",

@@ -19,15 +19,15 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman agility",
     "Durability",
+    "Indestructibility",
     "Reflexes",
-    "Indestructibility"
+    "Superhuman agility"
   ],
   "ranking": {
     "comicCount": 6,
     "eventCount": 2,
-    "pageviewCount": 2365,
+    "pageviewCount": 104,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 6
@@ -38,11 +38,11 @@
   "species": [
   ],
   "teams": [
-    "The Initiative",
     "Counter Force",
-    "New Warriors",
     "Heroes for Hire",
-    "Mercs for Money"
+    "Mercs for Money",
+    "New Warriors",
+    "The Initiative"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2137/slapstick",

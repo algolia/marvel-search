@@ -1,15 +1,15 @@
 {
   "aliases": [
     "Bruce Banner",
-    "The Incredible Hulk",
     "David Banner",
-    "Joe Fixit",
-    "War",
+    "Doc Green",
     "Green Scar",
-    "World-Breaker",
-    "Sakaarson",
     "Hulk",
-    "Doc Green"
+    "Joe Fixit",
+    "Sakaarson",
+    "The Incredible Hulk",
+    "War",
+    "World-Breaker"
   ],
   "authors": [
     "Jack Kirby",
@@ -33,26 +33,25 @@
   "partners": [
   ],
   "powers": [
-    "Genius-level intellect",
-    "Superhuman strength",
-    "Speed",
-    "Jumping",
-    "Endurance",
-    "Reflexes",
-    "Durability",
-    "Immunity to diseases",
-    "Viruses",
+    "Accelerated healing",
     "Adrenal activation",
     "Anger empowerment",
-    "Accelerated healing",
-    "Longevity",
+    "Durability",
+    "Endurance",
+    "Genius-level intellect",
     "Immortality",
-    "Stamina"
+    "Immunity to diseases",
+    "Jumping",
+    "Longevity",
+    "Reflexes",
+    "Speed",
+    "Superhuman strength",
+    "Viruses"
   ],
   "ranking": {
     "comicCount": 1309,
     "eventCount": 24,
-    "pageviewCount": 97511,
+    "pageviewCount": 6352,
     "pageviewRank": 4261,
     "serieCount": 314,
     "storyCount": 1981
@@ -64,19 +63,19 @@
     "Human Mutate"
   ],
   "teams": [
-    "Pantheon",
-    "Defenders",
     "Avengers",
-    "Horsemen of Apocalypse",
-    "S.H.I.E.L.D",
-    "Illuminati",
-    "Secret Avengers",
-    "The New Avengers",
-    "Warbound",
-    "Hulkbusters",
+    "Defenders",
     "Fantastic Four",
+    "Horsemen of Apocalypse",
+    "Hulkbusters",
+    "Illuminati",
+    "Pantheon",
+    "S.H.I.E.L.D",
+    "Secret Avengers",
+    "The Mighty Avengers",
+    "The New Avengers",
     "The Order",
-    "The Mighty Avengers"
+    "Warbound"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/25/hulk",

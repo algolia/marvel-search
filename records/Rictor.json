@@ -3,8 +3,8 @@
     "Rictor"
   ],
   "authors": [
-    "Walt Simonson",
-    "Louise Simonson"
+    "Louise Simonson",
+    "Walt Simonson"
   ],
   "description": "Rictor (Julio Esteban \"Ric\" Richter) is a fictional comic book superhero in the Marvel Universe, who appears in the X-Men family of books published by Marvel Comics.",
   "images": {
@@ -23,7 +23,7 @@
   "ranking": {
     "comicCount": 89,
     "eventCount": 5,
-    "pageviewCount": 4832,
+    "pageviewCount": 324,
     "pageviewRank": -1,
     "serieCount": 19,
     "storyCount": 96
@@ -36,14 +36,14 @@
     "Mutant"
   ],
   "teams": [
-    "Weapon P.R.I.M.E",
-    "X-Factor Investigations",
-    "X-Factor",
-    "X-Force",
     "New Mutants",
+    "Purifiers",
+    "Weapon P.R.I.M.E",
     "X-Corporation",
-    "X-Terminators",
-    "Purifiers"
+    "X-Factor",
+    "X-Factor Investigations",
+    "X-Force",
+    "X-Terminators"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009542/rictor",

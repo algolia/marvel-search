@@ -1,18 +1,18 @@
 {
   "aliases": [
     "Bucky",
-    "Scourge",
     "Jack Barnes",
-    "Nomad"
+    "Nomad",
+    "Scourge"
   ],
   "authors": [
-    "J. M. DeMatteis",
-    "Sal Buscema",
-    "Steve Englehart",
     "Bucky",
-    "Mike Zeck",
     "Fabian Nicieza",
-    "James Fry"
+    "J. M. DeMatteis",
+    "James Fry",
+    "Mike Zeck",
+    "Sal Buscema",
+    "Steve Englehart"
   ],
   "description": "Nomad is the name of a number of superhero characters who have appeared in comic books published by Marvel Comics.",
   "images": {
@@ -25,12 +25,12 @@
   "mainColor": null,
   "name": "Nomad",
   "partners": [
-    "Demolition Man",
-    "Falcon",
     "1950.0",
-    "Captain America",
     "1950s \"Captain America",
-    "D-Man"
+    "Captain America",
+    "D-Man",
+    "Demolition Man",
+    "Falcon"
   ],
   "powers": [
     "Acrobatics",
@@ -39,7 +39,7 @@
   "ranking": {
     "comicCount": 12,
     "eventCount": 0,
-    "pageviewCount": 6121,
+    "pageviewCount": 471,
     "pageviewRank": -1,
     "serieCount": 11,
     "storyCount": 13

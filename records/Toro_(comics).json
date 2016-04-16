@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "The Flaming Kid",
     "Human Torch",
+    "The Flaming Kid",
     "Toro"
   ],
   "authors": [
@@ -22,13 +22,13 @@
   ],
   "powers": [
     "Fire manipulation",
-    "Resistance",
-    "Flight"
+    "Flight",
+    "Resistance"
   ],
   "ranking": {
     "comicCount": 17,
     "eventCount": 1,
-    "pageviewCount": 2690,
+    "pageviewCount": 189,
     "pageviewRank": -1,
     "serieCount": 13,
     "storyCount": 12
@@ -41,11 +41,11 @@
   ],
   "teams": [
     "All-Winners Squad",
-    "Legion of the Unliving",
-    "Young Allies",
     "Invaders",
     "Kid Commandos",
-    "The Invaders"
+    "Legion of the Unliving",
+    "The Invaders",
+    "Young Allies"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2398/toro",

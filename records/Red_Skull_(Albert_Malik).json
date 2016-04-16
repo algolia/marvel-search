@@ -1,22 +1,22 @@
 {
   "aliases": [
-    "Red Skull",
-    "Der Rote Schädel (German name)",
-    "Dell Rusk",
-    "Bettman P. Lyles",
-    "the Agent of a Thousand Faces (impersonated in Europe during World War II)",
-    "The Man (head of the People's Militia)",
-    "Cyrus Fenton",
-    "John Smith",
-    "Teacher",
-    "Tod March (president and owner of Galactic Pictures)",
     "Aleksander Lukin",
-    "White Skull"
+    "Bettman P. Lyles",
+    "Cyrus Fenton",
+    "Dell Rusk",
+    "Der Rote Schädel (German name)",
+    "John Smith",
+    "Red Skull",
+    "Teacher",
+    "The Man (head of the People's Militia)",
+    "Tod March (president and owner of Galactic Pictures)",
+    "White Skull",
+    "the Agent of a Thousand Faces (impersonated in Europe during World War II)"
   ],
   "authors": [
-    "Joe Simon",
+    "France Herron",
     "Jack Kirby",
-    "France Herron"
+    "Joe Simon"
   ],
   "images": {
     "background": null,
@@ -28,23 +28,23 @@
   "mainColor": null,
   "name": "Red Skull",
   "partners": [
-    "Sin",
-    "Baron Strucker",
-    "The Viper",
     "Baron Helmut Zemo",
-    "Crossbones"
+    "Baron Strucker",
+    "Crossbones",
+    "Sin",
+    "The Viper"
   ],
   "powers": [
-    "Strategic genius",
-    "Political mastermind",
+    "Captain america",
     "Expert marksman",
+    "Political mastermind",
     "Possesses cloned body of",
-    "Captain america"
+    "Strategic genius"
   ],
   "ranking": {
     "comicCount": 103,
     "eventCount": 4,
-    "pageviewCount": 183,
+    "pageviewCount": 7,
     "pageviewRank": -1,
     "serieCount": 55,
     "storyCount": 98
@@ -55,14 +55,14 @@
   "species": [
   ],
   "teams": [
-    "Kronas Corporation",
-    "Exiles",
-    "Nazi Germany",
-    "Hydra",
     "AIM",
-    "ULTIMATUM",
+    "Astonishing Avengers",
+    "Exiles",
+    "Hydra",
+    "Kronas Corporation",
+    "Nazi Germany",
     "Skeleton Crew",
-    "Astonishing Avengers"
+    "ULTIMATUM"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1901/red_skull",

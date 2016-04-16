@@ -1,16 +1,16 @@
 {
   "aliases": [
-    "Ms. Marvel",
-    "Captail Marvel",
     "Binary",
-    "Warbird",
-    "Catherine Donovan",
+    "Captail Marvel",
     "Captain Marvel",
-    "Carol Danvers"
+    "Carol Danvers",
+    "Catherine Donovan",
+    "Ms. Marvel",
+    "Warbird"
   ],
   "authors": [
-    "Roy Thomas",
-    "Gene Colan"
+    "Gene Colan",
+    "Roy Thomas"
   ],
   "description": "Carol Danvers is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
   "images": {
@@ -27,18 +27,18 @@
     "Araña"
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
-    "Stamina",
+    "Absorption",
     "Durability",
     "Energy projection",
-    "Absorption",
-    "Flight"
+    "Flight",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 168087,
+    "pageviewCount": 5715,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -51,23 +51,23 @@
     "Kree hybrid"
   ],
   "teams": [
-    "NASA",
-    "Guardians of the Galaxy",
-    "S.H.I.E.L.D",
-    "Defenders",
-    "X-Men",
-    "Avengers",
-    "The New Avengers",
-    "Lightning Storm",
-    "The Mighty Avengers",
-    "United States Air Force",
-    "Starjammers",
-    "Defenders for a Day",
-    "Mighty Avengers",
-    "New Avengers",
-    "Ultimates",
     "A-Force",
-    "Alpha Flight Space Program"
+    "Alpha Flight Space Program",
+    "Avengers",
+    "Defenders",
+    "Defenders for a Day",
+    "Guardians of the Galaxy",
+    "Lightning Storm",
+    "Mighty Avengers",
+    "NASA",
+    "New Avengers",
+    "S.H.I.E.L.D",
+    "Starjammers",
+    "The Mighty Avengers",
+    "The New Avengers",
+    "Ultimates",
+    "United States Air Force",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2701/carol_danvers",

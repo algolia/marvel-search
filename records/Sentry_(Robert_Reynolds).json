@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "The Void",
     "Death",
+    "Sentry",
     "The Sentry",
-    "Sentry"
+    "The Void"
   ],
   "authors": [
     "Jae Lee",
-    "Rick Veitch",
-    "Paul Jenkins"
+    "Paul Jenkins",
+    "Rick Veitch"
   ],
   "description": "Empowered by the enigmatic Professor's secret formula, high school student Robert Reynolds became a superhuman.",
   "images": {
@@ -23,28 +23,28 @@
   "partners": [
   ],
   "powers": [
-    "Invulnerability",
-    "Telepathy",
-    "Matter",
     "Accelerated healing",
-    "Teleportation",
-    "Flight",
-    "Heightened senses",
-    "Resurrection",
-    "Superhuman strength",
-    "Speed",
-    "Stamina",
     "Durability",
-    "Mental projection",
-    "Manipulation",
     "Energy projection",
     "Enhanced senses",
-    "Molecular manipulation"
+    "Flight",
+    "Heightened senses",
+    "Invulnerability",
+    "Manipulation",
+    "Matter",
+    "Mental projection",
+    "Molecular manipulation",
+    "Resurrection",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Telepathy",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 60,
     "eventCount": 7,
-    "pageviewCount": 27554,
+    "pageviewCount": 1461,
     "pageviewRank": -1,
     "serieCount": 26,
     "storyCount": 59
@@ -58,11 +58,11 @@
   "teams": [
     "Dark Avengers",
     "Horsemen of Apocalypse",
-    "The New Avengers",
-    "The Mighty Avengers",
-    "New Avengers",
+    "Horsemen of Death",
     "Mighty Avengers",
-    "Horsemen of Death"
+    "New Avengers",
+    "The Mighty Avengers",
+    "The New Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2048/sentry",

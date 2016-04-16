@@ -17,24 +17,29 @@
   "mainColor": null,
   "name": "Vengeance (Michael Badilino)",
   "partners": [
-    "Ghost Rider",
     "Eddie Brock",
+    "Ghost Rider",
     "John Blaze"
   ],
   "powers": [
-    "Penance stare",
-    "Rides flaming motorcycle",
+    "Agility",
     "Along any surface",
-    "Invulnerability to heat",
-    "Flame",
-    "Superhuman strength",
+    "Durability",
+    "Endurance",
     "Ethereal flame",
+    "Flame",
+    "Invulnerability to heat",
+    "Penance stare",
+    "Reflexes",
+    "Rides flaming motorcycle",
+    "Stamina",
+    "Superhuman strength",
     "Wields magical chain"
   ],
   "ranking": {
     "comicCount": 32,
     "eventCount": 1,
-    "pageviewCount": 2076,
+    "pageviewCount": 149,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 55
@@ -45,8 +50,8 @@
   "species": [
   ],
   "teams": [
-    "NYPD",
     "Midnight Sons",
+    "NYPD",
     "New York Police Department"
   ],
   "urls": {

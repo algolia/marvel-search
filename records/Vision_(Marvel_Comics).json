@@ -1,16 +1,16 @@
 {
   "aliases": [
-    "Victor Shade",
+    "Aarkus",
     "Jonas",
-    "Vision",
-    "Aarkus"
+    "Victor Shade",
+    "Vision"
   ],
   "authors": [
-    "Stan Lee",
-    "Roy Thomas",
-    "John Buscema",
+    "Jack Kirby",
     "Joe Simon",
-    "Jack Kirby"
+    "John Buscema",
+    "Roy Thomas",
+    "Stan Lee"
   ],
   "description": "The metal monstrosity called Ultron created the synthetic humanoid known as the Vision from the remains of the original android Human Torch of the 1940s to serve as a vehicle of vengeance against the Avengers.",
   "images": {
@@ -30,46 +30,46 @@
   "partners": [
   ],
   "powers": [
-    "Flight",
-    "Solar energy projection",
-    "Superhuman strength",
-    "Intelligence",
-    "Reflexes",
     "Capable of self repair",
-    "Superhuman agility",
-    "Strength",
-    "Speed",
     "Density control",
+    "Flight",
     "Intangibility",
-    "Shapeshifting",
+    "Intelligence",
     "Mass manipulation",
+    "Reflexes",
     "Regeneration",
+    "Shapeshifting",
+    "Solar energy projection",
+    "Speed",
+    "Strength",
+    "Superhuman agility",
+    "Superhuman strength",
     "Technopathy"
   ],
   "ranking": {
     "comicCount": 268,
     "eventCount": 11,
-    "pageviewCount": 130463,
+    "pageviewCount": 5847,
     "pageviewRank": 6364,
     "serieCount": 93,
     "storyCount": 303
   },
   "secretIdentities": [
+    "Human Torch",
     "Inapplicable; brain patterns based on Vision program files",
-    "mental engrams of Iron Lad",
     "Inapplicable; brain patterns based on Wonder Man",
-    "Human Torch"
+    "mental engrams of Iron Lad"
   ],
   "species": [
   ],
   "teams": [
-    "The Mighty Avengers",
+    "Avengers",
     "Avengers A.I",
     "Defenders",
-    "Young Avengers",
-    "Avengers",
+    "Mighty Avengers",
+    "The Mighty Avengers",
     "West Coast Avengers",
-    "Mighty Avengers"
+    "Young Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/64/vision",

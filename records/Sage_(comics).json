@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Tessa",
-    "Lady Tessa",
-    "Diana Fox",
     "Britannia",
-    "Sage"
+    "Diana Fox",
+    "Lady Tessa",
+    "Sage",
+    "Tessa"
   ],
   "authors": [
-    "John Byrne",
-    "Chris Claremont"
+    "Chris Claremont",
+    "John Byrne"
   ],
   "description": "Sage, also known as Tessa, is a fictional character in the Marvel Comics universe.",
   "images": {
@@ -29,7 +29,7 @@
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 5364,
+    "pageviewCount": 433,
     "pageviewRank": -1,
     "serieCount": 6,
     "storyCount": 6
@@ -41,16 +41,16 @@
     "Mutant"
   ],
   "teams": [
-    "S.W.O.R.D",
     "Excalibur",
-    "X-Treme X-Men",
-    "Hellfire Club",
-    "X-Men",
     "Exiles",
-    "X-Treme Sanctions Executive",
+    "Hellfire Club",
     "Multiverse X-Men",
     "New Excalibur",
-    "The Hellfire Club"
+    "S.W.O.R.D",
+    "The Hellfire Club",
+    "X-Men",
+    "X-Treme Sanctions Executive",
+    "X-Treme X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1977/sage",

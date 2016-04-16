@@ -3,8 +3,8 @@
     "Bengal"
   ],
   "authors": [
-    "Ron Lim",
-    "Fabian Nicieza"
+    "Fabian Nicieza",
+    "Ron Lim"
   ],
   "description": "Bengal (Duc No Tranh) is a fictional character in the Marvel Universe who first appeared in Daredevil #258 in September 1988.",
   "images": {
@@ -19,17 +19,17 @@
   "partners": [
   ],
   "powers": [
-    "Excellent acrobat",
     "Enhanced sense of smell",
-    "Skilled archer",
-    "Tracker",
+    "Excellent acrobat",
+    "Exceptional athlete",
     "Master martial artist",
-    "Exceptional athlete"
+    "Skilled archer",
+    "Tracker"
   ],
   "ranking": {
     "comicCount": 9,
     "eventCount": 3,
-    "pageviewCount": 878,
+    "pageviewCount": 53,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 9
@@ -41,6 +41,7 @@
     "Human"
   ],
   "teams": [
+    "Shadow Initiative",
     "The Initiative"
   ],
   "urls": {

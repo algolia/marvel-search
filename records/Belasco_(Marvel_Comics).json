@@ -3,8 +3,8 @@
     "Lucifer"
   ],
   "authors": [
-    "Bruce Jones",
-    "Brent Anderson"
+    "Brent Anderson",
+    "Bruce Jones"
   ],
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/BELASCO_NEO.JPG/250px-BELASCO_NEO.JPG"
@@ -14,14 +14,14 @@
   "mainColor": null,
   "name": "Belasco",
   "partners": [
-    "S'ym",
     "Darkchylde",
-    "N'astirh"
+    "N'astirh",
+    "S'ym"
   ],
   "powers": [
-    "Skilled in magic",
+    "Commands legion of demons",
     "Invulnerability",
-    "Commands legion of demons"
+    "Skilled in magic"
   ],
   "ranking": {
     "comicCount": 0,
@@ -36,9 +36,9 @@
   "species": [
   ],
   "teams": [
+    "Cat People",
     "Demons of Limbo",
-    "Elder Gods",
-    "Cat People"
+    "Elder Gods"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Belasco_(Marvel_Comics)"

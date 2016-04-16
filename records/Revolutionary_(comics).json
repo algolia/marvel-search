@@ -4,9 +4,9 @@
     "actual identities the character uses"
   ],
   "authors": [
+    "Christos Gage",
     "Dan Slott",
-    "Patrick Scherberger",
-    "Christos Gage"
+    "Patrick Scherberger"
   ],
   "description": "The Revolutionary is a fictional superhero published by Marvel Comics.",
   "images": {
@@ -19,13 +19,13 @@
   "partners": [
   ],
   "powers": [
-    "Shapeshifting",
-    "Shapeshifter"
+    "Shapeshifter",
+    "Shapeshifting"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 390,
+    "pageviewCount": 23,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -36,10 +36,10 @@
     "Skrull"
   ],
   "teams": [
+    "Liberteens",
     "Liberty Legion",
     "Skrull",
-    "Skrull Empire",
-    "Liberteens"
+    "Skrull Empire"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Revolutionary_(comics)"

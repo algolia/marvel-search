@@ -1,9 +1,9 @@
 {
   "aliases": [
     "Bingo",
+    "Crossbones",
     "Frag",
-    "Mr. Bones",
-    "Crossbones"
+    "Mr. Bones"
   ],
   "authors": [
     "Kieron Dwyer",
@@ -21,19 +21,26 @@
   "name": "Crossbones",
   "partners": [
     "Red Skull",
-    "Sin",
-    "Red Skull (Albert Malik)"
+    "Red Skull (Albert Malik)",
+    "Sin"
   ],
   "powers": [
-    "Skilled pilot",
+    "Combat",
     "Driver",
     "Expert marksman",
-    "Strategist"
+    "Expert military tactician",
+    "Interrogator",
+    "Marksman",
+    "Pilot",
+    "Skilled martial artist",
+    "Skilled pilot",
+    "Torturer",
+    "Various forms of"
   ],
   "ranking": {
     "comicCount": 35,
     "eventCount": 2,
-    "pageviewCount": 109003,
+    "pageviewCount": 3543,
     "pageviewRank": 9956,
     "serieCount": 18,
     "storyCount": 39
@@ -44,9 +51,9 @@
   "species": [
   ],
   "teams": [
-    "Thunderbolts",
+    "HYDRA",
     "Skeleton Crew",
-    "HYDRA"
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/473/crossbones",

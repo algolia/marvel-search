@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Lord Imperial",
-    "Black Rook",
-    "Black King",
     "'Berto",
+    "Black King",
+    "Black Rook",
+    "Lord Imperial",
     "Sunspot"
   ],
   "authors": [
-    "Chris Claremont",
-    "Bob McLeod"
+    "Bob McLeod",
+    "Chris Claremont"
   ],
   "description": "Growing up in a wealthy Brazilian family, Roberto da Costa was forging a career as a skilled soccer player until his mutant nature manifested during a match.",
   "images": {
@@ -23,42 +23,42 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Solar absorption",
-    "Rechanneling",
+    "Concussive blasts",
     "Flight",
     "Heat",
     "Light projection",
-    "Concussive blasts"
+    "Rechanneling",
+    "Solar absorption",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 151,
     "eventCount": 10,
-    "pageviewCount": 13868,
+    "pageviewCount": 1003,
     "pageviewRank": -1,
     "serieCount": 48,
     "storyCount": 162
   },
   "secretIdentities": [
-    "Roberto da Costa",
-    "Bobby"
+    "Bobby",
+    "Roberto da Costa"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "X-Force",
-    "Mutant Liberation Front",
-    "Fallen Angels",
-    "X-Men",
-    "Hellfire Club",
-    "X-Corporation",
-    "New Mutants",
-    "Avengers",
-    "Young X-Men",
-    "Costa International",
     "A.I.M",
-    "New Avengers"
+    "Avengers",
+    "Costa International",
+    "Fallen Angels",
+    "Hellfire Club",
+    "Mutant Liberation Front",
+    "New Avengers",
+    "New Mutants",
+    "X-Corporation",
+    "X-Force",
+    "X-Men",
+    "Young X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2252/sunspot",

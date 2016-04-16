@@ -3,9 +3,9 @@
     "William Stryker"
   ],
   "authors": [
-    "ubl|",
     "Chris Claremont",
-    "small|(writer)"
+    "small|(writer)",
+    "ubl|"
   ],
   "description": "William Stryker became convinced that Satan had a plot to corrupt humankind by taking over their souls while still in the womb, resulting in their mutations.",
   "images": {
@@ -25,7 +25,7 @@
   "ranking": {
     "comicCount": 3,
     "eventCount": 0,
-    "pageviewCount": 24014,
+    "pageviewCount": 1670,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 4
@@ -36,9 +36,9 @@
     "Human"
   ],
   "teams": [
+    "Purifiers",
     "Stryker's Crusade",
-    "the Purifiers",
-    "Purifiers"
+    "the Purifiers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/3421/william_stryker",

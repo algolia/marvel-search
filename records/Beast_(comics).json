@@ -1,15 +1,15 @@
 {
   "aliases": [
+    "Beast",
+    "Blue Gorilla",
     "Hank McCoy",
     "Henry McCoy",
-    "Blue Gorilla",
     "Kreature",
-    "Mutate #666",
-    "Beast"
+    "Mutate #666"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Beast (Henry Philip \"Hank\" McCoy) is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
   "images": {
@@ -29,48 +29,49 @@
   "partners": [
   ],
   "powers": [
-    "Animal-like physiology",
-    "Superhuman strength",
-    "Speed",
-    "Stamina",
     "Agility",
-    "Durability",
-    "Senses",
+    "Animal-like physiology",
     "Dexterity",
+    "Durability",
+    "Genius",
     "Genius-level intellect",
     "High pain tolerance",
     "Pheromone manipulation",
     "Razor sharp claws",
+    "Senses",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
     "Teeth"
   ],
   "ranking": {
     "comicCount": 567,
     "eventCount": 21,
-    "pageviewCount": 28638,
+    "pageviewCount": 1929,
     "pageviewRank": -1,
     "serieCount": 161,
     "storyCount": 618
   },
   "secretIdentities": [
-    "Henry Philip McCoy",
-    "Hank"
+    "Hank",
+    "Henry Philip McCoy"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "X-Men",
-    "X-Club",
-    "S.W.O.R.D",
-    "Xavier Institute For Higher Learning",
+    "All New X-Men",
     "Avengers",
     "Defenders",
-    "X-Factor",
-    "X-Terminators",
-    "Secret Avengers",
     "Illuminati",
     "Jean Grey School",
-    "All New X-Men"
+    "S.W.O.R.D",
+    "Secret Avengers",
+    "X-Club",
+    "X-Factor",
+    "X-Men",
+    "X-Terminators",
+    "Xavier Institute For Higher Learning"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009175/beast",

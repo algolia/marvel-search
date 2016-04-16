@@ -3,11 +3,11 @@
     "Network"
   ],
   "authors": [
-    "Ramon Bachs",
-    "Nunzio DeFilippis",
     "Christina Weir",
+    "Nunzio DeFilippis",
+    "Nunzio DeFilippis and Christina Weir",
     "Paul Jenkins",
-    "Nunzio DeFilippis and Christina Weir"
+    "Ramon Bachs"
   ],
   "description": "Network is the name of three unrelated fictional characters in the Marvel Comics universe.",
   "images": {
@@ -27,23 +27,23 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 654,
+    "pageviewCount": 49,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Valerie Martin",
-    "Sarah Vale"
+    "Sarah Vale",
+    "Valerie Martin"
   ],
   "species": [
-    "Mutant",
-    "Decimation"
+    "Decimation",
+    "Mutant"
   ],
   "teams": [
     "Alpha Squadron",
-    "X-Mansion",
     "Alpha Squadron training squad",
+    "X-Mansion",
     "Xavier Institute"
   ],
   "urls": {

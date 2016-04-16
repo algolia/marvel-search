@@ -1,19 +1,19 @@
 {
   "aliases": [
-    "Count Dracula",
-    "Justin Drake",
-    "Dr. Vlad",
-    "Vlad III the Impaler",
-    "Dagon",
-    "Count Orlok",
     "Alucard",
+    "Count Dracula",
+    "Count Orlok",
+    "Dagon",
     "Dondora",
+    "Dr. Vlad",
+    "Dracula",
     "Frank Drake",
-    "Dracula"
+    "Justin Drake",
+    "Vlad III the Impaler"
   ],
   "authors": [
-    "Gerry Conway",
-    "Gene Colan"
+    "Gene Colan",
+    "Gerry Conway"
   ],
   "description": "Dracula is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
   "images": {
@@ -28,27 +28,27 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
+    "Agility",
+    "Genius-level intellect",
+    "Hand-to-hand combatant",
+    "Hypnosis",
+    "Immortality",
+    "Levitation",
+    "Mind control",
+    "Reflexes",
+    "Shapeshifting",
+    "Skilled swordsman",
     "Speed",
     "Stamina",
-    "Agility",
-    "Reflexes",
-    "Immortality",
-    "Mind control",
+    "Superhuman strength",
     "Telepathy",
-    "Weather modification",
-    "Skilled swordsman",
-    "Hand-to-hand combatant",
-    "Shapeshifting",
-    "Genius-level intellect",
     "Weather control",
-    "Levitation",
-    "Hypnosis"
+    "Weather modification"
   ],
   "ranking": {
     "comicCount": 37,
     "eventCount": 1,
-    "pageviewCount": 9993,
+    "pageviewCount": 549,
     "pageviewRank": -1,
     "serieCount": 23,
     "storyCount": 57
@@ -61,9 +61,9 @@
     "Vampire"
   ],
   "teams": [
+    "Defenders",
     "Legion of the Unliving",
     "Vampire",
-    "Defenders",
     "Vampires"
   ],
   "urls": {

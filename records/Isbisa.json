@@ -5,10 +5,10 @@
     "Isbisa"
   ],
   "authors": [
-    "Writer Bill Finger; artist co-creator unknown",
-    "Writer",
+    "; artist co-creator unknown",
     "Bill Finger",
-    "; artist co-creator unknown"
+    "Writer",
+    "Writer Bill Finger; artist co-creator unknown"
   ],
   "description": "Isbisa is a fictional supervillain in the Marvel Comics universe.",
   "images": {
@@ -19,11 +19,11 @@
   "mainColor": null,
   "name": "Isbisa",
   "partners": [
-    "Porky",
-    "Shut-Eye",
     "Black Patch",
     "Calcium Master",
-    "James Flore"
+    "James Flore",
+    "Porky",
+    "Shut-Eye"
   ],
   "powers": [
     "Expertise in chemistry",
@@ -32,7 +32,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 321,
+    "pageviewCount": 17,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

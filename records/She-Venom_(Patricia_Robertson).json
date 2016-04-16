@@ -1,14 +1,14 @@
 {
   "aliases": [
+    "Alien Costume",
     "She-Venom",
     "Spider-Man",
-    "The Black Suit",
-    "Alien Costume"
+    "The Black Suit"
   ],
   "authors": [
-    "Randy Schueller (original idea)",
     "David Michelinie",
     "Mike Zeck",
+    "Randy Schueller (original costume idea)",
     "Todd McFarlane"
   ],
   "images": {
@@ -21,28 +21,28 @@
   "partners": [
   ],
   "powers": [
+    "Camouflage",
+    "Invisibility",
     "Limited",
     "Shapeshifting",
-    "Invisibility",
-    "Through",
-    "Camouflage"
+    "Through"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 86,
+    "pageviewCount": 8,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Peter Parker",
-    "Eddie Brock",
-    "Ann Weying",
-    "Patricia Robertson",
     "Angelo Fortunato",
+    "Ann Weying",
+    "Eddie Brock",
+    "Flash Thompson",
     "Mac Gargan",
-    "Flash Thompson"
+    "Patricia Robertson",
+    "Peter Parker"
   ],
   "species": [
   ],

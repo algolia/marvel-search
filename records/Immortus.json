@@ -1,16 +1,16 @@
 {
   "aliases": [
-    "Pharaoh Rama-Tut",
-    "Victor Timely",
+    "Immortus",
     "Iron Lad",
     "Kang the Conqueror",
-    "Whisperer",
+    "Pharaoh Rama-Tut",
     "Scarlet Centurion",
-    "Immortus"
+    "Victor Timely",
+    "Whisperer"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Immortus (Nathaniel Richards) is a fictional character in the Marvel Universe.",
   "images": {
@@ -25,15 +25,15 @@
   "partners": [
   ],
   "powers": [
-    "Immortality",
-    "Energy blasts",
     "Endurance",
+    "Energy blasts",
+    "Immortality",
     "Time manipulation"
   ],
   "ranking": {
     "comicCount": 7,
     "eventCount": 0,
-    "pageviewCount": 4053,
+    "pageviewCount": 234,
     "pageviewRank": -1,
     "serieCount": 4,
     "storyCount": 6
@@ -44,10 +44,10 @@
   "species": [
   ],
   "teams": [
-    "Church Of Immortus",
     "Badoon",
-    "The Time Keepers",
-    "The Brotherhood of Badoon"
+    "Church Of Immortus",
+    "The Brotherhood of Badoon",
+    "The Time Keepers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1051/iron_lad",

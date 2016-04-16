@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Willow",
     "Lorelei",
     "Mandy Celestine",
-    "Mantis"
+    "Mantis",
+    "Willow"
   ],
   "authors": [
-    "Steve Englehart",
-    "Don Heck"
+    "Don Heck",
+    "Steve Englehart"
   ],
   "description": "Mantis is a fictional character, a superhero in the Marvel Universe, and former member of the Avengers.",
   "images": {
@@ -22,16 +22,16 @@
   "partners": [
   ],
   "powers": [
-    "Empathy",
-    "Astral projection",
-    "Plant manipulation",
     "Accelerated",
-    "Healing factor"
+    "Astral projection",
+    "Empathy",
+    "Healing factor",
+    "Plant manipulation"
   ],
   "ranking": {
     "comicCount": 9,
     "eventCount": 2,
-    "pageviewCount": 21954,
+    "pageviewCount": 1242,
     "pageviewRank": -1,
     "serieCount": 5,
     "storyCount": 9
@@ -43,9 +43,9 @@
   "species": [
   ],
   "teams": [
-    "West Coast Avengers",
     "Avengers",
-    "Guardians of the Galaxy"
+    "Guardians of the Galaxy",
+    "West Coast Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1366/mantis",

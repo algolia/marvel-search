@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Mr. Dunn",
-    "Masked Marauder"
+    "Masked Marauder",
+    "Mr. Dunn"
   ],
   "authors": [
-    "Stan Lee",
     "Frank Giacoia",
-    "John Romita, Sr."
+    "John Romita, Sr.",
+    "Stan Lee"
   ],
   "description": "The Masked Marauder is a fictional comic book character owned by Marvel Comics and appearing in that company's Marvel Universe.",
   "images": {
@@ -19,15 +19,15 @@
   "partners": [
   ],
   "powers": [
+    "Genius engineer",
     "Skilled inventor",
-    "Wields various weapons",
     "Trained martial artist",
-    "Genius engineer"
+    "Wields various weapons"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 949,
+    "pageviewCount": 57,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

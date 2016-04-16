@@ -5,8 +5,8 @@
   "authors": [
     "Chris Claremont",
     "Dave Cockrum",
-    "Whilce Portacio",
-    "John Byrne"
+    "John Byrne",
+    "Whilce Portacio"
   ],
   "description": "Mikhail Nikolaievitch Rasputin is a Marvel Comics supervillain, older brother of Colossus of the X-Men and Magik of the New Mutants.",
   "images": {
@@ -21,16 +21,16 @@
   "partners": [
   ],
   "powers": [
-    "Energy blasts",
-    "Teleportation",
-    "Matter manipulation",
     "Energy blast",
-    "Portal creation"
+    "Energy blasts",
+    "Matter manipulation",
+    "Portal creation",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 3910,
+    "pageviewCount": 189,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -42,11 +42,11 @@
     "Mutant"
   ],
   "teams": [
-    "Morlocks",
-    "The Twelve",
     "Astronaut",
+    "Gene Nation",
+    "Morlocks",
     "Russian Cosmonaut program",
-    "Gene Nation"
+    "The Twelve"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2745/mikhail_rasputin",

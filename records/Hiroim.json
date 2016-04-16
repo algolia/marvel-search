@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Hiroim the Shamed",
+    "Hiroim",
     "Hiroim the Last Oldstrong",
-    "Hiroim"
+    "Hiroim the Shamed"
   ],
   "authors": [
-    "Greg Pak",
-    "Carlo Pagulayan"
+    "Carlo Pagulayan",
+    "Greg Pak"
   ],
   "description": "Hiroim is a fictional, comic-book character who appears in books published by Marvel Comics, usually as a supporting character in Hulk books.",
   "images": {
@@ -27,7 +27,7 @@
   "ranking": {
     "comicCount": 1,
     "eventCount": 1,
-    "pageviewCount": 1798,
+    "pageviewCount": 103,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 1
@@ -39,8 +39,8 @@
     "Shadow People"
   ],
   "teams": [
-    "Warbound",
-    "Shadow Guard"
+    "Shadow Guard",
+    "Warbound"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/962/hiroim",

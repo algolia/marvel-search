@@ -3,9 +3,9 @@
     "Elixir"
   ],
   "authors": [
+    "Christina Weir",
     "Keron Grant",
-    "Nunzio DeFilippis",
-    "Christina Weir"
+    "Nunzio DeFilippis"
   ],
   "description": "Elixir (Joshua \"Josh\" Foley), is a fictional character, a mutant in the Marvel Comics Universe and a student at the Xavier Institute.",
   "images": {
@@ -25,27 +25,27 @@
   "ranking": {
     "comicCount": 6,
     "eventCount": 1,
-    "pageviewCount": 8403,
+    "pageviewCount": 570,
     "pageviewRank": -1,
     "serieCount": 3,
     "storyCount": 5
   },
   "secretIdentities": [
-    "Joshua Foley",
-    "Josh"
+    "Josh",
+    "Joshua Foley"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "Reavers",
-    "New X-Men",
-    "X-Force",
-    "X-Mansion",
     "New Mutants",
     "New Mutants training squad",
-    "Xavier Institute",
-    "X-Men-In-Training"
+    "New X-Men",
+    "Reavers",
+    "X-Force",
+    "X-Mansion",
+    "X-Men-In-Training",
+    "Xavier Institute"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/608/elixir",

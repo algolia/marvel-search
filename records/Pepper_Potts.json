@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Virginia Potts",
-    "Hera",
-    "Rescue",
     "Coast Guard",
+    "Hera",
     "Pepper Potts",
-    "Virginia 'Pepper' Potts"
+    "Rescue",
+    "Virginia 'Pepper' Potts",
+    "Virginia Potts"
   ],
   "authors": [
     "Don Heck",
@@ -28,21 +28,21 @@
   "ranking": {
     "comicCount": 27,
     "eventCount": 0,
-    "pageviewCount": 21126,
+    "pageviewCount": 1417,
     "pageviewRank": -1,
     "serieCount": 7,
     "storyCount": 31
   },
   "secretIdentities": [
-    "Virginia Potts",
-    "Pepper"
+    "Pepper",
+    "Virginia Potts"
   ],
   "species": [
   ],
   "teams": [
-    "The Order",
     "Stark Industries",
-    "The Initiative"
+    "The Initiative",
+    "The Order"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2761/pepper_potts",

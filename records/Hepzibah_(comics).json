@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Mam'selle Hepzibah",
-    "Zee",
+    "Hepzibah",
     "Lady Kitten",
-    "Hepzibah"
+    "Mam'selle Hepzibah",
+    "Zee"
   ],
   "authors": [
-    "Dave Cockrum",
-    "Chris Claremont"
+    "Chris Claremont",
+    "Dave Cockrum"
   ],
   "description": "Hepzibah is a fictional character in the Marvel Comics universe.",
   "images": {
@@ -22,19 +22,19 @@
   "partners": [
   ],
   "powers": [
-    "Enhanced agility",
-    "Speed",
-    "Reflexes",
-    "Coordination",
     "Balance",
-    "Retractable claws",
+    "Coordination",
+    "Enhanced agility",
     "Hyper-keen senses",
-    "Night vision"
+    "Night vision",
+    "Reflexes",
+    "Retractable claws",
+    "Speed"
   ],
   "ranking": {
     "comicCount": 36,
     "eventCount": 2,
-    "pageviewCount": 2723,
+    "pageviewCount": 178,
     "pageviewRank": -1,
     "serieCount": 12,
     "storyCount": 32
@@ -45,8 +45,8 @@
   ],
   "teams": [
     "Starjammers",
-    "X-Men",
-    "X-Force"
+    "X-Force",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/950/hepzibah",

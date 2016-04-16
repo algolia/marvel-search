@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Lucas Bishop",
-    "Bishop"
+    "Bishop",
+    "Lucas Bishop"
   ],
   "authors": [
-    "Whilce Portacio",
-    "Jim Lee"
+    "Jim Lee",
+    "Whilce Portacio"
   ],
   "description": "Bishop (Lucas Bishop) is a fictional comic book superhero, appearing in books published by Marvel Comics, in particular the X-Men family of books.Bishop was a member of Xavier's Security Enforcers (initially called the Xavier School Enforcers), a mutant police force from a dystopian future of the Marvel Universe.",
   "images": {
@@ -26,7 +26,7 @@
   "ranking": {
     "comicCount": 240,
     "eventCount": 8,
-    "pageviewCount": 21995,
+    "pageviewCount": 1526,
     "pageviewRank": -1,
     "serieCount": 58,
     "storyCount": 295
@@ -39,13 +39,13 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men",
-    "Xavier's Security Enforcers",
     "Interpol",
-    "The Twelve",
-    "X-Treme Sanctions Executive",
     "NYPD",
-    "X-Treme X-Men"
+    "The Twelve",
+    "X-Men",
+    "X-Treme Sanctions Executive",
+    "X-Treme X-Men",
+    "Xavier's Security Enforcers"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009182/bishop",

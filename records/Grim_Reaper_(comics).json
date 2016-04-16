@@ -3,8 +3,8 @@
     "Grim Reaper"
   ],
   "authors": [
-    "Roy Thomas",
-    "John Buscema"
+    "John Buscema",
+    "Roy Thomas"
   ],
   "description": "Grim Reaper (Eric Williams) is a fictional character, a comic book supervillain in books published by Marvel Comics.",
   "images": {
@@ -17,27 +17,27 @@
   "mainColor": null,
   "name": "Grim Reaper",
   "partners": [
-    "Erik Josten",
-    "Ultron",
-    "Space Phantom",
     "Black Talon",
+    "Erik Josten",
+    "Goliath",
     "Man-Ape",
     "Nekra",
-    "Goliath"
+    "Space Phantom",
+    "Ultron"
   ],
   "powers": [
-    "Illusion casting",
+    "Anesthetic gas pellets",
     "Clairvoyance",
+    "Illusion casting",
+    "Induce deep comas",
     "Necromancy",
     "Project energy blasts",
-    "Anesthetic gas pellets",
-    "Induce deep comas",
     "Teleportation"
   ],
   "ranking": {
     "comicCount": 22,
     "eventCount": 1,
-    "pageviewCount": 8381,
+    "pageviewCount": 460,
     "pageviewRank": -1,
     "serieCount": 14,
     "storyCount": 20
@@ -49,12 +49,12 @@
   ],
   "teams": [
     "Horsemen of Apocalypse",
-    "Maggia",
-    "Sinister Six",
-    "Legion of the Unliving",
+    "Horsemen of Death",
     "Hydra",
+    "Legion of the Unliving",
     "Lethal Legion",
-    "Horsemen of Death"
+    "Maggia",
+    "Sinister Six"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2710/grim_reaper",

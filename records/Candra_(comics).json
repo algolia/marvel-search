@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Kandra",
-    "the Benefactress",
+    "Candra",
     "Candra of the Floating Spires",
-    "Candra"
+    "Kandra",
+    "the Benefactress"
   ],
   "authors": [
-    "Lee Weeks",
-    "Howard Mackie"
+    "Howard Mackie",
+    "Lee Weeks"
   ],
   "description": "Candra, sometimes called Kandra is a fictional character, a Mutant supervillainess appearing in Marvel Comics universe.She is a member of the Externals and has exhibited immensely powerful telekinetic abilities in addition to being immortal.",
   "images": {
@@ -20,17 +20,17 @@
   "partners": [
   ],
   "powers": [
+    "Accelerated",
+    "Healing factor",
+    "Psychokinesis",
     "Pyrokinesis",
     "Slowed aging process",
-    "Psychokinesis",
-    "Telekinesis",
-    "Accelerated",
-    "Healing factor"
+    "Telekinesis"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1822,
+    "pageviewCount": 143,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -41,9 +41,9 @@
     "Mutant"
   ],
   "teams": [
+    "Assassins' Guild",
     "Externals",
-    "Thieves Guild",
-    "Assassins' Guild"
+    "Thieves Guild"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Candra_(comics)"

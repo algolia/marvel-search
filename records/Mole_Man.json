@@ -4,8 +4,8 @@
     "Mole Man"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "The Mole Man is a fictional character, a comic book supervillain that exists in Marvel Universe.",
   "images": {
@@ -18,24 +18,24 @@
   "mainColor": null,
   "name": "Mole Man",
   "partners": [
-    "Red Ghost",
+    "Hulk",
     "Kala",
-    "Thing",
-    "Hulk"
+    "Red Ghost",
+    "Thing"
   ],
   "powers": [
+    "Bōjutsu",
     "Genius-level intellect",
-    "Radar senses",
     "Highly developed",
-    "Radar",
     "Martial art",
     "Of",
-    "Bōjutsu"
+    "Radar",
+    "Radar senses"
   ],
   "ranking": {
     "comicCount": 41,
     "eventCount": 1,
-    "pageviewCount": 4653,
+    "pageviewCount": 303,
     "pageviewRank": -1,
     "serieCount": 26,
     "storyCount": 35
@@ -46,8 +46,8 @@
   "species": [
   ],
   "teams": [
-    "Subterranea",
-    "Outcasts"
+    "Outcasts",
+    "Subterranea"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1484/mole_man",

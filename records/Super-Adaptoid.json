@@ -5,8 +5,8 @@
     "Super-Adaptoid"
   ],
   "authors": [
-    "Jack Kirby",
     "Gene Colan",
+    "Jack Kirby",
     "Stan Lee"
   ],
   "description": "The Super-Adaptoid was created by the organization known as A.I.M. using a piece of the Cosmic Cube.",
@@ -26,7 +26,7 @@
   "ranking": {
     "comicCount": 7,
     "eventCount": 0,
-    "pageviewCount": 3175,
+    "pageviewCount": 212,
     "pageviewRank": -1,
     "serieCount": 7,
     "storyCount": 8
@@ -37,10 +37,10 @@
   "species": [
   ],
   "teams": [
-    "Advanced Idea Mechanics",
-    "Phalanx",
     "A.I.M",
-    "Heavy Metal"
+    "Advanced Idea Mechanics",
+    "Heavy Metal",
+    "Phalanx"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2256/super-adaptoid",

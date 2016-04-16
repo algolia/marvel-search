@@ -1,15 +1,15 @@
 {
   "aliases": [
     "Charles Xavier",
-    "Professor Charles Xavier",
-    "Onslaught",
     "Consort-Royal",
-    "Founder",
-    "Warlord",
-    "Entity",
-    "Professor X",
     "Doctor X",
-    "Prisoner M-13"
+    "Entity",
+    "Founder",
+    "Onslaught",
+    "Prisoner M-13",
+    "Professor Charles Xavier",
+    "Professor X",
+    "Warlord"
   ],
   "authors": [
     "Jack Kirby",
@@ -28,27 +28,32 @@
   "partners": [
   ],
   "powers": [
-    "Genius-level intellect",
-    "Telepathy",
-    "Empathy",
-    "Mind reading",
-    "Control",
-    "Memory alteration",
-    "Erasure",
-    "Mental bolts",
-    "Psionic blasts",
-    "Induced paralysis",
-    "Illusion casting",
-    "Great tactician",
-    "Strategist",
     "Astral projection",
+    "Control",
     "Eidetic memory",
-    "Hypnosis"
+    "Empathy",
+    "Erasure",
+    "Extending to mind reading",
+    "Genius-level intellect",
+    "Great tactician",
+    "Illusion casting",
+    "Induced paralysis",
+    "Memory alteration",
+    "Memory manipulation",
+    "Mental bolts",
+    "Mind control",
+    "Mind reading",
+    "Offensive psychic attacks",
+    "Psionic blasts",
+    "Strategist",
+    "Telepathic abilities",
+    "Telepathy",
+    "Vast"
   ],
   "ranking": {
     "comicCount": 296,
     "eventCount": 15,
-    "pageviewCount": 48766,
+    "pageviewCount": 3411,
     "pageviewRank": -1,
     "serieCount": 112,
     "storyCount": 286
@@ -60,18 +65,15 @@
     "Mutant"
   ],
   "teams": [
-    "Skrull",
-    "The Twelve",
-    "Defenders",
-    "X-Men",
-    "Illuminati",
     "Brotherhood of Mutants",
+    "Defenders",
     "Excalibur",
+    "Illuminati",
     "Shi'ar",
+    "Skrull",
     "Starjammers",
-    "Genoshan Excalibur",
-    "Cadre K",
-    "Shi'ar Imperium"
+    "The Twelve",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009504/professor_x",

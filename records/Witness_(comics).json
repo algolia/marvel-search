@@ -1,15 +1,15 @@
 {
   "aliases": [
+    "Avenger of Evil",
     "Judge",
     "Juror",
-    "Avenger of Evil",
     "The Witness",
     "Witness"
   ],
   "authors": [
+    "Mark Gruenwald",
     "Paul Ryan",
-    "Stan Lee",
-    "Mark Gruenwald"
+    "Stan Lee"
   ],
   "description": "The Witness is the name of at least three fictional, American comic-book characters, the first published by Timely Comics in the 1940s and the final two by its successor company, Marvel Comics.",
   "images": {
@@ -22,18 +22,18 @@
   "partners": [
   ],
   "powers": [
-    "Invisible",
-    "Intangible",
-    "Strength",
-    "Speed",
     "Durability",
     "Energy projection",
-    "Fighting skills"
+    "Fighting skills",
+    "Intangible",
+    "Invisible",
+    "Speed",
+    "Strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 495,
+    "pageviewCount": 37,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

@@ -4,9 +4,9 @@
     "Mimic"
   ],
   "authors": [
-    "Stan Lee",
-    "Mike McKone",
     "Judd Winick",
+    "Mike McKone",
+    "Stan Lee",
     "Werner Roth"
   ],
   "description": "Mimic (Calvin Montgomery Rankin) is a Marvel Comics fictional character who was briefly a member of the X-Men in the 1960s.",
@@ -22,27 +22,27 @@
   "partners": [
   ],
   "powers": [
-    "The eye beams of cyclops",
-    "Jean grey",
-    "The power to manipulate",
-    "Control ice of iceman",
-    "Power mimicry",
-    "Angel",
-    "'s flight",
-    "Beast",
-    "Cyclops",
-    "'s optic force blasts",
-    "Xavier",
     "'s and",
-    "'s psychic powers",
-    "Iceman",
+    "'s flight",
     "'s ice control",
-    "Manipulation"
+    "'s optic force blasts",
+    "'s psychic powers",
+    "Angel",
+    "Beast",
+    "Control ice of iceman",
+    "Cyclops",
+    "Iceman",
+    "Jean grey",
+    "Manipulation",
+    "Power mimicry",
+    "The eye beams of cyclops",
+    "The power to manipulate",
+    "Xavier"
   ],
   "ranking": {
     "comicCount": 35,
     "eventCount": 1,
-    "pageviewCount": 5174,
+    "pageviewCount": 389,
     "pageviewRank": -1,
     "serieCount": 14,
     "storyCount": 37
@@ -51,15 +51,15 @@
     "Calvin Montgomery Rankin"
   ],
   "species": [
-    "Mutant",
-    "Human Mutate"
+    "Human Mutate",
+    "Mutant"
   ],
   "teams": [
-    "X-Men",
     "Brotherhood of Mutants",
-    "X-Mansion",
     "Dark X-Men",
-    "Jean Grey School"
+    "Jean Grey School",
+    "X-Mansion",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1460/mimic",

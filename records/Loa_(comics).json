@@ -23,7 +23,7 @@
   "ranking": {
     "comicCount": 5,
     "eventCount": 1,
-    "pageviewCount": 1485,
+    "pageviewCount": 83,
     "pageviewRank": -1,
     "serieCount": 3,
     "storyCount": 7
@@ -35,13 +35,13 @@
     "Mutant"
   ],
   "teams": [
+    "Alpha Squadron",
+    "Alpha Squadron training squad",
     "Avengers Academy",
     "Defenders",
-    "Alpha Squadron",
     "X-Mansion",
-    "Alpha Squadron training squad",
-    "Xavier Institute",
-    "X-Men-In-Training"
+    "X-Men-In-Training",
+    "Xavier Institute"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1263/loa",

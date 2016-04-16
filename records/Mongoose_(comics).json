@@ -19,20 +19,20 @@
   "partners": [
   ],
   "powers": [
-    "Wears claws",
-    "Gas pellets",
-    "Superhuman senses",
-    "Strength",
-    "Speed",
     "Agility",
+    "Endurance",
     "Flexibility",
+    "Gas pellets",
     "Reflexes",
-    "Endurance"
+    "Speed",
+    "Strength",
+    "Superhuman senses",
+    "Wears claws"
   ],
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 779,
+    "pageviewCount": 52,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 1
@@ -44,10 +44,10 @@
     "Uplifted Mongoose"
   ],
   "teams": [
-    "Thunderbolts",
-    "New Men",
     "Masters of Evil",
-    "New Men/Knights of Wundagore"
+    "New Men",
+    "New Men/Knights of Wundagore",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1489/mongoose",

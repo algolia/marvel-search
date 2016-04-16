@@ -3,9 +3,9 @@
     "Miss America"
   ],
   "authors": [
-    "Otto BinderAl Gabriele",
+    "Al Gabriele",
     "Otto Binder",
-    "Al Gabriele"
+    "Otto BinderAl Gabriele"
   ],
   "description": "Miss America (Madeline Joyce Frank) is a superhero fictional character in comic books published by Marvel Comics.",
   "images": {
@@ -20,16 +20,16 @@
   "partners": [
   ],
   "powers": [
-    "X-ray vision",
-    "Superhuman strengthflight",
-    "Superhuman strength",
+    "Enhanced stamina",
     "Flight",
-    "Enhanced stamina"
+    "Superhuman strength",
+    "Superhuman strengthflight",
+    "X-ray vision"
   ],
   "ranking": {
     "comicCount": 41,
     "eventCount": 0,
-    "pageviewCount": 14708,
+    "pageviewCount": 882,
     "pageviewRank": -1,
     "serieCount": 4,
     "storyCount": 41
@@ -40,8 +40,8 @@
   "species": [
   ],
   "teams": [
-    "Invaders",
     "All-Winners Squad",
+    "Invaders",
     "Liberty Legion"
   ],
   "urls": {

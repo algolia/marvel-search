@@ -1,19 +1,19 @@
 {
   "aliases": [
-    "Spectrum",
     "Captain Marvel",
-    "Photon",
-    "Pulsar",
     "Daystar",
-    "Sceptre",
     "Lady of Light",
     "Monica Marvel",
-    "Sun Goddess",
-    "Monica Rambeau"
+    "Monica Rambeau",
+    "Photon",
+    "Pulsar",
+    "Sceptre",
+    "Spectrum",
+    "Sun Goddess"
   ],
   "authors": [
-    "Roger Stern",
-    "John Romita, Jr."
+    "John Romita, Jr.",
+    "Roger Stern"
   ],
   "description": "Monica Rambeau is a fictional character, a comic book superheroine in the Marvel Comics universe.",
   "images": {
@@ -28,13 +28,13 @@
   "partners": [
   ],
   "powers": [
-    "Energy generation",
-    "Absorption & manipulation"
+    "Absorption & manipulation",
+    "Energy generation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 13048,
+    "pageviewCount": 724,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -45,11 +45,11 @@
   "species": [
   ],
   "teams": [
-    "Nextwave",
-    "New Orleans Harbor Patrol",
-    "The Mighty Avengers",
     "Avengers",
     "Mighty Avengers",
+    "New Orleans Harbor Patrol",
+    "Nextwave",
+    "The Mighty Avengers",
     "Ultimates"
   ],
   "urls": {

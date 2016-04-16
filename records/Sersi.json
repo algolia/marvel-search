@@ -1,10 +1,10 @@
 {
   "aliases": [
     "Circe",
-    "Sylvia Sersi",
     "Mesmer",
+    "Sersi",
     "Sorceress",
-    "Sersi"
+    "Sylvia Sersi"
   ],
   "authors": [
     "Jack Kirby"
@@ -22,18 +22,18 @@
   "partners": [
   ],
   "powers": [
-    "Molecular",
     "Atomic manipulation",
+    "Durability",
     "Flight",
     "Immortality",
+    "Molecular",
     "Psionic powers",
-    "Superhuman strength",
-    "Durability"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 26,
     "eventCount": 1,
-    "pageviewCount": 5437,
+    "pageviewCount": 233,
     "pageviewRank": -1,
     "serieCount": 18,
     "storyCount": 26
@@ -45,11 +45,11 @@
     "Eternal"
   ],
   "teams": [
+    "Avengers",
     "Eternals",
     "God Squad",
-    "New Breed",
     "Heroes for Hire",
-    "Avengers"
+    "New Breed"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2053/sersi",

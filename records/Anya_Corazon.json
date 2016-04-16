@@ -1,10 +1,10 @@
 {
   "aliases": [
-    "Arañita",
-    "the Hunter",
-    "Spider-Girl",
+    "Anya Corazon",
     "Araña",
-    "Anya Corazon"
+    "Arañita",
+    "Spider-Girl",
+    "the Hunter"
   ],
   "authors": [
     "Fiona Avery",
@@ -21,20 +21,26 @@
   "mainColor": null,
   "name": "Spider-Girl (Anya Corazon)",
   "partners": [
+    "Ms. Marvel",
     "Spider-Man",
-    "Ms. Marvel"
+    "Spider-Woman"
   ],
   "powers": [
-    "Superhuman strength",
+    "Agility",
+    "Balance",
+    "Coordination",
+    "Create a blue",
+    "Endurance",
+    "Reflexes/reactions",
     "Speed",
     "Stamina",
-    "Agility",
-    "Reflexes"
+    "Superhuman strength",
+    "Symbiote"
   ],
   "ranking": {
     "comicCount": 34,
     "eventCount": 1,
-    "pageviewCount": 7584,
+    "pageviewCount": 458,
     "pageviewRank": -1,
     "serieCount": 8,
     "storyCount": 43
@@ -45,11 +51,15 @@
   "species": [
   ],
   "teams": [
+    "Avengers Academy",
+    "Civil War",
+    "SHRA Training Program",
+    "Spider-Verse",
+    "The Spider Society",
+    "Web Warriors",
     "WebCorps",
     "Young Allies",
-    "The Spider Society",
-    "Avengers Academy",
-    "Civil War"
+    "Young Allies (Heroic Age)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2171/spider-girl",

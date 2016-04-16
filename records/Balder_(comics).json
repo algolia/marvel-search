@@ -1,11 +1,12 @@
 {
   "aliases": [
+    "Balder",
     "Balder the Brave",
-    "Balder"
+    "actual identities the character uses"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Balder the Brave is a fictional character that appears in comic books published by Marvel Comics, based on the deity Baldr from Norse mythology.",
   "images": {
@@ -18,17 +19,19 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Stamina",
     "Durability",
-    "Virtual immortality",
+    "Light manipulation",
+    "Light projection",
     "Longevity",
-    "Light projection"
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Virtual immortality"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 4300,
+    "pageviewCount": 245,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

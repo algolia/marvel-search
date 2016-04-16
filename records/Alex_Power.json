@@ -1,18 +1,18 @@
 {
   "aliases": [
-    "Gee",
+    "Alex Power",
     "Destroyer",
+    "Gee",
     "Mass Master",
-    "Powerpax",
     "Powerhouse",
-    "Zero-G",
-    "Alex Power"
+    "Powerpax",
+    "Zero-G"
   ],
   "authors": [
     "June Brigman",
     "Louise Simonson"
   ],
-  "description": "Alexander \"Alex\" Power (also known as Zero-G) is a fictional character in the Marvel Universe.",
+  "description": "Alexander \"Alex\" Power (also known as Zero-G) is a fictional character in Marvel Comics.",
   "images": {
     "background": null,
     "banner": null,
@@ -25,20 +25,19 @@
   "partners": [
   ],
   "powers": [
-    "Telekinesis",
-    "Healing powers",
-    "Controlling gravity",
     "Acceleration/flight",
-    "Control over his own mass",
-    "Size",
-    "Disintegrating",
-    "Absorbing",
-    "Releasing energy"
+    "Density",
+    "Disintegration",
+    "Energy absorption",
+    "Gravity manipulation",
+    "Healing powers",
+    "Projection",
+    "Size manipulation"
   ],
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 2398,
+    "pageviewCount": 175,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 1
@@ -49,9 +48,9 @@
   "species": [
   ],
   "teams": [
-    "Power Pack",
     "Future Foundation",
-    "New Warriors"
+    "New Warriors",
+    "Power Pack"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1387/alex_power",

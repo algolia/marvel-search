@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Minotaur",
-    "Mini"
+    "Mini",
+    "Minotaur"
   ],
   "authors": [
-    "Julia Coppola",
+    "Chris Matonti",
     "J.D. Matonti",
-    "Chris Matonti"
+    "Julia Coppola"
   ],
   "description": "Minotaur or Mini is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics.",
   "images": {
@@ -25,7 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 186,
+    "pageviewCount": 8,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -37,8 +37,8 @@
   ],
   "teams": [
     "A.P.N.G",
-    "Gabriel",
-    "A.P.N.G., Gabriel"
+    "A.P.N.G., Gabriel",
+    "Gabriel"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Minotaur_(New-Gen)"

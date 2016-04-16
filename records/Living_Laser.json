@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "The Living Laser",
-    "Living Laser"
+    "Living Laser",
+    "The Living Laser"
   ],
   "authors": [
-    "Don Heck",
-    "Stan Lee",
+    "Art Simek",
     "Artie Simek",
-    "Art Simek"
+    "Don Heck",
+    "Stan Lee"
   ],
   "description": "The Living Laser is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
   "images": {
@@ -20,18 +20,18 @@
   "partners": [
   ],
   "powers": [
-    "Genius level intellect",
-    "Limited telepathy",
-    "Illusion generation",
-    "Gifted research scientist",
     "Energy absorption",
+    "Genius level intellect",
+    "Gifted research scientist",
+    "Illusion generation",
+    "Limited telepathy",
     "Projection",
     "Travel at light speeds"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2922,
+    "pageviewCount": 199,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -43,8 +43,8 @@
   ],
   "teams": [
     "Legion Accursed",
-    "Mandarin's Minions",
-    "Lethal Legion"
+    "Lethal Legion",
+    "Mandarin's Minions"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Living_Laser"

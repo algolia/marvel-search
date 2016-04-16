@@ -3,8 +3,8 @@
     "Naga"
   ],
   "authors": [
-    "Roy Thomas",
-    "Marie Severin"
+    "Marie Severin",
+    "Roy Thomas"
   ],
   "description": "Naga is a fictional character and Marvel Comics supervillain.",
   "images": {
@@ -16,16 +16,16 @@
   "partners": [
   ],
   "powers": [
-    "Super strength",
-    "Mind control",
-    "Teleportation",
     "Immortality",
-    "Serpent crown"
+    "Mind control",
+    "Serpent crown",
+    "Super strength",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 720,
+    "pageviewCount": 43,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -36,8 +36,8 @@
   "species": [
   ],
   "teams": [
-    "Features of the Marvel Universe",
     "Father Set",
+    "Features of the Marvel Universe",
     "Lemuria",
     "Set"
   ],

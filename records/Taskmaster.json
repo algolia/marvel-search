@@ -22,20 +22,20 @@
   ],
   "powers": [
     "Deadly marksman",
-    "Voice mimicry",
-    "Photographic reflexes",
-    "Genius level intellect",
-    "Expert tactician",
     "Exceptional athlete",
-    "Martial artist",
-    "Skilled swordsman",
+    "Expert tactician",
+    "Genius level intellect",
     "Marksman",
-    "Master of disguise"
+    "Martial artist",
+    "Master of disguise",
+    "Photographic reflexes",
+    "Skilled swordsman",
+    "Voice mimicry"
   ],
   "ranking": {
     "comicCount": 50,
     "eventCount": 4,
-    "pageviewCount": 33045,
+    "pageviewCount": 2520,
     "pageviewRank": -1,
     "serieCount": 21,
     "storyCount": 64
@@ -47,18 +47,18 @@
   "species": [
   ],
   "teams": [
-    "Frightful Four",
-    "Advanced Idea Mechanics",
-    "S.H.I.E.L.D",
-    "Cabal",
-    "Agent X",
-    "Thunderbolts",
-    "The Initiative",
-    "Secret Avengers",
     "A.I.M",
+    "Advanced Idea Mechanics",
     "Agency X",
+    "Agent X",
+    "Cabal",
+    "Frightful Four",
     "Initiative",
-    "Shadow Initiative"
+    "S.H.I.E.L.D",
+    "Secret Avengers",
+    "Shadow Initiative",
+    "The Initiative",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009648/taskmaster",

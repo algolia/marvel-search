@@ -1,13 +1,13 @@
 {
   "aliases": [
+    "Attuma",
     "Attuma the Barbarian",
-    "Lords of the Murky Depths",
     "Breaker of Oceans",
-    "Attuma"
+    "Lords of the Murky Depths"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Attuma is a fictional character, a supervillain in the Marvel Comics universe.",
   "images": {
@@ -18,29 +18,32 @@
   "mainColor": null,
   "name": "Attuma",
   "partners": [
-    "Krang",
+    "Byrrah",
+    "Dr. Dorcas",
     "Ghaur",
+    "Krang",
+    "Lemuel Dorcas",
+    "Llyra",
+    "Red Ghost",
     "Tiger Shark",
     "Tyrak",
-    "Red Ghost",
-    "Lemuel Dorcas",
-    "Llyra"
+    "Warlord Krang"
   ],
   "powers": [
-    "Self-propelled flight",
-    "Underwater",
-    "Land adaptation",
-    "High level swimming speed",
-    "Superhuman strength",
     "Agility",
-    "Stamina",
+    "Endurance",
+    "High level swimming speed",
+    "Land adaptation",
     "Reflexes",
-    "Endurance"
+    "Self-propelled flight",
+    "Stamina",
+    "Superhuman strength",
+    "Underwater"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 3945,
+    "pageviewCount": 262,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -52,10 +55,12 @@
     "Homo mermanus"
   ],
   "teams": [
-    "Lethal Legion",
-    "Features of the Marvel Universe",
+    "Atlantis",
+    "Deep Six",
     "Fear Itself",
-    "Deep Six"
+    "Features of the Marvel Universe",
+    "Lethal Legion",
+    "The Worthy"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Attuma"

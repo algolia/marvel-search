@@ -1,11 +1,12 @@
 {
   "aliases": [
-    "Gabriel",
-    "Air-Walker"
+    "Air-Walker",
+    "Archangel Gabriel",
+    "Gabriel"
   ],
   "authors": [
-    "Stan Lee",
-    "John Buscema"
+    "John Buscema",
+    "Stan Lee"
   ],
   "description": "The Air-Walker (Gabriel Lan) (also known as Gabriel the Air-Walker) is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
@@ -20,12 +21,13 @@
   "partners": [
   ],
   "powers": [
-    "Galactus"
+    "Galactus",
+    "Power cosmic"
   ],
   "ranking": {
     "comicCount": 3,
     "eventCount": 0,
-    "pageviewCount": 3193,
+    "pageviewCount": 201,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 2
@@ -38,6 +40,7 @@
   ],
   "teams": [
     "Galactus",
+    "Heralds of Galactus",
     "Nova Corps"
   ],
   "urls": {

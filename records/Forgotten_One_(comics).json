@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Gilgamesh",
-    "Dragon-Slayer",
-    "Hero",
-    "Forgotten Nemesis",
-    "Hercules",
-    "Samson",
     "Atlas",
-    "others unrevealed",
-    "Forgotten One"
+    "Dragon-Slayer",
+    "Forgotten Nemesis",
+    "Forgotten One",
+    "Gilgamesh",
+    "Hercules",
+    "Hero",
+    "Samson",
+    "others unrevealed"
   ],
   "authors": [
     "Jack Kirby"
@@ -26,22 +26,22 @@
   "partners": [
   ],
   "powers": [
-    "Immunity to disease",
-    "Flight",
-    "Optic blasts",
-    "Superhuman strength",
-    "Stamina",
     "Agility",
-    "Reflexes",
     "Durability",
-    "Repressed aging",
+    "Flight",
+    "Healing factor",
+    "Immunity to disease",
+    "Optic blasts",
+    "Reflexes",
     "Regenerative",
-    "Healing factor"
+    "Repressed aging",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 140,
     "eventCount": 10,
-    "pageviewCount": 2323,
+    "pageviewCount": 112,
     "pageviewRank": -1,
     "serieCount": 68,
     "storyCount": 141

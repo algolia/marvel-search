@@ -1,14 +1,17 @@
 {
   "aliases": [
+    "Aldrich Kilian",
+    "Aldrich Killian"
   ],
   "authors": [
-    "Warren Ellis",
-    "Adi Granov"
+    "Adi Granov",
+    "Warren Ellis"
   ],
+  "description": "Aldrich Killian is a fictional character, a scientist appearing in American comic books published by Marvel Comics.The character of Aldrich Killian was adapted for the film Iron Man 3 where he is portrayed by actor Guy Pearce.",
   "images": {
   },
-  "isHero": false,
-  "isVillain": false,
+  "isHero": null,
+  "isVillain": null,
   "mainColor": null,
   "name": "Aldrich Kilian",
   "partners": [
@@ -19,7 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 10077,
+    "pageviewCount": 591,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

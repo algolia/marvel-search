@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Living Planet",
+    "Living Monolith",
     "Living Pharaoh",
-    "The Living Monolith",
-    "Living Monolith"
+    "Living Planet",
+    "The Living Monolith"
   ],
   "authors": [
-    "Neal Adams",
     "Arnold Drake",
     "Don Heck",
+    "Neal Adams",
     "Roy Thomas"
   ],
   "description": "The Living Monolith (Ahmet Abdol) is a fictional character, a supervillain in the Marvel Comics Universe.",
@@ -23,19 +23,19 @@
     "Plasma"
   ],
   "powers": [
-    "Size",
-    "Mass manipulation",
-    "Telepathy",
-    "Energy absorption",
-    "Projection",
-    "Superhuman strength",
     "Durability",
-    "Longevity"
+    "Energy absorption",
+    "Longevity",
+    "Mass manipulation",
+    "Projection",
+    "Size",
+    "Superhuman strength",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 3659,
+    "pageviewCount": 226,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

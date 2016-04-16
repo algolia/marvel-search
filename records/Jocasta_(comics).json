@@ -5,8 +5,8 @@
   ],
   "authors": [
     "George P%C3%A9rez",
-    "Jim Shooter",
-    "George Pérez"
+    "George Pérez",
+    "Jim Shooter"
   ],
   "description": "Jocasta is a fictional, comic book superhero appearing in books published by Marvel Comics.",
   "images": {
@@ -23,16 +23,16 @@
     "Ultron"
   ],
   "powers": [
-    "Superhuman strength",
-    "Optic cannons",
-    "Force field generation",
     "Computer integration",
-    "Enhanced senses"
+    "Enhanced senses",
+    "Force field generation",
+    "Optic cannons",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 54,
     "eventCount": 5,
-    "pageviewCount": 5644,
+    "pageviewCount": 327,
     "pageviewRank": -1,
     "serieCount": 9,
     "storyCount": 53
@@ -44,12 +44,12 @@
     "Mechanoid"
   ],
   "teams": [
-    "The Mighty Avengers",
     "Avengers",
     "Avengers Academy",
     "Fifty State Initiative",
+    "Mavericks",
     "Mighty Avengers",
-    "Mavericks"
+    "The Mighty Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1095/jocasta",

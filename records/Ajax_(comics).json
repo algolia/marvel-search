@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "The Attending",
-    "Ajax"
+    "Ajax",
+    "The Attending"
   ],
   "authors": [
-    "Walter McDaniel",
-    "Peter David",
     "Dale Keown",
-    "Joe Kelly"
+    "Joe Kelly",
+    "Peter David",
+    "Walter A. McDaniel"
   ],
   "description": "Ajax is the codename belonging to two different characters in Marvel Comics, one the descendant of a demigod, the other a mercenary.",
   "images": {
@@ -20,11 +20,20 @@
   "partners": [
   ],
   "powers": [
+    "Agility",
+    "Durability",
+    "Enhanced strength",
+    "Extended lifespan",
+    "High tolerance to pain",
+    "Intuitive capacity",
+    "Reflexes",
+    "Superhuman speed",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 82708,
+    "pageviewCount": 7364,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

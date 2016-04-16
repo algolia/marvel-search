@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Steve Rogers",
-    "Primus"
+    "Primus",
+    "Steve Rogers"
   ],
   "authors": [
-    "Steve Ditko",
-    "Jack Kirby",
     "Archie Goodwin",
-    "John Byrne"
+    "Jack Kirby",
+    "John Byrne",
+    "Steve Ditko"
   ],
   "description": "Primus is the name of three characters in Marvel Comics.",
   "images": {
@@ -21,13 +21,13 @@
   "partners": [
   ],
   "powers": [
-    "Telepathy",
-    "Shapeshifting"
+    "Shapeshifting",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 670,
+    "pageviewCount": 40,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -36,8 +36,8 @@
     "Primus"
   ],
   "species": [
-    "Flb'Dbi",
-    "Android"
+    "Android",
+    "Flb'Dbi"
   ],
   "teams": [
     "Thunderbolts"

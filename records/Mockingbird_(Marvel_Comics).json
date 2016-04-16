@@ -1,10 +1,10 @@
 {
   "aliases": [
-    "Barbara Morse-Barton",
-    "Roberta Morse",
     "Agent 19",
-    "the Huntress",
-    "Mockingbird"
+    "Barbara Morse-Barton",
+    "Mockingbird",
+    "Roberta Morse",
+    "the Huntress"
   ],
   "authors": [
   ],
@@ -22,18 +22,18 @@
     "Hawkeye"
   ],
   "powers": [
+    "Agility",
     "Genius biologist",
-    "Superbly trained athlete",
-    "Gymnast",
-    "Unarmed combatant",
-    "Spy",
     "Greatly enhanced strength",
-    "Agility"
+    "Gymnast",
+    "Spy",
+    "Superbly trained athlete",
+    "Unarmed combatant"
   ],
   "ranking": {
     "comicCount": 35,
     "eventCount": 3,
-    "pageviewCount": 39968,
+    "pageviewCount": 2041,
     "pageviewRank": -1,
     "serieCount": 15,
     "storyCount": 33
@@ -45,16 +45,14 @@
   "species": [
   ],
   "teams": [
-    "S.H.I.E.L.D",
     "Avengers",
-    "West Coast Avengers",
     "Great Lakes Avengers",
     "Legion of the Unliving",
     "New Avengers",
-    "World Counter-terrorism Agency",
+    "S.H.I.E.L.D",
     "Secret Avengers",
-    "A-Force",
-    "cn|date"
+    "West Coast Avengers",
+    "World Counter-terrorism Agency"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1011220/mockingbird",

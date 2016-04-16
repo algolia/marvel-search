@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Ego-Spawn",
     "Avatar",
-    "Tattletale",
+    "Ego-Spawn",
+    "Franklin",
     "Franklin Benjamin",
-    "Richard Franklin",
     "Franklin Richards",
+    "Richard Franklin",
     "Richards",
-    "Franklin"
+    "Tattletale"
   ],
   "authors": [
     "Jack Kirby",
@@ -26,19 +26,19 @@
   "partners": [
   ],
   "powers": [
-    "Precognition",
-    "Molecular alteration",
-    "Reality warping",
     "Manipulation",
+    "Molecular alteration",
+    "Precognition",
     "Psionic powers",
-    "Telepathy",
     "Psychokinesis",
-    "Telekinesis"
+    "Reality warping",
+    "Telekinesis",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 33,
     "eventCount": 3,
-    "pageviewCount": 26167,
+    "pageviewCount": 1649,
     "pageviewRank": -1,
     "serieCount": 23,
     "storyCount": 41
@@ -50,12 +50,12 @@
     "Mutant"
   ],
   "teams": [
-    "Future Foundation",
-    "Fantastic Four",
+    "Daydreamers",
     "Fantastic Force",
+    "Fantastic Four",
+    "Future Foundation",
     "Generation X",
-    "Power Pack",
-    "Daydreamers"
+    "Power Pack"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2705/franklin_richards",

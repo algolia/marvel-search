@@ -21,25 +21,25 @@
   },
   "name": "Iron Patriot",
   "partners": [
-    "War Machine",
-    "Iron Man"
+    "Iron Man",
+    "War Machine"
   ],
   "powers": [
+    "Durability",
+    "Energy repulsors",
+    "Flamethrowers",
+    "Flight",
     "Heat seeking missiles",
     "Magnetic impact blasts",
-    "Flight",
-    "Flamethrowers",
-    "Superhuman strength",
-    "Durability",
     "Miniaturized lasers",
-    "Energy repulsors",
     "Missiles",
-    "Regenerative life support"
+    "Regenerative life support",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 12699,
+    "pageviewCount": 692,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

@@ -1,26 +1,26 @@
 {
   "aliases": [
-    "Der Rote Schädel",
-    "Dell Rusk",
-    "Bettman P. Lyles",
-    "the Agent of a Thousand Faces",
-    "The Man",
-    "Cyrus Fenton",
-    "John Smith",
-    "Teacher",
-    "Tod March",
     "Aleksander Lukin",
-    "Red Skull",
+    "Bettman P. Lyles",
+    "Cyrus Fenton",
+    "Dell Rusk",
+    "Der Rote Schädel",
     "Der Rote Schädel (German name)",
-    "the Agent of a Thousand Faces (impersonated in Europe during World War II)",
+    "John Smith",
+    "Red Skull",
+    "Teacher",
+    "The Man",
     "The Man (head of the People's Militia)",
+    "Tod March",
     "Tod March (president and owner of Galactic Pictures)",
-    "White Skull"
+    "White Skull",
+    "the Agent of a Thousand Faces",
+    "the Agent of a Thousand Faces (impersonated in Europe during World War II)"
   ],
   "authors": [
-    "Joe Simon",
     "France Herron",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Joe Simon"
   ],
   "description": "The Red Skull is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
   "images": {
@@ -33,25 +33,25 @@
   "mainColor": null,
   "name": "Red Skull",
   "partners": [
-    "Baron Zemo",
+    "Baron Helmut Zemo",
     "Baron Strucker",
+    "Baron Zemo",
     "Crossbones",
     "Sin",
-    "Viper",
     "The Viper",
-    "Baron Helmut Zemo"
+    "Viper"
   ],
   "powers": [
-    "Strategic genius",
-    "Political mastermind",
+    "Captain america",
     "Expert marksman",
+    "Political mastermind",
     "Possesses cloned body of",
-    "Captain america"
+    "Strategic genius"
   ],
   "ranking": {
     "comicCount": 103,
     "eventCount": 4,
-    "pageviewCount": 35780,
+    "pageviewCount": 2088,
     "pageviewRank": 9383,
     "serieCount": 55,
     "storyCount": 98
@@ -62,17 +62,17 @@
   "species": [
   ],
   "teams": [
-    "Features of the Marvel Universe",
-    "Nazi Germany",
-    "Exiles",
-    "Aleksander Lukin",
-    "Hydra",
-    "Advanced Idea Mechanics",
-    "Skeleton Crew",
-    "Kronas Corporation",
     "AIM",
-    "ULTIMATUM",
-    "Astonishing Avengers"
+    "Advanced Idea Mechanics",
+    "Aleksander Lukin",
+    "Astonishing Avengers",
+    "Exiles",
+    "Features of the Marvel Universe",
+    "Hydra",
+    "Kronas Corporation",
+    "Nazi Germany",
+    "Skeleton Crew",
+    "ULTIMATUM"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1901/red_skull",

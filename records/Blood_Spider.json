@@ -1,10 +1,12 @@
 {
   "aliases": [
-    "Blood Spider"
+    "Blood Spider",
+    "Michael Bingham"
   ],
   "authors": [
-    "Stan Lee",
-    "Steve Ditko"
+    "David Michelinie",
+    "Jerry Bingham",
+    "Mark Bagley"
   ],
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Spider-Verse_Spider-Men.jpg/250px-Spider-Verse_Spider-Men.jpg"
@@ -14,18 +16,25 @@
   "mainColor": null,
   "name": "Blood Spider",
   "partners": [
+    "Death Shield",
+    "Jagged Bow",
+    "Red Skull",
+    "Taskmaster"
   ],
   "powers": [
+    "Carries web-shooter",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 156,
+    "pageviewCount": 14,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
+    "Michael Bingham"
   ],
   "species": [
   ],

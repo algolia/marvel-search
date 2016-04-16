@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Clarice Ferguson",
-    "Blink"
+    "Blink",
+    "Clarice Ferguson"
   ],
   "authors": [
-    "Scott Lobdell",
-    "Joe Madureira"
+    "Joe Madureira",
+    "Scott Lobdell"
   ],
   "description": "Blink (Clarice Ferguson) is a fictional character, a superheroine who appears in American comic books published by Marvel Comics, as well as in a number of movie, television, and video game adaptations; typically in fiction related to the X-Men.",
   "images": {
@@ -26,7 +26,7 @@
   "ranking": {
     "comicCount": 42,
     "eventCount": 3,
-    "pageviewCount": 16605,
+    "pageviewCount": 1156,
     "pageviewRank": -1,
     "serieCount": 19,
     "storyCount": 44
@@ -38,10 +38,10 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men",
     "Age of Apocalypse",
     "Exiles",
-    "New Mutants"
+    "New Mutants",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/303/blink",

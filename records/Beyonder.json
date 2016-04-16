@@ -1,9 +1,9 @@
 {
   "aliases": [
+    "Beyonder",
     "Frank",
     "Kosmos",
-    "The Beyonder",
-    "Beyonder"
+    "The Beyonder"
   ],
   "authors": [
     "Jim Shooter",
@@ -24,23 +24,26 @@
   "powers": [
     "Omnipotence",
     "Omnipresence",
-    "Omniscience"
+    "Omniscience",
+    "Reality warping"
   ],
   "ranking": {
     "comicCount": 2,
     "eventCount": 1,
-    "pageviewCount": 18577,
+    "pageviewCount": 1137,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 2
   },
   "secretIdentities": [
+    "Beyonder"
   ],
   "species": [
     "Cosmic entity",
     "possibly Inhuman mutant"
   ],
   "teams": [
+    "Beyonders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/260/beyonder",

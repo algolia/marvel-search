@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Scott Lang",
-    "Ant-Man"
+    "Ant-Man",
+    "Scott Lang"
   ],
   "authors": [
     "David Michelinie",
     "John Byrne"
   ],
-  "description": "Ant-Man (Scott Lang) is a fictional character, a superhero featured in the American comic books published by Marvel Comics.",
+  "description": "Ant-Man (Scott Lang) is a fictional superhero appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/b0/537ba0e6d1879.gif",
     "banner": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/54ad72b6084a0.jpg",
@@ -25,13 +25,15 @@
   "partners": [
   ],
   "powers": [
-    "Size changing",
-    "Electronics expert"
+    "A limited air supply",
+    "Electronics expert",
+    "Size manipulation",
+    "Subatomic universes"
   ],
   "ranking": {
     "comicCount": 32,
     "eventCount": 7,
-    "pageviewCount": 62659,
+    "pageviewCount": 2438,
     "pageviewRank": -1,
     "serieCount": 13,
     "storyCount": 32
@@ -42,11 +44,12 @@
   "species": [
   ],
   "teams": [
-    "Future Foundation",
-    "Fantastic Four",
-    "Heroes for Hire",
     "Avengers",
-    "Defenders"
+    "Defenders",
+    "Fantastic Four",
+    "Future Foundation",
+    "Heroes for Hire",
+    "Stark Industries"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1010802/ant-man_eric_ogrady/featured",

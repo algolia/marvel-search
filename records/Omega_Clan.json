@@ -19,22 +19,22 @@
   "partners": [
   ],
   "powers": [
-    "Military tactician",
-    "Superhuman strength",
-    "Speed",
     "Agility",
-    "Stamina",
-    "Durability",
-    "Reflexes",
-    "High-level intellect",
     "Carbonadium",
+    "Death",
+    "Durability",
+    "High-level intellect",
     "Life force absorption",
-    "Death"
+    "Military tactician",
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 20,
     "eventCount": 0,
-    "pageviewCount": 85,
+    "pageviewCount": 7,
     "pageviewRank": -1,
     "serieCount": 9,
     "storyCount": 25
@@ -45,8 +45,8 @@
   "species": [
   ],
   "teams": [
-    "The Hand",
-    "Red Mafia"
+    "Red Mafia",
+    "The Hand"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1652/omega_red",

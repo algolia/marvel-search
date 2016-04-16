@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Scream",
-    "Voice",
+    "Angar the Screamer",
     "Master of the Mindstorm",
-    "Angar the Screamer"
+    "Scream",
+    "Voice"
   ],
   "authors": [
-    "Steve Gerber",
+    "Gene Colan",
     "John Tartaglione",
-    "Gene Colan"
+    "Steve Gerber"
   ],
   "description": "Out of the five alien symbiotes that were forcefully extracted from Venom (while bonded with Eddie Brock) by the Life Foundation, Donna's is the only one still active today that is not bonded to Hybrid.",
   "images": {
@@ -21,19 +21,20 @@
   "mainColor": null,
   "name": "Scream (Donna Diego)",
   "partners": [
+    "Screaming Mimi",
     "Songbird"
   ],
   "powers": [
+    "Flight",
     "Immunity to physical harm",
-    "Superhuman scream",
-    "Sonokinesis",
     "Sonic form",
-    "Flight"
+    "Sonokinesis",
+    "Superhuman scream"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2444,
+    "pageviewCount": 140,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -44,6 +45,7 @@
   "species": [
   ],
   "teams": [
+    "New Revengers",
     "Redeemers"
   ],
   "urls": {

@@ -6,10 +6,10 @@
     "Quasr Wendell Vaughn"
   ],
   "authors": [
-    "John Buscema",
-    "Roy Thomas",
+    "Don Glut",
     "Donald F. Glut",
-    "Don Glut"
+    "John Buscema",
+    "Roy Thomas"
   ],
   "description": "Quasar (Wendell Elvis Vaughn) is a fictional character, a comic book superhero in the Marvel Comics Universe.",
   "images": {
@@ -24,15 +24,15 @@
   "partners": [
   ],
   "powers": [
-    "Solid light constructs",
-    "Teleportation",
     "Energy manipulation",
-    "Flight"
+    "Flight",
+    "Solid light constructs",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 98,
     "eventCount": 7,
-    "pageviewCount": 4469,
+    "pageviewCount": 268,
     "pageviewRank": -1,
     "serieCount": 28,
     "storyCount": 158
@@ -43,15 +43,15 @@
   "species": [
   ],
   "teams": [
+    "Annihilators",
     "Avengers",
     "Defenders",
-    "S.H.I.E.L.D",
+    "Defenders for a Day",
     "Features of the Marvel Universe",
-    "Annihilators",
-    "Star Masters",
-    "The Avengers",
     "Pegasus",
-    "Defenders for a Day"
+    "S.H.I.E.L.D",
+    "Star Masters",
+    "The Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009523/quasar_phyla-vell",

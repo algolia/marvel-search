@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Taylor",
     "Carl Walker",
-    "Force"
+    "Force",
+    "Taylor"
   ],
   "authors": [
-    "Steve Gerber",
-    "Don Heck"
+    "Don Heck",
+    "Steve Gerber"
   ],
   "description": "Force is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
@@ -19,14 +19,14 @@
   "partners": [
   ],
   "powers": [
+    "Enhanced strength",
     "Flight",
-    "Force field projection",
-    "Enhanced strength"
+    "Force field projection"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 784,
+    "pageviewCount": 42,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

@@ -1,16 +1,16 @@
 {
   "aliases": [
-    "Scorpion",
-    "Kilgore Trout",
-    "Venom",
-    "Spider-Man",
     "Gargan",
+    "Kilgore Trout",
     "Mac",
-    "Mac Gargan"
+    "Mac Gargan",
+    "Scorpion",
+    "Spider-Man",
+    "Venom"
   ],
   "authors": [
-    "Steve Ditko",
-    "Stan Lee"
+    "Stan Lee",
+    "Steve Ditko"
   ],
   "description": "MacDonald \"Mac\" Gargan is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
@@ -24,39 +24,39 @@
   "partners": [
   ],
   "powers": [
-    "Limited shapeshifting",
-    "As venom",
-    "Immunity to spider-sense",
-    "Superhuman strength",
-    "Speed",
     "Agility",
-    "Stamina",
-    "Durability",
-    "Reflexes",
     "All of",
-    "Spider-man's powers"
+    "As venom",
+    "Durability",
+    "Immunity to spider-sense",
+    "Limited shapeshifting",
+    "Reflexes",
+    "Speed",
+    "Spider-man's powers",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 9577,
+    "pageviewCount": 583,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "MacDonald Gargan",
-    "Mac"
+    "Mac",
+    "MacDonald Gargan"
   ],
   "species": [
   ],
   "teams": [
-    "Sinister Six",
-    "Thunderbolts",
-    "Masters of Evil",
+    "Alchemax",
     "Dark Avengers",
+    "Masters of Evil",
+    "Sinister Six",
     "Sinister Twelve",
-    "Alchemax"
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2708/mac_gargan",

@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Phoenix",
     "Dark Phoenix",
-    "Marvel Girl",
-    "Red",
-    "White Phoenix of the Crown",
-    "Redd Dayspring",
-    "Jean Grey",
     "Grey",
-    "Jean"
+    "Jean",
+    "Jean Grey",
+    "Marvel Girl",
+    "Phoenix",
+    "Red",
+    "Redd Dayspring",
+    "White Phoenix of the Crown"
   ],
   "authors": [
     "Jack Kirby",
@@ -32,36 +32,30 @@
   "partners": [
   ],
   "powers": [
-    "Psychokinesis",
-    "Telepathy",
-    "Mind reading",
-    "Control",
-    "Memory alteration",
-    "Erasure",
-    "Mental bolts",
-    "Psionic blasts",
-    "Induced paralysis",
-    "Astral projection",
-    "Eidetic memory",
     "Any form of energy",
-    "Create powerful fire",
-    "Resurrect from death",
-    "Manipulate timelines",
+    "As phoenix",
+    "Astral projection",
+    "Control",
     "Cosmic",
-    "Telekinesis",
-    "Phoenix force",
-    "Matter",
-    "Energy manipulation",
-    "Time manipulation",
-    "Space travel",
-    "Cosmic fire",
-    "Disintegration energy",
-    "Resurrection from death"
+    "Create powerful fire",
+    "Eidetic memory",
+    "Erasure",
+    "Induced paralysis",
+    "Manipulate timelines",
+    "Memory alteration",
+    "Mental bolts",
+    "Mind reading",
+    "Psionic blasts",
+    "Psychokinesis",
+    "Resurrect from death",
+    "Telepathic abilities",
+    "Telepathy",
+    "Vast telekinetic"
   ],
   "ranking": {
     "comicCount": 46,
     "eventCount": 0,
-    "pageviewCount": 73767,
+    "pageviewCount": 4721,
     "pageviewRank": 9990,
     "serieCount": 16,
     "storyCount": 45
@@ -73,12 +67,11 @@
     "Mutant"
   ],
   "teams": [
-    "The Twelve",
-    "X-Terminators",
     "Phoenix Corps",
+    "The Twelve",
     "X-Factor",
     "X-Men",
-    "All-New X-Men"
+    "X-Terminators"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/31/jean_grey",

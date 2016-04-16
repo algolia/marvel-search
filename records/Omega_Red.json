@@ -1,12 +1,12 @@
 {
   "aliases": [
     "Arkady Gregorivich",
-    "Vasyliev Arkady",
-    "Omega Red"
+    "Omega Red",
+    "Vasyliev Arkady"
   ],
   "authors": [
-    "John Byrne",
-    "Jim Lee"
+    "Jim Lee",
+    "John Byrne"
   ],
   "description": "Omega Red is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
@@ -21,22 +21,22 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
-    "Stamina",
-    "Durability",
     "Agility",
-    "Reflexes",
+    "Carbonadium",
     "Death",
+    "Durability",
+    "High-level intellect",
     "Life force absorption",
     "Military tactician",
-    "High-level intellect",
-    "Carbonadium"
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 20,
     "eventCount": 0,
-    "pageviewCount": 10732,
+    "pageviewCount": 783,
     "pageviewRank": -1,
     "serieCount": 9,
     "storyCount": 25
@@ -48,9 +48,9 @@
     "Mutant"
   ],
   "teams": [
-    "The Hand",
+    "Red Mafia",
     "Russian mafia",
-    "Red Mafia"
+    "The Hand"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1652/omega_red",

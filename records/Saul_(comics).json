@@ -4,8 +4,8 @@
     "actual identities the character uses"
   ],
   "authors": [
-    "Mark Pacella",
     "Fabian Nicieza",
+    "Mark Pacella",
     "Rob Liefeld"
   ],
   "description": "Saul (real name Garbha-hsien) is a fictional character in Marvel Comics.",
@@ -18,15 +18,15 @@
   "partners": [
   ],
   "powers": [
+    "Immortality",
     "Levitation",
-    "Teleportation",
     "Sorcery",
-    "Immortality"
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 457,
+    "pageviewCount": 45,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -37,8 +37,8 @@
   "species": [
   ],
   "teams": [
-    "High Lords",
-    "Externals"
+    "Externals",
+    "High Lords"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Saul_(comics)"

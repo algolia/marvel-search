@@ -1,15 +1,15 @@
 {
   "aliases": [
-    "John Wraith",
-    "Vindicator",
     "Colonel John Wraith",
     "Expediter",
-    "Kestrel"
+    "John Wraith",
+    "Kestrel",
+    "Vindicator"
   ],
   "authors": [
+    "Adam Kubert",
     "Larry Hama",
-    "Mark Millar",
-    "Adam Kubert"
+    "Mark Millar"
   ],
   "description": "Heather McNeil-Hudson married James Hudson, founder of Canadian super-team, Alpha Flight, and donned a version of his Vindicator armor after his death.",
   "images": {
@@ -24,15 +24,15 @@
   "partners": [
   ],
   "powers": [
-    "Slowed aging",
     "Flight",
-    "Teleportation",
-    "Teleport"
+    "Slowed aging",
+    "Teleport",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 27,
     "eventCount": 1,
-    "pageviewCount": 10228,
+    "pageviewCount": 1096,
     "pageviewRank": -1,
     "serieCount": 9,
     "storyCount": 26
@@ -44,9 +44,9 @@
     "Mutant"
   ],
   "teams": [
-    "Team X",
     "Alpha Flight",
     "S.H.I.E.L.D",
+    "Team X",
     "Weapon X"
   ],
   "urls": {

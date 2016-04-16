@@ -1,8 +1,8 @@
 {
   "aliases": [
-    "Paul Dennis",
+    "Paladin",
     "Paul Denning",
-    "Paladin"
+    "Paul Dennis"
   ],
   "authors": [
     "Carmine Infantino",
@@ -21,22 +21,22 @@
   "partners": [
   ],
   "powers": [
-    "Speed",
-    "Stamina",
-    "Agility",
-    "Reflexes",
-    "Durability",
-    "Skilled marksman",
     "Actor",
-    "Espionage agent",
+    "Agility",
     "Bodyguard",
     "Detective",
+    "Durability",
+    "Espionage agent",
+    "Reflexes",
+    "Skilled marksman",
+    "Speed",
+    "Stamina",
     "Use of stun gun"
   ],
   "ranking": {
     "comicCount": 17,
     "eventCount": 2,
-    "pageviewCount": 4125,
+    "pageviewCount": 281,
     "pageviewRank": -1,
     "serieCount": 8,
     "storyCount": 18
@@ -46,11 +46,11 @@
   "species": [
   ],
   "teams": [
-    "Wild Pack",
-    "Thunderbolts",
-    "Heroes for Hire",
     "Defenders",
-    "The Intruders"
+    "Heroes for Hire",
+    "The Intruders",
+    "Thunderbolts",
+    "Wild Pack"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1687/paladin",

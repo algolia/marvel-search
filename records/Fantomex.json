@@ -1,12 +1,12 @@
 {
   "aliases": [
+    "Fantomex",
     "Jean-Phillipe",
-    "Weapon XIII",
-    "Fantomex"
+    "Weapon XIII"
   ],
   "authors": [
-    "Igor Kordey",
-    "Grant Morrison"
+    "Grant Morrison",
+    "Igor Kordey"
   ],
   "description": "Fantomex is a fictional superhero associated with the X-Men in titles published by Marvel Comics.",
   "images": {
@@ -21,22 +21,22 @@
   "partners": [
   ],
   "powers": [
-    "Skilled marksman",
     "Acrobat",
-    "Hand-to-hand combatant",
-    "Possesses multiple brains",
     "Auto-hypnosis",
-    "Nano-active blood",
+    "Auto-hypnosis;",
+    "Hand-to-hand combatant",
+    "Hand-to-hand combatant;",
     "Illusion casting",
     "Illusion casting;",
+    "Nano-active blood",
     "Nano-active blood;",
-    "Hand-to-hand combatant;",
-    "Auto-hypnosis;"
+    "Possesses multiple brains",
+    "Skilled marksman"
   ],
   "ranking": {
     "comicCount": 20,
     "eventCount": 1,
-    "pageviewCount": 14063,
+    "pageviewCount": 1120,
     "pageviewRank": -1,
     "serieCount": 5,
     "storyCount": 19
@@ -51,9 +51,9 @@
   "teams": [
     "Super-Sentinels",
     "Weapon Plus",
+    "Weapon Plus Program",
     "X-Force",
-    "X-Men",
-    "Weapon Plus Program"
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/669/fantomex",

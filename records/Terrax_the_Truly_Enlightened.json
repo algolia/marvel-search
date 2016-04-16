@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Tyros the Terrible",
-    "Terrax the Tamer"
+    "Terrax the Tamer",
+    "Tyros the Terrible"
   ],
   "authors": [
-    "Marv Wolfman",
+    "Joe Sinnott",
     "John Byrne",
-    "Joe Sinnott"
+    "Marv Wolfman"
   ],
   "description": "Tyros was once the dictator of the city Lanlak on the planet Birj, where his superhuman ability to command rocks and earth enabled him to overcome all resistance, but his rule of Lanlak came to an end when he was sought by the world-devouring Galactus to serve as his latest Herald.",
   "images": {
@@ -21,19 +21,19 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Stamina",
     "Durability",
-    "Reflexes",
     "Energy projection",
     "Force field generation",
-    "Use of",
-    "Power cosmic"
+    "Power cosmic",
+    "Reflexes",
+    "Stamina",
+    "Superhuman strength",
+    "Use of"
   ],
   "ranking": {
     "comicCount": 19,
     "eventCount": 0,
-    "pageviewCount": 261,
+    "pageviewCount": 28,
     "pageviewRank": -1,
     "serieCount": 13,
     "storyCount": 14
@@ -45,8 +45,8 @@
   ],
   "teams": [
     "Heralds of Galactus",
-    "Offenders",
-    "Legion of the Unliving"
+    "Legion of the Unliving",
+    "Offenders"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2311/terrax",

@@ -1,9 +1,9 @@
 {
   "aliases": [
     "Flint Marko",
-    "Sylvester Mann",
     "Quarryman",
-    "Sandman"
+    "Sandman",
+    "Sylvester Mann"
   ],
   "authors": [
     "Stan Lee",
@@ -22,20 +22,20 @@
   "partners": [
   ],
   "powers": [
-    "Flight",
     "Density control",
-    "Superhuman strength",
     "Durability",
-    "Endurance",
-    "Shapeshifting",
     "Earth manipulation",
+    "Endurance",
+    "Flight",
+    "Mass manipulation",
+    "Shapeshifting",
     "Size",
-    "Mass manipulation"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 63,
     "eventCount": 0,
-    "pageviewCount": 16284,
+    "pageviewCount": 939,
     "pageviewRank": -1,
     "serieCount": 25,
     "storyCount": 81
@@ -46,13 +46,13 @@
   "species": [
   ],
   "teams": [
-    "Enforcers",
-    "Sinister Six",
-    "Frightful Four",
-    "Wild Pack",
     "Avengers",
+    "Enforcers",
+    "Frightful Four",
+    "Sinister Six",
+    "The Intruders",
     "The Outlaws",
-    "The Intruders"
+    "Wild Pack"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1989/sandman",

@@ -1,9 +1,9 @@
 {
   "aliases": [
-    "Melodi",
     "Ice Queen",
-    "Valkyrie",
-    "Lorelei"
+    "Lorelei",
+    "Melodi",
+    "Valkyrie"
   ],
   "authors": [
     "Walt Simonson",
@@ -29,19 +29,19 @@
     "Pluto"
   ],
   "powers": [
-    "Longevity",
-    "Slow aging",
-    "Superhuman strength",
     "Durability",
     "Endurance",
-    "Some knowledge of sorcery",
+    "Longevity",
     "Mostly love charms",
-    "Potions"
+    "Potions",
+    "Slow aging",
+    "Some knowledge of sorcery",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 16,
     "eventCount": 1,
-    "pageviewCount": 9289,
+    "pageviewCount": 597,
     "pageviewRank": 1636,
     "serieCount": 14,
     "storyCount": 17

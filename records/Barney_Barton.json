@@ -1,11 +1,12 @@
 {
   "aliases": [
-    "Trickshot",
-    "Barney Barton"
+    "Barney Barton",
+    "Hawkeye",
+    "Trickshot"
   ],
   "authors": [
-    "Roy Thomas",
-    "Gene Colan"
+    "Gene Colan",
+    "Roy Thomas"
   ],
   "description": "Barney Barton is a fictional character in the Marvel Comics universe.",
   "images": {
@@ -20,19 +21,21 @@
   "powers": [
     "Exceptional athlete",
     "Highly skilled archer",
-    "Proficient marksman"
+    "Proficient marksman",
+    "Trick arrows",
+    "Uses a variety of"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 3441,
+    "pageviewCount": 200,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Charles Bernard Barton",
-    "Barney"
+    "Barney",
+    "Charles Bernard Barton"
   ],
   "species": [
   ],

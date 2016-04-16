@@ -4,8 +4,8 @@
     "Thunderbird"
   ],
   "authors": [
-    "Leinil Francis Yu",
-    "Chris Claremont"
+    "Chris Claremont",
+    "Leinil Francis Yu"
   ],
   "description": "An exceptionally strong and vigorous athlete in his youth, John Proudstar’s mutant abilities first manifested when he wrestled a charging bison to save a young girl.",
   "images": {
@@ -20,15 +20,15 @@
   "partners": [
   ],
   "powers": [
-    "Superstrengh",
-    "Speed",
     "Durability",
-    "Stamina"
+    "Speed",
+    "Stamina",
+    "Superstrengh"
   ],
   "ranking": {
     "comicCount": 30,
     "eventCount": 2,
-    "pageviewCount": 1446,
+    "pageviewCount": 92,
     "pageviewRank": -1,
     "serieCount": 20,
     "storyCount": 24
@@ -40,8 +40,8 @@
     "Mutant"
   ],
   "teams": [
-    "X-Men",
-    "X-Corporation"
+    "X-Corporation",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2364/thunderbird",

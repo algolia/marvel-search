@@ -1,20 +1,20 @@
 {
   "aliases": [
-    "Multiple Man",
-    "Multiple",
     "James Madrox",
-    "Madrox the Multiple Man",
-    "Reverend John Maddox",
     "Jamie Madrox",
+    "John Maddox",
+    "Madrox the Multiple Man",
+    "Multiple",
+    "Multiple Man",
     "Reverend",
-    "John Maddox"
+    "Reverend John Maddox"
   ],
   "authors": [
+    "Chris Claremont",
     "John Buscema",
     "Len Wein",
-    "with Chris Claremont",
     "with",
-    "Chris Claremont"
+    "with Chris Claremont"
   ],
   "description": "James Arthur \"Jamie\" Madrox, also called the Multiple Man, is a fictional character, a Marvel Comics superhero, associated with the X-Men.",
   "images": {
@@ -34,7 +34,7 @@
   "ranking": {
     "comicCount": 8,
     "eventCount": 2,
-    "pageviewCount": 7580,
+    "pageviewCount": 557,
     "pageviewRank": -1,
     "serieCount": 6,
     "storyCount": 13
@@ -47,17 +47,17 @@
     "Mutant"
   ],
   "teams": [
+    "Dead X-Men",
     "Fallen Angels",
-    "X-Factor Investigations",
     "Hydra",
-    "X-Corps",
-    "X-Corporation",
-    "X-Men",
-    "X-Factor",
-    "S.H.I.E.L.D",
-    "Nasty Boys",
     "Muir Island X-Men",
-    "Dead X-Men"
+    "Nasty Boys",
+    "S.H.I.E.L.D",
+    "X-Corporation",
+    "X-Corps",
+    "X-Factor",
+    "X-Factor Investigations",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1541/multiple_man",

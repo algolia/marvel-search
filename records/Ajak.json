@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Quetzacoatl",
-    "Tecumotzin",
-    "Lord of Flight",
+    "Ajak",
     "Ajax the Greater",
     "He Who Talks To Celestials",
-    "Ajak"
+    "Lord of Flight",
+    "Quetzacoatl",
+    "Tecumotzin"
   ],
   "authors": [
     "Jack Kirby"
@@ -23,17 +23,19 @@
   "partners": [
   ],
   "powers": [
-    "Energy blasts",
-    "Teleportation",
-    "Superhuman speed",
-    "Strength",
+    "Accelerated",
     "Durability",
-    "Flight"
+    "Energy blasts",
+    "Flight",
+    "Healing factor",
+    "Strength",
+    "Superhuman speed",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1869,
+    "pageviewCount": 110,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -43,8 +45,8 @@
   "species": [
   ],
   "teams": [
-    "God Squad",
-    "Eternals"
+    "Eternals",
+    "God Squad"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/111/ajak",

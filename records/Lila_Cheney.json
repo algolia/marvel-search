@@ -3,8 +3,8 @@
     "Lila Cheney"
   ],
   "authors": [
-    "Chris Claremont",
-    "Bob McLeod"
+    "Bob McLeod",
+    "Chris Claremont"
   ],
   "description": "Lila Cheney is a fictional character in the Marvel Universe.",
   "images": {
@@ -24,7 +24,7 @@
   "ranking": {
     "comicCount": 4,
     "eventCount": 0,
-    "pageviewCount": 1308,
+    "pageviewCount": 85,
     "pageviewRank": -1,
     "serieCount": 5,
     "storyCount": 4
@@ -36,10 +36,10 @@
     "Mutant"
   ],
   "teams": [
+    "Gladiators",
     "New Mutants",
-    "X-Men",
     "X-Force",
-    "Gladiators"
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2691/lila_cheney",

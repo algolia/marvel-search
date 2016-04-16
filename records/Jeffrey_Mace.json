@@ -1,10 +1,10 @@
 {
   "aliases": [
-    "Patriot",
-    "Mace",
+    "Captain America",
     "Jeffrey",
     "Jeffrey Mace",
-    "Captain America"
+    "Mace",
+    "Patriot"
   ],
   "authors": [
   ],
@@ -21,16 +21,16 @@
   "partners": [
   ],
   "powers": [
-    "Skilled athlete",
-    "Hand-to-hand combatant",
+    "Carries a titanium shield",
     "Exceptional athlete",
+    "Hand-to-hand combatant",
     "Licensed pilot",
-    "Carries a titanium shield"
+    "Skilled athlete"
   ],
   "ranking": {
     "comicCount": 72,
     "eventCount": 2,
-    "pageviewCount": 1930,
+    "pageviewCount": 122,
     "pageviewRank": -1,
     "serieCount": 15,
     "storyCount": 71
@@ -42,8 +42,8 @@
   ],
   "teams": [
     "All-Winners Squad",
-    "Liberty Legion",
-    "Daily Bugle"
+    "Daily Bugle",
+    "Liberty Legion"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1703/patriot",

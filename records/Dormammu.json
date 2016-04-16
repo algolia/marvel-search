@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "The Dread One; Lord of Chaos; The Great Enigma; Master of the Mindless Ones",
-    "Dormammu"
+    "Dormammu",
+    "The Dread One; Lord of Chaos; The Great Enigma; Master of the Mindless Ones"
   ],
   "authors": [
-    "Steve Ditko",
-    "Stan Lee"
+    "Stan Lee",
+    "Steve Ditko"
   ],
   "description": "Dormammu is a fictional character, a powerful mystical being that appears in comic books published by Marvel Comics.",
   "images": {
@@ -22,14 +22,14 @@
     "Umar"
   ],
   "powers": [
+    "Dimensional teleportation",
     "Immortality",
-    "Mastery of dark magic",
-    "Dimensional teleportation"
+    "Mastery of dark magic"
   ],
   "ranking": {
     "comicCount": 29,
     "eventCount": 1,
-    "pageviewCount": 25883,
+    "pageviewCount": 980,
     "pageviewRank": -1,
     "serieCount": 10,
     "storyCount": 32

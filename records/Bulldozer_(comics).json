@@ -19,16 +19,16 @@
   "partners": [
   ],
   "powers": [
+    "Durability",
+    "Endurance",
     "Neck",
     "Shoulder apparatus",
-    "Superhuman strength",
-    "Durability",
-    "Endurance"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 1949,
+    "pageviewCount": 109,
     "pageviewRank": -1,
     "serieCount": 3,
     "storyCount": 6
@@ -39,9 +39,9 @@
   "species": [
   ],
   "teams": [
-    "Wrecking Crew",
     "Masters of Evil",
-    "United States Army"
+    "United States Army",
+    "Wrecking Crew"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/365/bulldozer",

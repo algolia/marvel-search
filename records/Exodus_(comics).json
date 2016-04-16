@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "Paris Bennet",
-    "Exodus"
+    "Exodus",
+    "Paris Bennet"
   ],
   "authors": [
     "Joe Quesada",
@@ -20,16 +20,16 @@
   "partners": [
   ],
   "powers": [
+    "Healing factor",
     "Immortality",
     "Telekinesis",
-    "Teleportation",
     "Telepathy",
-    "Healing factor"
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 16,
     "eventCount": 3,
-    "pageviewCount": 9091,
+    "pageviewCount": 393,
     "pageviewRank": -1,
     "serieCount": 11,
     "storyCount": 21
@@ -41,12 +41,12 @@
     "Mutant"
   ],
   "teams": [
-    "The 198",
-    "Brotherhood of Mutants",
     "Acolytes",
+    "Brotherhood of Mutants",
+    "Crusaders",
     "Crusades",
     "Marauders",
-    "Crusaders"
+    "The 198"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/648/exodus",

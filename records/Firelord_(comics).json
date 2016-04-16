@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Nova Centurion",
-    "Firelord"
+    "Firelord",
+    "Nova Centurion"
   ],
   "authors": [
-    "John Buscema",
-    "Gerry Conway"
+    "Gerry Conway",
+    "John Buscema"
   ],
   "description": "Firelord (Pyreus Kril) is a character in the fictional Marvel Universe.",
   "images": {
@@ -20,20 +20,20 @@
   "partners": [
   ],
   "powers": [
-    "Flight",
-    "Wields a flaming staff",
-    "Superhuman strength",
-    "Reflexes",
     "Durability",
+    "Flight",
+    "Power cosmic",
+    "Reflexes",
     "Staff",
-    "Use of power cosmic",
+    "Superhuman strength",
     "Use of",
-    "Power cosmic"
+    "Use of power cosmic",
+    "Wields a flaming staff"
   ],
   "ranking": {
     "comicCount": 24,
     "eventCount": 1,
-    "pageviewCount": 3631,
+    "pageviewCount": 241,
     "pageviewRank": -1,
     "serieCount": 14,
     "storyCount": 24
@@ -45,9 +45,9 @@
   ],
   "teams": [
     "Annihilation",
-    "Nova Corps",
     "Galactus",
     "Heralds of Galactus",
+    "Nova Corps",
     "United Front"
   ],
   "urls": {

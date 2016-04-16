@@ -3,8 +3,8 @@
     "Carnage"
   ],
   "authors": [
-    "Erik Larsen",
     "David Michelinie",
+    "Erik Larsen",
     "Mark Bagley"
   ],
   "description": "Carnage (Cletus Kasady) is a fictional character, a supervillain appearing in comic books published by Marvel Comics, usually as an enemy of Spider-Man.",
@@ -18,19 +18,19 @@
   "mainColor": null,
   "name": "Carnage",
   "partners": [
-    "Demogoblin",
     "Carrion",
+    "Demogoblin",
     "Doppelganger",
     "Shriek"
   ],
   "powers": [
-    "Symbiote",
-    "Alien symbiote"
+    "Alien symbiote",
+    "Symbiote"
   ],
   "ranking": {
     "comicCount": 23,
     "eventCount": 1,
-    "pageviewCount": 40323,
+    "pageviewCount": 2448,
     "pageviewRank": -1,
     "serieCount": 7,
     "storyCount": 26
@@ -44,10 +44,10 @@
     "Symbiote"
   ],
   "teams": [
+    "Astonishing Avengers",
     "Canrage Family/Maximum Carnage",
     "Carnage Family",
-    "Maximum Carnage",
-    "Astonishing Avengers"
+    "Maximum Carnage"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/397/carnage",

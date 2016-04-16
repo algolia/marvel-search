@@ -23,7 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2272,
+    "pageviewCount": 138,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -35,10 +35,10 @@
     "Mutant"
   ],
   "teams": [
-    "Genoshan",
-    "Upstarts",
     "Acolytes",
-    "Genosha"
+    "Genosha",
+    "Genoshan",
+    "Upstarts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2695/fabian_cortez",

@@ -1,27 +1,23 @@
 {
   "aliases": [
-    "Peter Parker",
-    "Webhead",
-    "Spidey",
-    "Web-slinger",
-    "Wallcrawler",
-    "Tiger",
-    "Spiderman",
-    "Prodigy",
-    "Ricochet",
-    "Scarlet Spider",
     "Ben Reilly",
     "Dusk",
     "Hornet",
+    "Peter Parker",
+    "Prodigy",
+    "Ricochet",
+    "Scarlet Spider",
     "Spider-Man",
-    "Dusk ll",
-    "Prodigy ll",
-    "Hornet ll",
-    "Scarlet Spider ll"
+    "Spiderman",
+    "Spidey",
+    "Tiger",
+    "Wallcrawler",
+    "Web-slinger",
+    "Webhead"
   ],
   "authors": [
-    "Steve Ditko",
-    "Stan Lee"
+    "Stan Lee",
+    "Steve Ditko"
   ],
   "description": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.",
   "images": {
@@ -41,23 +37,23 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
     "Agility",
-    "Stamina",
-    "Reflexes",
     "Endurance",
-    "Healing factor",
-    "Precognitive spider-sense",
-    "Genius-level intellect",
     "Genius",
+    "Genius-level intellect",
+    "Healing factor",
     "Precognitive",
-    "Spider-sense"
+    "Precognitive spider-sense",
+    "Reflexes",
+    "Speed",
+    "Spider-sense",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 2593,
     "eventCount": 29,
-    "pageviewCount": 184178,
+    "pageviewCount": 11812,
     "pageviewRank": 1537,
     "serieCount": 537,
     "storyCount": 4197
@@ -69,19 +65,14 @@
     "Mutate"
   ],
   "teams": [
-    "X-Mansion",
-    "Parker Industries",
-    "Heroes for Hire",
     "Avengers",
-    "Fantastic Four",
     "Defenders",
-    "The New Avengers",
+    "Fantastic Four",
     "Future Foundation",
-    "New Avengers",
-    "New Fantastic Four",
-    "Secret Defenders",
-    "Jean Grey School",
-    "Uncanny Avengers"
+    "Heroes for Hire",
+    "Parker Industries",
+    "The New Avengers",
+    "X-Mansion"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/54/spider-man",

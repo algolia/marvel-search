@@ -1,21 +1,21 @@
 {
   "aliases": [
     "Jean DeWolff",
-    "Pale Rider",
     "Kree with no name",
+    "Pale Rider",
     "Paleface",
-    "Wraith",
-    "Paleface\" (Watanabe)"
+    "Paleface\" (Watanabe)",
+    "Wraith"
   ],
   "authors": [
-    "Javier Grillo-Marxuach",
-    "Kyle Hotz",
-    "Salvador Larroca",
     "Bill Mantlo",
     "Dan Slott",
+    "Javier Grillo-Marxuach",
     "John Romita, Jr.",
-    "Scott Lobdell",
-    "Sal Buscema"
+    "Kyle Hotz",
+    "Sal Buscema",
+    "Salvador Larroca",
+    "Scott Lobdell"
   ],
   "description": "Wraith is the codename of four unrelated fictional characters from the Marvel Comics universe.",
   "images": {
@@ -32,46 +32,46 @@
     "Phillip DeWolff"
   ],
   "powers": [
-    "Mind control",
-    "Thought reading",
-    "Travel through the air",
     "Accelerated healing",
-    "Polymorphic weapon",
-    "Transparent skin",
-    "Image projection",
-    "Enhanced strength",
-    "Speed",
     "Agility",
-    "Darkness manifestation",
-    "Induce mental pain",
-    "Longevity via agelessness",
     "Carries a smoke gun",
-    "Infect"
+    "Darkness manifestation",
+    "Enhanced strength",
+    "Image projection",
+    "Induce mental pain",
+    "Infect",
+    "Longevity via agelessness",
+    "Mind control",
+    "Polymorphic weapon",
+    "Speed",
+    "Thought reading",
+    "Transparent skin",
+    "Travel through the air"
   ],
   "ranking": {
     "comicCount": 8,
     "eventCount": 2,
-    "pageviewCount": 2662,
+    "pageviewCount": 317,
     "pageviewRank": -1,
     "serieCount": 3,
     "storyCount": 11
   },
   "secretIdentities": [
-    "Hector Rendoza",
     "Brian DeWolff",
+    "Hector Rendoza",
     "Yuri Watanabe",
     "Zak-Del"
   ],
   "species": [
     "Human",
-    "Mutant",
-    "Kree"
+    "Kree",
+    "Mutant"
   ],
   "teams": [
+    "Genoshan Assault X-Men",
     "Kree Underground",
-    "New York City Police Department",
     "Nameless Kree",
-    "Genoshan Assault X-Men"
+    "New York City Police Department"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2596/wraith",

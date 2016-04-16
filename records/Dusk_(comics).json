@@ -3,8 +3,8 @@
     "Dusk"
   ],
   "authors": [
-    "Joseph Harris",
-    "Adam Pollina"
+    "Adam Pollina",
+    "Joseph Harris"
   ],
   "description": "Dusk was an identity used by several fictional superheroes in the Marvel Universe.",
   "images": {
@@ -17,17 +17,17 @@
   "partners": [
   ],
   "powers": [
-    "Shadow manipulation",
     "Clairvoyance",
-    "Teleportation",
-    "Darkforce projection",
     "Darkforce",
-    "Projection"
+    "Darkforce projection",
+    "Projection",
+    "Shadow manipulation",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1578,
+    "pageviewCount": 121,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

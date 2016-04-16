@@ -3,8 +3,8 @@
     "American Dream"
   ],
   "authors": [
-    "Tom DeFalco",
-    "Brent Anderson"
+    "Brent Anderson",
+    "Tom DeFalco"
   ],
   "description": "American Dream (Shannon Carter) is a fictional character featured in Marvel Comics MC2 series A-Next.",
   "images": {
@@ -17,16 +17,16 @@
   "partners": [
   ],
   "powers": [
-    "Superb aim",
-    "Disc weapons",
-    "Peak physical condition",
     "Olympic level athlete",
-    "Skilled martial artist"
+    "Peak physical condition",
+    "Skilled martial artist",
+    "Superb aim",
+    "Use of disc weapons"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2698,
+    "pageviewCount": 155,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -37,7 +37,8 @@
   "species": [
   ],
   "teams": [
-    "A-Next"
+    "A-Next",
+    "Dream Team"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/American_Dream_(comics)"

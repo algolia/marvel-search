@@ -3,8 +3,8 @@
     "Rockslide"
   ],
   "authors": [
-    "Nunzio DeFilippis",
-    "Christina Weir"
+    "Christina Weir",
+    "Nunzio DeFilippis"
   ],
   "description": "Rockslide (Santo Vaccarro) is a fictional character, a mutant superhero and member of the X-Men in the Marvel Comics Universe.",
   "images": {
@@ -20,15 +20,15 @@
   ],
   "powers": [
     "Durability",
-    "Golem",
-    "Superhuman strength",
     "Endurance",
-    "Reform at will"
+    "Golem",
+    "Reform at will",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 11,
     "eventCount": 1,
-    "pageviewCount": 1781,
+    "pageviewCount": 120,
     "pageviewRank": -1,
     "serieCount": 7,
     "storyCount": 8
@@ -40,14 +40,14 @@
     "Mutant"
   ],
   "teams": [
-    "Young X-Men",
-    "New X-Men",
-    "X-Mansion",
     "Hellions",
     "Hellions training squad",
-    "Xavier Institute",
+    "Jean Grey School Students",
+    "New X-Men",
+    "X-Mansion",
     "X-Men-In-Training",
-    "Jean Grey School Students"
+    "Xavier Institute",
+    "Young X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1943/rockslide",

@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "Skull-Brother",
-    "Bi-Beast"
+    "Bi-Beast",
+    "Skull-Brother"
   ],
   "authors": [
     "Herb Trimpe",
@@ -18,20 +18,20 @@
   "mainColor": null,
   "name": "Bi-Beast",
   "partners": [
+    "Avians",
     "Man-Beast",
-    "Red Raven",
-    "Avians"
+    "Red Raven"
   ],
   "powers": [
     "Culture",
-    "Superhuman strength",
+    "Durability",
     "Stamina",
-    "Durability"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1985,
+    "pageviewCount": 117,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 2
@@ -41,7 +41,9 @@
   "species": [
   ],
   "teams": [
-    "Sinister Six"
+    "Masters of Evil",
+    "Sinister Six",
+    "Sinister Sixteen"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/261/bi-beast",

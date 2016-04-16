@@ -1,16 +1,16 @@
 {
   "aliases": [
-    "Supreme Hydra",
-    "Grand Imperator of THEM",
+    "Baron Strucker",
     "Don Guy Antonio Caballero",
     "Emir Ali Bey",
+    "Grand Imperator of THEM",
     "John Bronson",
     "Sagittarius",
-    "Baron Strucker"
+    "Supreme Hydra"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Baron Wolfgang von Strucker is a fictional character, a supervillain that appears in comic books published by Marvel Comics.Baron Strucker, a former Nazi officer, is one of the leaders of Hydra and an enemy of S.H.I.E.L.D., the Avengers, and the interests of the United States of America and of the free world in general.",
   "images": {
@@ -23,23 +23,24 @@
   "mainColor": null,
   "name": "Baron Strucker",
   "partners": [
+    "Baron Helmut Zemo",
     "Baron Zemo"
   ],
   "powers": [
-    "High-level intellect",
+    "Enhanced strength",
+    "Excellent actor",
     "Healing factor",
+    "High-level intellect",
+    "Marksman",
+    "Master of disguise",
     "Repressed aging",
     "Spy",
-    "Master of disguise",
-    "Excellent actor",
-    "Marksman",
-    "Swordsman",
-    "Enhanced strength"
+    "Swordsman"
   ],
   "ranking": {
     "comicCount": 26,
     "eventCount": 1,
-    "pageviewCount": 23141,
+    "pageviewCount": 1276,
     "pageviewRank": 3722,
     "serieCount": 14,
     "storyCount": 22
@@ -50,8 +51,10 @@
   "species": [
   ],
   "teams": [
+    "Advanced Idea Mechanics",
+    "Great Wheel",
     "Hydra",
-    "Great Wheel"
+    "citation needed|date"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/3240/baron_strucker",

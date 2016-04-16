@@ -4,14 +4,14 @@
     "Doctor Nemesis"
   ],
   "authors": [
-    "The creators of the version published by",
-    "Ace Magazines",
-    "are unknown. The",
-    "Marvel Comics",
-    "version of the character was co-created by",
-    "Roy Thomas",
     "(writer) and",
-    "Dave Hoover"
+    "Ace Magazines",
+    "Dave Hoover",
+    "Marvel Comics",
+    "Roy Thomas",
+    "The creators of the version published by",
+    "are unknown. The",
+    "version of the character was co-created by"
   ],
   "description": "Doctor Nemesis is the name of two characters from Marvel Comics.",
   "images": {
@@ -24,20 +24,20 @@
   "partners": [
   ],
   "powers": [
-    "Heightened eyesight",
-    "Enhanced immune system",
-    "Self-evolved intellect",
-    "Extended longevity",
     "Accomplished investigator",
-    "Hand to hand combatant",
-    "Self-evolved\" intellect",
+    "Enhanced immune system",
+    "Extended longevity",
     "Eyesight",
-    "Prolonged longevity"
+    "Hand to hand combatant",
+    "Heightened eyesight",
+    "Prolonged longevity",
+    "Self-evolved intellect",
+    "Self-evolved\" intellect"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 4922,
+    "pageviewCount": 382,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -49,10 +49,10 @@
     "Human mutant"
   ],
   "teams": [
+    "Battle-Axis",
     "X-Club",
-    "X-Men",
     "X-Force",
-    "Battle-Axis"
+    "X-Men"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Nemesis"

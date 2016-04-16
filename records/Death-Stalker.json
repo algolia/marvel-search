@@ -1,16 +1,16 @@
 {
   "aliases": [
-    "Exterminator",
     "Death's-Head",
-    "Death-Stalker"
+    "Death-Stalker",
+    "Exterminator"
   ],
   "authors": [
-    "Stan Lee",
-    "Gene Colan;",
-    "Steve Gerber",
+    "; (Death-Stalker)",
     "Bob Brown",
     "Gene Colan",
-    "; (Death-Stalker)"
+    "Gene Colan;",
+    "Stan Lee",
+    "Steve Gerber"
   ],
   "description": "The Death-Stalker is the name of two fictional characters in Marvel Comics.",
   "images": {
@@ -28,7 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2696,
+    "pageviewCount": 127,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

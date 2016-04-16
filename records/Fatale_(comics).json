@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Pamela Greenwood",
     "Amy Johnson",
-    "Fatale"
+    "Fatale",
+    "Pamela Greenwood"
   ],
   "authors": [
-    "Scott Lobdell",
     "Brandon Peterson",
+    "Jeff Matsuda",
     "John Francis Moore",
-    "Jeff Matsuda"
+    "Scott Lobdell"
   ],
   "description": "Fatale is a fictional comic book supervillain who appears in books published by Marvel Comics, usually those featuring the X-Men family of characters.",
   "images": {
@@ -21,14 +21,14 @@
   ],
   "powers": [
     "Depowered",
-    "Teleportation",
     "Invisibility",
-    "Light-alteration"
+    "Light-alteration",
+    "Teleportation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1075,
+    "pageviewCount": 84,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -39,10 +39,10 @@
     "Mutant"
   ],
   "teams": [
+    "Brotherhood",
     "Brotherhood of Mutants",
-    "X-Cell",
     "Dark Descendants",
-    "Brotherhood"
+    "X-Cell"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Fatale_(comics)"

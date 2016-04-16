@@ -5,8 +5,8 @@
   "authors": [
     "Dwayne Turner",
     "Gerard Jones",
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Hulk 2099 (John Eisenhart) is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
@@ -19,21 +19,21 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
+    "Accelerated",
+    "Durability",
+    "Fangs",
+    "Healing factor",
+    "Leaping",
+    "Near invulnerability",
+    "Razor sharp claws",
     "Speed",
     "Stamina",
-    "Durability",
-    "Razor sharp claws",
-    "Fangs",
-    "Near invulnerability",
-    "Leaping",
-    "Accelerated",
-    "Healing factor"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2356,
+    "pageviewCount": 158,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -44,8 +44,8 @@
   "species": [
   ],
   "teams": [
-    "Lotusland Productions",
-    "Defenders 2099"
+    "Defenders 2099",
+    "Lotusland Productions"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hulk_2099"

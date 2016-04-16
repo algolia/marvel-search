@@ -1,12 +1,12 @@
 {
   "aliases": [
+    "Mister Sinister",
     "Nathan Milbury",
-    "Robert Windsor",
-    "Mister Sinister"
+    "Robert Windsor"
   ],
   "authors": [
-    "Marc Silvestri",
-    "Chris Claremont"
+    "Chris Claremont",
+    "Marc Silvestri"
   ],
   "description": "Mister Sinister is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
   "images": {
@@ -22,23 +22,23 @@
     "Apocalypse"
   ],
   "powers": [
-    "Genius-level intellect",
-    "Regeneration",
-    "Superhuman strength",
     "Durability",
-    "Shape-shifting",
+    "Genius-level intellect",
     "Healing factor",
     "Master manipulator",
-    "Planner",
-    "Telepathy",
     "Molecular manipulation",
+    "Planner",
+    "Prolonged longevity",
+    "Regeneration",
+    "Shape-shifting",
     "Shapeshifting",
-    "Prolonged longevity"
+    "Superhuman strength",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 51,
     "eventCount": 5,
-    "pageviewCount": 30696,
+    "pageviewCount": 1526,
     "pageviewRank": -1,
     "serieCount": 28,
     "storyCount": 48
@@ -50,8 +50,8 @@
     "Mutate"
   ],
   "teams": [
-    "Nasty Boys",
-    "Marauders"
+    "Marauders",
+    "Nasty Boys"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1478/mister_sinister",

@@ -1,13 +1,13 @@
 {
   "aliases": [
+    "Amber Hunt",
     "En Flame",
     "Moonchild",
-    "The Phoenix",
-    "Amber Hunt"
+    "The Phoenix"
   ],
   "authors": [
-    "Steve Gerber",
-    "R.R. Phipps"
+    "R.R. Phipps",
+    "Steve Gerber"
   ],
   "description": "Amber Hunt is a fictional character from Malibu Comics' Exiles comic book series, created by Steve Gerber.",
   "images": {
@@ -20,16 +20,18 @@
   "partners": [
   ],
   "powers": [
-    "Precognition",
     "Astral projection",
     "Flight",
+    "Light manipulation",
+    "Precognition",
+    "Psychokinesis",
     "Pyrokinesis",
-    "Psychokinesis"
+    "Telekinesis"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 682,
+    "pageviewCount": 31,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -40,7 +42,8 @@
   "species": [
   ],
   "teams": [
-    "Exiles"
+    "Exiles",
+    "The All-New Exiles"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Amber_Hunt_(comics)"

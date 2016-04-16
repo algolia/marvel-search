@@ -1,19 +1,19 @@
 {
   "aliases": [
     "Minister of Punishment",
-    "The Punisher",
     "Punisher 2099",
+    "The Punisher",
     "The Punisher 2099"
   ],
   "authors": [
+    "Gerry Conway",
+    "John Romita, Sr.",
+    "Pat Mills",
+    "Ross Andru",
     "Tom Morgan",
     "Tony Skinner",
-    "Pat Mills",
-    "original character",
     "by",
-    "Gerry Conway",
-    "Ross Andru",
-    "John Romita, Sr."
+    "original character"
   ],
   "description": "The Punisher 2099 is a comic book series following the account of Jake Gallows (the Punisher) in the year 2099 in an alternate Marvel Universe.",
   "images": {
@@ -34,20 +34,20 @@
     "Doom 2099"
   ],
   "powers": [
-    "Increased agility",
+    "Agility",
     "Durability",
-    "Strength",
-    "Martial artist",
-    "Expert marksman",
-    "Motorcyclist",
-    "Weapons expert",
     "Enhanced strength",
-    "Agility"
+    "Expert marksman",
+    "Increased agility",
+    "Martial artist",
+    "Motorcyclist",
+    "Strength",
+    "Weapons expert"
   ],
   "ranking": {
     "comicCount": 378,
     "eventCount": 9,
-    "pageviewCount": 1899,
+    "pageviewCount": 150,
     "pageviewRank": -1,
     "serieCount": 80,
     "storyCount": 538
@@ -59,8 +59,8 @@
   ],
   "teams": [
     "Church of Thor",
-    "S.H.I.E.L.D. 2099",
-    "Public Eye Police Force"
+    "Public Eye Police Force",
+    "S.H.I.E.L.D. 2099"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009515/punisher",

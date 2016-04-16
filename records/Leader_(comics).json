@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Samuel Sterns",
     "Leader",
     "Red Leader",
+    "Samuel Sterns",
     "The Leader"
   ],
   "authors": [
-    "Steve Ditko",
-    "Stan Lee"
+    "Stan Lee",
+    "Steve Ditko"
   ],
   "description": "The Leader (Samuel Sterns) is a fictional character, a supervillain  that appears in comic books published by Marvel Comics.",
   "images": {
@@ -26,14 +26,14 @@
   ],
   "powers": [
     "Mastermind",
+    "Probability evaluation",
     "Psionic powers",
-    "Superhuman intelligence",
-    "Probability evaluation"
+    "Superhuman intelligence"
   ],
   "ranking": {
     "comicCount": 28,
     "eventCount": 0,
-    "pageviewCount": 13785,
+    "pageviewCount": 963,
     "pageviewRank": -1,
     "serieCount": 12,
     "storyCount": 29
@@ -44,10 +44,10 @@
   "species": [
   ],
   "teams": [
-    "Riot Squad",
-    "Intelligencia",
     "Freehold/New Freehold",
     "Humanoids",
+    "Intelligencia",
+    "Riot Squad",
     "Thunderbolts"
   ],
   "urls": {

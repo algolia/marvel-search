@@ -1,13 +1,14 @@
 {
   "aliases": [
-    "Aleksei Sytsevich",
     "Aleksei Mikhailovich Sytsevich",
+    "Aleksei Sytsevich",
     "Alex O'Hirn",
+    "Alexander O'Hirn",
     "Rhino"
   ],
   "authors": [
-    "Stan Lee",
-    "John Romita, Sr."
+    "John Romita, Sr.",
+    "Stan Lee"
   ],
   "description": "Rhino is a fictional character, a supervillain who appears in comic books published by Marvel Comics.",
   "images": {
@@ -22,19 +23,19 @@
   "partners": [
   ],
   "powers": [
-    "Razor sharp horn",
     "Damage",
-    "Superhuman strength",
-    "Speed",
-    "Stamina",
     "Durability",
     "Extreme temperatures",
-    "Razor sharp horns"
+    "Razor sharp horn",
+    "Razor sharp horns",
+    "Speed",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 29,
     "eventCount": 0,
-    "pageviewCount": 13504,
+    "pageviewCount": 973,
     "pageviewRank": -1,
     "serieCount": 21,
     "storyCount": 30
@@ -46,16 +47,16 @@
   "species": [
   ],
   "teams": [
-    "Sinister Syndicate",
-    "S.H.I.E.L.D",
-    "Klaw's Army",
+    "'s Army",
     "Defenders",
     "Emissaries of Evil",
-    "Legion Accursed",
-    "Sinister Six",
-    "Secret Defenders",
     "Klaw",
-    "'s Army"
+    "Klaw's Army",
+    "Legion Accursed",
+    "S.H.I.E.L.D",
+    "Secret Defenders",
+    "Sinister Six",
+    "Sinister Syndicate"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1921/rhino",

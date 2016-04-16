@@ -1,10 +1,10 @@
 {
   "aliases": [
     "Anna Marie",
-    "Rogue",
     "Anna Raven",
     "Dr. Kellogg",
-    "Miss Smith"
+    "Miss Smith",
+    "Rogue"
   ],
   "authors": [
   ],
@@ -27,16 +27,16 @@
   ],
   "powers": [
     "Absorption of powers",
-    "Skills",
-    "Memories by touch",
-    "Super strength",
+    "Details",
     "Flight",
-    "Details"
+    "Memories by touch",
+    "Skills",
+    "Super strength"
   ],
   "ranking": {
     "comicCount": 417,
     "eventCount": 19,
-    "pageviewCount": 48801,
+    "pageviewCount": 3316,
     "pageviewRank": -1,
     "serieCount": 112,
     "storyCount": 524
@@ -50,11 +50,11 @@
   ],
   "teams": [
     "Avengers Unity Division",
+    "Brotherhood of Evil Mutants",
+    "Jean Grey School",
     "X-Men",
     "XSE",
-    "Brotherhood of Evil Mutants",
-    "Xavier Institute",
-    "Jean Grey School"
+    "Xavier Institute"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/48/rogue",

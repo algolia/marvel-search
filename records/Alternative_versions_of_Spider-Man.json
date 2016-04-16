@@ -1,38 +1,73 @@
 {
   "aliases": [
-    "Alternative versions of Spider-Man"
+    "Ai Apaec",
+    "Alternative versions of Spider-Man",
+    "Decapitator",
+    "Spider-Man",
+    "Spider-Man 2211",
+    "Spider-Man to the Xth Power",
+    "Spider-X"
   ],
   "authors": [
+    "Jamie McKelvie",
+    "Kaare Andrews",
+    "Kelly Sue DeConnick",
+    "Mort Todd",
+    "Peter David",
+    "Rick Leonardi",
+    "Ron Frenz",
     "Stan Lee",
-    "Steve Ditko"
+    "Steve Ditko",
+    "Tom DeFalco"
   ],
-  "description": "In addition to his mainstream incarnation and series, Spider-Man has been depicted in other fictional universes.",
+  "description": "Spider-Man (also described as Spider-Men and Spider-Totem)  is the name of multiple comic book characters from the Marvel Comics Multiverse.",
   "images": {
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Spider-Verse_Spider-Men.jpg/250px-Spider-Verse_Spider-Men.jpg"
+    "background": null,
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/5317713c9e746/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
+  "isHero": true,
+  "isVillain": true,
   "mainColor": null,
-  "name": "Alternative versions of Spider-Man",
+  "name": "Spider-Man (1602)",
   "partners": [
   ],
   "powers": [
+    "Agility",
+    "Black magic",
+    "Cling to solid walls",
+    "Durability",
+    "Enhanced senses",
+    "Speed",
+    "Super-strength",
+    "Superhuman strength",
+    "Underwater adaption",
+    "Wall crawling"
   ],
   "ranking": {
-    "comicCount": 0,
+    "comicCount": 49,
     "eventCount": 0,
-    "pageviewCount": 11122,
+    "pageviewCount": 708,
     "pageviewRank": -1,
-    "serieCount": 0,
-    "storyCount": 0
+    "serieCount": 4,
+    "storyCount": 94
   },
   "secretIdentities": [
+    "Brian Kornfield",
+    "Dr. Max Borne",
+    "Gerald Drew",
+    "Gerry",
+    "Pavitr Prabhakar",
+    "Peter Parker"
   ],
   "species": [
+    "God"
   ],
   "teams": [
+    "Dark Avengers"
   ],
   "urls": {
+    "marvel": "http://marvel.com/characters/1011054/spider-man_1602/featured",
     "wikipedia": "https://en.wikipedia.org/wiki/Alternative_versions_of_Spider-Man"
   }
 }

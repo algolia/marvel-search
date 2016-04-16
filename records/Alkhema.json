@@ -1,15 +1,16 @@
 {
   "aliases": [
+    "Alkhema",
     "Alkhema-2",
-    "War Toy",
-    "Alkhema"
+    "War Toy"
   ],
   "authors": [
-    "Roy & Dann Thomas",
+    "Dann Thomas",
     "David Ross",
+    "Roy Thomas",
     "Tim Dzon"
   ],
-  "description": "Alkhema is a fictional robot supervillain in the Marvel Universe.",
+  "description": "Alkhema, also known as War Toy, is a fictional robot supervillain in the Marvel Universe.",
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Alkhema.jpg/250px-Alkhema.jpg"
   },
@@ -24,7 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1358,
+    "pageviewCount": 78,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

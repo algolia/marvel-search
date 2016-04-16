@@ -6,9 +6,9 @@
     "Voice"
   ],
   "authors": [
-    "Stan Lee",
+    "Don Heck",
     "Larry Lieber",
-    "Don Heck"
+    "Stan Lee"
   ],
   "description": "Voice is a Marvel Comics supervillain.",
   "images": {
@@ -19,17 +19,17 @@
   "mainColor": null,
   "name": "Voice",
   "partners": [
-    "Quicksilver",
-    "Scarlet Beetle",
     "Controller",
-    "Red Skull"
+    "Quicksilver",
+    "Red Skull",
+    "Scarlet Beetle"
   ],
   "powers": [
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 793,
+    "pageviewCount": 35,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -41,9 +41,9 @@
     "Human Mutant"
   ],
   "teams": [
+    "People's Defense Force",
     "Red Skull",
-    "Skeleton Crew",
-    "People's Defense Force"
+    "Skeleton Crew"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Voice_(comics)"

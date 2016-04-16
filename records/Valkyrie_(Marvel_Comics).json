@@ -1,8 +1,8 @@
 {
   "aliases": [
     "Barbara Denton-Norris",
-    "Sian Bowen",
     "Brunnhilde of Asgard",
+    "Sian Bowen",
     "Valkyrie"
   ],
   "authors": [
@@ -27,17 +27,17 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Stamina",
     "Durability",
-    "Slowed aging",
     "Endurance",
-    "Longevity"
+    "Longevity",
+    "Slowed aging",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 16,
     "eventCount": 1,
-    "pageviewCount": 15805,
+    "pageviewCount": 732,
     "pageviewRank": -1,
     "serieCount": 14,
     "storyCount": 17
@@ -48,11 +48,11 @@
   "species": [
   ],
   "teams": [
-    "Valkyrior",
-    "Secret Avengers",
-    "Defenders",
     "Asgard",
-    "Asgardians"
+    "Asgardians",
+    "Defenders",
+    "Secret Avengers",
+    "Valkyrior"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/62/valkyrie",

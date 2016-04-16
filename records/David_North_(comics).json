@@ -1,10 +1,10 @@
 {
   "aliases": [
-    "Christoph Nord",
-    "Maverick",
     "Agent Zero",
+    "Christoph Nord",
     "David North",
-    "David North, Maverick"
+    "David North, Maverick",
+    "Maverick"
   ],
   "authors": [
     "Jim Lee"
@@ -23,14 +23,14 @@
   ],
   "powers": [
     "Depowered",
-    "Kinetic blasts",
     "Inodorosity",
-    "Kinetic absorption"
+    "Kinetic absorption",
+    "Kinetic blasts"
   ],
   "ranking": {
     "comicCount": 20,
     "eventCount": 0,
-    "pageviewCount": 14215,
+    "pageviewCount": 1589,
     "pageviewRank": -1,
     "serieCount": 8,
     "storyCount": 20
@@ -43,11 +43,11 @@
     "Mutant"
   ],
   "teams": [
+    "CIA",
     "Cell Six",
-    "Weapon X",
     "Central Intelligence Agency",
     "Team X",
-    "CIA"
+    "Weapon X"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/102/agent_zero",

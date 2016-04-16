@@ -1,15 +1,15 @@
 {
   "aliases": [
-    "Mr. Valdez",
+    "Clay Rider",
     "El Arana",
     "La Tarantula",
-    "Clay Rider",
+    "Mr. Valdez",
     "Tarantula"
   ],
   "authors": [
-    "Ross Andru",
     "Alex Saviuk",
-    "Gerry Conway"
+    "Gerry Conway",
+    "Ross Andru"
   ],
   "description": "Alvarez replaced the original Tarantula after his death by the dictatorship Delvadian government.",
   "images": {
@@ -24,44 +24,47 @@
   "partners": [
   ],
   "powers": [
+    "Agility",
+    "Anointed with drugs",
     "Expert with a whip",
-    "Superhuman strength",
-    "Wrist blades",
     "Finger claws",
     "Great athlete",
-    "Peak level strength",
-    "Agility",
-    "Stamina",
-    "Reflexes",
     "High-level intellect",
-    "Skilled knife fighter",
-    "Usually envenomed",
-    "Web spinning",
     "Incredible agility",
     "Leaping",
+    "Peak level strength",
+    "Peak-level strength",
+    "Poisons",
+    "Reflexes",
+    "Skilled knife fighter",
+    "Skilled martial artist",
+    "Stamina",
+    "Superhuman strength",
+    "Usually envenomed",
     "Wall crawling",
-    "Skilled martial artist"
+    "Web spinning",
+    "Wrist blades"
   ],
   "ranking": {
     "comicCount": 7,
     "eventCount": 2,
-    "pageviewCount": 3673,
+    "pageviewCount": 224,
     "pageviewRank": -1,
     "serieCount": 4,
     "storyCount": 6
   },
   "secretIdentities": [
-    "Maria Vasquez",
-    "Clay Riley",
     "Anton Miguel Rodriguez",
-    "Luis Alvarez"
+    "Clay Riley",
+    "Luis Alvarez",
+    "Maria Vasquez"
   ],
   "species": [
   ],
   "teams": [
     "Boca Del Rios Fascist Government",
-    "Brand Corporation",
     "Boca Del Rios Revolutionist Forces",
+    "Brand Corporation",
     "Heroes for Hire"
   ],
   "urls": {

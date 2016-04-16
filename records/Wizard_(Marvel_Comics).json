@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Wingless Wizard",
     "Bentley Wittman",
     "The Wingless Wizard",
+    "Wingless Wizard",
     "Wizard"
   ],
   "authors": [
+    "Jack Kirby",
     "Larry Lieber",
-    "Stan Lee",
-    "Jack Kirby"
+    "Stan Lee"
   ],
   "description": "The Wizard (Bentley Wittman), also known as the Wingless Wizard, is a fictional character, a comic book supervillain in the Marvel Comics universe.",
   "images": {
@@ -21,17 +21,17 @@
   "partners": [
   ],
   "powers": [
-    "Talented escape artist",
-    "Stage magician",
-    "Mind control via helmet",
     "Genius-level intellect",
     "Master of disguise",
+    "Mind control via helmet",
+    "Stage magician",
+    "Talented escape artist",
     "Use of anti-gravity disks"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 3334,
+    "pageviewCount": 233,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -42,8 +42,8 @@
   "species": [
   ],
   "teams": [
-    "Intelligencia",
-    "Frightful Four"
+    "Frightful Four",
+    "Intelligencia"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Wizard_(Marvel_Comics)"

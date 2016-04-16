@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Pietro Maximoff",
+    "Mateo Maximoff",
     "Pietro Frank",
-    "Quicksilver",
-    "Mateo Maximoff"
+    "Pietro Maximoff",
+    "Quicksilver"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Quicksilver (Pietro Maximoff) is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
   "images": {
@@ -27,43 +27,29 @@
   "partners": [
   ],
   "powers": [
-    "Speedster",
-    "Supersonic speed",
-    "Reflexes",
-    "Enhanced strength",
-    "Endurance",
-    "Agility",
-    "Dexterity",
-    "Increased stamina",
-    "Fast metabolism",
-    "Vibration induction",
-    "Cyclone",
-    "Highwind generation"
+    "Speed of light",
+    "Speedster"
   ],
   "ranking": {
     "comicCount": 209,
     "eventCount": 8,
-    "pageviewCount": 88266,
+    "pageviewCount": 5173,
     "pageviewRank": 1600,
     "serieCount": 92,
     "storyCount": 212
   },
   "secretIdentities": [
-    "Pietro Maximoff",
-    "Pietro Django Maximoff"
+    "Pietro Django Maximoff <!--",
+    "Pietro Maximoff"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "Avengers Unity Division",
     "Avengers",
+    "Brotherhood of Evil Mutants",
     "Inhumans",
-    "X-Factor (Serval Industries)",
-    "Avengers Academy",
-    "Mighty Avengers",
-    "X-Factor",
-    "Brotherhood of Evil Mutants"
+    "X-Factor"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/44/quicksilver",

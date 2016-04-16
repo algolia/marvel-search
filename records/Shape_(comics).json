@@ -18,15 +18,15 @@
   "partners": [
   ],
   "powers": [
+    "Blob",
     "Malleable",
-    "Putty-like bodyblob",
     "Putty-like body",
-    "Blob"
+    "Putty-like bodyblob"
   ],
   "ranking": {
     "comicCount": 5,
     "eventCount": 0,
-    "pageviewCount": 472,
+    "pageviewCount": 31,
     "pageviewRank": -1,
     "serieCount": 4,
     "storyCount": 5
@@ -38,8 +38,8 @@
   ],
   "teams": [
     "Institute of Evil",
-    "Squadron Supreme",
-    "Redeemers"
+    "Redeemers",
+    "Squadron Supreme"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2068/shape",

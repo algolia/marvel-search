@@ -1,9 +1,11 @@
 {
   "aliases": [
-    "Frankenstein",
-    "Adam"
+    "Adam",
+    "Frankenstein"
   ],
   "authors": [
+    "Joe Maneely",
+    "Stan Lee"
   ],
   "images": {
     "background": null,
@@ -17,13 +19,13 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Stamina"
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 5,
     "eventCount": 1,
-    "pageviewCount": 2332,
+    "pageviewCount": 144,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 7

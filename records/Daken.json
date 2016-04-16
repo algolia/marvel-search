@@ -1,10 +1,10 @@
 {
   "aliases": [
-    "Dark Wolverine",
     "Daken",
-    "Wolverine",
     "Daken Akihiro",
-    "Death"
+    "Dark Wolverine",
+    "Death",
+    "Wolverine"
   ],
   "authors": [
     "Daniel Way",
@@ -23,17 +23,17 @@
   "partners": [
   ],
   "powers": [
-    "Hyper senses",
-    "Pheromone manipulation",
-    "Immune to telepathy",
     "Excellent martial artist",
-    "Retractable claws",
-    "Immunity to telepathy"
+    "Hyper senses",
+    "Immune to telepathy",
+    "Immunity to telepathy",
+    "Pheromone manipulation",
+    "Retractable claws"
   ],
   "ranking": {
     "comicCount": 33,
     "eventCount": 1,
-    "pageviewCount": 19551,
+    "pageviewCount": 1153,
     "pageviewRank": -1,
     "serieCount": 11,
     "storyCount": 35
@@ -45,10 +45,10 @@
     "Mutant"
   ],
   "teams": [
+    "Brotherhood of Mutants",
+    "Dark Avengers",
     "Dark X-Men",
     "Horsemen of Apocalypse",
-    "Dark Avengers",
-    "Brotherhood of Mutants",
     "Horsemen of Death"
   ],
   "urls": {

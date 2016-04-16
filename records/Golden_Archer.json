@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Hawkeye",
     "Black Archer",
-    "Golden Archer"
+    "Golden Archer",
+    "Hawkeye"
   ],
   "authors": [
-    "Roy Thomas",
-    "John Buscema"
+    "John Buscema",
+    "Roy Thomas"
   ],
   "description": "Golden Archer (Wyatt McDonald) is a fictional superhero that has appeared in various comic book series published by Marvel Comics.",
   "images": {
@@ -26,7 +26,7 @@
   "ranking": {
     "comicCount": 10,
     "eventCount": 3,
-    "pageviewCount": 1666,
+    "pageviewCount": 111,
     "pageviewRank": -1,
     "serieCount": 8,
     "storyCount": 8
@@ -37,9 +37,9 @@
   "species": [
   ],
   "teams": [
-    "Squadron Supreme",
+    "America Redeemers",
     "Redeemers",
-    "America Redeemers"
+    "Squadron Supreme"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1010808/hawkeye_kate_bishop/featured",

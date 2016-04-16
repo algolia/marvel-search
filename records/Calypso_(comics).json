@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "The Witch",
+    "Calypso",
     "Kraven Witch",
-    "Calypso"
+    "The Witch"
   ],
   "authors": [
-    "Dennis O'Neil",
     "Alan Weiss",
+    "Dennis O'Neil",
     "Denny O'Neil"
   ],
   "description": "Calypso is a fictional villain in the Marvel Comics universe, who first appeared in Amazing Spider-Man #209.",
@@ -22,14 +22,14 @@
   "partners": [
   ],
   "powers": [
-    "Use of potions",
     "Mind control",
-    "Resurrection"
+    "Resurrection",
+    "Use of potions"
   ],
   "ranking": {
     "comicCount": 5,
     "eventCount": 1,
-    "pageviewCount": 2903,
+    "pageviewCount": 175,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 5

@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Styx",
-    "Stone"
+    "Stone",
+    "Styx"
   ],
   "authors": [
-    "Todd McFarlane",
-    "David Michelinie"
+    "David Michelinie",
+    "Todd McFarlane"
   ],
   "description": "Styx and Stone (Jacob Eishorn and Gerald Stone) are two fictional comic book characters in the Marvel Comics universe.",
   "images": {
@@ -22,14 +22,14 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1218,
+    "pageviewCount": 79,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Jacob Eishorn",
     "Gerald Stone",
+    "Jacob Eishorn",
     "Jacob Eishorn (Styx) and Gerald Stone"
   ],
   "species": [

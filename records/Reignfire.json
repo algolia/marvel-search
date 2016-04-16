@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Sunspot",
     "Project Nineteen",
-    "Reignfire"
+    "Reignfire",
+    "Sunspot"
   ],
   "authors": [
-    "Fabian Nicieza & Matt Broome",
+    "& Matt Broome",
     "Fabian Nicieza",
-    "& Matt Broome"
+    "Fabian Nicieza & Matt Broome"
   ],
   "description": "Growing up in a wealthy Brazilian family, Roberto da Costa was forging a career as a skilled soccer player until his mutant nature manifested during a match.",
   "images": {
@@ -22,18 +22,18 @@
   "partners": [
   ],
   "powers": [
-    "Solar absorption",
-    "Rechanneling",
-    "Super strength",
     "Flight",
     "Projection of heat",
+    "Rechanneling",
+    "Solar absorption",
+    "Super strength",
     "Telepathic link",
     "With genetic host"
   ],
   "ranking": {
     "comicCount": 151,
     "eventCount": 10,
-    "pageviewCount": 766,
+    "pageviewCount": 63,
     "pageviewRank": -1,
     "serieCount": 48,
     "storyCount": 162
@@ -41,8 +41,8 @@
   "secretIdentities": [
   ],
   "species": [
-    "Mutant",
-    "Molecular cloning"
+    "Molecular cloning",
+    "Mutant"
   ],
   "teams": [
     "Mutant Liberation Front"

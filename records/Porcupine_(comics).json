@@ -3,12 +3,12 @@
     "Porcupine"
   ],
   "authors": [
+    "David Hine",
+    "Don Heck",
     "Jimmy Palmiotti",
     "Justin Gray",
-    "David Hine",
     "Khari Evans",
-    "Stan Lee",
-    "Don Heck"
+    "Stan Lee"
   ],
   "description": "Porcupine is any of three fictional characters in Marvel Comics.",
   "images": {
@@ -21,38 +21,38 @@
   "partners": [
   ],
   "powers": [
-    "Enhanced strength",
-    "Durability",
-    "Flight via boot jets",
     "21600.0",
     "Body",
-    "Right arm",
     "Claws",
-    "Wide variety of offensive",
-    "Defensive weapons"
+    "Defensive weapons",
+    "Durability",
+    "Enhanced strength",
+    "Flight via boot jets",
+    "Right arm",
+    "Wide variety of offensive"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1831,
+    "pageviewCount": 95,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
+    "Alexander Gentry",
     "Roger Gocking",
-    "William Nathaniel Bates",
-    "Alexander Gentry"
+    "William Nathaniel Bates"
   ],
   "species": [
     "Human",
     "Mutant"
   ],
   "teams": [
-    "United States Army",
     "Lethal Legion",
     "Maggia",
-    "Thunderbolts"
+    "Thunderbolts",
+    "United States Army"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Porcupine_(comics)"

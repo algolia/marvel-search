@@ -4,8 +4,8 @@
     "Puck"
   ],
   "authors": [
-    "Scott Lobdell",
-    "John Byrne"
+    "John Byrne",
+    "Scott Lobdell"
   ],
   "description": "Puck is the codename of two fictional characters, a father and daughter pair who are both members of Alpha Flight, in the Marvel Comics universe.",
   "images": {
@@ -20,20 +20,20 @@
   "partners": [
   ],
   "powers": [
-    "Skilled fighter",
-    "Superhuman longevity",
-    "Superhuman strength",
-    "Speed",
-    "Reflexes",
     "Agility",
     "Coordination",
+    "Durability",
     "Endurance",
-    "Durability"
+    "Reflexes",
+    "Skilled fighter",
+    "Speed",
+    "Superhuman longevity",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 49,
     "eventCount": 2,
-    "pageviewCount": 3981,
+    "pageviewCount": 315,
     "pageviewRank": -1,
     "serieCount": 14,
     "storyCount": 58
@@ -47,10 +47,10 @@
     "Mutant"
   ],
   "teams": [
-    "Uncanny X-Force",
     "Alpha Flight",
     "Beta Flight",
     "Gamma Flight",
+    "Uncanny X-Force",
     "X-Force"
   ],
   "urls": {

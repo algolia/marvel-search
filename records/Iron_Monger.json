@@ -20,22 +20,22 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Stamina",
-    "Speed",
-    "Flight",
-    "Energy blasts",
-    "Genius-level intellect",
     "Champion chess player",
-    "Use of circuits breaker",
     "Durability",
+    "Energy blasts",
+    "Flight",
+    "Genius-level intellect",
+    "Laser beam",
+    "Speed",
+    "Stamina",
     "Subsonic flight",
-    "Laser beam"
+    "Superhuman strength",
+    "Use of circuits breaker"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 11979,
+    "pageviewCount": 794,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -46,9 +46,9 @@
   "species": [
   ],
   "teams": [
-    "The Chessmen",
     "Stane International",
-    "Stark Industries"
+    "Stark Industries",
+    "The Chessmen"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1055/iron_monger",

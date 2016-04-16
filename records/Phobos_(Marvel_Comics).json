@@ -1,15 +1,15 @@
 {
   "aliases": [
+    "''Pre-Retcon:''",
     "God of Fear",
-    "Phobos",
     "God of War",
-    "''Pre-Retcon:''"
+    "Phobos"
   ],
   "authors": [
-    "Roy Thomas",
     "Jean-Marc Lofficier",
-    "Travel Foreman",
-    "Michael Avon Oeming"
+    "Michael Avon Oeming",
+    "Roy Thomas",
+    "Travel Foreman"
   ],
   "description": "Phobos is the name of two fictional comic book characters appearing in books published by Marvel Comics characters.",
   "images": {
@@ -22,30 +22,30 @@
   "partners": [
   ],
   "powers": [
-    "Precognition",
+    "''pre-retcon:''",
     "Control others",
-    "Super strength",
     "Endurance",
-    "''pre-retcon:''"
+    "Precognition",
+    "Super strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2027,
+    "pageviewCount": 142,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Phobos",
-    "Alexander Aaron"
+    "Alexander Aaron",
+    "Phobos"
   ],
   "species": [
     "Olympian"
   ],
   "teams": [
-    "Secret Warriors",
-    "Olympians"
+    "Olympians",
+    "Secret Warriors"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Phobos_(Marvel_Comics)"

@@ -1,8 +1,8 @@
 {
   "aliases": [
-    "Tempest",
     "Angel",
-    "Angel Salvadore"
+    "Angel Salvadore",
+    "Tempest"
   ],
   "authors": [
     "Ethan Van Sciver",
@@ -26,14 +26,14 @@
   "partners": [
   ],
   "powers": [
-    "Flight",
     "Acid spit",
+    "Flight",
     "Insectoid physiology"
   ],
   "ranking": {
     "comicCount": 4,
     "eventCount": 0,
-    "pageviewCount": 12527,
+    "pageviewCount": 1009,
     "pageviewRank": -1,
     "serieCount": 4,
     "storyCount": 4
@@ -46,11 +46,14 @@
     "Mutant"
   ],
   "teams": [
+    "Brotherhood of Mutants",
+    "Exemplars training squad",
     "Hellfire Club",
     "New Warriors",
+    "Special Class",
+    "Teen Brigade",
     "X-Mansion",
-    "Brotherhood of Mutants",
-    "Teen Brigade"
+    "Xavier Institute"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1011396/angel_thomas_halloway/featured",

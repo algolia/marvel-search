@@ -4,10 +4,10 @@
     "actual identities the character uses"
   ],
   "authors": [
-    "Mark Gruenwald J. Michael StraczynskiGary Frank",
-    "Mark Gruenwald",
+    "Gary Frank",
     "J. Michael Straczynski",
-    "Gary Frank"
+    "Mark Gruenwald",
+    "Mark Gruenwald J. Michael StraczynskiGary Frank"
   ],
   "description": "Redstone is the name of two characters from Marvel Comics.",
   "images": {
@@ -20,29 +20,29 @@
   "partners": [
   ],
   "powers": [
-    "Invulnerability",
-    "Flash-vision",
     "(first) super-strength",
-    "(second) super strength"
+    "(second) super strength",
+    "Flash-vision",
+    "Invulnerability"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 583,
+    "pageviewCount": 38,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Michael Redstone",
-    "(both) Michael Redstone"
+    "(both) Michael Redstone",
+    "Michael Redstone"
   ],
   "species": [
   ],
   "teams": [
-    "Squadron Supreme",
+    "Chinese government",
     "Redeemers",
-    "Chinese government"
+    "Squadron Supreme"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Redstone_(comics)"

@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "The Orb",
-    "Orb"
+    "Orb",
+    "The Orb"
   ],
   "authors": [
-    "Len Wein",
     "Bill Rosemann",
-    "Ross Andru",
-    "Guy Davis"
+    "Guy Davis",
+    "Len Wein",
+    "Ross Andru"
   ],
   "description": "The Orb is the name of two Marvel Comics supervillains who are primarily an adversary of Ghost Rider.",
   "images": {
@@ -19,20 +19,20 @@
   "name": "Orb",
   "partners": [
     "Doctor Midas",
-    "Justin Hammer",
     "Exterminatrix",
+    "Justin Hammer",
     "Zadkiel"
   ],
   "powers": [
     "Hypnotize people",
+    "Marksman",
     "Master martial artist",
-    "Swordsman",
-    "Marksman"
+    "Swordsman"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1695,
+    "pageviewCount": 440,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

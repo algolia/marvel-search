@@ -4,9 +4,9 @@
     "Maria Castle"
   ],
   "authors": [
+    "Howard Chaykin",
     "Matt Fraction",
-    "Rick Remender",
-    "Howard Chaykin"
+    "Rick Remender"
   ],
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/LadyGorgonPunisher.jpg/250px-LadyGorgonPunisher.jpg"
@@ -16,16 +16,18 @@
   "mainColor": null,
   "name": "Lady Gorgon",
   "partners": [
-    "Silhouette",
-    "Illumination"
+    "Illumination",
+    "Silhouette"
   ],
   "powers": [
-    "Telepathy"
+    "Firearms",
+    "Telepathy",
+    "Use of blades"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 827,
+    "pageviewCount": 62,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

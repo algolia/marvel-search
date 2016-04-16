@@ -1,15 +1,15 @@
 {
   "aliases": [
-    "Iron Lad",
-    "Rama-Tut",
-    "Victor Timely",
-    "Scarlet Centurion",
     "Immortus",
-    "Kang the Conqueror"
+    "Iron Lad",
+    "Kang the Conqueror",
+    "Rama-Tut",
+    "Scarlet Centurion",
+    "Victor Timely"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Kang the Conqueror is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
   "images": {
@@ -24,29 +24,29 @@
   "partners": [
   ],
   "powers": [
-    "Genius-level intellect",
-    "Master tactician",
-    "Strategist",
-    "Expert historical scholar",
-    "Master physicist",
-    "Engineer",
-    "Technician",
-    "Hand to hand combatant",
-    "Tactician",
-    "Resistance to radiation",
-    "Enhanced strength",
-    "Energy",
-    "Hologram",
-    "Force-field projection",
     "30 day supply of air",
+    "Energy",
+    "Engineer",
+    "Enhanced strength",
+    "Expert historical scholar",
     "Food",
-    "Use of ray-gun",
-    "Ultra-diode"
+    "Force-field projection",
+    "Genius-level intellect",
+    "Hand to hand combatant",
+    "Hologram",
+    "Master physicist",
+    "Master tactician",
+    "Resistance to radiation",
+    "Strategist",
+    "Tactician",
+    "Technician",
+    "Ultra-diode",
+    "Use of ray-gun"
   ],
   "ranking": {
     "comicCount": 7,
     "eventCount": 0,
-    "pageviewCount": 37046,
+    "pageviewCount": 1493,
     "pageviewRank": -1,
     "serieCount": 4,
     "storyCount": 6
@@ -57,8 +57,8 @@
   "species": [
   ],
   "teams": [
-    "Cross-Time Kangs",
-    "Council of Kangs"
+    "Council of Kangs",
+    "Cross-Time Kangs"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1051/iron_lad",

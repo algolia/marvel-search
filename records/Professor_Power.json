@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "The Professor",
     "Number One",
-    "Professor Power"
+    "Professor Power",
+    "The Professor"
   ],
   "authors": [
-    "J. M. DeMatteis",
-    "Herb Trimpe"
+    "Herb Trimpe",
+    "J. M. DeMatteis"
   ],
   "description": "Professor Power (Anthony Power) is a fictional character in the Marvel Comics Universe.",
   "images": {
@@ -23,7 +23,7 @@
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 505,
+    "pageviewCount": 67,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 5
@@ -34,9 +34,9 @@
   "species": [
   ],
   "teams": [
+    "Mutant Force",
     "Resistants",
-    "Secret Empire",
-    "Mutant Force"
+    "Secret Empire"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1807/professor",

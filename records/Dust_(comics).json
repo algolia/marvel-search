@@ -1,10 +1,11 @@
 {
   "aliases": [
-    "Dust"
+    "Dust",
+    "Sooraya Qadir"
   ],
   "authors": [
-    "Frank Quitely",
     "Ethan Van Sciver",
+    "Frank Quitely",
     "Grant Morrison"
   ],
   "description": "Dust (real name Sooraya Qadir), is a fictional character, a superheroine in Marvel Comics' X-Men-related comic books.",
@@ -25,7 +26,7 @@
   "ranking": {
     "comicCount": 8,
     "eventCount": 0,
-    "pageviewCount": 5065,
+    "pageviewCount": 296,
     "pageviewRank": -1,
     "serieCount": 6,
     "storyCount": 7
@@ -37,14 +38,14 @@
     "Mutant"
   ],
   "teams": [
-    "New X-Men",
-    "Young X-Men",
-    "X-Mansion",
     "Hellions",
     "Hellions training squad",
-    "Xavier Institute",
+    "Jean Grey School Students",
+    "New X-Men",
+    "X-Mansion",
     "X-Men-In-Training",
-    "Jean Grey School Students"
+    "Xavier Institute",
+    "Young X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/588/dust",

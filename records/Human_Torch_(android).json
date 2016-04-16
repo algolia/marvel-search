@@ -1,9 +1,9 @@
 {
   "aliases": [
+    "Human Torch",
     "Jim Hammond",
-    "The Torch",
     "The Original Human Torch",
-    "Human Torch"
+    "The Torch"
   ],
   "authors": [
     "Carl Burgos"
@@ -26,15 +26,15 @@
   "partners": [
   ],
   "powers": [
-    "Skilled unarmed combatant",
     "Fire manipulation",
+    "Flight",
     "Resistance",
-    "Flight"
+    "Skilled unarmed combatant"
   ],
   "ranking": {
     "comicCount": 783,
     "eventCount": 17,
-    "pageviewCount": 10052,
+    "pageviewCount": 677,
     "pageviewRank": -1,
     "serieCount": 236,
     "storyCount": 1283
@@ -46,15 +46,15 @@
   "species": [
   ],
   "teams": [
-    "Invaders",
-    "S.H.I.E.L.D",
-    "Legion of the Unliving",
     "All-Winners Squad",
-    "V-Battalion",
-    "West Coast Avengers",
-    "Secret Avengers",
     "Heroes for Hire",
-    "The Descendants"
+    "Invaders",
+    "Legion of the Unliving",
+    "S.H.I.E.L.D",
+    "Secret Avengers",
+    "The Descendants",
+    "V-Battalion",
+    "West Coast Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/26/human_torch",

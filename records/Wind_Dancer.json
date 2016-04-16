@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Wind Dancer",
-    "Renascence"
+    "Renascence",
+    "Wind Dancer"
   ],
   "authors": [
-    "Nunzio DeFilippis",
     "Christina Weir",
-    "Keron Grant"
+    "Keron Grant",
+    "Nunzio DeFilippis"
   ],
   "description": "Given the codename Wind Dancer, Sofia Mantega stepped up to lead the New Mutants.",
   "images": {
@@ -21,19 +21,19 @@
   "partners": [
   ],
   "powers": [
-    "Minimal athlete",
-    "Martial artist",
-    "Flight",
-    "Personal force field",
-    "Personal",
-    "Force field",
     "Air",
+    "Flight",
+    "Force field",
+    "Martial artist",
+    "Minimal athlete",
+    "Personal",
+    "Personal force field",
     "Wind manipulation"
   ],
   "ranking": {
     "comicCount": 1,
     "eventCount": 1,
-    "pageviewCount": 1769,
+    "pageviewCount": 107,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 1
@@ -47,8 +47,8 @@
   ],
   "teams": [
     "New Mutants",
-    "New Warriors",
-    "New Mutants training squad"
+    "New Mutants training squad",
+    "New Warriors"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2577/wind_dancer",

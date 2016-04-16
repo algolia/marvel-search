@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "Legacy",
     "Captain Marvel",
-    "Photon",
-    "Genis-Vell"
+    "Genis-Vell",
+    "Legacy",
+    "Photon"
   ],
   "authors": [
-    "Ron Marz",
-    "Ron Lim"
+    "Ron Lim",
+    "Ron Marz"
   ],
   "description": "Genis-Vell, also known as Legacy, Captain Marvel, and Photon, is a fictional superhero (and sometime antihero) in the Marvel Comics universe.",
   "images": {
@@ -22,21 +22,21 @@
   "partners": [
   ],
   "powers": [
-    "Flight",
-    "Super strength",
-    "Speed",
-    "Stamina",
+    "Absorption",
+    "Dimension transportation",
     "Durability",
     "Energy blasts",
-    "Absorption",
+    "Flight",
     "Manipulation",
-    "Dimension transportation",
+    "Speed",
+    "Stamina",
+    "Super strength",
     "Wields nega-bands"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 5429,
+    "pageviewCount": 294,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -48,8 +48,8 @@
   ],
   "teams": [
     "Kree",
-    "Thunderbolts",
-    "Kree Space Navy"
+    "Kree Space Navy",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/784/genis-vell",

@@ -3,8 +3,8 @@
     "Silver Samurai"
   ],
   "authors": [
-    "Steve Gerber",
-    "Bob Brown"
+    "Bob Brown",
+    "Steve Gerber"
   ],
   "description": "Keniuchio Harada is the mutant son of the former Japanese crimelord Shingen Harada.",
   "images": {
@@ -17,25 +17,25 @@
   "mainColor": null,
   "name": "Silver Samurai",
   "partners": [
+    "Black Spectre",
     "Mandrill",
-    "Viper",
-    "Black Spectre"
+    "Viper"
   ],
   "powers": [
-    "Teleportation ring",
-    "Master samurai",
-    "Martial artist",
+    "Adamantium",
     "Carries katana",
-    "Shuriken",
-    "Other weapons",
-    "Tachyon",
     "Except",
-    "Adamantium"
+    "Martial artist",
+    "Master samurai",
+    "Other weapons",
+    "Shuriken",
+    "Tachyon",
+    "Teleportation ring"
   ],
   "ranking": {
     "comicCount": 24,
     "eventCount": 0,
-    "pageviewCount": 15460,
+    "pageviewCount": 1968,
     "pageviewRank": -1,
     "serieCount": 13,
     "storyCount": 19
@@ -47,9 +47,9 @@
     "Mutant"
   ],
   "teams": [
+    "Big Hero 6",
     "Clan Yashida",
     "HYDRA",
-    "Big Hero 6",
     "Legion Accursed"
   ],
   "urls": {

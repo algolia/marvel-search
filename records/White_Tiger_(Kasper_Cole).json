@@ -4,8 +4,8 @@
     "White Tiger"
   ],
   "authors": [
-    "Dan Fraga",
-    "Christopher Priest"
+    "Christopher Priest",
+    "Dan Fraga"
   ],
   "description": "Federal agent Angela Del Toro is the heir to a heroic legacy that began with the Jade Tiger, a long-lost enchanted statue from the fabled kingdom of K'un-Lun, and had been last held by her uncle, Hector Ayala, who fought alongside such heroes as Daredevil and Spider-Man.",
   "images": {
@@ -20,32 +20,32 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman eyesight",
-    "Night vision",
-    "Speed",
-    "Reflexes",
-    "Reactions",
     "Agility",
-    "Durability"
+    "Durability",
+    "Night vision",
+    "Reactions",
+    "Reflexes",
+    "Speed",
+    "Superhuman eyesight"
   ],
   "ranking": {
     "comicCount": 10,
     "eventCount": 1,
-    "pageviewCount": 1400,
+    "pageviewCount": 73,
     "pageviewRank": -1,
     "serieCount": 6,
     "storyCount": 8
   },
   "secretIdentities": [
-    "Kevin Cole",
-    "Kasper"
+    "Kasper",
+    "Kevin Cole"
   ],
   "species": [
   ],
   "teams": [
-    "The Crew",
+    "NYPD",
     "New York City Police Department",
-    "NYPD"
+    "The Crew"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2559/white_tiger",

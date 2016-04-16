@@ -4,8 +4,8 @@
     "Medusa"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Medusa is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
   "images": {
@@ -25,19 +25,19 @@
   "partners": [
   ],
   "powers": [
+    "Accomplished thief",
+    "Agility",
+    "Durability",
     "Prehensile hair",
-    "Superhuman strength",
+    "Reflexes",
     "Speed",
     "Stamina",
-    "Durability",
-    "Agility",
-    "Reflexes",
-    "Accomplished thief"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 70,
     "eventCount": 2,
-    "pageviewCount": 14558,
+    "pageviewCount": 837,
     "pageviewRank": -1,
     "serieCount": 40,
     "storyCount": 68
@@ -49,14 +49,14 @@
     "Inhumans"
   ],
   "teams": [
-    "Frightful Four",
-    "Illuminati",
-    "Future Foundation",
-    "Lady Liberators",
+    "A-Force",
     "Fantastic Four",
-    "Inhumans",
+    "Frightful Four",
+    "Future Foundation",
+    "Illuminati",
     "Inhuman Royal Family",
-    "A-Force"
+    "Inhumans",
+    "Lady Liberators"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/36/medusa",

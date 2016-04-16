@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "White Gorilla",
-    "Man-Ape"
+    "Man-Ape",
+    "White Gorilla"
   ],
   "authors": [
-    "Roy Thomas",
-    "John Buscema"
+    "John Buscema",
+    "Roy Thomas"
   ],
   "description": "Man-Ape is a fictional character, a supervillain in the Marvel Comics Universe, and frequent enemy of the Black Panther.",
   "images": {
@@ -20,16 +20,16 @@
     "Saboteur"
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
     "Agility",
+    "Durability",
+    "Speed",
     "Stamina",
-    "Durability"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 5294,
+    "pageviewCount": 242,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -41,9 +41,10 @@
     "Human Mutate"
   ],
   "teams": [
-    "Villans for Hire",
+    "Lethal Legion",
     "Masters of Evil",
-    "Lethal Legion"
+    "Villains for Hire",
+    "Villans for Hire"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Man-Ape"

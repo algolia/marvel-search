@@ -19,19 +19,19 @@
   "partners": [
   ],
   "powers": [
-    "Telekinesis",
-    "Psychic resistance",
-    "Retractable claws",
-    "Wrist grappling hook",
-    "Gymnast",
-    "Psychic senses",
     "Force field generation",
-    "Grappling hooks"
+    "Grappling hooks",
+    "Gymnast",
+    "Psychic resistance",
+    "Psychic senses",
+    "Retractable claws",
+    "Telekinesis",
+    "Wrist grappling hook"
   ],
   "ranking": {
     "comicCount": 25,
     "eventCount": 0,
-    "pageviewCount": 268551,
+    "pageviewCount": 6951,
     "pageviewRank": -1,
     "serieCount": 15,
     "storyCount": 25
@@ -44,10 +44,10 @@
     "Human"
   ],
   "teams": [
-    "Legion of the Unliving",
+    "Avengers",
     "Defenders",
     "Lady Liberators",
-    "Avengers"
+    "Legion of the Unliving"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/939/hellcat",

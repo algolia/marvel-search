@@ -3,10 +3,10 @@
     "Amphibion"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
-  "description": "Amphibion (Qnax) is a fictional character, and a rival of the Hulk in the Marvel Comics universe.",
+  "description": "Amphibion is a fictional character in the Marvel Universe.",
   "images": {
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Amphibion.jpg/250px-Amphibion.jpg"
   },
@@ -17,15 +17,13 @@
   "partners": [
   ],
   "powers": [
-    "Super strength",
-    "Invulnerability",
-    "Underwater breathing",
-    "Expert fighter"
+    "On the surface",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 728,
+    "pageviewCount": 47,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -36,6 +34,7 @@
   "species": [
   ],
   "teams": [
+    "Hulk-Hunters"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Amphibion"

@@ -3,10 +3,10 @@
     "Nuke"
   ],
   "authors": [
-    "J. Michael Straczynski",
+    "Don Perlin",
     "Gary Frank",
     "J. M. DeMatteis",
-    "Don Perlin"
+    "J. Michael Straczynski"
   ],
   "description": "Nuke is a superhero from Earth-712 in the fictional Marvel Universe, a member of the Squadron Supreme and later its rebooted equivalent, Supreme Power.",
   "images": {
@@ -21,15 +21,15 @@
   "partners": [
   ],
   "powers": [
-    "Invulnerability",
     "Flight",
-    "Superhuman strength",
-    "Radiation projection"
+    "Invulnerability",
+    "Radiation projection",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 3348,
+    "pageviewCount": 169,
     "pageviewRank": -1,
     "serieCount": 4,
     "storyCount": 6

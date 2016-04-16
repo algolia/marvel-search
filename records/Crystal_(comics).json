@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "The People's Princess",
+    "Crystal",
     "Crystalia Amaquelin-Maximoff",
-    "Crystal"
+    "The People's Princess"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Crystal (full name Crystalia Amaquelin) is a fictional character, a superhero in the Marvel Comics Universe.",
   "images": {
@@ -21,25 +21,25 @@
   "partners": [
   ],
   "powers": [
-    "Inhuman physiology",
     "Air",
-    "Wind manipulation",
-    "Earth",
-    "Metal manipulation",
-    "Fire",
-    "Heat manipulation",
-    "Water",
-    "Moisture manipulation",
-    "Electricity manipulation",
-    "Ice",
     "Cold manipulation",
+    "Earth",
+    "Electricity manipulation",
+    "Fire",
+    "Flight",
+    "Heat manipulation",
+    "Ice",
+    "Inhuman physiology",
+    "Metal manipulation",
+    "Moisture manipulation",
+    "Water",
     "Weather manipulation",
-    "Flight"
+    "Wind manipulation"
   ],
   "ranking": {
     "comicCount": 59,
     "eventCount": 4,
-    "pageviewCount": 12427,
+    "pageviewCount": 744,
     "pageviewRank": -1,
     "serieCount": 32,
     "storyCount": 68
@@ -50,9 +50,9 @@
   "species": [
   ],
   "teams": [
-    "Inhumans",
+    "Avengers",
     "Fantastic Four",
-    "Avengers"
+    "Inhumans"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009255/crystal",

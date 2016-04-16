@@ -1,13 +1,13 @@
 {
   "aliases": [
     "Jack Russell",
-    "Werewolf By Night",
-    "Jack Russell (adopted name)"
+    "Jack Russell (adopted name)",
+    "Werewolf By Night"
   ],
   "authors": [
-    "Roy Thomas",
     "Gerry Conway",
-    "Mike Ploog"
+    "Mike Ploog",
+    "Roy Thomas"
   ],
   "description": "Jack Russell inherited the curse of lycanthropy from his father, Gregor.",
   "images": {
@@ -22,20 +22,20 @@
   "partners": [
   ],
   "powers": [
-    "Razor sharp claws",
-    "Teeth",
-    "Superhuman strength",
-    "Speed",
-    "Stamina",
     "Agility",
     "Durability",
+    "Razor sharp claws",
     "Reflexes",
-    "Sense of smell"
+    "Sense of smell",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Teeth"
   ],
   "ranking": {
     "comicCount": 30,
     "eventCount": 0,
-    "pageviewCount": 5467,
+    "pageviewCount": 336,
     "pageviewRank": -1,
     "serieCount": 11,
     "storyCount": 43
@@ -47,8 +47,8 @@
   "species": [
   ],
   "teams": [
-    "Midnight Sons",
     "Legion of Monsters",
+    "Midnight Sons",
     "Night Shift"
   ],
   "urls": {

@@ -3,8 +3,8 @@
     "Poison"
   ],
   "authors": [
-    "Steve Gerber",
-    "Cynthia Martin"
+    "Cynthia Martin",
+    "Steve Gerber"
   ],
   "description": "Poison is the name of two fictional comic book characters, owned by Marvel Comics.",
   "images": {
@@ -16,17 +16,17 @@
   "partners": [
   ],
   "powers": [
-    "Mass teleportation",
-    "Superhuman strength",
-    "Endurance",
     "Agility",
+    "Endurance",
+    "Flight",
+    "Mass teleportation",
     "Reflexes",
-    "Flight"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 608,
+    "pageviewCount": 32,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

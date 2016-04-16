@@ -2,9 +2,9 @@
   "aliases": [
     "Bobby Drake",
     "Drake Roberts",
-    "Mister Friese",
     "Frosty",
-    "Iceman"
+    "Iceman",
+    "Mister Friese"
   ],
   "authors": [
     "Jack Kirby",
@@ -28,46 +28,41 @@
   "partners": [
   ],
   "powers": [
-    "Thermokinesis",
-    "Cryokinesis",
-    "Hydrokinesis",
-    "Conversion",
-    "Thermal vision",
     "Augmented strength",
+    "Cold generation",
+    "Conversion",
+    "Cryokinesis",
     "Durability",
-    "Generating ice",
-    "Snow",
-    "Superhuman strength",
-    "Durability in ice form"
+    "Hydrokinesis",
+    "Ice",
+    "Thermal vision",
+    "Thermokinesis"
   ],
   "ranking": {
     "comicCount": 397,
     "eventCount": 17,
-    "pageviewCount": 30890,
+    "pageviewCount": 2092,
     "pageviewRank": -1,
     "serieCount": 120,
     "storyCount": 466
   },
   "secretIdentities": [
-    "Robert Louis Drake",
-    "Bobby"
+    "Bobby",
+    "Robert Louis Drake"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
-    "The Twelve",
-    "X-Terminators",
-    "Defenders",
-    "X-Factor",
-    "X-Men",
-    "X-Mansion",
+    "All-New X-Men",
     "Cataclysm Keys",
     "Champions",
-    "All-New X-Men",
-    "Secret Defenders",
-    "Jean Grey School",
-    "All New X-Men"
+    "Defenders",
+    "The Twelve",
+    "X-Factor",
+    "X-Mansion",
+    "X-Men",
+    "X-Terminators"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/27/iceman",

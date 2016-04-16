@@ -2,14 +2,14 @@
   "aliases": [
     "Alex Summers",
     "Alexander Summers",
-    "Mutant X",
-    "Magistrate Summers",
     "Goblin Prince",
-    "Havok"
+    "Havok",
+    "Magistrate Summers",
+    "Mutant X"
   ],
   "authors": [
-    "Don Heck",
     "Arnold Drake",
+    "Don Heck",
     "Neal Adams"
   ],
   "description": "Havok (Alexander \"Alex\" Summers) is a fictional character, a mutant superhero in the Marvel Comics Universe and member of the X-Men.",
@@ -30,41 +30,41 @@
   "partners": [
   ],
   "powers": [
+    "Cyclops'",
     "Energy blasts",
     "Immunity to",
-    "Cyclops'",
     "Optic blasts"
   ],
   "ranking": {
     "comicCount": 232,
     "eventCount": 13,
-    "pageviewCount": 49413,
+    "pageviewCount": 2838,
     "pageviewRank": -1,
     "serieCount": 78,
     "storyCount": 251
   },
   "secretIdentities": [
-    "Alexander Summers",
-    "Alex"
+    "Alex",
+    "Alexander Summers"
   ],
   "species": [
     "Mutant"
   ],
   "teams": [
+    "Avengers Unity Squad",
+    "Brotherhood",
     "Brotherhood of Mutants",
     "Defenders",
-    "Starjammers",
-    "X-Factor",
-    "X-Men",
-    "Uncanny Avengers",
-    "X-Factor Investigations",
+    "Defenders for a Day",
+    "Genoshan Magistrates",
     "Magistrates",
     "Mutant X",
-    "Avengers Unity Squad",
+    "Starjammers",
     "The Six",
-    "Brotherhood",
-    "Genoshan Magistrates",
-    "Defenders for a Day"
+    "Uncanny Avengers",
+    "X-Factor",
+    "X-Factor Investigations",
+    "X-Men"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/22/havok",

@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Tony Stark",
+    "Iron Man",
     "The Invincible Iron Man",
-    "Iron Man"
+    "Tony Stark"
   ],
   "authors": [
     "Don Heck",
-    "Stan Lee",
     "Jack Kirby",
-    "Larry Lieber"
+    "Larry Lieber",
+    "Stan Lee"
   ],
   "description": "Wounded, captured and forced to build a weapon by his enemies, billionaire industrialist Tony Stark instead created an advanced suit of armor to save his life and escape captivity. Now with a new outlook on life, Tony uses his money and intelligence to make the world a safer, better place as Iron Man.",
   "images": {
@@ -26,31 +26,31 @@
   },
   "name": "Iron Man",
   "partners": [
-    "War Machine",
     "Pepper Potts",
-    "Rescue"
+    "Rescue",
+    "War Machine"
   ],
   "powers": [
-    "Genius-level intellect",
-    "Engineer",
     "Businessperson",
-    "Superhuman strength",
+    "Cyberpathic",
     "Durability",
     "Energy repulsors",
-    "Missiles",
-    "Regenerative life support",
+    "Engineer",
     "Genius",
-    "Via",
-    "Powered armored suit",
-    "Cyberpathic",
+    "Genius-level intellect",
+    "Life support",
     "Missile",
+    "Missiles",
+    "Powered armored suit",
     "Regenerative",
-    "Life support"
+    "Regenerative life support",
+    "Superhuman strength",
+    "Via"
   ],
   "ranking": {
     "comicCount": 1980,
     "eventCount": 24,
-    "pageviewCount": 212765,
+    "pageviewCount": 9425,
     "pageviewRank": 2111,
     "serieCount": 447,
     "storyCount": 2903
@@ -63,20 +63,20 @@
     "Human"
   ],
   "teams": [
-    "The New Avengers",
-    "Stark Resilient",
-    "Guardians of the Galaxy",
-    "S.H.I.E.L.D",
-    "Force Works",
-    "Illuminati",
-    "Thunderbolts",
-    "The Mighty Avengers",
-    "United States Department of Defense",
-    "West Coast Avengers",
-    "Stark Industries",
     "Avengers",
     "Department of Defense",
-    "New Avengers"
+    "Force Works",
+    "Guardians of the Galaxy",
+    "Illuminati",
+    "New Avengers",
+    "S.H.I.E.L.D",
+    "Stark Industries",
+    "Stark Resilient",
+    "The Mighty Avengers",
+    "The New Avengers",
+    "Thunderbolts",
+    "United States Department of Defense",
+    "West Coast Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/comics/characters/1009368/iron_man",

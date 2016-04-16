@@ -1,8 +1,8 @@
 {
   "aliases": [
     "Mortimer Toynbee",
-    "The Terrible Toad-King",
     "Stranger",
+    "The Terrible Toad-King",
     "Toad"
   ],
   "authors": [
@@ -22,23 +22,23 @@
   "partners": [
   ],
   "powers": [
-    "Expert kickboxer",
-    "Mechanic",
-    "Machinist",
     "Adhesive spit",
-    "Superhuman leg",
-    "Tongue strength",
-    "Endurance",
     "Agility",
-    "Reflexes",
-    "Coordination",
     "Balance",
-    "Leaping"
+    "Coordination",
+    "Endurance",
+    "Expert kickboxer",
+    "Leaping",
+    "Machinist",
+    "Mechanic",
+    "Reflexes",
+    "Superhuman leg",
+    "Tongue strength"
   ],
   "ranking": {
     "comicCount": 32,
     "eventCount": 1,
-    "pageviewCount": 10437,
+    "pageviewCount": 682,
     "pageviewRank": -1,
     "serieCount": 24,
     "storyCount": 23
@@ -51,11 +51,11 @@
   ],
   "teams": [
     "Brotherhood of Mutants",
-    "The Misfits",
-    "X-Mansion",
-    "The 198",
     "Defenders",
-    "Jean Grey School"
+    "Jean Grey School",
+    "The 198",
+    "The Misfits",
+    "X-Mansion"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2387/toad",

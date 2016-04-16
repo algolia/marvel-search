@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Thor",
-    "Mister Hyde"
+    "Mister Hyde",
+    "Thor"
   ],
   "authors": [
-    "Stan Lee",
-    "Don Heck"
+    "Don Heck",
+    "Stan Lee"
   ],
   "description": "<p class=\"Body\">When the Odinson lost his ability to wield Mjolnir, the role of Thor, God of Thunder, was left unoccupied&hellip;albeit for a short time. A mysterious female figure picked up the hammer with ease, changing the inscription to fit her status as the Goddess of Thunder.</p>",
   "images": {
@@ -18,24 +18,24 @@
   "mainColor": null,
   "name": "Thor (Goddess of Thunder)",
   "partners": [
-    "Mac Gargan",
-    "Jester",
+    "Batroc",
     "Batroc the Leaper",
     "Cobra",
-    "Scorpion",
-    "Batroc"
+    "Jester",
+    "Mac Gargan",
+    "Scorpion"
   ],
   "powers": [
-    "Superhuman strength",
-    "Stamina",
     "Durability",
+    "Genius-level intellect",
     "Resistance to injury",
-    "Genius-level intellect"
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 15915,
+    "pageviewCount": 912,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -47,8 +47,8 @@
   ],
   "teams": [
     "Lethal Legion",
-    "Thunderbolts",
-    "Masters of Evil"
+    "Masters of Evil",
+    "Thunderbolts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1017576/thor_goddess_of_thunder/featured",

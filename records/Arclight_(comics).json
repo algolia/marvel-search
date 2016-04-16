@@ -18,15 +18,18 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman strength",
-    "Endurance",
     "Durability",
-    "Earth tremors"
+    "Earth tremors",
+    "Endurance",
+    "Geo tremors",
+    "Resiliency",
+    "Stamina",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 13,
     "eventCount": 3,
-    "pageviewCount": 4769,
+    "pageviewCount": 402,
     "pageviewRank": -1,
     "serieCount": 5,
     "storyCount": 12
@@ -39,8 +42,8 @@
   ],
   "teams": [
     "Femizons",
-    "The 198",
-    "Marauders"
+    "Marauders",
+    "The 198"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/182/arclight",

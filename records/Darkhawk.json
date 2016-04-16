@@ -1,13 +1,13 @@
 {
   "aliases": [
-    "The Powell",
-    "Falconer",
+    "Darkhawk",
     "Edge-Man",
-    "Darkhawk"
+    "Falconer",
+    "The Powell"
   ],
   "authors": [
-    "Tom DeFalco",
-    "Mike Manley"
+    "Mike Manley",
+    "Tom DeFalco"
   ],
   "description": "Darkhawk (Christopher Powell) is a fictional comic book superhero who first appeared in Darkhawk #1 (1991).",
   "images": {
@@ -22,35 +22,35 @@
   "partners": [
   ],
   "powers": [
-    "Night vision",
-    "Flight",
+    "Claw cable",
     "Energy blasts",
-    "Superhuman strength",
     "Energy shield",
-    "Claw cable"
+    "Flight",
+    "Night vision",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 5453,
+    "pageviewCount": 396,
     "pageviewRank": -1,
     "serieCount": 2,
     "storyCount": 7
   },
   "secretIdentities": [
-    "Christopher Powell",
-    "Chris"
+    "Chris",
+    "Christopher Powell"
   ],
   "species": [
   ],
   "teams": [
-    "Loners",
     "Defenders",
-    "New Warriors",
     "Features of the Marvel Universe",
-    "West Coast Avengers",
+    "Loners",
+    "New Warriors",
     "Project Pegasus",
-    "Secret Defenders"
+    "Secret Defenders",
+    "West Coast Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/509/darkhawk",

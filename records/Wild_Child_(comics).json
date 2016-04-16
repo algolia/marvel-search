@@ -1,9 +1,9 @@
 {
   "aliases": [
     "Weapon Omega",
-    "Wildheart",
+    "Weapon Omega, Wildheart",
     "Wild Child",
-    "Weapon Omega, Wildheart"
+    "Wildheart"
   ],
   "authors": [
     "John Byrne"
@@ -21,23 +21,23 @@
   "partners": [
   ],
   "powers": [
-    "Superhuman senses",
-    "Speed",
     "Agility",
-    "Reflexes",
-    "Coordination",
     "Balance",
+    "Coordination",
     "Endurance",
-    "Slowed aging process",
-    "Razor sharp claws",
     "Fangs",
+    "Healing factor",
+    "Razor sharp claws",
+    "Reflexes",
     "Regenerative",
-    "Healing factor"
+    "Slowed aging process",
+    "Speed",
+    "Superhuman senses"
   ],
   "ranking": {
     "comicCount": 17,
     "eventCount": 1,
-    "pageviewCount": 3715,
+    "pageviewCount": 294,
     "pageviewRank": -1,
     "serieCount": 13,
     "storyCount": 13
@@ -49,11 +49,11 @@
     "Mutant"
   ],
   "teams": [
-    "Omega Flight",
-    "X-Factor",
     "Alpha Flight",
     "Gamma Flight",
-    "Weapon X"
+    "Omega Flight",
+    "Weapon X",
+    "X-Factor"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2567/wild_child",

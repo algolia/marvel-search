@@ -1,8 +1,8 @@
 {
   "aliases": [
     "Paralyzer",
-    "Shocker",
-    "Randall Darby"
+    "Randall Darby",
+    "Shocker"
   ],
   "authors": [
     "Jack Kirby"
@@ -23,7 +23,7 @@
   "ranking": {
     "comicCount": 21,
     "eventCount": 2,
-    "pageviewCount": 519,
+    "pageviewCount": 49,
     "pageviewRank": -1,
     "serieCount": 13,
     "storyCount": 23
@@ -35,9 +35,10 @@
     "Mutant"
   ],
   "teams": [
+    "Brotherhood of Evil Mutants",
     "Brotherhood of Mutants",
-    "Resistants",
     "Mutant Force",
+    "Resistants",
     "Secret Empire"
   ],
   "urls": {

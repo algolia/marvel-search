@@ -1,10 +1,10 @@
 {
   "aliases": [
-    "Josiah Bradley",
-    "Josiah X",
-    "Justice",
     "A-39",
-    "Josiah Smith"
+    "Josiah Bradley",
+    "Josiah Smith",
+    "Josiah X",
+    "Justice"
   ],
   "authors": [
     "Christopher Priest",
@@ -23,18 +23,18 @@
   "partners": [
   ],
   "powers": [
-    "Speed",
     "Agility",
-    "Dexterity",
-    "Reflexes/reactions",
-    "Coordination",
     "Balance",
-    "Endurance"
+    "Coordination",
+    "Dexterity",
+    "Endurance",
+    "Reflexes/reactions",
+    "Speed"
   ],
   "ranking": {
     "comicCount": 2,
     "eventCount": 0,
-    "pageviewCount": 1419,
+    "pageviewCount": 82,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 2
@@ -45,9 +45,9 @@
   "species": [
   ],
   "teams": [
-    "United States Army",
     "The Crew",
-    "U.S. Army"
+    "U.S. Army",
+    "United States Army"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1100/josiah_x",

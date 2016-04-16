@@ -1,7 +1,7 @@
 {
   "aliases": [
-    "Black Queen",
     "Black Priestess",
+    "Black Queen",
     "Selene"
   ],
   "authors": [
@@ -19,25 +19,25 @@
   "mainColor": null,
   "name": "Selene",
   "partners": [
-    "Senyaka",
-    "Eli Bard",
-    "Wither",
-    "Lois London",
     "Blink",
-    "Mortis"
+    "Eli Bard",
+    "Lois London",
+    "Mortis",
+    "Senyaka",
+    "Wither"
   ],
   "powers": [
-    "Telekinesis",
-    "Telepathy",
     "Animation",
-    "Powers",
     "Flame manipulation",
-    "Reality warping"
+    "Powers",
+    "Reality warping",
+    "Telekinesis",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 18,
     "eventCount": 1,
-    "pageviewCount": 28629,
+    "pageviewCount": 1312,
     "pageviewRank": -1,
     "serieCount": 8,
     "storyCount": 16

@@ -1,9 +1,9 @@
 {
   "aliases": [
+    "Captain Universe",
     "Guardian of Eternity",
     "The Avenging Angel",
-    "The Hero That Could Be You",
-    "Captain Universe"
+    "The Hero That Could Be You"
   ],
   "authors": [
     "Bill Mantlo",
@@ -22,22 +22,22 @@
   "partners": [
   ],
   "powers": [
-    "Flight",
-    "Telekinesis",
-    "Time travel",
-    "Superhuman strength",
-    "Speed",
-    "Stamina",
     "Agility",
     "Durability",
+    "Energy blasts",
+    "Flight",
     "Power enhancement",
     "Senses",
-    "Energy blasts"
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
+    "Telekinesis",
+    "Time travel"
   ],
   "ranking": {
     "comicCount": 17,
     "eventCount": 1,
-    "pageviewCount": 5584,
+    "pageviewCount": 356,
     "pageviewRank": -1,
     "serieCount": 10,
     "storyCount": 20
@@ -48,11 +48,11 @@
   "species": [
   ],
   "teams": [
-    "Guardians of the Galaxy",
-    "Badoon",
     "Avengers",
-    "Micronauts",
-    "Kree"
+    "Badoon",
+    "Guardians of the Galaxy",
+    "Kree",
+    "Micronauts"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/392/captain_universe",

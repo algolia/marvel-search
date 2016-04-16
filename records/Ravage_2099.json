@@ -4,8 +4,8 @@
     "Ravage 2099"
   ],
   "authors": [
-    "Stan Lee",
-    "Paul Ryan"
+    "Paul Ryan",
+    "Stan Lee"
   ],
   "description": "Ravage 2099 (Paul-Phillip Ravage) is a Marvel Comics superhero, a fictional character.",
   "images": {
@@ -18,22 +18,22 @@
   "partners": [
   ],
   "powers": [
-    "Possesses horns",
-    "Fangs",
-    "Claws on hands",
-    "Feet",
-    "Enhanced strength",
-    "Speed",
-    "Durability",
-    "Stamina",
     "Agility",
+    "Claws on hands",
+    "Durability",
+    "Enhanced strength",
+    "Fangs",
+    "Feet",
+    "Healing factor",
+    "Possesses horns",
     "Senses",
-    "Healing factor"
+    "Speed",
+    "Stamina"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1396,
+    "pageviewCount": 89,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -44,10 +44,10 @@
   "species": [
   ],
   "teams": [
-    "ECO",
     "Alchemax",
-    "Green Berets",
-    "ECO, Alchemax, Green Berets"
+    "ECO",
+    "ECO, Alchemax, Green Berets",
+    "Green Berets"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Ravage_2099"

@@ -3,8 +3,8 @@
     "Black Tom Cassidy"
   ],
   "authors": [
-    "Dave Cockrum",
-    "Chris Claremont"
+    "Chris Claremont",
+    "Dave Cockrum"
   ],
   "description": "\"Black Tom\" Cassidy (Thomas Samuel Eamon Cassidy) is a Marvel Comics supervillain, an enemy of the X-Men, and archenemy of Banshee.",
   "images": {
@@ -15,16 +15,19 @@
   "mainColor": null,
   "name": "Black Tom Cassidy",
   "partners": [
-    "Siryn",
-    "Juggernaut"
+    "Juggernaut",
+    "Siryn"
   ],
   "powers": [
+    "''formerly:''",
+    "Banshee",
+    "Immunity to powers of",
     "Plant manipulation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 4042,
+    "pageviewCount": 281,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0

@@ -3,9 +3,9 @@
     "Machete"
   ],
   "authors": [
+    "Dan Slott",
     "Mike Carlin",
     "Paul Neary",
-    "Dan Slott",
     "Paul Pelletier"
   ],
   "description": "Machete is the name of three fictional characters in the Marvel Comics Universe.",
@@ -19,23 +19,23 @@
   ],
   "powers": [
     "Athletic skills",
-    "Expert with bladed",
-    "Throwing weapons",
     "Experienced tactician",
-    "Wears kevlar flak jacket",
-    "Possesses various weapons"
+    "Expert with bladed",
+    "Possesses various weapons",
+    "Throwing weapons",
+    "Wears kevlar flak jacket"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 719,
+    "pageviewCount": 47,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Mariano Lopez",
-    "Ferdinand Lopez"
+    "Ferdinand Lopez",
+    "Mariano Lopez"
   ],
   "species": [
   ],

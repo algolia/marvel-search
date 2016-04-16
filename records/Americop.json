@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Americop"
+    "Americop",
+    "actual identities the character uses"
   ],
   "authors": [
     "Dave Hoover",
@@ -17,20 +18,22 @@
   "partners": [
   ],
   "powers": [
-    "Trained marksman",
-    "Martial artist"
+    "Marksman",
+    "Martial artist",
+    "Trained",
+    "Trained marksman"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 821,
+    "pageviewCount": 56,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Bartholomew Gallows",
-    "Bart"
+    "Bart",
+    "Bartholomew Gallows"
   ],
   "species": [
   ],

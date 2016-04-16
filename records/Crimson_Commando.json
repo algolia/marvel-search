@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Cyborg X",
     "Commando",
-    "Crimson Commando"
+    "Crimson Commando",
+    "Cyborg X"
   ],
   "authors": [
-    "Chris Claremont",
-    "Alan Davis"
+    "Alan Davis",
+    "Chris Claremont"
   ],
   "description": "Crimson Commando (Frank Bohannan) is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
@@ -24,7 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 921,
+    "pageviewCount": 54,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -36,9 +36,9 @@
     "Mutant"
   ],
   "teams": [
+    "Brotherhood of Mutants",
     "Freedom Force",
-    "Wideawake",
-    "Brotherhood of Mutants"
+    "Wideawake"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Crimson_Commando"

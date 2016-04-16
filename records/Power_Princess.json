@@ -1,14 +1,14 @@
 {
   "aliases": [
     "Claire Debussy",
-    "Princess of Power",
-    "Power Princess"
+    "Power Princess",
+    "Princess of Power"
   ],
   "authors": [
-    "Gary Frank",
-    "J. Michael Straczynski",
     "Don Perlin",
-    "J. M. DeMatteis"
+    "Gary Frank",
+    "J. M. DeMatteis",
+    "J. Michael Straczynski"
   ],
   "description": "Zarda, more commonly known as Power Princess, is a fictional comic book character appearing in books published by Marvel Comics.",
   "images": {
@@ -22,40 +22,40 @@
     "Hyperion"
   ],
   "powers": [
-    "Superhuman strength",
-    "Speed",
-    "Stamina",
-    "Durability",
-    "Agility",
-    "Reflexes",
     "Above normal intelligence",
+    "Agility",
+    "Durability",
+    "Experienced armed",
+    "Extended longevity",
     "Flight",
     "Life-force absorption",
+    "Reflexes",
+    "Speed",
+    "Stamina",
+    "Superhuman strength",
     "Transference",
-    "Experienced armed",
-    "Unarmed combatant",
-    "Extended longevity"
+    "Unarmed combatant"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 5869,
+    "pageviewCount": 346,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Zarda Shelton",
-    "Princess Zarda"
+    "Princess Zarda",
+    "Zarda Shelton"
   ],
   "species": [
     "Utopians"
   ],
   "teams": [
     "Exiles",
-    "Ultimates",
     "Golden Agency",
-    "Squadron Supreme"
+    "Squadron Supreme",
+    "Ultimates"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Power_Princess"

@@ -4,8 +4,8 @@
     "Unicorn"
   ],
   "authors": [
-    "Stan Lee",
-    "Jack Kirby"
+    "Jack Kirby",
+    "Stan Lee"
   ],
   "description": "Milos Masaryk, a Soviet intelligence agent assigned as a security guard for Anton Vanko, a Soviet inventor who developed the Crimson Dynamo armor, was tasked by the Soviet government to retrieve Vanko after he defected to the United States.",
   "images": {
@@ -18,22 +18,22 @@
   "mainColor": null,
   "name": "Unicorn",
   "partners": [
-    "Titanium Man",
-    "Red Ghost",
     "Count Nefaria",
-    "Mandarin"
+    "Mandarin",
+    "Red Ghost",
+    "Titanium Man"
   ],
   "powers": [
-    "Marksman",
-    "Flight via rocket belt",
-    "Superhuman strength",
     "Energy projection",
-    "Force field generation"
+    "Flight via rocket belt",
+    "Force field generation",
+    "Marksman",
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 1862,
+    "pageviewCount": 156,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 1
@@ -44,8 +44,8 @@
   "species": [
   ],
   "teams": [
-    "Maggia",
-    "KGB"
+    "KGB",
+    "Maggia"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2450/unicorn",

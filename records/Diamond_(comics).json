@@ -1,12 +1,12 @@
 {
   "aliases": [
-    "Kent Chang",
-    "Diamond"
+    "Diamond",
+    "Kent Chang"
   ],
   "authors": [
-    "Julia Coppola",
     "Chris Matonti",
-    "J.D. Matonti"
+    "J.D. Matonti",
+    "Julia Coppola"
   ],
   "description": "Diamond (Kent Chang) is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics.",
   "images": {
@@ -19,18 +19,18 @@
   "partners": [
   ],
   "powers": [
-    "Limited super strength",
-    "Elite martial artist",
-    "Invulnerable",
     "Diamond",
-    "Hard skin",
     "Elite",
+    "Elite martial artist",
+    "Hard skin",
+    "Invulnerable",
+    "Limited super strength",
     "Martial artist"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 203,
+    "pageviewCount": 14,
     "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
@@ -43,8 +43,8 @@
   ],
   "teams": [
     "A.P.N.G",
-    "Gabriel",
-    "A.P.N.G., Gabriel"
+    "A.P.N.G., Gabriel",
+    "Gabriel"
   ],
   "urls": {
     "wikipedia": "https://en.wikipedia.org/wiki/Diamond_(comics)"

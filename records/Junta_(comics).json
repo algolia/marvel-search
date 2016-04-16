@@ -1,11 +1,11 @@
 {
   "aliases": [
-    "Junta",
-    "Danny Vincent"
+    "Danny Vincent",
+    "Junta"
   ],
   "authors": [
-    "Dan Fraga",
-    "Christopher Priest"
+    "Christopher Priest",
+    "Dan Fraga"
   ],
   "description": "Junta is a fictional antihero in Marvel Comics' shared universe, the Marvel Universe.",
   "images": {
@@ -25,7 +25,7 @@
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 712,
+    "pageviewCount": 42,
     "pageviewRank": -1,
     "serieCount": 1,
     "storyCount": 1
@@ -36,10 +36,10 @@
   "species": [
   ],
   "teams": [
-    "The Crew",
+    "C.I.A",
     "Central Intelligence Agency",
     "Defenders",
-    "C.I.A"
+    "The Crew"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1108/junta",
