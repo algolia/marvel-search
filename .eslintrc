@@ -1,9 +1,10 @@
 {
   "globals": {
-    "_": true,
-    "$": true,
+    "cleanUpStubs": true,
+    "inViewport": true,
     "instantsearch": true,
-    "cleanUpStubs": true
+    "$": true,
+    "_": true
   },
   "extends": "algolia",
   "rules": {

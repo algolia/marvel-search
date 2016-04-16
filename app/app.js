@@ -10,7 +10,6 @@
 //
 //  When matching an alias or a power, display it
 //
-//  Maybe add lazy-loading of images?
 
 let Marvel = {
   init() {
@@ -18,8 +17,15 @@ let Marvel = {
       appId: 'O3F8QXYK6R',
       apiKey: '78e45b023b7ff7d8ba88c59c9db19890',
       indexName: 'marvel',
-      urlSync: true
+      urlSync: true,
+      searchFunction: (helper) => {
+        // Reset the lazyloadCounter
+        Marvel.lazyloadCounter = 0;
+        helper.search();
+      }
     });
+
+    this.search.on('render', this.onRender);
 
     this.addSearchBoxWidget();
     this.addStatsWidget();
@@ -109,10 +115,20 @@ let Marvel = {
       background = './img/profile-bg-default.gif';
     }
 
+    // All items are defered loading their images until in viewport, except
+    // the 4 first
+    let inViewport = false;
+    if (Marvel.lazyloadCounter === undefined || Marvel.lazyloadCounter < 4) {
+      console.info('show', data);
+      inViewport = true;
+    }
+    Marvel.lazyloadCounter++;
+
     return {
       uuid: data.objectID,
       name: Marvel.getHighlightedValue(data, 'name'),
       description: Marvel.getHighlightedValue(data, 'description'),
+      inViewport,
       mainColorHexa,
       mainColorRgb,
       thumbnail,
@@ -125,6 +141,16 @@ let Marvel = {
       return object[property];
     }
     return object._highlightResult[property].value;
+  },
+  // Enable lazyloading of images below the fold
+  onRender() {
+    let hits = $('.hit');
+    function onVisible(hit) {
+      $(hit).addClass('hit__inViewport');
+    }
+    _.each(hits, (hit) => {
+      inViewport(hit, {offset: 50}, onVisible);
+    });
   },
   addSearchBoxWidget() {
     this.search.addWidget(
@@ -187,7 +213,7 @@ let Marvel = {
     this.search.addWidget(
       instantsearch.widgets.hits({
         container: '#hits',
-        hitsPerPage: 4,
+        hitsPerPage: 10,
         templates: {
           empty: emptyTemplate,
           item: hitTemplate
