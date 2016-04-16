@@ -598,12 +598,12 @@ describe('HelperString', () => {
       expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
     });
 
-    it('should remove entries with only "\'s"', () => {
+    it('should remove entries starting with "\'s"', () => {
       // Given
       let input = [
         "'s",
         'Foo',
-        "'s",
+        "'s crime syndicate",
         'Bar',
         "'s",
         'Baz'
