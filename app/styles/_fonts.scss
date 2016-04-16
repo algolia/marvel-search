@@ -1,2 +1,30 @@
+// Titles
+@font-face {
+  font-family: 'Title';
+  src: url('../fonts/PalookaBold.otf');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TitleBold';
+  src: url('../fonts/PalookaRegular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+// Text
+@font-face {
+  font-family: 'Text';
+  src: url('../fonts/CrimeRegular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TextBold';
+  src: url('../fonts/CrimeBold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
 @import url(https://fonts.googleapis.com/css?family=Marvel);
 

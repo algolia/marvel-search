@@ -31,9 +31,9 @@ a {
   }
 }
 
-h1, h2, h3, h4, h5, h6,
-p {
-  font-family: 'Marvel', helvetica neue, sans-serif;
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Title', Helvetica, sans-serif;
+  text-shadow: 1px 1px 1px lighten(#000, 50);
 }
 
 input {

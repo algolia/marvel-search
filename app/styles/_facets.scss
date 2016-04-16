@@ -22,6 +22,7 @@ $checkbox-active-background-color: #F11E22;
   line-height: 1.3rem;
   margin: 0;
   overflow: hidden;
+  white-space: nowrap;
   padding-left: $checkbox-width + 5px;
   position: relative;
   &:hover {
@@ -78,6 +79,6 @@ $checkbox-active-background-color: #F11E22;
   bottom: 0;
   right: 0;
   background: #FFF;
-  box-shadow: -6px 0px 6px 0px #FFF;
+  box-shadow: -6px 0px 10px 2px #FFF;
   color: #888;
 }

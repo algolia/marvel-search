@@ -80,35 +80,29 @@
 
       <script id="hitTemplate" language="x-template">
         <article class="hit">
-        {{#images.thumbnail}}
-        <div class="hit--picture-wrapper" style="background: url({{images.thumbnail}})no-repeat center center / cover">
-        {{/images.thumbnail}}
-        {{^images.thumbnail}}
-        <div class="hit--picture-wrapper" style="background: url('./default.jpg')no-repeat center center / cover">
-        {{/images.thumbnail}}
+          <div class="hit--thumbnail" style="background-image:url({{thumbnail}})"></div>
 
-        </div>
-        <div class="hit--desc-wrapper">
-        <h3>{{{_highlightResult.name.value}}}</h3>
+          <div class="hit--content">
+            <h3 class="hit--title">{{{name}}}</h3>
 
-        {{#description}}
-        <div class="hit--description"><p>{{{description}}}</p></div>
-        {{/description}}
-
-        <hr/>
-        <div class="hit--powers">
-        {{#powersSummary}}
-        <span class="power">{{.}}</span>
-        {{/powersSummary}}
-        </div>
-
-        <div class="hit--footer">
-        </div>
-        </div>
-        <textarea class="dump" style="display:none">{{{data}}}</textarea>
+            {{#description}}
+            <p class="hit--description">{{{description}}}</p>
+            {{/description}}
+          </div>
         </article>
       </script>
 
+        <!-- <hr/> -->
+        <!-- <div class="hit--powers"> -->
+        <!-- {{#powersSummary}} -->
+        <!-- <span class="power">{{.}}</span> -->
+        <!-- {{/powersSummary}} -->
+        <!-- </div> -->
+
+        <!-- <div class="hit--footer"> -->
+        <!-- </div> -->
+        <!-- </div> -->
+        <!-- <textarea class="dump" style="display:none">{{{data}}}</textarea> -->
       <!-- svg sprite -->
       <!-- <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px"  xml:space="preserve"> -->
       <!--   <defs> -->

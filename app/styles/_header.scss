@@ -1,13 +1,13 @@
 $input-height: $header-height - 8px;
-$input-color-inactive: rgba(255, 255, 255, .8);
-$input-color-active: #FFF;
-$input-width-inactive: 330px;
-$input-width-active: 430px;
+$input-color-bright: #FFF;
+$input-color-dim: rgba(255, 255, 255, .8);
+$input-color-dimmer: rgba(255, 255, 255, .6);
+$input-width: 380px;
 
 // Header
 .l-header {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: row nowrap;
   background: $red;
 }
 
@@ -21,17 +21,18 @@ $input-width-active: 430px;
 .header--input-wrapper {
   flex: 0;
   position: relative;
-  flex-basis: $input-width-active;
+  flex-basis: $input-width;
+  height: $header-height;
 }
-
 .header--input {
   border: 0;
-  border-bottom: 2px solid $input-color-inactive;
+  border-bottom: 2px solid $input-color-dimmer;
+  color: $input-color-dim;
   height: $input-height;
   display: block;
   font-size: 1rem;
   line-height: $header-height;
-  width: $input-width-inactive;
+  width: $input-width;
   transition: width 0.3s ease;
   background: {
     color: transparent;
@@ -41,36 +42,105 @@ $input-width-active: 430px;
     size: 36px;
   }
   @include placeholders{
-    color: $input-color-inactive;
+    color: $input-color-dim;
   }
   &:focus {
     outline-color: transparent;
-    width: $input-width-active;
-    border-color: $input-color-active;
-    color: $input-color-active;
+    border-color: $input-color-bright;
+    color: $input-color-bright;
+    @include placeholders{
+      color: $input-color-dimmer;
+    }
   }
 }
 
+// Stats and current refined values
 .header--infos {
-  flex: 1 1 auto;
+  flex: 1 1;
   position: relative;
 }
-
-.header--stats {
-  position: absolute;
-  bottom: .4rem;
-  right: .5rem;
-  font-size: 0.9em;
-  color: rgba(white, 0.8)
+// Current refined values
+.header--current-refined-values {
+  height: $header-height;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+// instantsearch.js adds a div here... I need it to force the child to use the
+// flex display
+.ais-current-refined-values--body > div:first-child {
+  display: flex;
+}
+.ais-current-refined-values--list {
+  // Force displaying only one line by setting a height and hiding what
+  // overflows. Elements actually go to a next line at the end, but are hidden
+  // because of the overflow:hidden + height
+  display: flex;
+  flex-flow: row wrap;
+  height: 1rem;
+  line-height: 1rem;
+  margin-top: 4px;
+  overflow: hidden;
+  // This is also itself a flex element, along with the "clear all"
+  flex: 1;
+}
+.ais-current-refined-values--item {
+  font-size: .9rem;
+  flex: 1 1 content;
+  // Add + for all items after the first one
+  + .ais-current-refined-values--item:before {
+    content: "+";
+    color: rgba(#FFF, 0.8);
+    padding: 0 2px;
+  }
+}
+.ais-current-refined-values--link {
+  color: rgba(#FFF, 0.8);
+  &:hover {
+    color: #FFF;
+    text-decoration: line-through;
+  }
+  // instantsearch.js does add a div in here, with no class, which I have to
+  // maunally "disable" :/
+  div {
+    display: inline;
+  }
+}
+.ais-current-refined-values--count {
+  display: none;
+}
+.ais-current-refined-values--clear-all {
+  // Take only the width of the content and do not expand
+  flex: 0 1 auto;
+  background: rgba(#FFF, .8);
+  color: $red;
+  font-size: .8rem;
+  padding: 4px 6px;
+  border-radius: 4px;
+  margin-right: 10px;
+  &:hover {
+    background: #FFF;
+  }
 }
 
+// Stats
+.header--stats {
+  position: absolute;
+  bottom: 0;
+  right: 10px;
+  font-size: 0.9em;
+  color: rgba(white, 0.6)
+}
+
+// Powered by Algolia
 .header--algolia {
   flex: 1 1 content;
   color: #FFF;
   text-align: right;
   line-height: $header-height;
-  padding: 1rem .5rem 0 .5rem;
+  padding: 1.3rem .5rem 0 .5rem;
   vertical-align: bottom;
+  white-space: nowrap;
   &:hover {
     color: #FFF;
   }

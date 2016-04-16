@@ -1,3 +1,14 @@
+// TODO:
+// Add background comic image on each hit. Change color on hover?
+// Set color of highlight based on character color?
+//
+// Clicking on one character will open the profile page
+// Display more information
+// Side if enough space
+//  => Reduce width of characters accordingly
+//  => If space for only one, display on the bottom
+//
+//  When matching an alias or a power, display it
 let Marvel = {
   init() {
     this.search = instantsearch({
@@ -22,16 +33,19 @@ let Marvel = {
     this.search.start();
   },
   transformItem(data) {
-    // Add a default image if none exists
-    if (!data.image) {
-      data.image = './default.jpg';
+    let thumbnail = _.get(data, 'images.thumbnail');
+    if (!thumbnail) {
+      thumbnail = './img/hit-default.jpg';
     }
-    data.image = data.image.replace(/^https?:/, '');
+    thumbnail = thumbnail.replace(/^https?:/, '');
 
-    data.description = Marvel.getHighlightedValue(data, 'description');
-    data.name = Marvel.getHighlightedValue(data, 'name');
-    data.powersSummary = data.powers.slice(0, 5);
-    data.data = JSON.stringify(data);
+    return {
+      name: Marvel.getHighlightedValue(data, 'name'),
+      description: Marvel.getHighlightedValue(data, 'description'),
+      thumbnail
+    };
+    // data.data = JSON.stringify(data);
+
 
     return data;
   },
@@ -45,7 +59,7 @@ let Marvel = {
     this.search.addWidget(
       instantsearch.widgets.searchBox({
         container: '#q',
-        placeholder: 'Search any superhero or supervillain'
+        placeholder: 'Search for any character, power, secret identity'
       })
     );
   },
@@ -128,11 +142,11 @@ let Marvel = {
       })
     );
   },
-  addRefinementList(){
+  addRefinementList() {
     this.search.addWidget(
       instantsearch.widgets.currentRefinedValues({
         container: '#current-refined-values',
-        clearAll: 'after'
+        clearAll: 'before'
       })
     );
   },
