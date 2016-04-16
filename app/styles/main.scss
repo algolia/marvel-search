@@ -1,17 +1,15 @@
-@import 'variables',
-          // 'cssvg',
-        'mixins',
-        'base',
-          'fonts',
-          'helpers';
+@import 'vendors/reset';
+@import 'variables';
+@import 'mixins';
+@import 'base';
+@import 'fonts';
 
-@import 'layout',
-        'header',
-        'sidebar',
-        'facets',
-        'hits';
-        // 'button',
-        // 'profile',
-        // 'factions',
-        // 'pagination'
+@import 'layout';
+@import 'header';
+@import 'sidebar';
+@import 'facets';
+@import 'hits';
+@import 'profile';
+
+@import 'pagination';
 

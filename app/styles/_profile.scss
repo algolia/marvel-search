@@ -1,161 +1,298 @@
-.hero-profile {
-  max-width: $profile-bar-width;
-  width: 20%;
-  height: calc(100% - #{$header-height});
-  position: fixed;
-  float: left;
-  background: $third-color;
-  transform: translateX(#{$profile-bar-width});
-  top: $header-height;
+.l-profile {
+  // border-left: 1px solid #CCC;
+  background: #eff0f1;
+}
+
+.profile--header {
+  height: 200px;
+  position: relative;
+  border-bottom: 6px solid #000;
+}
+
+// Close button (cross)
+.profile--close {
+  position: absolute;
+  top: .2rem;
+  right: .5rem;
+  width: 35px;
+  height: 35px;
+  background: url(img/svg-icons/icon-close.svg);
+}
+
+// Header image. Loads the default one as default, and the specific one if
+// possible afterwards
+.profile--background {
+  position: absolute;
+  top: 0;
   right: 0;
-  transition: transform 0.3s ease;
-  border-left: 1px solid darken($third-color, 10%);
-  padding: 0 16px;
-  overflow: auto;
-
-  &.shown {
-    transform: translateX(0);
+  bottom: 0;
+  left: 0;
+  // Default fallback image
+  background: {
+    image: url('./img/profile-bg-default.gif');
+    repeat: no-repeat;
+    position: top center;
+    size: cover;
   }
-
-
-  header {
-    min-height: 220px;
-    width: calc(100% + 32px);
-    position: relative;
+  // Specific image
+  &:before {
+    content: "";
+    position: absolute;
     top: 0;
-    left: -16px;
-    border-bottom: 6px solid #FFF;
-    box-shadow: 0 2px 1px rgba(255,255,255,1);
-
+    right: 0;
+    bottom: 0;
+    left: 0;
     background: {
-      image: url('http://i.annihil.us/u/prod/marvel/i/mg/6/90/537ba2184e75f.gif');
       repeat: no-repeat;
-      position: center center;
+      position: top center;
       size: cover;
     }
-
-    margin-bottom: 3em;
-
-    &:after {
-      content: '';
-      display: block;
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      top: 0;
-      left: 0;
-      background: red;
-      z-index: 1;
-      mix-blend-mode: color
-    }
-  }
-
-  .hero-name,
-  .hero-secret-identity {
-    position: absolute;
-    width: 100%;
-    text-align: center;
-    left: 50%;
-    margin: auto;
-    top: 30%;
-    color: #fff;
-    font-size: 1.8em;
-    display: block;
-    transform: translate(-50%, -50%);
-    z-index: 5;
-
-    em {
-      text-decoration: none;
-      font-style: normal;
-    }
-  }
-  .hero-secret-identity {
-    top: 58%;
-    font-size: 1.4em;
-
-    &:before {
-      content: 'AKA';
-      position: absolute;
-      left: 0;
-      right: 0;
-      margin: auto;
-      top: -26px;
-      font-size: 0.9em;
-      color: rgba(white, 0.5);
-    }
-  }
-  .hero-avatar {
-    max-width: 100px;
-    max-height: 100px;
-    min-height: 100px;
-    border-radius: 100%;
-    position: absolute;
-    left: 0;
-    right: 0;
-    margin: 0 auto;
-    bottom: -50px;
-    overflow: hidden;
-    border: 6px solid #fff;
-    z-index: 5;
-
-    img {
-      width: 105%;
-      height: 105%;
-      position: absolute;
-      left: 0;
-      right: 0;
-      margin: auto;
-      transform: scale(1.3);
-    }
-  }
-
-  &[data-hero="true"] header{
-
-  }
-  &[data-villain="true"] header{
-
-  }
-  &[data-hero="false"][data-villain="false"] header{
-
-  }
-
-
-  .facet--title {
-    margin-top: 1em;
-
-    &:nth-of-type(1){
-      margin-top: 2em;
-    }
-  }
-  .hero-description {
-    padding-top: 1em;
-    margin-top: 1em;
-
-    p {
-      font-size: 18px;
-      line-height: 22px;
-      font-weight: 400;
-      color: darken(#BDC3C7, 35%);
-      font-weight: bold;
-
-    }
-  }
-
-  .hero-powers {
-    float: left;
-
   }
 }
 
+// Hero name
+.profile--name {
+  position: absolute;
+  width: $profile-width - 30px;
+  left: 50%;
+  margin-left: -#{($profile-width - 30px)/ 2};
+  top: 20%;
+  text-align: center;
+  font-family: 'Title';
+  text-shadow: 1px 1px 1px lighten(#000, 50);
+  color: #FFF;
+  font-size: 3rem;
+}
 
-//
-
-  #closeProfile {
-    position: absolute;
-    top: 16px;
-    left: 16px;
-    width: 54px;
-    height: 54px;
-    background:url("data:image/svg+xml;utf8,<svg width=\'70\' height=\'70\' viewBox=\'0 0 140 140\' xmlns=\'http://www.w3.org/2000/svg\'><path d=\'M32.768 35l-16.87 16.87c-.617.616-.617 1.618 0 2.233.307.308.712.462 1.115.462.406 0 .808-.154 1.116-.462L35 37.233l16.87 16.87c.31.308.714.462 1.117.462s.808-.154 1.116-.462c.616-.615.616-1.617 0-2.232L37.233 35l16.87-16.87c.616-.616.616-1.618 0-2.233-.615-.616-1.617-.616-2.232 0L35 32.767l-16.87-16.87c-.616-.616-1.618-.616-2.233 0-.616.615-.616 1.617 0 2.232L32.767 35zm2.21-35C15.706 0 0 15.705 0 34.98 0 54.252 15.705 70 34.98 70 54.252 70 70 54.253 70 34.98 70 15.704 54.253 0 34.98 0zm.192 3C53 3 67.34 17.34 67.34 35.17 67.34 53 53 67.34 35.17 67.34 17.34 67.34 3 53 3 35.17 3 17.34 17.34 3 35.17 3z\' fill=\'%23fff\' fill-rule=\'evenodd\'/></svg>")no-repeat center center / 100%;
-    z-index: 9;
+// Thumbnail
+$thumbnail-size: 120px;
+.profile--thumbnail {
+  position: absolute;
+  bottom: -$thumbnail-size / 3.5;
+  left:calc(50% - #{$thumbnail-size / 2});
+  height: $thumbnail-size;
+  width: $thumbnail-size;
+  border-radius: 50%;
+  border: 6px solid #000;
+  background: {
+    image: url(./img/hit-default.jpg);
+    repeat: no-repeat;
+    position: top center;
+    size: cover;
   }
+}
+
+.profile--content {
+  padding: 2rem;
+}
+
+// Full description
+.profile--description {
+  color: lighten(#000, 20);
+  text-align: justify;
+  line-height: 1.3rem;
+  padding-bottom: 1rem;
+}
+
+// Links
+.profile--links {
+  display: flex;
+  flex-flow: row nowrap;
+  margin-bottom: 2rem;
+}
+.profile--link {
+  flex: 1;
+  text-align: center;
+}
+
+// Titles
+.profile--title {
+  font-size: 1.8rem;
+  color: $red;
+  margin: .7rem 0 .3rem 0;
+}
+
+.profile--items {
+  display: flex;
+  flex-flow: row wrap;
+}
+.profile--item {
+  flex: 1 1 50%;
+  padding: .2rem .5rem .2rem 0;
+  text-align: left;
+  // background: red;
+}
+
+
+
+    // <h3 class="profile--title">Powers</h3>
+    // <div class="profile--powers"></div>
+
+    // <h3 class="profile--title">Teams</h3>
+    // <div class="profile--teams"></div>
+
+    // <h3 class="profile--title">Partners</h3>
+    // <div class="profile--partners"></div>
+
+    // <h3 class="profile--title">Species</h3>
+    // <div class="profile--species"></div>
+
+    // <h3 class="profile--title">Authors</h3>
+    // <div class="profile--authors"></div>
+
+// .hero-profile {
+//   background: $third-color;
+//   transform: translateX(#{$profile-bar-width});
+//   top: $header-height;
+//   right: 0;
+//   transition: transform 0.3s ease;
+//   border-left: 1px solid darken($third-color, 10%);
+//   padding: 0 16px;
+//   overflow: auto;
+// 
+//   &.shown {
+//     transform: translateX(0);
+//   }
+// 
+// 
+//   header {
+//     min-height: 220px;
+//     width: calc(100% + 32px);
+//     position: relative;
+//     top: 0;
+//     left: -16px;
+//     border-bottom: 6px solid #FFF;
+//     box-shadow: 0 2px 1px rgba(255,255,255,1);
+// 
+//     background: {
+//       image: url('http://i.annihil.us/u/prod/marvel/i/mg/6/90/537ba2184e75f.gif');
+//       repeat: no-repeat;
+//       position: center center;
+//       size: cover;
+//     }
+// 
+//     margin-bottom: 3em;
+// 
+//     &:after {
+//       content: '';
+//       display: block;
+//       position: absolute;
+//       width: 100%;
+//       height: 100%;
+//       top: 0;
+//       left: 0;
+//       background: red;
+//       z-index: 1;
+//       mix-blend-mode: color
+//     }
+//   }
+// 
+//   .hero-name,
+//   .hero-secret-identity {
+//     position: absolute;
+//     width: 100%;
+//     text-align: center;
+//     left: 50%;
+//     margin: auto;
+//     top: 30%;
+//     color: #fff;
+//     font-size: 1.8em;
+//     display: block;
+//     transform: translate(-50%, -50%);
+//     z-index: 5;
+// 
+//     em {
+//       text-decoration: none;
+//       font-style: normal;
+//     }
+//   }
+//   .hero-secret-identity {
+//     top: 58%;
+//     font-size: 1.4em;
+// 
+//     &:before {
+//       content: 'AKA';
+//       position: absolute;
+//       left: 0;
+//       right: 0;
+//       margin: auto;
+//       top: -26px;
+//       font-size: 0.9em;
+//       color: rgba(white, 0.5);
+//     }
+//   }
+//   .hero-avatar {
+//     max-width: 100px;
+//     max-height: 100px;
+//     min-height: 100px;
+//     border-radius: 100%;
+//     position: absolute;
+//     left: 0;
+//     right: 0;
+//     margin: 0 auto;
+//     bottom: -50px;
+//     overflow: hidden;
+//     border: 6px solid #fff;
+//     z-index: 5;
+// 
+//     img {
+//       width: 105%;
+//       height: 105%;
+//       position: absolute;
+//       left: 0;
+//       right: 0;
+//       margin: auto;
+//       transform: scale(1.3);
+//     }
+//   }
+// 
+//   &[data-hero="true"] header{
+// 
+//   }
+//   &[data-villain="true"] header{
+// 
+//   }
+//   &[data-hero="false"][data-villain="false"] header{
+// 
+//   }
+// 
+// 
+//   .facet--title {
+//     margin-top: 1em;
+// 
+//     &:nth-of-type(1){
+//       margin-top: 2em;
+//     }
+//   }
+//   .hero-description {
+//     padding-top: 1em;
+//     margin-top: 1em;
+// 
+//     p {
+//       font-size: 18px;
+//       line-height: 22px;
+//       font-weight: 400;
+//       color: darken(#BDC3C7, 35%);
+//       font-weight: bold;
+// 
+//     }
+//   }
+// 
+//   .hero-powers {
+//     float: left;
+// 
+//   }
+// }
+// 
+// 
+// //
+// 
+//   #closeProfile {
+//     position: absolute;
+//     top: 16px;
+//     left: 16px;
+//     width: 54px;
+//     height: 54px;
+//     background:url("data:image/svg+xml;utf8,<svg width=\'70\' height=\'70\' viewBox=\'0 0 140 140\' xmlns=\'http://www.w3.org/2000/svg\'><path d=\'M32.768 35l-16.87 16.87c-.617.616-.617 1.618 0 2.233.307.308.712.462 1.115.462.406 0 .808-.154 1.116-.462L35 37.233l16.87 16.87c.31.308.714.462 1.117.462s.808-.154 1.116-.462c.616-.615.616-1.617 0-2.232L37.233 35l16.87-16.87c.616-.616.616-1.618 0-2.233-.615-.616-1.617-.616-2.232 0L35 32.767l-16.87-16.87c-.616-.616-1.618-.616-2.233 0-.616.615-.616 1.617 0 2.232L32.767 35zm2.21-35C15.706 0 0 15.705 0 34.98 0 54.252 15.705 70 34.98 70 54.252 70 70 54.253 70 34.98 70 15.704 54.253 0 34.98 0zm.192 3C53 3 67.34 17.34 67.34 35.17 67.34 53 53 67.34 35.17 67.34 17.34 67.34 3 53 3 35.17 3 17.34 17.34 3 35.17 3z\' fill=\'%23fff\' fill-rule=\'evenodd\'/></svg>")no-repeat center center / 100%;
+//     z-index: 9;
+//   }

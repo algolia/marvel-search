@@ -32,9 +32,21 @@ html, body {
   overflow-y: auto;
 }
 
+// Search results
 .l-results {
   flex: 1;
   overflow-y: auto;
+}
+
+// Profile details
+.l-profile {
+  overflow-y: auto;
+  display: none;
+  // Display it only when activated (click on a hit)
+  .l-container__withProfile & {
+    display: block;
+    flex: 0 1 $profile-width;
+  }
 }
 
 // Room enough to display the sidebar

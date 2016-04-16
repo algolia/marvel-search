@@ -2,23 +2,17 @@ $base-font-size: 16px;
 
 // Colors
 $red: #F11E22;
-$hit-color: #eff0f1;
 
 // UI dimensions
 $header-height: 60px;
 $sidebar-width: 250px;
 $main-area-two-columns: 640px;
-$profile-bar-width: 480px;
+$profile-width: 450px;
 
 // RWD breakpoints
 $breakpoint-sidebar: $sidebar-width + $main-area-two-columns;
 
 // Vars I'd like to remove
 $brand-primary: #f11e22;
-$font-size: 16px;
-$line-height: 1.2;
-$lines-to-show: 3;
 $primary-color: #bdc3c7;
 $secondary-color: #279ce1;
-$third-color: #eff0f1;
-$secondary-color: $primary-color;

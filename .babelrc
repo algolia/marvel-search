@@ -1,2 +1,6 @@
 {
+  "plugins": [
+    "babel-plugin-syntax-object-rest-spread",
+    "babel-plugin-transform-object-rest-spread"
+  ]
 }
