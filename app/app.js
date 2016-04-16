@@ -78,6 +78,7 @@ let Marvel = {
     return `${baseUrl}${stringOptions.join(',')}/${url}`;
   },
   transformItem(data) {
+    console.info(data);
     // Main color
     let mainColorHexa = _.get(data, 'mainColor.hexa');
     let mainColorRgb = null;

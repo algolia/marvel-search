@@ -598,6 +598,24 @@ describe('HelperString', () => {
       expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
     });
 
+    it('should remove entries with only "\'s"', () => {
+      // Given
+      let input = [
+        "'s",
+        'Foo',
+        "'s",
+        'Bar',
+        "'s",
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
     it('should remove "Formerly:" types', () => {
       // Given
       let input = [
