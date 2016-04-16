@@ -9,6 +9,9 @@
 //  => If space for only one, display on the bottom
 //
 //  When matching an alias or a power, display it
+//
+//  Maybe add lazy-loading of images?
+
 let Marvel = {
   init() {
     this.search = instantsearch({
@@ -32,22 +35,90 @@ let Marvel = {
 
     this.search.start();
   },
+  cloudinary(url, options) {
+    let baseUrl = 'http://res.cloudinary.com/pixelastic-marvel/image/fetch/';
+    let stringOptions = [];
+
+    // Handle common Cloudinary options
+    if (options.width) {
+      stringOptions.push(`w_${options.width}`);
+    }
+    if (options.height) {
+      stringOptions.push(`h_${options.height}`);
+    }
+    if (options.quality) {
+      stringOptions.push(`q_${options.quality}`);
+    }
+    if (options.crop) {
+      stringOptions.push(`c_${options.crop}`);
+    }
+    if (options.format) {
+      stringOptions.push(`f_${options.format}`);
+    }
+    if (options.colorize) {
+      stringOptions.push(`e_colorize:${options.colorize}`);
+    }
+    if (options.color) {
+      stringOptions.push(`co_rgb:${options.color}`);
+    }
+    if (options.gravity) {
+      stringOptions.push(`g_${options.gravity}`);
+    }
+
+    // Fix remote urls
+    url = url.replace(/^\/\//, 'http://');
+
+
+    return `${baseUrl}${stringOptions.join(',')}/${url}`;
+  },
   transformItem(data) {
+    // Main color
+    let mainColorHexa = _.get(data, 'mainColor.hexa');
+    let mainColorRgb = null;
+    if (mainColorHexa) {
+      mainColorRgb = `${data.mainColor.red},${data.mainColor.green},${data.mainColor.blue}`;
+    }
+
+    // Thumbnail
     let thumbnail = _.get(data, 'images.thumbnail');
-    if (!thumbnail) {
+    if (thumbnail) {
+      thumbnail = Marvel.cloudinary(thumbnail, {
+        width: 200,
+        quality: 90,
+        crop: 'scale',
+        format: 'auto'
+        // colorize: 40,
+        // color: mainColorHexa
+      });
+    } else {
       thumbnail = './img/hit-default.jpg';
     }
-    thumbnail = thumbnail.replace(/^https?:/, '');
+
+    // Background image
+    let background = _.get(data, 'images.background');
+    if (background) {
+      background = Marvel.cloudinary(background, {
+        width: 450,
+        quality: 90,
+        crop: 'scale',
+        format: 'auto',
+        colorize: 40,
+        color: mainColorHexa
+      });
+    } else {
+      background = './img/profile-bg-default.gif';
+    }
 
     return {
+      uuid: data.objectID,
       name: Marvel.getHighlightedValue(data, 'name'),
       description: Marvel.getHighlightedValue(data, 'description'),
-      thumbnail
+      mainColorHexa,
+      mainColorRgb,
+      thumbnail,
+      background
     };
     // data.data = JSON.stringify(data);
-
-
-    return data;
   },
   getHighlightedValue(object, property) {
     if (!_.has(object, `_highlightResult.${property}.value`)) {
@@ -116,7 +187,7 @@ let Marvel = {
     this.search.addWidget(
       instantsearch.widgets.hits({
         container: '#hits',
-        hitsPerPage: 20,
+        hitsPerPage: 4,
         templates: {
           empty: emptyTemplate,
           item: hitTemplate

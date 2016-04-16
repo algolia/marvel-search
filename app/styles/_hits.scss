@@ -1,13 +1,16 @@
+// Hits main area
 .ais-hits {
   display: flex;
   flex-flow: row wrap;
   padding: 5px;
 }
 
+// Each hit
 .ais-hits--item {
   flex: 1 1 400px;
 }
 
+// Hit template
 .hit {
   background: $hit-color;
   margin: 5px;
@@ -22,18 +25,40 @@
 
 .hit--thumbnail {
   flex: 0 1 33%;
+  box-shadow: inset -16px 0 3em rgba(0,0,0,0.5);
+  position: relative;
   background: {
+    image: url(./img/hit-default.jpg);
     repeat: no-repeat;
     position: top center;
     size: cover;
+  }
+  // Image placehold before loading
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: {
+      repeat: no-repeat;
+      position: top center;
+      size: cover;
+    }
   }
 }
 .hit--content {
   flex: 1 1;
   padding: .5rem 1rem;
   position: relative;
-  margin-bottom: 10px;
   overflow: hidden;
+  background: {
+    color: #FFF;
+    repeat: no-repeat;
+    position: top center;
+    size: cover;
+  }
   // Fade out
   &:after {
     content: "";
@@ -42,14 +67,14 @@
     right: 0;
     left: 0;
     height: 2rem;
-    background: linear-gradient(to bottom, rgba($hit-color, 0), rgba($hit-color, 1) 90%);
+    background: linear-gradient(to bottom, rgba(black, 0), rgba(black, 1) 90%);
     display: block;
   }
 }
 .hit--title {
   margin: 0;
   font-family: 'Title';
-  color: lighten(#000, 10);
+  color: #FFF;
   font-size: 1.9rem;
   // Highlight
   em {
@@ -57,14 +82,14 @@
   }
 }
 .hit--description {
-  color: #606A71;
+  color: darken(#FFF, 50);
   font-size: .9rem;
   line-height: 1.1rem;
+  background: attr('data-test');
   em {
-    font-style: normal;;
-    background-color: lighten($red, 30);
-    padding: 0px 1px;
-    color: #000;
+    font-style: normal;
+    font-weight: bold;
+    color: $red;
   }
 }
 // /* HITS */

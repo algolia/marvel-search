@@ -79,14 +79,26 @@
           <!--   </div> -->
 
       <script id="hitTemplate" language="x-template">
-        <article class="hit">
-          <div class="hit--thumbnail" style="background-image:url({{thumbnail}})"></div>
+        <article class="hit hit__{{uuid}}">
+          <style>
+            {{#mainColorRgb}}
+            .hit__{{uuid}} .hit--content:after {
+              background: linear-gradient(to bottom, rgba({{mainColorRgb}}, 0), rgba({{mainColorRgb}}, 1) 100%);
+            }
+            {{/mainColorRgb}}
+            {{#thumbnail}}
+            .hit__{{uuid}} .hit--thumbnail:before {
+              background-image: url({{thumbnail}});
+            }
+            {{/thumbnail}}
+          </style>
+          <div class="hit--thumbnail"></div>
 
-          <div class="hit--content">
+          <div class="hit--content" style="background-image:url({{background}})">
             <h3 class="hit--title">{{{name}}}</h3>
 
             {{#description}}
-            <p class="hit--description">{{{description}}}</p>
+            <p class="hit--description" data-test="green">{{{description}}}</p>
             {{/description}}
           </div>
         </article>
@@ -116,7 +128,7 @@
       <!--   </defs> -->
       <!-- </svg> -->
 
-      <script src="https://cdn.jsdelivr.net/g/lodash@4.5.1,jquery@2.2.1,instantsearch.js@1.4.4"></script>
+      <script src="https://cdn.jsdelivr.net/g/lodash@4.11.1,jquery@2.2.1,instantsearch.js@1.4.4"></script>
       <script src="app.js"></script>
       <script>require('app').default.init()</script>
     </body>
