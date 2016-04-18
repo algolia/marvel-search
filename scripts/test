@@ -1,3 +1,6 @@
 #!/usr/bin/env sh
 # shellcheck disable=SC2037
-BABEL_ENV=test mocha --reporter dot  ./test/helpers.js ./test/*-test.js
+BABEL_ENV=test \
+  mocha \
+  --reporter dot \
+  ./test/helpers.js ./test/*-test.js

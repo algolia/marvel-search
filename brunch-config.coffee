@@ -8,7 +8,6 @@ module.exports = config:
     sass:
       mode: 'native'
     babel:
-      presets: ['es2015']
       ignore: []
       pattern: /\.js$/
   server:
