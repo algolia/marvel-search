@@ -3,34 +3,37 @@
 <head>
   <meta charset="UTF-8">
   <title>Marvel</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css" />
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css" /> -->
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" /> -->
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css" />
   <link rel="stylesheet" type="text/css" href="main.css" />
   <link rel="shortcut icon" href="./favicon.ico">
   <!--[if lte IE 9]>
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
-    <![endif]-->
+  <![endif]-->
   </head>
 
   <body>
 
-    <div class="container-fluid">
-
-      <header class="header content-wrapper">
-        <img src="marvel_logo.svg" class="header--logo"/>
-        <div class="header--input-group">
-          <input type="text" class="header--input form-control" id="q" />
-        </div>
-        <div id="current-refined-values"></div>
+    <header class="l-header">
+      <a href="./" class="header--home">
+        <img src="img/logo-marvel.svg" class="header--logo" alt="Home logo" />
+      </a>
+      <div class="header--input-wrapper">
+        <input type="text" class="header--input" id="q" />
+      </div>
+      <div class="header--infos">
+        <div id="current-refined-values" class="header--current-refined-values"></div>
         <div id="stats" class="header--stats"></div>
-        <a href="https://www.algolia.com/" class="header--algolia">
-          Search powered by <img src="algolia-logo.svg" class="header--algolia-logo"/>
-        </a>
-      </header>
+      </div>
+      <a href="https://www.algolia.com/" class="header--algolia">
+        Search powered by <img src="img/logo-algolia.svg" class="header--algolia-logo" alt="Algolia logo" />
+      </a>
+    </header>
 
-      <aside class="sidebar">
+    <div class="l-container js-container">
+      <aside class="l-sidebar">
         <div id="clear-all"></div>
         <section class="facet-wrapper">
           <h3 class="facet--title">Teams</h3>
@@ -42,86 +45,169 @@
           <h3 class="facet--title">Authors</h3>
           <div id="authors" class="facet"></div>
         </section>
+        <hr>
         <div class="thank-you">Data from <a href="https://en.wikipedia.org/">Wikipedia</a> and the <a href="http://developer.marvel.com/">Marvel API</a>, code available on <a href="https://github.com/pixelastic/marvel/">GitHub</a></div>
       </aside>
 
-
-      <div class="results">
+      <div class="l-results">
         <div class="hits" id="hits"></div>
         <div class="pagination" id="pagination"></div>
       </div>
 
-      <div class="hero-profile">
-        <a href="javascript:void(0)" id="closeProfile"></a>
-        <header class="profile-header">
-          <span class="hero-name"></span>
-          <span class="hero-secret-identity"></span>
-          
-          <div class="hero-avatar">
-            <img src="http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b/standard_xlarge.jpg" alt="">
-          </div>
-          <div class="factions">
-            <span class="faction-hero"><img src="svg-icons/hero-tag.svg" alt=""></span>
-            <span class="faction-villain"><img src="svg-icons/villain-tag.svg" alt=""></span>
-            <span class="faction-unknown"><img src="svg-icons/unknown-tag.svg" alt=""></span>
-          </div>
-        </header>
+      <div class="l-profile js-profile"></div>
+  </div>
+
+  <script id="hitTemplate" language="x-template">
+    {{#mainColorRgb}}
+    <style>
+    .hit__{{uuid}} .hit--content:after {
+      background: linear-gradient(to bottom, rgba({{mainColorRgb}}, 0), rgba({{mainColorRgb}}, 1) 100%);
+    }
+    </style>
+    {{/mainColorRgb}}
+
+    {{#thumbnail}}
+    <style>
+    .hit__{{uuid}}.hit__inViewport .hit--thumbnail:before {
+      background-image: url({{thumbnail}});
+    }
+    </style>
+    {{/thumbnail}}
+
+    {{#background}}
+    <style>
+    .hit__{{uuid}}.hit__inViewport .hit--content {
+      background-image: url({{background}});
+    }
+    </style>
+    {{/background}}
 
 
-        <section class="hero-description"></section>
+    <article class="hit hit__{{uuid}} {{#inViewport}}hit__inViewport{{/inViewport}}">
+      <div class="hit--thumbnail"></div>
 
-        <section class="hero-powers"></section>
-        <section class="hero-partners"></section>
+      <div class="hit--content">
+      <h3 class="hit--title">{{{name}}}</h3>
+
+      {{#description}}
+      <p class="hit--description">{{{description}}}</p>
+      {{/description}}
+      </div>
+
+      <textarea style="display:none;" class="js-hit--json-holder">{{json}}</textarea>
+    </article>
+  </script>
+
+  <script id="profileTemplate" language="x-template">
+    {{#background}}
+    <style>
+    .profile__{{uuid}} .profile--background:before {
+      background-image: url({{background}});
+    }
+    </style>
+    {{/background}}
+
+    {{#thumbnail}}
+    <style>
+    .profile__{{uuid}} .profile--thumbnail {
+      background-image: url({{thumbnail}});
+    }
+    </style>
+    {{/thumbnail}}
+
+    {{#mainColorHexa}}
+    <style>
+    .profile__{{uuid}} .profile--header,
+    .profile__{{uuid}} .profile--thumbnail {
+      border-color: #{{mainColorHexa}};
+    }
+    </style>
+    {{/mainColorHexa}}
+
+    <div class="profile__{{uuid}}">
+      <header class="profile--header">
+        <div class="profile--background"></div>
+        <a href="#" class="profile--close js-profile--close"></a>
+        <div class="profile--name">{{name}}</div>
+        <div class="profile--thumbnail"></div>
+      </header>
+      <div class="profile--content">
+        <p class="profile--description">{{description}}</p>
+
+        <div class="profile--links">
+          {{#urls.marvel}}
+          <a href="{{urls.marvel}}" target="_blank" class="profile--link profile--link__marvel">Marvel website</a></li>
+          {{/urls.marvel}}
+          {{#urls.wikipedia}}
+          <a href="{{urls.wikipedia}}" target="_blank" class="profile--link profile--link__wikipedia">Wikipedia</a></li>
+          {{/urls.wikipedia}}
+        </div>
+
+        {{#hasPowers}}
+        <h3 class="profile--title">Powers</h3>
+        <ul class="profile--items">
+        {{#powers}}
+          <li class="profile--item">{{.}}</li>
+        {{/powers}}
+        </ul>
+        {{/hasPowers}}
+
+        {{#hasTeams}}
+        <h3 class="profile--title">Teams</h3>
+        <ul class="profile--items">
+        {{#teams}}
+          <li class="profile--item">{{.}}</li>
+        {{/teams}}
+        </ul>
+        {{/hasTeams}}
+
+        {{#hasPartners}}
+        <h3 class="profile--title">Partners</h3>
+        <ul class="profile--items">
+          {{#partners}}
+          <li class="profile--item">{{.}}</li>
+          {{/partners}}
+        </ul>
+        {{/hasPartners}}
+
+        {{#hasSpecies}}
+        <h3 class="profile--title">Species</h3>
+        <ul class="profile--items">
+        {{#species}}
+          <li class="profile--item">{{.}}</li>
+        {{/species}}
+        </ul>
+        {{/hasSpecies}}
+
+        {{#hasAuthors}}
+        <h3 class="profile--title">Authors</h3>
+        <ul class="profile--items">
+        {{#authors}}
+          <li class="profile--item">{{.}}</li>
+        {{/authors}}
+        </ul>
+        {{/hasAuthors}}
       </div>
     </div>
-
-    <script id="hitTemplate" language="x-template">
-      <article class="hit">
-        <div class="hit--picture-wrapper">
-          <img src="{{images.thumbnail}}" />
-
-        </div>
-        <div class="hit--desc-wrapper">
-          <h3>{{{_highlightResult.name.value}}}</h3>
-          <a class="btn-profile full" href="#">View profile</a>
-
-          {{#description}}
-          <div class="hit--description"><p>{{{description}}}</p></div>
-          {{/description}}
-          
-          <hr/>
-          <div class="hit--powers">
-            {{#powersSummary}}
-            <span class="power">{{.}}</span>
-            {{/powersSummary}}
-          </div>
-          
-          <div class="hit--footer">
-          </div>
-        </div>
-        <textarea class="dump" style="display:none">{{{data}}}</textarea>
-      </article>
-    </script>
-
-    <!-- svg sprite -->
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px"  xml:space="preserve">
-      <defs>
-        <symbol id="icon-super">
-          <path d="M49.06,4.275c4.639,0,9.341-0.024,13.974-0.024h23.272c3.411,0,9.282-0.366,10.687,2.789  c1.626,3.655,0.524,4.666-4.677,11.794l-4.655,6.235l0.61,0.818c4.535,7.165,7.162,15.656,7.162,24.761  c0,25.607-20.766,46.373-46.373,46.373c-5.695,0-11.15-1.029-16.191-2.909c0,0-0.949-0.4-1.138-0.458l-5.414,3.191  c-5.49,3.236-11.172-1.234-9.226-7.856l1.129-3.84c-0.199-0.181-0.581-0.385-0.981-0.774C8.28,75.919,2.687,63.936,2.687,50.648  C2.687,25.041,23.453,4.275,49.06,4.275L49.06,4.275z M89.098,14.131c1.917-2.507,0.184-4.332-2.104-4.332H63.722  c-5.167,0-6.748,1.757-7.737,3.033L29.6,46.86c-2.659,3.429-0.464,6.282,1.826,6.282h5.632c3.992,0,4.237,3.647,3.066,5.594  L22.111,88.699c-1.962,3.263,0.979,5.277,3.423,3.215l54.022-45.578c2.424-2.307,0.064-4.428-1.635-4.428h-4.042  c-3.288,0-3.809-2.76-2.378-4.642L89.098,14.131L89.098,14.131z"></path>
-        </symbol>
-
-        <symbol id="icon-profile">
-          <path d="M83.8 75.384C81.844 63.047 71.568 53.72 59.848 50.27c5.036-5.58 7.716-14.677 7.726-20.845.015-9.456-7.786-19.278-17.73-19.278-9.942 0-17.743 9.822-17.728 19.278.01 6.195 2.712 15.345 7.79 20.917C28.29 53.85 18.143 63.132 16.2 75.384c-.804 5.074 5.118 8.442 8.95 10.167 7.518 3.384 16.105 4.536 24.285 4.596 8.28.06 16.935-1.01 24.616-4.248 4.027-1.698 10.6-5.146 9.75-10.514z"/>
-        </symbol>
-      </defs>
-    </svg>
-<!-->
+  </script>
 
 
-  <script src="https://cdn.jsdelivr.net/g/lodash@4.5.1,jquery@2.2.1,instantsearch.js@1.2.3"></script>
-  <!--   <script src="https://raw.githubusercontent.com/anselmh/object-fit/master/dist/polyfill.object-fit.min.js"></script> -->
-  <script src="app.js"></script>
-  <script>require('app').default.init()</script>
-</body>
+<!-- <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px"  xml:space="preserve"> -->
+  <!--   <defs> -->
+    <!--     <symbol id="icon-super"> -->
+      <!--       <path d="M49.06,4.275c4.639,0,9.341-0.024,13.974-0.024h23.272c3.411,0,9.282-0.366,10.687,2.789  c1.626,3.655,0.524,4.666-4.677,11.794l-4.655,6.235l0.61,0.818c4.535,7.165,7.162,15.656,7.162,24.761  c0,25.607-20.766,46.373-46.373,46.373c-5.695,0-11.15-1.029-16.191-2.909c0,0-0.949-0.4-1.138-0.458l-5.414,3.191  c-5.49,3.236-11.172-1.234-9.226-7.856l1.129-3.84c-0.199-0.181-0.581-0.385-0.981-0.774C8.28,75.919,2.687,63.936,2.687,50.648  C2.687,25.041,23.453,4.275,49.06,4.275L49.06,4.275z M89.098,14.131c1.917-2.507,0.184-4.332-2.104-4.332H63.722  c-5.167,0-6.748,1.757-7.737,3.033L29.6,46.86c-2.659,3.429-0.464,6.282,1.826,6.282h5.632c3.992,0,4.237,3.647,3.066,5.594  L22.111,88.699c-1.962,3.263,0.979,5.277,3.423,3.215l54.022-45.578c2.424-2.307,0.064-4.428-1.635-4.428h-4.042  c-3.288,0-3.809-2.76-2.378-4.642L89.098,14.131L89.098,14.131z"></path> -->
+
+        <!--     </symbol> -->
+
+      <!--     <symbol id="icon-profile"> -->
+      <!--       <path d="M83.8 75.384C81.844 63.047 71.568 53.72 59.848 50.27c5.036-5.58 7.716-14.677 7.726-20.845.015-9.456-7.786-19.278-17.73-19.278-9.942 0-17.743 9.822-17.728 19.278.01 6.195 2.712 15.345 7.79 20.917C28.29 53.85 18.143 63.132 16.2 75.384c-.804 5.074 5.118 8.442 8.95 10.167 7.518 3.384 16.105 4.536 24.285 4.596 8.28.06 16.935-1.01 24.616-4.248 4.027-1.698 10.6-5.146 9.75-10.514z"/> -->
+      <!--     </symbol> -->
+      <!--   </defs> -->
+      <!-- </svg> -->
+      <script src="https://cdn.jsdelivr.net/g/lodash@4.11.1,jquery@2.2.1,instantsearch.js@1.4.4,hogan.js@3.0.2"></script>
+      <script src="./js/in-viewport.min.js"></script>
+      <script src="app.js"></script>
+      <script>require('app').default.init()</script>
+    </body>
 </html>
 
