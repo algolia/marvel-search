@@ -83,3 +83,20 @@ $checkbox-active-background-color: #F11E22;
   box-shadow: -6px 0px 10px 2px #FFF;
   color: #888;
 }
+
+// Show more
+.ais-show-more {
+  text-align:right;
+  display: block;
+  color: #000;
+  cursor: pointer;
+  &:before {
+    content: "+ "
+  }
+}
+.ais-show-more__active {
+  &:before {
+    content: "- "
+  }
+}
+ 
