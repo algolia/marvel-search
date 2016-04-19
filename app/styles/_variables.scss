@@ -11,6 +11,8 @@ $profile-width: 450px;
 
 // RWD breakpoints
 $breakpoint-sidebar: $sidebar-width + $main-area-two-columns;
+$breakpoint-header--algolia: 768px;
+$breakpoint-header--current-refined: 1080px;
 
 // Vars I'd like to remove
 $brand-primary: #f11e22;

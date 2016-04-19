@@ -56,8 +56,13 @@ $input-width: 380px;
 
 // Stats and current refined values
 .header--infos {
-  flex: 1 1;
+  display: none;
   position: relative;
+  // Room enough to display it
+  @media (min-width: $breakpoint-header--current-refined) {
+    display: block;
+    flex: 1;
+  }
 }
 // Current refined values
 .header--current-refined-values {
@@ -86,7 +91,8 @@ $input-width: 380px;
 }
 .ais-current-refined-values--item {
   font-size: .9rem;
-  flex: 1 1 content;
+  flex-grow: 1;
+  flex-shrink: 1;
   // Add + for all items after the first one
   + .ais-current-refined-values--item:before {
     content: "+";
@@ -134,7 +140,7 @@ $input-width: 380px;
 
 // Powered by Algolia
 .header--algolia {
-  flex: 1 1 content;
+  display: none;
   color: #FFF;
   text-align: right;
   line-height: $header-height;
@@ -144,7 +150,11 @@ $input-width: 380px;
   &:hover {
     color: #FFF;
   }
+  // Room enough to display it
+  @media (min-width: $breakpoint-header--algolia) {
+    display: block;
+  }
 }
 .header--algolia-logo {
-  vertical-align: text-bottom;
+  vertical-align: middle;
 }

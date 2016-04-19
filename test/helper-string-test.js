@@ -374,6 +374,21 @@ describe('HelperString', () => {
       expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
     });
 
+    it('should remove double quotes', () => {
+      // Given
+      let input = [
+        "''Foo",
+        "Bar''",
+        "''Baz''"
+      ];
+
+      // When
+      let actual = Helper.trimItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
     it('should remove triple quotes', () => {
       // Given
       let input = [
@@ -605,7 +620,7 @@ describe('HelperString', () => {
         'Foo',
         "'s crime syndicate",
         'Bar',
-        "'s",
+        "'S ",
         'Baz'
       ];
 
@@ -754,6 +769,35 @@ describe('HelperString', () => {
         '(Foo)',
         '(Bar)',
         '(Baz)'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual([]);
+    });
+
+    it('should remove lines starting with "vol. XX"', () => {
+      // Given
+      let input = [
+        'vol. 13 (2010) Marvel Comics',
+        'vol. 2, #73',
+        'vol. IV'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual([]);
+    });
+
+    it('should remove empty <ref> markers', () => {
+      // Given
+      let input = [
+        '<ref>',
+        '</ref>'
       ];
 
       // When
