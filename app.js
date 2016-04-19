@@ -243,31 +243,63 @@ var Marvel = {
       mainColorHexa: mainColorHexa,
       thumbnail: thumbnail,
       background: background,
-      profile: {
-        uuid: data.objectID,
-        name: data.name,
-        description: data.description,
-        secretIdentity: data.secretIdentities[0],
-        powers: data.powers,
-        hasPowers: !!data.powers.length,
-        teams: data.teams,
-        hasTeams: !!data.teams.length,
-        partners: data.partners,
-        hasPartners: !!data.partners.length,
-        species: data.species,
-        hasSpecies: !!data.species.length,
-        authors: data.authors,
-        hasAuthors: !!data.authors.length,
-        urls: data.urls,
-        mainColorHexa: mainColorHexa,
-        thumbnail: thumbnail,
-        background: backgroundProfile
-      }
+      // Used by the profile only
+      backgroundProfile: backgroundProfile,
+      urls: data.urls,
+      teams: data.teams,
+      powers: data.powers,
+      species: data.species,
+      authors: data.authors
     };
 
     return _extends({}, displayData, {
       json: JSON.stringify(displayData)
     });
+  },
+  transformProfileData: function transformProfileData(data) {
+    // Enhance facets (isRefined, hasType)
+    var facetNames = ['teams', 'powers', 'species', 'authors'];
+
+    // Keep record of current filters
+    var refinements = {};
+    _.each(facetNames, function (facetName) {
+      var facetRefinements = Marvel.search.helper.getRefinements(facetName);
+      refinements[facetName] = _.map(facetRefinements, function (refinement) {
+        return refinement.value;
+      });
+    });
+
+    // Create an array of objects for each facet name
+    var facets = {};
+    _.each(facetNames, function (facetName) {
+      facets[facetName] = _.map(data[facetName], function (facetValue) {
+        return {
+          value: facetValue,
+          isRefined: _.includes(refinements[facetName], facetValue)
+        };
+      });
+    });
+
+    // Get an object to tell us if the character has values for this facets
+    var hasFacets = _.mapValues(facets, function (value, key) {
+      return key.length > 0;
+    });
+
+    var profileData = {
+      uuid: data.uuid,
+      name: data.name,
+      description: data.description,
+      facets: facets,
+      hasFacets: hasFacets,
+      urls: data.urls,
+      mainColorHexa: data.mainColorHexa,
+      thumbnail: data.thumbnail,
+      background: data.backgroundProfile
+    };
+
+    console.info(profileData);
+
+    return profileData;
   },
   getHighlightedValue: function getHighlightedValue(object, property) {
     if (!_.has(object, '_highlightResult.' + property + '.value')) {
@@ -302,23 +334,11 @@ var Marvel = {
       container: '#teams',
       attributeName: 'teams',
       operator: 'and',
-      limit: 10
-    }));
-  },
-  addAuthorsWidget: function addAuthorsWidget() {
-    this.search.addWidget(instantsearch.widgets.refinementList({
-      container: '#authors',
-      attributeName: 'authors',
-      operator: 'and',
-      limit: 5
-    }));
-  },
-  addSpeciesWidget: function addSpeciesWidget() {
-    this.search.addWidget(instantsearch.widgets.refinementList({
-      container: '#species',
-      attributeName: 'species',
-      operator: 'or',
-      limit: 10
+      limit: 10,
+      sortBy: ['isRefined', 'count:desc', 'name:asc'],
+      showMore: {
+        limit: 20
+      }
     }));
   },
   addPowersWidget: function addPowersWidget() {
@@ -326,7 +346,32 @@ var Marvel = {
       container: '#powers',
       attributeName: 'powers',
       operator: 'and',
-      limit: 10
+      limit: 10,
+      sortBy: ['isRefined', 'count:desc', 'name:asc'],
+      showMore: {
+        limit: 20
+      }
+    }));
+  },
+  addAuthorsWidget: function addAuthorsWidget() {
+    this.search.addWidget(instantsearch.widgets.refinementList({
+      container: '#authors',
+      attributeName: 'authors',
+      operator: 'and',
+      limit: 10,
+      sortBy: ['isRefined', 'count:desc', 'name:asc'],
+      showMore: {
+        limit: 20
+      }
+    }));
+  },
+  addSpeciesWidget: function addSpeciesWidget() {
+    this.search.addWidget(instantsearch.widgets.refinementList({
+      container: '#species',
+      attributeName: 'species',
+      operator: 'or',
+      limit: 10,
+      sortBy: ['isRefined', 'count:desc', 'name:asc']
     }));
   },
   addHitsWidget: function addHitsWidget() {
@@ -347,12 +392,9 @@ var Marvel = {
   addPaginationWidget: function addPaginationWidget() {
     this.search.addWidget(instantsearch.widgets.pagination({
       container: '#pagination',
-      cssClasses: {
-        active: 'active'
-      },
       labels: {
-        previous: '<i class="fa fa-angle-left fa-2x"></i> Previous page',
-        next: 'Next page <i class="fa fa-angle-right fa-2x"></i>'
+        previous: '‹ Previous',
+        next: 'Next ›'
       },
       showFirstLast: false
     }));
@@ -364,9 +406,14 @@ var Marvel = {
     }));
   },
   addOpenProfile: function addOpenProfile() {
+    var _this = this;
+
     var container = $('.js-container');
     var template = Hogan.compile($('#profileTemplate').html());
     var profile = $('.js-profile');
+    function closeProfile() {
+      container.removeClass('l-container__withProfile');
+    }
 
     // Clicking a result will open the profile, render the template and put it
     // in the profile
@@ -374,13 +421,20 @@ var Marvel = {
       container.addClass('l-container__withProfile');
       var hit = event.currentTarget;
       var json = $(hit).find('.js-hit--json-holder').text();
-      var data = JSON.parse(json).profile;
+      var data = Marvel.transformProfileData(JSON.parse(json));
       profile.html(template.render(data));
     });
 
     // Let users close it
-    $('.js-profile').on('click', '.js-profile--close', function (_event) {
-      container.removeClass('l-container__withProfile');
+    profile.on('click', '.js-profile--close', closeProfile);
+
+    // Let user add/remove refinements when clicking on it
+    profile.on('click', '.js-profile--facet', function (_event) {
+      var target = $(_event.currentTarget);
+      var facetName = target.data('facet-name');
+      var facetValue = target.text();
+      _this.search.helper.toggleRefinement(facetName, facetValue).search();
+      target.toggleClass('profile--facet__isRefined');
     });
   }
 };
