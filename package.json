@@ -24,6 +24,7 @@
     "pageviews": "./scripts/download-pageviews",
     "marvel:api": "./scripts/download-marvel-api",
     "marvel:website": "./scripts/download-marvel-website",
+    "marvel:website2json": "./scripts/convert-marvel-website",
     "download:all": "./scripts/download-all",
     "consolidate": "./scripts/consolidate",
     "push": "./scripts/push",

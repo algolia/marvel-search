@@ -17,7 +17,7 @@
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/537ba452ba274.gif",
     "banner": "http://x.annihil.us/u/prod/marvel/i/mg/3/40/537ba41563b66.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/53176a690b261/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/50fecad1f395b/standard_xlarge.jpg"
   },
   "isHero": null,
   "isVillain": true,
@@ -27,7 +27,7 @@
     "hexa": "3F0606",
     "red": 63
   },
-  "name": "Black Widow (Ultimate)",
+  "name": "Black Widow",
   "partners": [
   ],
   "powers": [
@@ -37,12 +37,12 @@
     "Peak athletic condition"
   ],
   "ranking": {
-    "comicCount": 8,
-    "eventCount": 0,
+    "comicCount": 294,
+    "eventCount": 8,
     "pageviewCount": 642,
     "pageviewRank": -1,
-    "serieCount": 6,
-    "storyCount": 6
+    "serieCount": 125,
+    "storyCount": 307
   },
   "secretIdentities": [
     "Yelena Belova"
@@ -58,7 +58,7 @@
     "Vanguard"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/6/black_widow",
+    "marvel": "http://marvel.com/comics/characters/1009189/black_widow",
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Widow_(Yelena_Belova)"
   }
 }

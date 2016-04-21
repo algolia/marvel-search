@@ -10,12 +10,12 @@
   ],
   "description": "Doom (Victor Von Doom) is a Marvel Comics anti-hero featured in the Marvel 2099 comic book series Doom 2099.",
   "images": {
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/53176ba52dea1/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/53176bb096d17/standard_xlarge.jpg"
   },
   "isHero": null,
   "isVillain": null,
   "mainColor": null,
-  "name": "Doctor Doom (Ultimate)",
+  "name": "Doctor Doom",
   "partners": [
   ],
   "powers": [
@@ -36,12 +36,12 @@
     "Wide array of sensors"
   ],
   "ranking": {
-    "comicCount": 5,
-    "eventCount": 0,
+    "comicCount": 184,
+    "eventCount": 9,
     "pageviewCount": 245,
     "pageviewRank": -1,
-    "serieCount": 4,
-    "storyCount": 3
+    "serieCount": 105,
+    "storyCount": 185
   },
   "secretIdentities": [
     "Victor Von Doom"
@@ -54,7 +54,7 @@
     "Zefiro Gypsies"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/13/dr_doom",
+    "marvel": "http://marvel.com/comics/characters/1009281/doctor_doom",
     "wikipedia": "https://en.wikipedia.org/wiki/Doom_2099"
   }
 }

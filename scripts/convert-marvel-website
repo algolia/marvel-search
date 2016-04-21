@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+babel-node ./lib/convert-marvel-website.js

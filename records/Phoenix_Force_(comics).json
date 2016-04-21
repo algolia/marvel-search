@@ -19,7 +19,7 @@
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/537bb2d85e492.gif",
     "banner": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/537bb2c79eebc.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/53176f424c100/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc654cf9d0ac/standard_xlarge.jpg"
   },
   "isHero": true,
   "isVillain": true,
@@ -29,7 +29,7 @@
     "hexa": "3F0606",
     "red": 63
   },
-  "name": "Jean Grey (Ultimate)",
+  "name": "Jean Grey",
   "partners": [
   ],
   "powers": [
@@ -44,12 +44,12 @@
     "Telepathy"
   ],
   "ranking": {
-    "comicCount": 44,
+    "comicCount": 46,
     "eventCount": 0,
     "pageviewCount": 1402,
     "pageviewRank": -1,
     "serieCount": 16,
-    "storyCount": 61
+    "storyCount": 45
   },
   "secretIdentities": [
   ],

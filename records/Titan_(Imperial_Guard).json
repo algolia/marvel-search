@@ -10,24 +10,25 @@
   "description": "Titan is a fictional character that appears in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null
+    "banner": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/535febc427605/standard_xlarge.jpg"
   },
   "isHero": null,
   "isVillain": null,
   "mainColor": null,
-  "name": "Onslaught (Ultimate)",
+  "name": "Onslaught",
   "partners": [
   ],
   "powers": [
     "Size-shifting"
   ],
   "ranking": {
-    "comicCount": 0,
-    "eventCount": 0,
+    "comicCount": 33,
+    "eventCount": 1,
     "pageviewCount": 44,
     "pageviewRank": -1,
-    "serieCount": 0,
-    "storyCount": 0
+    "serieCount": 21,
+    "storyCount": 28
   },
   "secretIdentities": [
   ],

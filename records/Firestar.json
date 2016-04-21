@@ -17,24 +17,24 @@
   "images": {
     "background": null,
     "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4ce5a555585c6/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/526032b8247e8/standard_xlarge.jpg"
   },
   "isHero": true,
   "isVillain": null,
   "mainColor": null,
-  "name": "Firestar (Ultimate)",
+  "name": "Firestar",
   "partners": [
   ],
   "powers": [
     "Flight"
   ],
   "ranking": {
-    "comicCount": 3,
-    "eventCount": 0,
+    "comicCount": 82,
+    "eventCount": 4,
     "pageviewCount": 619,
     "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 2
+    "serieCount": 32,
+    "storyCount": 97
   },
   "secretIdentities": [
     "Angel",
@@ -53,7 +53,7 @@
     "Young Allies (Heroic Age)"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/703/firestar",
+    "marvel": "http://marvel.com/comics/characters/1009306/firestar",
     "wikipedia": "https://en.wikipedia.org/wiki/Firestar"
   }
 }
