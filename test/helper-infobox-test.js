@@ -77,26 +77,6 @@ describe('HelperInfobox', () => {
     });
   });
 
-  describe('getRecordData', () => {
-    it('should return null if the character record name Skunge', () => {
-      // Note: All characters on
-      // https://en.wikipedia.org/wiki/List_of_Marvel_Comics_characters:_S will
-      // have Skunge data because this is the only infobox on this page. Instead
-      // of having Skunge data for several characters, we will simply nullify
-      // them
-      // Given
-      let pageName = 'Sunstreak';
-      let input = {};
-      sinon.stub(Helper, 'getName').returns('Skunge');
-
-      // When
-      let actual = Helper.getRecordData(input, pageName);
-
-      // Then
-      expect(actual).toEqual(null);
-    });
-  });
-
   describe('getAliases', () => {
     it('should split on commas', () => {
       // Given
@@ -167,6 +147,55 @@ describe('HelperInfobox', () => {
 
       // Then
       expect(actual).toEqual([]);
+    });
+
+    it('should include the character_name', () => {
+      // Given
+      let input = {
+        character_name: 'Wolverine',
+        aliases: [
+          'Logan'
+        ]
+      };
+
+      // When
+      let actual = Helper.getAliases(input);
+
+      // Then
+      expect(actual).toInclude('Wolverine');
+      expect(actual).toInclude('Logan');
+    });
+  });
+
+  describe('getRecordData', () => {
+    it('should return null if the infobox is for a team', () => {
+      // Given
+      let input = {};
+      let pageName = 'Avengers';
+      sinon.stub(Helper, 'isTeam').returns(true);
+
+      // When
+      let actual = Helper.getRecordData(input, pageName);
+
+      // Then
+      expect(actual).toEqual(null);
+    });
+
+    it('should return null if the infobox is for Skunge', () => {
+      // Given
+      let input = {
+        character_name: {
+          type: 'text',
+          value: 'Skunge'
+        }
+      };
+      let pageName = 'Sushi';
+
+      // When
+      let actual = Helper.getRecordData(input, pageName);
+
+      // Then
+      expect(actual).toEqual(null);
     });
   });
 
@@ -925,33 +954,6 @@ describe('HelperInfobox', () => {
     });
   });
 
-  describe('getName', () => {
-    it('should take character_name', () => {
-      // Given
-      let input = {
-        character_name: 'Black Widow'
-      };
-
-      // When
-      let actual = Helper.getName(input);
-
-      // Then
-      expect(actual).toEqual('Black Widow');
-    });
-
-    it('should fallback to pageName', () => {
-      // Given
-      let input = {};
-      let pageName = 'Black_Widow';
-
-      // When
-      let actual = Helper.getName(input, pageName);
-
-      // Then
-      expect(actual).toEqual('Black Widow');
-    });
-  });
-
   describe('isHero', () => {
     it('should be true if hero set to y', () => {
       // Given
@@ -961,6 +963,37 @@ describe('HelperInfobox', () => {
 
       // When
       let actual = Helper.isHero(input);
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+  });
+
+  describe('isTeam', () => {
+    it('should be true if has members', () => {
+      // Given
+      let input = {
+        members: [
+          'Foo',
+          'Bar'
+        ]
+      };
+
+      // When
+      let actual = Helper.isTeam(input);
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+
+    it('should be true if is set as category team', () => {
+      // Given
+      let input = {
+        cat: 'team'
+      };
+
+      // When
+      let actual = Helper.isTeam(input);
 
       // Then
       expect(actual).toEqual(true);

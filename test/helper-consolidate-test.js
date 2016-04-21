@@ -234,15 +234,38 @@ describe('HelperConsolidate', () => {
     });
   });
 
+  describe('getName', () => {
+    it('should get the name from the Marvel API if available', () => {
+      // Given
+      let originalData = {
+        marvelApiData: {
+          name: 'good'
+        }
+      };
+      let wikipediaData = {
+        name: 'bad'
+      };
+
+      // When
+      let actual = Helper.getName(originalData, wikipediaData);
+
+      // Then
+      expect(actual).toEqual('good');
+    });
+  });
+
   describe('getImages', () => {
-    it('should take thumbnail image from marvel if exists', () => {
+    it('should take thumbnail image from marvel website first', () => {
       // Given
       let input = {
-        imageData: {
-          url: 'bad'
+        marvelWebsiteData: {
+          thumbnail: 'good'
         },
         marvelApiData: {
-          image: 'good'
+          image: 'bad'
+        },
+        imageData: {
+          url: 'bad'
         }
       };
 
@@ -253,9 +276,36 @@ describe('HelperConsolidate', () => {
       expect(actual.thumbnail).toEqual('good');
     });
 
-    it('should fallback to imageData', () => {
+    it('should fallback to marvel API image if no website thumbnail', () => {
       // Given
       let input = {
+        marvelWebsiteData: {
+          thumbnail: null
+        },
+        marvelApiData: {
+          image: 'good'
+        },
+        imageData: {
+          url: 'bad'
+        }
+      };
+
+      // When
+      let actual = Helper.getImages(input);
+
+      // Then
+      expect(actual.thumbnail).toEqual('good');
+    });
+
+    it('should fallback to imageData if no marvel thumbnail', () => {
+      // Given
+      let input = {
+        marvelWebsiteData: {
+          thumbnail: null
+        },
+        marvelApiData: {
+          image: null
+        },
         imageData: {
           url: 'good'
         }
@@ -267,7 +317,6 @@ describe('HelperConsolidate', () => {
       // Then
       expect(actual.thumbnail).toEqual('good');
     });
-
 
     it('should get the banner from marvelWebsite if available', () => {
       // Given

@@ -27,17 +27,6 @@ describe('HelperWikipedia', () => {
       expect(actual).toEqual('Adrienne Frost');
     });
 
-    it('should remove any mention of (character)', () => {
-      // Given
-      let input = 'Wolverine_(character)';
-
-      // When
-      let actual = Helper.readablePageName(input);
-
-      // Then
-      expect(actual).toEqual('Wolverine');
-    });
-
     it('should remove any mention of (comics)', () => {
       // Given
       let input = 'Hellfire_Club_(comics)';
@@ -47,6 +36,39 @@ describe('HelperWikipedia', () => {
 
       // Then
       expect(actual).toEqual('Hellfire Club');
+    });
+
+    it('should remove any mention of (artist)', () => {
+      // Given
+      let input = 'Jeff_Johnson_(artist)';
+
+      // When
+      let actual = Helper.readablePageName(input);
+
+      // Then
+      expect(actual).toEqual('Jeff Johnson');
+    });
+
+    it('should remove any mention of (writer)', () => {
+      // Given
+      let input = 'John_Francis_Moore_(writer)';
+
+      // When
+      let actual = Helper.readablePageName(input);
+
+      // Then
+      expect(actual).toEqual('John Francis Moore');
+    });
+
+    it('should remove any mention of (character)', () => {
+      // Given
+      let input = 'Wolverine_(character)';
+
+      // When
+      let actual = Helper.readablePageName(input);
+
+      // Then
+      expect(actual).toEqual('Wolverine');
     });
 
     it('should remove any mention of (Marvel_Comics)', () => {
@@ -60,17 +82,6 @@ describe('HelperWikipedia', () => {
       expect(actual).toEqual('Mutant');
     });
 
-    it('should remove any mention of (artist)', () => {
-      // Given
-      let input = 'Jeff Johnson (artist)';
-
-      // When
-      let actual = Helper.readablePageName(input);
-
-      // Then
-      expect(actual).toEqual('Jeff Johnson');
-    });
-
     it('should remove any mention of (Malibu_Comics)', () => {
       // Given
       let input = 'Exiles_(Malibu_Comics)';
@@ -82,15 +93,15 @@ describe('HelperWikipedia', () => {
       expect(actual).toEqual('Exiles');
     });
 
-    it('should remove anything in parenthesis', () => {
+    it('should keep the secret identity in parenthesis', () => {
       // Given
-      let input = 'Exiles_(something)';
+      let input = 'Black_Widow_(Yelena_Belova)';
 
       // When
       let actual = Helper.readablePageName(input);
 
       // Then
-      expect(actual).toEqual('Exiles');
+      expect(actual).toEqual('Black Widow (Yelena Belova)');
     });
 
     it('should exclude the list of Marvel characters', () => {

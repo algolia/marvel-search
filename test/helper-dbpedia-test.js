@@ -320,22 +320,6 @@ describe('HelperDBPedia', () => {
     });
   });
 
-  describe('getRecordData', () => {
-    it('should return null if no name found', () => {
-      // Given
-      let pageName = 'pageName';
-      let rawData = {};
-      sinon.stub(Helper, 'simplifyRaw');
-      sinon.stub(Helper, 'getName').returns(null);
-
-      // When
-      let actual = Helper.getRecordData(pageName, rawData);
-
-      // Then
-      expect(actual).toEqual(null);
-    });
-  });
-
   describe('getAuthors', () => {
     it('should understand "A and B"', () => {
       // Given
@@ -1047,18 +1031,6 @@ describe('HelperDBPedia', () => {
       expect(actual).toInclude('Spider-Girl');
     });
 
-    it('should take aliases from pageName', () => {
-      // Given
-      let input = {};
-      let pageName = 'Abner_Jenkins';
-
-      // When
-      let actual = Helper.getAliases(input, pageName);
-
-      // Then
-      expect(actual).toInclude('Abner Jenkins');
-    });
-
     it('should remove duplicates', () => {
       // Given
       let input = {
@@ -1155,98 +1127,6 @@ describe('HelperDBPedia', () => {
 
       // Then
       expect(actual).toEqual(null);
-    });
-  });
-
-  describe('getName', () => {
-    it('should take characterName', () => {
-      // Given
-      let input = {
-        property: {
-          characterName: 'Nova'
-        }
-      };
-
-      // When
-      let actual = Helper.getName(input);
-
-      // Then
-      expect(actual).toEqual('Nova');
-    });
-
-    it('should fallback to title if no characterName', () => {
-      // Given
-      let input = {
-        property: {
-          title: 'Nova'
-        }
-      };
-
-      // When
-      let actual = Helper.getName(input);
-
-      // Then
-      expect(actual).toEqual('Nova');
-    });
-
-    it('should always return a string', () => {
-      // Given
-      let input = {
-        property: {
-          characterName: 8
-        }
-      };
-
-      // When
-      let actual = Helper.getName(input);
-
-      // Then
-      expect(actual).toEqual('8');
-    });
-
-    it('should fallback to pageName if no suitable name found', () => {
-      // Given
-      let input = {
-        property: {}
-      };
-      let pageName = 'Adam_Warlock';
-
-      // When
-      let actual = Helper.getName(input, pageName);
-
-      // Then
-      expect(actual).toEqual('Adam Warlock');
-    });
-
-    it('should fallback to pageName if name is composed of several names', () => {
-      // Given
-      let input = {
-        property: {
-          characterName: 'Ape-Man I,Ape-Man III,Ape-Man II'
-        }
-      };
-      let pageName = 'Ape-Man';
-
-      // When
-      let actual = Helper.getName(input, pageName);
-
-      // Then
-      expect(actual).toEqual('Ape-Man');
-    });
-
-    it('should remove the "The" particle if any', () => {
-      // Given
-      let input = {
-        property: {
-          characterName: 'The Absorbing Man'
-        }
-      };
-
-      // When
-      let actual = Helper.getName(input);
-
-      // Then
-      expect(actual).toEqual('Absorbing Man');
     });
   });
 

@@ -30,6 +30,30 @@ describe('HelperMarvelWebsite', () => {
     });
   });
 
+  describe('getThumbnail', () => {
+    it('should grab the url of the thumbnail', () => {
+      // Given
+      let input = `<img class="character-image" src="foo">`;
+
+      // When
+      let actual = Helper.getThumbnail(input);
+
+      // Then
+      expect(actual).toEqual('foo');
+    });
+
+    it('should return null if no thumbnail', () => {
+      // Given
+      let input = ``;
+
+      // When
+      let actual = Helper.getThumbnail(input);
+
+      // Then
+      expect(actual).toEqual(null);
+    });
+  });
+
   describe('getFeaturedBackground', () => {
     it('should grab the url of the image in the background', () => {
       // Given
