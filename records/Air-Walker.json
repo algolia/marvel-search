@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Air-Walker",
     "Archangel Gabriel",
     "Gabriel"
   ],
@@ -11,13 +10,10 @@
   "description": "The Air-Walker (Gabriel Lan) (also known as Gabriel the Air-Walker) is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Thor-305.jpg/250px-Thor-305.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Air-Walker (Gabriel Lan)",
+  "name": "Air-Walker",
   "partners": [
   ],
   "powers": [
@@ -25,12 +21,11 @@
     "Power cosmic"
   ],
   "ranking": {
-    "comicCount": 3,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 201,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 2
+    "pageviewCount": 1653,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Gabriel Lan"
@@ -38,13 +33,14 @@
   "species": [
     "Xandarian"
   ],
+  "superName": "Air-Walker",
   "teams": [
     "Galactus",
     "Heralds of Galactus",
     "Nova Corps"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/109/air-walker",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Air-Walker"
   }
 }

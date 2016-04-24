@@ -10,16 +10,13 @@
     "Carlo Pagulayan",
     "Jeff Parker"
   ],
-  "description": "During her time as an adventurer, Venus was approached by FBI agent Jimmy Woo, and she agreed to join Jimmy and his allies in freeing President Eisenhower from the clutches of the Yellow Claw.",
+  "description": "Venus is the name of two fictional characters appearing in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/535ff36a8fbef/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Venus-comics-leonardkirk.jpg/250px-Venus-comics-leonardkirk.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Venus (Siren)",
+  "name": "Venus",
   "partners": [
   ],
   "powers": [
@@ -27,33 +24,34 @@
     "Flight",
     "Illusion generation",
     "Immortality",
+    "Levitation",
     "Superhuman reflexes",
     "Superhuman speed",
     "Superhuman strength",
     "Supherhuman durability"
   ],
   "ranking": {
-    "comicCount": 9,
-    "eventCount": 2,
-    "pageviewCount": 164,
-    "pageviewRank": -1,
-    "serieCount": 6,
-    "storyCount": 9
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1435,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Aphrodite Pandemos"
   ],
   "species": [
     "Olympians",
-    "Siren"
+    "Siren (mythology)"
   ],
+  "superName": "Venus",
   "teams": [
     "Agents of Atlas",
     "G-Men",
     "God Squad"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2480/venus",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Venus_(Marvel_Comics)"
   }
 }

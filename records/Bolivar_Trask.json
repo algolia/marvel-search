@@ -8,10 +8,9 @@
   ],
   "description": "Bolivar Trask is a fictional supervillain appearing in publications by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/bb/BolivarTrask_ByValentineDeLandro.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Bolivar Trask",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1125,
-    "pageviewRank": -1,
+    "pageviewCount": 7312,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,12 +29,14 @@
   ],
   "species": [
   ],
+  "superName": "Bolivar Trask",
   "teams": [
     "Purifiers",
     "Sentinel",
     "Sentinels"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Bolivar_Trask"
   }
 }

@@ -13,11 +13,8 @@
   "description": "Josiah X is a fictional character who exists in Marvel Comics' shared universe, the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Josiahx.png/250px-Josiahx.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Josiah X",
   "partners": [
@@ -32,25 +29,25 @@
     "Speed"
   ],
   "ranking": {
-    "comicCount": 2,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 82,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 2
+    "pageviewCount": 645,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Josiah al hajj Saddiq"
   ],
   "species": [
   ],
+  "superName": "Josiah X",
   "teams": [
     "The Crew",
     "U.S. Army",
     "United States Army"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1100/josiah_x",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Josiah_X"
   }
 }

@@ -7,14 +7,13 @@
     "Mark Gruenwald",
     "Rik Levins"
   ],
-  "description": "A Muslim-American teenager growing up in Jersey City, Kamala Khan gained shape-shifting powers when Inhumanity spread over the Earth. A fan of super heroes, in particular Carol Danvers, Kamala took up Captain Marvel's former identity, becoming the new Ms. Marvel. This up and coming hero works to protect her community and understand her place in the world.",
+  "description": "Superia (Dr. Deidre Wentworth) is a fictional character, a supervillain and criminal scientist in the Marvel Comics.",
   "images": {
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/548730dac2a40/standard_xlarge.jpg"
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Superia_of_AIM_High_Council.jpg/225px-Superia_of_AIM_High_Council.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Ms. Marvel (Kamala Khan)",
+  "name": "Superia",
   "partners": [
   ],
   "powers": [
@@ -23,18 +22,18 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 3,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 159,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 3
+    "pageviewCount": 1197,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Deidre Wentworth"
   ],
   "species": [
   ],
+  "superName": "Superia",
   "teams": [
     "A.I.M",
     "Advanced Idea Mechanics",
@@ -43,7 +42,7 @@
     "H.A.M.M.E.R"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1017577/ms_marvel_kamala_khan/featured",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Superia"
   }
 }

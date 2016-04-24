@@ -8,12 +8,11 @@
   ],
   "description": "For the other Marvel Comics character, who is the current Phantom Rider see Phantom Rider (Hamilton Slade)Hamilton Slade is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Slad_mom.JPG/250px-Slad_mom.JPG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Hamilton Slade",
+  "name": "Hamilton Slade (mutant)",
   "partners": [
   ],
   "powers": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 42,
-    "pageviewRank": -1,
+    "pageviewCount": 485,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +32,12 @@
     "Mutant",
     "Vampire"
   ],
+  "superName": "Hamilton Slade",
   "teams": [
     "Clan Akkaba"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hamilton_Slade_(mutant)"
   }
 }

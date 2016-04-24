@@ -12,10 +12,9 @@
   ],
   "description": "Sublime, also known as John Sublime, is a fictional supervillain (actually a sentient bacterium), appearing in books published by Marvel Comics, usually as an enemy of the X-Men.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/John_sublime.jpg/250px-John_sublime.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sublime",
   "partners": [
@@ -30,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 157,
-    "pageviewRank": -1,
+    "pageviewCount": 1434,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,6 +38,7 @@
   "species": [
     "Sentient bacteria"
   ],
+  "superName": "Sublime",
   "teams": [
     "Megacorp",
     "TransSpecies Movement",
@@ -49,6 +48,7 @@
     "Winterbrand Tech"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sublime_(Marvel_Comics)"
   }
 }

@@ -18,10 +18,9 @@
   ],
   "description": "She-Venom (also known as The Bride of Venom) is the name of two fictional characters in Marvel comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5c/Brideofvenom.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "She-Venom",
   "partners": [
@@ -34,8 +33,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 159,
-    "pageviewRank": -1,
+    "pageviewCount": 1091,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -46,9 +44,11 @@
   ],
   "species": [
   ],
+  "superName": "She-Venom",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/She-Venom"
   }
 }

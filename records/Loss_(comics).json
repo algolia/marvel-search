@@ -8,9 +8,9 @@
   ],
   "description": "Loss is a mutant comic book character.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Loss",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 7,
-    "pageviewRank": -1,
+    "pageviewCount": 154,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,11 +29,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Loss",
   "teams": [
     "Gene Nation",
     "Morlocks"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Loss_(comics)"
   }
 }

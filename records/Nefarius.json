@@ -14,13 +14,10 @@
   "description": "Nefarius (Lloyd Bloch), previously known as Moonstone, is a fictional character, a supervillain in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/535ff3e867252/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Cap_170.gif/200px-Cap_170.gif"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Moonstone",
+  "name": "Nefarius",
   "partners": [
   ],
   "powers": [
@@ -30,24 +27,24 @@
     "Stamina"
   ],
   "ranking": {
-    "comicCount": 20,
-    "eventCount": 4,
-    "pageviewCount": 65,
-    "pageviewRank": -1,
-    "serieCount": 15,
-    "storyCount": 20
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 419,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Lloyd Bloch"
   ],
   "species": [
   ],
+  "superName": "Nefarius",
   "teams": [
     "Maggia",
     "Secret Empire"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1503/moonstone",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Nefarius"
   }
 }

@@ -1,8 +1,6 @@
 {
   "aliases": [
     "Doctor",
-    "Doctor Strange",
-    "Sorcerer Supreme",
     "Stephen Sanders",
     "Strange",
     "Vincent Stevens"
@@ -10,12 +8,11 @@
   "authors": [
     "Steve Ditko"
   ],
-  "description": "Doctor Stephen Vincent Strange, best known under his alias Doctor Strange, is a superhero that appears in comic books published by Marvel Comics.",
+  "description": "Doctor Stephen Vincent Strange, best known under his alias Doctor Strange, is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5261a85a501fe/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Doctor Strange",
   "partners": [
@@ -26,15 +23,12 @@
     "Mastery of",
     "Mastery of magic",
     "Medical science",
-    "Skilled neurosurgeon",
-    "Trained in",
-    "Trained martial artist"
+    "Trained in"
   ],
   "ranking": {
     "comicCount": 418,
     "eventCount": 13,
-    "pageviewCount": 9553,
-    "pageviewRank": -1,
+    "pageviewCount": 157376,
     "serieCount": 125,
     "storyCount": 568
   },
@@ -43,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Doctor Strange",
   "teams": [
     "Defenders",
     "Illuminati",
@@ -52,7 +47,7 @@
     "The Order"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009282/doctor_strange",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Strange"
   }
 }

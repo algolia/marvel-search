@@ -1,17 +1,19 @@
 {
   "aliases": [
-    "Señor Muerte"
+    "Señor Muerte",
+    "Señor Suerte"
   ],
   "authors": [
     "George Tuska",
     "Steve Englehart"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
-  "name": "Señor Suerte",
+  "name": "Se%C3%B1or Suerte",
   "partners": [
   ],
   "powers": [
@@ -21,7 +23,6 @@
     "comicCount": 0,
     "eventCount": 0,
     "pageviewCount": 0,
-    "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,9 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "Se%C3%B1or Suerte",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Se%C3%B1or_Muerte_/_Se%C3%B1or_Suerte"
   }
 }

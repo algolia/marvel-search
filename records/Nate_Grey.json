@@ -10,16 +10,13 @@
     "Jeph Loeb",
     "Steve Skroce"
   ],
-  "description": "A clone of Nathan Summers (Cable), Nate Grey was created in the \"Age of Apocalypse\" timeline by that timeline's Mr. Sinister for the sole purpose of destroying Apocalypse.",
+  "description": "Nathaniel \"Nate\" Grey (X-Man) is a fictional comic book superhero appearing in books published by Marvel Comics, in particular those related to the X-Men franchise.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/535febd73f84f/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/X-man1-1995.jpg/200px-X-man1-1995.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "X-Man",
+  "name": "Nate Grey",
   "partners": [
     "Madelyne Pryor",
     "Threnody"
@@ -35,12 +32,11 @@
     "Travel"
   ],
   "ranking": {
-    "comicCount": 94,
-    "eventCount": 5,
-    "pageviewCount": 984,
-    "pageviewRank": -1,
-    "serieCount": 25,
-    "storyCount": 158
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 8773,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Nathaniel Grey"
@@ -48,6 +44,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Nate Grey",
   "teams": [
     "Brotherhood of Mutants",
     "New Mutants",
@@ -55,7 +52,7 @@
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2613/x-man",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Nate_Grey"
   }
 }

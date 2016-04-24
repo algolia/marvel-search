@@ -1,14 +1,16 @@
 {
   "aliases": [
+    "Comanche"
   ],
   "authors": [
     "Archie Goodwin",
     "George Tuska"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Comanche",
   "partners": [
@@ -20,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 38,
-    "pageviewRank": -1,
+    "pageviewCount": 3,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Comanche",
   "teams": [
     "Flashmob"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Comanche_(comics)"
   }
 }

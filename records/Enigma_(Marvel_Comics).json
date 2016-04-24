@@ -9,10 +9,9 @@
   ],
   "description": "Enigma (Tara Virango) is a fictional character, a superheroine who appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Tarabuddhism.jpg/130px-Tarabuddhism.jpg"
   },
-  "isHero": true,
-  "isVillain": true,
   "mainColor": null,
   "name": "Enigma",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 43,
-    "pageviewRank": -1,
+    "pageviewCount": 237,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,9 +31,11 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Enigma",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Enigma_(Marvel_Comics)"
   }
 }

@@ -9,34 +9,25 @@
     "Dan Abnett",
     "Tom Tenney"
   ],
-  "description": "Century is a fictional character, a comic book superhero who is a member of Force Works in the comic series of the same name from 1994–1996.",
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/29/Centuryfw5.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Century",
   "partners": [
   ],
   "powers": [
     "Agility",
-    "Durability",
     "Endurance",
     "Greatly enhanced strength",
-    "Longevity",
-    "Martial arts expert",
-    "Reflexes",
-    "Speed",
-    "Stamina",
-    "Superhuman strength",
-    "Teleportation"
+    "Longevity"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 55,
-    "pageviewRank": -1,
+    "pageviewCount": 452,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -45,11 +36,13 @@
   ],
   "species": [
   ],
+  "superName": "Century",
   "teams": [
     "Force Works",
     "Revengers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Century_(comics)"
   }
 }

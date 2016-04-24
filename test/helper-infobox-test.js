@@ -937,7 +937,6 @@ describe('HelperInfobox', () => {
       expect(actual).toEqual(['Expert tactician', 'Slowed aging']);
     });
 
-
     it('should split on **', () => {
       // Given
       let input = {

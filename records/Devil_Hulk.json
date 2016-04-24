@@ -10,10 +10,9 @@
   ],
   "description": "Devil Hulk is a fictional villain in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/DevilHulk.gif/250px-DevilHulk.gif"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Devil Hulk",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 124,
-    "pageviewRank": -1,
+    "pageviewCount": 1144,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,9 +38,11 @@
   "species": [
     "Human Mutate"
   ],
+  "superName": "Devil Hulk",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Devil_Hulk"
   }
 }

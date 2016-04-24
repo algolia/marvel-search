@@ -8,10 +8,9 @@
   ],
   "description": "Fasaud (Sheikh Farouk Al-Fasaud), is a fictional character appearing in the comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fasaud_2.jpg/200px-Fasaud_2.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Fasaud",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 13,
-    "pageviewRank": -1,
+    "pageviewCount": 148,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,9 +32,11 @@
   ],
   "species": [
   ],
+  "superName": "Fasaud",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Fasaud"
   }
 }

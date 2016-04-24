@@ -9,13 +9,10 @@
   "description": "Mentor is a fictional character in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/95/Mentorwiki.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Mentor",
+  "name": "Mentor (Imperial Guard)",
   "partners": [
   ],
   "powers": [
@@ -25,22 +22,21 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 43,
-    "pageviewRank": -1,
+    "pageviewCount": 315,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Unrevealed"
   ],
   "species": [
     "Cyborg"
   ],
+  "superName": "Mentor",
   "teams": [
     "Imperial Guard"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1425/mentor",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mentor_(Imperial_Guard)"
   }
 }

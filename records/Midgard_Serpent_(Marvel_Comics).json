@@ -1,7 +1,6 @@
 {
   "aliases": [
     "Fin Fang Foom",
-    "Midgard Serpent",
     "The Midgard Serpent",
     "World Serpent"
   ],
@@ -10,13 +9,10 @@
   "description": "Jormungand, also known as The Midgard Serpent or World Serpent, is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4ce59fc647d58/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/WorldSerpent.jpg/250px-WorldSerpent.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Fin Fang Foom",
+  "name": "Midgard Serpent",
   "partners": [
   ],
   "powers": [
@@ -27,22 +23,22 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 10,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 118,
-    "pageviewRank": -1,
-    "serieCount": 8,
-    "storyCount": 10
+    "pageviewCount": 1033,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Jormungand"
   ],
   "species": [
   ],
+  "superName": "Midgard Serpent",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/3426/fin_fang_foom",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Midgard_Serpent_(Marvel_Comics)"
   }
 }

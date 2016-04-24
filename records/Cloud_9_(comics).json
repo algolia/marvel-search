@@ -9,11 +9,8 @@
   "description": "Cloud 9 (Abigail \"Abby\" Boylen) is a fictional teenage comic book superheroine in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/526955ef00db6/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Cloud 9",
   "partners": [
@@ -24,8 +21,7 @@
   "ranking": {
     "comicCount": 9,
     "eventCount": 2,
-    "pageviewCount": 110,
-    "pageviewRank": -1,
+    "pageviewCount": 1056,
     "serieCount": 4,
     "storyCount": 10
   },
@@ -36,13 +32,14 @@
   "species": [
     "Mutate"
   ],
+  "superName": "Cloud 9",
   "teams": [
     "Fifty State Initiative",
     "Freedom Force",
     "The Initiative"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1010823/cloud_9",
+    "marvel": "http://marvel.com/characters/441/cloud_9",
     "wikipedia": "https://en.wikipedia.org/wiki/Cloud_9_(comics)"
   }
 }

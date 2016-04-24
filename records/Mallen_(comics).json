@@ -10,9 +10,9 @@
   ],
   "description": "Mallen is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Mallen",
   "partners": [
@@ -27,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 73,
-    "pageviewRank": -1,
+    "pageviewCount": 567,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,9 +36,11 @@
   ],
   "species": [
   ],
+  "superName": "Mallen",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mallen_(comics)"
   }
 }

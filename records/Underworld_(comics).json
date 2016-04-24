@@ -8,10 +8,9 @@
   ],
   "description": "Underworld (Jackie Dio) is a fictional character, a supervillain in publications from Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/UNDRWLD005_FLCOV.jpg/250px-UNDRWLD005_FLCOV.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Underworld",
   "partners": [
@@ -28,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 50,
-    "pageviewRank": -1,
+    "pageviewCount": 447,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,9 +36,11 @@
   ],
   "species": [
   ],
+  "superName": "Underworld",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Underworld_(comics)"
   }
 }

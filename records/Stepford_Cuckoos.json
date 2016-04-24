@@ -1,7 +1,6 @@
 {
   "aliases": [
     "Five-in-One",
-    "Stepford Cuckoos",
     "The Three-in-One",
     "Thousand-in-One",
     "Three-in-One",
@@ -15,11 +14,8 @@
   "description": "The Stepford Cuckoos were five identical mutant sisters who enrolled at the Xavier Institute and soon proved to be the crème de la crème of Emma Frost's telepathy class.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c003acc72680/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/90/4c003acc72680/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Stepford Cuckoos",
   "partners": [
@@ -30,8 +26,7 @@
   "ranking": {
     "comicCount": 13,
     "eventCount": 1,
-    "pageviewCount": 374,
-    "pageviewRank": -1,
+    "pageviewCount": 2972,
     "serieCount": 5,
     "storyCount": 13
   },
@@ -49,6 +44,7 @@
     "Molecular cloning",
     "Mutant"
   ],
+  "superName": "Stepford Cuckoos",
   "teams": [
     "Brotherhood of Mutants",
     "Chaos War",

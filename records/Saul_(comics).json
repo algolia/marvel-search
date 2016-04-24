@@ -10,9 +10,9 @@
   ],
   "description": "Saul (real name Garbha-hsien) is a fictional character in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Saul",
   "partners": [
@@ -26,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 45,
-    "pageviewRank": -1,
+    "pageviewCount": 245,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,11 +35,13 @@
   ],
   "species": [
   ],
+  "superName": "Saul",
   "teams": [
     "Externals",
     "High Lords"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Saul_(comics)"
   }
 }

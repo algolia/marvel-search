@@ -17,14 +17,11 @@
     "Fabian Nicieza",
     "Rob Liefeld"
   ],
-  "description": "Domino (Neena Thurman) is a Marvel Comics character, best known as a member of the X-Men offshoot X-Force.",
+  "description": "Domino (Neena Thurman)  is a fictional superhero appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/526031dc10516/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/60/526031dc10516/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Domino",
   "partners": [
@@ -41,8 +38,7 @@
   "ranking": {
     "comicCount": 124,
     "eventCount": 5,
-    "pageviewCount": 1938,
-    "pageviewRank": -1,
+    "pageviewCount": 14203,
     "serieCount": 28,
     "storyCount": 150
   },
@@ -52,6 +48,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Domino",
   "teams": [
     "Six Pack",
     "The 198",

@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Mad Dog",
     "Mad-Dog"
   ],
   "authors": [
@@ -9,12 +8,11 @@
   ],
   "description": "Mad-Dog (Robert \"Buzz\" Baxter) is a fictional character in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Mad_dog_-_solo_avengers_9.jpg/250px-Mad_dog_-_solo_avengers_9.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Mad-Dog",
+  "name": "Mad Dog",
   "partners": [
   ],
   "powers": [
@@ -24,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 60,
-    "pageviewRank": -1,
+    "pageviewCount": 753,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,6 +32,7 @@
   ],
   "species": [
   ],
+  "superName": "Mad Dog",
   "teams": [
     "Mutant Force",
     "Resistants",
@@ -44,6 +42,7 @@
     "United States Air Force"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mad_Dog_(Marvel_Comics)"
   }
 }

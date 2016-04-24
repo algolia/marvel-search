@@ -2,8 +2,7 @@
   "aliases": [
     "Barnell Bohusk",
     "Beak",
-    "Blackwing",
-    "The Beak"
+    "Blackwing"
   ],
   "authors": [
     "Ethan Van Sciver",
@@ -11,16 +10,14 @@
   ],
   "description": "Barnell Bohusk, currently known as Blackwing, formerly known as Beak, is a fictional character, a superhero associated with the X-Men and its spinoff the Exiles.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Blackwing.jpg/220px-Blackwing.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Barnell Bohusk",
   "partners": [
   ],
   "powers": [
-    "A beaked nose",
     "Allow limited flight",
     "Beaked nose",
     "Endurance",
@@ -35,8 +32,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 226,
-    "pageviewRank": -1,
+    "pageviewCount": 1263,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -46,6 +42,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Barnell Bohusk",
   "teams": [
     "Brotherhood of Mutants",
     "Exiles",
@@ -56,6 +53,7 @@
     "Xavier Institute"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Barnell_Bohusk"
   }
 }

@@ -11,9 +11,9 @@
   ],
   "description": "Devastator is a name used by three fictional characters that have appeared in various comic books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Devastator",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 23,
-    "pageviewRank": -1,
+    "pageviewCount": 173,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +33,12 @@
   ],
   "species": [
   ],
+  "superName": "Devastator",
   "teams": [
     "Soviet Super-Troopers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Devastator_(comics)"
   }
 }

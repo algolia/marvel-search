@@ -11,11 +11,8 @@
   "description": "Michael Korvac (often called Korvac or The Enemy) is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4ce5a6396201b/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/00/4ce5a6396201b/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Korvac",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 5,
     "eventCount": 0,
-    "pageviewCount": 453,
-    "pageviewRank": -1,
+    "pageviewCount": 3093,
     "serieCount": 3,
     "storyCount": 6
   },
@@ -37,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Korvac",
   "teams": [
     "Badoon",
     "Brotherhood of Badoon",

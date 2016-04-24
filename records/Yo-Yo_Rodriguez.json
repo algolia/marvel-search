@@ -6,10 +6,11 @@
     "Alex Maleev",
     "Brian Michael Bendis"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Secret_Warriors_Vol_1_12.jpg/250px-Secret_Warriors_Vol_1_12.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Yo-Yo Rodriguez",
   "partners": [
@@ -20,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 142,
-    "pageviewRank": -1,
+    "pageviewCount": 1714,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,10 +29,12 @@
   ],
   "species": [
   ],
+  "superName": "Yo-Yo Rodriguez",
   "teams": [
     "Secret Warriors"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Yo-Yo_Rodriguez"
   }
 }

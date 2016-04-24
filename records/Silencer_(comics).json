@@ -8,10 +8,9 @@
   ],
   "description": "Silencer (Akiya Badaranaike) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5b/Silencer_comics.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Silencer",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 9,
-    "pageviewRank": -1,
+    "pageviewCount": 144,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +31,12 @@
   ],
   "species": [
   ],
+  "superName": "Silencer",
   "teams": [
     "Morituri"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Silencer_(comics)"
   }
 }

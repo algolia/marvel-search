@@ -8,9 +8,9 @@
   ],
   "description": "Nanny is the name of two different fictional characters in X-Men and related titles in the Marvel Comics Universe.The more well known Nanny is a mutant.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Nanny",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 57,
-    "pageviewRank": -1,
+    "pageviewCount": 457,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +32,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Nanny",
   "teams": [
     "The Right"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Nanny_(comics)"
   }
 }

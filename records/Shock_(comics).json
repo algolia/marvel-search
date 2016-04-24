@@ -9,11 +9,11 @@
     "Dan G. Chichester",
     "Scott McDaniel"
   ],
-  "description": "Shock aka Ariel Tremmore is a fictional character, and a supervillain in the Marvel Comics universe, first introduced in 1993 on March 1, created by Dan G.",
+  "description": "Shock aka Ariel Tremmore is a fictional character, and a supervillain in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Shock",
   "partners": [
@@ -25,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 14,
-    "pageviewRank": -1,
+    "pageviewCount": 102,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,9 +34,11 @@
   ],
   "species": [
   ],
+  "superName": "Shock",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Shock_(comics)"
   }
 }

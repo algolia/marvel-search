@@ -12,28 +12,24 @@
     "Al Milgrom",
     "Jim Shooter"
   ],
-  "description": "Tabitha Smith is a fictional character, a comic book superhero in the Marvel Comics universe.",
+  "description": "Tabitha Smith is a fictional character, a mutant superhero appearing in the comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Meltdown01.jpg/250px-Meltdown01.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Boomer",
+  "name": "Tabitha Smith",
   "partners": [
   ],
   "powers": [
     "Destructive force"
   ],
   "ranking": {
-    "comicCount": 56,
-    "eventCount": 2,
-    "pageviewCount": 469,
-    "pageviewRank": -1,
-    "serieCount": 11,
-    "storyCount": 70
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 5274,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Tabitha Smith"
@@ -41,6 +37,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Tabitha Smith",
   "teams": [
     "Fallen Angels",
     "New Mutants",
@@ -51,7 +48,7 @@
     "X-Terminators"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2800/boom_boom",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Tabitha_Smith"
   }
 }

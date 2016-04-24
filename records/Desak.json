@@ -1,6 +1,7 @@
 {
   "aliases": [
     "Desak",
+    "Desak, the God Slayer",
     "the God Slayer"
   ],
   "authors": [
@@ -8,9 +9,9 @@
   ],
   "description": "Desak Sterixian, more commonly known as Desak the God Slayer, is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Desak",
   "partners": [
@@ -31,8 +32,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 53,
-    "pageviewRank": -1,
+    "pageviewCount": 503,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,9 +41,11 @@
   ],
   "species": [
   ],
+  "superName": "Desak",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Desak"
   }
 }

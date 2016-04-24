@@ -12,11 +12,8 @@
   "description": "Misty Knight is a fictional character in Marvel Comics' Marvel Universe.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/537bb605ded59.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/537bb5ee79404.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/511151789a863/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/10/537bb5ba2f274/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -33,7 +30,6 @@
     "Concussive blasts",
     "Magnetism",
     "Near perfect aim",
-    "Near-perfect aim",
     "Superb detective",
     "Superhuman strength",
     "Technopathy"
@@ -41,8 +37,7 @@
   "ranking": {
     "comicCount": 31,
     "eventCount": 5,
-    "pageviewCount": 1185,
-    "pageviewRank": -1,
+    "pageviewCount": 17794,
     "serieCount": 16,
     "storyCount": 28
   },
@@ -52,6 +47,7 @@
   ],
   "species": [
   ],
+  "superName": "Misty Knight",
   "teams": [
     "Daughters of the Dragon",
     "Heroes for Hire",
@@ -60,7 +56,7 @@
     "Nightwing Restorations Ltd"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1010682/misty_knight",
+    "marvel": "http://marvel.com/characters/37/misty_knight",
     "wikipedia": "https://en.wikipedia.org/wiki/Misty_Knight"
   }
 }

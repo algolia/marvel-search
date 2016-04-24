@@ -17,14 +17,11 @@
     "Larry Lieber",
     "Stan Lee"
   ],
-  "description": "Dr. Henry Jonathan \"Hank\" Pym is a fictional character,  a superhero that appears in comic books published by Marvel Comics.",
+  "description": "Dr. Henry \"Hank\" Pym is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/c/20/537bac992da2a.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/9/f0/537bac87c9b93.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5205305343bfd/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/535ff34c0544d/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -40,17 +37,15 @@
     "Also known as a bio-sting",
     "Bio-energy projection",
     "Genius-level intellect",
-    "Goliath",
+    "Mass in giant form",
     "Objects",
     "Stamina",
-    "Superhuman strength",
-    "Yellowjacket"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 231,
     "eventCount": 8,
-    "pageviewCount": 3259,
-    "pageviewRank": -1,
+    "pageviewCount": 39620,
     "serieCount": 84,
     "storyCount": 301
   },
@@ -61,6 +56,7 @@
   "species": [
     "Human Mutate"
   ],
+  "superName": "Hank Pym",
   "teams": [
     "Avengers",
     "Avengers A.I",

@@ -1,21 +1,17 @@
 {
   "aliases": [
-    "Mister Immortal",
     "Mr. Immortal"
   ],
   "authors": [
     "John Byrne"
   ],
-  "description": "Mr. Immortal (Craig Hollis) is a comic book character, a mutant superhero in Marvel Comics' main shared universe.",
+  "description": "Mr. Immortal (Craig Hollis) is a fictional mutant superhero appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4c0035d2872f0/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/92/Mister_Immortal.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Mr. Immortal",
+  "name": "Mister Immortal",
   "partners": [
   ],
   "powers": [
@@ -23,12 +19,11 @@
     "Highly skilled acrobat"
   ],
   "ranking": {
-    "comicCount": 4,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 194,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 3
+    "pageviewCount": 1726,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Craig Hollis"
@@ -36,11 +31,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Mister Immortal",
   "teams": [
     "Great Lakes Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1529/mr_immortal",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mister_Immortal"
   }
 }

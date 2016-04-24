@@ -10,11 +10,8 @@
   "description": "Ulik was a Rock Troll from the realm known as Nornheim, located underground within the dimension of Asgard.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4d3f3b2078758/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ulik",
   "partners": [
@@ -31,8 +28,7 @@
   "ranking": {
     "comicCount": 19,
     "eventCount": 0,
-    "pageviewCount": 203,
-    "pageviewRank": -1,
+    "pageviewCount": 1302,
     "serieCount": 7,
     "storyCount": 21
   },
@@ -42,6 +38,7 @@
   "species": [
     "Troll"
   ],
+  "superName": "Ulik",
   "teams": [
     "Circus of Crime",
     "Dark Council",

@@ -10,32 +10,24 @@
   "description": "Ultimo was a robotic construct that was developed several thousand years ago on an unknown world, which the Mandarin eventually discovered and claimed as his own creation.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c002e5d2432b/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ultimo",
   "partners": [
   ],
   "powers": [
-    "Agility",
     "Durability",
-    "Eyebeams",
     "Heat absorption",
-    "Reflexes",
     "Self-repair",
     "Size manipulation",
     "Speed",
-    "Stamina",
     "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 183,
-    "pageviewRank": -1,
+    "pageviewCount": 1143,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -44,6 +36,7 @@
   ],
   "species": [
   ],
+  "superName": "Ultimo",
   "teams": [
     "Mandarin's Minions"
   ],

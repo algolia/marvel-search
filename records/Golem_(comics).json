@@ -14,10 +14,9 @@
   ],
   "description": "In the Marvel Universe, there have been a number of fictional characters known as Golem.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Strange_Tales_174.jpg/200px-Strange_Tales_174.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Golem",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 31,
-    "pageviewRank": -1,
+    "pageviewCount": 418,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Golem",
   "teams": [
     "Howling Commandos",
     "Invaders",
@@ -47,6 +46,7 @@
     "S.H.I.E.L.D"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Golem_(comics)"
   }
 }

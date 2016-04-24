@@ -9,12 +9,10 @@
   "description": "Leo is the name of different fictional characters in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Leo (Zodiac)",
+  "name": "Leo",
   "partners": [
   ],
   "powers": [
@@ -22,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 23,
-    "pageviewRank": -1,
+    "pageviewCount": 192,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,11 +29,12 @@
   ],
   "species": [
   ],
+  "superName": "Leo",
   "teams": [
     "Zodiac"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1231/leo",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Leo_(comics)"
   }
 }

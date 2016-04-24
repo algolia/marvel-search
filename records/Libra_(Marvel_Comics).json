@@ -10,9 +10,9 @@
   ],
   "description": "For the DC Comics version, see Libra.Libra is the name of different characters in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Libra",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 50,
-    "pageviewRank": -1,
+    "pageviewCount": 414,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,12 +32,14 @@
   ],
   "species": [
   ],
+  "superName": "Libra",
   "teams": [
     "Avengers",
     "The Zodiac",
     "Zodiac"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Libra_(Marvel_Comics)"
   }
 }

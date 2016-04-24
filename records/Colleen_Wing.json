@@ -9,11 +9,8 @@
   "description": "Colleen Wing was raised in Japan by her grandfather Kanji Ozawa, who taught her the ways of a samurai, in which she became highly skilled, after which she teamed up with Misty Knight at the behest of Tony Stark as a new Heroes for Hire tasked with capturing superhumans who have not registered.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/52740e24bddb4/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/e0/52740e24bddb4/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Colleen Wing",
   "partners": [
@@ -36,8 +33,7 @@
   "ranking": {
     "comicCount": 16,
     "eventCount": 2,
-    "pageviewCount": 431,
-    "pageviewRank": -1,
+    "pageviewCount": 7817,
     "serieCount": 7,
     "storyCount": 14
   },
@@ -46,6 +42,7 @@
   ],
   "species": [
   ],
+  "superName": "Colleen Wing",
   "teams": [
     "Daughters of the Dragon",
     "Heroes for Hire",
@@ -54,7 +51,7 @@
     "The Nail"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1010676/colleen_wing",
+    "marvel": "http://marvel.com/characters/2805/colleen_wing",
     "wikipedia": "https://en.wikipedia.org/wiki/Colleen_Wing"
   }
 }

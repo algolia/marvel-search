@@ -11,14 +11,11 @@
     "Chris Claremont",
     "Jim Lee"
   ],
-  "description": "Gambit is a fictional character, a superhero who appears in comic books published by Marvel Comics.",
+  "description": "Gambit is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537bab0026996.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/2/30/537baaede2ff3.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/52696aa8aee99/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/537baad144c79/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 25,
     "green": 11,
@@ -31,21 +28,19 @@
   "powers": [
     "Acceleration",
     "Acrobat",
-    "Bōjutsu",
-    "Control",
     "Disintegration",
-    "Highly skilled in savate",
-    "Hypnotic charm",
+    "Foresight via tarot cards",
     "Kinetic conversion",
-    "Kinetic energy",
+    "Kinetic energy control",
+    "Manipulation",
     "Martial artist",
+    "Skilled card-thrower",
     "Static generation"
   ],
   "ranking": {
     "comicCount": 299,
     "eventCount": 11,
-    "pageviewCount": 4438,
-    "pageviewRank": -1,
+    "pageviewCount": 28419,
     "serieCount": 85,
     "storyCount": 375
   },
@@ -55,6 +50,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Gambit",
   "teams": [
     "All-New X-Factor",
     "Crimson Pirates",
@@ -62,6 +58,7 @@
     "Jean Grey School",
     "LeBeau Clan",
     "Marauders",
+    "Thieves' Guild",
     "Thieves' guild",
     "X-Factor",
     "X-Mansion",
@@ -70,7 +67,7 @@
     "XSE"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009313/gambit",
+    "marvel": "http://marvel.com/characters/19/gambit",
     "wikipedia": "https://en.wikipedia.org/wiki/Gambit_(comics)"
   }
 }

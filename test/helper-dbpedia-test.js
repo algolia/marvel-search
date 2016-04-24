@@ -16,9 +16,20 @@ describe('HelperDBPedia', () => {
   });
 
   describe('isReceivedDataMissing', () => {
-    it('should return true if no object', () => {
+    it('should return true if object is empty', () => {
       // Given
       let input = {};
+
+      // When
+      let actual = Helper.isReceivedDataMissing(input);
+
+      // Then
+      expect(actual).toEqual(true);
+    });
+
+    it('should return true if no object', () => {
+      // Given
+      let input = null;
 
       // When
       let actual = Helper.isReceivedDataMissing(input);

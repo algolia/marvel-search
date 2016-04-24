@@ -13,16 +13,14 @@
   ],
   "authors": [
     "Dan Jurgens",
+    "John Romita Jr.",
     "John Romita, Jr."
   ],
   "description": "Tarene, aware of her true nature as the Designate, a being foretold to elevate all life to greatness, sought adventure and, using Thor as a template, transformed herself into an Asgardian goddess and journeyed to Earth.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/526957cdcf6d1/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/e0/526957cdcf6d1/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Thor Girl",
   "partners": [
@@ -41,18 +39,16 @@
   "ranking": {
     "comicCount": 13,
     "eventCount": 3,
-    "pageviewCount": 312,
-    "pageviewRank": -1,
+    "pageviewCount": 2955,
     "serieCount": 3,
     "storyCount": 16
   },
   "secretIdentities": [
-    "Tara Olson",
-    "Tarene",
     "Tarene Tara Olson"
   ],
   "species": [
   ],
+  "superName": "Thor Girl",
   "teams": [
     "Fifty State Initiative",
     "The Initiative"

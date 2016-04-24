@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Raza",
-    "Raza Longknife"
+    "Raza"
   ],
   "authors": [
     "Dave Cockrum"
@@ -9,13 +8,10 @@
   "description": "Raza Longknife is a character from Marvel Comics, usually seen in the X-Men series and various spin-offs.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4ce5a1057fce9/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Longknife.jpg/250px-Longknife.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Raza",
+  "name": "Raza Longknife",
   "partners": [
   ],
   "powers": [
@@ -25,23 +21,23 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 35,
-    "eventCount": 2,
-    "pageviewCount": 41,
-    "pageviewRank": -1,
-    "serieCount": 13,
-    "storyCount": 29
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 360,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Raza Longknife"
   ],
   "species": [
   ],
+  "superName": "Raza Longknife",
   "teams": [
     "Starjammers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1882/raza",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Raza_Longknife"
   }
 }

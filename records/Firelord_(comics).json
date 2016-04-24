@@ -10,11 +10,8 @@
   "description": "Firelord (Pyreus Kril) is a character in the fictional Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59fd314c38/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59fd314c38/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Firelord",
   "partners": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 24,
     "eventCount": 1,
-    "pageviewCount": 241,
-    "pageviewRank": -1,
+    "pageviewCount": 1877,
     "serieCount": 14,
     "storyCount": 24
   },
@@ -43,6 +39,7 @@
   ],
   "species": [
   ],
+  "superName": "Firelord",
   "teams": [
     "Annihilation",
     "Galactus",

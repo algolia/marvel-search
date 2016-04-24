@@ -5,26 +5,23 @@
   ],
   "authors": [
     "David Michelinie",
-    "George P%C3%A9rez",
     "George Pérez"
   ],
   "description": "Taskmaster first exhibited his unusual ability, called \"photographic reflexes,\" which allowed him to mimic the motion of anyone he saw, when he was a young boy.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/526957dc0c27f/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Taskmaster",
   "partners": [
   ],
   "powers": [
-    "Deadly marksman",
+    "Accurate marksman",
     "Exceptional athlete",
     "Expert tactician",
     "Genius level intellect",
+    "Highly skilled athlete",
     "Marksman",
     "Martial artist",
     "Master of disguise",
@@ -35,8 +32,7 @@
   "ranking": {
     "comicCount": 50,
     "eventCount": 4,
-    "pageviewCount": 2520,
-    "pageviewRank": -1,
+    "pageviewCount": 18775,
     "serieCount": 21,
     "storyCount": 64
   },
@@ -46,6 +42,7 @@
   ],
   "species": [
   ],
+  "superName": "Taskmaster",
   "teams": [
     "A.I.M",
     "Advanced Idea Mechanics",
@@ -61,7 +58,7 @@
     "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009648/taskmaster",
+    "marvel": "http://marvel.com/characters/2297/taskmaster",
     "wikipedia": "https://en.wikipedia.org/wiki/Taskmaster"
   }
 }

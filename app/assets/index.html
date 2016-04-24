@@ -85,11 +85,11 @@
         <div class="hit--thumbnail"></div>
 
         <div class="hit--content">
-        <h3 class="hit--title">{{{name}}}</h3>
+        <h3 class="hit--title">{{{highlightedName}}}</h3>
 
-        {{#description}}
-        <p class="hit--description">{{{description}}}</p>
-        {{/description}}
+        {{#highlightedDescription}}
+        <p class="hit--description">{{{highlightedDescription}}}</p>
+        {{/highlightedDescription}}
         </div>
 
         <textarea style="display:none;" class="js-hit--json-holder">{{json}}</textarea>

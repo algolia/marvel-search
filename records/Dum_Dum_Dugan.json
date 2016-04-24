@@ -10,11 +10,8 @@
   "description": "Timothy Aloysius Cadwallader \"Dum Dum\" Dugan is a fictional character in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/4ce59f9fc788f/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Dum Dum Dugan",
   "partners": [
@@ -25,16 +22,16 @@
   "ranking": {
     "comicCount": 25,
     "eventCount": 3,
-    "pageviewCount": 1207,
-    "pageviewRank": -1,
+    "pageviewCount": 8687,
     "serieCount": 17,
     "storyCount": 27
   },
   "secretIdentities": [
-    "Timothy Aloysius Cadwallander Dugan"
+    "Timothy Aloysius Cadwallader Dugan"
   ],
   "species": [
   ],
+  "superName": "Dum Dum Dugan",
   "teams": [
     "Avengers\" (1959)",
     "British Army",
@@ -45,7 +42,8 @@
     "Howling Commandos",
     "S.H.I.E.L.D",
     "S.T.A.K.E",
-    "U.S. Army"
+    "U.S. Army",
+    "United States Army"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/3424/dum_dum_dugan",

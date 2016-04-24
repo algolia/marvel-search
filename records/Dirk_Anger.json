@@ -9,11 +9,8 @@
   "description": "Dirk Anger is a satirical Marvel Comics character appearing in the book Nextwave.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/One_Crazy_MammaJamma.jpg/250px-One_Crazy_MammaJamma.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Dirk Anger",
   "partners": [
@@ -23,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 70,
-    "pageviewRank": -1,
+    "pageviewCount": 471,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,12 +29,13 @@
   ],
   "species": [
   ],
+  "superName": "Dirk Anger",
   "teams": [
     "Features of the Marvel Universe",
     "H.A.T.E"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2856/dirk_anger",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Dirk_Anger"
   }
 }

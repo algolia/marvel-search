@@ -15,46 +15,36 @@
     "Jim Steranko",
     "Werner Roth"
   ],
-  "description": "Polaris (Lorna Dane) is a fictional comic book character and superhero appearing in books published by Marvel Comics, in particular the X-Men family of books.",
+  "description": "Polaris (Lorna Dane) is a fictional superhero appearing in American comic books published by Marvel Comics, most commonly in associated with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5274122562b05/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/c0/5274122562b05/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Polaris",
   "partners": [
   ],
   "powers": [
-    "Concussive blasts",
     "Electromagnetic control",
-    "Fields allowing flight",
     "Flight",
-    "Force-fields",
-    "Magnetic field generation",
-    "Waves"
+    "Magnetic field generation"
   ],
   "ranking": {
     "comicCount": 192,
     "eventCount": 6,
-    "pageviewCount": 945,
-    "pageviewRank": -1,
+    "pageviewCount": 8599,
     "serieCount": 55,
     "storyCount": 226
   },
   "secretIdentities": [
-    "Lorna Dane",
     "Lorna Sally Dane"
   ],
   "species": [
     "Mutant"
   ],
+  "superName": "Polaris",
   "teams": [
     "Acolytes",
-    "All-New X-Factor",
-    "Defenders",
     "Defenders for a Day",
     "Horsemen of Apocalypse",
     "Starjammers",

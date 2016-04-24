@@ -7,10 +7,9 @@
   ],
   "description": "Bombshell (Wendy Conrad) is a fictional character, a supervillain in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0a/Bombshell_Marvel.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Bombshell",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 91,
-    "pageviewRank": -1,
+    "pageviewCount": 732,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,11 +30,13 @@
   ],
   "species": [
   ],
+  "superName": "Bombshell",
   "teams": [
     "Death-Throws",
     "Femizons"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Bombshell_(Marvel_Comics)"
   }
 }

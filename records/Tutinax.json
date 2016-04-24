@@ -8,9 +8,9 @@
   ],
   "description": "Tutinax is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Tutinax",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 6,
-    "pageviewRank": -1,
+    "pageviewCount": 92,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,11 +32,13 @@
   "species": [
     "Deviant Mutate"
   ],
+  "superName": "Tutinax",
   "teams": [
     "Deviant",
     "Deviants"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Tutinax"
   }
 }

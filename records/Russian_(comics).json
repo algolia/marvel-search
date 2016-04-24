@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Ma Gnucci",
     "Russian",
     "The Ivan",
     "The Russian"
@@ -9,14 +8,11 @@
     "Garth Ennis",
     "Steve Dillon"
   ],
-  "description": "The Russian is a Marvel Comics villain created by Garth Ennis and Steve Dillon to become an assassin during the Punisher's relaunch in November 2000.",
+  "description": "The Russian is a fictional supervillain, and enemy of the Marvel Comics antihero the Punisher.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/10/4c003c4af200f/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Russian",
   "partners": [
@@ -24,29 +20,26 @@
   "powers": [
     "Considerable strength",
     "Durability",
-    "Endurance",
     "Enhanced smell",
-    "Near bulletproof skin",
     "Nigh-invulnerability",
     "Stamina"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 402,
-    "pageviewRank": -1,
+    "pageviewCount": 2097,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Ivan Vassilovitch Dragovsky"
   ],
   "species": [
+    "Human Cyborg"
   ],
+  "superName": "Russian",
   "teams": [
     "General Kreigkopf's Army",
-    "Gnucci Family",
-    "The Gnucci family"
+    "Gnucci Family"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1964/russian",

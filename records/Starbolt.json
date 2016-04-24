@@ -10,11 +10,8 @@
   "description": "Starbolt is a member of the Shi'ar Imperial Guard.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/4c003acf4e4bc/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Starbolt",
   "partners": [
@@ -26,16 +23,15 @@
   "ranking": {
     "comicCount": 8,
     "eventCount": 0,
-    "pageviewCount": 54,
-    "pageviewRank": -1,
+    "pageviewCount": 402,
     "serieCount": 5,
     "storyCount": 5
   },
   "secretIdentities": [
   ],
   "species": [
-    "Unknown"
   ],
+  "superName": "Starbolt",
   "teams": [
     "Imperial Guard"
   ],

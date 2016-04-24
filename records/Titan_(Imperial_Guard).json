@@ -10,35 +10,32 @@
   "description": "Titan is a fictional character that appears in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/535febc427605/standard_xlarge.jpg"
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Onslaught",
+  "name": "Titan (Imperial Guard)",
   "partners": [
   ],
   "powers": [
     "Size-shifting"
   ],
   "ranking": {
-    "comicCount": 33,
-    "eventCount": 1,
-    "pageviewCount": 44,
-    "pageviewRank": -1,
-    "serieCount": 21,
-    "storyCount": 28
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 307,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Titan",
   "teams": [
     "Imperial Guard"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1657/onslaught",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Titan_(Imperial_Guard)"
   }
 }

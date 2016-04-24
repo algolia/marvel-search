@@ -2,6 +2,7 @@
   "aliases": [
     "Shatterfist",
     "Snowblind",
+    "Sphinx",
     "The Dreaded One",
     "Yo-Yo Rodriguez"
   ],
@@ -9,27 +10,26 @@
     "Marv Wolfman",
     "Sal Buscema"
   ],
+  "description": "The Sphinx is the name of two fictional characters appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Thing-34.jpg/250px-Thing-34.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
-  "name": "Sphinx (Anath-Na Mut)",
+  "name": "Sphinx",
   "partners": [
   ],
   "powers": [
     "Durability",
     "Energy projection",
-    "Superhuman strength"
+    "Reality manipulation",
+    "Superhuman strength",
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 57,
-    "pageviewRank": -1,
+    "pageviewCount": 504,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,11 +37,13 @@
     "Anath-Na Mut"
   ],
   "species": [
+    "Mutant"
   ],
+  "superName": "Sphinx",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2167/sphinx",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sphinx_(Marvel_Comics)"
   }
 }

@@ -13,25 +13,21 @@
   "description": "Iron Fist (Daniel \"Danny\" Rand) is a fictional character, a superhero appearing in comic books published by Marvel Comics.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/0/03/537bb19313722.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/537bb1756cd26.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/53176ebd40ad7/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/537bb15b06fc8/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 9,
     "green": 36,
     "hexa": "3A2409",
     "red": 58
   },
-  "name": "Iron Fist (Bei Bang-Wen)",
+  "name": "Iron Fist",
   "partners": [
     "Colleen Wing",
     "Daredevil",
     "Luke Cage",
     "Master Izo",
     "Misty Knight",
-    "Power Man",
     "Power Man (Victor Alvarez)"
   ],
   "powers": [
@@ -44,19 +40,20 @@
     "The iron fist"
   ],
   "ranking": {
-    "comicCount": 6,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 6737,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 6
+    "pageviewCount": 87637,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Daniel Rand",
+    "Daniel Thomas Rand-K'ai",
     "Danny"
   ],
   "species": [
   ],
+  "superName": "Iron Fist",
   "teams": [
     "Defenders",
     "Heroes for Hire",
@@ -66,7 +63,7 @@
     "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1011318/iron_fist_bei_bang-wen/featured",
+    "marvel": "http://marvel.com/characters/28/iron_fist",
     "wikipedia": "https://en.wikipedia.org/wiki/Iron_Fist_(comics)"
   }
 }

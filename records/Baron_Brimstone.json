@@ -9,9 +9,9 @@
   ],
   "description": "Baron Brimstone is a fictional supervillain in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Baron Brimstone",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 20,
-    "pageviewRank": -1,
+    "pageviewCount": 144,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +31,12 @@
   ],
   "species": [
   ],
+  "superName": "Baron Brimstone",
   "teams": [
     "Satan Squad"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Baron_Brimstone"
   }
 }

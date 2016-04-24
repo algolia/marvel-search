@@ -8,9 +8,9 @@
   ],
   "description": "Whiteout is a fictional character in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Whiteout",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 13,
-    "pageviewRank": -1,
+    "pageviewCount": 119,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,10 +30,12 @@
   "species": [
     "Savage Land Mutates"
   ],
+  "superName": "Whiteout",
   "teams": [
     "Savage Land Mutates"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Whiteout_(Marvel_Comics)"
   }
 }

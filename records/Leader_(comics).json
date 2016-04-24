@@ -9,14 +9,11 @@
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "The Leader (Samuel Sterns) is a fictional character, a supervillain  that appears in comic books published by Marvel Comics.",
+  "description": "The Leader (Samuel Sterns) is a fictional supervillain that appears in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/52b0d25c3dbb9/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/b/c0/52b0d25c3dbb9/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Leader",
   "partners": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 28,
     "eventCount": 0,
-    "pageviewCount": 963,
-    "pageviewRank": -1,
+    "pageviewCount": 6221,
     "serieCount": 12,
     "storyCount": 29
   },
@@ -43,6 +39,7 @@
   ],
   "species": [
   ],
+  "superName": "Leader",
   "teams": [
     "Freehold/New Freehold",
     "Humanoids",
@@ -51,7 +48,7 @@
     "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009398/leader",
+    "marvel": "http://marvel.com/characters/1220/leader",
     "wikipedia": "https://en.wikipedia.org/wiki/Leader_(comics)"
   }
 }

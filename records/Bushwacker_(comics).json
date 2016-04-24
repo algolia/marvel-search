@@ -10,11 +10,8 @@
   "description": "Bushwacker (Carl Burbank) is a fictional character, a supervillain in the Marvel Comics Universe, who is primarily an enemy of Daredevil, although he has had dealings with the Punisher and Wolverine.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Daredevil_cover_-_number_335.jpg/250px-Daredevil_cover_-_number_335.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Bushwacker",
   "partners": [
@@ -27,22 +24,22 @@
     "Trained assassin"
   ],
   "ranking": {
-    "comicCount": 8,
-    "eventCount": 1,
-    "pageviewCount": 153,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 6
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1006,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Carl Burbank"
   ],
   "species": [
   ],
+  "superName": "Bushwacker",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/369/bushwacker",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Bushwacker_(comics)"
   }
 }

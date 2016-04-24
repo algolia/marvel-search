@@ -6,17 +6,15 @@
     "The Schemer"
   ],
   "authors": [
+    "John Romita Sr.",
     "John Romita, Sr.",
     "Stan Lee"
   ],
   "description": "Richard Fisk is a fictional character, a criminal in the Marvel Comics Universe, featured in the comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Webofspiderman30.jpg/250px-Webofspiderman30.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Richard Fisk",
   "partners": [
@@ -31,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 396,
-    "pageviewRank": -1,
+    "pageviewCount": 3439,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,11 +38,13 @@
   ],
   "species": [
   ],
+  "superName": "Richard Fisk",
   "teams": [
+    "HYDRA",
     "Hydra"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2929/richard_fisk",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Richard_Fisk"
   }
 }

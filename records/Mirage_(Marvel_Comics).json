@@ -7,11 +7,11 @@
     "Len Wein",
     "Ross Andru"
   ],
-  "description": "Mirage is the name of two Marvel Comics villain.",
+  "description": "Mirage is the name of two Marvel Comics villains.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Mirage",
   "partners": [
@@ -26,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 54,
-    "pageviewRank": -1,
+    "pageviewCount": 319,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,11 +36,13 @@
   "species": [
     "Human"
   ],
+  "superName": "Mirage",
   "teams": [
     "Grapplers",
     "Sinister Sixteen"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mirage_(Marvel_Comics)"
   }
 }

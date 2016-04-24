@@ -6,9 +6,9 @@
   ],
   "description": "Kamikaze (Haruo Tsuburaya) is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Kamikaze",
   "partners": [
@@ -19,8 +19,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 34,
-    "pageviewRank": -1,
+    "pageviewCount": 658,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,10 +30,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Kamikaze",
   "teams": [
     "Mutant Liberation Front"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Kamikaze_(comics)"
   }
 }

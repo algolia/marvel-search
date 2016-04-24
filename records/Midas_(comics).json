@@ -10,11 +10,11 @@
     "Gerry Conway",
     "Jim Mooney"
   ],
-  "description": "Midas is the name of two fictional character in the Marvel Universe.",
+  "description": "Midas is the name of two fictional characters in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Midas",
   "partners": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 73,
-    "pageviewRank": -1,
+    "pageviewCount": 262,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,9 +34,11 @@
   ],
   "species": [
   ],
+  "superName": "Midas",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Midas_(comics)"
   }
 }

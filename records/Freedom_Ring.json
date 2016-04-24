@@ -8,10 +8,9 @@
   ],
   "description": "Freedom Ring (real name Curtis Doyle) is a fictional superhero in the Marvel Comics universe, created by writer Robert Kirkman.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Freedomring.png/150px-Freedomring.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Freedom Ring",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 44,
-    "pageviewRank": -1,
+    "pageviewCount": 289,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,9 +33,11 @@
   ],
   "species": [
   ],
+  "superName": "Freedom Ring",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Freedom_Ring"
   }
 }

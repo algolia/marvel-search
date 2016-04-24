@@ -8,10 +8,9 @@
   ],
   "description": "Fixx is a fictional mutant character in the Marvel Comics Universe from an alternate future.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Fixx.jpg/200px-Fixx.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Fixx",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 56,
-    "pageviewRank": -1,
+    "pageviewCount": 388,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,12 +31,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Fixx",
   "teams": [
     "X-Factor",
     "Xavier's Security Enforcers",
     "Xavier's Underground Enforcers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Fixx"
   }
 }

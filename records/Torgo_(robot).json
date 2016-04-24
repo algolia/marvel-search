@@ -10,11 +10,11 @@
   ],
   "description": "Torgo is a fictional character, an alien robot appearing in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Torgo",
+  "name": "Torgo (robot)",
   "partners": [
   ],
   "powers": [
@@ -26,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 45,
-    "pageviewRank": -1,
+    "pageviewCount": 384,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,11 +35,13 @@
   "species": [
     "Robot"
   ],
+  "superName": "Torgo",
   "teams": [
     "Horror-Hunters",
     "Hulk-Hunters"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Torgo_(robot)"
   }
 }

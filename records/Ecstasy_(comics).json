@@ -9,10 +9,9 @@
   ],
   "description": "Ecstasy (Renee Deladier) is a super villain in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/93/Ecstasy_%28Renee_Deladier%29.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ecstasy",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 53,
-    "pageviewRank": -1,
+    "pageviewCount": 312,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,9 +33,11 @@
   ],
   "species": [
   ],
+  "superName": "Ecstasy",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ecstasy_(comics)"
   }
 }

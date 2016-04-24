@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Bruno Horgan",
-    "Melter",
-    "Melter II"
+    "Melter"
   ],
   "authors": [
     "Mark Brooks",
@@ -12,10 +11,9 @@
   ],
   "description": "The Melter is the name of three characters in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Melter.jpg/240px-Melter.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Melter",
   "partners": [
@@ -26,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 140,
-    "pageviewRank": -1,
+    "pageviewCount": 1100,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,12 +35,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Melter",
   "teams": [
     "Death Squad",
     "Masters of Evil",
     "Young Masters"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Melter"
   }
 }

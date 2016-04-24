@@ -3,15 +3,14 @@
     "Snapdragon"
   ],
   "authors": [
-    "George P%C3%A9rez",
     "George Pérez",
     "Ralph Macchio"
   ],
   "description": "Snapdragon (Sheoke Sanada) is a Japanese supervillain in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Snapdragon",
   "partners": [
@@ -21,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 28,
-    "pageviewRank": -1,
+    "pageviewCount": 327,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,10 +29,12 @@
   ],
   "species": [
   ],
+  "superName": "Snapdragon",
   "teams": [
     "Femizons"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Snapdragon_(comics)"
   }
 }

@@ -9,9 +9,9 @@
   ],
   "description": "Equinox (Terrance Sorenson) is a fictional character, a supervillain appearing in publications from Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Equinox",
   "partners": [
@@ -19,15 +19,13 @@
   "powers": [
     "Cryokinesis",
     "Durability",
-    "Hysterical strength",
     "Pyrokinesis",
     "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 106,
-    "pageviewRank": -1,
+    "pageviewCount": 691,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,11 +35,13 @@
   ],
   "species": [
   ],
+  "superName": "Equinox",
   "teams": [
     "Freedom Force",
     "Vil-Anon"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Equinox_(comics)"
   }
 }

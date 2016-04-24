@@ -13,9 +13,9 @@
   ],
   "description": "Jester is the name of several Marvel Comics supervillains.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Jester",
   "partners": [
@@ -34,8 +34,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 100,
-    "pageviewRank": -1,
+    "pageviewCount": 928,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -45,12 +44,14 @@
   ],
   "species": [
   ],
+  "superName": "Jester",
   "teams": [
     "Crazy Gang",
     "The Assembly of Evil",
     "Thunderbolts"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jester_(Marvel_Comics)"
   }
 }

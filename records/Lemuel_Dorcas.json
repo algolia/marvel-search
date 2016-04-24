@@ -1,7 +1,6 @@
 {
   "aliases": [
     "Doctor Lemuel Dorcas",
-    "Lemuel Dorcas",
     "actual identities the character uses"
   ],
   "authors": [
@@ -10,11 +9,11 @@
   ],
   "description": "Lemuel Dorcas is a fictional character in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Doctor Lemuel Dorcas",
+  "name": "Lemuel Dorcas",
   "partners": [
     "Attuma",
     "Byrrah",
@@ -28,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 45,
-    "pageviewRank": -1,
+    "pageviewCount": 318,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,9 +36,11 @@
   ],
   "species": [
   ],
+  "superName": "Lemuel Dorcas",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Lemuel_Dorcas"
   }
 }

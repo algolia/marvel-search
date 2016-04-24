@@ -8,10 +8,9 @@
   ],
   "description": "Phantazia (Eileen Harsaw) is a fictional mutant supervillain in the Marvel Comics universe who first appeared in X-Force #6 (1992).",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Phantazia_without_costume_from_X-Men_Unlimited.jpg/150px-Phantazia_without_costume_from_X-Men_Unlimited.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Phantazia",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 43,
-    "pageviewRank": -1,
+    "pageviewCount": 313,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +32,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Phantazia",
   "teams": [
     "Brotherhood of Mutants"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Phantazia"
   }
 }

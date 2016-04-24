@@ -9,11 +9,8 @@
   "description": "Chimera is a fictional mutant character in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/ChimeraX-Men.jpg/250px-ChimeraX-Men.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Chimera",
   "partners": [
@@ -24,25 +21,25 @@
     "Telepathy"
   ],
   "ranking": {
-    "comicCount": 2,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 113,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 3
+    "pageviewCount": 825,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
     "Extradimensional Mutate"
   ],
+  "superName": "Chimera",
   "teams": [
     "Brotherhood of Mutants",
     "Marauders",
     "Sisterhood of Mutants"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/428/chimera",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Chimera_(comics)"
   }
 }

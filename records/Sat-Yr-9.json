@@ -10,12 +10,10 @@
   "description": "Opul Lun Sat-Yr-9 (also spelled Sat-Yr-nin) is a fictional character and supervillainess in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "White Queen (Adrienne Frost)",
+  "name": "Sat-Yr-9",
   "partners": [
   ],
   "powers": [
@@ -23,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 98,
-    "pageviewRank": -1,
+    "pageviewCount": 683,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,11 +31,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Sat-Yr-9",
   "teams": [
     "Hellfire Club"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2556/white_queen",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sat-Yr-9"
   }
 }

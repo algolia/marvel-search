@@ -11,13 +11,10 @@
   "description": "Realizing the criminal potential of his abilities, Umberto stole a flock of trained birds from a fellow performer to assist him in his new costumed criminal guise as the Scarecrow.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Scare_crow-1-.jpg/250px-Scare_crow-1-.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Scarecrow (Ebenezer Laughton)",
+  "name": "Scarecrow",
   "partners": [
     "Count Nefaria",
     "Cowled Commander",
@@ -41,8 +38,7 @@
   "ranking": {
     "comicCount": 8,
     "eventCount": 0,
-    "pageviewCount": 232,
-    "pageviewRank": -1,
+    "pageviewCount": 1574,
     "serieCount": 8,
     "storyCount": 8
   },
@@ -51,9 +47,9 @@
   ],
   "species": [
   ],
+  "superName": "Scarecrow",
   "teams": [
     "Exterminators",
-    "Exterminatorshttp://www.marvunapp.com/Appendix4/exterminatorschamln.htm",
     "Firm",
     "Maggia",
     "The Firm"

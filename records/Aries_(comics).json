@@ -16,11 +16,11 @@
     "Steve Englehart",
     "Steven T. Seagle"
   ],
-  "description": "The various incarnations of Aries are Marvel Comics supervillains who were members of various incarnations of the supervillain group, the Zodiac.In the history of the Marvel Universe, seven different characters have assumed the role of Aries.",
+  "description": "The incarnations of Aries are Marvel Comics supervillains who were members of incarnations of the supervillain group, the Zodiac.In the history of the Marvel Universe, seven different characters have assumed the role of Aries.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Aries",
   "partners": [
@@ -35,8 +35,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 54,
-    "pageviewRank": -1,
+    "pageviewCount": 391,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -47,12 +46,14 @@
   ],
   "species": [
   ],
+  "superName": "Aries",
   "teams": [
     "Scorpio",
     "Zodiac",
     "Zodiac Cartel"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Aries_(comics)"
   }
 }

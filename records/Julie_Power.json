@@ -13,45 +13,40 @@
   "description": "Julie Power (also known as Lightspeed) is a fictional character in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4c7c643921b8e/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/LightSpeedJulie.JPG/160px-LightSpeedJulie.JPG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Lightspeed",
+  "name": "Julie Power",
   "partners": [
   ],
   "powers": [
-    "Acceleration",
     "Acceleration/flight",
-    "Control over her own mass",
     "Density",
     "Healing powers",
-    "Size",
     "Size manipulation",
     "Teleportation"
   ],
   "ranking": {
-    "comicCount": 2,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 179,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 2
+    "pageviewCount": 1598,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Julie Power"
   ],
   "species": [
   ],
+  "superName": "Julie Power",
   "teams": [
     "Avengers Academy",
+    "Loner",
     "Loners",
     "Power Pack"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1246/lightspeed",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Julie_Power"
   }
 }

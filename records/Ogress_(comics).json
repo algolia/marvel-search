@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Ogress",
-    "Orgress"
+    "Ogress"
   ],
   "authors": [
     "Peter David",
@@ -9,23 +8,21 @@
   ],
   "description": "Ogress  is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Orgress",
+  "name": "Ogress",
   "partners": [
   ],
   "powers": [
     "Durability",
-    "Stamina",
     "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 42,
-    "pageviewRank": -1,
+    "pageviewCount": 341,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +31,12 @@
   ],
   "species": [
   ],
+  "superName": "Ogress",
   "teams": [
     "Riot Squad"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ogress_(comics)"
   }
 }

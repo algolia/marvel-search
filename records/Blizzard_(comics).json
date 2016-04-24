@@ -1,6 +1,7 @@
 {
   "aliases": [
     "Blizzard",
+    "Blizzard II",
     "Donnie Gill",
     "Jack Frost"
   ],
@@ -13,28 +14,23 @@
   "description": "Blizzard is a fictional character, a supervillain in the Marvel Universe and a member of Iron Man's rogues gallery.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/BlizzardDonnieGill.jpg/250px-BlizzardDonnieGill.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Blizzard",
   "partners": [
   ],
   "powers": [
-    "Cold",
     "Cold manipulation",
-    "Projection",
-    "Water manipulation"
+    "Ice generation",
+    "Projection"
   ],
   "ranking": {
-    "comicCount": 7,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 420,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 7
+    "pageviewCount": 3331,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Donald Gill",
@@ -42,12 +38,17 @@
     "Gregor Shapanka"
   ],
   "species": [
-    "Inhumans"
+    "Human",
+    "Inhuman"
   ],
+  "superName": "Blizzard",
   "teams": [
+    "Justin Hammer",
+    "Masters of Evil",
+    "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/307/blizzard",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Blizzard_(comics)"
   }
 }

@@ -11,10 +11,9 @@
   ],
   "description": "Not to be confused with \"The Golden Girls\".",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GoldenGirl.jpg/200px-GoldenGirl.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Golden Girl",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 373,
-    "pageviewRank": -1,
+    "pageviewCount": 2294,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Golden Girl",
   "teams": [
     "All-Winners Squad",
     "Kid Commandos",
@@ -48,6 +47,7 @@
     "Women's Auxiliary Army Corps"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Golden_Girl"
   }
 }

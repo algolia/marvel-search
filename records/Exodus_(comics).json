@@ -7,14 +7,11 @@
     "Joe Quesada",
     "Scott Lobdell"
   ],
-  "description": "Exodus is a fictional character, a comic book supervillain in the Marvel Comics universe.",
+  "description": "Exodus is a fictional comic book supervillain in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/52695589e1721/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Exodus",
   "partners": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 16,
     "eventCount": 3,
-    "pageviewCount": 393,
-    "pageviewRank": -1,
+    "pageviewCount": 6099,
     "serieCount": 11,
     "storyCount": 21
   },
@@ -40,6 +36,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Exodus",
   "teams": [
     "Acolytes",
     "Brotherhood of Mutants",

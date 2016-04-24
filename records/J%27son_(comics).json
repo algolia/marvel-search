@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "J'son",
     "Jason of Spartax",
     "Mister Knife"
   ],
@@ -7,10 +8,11 @@
     "Chris Claremont",
     "John Byrne"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "J'son",
   "partners": [
@@ -20,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 849,
-    "pageviewRank": -1,
+    "pageviewCount": 22,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,9 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "J'son",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/J%27son_(comics)"
   }
 }

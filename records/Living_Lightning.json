@@ -1,21 +1,18 @@
 {
   "aliases": [
-    "Living Lightning",
     "Relampago Vivo"
   ],
   "authors": [
     "Dann Thomas",
     "Paul Ryan",
+    "Paul Ryan (cartoonist)",
     "Roy Thomas"
   ],
   "description": "Living Lightning (Miguel Santos) is a fictional character, a superhero from the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0035c72cc26/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/a0/4c0035c72cc26/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Living Lightning",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 18,
     "eventCount": 0,
-    "pageviewCount": 116,
-    "pageviewRank": -1,
+    "pageviewCount": 885,
     "serieCount": 6,
     "storyCount": 17
   },
@@ -37,11 +33,13 @@
   ],
   "species": [
   ],
+  "superName": "Living Lightning",
   "teams": [
     "Civil War",
     "Pacific Overlords",
     "Rangers",
     "Secret Avengers (Civil War)",
+    "The Rangers",
     "West Coast Avengers"
   ],
   "urls": {

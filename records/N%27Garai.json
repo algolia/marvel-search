@@ -6,13 +6,13 @@
     "Chris Claremont",
     "Dave Cockrum"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Uncanny_X-Men_143.jpg/250px-Uncanny_X-Men_143.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
-  "name": "N%27Garai",
+  "name": "N'Garai",
   "partners": [
   ],
   "powers": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 61,
-    "pageviewRank": -1,
+    "pageviewCount": 526,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,9 +28,11 @@
   ],
   "species": [
   ],
+  "superName": "N'Garai",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/N%27Garai"
   }
 }

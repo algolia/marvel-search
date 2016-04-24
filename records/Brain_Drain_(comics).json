@@ -8,10 +8,9 @@
   ],
   "description": "Brain Drain is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/BrainDrain.jpg/250px-BrainDrain.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Brain Drain",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 37,
-    "pageviewRank": -1,
+    "pageviewCount": 330,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +32,12 @@
   ],
   "species": [
   ],
+  "superName": "Brain Drain",
   "teams": [
     "Omega Flight"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Brain_Drain_(comics)"
   }
 }

@@ -10,11 +10,8 @@
   "description": "Morg is a fictional supervillain published by Marvel Comics universe, appearing as a herald of Galactus.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Morg1.jpg/250px-Morg1.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Morg",
   "partners": [
@@ -25,24 +22,24 @@
     "Use of power cosmic"
   ],
   "ranking": {
-    "comicCount": 5,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 146,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 5
+    "pageviewCount": 1161,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Morg"
   ],
   "species": [
   ],
+  "superName": "Morg",
   "teams": [
     "Galactus",
     "Heralds of Galactus"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1507/morg",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Morg"
   }
 }

@@ -9,16 +9,13 @@
     "Mike Ploog",
     "Roy Thomas"
   ],
-  "description": "Jack Russell inherited the curse of lycanthropy from his father, Gregor.",
+  "description": "Werewolf by Night (birth name Jacob Russoff, legal name Jacob Russell, nicknamed Jack) is a fictional character, an antiheroic werewolf in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4c00375df1879/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Werewolf_by_Night_cover.JPG/190px-Werewolf_by_Night_cover.JPG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Werewolf By Night",
+  "name": "Werewolf by Night",
   "partners": [
   ],
   "powers": [
@@ -33,12 +30,11 @@
     "Teeth"
   ],
   "ranking": {
-    "comicCount": 30,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 336,
-    "pageviewRank": -1,
-    "serieCount": 11,
-    "storyCount": 43
+    "pageviewCount": 2754,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Jacob Russoff",
@@ -46,13 +42,14 @@
   ],
   "species": [
   ],
+  "superName": "Werewolf by Night",
   "teams": [
     "Legion of Monsters",
     "Midnight Sons",
     "Night Shift"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2547/werewolf_by_night",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Werewolf_by_Night"
   }
 }

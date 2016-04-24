@@ -6,14 +6,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Ulysses Klaw is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
+  "description": "Klaw (Ulysses Klaw) is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/526034e1c6ede/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Klaw",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 28,
     "eventCount": 2,
-    "pageviewCount": 1183,
-    "pageviewRank": -1,
+    "pageviewCount": 14314,
     "serieCount": 19,
     "storyCount": 29
   },
@@ -37,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Klaw",
   "teams": [
     "A.I.M",
     "Advanced Idea Mechanics",
@@ -45,7 +42,7 @@
     "Masters of Evil"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009390/klaw",
+    "marvel": "http://marvel.com/characters/1156/klaw",
     "wikipedia": "https://en.wikipedia.org/wiki/Klaw_(Marvel_Comics)"
   }
 }

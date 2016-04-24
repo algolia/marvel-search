@@ -11,10 +11,9 @@
   ],
   "description": "Matador is the name of two Marvel Comics characters.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Daredevil_cover_-_number_5.jpg/250px-Daredevil_cover_-_number_5.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Matador",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 46,
-    "pageviewRank": -1,
+    "pageviewCount": 485,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,10 +36,12 @@
   ],
   "species": [
   ],
+  "superName": "Matador",
   "teams": [
     "Emissaries of Evil"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Matador_(Marvel_Comics)"
   }
 }

@@ -9,14 +9,11 @@
     "Joe Madureira",
     "Scott Lobdell"
   ],
-  "description": "Marrow (Sarah), is a Marvel Comics character, associated with the X-Men franchise.",
+  "description": "Marrow (Sarah), is a fictional Marvel Comics character associated with the X-Men franchise.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c003d4ce6711/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/a0/4c003d4ce6711/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Marrow",
   "partners": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 75,
     "eventCount": 1,
-    "pageviewCount": 572,
-    "pageviewRank": -1,
+    "pageviewCount": 4430,
     "serieCount": 20,
     "storyCount": 91
   },
@@ -44,6 +40,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Marrow",
   "teams": [
     "Gene Nation",
     "Morlocks",

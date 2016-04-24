@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Adversary",
     "Nazé",
     "The Adversary",
     "The Great Trickster"
@@ -12,9 +11,9 @@
   ],
   "description": "The Adversary is a fictional character, a demonic supervillain in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Adversary",
   "partners": [
@@ -28,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 85,
-    "pageviewRank": -1,
+    "pageviewCount": 611,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,9 +35,11 @@
   ],
   "species": [
   ],
+  "superName": "Adversary",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Adversary_(comics)"
   }
 }

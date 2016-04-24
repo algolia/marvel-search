@@ -6,12 +6,11 @@
     "Jae Lee",
     "Paul Jenkins"
   ],
-  "description": "Nahrees is a fictional character, a superhero in Marvel Comics' universe.",
+  "description": "Nahrees is a fictional character/superhero in the Marvel Comics' universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nahreesinhuman.jpg/225px-Nahreesinhuman.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Nahrees",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 60,
-    "pageviewRank": -1,
+    "pageviewCount": 596,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Nahrees",
   "teams": [
     "Inhumans"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Nahrees"
   }
 }

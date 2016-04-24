@@ -7,9 +7,9 @@
   ],
   "description": "Black Raazer is a fictional character in Marvel Comics who first appeared in the first Alpha Flight series. (The character's name has been spelled or misspelled as Raazar and Razaar.).",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Black Raazer",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 41,
-    "pageviewRank": -1,
+    "pageviewCount": 366,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,10 +30,12 @@
   "species": [
     "human sorcerer wraith"
   ],
+  "superName": "Black Raazer",
   "teams": [
     "Desert Sword"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Raazer"
   }
 }

@@ -27,6 +27,17 @@ describe('HelperWikipedia', () => {
       expect(actual).toEqual('Adrienne Frost');
     });
 
+    it('should convert quotes', () => {
+      // Given
+      let input = 'Eric O%27Grady';
+
+      // When
+      let actual = Helper.readablePageName(input);
+
+      // Then
+      expect(actual).toEqual("Eric O'Grady");
+    });
+
     it('should remove any mention of (comics)', () => {
       // Given
       let input = 'Hellfire_Club_(comics)';

@@ -9,9 +9,9 @@
   ],
   "description": "Vibrania is a Marvel Comics superheroine character from the fictional country of Kwarrai, Africa.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Vibrania",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 19,
-    "pageviewRank": -1,
+    "pageviewCount": 304,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,9 +29,11 @@
   ],
   "species": [
   ],
+  "superName": "Vibrania",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Vibrania"
   }
 }

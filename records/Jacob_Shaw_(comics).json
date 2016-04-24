@@ -9,9 +9,9 @@
   ],
   "description": "Jacob Shaw is a fictional character in Marvel Comics, created by Ben Raab and Charlie Adlard.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Jacob Shaw",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 41,
-    "pageviewRank": -1,
+    "pageviewCount": 308,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +32,12 @@
   "species": [
     "Human mutate"
   ],
+  "superName": "Jacob Shaw",
   "teams": [
     "Hellfire Club"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jacob_Shaw_(comics)"
   }
 }

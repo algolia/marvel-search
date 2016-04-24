@@ -1,16 +1,15 @@
 {
   "aliases": [
-    "Hazmat"
   ],
   "authors": [
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/19/Marvel_Nemesis.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Hazmat",
+  "name": "Hazmat (Marvel Nemesis: Rise of the Imperfects)",
   "partners": [
   ],
   "powers": [
@@ -18,8 +17,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1,
-    "pageviewRank": -1,
+    "pageviewCount": 20,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -27,9 +25,11 @@
   ],
   "species": [
   ],
+  "superName": "Hazmat",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hazmat_(Marvel_Nemesis:_Rise_of_the_Imperfects)"
   }
 }

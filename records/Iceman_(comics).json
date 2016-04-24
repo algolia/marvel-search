@@ -10,14 +10,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Iceman (Robert \"Bobby\" Drake) is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
+  "description": "Iceman (Robert \"Bobby\" Drake) is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/8/50/537bb12caf103.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/537bb11d2bd79.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/52696c836898c/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/537bb08ab56d8/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
@@ -28,21 +25,18 @@
   "partners": [
   ],
   "powers": [
-    "Augmented strength",
     "Cold generation",
-    "Conversion",
-    "Cryokinesis",
-    "Durability",
-    "Hydrokinesis",
+    "Durability in ice form",
+    "Generating ice",
     "Ice",
-    "Thermal vision",
-    "Thermokinesis"
+    "Snow",
+    "Superhuman strength",
+    "Thermal vision"
   ],
   "ranking": {
     "comicCount": 397,
     "eventCount": 17,
-    "pageviewCount": 2092,
-    "pageviewRank": -1,
+    "pageviewCount": 16420,
     "serieCount": 120,
     "storyCount": 466
   },
@@ -53,6 +47,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Iceman",
   "teams": [
     "All-New X-Men",
     "Cataclysm Keys",

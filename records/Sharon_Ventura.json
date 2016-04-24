@@ -8,14 +8,11 @@
     "Mike Carlin",
     "Ron Wilson"
   ],
-  "description": "Sharon Ventura, also known as She-Thing, is a fictional character, both a comic book superheroine and supervillainess from the Marvel Comics universe.",
+  "description": "Sharon Ventura, also known as She-Thing, is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Msmarvel2.jpg/250px-Msmarvel2.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sharon Ventura",
   "partners": [
@@ -25,7 +22,6 @@
     "Endurance",
     "Expert stuntwoman",
     "Lion tamer",
-    "Lion-tamer",
     "Motorcyclist",
     "Mountain climber",
     "Rock-like skin",
@@ -37,18 +33,18 @@
     "Wrestler"
   ],
   "ranking": {
-    "comicCount": 2,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 251,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 1
+    "pageviewCount": 1873,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Sharon Ventura"
   ],
   "species": [
   ],
+  "superName": "Sharon Ventura",
   "teams": [
     "Fantastic Four",
     "Frightful Four",
@@ -56,7 +52,7 @@
     "Thunderiders"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2845/sharon_ventura",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Ventura"
   }
 }

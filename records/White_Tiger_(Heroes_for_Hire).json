@@ -8,16 +8,13 @@
     "Pasqual Ferry",
     "Roger Stern"
   ],
-  "description": "Federal agent Angela Del Toro is the heir to a heroic legacy that began with the Jade Tiger, a long-lost enchanted statue from the fabled kingdom of K'un-Lun, and had been last held by her uncle, Hector Ayala, who fought alongside such heroes as Daredevil and Spider-Man.",
+  "description": "White Tiger is a fictional character that appeared in the Marvel Comics series Heroes for Hire.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/WhiteTigerH4H4.jpg/250px-WhiteTigerH4H4.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "White Tiger (Angela Del Toro)",
+  "name": "White Tiger (Heroes for Hire)",
   "partners": [
   ],
   "powers": [
@@ -27,23 +24,23 @@
     "Reflexes"
   ],
   "ranking": {
-    "comicCount": 10,
-    "eventCount": 1,
-    "pageviewCount": 70,
-    "pageviewRank": -1,
-    "serieCount": 6,
-    "storyCount": 8
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 534,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "White Tiger",
   "teams": [
     "Heroes for Hire",
     "U-Foes"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2559/white_tiger",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/White_Tiger_(Heroes_for_Hire)"
   }
 }

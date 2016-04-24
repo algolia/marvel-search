@@ -9,10 +9,9 @@
   ],
   "description": "Karnilla is a fictional character in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Karnilla.jpg/200px-Karnilla.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Karnilla",
   "partners": [
@@ -42,8 +41,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 179,
-    "pageviewRank": -1,
+    "pageviewCount": 1153,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -52,9 +50,11 @@
   ],
   "species": [
   ],
+  "superName": "Karnilla",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Karnilla"
   }
 }

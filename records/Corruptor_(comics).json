@@ -8,9 +8,9 @@
   ],
   "description": "The Corruptor (real name Jackson Day) is a fictional character, a supervillain appearing in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Corruptor",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 30,
-    "pageviewRank": -1,
+    "pageviewCount": 237,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,9 +32,11 @@
   ],
   "species": [
   ],
+  "superName": "Corruptor",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Corruptor_(comics)"
   }
 }

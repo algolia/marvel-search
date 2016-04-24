@@ -9,11 +9,8 @@
   "description": "Orphan-Maker (Peter) is a fictional mutant character in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4c7c63f383bac/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/50/4c7c63f383bac/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Orphan-Maker",
   "partners": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 43,
-    "pageviewRank": -1,
+    "pageviewCount": 275,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,6 +33,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Orphan-Maker",
   "teams": [
     "Nanny",
     "Nanny's Lost Boys"

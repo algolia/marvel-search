@@ -9,11 +9,8 @@
   "description": "Manta is a fictional character in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4c003d5308145/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/90/4c003d5308145/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Manta",
   "partners": [
@@ -25,8 +22,7 @@
   "ranking": {
     "comicCount": 8,
     "eventCount": 0,
-    "pageviewCount": 27,
-    "pageviewRank": -1,
+    "pageviewCount": 187,
     "serieCount": 6,
     "storyCount": 4
   },
@@ -34,6 +30,7 @@
   ],
   "species": [
   ],
+  "superName": "Manta",
   "teams": [
     "Imperial Guard"
   ],

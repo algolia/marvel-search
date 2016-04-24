@@ -9,11 +9,8 @@
   "description": "Feral (Maria Callasantos) is a fictional character that appears in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Feral01.jpg/193px-Feral01.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Feral",
   "partners": [
@@ -32,12 +29,11 @@
     "Tail"
   ],
   "ranking": {
-    "comicCount": 1,
-    "eventCount": 1,
-    "pageviewCount": 270,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 1
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3392,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Maria Callasantos"
@@ -46,6 +42,7 @@
     "Human ;",
     "formerly human mutant"
   ],
+  "superName": "Feral",
   "teams": [
     "Hellions",
     "Morlocks",
@@ -53,12 +50,12 @@
     "New Hellions",
     "New Mutants",
     "Selene",
-    "Selene's unded mutants army",
+    "Selene's undead mutants army",
     "X-Corporation",
     "X-Force"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/683/feral",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Feral_(comics)"
   }
 }

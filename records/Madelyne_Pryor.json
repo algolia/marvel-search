@@ -12,14 +12,11 @@
     "Chris Claremont",
     "Paul Smith"
   ],
-  "description": "Madelyne \"Maddie\" Jennifer Pryor-Summers is a fictional character, a supervillain in books published by Marvel Comics, in particular those featuring the X-Men.",
+  "description": "Madelyne \"Maddie\" Jennifer Pryor-Summers is a fictional character in books published by Marvel Comics, primarily featured off-and-on as an antagonist of the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/528d33ddaef70/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/50/528d33ddaef70/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Madelyne Pryor",
   "partners": [
@@ -37,8 +34,7 @@
   "ranking": {
     "comicCount": 4,
     "eventCount": 2,
-    "pageviewCount": 1170,
-    "pageviewRank": -1,
+    "pageviewCount": 10042,
     "serieCount": 4,
     "storyCount": 3
   },
@@ -50,6 +46,7 @@
     "Molecular cloning",
     "Mutant"
   ],
+  "superName": "Madelyne Pryor",
   "teams": [
     "Brotherhood of Mutants",
     "Hellfire Club",

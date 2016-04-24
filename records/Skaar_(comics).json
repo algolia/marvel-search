@@ -3,6 +3,7 @@
     "Hulk",
     "Killer of Killers",
     "Sakaarson",
+    "Skaar",
     "Son of Hulk",
     "World Breaker"
   ],
@@ -13,11 +14,8 @@
   "description": "The Hulk fathered a son while on the planet Sakaar, but thought him killed while still in his mother's womb; he was wrong.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4ce18a92c7a50/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Skaar",
   "partners": [
@@ -35,8 +33,7 @@
   "ranking": {
     "comicCount": 13,
     "eventCount": 0,
-    "pageviewCount": 234,
-    "pageviewRank": -1,
+    "pageviewCount": 242,
     "serieCount": 4,
     "storyCount": 16
   },
@@ -45,6 +42,7 @@
   ],
   "species": [
   ],
+  "superName": "Skaar",
   "teams": [
     "Dark Avengers"
   ],

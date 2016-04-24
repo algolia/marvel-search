@@ -10,11 +10,8 @@
   "description": "Diablo (Esteban Corazón de Ablo) is a fictional character, a supervillain in the Marvel Comics universe who is an enemy of the Fantastic Four.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4ce59f83af33f/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/f0/4ce59f83af33f/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Diablo",
   "partners": [
@@ -23,18 +20,13 @@
   ],
   "powers": [
     "Extended lifespan",
-    "Flight",
     "Genius-level intellect",
-    "Invulnerability",
-    "Master alchemist",
-    "Shapeshifting",
-    "Teleportation via potions"
+    "Master alchemist"
   ],
   "ranking": {
     "comicCount": 20,
     "eventCount": 0,
-    "pageviewCount": 247,
-    "pageviewRank": -1,
+    "pageviewCount": 1112,
     "serieCount": 12,
     "storyCount": 22
   },
@@ -43,6 +35,7 @@
   ],
   "species": [
   ],
+  "superName": "Diablo",
   "teams": [
     "Legion Accursed",
     "Masters of Evil"

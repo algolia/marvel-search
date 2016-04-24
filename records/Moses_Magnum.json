@@ -6,12 +6,11 @@
     "Gerry Conway",
     "Ross Andru"
   ],
-  "description": "Moses Magnum is a fictional character, an arms dealer, terrorist, and supervillain in Marvel Comics.",
+  "description": "Moses Magnum is a fictional supervillain appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Moses_Magnum_in_Dark_Wolverine_78.jpg/250px-Moses_Magnum_in_Dark_Wolverine_78.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Moses Magnum",
   "partners": [
@@ -21,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 190,
-    "pageviewRank": -1,
+    "pageviewCount": 4256,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,9 +29,11 @@
   ],
   "species": [
   ],
+  "superName": "Moses Magnum",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Moses_Magnum"
   }
 }

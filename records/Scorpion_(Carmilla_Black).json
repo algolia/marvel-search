@@ -9,11 +9,8 @@
   "description": "Carmilla Black is a genetically engineered human, created by Advanced Idea Mechanics (A.I.M.).",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c0037366fae7/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Scorpion (Carmilla Black)",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 5,
     "eventCount": 1,
-    "pageviewCount": 163,
-    "pageviewRank": -1,
+    "pageviewCount": 1390,
     "serieCount": 3,
     "storyCount": 4
   },
@@ -38,7 +34,9 @@
   ],
   "species": [
   ],
+  "superName": "Scorpion",
   "teams": [
+    "HYDRA",
     "Hydra",
     "S.H.I.E.L.D"
   ],

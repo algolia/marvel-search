@@ -1,16 +1,18 @@
 {
   "aliases": [
+    "Janice Foswell"
   ],
   "authors": [
     "Bill Mantlo",
     "Sal Buscema"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
-  "name": "Janice Foswell",
+  "name": "Henry Pym Jr.",
   "partners": [
   ],
   "powers": [
@@ -19,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 9,
-    "pageviewRank": -1,
+    "pageviewCount": 129,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Henry Pym Jr.",
   "teams": [
     "Enforcers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Henry_Pym_Jr."
   }
 }

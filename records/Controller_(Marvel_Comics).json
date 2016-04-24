@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Controller"
+    "Controller",
+    "The Controller"
   ],
   "authors": [
     "Archie Goodwin",
@@ -9,11 +10,8 @@
   "description": "The Controller, real name Basil Sandhurst, is a fictional character, a supervillain appearing in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/4c003923719ff/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Controller",
   "partners": [
@@ -33,8 +31,7 @@
   "ranking": {
     "comicCount": 7,
     "eventCount": 0,
-    "pageviewCount": 112,
-    "pageviewRank": -1,
+    "pageviewCount": 716,
     "serieCount": 4,
     "storyCount": 6
   },
@@ -43,6 +40,7 @@
   ],
   "species": [
   ],
+  "superName": "Controller",
   "teams": [
     "New Enforcers"
   ],

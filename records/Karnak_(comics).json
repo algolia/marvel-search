@@ -7,14 +7,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Karnak is a fictional martial artist published by Marvel Comics.",
+  "description": "Karnak is a fictional superhero published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/52740e5d96fcc/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Karnak",
   "partners": [
@@ -25,20 +22,18 @@
   "ranking": {
     "comicCount": 44,
     "eventCount": 2,
-    "pageviewCount": 546,
-    "pageviewRank": -1,
+    "pageviewCount": 4951,
     "serieCount": 20,
     "storyCount": 46
   },
   "secretIdentities": [
-    "Karnak"
   ],
   "species": [
     "Inhumans"
   ],
+  "superName": "Karnak",
   "teams": [
-    "Inhuman Royal Family",
-    "Inhumans"
+    "Inhuman Royal Family"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1122/karnak",

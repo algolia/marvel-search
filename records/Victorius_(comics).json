@@ -8,9 +8,9 @@
   ],
   "description": "Victorius is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Victorius",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 23,
-    "pageviewRank": -1,
+    "pageviewCount": 198,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,12 +29,14 @@
   ],
   "species": [
   ],
+  "superName": "Victorius",
   "teams": [
     "A.I.M",
     "Advanced Idea Mechanics",
     "Cult of Entropy"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Victorius_(comics)"
   }
 }

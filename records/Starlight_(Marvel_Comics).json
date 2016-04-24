@@ -2,17 +2,18 @@
   "aliases": [
     "Red Guardian",
     "Starlight",
+    "Zvezda Syvet",
     "Zvezda Syvet ( in Russian)"
   ],
   "authors": [
     "Sal Buscema",
     "Steve Gerber"
   ],
+  "description": "Starlight is a fictional comic book superheroine appearing in books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Starlight1.jpg/153px-Starlight1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Starlight",
   "partners": [
@@ -32,20 +33,22 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 64,
-    "pageviewRank": -1,
+    "pageviewCount": 498,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
+    "Tania Belinsky",
     "Tania Belinsky (Belinskaya)"
   ],
   "species": [
   ],
+  "superName": "Starlight",
   "teams": [
     "Defenders"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Starlight_(Marvel_Comics)"
   }
 }

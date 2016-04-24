@@ -11,10 +11,9 @@
   ],
   "description": "Trevor Fitzroy is a Marvel Comics supervillain, an enemy of the X-Men, in particular Bishop.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c5/Fitzroy%27s_picture.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Trevor Fitzroy",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 169,
-    "pageviewRank": -1,
+    "pageviewCount": 1047,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,6 +33,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Trevor Fitzroy",
   "teams": [
     "Hellfire Club",
     "Summers Rebellion",
@@ -42,6 +41,7 @@
     "Xavier's Security Enforcers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Trevor_Fitzroy"
   }
 }

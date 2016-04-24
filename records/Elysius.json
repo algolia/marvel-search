@@ -9,9 +9,9 @@
   ],
   "description": "Elysius is a fictional character in the Marvel Universe.Elysius is an artificially created being possessing the attributes of an Eternal.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Elysius",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 62,
-    "pageviewRank": -1,
+    "pageviewCount": 398,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,9 +29,11 @@
   ],
   "species": [
   ],
+  "superName": "Elysius",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Elysius"
   }
 }

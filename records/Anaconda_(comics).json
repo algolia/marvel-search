@@ -8,10 +8,9 @@
   ],
   "description": "Anaconda (Blanche Sitznski) is a supervillain in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3f/Anaconda_Battle_Scars.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Anaconda",
   "partners": [
@@ -28,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 159,
-    "pageviewRank": -1,
+    "pageviewCount": 1032,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,6 +37,7 @@
   "species": [
     "Mutated Human"
   ],
+  "superName": "Anaconda",
   "teams": [
     "Femizons",
     "Legion Accursed",
@@ -47,6 +46,7 @@
     "Six Pack"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Anaconda_(comics)"
   }
 }

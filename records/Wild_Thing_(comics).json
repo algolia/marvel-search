@@ -8,9 +8,9 @@
   ],
   "description": "Wild Thing (Rina Logan) is a fictional character from Marvel Comics, who exists in the MC2 universe, an alternate future to the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Wild Thing",
   "partners": [
@@ -33,8 +33,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 145,
-    "pageviewRank": -1,
+    "pageviewCount": 1029,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -44,10 +43,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Wild Thing",
   "teams": [
     "X-People"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Wild_Thing_(comics)"
   }
 }

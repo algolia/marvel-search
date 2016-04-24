@@ -11,10 +11,9 @@
   ],
   "description": "Llyra is a fictional character, a Marvel Comics super-villainess.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Sub-Mariner-32.jpg/250px-Sub-Mariner-32.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Llyra",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 49,
-    "pageviewRank": -1,
+    "pageviewCount": 435,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,10 +38,12 @@
   "species": [
     "Features of the Marvel Universe"
   ],
+  "superName": "Llyra",
   "teams": [
     "Frightful Four"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Llyra"
   }
 }

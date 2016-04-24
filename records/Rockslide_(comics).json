@@ -9,11 +9,8 @@
   "description": "Rockslide (Santo Vaccarro) is a fictional character, a mutant superhero and member of the X-Men in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Rockslide.jpg/250px-Rockslide.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Rockslide",
   "partners": [
@@ -26,12 +23,11 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 11,
-    "eventCount": 1,
-    "pageviewCount": 120,
-    "pageviewRank": -1,
-    "serieCount": 7,
-    "storyCount": 8
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 939,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Santo Vaccarro"
@@ -39,6 +35,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Rockslide",
   "teams": [
     "Hellions",
     "Hellions training squad",
@@ -50,7 +47,7 @@
     "Young X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1943/rockslide",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Rockslide_(comics)"
   }
 }

@@ -8,9 +8,9 @@
   ],
   "description": "Charlotte Jones is a fictional character, a latent mutant in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Charlotte Jones",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 33,
-    "pageviewRank": -1,
+    "pageviewCount": 257,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,12 +31,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Charlotte Jones",
   "teams": [
     "NYPD",
     "New York City Police Department",
     "X-Men"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Jones_(comics)"
   }
 }

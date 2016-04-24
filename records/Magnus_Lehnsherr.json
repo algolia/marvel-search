@@ -1,7 +1,6 @@
 {
   "aliases": [
     "Magnus",
-    "Magnus Lehnsherr",
     "actual identities the character uses"
   ],
   "authors": [
@@ -10,11 +9,11 @@
   ],
   "description": "Magnus (Magnus Lehnsherr) is a fictional character who appears in the comic books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Magnus",
+  "name": "Magnus Lehnsherr",
   "partners": [
   ],
   "powers": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 27,
-    "pageviewRank": -1,
+    "pageviewCount": 312,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,12 +32,14 @@
     "Magnus Lehnsherr"
   ],
   "species": [
-    "Mutant"
+    "Mutant (fictional)"
   ],
+  "superName": "Magnus Lehnsherr",
   "teams": [
     "Exiles"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Magnus_Lehnsherr"
   }
 }

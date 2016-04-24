@@ -6,9 +6,9 @@
   ],
   "description": "Hazmat is a fictional character appearing in comic books from Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hazmat",
   "partners": [
@@ -19,8 +19,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 123,
-    "pageviewRank": -1,
+    "pageviewCount": 1120,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,10 +28,12 @@
   ],
   "species": [
   ],
+  "superName": "Hazmat",
   "teams": [
     "Avengers Academy"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hazmat_(comics)"
   }
 }

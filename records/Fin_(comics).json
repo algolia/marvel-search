@@ -1,16 +1,14 @@
 {
   "aliases": [
-    "Fin",
     "The Fin"
   ],
   "authors": [
   ],
   "description": "For the British comic strip character, see Finn (comics).The Fin is the name of two characters from Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Fin-comics.jpg/250px-Fin-comics.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Fin",
   "partners": [
@@ -24,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 70,
-    "pageviewRank": -1,
+    "pageviewCount": 611,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,6 +31,7 @@
   ],
   "species": [
   ],
+  "superName": "Fin",
   "teams": [
     "Fifty State Initiative",
     "Initiative",
@@ -41,6 +39,7 @@
     "United States Navy"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Fin_(comics)"
   }
 }

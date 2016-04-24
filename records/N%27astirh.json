@@ -1,15 +1,16 @@
 {
   "aliases": [
+    "N'astirh"
   ],
   "authors": [
     "Jon Bogdanove",
     "Louise Simonson"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/NewMutants72.jpg/249px-NewMutants72.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "N'astirh",
   "partners": [
@@ -28,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 91,
-    "pageviewRank": -1,
+    "pageviewCount": 731,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,9 +38,11 @@
   ],
   "species": [
   ],
+  "superName": "N'astirh",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/N%27astirh"
   }
 }

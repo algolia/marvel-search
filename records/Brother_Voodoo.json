@@ -9,6 +9,7 @@
     "Sorcerer Supreme",
     "Voodoo Lord; Master of All Reptiles",
     "and the Spirit World",
+    "brother voodoo",
     "the Spirit World",
     "the Voudoun"
   ],
@@ -17,11 +18,8 @@
   "description": "Brother Voodoo (Jericho Drumm) is a fictional character, a supernatural superhero in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/BrotherVoodoo.png/225px-BrotherVoodoo.png"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Brother Voodoo",
   "partners": [
@@ -46,8 +44,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 364,
-    "pageviewRank": -1,
+    "pageviewCount": 3570,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -56,6 +53,7 @@
   ],
   "species": [
   ],
+  "superName": "Brother Voodoo",
   "teams": [
     "Avengers Unity Division",
     "Heroes for Hire",
@@ -66,7 +64,7 @@
     "Uncanny Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/3430/brother_voodoo",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Brother_Voodoo"
   }
 }

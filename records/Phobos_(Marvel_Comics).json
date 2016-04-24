@@ -12,10 +12,9 @@
   ],
   "description": "Phobos is the name of two fictional comic book characters appearing in books published by Marvel Comics characters.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Phobos-Comics.jpg/200px-Phobos-Comics.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Phobos",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 142,
-    "pageviewRank": -1,
+    "pageviewCount": 1110,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,11 +39,13 @@
   "species": [
     "Olympian"
   ],
+  "superName": "Phobos",
   "teams": [
     "Olympians",
     "Secret Warriors"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Phobos_(Marvel_Comics)"
   }
 }

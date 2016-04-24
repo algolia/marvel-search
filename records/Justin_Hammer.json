@@ -5,16 +5,14 @@
   "authors": [
     "Bob Layton",
     "David Michelinie",
+    "John Romita Jr.",
     "John Romita, Jr."
   ],
-  "description": "Justin Hammer is a fictional character that has appeared in various comic book series published by Marvel Comics.",
+  "description": "Justin Hammer is a fictional character that has appeared in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4ce18ab1be1f6/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/e/e0/4ce18ab1be1f6/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Justin Hammer",
   "partners": [
@@ -26,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 623,
-    "pageviewRank": -1,
+    "pageviewCount": 4705,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Justin Hammer",
   "teams": [
     "Hammer Industries"
   ],

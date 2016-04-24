@@ -10,11 +10,8 @@
   "description": "Deathbird (Cal'syee Neramani-Summers) is a fictional character.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c004041be770/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/60/4c004041be770/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Deathbird",
   "partners": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 26,
     "eventCount": 2,
-    "pageviewCount": 260,
-    "pageviewRank": -1,
+    "pageviewCount": 2989,
     "serieCount": 9,
     "storyCount": 30
   },
@@ -39,6 +35,7 @@
   ],
   "species": [
   ],
+  "superName": "Deathbird",
   "teams": [
     "Brood",
     "Horsemen of Apocalypse",

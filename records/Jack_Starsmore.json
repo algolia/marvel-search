@@ -8,9 +8,9 @@
   ],
   "description": "Jack Starsmore is a fictional character, a mutant in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Jack Starsmore",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 26,
-    "pageviewRank": -1,
+    "pageviewCount": 351,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +31,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Jack Starsmore",
   "teams": [
     "Clan Akkaba"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jack_Starsmore"
   }
 }

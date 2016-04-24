@@ -10,10 +10,9 @@
   ],
   "description": "Brent Jackson is a fictional Marvel Comics character.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d2/Agent_Brent_Jackson.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Brent Jackson",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 55,
-    "pageviewRank": -1,
+    "pageviewCount": 438,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,11 +31,13 @@
   ],
   "species": [
   ],
+  "superName": "Brent Jackson",
   "teams": [
     "S.H.I.E.L.D",
     "Weapon X"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Brent_Jackson"
   }
 }

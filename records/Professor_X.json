@@ -15,14 +15,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Professor Charles Francis Xavier, M.D., Ph.D. (also known as Professor X) is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
+  "description": "Professor Charles Francis Xavier (also known as Professor X) is a fictional character appearing in American comic books published by Marvel Comics and is the founder and leader of the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/528d3378de525/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Professor X",
   "partners": [
@@ -30,22 +27,18 @@
   "powers": [
     "Astral projection",
     "Control",
-    "Eidetic memory",
     "Empathy",
     "Erasure",
     "Extending to mind reading",
     "Genius-level intellect",
-    "Great tactician",
+    "Hypnosis",
     "Illusion casting",
-    "Induced paralysis",
     "Memory alteration",
     "Memory manipulation",
-    "Mental bolts",
     "Mind control",
     "Mind reading",
     "Offensive psychic attacks",
     "Psionic blasts",
-    "Strategist",
     "Telepathic abilities",
     "Telepathy",
     "Vast"
@@ -53,8 +46,7 @@
   "ranking": {
     "comicCount": 296,
     "eventCount": 15,
-    "pageviewCount": 3411,
-    "pageviewRank": -1,
+    "pageviewCount": 25987,
     "serieCount": 112,
     "storyCount": 286
   },
@@ -64,6 +56,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Professor X",
   "teams": [
     "Brotherhood of Mutants",
     "Defenders",
@@ -76,7 +69,7 @@
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009504/professor_x",
+    "marvel": "http://marvel.com/characters/1810/professor_x",
     "wikipedia": "https://en.wikipedia.org/wiki/Professor_X"
   }
 }

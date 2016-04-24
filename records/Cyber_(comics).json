@@ -9,11 +9,8 @@
   "description": "Cyber is a fictional comic book supervillain appearing in books published by Marvel Comics, usually as an enemy of Wolverine of the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4c0040521bc06/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/1/f0/4c0040521bc06/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Cyber",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 11,
     "eventCount": 0,
-    "pageviewCount": 203,
-    "pageviewRank": -1,
+    "pageviewCount": 1592,
     "serieCount": 3,
     "storyCount": 13
   },
@@ -39,6 +35,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Cyber",
   "teams": [
     "Hell's Belles",
     "Pinkerton National Detective Agency",

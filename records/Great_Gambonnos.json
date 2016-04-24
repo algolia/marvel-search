@@ -10,9 +10,9 @@
   ],
   "description": "The Great Gambonnos are fictional characters, two twin supervillains in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Great Gambonnos",
   "partners": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 36,
-    "pageviewRank": -1,
+    "pageviewCount": 284,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,11 +35,13 @@
   ],
   "species": [
   ],
+  "superName": "Great Gambonnos",
   "teams": [
     "Circus of Crime",
     "The Masters of Menace"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Great_Gambonnos"
   }
 }

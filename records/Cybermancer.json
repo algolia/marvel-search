@@ -12,13 +12,10 @@
   "description": "Cybermancer is a fictional character, a superheroine published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Cybermancer_001.jpg/198px-Cybermancer_001.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Stark Industries",
+  "name": "Cybermancer",
   "partners": [
   ],
   "powers": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 14,
-    "pageviewRank": -1,
+    "pageviewCount": 138,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,12 +33,13 @@
   ],
   "species": [
   ],
+  "superName": "Cybermancer",
   "teams": [
     "Force Works",
     "Stark Industries"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2206/stark_industries",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Cybermancer"
   }
 }

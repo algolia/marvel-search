@@ -13,13 +13,10 @@
   "description": "Spiral was created to be an agent of Mojo, the despotic leader of Mojo World, often used as his favored personal servant, executioner, and spy.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c003ad84f314/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Spiral (Rita Wayword)",
+  "name": "Spiral",
   "partners": [
     "Mojo"
   ],
@@ -36,8 +33,7 @@
   "ranking": {
     "comicCount": 39,
     "eventCount": 4,
-    "pageviewCount": 355,
-    "pageviewRank": -1,
+    "pageviewCount": 2677,
     "serieCount": 18,
     "storyCount": 40
   },
@@ -46,6 +42,7 @@
   ],
   "species": [
   ],
+  "superName": "Spiral",
   "teams": [
     "Brotherhood of Mutants",
     "Freedom Force",

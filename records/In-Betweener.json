@@ -8,11 +8,8 @@
   "description": "The In-Betweener is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4c0030f999ecb/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "In-Betweener",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 3,
     "eventCount": 0,
-    "pageviewCount": 233,
-    "pageviewRank": -1,
+    "pageviewCount": 2148,
     "serieCount": 3,
     "storyCount": 2
   },
@@ -36,6 +32,7 @@
   ],
   "species": [
   ],
+  "superName": "In-Betweener",
   "teams": [
   ],
   "urls": {

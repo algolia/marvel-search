@@ -9,11 +9,8 @@
   "description": "Sleepwalkers are guardians of the Mindscape -- they apprehended beings that invade the sleeping minds of humans.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4c0037640501a/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/30/4c0037640501a/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sleepwalker",
   "partners": [
@@ -37,8 +34,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 129,
-    "pageviewRank": -1,
+    "pageviewCount": 995,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -46,6 +42,7 @@
   ],
   "species": [
   ],
+  "superName": "Sleepwalker",
   "teams": [
     "Defenders",
     "Lightning Storm",

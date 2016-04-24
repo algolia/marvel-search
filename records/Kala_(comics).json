@@ -10,10 +10,9 @@
   ],
   "description": "Kala is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Kala%2C_Queen_of_the_Netherworld1.jpg/207px-Kala%2C_Queen_of_the_Netherworld1.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Kala",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 31,
-    "pageviewRank": -1,
+    "pageviewCount": 251,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,9 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "Kala",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Kala_(comics)"
   }
 }

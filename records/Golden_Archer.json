@@ -10,39 +10,36 @@
   ],
   "description": "Golden Archer (Wyatt McDonald) is a fictional superhero that has appeared in various comic book series published by Marvel Comics.",
   "images": {
-    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/universe3zx/images/8/82/LadyHawkeye01.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/537bad9caa831/standard_xlarge.jpg"
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Hawkeye (Kate Bishop)",
+  "name": "Golden Archer",
   "partners": [
   ],
   "powers": [
     "Skilled archer"
   ],
   "ranking": {
-    "comicCount": 10,
-    "eventCount": 3,
-    "pageviewCount": 111,
-    "pageviewRank": -1,
-    "serieCount": 8,
-    "storyCount": 8
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 825,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Wyatt McDonald"
   ],
   "species": [
   ],
+  "superName": "Golden Archer",
   "teams": [
     "America Redeemers",
     "Redeemers",
     "Squadron Supreme"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1010808/hawkeye_kate_bishop/featured",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Golden_Archer"
   }
 }

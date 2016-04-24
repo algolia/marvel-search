@@ -9,11 +9,8 @@
   "description": "Micromax (Scott Wright) is a fictional character, a mutant superhero of the Marvel universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0035aac6564/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/a0/4c0035aac6564/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Micromax",
   "partners": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 0,
-    "pageviewCount": 1013,
-    "pageviewRank": -1,
+    "pageviewCount": 3574,
     "serieCount": 2,
     "storyCount": 1
   },
@@ -37,6 +33,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Micromax",
   "teams": [
     "Directorate of Military Intelligence",
     "Excalibur",

@@ -10,9 +10,9 @@
   ],
   "description": "Guardsman was the name of a supervillain/superhero in the Marvel Universe, but the name was later applied to a small squad of agents.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Guardsman",
   "partners": [
@@ -27,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 86,
-    "pageviewRank": -1,
+    "pageviewCount": 662,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Guardsman",
   "teams": [
     "Avengers",
     "Features of the Marvel Universe",
@@ -46,6 +46,7 @@
     "Vault"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Guardsman_(comics)"
   }
 }

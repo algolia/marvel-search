@@ -12,14 +12,11 @@
     "Larry Lieber",
     "Stan Lee"
   ],
-  "description": "Loki is a fictional character, a supervillain and sometime anti-hero that appears in comic books by Marvel Comics.",
+  "description": "Loki is a fictional character that appears in American comic books published by Marvel Comics.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/537bb40a94729.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/537bb3f94d3b0.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/526547f509313/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/537bb3780cfd2/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 40,
     "green": 38,
@@ -34,27 +31,19 @@
     "Durability",
     "Energy blasts",
     "Flight",
-    "Genius-level intellect",
-    "Healing factor",
-    "Hypnosis",
     "Illusion casting",
     "Longevity",
     "Magical powers",
-    "Molecular rearrangement",
-    "Psionic ability",
     "Shapeshifting",
-    "Stamina",
     "Strength",
     "Superhuman intelligence",
-    "Superhuman strength",
     "Telepathy",
     "Via"
   ],
   "ranking": {
     "comicCount": 194,
     "eventCount": 7,
-    "pageviewCount": 2329,
-    "pageviewRank": 7142,
+    "pageviewCount": 17262,
     "serieCount": 79,
     "storyCount": 193
   },
@@ -64,6 +53,7 @@
   "species": [
     "Giants"
   ],
+  "superName": "Loki",
   "teams": [
     "Acts of Vengeance",
     "Astonishing Avengers",

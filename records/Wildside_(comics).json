@@ -9,10 +9,8 @@
   "description": "Wildside (Richard Gill) is a fictional mutant villain and sadist in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Wildside",
   "partners": [
@@ -24,12 +22,11 @@
     "Sharp claws"
   ],
   "ranking": {
-    "comicCount": 15,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 63,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 14
+    "pageviewCount": 468,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Richard Gill"
@@ -37,13 +34,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Wildside",
   "teams": [
     "Mutant Liberation Front",
     "Weapon X",
     "Weapon X Program"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2574/wildside",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Wildside_(comics)"
   }
 }

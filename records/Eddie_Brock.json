@@ -11,14 +11,11 @@
     "David Michelinie",
     "Todd McFarlane"
   ],
-  "description": "Eddie Brock is a fictional character created by David Michelinie and Todd McFarlane.",
+  "description": "Eddie Brock is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4de932f1a298a/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/80/4de932f1a298a/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": true,
   "mainColor": null,
   "name": "Eddie Brock",
   "partners": [
@@ -39,8 +36,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1270,
-    "pageviewRank": -1,
+    "pageviewCount": 9790,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -49,6 +45,7 @@
   ],
   "species": [
   ],
+  "superName": "Eddie Brock",
   "teams": [
     "Revengers",
     "Savage Six",

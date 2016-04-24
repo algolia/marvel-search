@@ -7,21 +7,18 @@
     "Brian Michael Bendis",
     "Sara Pichelli"
   ],
-  "description": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.",
+  "description": "Teenager Miles Morales grew up in Brooklyn, New York. Recently, Miles took on the controversial and pressured role of Spider-Man shortly after the death of the original. Morales made his debut against The Kangaroo, much to the surprise and disapproval of many present at the confrontation.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/537ba2184e75f.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/6/60/538cd3628a05e.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/537bcfa1eed73/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
     "hexa": "121F39",
     "red": 18
   },
-  "name": "Spider-Man",
+  "name": "Spider-Man (Miles Morales)",
   "partners": [
   ],
   "powers": [
@@ -42,19 +39,20 @@
     "Venom blast"
   ],
   "ranking": {
-    "comicCount": 2593,
-    "eventCount": 29,
-    "pageviewCount": 2736,
-    "pageviewRank": -1,
-    "serieCount": 537,
-    "storyCount": 4197
+    "comicCount": 18,
+    "eventCount": 0,
+    "pageviewCount": 21228,
+    "serieCount": 4,
+    "storyCount": 26
   },
   "secretIdentities": [
     "Miles Morales"
   ],
   "species": [
   ],
+  "superName": "Spider-Man",
   "teams": [
+    "Avengers",
     "The Ultimates",
     "Ultimates",
     "Web Warriors"

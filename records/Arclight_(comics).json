@@ -5,22 +5,17 @@
   "authors": [
     "Chris Claremont"
   ],
-  "description": "Arclight (Philippa Sontag) is a mutant supervillain in the Marvel Comics universe.",
+  "description": "Arclight (Philippa Sontag) is a mutant supervillainess in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c0042067fd8b/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/f0/4c0042067fd8b/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Arclight",
   "partners": [
   ],
   "powers": [
     "Durability",
-    "Earth tremors",
-    "Endurance",
     "Geo tremors",
     "Resiliency",
     "Stamina",
@@ -29,8 +24,7 @@
   "ranking": {
     "comicCount": 13,
     "eventCount": 3,
-    "pageviewCount": 402,
-    "pageviewRank": -1,
+    "pageviewCount": 2459,
     "serieCount": 5,
     "storyCount": 12
   },
@@ -40,6 +34,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Arclight",
   "teams": [
     "Femizons",
     "Marauders",

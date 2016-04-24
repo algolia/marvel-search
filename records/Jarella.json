@@ -9,10 +9,9 @@
   ],
   "description": "Jarella is a fictional character that appears in publications by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/54/Jarella_001.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Jarella",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 113,
-    "pageviewRank": -1,
+    "pageviewCount": 909,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,9 +34,11 @@
   ],
   "species": [
   ],
+  "superName": "Jarella",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jarella"
   }
 }

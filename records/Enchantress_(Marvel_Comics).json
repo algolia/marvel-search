@@ -16,16 +16,13 @@
     "Paul Cornell",
     "Stan Lee"
   ],
-  "description": "“The Enchantress” is the common primary alias of two fictional characters, supervillains in the Marvel Comics universe.",
+  "description": "The Enchantress is the common primary alias of two fictional characters, supervillains in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/52740e0f3c733/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Enchantress (Amora)",
+  "name": "Enchantress",
   "partners": [
     "Arkon",
     "Doctor Doom",
@@ -59,8 +56,7 @@
   "ranking": {
     "comicCount": 5,
     "eventCount": 0,
-    "pageviewCount": 2662,
-    "pageviewRank": -1,
+    "pageviewCount": 8948,
     "serieCount": 4,
     "storyCount": 4
   },
@@ -71,10 +67,12 @@
   "species": [
     "Asgard"
   ],
+  "superName": "Enchantress",
   "teams": [
     "Asgard",
     "Astonishing Avengers",
     "Brotherhood of Mutants",
+    "Illuminati",
     "Lady Liberators",
     "Mandarin's Minions",
     "Masters of Evil",
@@ -82,7 +80,7 @@
     "Young Masters"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1010671/enchantress_amora",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Enchantress_(Marvel_Comics)"
   }
 }

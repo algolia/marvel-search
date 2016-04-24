@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Hood",
     "The Hood"
   ],
   "authors": [
@@ -11,13 +10,10 @@
   "description": "The Hood (real name Parker Robbins) is a fictional character, a supervillain, and a crime boss in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/539a09a2863cf/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/The_hood.jpg/250px-The_hood.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "The Hood",
+  "name": "Hood",
   "partners": [
   ],
   "powers": [
@@ -32,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 579,
-    "pageviewRank": -1,
+    "pageviewCount": 4794,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Hood",
   "teams": [
     "Cabal",
     "Illuminati",
@@ -49,7 +45,7 @@
     "The Initiative"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1010715/the_hood",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hood_(comics)"
   }
 }

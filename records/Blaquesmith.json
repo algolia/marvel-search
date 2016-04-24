@@ -10,10 +10,9 @@
   ],
   "description": "Blaquesmith is the name of two characters in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/440px-Blaqsmth.jpg/250px-440px-Blaqsmth.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Blaquesmith",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 49,
-    "pageviewRank": -1,
+    "pageviewCount": 476,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,11 +38,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Blaquesmith",
   "teams": [
     "Askani",
     "Underground"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Blaquesmith"
   }
 }

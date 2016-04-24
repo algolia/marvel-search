@@ -5,15 +5,14 @@
   "authors": [
     "Chris Claremont",
     "Dan Green",
+    "John Romita Jr.",
     "John Romita, Jr."
   ],
   "description": "Riptide (Janos Quested) is a fictional supervillain appearing in books published by Marvel Comics, usually those related to the X-Men franchise.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Riptide",
   "partners": [
@@ -21,12 +20,11 @@
   "powers": [
   ],
   "ranking": {
-    "comicCount": 8,
-    "eventCount": 2,
-    "pageviewCount": 488,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 6
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2688,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Janos Quested"
@@ -34,11 +32,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Riptide",
   "teams": [
     "Marauders"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1935/riptide",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Riptide_(comics)"
   }
 }

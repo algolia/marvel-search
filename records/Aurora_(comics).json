@@ -10,11 +10,8 @@
   "description": "Aurora (Jeanne-Marie Beaubier) is a fictional character, a Canadian superheroine in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4c004203f1072/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Aurora",
   "partners": [
@@ -28,8 +25,7 @@
   "ranking": {
     "comicCount": 53,
     "eventCount": 4,
-    "pageviewCount": 412,
-    "pageviewRank": -1,
+    "pageviewCount": 2924,
     "serieCount": 14,
     "storyCount": 59
   },
@@ -39,10 +35,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Aurora",
   "teams": [
     "Alpha Flight",
     "Beta Flight",
     "Brotherhood of Mutants",
+    "Children of the Vault",
     "Gamma Flight",
     "The 198",
     "The Children",

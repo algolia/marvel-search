@@ -9,9 +9,9 @@
   ],
   "description": "Grim Hunter is a fictional character, a supervillain in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Grim Hunter",
   "partners": [
@@ -30,8 +30,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 42,
-    "pageviewRank": -1,
+    "pageviewCount": 435,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,10 +40,12 @@
   ],
   "species": [
   ],
+  "superName": "Grim Hunter",
   "teams": [
     "Kravinoff Family"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Grim_Hunter"
   }
 }

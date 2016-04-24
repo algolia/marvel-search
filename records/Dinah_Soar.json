@@ -8,11 +8,8 @@
   "description": "Dinah Soar is a fictional superheroine in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Dinah_Soar.jpg/250px-Dinah_Soar.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Dinah Soar",
   "partners": [
@@ -20,26 +17,25 @@
   "powers": [
     "Agelessness",
     "Empathic calming",
-    "Limited sonic powers",
-    "Sonic powers"
+    "Limited sonic powers"
   ],
   "ranking": {
-    "comicCount": 4,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 95,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 3
+    "pageviewCount": 732,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Dinah Soar",
   "teams": [
     "Great Lakes Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2864/dinah_soar",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Dinah_Soar"
   }
 }

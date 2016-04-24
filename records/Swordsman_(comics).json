@@ -9,11 +9,8 @@
   "description": "Andreas reappeared as the Swordsman in the latest incarnation of the Thunderbolts, though his true identity was kept secret for some time.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/535ff38904fff/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/a/40/535ff38904fff/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Swordsman",
   "partners": [
@@ -22,17 +19,12 @@
     "Cunning strategist",
     "Daggers",
     "Master swordsman",
-    "Master tactician",
-    "Olympic-level athlete",
-    "Skilled armed",
-    "Strategist",
-    "Unarmed combatant"
+    "Olympic-level athlete"
   ],
   "ranking": {
     "comicCount": 30,
     "eventCount": 3,
-    "pageviewCount": 327,
-    "pageviewRank": -1,
+    "pageviewCount": 3153,
     "serieCount": 14,
     "storyCount": 28
   },
@@ -41,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Swordsman",
   "teams": [
     "Avengers",
     "Emissaries of Evil",

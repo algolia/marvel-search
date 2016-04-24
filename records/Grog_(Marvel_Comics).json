@@ -10,9 +10,9 @@
   ],
   "description": "Grog the God-Slayer is a fictional character in the Marvel Universe, and a member of the Heliopolitan race of gods.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Grog",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 10,
-    "pageviewRank": -1,
+    "pageviewCount": 129,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,9 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "Grog",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Grog_(Marvel_Comics)"
   }
 }

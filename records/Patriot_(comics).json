@@ -11,11 +11,8 @@
   "description": "Patriot is the name of two fictional, comic book superheroes in the Marvel Comics universe: the Golden Age hero Jeffrey Mace and the modern-day character Eli Bradley.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c003cfda4644/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/b0/4c003cfda4644/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Patriot",
   "partners": [
@@ -34,8 +31,7 @@
   "ranking": {
     "comicCount": 72,
     "eventCount": 2,
-    "pageviewCount": 263,
-    "pageviewRank": -1,
+    "pageviewCount": 2145,
     "serieCount": 15,
     "storyCount": 71
   },
@@ -45,6 +41,7 @@
   ],
   "species": [
   ],
+  "superName": "Patriot",
   "teams": [
     "Secret Avengers\" (Civil War)",
     "The New Avengers",

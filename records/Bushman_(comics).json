@@ -8,10 +8,9 @@
   ],
   "description": "Raoul Bushman is a fictional character appearing in the Marvel Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/MOONKN4.jpg/250px-MOONKN4.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Bushman",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 64,
-    "pageviewRank": -1,
+    "pageviewCount": 596,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,9 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "Bushman",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Bushman_(comics)"
   }
 }

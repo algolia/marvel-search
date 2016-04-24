@@ -10,13 +10,10 @@
   "description": "War hero Simon Garth was turned into a zombie by his secretary, Layla, who was also a voodoo priestess, after being killed by his gardener, Gyps.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4c003937c9ba4/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Zombie (Simon Garth)",
+  "name": "Zombie",
   "partners": [
   ],
   "powers": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 94,
-    "pageviewRank": -1,
+    "pageviewCount": 707,
     "serieCount": 1,
     "storyCount": 1
   },
@@ -35,7 +31,9 @@
     "Simon William Garth"
   ],
   "species": [
+    "Zombie"
   ],
+  "superName": "Zombie",
   "teams": [
   ],
   "urls": {

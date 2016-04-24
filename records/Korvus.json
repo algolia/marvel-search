@@ -8,9 +8,9 @@
   ],
   "description": "Korvus, is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Korvus",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 41,
-    "pageviewRank": -1,
+    "pageviewCount": 338,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +32,12 @@
   "species": [
     "Shi'ar"
   ],
+  "superName": "Korvus",
   "teams": [
     "Starjammers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Korvus"
   }
 }

@@ -7,12 +7,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Fandral the Dashing is a Marvel Comics character and a charter member of the Warriors Three, a trio of Asgardian adventurers consisting of Fandral, Hogun the Grim, and Volstagg the Valiant.",
+  "description": "Fandral the Dashing is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Fandral",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 710,
-    "pageviewRank": -1,
+    "pageviewCount": 5061,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,13 +36,15 @@
     "Fandral"
   ],
   "species": [
+    "Asgard"
   ],
+  "superName": "Fandral",
   "teams": [
-    "Asgard",
     "Thor Corps",
     "Warriors Three"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Fandral"
   }
 }

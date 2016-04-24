@@ -15,13 +15,10 @@
   "description": "Phantom Rider is the name of several fictional characters, Old West heroic gunfighters appearing in comic books in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/535feaa671cc6/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/GhostRider_western_1.jpg/250px-GhostRider_western_1.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Ghost Rider (Daniel Ketch)",
+  "name": "Phantom Rider",
   "partners": [
   ],
   "powers": [
@@ -29,22 +26,22 @@
     "Sharpshooting skills"
   ],
   "ranking": {
-    "comicCount": 13,
-    "eventCount": 2,
-    "pageviewCount": 482,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 11
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3760,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Carter Slade"
   ],
   "species": [
   ],
+  "superName": "Phantom Rider",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1010925/ghost_rider_daniel_ketch",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Phantom_Rider"
   }
 }

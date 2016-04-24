@@ -6,6 +6,7 @@
     "Merriem Drew",
     "Mrs. Smith",
     "Viper",
+    "Viper (Madame Hydra)",
     "Warrior White Princess"
   ],
   "authors": [
@@ -13,20 +14,16 @@
     "Jim Steranko",
     "Paul Neary"
   ],
-  "description": "After the apparent death of Baron von Strucker, Viper took the name Madame Hydra and took control of the New York-based faction of Hydra.",
+  "description": "Viper, formerly known as Madame Hydra, is a fictional supervillain appearing in American comic books published by Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6e/Madame_Hydra_Viper.JPG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Viper",
+  "name": "Viper (Madame Hydra)",
   "partners": [
   ],
   "powers": [
-    "Enhanced life span",
     "Enhanced lifespan",
     "Excellent strategist",
     "Marksman",
@@ -40,8 +37,7 @@
   "ranking": {
     "comicCount": 40,
     "eventCount": 1,
-    "pageviewCount": 2145,
-    "pageviewRank": -1,
+    "pageviewCount": 7979,
     "serieCount": 19,
     "storyCount": 34
   },
@@ -50,6 +46,7 @@
   ],
   "species": [
   ],
+  "superName": "Viper",
   "teams": [
     "H.A.M.M.E.R",
     "Hellfire Club",

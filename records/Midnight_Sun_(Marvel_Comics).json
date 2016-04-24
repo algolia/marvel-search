@@ -11,13 +11,10 @@
   "description": "Midnight Sun (M'Nai) is a fictional character, a former supervillain in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/MidnightSun02.JPG/250px-MidnightSun02.JPG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Midnight (Earth-811)",
+  "name": "Midnight Sun",
   "partners": [
   ],
   "powers": [
@@ -32,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 54,
-    "pageviewRank": -1,
+    "pageviewCount": 520,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,11 +38,12 @@
   ],
   "species": [
   ],
+  "superName": "Midnight Sun",
   "teams": [
     "Legion of the Unliving"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1451/midnight",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Midnight_Sun_(Marvel_Comics)"
   }
 }

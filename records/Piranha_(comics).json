@@ -8,9 +8,9 @@
   ],
   "description": "Piranha is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Piranha",
   "partners": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 34,
-    "pageviewRank": -1,
+    "pageviewCount": 292,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +32,12 @@
   ],
   "species": [
   ],
+  "superName": "Piranha",
   "teams": [
     "Deep Six"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Piranha_(comics)"
   }
 }

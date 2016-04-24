@@ -2,10 +2,11 @@
   "aliases": [
     "Devil-Spider",
     "Hobgoblin",
-    "Roderick Kingsley"
+    "Roderick Kignsley"
   ],
   "authors": [
     "Green Goblin",
+    "John Romita Jr.",
     "John Romita, Jr.",
     "Roger Stern",
     "Stan Lee",
@@ -15,13 +16,10 @@
   "description": "Roderick Kingsley is the first of several fictional characters who would claim the alias Hobgoblin that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c6/Roderick_Kingsley_%28Hobgoblin%29.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4c003ed3cff99/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Hobgoblin (Jason Macendale)",
+  "name": "Hobgoblin (Roderick Kingsley)",
   "partners": [
   ],
   "powers": [
@@ -34,23 +32,23 @@
     "Talented fashion designer"
   ],
   "ranking": {
-    "comicCount": 0,
-    "eventCount": 0,
-    "pageviewCount": 192,
-    "pageviewRank": -1,
-    "serieCount": 0,
-    "storyCount": 0
+    "comicCount": 36,
+    "eventCount": 3,
+    "pageviewCount": 1261,
+    "serieCount": 18,
+    "storyCount": 34
   },
   "secretIdentities": [
     "Roderick Kingsley"
   ],
   "species": [
   ],
+  "superName": "Hobgoblin",
   "teams": [
     "Astonishing Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/965/hobgoblin",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Roderick_Kingsley"
   }
 }

@@ -9,9 +9,9 @@
   ],
   "description": "Prime is a superhero created by Bob Jacob, Gerard Jones, Len Strazewski, and Norm Breyfogle.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Prime",
   "partners": [
@@ -25,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 120,
-    "pageviewRank": -1,
+    "pageviewCount": 956,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,10 +34,12 @@
   ],
   "species": [
   ],
+  "superName": "Prime",
   "teams": [
     "Ultraforce"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Prime_(comics)"
   }
 }

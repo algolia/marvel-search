@@ -12,28 +12,22 @@
   "description": "A chain reaction in an atomic reactor, a result of a terrorist attack, accidentally created a force that absorbed the electrolytes of the nearby humans' brains, granting the explosion of energy a rudimentary sentience.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4ced5ab9078c9/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Zzzax",
   "partners": [
   ],
   "powers": [
-    "Durability",
     "Flight",
     "Heat generation",
     "Manipulation",
-    "Projection",
-    "Super-strength"
+    "Projection"
   ],
   "ranking": {
     "comicCount": 3,
     "eventCount": 0,
-    "pageviewCount": 288,
-    "pageviewRank": -1,
+    "pageviewCount": 2239,
     "serieCount": 2,
     "storyCount": 3
   },
@@ -41,6 +35,7 @@
   ],
   "species": [
   ],
+  "superName": "Zzzax",
   "teams": [
   ],
   "urls": {

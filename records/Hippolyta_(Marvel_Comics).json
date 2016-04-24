@@ -9,10 +9,9 @@
   ],
   "description": "Hippolyta is a fictional Amazon character within the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Warrior_Woman.jpg/250px-Warrior_Woman.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hippolyta",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 108,
-    "pageviewRank": -1,
+    "pageviewCount": 1030,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,6 +34,7 @@
   ],
   "species": [
   ],
+  "superName": "Hippolyta",
   "teams": [
     "Amazons",
     "Bacchae",
@@ -44,6 +43,7 @@
     "Valkyrior"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hippolyta_(Marvel_Comics)"
   }
 }

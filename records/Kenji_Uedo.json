@@ -8,11 +8,11 @@
     "Kieron Gillen",
     "Matt Fraction"
   ],
+  "description": "Zero (Kenji Uedo) is a fictional comic book superhero appearing in books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0c/XMEN-Zero.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Kenji Uedo",
   "partners": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 29,
-    "pageviewRank": -1,
+    "pageviewCount": 208,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,12 +32,16 @@
     "Kenji Uedo"
   ],
   "species": [
+    "Mutant"
   ],
+  "superName": "Kenji Uedo",
   "teams": [
+    "Hope Summers",
     "The Lights",
     "X-Men"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Kenji_Uedo"
   }
 }

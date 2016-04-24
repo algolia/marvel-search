@@ -8,14 +8,11 @@
     "Chris Claremont",
     "Marc Silvestri"
   ],
-  "description": "Mister Sinister is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
+  "description": "Mister Sinister, or just Sinister, is a fictional supervillain appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/526034ac3c53a/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/80/526034ac3c53a/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Mister Sinister",
   "partners": [
@@ -24,13 +21,10 @@
   "powers": [
     "Durability",
     "Genius-level intellect",
-    "Healing factor",
     "Master manipulator",
     "Molecular manipulation",
     "Planner",
     "Prolonged longevity",
-    "Regeneration",
-    "Shape-shifting",
     "Shapeshifting",
     "Superhuman strength",
     "Telepathy"
@@ -38,8 +32,7 @@
   "ranking": {
     "comicCount": 51,
     "eventCount": 5,
-    "pageviewCount": 1526,
-    "pageviewRank": -1,
+    "pageviewCount": 20913,
     "serieCount": 28,
     "storyCount": 48
   },
@@ -49,6 +42,7 @@
   "species": [
     "Mutate"
   ],
+  "superName": "Mister Sinister",
   "teams": [
     "Marauders",
     "Nasty Boys"

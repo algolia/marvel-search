@@ -12,13 +12,10 @@
   "description": "Hollow (formerly called Penance) is an apparently mindless body which three members of the St Croix family, all members of the Marvel Comics superhero team Generation X, had been trapped in at some time.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/52695808ada2e/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/XMEN_Hollow.jpg/200px-XMEN_Hollow.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Penance (Robert Baldwin)",
+  "name": "Penance (X-Men)",
   "partners": [
   ],
   "powers": [
@@ -29,26 +26,26 @@
     "Razor-sharp"
   ],
   "ranking": {
-    "comicCount": 64,
-    "eventCount": 7,
-    "pageviewCount": 124,
-    "pageviewRank": -1,
-    "serieCount": 20,
-    "storyCount": 81
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1138,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
     "Mutant"
   ],
+  "superName": "Penance",
   "teams": [
     "Avengers Academy",
     "Generation X",
-    "Loners",
+    "Loner",
     "The Loners"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1714/penance",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Penance_(X-Men)"
   }
 }

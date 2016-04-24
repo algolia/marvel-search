@@ -1,50 +1,37 @@
 {
   "aliases": [
-    "Spider-Man to the Xth Power",
-    "Spider-X"
   ],
   "authors": [
-    "Javier Saltares",
-    "John Czop",
-    "Ken Meyer Jr",
-    "Mort Todd",
     "Stan Lee",
-    "Steve Ditko",
-    "Vincent Giarrano"
+    "Steve Ditko"
   ],
-  "description": "Spider-X (Brian Kornfield) is a fictional character and supervillain in the Marvel Universe.",
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Spider-X",
   "partners": [
   ],
   "powers": [
-    "Agility",
-    "Black magic",
-    "Durability",
-    "Speed",
-    "Superhuman strength",
-    "Wall crawling"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 38,
-    "pageviewRank": -1,
+    "pageviewCount": 267,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Brian Kornfield"
   ],
   "species": [
   ],
+  "superName": "Spider-X",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Spider-X"
   }
 }

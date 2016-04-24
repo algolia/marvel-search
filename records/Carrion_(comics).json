@@ -12,18 +12,16 @@
   ],
   "description": "Carrion is a fictional character, a supervillain appearing in the Marvel Comics universe, in which he is an enemy of Spider-Man.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Carrion.jpg/250px-Carrion.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Carrion",
   "partners": [
     "Carnage",
     "Demogoblin",
     "Doppelganger",
-    "Shriek",
-    "as Malcolm McBride"
+    "Shriek"
   ],
   "powers": [
     "Density control",
@@ -33,8 +31,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 140,
-    "pageviewRank": -1,
+    "pageviewCount": 1198,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -46,6 +43,7 @@
   ],
   "species": [
   ],
+  "superName": "Carrion",
   "teams": [
     "Carnage Family",
     "Carnage Family/Maximum Carnage",
@@ -53,6 +51,7 @@
     "S.H.I.E.L.D"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Carrion_(comics)"
   }
 }

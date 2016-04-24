@@ -9,18 +9,15 @@
   "description": "Refusing to miss his opportunity, Peter Jason Quill stole a scoutship from Cape Canaveral, returned to Eve, and shot his way to the appointed spot, where his old rival Harrelson, NASA's choice to be Star-Lord, was awaiting selection, where Quill was transported away in his stead, and transformed into Star-Lord.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/537bc588141f2.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/9/a0/537bc5794cce1.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/537bc55e8b1f5/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 9,
     "green": 36,
     "hexa": "3A2409",
     "red": 58
   },
-  "name": "Star-Lord (Peter Quill)",
+  "name": "Star-Lord",
   "partners": [
   ],
   "powers": [
@@ -36,8 +33,7 @@
   "ranking": {
     "comicCount": 26,
     "eventCount": 3,
-    "pageviewCount": 3553,
-    "pageviewRank": 5903,
+    "pageviewCount": 32683,
     "serieCount": 13,
     "storyCount": 66
   },
@@ -45,12 +41,14 @@
     "Peter Jason Quill"
   ],
   "species": [
-    "Half Alien",
-    "Half Human"
+    "Human",
+    "Spartoi"
   ],
+  "superName": "Star-Lord",
   "teams": [
     "Annihilation",
     "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
     "Imperial Guard",
     "Ravagers",
     "Shi'ar Imperial Guard",

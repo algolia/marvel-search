@@ -9,11 +9,8 @@
   "description": "Fritz von Meyer was once a Nazi scientist, the details of which remain unrevealed, although it is known he had access to looted gold from countless European capitals to fund his research.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/50/4c0030df47ab2/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/50/4c0030df47ab2/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Swarm",
   "partners": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 211,
-    "pageviewRank": -1,
+    "pageviewCount": 1427,
     "serieCount": 1,
     "storyCount": 1
   },
@@ -36,8 +32,10 @@
   ],
   "species": [
   ],
+  "superName": "Swarm",
   "teams": [
-    "Exterminators"
+    "Exterminators",
+    "Sinister Six"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2272/swarm",

@@ -10,9 +10,9 @@
   ],
   "description": "The Trapster is the name of two supervillains in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Trapster",
   "partners": [
@@ -28,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 233,
-    "pageviewRank": -1,
+    "pageviewCount": 1850,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Trapster",
   "teams": [
     "Frightful Five",
     "Frightful Four",
@@ -46,6 +46,7 @@
     "Sinister Six"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Trapster"
   }
 }

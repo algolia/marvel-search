@@ -10,10 +10,9 @@
   ],
   "description": "Baron Werner Von Blitzschlag is a comic book character in Marvel Comics' main shared universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/eb/BVonBlitzschlag.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Baron Von Blitzschlag",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 74,
-    "pageviewRank": -1,
+    "pageviewCount": 769,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,6 +34,7 @@
   ],
   "species": [
   ],
+  "superName": "Baron Von Blitzschlag",
   "teams": [
     "Commission on Superhuman Activities",
     "Features of the Marvel Universe",
@@ -43,6 +42,7 @@
     "The Initiative"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Baron_Von_Blitzschlag"
   }
 }

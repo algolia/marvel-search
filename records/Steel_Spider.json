@@ -10,10 +10,9 @@
   ],
   "description": "Steel Spider (Oliver \"Ollie\" Osnick) is a fictional character, a superhero who appears in the comic books published by Marvel Comics, primarily in the various Spider-Man titles.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Steelspider.jpg/250px-Steelspider.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Steel Spider",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 166,
-    "pageviewRank": -1,
+    "pageviewCount": 1276,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,10 +35,12 @@
   ],
   "species": [
   ],
+  "superName": "Steel Spider",
   "teams": [
     "The Misfits"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Steel_Spider"
   }
 }

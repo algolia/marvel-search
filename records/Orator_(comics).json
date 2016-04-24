@@ -9,9 +9,9 @@
   ],
   "description": "Orator (Victor Ludwig) was a minor fictional character from Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Orator",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 12,
-    "pageviewRank": -1,
+    "pageviewCount": 85,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +32,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Orator",
   "teams": [
     "Acolytes"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Orator_(comics)"
   }
 }

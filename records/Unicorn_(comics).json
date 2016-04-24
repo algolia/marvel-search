@@ -10,11 +10,8 @@
   "description": "Milos Masaryk, a Soviet intelligence agent assigned as a security guard for Anton Vanko, a Soviet inventor who developed the Crimson Dynamo armor, was tasked by the Soviet government to retrieve Vanko after he defected to the United States.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/4c0035bc1dcf1/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/b/40/4c0035bc1dcf1/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Unicorn",
   "partners": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 156,
-    "pageviewRank": -1,
+    "pageviewCount": 931,
     "serieCount": 1,
     "storyCount": 1
   },
@@ -43,6 +39,7 @@
   ],
   "species": [
   ],
+  "superName": "Unicorn",
   "teams": [
     "KGB",
     "Maggia"

@@ -3,17 +3,15 @@
     "Shard"
   ],
   "authors": [
+    "John Romita Jr.",
     "John Romita, Jr.",
     "Scott Lobdell"
   ],
   "description": "Shard and her older brother Bishop were raised in the 21st Century, some eighty years into an alternate future, by their grandmother, in a timeline in which the X-Men were betrayed by one of their own and killed, causing a disaster that caused the government to place a stylized 'M' tattoo over the left eyes of all mutants.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4c003c24b9222/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/50/4c003c24b9222/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Shard",
   "partners": [
@@ -27,8 +25,7 @@
   "ranking": {
     "comicCount": 29,
     "eventCount": 1,
-    "pageviewCount": 91,
-    "pageviewRank": -1,
+    "pageviewCount": 707,
     "serieCount": 5,
     "storyCount": 34
   },
@@ -39,6 +36,7 @@
     "Human Mutant",
     "later Holographic"
   ],
+  "superName": "Shard",
   "teams": [
     "X-Factor",
     "Xavier Security Enforcers",

@@ -9,11 +9,8 @@
   "description": "Shinobi Shaw is the illegitimate son of Sebastian Shaw, who was rejected and abandoned by his father at an early age and grew tired of waiting to inherit his father's wealth and wearied of the elder Shaw's contempt for his decadent lifestyle.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4c003c1bbf29f/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/b/a0/4c003c1bbf29f/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Shinobi Shaw",
   "partners": [
@@ -24,8 +21,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 0,
-    "pageviewCount": 196,
-    "pageviewRank": -1,
+    "pageviewCount": 1082,
     "serieCount": 1,
     "storyCount": 2
   },
@@ -35,6 +31,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Shinobi Shaw",
   "teams": [
     "Hellfire Club",
     "Shaw Industries",

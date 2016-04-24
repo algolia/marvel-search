@@ -1,15 +1,17 @@
 {
   "aliases": [
+    "Krang",
     "actual identities the character uses"
   ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Krang1.jpg/250px-Krang1.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Krang",
   "partners": [
@@ -29,7 +31,6 @@
     "comicCount": 0,
     "eventCount": 0,
     "pageviewCount": 0,
-    "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,11 +38,13 @@
   ],
   "species": [
   ],
+  "superName": "Krang",
   "teams": [
     "Defenders",
     "Serpent Squad"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Krang_(Marvel_Comics)"
   }
 }

@@ -10,12 +10,10 @@
   "description": "Brute is a fictional character in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Brute",
+  "name": "Brute (Reed Richards)",
   "partners": [
   ],
   "powers": [
@@ -23,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 82,
-    "pageviewRank": -1,
+    "pageviewCount": 581,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,11 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Brute",
   "teams": [
     "Frightful Four"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/360/brute",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Brute_(Reed_Richards)"
   }
 }

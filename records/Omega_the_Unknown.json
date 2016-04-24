@@ -11,11 +11,8 @@
   "description": "Omega the Unknown was  an American comic book published by Marvel Comics from 1976 to 1977, featuring  the eponymous fictional character.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4ce5a4e4cd15d/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/10/4ce5a4e4cd15d/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Omega the Unknown",
   "partners": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 5,
     "eventCount": 0,
-    "pageviewCount": 106,
-    "pageviewRank": -1,
+    "pageviewCount": 889,
     "serieCount": 3,
     "storyCount": 4
   },
@@ -38,6 +34,7 @@
   ],
   "species": [
   ],
+  "superName": "Omega the Unknown",
   "teams": [
   ],
   "urls": {

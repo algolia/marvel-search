@@ -14,11 +14,8 @@
   "description": "Kid Colt is the name of two fictional characters in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Kid_Colt%2C_Outlaw1.jpg/200px-Kid_Colt%2C_Outlaw1.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Kid Colt",
   "partners": [
@@ -30,12 +27,11 @@
     "Teleportation"
   ],
   "ranking": {
-    "comicCount": 9,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 65,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 10
+    "pageviewCount": 605,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Blaine Colt",
@@ -43,12 +39,13 @@
   ],
   "species": [
   ],
+  "superName": "Kid Colt",
   "teams": [
     "The Sensational Seven",
     "Young Allies"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1135/kid_colt",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Kid_Colt"
   }
 }

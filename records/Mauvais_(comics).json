@@ -10,13 +10,10 @@
   "description": "Mauvais is a supervillain in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4ce5a1fa7a013/standard_xlarge.jpg"
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Wendigo",
+  "name": "Mauvais",
   "partners": [
   ],
   "powers": [
@@ -25,22 +22,22 @@
     "Vast magical abilities"
   ],
   "ranking": {
-    "comicCount": 9,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 10,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 11
+    "pageviewCount": 92,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Jean-Pierre"
   ],
   "species": [
   ],
+  "superName": "Mauvais",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2545/wendigo",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mauvais_(comics)"
   }
 }

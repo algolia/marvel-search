@@ -10,16 +10,14 @@
   ],
   "description": "Ursa Major (Mikhail Uriokovitch Ursus) is a fictional character, a mutant in the Marvel Comics universe, and a former member of the Soviet Super-Soldiers.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/URSAMAJOR_the_bear.jpg/200px-URSAMAJOR_the_bear.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ursa Major",
   "partners": [
   ],
   "powers": [
-    "Durability",
     "Non-retractable claws",
     "Resistance to injury",
     "Senses",
@@ -29,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 109,
-    "pageviewRank": -1,
+    "pageviewCount": 842,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,12 +37,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Ursa Major",
   "teams": [
     "Siberforce",
     "Soviet Super-Soldiers",
     "Winter Guard"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ursa_Major_(comics)"
   }
 }

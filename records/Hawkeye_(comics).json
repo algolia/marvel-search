@@ -14,14 +14,11 @@
     "Don Heck",
     "Stan Lee"
   ],
-  "description": "Hawkeye (Clint Barton) is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
+  "description": "Hawkeye (Clint Barton) is a fictional superhero appearing in comic books published by Marvel Comics.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/537badd4a6ba8.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/537badc422600.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/50fecaf4f101b/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/537bad8219731/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 25,
     "green": 11,
@@ -31,46 +28,37 @@
   "name": "Hawkeye",
   "partners": [
     "Black Widow",
-    "Hawkeye",
+    "Black Widow (Natalia Romanova)",
+    "Hawkeye (Kate Bishop)",
     "Kate Bishop",
     "Mockingbird"
   ],
   "powers": [
-    "Acrobat",
     "Durability",
-    "Enhanced eyesight",
-    "Exceptional arm strength",
-    "Experienced pilot",
     "Expert tactician",
-    "Grandmaster archer",
     "Marksman",
     "Martial artist",
     "Mass manipulation",
     "Master archer",
-    "Master martial artist",
     "Size",
-    "Superb athlete",
     "Superhuman strength",
-    "Swordsman",
-    "Tactician",
     "Trick arrows",
     "Uses a variety of"
   ],
   "ranking": {
     "comicCount": 222,
     "eventCount": 14,
-    "pageviewCount": 3656,
-    "pageviewRank": 8510,
+    "pageviewCount": 34291,
     "serieCount": 106,
     "storyCount": 225
   },
   "secretIdentities": [
     "Clint",
-    "Clint Barton",
     "Clinton Francis Barton"
   ],
   "species": [
   ],
+  "superName": "Hawkeye",
   "teams": [
     "Avengers",
     "Avengers Academy",

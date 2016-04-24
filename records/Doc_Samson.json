@@ -11,11 +11,8 @@
   "description": "Doc Samson (Dr. Leonard \"Leo\" Samson) is a fictional character, a superhero and psychiatrist in the Marvel Comics universe, known as a supporting character in stories featuring the Hulk.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5261a84c1707c/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/3/10/5261a84c1707c/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Doc Samson",
   "partners": [
@@ -25,7 +22,6 @@
   "powers": [
     "Durability",
     "Genius psychiatrist",
-    "Great leaping",
     "Inventor",
     "Resistance to injury",
     "Resistance to telepathy",
@@ -35,8 +31,7 @@
   "ranking": {
     "comicCount": 62,
     "eventCount": 0,
-    "pageviewCount": 470,
-    "pageviewRank": -1,
+    "pageviewCount": 3830,
     "serieCount": 19,
     "storyCount": 60
   },
@@ -45,8 +40,9 @@
     "Leo"
   ],
   "species": [
-    "Human"
+    "Human Mutate"
   ],
+  "superName": "Doc Samson",
   "teams": [
   ],
   "urls": {

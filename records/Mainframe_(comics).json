@@ -1,15 +1,16 @@
 {
   "aliases": [
+    "Mainframe"
   ],
   "authors": [
     "Ron Frenz",
     "Tom DeFalco"
   ],
+  "description": "Mainframe is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Mainframe_HCV.jpg/160px-Mainframe_HCV.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Mainframe",
   "partners": [
@@ -23,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 71,
-    "pageviewRank": -1,
+    "pageviewCount": 567,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +33,12 @@
   ],
   "species": [
   ],
+  "superName": "Mainframe",
   "teams": [
     "A-Next"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mainframe_(comics)"
   }
 }

@@ -9,10 +9,9 @@
   ],
   "description": "Devos the Devastator is a fictional character, a supervillain appearing in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Devosff.jpg/250px-Devosff.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Devos the Devastator",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 20,
-    "pageviewRank": -1,
+    "pageviewCount": 234,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,10 +33,12 @@
   ],
   "species": [
   ],
+  "superName": "Devos the Devastator",
   "teams": [
     "Fearsome Foursome"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Devos_the_Devastator"
   }
 }

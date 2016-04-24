@@ -137,8 +137,10 @@ let Marvel = {
 
     let displayData = {
       uuid: data.objectID,
-      name: Marvel.getHighlightedValue(data, 'name'),
-      description: Marvel.getHighlightedValue(data, 'description'),
+      name: data.name,
+      description: data.description,
+      highlightedName: Marvel.getHighlightedValue(data, 'name'),
+      highlightedDescription: Marvel.getHighlightedValue(data, 'description'),
       inViewport,
       mainColorRgb,
       mainColorHexa,

@@ -8,9 +8,9 @@
   ],
   "description": "Erik Killmonger is a fictional supervillain published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Erik Killmonger",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 151,
-    "pageviewRank": -1,
+    "pageviewCount": 1585,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,9 +32,11 @@
   ],
   "species": [
   ],
+  "superName": "Erik Killmonger",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Erik_Killmonger"
   }
 }

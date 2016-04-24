@@ -12,13 +12,10 @@
   "description": "Vulcan is the third Summers brother and an Omega-level mutant who was thought long-dead by Professor X.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/528d3629c2a91/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Vulcan (Gabriel Summers)",
+  "name": "Vulcan",
   "partners": [
   ],
   "powers": [
@@ -39,8 +36,7 @@
   "ranking": {
     "comicCount": 7,
     "eventCount": 0,
-    "pageviewCount": 1296,
-    "pageviewRank": -1,
+    "pageviewCount": 12857,
     "serieCount": 6,
     "storyCount": 4
   },
@@ -50,13 +46,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Vulcan",
   "teams": [
     "Shi'ar",
     "Shi'ar Imperium",
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1011011/vulcan_gabriel_summers",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Vulcan_(Marvel_Comics)"
   }
 }

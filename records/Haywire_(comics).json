@@ -6,12 +6,11 @@
     "Mark Gruenwald",
     "Paul Ryan"
   ],
-  "description": "Haywire was a minor character from the original Squadron Supreme series from Marvel Comics.",
+  "description": "Haywire is a fictional superhero appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Haywire.jpg/250px-Haywire.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Haywire",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 36,
-    "pageviewRank": -1,
+    "pageviewCount": 232,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,11 +30,13 @@
   ],
   "species": [
   ],
+  "superName": "Haywire",
   "teams": [
     "Redeemers",
     "Squadron Supreme"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Haywire_(comics)"
   }
 }

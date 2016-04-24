@@ -6,14 +6,11 @@
     "David Michelinie",
     "Frank Miller"
   ],
-  "description": "Mauler (an acronym for Mobile Armored Utility Laser-guided E-beam, Revised) is a name used by two fictional characters that appear in comic books published by Marvel Comics.",
+  "description": "Mauler (an acronym for Mobile Armored Utility Laser-guided E-beam, Revised) is a name used by four fictional characters that appear in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/IronMan-156.jpg/250px-IronMan-156.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mauler",
   "partners": [
@@ -24,12 +21,11 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 1,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 59,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 1
+    "pageviewCount": 337,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Aaron Soames",
@@ -39,11 +35,12 @@
   ],
   "species": [
   ],
+  "superName": "Mauler",
   "teams": [
     "Cord Conglomerate"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1403/mauler",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mauler_(comics)"
   }
 }

@@ -10,10 +10,9 @@
   ],
   "description": "The Revolutionary is a fictional superhero published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Revolutionary.jpg/250px-Revolutionary.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Revolutionary",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 23,
-    "pageviewRank": -1,
+    "pageviewCount": 202,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,6 +33,7 @@
   "species": [
     "Skrull"
   ],
+  "superName": "Revolutionary",
   "teams": [
     "Liberteens",
     "Liberty Legion",
@@ -42,6 +41,7 @@
     "Skrull Empire"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Revolutionary_(comics)"
   }
 }

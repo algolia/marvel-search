@@ -6,13 +6,13 @@
     "Kurt Busiek",
     "Mark Bagley"
   ],
-  "description": "The Crimson Cowl (real name Justine Hammer), is a fictional comic book supervillain appearing in books published by Marvel Comics universe, in particular those featuring Thunderbolts and Iron Man, for whom she has served as a recurring adversary.",
+  "description": "The Crimson Cowl (real name Justine Hammer) is a fictional supervillain appearing in books published by Marvel Comics universe, in particular those featuring Thunderbolts and Iron Man, for whom she has served as a recurring adversary.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Crimson Cowl",
+  "name": "Crimson Cowl (Justine Hammer)",
   "partners": [
   ],
   "powers": [
@@ -27,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 147,
-    "pageviewRank": -1,
+    "pageviewCount": 894,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,10 +36,12 @@
   ],
   "species": [
   ],
+  "superName": "Crimson Cowl",
   "teams": [
     "Masters of Evil"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Crimson_Cowl_(Justine_Hammer)"
   }
 }

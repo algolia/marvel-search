@@ -7,9 +7,9 @@
   ],
   "description": "Ravage (Doctor Geoffrey Crawford) is a fictional character in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ravage",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 90,
-    "pageviewRank": -1,
+    "pageviewCount": 507,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,9 +32,11 @@
   ],
   "species": [
   ],
+  "superName": "Ravage",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ravage_(Marvel_Comics)"
   }
 }

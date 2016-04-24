@@ -4,18 +4,14 @@
     "Jocasta"
   ],
   "authors": [
-    "George P%C3%A9rez",
     "George Pérez",
     "Jim Shooter"
   ],
   "description": "Jocasta is a fictional, comic book superhero appearing in books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c003eac7419a/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/a0/4c003eac7419a/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Jocasta",
   "partners": [
@@ -32,8 +28,7 @@
   "ranking": {
     "comicCount": 54,
     "eventCount": 5,
-    "pageviewCount": 327,
-    "pageviewRank": -1,
+    "pageviewCount": 2880,
     "serieCount": 9,
     "storyCount": 53
   },
@@ -43,6 +38,7 @@
   "species": [
     "Mechanoid"
   ],
+  "superName": "Jocasta",
   "teams": [
     "Avengers",
     "Avengers Academy",

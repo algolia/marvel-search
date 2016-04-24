@@ -9,11 +9,8 @@
   "description": "Master Mold is a fictional character, a robot supervillain in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Uxm016.PNG/250px-Uxm016.PNG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Master Mold",
   "partners": [
@@ -28,23 +25,23 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 8,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 324,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 6
+    "pageviewCount": 2353,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Master Mold",
   "teams": [
     "Armageddon",
     "Sentinels"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2731/master_mold",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Master_Mold"
   }
 }

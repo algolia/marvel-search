@@ -9,9 +9,9 @@
   ],
   "description": "Isaac Javitz is a fictional character in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Javitz",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 16,
-    "pageviewRank": -1,
+    "pageviewCount": 122,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +33,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Javitz",
   "teams": [
     "Acolytes"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Javitz"
   }
 }

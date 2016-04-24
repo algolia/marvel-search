@@ -6,14 +6,11 @@
     "Chris Claremont",
     "Paul Smith"
   ],
-  "description": "Lockheed is a fictional character in the Marvel Comics universe.",
+  "description": "Lockheed is a fictional character appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4c7c6465c79c5/standard_xlarge.png"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/7/20/4c7c6465c79c5/standard_xlarge.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Lockheed",
   "partners": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 54,
     "eventCount": 4,
-    "pageviewCount": 372,
-    "pageviewRank": -1,
+    "pageviewCount": 2956,
     "serieCount": 20,
     "storyCount": 54
   },
@@ -37,6 +33,7 @@
   "species": [
     "Dragon"
   ],
+  "superName": "Lockheed",
   "teams": [
     "Excalibur",
     "Jean Grey School",

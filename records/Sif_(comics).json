@@ -10,11 +10,8 @@
   "description": "Sif was born a second generation goddess of Asgard and eventually became Thor's lover.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/3/50/537bc332394b6.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/537bc32268286.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/527bb6fc4ec43/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/537bc3039f4e3/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -26,7 +23,6 @@
     "Thor"
   ],
   "powers": [
-    "Asgard",
     "Endurance",
     "Longevity",
     "Superhuman strength"
@@ -34,8 +30,7 @@
   "ranking": {
     "comicCount": 129,
     "eventCount": 3,
-    "pageviewCount": 1204,
-    "pageviewRank": 8560,
+    "pageviewCount": 8169,
     "serieCount": 39,
     "storyCount": 121
   },
@@ -45,6 +40,7 @@
   "species": [
     "Asgard"
   ],
+  "superName": "Sif",
   "teams": [
     "Asgard"
   ],

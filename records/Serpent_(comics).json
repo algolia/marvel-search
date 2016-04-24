@@ -1,15 +1,17 @@
 {
   "aliases": [
-    "Cul Borson"
+    "Cul Borson",
+    "Serpent"
   ],
   "authors": [
     "Matt Fraction",
     "Stuart Immonen"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Serpent",
   "partners": [
@@ -28,8 +30,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 268,
-    "pageviewRank": -1,
+    "pageviewCount": 174,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,10 +38,12 @@
   ],
   "species": [
   ],
+  "superName": "Serpent",
   "teams": [
     "Worthy"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Serpent_(comics)"
   }
 }

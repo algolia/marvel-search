@@ -10,10 +10,9 @@
   ],
   "description": "Force is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/IronMan-224.jpg/250px-IronMan-224.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Force",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 42,
-    "pageviewRank": -1,
+    "pageviewCount": 416,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,9 +34,11 @@
   ],
   "species": [
   ],
+  "superName": "Force",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Force_(comics)"
   }
 }

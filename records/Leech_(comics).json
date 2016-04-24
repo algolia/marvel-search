@@ -6,16 +6,13 @@
   "authors": [
     "Chris Claremont",
     "John Romita Jr",
-    "John Romita, Jr."
+    "John Romita Jr."
   ],
   "description": "Leech is a character in the Marvel Comics Universe.Leech made his first appearance in Uncanny X-Men as a Morlock, a group of mutants whose deformities force them to live in the sewers under Manhattan.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/X198leech.jpg/250px-X198leech.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Leech",
   "partners": [
@@ -24,12 +21,11 @@
     "Power negation"
   ],
   "ranking": {
-    "comicCount": 3,
-    "eventCount": 2,
-    "pageviewCount": 644,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 4
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4116,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "James 'Jimmy'"
@@ -37,6 +33,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Leech",
   "teams": [
     "Daydreamers",
     "Future Foundation",
@@ -48,7 +45,7 @@
     "X-Terminators"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1223/leech",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Leech_(comics)"
   }
 }

@@ -5,12 +5,11 @@
   "authors": [
     "Jack Binder"
   ],
-  "description": "Breeze Barton is a fictional character, a superhero who appears in comics published by Marvel Comics.",
+  "description": "Breeze Barton is a fictional character who appears in comics published by Marvel Comics.",
   "images": {
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Breeze_Barton1.jpg/200px-Breeze_Barton1.jpg"
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Breeze_Barton.jpg/200px-Breeze_Barton.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Breeze Barton",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 27,
-    "pageviewRank": -1,
+    "pageviewCount": 283,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,11 +32,13 @@
   ],
   "species": [
   ],
+  "superName": "Breeze Barton",
   "teams": [
     "A.R.M.O.R",
     "S.H.I.E.L.D"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Breeze_Barton"
   }
 }

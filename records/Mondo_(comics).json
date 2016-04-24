@@ -8,9 +8,9 @@
   ],
   "description": "Mondo is the name of two fictional comic book characters that have appeared in the Marvel Comics series Generation X.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mondo",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 114,
-    "pageviewRank": -1,
+    "pageviewCount": 786,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +32,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Mondo",
   "teams": [
     "Generation X"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mondo_(comics)"
   }
 }

@@ -9,10 +9,9 @@
   ],
   "description": "Elias Bogan is a fictional mutant character in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d8/Elias_Bogan.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Elias Bogan",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 37,
-    "pageviewRank": -1,
+    "pageviewCount": 360,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +32,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Elias Bogan",
   "teams": [
     "Hellfire Club"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Elias_Bogan"
   }
 }

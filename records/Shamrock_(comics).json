@@ -10,9 +10,9 @@
   ],
   "description": "Shamrock is a fictional comic book superheroine appearing in books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Shamrock",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 58,
-    "pageviewRank": -1,
+    "pageviewCount": 371,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,9 +33,11 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Shamrock",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Shamrock_(comics)"
   }
 }

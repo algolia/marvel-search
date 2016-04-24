@@ -16,21 +16,19 @@
   ],
   "description": "Grizzly is the name of four unrelated fictional characters from the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Amazing_Spider-Man_139.jpg/250px-Amazing_Spider-Man_139.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Grizzly",
   "partners": [
     "Jackal"
   ],
   "powers": [
-    "Adept at wrestling",
-    "Claws",
+    "Adept wrestler",
     "Durability",
+    "Fangs",
     "Razor sharp claws",
-    "Razor sharp fangs",
     "Senses",
     "Size",
     "Speed",
@@ -41,8 +39,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 165,
-    "pageviewRank": -1,
+    "pageviewCount": 1388,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -56,14 +53,15 @@
     "Human",
     "Mutant"
   ],
+  "superName": "Grizzly",
   "teams": [
     "Advanced Idea Mechanics",
-    "Legion of Losers",
     "Six Pack",
     "Thunderbolts",
     "Weapon P.R.I.M.E"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Grizzly_(comics)"
   }
 }

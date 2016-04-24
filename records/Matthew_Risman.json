@@ -9,10 +9,9 @@
   ],
   "description": "Matthew Risman is a fictional character, in the Marvel Universe and a deadly enemy of mutants including the X-Men.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/Matthewrisman.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Matthew Risman",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 18,
-    "pageviewRank": -1,
+    "pageviewCount": 213,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Matthew Risman",
   "teams": [
     "Purifiers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Risman"
   }
 }

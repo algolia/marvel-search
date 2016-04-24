@@ -6,11 +6,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "The Seeker is a fictional character in the Marvel Universe.",
+  "description": "The Seeker is a fictional character in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Seeker",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 27,
-    "pageviewRank": -1,
+    "pageviewCount": 374,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,10 +28,12 @@
   ],
   "species": [
   ],
+  "superName": "Seeker",
   "teams": [
     "Inhumans"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Seeker_(comics)"
   }
 }

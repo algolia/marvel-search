@@ -9,11 +9,8 @@
   "description": "Molecule Man (Owen Reece) is a fictional comic book character appearing in books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/528d33c2a72b2/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/d0/528d33c2a72b2/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Molecule Man",
   "partners": [
@@ -25,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1405,
-    "pageviewRank": -1,
+    "pageviewCount": 4675,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,10 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "Molecule Man",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1011019/molecule_man",
+    "marvel": "http://marvel.com/characters/1485/molecule_man",
     "wikipedia": "https://en.wikipedia.org/wiki/Molecule_Man"
   }
 }

@@ -12,11 +12,8 @@
   "description": "Dr. Michael Twoyoungmen was a surgeon who found that modern science was insufficient to accomplish everything he wished to do, and so he turned to mysticism that his grandfather told him about.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Alphaflight27.jpg/250px-Alphaflight27.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Shaman",
   "partners": [
@@ -28,8 +25,7 @@
   "ranking": {
     "comicCount": 47,
     "eventCount": 2,
-    "pageviewCount": 123,
-    "pageviewRank": -1,
+    "pageviewCount": 1044,
     "serieCount": 11,
     "storyCount": 51
   },
@@ -38,6 +34,7 @@
   ],
   "species": [
   ],
+  "superName": "Shaman",
   "teams": [
     "Alpha Flight"
   ],

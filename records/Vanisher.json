@@ -1,35 +1,30 @@
 {
   "aliases": [
     "El Hombre que Desaparece",
-    "The Vanisher",
-    "Vanisher"
+    "The Vanisher"
   ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Vanisher worked for Apocalypse.",
+  "description": "Nothing is known about the Vanisher's past before he embarked on a one-man crime wave of spectacular thefts using his power of self-teleportation.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Xforce69.jpg/250px-Xforce69.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Vanisher (Age of Apocalypse)",
+  "name": "Vanisher",
   "partners": [
   ],
   "powers": [
     "Teleportation"
   ],
   "ranking": {
-    "comicCount": 0,
-    "eventCount": 0,
-    "pageviewCount": 203,
-    "pageviewRank": -1,
-    "serieCount": 0,
-    "storyCount": 0
+    "comicCount": 7,
+    "eventCount": 1,
+    "pageviewCount": 1265,
+    "serieCount": 2,
+    "storyCount": 7
   },
   "secretIdentities": [
     "Telford Porter"
@@ -37,6 +32,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Vanisher",
   "teams": [
     "Brotherhood of Mutants",
     "Designer Gene Corporation",

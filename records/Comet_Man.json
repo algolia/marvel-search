@@ -9,9 +9,9 @@
   ],
   "description": "Comet Man (Stephen Beckley) is a fictional character in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Comet Man",
   "partners": [
@@ -29,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 63,
-    "pageviewRank": -1,
+    "pageviewCount": 369,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,9 +39,11 @@
   "species": [
     "Human"
   ],
+  "superName": "Comet Man",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Comet_Man"
   }
 }

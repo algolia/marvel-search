@@ -16,24 +16,20 @@
   "description": "Scorpio is the name of several fictional characters in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/5261a745e658d/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/NickFuryScorpioTPB.jpg/175px-NickFuryScorpioTPB.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Nick Fury",
+  "name": "Scorpio",
   "partners": [
   ],
   "powers": [
   ],
   "ranking": {
-    "comicCount": 279,
-    "eventCount": 10,
-    "pageviewCount": 156,
-    "pageviewRank": -1,
-    "serieCount": 123,
-    "storyCount": 275
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1199,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Jacob Fury",
@@ -43,14 +39,16 @@
   ],
   "species": [
   ],
+  "superName": "Scorpio",
   "teams": [
     "Great Wheel",
+    "HYDRA",
     "Hydra",
     "S.H.I.E.L.D",
     "Zodiac"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2782/nick_fury",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Scorpio_(comics)"
   }
 }

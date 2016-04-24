@@ -13,14 +13,11 @@
     "Roger Stern",
     "Tom DeFalco"
   ],
-  "description": "Dazzler (Alison Blaire) is a Marvel Comics superheroine, usually associated with the X-Men.",
+  "description": "Dazzler (Alison Blaire) is a fictional superheroine appearing in American comic books published by Marvel Comics, usually associated with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4fe364b0a2177/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/10/4fe364b0a2177/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Dazzler",
   "partners": [
@@ -35,8 +32,7 @@
   "ranking": {
     "comicCount": 157,
     "eventCount": 6,
-    "pageviewCount": 843,
-    "pageviewRank": 1746,
+    "pageviewCount": 6039,
     "serieCount": 51,
     "storyCount": 200
   },
@@ -47,6 +43,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Dazzler",
   "teams": [
     "A-Force",
     "Excalibur",

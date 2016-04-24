@@ -1,16 +1,17 @@
 {
   "aliases": [
+    "Rapido"
   ],
   "authors": [
     "Andy Lanning",
     "Dan Abnett",
     "Doug Braithwaite"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/RapidoPunisher.jpg/250px-RapidoPunisher.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Rapido",
   "partners": [
@@ -20,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 69,
-    "pageviewRank": -1,
+    "pageviewCount": 0,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,11 +29,13 @@
   ],
   "species": [
   ],
+  "superName": "Rapido",
   "teams": [
     "Batroc's Brigade",
     "French Foreign Legion"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Rapido_(comics)"
   }
 }

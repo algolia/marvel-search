@@ -10,11 +10,8 @@
   "description": "Silhouette Chord is a descendant of the Dragon's Breadth cult, which spent centuries trying to master the Well of All Things, a hidden interdimensional mystic energy breach in Cambodia.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/bc/Silhouetteani.png"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Silhouette",
   "partners": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 1,
-    "pageviewCount": 127,
-    "pageviewRank": -1,
+    "pageviewCount": 680,
     "serieCount": 2,
     "storyCount": 2
   },
@@ -41,6 +37,7 @@
   "species": [
     "Mutate"
   ],
+  "superName": "Silhouette",
   "teams": [
     "Civil War",
     "Concrete Dragons",

@@ -12,11 +12,8 @@
   "description": "Nighthawk is the name of several fictional characters that appear in publications published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c00391ba3a93/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Nighthawk",
   "partners": [
@@ -37,8 +34,7 @@
   "ranking": {
     "comicCount": 29,
     "eventCount": 1,
-    "pageviewCount": 1084,
-    "pageviewRank": -1,
+    "pageviewCount": 10346,
     "serieCount": 15,
     "storyCount": 30
   },
@@ -50,6 +46,7 @@
   ],
   "species": [
   ],
+  "superName": "Nighthawk",
   "teams": [
     "America Redeemers",
     "Defenders",

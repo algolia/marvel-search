@@ -12,11 +12,8 @@
   "description": "Sersi is a member of the Eternals, a species diverted from humanity by experiments conducted by the Celestials one million years ago.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/528d36c261af4/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/40/528d36c261af4/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sersi",
   "partners": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 26,
     "eventCount": 1,
-    "pageviewCount": 233,
-    "pageviewRank": -1,
+    "pageviewCount": 3280,
     "serieCount": 18,
     "storyCount": 26
   },
@@ -44,6 +40,7 @@
   "species": [
     "Eternal"
   ],
+  "superName": "Sersi",
   "teams": [
     "Avengers",
     "Eternals",

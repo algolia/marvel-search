@@ -1,14 +1,16 @@
 {
   "aliases": [
+    "Ogre"
   ],
   "authors": [
     "Roy Thomas",
     "Werner Roth"
   ],
+  "description": "Ogre is a fictional character of the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Ogre",
   "partners": [
@@ -19,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 50,
-    "pageviewRank": -1,
+    "pageviewCount": 321,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,11 +30,13 @@
   ],
   "species": [
   ],
+  "superName": "Ogre",
   "teams": [
     "Factor Three",
     "Thunderbolts"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ogre_(Marvel_Comics)"
   }
 }

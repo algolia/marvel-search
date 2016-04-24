@@ -9,11 +9,8 @@
   "description": "Romulus is a fictional comic book supervillain appearing in books published by Marvel Comics, in particular those featuring Wolverine.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4ce5a75b67009/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/70/4ce5a75b67009/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Romulus",
   "partners": [
@@ -32,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 275,
-    "pageviewRank": -1,
+    "pageviewCount": 1689,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,6 +38,7 @@
   "species": [
     "Lupus sapiens"
   ],
+  "superName": "Romulus",
   "teams": [
     "Weapon X"
   ],

@@ -8,14 +8,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Groot (also known as the Monarch of Planet X) is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
+  "description": "Groot (also known as the Monarch of Planet X) is a fictional superhero that appears in comic books published by Marvel Comics.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/c/d0/538cda86a8b5f.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/538caf3a6c767.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/526033c8b474a/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/538caf1975d39/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 9,
     "green": 36,
@@ -28,8 +25,6 @@
   "powers": [
     "Control trees",
     "Enhance his strength",
-    "Enhance strength",
-    "Genius-level intellect",
     "Rebuild self",
     "Regeneration",
     "Resistance to fire"
@@ -37,8 +32,7 @@
   "ranking": {
     "comicCount": 12,
     "eventCount": 1,
-    "pageviewCount": 1768,
-    "pageviewRank": -1,
+    "pageviewCount": 15343,
     "serieCount": 4,
     "storyCount": 12
   },
@@ -48,8 +42,10 @@
   "species": [
     "Flora colossus"
   ],
+  "superName": "Groot",
   "teams": [
     "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
     "Nick Fury's Howling Commandos",
     "S.H.I.E.L.D. Paranormal Containment Unit"
   ],

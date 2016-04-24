@@ -8,10 +8,9 @@
   ],
   "description": "Topaz is a fictional character, a sorceress in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/DeodatoTopaz.jpg/250px-DeodatoTopaz.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Topaz",
   "partners": [
@@ -28,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 59,
-    "pageviewRank": -1,
+    "pageviewCount": 652,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,9 +35,11 @@
   ],
   "species": [
   ],
+  "superName": "Topaz",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Topaz_(Marvel_Comics)"
   }
 }

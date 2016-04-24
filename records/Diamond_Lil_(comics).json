@@ -8,10 +8,9 @@
   ],
   "description": "Diamond Lil (Lillian Crawley-Jeffries) is a fictional mutant character created by writer and artist John Byrne for the ongoing comic book series Alpha Flight published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5e/XMN_DiamondLil.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Diamond Lil",
   "partners": [
@@ -21,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 70,
-    "pageviewRank": -1,
+    "pageviewCount": 649,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,6 +30,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Diamond Lil",
   "teams": [
     "Alpha Flight",
     "Gamma Flight",
@@ -39,6 +38,7 @@
     "The 198"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Diamond_Lil_(comics)"
   }
 }

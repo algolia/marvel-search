@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Adrienne Frost",
     "White Queen"
   ],
   "authors": [
@@ -10,23 +9,20 @@
   "description": "Adrienne Frost is a fictional supervillain appearing in American comic books published by Marvel Universe, commonly in association with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4b/Adriennefrost.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "White Queen (Adrienne Frost)",
+  "name": "Adrienne Frost",
   "partners": [
   ],
   "powers": [
-    "Psychometry"
+    "Psychometry",
+    "Psychometry (paranormal)"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 168,
-    "pageviewRank": -1,
+    "pageviewCount": 923,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,12 +31,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Adrienne Frost",
   "teams": [
     "Generation X",
     "Hellfire Club"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2556/white_queen",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Adrienne_Frost"
   }
 }

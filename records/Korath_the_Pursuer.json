@@ -8,10 +8,9 @@
   ],
   "description": "Korath the Pursuer is a fictional character in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1f/Korath_the_Pursuer.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Korath the Pursuer",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 512,
-    "pageviewRank": -1,
+    "pageviewCount": 4104,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,10 +34,12 @@
   "species": [
     "Kree"
   ],
+  "superName": "Korath the Pursuer",
   "teams": [
     "Starforce"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Korath_the_Pursuer"
   }
 }

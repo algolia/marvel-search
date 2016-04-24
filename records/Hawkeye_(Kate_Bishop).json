@@ -11,23 +11,16 @@
   ],
   "description": "Hawkeye (Katherine \"Kate\" Bishop) is a fictional character.",
   "images": {
-    "background": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/537badd4a6ba8.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/537badc422600.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/50fecaf4f101b/standard_xlarge.jpg"
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/537bad9caa831/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
-  "mainColor": {
-    "blue": 25,
-    "green": 11,
-    "hexa": "2A0B19",
-    "red": 42
-  },
-  "name": "Hawkeye",
+  "mainColor": null,
+  "name": "Hawkeye (Kate Bishop)",
   "partners": [
     "Hawkeye",
     "Hawkeye (Clint Barton)",
     "Marvel Boy",
+    "Noh-Varr",
     "Patriot",
     "Patriot (Eli Bradley)",
     "Speed"
@@ -45,12 +38,11 @@
     "Use of two battle staves"
   ],
   "ranking": {
-    "comicCount": 222,
-    "eventCount": 14,
-    "pageviewCount": 622,
-    "pageviewRank": -1,
-    "serieCount": 106,
-    "storyCount": 225
+    "comicCount": 10,
+    "eventCount": 3,
+    "pageviewCount": 5516,
+    "serieCount": 8,
+    "storyCount": 8
   },
   "secretIdentities": [
     "Kate",
@@ -59,11 +51,12 @@
   ],
   "species": [
   ],
+  "superName": "Hawkeye",
   "teams": [
     "Young Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/23/hawkeye",
+    "marvel": "http://marvel.com/characters/1010808/hawkeye_kate_bishop/featured",
     "wikipedia": "https://en.wikipedia.org/wiki/Hawkeye_(Kate_Bishop)"
   }
 }

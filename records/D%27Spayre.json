@@ -1,16 +1,17 @@
 {
   "aliases": [
+    "D'Spayre",
     "D'Spayre often masquerades as persons trusted by his victims"
   ],
   "authors": [
     "Chris Claremont",
     "John Byrne"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/36/Dspayreface.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "D'Spayre",
   "partners": [
@@ -21,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 140,
-    "pageviewRank": -1,
+    "pageviewCount": 971,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "D'Spayre",
   "teams": [
     "Fear Lords"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/D%27Spayre"
   }
 }

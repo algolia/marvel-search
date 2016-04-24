@@ -6,9 +6,9 @@
   ],
   "description": "Kiwi Black is a mutant from Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Kiwi Black",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 167,
-    "pageviewRank": -1,
+    "pageviewCount": 1111,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,11 +29,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Kiwi Black",
   "teams": [
     "Mutant",
     "Neyaphem"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Kiwi_Black"
   }
 }

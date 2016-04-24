@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Fury",
     "The Fury"
   ],
   "authors": [
@@ -10,13 +9,10 @@
   "description": "The Fury is a fictional android character appearing in comic books published by Marvel Comics, as an adversary of Captain Britain and the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c002f0d934b6/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Lindamcquillen_.jpg/250px-Lindamcquillen_.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "The Fury",
+  "name": "Fury",
   "partners": [
     "Mad Jim Jaspers"
   ],
@@ -27,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 86,
-    "pageviewRank": -1,
+    "pageviewCount": 874,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,10 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "Fury",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2329/the_fury",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Fury_(Marvel_Comics)"
   }
 }

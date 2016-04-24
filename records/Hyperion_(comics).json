@@ -5,20 +5,16 @@
     "Mr. Kant"
   ],
   "authors": [
-    "John Buscema",
     "Roy Thomas",
     "Sal Buscema"
   ],
   "description": "Hyperion is a fictional character that appears in publications published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Hyperionmarvel.png/250px-Hyperionmarvel.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Hyperion (Earth-712)",
+  "name": "Hyperion",
   "partners": [
   ],
   "powers": [
@@ -32,17 +28,17 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 32,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1218,
-    "pageviewRank": -1,
-    "serieCount": 20,
-    "storyCount": 30
+    "pageviewCount": 10121,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Hyperion",
   "teams": [
     "Avengers",
     "Squadron Sinister",
@@ -50,7 +46,7 @@
     "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1007/hyperion",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hyperion_(comics)"
   }
 }

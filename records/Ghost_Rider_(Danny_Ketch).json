@@ -9,16 +9,13 @@
     "Howard Mackie",
     "Javier Saltares"
   ],
-  "description": "Ghost Rider (Daniel \"Danny\" Ketch) is a comic book character, a supernatural superhero in Marvel Comics' main shared universe.",
+  "description": "Ghost Rider (Daniel \"Danny\" Ketch) is a fictional comic book character, a supernatural superhero in Marvel Comics' main shared universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/535feaa671cc6/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Ghost Rider (Daniel Ketch)",
+  "name": "Ghost Rider (Danny Ketch)",
   "partners": [
   ],
   "powers": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 13,
     "eventCount": 2,
-    "pageviewCount": 341,
-    "pageviewRank": -1,
+    "pageviewCount": 2273,
     "serieCount": 5,
     "storyCount": 11
   },
@@ -44,6 +40,7 @@
   ],
   "species": [
   ],
+  "superName": "Ghost Rider",
   "teams": [
     "Defenders",
     "Midnight Sons",
@@ -51,7 +48,7 @@
     "Secret Defenders"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1010925/ghost_rider_daniel_ketch",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ghost_Rider_(Danny_Ketch)"
   }
 }

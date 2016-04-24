@@ -1,17 +1,13 @@
 {
   "aliases": [
-    "Randall Flagg"
   ],
   "authors": [
   ],
   "description": "Randall Flagg is a fictional character created by Stephen King.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4ce5a67201a4e/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/d0/4ce5a67201a4e/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Randall Flagg",
   "partners": [
@@ -21,8 +17,7 @@
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 1268,
-    "pageviewRank": -1,
+    "pageviewCount": 10677,
     "serieCount": 1,
     "storyCount": 1
   },
@@ -31,6 +26,7 @@
   "species": [
     "Quasi-immortal wizard"
   ],
+  "superName": "Randall Flagg",
   "teams": [
   ],
   "urls": {

@@ -8,9 +8,9 @@
   ],
   "description": "Sirocco is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sirocco",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 20,
-    "pageviewRank": -1,
+    "pageviewCount": 149,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,10 +29,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Sirocco",
   "teams": [
     "Desert Sword"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sirocco_(comics)"
   }
 }

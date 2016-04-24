@@ -14,13 +14,10 @@
   "description": "Xorn, whose mutation manifested as a tiny, powerful star inside his head, was brainwashed into believing he was the reincarnation of Magneto.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/4c00394059727/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Xorn (Kuan-Yin Xorn)",
+  "name": "Xorn",
   "partners": [
   ],
   "powers": [
@@ -36,8 +33,7 @@
   "ranking": {
     "comicCount": 19,
     "eventCount": 0,
-    "pageviewCount": 395,
-    "pageviewRank": -1,
+    "pageviewCount": 3284,
     "serieCount": 10,
     "storyCount": 24
   },
@@ -48,6 +44,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Xorn",
   "teams": [
     "Brotherhood of Mutants",
     "X-Mansion",

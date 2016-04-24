@@ -5,16 +5,13 @@
   "authors": [
     "Al Avison"
   ],
-  "description": "Stanley Stewart is a native of the alternate Earth (Earth-S) on which the organization of the superhuman champions known as the Squadron Supreme arose.",
+  "description": "The Whizzer is a fictional character, a superhero in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/TheWhizzer.jpg/230px-TheWhizzer.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Whizzer (Stanley Stewart)",
+  "name": "Whizzer (Robert Frank)",
   "partners": [
   ],
   "powers": [
@@ -22,18 +19,18 @@
     "Superhuman speed"
   ],
   "ranking": {
-    "comicCount": 2,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 276,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 2
+    "pageviewCount": 2086,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Robert L. Frank"
   ],
   "species": [
   ],
+  "superName": "Whizzer",
   "teams": [
     "All-Winners Squad",
     "Avengers",
@@ -41,7 +38,7 @@
     "Liberty Legion"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2561/whizzer",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Whizzer_(Robert_Frank)"
   }
 }

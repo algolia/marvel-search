@@ -12,39 +12,32 @@
   "description": "Jason Philip Macendale, Jr. is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Webofspiderman93panel.jpg/250px-Webofspiderman93panel.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Hobgoblin (Jason Macendale)",
+  "name": "Jason Macendale",
   "partners": [
-    "Gaunt",
-    "Mendel Stromm"
+    "Bob",
+    "Gaunt"
   ],
   "powers": [
     "Agility",
     "Cybernetic",
     "Cybernetic implants",
-    "Goblin paraphernalia",
     "Hellfire powers",
     "Implants",
     "Kraven",
     "Martial artist",
     "Paraphernalia",
     "Physicists",
-    "Physics",
     "Speed",
     "Spy",
-    "Superhuman strength",
-    "Various weapons"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 168,
-    "pageviewRank": -1,
+    "pageviewCount": 1316,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -55,11 +48,12 @@
   ],
   "species": [
   ],
+  "superName": "Jason Macendale",
   "teams": [
     "Sinister Six"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/965/hobgoblin",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jason_Macendale"
   }
 }

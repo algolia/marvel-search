@@ -22,11 +22,8 @@
   "description": "As the Norse God of thunder and lightning, Thor wields one of the greatest weapons ever made, the enchanted hammer Mjolnir. While others have described Thor as an over-muscled, oafish imbecile, he's quite smart and compassionate.  He's self-assured, and he would never, ever stop fighting for a worthwhile cause.",
   "images": {
     "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/universe3zx/images/e/e3/DragynWulf--Thor(Odinson).jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Thor",
   "partners": [
@@ -39,16 +36,13 @@
     "Longevity",
     "Mjolnir",
     "Speed",
-    "Strength",
-    "Superhuman durability",
     "Superhuman strength",
     "Weather manipulation"
   ],
   "ranking": {
     "comicCount": 1247,
     "eventCount": 21,
-    "pageviewCount": 3972,
-    "pageviewRank": 5671,
+    "pageviewCount": 32216,
     "serieCount": 303,
     "storyCount": 1961
   },
@@ -58,8 +52,8 @@
   "species": [
     "Asgardian"
   ],
+  "superName": "Thor",
   "teams": [
-    "Asgard",
     "Avengers",
     "Avengers Unity Squad",
     "God Squad",

@@ -1,13 +1,15 @@
 {
   "aliases": [
+    "Lei Kung",
     "Lei Kung the Thunderer"
   ],
   "authors": [
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Lei Kung",
   "partners": [
@@ -18,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 84,
-    "pageviewRank": -1,
+    "pageviewCount": 1170,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -28,9 +29,11 @@
   ],
   "species": [
   ],
+  "superName": "Lei Kung",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Lei_Kung_(comics)"
   }
 }

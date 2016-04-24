@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Crime Master",
     "Crime Master I",
     "Crime Master II",
     "Crime-Master"
@@ -15,9 +14,9 @@
   ],
   "description": "The Crime Master is a Marvel Comics super-villain, of the professional-criminal type, and an enemy of Spider-Man.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Crime Master",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 79,
-    "pageviewRank": -1,
+    "pageviewCount": 612,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,10 +39,12 @@
   ],
   "species": [
   ],
+  "superName": "Crime Master",
   "teams": [
     "Savage Six"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Crime_Master"
   }
 }

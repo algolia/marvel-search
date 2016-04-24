@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Dr. Karl Malus",
-    "Karl Malus"
+    "Dr. Karl Malus"
   ],
   "authors": [
     "Jim Mooney",
@@ -10,11 +9,11 @@
   ],
   "description": "Dr. Karl Malus is a fictional mad scientist and criminal in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Dr. Karl Malus",
+  "name": "Karl Malus",
   "partners": [
   ],
   "powers": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 123,
-    "pageviewRank": -1,
+    "pageviewCount": 1140,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,10 +35,12 @@
   "species": [
     "Human"
   ],
+  "superName": "Karl Malus",
   "teams": [
     "Corporation"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Karl_Malus"
   }
 }

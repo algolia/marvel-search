@@ -1,19 +1,16 @@
 {
   "aliases": [
-    "The Fifth Light",
     "Zero"
   ],
   "authors": [
-    "Kieron Gillen",
     "Louise Simonson",
-    "Matt Fraction",
     "Rob Liefeld"
   ],
-  "description": "Zero (Kenji Uedo) is a fictional comic book superhero appearing in books published by Marvel Comics.",
+  "description": "Zero is the name of several characters in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Zero",
   "partners": [
@@ -23,34 +20,29 @@
     "Computerized intelligence",
     "Energy damping",
     "Enhanced strength",
-    "Manipulation",
     "Neutralize them",
     "Scan for bio-mechanical",
-    "Techno-organic creation",
     "Technological weapons"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 141,
-    "pageviewRank": -1,
+    "pageviewCount": 859,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "ADAM unit Zero",
-    "Kenji Uedo"
+    "ADAM unit Zero"
   ],
   "species": [
-    "Mutant"
   ],
+  "superName": "Zero",
   "teams": [
-    "Hope Summers",
     "Mutant Liberation Front",
-    "New Canaanites",
-    "X-Men"
+    "New Canaanites"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Zero_(Marvel_Comics)"
   }
 }

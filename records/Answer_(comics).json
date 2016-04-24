@@ -9,9 +9,9 @@
   ],
   "description": "The Answer is the name of three fictional comic book characters, owned by Marvel Comics and appearing in that company's Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Answer",
   "partners": [
@@ -25,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 65,
-    "pageviewRank": -1,
+    "pageviewCount": 586,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,13 +36,16 @@
   "species": [
     "Human Mutate"
   ],
+  "superName": "Answer",
   "teams": [
     "Furnace",
+    "HYDRA",
     "Hydra",
     "S.H.I.E.L.D",
     "United States Army"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Answer_(comics)"
   }
 }

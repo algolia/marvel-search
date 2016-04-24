@@ -16,9 +16,9 @@
   ],
   "description": "The Grasshopper is the name of multiple humorous Marvel Comics superheroes, all created by Dan Slott.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Grasshopper",
   "partners": [
@@ -32,8 +32,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 91,
-    "pageviewRank": -1,
+    "pageviewCount": 742,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -45,12 +44,14 @@
     "Human",
     "Skrull"
   ],
+  "superName": "Grasshopper",
   "teams": [
     "Great Lakes Avengers",
     "Roxxon Corporation",
     "Roxxon Energy Corporation"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Grasshopper_(comics)"
   }
 }

@@ -10,36 +10,35 @@
   ],
   "description": "Professor Power (Anthony Power) is a fictional character in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/44/Professor_power_-_nomad_girl_without_a_world_03.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "The Professor",
+  "name": "Professor Power",
   "partners": [
   ],
   "powers": [
   ],
   "ranking": {
-    "comicCount": 6,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 67,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 5
+    "pageviewCount": 252,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Anthony Power"
   ],
   "species": [
   ],
+  "superName": "Professor Power",
   "teams": [
     "Mutant Force",
     "Resistants",
     "Secret Empire"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1807/professor",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Professor_Power"
   }
 }

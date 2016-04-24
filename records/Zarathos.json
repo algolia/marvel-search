@@ -11,13 +11,10 @@
   "description": "Zarathos is a fictional character appearing in books published by Marvel Comics, usually as a villain in stories featuring the character Ghost Rider.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/535feaa671cc6/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/52_1_b-1-.jpg/240px-52_1_b-1-.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Ghost Rider (Daniel Ketch)",
+  "name": "Zarathos",
   "partners": [
     "Lilith",
     "Mephisto"
@@ -34,22 +31,22 @@
     "Virtual immortality"
   ],
   "ranking": {
-    "comicCount": 13,
-    "eventCount": 2,
-    "pageviewCount": 324,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 11
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2681,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Zarathos"
   ],
   "species": [
   ],
+  "superName": "Zarathos",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1010925/ghost_rider_daniel_ketch",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Zarathos"
   }
 }

@@ -10,11 +10,8 @@
   "description": "A scientist at Beemont Manufacturing, Jalome Beacher created a chemical that could be used to coat a surface and thereby eliminate all friction between it and any other object, which he used, after being downsized, to rob banks and his former employers.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/4c0035a51844b/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Slyde",
   "partners": [
@@ -25,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 63,
-    "pageviewRank": -1,
+    "pageviewCount": 494,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,6 +31,7 @@
   ],
   "species": [
   ],
+  "superName": "Slyde",
   "teams": [
     "Masters of Evil",
     "Thunderbolts"

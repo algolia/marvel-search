@@ -12,31 +12,28 @@
   "description": "Steven Lang (sometimes spelled Stephen Lang) is a fictional character, a supervillain in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/XMN_StevenLang.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Master Mold",
+  "name": "Steven Lang",
   "partners": [
   ],
   "powers": [
     "Cybernetic organism"
   ],
   "ranking": {
-    "comicCount": 8,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 88,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 6
+    "pageviewCount": 829,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Steven Lang"
   ],
   "species": [
   ],
+  "superName": "Steven Lang",
   "teams": [
     "Armageddon",
     "Department of Defense",
@@ -45,7 +42,7 @@
     "Purifiers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2731/master_mold",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Steven_Lang_(comics)"
   }
 }

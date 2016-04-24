@@ -10,13 +10,10 @@
   "description": "Amphibian is the name of two different fictional characters that have appeared in publications from Marvel Comics.The first Amphibian debuted as a member of the team of superheroes called the Squadron Supreme in Avengers (vol. 1) #148 (June 1976).",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Amphibiansqsup001.jpg/125px-Amphibiansqsup001.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Amphibian (Earth-712)",
+  "name": "Amphibian",
   "partners": [
   ],
   "powers": [
@@ -26,12 +23,11 @@
     "Telepathy"
   ],
   "ranking": {
-    "comicCount": 3,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 96,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 2
+    "pageviewCount": 818,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Kingsley Rice",
@@ -40,13 +36,14 @@
   ],
   "species": [
   ],
+  "superName": "Amphibian",
   "teams": [
     "Squadron Supreme",
     "Squadron Supreme of Earth-31916",
     "Squadron Supreme of Earth-712"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/137/amphibian",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Amphibian_(comics)"
   }
 }

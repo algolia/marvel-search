@@ -1,41 +1,40 @@
 {
   "aliases": [
+    "Vertigo"
   ],
   "authors": [
     "George Pérez",
     "Len Wein"
   ],
-  "description": "Vertigo was a native of the Savage Land and mutated by the mutant known as Magneto, granting her the power to alter the perceptions of others.",
+  "description": null,
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
-  "name": "Vertigo (Savage Land Mutate)",
+  "name": "Vertigo (Salem's Seven)",
   "partners": [
   ],
   "powers": [
   ],
   "ranking": {
-    "comicCount": 23,
-    "eventCount": 2,
-    "pageviewCount": 7,
-    "pageviewRank": -1,
-    "serieCount": 11,
-    "storyCount": 21
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 76,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Vertigo",
   "teams": [
     "Frightful Four",
     "Salem's Seven"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2483/vertigo",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Vertigo_(Salem%27s_Seven)"
   }
 }

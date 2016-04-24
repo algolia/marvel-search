@@ -11,11 +11,8 @@
   "description": "The long-standing Black Queen of the Hellfire Club's Inner Circle, Selene Gallio professes to have lived for several millennia, and to have been a foe of the ancient sorcerer, Kulan Gath.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c003c337aff5/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/d0/4c003c337aff5/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Selene",
   "partners": [
@@ -37,8 +34,7 @@
   "ranking": {
     "comicCount": 18,
     "eventCount": 1,
-    "pageviewCount": 1312,
-    "pageviewRank": -1,
+    "pageviewCount": 19228,
     "serieCount": 8,
     "storyCount": 16
   },
@@ -48,6 +44,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Selene",
   "teams": [
     "Brotherhood of Mutants",
     "Externals",

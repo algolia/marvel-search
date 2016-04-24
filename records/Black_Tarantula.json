@@ -9,11 +9,8 @@
   "description": "Black Tarantula is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0038dfc1270/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/a0/4c0038dfc1270/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Black Tarantula",
   "partners": [
@@ -23,8 +20,6 @@
     "Durability",
     "Genius-level intelligence",
     "Healing factor",
-    "Reactions",
-    "Reflexes",
     "Reflexes/reactions",
     "Skilled martial artist",
     "Speed",
@@ -33,8 +28,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 0,
-    "pageviewCount": 177,
-    "pageviewRank": -1,
+    "pageviewCount": 1501,
     "serieCount": 2,
     "storyCount": 1
   },
@@ -43,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Black Tarantula",
   "teams": [
     "The Hand"
   ],

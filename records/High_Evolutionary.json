@@ -10,11 +10,8 @@
   "description": "The High Evolutionary is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5269583a77bd3/standard_xlarge.jpg"
+    "thumbnail": "https://i.annihil.us/u/prod/marvel/i/mg/3/f0/5269583a77bd3/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "High Evolutionary",
   "partners": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 24,
     "eventCount": 2,
-    "pageviewCount": 626,
-    "pageviewRank": -1,
+    "pageviewCount": 6464,
     "serieCount": 18,
     "storyCount": 24
   },
@@ -39,12 +35,13 @@
   ],
   "species": [
   ],
+  "superName": "High Evolutionary",
   "teams": [
     "New Men",
     "New Men/Knights of Wundagore"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1011300/high_evolutionary",
+    "marvel": "http://marvel.com/characters/2936/high_evolutionary",
     "wikipedia": "https://en.wikipedia.org/wiki/High_Evolutionary"
   }
 }

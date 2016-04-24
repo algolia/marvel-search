@@ -10,9 +10,9 @@
   ],
   "description": "Solarman was a superhero that ran briefly in his own 1989 title from Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Solarman",
   "partners": [
@@ -28,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 79,
-    "pageviewRank": -1,
+    "pageviewCount": 683,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,9 +37,11 @@
   ],
   "species": [
   ],
+  "superName": "Solarman",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Solarman"
   }
 }

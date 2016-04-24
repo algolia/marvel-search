@@ -8,9 +8,9 @@
   ],
   "description": "Manikin (Whitman Knapp) is a fictional mutant character featured in the publications of Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Manikin",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 24,
-    "pageviewRank": -1,
+    "pageviewCount": 212,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,11 +30,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Manikin",
   "teams": [
     "Alpha Flight",
     "Beta Flight"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Manikin_(comics)"
   }
 }

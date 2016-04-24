@@ -8,11 +8,11 @@
     "Kieron Dwyer",
     "Mark Gruenwald"
   ],
-  "description": "Rock Python (M'Gula) is a fictional super villain in the Marvel Comics Universe, and is a member of the Serpent Society.",
+  "description": "Rock Python (M'Gula) is a fictional character, a supervillain in the Marvel Comics Universe, and is a member of the Serpent Society.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Rock Python",
   "partners": [
@@ -21,14 +21,12 @@
     "Muscles",
     "Resistance to injury",
     "Rock-hard bones",
-    "Rock-hard skin",
     "Skin"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 55,
-    "pageviewRank": -1,
+    "pageviewCount": 448,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,10 +36,12 @@
   "species": [
     "Human Mutant or Mutate"
   ],
+  "superName": "Rock Python",
   "teams": [
     "Serpent Society"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Rock_Python"
   }
 }

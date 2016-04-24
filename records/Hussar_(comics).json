@@ -9,11 +9,8 @@
   "description": "Hussar is a fictional character in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c003ec700983/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/e0/4c003ec700983/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hussar",
   "partners": [
@@ -24,8 +21,7 @@
   "ranking": {
     "comicCount": 8,
     "eventCount": 1,
-    "pageviewCount": 36,
-    "pageviewRank": -1,
+    "pageviewCount": 296,
     "serieCount": 5,
     "storyCount": 5
   },
@@ -33,6 +29,7 @@
   ],
   "species": [
   ],
+  "superName": "Hussar",
   "teams": [
     "Imperial Guard"
   ],

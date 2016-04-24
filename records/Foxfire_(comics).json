@@ -8,9 +8,9 @@
   ],
   "description": "Foxfire is a fictional character from Marvel Comics' original Squadron Supreme series.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Foxfire",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 42,
-    "pageviewRank": -1,
+    "pageviewCount": 322,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,6 +29,7 @@
   ],
   "species": [
   ],
+  "superName": "Foxfire",
   "teams": [
     "America Redeemers",
     "Institute of Evil",
@@ -37,6 +37,7 @@
     "Squadron Supreme"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Foxfire_(comics)"
   }
 }

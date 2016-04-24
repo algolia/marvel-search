@@ -8,9 +8,9 @@
   ],
   "description": "Shepard (Francis Leighton) is a mutant villain in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Shepard",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 13,
-    "pageviewRank": -1,
+    "pageviewCount": 98,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,10 +30,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Shepard",
   "teams": [
     "X-Corporation"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Shepard_(comics)"
   }
 }

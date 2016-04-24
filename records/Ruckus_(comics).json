@@ -8,10 +8,9 @@
   ],
   "description": "Ruckus (Clement Wilson) is a fictional mutant super villain in the Marvel Comics universe and flamboyant leader of the Nasty Boys.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/RuckusXFactor.jpg/270px-RuckusXFactor.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ruckus",
   "partners": [
@@ -21,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 40,
-    "pageviewRank": -1,
+    "pageviewCount": 324,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +30,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Ruckus",
   "teams": [
     "Nasty Boys"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ruckus_(comics)"
   }
 }

@@ -11,36 +11,33 @@
   "description": "Hauptmann Deutschland (German for Captain Germany), also known as Vormund, is a fictional character in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4dd531d26079c/standard_xlarge.jpg"
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Guardian",
+  "name": "Hauptmann Deutschland",
   "partners": [
   ],
   "powers": [
     "Redirect kinetic energy"
   ],
   "ranking": {
-    "comicCount": 30,
-    "eventCount": 1,
-    "pageviewCount": 60,
-    "pageviewRank": -1,
-    "serieCount": 16,
-    "storyCount": 27
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 467,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Markus Ettlinger"
   ],
   "species": [
   ],
+  "superName": "Hauptmann Deutschland",
   "teams": [
     "Schutz Heiliggruppe"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/868/guardian",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hauptmann_Deutschland"
   }
 }

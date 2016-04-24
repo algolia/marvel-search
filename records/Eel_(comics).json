@@ -14,10 +14,9 @@
   ],
   "description": "The Eel is an alias used by two fictional characters in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Serpent_Squad.jpg/250px-Serpent_Squad.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Eel",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 87,
-    "pageviewRank": -1,
+    "pageviewCount": 672,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,6 +38,7 @@
   ],
   "species": [
   ],
+  "superName": "Eel",
   "teams": [
     "Emissaries of Evil",
     "Enforcers",
@@ -51,6 +50,7 @@
     "Thunderbolts"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Eel_(comics)"
   }
 }

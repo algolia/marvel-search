@@ -8,10 +8,9 @@
   ],
   "description": "Surtur is a fictional demon that appears in comic books published by Marvel Comics, usually as a villain in stories featuring the Norse hero Thor.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Thorvs.Surtur.jpg/249px-Thorvs.Surtur.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Surtur",
   "partners": [
@@ -20,32 +19,18 @@
     "Ymir"
   ],
   "powers": [
-    "Durability",
     "Endurance",
     "Fire",
-    "Flame",
-    "Great intellect",
     "Heat manipulation",
-    "Immense magical power",
-    "Immortality",
-    "Intense heat",
-    "Inter-dimensional travel",
-    "Levitation",
     "Longevity",
     "Magic",
     "Molecular manipulation",
-    "Prehensile tail",
-    "Skilled warrior",
-    "Superhuman strength",
-    "Sword of doom",
-    "Swordsman",
-    "Wields twilight"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 390,
-    "pageviewRank": -1,
+    "pageviewCount": 3351,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -54,9 +39,11 @@
   ],
   "species": [
   ],
+  "superName": "Surtur",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Surtur_(Marvel_Comics)"
   }
 }

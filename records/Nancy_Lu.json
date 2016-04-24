@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Nancy Lu",
     "Push"
   ],
   "authors": [
@@ -9,12 +8,11 @@
   ],
   "description": "Push (Nancy Lu) is a fictional character who appears in the Marvel Comics's MC2 series Spider-Girl.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Push.PNG/225px-Push.PNG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Push",
+  "name": "Nancy Lu",
   "partners": [
   ],
   "powers": [
@@ -25,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 19,
-    "pageviewRank": -1,
+    "pageviewCount": 184,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,10 +33,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Nancy Lu",
   "teams": [
     "X-People"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Lu"
   }
 }

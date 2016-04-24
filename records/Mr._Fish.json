@@ -10,11 +10,8 @@
   "description": "Mr. Fish is the name of two Marvel Comics supervillains.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Power029a.jpg/170px-Power029a.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mr. Fish",
   "partners": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 47,
-    "pageviewRank": -1,
+    "pageviewCount": 466,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,12 +33,13 @@
   ],
   "species": [
   ],
+  "superName": "Mr. Fish",
   "teams": [
     "Flashmob",
     "Maggia"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1525/mr_fish",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mr._Fish"
   }
 }

@@ -1,7 +1,6 @@
 {
   "aliases": [
     "Eugene Colorito",
-    "Frog-Man",
     "Frog-Man Jr.",
     "Frogicus Mega-Foolicus",
     "Kermit",
@@ -15,11 +14,8 @@
   "description": "Frog-Man (Eugene Patilio) is a minor comedic superhero created by writer J. M.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4def9bf15ce30/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/60/4def9bf15ce30/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Frog-Man",
   "partners": [
@@ -29,8 +25,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 1,
-    "pageviewCount": 73,
-    "pageviewRank": -1,
+    "pageviewCount": 569,
     "serieCount": 2,
     "storyCount": 3
   },
@@ -40,6 +35,7 @@
   "species": [
     "Human"
   ],
+  "superName": "Frog-Man",
   "teams": [
     "Action Pack",
     "Misfits"

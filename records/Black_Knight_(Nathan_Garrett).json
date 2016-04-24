@@ -9,17 +9,13 @@
   "description": "Nathan Garrett, also known as the criminal Black Knight, is a fictional character in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59ed1590a7/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tales_of_Suspense_73.jpg/250px-Tales_of_Suspense_73.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Black Knight (Sir Percy of Scandia)",
+  "name": "Black Knight (Nathan Garrett)",
   "partners": [
   ],
   "powers": [
-    "Advanced weaponry",
     "Brilliant biologist",
     "Equestrian",
     "Genius geneticist",
@@ -29,24 +25,24 @@
     "Wears body armor"
   ],
   "ranking": {
-    "comicCount": 96,
-    "eventCount": 3,
-    "pageviewCount": 93,
-    "pageviewRank": -1,
-    "serieCount": 54,
-    "storyCount": 90
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 926,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Nathan Garrett"
   ],
   "species": [
   ],
+  "superName": "Black Knight",
   "teams": [
     "Legion of the Unliving",
     "Masters of Evil"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/275/black_knight",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Knight_(Nathan_Garrett)"
   }
 }

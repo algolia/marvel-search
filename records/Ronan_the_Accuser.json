@@ -9,27 +9,18 @@
   ],
   "description": "Ronan the Accuser is a fictional character that appears in American comic books published by Marvel Comics, as well as in a number of licensed movie, television, and video game adaptations.",
   "images": {
-    "background": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/537bcf02888aa.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/537bcef223ec2.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5260363fc40f2/standard_xlarge.jpg"
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/80/RonantheAccuser.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
-  "mainColor": {
-    "blue": 40,
-    "green": 38,
-    "hexa": "0D2628",
-    "red": 13
-  },
-  "name": "Ronan",
+  "mainColor": null,
+  "name": "Ronan the Accuser",
   "partners": [
   ],
   "powers": [
     "Cosmic energy projection",
-    "Cybernetic armor",
     "Endurance",
     "Energy absorption",
-    "Energy projection",
+    "Enhance endurance",
     "Flight",
     "Force field generation",
     "Invisible field creation",
@@ -38,16 +29,15 @@
     "Reflexes",
     "Speed",
     "Strength",
-    "Superhuman",
-    "Superhuman strength"
+    "Super-human strength",
+    "Superhuman"
   ],
   "ranking": {
-    "comicCount": 21,
-    "eventCount": 3,
-    "pageviewCount": 1845,
-    "pageviewRank": -1,
-    "serieCount": 10,
-    "storyCount": 23
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 16985,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Ronan"
@@ -55,6 +45,7 @@
   "species": [
     "Kree"
   ],
+  "superName": "Ronan the Accuser",
   "teams": [
     "Annihilation",
     "Annihilators",
@@ -64,7 +55,7 @@
     "United Front"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1010344/ronan",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ronan_the_Accuser"
   }
 }

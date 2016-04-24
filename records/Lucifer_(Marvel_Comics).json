@@ -11,9 +11,9 @@
   ],
   "description": "Lucifer is the name of two unrelated comic book characters from Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Lucifer",
   "partners": [
@@ -28,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 207,
-    "pageviewRank": -1,
+    "pageviewCount": 1250,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,9 +36,11 @@
   ],
   "species": [
   ],
+  "superName": "Lucifer",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Lucifer_(Marvel_Comics)"
   }
 }

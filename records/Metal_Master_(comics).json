@@ -9,23 +9,18 @@
   "description": "Metal Master is a fictional character in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/55/Metal_Master_63.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Metal Master",
   "partners": [
   ],
   "powers": [
-    "Atom"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 28,
-    "pageviewRank": -1,
+    "pageviewCount": 230,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +29,11 @@
   ],
   "species": [
   ],
+  "superName": "Metal Master",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2733/metal_master",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Metal_Master_(comics)"
   }
 }

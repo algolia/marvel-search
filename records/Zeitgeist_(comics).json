@@ -8,9 +8,9 @@
   ],
   "description": "Zeitgeist (Axel Cluney) is a fictional mutant character and superhero in the Marvel Comics Universe, a member of the second team of X-Force.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Zeitgeist",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 39,
-    "pageviewRank": -1,
+    "pageviewCount": 484,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +31,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Zeitgeist",
   "teams": [
     "X-Force"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Zeitgeist_(comics)"
   }
 }

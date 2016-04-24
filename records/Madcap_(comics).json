@@ -7,12 +7,11 @@
     "Mark Gruenwald",
     "Paul Neary"
   ],
-  "description": "Madcap is a fictional character in Marvel Comics.",
+  "description": "Madcap is a fictional supervillain appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Madcap_Roland_Boschi.jpg/250px-Madcap_Roland_Boschi.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Madcap",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 626,
-    "pageviewRank": -1,
+    "pageviewCount": 3297,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,6 +32,7 @@
   ],
   "species": [
   ],
+  "superName": "Madcap",
   "teams": [
     "Ghost Rider Assassination League",
     "Masters of Evil",
@@ -42,6 +41,7 @@
     "Wild Pack"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Madcap_(comics)"
   }
 }

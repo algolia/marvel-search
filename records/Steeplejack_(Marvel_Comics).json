@@ -1,7 +1,6 @@
 {
   "aliases": [
     "Steeplejack",
-    "Steeplejack I",
     "Steeplejack II"
   ],
   "authors": [
@@ -12,20 +11,22 @@
   ],
   "description": "Steeplejack is the name of two fictional characters in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Steeplejack",
   "partners": [
   ],
   "powers": [
+    "A wire slipknot",
+    "Energy blasts",
+    "Heat/light"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 29,
-    "pageviewRank": -1,
+    "pageviewCount": 283,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +35,13 @@
     "Maxwell Plumm"
   ],
   "species": [
+    "Human"
   ],
+  "superName": "Steeplejack",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Steeplejack_(Marvel_Comics)"
   }
 }

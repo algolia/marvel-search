@@ -9,10 +9,9 @@
   ],
   "description": "The Needle is a comic book character.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Spider_Woman_1978_Issue_9.jpg/250px-Spider_Woman_1978_Issue_9.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Needle",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 26,
-    "pageviewRank": -1,
+    "pageviewCount": 170,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,10 +33,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Needle",
   "teams": [
     "Night Shift"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Needle_(comics)"
   }
 }

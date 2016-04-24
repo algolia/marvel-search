@@ -8,16 +8,13 @@
     "Bill Sienkiewicz",
     "Chris Claremont"
   ],
-  "description": "College design student Janie Chin was transformed by Adam Warlock into a female version of him, who then tried to cure the planet.",
+  "description": "Warlock is a cybernetic extraterrestrial superhero published by Marvel Comics who first appeared in New Mutants #18 (August 1984).",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Technarchy.jpg/250px-Technarchy.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Warlock (Janie Chin)",
+  "name": "Warlock (New Mutants)",
   "partners": [
   ],
   "powers": [
@@ -28,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 388,
-    "pageviewRank": -1,
+    "pageviewCount": 2903,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,6 +35,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Warlock",
   "teams": [
     "Excalibur",
     "Fallen Angels",
@@ -47,7 +44,7 @@
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2526/warlock",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Warlock_(New_Mutants)"
   }
 }

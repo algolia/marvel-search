@@ -10,12 +10,10 @@
   "description": "Plague was a fictional character in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Pestilence",
+  "name": "Plague",
   "partners": [
   ],
   "powers": [
@@ -23,12 +21,11 @@
     "Adapt to"
   ],
   "ranking": {
-    "comicCount": 9,
-    "eventCount": 1,
-    "pageviewCount": 180,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 11
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3905,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "unrevealed"
@@ -36,12 +33,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Plague",
   "teams": [
     "Horsemen of Apocalypse",
     "Morlocks"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1725/pestilence",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Plague_(comics)"
   }
 }

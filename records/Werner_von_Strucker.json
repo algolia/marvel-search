@@ -7,9 +7,9 @@
   ],
   "description": "Werner von Strucker is a fictional character in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Werner von Strucker",
   "partners": [
@@ -19,8 +19,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 420,
-    "pageviewRank": -1,
+    "pageviewCount": 2709,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,10 +28,12 @@
   ],
   "species": [
   ],
+  "superName": "Werner von Strucker",
   "teams": [
     "Hydra"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Werner_von_Strucker"
   }
 }

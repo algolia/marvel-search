@@ -8,10 +8,9 @@
   ],
   "description": "The Living Brain is a fictional comic book character and robot in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0b/LivingBrainOriginal.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Living Brain",
   "partners": [
@@ -21,26 +20,26 @@
     "Flight",
     "Process",
     "Speed",
-    "Super-strength",
     "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 73,
-    "pageviewRank": -1,
+    "pageviewCount": 662,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Living Brain"
   ],
   "species": [
   ],
+  "superName": "Living Brain",
   "teams": [
-    "Parker Industries"
+    "Parker Industries",
+    "Sinister Six"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Living_Brain"
   }
 }

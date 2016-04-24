@@ -5,15 +5,15 @@
     "The Third Light"
   ],
   "authors": [
+    "Joseph Effiom Livingstone",
     "Kieron Gillen",
     "Matt Fraction"
   ],
-  "description": "Oya (Idie Okonkwo) is a fictional comic book superhero appearing in books published by Marvel Comics.",
+  "description": "Oya (Idie Okokon) is a fictional comic book superhero appearing in books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b5/XMEN_Oya.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Oya",
   "partners": [
@@ -24,17 +24,16 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 142,
-    "pageviewRank": -1,
+    "pageviewCount": 1455,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Idie Okonkwo"
   ],
   "species": [
     "Mutant"
   ],
+  "superName": "Oya",
   "teams": [
     "Hellfire Academy",
     "Hellfire Club",
@@ -44,6 +43,7 @@
     "X-Men"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Oya_(comics)"
   }
 }

@@ -9,9 +9,9 @@
   ],
   "description": "Radius (Jared Corbo) is a fictional character, a superhero in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Radius",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 15,
-    "pageviewRank": -1,
+    "pageviewCount": 178,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,6 +32,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Radius",
   "teams": [
     "Alpha Flight",
     "Beta Flight",
@@ -42,6 +42,7 @@
     "X-Corps"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Radius_(comics)"
   }
 }

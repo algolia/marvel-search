@@ -10,12 +10,10 @@
   "description": "Heather Hudson is a fictional character created by Marvel Comics for their series called Exiles.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Sasquatch (Walter Langkowski)",
+  "name": "Heather Hudson (Exiles)",
   "partners": [
   ],
   "powers": [
@@ -23,24 +21,24 @@
     "Stamina"
   ],
   "ranking": {
-    "comicCount": 77,
-    "eventCount": 3,
-    "pageviewCount": 30,
-    "pageviewRank": -1,
-    "serieCount": 32,
-    "storyCount": 78
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 288,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Heather McDaniel Hudson"
   ],
   "species": [
   ],
+  "superName": "Heather Hudson",
   "teams": [
     "Alpha Flight",
     "Exiles"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1995/sasquatch",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Heather_Hudson_(Exiles)"
   }
 }

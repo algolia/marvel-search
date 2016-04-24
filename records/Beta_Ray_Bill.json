@@ -7,12 +7,11 @@
   "authors": [
     "Walt Simonson"
   ],
-  "description": "Beta Ray Bill is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
+  "description": "Beta Ray Bill is a fictional superhero that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Beta_Ray_Bill.jpg/250px-Beta_Ray_Bill.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Beta Ray Bill",
   "partners": [
@@ -20,22 +19,16 @@
   "powers": [
     "Durability",
     "Electric manipulation",
-    "Energy absorption",
     "Flight",
-    "Highly extended lifespan",
     "Longevity",
-    "Projection",
     "Speed",
-    "Stamina",
     "Superhuman strength",
-    "Vast superhuman strength",
     "Weather manipulation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 912,
-    "pageviewRank": -1,
+    "pageviewCount": 7547,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -44,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Beta Ray Bill",
   "teams": [
     "Annihilators",
     "Asgard",
@@ -52,6 +46,7 @@
     "Thor Corps"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Beta_Ray_Bill"
   }
 }

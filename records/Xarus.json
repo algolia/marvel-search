@@ -1,14 +1,13 @@
 {
   "aliases": [
-    "Xarus"
   ],
   "authors": [
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/X-Men_1.jpg/250px-X-Men_1.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Xarus",
   "partners": [
@@ -18,8 +17,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 28,
-    "pageviewRank": -1,
+    "pageviewCount": 219,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -27,9 +25,11 @@
   ],
   "species": [
   ],
+  "superName": "Xarus",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Xarus"
   }
 }

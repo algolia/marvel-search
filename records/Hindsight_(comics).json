@@ -7,16 +7,13 @@
     "Darick Robertson",
     "Fabian Nicieza"
   ],
-  "description": "Hindsight (Carlton LaFroyge), formerly Hindsight Lad, is a fictional character from the Marvel Comics universe that appeared primarily in the New Warriors series.",
+  "description": "Hindsight (Carlton LaFroyge), formerly Hindsight Lad, is a fictional character, a superhero from the Marvel Comics universe that appeared primarily in the New Warriors series.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/4c0035d60033c/standard_xlarge.jpg"
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Hindsight Lad",
+  "name": "Hindsight",
   "partners": [
   ],
   "powers": [
@@ -24,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 42,
-    "pageviewRank": -1,
+    "pageviewCount": 460,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,11 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Hindsight",
   "teams": [
     "New Warriors"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2838/hindsight_lad",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hindsight_(comics)"
   }
 }

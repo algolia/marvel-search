@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "L. Thompson Lincoln",
     "Lonnie Tombstone",
     "Tombstone"
   ],
@@ -11,18 +10,13 @@
   "description": "Known as Tombstone, Lonnie Lincoln filed his teeth to points to add to his already intimidating image and honed his fighting skills in numerous street fights.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c003a981c496/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Tombstone",
   "partners": [
   ],
   "powers": [
-    "Durability",
-    "Endurance",
     "Excellent street fighter",
     "Highly skilled marksman",
     "Razor sharp teeth",
@@ -34,8 +28,7 @@
   "ranking": {
     "comicCount": 23,
     "eventCount": 0,
-    "pageviewCount": 396,
-    "pageviewRank": -1,
+    "pageviewCount": 2981,
     "serieCount": 8,
     "storyCount": 25
   },
@@ -44,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Tombstone",
   "teams": [
     "Hardcore",
     "Hardcore's Untouchables",

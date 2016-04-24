@@ -8,10 +8,9 @@
   ],
   "description": "Graymalkin is a fictional character appearing in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/300219-123649-greymalkin_large.jpg/200px-300219-123649-greymalkin_large.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Graymalkin",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 101,
-    "pageviewRank": -1,
+    "pageviewCount": 833,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,12 +34,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Graymalkin",
   "teams": [
     "Jean Grey School Students",
     "X-Men-In-Training",
     "Young X-Men"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Graymalkin"
   }
 }

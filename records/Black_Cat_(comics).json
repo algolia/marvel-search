@@ -10,14 +10,11 @@
     "Keith Pollard",
     "Marv Wolfman"
   ],
-  "description": "The Black Cat (Felicia Hardy) is a fictional character, a supervillain and sometimes anti-hero that appears in comic books published by Marvel Comics.",
+  "description": "The Black Cat (Felicia Hardy) is a fictional antiheroine that appears in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/526952357d91c/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Black Cat",
   "partners": [
@@ -28,20 +25,17 @@
     "Endurance",
     "Excellent street fighter",
     "Expert burglar",
-    "Grapnel hidden in sleeves",
     "Night vision",
     "Probability manipulation",
     "Retractable claws",
     "Retractable talons",
     "Speed",
-    "Superhuman sense of smell",
     "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 76,
     "eventCount": 4,
-    "pageviewCount": 1717,
-    "pageviewRank": -1,
+    "pageviewCount": 13165,
     "serieCount": 31,
     "storyCount": 84
   },
@@ -50,8 +44,8 @@
   ],
   "species": [
   ],
+  "superName": "Black Cat",
   "teams": [
-    "Black Cat's Criminal Army",
     "Black Cat's Gang",
     "Defenders",
     "Heroes for Hire"

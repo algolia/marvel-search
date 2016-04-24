@@ -10,9 +10,9 @@
   ],
   "description": "Hippo is the name of a Marvel Comics supervillain.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Hippo",
   "partners": [
@@ -25,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 32,
-    "pageviewRank": -1,
+    "pageviewCount": 304,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,11 +34,13 @@
   "species": [
     "Uplifted Hippopotamus"
   ],
+  "superName": "Hippo",
   "teams": [
     "Menagerie",
     "Redeemers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hippo_(comics)"
   }
 }

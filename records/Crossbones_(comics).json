@@ -12,11 +12,8 @@
   "description": "Crossbones (Brock Rumlow) is a fictional character, a supervillain in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4c00405a403c0/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Crossbones",
   "partners": [
@@ -40,8 +37,7 @@
   "ranking": {
     "comicCount": 35,
     "eventCount": 2,
-    "pageviewCount": 3543,
-    "pageviewRank": 9956,
+    "pageviewCount": 43261,
     "serieCount": 18,
     "storyCount": 39
   },
@@ -50,8 +46,10 @@
   ],
   "species": [
   ],
+  "superName": "Crossbones",
   "teams": [
     "HYDRA",
+    "Hydra",
     "Skeleton Crew",
     "Thunderbolts"
   ],

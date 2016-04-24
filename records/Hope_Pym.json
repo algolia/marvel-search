@@ -1,15 +1,17 @@
 {
   "aliases": [
+    "Hope Pym",
     "Red Queen"
   ],
   "authors": [
     "Ron Frenz",
     "Tom DeFalco"
   ],
+  "description": "Hope Pym, also known as the Red Queen, is a fictional character in the Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Hope Pym",
   "partners": [
@@ -20,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1544,
-    "pageviewRank": -1,
+    "pageviewCount": 22651,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Hope Pym",
   "teams": [
     "Revengers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hope_Pym"
   }
 }

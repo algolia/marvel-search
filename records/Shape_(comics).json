@@ -8,11 +8,8 @@
   "description": "Often clashing with the heroes of the Squadron Supreme, the Shape was later subjected to the mind-altering behavior modification device used as part of the Squadron Supreme's \"Utopia Program.\"",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c0038c68a450/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/e0/4c0038c68a450/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Shape",
   "partners": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 5,
     "eventCount": 0,
-    "pageviewCount": 31,
-    "pageviewRank": -1,
+    "pageviewCount": 242,
     "serieCount": 4,
     "storyCount": 5
   },
@@ -36,6 +32,7 @@
   ],
   "species": [
   ],
+  "superName": "Shape",
   "teams": [
     "Institute of Evil",
     "Redeemers",

@@ -7,34 +7,31 @@
   "description": "Captain Marvel is the name of several fictional superheroes appearing in comic books published by Marvel Comics.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/537ba62b68be9.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/6/30/537ba61b764b4.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5269608c1be7a/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/537ba5ff07aa4/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 9,
     "green": 36,
     "hexa": "3A2409",
     "red": 58
   },
-  "name": "Captain Marvel (Carol Danvers)",
+  "name": "Captain Marvel",
   "partners": [
   ],
   "powers": [
   ],
   "ranking": {
-    "comicCount": 321,
-    "eventCount": 14,
-    "pageviewCount": 3416,
-    "pageviewRank": -1,
-    "serieCount": 82,
-    "storyCount": 453
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 28685,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Captain Marvel",
   "teams": [
   ],
   "urls": {

@@ -5,26 +5,23 @@
   "authors": [
     "Bill Mantlo",
     "Jim Mooney",
-    "John Romita Jr.",
-    "John Romita, Jr."
+    "John Romita Jr."
   ],
   "description": "The Schizoid Man is a Marvel Comics supervillain.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Schizoid Man",
   "partners": [
   ],
   "powers": [
-    "Multiple disorder"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 33,
-    "pageviewRank": -1,
+    "pageviewCount": 218,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,12 +29,14 @@
     "Chip Martin"
   ],
   "species": [
-    "Human mutant"
+    "Human Mutant"
   ],
+  "superName": "Schizoid Man",
   "teams": [
     "Vil-Anon"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Schizoid_Man_(comics)"
   }
 }

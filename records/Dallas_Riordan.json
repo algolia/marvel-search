@@ -12,29 +12,27 @@
   "description": "Dallas Riordan  is a character in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Atlas (Team)",
+  "name": "Dallas Riordan",
   "partners": [
   ],
   "powers": [
   ],
   "ranking": {
-    "comicCount": 12,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 61,
-    "pageviewRank": -1,
-    "serieCount": 8,
-    "storyCount": 8
+    "pageviewCount": 326,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Dallas Riordan"
   ],
   "species": [
   ],
+  "superName": "Dallas Riordan",
   "teams": [
     "NYPD",
     "New York City Police Department",
@@ -42,7 +40,7 @@
     "V-Battalion"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/214/atlas",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Dallas_Riordan"
   }
 }

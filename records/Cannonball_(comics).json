@@ -7,29 +7,23 @@
     "Bob McLeod",
     "Chris Claremont"
   ],
-  "description": "Cannonball (Samuel Zachary Guthrie) is a fictional Marvel Comics superhero, associated with the X-Men.",
+  "description": "Cannonball (Samuel Zachary Guthrie) is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c00407fb91b5/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/c0/4c00407fb91b5/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Cannonball",
   "partners": [
   ],
   "powers": [
     "Blast field",
-    "Jet propulsion",
-    "Superhuman endurance",
-    "Unstoppability"
+    "Jet propulsion"
   ],
   "ranking": {
     "comicCount": 237,
     "eventCount": 11,
-    "pageviewCount": 794,
-    "pageviewRank": -1,
+    "pageviewCount": 6770,
     "serieCount": 66,
     "storyCount": 250
   },
@@ -40,6 +34,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Cannonball",
   "teams": [
     "Avengers",
     "Hellfire Club",

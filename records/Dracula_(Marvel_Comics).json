@@ -15,14 +15,11 @@
     "Gene Colan",
     "Gerry Conway"
   ],
-  "description": "Dracula is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
+  "description": "Dracula is a fictional supervillain that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/526955af18612/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Dracula",
   "partners": [
@@ -42,14 +39,12 @@
     "Stamina",
     "Superhuman strength",
     "Telepathy",
-    "Weather control",
-    "Weather modification"
+    "Weather control"
   ],
   "ranking": {
     "comicCount": 37,
     "eventCount": 1,
-    "pageviewCount": 549,
-    "pageviewRank": -1,
+    "pageviewCount": 6010,
     "serieCount": 23,
     "storyCount": 57
   },
@@ -60,6 +55,7 @@
   "species": [
     "Vampire"
   ],
+  "superName": "Dracula",
   "teams": [
     "Defenders",
     "Legion of the Unliving",

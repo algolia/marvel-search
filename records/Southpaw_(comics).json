@@ -8,9 +8,9 @@
   ],
   "description": "Southpaw (Sasha Martin) is a fictional character that first appeared in the Marvel comic She-Hulk.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Southpaw",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 34,
-    "pageviewRank": -1,
+    "pageviewCount": 291,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,9 +29,11 @@
   ],
   "species": [
   ],
+  "superName": "Southpaw",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Southpaw_(comics)"
   }
 }

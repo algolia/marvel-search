@@ -13,11 +13,8 @@
   "description": "With the end of the Vietnam War, John Walker thought his dreams of becoming a war hero had also ended, until he learned of the Power Broker, who could give anyone superhuman powers, which Walker used to first become Super-Patriot and later, U.S. Agent.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/535febe8b095a/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "U.S. Agent",
   "partners": [
@@ -31,9 +28,7 @@
     "Endurance",
     "Firearms",
     "Gymnast",
-    "Highly skilled acrobat",
     "Highly trained acrobat",
-    "Peak human speed",
     "Peak-level speed",
     "Reflexes/reactions",
     "Superhuman strength"
@@ -41,8 +36,7 @@
   "ranking": {
     "comicCount": 33,
     "eventCount": 2,
-    "pageviewCount": 731,
-    "pageviewRank": -1,
+    "pageviewCount": 5649,
     "serieCount": 12,
     "storyCount": 34
   },
@@ -52,6 +46,7 @@
   "species": [
     "Human"
   ],
+  "superName": "U.S. Agent",
   "teams": [
     "Astonishing Avengers",
     "Bold Urban Commandos",

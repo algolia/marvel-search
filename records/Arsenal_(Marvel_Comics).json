@@ -8,10 +8,9 @@
   ],
   "description": "Arsenal is a fictional character, a robot that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/AvengersAnnual-9.jpg/250px-AvengersAnnual-9.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Arsenal",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 248,
-    "pageviewRank": -1,
+    "pageviewCount": 1790,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,9 +34,11 @@
   ],
   "species": [
   ],
+  "superName": "Arsenal",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Arsenal_(Marvel_Comics)"
   }
 }

@@ -12,13 +12,10 @@
   "description": "Phyla-Vell is a fictional character, a comic book superhero in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/PhylaMartyr.png/250px-PhylaMartyr.png"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0030bc4629e/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Phyla-Vell",
+  "name": "Captain Marvel (Phyla-Vell)",
   "partners": [
   ],
   "powers": [
@@ -31,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 527,
-    "pageviewRank": -1,
+    "pageviewCount": 4401,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,13 +37,15 @@
   ],
   "species": [
   ],
+  "superName": "Captain Marvel",
   "teams": [
     "Annihilation",
     "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
     "United Front"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1745/phyla-vell",
+    "marvel": "http://marvel.com/characters/9/captain_marvel",
     "wikipedia": "https://en.wikipedia.org/wiki/Phyla-Vell"
   }
 }

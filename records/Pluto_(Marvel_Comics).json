@@ -16,10 +16,9 @@
   ],
   "description": "Pluto is a fictional deity in the Marvel Comics Universe based on the Greco-Roman god of the same name.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Hades2.png/250px-Hades2.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Pluto",
   "partners": [
@@ -35,8 +34,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 119,
-    "pageviewRank": -1,
+    "pageviewCount": 876,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -45,12 +43,14 @@
   ],
   "species": [
   ],
+  "superName": "Pluto",
   "teams": [
     "Death Gods",
     "Gods of Olympus",
     "Olympians"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Pluto_(Marvel_Comics)"
   }
 }

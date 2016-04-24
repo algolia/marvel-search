@@ -8,10 +8,9 @@
   ],
   "description": "Junkpile is a fictional character in Marvel Comics's 2099 universe, a look at superheroes in the year 2099.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Xmen2099-23.jpg/250px-Xmen2099-23.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Junkpile",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 34,
-    "pageviewRank": -1,
+    "pageviewCount": 249,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,6 +31,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Junkpile",
   "teams": [
     "Greater Nevada Syndicate",
     "Lawless",
@@ -42,6 +41,7 @@
     "X-Men 2099"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Junkpile"
   }
 }

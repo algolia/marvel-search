@@ -9,14 +9,11 @@
     "Don Heck",
     "Stan Lee"
   ],
-  "description": "The Mandarin is a fictional character, a supervillain who appears in comic books published by Marvel Comics.",
+  "description": "The Mandarin is a fictional supervillain that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/535feda892f68/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/a/50/535feda892f68/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mandarin",
   "partners": [
@@ -28,14 +25,12 @@
     "Genius-level intellect",
     "Gifted strategist",
     "Superb athlete",
-    "Ten rings grant [[#powers",
     "Various powers"
   ],
   "ranking": {
     "comicCount": 41,
     "eventCount": 1,
-    "pageviewCount": 1276,
-    "pageviewRank": -1,
+    "pageviewCount": 10418,
     "serieCount": 20,
     "storyCount": 45
   },
@@ -43,11 +38,13 @@
   ],
   "species": [
   ],
+  "superName": "Mandarin",
   "teams": [
     "Hand",
     "Mandarin's Minions",
     "The Hand",
-    "Tong"
+    "Tong",
+    "Tong (organization)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1356/mandarin",

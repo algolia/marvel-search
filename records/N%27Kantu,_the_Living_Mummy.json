@@ -1,21 +1,20 @@
 {
   "aliases": [
     "Captain Ace Bandages",
+    "Living Mummy",
     "The Mummy"
   ],
   "authors": [
     "Rich Buckler",
     "Steve Gerber"
   ],
+  "description": null,
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Nkantumu0.png/250px-Nkantumu0.png"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
-  "name": "Living Mummy",
+  "name": "N'Kantu, the Living Mummy",
   "partners": [
   ],
   "powers": [
@@ -24,25 +23,25 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 5,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 127,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 5
+    "pageviewCount": 931,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "N'Kantu"
   ],
   "species": [
   ],
+  "superName": "N'Kantu, the Living Mummy",
   "teams": [
     "Legion of Monsters",
     "S.H.I.E.L.D.'s Paranormal Containment Unit",
     "Shock Troop"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2863/living_mummy",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/N%27Kantu,_the_Living_Mummy"
   }
 }

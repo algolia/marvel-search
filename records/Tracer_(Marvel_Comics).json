@@ -9,9 +9,9 @@
   ],
   "description": "Tracer is a fictional character, a supervillain in the Marvel Comics Universe, in which he is an enemy of Spider-Man.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Tracer",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 21,
-    "pageviewRank": -1,
+    "pageviewCount": 151,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,9 +29,11 @@
   ],
   "species": [
   ],
+  "superName": "Tracer",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Tracer_(Marvel_Comics)"
   }
 }

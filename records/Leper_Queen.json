@@ -9,11 +9,8 @@
   "description": "The Leper Queen is a fictional villain of the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/XFORCE013_cov.jpg/250px-XFORCE013_cov.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Leper Queen",
   "partners": [
@@ -25,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 63,
-    "pageviewRank": -1,
+    "pageviewCount": 457,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,12 +32,13 @@
   ],
   "species": [
   ],
+  "superName": "Leper Queen",
   "teams": [
     "Purifiers",
     "Sapien League"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2924/leper_queen",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Leper_Queen"
   }
 }

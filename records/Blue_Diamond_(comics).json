@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Blue Diamond",
     "The Blue Diamond"
   ],
   "authors": [
@@ -8,10 +7,9 @@
   ],
   "description": "Blue Diamond is a fictional character, a superhero in comic-books published by Marvel Comics, debuting under the company's 1940s forerunner, Timely Comics.An unrelated supervillain called the Blue Diamond appears as an antagonist in Timely's The Human Torch #11 (Spring 1943).",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/92/Blue_Diamond001.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Blue Diamond",
   "partners": [
@@ -26,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 68,
-    "pageviewRank": -1,
+    "pageviewCount": 510,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Blue Diamond",
   "teams": [
     "Crazy Sues",
     "Invaders",
@@ -43,6 +41,7 @@
     "New Invaders"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Blue_Diamond_(comics)"
   }
 }

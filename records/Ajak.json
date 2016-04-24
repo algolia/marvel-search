@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Ajak",
     "Ajax the Greater",
     "He Who Talks To Celestials",
     "Lord of Flight",
@@ -13,11 +12,8 @@
   "description": "Ajak is a fictional character, a member of the Eternals, a race in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4c002f35c5215/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/80/4c002f35c5215/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ajak",
   "partners": [
@@ -35,8 +31,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 110,
-    "pageviewRank": -1,
+    "pageviewCount": 968,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -44,6 +39,7 @@
   ],
   "species": [
   ],
+  "superName": "Ajak",
   "teams": [
     "Eternals",
     "God Squad"

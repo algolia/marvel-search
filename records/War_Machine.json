@@ -8,16 +8,13 @@
     "Bob Layton",
     "David Michelinie"
   ],
-  "description": "War Machine (James Rupert \"Rhodey\" Rhodes) is a fictional character, a  superhero appearing in comic books set in the Marvel Comics universe.",
+  "description": "War Machine (James Rupert \"Rhodey\" Rhodes) is a fictional superhero appearing in comic books set in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5239c15d562d6/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/IROMcover33F.jpg/250px-IROMcover33F.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "War Machine (Iron Man 3 - The Official Game)",
+  "name": "War Machine",
   "partners": [
   ],
   "powers": [
@@ -48,8 +45,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 2236,
-    "pageviewRank": -1,
+    "pageviewCount": 19385,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -59,6 +55,7 @@
   ],
   "species": [
   ],
+  "superName": "War Machine",
   "teams": [
     "Avengers",
     "Defenders",
@@ -81,7 +78,7 @@
     "Worldwatch Incorporated"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2520/war_machine",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/War_Machine"
   }
 }

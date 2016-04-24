@@ -17,11 +17,8 @@
   "description": "Dark Beast (Henry Philip McCoy), sometimes known as the Black Beast, is a Marvel Comics supervillain, an alternate reality evil version of the X-Men’s Beast.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/52602f32efdab/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Dark Beast",
   "partners": [
@@ -46,8 +43,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 0,
-    "pageviewCount": 290,
-    "pageviewRank": -1,
+    "pageviewCount": 2375,
     "serieCount": 1,
     "storyCount": 2
   },
@@ -57,6 +53,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Dark Beast",
   "teams": [
     "Brotherhood of Evil Mutants",
     "Brotherhood of Mutants",

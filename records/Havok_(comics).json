@@ -12,14 +12,11 @@
     "Don Heck",
     "Neal Adams"
   ],
-  "description": "Havok (Alexander \"Alex\" Summers) is a fictional character, a mutant superhero in the Marvel Comics Universe and member of the X-Men.",
+  "description": "Havok (Alexander \"Alex\" Summers) is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5261659ebeaf8/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/3/d0/537bad0677828/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 40,
     "green": 38,
@@ -38,8 +35,7 @@
   "ranking": {
     "comicCount": 232,
     "eventCount": 13,
-    "pageviewCount": 2838,
-    "pageviewRank": -1,
+    "pageviewCount": 30908,
     "serieCount": 78,
     "storyCount": 251
   },
@@ -50,6 +46,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Havok",
   "teams": [
     "Avengers Unity Squad",
     "Brotherhood",

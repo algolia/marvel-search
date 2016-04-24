@@ -11,9 +11,9 @@
   ],
   "description": "Murmur is the name of two fictional characters who appear in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Murmur",
   "partners": [
@@ -26,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 38,
-    "pageviewRank": -1,
+    "pageviewCount": 361,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,6 +37,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Murmur",
   "teams": [
     "Alpha Flight",
     "Beta Flight",
@@ -46,6 +46,7 @@
     "Hellions"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Murmur_(Marvel_Comics)"
   }
 }

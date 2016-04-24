@@ -11,14 +11,11 @@
     "Chris Claremont",
     "Herb Trimpe"
   ],
-  "description": "Psylocke (also known as Elizabeth \"Betsy\" Braddock) is a fictional character and superhero depicted in comic books published by Marvel Comics, most notably those featuring the superhero team X-Men.",
+  "description": "Psylocke (Elizabeth \"Betsy\" Braddock) is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/537bbf4294dbf.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/a/30/537bbf337ef89.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/526961ce86539/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/537bbf150acc9/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 42,
     "green": 25,
@@ -32,9 +29,10 @@
     "Empathy",
     "Katana",
     "Knife",
+    "Martial arts",
     "Precognition",
     "Psychic",
-    "Psychic knife",
+    "Psychic katana",
     "Psychokinesis",
     "Telekinesis",
     "Telepathy"
@@ -42,8 +40,7 @@
   "ranking": {
     "comicCount": 257,
     "eventCount": 15,
-    "pageviewCount": 5488,
-    "pageviewRank": -1,
+    "pageviewCount": 74254,
     "serieCount": 70,
     "storyCount": 287
   },
@@ -54,6 +51,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Psylocke",
   "teams": [
     "Brotherhood of Mutants",
     "Captain Britain Corps",

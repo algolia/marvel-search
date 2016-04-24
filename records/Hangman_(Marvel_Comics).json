@@ -10,9 +10,9 @@
   ],
   "description": "Hangman is the name of two fictional characters in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hangman",
   "partners": [
@@ -25,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 42,
-    "pageviewRank": -1,
+    "pageviewCount": 214,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,11 +35,13 @@
   ],
   "species": [
   ],
+  "superName": "Hangman",
   "teams": [
     "Lethal Legion",
     "Night Shift"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hangman_(Marvel_Comics)"
   }
 }

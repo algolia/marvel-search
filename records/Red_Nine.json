@@ -9,10 +9,9 @@
   ],
   "description": "Red Nine (Wallace Jackson) is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Red9.jpg/250px-Red9.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Red Nine",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 35,
-    "pageviewRank": -1,
+    "pageviewCount": 326,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,10 +34,12 @@
   ],
   "species": [
   ],
+  "superName": "Red Nine",
   "teams": [
     "Fifty State Initiative"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Red_Nine"
   }
 }

@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Alistair Smythe",
     "Spider-Slayer",
     "The Ultimate Spider Slayer"
   ],
@@ -10,10 +9,9 @@
   ],
   "description": "Alistair Smythe is a comic book supervillain, owned by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg/250px-Alistair_Smythe%2C_The_Ultimate_Spider-Slayer.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Alistair Smythe",
   "partners": [
@@ -32,8 +30,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 456,
-    "pageviewRank": -1,
+    "pageviewCount": 3001,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,9 +39,11 @@
   ],
   "species": [
   ],
+  "superName": "Alistair Smythe",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Alistair_Smythe"
   }
 }

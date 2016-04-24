@@ -1,14 +1,16 @@
 {
   "aliases": [
+    "Anelle"
   ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Anelle",
   "partners": [
@@ -19,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 63,
-    "pageviewRank": -1,
+    "pageviewCount": 618,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,11 +30,13 @@
   ],
   "species": [
   ],
+  "superName": "Anelle",
   "teams": [
     "Empire",
     "Skrull"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Anelle"
   }
 }

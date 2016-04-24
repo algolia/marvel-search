@@ -9,11 +9,8 @@
   "description": "Oracle is a fictional character in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c003d0361454/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/60/4c003d0361454/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Oracle",
   "partners": [
@@ -24,8 +21,7 @@
   "ranking": {
     "comicCount": 19,
     "eventCount": 0,
-    "pageviewCount": 143,
-    "pageviewRank": -1,
+    "pageviewCount": 1157,
     "serieCount": 12,
     "storyCount": 11
   },
@@ -33,8 +29,8 @@
     "Sybil"
   ],
   "species": [
-    "unknown"
   ],
+  "superName": "Oracle",
   "teams": [
     "Imperial Guard"
   ],

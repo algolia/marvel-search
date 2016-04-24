@@ -10,11 +10,8 @@
   "description": "Aqueduct (Peter van Zante), originally known as Water Wizard, is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c0035b3630cd/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/50/4c0035b3630cd/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Aqueduct",
   "partners": [
@@ -25,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 68,
-    "pageviewRank": -1,
+    "pageviewCount": 512,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,6 +31,7 @@
   ],
   "species": [
   ],
+  "superName": "Aqueduct",
   "teams": [
     "Force of Nature",
     "Masters of Evil",

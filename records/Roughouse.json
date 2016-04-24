@@ -9,10 +9,9 @@
   ],
   "description": "Roughouse is a fictional character, a comic book supervillain in the Marvel Comics universe and the occasional enemy of Wolverine.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Roughouse.jpg/250px-Roughouse.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Roughouse",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 33,
-    "pageviewRank": -1,
+    "pageviewCount": 310,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,9 +32,11 @@
   "species": [
     "Asgard"
   ],
+  "superName": "Roughouse",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Roughouse"
   }
 }

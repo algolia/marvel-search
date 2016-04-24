@@ -9,10 +9,9 @@
   ],
   "description": "The Flag-Smasher is the name used by two fictional supervillains appearing in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/ca/FlagSmasherMarvel.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Flag-Smasher",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 239,
-    "pageviewRank": -1,
+    "pageviewCount": 1593,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,11 +32,13 @@
   "species": [
     "Human"
   ],
+  "superName": "Flag-Smasher",
   "teams": [
     "Features of the Marvel Universe",
     "ULTIMATUM"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Flag-Smasher"
   }
 }

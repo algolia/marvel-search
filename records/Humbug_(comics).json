@@ -9,11 +9,8 @@
   "description": "Buck Mitty, known as Humbug, is a fictional character that appeared in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4c7c6433e79f5/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/7/20/4c7c6433e79f5/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Humbug",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 4,
     "eventCount": 1,
-    "pageviewCount": 74,
-    "pageviewRank": -1,
+    "pageviewCount": 686,
     "serieCount": 2,
     "storyCount": 4
   },
@@ -37,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Humbug",
   "teams": [
     "Empire State University",
     "Heroes for Hire"

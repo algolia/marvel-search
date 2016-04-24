@@ -9,10 +9,9 @@
   ],
   "description": "Cameron Hodge is a fictional comic book supervillain and opponent of the X-Men, as seen in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/UncannyX-Men271.jpg/250px-UncannyX-Men271.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Cameron Hodge",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 152,
-    "pageviewRank": -1,
+    "pageviewCount": 1472,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,6 +30,7 @@
   ],
   "species": [
   ],
+  "superName": "Cameron Hodge",
   "teams": [
     "Genosha",
     "Genoshan Cabinet",
@@ -42,6 +41,7 @@
     "X-Factor"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Cameron_Hodge"
   }
 }

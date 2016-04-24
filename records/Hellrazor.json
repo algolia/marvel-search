@@ -10,35 +10,32 @@
   "description": "Hellrazor is a fictional assassin character in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5261a80a67e7d/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b6/Hellrazor_Marvel_Comics.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Black Panther",
+  "name": "Hellrazor",
   "partners": [
   ],
   "powers": [
   ],
   "ranking": {
-    "comicCount": 320,
-    "eventCount": 13,
-    "pageviewCount": 23,
-    "pageviewRank": -1,
-    "serieCount": 101,
-    "storyCount": 468
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 163,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Hellrazor",
   "teams": [
     "Roxxon Energy Corporation",
     "Roxxon Oil"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009187/black_panther",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hellrazor"
   }
 }

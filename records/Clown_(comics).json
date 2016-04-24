@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Clown",
     "Crafty",
     "Crafty Clown",
     "Funny Man",
@@ -13,9 +12,9 @@
   ],
   "description": "The Clown is the name of two fictional characters in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Clown",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 64,
-    "pageviewRank": -1,
+    "pageviewCount": 455,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,12 +35,14 @@
   ],
   "species": [
   ],
+  "superName": "Clown",
   "teams": [
     "Circus of Crime",
     "Gamma Corps",
     "The Masters of Menace"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Clown_(comics)"
   }
 }

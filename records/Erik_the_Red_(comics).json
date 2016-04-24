@@ -12,11 +12,8 @@
   "description": "Erik the Red is a fictional cover identity in the Marvel Universe which has been used by three characters: Scott Summers (Cyclops), Davan Shakari, a Shi'ar agent, and Erik Magnus Lehnsherr (Magneto).",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Xmen97erikthesmall.jpg/250px-Xmen97erikthesmall.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Erik the Red",
   "partners": [
@@ -29,12 +26,11 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 3,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 127,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 4
+    "pageviewCount": 1251,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "(I) Scott Summers",
@@ -46,6 +42,7 @@
   ],
   "species": [
   ],
+  "superName": "Erik the Red",
   "teams": [
     "Empire",
     "Shi'ar",
@@ -53,7 +50,7 @@
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/634/erik_the_red",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Erik_the_Red_(comics)"
   }
 }

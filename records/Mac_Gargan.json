@@ -3,7 +3,6 @@
     "Gargan",
     "Kilgore Trout",
     "Mac",
-    "Mac Gargan",
     "Scorpion",
     "Spider-Man",
     "Venom"
@@ -12,21 +11,18 @@
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "MacDonald \"Mac\" Gargan is a fictional character that appears in comic books published by Marvel Comics.",
+  "description": "One of Spider-Man's oldest enemies, Mac Gargan has recently abandoned his Scorpion suit and identity and bonded with the alien symbiote that had previously been hosted by Peter Parker and Eddie Brock, becoming the new Venom.",
   "images": {
-    "background": null,
-    "banner": null
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/531773a2ac20a/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Mac Gargan",
+  "name": "Venom (Mac Gargan)",
   "partners": [
   ],
   "powers": [
     "Agility",
     "All of",
-    "As venom",
     "Durability",
     "Immunity to spider-sense",
     "Limited shapeshifting",
@@ -37,12 +33,11 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 0,
-    "eventCount": 0,
-    "pageviewCount": 583,
-    "pageviewRank": -1,
-    "serieCount": 0,
-    "storyCount": 0
+    "comicCount": 22,
+    "eventCount": 5,
+    "pageviewCount": 4855,
+    "serieCount": 10,
+    "storyCount": 21
   },
   "secretIdentities": [
     "Mac",
@@ -50,6 +45,7 @@
   ],
   "species": [
   ],
+  "superName": "Venom",
   "teams": [
     "Alchemax",
     "Dark Avengers",
@@ -59,7 +55,7 @@
     "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2708/mac_gargan",
+    "marvel": "http://marvel.com/characters/1010788/venom_mac_gargan/featured",
     "wikipedia": "https://en.wikipedia.org/wiki/Mac_Gargan"
   }
 }

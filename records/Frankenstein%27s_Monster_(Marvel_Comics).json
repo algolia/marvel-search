@@ -1,19 +1,18 @@
 {
   "aliases": [
     "Adam",
-    "Frankenstein"
+    "Frankenstein",
+    "Frankenstein's Monster"
   ],
   "authors": [
     "Joe Maneely",
     "Stan Lee"
   ],
+  "description": null,
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4d78fbb55546e/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/a/00/4d78fbb55546e/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Frankenstein's Monster",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 5,
     "eventCount": 1,
-    "pageviewCount": 144,
-    "pageviewRank": -1,
+    "pageviewCount": 1156,
     "serieCount": 2,
     "storyCount": 7
   },
@@ -34,6 +32,7 @@
   ],
   "species": [
   ],
+  "superName": "Frankenstein's Monster",
   "teams": [
     "Legion of the Unliving"
   ],

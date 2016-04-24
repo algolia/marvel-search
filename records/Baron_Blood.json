@@ -1,8 +1,6 @@
 {
   "aliases": [
     "Baron Blood",
-    "Dr. Jacob Cromwell",
-    "John Falsworth, Jr.",
     "Jr."
   ],
   "authors": [
@@ -15,14 +13,14 @@
     "John Cassaday",
     "Roger Stern",
     "Roy Thomas",
-    "Roy Thomas &"
+    "Roy Thomas &",
+    "Roy Thomas & Jackson Guice"
   ],
-  "description": "Baron Blood is the name of several fictional characters that appear in comic books published by Marvel Comics.",
+  "description": "Baron Blood is the name of a series fictional super-villains appearing in the Marvel Universe comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Invaders-7.jpg/250px-Invaders-7.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Baron Blood",
   "partners": [
@@ -38,22 +36,20 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 112,
-    "pageviewRank": -1,
+    "pageviewCount": 912,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Kenneth Chrichton",
-    "Lord John Falsworth",
-    "Victor Strange"
   ],
   "species": [
   ],
+  "superName": "Baron Blood",
   "teams": [
     "Super-Axis"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Baron_Blood"
   }
 }

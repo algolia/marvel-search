@@ -10,13 +10,10 @@
   "description": "Nightside is a fictional character in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0c/Nightsidewiki.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Nightshade",
+  "name": "Nightside",
   "partners": [
   ],
   "powers": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 63,
-    "pageviewRank": -1,
+    "pageviewCount": 260,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,11 +31,12 @@
   ],
   "species": [
   ],
+  "superName": "Nightside",
   "teams": [
     "Imperial Guard"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1606/nightshade",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Nightside_(comics)"
   }
 }

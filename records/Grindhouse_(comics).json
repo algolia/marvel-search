@@ -10,10 +10,9 @@
   ],
   "description": "Grindhouse is a fictional character in the Marvel Comics Universe whose first appearance was in Heroes for Hire vol. 2 #1.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Grindhouse.JPG/250px-Grindhouse.JPG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Grindhouse",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 12,
-    "pageviewRank": -1,
+    "pageviewCount": 107,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,9 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "Grindhouse",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Grindhouse_(comics)"
   }
 }

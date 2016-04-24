@@ -3,7 +3,6 @@
     "Genghis Khan",
     "Mongol Empire",
     "Son of the Ugudei",
-    "Temugin",
     "Temujin"
   ],
   "authors": [
@@ -12,12 +11,11 @@
   ],
   "description": "Temugin is a fictional character from Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b1/Temujin.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Temujin",
+  "name": "Temugin",
   "partners": [
   ],
   "powers": [
@@ -28,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 113,
-    "pageviewRank": -1,
+    "pageviewCount": 741,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,10 +35,12 @@
   ],
   "species": [
   ],
+  "superName": "Temugin",
   "teams": [
     "Agents of Atlas"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Temugin"
   }
 }

@@ -8,12 +8,11 @@
     "Jerry Siegel",
     "Stan Lee"
   ],
-  "description": "Plantman (Samuel Smithers) aka Blackheath is a fictional character, a supervillain in the Marvel Comics universe.",
+  "description": "Plantman (Samuel Smithers) is a fictional character, a supervillain in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Plant_man.jpg/200px-Plant_man.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Plantman",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 109,
-    "pageviewRank": -1,
+    "pageviewCount": 679,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,12 +33,14 @@
   ],
   "species": [
   ],
+  "superName": "Plantman",
   "teams": [
     "Maggia",
     "New Enforcers",
     "Thunderbolts"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Plantman"
   }
 }

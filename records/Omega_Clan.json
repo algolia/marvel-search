@@ -1,21 +1,20 @@
 {
   "aliases": [
     "Arkady Gregorivich",
+    "Omega Red",
     "Vasyliev Arkady"
   ],
   "authors": [
     "Jim Lee",
     "John Byrne"
   ],
+  "description": null,
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003d09267ae/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Xmen18omegared.jpg/250px-Xmen18omegared.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
-  "name": "Omega Red",
+  "name": "Omega Clan",
   "partners": [
   ],
   "powers": [
@@ -32,24 +31,24 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 20,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 7,
-    "pageviewRank": -1,
-    "serieCount": 9,
-    "storyCount": 25
+    "pageviewCount": 41,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Arkady Rossovich"
   ],
   "species": [
   ],
+  "superName": "Omega Clan",
   "teams": [
     "Red Mafia",
     "The Hand"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1652/omega_red",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Omega_Clan"
   }
 }

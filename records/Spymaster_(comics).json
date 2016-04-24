@@ -22,18 +22,14 @@
   "description": "Spymaster is a supervillain from Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/88/Spymaster.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Cobalt Man",
+  "name": "Spymaster",
   "partners": [
     "Justin Hammer"
   ],
   "powers": [
-    "Espionage master",
     "Exceptional strategist",
     "Highly agile",
     "Master of disguise",
@@ -42,18 +38,18 @@
     "Superb actor"
   ],
   "ranking": {
-    "comicCount": 1,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 77,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 1
+    "pageviewCount": 691,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Sinclair Abbot"
   ],
   "species": [
   ],
+  "superName": "Spymaster",
   "teams": [
     "AIM",
     "Advanced Idea Mechanics",
@@ -66,7 +62,7 @@
     "Zodiac"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/444/cobalt_man",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Spymaster_(comics)"
   }
 }

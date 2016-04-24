@@ -6,36 +6,33 @@
     "Carl Burgos",
     "Stan Lee"
   ],
-  "description": "The Beetle is the name used by multiple comic book characters owned by Marvel Comics.",
+  "description": "The Beetle is the name used by multiple fictional characters appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Spider-Man_Web_of_Doom_3.jpg/250px-Spider-Man_Web_of_Doom_3.jpg"
   },
-  "isHero": true,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Beetle (Abner Jenkins)",
+  "name": "Beetle",
   "partners": [
   ],
   "powers": [
   ],
   "ranking": {
-    "comicCount": 13,
-    "eventCount": 2,
-    "pageviewCount": 328,
-    "pageviewRank": -1,
-    "serieCount": 9,
-    "storyCount": 15
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2415,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Beetle",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/254/beetle",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Beetle_(comics)"
   }
 }

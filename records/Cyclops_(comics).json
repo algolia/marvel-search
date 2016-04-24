@@ -13,14 +13,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Cyclops is a fictional character, a superhero that appears in American comic books published by Marvel Comics, as well as in a number of film, television, and video game adaptations; most often in fiction related to the X-Men.",
+  "description": "Cyclops is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/9/d0/537ba69f1b9b7.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/537ba68d90042.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/526547e2d90ad/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/70/526547e2d90ad/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -31,17 +28,13 @@
   "partners": [
   ],
   "powers": [
-    "Gifted strategist",
-    "Hand-to-hand combatant",
     "Optic force blasts",
-    "Pilot",
     "Spatial awareness"
   ],
   "ranking": {
     "comicCount": 699,
     "eventCount": 26,
-    "pageviewCount": 3187,
-    "pageviewRank": -1,
+    "pageviewCount": 25934,
     "serieCount": 215,
     "storyCount": 757
   },
@@ -51,6 +44,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Cyclops",
   "teams": [
     "Cyclops",
     "Phoenix Five",

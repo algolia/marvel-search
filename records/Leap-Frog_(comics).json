@@ -13,13 +13,10 @@
   "description": "Leap-Frog is the name of two Marvel Comics supervillains who use a frog suit containing electrical coils on the soles of each of the two flippers which allow the wearer to leap great distances up to 60 ft (18 m) high or 100 ft (30 m) long.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4def9bf15ce30/standard_xlarge.jpg"
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Frog-Man",
+  "name": "Leap-Frog",
   "partners": [
   ],
   "powers": [
@@ -27,19 +24,17 @@
     "Enhanced strength"
   ],
   "ranking": {
-    "comicCount": 2,
-    "eventCount": 1,
-    "pageviewCount": 78,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 3
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 694,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
-    "Vincent Patilio",
-    "Vinnie"
   ],
   "species": [
   ],
+  "superName": "Leap-Frog",
   "teams": [
     "Damage Control",
     "Defenders",
@@ -47,7 +42,7 @@
     "Emissaries of Evil"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/740/frog-man",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Leap-Frog_(comics)"
   }
 }

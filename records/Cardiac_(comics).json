@@ -9,11 +9,8 @@
   "description": "Cardiac (Elias Wirtham) is a fictional character, a comic book vigilante hero appearing in publications from Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4c003117e0b75/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/70/4c003117e0b75/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Cardiac",
   "partners": [
@@ -22,11 +19,9 @@
     "Accomplished physician",
     "Agility",
     "Endurance",
-    "Energy blasts",
     "Enhanced speed",
     "Reflexes",
     "Regeneration",
-    "Speed",
     "Superhuman strength",
     "Surgeon",
     "Wields a pulse staff"
@@ -34,8 +29,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 0,
-    "pageviewCount": 92,
-    "pageviewRank": -1,
+    "pageviewCount": 803,
     "serieCount": 1,
     "storyCount": 2
   },
@@ -44,6 +38,7 @@
   ],
   "species": [
   ],
+  "superName": "Cardiac",
   "teams": [
     "H.E.A.R.T. Clinic",
     "Parker Industries"

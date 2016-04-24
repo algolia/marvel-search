@@ -9,11 +9,8 @@
   "description": "Roulette (real name: Jennifer Stavros) is a fictional character, a mutant in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/99/Roulette_%28Marvel_Comics%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Roulette",
   "partners": [
@@ -23,12 +20,11 @@
     "Good luck"
   ],
   "ranking": {
-    "comicCount": 1,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 22,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 2
+    "pageviewCount": 243,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Jennifer Stavros"
@@ -36,11 +32,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Roulette",
   "teams": [
     "Hellions"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1958/roulette",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Roulette_(Marvel_Comics)"
   }
 }

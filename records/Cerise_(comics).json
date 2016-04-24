@@ -8,11 +8,8 @@
   "description": "Cerise is a fictional character, a superhero appearing in books published by Marvel Comics, in particular those featuring Excalibur  and other books of the X-Men franchise.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Cerise_excalibur57-jmadureira.jpg/250px-Cerise_excalibur57-jmadureira.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Cerise",
   "partners": [
@@ -21,12 +18,11 @@
     "Red spectrum energy"
   ],
   "ranking": {
-    "comicCount": 2,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 116,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 2
+    "pageviewCount": 793,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Cerise"
@@ -35,12 +31,13 @@
     "Mutant",
     "Shi'ar"
   ],
+  "superName": "Cerise",
   "teams": [
     "Excalibur",
     "The Graces"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/413/cerise",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Cerise_(comics)"
   }
 }

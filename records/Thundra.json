@@ -9,11 +9,8 @@
   "description": "Thundra was quite possibly her world's greatest female specimens, and as she won countless battles against the men, she was revered as the Sisterhood's greatest hero.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4ce5a61df19e5/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Thundra",
   "partners": [
@@ -30,8 +27,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 1,
-    "pageviewCount": 323,
-    "pageviewRank": -1,
+    "pageviewCount": 2591,
     "serieCount": 1,
     "storyCount": 3
   },
@@ -40,6 +36,7 @@
   ],
   "species": [
   ],
+  "superName": "Thundra",
   "teams": [
     "Code Red",
     "Frightful Four",

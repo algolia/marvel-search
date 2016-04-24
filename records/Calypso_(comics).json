@@ -12,11 +12,8 @@
   "description": "Calypso is a fictional villain in the Marvel Comics universe, who first appeared in Amazing Spider-Man #209.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59f17087ab/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Calypso",
   "partners": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 5,
     "eventCount": 1,
-    "pageviewCount": 175,
-    "pageviewRank": -1,
+    "pageviewCount": 1391,
     "serieCount": 2,
     "storyCount": 5
   },
@@ -39,6 +35,7 @@
   ],
   "species": [
   ],
+  "superName": "Calypso",
   "teams": [
   ],
   "urls": {

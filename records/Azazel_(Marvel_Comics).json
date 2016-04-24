@@ -12,16 +12,13 @@
     "Chuck Austen",
     "Sean Phillips"
   ],
-  "description": "A mutant from biblical times, Azazel is the ruler of the Neyaphem and claims that the Earth and everything on it belongs to him.",
+  "description": "Azazel is a comic book supervillain appearing in books published by Marvel Comics, in particular those featuring the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Azazel_HCV.jpg/200px-Azazel_HCV.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Azazel (Mutant)",
+  "name": "Azazel",
   "partners": [
   ],
   "powers": [
@@ -40,12 +37,11 @@
     "Teleportation"
   ],
   "ranking": {
-    "comicCount": 2,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1574,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 2
+    "pageviewCount": 10092,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Azazel"
@@ -53,12 +49,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Azazel",
   "teams": [
-    "Hellfire Club",
+    "Mutant",
     "Neyaphem"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/227/azazel",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Azazel_(Marvel_Comics)"
   }
 }

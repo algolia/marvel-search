@@ -8,9 +8,9 @@
   ],
   "description": "Armless Tiger Man is a supervillain in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Armless Tiger Man",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 52,
-    "pageviewRank": -1,
+    "pageviewCount": 438,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,9 +33,11 @@
   "species": [
     "Human"
   ],
+  "superName": "Armless Tiger Man",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Armless_Tiger_Man"
   }
 }

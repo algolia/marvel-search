@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "The Vision",
-    "Vision"
+    "The Vision"
   ],
   "authors": [
     "Jack Kirby",
@@ -10,11 +9,8 @@
   "description": "The metal monstrosity called Ultron created the synthetic humanoid known as the Vision from the remains of the original android Human Torch of the 1940s to serve as a vehicle of vengeance against the Avengers.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/537bc9726c6d1.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/6/e0/537bc95e556b4.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/90/537bc9381fd1d/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -33,8 +29,7 @@
   "ranking": {
     "comicCount": 268,
     "eventCount": 11,
-    "pageviewCount": 188,
-    "pageviewRank": -1,
+    "pageviewCount": 1806,
     "serieCount": 93,
     "storyCount": 303
   },
@@ -43,6 +38,7 @@
   ],
   "species": [
   ],
+  "superName": "Vision",
   "teams": [
     "Battle-Axis",
     "Invaders"

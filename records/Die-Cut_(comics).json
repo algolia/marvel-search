@@ -9,9 +9,9 @@
   ],
   "description": "Die-Cut (real name: Czorn Yson) is a fictional character who appears in comic books published by the Marvel UK imprint of Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Die-Cut",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 16,
-    "pageviewRank": -1,
+    "pageviewCount": 133,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,9 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "Die-Cut",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Die-Cut_(comics)"
   }
 }

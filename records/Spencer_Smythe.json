@@ -10,11 +10,8 @@
   "description": "Spencer Smythe is a fictional character, a comic book villain in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/SpiderSlayers.jpg/220px-SpiderSlayers.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Spencer Smythe",
   "partners": [
@@ -24,22 +21,22 @@
     "Robotics"
   ],
   "ranking": {
-    "comicCount": 4,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 130,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 4
+    "pageviewCount": 915,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
     "Human"
   ],
+  "superName": "Spencer Smythe",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2767/spencer_smythe",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Spencer_Smythe"
   }
 }

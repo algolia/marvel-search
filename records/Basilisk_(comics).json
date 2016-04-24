@@ -10,10 +10,9 @@
   ],
   "description": "The Basilisk is the name of four fictional characters that appear in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/MTU047011basilisk.png/225px-MTU047011basilisk.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Basilisk",
   "partners": [
@@ -36,8 +35,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 90,
-    "pageviewRank": -1,
+    "pageviewCount": 657,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -51,11 +49,13 @@
   ],
   "species": [
   ],
+  "superName": "Basilisk",
   "teams": [
     "Brotherhood of Mutants",
     "Xavier Institute student body"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Basilisk_(comics)"
   }
 }

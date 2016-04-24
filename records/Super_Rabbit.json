@@ -7,10 +7,9 @@
   ],
   "description": "Super Rabbit is a fictional, funny-animal superhero in comic books published by Timely Comics, a predecessor of Marvel Comics, during the 1930s and '40s period fans and historians call the Golden Age of comic books.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/SuperRabbit6.jpg/180px-SuperRabbit6.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Super Rabbit",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 34,
-    "pageviewRank": -1,
+    "pageviewCount": 333,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,9 +30,11 @@
   ],
   "species": [
   ],
+  "superName": "Super Rabbit",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Super_Rabbit"
   }
 }

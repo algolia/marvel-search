@@ -7,15 +7,13 @@
     "Mike Allred",
     "Peter Milligan"
   ],
-  "description": "Spike and The Spike are the names of several fictional characters in Marvel Comics.",
+  "description": "Spike is the names of several fictional characters in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "The Spike",
+  "name": "Spike",
   "partners": [
   ],
   "powers": [
@@ -23,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 165,
-    "pageviewRank": -1,
+    "pageviewCount": 1188,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,12 +31,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Spike",
   "teams": [
     "X-Force",
     "X-Statix"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2343/the_spike",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Spike_(Marvel_Comics)"
   }
 }

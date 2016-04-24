@@ -9,10 +9,9 @@
   ],
   "description": "Hera is a fictional deity in the Marvel Comics Universe based on the Greek Goddess of the same name.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Hera_in_Hercules.jpg/250px-Hera_in_Hercules.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hera",
   "partners": [
@@ -22,9 +21,6 @@
     "Durability",
     "Energy manipulation",
     "Healing factor",
-    "Healing factor cure",
-    "Immortality",
-    "Magical powers",
     "Reflexes",
     "Shapeshifting",
     "Speed",
@@ -36,8 +32,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 53,
-    "pageviewRank": -1,
+    "pageviewCount": 526,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -46,11 +41,13 @@
   ],
   "species": [
   ],
+  "superName": "Hera",
   "teams": [
     "Olympian Gods",
     "Olympians"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hera_(Marvel_Comics)"
   }
 }

@@ -9,10 +9,9 @@
   ],
   "description": "Orka is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Sub-mariner23.jpg/250px-Sub-mariner23.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Orka",
   "partners": [
@@ -22,20 +21,17 @@
   ],
   "powers": [
     "Agility",
-    "Can communicate with",
     "Durability",
     "Land adaptation via belt",
     "Speed",
     "Stamina",
     "Superhuman strength",
-    "Superhuman swimming speed",
-    "Swim at superhuman speeds"
+    "Superhuman swimming speed"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 112,
-    "pageviewRank": -1,
+    "pageviewCount": 697,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -45,6 +41,7 @@
   "species": [
     "Homo mermanus"
   ],
+  "superName": "Orka",
   "teams": [
     "Brand Corporation",
     "Deep Six",
@@ -52,6 +49,7 @@
     "Roxxon Energy Corporation"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Orka_(comics)"
   }
 }

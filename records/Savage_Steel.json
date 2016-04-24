@@ -8,10 +8,9 @@
   ],
   "description": "Savage Steel is an identity used by several fictional characters in the Marvel Universe, most notably Jimmy Zafar.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Original_Savage_Steel_Armor.jpg/250px-Original_Savage_Steel_Armor.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Savage Steel",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 26,
-    "pageviewRank": -1,
+    "pageviewCount": 212,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -44,12 +42,14 @@
   "species": [
     "Human Technology User"
   ],
+  "superName": "Savage Steel",
   "teams": [
     "Darkhawk",
     "the Cabal",
     "the Cabal, Darkhawk"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Savage_Steel"
   }
 }

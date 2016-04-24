@@ -9,9 +9,9 @@
   ],
   "description": "Tyrak is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Tyrak",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 37,
-    "pageviewRank": -1,
+    "pageviewCount": 330,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +32,12 @@
   "species": [
     "Homo mermanus"
   ],
+  "superName": "Tyrak",
   "teams": [
     "Servant of Attuma"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Tyrak"
   }
 }

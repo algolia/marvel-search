@@ -11,32 +11,20 @@
   "description": "Hellion (Julian Keller) is a fictional character, a mutant appearing in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4c0038ee5a898/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/c0/4c0038ee5a898/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hellion",
   "partners": [
   ],
   "powers": [
-    "Barriers",
     "Psychokinesis",
-    "Telekinesis",
-    "Telekinetic aura",
-    "Telekinetic blasts",
-    "Telekinetic bolts",
-    "Telekinetic crushing",
-    "Telekinetic projectiles",
-    "Telekinetic shields",
-    "Telekinetic waves"
+    "Telekinesis"
   ],
   "ranking": {
     "comicCount": 13,
     "eventCount": 1,
-    "pageviewCount": 152,
-    "pageviewRank": -1,
+    "pageviewCount": 1266,
     "serieCount": 7,
     "storyCount": 9
   },
@@ -46,6 +34,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Hellion",
   "teams": [
     "Hellions",
     "Hellions training squad",

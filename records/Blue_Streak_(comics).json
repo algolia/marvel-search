@@ -15,10 +15,9 @@
   ],
   "description": "Blue Streak is the name of three Marvel Comics supervillains.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Blue-streak.jpg/249px-Blue-streak.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Blue Streak",
   "partners": [
@@ -32,8 +31,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 62,
-    "pageviewRank": -1,
+    "pageviewCount": 515,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -45,13 +43,16 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Blue Streak",
   "teams": [
     "A-Next",
     "Corporation",
+    "Fast Five",
     "S.H.I.E.L.D",
     "X-People"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Blue_Streak_(comics)"
   }
 }

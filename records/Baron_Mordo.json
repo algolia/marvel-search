@@ -1,17 +1,15 @@
 {
   "aliases": [
-    "Baron Mordo"
   ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "Baron Karl Amadeus Mordo (known as Baron Mordo) is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
+  "description": "Baron Karl Amadeus Mordo (known as Baron Mordo) is a fictional supervillain appearing in American comic books published by Marvel Comics, commonly as an adversary of Doctor Strange.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/46/Mordo.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Baron Mordo",
   "partners": [
@@ -31,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1610,
-    "pageviewRank": -1,
+    "pageviewCount": 21469,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,12 +38,14 @@
   ],
   "species": [
   ],
+  "superName": "Baron Mordo",
   "teams": [
     "Defenders",
     "Legion Accursed",
     "Offenders"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Baron_Mordo"
   }
 }

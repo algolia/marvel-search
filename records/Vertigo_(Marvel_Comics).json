@@ -6,16 +6,13 @@
     "Chris Claremont",
     "Michael Golden"
   ],
-  "description": "Vertigo was a native of the Savage Land and mutated by the mutant known as Magneto, granting her the power to alter the perceptions of others.",
+  "description": "Vertigo is a native of the Savage Land who obtained superhuman powers at a young age by genetic engineering.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Vertigo236.jpg/250px-Vertigo236.jpg"
   },
-  "isHero": true,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Vertigo (Savage Land Mutate)",
+  "name": "Vertigo",
   "partners": [
   ],
   "powers": [
@@ -23,25 +20,25 @@
     "Unconsciousness"
   ],
   "ranking": {
-    "comicCount": 23,
-    "eventCount": 2,
-    "pageviewCount": 212,
-    "pageviewRank": -1,
-    "serieCount": 11,
-    "storyCount": 21
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1416,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
     "Savage Land Mutates"
   ],
+  "superName": "Vertigo",
   "teams": [
     "Femizons",
     "Marauders",
     "Savage Land Mutates"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2483/vertigo",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Vertigo_(Marvel_Comics)"
   }
 }

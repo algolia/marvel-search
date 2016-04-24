@@ -23,13 +23,10 @@
   "description": "The Captain (formerly Captain ☠☠☠☠, with the crosses denoting censorship of an expletive) is a fictional character, a satiric Marvel Comics superhero  appearing in the book Nextwave.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c00324c12ba2/standard_xlarge.jpg"
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Captain Universe",
+  "name": "Captain",
   "partners": [
   ],
   "powers": [
@@ -37,24 +34,24 @@
     "Flight & enhanced sight"
   ],
   "ranking": {
-    "comicCount": 17,
-    "eventCount": 1,
-    "pageviewCount": 71,
-    "pageviewRank": -1,
-    "serieCount": 10,
-    "storyCount": 20
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 538,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Captain",
   "teams": [
     "Features of the Marvel Universe",
     "H.A.T.E",
     "Nextwave"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/392/captain_universe",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Captain_(comics)"
   }
 }

@@ -9,9 +9,9 @@
   ],
   "description": "Man-Bull is a fictional character, a supervillain from Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Man-Bull",
   "partners": [
@@ -26,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 117,
-    "pageviewRank": -1,
+    "pageviewCount": 904,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,12 +35,14 @@
   ],
   "species": [
   ],
+  "superName": "Man-Bull",
   "teams": [
     "Death Squad",
     "Frightful Four",
     "Vil-Anon"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Man-Bull"
   }
 }

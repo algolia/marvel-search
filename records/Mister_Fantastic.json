@@ -8,30 +8,26 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Mister Fantastic (Reed Richards) is a fictional character, a superhero that appears in comic books published by Marvel Comics.",
+  "description": "Mister Fantastic (Reed Richards) is a fictional superhero appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Reedr.jpg/250px-Reedr.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mister Fantastic",
   "partners": [
   ],
   "powers": [
-    "Cutting/slashing",
     "Electricity",
     "Endurance",
     "Genius-level intellect",
     "Malleability",
-    "Piercing/stabbing",
     "Shapeshifting"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1599,
-    "pageviewRank": -1,
+    "pageviewCount": 13326,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,6 +37,7 @@
   "species": [
     "Mutate"
   ],
+  "superName": "Mister Fantastic",
   "teams": [
     "Avengers",
     "Defenders",
@@ -49,6 +46,7 @@
     "Illuminati"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mister_Fantastic"
   }
 }

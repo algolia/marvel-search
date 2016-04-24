@@ -10,10 +10,9 @@
   ],
   "description": "Haven (Radha Dastoor) is a fictional mutant character in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/84/Haven%28comics%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Haven",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 53,
-    "pageviewRank": -1,
+    "pageviewCount": 278,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,9 +33,11 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Haven",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Haven_(comics)"
   }
 }

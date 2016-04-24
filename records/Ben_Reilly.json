@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Ben Reilly",
     "Henry Jones",
     "Peter Parker",
     "Scarlet Spider",
@@ -18,11 +17,8 @@
   "description": "Ben Reilly was the most genetically stable of the many clones of Spider-Man created by Professor Miles Warren, the Jackal.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/4ce5a6abaea69/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/20/4ce5a6abaea69/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ben Reilly",
   "partners": [
@@ -42,8 +38,7 @@
   "ranking": {
     "comicCount": 4,
     "eventCount": 0,
-    "pageviewCount": 721,
-    "pageviewRank": -1,
+    "pageviewCount": 4865,
     "serieCount": 3,
     "storyCount": 4
   },
@@ -53,6 +48,7 @@
   ],
   "species": [
   ],
+  "superName": "Ben Reilly",
   "teams": [
     "New Warriors"
   ],

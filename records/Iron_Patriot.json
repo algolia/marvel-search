@@ -8,11 +8,8 @@
   "description": "Iron Patriot is a fictional powered exoskeleton used by several characters in Marvel Comics.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/d/03/537bb26775545.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/8/90/537bb2503ac5b.jpg",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/22/Iron_Patriot.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/537bb23511f8f/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
@@ -39,8 +36,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 692,
-    "pageviewRank": -1,
+    "pageviewCount": 6256,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -48,6 +44,7 @@
   ],
   "species": [
   ],
+  "superName": "Iron Patriot",
   "teams": [
     "Dark Avengers"
   ],

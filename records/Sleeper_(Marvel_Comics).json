@@ -11,10 +11,8 @@
   "description": "Sleeper is a fictional character in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sleeper",
   "partners": [
@@ -22,22 +20,22 @@
   "powers": [
   ],
   "ranking": {
-    "comicCount": 3,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 41,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 2
+    "pageviewCount": 476,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Sleeper",
   "teams": [
     "Skeleton Crew"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2140/sleeper",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sleeper_(Marvel_Comics)"
   }
 }

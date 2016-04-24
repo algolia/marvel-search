@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Dr. Farley Stillwell",
-    "Farley Stillwell"
+    "Dr. Farley Stillwell"
   ],
   "authors": [
     "Stan Lee",
@@ -9,11 +8,11 @@
   ],
   "description": "Farley Stillwell is a fictional scientist in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Dr. Farley Stillwell",
+  "name": "Farley Stillwell",
   "partners": [
   ],
   "powers": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 31,
-    "pageviewRank": -1,
+    "pageviewCount": 262,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,9 +30,11 @@
   "species": [
     "Human"
   ],
+  "superName": "Farley Stillwell",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Farley_Stillwell"
   }
 }

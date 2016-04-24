@@ -10,11 +10,8 @@
   "description": "Scalphunter (John Greycrow) is a fictional mutant villain character in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4ce5a473b81b3/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Scalphunter",
   "partners": [
@@ -25,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 84,
-    "pageviewRank": -1,
+    "pageviewCount": 716,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,6 +32,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Scalphunter",
   "teams": [
     "Marauders",
     "United States Army"

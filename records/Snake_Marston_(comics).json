@@ -8,9 +8,9 @@
   ],
   "description": "Sylvester \"Snake\" Marston is a fictional character in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Snake Marston",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 25,
-    "pageviewRank": -1,
+    "pageviewCount": 212,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,12 +30,14 @@
   ],
   "species": [
   ],
+  "superName": "Snake Marston",
   "teams": [
     "Enforcers",
     "Satan Squad",
     "Thunderbolts"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Snake_Marston_(comics)"
   }
 }

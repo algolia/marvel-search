@@ -2,23 +2,20 @@
   "aliases": [
     "Harold Howard",
     "Harold Howard{{issue|date",
-    "Kingpin",
     "The Brainwasher",
     "The Kingpin",
     "Wilson Fisk"
   ],
   "authors": [
+    "John Romita Sr.",
     "John Romita, Sr.",
     "Stan Lee"
   ],
-  "description": "The Kingpin (Wilson Fisk) is a fictional character, a supervillain in the Marvel Comics Universe.",
+  "description": "The Kingpin (real name Wilson Fisk) is a fictional supervillain appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/526034fb5aff7/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Kingpin",
   "partners": [
@@ -27,7 +24,6 @@
     "Durability",
     "Genius-level intellect",
     "Highly skilled planner",
-    "Manipulator",
     "Organizer",
     "Peak-level strength",
     "Tactician",
@@ -36,8 +32,7 @@
   "ranking": {
     "comicCount": 102,
     "eventCount": 4,
-    "pageviewCount": 4763,
-    "pageviewRank": -1,
+    "pageviewCount": 38038,
     "serieCount": 40,
     "storyCount": 98
   },
@@ -46,8 +41,10 @@
   ],
   "species": [
   ],
+  "superName": "Kingpin",
   "teams": [
     "Emissaries of Evil",
+    "HYDRA",
     "Hydra",
     "The Hand"
   ],

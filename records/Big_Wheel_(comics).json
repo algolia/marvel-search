@@ -10,24 +10,19 @@
   "description": "Big Wheel is a Marvel Comics supervillain created by Marv Wolfman, Ross Andru, and Mike Esposito.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c0040b26877d/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/3/00/4c0040b26877d/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Big Wheel",
   "partners": [
   ],
   "powers": [
-    "Drives large metal wheel",
     "Waldo-arms"
   ],
   "ranking": {
     "comicCount": 2,
     "eventCount": 0,
-    "pageviewCount": 80,
-    "pageviewRank": -1,
+    "pageviewCount": 606,
     "serieCount": 2,
     "storyCount": 2
   },
@@ -36,6 +31,7 @@
   ],
   "species": [
   ],
+  "superName": "Big Wheel",
   "teams": [
     "Vil-Anon"
   ],

@@ -10,10 +10,9 @@
   ],
   "description": "Arkon is a fictional character in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6c/ArkonC.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Arkon",
   "partners": [
@@ -32,8 +31,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 187,
-    "pageviewRank": -1,
+    "pageviewCount": 1424,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,9 +39,11 @@
   ],
   "species": [
   ],
+  "superName": "Arkon",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Arkon"
   }
 }

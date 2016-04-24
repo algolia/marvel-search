@@ -9,10 +9,9 @@
   ],
   "description": "Transonic (Laurie Tromette) is a fictional comic book superhero appearing in books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/31/XMEN-Transonic.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Transonic",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 52,
-    "pageviewRank": -1,
+    "pageviewCount": 700,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,12 +32,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Transonic",
   "teams": [
     "Hope Summers",
     "The Lights",
     "X-Men"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Transonic_(comics)"
   }
 }

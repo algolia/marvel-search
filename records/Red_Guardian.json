@@ -1,7 +1,8 @@
 {
   "aliases": [
     "Red Guardian",
-    "Ronin"
+    "Ronin",
+    "Steel Guardian"
   ],
   "authors": [
     "John Buscema",
@@ -11,16 +12,16 @@
   ],
   "description": "The Red Guardian is the name of several comic book superheroes in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/69/Avengers-43.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Red Guardian",
   "partners": [
   ],
   "powers": [
     "Belt-buckle",
+    "Carries a steel shield",
     "Expert pilot",
     "Highly skilled athlete",
     "Use of disc"
@@ -28,20 +29,24 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 272,
-    "pageviewRank": -1,
+    "pageviewCount": 2320,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Alexei Shostakov"
+    "Alexei Shostakov",
+    "Josef Petkus"
   ],
   "species": [
   ],
+  "superName": "Red Guardian",
   "teams": [
-    "KGB"
+    "KGB",
+    "Supreme Soviets",
+    "Winter Guard"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Red_Guardian"
   }
 }

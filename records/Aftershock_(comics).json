@@ -10,10 +10,9 @@
   ],
   "description": "Aftershock (Allison Dillon) is a fictional character, a supervillain that appears in the Marvel Comics' Spider-Girl series.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ea/MC2Aftershock.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Aftershock",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 46,
-    "pageviewRank": -1,
+    "pageviewCount": 393,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,9 +37,11 @@
   ],
   "species": [
   ],
+  "superName": "Aftershock",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Aftershock_(comics)"
   }
 }

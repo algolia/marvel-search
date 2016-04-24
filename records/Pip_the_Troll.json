@@ -8,10 +8,9 @@
   ],
   "description": "Pip the Troll is a fictional character who appears in publications of Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/PipTheTroll.png/150px-PipTheTroll.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Pip the Troll",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 151,
-    "pageviewRank": -1,
+    "pageviewCount": 1044,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,11 +33,13 @@
   ],
   "species": [
   ],
+  "superName": "Pip the Troll",
   "teams": [
     "Infinity Watch",
     "X-Factor Investigations"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Pip_the_Troll"
   }
 }

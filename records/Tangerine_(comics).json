@@ -8,10 +8,9 @@
   ],
   "description": "Tangerine is a fictional character appearing in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/TaniaReen.JPG/180px-TaniaReen.JPG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Tangerine",
   "partners": [
@@ -20,13 +19,13 @@
     "Empathy",
     "Psionic-electric blasts",
     "Psychometry",
+    "Psychometry (paranormal)",
     "Telepathy"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 18,
-    "pageviewRank": -1,
+    "pageviewCount": 176,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,11 +33,13 @@
   ],
   "species": [
   ],
+  "superName": "Tangerine",
   "teams": [
     "MI-13",
     "Resistance Coordination Executive"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Tangerine_(comics)"
   }
 }

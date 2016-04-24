@@ -10,11 +10,8 @@
   "description": "Dirk Garthwaite, the son of a construction worker and abusive father and husband, grew up filled with resentment and anger toward his father, who abandoned the family, and quickly turned to crime, in which he used a crowbar as a reminder of his father, destroying each place he robbed.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/25/Wreck3.png"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Wrecker",
   "partners": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 149,
-    "pageviewRank": -1,
+    "pageviewCount": 1252,
     "serieCount": 3,
     "storyCount": 6
   },
@@ -43,6 +39,7 @@
   ],
   "species": [
   ],
+  "superName": "Wrecker",
   "teams": [
     "Frightful Four",
     "Legion Accursed",

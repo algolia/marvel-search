@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Spider-Man"
   ],
   "authors": [
     "Stan Lee",
@@ -9,18 +8,15 @@
   "description": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/537ba2184e75f.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/6/60/538cd3628a05e.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Spider-Verse_Spider-Men.jpg/250px-Spider-Verse_Spider-Men.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
     "hexa": "121F39",
     "red": 18
   },
-  "name": "Spider-Man",
+  "name": "Spider-Man (Gerry Drew)",
   "partners": [
   ],
   "powers": [
@@ -28,8 +24,7 @@
   "ranking": {
     "comicCount": 2593,
     "eventCount": 29,
-    "pageviewCount": 14,
-    "pageviewRank": -1,
+    "pageviewCount": 151,
     "serieCount": 537,
     "storyCount": 4197
   },
@@ -37,6 +32,7 @@
   ],
   "species": [
   ],
+  "superName": "Spider-Man",
   "teams": [
   ],
   "urls": {

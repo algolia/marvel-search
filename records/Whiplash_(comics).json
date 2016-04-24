@@ -8,20 +8,17 @@
     "Erik Larsen",
     "Gene Colan",
     "Marc Guggenheim",
-    "Marko Djurdjevi%C4%87",
+    "Marko Djurdjević",
     "Philipe Briones",
     "Stan Lee"
   ],
-  "description": "Filled with dreams of grandeur, Mark Scarlotti was a brilliant young man with a bright future who graduated with top honors from college and immediately had a promising job at Stark International, but it all went south, however, when he became friends with the wrong people who wanted him to develop weapons, which Scarlotti used to become the first Whiplash.",
+  "description": "Whiplash is the name of multiple fictional characters in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MarvelTeam-Up145.jpg/250px-MarvelTeam-Up145.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Whiplash (Mark Scarlotti)",
+  "name": "Whiplash",
   "partners": [
   ],
   "powers": [
@@ -31,15 +28,14 @@
     "Wears a"
   ],
   "ranking": {
-    "comicCount": 10,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 715,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 12
+    "pageviewCount": 6297,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
-    "Anton Vanko",
+    "Ivan Vanko",
     "Leeann Foreman",
     "Marco Scarlotti"
   ],
@@ -47,6 +43,7 @@
     "Human",
     "Mutant"
   ],
+  "superName": "Whiplash",
   "teams": [
     "Band of Baddies",
     "Death Squad",
@@ -57,7 +54,7 @@
     "Sinister Syndicate"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2549/whiplash",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Whiplash_(comics)"
   }
 }

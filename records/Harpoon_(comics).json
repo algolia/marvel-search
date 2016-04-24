@@ -5,15 +5,14 @@
   "authors": [
     "Chris Claremont",
     "Dan Green",
+    "John Romita Jr.",
     "John Romita, Jr."
   ],
   "description": "Harpoon (Kodiak Noatak) is a fictional character created by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Harpoon",
   "partners": [
@@ -21,12 +20,11 @@
   "powers": [
   ],
   "ranking": {
-    "comicCount": 12,
-    "eventCount": 2,
-    "pageviewCount": 89,
-    "pageviewRank": -1,
-    "serieCount": 4,
-    "storyCount": 11
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 761,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Kodiak Noatak"
@@ -34,11 +32,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Harpoon",
   "teams": [
     "Marauders"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/906/harpoon",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Harpoon_(comics)"
   }
 }

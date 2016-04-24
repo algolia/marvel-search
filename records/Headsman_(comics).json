@@ -9,19 +9,11 @@
   ],
   "description": "Headsman is a fictional character in the Marvel Universe.",
   "images": {
-    "background": "http://x.annihil.us/u/prod/marvel/i/mg/3/90/5398a3e5255d1.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/538cf0e1c4a90.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4cd05ee55faa2/standard_xlarge.jpg"
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
-  "mainColor": {
-    "blue": 11,
-    "green": 37,
-    "hexa": "17250B",
-    "red": 23
-  },
-  "name": "Green Goblin (Barry Norman Osborn)",
+  "mainColor": null,
+  "name": "Headsman",
   "partners": [
   ],
   "powers": [
@@ -29,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 39,
-    "pageviewRank": -1,
+    "pageviewCount": 462,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,11 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Headsman",
   "teams": [
     "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/852/green_goblin",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Headsman_(comics)"
   }
 }

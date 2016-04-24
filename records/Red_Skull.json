@@ -22,14 +22,11 @@
     "Jack Kirby",
     "Joe Simon"
   ],
-  "description": "The Red Skull is a fictional character, a supervillain that appears in comic books published by Marvel Comics.",
+  "description": "The Red Skull is a fictional supervillain appearing in American comic books published by Marvel Comics, and is the archenemy of the superhero Captain America.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/526036550cd37/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/03/526036550cd37/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Red Skull",
   "partners": [
@@ -39,7 +36,7 @@
     "Crossbones",
     "Sin",
     "The Viper",
-    "Viper"
+    "Viper (Madame Hydra)"
   ],
   "powers": [
     "Captain america",
@@ -51,8 +48,7 @@
   "ranking": {
     "comicCount": 103,
     "eventCount": 4,
-    "pageviewCount": 2088,
-    "pageviewRank": 9383,
+    "pageviewCount": 17663,
     "serieCount": 55,
     "storyCount": 98
   },
@@ -61,12 +57,14 @@
   ],
   "species": [
   ],
+  "superName": "Red Skull",
   "teams": [
     "AIM",
     "Advanced Idea Mechanics",
     "Aleksander Lukin",
     "Astonishing Avengers",
     "Exiles",
+    "Exiles (Red Skull allies)",
     "Features of the Marvel Universe",
     "Hydra",
     "Kronas Corporation",

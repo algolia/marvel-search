@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Alex Power",
     "Destroyer",
     "Gee",
     "Mass Master",
@@ -15,11 +14,8 @@
   "description": "Alexander \"Alex\" Power (also known as Zero-G) is a fictional character in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce5a385a2e82/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Alex Power",
   "partners": [
@@ -37,8 +33,7 @@
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 175,
-    "pageviewRank": -1,
+    "pageviewCount": 1144,
     "serieCount": 1,
     "storyCount": 1
   },
@@ -47,6 +42,7 @@
   ],
   "species": [
   ],
+  "superName": "Alex Power",
   "teams": [
     "Future Foundation",
     "New Warriors",

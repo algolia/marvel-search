@@ -11,10 +11,9 @@
   ],
   "description": "Garokk (also known as the Petrified Man) is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Garokk.PNG/150px-Garokk.PNG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Garokk",
   "partners": [
@@ -34,8 +33,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 65,
-    "pageviewRank": -1,
+    "pageviewCount": 481,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -47,9 +45,11 @@
   ],
   "species": [
   ],
+  "superName": "Garokk",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Garokk"
   }
 }

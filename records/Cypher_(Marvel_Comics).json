@@ -6,13 +6,11 @@
     "Chris Claremont",
     "Sal Buscema"
   ],
+  "description": "Cypher (Douglas \"Doug\" Ramsey) is a fictional superhero that appears in comic books published by Marvel Comics, usually in the X-Men family of books, in particular those featuring The New Mutants, of which Cypher has been a member.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/10/4ce5a70abf6fb/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Cypher",
   "partners": [
@@ -28,8 +26,7 @@
   "ranking": {
     "comicCount": 7,
     "eventCount": 2,
-    "pageviewCount": 292,
-    "pageviewRank": -1,
+    "pageviewCount": 1765,
     "serieCount": 2,
     "storyCount": 7
   },
@@ -38,7 +35,9 @@
     "Douglas Aaron Ramsey"
   ],
   "species": [
+    "Mutant"
   ],
+  "superName": "Cypher",
   "teams": [
     "Hellions",
     "New Mutants",

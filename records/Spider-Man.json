@@ -22,11 +22,8 @@
   "description": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/537ba2184e75f.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/6/60/538cd3628a05e.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/538cd33e15ab7/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
@@ -38,23 +35,18 @@
   ],
   "powers": [
     "Agility",
-    "Endurance",
     "Genius",
     "Genius-level intellect",
-    "Healing factor",
     "Precognitive",
     "Precognitive spider-sense",
-    "Reflexes",
     "Speed",
     "Spider-sense",
-    "Stamina",
     "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 2593,
     "eventCount": 29,
-    "pageviewCount": 11812,
-    "pageviewRank": 1537,
+    "pageviewCount": 89463,
     "serieCount": 537,
     "storyCount": 4197
   },
@@ -64,13 +56,13 @@
   "species": [
     "Mutate"
   ],
+  "superName": "Spider-Man",
   "teams": [
     "Avengers",
     "Defenders",
     "Fantastic Four",
     "Future Foundation",
     "Heroes for Hire",
-    "Parker Industries",
     "The New Avengers",
     "X-Mansion"
   ],

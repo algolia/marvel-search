@@ -8,10 +8,9 @@
   ],
   "description": "Gorgilla is a fictional character that appears in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/TTA-12.jpg/250px-TTA-12.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Gorgilla",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 24,
-    "pageviewRank": -1,
+    "pageviewCount": 229,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +32,12 @@
   ],
   "species": [
   ],
+  "superName": "Gorgilla",
   "teams": [
     "Fin Fang Four"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Gorgilla"
   }
 }

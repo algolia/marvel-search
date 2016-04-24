@@ -1,15 +1,17 @@
 {
   "aliases": [
-    "Bruto"
+    "Bruto",
+    "Strongman"
   ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
+  "description": "The Strongman is the name of different fictional characters appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Strongman",
   "partners": [
@@ -20,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 38,
-    "pageviewRank": -1,
+    "pageviewCount": 281,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,10 +31,12 @@
   ],
   "species": [
   ],
+  "superName": "Strongman",
   "teams": [
     "Circus of Crime"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Strongman_(comics)"
   }
 }

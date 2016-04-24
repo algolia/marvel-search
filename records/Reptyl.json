@@ -11,9 +11,9 @@
   ],
   "description": "Reptyl is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Reptyl",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 38,
-    "pageviewRank": -1,
+    "pageviewCount": 328,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,9 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "Reptyl",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Reptyl"
   }
 }

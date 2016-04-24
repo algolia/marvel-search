@@ -13,11 +13,8 @@
   "description": "Sage, also known as Tessa, is a fictional character in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c003c44095cb/standard_xlarge.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sage",
   "partners": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 433,
-    "pageviewRank": -1,
+    "pageviewCount": 2620,
     "serieCount": 6,
     "storyCount": 6
   },
@@ -40,6 +36,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Sage",
   "teams": [
     "Excalibur",
     "Exiles",

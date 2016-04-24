@@ -1,6 +1,7 @@
 {
   "aliases": [
     "Derek Sullivan",
+    "Eric O'Grady",
     "G.I. Ant-Man",
     "Slaying Mantis"
   ],
@@ -8,13 +9,11 @@
     "Phil Hester",
     "Robert Kirkman"
   ],
+  "description": null,
   "images": {
     "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/universe3zx/images/8/83/Ant-Man(O'Grady)_Head.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/53176aa9df48d/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Ant-Man (Eric O'Grady)",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 32,
     "eventCount": 7,
-    "pageviewCount": 456,
-    "pageviewRank": -1,
+    "pageviewCount": 3651,
     "serieCount": 13,
     "storyCount": 32
   },
@@ -37,6 +35,7 @@
   ],
   "species": [
   ],
+  "superName": "Ant-Man",
   "teams": [
     "Damage Control",
     "Illuminati",

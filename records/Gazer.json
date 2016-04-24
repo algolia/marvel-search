@@ -8,16 +8,13 @@
     "Peter Milligan  Salvador Larroca",
     "Salvador Larroca"
   ],
-  "description": "A young veteran wounded during the Vietnam War, Abraham Kieros was selected by Apocalypse to become the Horseman War.",
+  "description": "Gazer is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/GazerWar.png/250px-GazerWar.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "War (Abraham Kieros)",
+  "name": "Gazer",
   "partners": [
   ],
   "powers": [
@@ -26,12 +23,11 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 13,
-    "eventCount": 2,
-    "pageviewCount": 91,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 13
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1449,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "unrevealed"
@@ -40,13 +36,14 @@
     "Human Mutant",
     "Human Mutate"
   ],
+  "superName": "Gazer",
   "teams": [
     "Four Horsemen of Apocalypse",
     "Horsemen of Apocalypse",
     "NASA"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2519/war",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Gazer"
   }
 }

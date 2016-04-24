@@ -1,16 +1,17 @@
 {
   "aliases": [
+    "Midnight's Fire",
     "actual identities the character uses"
   ],
   "authors": [
     "Fabian Nicieza",
     "Mark Bagley"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Midnightsfire.png/160px-Midnightsfire.png"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Midnight's Fire",
   "partners": [
@@ -25,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 24,
-    "pageviewRank": -1,
+    "pageviewCount": 296,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,10 +35,12 @@
   ],
   "species": [
   ],
+  "superName": "Midnight's Fire",
   "teams": [
     "Folding Circle"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Midnight%27s_Fire"
   }
 }

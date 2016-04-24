@@ -8,16 +8,14 @@
   ],
   "authors": [
     "Paul Ryan",
+    "Paul Ryan (cartoonist)",
     "Tom DeFalco"
   ],
   "description": "Lyja is a fictional character in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c003594c52e8/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/3/40/4c003594c52e8/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Lyja",
   "partners": [
@@ -33,8 +31,7 @@
   "ranking": {
     "comicCount": 3,
     "eventCount": 0,
-    "pageviewCount": 149,
-    "pageviewRank": -1,
+    "pageviewCount": 1316,
     "serieCount": 3,
     "storyCount": 2
   },
@@ -44,6 +41,7 @@
   "species": [
     "Skrull"
   ],
+  "superName": "Lyja",
   "teams": [
     "Fantastic Four",
     "Skrull",

@@ -11,10 +11,9 @@
   ],
   "description": "Redstone is the name of two characters from Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/Redstone%28comics%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Redstone",
   "partners": [
@@ -28,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 38,
-    "pageviewRank": -1,
+    "pageviewCount": 301,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,12 +37,14 @@
   ],
   "species": [
   ],
+  "superName": "Redstone",
   "teams": [
     "Chinese government",
     "Redeemers",
     "Squadron Supreme"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Redstone_(comics)"
   }
 }

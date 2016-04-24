@@ -16,11 +16,8 @@
   "description": "Lilith is the name of two fictional American comic book characters owned by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/52740fe6287e4/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/3/e0/52740fe6287e4/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Lilith",
   "partners": [
@@ -32,8 +29,7 @@
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 198,
-    "pageviewRank": -1,
+    "pageviewCount": 1395,
     "serieCount": 5,
     "storyCount": 10
   },
@@ -42,6 +38,7 @@
   ],
   "species": [
   ],
+  "superName": "Lilith",
   "teams": [
     "Nick Fury's Howling Commandos",
     "S.H.I.E.L.D",

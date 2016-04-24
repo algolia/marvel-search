@@ -8,12 +8,11 @@
   ],
   "description": "Radian (Louis Armanetti) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Radian_Morituri.bmp/250px-Radian_Morituri.bmp.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Radian",
+  "name": "Radian (Morituri)",
   "partners": [
   ],
   "powers": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 11,
-    "pageviewRank": -1,
+    "pageviewCount": 94,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +31,12 @@
   ],
   "species": [
   ],
+  "superName": "Radian",
   "teams": [
     "Morituri"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Radian_(Morituri)"
   }
 }

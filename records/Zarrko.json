@@ -2,7 +2,9 @@
   "aliases": [
     "Boris",
     "The Tomorrow Man",
-    "Zarrko"
+    "Zarrko",
+    "Zarrko, the Tomorrow Man",
+    "the Tomorrow Man"
   ],
   "authors": [
     "Jack Kirby",
@@ -10,10 +12,9 @@
   ],
   "description": "Zarrko, the Tomorrow Man is a fictional character, a Marvel Comics supervillain, most commonly associated with Thor.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Journey_into_Mystery_101.jpg/220px-Journey_into_Mystery_101.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Zarrko",
   "partners": [
@@ -27,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 68,
-    "pageviewRank": -1,
+    "pageviewCount": 607,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,9 +37,11 @@
   ],
   "species": [
   ],
+  "superName": "Zarrko",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Zarrko"
   }
 }

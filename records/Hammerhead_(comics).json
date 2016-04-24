@@ -5,16 +5,14 @@
   ],
   "authors": [
     "Gerry Conway",
+    "John Romita Sr.",
     "John Romita, Sr."
   ],
   "description": "Hammerhead is a fictional character, a supervillain that has appeared in various comic book series published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c003ee47c207/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hammerhead",
   "partners": [
@@ -35,8 +33,7 @@
   "ranking": {
     "comicCount": 20,
     "eventCount": 0,
-    "pageviewCount": 321,
-    "pageviewRank": -1,
+    "pageviewCount": 2834,
     "serieCount": 11,
     "storyCount": 20
   },
@@ -45,6 +42,7 @@
   ],
   "species": [
   ],
+  "superName": "Hammerhead",
   "teams": [
     "Maggia",
     "Sinister Six",

@@ -1,14 +1,16 @@
 {
   "aliases": [
+    "Sagittarius"
   ],
   "authors": [
     "Roy Thomas",
     "Sal Buscema"
   ],
+  "description": "Sagittarius is the name of different fictional characters appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Sagittarius",
   "partners": [
@@ -18,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 39,
-    "pageviewRank": -1,
+    "pageviewCount": 286,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -28,10 +29,12 @@
   ],
   "species": [
   ],
+  "superName": "Sagittarius",
   "teams": [
     "Zodiac"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sagittarius_(comics)"
   }
 }

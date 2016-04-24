@@ -11,10 +11,9 @@
   ],
   "description": "Rom (also known as Rom The Space Knight or Rom: SpaceKnight) is a fictional character, a cosmic superhero in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Rom-1.jpg/250px-Rom-1.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Rom",
   "partners": [
@@ -30,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 578,
-    "pageviewRank": -1,
+    "pageviewCount": 7362,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,10 +40,12 @@
   ],
   "species": [
   ],
+  "superName": "Rom",
   "teams": [
     "Spaceknights"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Rom_(comics)"
   }
 }

@@ -9,10 +9,9 @@
   ],
   "description": "Delphyne Gorgon is a fictional character in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1c/Delphyne.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Delphyne Gorgon",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 86,
-    "pageviewRank": -1,
+    "pageviewCount": 619,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +32,12 @@
   "species": [
     "Human-Gorgon hybrid"
   ],
+  "superName": "Delphyne Gorgon",
   "teams": [
     "Amazons"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Delphyne_Gorgon"
   }
 }

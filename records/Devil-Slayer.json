@@ -10,10 +10,9 @@
   ],
   "description": "Devil-Slayer (Eric Simon Payne) is a fictional character that has appeared in various comic book series published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Devil-Slayer.jpg/250px-Devil-Slayer.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Devil-Slayer",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 99,
-    "pageviewRank": -1,
+    "pageviewCount": 815,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,6 +34,7 @@
   ],
   "species": [
   ],
+  "superName": "Devil-Slayer",
   "teams": [
     "Agents of Fortune",
     "Defenders",
@@ -43,6 +42,7 @@
     "Revengers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Devil-Slayer"
   }
 }

@@ -9,16 +9,13 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "The Fixer is a fictional character, a supervillain in Marvel Comics.",
+  "description": "The Fixer is the name of two different characters in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Fixer_%28comics%29.png/250px-Fixer_%28comics%29.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Fixer (Paul Norbert Ebersol)",
+  "name": "Fixer",
   "partners": [
     "Mentallo"
   ],
@@ -28,22 +25,23 @@
     "Robotic body"
   ],
   "ranking": {
-    "comicCount": 5,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 262,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 5
+    "pageviewCount": 1481,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Paul Norbert Ebersol"
   ],
   "species": [
   ],
+  "superName": "Fixer",
   "teams": [
     "Advanced Idea Mechanics",
     "Commission on Superhuman Activities",
     "Features of the Marvel Universe",
+    "HYDRA",
     "Hydra",
     "Masters of Evil",
     "New Enforcers",
@@ -51,7 +49,7 @@
     "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/704/fixer",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Fixer_(comics)"
   }
 }

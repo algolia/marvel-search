@@ -11,10 +11,9 @@
   ],
   "description": "Missing Link is the name of four fictional characters in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Missinglink%28comics%29.jpg/249px-Missinglink%28comics%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Missing Link",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 30,
-    "pageviewRank": -1,
+    "pageviewCount": 230,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,9 +34,11 @@
   ],
   "species": [
   ],
+  "superName": "Missing Link",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Missing_Link_(comics)"
   }
 }

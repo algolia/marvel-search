@@ -4,13 +4,13 @@
   "authors": [
     "Dave Cockrum"
   ],
+  "description": null,
   "images": {
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Ch%27od_%28Marvel_character%29.jpg/250px-Ch%27od_%28Marvel_character%29.jpg"
+    "background": null,
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4ce59f2dcd04d/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
-  "name": "Ch%27od",
+  "name": "Ch'od",
   "partners": [
   ],
   "powers": [
@@ -21,22 +21,23 @@
     "Swordsman"
   ],
   "ranking": {
-    "comicCount": 0,
-    "eventCount": 0,
-    "pageviewCount": 44,
-    "pageviewRank": -1,
-    "serieCount": 0,
-    "storyCount": 0
+    "comicCount": 40,
+    "eventCount": 2,
+    "pageviewCount": 378,
+    "serieCount": 15,
+    "storyCount": 33
   },
   "secretIdentities": [
     "Ch'od"
   ],
   "species": [
   ],
+  "superName": "Ch'od",
   "teams": [
     "Starjammers"
   ],
   "urls": {
+    "marvel": "http://marvel.com/characters/416/chod",
     "wikipedia": "https://en.wikipedia.org/wiki/Ch%27od"
   }
 }

@@ -12,10 +12,8 @@
   "description": "Cottonmouth is the name of two villains in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Cottonmouth",
   "partners": [
@@ -31,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 721,
-    "pageviewRank": -1,
+    "pageviewCount": 9697,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,12 +39,13 @@
   ],
   "species": [
   ],
+  "superName": "Cottonmouth",
   "teams": [
     "Flashmob",
     "Serpent Society"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/467/cottonmouth",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Cottonmouth_(comics)"
   }
 }

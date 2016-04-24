@@ -8,9 +8,9 @@
   ],
   "description": "Gatecrasher is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Gatecrasher",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 27,
-    "pageviewRank": -1,
+    "pageviewCount": 297,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,10 +28,12 @@
   ],
   "species": [
   ],
+  "superName": "Gatecrasher",
   "teams": [
     "Technet"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Gatecrasher_(Marvel_Comics)"
   }
 }

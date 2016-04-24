@@ -8,10 +8,9 @@
   ],
   "description": "Albino (Augusta Seger) is a fictional character, a supervillain in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d6/Albino.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Albino",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 16,
-    "pageviewRank": -1,
+    "pageviewCount": 173,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,9 +30,11 @@
   ],
   "species": [
   ],
+  "superName": "Albino",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Albino_(comics)"
   }
 }

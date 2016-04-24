@@ -8,10 +8,9 @@
   ],
   "description": "Mammomax is a fictional mammoth-shaped human mutant that has appeared in various comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/XMEN_Mammomax.jpg/200px-XMEN_Mammomax.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mammomax",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 62,
-    "pageviewRank": -1,
+    "pageviewCount": 497,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,11 +35,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Mammomax",
   "teams": [
     "Brotherhood of Mutants",
     "The 198"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mammomax"
   }
 }

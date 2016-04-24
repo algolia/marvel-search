@@ -1,15 +1,17 @@
 {
   "aliases": [
-    "Jagged Arrow"
+    "Jagged Arrow",
+    "Jagged Bow"
   ],
   "authors": [
     "David Michelinie",
     "Jerry Bingham"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Jagged Bow",
   "partners": [
@@ -20,7 +22,6 @@
     "comicCount": 0,
     "eventCount": 0,
     "pageviewCount": 0,
-    "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,9 +30,11 @@
   ],
   "species": [
   ],
+  "superName": "Jagged Bow",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jagged_Bow"
   }
 }

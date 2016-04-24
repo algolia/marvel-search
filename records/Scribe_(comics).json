@@ -9,9 +9,9 @@
   ],
   "description": "Scribe (Jane Hampshire) is a fictional character, a mutant in Marvel Comics' shared universe, the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Scribe",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 13,
-    "pageviewRank": -1,
+    "pageviewCount": 152,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +33,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Scribe",
   "teams": [
     "Hellfire Club"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Scribe_(comics)"
   }
 }

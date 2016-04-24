@@ -1,23 +1,21 @@
 {
   "aliases": [
     "Iron Fist",
-    "Power Man"
+    "Power Man",
+    "Power Man (Victor Alvarez)"
   ],
   "authors": [
     "Fred Van Lente",
     "Mahmud A. Asrar",
     "Mahmud Asrar"
   ],
-  "description": "A former street kid whoâ€™s not quite used to the Super Hero world, Luke is a no-nonsense tough guy who serves as the emotional heart and big brother of the group. He is fiercely loyal and nearly fearless in battle. \r\n\r\nLukeâ€™s unbreakable skin and super strength make him the bruiser out of all the trainees. Heâ€™s the first guy to jump into a fight. However, he can still be hurt by concussive blasts and other forms of energy.\r\n\r\nAs Dannyâ€™s best friend, Luke is the translator for Dannyâ€™s sometimes spacey, non-sequitur comments. Luke will always be the first to defend Peter from others, both as civilians and Super Heroes.",
+  "description": "Victor Alvarez is a fictional comic book superhero published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/52321806b45cf/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Power_man.jpg/250px-Power_man.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Power Man (USM)",
+  "name": "Power Man (Victor Alvarez)",
   "partners": [
     "Iron Fist"
   ],
@@ -27,28 +25,28 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 444,
-    "pageviewRank": -1,
+    "pageviewCount": 3897,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Victor Alvarez",
-    "Victor Hernan Alvarez"
+    "Victor Alvarez"
   ],
   "species": [
     "Human"
   ],
+  "superName": "Power Man",
   "teams": [
     "Avengers Academy",
     "Avengers Idea Mechanics",
     "Heroes for Hire",
     "Mighty Avengers",
     "The Chosen",
-    "The Mighty Avengers"
+    "The Mighty Avengers",
+    "The New Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1783/power_man",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Power_Man_(Victor_Alvarez)"
   }
 }

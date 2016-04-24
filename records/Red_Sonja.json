@@ -10,16 +10,14 @@
   ],
   "description": "Red Sonja, the She-Devil with a Sword, is a fictional character, a high fantasy sword and sorcery heroine created by Roy Thomas and Barry Windsor-Smith, and loosely based on Red Sonya of Rogatino in Robert E.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Marvel_Feature_1_%281975%29.jpg/250px-Marvel_Feature_1_%281975%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Red Sonja",
   "partners": [
   ],
   "powers": [
-    "As well as knowledge",
     "Expert",
     "Martial arts",
     "Martial arts expert"
@@ -27,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1008,
-    "pageviewRank": -1,
+    "pageviewCount": 7626,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,9 +33,11 @@
   ],
   "species": [
   ],
+  "superName": "Red Sonja",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Red_Sonja"
   }
 }

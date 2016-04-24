@@ -6,13 +6,13 @@
     "Gene Colan",
     "Len Wein"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Shehulk35.png/250px-Shehulk35.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Black Talon",
+  "name": "Black Talon (Samuel Barone)",
   "partners": [
     "Mama Limbo"
   ],
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 3,
-    "pageviewRank": -1,
+    "pageviewCount": 33,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,9 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "Black Talon",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Talon_(Samuel_Barone)"
   }
 }

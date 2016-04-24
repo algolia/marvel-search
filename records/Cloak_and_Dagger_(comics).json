@@ -1,22 +1,20 @@
 {
   "aliases": [
     "Cloak",
+    "Cloak and Dagger",
     "Dagger"
   ],
   "authors": [
     "Bill Mantlo",
     "Ed Hannigan"
   ],
-  "description": "Cloak (Tyrone \"Ty\" Johnson) and Dagger (Tandy Bowen) are a fictional comic book superhero duo in Marvel Universe.",
+  "description": "Cloak (Tyrone \"Ty\" Johnson) and Dagger (Tandy Bowen) are a fictional comic book superhero duo appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/528d31d76a2b0/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/27/Cloak_and_Dagger_1_%281983%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Cloak",
+  "name": "Cloak and Dagger",
   "partners": [
   ],
   "powers": [
@@ -26,12 +24,11 @@
     "Teleportation"
   ],
   "ranking": {
-    "comicCount": 33,
-    "eventCount": 3,
-    "pageviewCount": 1298,
-    "pageviewRank": -1,
-    "serieCount": 18,
-    "storyCount": 36
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 8779,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Tandy Bowen",
@@ -41,6 +38,7 @@
   "species": [
     "Mutate"
   ],
+  "superName": "Cloak and Dagger",
   "teams": [
     "Brides of Set",
     "Brides of Set (Dagger)",
@@ -55,7 +53,7 @@
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009241/cloak",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Cloak_and_Dagger_(comics)"
   }
 }

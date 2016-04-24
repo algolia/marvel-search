@@ -9,11 +9,8 @@
   "description": "Ricochet was an alternate identity used by the fictional superhero Spider-Man and later adopted by college student Johnny Gallo, who appeared in the Marvel Comics series Slingers.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/RicochetJohnny.jpg/220px-RicochetJohnny.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ricochet",
   "partners": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 136,
-    "pageviewRank": -1,
+    "pageviewCount": 1126,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,13 +37,15 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Ricochet",
   "teams": [
     "Avengers Academy",
+    "Loner",
     "Loners",
     "Slingers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1923/ricochet",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ricochet_(comics)"
   }
 }

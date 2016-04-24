@@ -15,21 +15,13 @@
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "description": "The Phoenix Force is an entity in the Marvel Comics fictional universe which has bonded with other characters, who often used the alias Phoenix.The Phoenix Force is famous for its central role in one of the most influential storylines in American superhero comics, The Dark Phoenix Saga, and is frequently linked to Jean Grey.",
+  "description": "The Phoenix Force is an entity in the Marvel Comics fictional universe which has bonded with other characters, who often used the alias Phoenix.The Phoenix Force is famous for its central role in The Dark Phoenix Saga storyline, and is frequently linked to Jean Grey.",
   "images": {
-    "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/537bb2d85e492.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/537bb2c79eebc.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc654cf9d0ac/standard_xlarge.jpg"
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Classic-X-Men-008-back.jpg/200px-Classic-X-Men-008-back.jpg"
   },
-  "isHero": true,
-  "isVillain": true,
-  "mainColor": {
-    "blue": 6,
-    "green": 6,
-    "hexa": "3F0606",
-    "red": 63
-  },
-  "name": "Jean Grey",
+  "mainColor": null,
+  "name": "Phoenix Force",
   "partners": [
   ],
   "powers": [
@@ -44,17 +36,17 @@
     "Telepathy"
   ],
   "ranking": {
-    "comicCount": 46,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1402,
-    "pageviewRank": -1,
-    "serieCount": 16,
-    "storyCount": 45
+    "pageviewCount": 13085,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Phoenix Force",
   "teams": [
     "Galactic Guardians",
     "Hellfire Club",
@@ -62,7 +54,7 @@
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/31/jean_grey",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Phoenix_Force_(comics)"
   }
 }

@@ -2,7 +2,6 @@
   "aliases": [
     "Number One",
     "Professor Andre Thorton",
-    "Professor Thorton",
     "The Professor"
   ],
   "authors": [
@@ -11,36 +10,34 @@
   "description": "Professor Andre Thorton (real name Truett Hudson; also known as The Professor) is a character in Marvel Comics, an enemy of Wolverine.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "The Professor",
+  "name": "Professor Thorton",
   "partners": [
   ],
   "powers": [
     "Genius-level intellect"
   ],
   "ranking": {
-    "comicCount": 6,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 83,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 5
+    "pageviewCount": 579,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Truett Hudson"
   ],
   "species": [
   ],
+  "superName": "Professor Thorton",
   "teams": [
     "Weapon Plus",
     "Weapon X"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1807/professor",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Professor_Thorton"
   }
 }

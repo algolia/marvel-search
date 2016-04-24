@@ -10,10 +10,9 @@
   ],
   "description": "The Black Talon is the name of a number of fictional characters, supervillains in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Shehulk35.png/250px-Shehulk35.png"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Black Talon",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 85,
-    "pageviewRank": -1,
+    "pageviewCount": 631,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,11 +36,14 @@
   "species": [
     "Human"
   ],
+  "superName": "Black Talon",
   "teams": [
     "Lethal Legion",
+    "Masters of Evil",
     "X-Humed"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Talon_(comics)"
   }
 }

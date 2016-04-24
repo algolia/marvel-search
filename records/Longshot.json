@@ -7,14 +7,11 @@
     "Art Adams",
     "Arthur Adams"
   ],
-  "description": "Longshot is a fictional comic book superhero appearing in books published by Marvel Comics, usually those featuring the X-Men family of characters.",
+  "description": "Longshot is a fictional superhero appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4c003d6176aa1/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Longshot",
   "partners": [
@@ -34,8 +31,7 @@
   "ranking": {
     "comicCount": 69,
     "eventCount": 5,
-    "pageviewCount": 658,
-    "pageviewRank": -1,
+    "pageviewCount": 4411,
     "serieCount": 21,
     "storyCount": 82
   },
@@ -45,6 +41,7 @@
     "Mojoverse slave race",
     "mutant"
   ],
+  "superName": "Longshot",
   "teams": [
     "Exiles",
     "New Excalibur",

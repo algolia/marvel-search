@@ -1,15 +1,16 @@
 {
   "aliases": [
+    "S'ym"
   ],
   "authors": [
     "Brent Anderson",
     "Chris Claremont"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Symface.jpg/175px-Symface.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "S'ym",
   "partners": [
@@ -21,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 67,
-    "pageviewRank": -1,
+    "pageviewCount": 432,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,9 +30,11 @@
   ],
   "species": [
   ],
+  "superName": "S'ym",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/S%27ym"
   }
 }

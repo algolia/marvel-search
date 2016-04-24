@@ -8,16 +8,13 @@
     "Eric Powell",
     "Stefano Caselli"
   ],
-  "description": "The Gauntlet (Joseph Green), is a comic book superhero in the Marvel Comics Universe.",
+  "description": "The Gauntlet (Joseph Green), is a comic book superhero in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/535ff2a48869b/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Gauntlet (Joseph Green)",
+  "name": "Gauntlet",
   "partners": [
   ],
   "powers": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 25,
     "eventCount": 4,
-    "pageviewCount": 59,
-    "pageviewRank": -1,
+    "pageviewCount": 540,
     "serieCount": 9,
     "storyCount": 27
   },
@@ -37,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Gauntlet",
   "teams": [
     "Avengers Resistance",
     "Counter Force",
@@ -46,7 +43,7 @@
     "United States Army"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009316/gauntlet_joseph_green",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Gauntlet_(comics)"
   }
 }

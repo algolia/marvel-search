@@ -9,10 +9,9 @@
   ],
   "description": "Man-Ape is a fictional character, a supervillain in the Marvel Comics Universe, and frequent enemy of the Black Panther.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/63/Manape.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Man-Ape",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 242,
-    "pageviewRank": -1,
+    "pageviewCount": 2611,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,6 +38,7 @@
   "species": [
     "Human Mutate"
   ],
+  "superName": "Man-Ape",
   "teams": [
     "Lethal Legion",
     "Masters of Evil",
@@ -47,6 +46,7 @@
     "Villans for Hire"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Man-Ape"
   }
 }

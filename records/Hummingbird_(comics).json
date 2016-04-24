@@ -6,12 +6,11 @@
     "Christopher Yost",
     "Ryan Stegman"
   ],
-  "description": "Hummingbird is a fictional character, a superhero that appears in Marvel Comics she made her first debut in the 2012 Scarlet Spider comic book series written by Christopher Yost.",
+  "description": "Hummingbird is a fictional character, a superhero that appears in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Hummingbird_Aracely_Penalba_New_Warriors_02_2014.png/240px-Hummingbird_Aracely_Penalba_New_Warriors_02_2014.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hummingbird",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 76,
-    "pageviewRank": -1,
+    "pageviewCount": 704,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,10 +34,12 @@
   ],
   "species": [
   ],
+  "superName": "Hummingbird",
   "teams": [
     "New Warriors"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hummingbird_(comics)"
   }
 }

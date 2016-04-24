@@ -14,10 +14,9 @@
   ],
   "description": "The Death-Stalker is the name of two fictional characters in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Death-stalker.jpg/250px-Death-stalker.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Death-Stalker",
   "partners": [
@@ -28,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 127,
-    "pageviewRank": -1,
+    "pageviewCount": 1235,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,11 +36,13 @@
   ],
   "species": [
   ],
+  "superName": "Death-Stalker",
   "teams": [
     "Ani-Men",
     "Unholy Three"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Death-Stalker"
   }
 }

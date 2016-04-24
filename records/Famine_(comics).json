@@ -11,11 +11,8 @@
   "description": "Famine (Autumn Rolfson) is a fictional character, a Mutant supervillain appearing in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Xforce16_001.jpg/175px-Xforce16_001.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Famine",
   "partners": [
@@ -23,12 +20,11 @@
   "powers": [
   ],
   "ranking": {
-    "comicCount": 15,
-    "eventCount": 1,
-    "pageviewCount": 227,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 15
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4122,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Autumn Rolfson"
@@ -36,12 +32,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Famine",
   "teams": [
     "Four Horsemen of Apocalypse",
     "Horsemen of Apocalypse"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/662/famine",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Famine_(comics)"
   }
 }

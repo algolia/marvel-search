@@ -11,11 +11,8 @@
   "description": "Fantomex is a fictional superhero associated with the X-Men in titles published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/535ff35da5ccd/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Fantomex",
   "partners": [
@@ -36,8 +33,7 @@
   "ranking": {
     "comicCount": 20,
     "eventCount": 1,
-    "pageviewCount": 1120,
-    "pageviewRank": -1,
+    "pageviewCount": 7402,
     "serieCount": 5,
     "storyCount": 19
   },
@@ -48,6 +44,7 @@
     "Human Mutant",
     "Sentinel hybrid"
   ],
+  "superName": "Fantomex",
   "teams": [
     "Super-Sentinels",
     "Weapon Plus",

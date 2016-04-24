@@ -9,14 +9,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "The Black Panther (T'Challa) is a fictional character, a superhero that appears in publications by Marvel Comics.",
+  "description": "The Black Panther (T'Challa) is a fictional superhero that appears in publications by Marvel Comics.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/537ba240acbf8.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/537ba26276348.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5261a80a67e7d/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/1/c0/537ba2bfd6bab/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 9,
     "green": 36,
@@ -41,12 +38,13 @@
     "Politician",
     "Reflexes",
     "Scientist",
+    "Senses",
     "Skilled hunter",
     "Speed",
     "Stamina",
     "Strategist",
-    "Strength",
     "Superhuman senses",
+    "Superhuman strength",
     "Tracker",
     "Trained acrobat",
     "Uniform",
@@ -57,8 +55,7 @@
   "ranking": {
     "comicCount": 320,
     "eventCount": 13,
-    "pageviewCount": 8799,
-    "pageviewRank": -1,
+    "pageviewCount": 109552,
     "serieCount": 101,
     "storyCount": 468
   },
@@ -67,16 +64,18 @@
   ],
   "species": [
   ],
+  "superName": "Black Panther",
   "teams": [
     "Avengers",
     "Defenders",
     "Fantastic Force",
     "Fantastic Four",
     "Illuminati",
-    "Ultimates"
+    "Ultimates",
+    "Ultimates (2015 team)"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009187/black_panther",
+    "marvel": "http://marvel.com/characters/5/black_panther",
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Panther_(comics)"
   }
 }

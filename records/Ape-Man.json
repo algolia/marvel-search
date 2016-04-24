@@ -15,10 +15,9 @@
   ],
   "description": "Ape-Man is the name of three characters in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/af/ApeMan.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ape-Man",
   "partners": [
@@ -38,8 +37,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 39,
-    "pageviewRank": -1,
+    "pageviewCount": 365,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -49,11 +47,13 @@
   ],
   "species": [
   ],
+  "superName": "Ape-Man",
   "teams": [
     "Ani-Men",
     "Unholy Three"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ape-Man"
   }
 }

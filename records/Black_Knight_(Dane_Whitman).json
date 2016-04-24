@@ -9,19 +9,15 @@
   "description": "Dane Whitman is a fictional comic book superhero appearing in books published by Marvel Comics, the company's third person to bear the name Black Knight.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59ed1590a7/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/40/Avengers48.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Black Knight (Sir Percy of Scandia)",
+  "name": "Black Knight (Dane Whitman)",
   "partners": [
   ],
   "powers": [
     "Excellent swordsman",
     "Expert horseman",
-    "Expert swordsmanship",
     "Genius physicists",
     "Hand to hand combatant",
     "Magic senses",
@@ -31,18 +27,18 @@
     "Wields the sword of light"
   ],
   "ranking": {
-    "comicCount": 96,
-    "eventCount": 3,
-    "pageviewCount": 487,
-    "pageviewRank": -1,
-    "serieCount": 54,
-    "storyCount": 90
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4156,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Dane Whitman"
   ],
   "species": [
   ],
+  "superName": "Black Knight",
   "teams": [
     "Avengers",
     "Defenders",
@@ -53,7 +49,7 @@
     "Ultraforce"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/275/black_knight",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Knight_(Dane_Whitman)"
   }
 }

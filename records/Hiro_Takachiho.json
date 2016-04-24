@@ -10,12 +10,11 @@
   ],
   "description": "Hiro Takachiho is a fictional character, a superhero in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Hiro_Takachiho_%28Marvel_Comics%29.jpg/250px-Hiro_Takachiho_%28Marvel_Comics%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Hiro",
+  "name": "Hiro Takachiho",
   "partners": [
   ],
   "powers": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 530,
-    "pageviewRank": -1,
+    "pageviewCount": 4961,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,10 +34,12 @@
   "species": [
     "Human"
   ],
+  "superName": "Hiro Takachiho",
   "teams": [
     "Big Hero 6"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hiro_Takachiho"
   }
 }

@@ -3,18 +3,14 @@
     "Silver Sable"
   ],
   "authors": [
-    "Josef Rubinstein",
     "Ron Frenz",
     "Tom DeFalco"
   ],
   "description": "Silver Sable trained her entire life, becoming a master of a wide variety of weapons and training in all forms of hand-to-hand combat in preparation for the day she would inherit leadership of the Wild Pack.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/535ff3a373ec3/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/60/535ff3a373ec3/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Silver Sable",
   "partners": [
@@ -26,8 +22,7 @@
   "ranking": {
     "comicCount": 17,
     "eventCount": 0,
-    "pageviewCount": 406,
-    "pageviewRank": -1,
+    "pageviewCount": 3206,
     "serieCount": 10,
     "storyCount": 22
   },
@@ -36,6 +31,7 @@
   ],
   "species": [
   ],
+  "superName": "Silver Sable",
   "teams": [
     "Heroes for Hire",
     "Intruders",
@@ -43,7 +39,7 @@
     "Wild Pack"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009590/silver_sable",
+    "marvel": "http://marvel.com/characters/2100/silver_sable",
     "wikipedia": "https://en.wikipedia.org/wiki/Silver_Sable"
   }
 }

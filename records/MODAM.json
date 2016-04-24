@@ -2,19 +2,17 @@
   "aliases": [
     "MODAM",
     "Maria Trovaya Pym",
-    "Maria Troyvana Pym",
     "SODAM"
   ],
   "authors": [
     "Al Milgrom",
     "Steve Englehart"
   ],
-  "description": "MODAM is a fictional character in the Marvel Universe.",
+  "description": "MODAM (Olinka Barankova) is a fictional character in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Quasar9.jpg/200px-Quasar9.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "MODAM",
   "partners": [
@@ -28,23 +26,23 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 120,
-    "pageviewRank": -1,
+    "pageviewCount": 946,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
-    "Mobile Organism Designed for Aggressive Maneuvers",
     "Olinka Barankova"
   ],
   "species": [
   ],
+  "superName": "MODAM",
   "teams": [
     "AIM",
     "Advanced Idea Mechanics",
     "Femizons"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/MODAM"
   }
 }

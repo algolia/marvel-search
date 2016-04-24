@@ -2,6 +2,7 @@
   "aliases": [
     "Coast Guard",
     "Hera",
+    "Iron Man",
     "Pepper Potts",
     "Rescue",
     "Virginia 'Pepper' Potts",
@@ -14,11 +15,8 @@
   "description": "Virginia \"Pepper\" Potts is a fictional supporting character and romantic love interest appearing in books published by Marvel Comics, in particular those featuring Iron Man.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4ce188e09af9c/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/f0/4ce188e09af9c/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Pepper Potts",
   "partners": [
@@ -28,8 +26,7 @@
   "ranking": {
     "comicCount": 27,
     "eventCount": 0,
-    "pageviewCount": 1417,
-    "pageviewRank": -1,
+    "pageviewCount": 10317,
     "serieCount": 7,
     "storyCount": 31
   },
@@ -39,6 +36,7 @@
   ],
   "species": [
   ],
+  "superName": "Pepper Potts",
   "teams": [
     "Stark Industries",
     "The Initiative",

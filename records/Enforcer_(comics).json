@@ -12,9 +12,9 @@
   ],
   "description": "Enforcer is the name of two fictional characters in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Enforcer",
   "partners": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 34,
-    "pageviewRank": -1,
+    "pageviewCount": 412,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,10 +35,12 @@
   ],
   "species": [
   ],
+  "superName": "Enforcer",
   "teams": [
     "Committee"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Enforcer_(comics)"
   }
 }

@@ -9,18 +9,15 @@
   "description": "The Punisher is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/2/10/537bbfbac70ee.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/3/a0/537bbf9760505.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5261675f6b22f/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/7e/Fantastic_Four_No._74.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 40,
     "green": 38,
     "hexa": "0D2628",
     "red": 13
   },
-  "name": "Punisher",
+  "name": "Punisher (Galactus)",
   "partners": [
   ],
   "powers": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 378,
     "eventCount": 9,
-    "pageviewCount": 94,
-    "pageviewRank": -1,
+    "pageviewCount": 689,
     "serieCount": 80,
     "storyCount": 538
   },
@@ -42,13 +38,14 @@
   ],
   "species": [
   ],
+  "superName": "Punisher",
   "teams": [
     "Frightful Four",
     "Galactus",
     "Heralds of Galactus"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009515/punisher",
+    "marvel": "http://marvel.com/characters/43/punisher",
     "wikipedia": "https://en.wikipedia.org/wiki/Punisher_(Galactus)"
   }
 }

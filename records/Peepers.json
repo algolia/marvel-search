@@ -9,9 +9,9 @@
   ],
   "description": "Peepers is a fictional character in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Peepers",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 60,
-    "pageviewRank": -1,
+    "pageviewCount": 492,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,6 +33,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Peepers",
   "teams": [
     "Brotherhood of Evil Mutants",
     "Brotherhood of Mutants",
@@ -43,6 +43,7 @@
     "The 198"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Peepers"
   }
 }

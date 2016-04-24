@@ -14,13 +14,10 @@
   "description": "Alvarez replaced the original Tarantula after his death by the dictatorship Delvadian government.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/ASM134Cover.jpg/250px-ASM134Cover.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Tarantula (Luis Alvarez)",
+  "name": "Tarantula",
   "partners": [
   ],
   "powers": [
@@ -42,14 +39,12 @@
     "Superhuman strength",
     "Usually envenomed",
     "Wall crawling",
-    "Web spinning",
     "Wrist blades"
   ],
   "ranking": {
     "comicCount": 7,
     "eventCount": 2,
-    "pageviewCount": 224,
-    "pageviewRank": -1,
+    "pageviewCount": 1807,
     "serieCount": 4,
     "storyCount": 6
   },
@@ -61,6 +56,7 @@
   ],
   "species": [
   ],
+  "superName": "Tarantula",
   "teams": [
     "Boca Del Rios Fascist Government",
     "Boca Del Rios Revolutionist Forces",

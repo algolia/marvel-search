@@ -1,6 +1,7 @@
 {
   "aliases": [
     "Cockroach Hamilton",
+    "Dontrell Hamilton",
     "Roach"
   ],
   "authors": [
@@ -8,10 +9,11 @@
     "George Tuska",
     "Rich Buckler"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Dontrell Hamilton",
   "partners": [
@@ -22,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 37,
-    "pageviewRank": -1,
+    "pageviewCount": 0,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,10 +32,12 @@
   ],
   "species": [
   ],
+  "superName": "Dontrell Hamilton",
   "teams": [
     "Flashmob"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Dontrell_Hamilton"
   }
 }

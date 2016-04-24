@@ -8,9 +8,9 @@
   ],
   "description": "Lightmaster (real name Dr. Edward Lansky) is a fictional character, a supervillain in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Lightmaster",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 55,
-    "pageviewRank": -1,
+    "pageviewCount": 323,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,12 +30,14 @@
   ],
   "species": [
   ],
+  "superName": "Lightmaster",
   "teams": [
     "Empire State University",
     "Masters of Evil",
     "One World Church"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Lightmaster"
   }
 }

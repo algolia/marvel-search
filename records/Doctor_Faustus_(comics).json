@@ -8,14 +8,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Doctor Faustus (Johann Fennhoff) is a fictional character, a Marvel Comics supervillain.An Austrian by birth, he is most commonly associated with Captain America, first appearing in issue #107 of his first series.",
+  "description": "Doctor Faustus (Johann Fennhoff) is a fictional supervillain appearing in American comic books published by Marvel Comics, usually as an adversary of Captain America.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4ce5a54ac4d4b/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/e/e0/4ce5a54ac4d4b/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Doctor Faustus",
   "partners": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1001,
-    "pageviewRank": -1,
+    "pageviewCount": 6353,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,6 +32,7 @@
   ],
   "species": [
   ],
+  "superName": "Doctor Faustus",
   "teams": [
     "Corporation",
     "National Force",

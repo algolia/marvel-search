@@ -10,14 +10,11 @@
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "Norman Osborn is a fictional character, a supervillain who appears in the comic books published by Marvel Comics.",
+  "description": "Norman Osborn is a fictional supervillain that appears in American comic books published by Marvel Comics.",
   "images": {
     "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/538cf0e1c4a90.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/51e829cd06982/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/538cf0c2acdd9/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 11,
     "green": 37,
@@ -42,8 +39,7 @@
   "ranking": {
     "comicCount": 126,
     "eventCount": 6,
-    "pageviewCount": 1128,
-    "pageviewRank": -1,
+    "pageviewCount": 9250,
     "serieCount": 54,
     "storyCount": 135
   },
@@ -52,6 +48,7 @@
   ],
   "species": [
   ],
+  "superName": "Norman Osborn",
   "teams": [
     "Cabal",
     "Commission on Superhuman Activities",
@@ -59,7 +56,6 @@
     "Dark Avengers",
     "Features of the Marvel Universe",
     "Goblin Nation",
-    "Goblin Underground",
     "H.A.M.M.E.R",
     "Hellfire Club",
     "Oscorp",
@@ -69,7 +65,7 @@
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009325/norman_osborn",
+    "marvel": "http://marvel.com/characters/2712/norman_osborn_green_goblin",
     "wikipedia": "https://en.wikipedia.org/wiki/Norman_Osborn"
   }
 }

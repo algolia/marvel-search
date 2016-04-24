@@ -9,9 +9,9 @@
   ],
   "description": "Aireo is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Aireo",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 53,
-    "pageviewRank": -1,
+    "pageviewCount": 495,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,11 +33,13 @@
   "species": [
     "Inhumans"
   ],
+  "superName": "Aireo",
   "teams": [
     "Force of Nature",
     "Inhumans"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Aireo"
   }
 }

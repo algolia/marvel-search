@@ -13,18 +13,14 @@
   "description": "Melissa Gold grew up on the streets, adopting her mother's name \"Mimi\" as part of a hard, cold persona she developed as a survival mechanism.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c0038da16738/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Songbird",
   "partners": [
   ],
   "powers": [
     "Burst projection",
-    "Bursts",
     "Echokinesis",
     "Echolocation",
     "Hypnotic song",
@@ -39,8 +35,7 @@
   "ranking": {
     "comicCount": 27,
     "eventCount": 2,
-    "pageviewCount": 455,
-    "pageviewRank": -1,
+    "pageviewCount": 3374,
     "serieCount": 12,
     "storyCount": 22
   },
@@ -49,11 +44,13 @@
   ],
   "species": [
   ],
+  "superName": "Songbird",
   "teams": [
     "Avengers Idea Mechanics",
     "Femizons",
     "Grapplers",
     "Masters of Evil",
+    "The New Avengers",
     "Thunderbolts",
     "UCWF",
     "Unlimited Class Wrestling Federation"

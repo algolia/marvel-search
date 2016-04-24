@@ -11,13 +11,10 @@
   "description": "M (Monet Yvette Clarisse Maria Therese St. Croix) is a fictional comic book superheroine, a mutant who appears in the X-Men family of books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4c0030eabc66f/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "M (Monet St. Croix)",
+  "name": "M",
   "partners": [
   ],
   "powers": [
@@ -41,8 +38,7 @@
   "ranking": {
     "comicCount": 8,
     "eventCount": 0,
-    "pageviewCount": 399,
-    "pageviewRank": -1,
+    "pageviewCount": 2503,
     "serieCount": 3,
     "storyCount": 7
   },
@@ -52,6 +48,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "M",
   "teams": [
     "Generation X",
     "Paris",

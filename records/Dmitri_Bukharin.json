@@ -15,13 +15,10 @@
   "description": "Dmitri Bukharin, also known as the Crimson Dynamo and Airstrike, is a fictional character in the Marvel Comics Universe.While he was not the first or last character to go by the Crimson Dynamo name, he spent the longest time using the identity and armor.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5239c1307d9c9/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Airstrike_001.jpg/200px-Airstrike_001.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Crimson Dynamo (Iron Man 3 - The Official Game)",
+  "name": "Dmitri Bukharin",
   "partners": [
   ],
   "powers": [
@@ -37,8 +34,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 37,
-    "pageviewRank": -1,
+    "pageviewCount": 379,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -47,6 +43,7 @@
   ],
   "species": [
   ],
+  "superName": "Dmitri Bukharin",
   "teams": [
     "KGB",
     "Legion Accursed",
@@ -55,7 +52,7 @@
     "Supreme Soviets/People's Protectorate"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2697/crimson_dynamo",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Dmitri_Bukharin"
   }
 }

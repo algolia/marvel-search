@@ -4,11 +4,11 @@
   ],
   "authors": [
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3e/Base-HiroSokuto.gif"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Base",
   "partners": [
@@ -19,8 +19,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 8,
-    "pageviewRank": -1,
+    "pageviewCount": 107,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,10 +28,12 @@
   ],
   "species": [
   ],
+  "superName": "Base",
   "teams": [
     "Genetix"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Base_(comics)"
   }
 }

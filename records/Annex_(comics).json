@@ -8,10 +8,9 @@
   ],
   "description": "Annex (Alexander Ellis) is a fictional character of the Marvel Universe, associated with Spider-Man.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Annex_%28Marvel_Comics_character%29.jpg/250px-Annex_%28Marvel_Comics_character%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Annex",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 36,
-    "pageviewRank": -1,
+    "pageviewCount": 413,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,11 +31,13 @@
   ],
   "species": [
   ],
+  "superName": "Annex",
   "teams": [
     "Initiative",
     "The Initiative"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Annex_(comics)"
   }
 }

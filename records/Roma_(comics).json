@@ -11,10 +11,9 @@
   ],
   "description": "Roma is a fictional character featured in numerous Marvel Comics titles.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/Roma_-_uncanny_x-men_462.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Roma",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 173,
-    "pageviewRank": -1,
+    "pageviewCount": 1463,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,11 +35,13 @@
   ],
   "species": [
   ],
+  "superName": "Roma",
   "teams": [
     "Captain Britain Corps",
     "Superior to the Captain Britain Corps"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Roma_(comics)"
   }
 }

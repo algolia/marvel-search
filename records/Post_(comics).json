@@ -9,10 +9,8 @@
   "description": "Post is a fictional character and mutant in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Post",
   "partners": [
@@ -27,12 +25,11 @@
     "Teleporter"
   ],
   "ranking": {
-    "comicCount": 12,
-    "eventCount": 1,
-    "pageviewCount": 34,
-    "pageviewRank": -1,
-    "serieCount": 8,
-    "storyCount": 9
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 322,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Kevin Tremain"
@@ -40,13 +37,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Post",
   "teams": [
     "Brotherhood of Evil Mutants",
     "Brotherhood of Mutants",
     "Dark Descendants"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1778/post",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Post_(comics)"
   }
 }

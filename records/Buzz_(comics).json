@@ -11,9 +11,9 @@
   ],
   "description": "The Buzz (Jack \"JJ\" Jameson) is a fictional character in the Spider-Girl comic book series, published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Buzz",
   "partners": [
@@ -27,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 37,
-    "pageviewRank": -1,
+    "pageviewCount": 273,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,11 +36,12 @@
   ],
   "species": [
   ],
+  "superName": "Buzz",
   "teams": [
-    "New Warriors",
-    "Spider-Girl"
+    "New Warriors"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Buzz_(comics)"
   }
 }

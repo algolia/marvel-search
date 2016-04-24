@@ -8,10 +8,9 @@
   ],
   "description": "Glob Herman (Robert Herman) is a fictional mutant character, a supervillain of the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Omega_gang_full.jpg/250px-Omega_gang_full.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Glob Herman",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 109,
-    "pageviewRank": -1,
+    "pageviewCount": 908,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,14 +34,18 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Glob Herman",
   "teams": [
     "Hellfire Academy",
+    "Hellfire Club",
     "Jean Grey School Students",
     "Omega Gang",
+    "Quentin Quire",
     "The 198",
     "Xavier Institute"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Glob_Herman"
   }
 }

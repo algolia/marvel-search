@@ -1,16 +1,17 @@
 {
   "aliases": [
+    "Caretaker",
+    "Sara"
   ],
   "authors": [
     "Andy Kubert",
     "Howard Mackie"
   ],
+  "description": "Caretaker is a fictional Marvel Comics character.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Caretaker",
   "partners": [
@@ -22,22 +23,26 @@
     "When needed"
   ],
   "ranking": {
-    "comicCount": 3,
-    "eventCount": 1,
-    "pageviewCount": 139,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 3
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 971,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
+    "Sister Sara"
   ],
   "species": [
-  ],
-  "teams": [
+    "Blood",
     "The Blood"
   ],
+  "superName": "Caretaker",
+  "teams": [
+    "The Blood",
+    "The Sacred Heart Convent for the Sisters of the Holy Sepulcher"
+  ],
   "urls": {
-    "marvel": "http://marvel.com/characters/394/caretaker",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Caretaker_(comics)"
   }
 }

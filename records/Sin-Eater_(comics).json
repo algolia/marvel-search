@@ -8,9 +8,9 @@
   ],
   "description": "Sin-Eater is a name given to several fictional characters appearing in books published by Marvel Comics, usually those featuring Spider-Man and Ghost Rider.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sin-Eater",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 187,
-    "pageviewRank": -1,
+    "pageviewCount": 1125,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,11 +29,13 @@
   ],
   "species": [
   ],
+  "superName": "Sin-Eater",
   "teams": [
     "New York City Police Department",
     "S.H.I.E.L.D"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sin-Eater_(comics)"
   }
 }

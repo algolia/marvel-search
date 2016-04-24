@@ -4,36 +4,33 @@
   ],
   "authors": [
   ],
-  "description": "Empowered by the enigmatic Professor's secret formula, high school student Robert Reynolds became a superhuman.",
+  "description": "Sentry is the codename of several unrelated fictional characters appearing in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/52695b1392c78/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sentry_v1_1.jpg/100px-Sentry_v1_1.jpg"
   },
-  "isHero": true,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Sentry (Robert Reynolds)",
+  "name": "Sentry",
   "partners": [
   ],
   "powers": [
   ],
   "ranking": {
-    "comicCount": 60,
-    "eventCount": 7,
-    "pageviewCount": 172,
-    "pageviewRank": -1,
-    "serieCount": 26,
-    "storyCount": 59
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1431,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Sentry",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2048/sentry",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sentry_(comics)"
   }
 }

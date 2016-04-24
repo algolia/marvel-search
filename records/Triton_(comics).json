@@ -10,11 +10,8 @@
   "description": "Triton is a member of the Inhumans.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/528d367108dfb/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/90/528d367108dfb/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Triton",
   "partners": [
@@ -32,8 +29,7 @@
   "ranking": {
     "comicCount": 33,
     "eventCount": 0,
-    "pageviewCount": 305,
-    "pageviewRank": -1,
+    "pageviewCount": 3134,
     "serieCount": 15,
     "storyCount": 37
   },
@@ -43,13 +39,14 @@
   "species": [
     "Inhumans"
   ],
+  "superName": "Triton",
   "teams": [
     "Deep Six",
     "Inhuman Royal Family",
     "Inhumans"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1010335/triton",
+    "marvel": "http://marvel.com/characters/2413/triton",
     "wikipedia": "https://en.wikipedia.org/wiki/Triton_(comics)"
   }
 }

@@ -12,11 +12,8 @@
   "description": "Sandman (William Baker a.k.a.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Tboltssandman.jpg/250px-Tboltssandman.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sandman",
   "partners": [
@@ -33,18 +30,18 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 63,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 939,
-    "pageviewRank": -1,
-    "serieCount": 25,
-    "storyCount": 81
+    "pageviewCount": 7802,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "William Baker"
   ],
   "species": [
   ],
+  "superName": "Sandman",
   "teams": [
     "Avengers",
     "Enforcers",
@@ -55,7 +52,7 @@
     "Wild Pack"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1989/sandman",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sandman_(Marvel_Comics)"
   }
 }

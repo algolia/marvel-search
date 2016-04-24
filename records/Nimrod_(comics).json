@@ -12,13 +12,10 @@
   "description": "Nimrod is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c003d0361454/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Nimrodxmen.PNG/250px-Nimrodxmen.PNG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Oracle",
+  "name": "Nimrod",
   "partners": [
   ],
   "powers": [
@@ -31,24 +28,24 @@
     "Teleportation"
   ],
   "ranking": {
-    "comicCount": 19,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 511,
-    "pageviewRank": -1,
-    "serieCount": 12,
-    "storyCount": 11
+    "pageviewCount": 3541,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Nimrod",
   "teams": [
     "Nimrod",
     "Purifiers",
     "Sentinels"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1659/oracle",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Nimrod_(comics)"
   }
 }

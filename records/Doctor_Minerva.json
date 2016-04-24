@@ -8,9 +8,9 @@
   ],
   "description": "Doctor Minerva is a fictional character in Marvel Comics.Doctor Minerva is a Kree geneticist.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Doctor Minerva",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 62,
-    "pageviewRank": -1,
+    "pageviewCount": 487,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,10 +30,12 @@
   "species": [
     "Kree"
   ],
+  "superName": "Doctor Minerva",
   "teams": [
     "Starforce"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Minerva"
   }
 }

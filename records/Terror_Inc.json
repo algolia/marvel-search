@@ -9,16 +9,13 @@
     "Klaus Janson",
     "Margaret Clark"
   ],
-  "description": "In the distant past, Terror battled a green bear-like demon that threatened early mankind, sacrificing his own form to overcome it; he was then cursed to wear its decayed form but gained its power.",
+  "description": "Terror Inc. was an American comic-book horror series from Marvel Comics starring the antihero Terror.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4c0032410b8d8/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Terror_Inc_01_cover.jpg/250px-Terror_Inc_01_cover.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Terror",
+  "name": "Terror Inc.",
   "partners": [
   ],
   "powers": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 74,
-    "pageviewRank": -1,
+    "pageviewCount": 672,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,11 +35,12 @@
   ],
   "species": [
   ],
+  "superName": "Terror Inc.",
   "teams": [
     "Heroes for Hire"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2313/terror",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Terror_Inc."
   }
 }

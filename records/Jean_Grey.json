@@ -14,14 +14,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Jean Grey-Summers is a fictional character, a comic book superheroine who appears in comic books published by Marvel Comics.",
+  "description": "Jean Grey, or Jean Grey-Summers, is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/537bb2d85e492.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/537bb2c79eebc.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc654cf9d0ac/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/537bb2a5d33f1/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -32,31 +29,29 @@
   "partners": [
   ],
   "powers": [
-    "Any form of energy",
-    "As phoenix",
     "Astral projection",
     "Control",
-    "Cosmic",
-    "Create powerful fire",
+    "Cosmic fire",
+    "Disintegration energy",
     "Eidetic memory",
+    "Energy manipulation",
     "Erasure",
-    "Induced paralysis",
-    "Manipulate timelines",
+    "Matter",
     "Memory alteration",
-    "Mental bolts",
     "Mind reading",
     "Psionic blasts",
-    "Psychokinesis",
-    "Resurrect from death",
+    "Resurrection from death",
+    "Space travel",
+    "Telekinesis",
     "Telepathic abilities",
     "Telepathy",
+    "Time manipulation",
     "Vast telekinetic"
   ],
   "ranking": {
     "comicCount": 46,
     "eventCount": 0,
-    "pageviewCount": 4721,
-    "pageviewRank": 9990,
+    "pageviewCount": 40213,
     "serieCount": 16,
     "storyCount": 45
   },
@@ -66,6 +61,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Jean Grey",
   "teams": [
     "Phoenix Corps",
     "The Twelve",

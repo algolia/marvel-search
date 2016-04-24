@@ -11,9 +11,9 @@
   ],
   "description": "Le Peregrine (Alain Racine) is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Peregrine",
   "partners": [
@@ -33,8 +33,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 51,
-    "pageviewRank": -1,
+    "pageviewCount": 228,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -43,10 +42,12 @@
   ],
   "species": [
   ],
+  "superName": "Peregrine",
   "teams": [
     "Wild Pack"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Peregrine_(comics)"
   }
 }

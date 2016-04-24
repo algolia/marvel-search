@@ -8,11 +8,8 @@
   "description": "Asylum is the name of two characters in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f0/DarklingC.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Asylum",
   "partners": [
@@ -25,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 81,
-    "pageviewRank": -1,
+    "pageviewCount": 363,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,11 +33,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Asylum",
   "teams": [
     "Psionex"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/211/asylum",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Asylum_(comics)"
   }
 }

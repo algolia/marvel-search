@@ -2,6 +2,7 @@
   "aliases": [
     "Hal Canutt",
     "Mr. Muscles",
+    "Wonder Man",
     "Wonder man"
   ],
   "authors": [
@@ -12,11 +13,8 @@
   "description": "Simon Williams agreed to undergo an experiment to give him superhuman powers, and Baron Zemo gave him the costumed guise of Wonder Man, warning Simon that he would die without further treatments from Zemo in order to ensure his loyalty, but Simon betrayed Zemo to the Avengers and ultimately joined their ranks.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4ce5a205a2322/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Wonder Man",
   "partners": [
@@ -24,7 +22,6 @@
   "powers": [
     "Agility",
     "Capable industrialist",
-    "Durability",
     "Enhanced vision",
     "Experienced stuntman",
     "Extended life span",
@@ -33,7 +30,6 @@
     "Ionic-energy empowered",
     "Reflexes",
     "Speed",
-    "Stamina",
     "Superhuman strength",
     "Talented actor",
     "Virtual invulnerability"
@@ -41,8 +37,7 @@
   "ranking": {
     "comicCount": 172,
     "eventCount": 7,
-    "pageviewCount": 1065,
-    "pageviewRank": -1,
+    "pageviewCount": 9753,
     "serieCount": 70,
     "storyCount": 215
   },
@@ -51,6 +46,7 @@
   ],
   "species": [
   ],
+  "superName": "Wonder Man",
   "teams": [
     "Avengers",
     "Avengers Unity Squad",

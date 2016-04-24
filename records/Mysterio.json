@@ -14,14 +14,11 @@
     "Steve Ditko",
     "Terry Dodson"
   ],
-  "description": "Mysterio is a fictional character, a supervillain and enemy of Spider-Man in the Marvel Comics Universe.In 2009, Mysterio was ranked as IGN's 85th Greatest Comic Book Villain of All Time.",
+  "description": "Mysterio is a fictional supervillain and enemy of Spider-Man that appears in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4ce5a083d8346/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/70/4ce5a083d8346/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mysterio",
   "partners": [
@@ -47,8 +44,7 @@
   "ranking": {
     "comicCount": 41,
     "eventCount": 0,
-    "pageviewCount": 978,
-    "pageviewRank": -1,
+    "pageviewCount": 7945,
     "serieCount": 19,
     "storyCount": 49
   },
@@ -59,6 +55,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Mysterio",
   "teams": [
     "Maggia",
     "Sinister Six"

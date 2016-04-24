@@ -8,9 +8,9 @@
   ],
   "description": "Nth Man is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Nth Man",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 44,
-    "pageviewRank": -1,
+    "pageviewCount": 305,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,9 +29,11 @@
   ],
   "species": [
   ],
+  "superName": "Nth Man",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Nth_Man"
   }
 }

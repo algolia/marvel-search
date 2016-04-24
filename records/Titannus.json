@@ -8,10 +8,9 @@
   ],
   "description": "Titannus is a fictional character in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/MARVTU012cov.jpg/250px-MARVTU012cov.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Titannus",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 50,
-    "pageviewRank": -1,
+    "pageviewCount": 442,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,9 +36,11 @@
   "species": [
     "Skrull"
   ],
+  "superName": "Titannus",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Titannus"
   }
 }

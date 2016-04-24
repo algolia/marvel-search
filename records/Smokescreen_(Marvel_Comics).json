@@ -6,9 +6,9 @@
   ],
   "description": "Smokescreen is a fictional character that appeared in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Smokescreen",
   "partners": [
@@ -18,8 +18,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 7,
-    "pageviewRank": -1,
+    "pageviewCount": 48,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -28,9 +27,11 @@
   ],
   "species": [
   ],
+  "superName": "Smokescreen",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Smokescreen_(Marvel_Comics)"
   }
 }

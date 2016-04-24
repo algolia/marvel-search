@@ -9,12 +9,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Attuma is a fictional character, a supervillain in the Marvel Comics universe.",
+  "description": "Attuma is a fictional supervillain in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d3/X-factoran4.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Attuma",
   "partners": [
@@ -43,8 +42,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 262,
-    "pageviewRank": -1,
+    "pageviewCount": 2010,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -54,6 +52,7 @@
   "species": [
     "Homo mermanus"
   ],
+  "superName": "Attuma",
   "teams": [
     "Atlantis",
     "Deep Six",
@@ -63,6 +62,7 @@
     "The Worthy"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Attuma"
   }
 }

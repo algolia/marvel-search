@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Lilandra Neramani",
     "Princess-Majestrix Lilandra Neramani",
     "actual identities the character uses"
   ],
@@ -8,14 +7,13 @@
     "Chris Claremont",
     "Dave Cockrum"
   ],
-  "description": "Lilandra Neramani is a fictional character in the Marvel Comics Universe.",
+  "description": "Lilandra Neramani is a fictional character appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Xmen122.png/250px-Xmen122.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Princess-Majestrix Lilandra Neramani",
+  "name": "Lilandra Neramani",
   "partners": [
   ],
   "powers": [
@@ -28,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 202,
-    "pageviewRank": -1,
+    "pageviewCount": 1757,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,12 +36,14 @@
   "species": [
     "Shi'ar"
   ],
+  "superName": "Lilandra Neramani",
   "teams": [
     "Shi'ar",
     "Shi'ar Imperium",
     "Starjammers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Lilandra_Neramani"
   }
 }

@@ -8,10 +8,9 @@
   ],
   "description": "Trance (Hope Abbott) is a fictional character appearing in comic books published by the Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/86/Trance.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Trance",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 72,
-    "pageviewRank": -1,
+    "pageviewCount": 493,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,6 +31,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Trance",
   "teams": [
     "Jean Grey School Students",
     "Paragons",
@@ -42,6 +41,7 @@
     "Xavier Institute"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Trance_(comics)"
   }
 }

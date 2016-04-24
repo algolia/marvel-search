@@ -10,10 +10,8 @@
   "description": "Laurie Collins began to involuntarily manipulate anyone around her once her genetic mutation manifested, unable to control its effects.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Wallflower",
   "partners": [
@@ -24,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 124,
-    "pageviewRank": -1,
+    "pageviewCount": 1015,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,6 +32,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Wallflower",
   "teams": [
     "New Mutants training squad",
     "Xavier Institute"

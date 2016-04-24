@@ -18,15 +18,13 @@
     "Jack Kirby",
     "Joe Simon"
   ],
+  "description": null,
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/526036550cd37/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Capa038.jpg/200px-Capa038.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Red Skull",
+  "name": "Red Skull (Albert Malik)",
   "partners": [
     "Baron Helmut Zemo",
     "Baron Strucker",
@@ -44,8 +42,7 @@
   "ranking": {
     "comicCount": 103,
     "eventCount": 4,
-    "pageviewCount": 7,
-    "pageviewRank": -1,
+    "pageviewCount": 101,
     "serieCount": 55,
     "storyCount": 98
   },
@@ -54,6 +51,7 @@
   ],
   "species": [
   ],
+  "superName": "Red Skull",
   "teams": [
     "AIM",
     "Astonishing Avengers",

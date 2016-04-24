@@ -8,9 +8,9 @@
   ],
   "description": "Maximus Lobo is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Maximus Lobo",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 705,
-    "pageviewRank": -1,
+    "pageviewCount": 392,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +32,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Maximus Lobo",
   "teams": [
     "Dominant Species"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Maximus_Lobo"
   }
 }

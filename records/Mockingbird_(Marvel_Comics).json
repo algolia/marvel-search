@@ -8,14 +8,11 @@
   ],
   "authors": [
   ],
-  "description": "Mockingbird (Barbara \"Bobbi\" Morse) is a fictional character, a superheroine in Marvel Comics.",
+  "description": "Mockingbird (Barbara \"Bobbi\" Morse) is a fictional character, a superheroine who appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51e829af23af9/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/b0/51e829af23af9/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mockingbird",
   "partners": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 35,
     "eventCount": 3,
-    "pageviewCount": 2041,
-    "pageviewRank": -1,
+    "pageviewCount": 18951,
     "serieCount": 15,
     "storyCount": 33
   },
@@ -44,6 +40,7 @@
   ],
   "species": [
   ],
+  "superName": "Mockingbird",
   "teams": [
     "Avengers",
     "Great Lakes Avengers",
@@ -51,11 +48,12 @@
     "New Avengers",
     "S.H.I.E.L.D",
     "Secret Avengers",
+    "The New Avengers",
     "West Coast Avengers",
     "World Counter-terrorism Agency"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1011220/mockingbird",
+    "marvel": "http://marvel.com/characters/1479/mockingbird",
     "wikipedia": "https://en.wikipedia.org/wiki/Mockingbird_(Marvel_Comics)"
   }
 }

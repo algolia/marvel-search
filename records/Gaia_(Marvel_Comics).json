@@ -9,10 +9,9 @@
   ],
   "description": "Gaia, also known as the Guardian of the Universal Amalgamator, is a fictional comic book superhero in the Marvel Comics universe, possibly a mutant or extraterrestrial.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/GaiaX.jpg/250px-GaiaX.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Gaia",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 48,
-    "pageviewRank": -1,
+    "pageviewCount": 458,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,10 +36,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Gaia",
   "teams": [
     "Generation X"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Gaia_(Marvel_Comics)"
   }
 }

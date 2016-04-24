@@ -11,10 +11,9 @@
   ],
   "description": "Crusader is the name of multiple fictional characters created and published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Cruseder.jpg/200px-Cruseder.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Crusader",
   "partners": [
@@ -24,7 +23,6 @@
     "Dexterity",
     "Jouster",
     "Master swordsman",
-    "Reflexes",
     "Reflexes/reactions",
     "Resistance to injury",
     "Shapeshifting",
@@ -32,16 +30,13 @@
     "Speed",
     "Stamina",
     "Superhuman strength",
-    "Sword",
     "Use of mystical sword",
-    "Uses mystical body armor",
     "Wears mystical body armor"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 63,
-    "pageviewRank": -1,
+    "pageviewCount": 537,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -52,10 +47,12 @@
   "species": [
     "Skrull"
   ],
+  "superName": "Crusader",
   "teams": [
     "Fifty State Initiative"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Crusader_(Marvel_Comics)"
   }
 }

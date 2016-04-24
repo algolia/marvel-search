@@ -10,9 +10,9 @@
   ],
   "description": "Llan the Sorcerer, a fictional character in the Marvel Universe, is an ancient evil who has been an enemy of Alpha Flight.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Llan the Sorcerer",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 21,
-    "pageviewRank": -1,
+    "pageviewCount": 248,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,9 +30,11 @@
   ],
   "species": [
   ],
+  "superName": "Llan the Sorcerer",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Llan_the_Sorcerer"
   }
 }

@@ -7,17 +7,15 @@
     "Leonard"
   ],
   "authors": [
+    "John Romita Sr.",
     "John Romita, Sr.",
     "Marv Wolfman"
   ],
-  "description": "Bullseye is a fictional character, a supervillain in the Marvel Comics universe.",
+  "description": "Bullseye is a fictional supervillain appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/539a08f322fd1/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Bullseye",
   "partners": [
@@ -25,15 +23,12 @@
   "powers": [
     "Adamantium",
     "Expert marksman",
-    "Hand-to-hand combatant",
-    "Martial artist",
     "Spinal column"
   ],
   "ranking": {
     "comicCount": 56,
     "eventCount": 3,
-    "pageviewCount": 1682,
-    "pageviewRank": -1,
+    "pageviewCount": 11927,
     "serieCount": 28,
     "storyCount": 51
   },
@@ -42,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Bullseye",
   "teams": [
     "Dark Avengers",
     "Thunderbolts"

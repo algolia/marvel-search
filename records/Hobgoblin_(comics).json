@@ -4,39 +4,35 @@
     "Hobgoblin 2211"
   ],
   "authors": [
+    "John Romita Jr.",
     "John Romita, Jr.",
     "Peter David",
     "Rick Leonardi",
     "Roger Stern"
   ],
-  "description": "The Hobgoblin is the alias of several fictional characters, supervillains that appear in comic books published by Marvel Comics.",
+  "description": "The Hobgoblin is the alias of several fictional supervillains that appear in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/89/Hobgoblin_%28Marvel_Comics%29.png"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Hobgoblin (Jason Macendale)",
+  "name": "Hobgoblin",
   "partners": [
   ],
   "powers": [
     "Agility",
     "Durability",
     "Genius-level intellect",
-    "Goblin paraphernalia",
+    "Paraphernalia",
     "Reflexes",
     "Speed",
     "Stamina",
-    "Superhuman strength",
-    "Various weapons"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 720,
-    "pageviewRank": -1,
+    "pageviewCount": 5911,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -45,10 +41,11 @@
   ],
   "species": [
   ],
+  "superName": "Hobgoblin",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/965/hobgoblin",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hobgoblin_(comics)"
   }
 }

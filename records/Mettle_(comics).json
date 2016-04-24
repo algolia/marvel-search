@@ -9,9 +9,9 @@
   ],
   "description": "Mettle (Ken Mack) is a fictional character from Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mettle",
   "partners": [
@@ -19,17 +19,13 @@
   "powers": [
     "Durability",
     "Experienced surfer",
-    "Radiation",
-    "Resistance to diseases",
     "Superhuman strength",
-    "Virtual indestructibility",
-    "Virtually indestructible"
+    "Virtual indestructibility"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 83,
-    "pageviewRank": -1,
+    "pageviewCount": 1154,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,10 +34,12 @@
   ],
   "species": [
   ],
+  "superName": "Mettle",
   "teams": [
     "Avengers Academy"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mettle_(comics)"
   }
 }

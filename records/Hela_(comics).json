@@ -6,12 +6,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Hela is a fictional character, the Asgardian goddess of death in the Marvel Comics universe, based on the Norse goddess, Hel.",
+  "description": "Hela is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Cover_of_Thor-150.jpg/250px-Cover_of_Thor-150.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hela",
   "partners": [
@@ -30,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 404,
-    "pageviewRank": -1,
+    "pageviewCount": 4359,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,9 +38,11 @@
   ],
   "species": [
   ],
+  "superName": "Hela",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hela_(comics)"
   }
 }

@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "Stellaris",
     "The Celestial Slayer"
   ],
   "authors": [
@@ -9,11 +10,8 @@
   "description": "It is unknown how Stellaris survived the extermination of her home world by the Celestials or how she acquired her living armor, but ever since she has committed herself to their destruction.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c002f4445ce5/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Stellaris",
   "partners": [
@@ -24,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 14,
-    "pageviewRank": -1,
+    "pageviewCount": 99,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,6 +30,7 @@
   ],
   "species": [
   ],
+  "superName": "Stellaris",
   "teams": [
     "The Graces"
   ],

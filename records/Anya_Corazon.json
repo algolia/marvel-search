@@ -13,17 +13,15 @@
   "description": "Anya Sofia Corazon is a fictional half Mexican and half Puerto Rican superheroine in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/528d369de3e4f/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": null,
   "mainColor": null,
   "name": "Spider-Girl (Anya Corazon)",
   "partners": [
     "Ms. Marvel",
     "Spider-Man",
-    "Spider-Woman"
+    "Spider-Woman",
+    "Spider-Woman (Jessica Drew)"
   ],
   "powers": [
     "Agility",
@@ -40,8 +38,7 @@
   "ranking": {
     "comicCount": 34,
     "eventCount": 1,
-    "pageviewCount": 458,
-    "pageviewRank": -1,
+    "pageviewCount": 3582,
     "serieCount": 8,
     "storyCount": 43
   },
@@ -50,6 +47,7 @@
   ],
   "species": [
   ],
+  "superName": "Spider-Girl",
   "teams": [
     "Avengers Academy",
     "Civil War",

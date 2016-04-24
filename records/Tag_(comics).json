@@ -10,11 +10,8 @@
   "description": "Tag (Brian Cruz) is a mutant appearing in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Tag_%28comics%29.png/250px-Tag_%28comics%29.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Tag",
   "partners": [
@@ -23,12 +20,11 @@
     "Tag"
   ],
   "ranking": {
-    "comicCount": 2,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 45,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 1
+    "pageviewCount": 388,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Brian Cruz"
@@ -37,6 +33,7 @@
     "Decimation",
     "Mutant"
   ],
+  "superName": "Tag",
   "teams": [
     "Hellions",
     "Hellions training squad",
@@ -44,7 +41,7 @@
     "Xavier Institute"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2285/tag",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Tag_(comics)"
   }
 }

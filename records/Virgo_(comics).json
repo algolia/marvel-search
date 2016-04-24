@@ -9,9 +9,9 @@
   ],
   "description": "Virgo is the name of several fictional characters in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Virgo",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 12,
-    "pageviewRank": -1,
+    "pageviewCount": 148,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Virgo",
   "teams": [
     "Zodiac"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Virgo_(comics)"
   }
 }

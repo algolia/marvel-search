@@ -8,13 +8,10 @@
   "description": "Nocturne (Talia Josephine \"T.J.\" Wagner) is a member of the reality-hopping Exiles and formerly associated with New Excalibur.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Nocturnexcal.png/230px-Nocturnexcal.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Nocturne",
+  "name": "Nocturne (Talia Wagner)",
   "partners": [
   ],
   "powers": [
@@ -26,12 +23,11 @@
     "Telepathy"
   ],
   "ranking": {
-    "comicCount": 19,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 188,
-    "pageviewRank": -1,
-    "serieCount": 7,
-    "storyCount": 24
+    "pageviewCount": 1526,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "T.J",
@@ -40,6 +36,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Nocturne",
   "teams": [
     "Brotherhood of Mutants",
     "Excalibur",
@@ -48,7 +45,7 @@
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1615/nocturne",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Nocturne_(Talia_Wagner)"
   }
 }

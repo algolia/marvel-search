@@ -11,11 +11,8 @@
   "description": "Pete Wisdom is a former agent of the British intelligence agency Black Air, which was charged with the observation of, and interaction with, extranormal activity, and he was the agency's liaison with the British superhero group Excalibur, whom he eventually aided in exposing Black Air's subversive criminal activities.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4c003740c9027/standard_xlarge.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Pete Wisdom",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 155,
-    "pageviewRank": -1,
+    "pageviewCount": 1288,
     "serieCount": 4,
     "storyCount": 4
   },
@@ -39,6 +35,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Pete Wisdom",
   "teams": [
     "Black Air",
     "Excalibur",

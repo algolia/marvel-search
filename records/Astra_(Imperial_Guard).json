@@ -6,13 +6,13 @@
     "Chris Claremont",
     "Dave Cockrum"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Astrawiki.jpg/185px-Astrawiki.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Astra",
+  "name": "Astra (Imperial Guard)",
   "partners": [
   ],
   "powers": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 7,
-    "pageviewRank": -1,
+    "pageviewCount": 41,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,10 +29,12 @@
   ],
   "species": [
   ],
+  "superName": "Astra",
   "teams": [
     "Imperial Guard"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Astra_(Imperial_Guard)"
   }
 }

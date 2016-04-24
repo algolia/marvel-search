@@ -8,10 +8,9 @@
   ],
   "description": "The Dire Wraiths are a fictional extraterrestrial species published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Dire_Wraith.jpg/180px-Dire_Wraith.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Dire Wraith",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 156,
-    "pageviewRank": -1,
+    "pageviewCount": 1647,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,9 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "Dire Wraith",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Dire_Wraith"
   }
 }

@@ -8,10 +8,9 @@
   ],
   "description": "The Mindless Ones are fictional monsters appearing in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Mindless_One.jpg/250px-Mindless_One.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mindless Ones",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 163,
-    "pageviewRank": -1,
+    "pageviewCount": 1929,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,9 +34,11 @@
   ],
   "species": [
   ],
+  "superName": "Mindless Ones",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mindless_Ones"
   }
 }

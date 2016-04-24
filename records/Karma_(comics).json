@@ -9,11 +9,8 @@
   "description": "Karma (Xi'an Coy Manh) is a fictional superheroine from Marvel Comics created by Chris Claremont and Frank Miller.Karma is a mutant endowed with the ability to seize control of another's mind, though she has sometimes been depicted with other more extensive psionic abilities.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/00/50febe78aacca/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/00/50febe78aacca/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Karma",
   "partners": [
@@ -25,8 +22,7 @@
   "ranking": {
     "comicCount": 7,
     "eventCount": 1,
-    "pageviewCount": 359,
-    "pageviewRank": -1,
+    "pageviewCount": 2781,
     "serieCount": 4,
     "storyCount": 7
   },
@@ -36,6 +32,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Karma",
   "teams": [
     "Hellions",
     "Jean Grey School",

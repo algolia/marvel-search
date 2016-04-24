@@ -12,10 +12,9 @@
   ],
   "description": "Janice Lincoln (also known as the Beetle) is a fictional character in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Janice_Lincoln.png/250px-Janice_Lincoln.png"
   },
-  "isHero": true,
-  "isVillain": true,
   "mainColor": null,
   "name": "Janice Lincoln",
   "partners": [
@@ -32,8 +31,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 205,
-    "pageviewRank": -1,
+    "pageviewCount": 1008,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,10 +40,12 @@
   ],
   "species": [
   ],
+  "superName": "Janice Lincoln",
   "teams": [
     "Sinister Six"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Janice_Lincoln"
   }
 }

@@ -10,10 +10,8 @@
   "description": "Forearm (Michael McCain) is a fictional mutant villain in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Forearm",
   "partners": [
@@ -25,12 +23,11 @@
     "Two additional arms"
   ],
   "ranking": {
-    "comicCount": 20,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 43,
-    "pageviewRank": -1,
-    "serieCount": 9,
-    "storyCount": 19
+    "pageviewCount": 301,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Michael McCain"
@@ -38,11 +35,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Forearm",
   "teams": [
     "Mutant Liberation Front"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/719/forearm",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Forearm_(comics)"
   }
 }

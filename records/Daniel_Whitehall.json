@@ -1,14 +1,14 @@
 {
   "aliases": [
-    "Daniel Whitehall"
   ],
   "authors": [
+    "Various"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Kraken8.jpg/240px-Kraken8.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Daniel Whitehall",
   "partners": [
@@ -18,8 +18,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 59,
-    "pageviewRank": -1,
+    "pageviewCount": 1051,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -27,9 +26,11 @@
   ],
   "species": [
   ],
+  "superName": "Daniel Whitehall",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Whitehall"
   }
 }

@@ -12,17 +12,15 @@
   "description": "Boomerang (Frederick \"Fred\" Myers) is a fictional character, a supervillain appearing in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/4c00390504a3b/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Boomerang",
   "partners": [
     "Kingpin",
     "Silver Samurai",
-    "Viper"
+    "Viper",
+    "Viper (Madame Hydra)"
   ],
   "powers": [
     "Flight via jet boots",
@@ -34,8 +32,7 @@
   "ranking": {
     "comicCount": 18,
     "eventCount": 1,
-    "pageviewCount": 641,
-    "pageviewRank": -1,
+    "pageviewCount": 2497,
     "serieCount": 15,
     "storyCount": 13
   },
@@ -45,6 +42,7 @@
   ],
   "species": [
   ],
+  "superName": "Boomerang",
   "teams": [
     "Assassins' Guild",
     "Masters of Evil",

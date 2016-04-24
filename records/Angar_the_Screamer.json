@@ -10,16 +10,13 @@
     "John Tartaglione",
     "Steve Gerber"
   ],
-  "description": "Out of the five alien symbiotes that were forcefully extracted from Venom (while bonded with Eddie Brock) by the Life Foundation, Donna's is the only one still active today that is not bonded to Hybrid.",
+  "description": "Angar the Screamer (David Alan Angar, also known as Scream) is a fictional character, a Marvel Comics supervillain.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Daredevil_cover_-_number_101.jpg/250px-Daredevil_cover_-_number_101.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Scream (Donna Diego)",
+  "name": "Angar the Screamer",
   "partners": [
     "Screaming Mimi",
     "Songbird"
@@ -34,8 +31,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 140,
-    "pageviewRank": -1,
+    "pageviewCount": 1205,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -44,12 +40,13 @@
   ],
   "species": [
   ],
+  "superName": "Angar the Screamer",
   "teams": [
     "New Revengers",
     "Redeemers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2033/scream",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Angar_the_Screamer"
   }
 }

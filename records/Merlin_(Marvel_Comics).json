@@ -7,9 +7,9 @@
   ],
   "description": "Merlin is the name of multiple fictional characters in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Merlin",
   "partners": [
@@ -19,8 +19,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 75,
-    "pageviewRank": -1,
+    "pageviewCount": 794,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,10 +28,12 @@
   ],
   "species": [
   ],
+  "superName": "Merlin",
   "teams": [
     "Court of King Arthur"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Merlin_(Marvel_Comics)"
   }
 }

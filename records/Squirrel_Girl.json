@@ -1,8 +1,8 @@
 {
   "aliases": [
-    "Rodent; The Anti-Life",
+    "Slayer of All that Breathes",
     "Squirrel Girl",
-    "The Destroyer of All That Breathes"
+    "The Anti-Life"
   ],
   "authors": [
     "Steve Ditko",
@@ -11,11 +11,8 @@
   "description": "Escaping the taunts of her fellow school students regarding her physical mutation, Los-Angeles born Doreen Green fled into the nearby woods where she quickly discovered her affinity for squirrels.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c0035beb0c55/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Squirrel Girl",
   "partners": [
@@ -23,23 +20,16 @@
     "Tippy-Toe"
   ],
   "powers": [
-    "Claw",
-    "Enhanced smell",
     "Prehensile tail",
-    "Razor sharp claws",
     "Razor-sharp claws",
-    "Reflexes",
     "Senses",
-    "Squirrel-like abilities",
     "Strength",
-    "Superhuman agility",
-    "Vision"
+    "Superhuman agility"
   ],
   "ranking": {
     "comicCount": 11,
     "eventCount": 1,
-    "pageviewCount": 2066,
-    "pageviewRank": -1,
+    "pageviewCount": 18733,
     "serieCount": 8,
     "storyCount": 13
   },
@@ -49,13 +39,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Squirrel Girl",
   "teams": [
     "Avengers Idea Mechanics",
     "Great Lakes Avengers",
     "The New Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1010860/squirrel_girl",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Squirrel_Girl"
   }
 }

@@ -11,10 +11,9 @@
   ],
   "description": "Scramble (Lionel Jeffries), also known as Scramble the Mixed-Up Man, was a Marvel Comics supervillain and Canadian mutant.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Scramble.JPG/160px-Scramble.JPG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Scramble",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 32,
-    "pageviewRank": -1,
+    "pageviewCount": 221,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,11 +34,13 @@
   ],
   "species": [
   ],
+  "superName": "Scramble",
   "teams": [
     "Alpha Flight",
     "New Life Clinic"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Scramble_(comics)"
   }
 }

@@ -8,10 +8,9 @@
   ],
   "description": "Doctor Demonicus (Douglas Birely) is a fictional character, a supervillain in the Marvel Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Dr._demonicus.jpg/249px-Dr._demonicus.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Doctor Demonicus",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 28,
-    "pageviewRank": -1,
+    "pageviewCount": 223,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Doctor Demonicus",
   "teams": [
     "Pacific Overlords"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Demonicus"
   }
 }

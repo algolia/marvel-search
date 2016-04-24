@@ -1,27 +1,26 @@
 {
   "aliases": [
+    "Andrea von Strucker",
+    "Andreas von Strucker",
     "Baron Strucker",
     "Fenris",
     "Swordsman"
   ],
   "authors": [
     "Chris Claremont",
+    "John Romita Jr.",
     "John Romita, Jr."
   ],
-  "description": "Fenris (Andrea von Strucker and Andreas von Strucker) are two fictional characters from the Marvel Comics universe, namely German twins Andrea and Andreas von Strucker.",
+  "description": "Andrea von Strucker and Andreas von Strucker are two fictional characters from the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Fenris",
   "partners": [
   ],
   "powers": [
-    "Concussive blast",
-    "Disintegration beam",
     "Flight",
     "Force blasts",
     "Hand-to-hand combatant",
@@ -29,12 +28,11 @@
     "Sword usage"
   ],
   "ranking": {
-    "comicCount": 5,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 199,
-    "pageviewRank": -1,
-    "serieCount": 4,
-    "storyCount": 3
+    "pageviewCount": 1573,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Andrea von Strucker",
@@ -45,12 +43,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Fenris",
   "teams": [
     "Assembly of Evil",
     "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/680/fenris",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Fenris_(comics)"
   }
 }

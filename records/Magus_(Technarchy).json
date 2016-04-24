@@ -9,13 +9,10 @@
   "description": "The Magus is a fictional character in the Marvel Universe.The Magus is a techno-organic patriarch of an alien civilization, and should not be confused with another character called Magus who is associated with Adam Warlock.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c00358c0575c/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/67/Magus_%28Technarchy%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Magus (Adam Warlock)",
+  "name": "Magus (Technarchy)",
   "partners": [
   ],
   "powers": [
@@ -25,23 +22,23 @@
     "Techno-organic being"
   ],
   "ranking": {
-    "comicCount": 1,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 90,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 1
+    "pageviewCount": 737,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Magus"
   ],
   "species": [
   ],
+  "superName": "Magus",
   "teams": [
     "Technarchy"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1334/magus",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Magus_(Technarchy)"
   }
 }

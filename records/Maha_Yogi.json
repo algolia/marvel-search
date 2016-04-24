@@ -11,9 +11,9 @@
   ],
   "description": "Maha Yogi is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Maha Yogi",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 45,
-    "pageviewRank": -1,
+    "pageviewCount": 412,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,9 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "Maha Yogi",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Maha_Yogi"
   }
 }

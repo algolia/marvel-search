@@ -14,11 +14,8 @@
   "description": "&nbsp;",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/526165a98dd8e/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/7/10/526165a98dd8e/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Deathlok",
   "partners": [
@@ -31,8 +28,7 @@
   "ranking": {
     "comicCount": 22,
     "eventCount": 1,
-    "pageviewCount": 1348,
-    "pageviewRank": 3397,
+    "pageviewCount": 12090,
     "serieCount": 12,
     "storyCount": 21
   },
@@ -42,10 +38,11 @@
     "John Kelly",
     "Luther Manning",
     "Michael Collins",
-    "Siege"
+    "Siege (John Kelly)"
   ],
   "species": [
   ],
+  "superName": "Deathlok",
   "teams": [
     "CIA",
     "Central Intelligence Agency",

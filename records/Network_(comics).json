@@ -12,11 +12,8 @@
   "description": "Network is the name of three unrelated fictional characters in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Network_%28NXM%29.jpg/130px-Network_%28NXM%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Network",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 49,
-    "pageviewRank": -1,
+    "pageviewCount": 337,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,6 +36,7 @@
     "Decimation",
     "Mutant"
   ],
+  "superName": "Network",
   "teams": [
     "Alpha Squadron",
     "Alpha Squadron training squad",
@@ -47,7 +44,7 @@
     "Xavier Institute"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1582/network",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Network_(comics)"
   }
 }

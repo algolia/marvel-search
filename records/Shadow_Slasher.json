@@ -9,9 +9,9 @@
   ],
   "description": "Shadow Slasher is a fictional supervillain in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Shadow Slasher",
   "partners": [
@@ -28,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 11,
-    "pageviewRank": -1,
+    "pageviewCount": 91,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,9 +37,11 @@
   ],
   "species": [
   ],
+  "superName": "Shadow Slasher",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Shadow_Slasher"
   }
 }

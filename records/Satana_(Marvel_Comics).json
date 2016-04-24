@@ -6,17 +6,15 @@
     "The Devil's Daughter"
   ],
   "authors": [
+    "John Romita Sr.",
     "John Romita, Sr.",
     "Roy Thomas"
   ],
   "description": "Satana is a fictional character, a comic book half-demon appearing in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4ce5a46882aa9/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/a0/4ce5a46882aa9/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Satana",
   "partners": [
@@ -28,8 +26,7 @@
   "ranking": {
     "comicCount": 11,
     "eventCount": 0,
-    "pageviewCount": 205,
-    "pageviewRank": -1,
+    "pageviewCount": 2019,
     "serieCount": 9,
     "storyCount": 16
   },
@@ -40,6 +37,7 @@
     "Demon Hybrid",
     "Human"
   ],
+  "superName": "Satana",
   "teams": [
     "Avengers of the Supernatural",
     "Legion of Monsters",

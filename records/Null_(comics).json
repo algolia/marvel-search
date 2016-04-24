@@ -11,9 +11,9 @@
   ],
   "description": "Null, called also Null the Living Darkness, is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Null",
   "partners": [
@@ -26,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 39,
-    "pageviewRank": -1,
+    "pageviewCount": 274,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,9 +34,11 @@
   ],
   "species": [
   ],
+  "superName": "Null",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Null_(comics)"
   }
 }

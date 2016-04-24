@@ -8,9 +8,9 @@
   ],
   "description": "Scaleface is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Scaleface",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 43,
-    "pageviewRank": -1,
+    "pageviewCount": 302,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Scaleface",
   "teams": [
     "Morlocks"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Scaleface"
   }
 }

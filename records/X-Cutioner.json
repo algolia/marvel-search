@@ -8,10 +8,8 @@
   "description": "This article is about the Marvel Comics supervillain X-Cutioner.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "X-Cutioner",
   "partners": [
@@ -20,12 +18,11 @@
     "Various other weapons"
   ],
   "ranking": {
-    "comicCount": 3,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 76,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 3
+    "pageviewCount": 591,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Carl Denti"
@@ -33,12 +30,13 @@
   "species": [
     "Human"
   ],
+  "superName": "X-Cutioner",
   "teams": [
     "FBI",
     "Federal Bureau of Investigation"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2607/x-cutioner",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/X-Cutioner"
   }
 }

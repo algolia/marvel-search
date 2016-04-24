@@ -4,6 +4,8 @@
     "<nowiki>#2</nowiki>",
     "Changeling",
     "Charles Sage",
+    "Earth-1081",
+    "Earth-616",
     "Francisco Zerilli",
     "Jack Bolton",
     "John Askegren",
@@ -21,13 +23,10 @@
   "description": "Kevin Sydney is a fictional character that has been a member of the X-Men in comic book stories published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c00326c980ac/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3e/Morpexilesjpg.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Changeling",
+  "name": "Kevin Sydney",
   "partners": [
   ],
   "powers": [
@@ -43,8 +42,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 309,
-    "pageviewRank": -1,
+    "pageviewCount": 2363,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -54,6 +52,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Kevin Sydney",
   "teams": [
     "Exiles",
     "Factor Three",
@@ -61,7 +60,7 @@
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/421/changeling",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Sydney"
   }
 }

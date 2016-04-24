@@ -15,18 +15,10 @@
   ],
   "description": "Hope Summers is a superheroine appearing in books published by Marvel Comics.",
   "images": {
-    "background": "http://x.annihil.us/u/prod/marvel/i/mg/2/30/537baebfba69a.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/537baeb015d8d.jpg",
+    "background": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/511155f5015e0/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
-  "mainColor": {
-    "blue": 6,
-    "green": 6,
-    "hexa": "3F0606",
-    "red": 63
-  },
+  "mainColor": null,
   "name": "Hope Summers",
   "partners": [
     "Cable"
@@ -40,8 +32,7 @@
   "ranking": {
     "comicCount": 66,
     "eventCount": 5,
-    "pageviewCount": 1080,
-    "pageviewRank": -1,
+    "pageviewCount": 9495,
     "serieCount": 12,
     "storyCount": 88
   },
@@ -52,6 +43,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Hope Summers",
   "teams": [
     "Jean Grey School Students",
     "The Lights",

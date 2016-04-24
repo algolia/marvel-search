@@ -8,9 +8,9 @@
   ],
   "description": "\"Black\" Jack Tarr is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Black Jack Tarr",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 35,
-    "pageviewRank": -1,
+    "pageviewCount": 283,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,10 +29,12 @@
   ],
   "species": [
   ],
+  "superName": "Black Jack Tarr",
   "teams": [
     "Freelance Restorations"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Jack_Tarr"
   }
 }

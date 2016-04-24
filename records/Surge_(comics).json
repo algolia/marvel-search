@@ -10,11 +10,8 @@
   "description": "Prior to enrolling at the Xavier Institute, Noriko Ashida lived on the street and was reliant on illegally obtained prescription drugs to reduce her highly accelerated mutant brain functions to a manageable rate.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4c0038d51109f/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/d0/4c0038d51109f/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Surge",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 6,
     "eventCount": 1,
-    "pageviewCount": 153,
-    "pageviewRank": -1,
+    "pageviewCount": 1382,
     "serieCount": 4,
     "storyCount": 5
   },
@@ -39,6 +35,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Surge",
   "teams": [
     "Jean Grey School Students",
     "New Mutants",

@@ -1,23 +1,19 @@
 {
   "aliases": [
     "Captain America",
-    "Grand Director",
     "The Grand Director"
   ],
   "authors": [
-    "Captain America",
     "Jim Shooter",
     "Roger McKenzie",
     "Sal Buscema",
-    "Steve Englehart",
-    "The Grand Director"
+    "Steve Englehart"
   ],
   "description": "The Grand Director (William Burnside), also known as the Captain America of the 1950s, is a fictional character in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Grand_Director.jpg/250px-Grand_Director.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Grand Director",
   "partners": [
@@ -38,8 +34,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 186,
-    "pageviewRank": -1,
+    "pageviewCount": 1470,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -49,12 +44,14 @@
   ],
   "species": [
   ],
+  "superName": "Grand Director",
   "teams": [
     "Federal government of the United States",
     "National Force",
     "United States Government"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Grand_Director"
   }
 }

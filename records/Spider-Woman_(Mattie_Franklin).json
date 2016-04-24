@@ -7,21 +7,18 @@
     "John Byrne",
     "Rafael Kayanan"
   ],
-  "description": "Spider-Woman (Mattie Franklin) is a fictional character who is a superhero in the Marvel Comics universe.",
+  "description": "Mattie Franklin was granted her powers when, after overhearing a phone call between her father and Norman Osborn about the Gathering of the Five, she took her father's place during the Gathering and was endowed with the awesome powers that Norman Osborn had wanted for himself.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/8/c0/537bc50e40e1c.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/a/00/537bc4cb87e68.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/531771afe4ffa/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/531771c2ab020/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
     "hexa": "3F0606",
     "red": 63
   },
-  "name": "Spider-Woman (Charlotte Witter)",
+  "name": "Spider-Woman (Mattie Franklin)",
   "partners": [
   ],
   "powers": [
@@ -37,12 +34,11 @@
     "Webbing"
   ],
   "ranking": {
-    "comicCount": 9,
-    "eventCount": 1,
-    "pageviewCount": 217,
-    "pageviewRank": -1,
-    "serieCount": 6,
-    "storyCount": 9
+    "comicCount": 5,
+    "eventCount": 0,
+    "pageviewCount": 1848,
+    "serieCount": 2,
+    "storyCount": 5
   },
   "secretIdentities": [
     "Martha Franklin",
@@ -50,11 +46,13 @@
   ],
   "species": [
   ],
+  "superName": "Spider-Woman",
   "teams": [
+    "Loner",
     "Loners"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1010795/spider-woman_charlotte_witter/featured",
+    "marvel": "http://marvel.com/characters/55/spider-woman",
     "wikipedia": "https://en.wikipedia.org/wiki/Spider-Woman_(Mattie_Franklin)"
   }
 }

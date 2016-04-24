@@ -8,14 +8,11 @@
     "Jim Lee",
     "John Byrne"
   ],
-  "description": "Omega Red is a fictional character that appears in comic books published by Marvel Comics.",
+  "description": "Omega Red is a fictional supervillain appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003d09267ae/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/d0/4c003d09267ae/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Omega Red",
   "partners": [
@@ -36,8 +33,7 @@
   "ranking": {
     "comicCount": 20,
     "eventCount": 0,
-    "pageviewCount": 783,
-    "pageviewRank": -1,
+    "pageviewCount": 5746,
     "serieCount": 9,
     "storyCount": 25
   },
@@ -47,6 +43,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Omega Red",
   "teams": [
     "Red Mafia",
     "Russian mafia",

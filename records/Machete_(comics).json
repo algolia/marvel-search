@@ -10,15 +10,14 @@
   ],
   "description": "Machete is the name of three fictional characters in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Machete",
   "partners": [
   ],
   "powers": [
-    "Athletic skills",
     "Experienced tactician",
     "Expert with bladed",
     "Possesses various weapons",
@@ -28,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 47,
-    "pageviewRank": -1,
+    "pageviewCount": 347,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,11 +37,13 @@
   ],
   "species": [
   ],
+  "superName": "Machete",
   "teams": [
     "Batroc the Leaper",
     "Batroc's Brigade"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Machete_(comics)"
   }
 }

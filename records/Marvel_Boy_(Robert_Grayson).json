@@ -12,13 +12,10 @@
   "description": "Marvel Boy (Robert Grayson), also known as The Uranian, is a fictional character, a superhero in the Marvel Comics Universe, one of several to use the name \"Marvel Boy\".",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4c003d4a0e1c0/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/AOATLAS003.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Marvel Boy",
+  "name": "Marvel Boy (Robert Grayson)",
   "partners": [
   ],
   "powers": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 38,
     "eventCount": 4,
-    "pageviewCount": 80,
-    "pageviewRank": -1,
+    "pageviewCount": 679,
     "serieCount": 22,
     "storyCount": 76
   },
@@ -43,6 +39,7 @@
   ],
   "species": [
   ],
+  "superName": "Marvel Boy",
   "teams": [
     "Agents of Atlas"
   ],

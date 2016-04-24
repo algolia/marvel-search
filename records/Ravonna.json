@@ -13,19 +13,11 @@
   ],
   "description": "Ravonna Lexus Renslayer, also known as Terminatrix, is a fictional character in the Marvel Comics universe.",
   "images": {
-    "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/80/537bbe7d45119.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/537bbe663f80c.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/30/528d339973337/standard_xlarge.jpg"
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
-  "mainColor": {
-    "blue": 40,
-    "green": 38,
-    "hexa": "0D2628",
-    "red": 13
-  },
-  "name": "Nebula",
+  "mainColor": null,
+  "name": "Ravonna",
   "partners": [
     "Kang the Conqueror"
   ],
@@ -33,24 +25,24 @@
     "None inherent"
   ],
   "ranking": {
-    "comicCount": 8,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 78,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 5
+    "pageviewCount": 606,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Ravonna Lexus Renslayer"
   ],
   "species": [
   ],
+  "superName": "Ravonna",
   "teams": [
     "Anachronauts",
     "The Council of Kangs"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/40/nebula",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ravonna"
   }
 }

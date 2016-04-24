@@ -10,10 +10,9 @@
   ],
   "description": "Lady Lotus (also known as Lotus Newmark) is a fictional supervillainess from Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f8/Lady_Lotus.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Lady Lotus",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 41,
-    "pageviewRank": -1,
+    "pageviewCount": 273,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,10 +37,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Lady Lotus",
   "teams": [
     "Super-Axis"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Lady_Lotus"
   }
 }

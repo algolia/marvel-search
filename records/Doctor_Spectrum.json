@@ -9,11 +9,8 @@
   "description": "Doctor Spectrum is the name of several fictional characters that appear in publications published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/4dc2d94978576/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/4/90/4dc2d94978576/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Doctor Spectrum",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 13,
     "eventCount": 0,
-    "pageviewCount": 384,
-    "pageviewRank": -1,
+    "pageviewCount": 3483,
     "serieCount": 5,
     "storyCount": 12
   },
@@ -36,9 +32,11 @@
   ],
   "species": [
   ],
+  "superName": "Doctor Spectrum",
   "teams": [
     "Squadron Sinister",
-    "Squadron Supreme"
+    "Squadron Supreme",
+    "Squadron Supreme (Supreme Power)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/566/doctor_spectrum",

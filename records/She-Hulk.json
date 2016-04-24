@@ -7,44 +7,34 @@
     "John Buscema",
     "Stan Lee"
   ],
-  "description": "She-Hulk is the Hulk's action-loving cousin. She's unbelievably strong, pilots the group's heavily armed Jump Jet, and uses a pair of Gamma Gauntlets that give her fists an added energy wallop. As the most competitive member of the team, She-Hulk never backs down from a fight, arm-wrestling match, or burping contest!",
+  "description": "Seriously wounded, young lawyer Jennifer Walters was given a blood transfusion by her cousin Bruce Banner. Usually in better control of her powers and temper than the Hulk, She-Hulk has been a high profile New York lawyer as well as an upstanding member of both the Avengers and Fantastic Four.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/c/40/537bc2cfa9f13.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/537bc2bdb3c39.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/523214b8ea2cf/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/537bc27eeb54f/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 11,
     "green": 37,
     "hexa": "17250B",
     "red": 23
   },
-  "name": "She-Hulk (HAS)",
+  "name": "She-Hulk",
   "partners": [
   ],
   "powers": [
-    "Agility",
-    "Breaking the \"fourth wall",
     "Durability",
-    "Emotion empowerment",
     "Endurance",
     "Healing factor",
-    "Power-switching",
     "Regenerative",
-    "Skilled pilot",
     "Speed",
-    "Stamina",
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 0,
-    "eventCount": 0,
-    "pageviewCount": 2196,
-    "pageviewRank": -1,
-    "serieCount": 0,
-    "storyCount": 0
+    "comicCount": 300,
+    "eventCount": 12,
+    "pageviewCount": 17328,
+    "serieCount": 106,
+    "storyCount": 348
   },
   "secretIdentities": [
     "Jennifer Walters"
@@ -52,6 +42,7 @@
   "species": [
     "Mutate"
   ],
+  "superName": "She-Hulk",
   "teams": [
     "A-Force",
     "Ancient Order of the Shield",
@@ -60,6 +51,7 @@
     "Fantastic Force",
     "Fantastic Four",
     "Fearsome Four",
+    "Fifty State Initiative",
     "Future Foundation",
     "Goodman",
     "Goodman, Lieber, Kurtzberg & Holliway",
@@ -70,7 +62,9 @@
     "Lieber",
     "Mighty Avengers",
     "S.H.I.E.L.D",
-    "The Initiative"
+    "She-Hulk",
+    "The Initiative",
+    "The Mighty Avengers"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/51/she-hulk",

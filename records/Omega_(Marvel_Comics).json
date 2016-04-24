@@ -8,9 +8,9 @@
   ],
   "description": "Omega is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Omega",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 24,
-    "pageviewRank": -1,
+    "pageviewCount": 201,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,9 +28,11 @@
   ],
   "species": [
   ],
+  "superName": "Omega",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Omega_(Marvel_Comics)"
   }
 }

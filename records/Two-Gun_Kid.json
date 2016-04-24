@@ -12,11 +12,8 @@
   "description": "The Two-Gun Kid is the name of two Western fictional characters in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4ce5a390b929b/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Two-Gun Kid",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 134,
     "eventCount": 0,
-    "pageviewCount": 130,
-    "pageviewRank": -1,
+    "pageviewCount": 1051,
     "serieCount": 6,
     "storyCount": 457
   },
@@ -37,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Two-Gun Kid",
   "teams": [
   ],
   "urls": {

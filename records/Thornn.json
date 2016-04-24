@@ -8,10 +8,9 @@
   ],
   "description": "Thornn (Lucia Callasantos) is a fictional character created by Marvel Comics for their series, X-Force.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Thornn01.jpg/250px-Thornn01.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Thornn",
   "partners": [
@@ -32,8 +31,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 96,
-    "pageviewRank": -1,
+    "pageviewCount": 762,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -43,6 +41,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Thornn",
   "teams": [
     "Brotherhood of Evil Mutants",
     "Brotherhood of Mutants",
@@ -50,6 +49,7 @@
     "X-Corporation"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Thornn"
   }
 }

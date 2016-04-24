@@ -8,9 +8,9 @@
   ],
   "description": "Ion (Voletta Todd) is a fictional supervillain character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ion",
   "partners": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 24,
-    "pageviewRank": -1,
+    "pageviewCount": 189,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +33,12 @@
   ],
   "species": [
   ],
+  "superName": "Ion",
   "teams": [
     "Femizons"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ion_(Marvel_Comics)"
   }
 }

@@ -9,10 +9,9 @@
   ],
   "description": "Predator X is a comic book character, in Marvel Comics'  main shared universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5f/Predatorx.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Predator X",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 151,
-    "pageviewRank": -1,
+    "pageviewCount": 1242,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,12 +36,15 @@
   ],
   "species": [
   ],
+  "superName": "Predator X",
   "teams": [
+    "HYDRA",
     "Hydra",
     "The Facility",
     "Weapon X"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Predator_X_(comics)"
   }
 }

@@ -8,10 +8,9 @@
   ],
   "description": "Thunderclap (Stanley George Johnson) is a fictional superhero created by Marvel UK a division of Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Thunderclapmu0.png/225px-Thunderclapmu0.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Thunderclap",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 21,
-    "pageviewRank": -1,
+    "pageviewCount": 192,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,9 +31,11 @@
   "species": [
     "Human"
   ],
+  "superName": "Thunderclap",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Thunderclap_(comics)"
   }
 }

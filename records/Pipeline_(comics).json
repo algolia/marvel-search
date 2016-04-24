@@ -8,9 +8,9 @@
   ],
   "description": "Pipeline (Cormick Grimshaw) is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Pipeline",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 19,
-    "pageviewRank": -1,
+    "pageviewCount": 115,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,6 +32,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Pipeline",
   "teams": [
     "Genoshan Cabinet",
     "Genoshan Magistrates",
@@ -40,6 +40,7 @@
     "Press Gang"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Pipeline_(comics)"
   }
 }

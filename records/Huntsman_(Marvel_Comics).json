@@ -9,9 +9,9 @@
   ],
   "description": "The Huntsman is a fictional character in Marvel Comics who is a tracker/hunter of the Olympian Gods for Zeus.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Huntsman",
   "partners": [
@@ -19,20 +19,14 @@
   "powers": [
     "Durability",
     "Energy projection",
-    "Fear-based powers",
-    "Flight",
     "Illusion creation",
-    "Immortality",
     "Inter-dimensional travel",
-    "Speed",
-    "Stamina",
     "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 34,
-    "pageviewRank": -1,
+    "pageviewCount": 231,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,11 +35,13 @@
   ],
   "species": [
   ],
+  "superName": "Huntsman",
   "teams": [
     "Olympian Gods",
     "Olympians"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Huntsman_(Marvel_Comics)"
   }
 }

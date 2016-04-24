@@ -11,11 +11,8 @@
   "description": "Lionheart (Kelsey Leigh Kirkland), formerly called Captain Britain, is a fictional character, a Marvel Comics superhero.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/ba/Lionheart.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Lionheart",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1883,
-    "pageviewRank": -1,
+    "pageviewCount": 1168,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Lionheart",
   "teams": [
     "Avengers",
     "Captain Britain Corps",
@@ -45,7 +42,7 @@
     "The Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1252/lionheart",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Lionheart_(comics)"
   }
 }

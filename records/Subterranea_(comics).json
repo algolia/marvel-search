@@ -10,9 +10,9 @@
   ],
   "description": "Moloids redirect here.Subterranea is a fictional realm far beneath the Earth's surface in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Subterranea",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 108,
-    "pageviewRank": -1,
+    "pageviewCount": 652,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,9 +31,11 @@
   "species": [
     "Subterraneans"
   ],
+  "superName": "Subterranea",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Subterranea_(comics)"
   }
 }

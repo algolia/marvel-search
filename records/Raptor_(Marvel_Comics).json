@@ -13,10 +13,9 @@
   ],
   "description": "Raptor is the name of three fictional characters in the Marvel Comics' universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Raptor_%28Gary_Wilton_Jr%29.jpg/200px-Raptor_%28Gary_Wilton_Jr%29.jpg"
   },
-  "isHero": null,
-  "isVillain": false,
   "mainColor": null,
   "name": "Raptor",
   "partners": [
@@ -36,8 +35,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 72,
-    "pageviewRank": -1,
+    "pageviewCount": 492,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -52,11 +50,13 @@
     "Mutant",
     "Mutate"
   ],
+  "superName": "Raptor",
   "teams": [
     "Avengers",
     "New Warriors"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Raptor_(Marvel_Comics)"
   }
 }

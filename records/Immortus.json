@@ -15,13 +15,10 @@
   "description": "Immortus (Nathaniel Richards) is a fictional character in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c0038c9c6580/standard_xlarge.jpg"
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Iron Lad",
+  "name": "Immortus",
   "partners": [
   ],
   "powers": [
@@ -31,18 +28,18 @@
     "Time manipulation"
   ],
   "ranking": {
-    "comicCount": 7,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 234,
-    "pageviewRank": -1,
-    "serieCount": 4,
-    "storyCount": 6
+    "pageviewCount": 2157,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Nathaniel Richards"
   ],
   "species": [
   ],
+  "superName": "Immortus",
   "teams": [
     "Badoon",
     "Church Of Immortus",
@@ -50,7 +47,7 @@
     "The Time Keepers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1051/iron_lad",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Immortus"
   }
 }

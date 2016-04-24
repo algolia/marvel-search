@@ -12,29 +12,23 @@
   "description": "After the apparent death of Baron von Strucker, Viper took the name Madame Hydra and took control of the New York-based faction of Hydra.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Viper",
   "partners": [
   ],
   "powers": [
-    "Advertiser",
     "Chemist",
     "Darts",
     "Debater",
     "Skilled advertiser",
-    "Skilled debater",
-    "Skilled in chemistry",
     "Venom-tipped claws"
   ],
   "ranking": {
     "comicCount": 40,
     "eventCount": 1,
-    "pageviewCount": 494,
-    "pageviewRank": -1,
+    "pageviewCount": 1779,
     "serieCount": 19,
     "storyCount": 34
   },
@@ -45,6 +39,7 @@
   ],
   "species": [
   ],
+  "superName": "Viper",
   "teams": [
     "Secret Empire",
     "Serpent Squad"

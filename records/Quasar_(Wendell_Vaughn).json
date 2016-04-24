@@ -11,16 +11,13 @@
     "John Buscema",
     "Roy Thomas"
   ],
-  "description": "Quasar (Wendell Elvis Vaughn) is a fictional character, a comic book superhero in the Marvel Comics Universe.",
+  "description": "Quasar (Wendell Elvis Vaughn) is a fictional superhero that appears in comic books which are set in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/52741171e681e/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/52741155a2994/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Quasar (Phyla-Vell)",
+  "name": "Quasar (Wendell Vaughn)",
   "partners": [
   ],
   "powers": [
@@ -30,18 +27,18 @@
     "Teleportation"
   ],
   "ranking": {
-    "comicCount": 98,
-    "eventCount": 7,
-    "pageviewCount": 268,
-    "pageviewRank": -1,
-    "serieCount": 28,
-    "storyCount": 158
+    "comicCount": 9,
+    "eventCount": 2,
+    "pageviewCount": 2297,
+    "serieCount": 6,
+    "storyCount": 9
   },
   "secretIdentities": [
     "Wendell Elvis Vaughn"
   ],
   "species": [
   ],
+  "superName": "Quasar",
   "teams": [
     "Annihilators",
     "Avengers",
@@ -54,7 +51,7 @@
     "The Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009523/quasar_phyla-vell",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Quasar_(Wendell_Vaughn)"
   }
 }

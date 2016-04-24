@@ -13,11 +13,8 @@
   "description": "Nuke (real name Frank Simpson) is a fictional supervillain in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4ce5a28ac1c48/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Nuke",
   "partners": [
@@ -31,8 +28,7 @@
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 5942,
-    "pageviewRank": -1,
+    "pageviewCount": 109709,
     "serieCount": 4,
     "storyCount": 6
   },
@@ -41,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Nuke",
   "teams": [
     "Thunderbolts",
     "Weapon Plus"

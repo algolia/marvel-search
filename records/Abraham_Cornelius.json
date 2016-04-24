@@ -1,7 +1,6 @@
 {
   "aliases": [
     "Abraham",
-    "Abraham Cornelius",
     "Cornelius",
     "Doctor Cornelius"
   ],
@@ -11,13 +10,10 @@
   "description": "Doctor Abraham Cornelius is a fictional character in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c2/AbeCornelius.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Cornelius",
+  "name": "Abraham Cornelius",
   "partners": [
     "Fenris",
     "Matsu'o Tsurayaba"
@@ -28,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 155,
-    "pageviewRank": -1,
+    "pageviewCount": 1195,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,12 +33,13 @@
   ],
   "species": [
   ],
+  "superName": "Abraham Cornelius",
   "teams": [
     "The Hand",
     "Weapon X"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/460/cornelius",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Abraham_Cornelius"
   }
 }

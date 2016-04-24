@@ -12,11 +12,8 @@
   "description": "Vowing to serve his country any way he could, young Steve Rogers took the super soldier serum to become America's one-man army. Fighting for the red, white and blue for over 60 years, Captain America is the living, breathing symbol of freedom and liberty.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/537ba5c73bf82.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/9/80/537ba5b368b7d.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
@@ -37,25 +34,21 @@
     "Sharon Carter"
   ],
   "powers": [
-    "Agility expert",
     "Enhanced mental faculties",
-    "Excellent field commander",
     "Expert marksman",
+    "Expert tactician",
     "Field commander",
     "Hand-to-hand combatant",
-    "Marksman",
     "Master martial artist",
     "Master tactician",
-    "Physical condition",
+    "Peak physical condition",
     "Strategist",
-    "Tactician",
     "Wields"
   ],
   "ranking": {
     "comicCount": 1411,
     "eventCount": 19,
-    "pageviewCount": 13052,
-    "pageviewRank": 770,
+    "pageviewCount": 89978,
     "serieCount": 382,
     "storyCount": 2326
   },
@@ -66,6 +59,7 @@
   ],
   "species": [
   ],
+  "superName": "Captain America",
   "teams": [
     "All-Winners Squad",
     "Avengers",

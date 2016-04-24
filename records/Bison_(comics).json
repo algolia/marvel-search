@@ -9,11 +9,11 @@
     "Tom DeFalco",
     "Tom DeFalco & Ron Frenz"
   ],
-  "description": "Bison (William \"Billy\" Kitson) is a fictional character from the Marvel Comics universe.",
+  "description": "Bison (William \"Billy\" Kitson) is a fictional character in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Bison",
   "partners": [
@@ -26,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 19,
-    "pageviewRank": -1,
+    "pageviewCount": 185,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,10 +37,12 @@
   ],
   "species": [
   ],
+  "superName": "Bison",
   "teams": [
     "Masters of Evil"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Bison_(comics)"
   }
 }

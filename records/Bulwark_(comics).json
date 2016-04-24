@@ -9,9 +9,9 @@
   ],
   "description": "Bulwark (Oswald Boeglin) is a fictional mutant character in the Marvel Comics Universe who first appeared as an antagonist of Generation X in Generation X #11.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Bulwark",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 16,
-    "pageviewRank": -1,
+    "pageviewCount": 166,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,11 +33,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Bulwark",
   "teams": [
     "Emplate's Hellions",
     "Hellions"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Bulwark_(comics)"
   }
 }

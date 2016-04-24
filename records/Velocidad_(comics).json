@@ -9,9 +9,9 @@
   ],
   "description": "Velocidad (Gabriel Cohuelo) is a fictional comic book superhero appearing in books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Velocidad",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 66,
-    "pageviewRank": -1,
+    "pageviewCount": 638,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,6 +31,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Velocidad",
   "teams": [
     "Hope Summers",
     "Jean Grey School Students",
@@ -39,6 +39,7 @@
     "X-Men"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Velocidad_(comics)"
   }
 }

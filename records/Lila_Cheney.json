@@ -9,11 +9,8 @@
   "description": "Lila Cheney is a fictional character in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Lila_Cheney.jpg/200px-Lila_Cheney.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Lila Cheney",
   "partners": [
@@ -22,12 +19,11 @@
     "Teleportation"
   ],
   "ranking": {
-    "comicCount": 4,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 85,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 4
+    "pageviewCount": 692,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Lila Cheney"
@@ -35,6 +31,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Lila Cheney",
   "teams": [
     "Gladiators",
     "New Mutants",
@@ -42,7 +39,7 @@
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2691/lila_cheney",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Lila_Cheney"
   }
 }

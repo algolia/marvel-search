@@ -9,9 +9,9 @@
   ],
   "description": "Hoss is a fictional character appearing in Marvel Comics, created by writer Garth Ennis and artist Clayton Crain.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hoss",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 28,
-    "pageviewRank": -1,
+    "pageviewCount": 195,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,6 +31,7 @@
   ],
   "species": [
   ],
+  "superName": "Hoss",
   "teams": [
     "Buttview",
     "Ghost Rider",
@@ -39,6 +39,7 @@
     "Ruth, Buttview"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hoss_(comics)"
   }
 }

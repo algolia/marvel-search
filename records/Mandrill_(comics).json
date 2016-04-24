@@ -11,11 +11,8 @@
   "description": "Mandrill is a fictional character, a mutant supervillain in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c002efee8164/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mandrill",
   "partners": [
@@ -42,8 +39,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 97,
-    "pageviewRank": -1,
+    "pageviewCount": 676,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -53,6 +49,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Mandrill",
   "teams": [
     "Black Spectre",
     "Mutant Force",

@@ -9,9 +9,9 @@
   ],
   "description": "Razorback (Buford Hollis) is a fictional Marvel Comics superhero.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Razorback",
   "partners": [
@@ -30,8 +30,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 59,
-    "pageviewRank": -1,
+    "pageviewCount": 309,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,10 +40,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Razorback",
   "teams": [
     "Fifty State Initiative"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Razorback_(comics)"
   }
 }

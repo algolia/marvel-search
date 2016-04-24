@@ -7,9 +7,9 @@
   ],
   "description": "Pinball is a character from Marvel Comics' original Squadron Supreme series.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Pinball",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 18,
-    "pageviewRank": -1,
+    "pageviewCount": 101,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,11 +28,13 @@
   ],
   "species": [
   ],
+  "superName": "Pinball",
   "teams": [
     "Institute of Evil",
     "Redeemers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Pinball_(comics)"
   }
 }

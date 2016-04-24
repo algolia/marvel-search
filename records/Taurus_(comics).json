@@ -8,9 +8,9 @@
   ],
   "description": "Taurus is the name of different characters in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Taurus",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 43,
-    "pageviewRank": -1,
+    "pageviewCount": 386,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,11 +29,13 @@
   ],
   "species": [
   ],
+  "superName": "Taurus",
   "teams": [
     "Great Wheel",
     "Zodiac"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Taurus_(comics)"
   }
 }

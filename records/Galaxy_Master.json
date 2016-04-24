@@ -8,10 +8,9 @@
   ],
   "description": "Galaxy Master is a fictional character, a comic book supervillain in the Marvel Comics Universe.The Galaxy Master is a monstrous but intelligent bio-mechanical cosmic entity created by extra-dimensional beings.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/GalaxyMasterTwo.png/250px-GalaxyMasterTwo.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Galaxy Master",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 32,
-    "pageviewRank": -1,
+    "pageviewCount": 273,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,9 +33,11 @@
   ],
   "species": [
   ],
+  "superName": "Galaxy Master",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Galaxy_Master"
   }
 }

@@ -13,11 +13,8 @@
   "description": "A clone of the mutant Wolverine, X-23 was trained as a living weapon by a secretive government agency.  Now residing with the X-Men, she strives to recover her stolen youth and become a fully realized person.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/f0/537bcb887e624.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/6/30/537bcb6f33055.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/50fec5ed6f3de/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/1/d0/537bcb4edd0bc/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 9,
     "green": 36,
@@ -47,8 +44,7 @@
   "ranking": {
     "comicCount": 81,
     "eventCount": 4,
-    "pageviewCount": 2440,
-    "pageviewRank": -1,
+    "pageviewCount": 16989,
     "serieCount": 24,
     "storyCount": 84
   },
@@ -59,6 +55,7 @@
     "Molecular cloning",
     "Mutant"
   ],
+  "superName": "X-23",
   "teams": [
     "Avengers Academy",
     "New X-Men",

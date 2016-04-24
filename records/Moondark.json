@@ -11,9 +11,9 @@
   ],
   "description": "Moondark is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Moondark",
   "partners": [
@@ -21,6 +21,7 @@
   "powers": [
     "Hypnosis",
     "Magic",
+    "Magic (paranormal)",
     "Mesmerize",
     "Teleport",
     "Teleportation",
@@ -29,8 +30,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 30,
-    "pageviewRank": -1,
+    "pageviewCount": 241,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,11 +40,13 @@
   "species": [
     "Human"
   ],
+  "superName": "Moondark",
   "teams": [
     "Dark Beings/Gods",
     "Freaks"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Moondark"
   }
 }

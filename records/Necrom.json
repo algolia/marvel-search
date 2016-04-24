@@ -9,9 +9,9 @@
   ],
   "description": "Necrom is a fictional character created by Alan Davis for Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Necrom",
   "partners": [
@@ -27,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 58,
-    "pageviewRank": -1,
+    "pageviewCount": 446,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,10 +36,12 @@
   ],
   "species": [
   ],
+  "superName": "Necrom",
   "teams": [
     "none"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Necrom"
   }
 }

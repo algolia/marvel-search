@@ -10,19 +10,11 @@
   ],
   "description": "Angel Salvadore, also known by her codename Tempest, is a fictional character created by Grant Morrison and Ethan Van Sciver, appearing in comic books published by Marvel Comics.",
   "images": {
-    "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/537b9f24ab731.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/3/30/537b88aa21075.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/531769834b15f/standard_xlarge.jpg"
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/TempestAngelSalvadore.jpg/250px-TempestAngelSalvadore.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
-  "mainColor": {
-    "blue": 9,
-    "green": 36,
-    "hexa": "3A2409",
-    "red": 58
-  },
-  "name": "Angel (Thomas Halloway)",
+  "mainColor": null,
+  "name": "Angel Salvadore",
   "partners": [
   ],
   "powers": [
@@ -31,12 +23,11 @@
     "Insectoid physiology"
   ],
   "ranking": {
-    "comicCount": 4,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1009,
-    "pageviewRank": -1,
-    "serieCount": 4,
-    "storyCount": 4
+    "pageviewCount": 5809,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Angel Salvadore"
@@ -45,6 +36,7 @@
     "Decimation",
     "Mutant"
   ],
+  "superName": "Angel Salvadore",
   "teams": [
     "Brotherhood of Mutants",
     "Exemplars training squad",
@@ -56,7 +48,7 @@
     "Xavier Institute"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1011396/angel_thomas_halloway/featured",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Angel_Salvadore"
   }
 }

@@ -1,14 +1,17 @@
 {
   "aliases": [
+    "T-Ray"
   ],
   "authors": [
     "Ed McGuiness",
+    "Ed McGuinness",
     "Joe Kelly"
   ],
+  "description": "T-Ray is a comic book supervillain, published by Marvel Comics and created by Joe Kelly and Ed McGuiness.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "T-Ray",
   "partners": [
@@ -16,6 +19,7 @@
   "powers": [
     "Awareness",
     "Fourth wall",
+    "Fourth wall awareness",
     "Knowledge of magical",
     "Rituals",
     "Superhuman strength",
@@ -25,18 +29,20 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 585,
-    "pageviewRank": -1,
+    "pageviewCount": 2754,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
+    "Wade Wilson?"
   ],
   "species": [
   ],
+  "superName": "T-Ray",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/T-Ray_(comics)"
   }
 }

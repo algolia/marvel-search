@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Hornet",
     "The Hornet"
   ],
   "authors": [
@@ -10,9 +9,9 @@
   ],
   "description": "The Hornet is an identity used by three fictional characters in the Marvel Universe, one villain, and two heroes.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hornet",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 106,
-    "pageviewRank": -1,
+    "pageviewCount": 713,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,10 +33,12 @@
   "species": [
     "Human"
   ],
+  "superName": "Hornet",
   "teams": [
     "Slingers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hornet_(comics)"
   }
 }

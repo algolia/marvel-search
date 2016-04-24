@@ -9,10 +9,9 @@
   ],
   "description": "Amelia C.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/cd/XMEN_AmeliaVoght.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Amelia Voght",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 81,
-    "pageviewRank": -1,
+    "pageviewCount": 795,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,12 +33,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Amelia Voght",
   "teams": [
     "Acolytes",
     "Genosha",
     "Genoshan Cabinet"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Voght"
   }
 }

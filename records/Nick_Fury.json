@@ -9,31 +9,23 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "This article is about the first character named Nick Fury.",
+  "description": "Colonel Nicholas Joseph \"Nick\" Fury is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/5261a745e658d/standard_xlarge.jpg"
+    "thumbnail": "https://i.annihil.us/u/prod/marvel/i/mg/3/c0/5261a745e658d/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Nick Fury",
   "partners": [
   ],
   "powers": [
-    "Experienced soldier",
-    "Fighting techniques",
     "Highly skilled in armed",
-    "Skilled",
-    "Skilled with many weapons",
     "Unarmed combat"
   ],
   "ranking": {
     "comicCount": 279,
     "eventCount": 10,
-    "pageviewCount": 2523,
-    "pageviewRank": 9482,
+    "pageviewCount": 18833,
     "serieCount": 123,
     "storyCount": 275
   },
@@ -43,6 +35,7 @@
   ],
   "species": [
   ],
+  "superName": "Nick Fury",
   "teams": [
     "Avengers\" (1959)",
     "C.I.A",

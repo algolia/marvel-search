@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Ord",
     "Ord of the Breakworld"
   ],
   "authors": [
@@ -10,11 +9,8 @@
   "description": "Ord is a fictional character, a comic book supervillain in books published by Marvel Comics, specifically as an enemy of the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c002f1c476f9/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ord",
   "partners": [
@@ -30,8 +26,7 @@
   "ranking": {
     "comicCount": 11,
     "eventCount": 0,
-    "pageviewCount": 53,
-    "pageviewRank": -1,
+    "pageviewCount": 488,
     "serieCount": 5,
     "storyCount": 8
   },
@@ -40,6 +35,7 @@
   ],
   "species": [
   ],
+  "superName": "Ord",
   "teams": [
   ],
   "urls": {

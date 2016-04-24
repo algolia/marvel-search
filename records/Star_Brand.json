@@ -8,11 +8,8 @@
   "description": "The Star Brand is the name of a number of similar fictional comic book objects of power all of which exist in the multiverse created by the shared universes of Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Star_Brand_1.jpg/250px-Star_Brand_1.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Star Brand",
   "partners": [
@@ -20,21 +17,21 @@
   "powers": [
   ],
   "ranking": {
-    "comicCount": 20,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 244,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 35
+    "pageviewCount": 2120,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Star Brand",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2195/star_brand",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Star_Brand"
   }
 }

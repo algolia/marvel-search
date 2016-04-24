@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Scarlet Spider",
     "Spider-Man"
   ],
   "authors": [
@@ -8,33 +7,30 @@
   "description": "Scarlet Spider is a fictional character who appeared in Marvel Comics series starring Spider-Man.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4ce5a531089da/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Scarlet_Spider_combined.jpg/250px-Scarlet_Spider_combined.jpg"
   },
-  "isHero": true,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Scarlet Spider (Ben Reilly)",
+  "name": "Scarlet Spider",
   "partners": [
   ],
   "powers": [
   ],
   "ranking": {
-    "comicCount": 6,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 560,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 6
+    "pageviewCount": 4288,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Scarlet Spider",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2014/scarlet_spider",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Scarlet_Spider"
   }
 }

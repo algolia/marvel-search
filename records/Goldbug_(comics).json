@@ -9,9 +9,9 @@
   ],
   "description": "Goldbug is a supervillain in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Goldbug",
   "partners": [
@@ -30,8 +30,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 24,
-    "pageviewRank": -1,
+    "pageviewCount": 280,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,11 +39,13 @@
   ],
   "species": [
   ],
+  "superName": "Goldbug",
   "teams": [
     "Maggia",
     "They Who Wield Power"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Goldbug_(comics)"
   }
 }

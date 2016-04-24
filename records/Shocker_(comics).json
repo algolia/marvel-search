@@ -3,19 +3,17 @@
     "Shocker"
   ],
   "authors": [
+    "John Romita Sr.",
     "John Romita, Sr.",
     "Stan Lee"
   ],
   "description": "Herman Schultz is a career criminal who, after several prison terms for robbery, built a battle suit that sent out shock waves to quickly open safes as well as give him a significant advantage over the New York police.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/28/AmazingSpider-Man046.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Shocker (Herman Schultz)",
+  "name": "Shocker",
   "partners": [
   ],
   "powers": [
@@ -23,8 +21,7 @@
   "ranking": {
     "comicCount": 21,
     "eventCount": 2,
-    "pageviewCount": 511,
-    "pageviewRank": -1,
+    "pageviewCount": 3633,
     "serieCount": 13,
     "storyCount": 23
   },
@@ -33,6 +30,7 @@
   ],
   "species": [
   ],
+  "superName": "Shocker",
   "teams": [
     "Heroes for Hire",
     "Masters of Evil",

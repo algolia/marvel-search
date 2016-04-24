@@ -8,16 +8,13 @@
     "Keron Grant",
     "Nunzio DeFilippis"
   ],
-  "description": "Prodigy (David Alleyne) is a fictional comic book superhero appearing in books published by Marvel Comics, in particular the X-Men family of books.",
+  "description": "Prodigy (David Alleyne) is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/535feca6710cd/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Prodigy_%28David_Alleyne%29_in_New_X-Men.jpg/200px-Prodigy_%28David_Alleyne%29_in_New_X-Men.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Prodigy",
+  "name": "Prodigy (David Alleyne)",
   "partners": [
   ],
   "powers": [
@@ -28,8 +25,7 @@
   "ranking": {
     "comicCount": 9,
     "eventCount": 3,
-    "pageviewCount": 270,
-    "pageviewRank": -1,
+    "pageviewCount": 2317,
     "serieCount": 4,
     "storyCount": 11
   },
@@ -40,6 +36,7 @@
     "Decimation",
     "Mutant"
   ],
+  "superName": "Prodigy",
   "teams": [
     "New Mutants",
     "New Mutants training squad",
@@ -50,7 +47,7 @@
     "Young Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1011030/prodigy",
+    "marvel": "http://marvel.com/characters/1805/prodigy",
     "wikipedia": "https://en.wikipedia.org/wiki/Prodigy_(David_Alleyne)"
   }
 }

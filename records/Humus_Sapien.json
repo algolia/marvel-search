@@ -10,10 +10,9 @@
   ],
   "description": "Humus Sapien (Sonny Baredo) is a fictional supervillain published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/HumusSapiens.jpg/250px-HumusSapiens.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Humus Sapien",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 22,
-    "pageviewRank": -1,
+    "pageviewCount": 261,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +32,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Humus Sapien",
   "teams": [
     "Thunderbolts"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Humus_Sapien"
   }
 }

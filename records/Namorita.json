@@ -2,7 +2,6 @@
   "aliases": [
     "Hard",
     "Kymaera",
-    "Namorita",
     "Namorita Prentiss"
   ],
   "authors": [
@@ -11,11 +10,8 @@
   "description": "Namorita Prentiss is a fictional superhero in the Marvel Universe, commonly known by the name of Nita.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/528d33a253447/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/4/03/528d33a253447/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Namorita",
   "partners": [
@@ -24,20 +20,17 @@
     "Agility",
     "Ankle wing-granted flight",
     "Aquatic adaptation",
-    "Atmospheric flight",
     "Can become transparent",
     "Durability",
     "High speed swimming",
     "Paralyzing/acidic touch",
     "Reflexes",
-    "Super strength",
     "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 30,
     "eventCount": 5,
-    "pageviewCount": 227,
-    "pageviewRank": -1,
+    "pageviewCount": 1877,
     "serieCount": 18,
     "storyCount": 29
   },
@@ -49,6 +42,7 @@
     "Atlantean",
     "Human hybrid mutant"
   ],
+  "superName": "Namorita",
   "teams": [
     "Atlantean Council of Three",
     "Defenders",

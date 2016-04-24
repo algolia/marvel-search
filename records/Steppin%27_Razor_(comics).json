@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "Steppin' Razor"
   ],
   "authors": [
     "Douglas H. Wheatley",
@@ -7,10 +8,11 @@
     "artist",
     "writer"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Steppin' Razor",
   "partners": [
@@ -21,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 24,
-    "pageviewRank": -1,
+    "pageviewCount": 249,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,9 +32,11 @@
   ],
   "species": [
   ],
+  "superName": "Steppin' Razor",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Steppin%27_Razor_(comics)"
   }
 }

@@ -16,9 +16,9 @@
   ],
   "description": "The Foolkiller is a fictional character appearing in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Foolkiller",
   "partners": [
@@ -29,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 135,
-    "pageviewRank": -1,
+    "pageviewCount": 1072,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -46,10 +45,12 @@
   ],
   "species": [
   ],
+  "superName": "Foolkiller",
   "teams": [
     "Mercs for Money"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Foolkiller"
   }
 }

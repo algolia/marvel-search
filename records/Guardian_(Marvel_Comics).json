@@ -10,11 +10,8 @@
   "description": "Guardian (James \"Mac\" MacDonald Hudson, Jr.), also known as Weapon Alpha and Vindicator, is a fictional character, a Canadian superhero in the Marvel Comics Universe who was the leader of Alpha Flight.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4dd531d26079c/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/50/4dd531d26079c/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Guardian",
   "partners": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 30,
     "eventCount": 1,
-    "pageviewCount": 289,
-    "pageviewRank": -1,
+    "pageviewCount": 2513,
     "serieCount": 16,
     "storyCount": 27
   },
@@ -38,6 +34,7 @@
   ],
   "species": [
   ],
+  "superName": "Guardian",
   "teams": [
     "Alpha Flight",
     "Beta Flight",

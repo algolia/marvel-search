@@ -8,10 +8,9 @@
   ],
   "description": "Commander Kraken is a fictional character in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Cm.Kraken.jpg/250px-Cm.Kraken.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Commander Kraken",
   "partners": [
@@ -21,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 53,
-    "pageviewRank": -1,
+    "pageviewCount": 515,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,10 +28,13 @@
   ],
   "species": [
   ],
+  "superName": "Commander Kraken",
   "teams": [
+    "HYDRA",
     "Hydra"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Commander_Kraken"
   }
 }

@@ -3,7 +3,6 @@
     "Counterweight",
     "Energizer",
     "Kate Power",
-    "Katie Power",
     "Starstreak"
   ],
   "authors": [
@@ -13,32 +12,24 @@
   "description": "Energizer (Kate Margaret \"Katie\" Power), is a fictional character in Marvel Comics' universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Ktpower2005.jpg/200px-Ktpower2005.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/90/4ce5a5bf6b872/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Energizer",
+  "name": "Katie Power",
   "partners": [
   ],
   "powers": [
-    "Absorbing",
     "Acceleration/flight",
-    "Controlling gravity",
-    "Disintegrating",
     "Disintegration",
     "Energy absorption",
     "Gravity manipualtion",
     "Healing powers",
-    "Projection",
-    "Releasing energy"
+    "Projection"
   ],
   "ranking": {
-    "comicCount": 1,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 116,
-    "pageviewRank": -1,
+    "pageviewCount": 962,
     "serieCount": 1,
     "storyCount": 1
   },
@@ -47,12 +38,13 @@
   ],
   "species": [
   ],
+  "superName": "Katie Power",
   "teams": [
     "Power Pack",
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/620/energizer",
+    "marvel": "http://marvel.com/characters/2896/katie_power",
     "wikipedia": "https://en.wikipedia.org/wiki/Katie_Power"
   }
 }

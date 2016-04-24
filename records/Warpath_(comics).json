@@ -11,22 +11,17 @@
   "description": "James Proudstar was once a member of Professor X's New Mutants and is currently a member of the X-Men black ops team, X-Force.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/526035de08b23/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/e0/526035de08b23/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Warpath",
   "partners": [
   ],
   "powers": [
     "Agility",
-    "Durability",
     "Endurance",
     "Flexibility",
     "Flight",
-    "Reflexes",
     "Reflexes/reactions",
     "Resistance to injury",
     "Senses",
@@ -34,15 +29,12 @@
     "Speed",
     "Stamina",
     "Superhuman strength",
-    "Tracker",
-    "Trained in armed",
-    "Unarmed combat"
+    "Tracker"
   ],
   "ranking": {
     "comicCount": 154,
     "eventCount": 5,
-    "pageviewCount": 1146,
-    "pageviewRank": -1,
+    "pageviewCount": 10410,
     "serieCount": 27,
     "storyCount": 188
   },
@@ -52,6 +44,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Warpath",
   "teams": [
     "Hellions",
     "New Mutants",

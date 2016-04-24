@@ -8,10 +8,9 @@
   ],
   "description": "Woodgod is a fictional character in the Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Woodgod.jpg/249px-Woodgod.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Woodgod",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 44,
-    "pageviewRank": -1,
+    "pageviewCount": 216,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,10 +33,12 @@
   "species": [
     "Genetic Construct"
   ],
+  "superName": "Woodgod",
   "teams": [
     "The Community of the Changelings"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Woodgod"
   }
 }

@@ -6,14 +6,11 @@
     "Chris Claremont",
     "Paul Smith"
   ],
-  "description": "Callisto is a Marvel Comics fictional character, associated with the X-Men.",
+  "description": "Callisto is a fictional character who appears in American comic books published by Marvel Comics and is associated with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4c004082711b8/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/90/4c004082711b8/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Callisto",
   "partners": [
@@ -30,8 +27,7 @@
   "ranking": {
     "comicCount": 31,
     "eventCount": 2,
-    "pageviewCount": 644,
-    "pageviewRank": -1,
+    "pageviewCount": 4989,
     "serieCount": 9,
     "storyCount": 28
   },
@@ -40,6 +36,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Callisto",
   "teams": [
     "Gene Nation",
     "Genoshan Excalibur",

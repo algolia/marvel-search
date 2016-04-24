@@ -9,11 +9,8 @@
   "description": "Cobalt Man (Ralph Roberts) is a fictional supervillain in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cobalt_Man.jpg/250px-Cobalt_Man.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Cobalt Man",
   "partners": [
@@ -22,23 +19,23 @@
     "Power armor"
   ],
   "ranking": {
-    "comicCount": 1,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 83,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 1
+    "pageviewCount": 679,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Ralph Roberts"
   ],
   "species": [
   ],
+  "superName": "Cobalt Man",
   "teams": [
     "Emissaries of Evil"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/444/cobalt_man",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Cobalt_Man"
   }
 }

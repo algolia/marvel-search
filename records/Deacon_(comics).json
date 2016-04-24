@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Deacon",
     "The Deacon"
   ],
   "authors": [
@@ -8,10 +7,9 @@
   ],
   "description": "The Deacon is a fictional Marvel Comics character.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Deacon_new.jpg/250px-Deacon_new.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Deacon",
   "partners": [
@@ -22,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 39,
-    "pageviewRank": -1,
+    "pageviewCount": 276,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,9 +29,11 @@
   "species": [
     "Human"
   ],
+  "superName": "Deacon",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Deacon_(comics)"
   }
 }

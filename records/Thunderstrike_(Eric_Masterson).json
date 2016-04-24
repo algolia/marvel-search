@@ -8,16 +8,13 @@
     "Ron Frenz",
     "Tom DeFalco"
   ],
-  "description": "<p class=\"Body\">When the Odinson lost his ability to wield Mjolnir, the role of Thor, God of Thunder, was left unoccupied&hellip;albeit for a short time. A mysterious female figure picked up the hammer with ease, changing the inscription to fit her status as the Goddess of Thunder.</p>",
+  "description": "Eric Masterson is a fictional character in the Marvel Comics Universe, a superhero that has appeared as Thor and later Thunderstrike.",
   "images": {
-    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/universe3zx/images/e/e3/DragynWulf--Thor(Odinson).jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/545a857a38f92/standard_xlarge.jpg"
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Thunderstrike.jpg/250px-Thunderstrike.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Thor (Goddess of Thunder)",
+  "name": "Thunderstrike (Eric Masterson)",
   "partners": [
   ],
   "powers": [
@@ -35,8 +32,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 339,
-    "pageviewRank": -1,
+    "pageviewCount": 2818,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -45,6 +41,7 @@
   ],
   "species": [
   ],
+  "superName": "Thunderstrike",
   "teams": [
     "Asgard",
     "Avengers",
@@ -54,7 +51,7 @@
     "Thor Corps"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1017576/thor_goddess_of_thunder/featured",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Thunderstrike_(Eric_Masterson)"
   }
 }

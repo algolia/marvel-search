@@ -1,25 +1,22 @@
 {
   "aliases": [
     "Ashta",
+    "Devourer of Worlds",
     "Galactus",
+    "God of Oblivion",
+    "The Monster of all Worlds",
     "The Origin of Galactus",
-    "devourer of worlds",
-    "god of oblivion",
-    "the hunger that does not cease",
-    "the monster of all worlds"
+    "The hunger that does not cease"
   ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Galactus is a fictional character, a cosmic entity appearing in comic books and other publications by Marvel Comics.",
+  "description": "Galactus is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/528d31a791308/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/03/528d31a791308/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Galactus",
   "partners": [
@@ -36,8 +33,7 @@
   "ranking": {
     "comicCount": 106,
     "eventCount": 5,
-    "pageviewCount": 4001,
-    "pageviewRank": -1,
+    "pageviewCount": 42290,
     "serieCount": 50,
     "storyCount": 101
   },
@@ -46,9 +42,11 @@
   ],
   "species": [
   ],
+  "superName": "Galactus",
   "teams": [
     "God Squad",
-    "Heralds of Galactus"
+    "Heralds of Galactus",
+    "Ultimates"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/751/galactus",

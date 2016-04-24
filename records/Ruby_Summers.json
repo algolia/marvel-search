@@ -8,10 +8,9 @@
   ],
   "description": "Ruby Summers is a fictional character in the Marvel Comics Universe first appearing in the one-shot X-Factor: Layla Miller.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/15/Ruby_Summers.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ruby Summers",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 73,
-    "pageviewRank": -1,
+    "pageviewCount": 778,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +31,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Ruby Summers",
   "teams": [
     "Summers Rebellion"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ruby_Summers"
   }
 }

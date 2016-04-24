@@ -9,13 +9,10 @@
   "description": "Smasher is a member of the Imperial Guard, a multi-ethnic group of super-powered alien beings who act as enforcers of the laws of the Shi'ar Empire.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003ae66139c/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Smasher (Vril Rokk)",
+  "name": "Smasher",
   "partners": [
   ],
   "powers": [
@@ -25,8 +22,7 @@
   "ranking": {
     "comicCount": 17,
     "eventCount": 0,
-    "pageviewCount": 80,
-    "pageviewRank": -1,
+    "pageviewCount": 552,
     "serieCount": 11,
     "storyCount": 10
   },
@@ -45,6 +41,7 @@
     "Alien",
     "Human"
   ],
+  "superName": "Smasher",
   "teams": [
     "Avengers",
     "Imperial Guard"

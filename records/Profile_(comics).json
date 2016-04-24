@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Profile",
     "The Profile"
   ],
   "authors": [
@@ -9,10 +8,9 @@
   ],
   "description": "The Profile is a Marvel Comics character, created by writer Charlie Huston and penciler David Finch.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/The_Profile.jpg/150px-The_Profile.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Profile",
   "partners": [
@@ -23,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 39,
-    "pageviewRank": -1,
+    "pageviewCount": 317,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +29,12 @@
   ],
   "species": [
   ],
+  "superName": "Profile",
   "teams": [
     "Committee"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Profile_(comics)"
   }
 }

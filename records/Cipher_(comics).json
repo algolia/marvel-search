@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Cipher"
+    "Cipher",
+    "Cipher (Marvel Comics)"
   ],
   "authors": [
     "Marc Guggenheim",
@@ -8,10 +9,9 @@
   ],
   "description": "Cipher (Alisa Tager) is a fictional mutant character, a superhero in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/X-men_Cipher_main.jpg/250px-X-men_Cipher_main.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Cipher",
   "partners": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 104,
-    "pageviewRank": -1,
+    "pageviewCount": 874,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,12 +34,14 @@
   "species": [
     "Human Mutant"
   ],
+  "superName": "Cipher",
   "teams": [
     "Jean Grey School Students",
     "X-Men-In-Training",
     "Young X-Men"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Cipher_(comics)"
   }
 }

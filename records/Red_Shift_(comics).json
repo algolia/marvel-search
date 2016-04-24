@@ -9,11 +9,8 @@
   "description": "Red Shift is a fictional supervillain in the Marvel Comics universe and was a herald of Galactus.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Red_Shift.jpg/250px-Red_Shift.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Red Shift",
   "partners": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 89,
-    "pageviewRank": -1,
+    "pageviewCount": 636,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,6 +32,7 @@
   ],
   "species": [
   ],
+  "superName": "Red Shift",
   "teams": [
     "Annihilation",
     "Galactus",
@@ -43,7 +40,7 @@
     "United Front"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1900/red_shift",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Red_Shift_(comics)"
   }
 }

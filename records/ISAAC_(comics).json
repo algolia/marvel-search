@@ -8,9 +8,9 @@
   ],
   "description": "ISAAC is a fictional character in the Marvel Universe.ISAAC is an English version of an acronym in the language of the Eternals of Titan standing for: Integral Synaptic Anti+/Anionic Computer.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "ISAAC",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 36,
-    "pageviewRank": -1,
+    "pageviewCount": 385,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,10 +28,12 @@
   ],
   "species": [
   ],
+  "superName": "ISAAC",
   "teams": [
     "Eternals"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/ISAAC_(comics)"
   }
 }

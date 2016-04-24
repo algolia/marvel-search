@@ -11,42 +11,37 @@
   "description": "Jeffrey Solomon \"Jeff\" Mace, also known as the Patriot and Captain America, is a fictional character, a superhero in the Marvel Comics universe, created during the 1940s period which fans and historians call the Golden Age of Comic Books.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c003cfda4644/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/67/Patriot_Mace.PNG"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Patriot",
+  "name": "Jeffrey Mace",
   "partners": [
   ],
   "powers": [
     "Carries a titanium shield",
     "Exceptional athlete",
-    "Hand-to-hand combatant",
-    "Licensed pilot",
-    "Skilled athlete"
+    "Licensed pilot"
   ],
   "ranking": {
-    "comicCount": 72,
-    "eventCount": 2,
-    "pageviewCount": 122,
-    "pageviewRank": -1,
-    "serieCount": 15,
-    "storyCount": 71
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 935,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Jeffrey Solomon Mace"
   ],
   "species": [
   ],
+  "superName": "Jeffrey Mace",
   "teams": [
     "All-Winners Squad",
     "Daily Bugle",
     "Liberty Legion"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1703/patriot",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Mace"
   }
 }

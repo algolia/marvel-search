@@ -8,9 +8,9 @@
   ],
   "description": "Slab (Christopher Anderson), a fictional character in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Slab",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 39,
-    "pageviewRank": -1,
+    "pageviewCount": 261,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,11 +32,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Slab",
   "teams": [
     "Mutant Liberation Front",
     "Nasty Boys"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Slab_(comics)"
   }
 }

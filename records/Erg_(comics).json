@@ -8,10 +8,9 @@
   ],
   "description": "Erg is a fictional mutant character in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/65/XMEN_ERG.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Erg",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 30,
-    "pageviewRank": -1,
+    "pageviewCount": 338,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,12 +30,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Erg",
   "teams": [
     "Drain Dwellers",
     "Morlocks",
     "The 198"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Erg_(comics)"
   }
 }

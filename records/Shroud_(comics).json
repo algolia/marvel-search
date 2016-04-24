@@ -10,10 +10,9 @@
   ],
   "description": "The Shroud (Maximillian Quincy Coleridge) is a fictional superhero in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/The_shroud.jpg/250px-The_shroud.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Shroud",
   "partners": [
@@ -31,8 +30,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 237,
-    "pageviewRank": -1,
+    "pageviewCount": 1247,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,12 +39,14 @@
   ],
   "species": [
   ],
+  "superName": "Shroud",
   "teams": [
     "Cult of Kali",
     "Heroes for Hire",
     "Night Shift"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Shroud_(comics)"
   }
 }

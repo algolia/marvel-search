@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "The White Rabbit",
-    "White Rabbit"
+    "The White Rabbit"
   ],
   "authors": [
     "J. M. DeMatteis",
@@ -11,10 +10,9 @@
   ],
   "description": "The White Rabbit (Lorina Dodson) is a supervillainess in the Marvel Universe and is an enemy of Spider-Man and Frog-Man.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/WhiteRabbitMarvel.jpg/250px-WhiteRabbitMarvel.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "White Rabbit",
   "partners": [
@@ -30,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 125,
-    "pageviewRank": -1,
+    "pageviewCount": 1029,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,10 +37,12 @@
   ],
   "species": [
   ],
+  "superName": "White Rabbit",
   "teams": [
     "Menagerie"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/White_Rabbit_(comics)"
   }
 }

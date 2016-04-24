@@ -3,7 +3,6 @@
     "Angelo Unuscione",
     "Bain, Gunther",
     "Gunther Bain",
-    "Unus the Untouchable",
     "Unuscione, Angelo"
   ],
   "authors": [
@@ -12,9 +11,9 @@
   ],
   "description": "Unus the Untouchable (Gunther Bain, born Angelo Unuscione) is a fictional character from the comic book X-Men and part of the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Unus the Untouchable",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 147,
-    "pageviewRank": -1,
+    "pageviewCount": 1020,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,12 +36,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Unus the Untouchable",
   "teams": [
     "Brotherhood of Mutants",
     "Factor Three",
     "Secret Empire"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Unus_the_Untouchable"
   }
 }

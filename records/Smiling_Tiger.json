@@ -9,10 +9,8 @@
   "description": "Smiling Tiger (Conrad Mack) is a Marvel Comics supervillain.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Smiling Tiger",
   "partners": [
@@ -23,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 22,
-    "pageviewRank": -1,
+    "pageviewCount": 145,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,12 +30,13 @@
   ],
   "species": [
   ],
+  "superName": "Smiling Tiger",
   "teams": [
     "Folding Circle",
     "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2149/smiling_tiger",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Smiling_Tiger"
   }
 }

@@ -6,10 +6,9 @@
   ],
   "description": "Dirtnap is a fictional mutant character in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Dirtnap_genx38_tdodson.jpg/250px-Dirtnap_genx38_tdodson.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Dirtnap",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 42,
-    "pageviewRank": -1,
+    "pageviewCount": 243,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,11 +30,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Dirtnap",
   "teams": [
     "Dark Riders",
     "Hellions"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Dirtnap_(comics)"
   }
 }

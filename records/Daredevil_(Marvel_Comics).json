@@ -11,11 +11,8 @@
   "description": "Abandoned by his mother, Matt Murdock was raised by his father, boxer \"Battling Jack\" Murdock, in Hell's Kitchen. Realizing that rules were needed to prevent people from behaving badly, young Matt decided to study law; however, when he saved a man from an oncoming truck, it spilled a radioactive cargo that rendered Matt blind while enhancing his remaining senses. Under the harsh tutelage of blind martial arts master Stick, Matt mastered his heightened senses and became a formidable fighter.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/8/b0/537ba702ad5b3.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/c/00/537ba6f0e2fa3.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/50/50febb79985ee/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/537ba6d49472b/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -25,40 +22,33 @@
   "name": "Daredevil",
   "partners": [
     "Black Widow",
+    "Black Widow (Natalia Romanova)",
     "Elektra"
   ],
   "powers": [
     "Club",
-    "Excellent athlete",
-    "Expert marksman",
-    "Gymnast",
     "Hand-to-hand combatant",
     "Highly skilled acrobat",
-    "Interrogator",
-    "Martial artist",
-    "Master acrobat",
     "Mental condition",
     "Peak human physical",
     "Radar sense",
-    "Skilled detective",
-    "Superhuman senses",
-    "Tracker"
+    "Superhuman senses"
   ],
   "ranking": {
     "comicCount": 827,
     "eventCount": 11,
-    "pageviewCount": 8012,
-    "pageviewRank": -1,
+    "pageviewCount": 70260,
     "serieCount": 163,
     "storyCount": 1326
   },
   "secretIdentities": [
     "Matt",
-    "Matthew Michael Murdock",
-    "Matthew Murdock"
+    "Matthew Michael Murdock"
   ],
   "species": [
+    "Mutate"
   ],
+  "superName": "Daredevil",
   "teams": [
     "Chaste",
     "Defenders",

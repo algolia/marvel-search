@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Poison"
+    "Poison",
+    "Poison (616)"
   ],
   "authors": [
     "Cynthia Martin",
@@ -8,9 +9,9 @@
   ],
   "description": "Poison is the name of two fictional comic book characters, owned by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Poison",
   "partners": [
@@ -26,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 32,
-    "pageviewRank": -1,
+    "pageviewCount": 311,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,10 +37,12 @@
   "species": [
     "Human"
   ],
+  "superName": "Poison",
   "teams": [
     "The Hand"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Poison_(comics)"
   }
 }

@@ -10,9 +10,9 @@
   ],
   "description": "Machine Teen is a fictional character that appears in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Machine Teen",
   "partners": [
@@ -25,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 37,
-    "pageviewRank": -1,
+    "pageviewCount": 276,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,10 +34,12 @@
   ],
   "species": [
   ],
+  "superName": "Machine Teen",
   "teams": [
     "Avengers Academy"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Machine_Teen"
   }
 }

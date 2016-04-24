@@ -8,14 +8,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "The Mad Thinker is a fictional character, a supervillain in the Marvel Comics Universe.",
+  "description": "The Mad Thinker is a fictional supervillain in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/52740faf0d0fb/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/b/c0/52740faf0d0fb/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mad Thinker",
   "partners": [
@@ -35,8 +32,7 @@
   "ranking": {
     "comicCount": 16,
     "eventCount": 0,
-    "pageviewCount": 261,
-    "pageviewRank": -1,
+    "pageviewCount": 1875,
     "serieCount": 11,
     "storyCount": 13
   },
@@ -44,6 +40,7 @@
   ],
   "species": [
   ],
+  "superName": "Mad Thinker",
   "teams": [
     "Illuminati",
     "Intelligencia",

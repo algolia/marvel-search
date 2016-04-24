@@ -6,23 +6,16 @@
   ],
   "authors": [
     "Emma Rios",
+    "Emma Ríos",
     "Kelly Sue DeConnick"
   ],
   "description": "June Covington is a fictional character appearing in comic books published by Marvel Comics.",
   "images": {
-    "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/537bc24866aa8.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/537bc2375dfb9.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/536408dbb7cca/standard_xlarge.jpg"
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
-  "mainColor": {
-    "blue": 6,
-    "green": 6,
-    "hexa": "3F0606",
-    "red": 63
-  },
-  "name": "Scarlet Witch (Age of Apocalypse)",
+  "mainColor": null,
+  "name": "June Covington",
   "partners": [
   ],
   "powers": [
@@ -31,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 145,
-    "pageviewRank": -1,
+    "pageviewCount": 1059,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,11 +33,12 @@
   "species": [
     "Human"
   ],
+  "superName": "June Covington",
   "teams": [
     "Dark Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/50/scarlet_witch",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/June_Covington"
   }
 }

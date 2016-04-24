@@ -10,11 +10,8 @@
   "description": "Armory (Violet Lightner) is a fictional character in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/27/AVNINITANN001_cov_col.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Armory",
   "partners": [
@@ -22,12 +19,11 @@
   "powers": [
   ],
   "ranking": {
-    "comicCount": 2,
-    "eventCount": 1,
-    "pageviewCount": 33,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 1
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 490,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Violet Lightner"
@@ -35,11 +31,12 @@
   "species": [
     "Human"
   ],
+  "superName": "Armory",
   "teams": [
     "The Initiative"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/193/armory",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Armory_(comics)"
   }
 }

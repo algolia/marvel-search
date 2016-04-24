@@ -10,10 +10,8 @@
   "description": "Shiva, a program that manifests itself as an armored robot, was designed to eliminate rogue survivors of the Weapon X program.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Shiva",
   "partners": [
@@ -24,22 +22,22 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 4,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 108,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 4
+    "pageviewCount": 804,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Shiva",
   "teams": [
     "Weapon X"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2079/shiva",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Shiva_(Marvel_Comics)"
   }
 }

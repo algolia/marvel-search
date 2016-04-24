@@ -9,44 +9,39 @@
     "John Buscema",
     "Roy Thomas"
   ],
-  "description": "Amora magically transformed Samantha Parrington into a raging, man-hating facsimile of the Asgardian warrior goddess Brunnhilde the Valkyrie, whose form and might Amora could replicate at will, having trapped Brunnhilde's soul in a mystical crystal centuries earlier.",
+  "description": "Valkyrie is a fictional superhero created by Roy Thomas and John Buscema that appears in comic books published by Marvel Comics, based on the Norse mythological figure Brynhildr.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/537bc87e3986f.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/c/70/537bc86cd1ff0.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/535fed8a3a00f/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/00/535fed8a3a00f/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 57,
     "green": 31,
     "hexa": "121F39",
     "red": 18
   },
-  "name": "Valkyrie (Samantha Parrington)",
+  "name": "Valkyrie",
   "partners": [
   ],
   "powers": [
-    "Durability",
+    "Ability to",
     "Endurance",
     "Longevity",
-    "Slowed aging",
-    "Stamina",
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 16,
-    "eventCount": 1,
-    "pageviewCount": 732,
-    "pageviewRank": -1,
-    "serieCount": 14,
-    "storyCount": 17
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 7910,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Brunnhilde"
   ],
   "species": [
   ],
+  "superName": "Valkyrie",
   "teams": [
     "Asgard",
     "Asgardians",

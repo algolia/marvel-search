@@ -8,12 +8,11 @@
     "Peter David",
     "Todd McFarlane"
   ],
-  "description": "Mercy (Abigail Mercy Wright) is a fictional villain at the Marvel Comics universe.",
+  "description": "Mercy (Abigail Mercy Wright) is a fictional supervillain appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Mercyhulk.jpg/249px-Mercyhulk.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mercy",
   "partners": [
@@ -33,8 +32,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 168,
-    "pageviewRank": -1,
+    "pageviewCount": 1051,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -44,10 +42,12 @@
   "species": [
     "Unknown"
   ],
+  "superName": "Mercy",
   "teams": [
     "Thunderbolts"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mercy_(comics)"
   }
 }

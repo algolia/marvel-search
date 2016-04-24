@@ -7,13 +7,10 @@
   "description": "Pixie is a fictional character, a mutant in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4c002f2d626ee/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Pixie",
+  "name": "Pixie (Morlock)",
   "partners": [
   ],
   "powers": [
@@ -23,8 +20,7 @@
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 21,
-    "pageviewRank": -1,
+    "pageviewCount": 195,
     "serieCount": 5,
     "storyCount": 6
   },
@@ -33,6 +29,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Pixie",
   "teams": [
     "Morlocks"
   ],

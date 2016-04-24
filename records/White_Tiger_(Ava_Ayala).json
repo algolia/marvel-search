@@ -6,34 +6,31 @@
     "Christos Gage",
     "Tom Raney"
   ],
-  "description": "Federal agent Angela Del Toro is the heir to a heroic legacy that began with the Jade Tiger, a long-lost enchanted statue from the fabled kingdom of K'un-Lun, and had been last held by her uncle, Hector Ayala, who fought alongside such heroes as Daredevil and Spider-Man.",
+  "description": "White Tiger (Ava Ayala) is a fictional superheroine from Marvel Comics created by Christos Gage and Tom Raney, first appearing in Avengers Academy #20 (December 2011).",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Avengers_Academy_24.jpg/250px-Avengers_Academy_24.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "White Tiger (Angela Del Toro)",
+  "name": "White Tiger (Ava Ayala)",
   "partners": [
   ],
   "powers": [
     "Razor sharp claws"
   ],
   "ranking": {
-    "comicCount": 10,
-    "eventCount": 1,
-    "pageviewCount": 542,
-    "pageviewRank": -1,
-    "serieCount": 6,
-    "storyCount": 8
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4673,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Ava Ayala"
   ],
   "species": [
   ],
+  "superName": "White Tiger",
   "teams": [
     "Avengers Academy",
     "Avengers Idea Mechanics",
@@ -43,7 +40,7 @@
     "The New Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2559/white_tiger",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/White_Tiger_(Ava_Ayala)"
   }
 }

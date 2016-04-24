@@ -9,11 +9,8 @@
   "description": "Ozymandias is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/01/OzymandiasMarvel1.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ozymandias",
   "partners": [
@@ -24,23 +21,23 @@
     "Superhuman durability"
   ],
   "ranking": {
-    "comicCount": 15,
-    "eventCount": 1,
-    "pageviewCount": 582,
-    "pageviewRank": -1,
-    "serieCount": 12,
-    "storyCount": 11
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 16144,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Ozymandias"
   ],
   "species": [
   ],
+  "superName": "Ozymandias",
   "teams": [
     "Clan Akkaba"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1683/ozymandias",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ozymandias_(Marvel_Comics)"
   }
 }

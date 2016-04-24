@@ -2,7 +2,7 @@
   "aliases": [
     "Bridge",
     "G. W",
-    "G. W. Bridge"
+    "G.W. Bridge"
   ],
   "authors": [
     "Fabian Nicieza",
@@ -10,10 +10,9 @@
   ],
   "description": "George Washington \"G.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Gebridge.jpg/250px-Gebridge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "G. W. Bridge",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 135,
-    "pageviewRank": -1,
+    "pageviewCount": 844,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,12 +33,14 @@
   ],
   "species": [
   ],
+  "superName": "G. W. Bridge",
   "teams": [
     "S.H.I.E.L.D",
     "Six Pack",
     "Weapon P.R.I.M.E"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/G._W._Bridge"
   }
 }

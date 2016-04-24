@@ -8,10 +8,9 @@
   ],
   "description": "Tricephalous is the name of a three-headed monster in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Tricephalous.jpg/249px-Tricephalous.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Tricephalous",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 16,
-    "pageviewRank": -1,
+    "pageviewCount": 135,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +32,12 @@
   "species": [
     "Humanity Subspecies"
   ],
+  "superName": "Tricephalous",
   "teams": [
     "Deviant"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Tricephalous_(comics)"
   }
 }

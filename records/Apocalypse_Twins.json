@@ -8,10 +8,9 @@
   ],
   "description": "The Apocalypse Twins are two supervillains from Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Apocalypse_Twins.jpg/225px-Apocalypse_Twins.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Apocalypse Twins",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 334,
-    "pageviewRank": -1,
+    "pageviewCount": 4862,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,9 +37,11 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Apocalypse Twins",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Apocalypse_Twins"
   }
 }

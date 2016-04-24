@@ -15,11 +15,8 @@
   "description": "Madame Masque, real name Whitney Frost and also known as Masque, is a fictional character, a supervillain that has appeared in various comic book series published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/00/4ce5a251c1100/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Madame Masque",
   "partners": [
@@ -34,8 +31,7 @@
   "ranking": {
     "comicCount": 6,
     "eventCount": 1,
-    "pageviewCount": 8136,
-    "pageviewRank": -1,
+    "pageviewCount": 6368,
     "serieCount": 5,
     "storyCount": 6
   },
@@ -47,8 +43,8 @@
   ],
   "species": [
   ],
+  "superName": "Madame Masque",
   "teams": [
-    "Hood's Unnamed Crime Syndicate",
     "Inner Guard",
     "Maggia"
   ],

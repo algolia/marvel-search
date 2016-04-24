@@ -5,20 +5,16 @@
     "Triathlon"
   ],
   "authors": [
-    "George P%C3%A9rez",
     "George Pérez",
     "Kurt Busiek"
   ],
-  "description": "After being exposed as a steroid user and stripped of his awards, gifted sprinter Delroy Garrett Jr. sought new direction in the Triune Understanding, a philosophical movement that preaches the fulfillment of one's innate potential by balancing various aspects of environment and self, after which he developed a superhuman triple-powered physique, and, believing the Triune teachings had unlocked his latent powers, Garrett became the costumed hero Triathlon and celebrity spokesman for the Triune Understanding.",
+  "description": "Delroy Garrett, Jr. is a fictional superhero published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4c7c64195cbb9/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/ce/Ati_si_16.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Triathlon",
+  "name": "Delroy Garrett",
   "partners": [
   ],
   "powers": [
@@ -37,12 +33,11 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 38,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 67,
-    "pageviewRank": -1,
-    "serieCount": 8,
-    "storyCount": 44
+    "pageviewCount": 779,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Delroy Garrett",
@@ -52,19 +47,21 @@
   "species": [
     "Mutate"
   ],
+  "superName": "Delroy Garrett",
   "teams": [
     "Agents of Atlas",
     "Astonishing Avengers",
     "Avengers",
     "Fifty State Initiative",
     "Point Men",
+    "Secret Avengers",
     "Secret Avengers (Civil War)",
     "Skrull Kill Krew",
     "The Initiative",
     "Triune Understanding"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2409/triathlon",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Delroy_Garrett"
   }
 }

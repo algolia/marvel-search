@@ -9,13 +9,10 @@
   "description": "For the cosmic entity who also went by the same name, see Aegis (Lady of All Sorrows)Aegis (Trey Rollins) is a fictional superhero in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c0035c9c425d/standard_xlarge.gif"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Aegis (Trey Rollins)",
+  "name": "Aegis",
   "partners": [
   ],
   "powers": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 67,
-    "pageviewRank": -1,
+    "pageviewCount": 419,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,6 +32,7 @@
   ],
   "species": [
   ],
+  "superName": "Aegis",
   "teams": [
     "New Warriors"
   ],

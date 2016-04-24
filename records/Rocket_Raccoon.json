@@ -9,11 +9,8 @@
   "description": "A genetically-engineered alien with a knack for big guns and fast ships, Rocket serves as the backbone of the Guardians of the Galaxy!",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/30/537bc16b86c13.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/537bc15ca0290.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/50fec1e49298a/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/537bc14068e5d/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 9,
     "green": 36,
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 22,
     "eventCount": 3,
-    "pageviewCount": 1316,
-    "pageviewRank": -1,
+    "pageviewCount": 10841,
     "serieCount": 10,
     "storyCount": 21
   },
@@ -42,8 +38,10 @@
   ],
   "species": [
   ],
+  "superName": "Rocket Raccoon",
   "teams": [
-    "Guardians of the Galaxy"
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/47/rocket_raccoon",

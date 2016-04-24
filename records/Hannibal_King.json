@@ -12,11 +12,8 @@
   "description": "Hannibal King is a fictional character, a supernatural detective appearing in publications from Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/HannibalKingB8.jpg/250px-HannibalKingB8.jpg"
   },
-  "isHero": true,
-  "isVillain": false,
   "mainColor": null,
   "name": "Hannibal King",
   "partners": [
@@ -34,8 +31,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 637,
-    "pageviewRank": -1,
+    "pageviewCount": 3920,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -45,12 +41,13 @@
   ],
   "species": [
   ],
+  "superName": "Hannibal King",
   "teams": [
     "Midnight Sons",
     "Nightstalkers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2871/hannibal_king",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hannibal_King"
   }
 }

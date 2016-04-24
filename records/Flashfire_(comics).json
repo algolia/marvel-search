@@ -10,35 +10,33 @@
   "description": "Flashfire is a fictional character in the Marvel Universe.Flashfire, also known as Tempest, is a long-time member of the Shi'ar Imperial Guard.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Tempest",
+  "name": "Flashfire",
   "partners": [
   ],
   "powers": [
     "Energy bolts"
   ],
   "ranking": {
-    "comicCount": 14,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 24,
-    "pageviewRank": -1,
-    "serieCount": 11,
-    "storyCount": 9
+    "pageviewCount": 252,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Grannz"
   ],
   "species": [
   ],
+  "superName": "Flashfire",
   "teams": [
     "Imperial Guard"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2305/tempest",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Flashfire_(comics)"
   }
 }

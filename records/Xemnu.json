@@ -3,7 +3,6 @@
     "Amos Moses",
     "Richmond Wagner",
     "The Living Hulk",
-    "Xemnu",
     "Xemnu the Hulk",
     "Xemnu the Titan"
   ],
@@ -13,11 +12,11 @@
   ],
   "description": "Xemnu the Titan, also known as Xemnu the Hulk, is a fictional character in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Xemnu the Titan",
+  "name": "Xemnu",
   "partners": [
   ],
   "powers": [
@@ -31,8 +30,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 94,
-    "pageviewRank": -1,
+    "pageviewCount": 757,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,9 +40,11 @@
   "species": [
     "Unknown extraterrestrial"
   ],
+  "superName": "Xemnu",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Xemnu"
   }
 }

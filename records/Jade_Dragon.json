@@ -8,9 +8,9 @@
   ],
   "description": "Jade Dragon (Dei Guan) is a fictional character, a mutant in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Jade Dragon",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 19,
-    "pageviewRank": -1,
+    "pageviewCount": 187,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,11 +31,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Jade Dragon",
   "teams": [
     "Alpha Flight",
     "Mutant Liberation Front"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jade_Dragon"
   }
 }

@@ -9,11 +9,8 @@
   "description": "Korg is a character in the Marvel Comics universe and is first seen in The Incredible Hulk #93 during the Planet Hulk storyline.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5269581a55d0c/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Korg",
   "partners": [
@@ -25,8 +22,7 @@
   "ranking": {
     "comicCount": 4,
     "eventCount": 2,
-    "pageviewCount": 135,
-    "pageviewRank": -1,
+    "pageviewCount": 1203,
     "serieCount": 2,
     "storyCount": 4
   },
@@ -35,11 +31,12 @@
   ],
   "species": [
   ],
+  "superName": "Korg",
   "teams": [
     "Warbound"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1011080/korg",
+    "marvel": "http://marvel.com/characters/1167/korg",
     "wikipedia": "https://en.wikipedia.org/wiki/Korg_(comics)"
   }
 }

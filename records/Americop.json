@@ -9,10 +9,9 @@
   ],
   "description": "Americop (Bartholomew Gallows) is a fictional vigilante published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Americop.jpg/250px-Americop.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Americop",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 56,
-    "pageviewRank": -1,
+    "pageviewCount": 407,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,10 +35,12 @@
   ],
   "species": [
   ],
+  "superName": "Americop",
   "teams": [
     "Houston Police Department"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Americop"
   }
 }

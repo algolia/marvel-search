@@ -8,10 +8,9 @@
   ],
   "description": "Albert is a fictional character appearing in Marvel Comics, and an ally of Wolverine.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Albert_and_elsie.jpg/200px-Albert_and_elsie.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Albert",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 54,
-    "pageviewRank": -1,
+    "pageviewCount": 430,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,10 +33,12 @@
   ],
   "species": [
   ],
+  "superName": "Albert",
   "teams": [
     "Reavers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Albert_(comics)"
   }
 }

@@ -8,10 +8,9 @@
   ],
   "description": "Adept (Jelene Anderson) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f4/Adept_Morituri.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Adept",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 18,
-    "pageviewRank": -1,
+    "pageviewCount": 197,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Adept",
   "teams": [
     "Morituri"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Adept_(comics)"
   }
 }

@@ -12,20 +12,14 @@
   "description": "Night Thrasher (Donyell Taylor) also known as Bandit is a fictional character from Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/52695ac9de43e/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Newwarv2010.jpg/250px-Newwarv2010.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Night Thrasher",
+  "name": "Donyell Taylor",
   "partners": [
   ],
   "powers": [
     "Accomplished acrobat",
-    "Accomplished marksman",
-    "Acrobat",
-    "Advanced body armor",
     "Marksman",
     "Martial artist",
     "Reflexes",
@@ -36,12 +30,11 @@
     "Wears advanced body armor"
   ],
   "ranking": {
-    "comicCount": 13,
-    "eventCount": 3,
-    "pageviewCount": 64,
-    "pageviewRank": -1,
-    "serieCount": 8,
-    "storyCount": 12
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 482,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Donyell Taylor"
@@ -49,13 +42,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Donyell Taylor",
   "teams": [
     "New Warriors",
     "Night Thrasher",
     "Taylor Foundation"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1601/night_thrasher",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Donyell_Taylor"
   }
 }

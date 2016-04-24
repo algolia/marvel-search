@@ -9,12 +9,11 @@
   ],
   "description": "Flyer (Jude Jackson) is a fictional character, a superhero that appears in the  NEW-GEN comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Flyer_new_gen.jpg/250px-Flyer_new_gen.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Flyer",
+  "name": "Flyer (New-Gen)",
   "partners": [
   ],
   "powers": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 5,
-    "pageviewRank": -1,
+    "pageviewCount": 57,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,12 +32,14 @@
   "species": [
     "Human"
   ],
+  "superName": "Flyer",
   "teams": [
     "A.P.N.G",
     "A.P.N.G., Gabriel",
     "Gabriel"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Flyer_(New-Gen)"
   }
 }

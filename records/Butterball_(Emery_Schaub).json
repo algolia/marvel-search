@@ -9,14 +9,13 @@
     "Christos N. Gage",
     "Steve Uy"
   ],
-  "description": "Butterball(Emery Schaub) is a fictional character of the Marvel Universe.",
+  "description": "Butterball (Emery Schaub) is a fictional character of the Marvel Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Butterball.jpg/250px-Butterball.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Butterball",
+  "name": "Butterball (Emery Schaub)",
   "partners": [
   ],
   "powers": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 92,
-    "pageviewRank": -1,
+    "pageviewCount": 732,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,12 +34,14 @@
   ],
   "species": [
   ],
+  "superName": "Butterball",
   "teams": [
     "Avengers Academy",
     "Fifty State Initiative",
     "Initiative"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Butterball_(Emery_Schaub)"
   }
 }

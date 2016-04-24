@@ -1,8 +1,6 @@
 {
   "aliases": [
-    "Kid Omega",
-    "Omega Gang",
-    "Quentin Quire"
+    "Kid Omega"
   ],
   "authors": [
     "Frank Quitely",
@@ -11,11 +9,8 @@
   "description": "Quintavius \"Quentin\" Quirinius Quire, also known as Kid Omega, is a fictional character appearing in books published by Marvel Comics, usually in those featuring the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c003d7fc6294/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/40/4c003d7fc6294/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Quentin Quire",
   "partners": [
@@ -31,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 718,
-    "pageviewRank": -1,
+    "pageviewCount": 6279,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -43,6 +37,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Quentin Quire",
   "teams": [
     "Hellfire Academy",
     "Hellfire Club",

@@ -8,10 +8,9 @@
   ],
   "description": "Perrikus is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Perrikus.jpg/249px-Perrikus.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Perrikus",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 38,
-    "pageviewRank": -1,
+    "pageviewCount": 362,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,11 +32,12 @@
   ],
   "species": [
   ],
+  "superName": "Perrikus",
   "teams": [
-    "Dark Gods",
-    "Thor"
+    "Dark Gods"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Perrikus"
   }
 }

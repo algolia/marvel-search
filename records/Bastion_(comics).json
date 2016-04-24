@@ -17,11 +17,8 @@
   "description": "Bastion is a supervillain that appears in the fictional Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/52695253215f4/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Bastion",
   "partners": [
@@ -41,17 +38,17 @@
   "ranking": {
     "comicCount": 25,
     "eventCount": 2,
-    "pageviewCount": 339,
-    "pageviewRank": -1,
+    "pageviewCount": 2469,
     "serieCount": 14,
     "storyCount": 24
   },
   "secretIdentities": [
   ],
   "species": [
-    "Android",
+    "Android (robot)",
     "Artificial intelligence"
   ],
+  "superName": "Bastion",
   "teams": [
     "Features of the Marvel Universe",
     "Friends of Humanity",

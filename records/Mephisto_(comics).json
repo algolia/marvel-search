@@ -13,11 +13,8 @@
   "description": "Mephisto is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/526034d178ddc/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/40/526034d178ddc/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mephisto",
   "partners": [
@@ -32,15 +29,16 @@
   "ranking": {
     "comicCount": 53,
     "eventCount": 2,
-    "pageviewCount": 1048,
-    "pageviewRank": -1,
+    "pageviewCount": 8990,
     "serieCount": 24,
     "storyCount": 52
   },
   "secretIdentities": [
+    "Mephisto"
   ],
   "species": [
   ],
+  "superName": "Mephisto",
   "teams": [
     "Legion Accursed",
     "Six-Fingered Hand"

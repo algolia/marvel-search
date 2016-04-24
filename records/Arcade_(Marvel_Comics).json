@@ -14,15 +14,11 @@
   "description": "Arcade is a fictional character, a supervillain in the Marvel Comics Universe.Arcade became one of the more popular villains in the Marvel Comics universe during the 1980s, and did battle with many other superheroes.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c0042091ab69/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Arcade",
   "partners": [
-    "Mastermind",
     "Mastermind (Martinique Jason)",
     "Miss Locke",
     "Mister Chambers",
@@ -41,8 +37,7 @@
   "ranking": {
     "comicCount": 18,
     "eventCount": 1,
-    "pageviewCount": 436,
-    "pageviewRank": -1,
+    "pageviewCount": 2651,
     "serieCount": 13,
     "storyCount": 14
   },
@@ -50,6 +45,7 @@
   ],
   "species": [
   ],
+  "superName": "Arcade",
   "teams": [
     "Crazy Gang"
   ],

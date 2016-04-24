@@ -1,19 +1,20 @@
 {
   "aliases": [
     "Mellencamp",
-    "Seamus Mellencamp"
+    "Seanus Mellencamp"
   ],
   "authors": [
+    "John Romita Jr.",
     "John Romita, Jr.",
     "Scott Lobdell"
   ],
   "description": "Seamus Mellencamp is a reptilian fictional character in Marvel Comics comic book Uncanny X-Men.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Mellencamp",
+  "name": "Seamus Mellencamp",
   "partners": [
   ],
   "powers": [
@@ -31,8 +32,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 52,
-    "pageviewRank": -1,
+    "pageviewCount": 311,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -43,10 +43,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Seamus Mellencamp",
   "teams": [
     "Acolytes"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Seamus_Mellencamp"
   }
 }

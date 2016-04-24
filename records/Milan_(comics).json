@@ -4,14 +4,15 @@
     "Milan"
   ],
   "authors": [
+    "John Romita Jr.",
     "John Romita, Jr.",
     "Scott Lobdell"
   ],
   "description": "Francisco Milan was a fictional member of the Acolytes in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Milan",
   "partners": [
@@ -23,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 19,
-    "pageviewRank": -1,
+    "pageviewCount": 158,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +34,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Milan",
   "teams": [
     "Acolytes"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Milan_(comics)"
   }
 }

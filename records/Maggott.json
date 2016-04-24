@@ -9,11 +9,8 @@
   "description": "Maggott (Japheth), is a Marvel Comics superhero who was briefly a member of the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Maggottproflie.jpg/250px-Maggottproflie.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Maggott",
   "partners": [
@@ -22,12 +19,11 @@
     "Psychometry"
   ],
   "ranking": {
-    "comicCount": 21,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 258,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 30
+    "pageviewCount": 1178,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Japheth"
@@ -35,12 +31,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Maggott",
   "teams": [
     "Generation X",
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1323/maggott",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Maggott"
   }
 }

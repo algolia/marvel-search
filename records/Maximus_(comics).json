@@ -8,14 +8,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Maximus is a fictional character, a schizophrenic and genius appearing in comic books published by Marvel Comics.",
+  "description": "Maximus is a fictional character, a supervillain and genius appearing in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/52740f7c6f0b7/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Maximus",
   "partners": [
@@ -31,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 483,
-    "pageviewRank": -1,
+    "pageviewCount": 5564,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,6 +38,7 @@
   "species": [
     "Inhumans"
   ],
+  "superName": "Maximus",
   "teams": [
     "Cabal"
   ],

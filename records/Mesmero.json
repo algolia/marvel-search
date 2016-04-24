@@ -12,11 +12,8 @@
   "description": "Mesmero (Vincent) is a fictional mutant, a comic book supervillain in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/4c003d3b033e8/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/70/4c003d3b033e8/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mesmero",
   "partners": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 19,
     "eventCount": 0,
-    "pageviewCount": 178,
-    "pageviewRank": -1,
+    "pageviewCount": 1670,
     "serieCount": 16,
     "storyCount": 16
   },
@@ -42,6 +38,7 @@
     "Decimation",
     "Mutant"
   ],
+  "superName": "Mesmero",
   "teams": [
     "Demi-Men",
     "Weapon X"

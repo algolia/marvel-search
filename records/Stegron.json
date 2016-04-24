@@ -9,10 +9,9 @@
   ],
   "description": "Stegron the Dinosaur Man is a Marvel Comics super-villain, primarily an antagonist of Spider-Man.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/StegronDinosaur.jpg/250px-StegronDinosaur.jpg"
   },
-  "isHero": null,
-  "isVillain": false,
   "mainColor": null,
   "name": "Stegron",
   "partners": [
@@ -28,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 68,
-    "pageviewRank": -1,
+    "pageviewCount": 666,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,9 +36,11 @@
   ],
   "species": [
   ],
+  "superName": "Stegron",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Stegron"
   }
 }

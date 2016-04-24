@@ -10,10 +10,9 @@
   ],
   "description": "Preview (Jessica Vale) is a fictional character, a mutant appearing in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ec/Preview_%28NXM_12%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Preview",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 29,
-    "pageviewRank": -1,
+    "pageviewCount": 210,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,6 +35,7 @@
     "Decimation",
     "Mutant"
   ],
+  "superName": "Preview",
   "teams": [
     "Paragons",
     "Paragons training squad",
@@ -44,6 +43,7 @@
     "Xavier Institute"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Preview_(comics)"
   }
 }

@@ -1,23 +1,20 @@
 {
   "aliases": [
-    "Gorgon",
     "The Gorgon",
     "Wolverine"
   ],
   "authors": [
+    "John Romita Jr.",
     "John Romita, Jr.",
     "Mark Millar"
   ],
-  "description": "The Gorgon (real name Tomi Shishido) is a comic book character, a supervillain associated with the X-Men member Wolverine.",
+  "description": "For the Inhuman, see Gorgon.The Gorgon (Tomi Shishido) is a character in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/526033e7ac8ee/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Wolverine30.jpg/250px-Wolverine30.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Gorgon",
+  "name": "Gorgon (Tomi Shishido)",
   "partners": [
   ],
   "powers": [
@@ -38,8 +35,7 @@
   "ranking": {
     "comicCount": 47,
     "eventCount": 3,
-    "pageviewCount": 272,
-    "pageviewRank": -1,
+    "pageviewCount": 2847,
     "serieCount": 23,
     "storyCount": 48
   },
@@ -49,6 +45,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Gorgon",
   "teams": [
     "Dark Avengers",
     "Dawn of the White Light",

@@ -9,9 +9,9 @@
   ],
   "description": "La Lunatica is a fictional character in the Marvel Comics comic book X-Men 2099.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "La Lunatica",
   "partners": [
@@ -26,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 36,
-    "pageviewRank": -1,
+    "pageviewCount": 307,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,6 +36,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "La Lunatica",
   "teams": [
     "Halo City Protectorate",
     "Theatre of Pain",
@@ -44,6 +44,7 @@
     "the Norns"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/La_Lunatica"
   }
 }

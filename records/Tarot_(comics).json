@@ -10,11 +10,8 @@
   "description": "Tarot (Marie-Ange Colbert) is a fictional character, a mutant in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/8b/TarotXM.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Tarot",
   "partners": [
@@ -23,12 +20,11 @@
     "Psychometric precognition"
   ],
   "ranking": {
-    "comicCount": 5,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 34,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 6
+    "pageviewCount": 463,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Marie-Ange Colbert"
@@ -36,11 +32,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Tarot",
   "teams": [
     "Hellions"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2296/tarot",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Tarot_(comics)"
   }
 }

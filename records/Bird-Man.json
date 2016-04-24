@@ -1,23 +1,22 @@
 {
   "aliases": [
     "Bird-Man",
-    "Bird-Man I",
     "Bird-Man II",
     "Bird-Man III"
   ],
   "authors": [
     "Bob Powell",
     "Gene Colan",
-    "Mary Jo Duffy",
+    "Jo Duffy",
     "Roger McKenzie",
     "Stan Lee",
     "Wally Wood"
   ],
   "description": "Bird-Man is the name of three fictional characters in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Bird-Man",
   "partners": [
@@ -37,8 +36,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 120,
-    "pageviewRank": -1,
+    "pageviewCount": 1020,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -48,11 +46,13 @@
   ],
   "species": [
   ],
+  "superName": "Bird-Man",
   "teams": [
     "Ani-Men",
     "Unholy Three"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Bird-Man"
   }
 }

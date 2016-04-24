@@ -8,10 +8,9 @@
   ],
   "description": "Special Agent Abigail Brand is a fictional character in the Marvel Comics' universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/AbigailBrand.png/250px-AbigailBrand.png"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Abigail Brand",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 206,
-    "pageviewRank": -1,
+    "pageviewCount": 1874,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,12 +32,14 @@
     "Alien Hybrid",
     "Human Mutant"
   ],
+  "superName": "Abigail Brand",
   "teams": [
     "Alpha Flight",
     "S.W.O.R.D",
     "X-Men"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Abigail_Brand"
   }
 }

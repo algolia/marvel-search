@@ -8,9 +8,9 @@
   ],
   "description": "Naga is a fictional character and Marvel Comics supervillain.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Naga",
   "partners": [
@@ -25,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 43,
-    "pageviewRank": -1,
+    "pageviewCount": 397,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,6 +34,7 @@
   ],
   "species": [
   ],
+  "superName": "Naga",
   "teams": [
     "Father Set",
     "Features of the Marvel Universe",
@@ -42,6 +42,7 @@
     "Set"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Naga_(Marvel_Comics)"
   }
 }

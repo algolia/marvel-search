@@ -11,13 +11,10 @@
   "description": "Alexander Bont is a fictional character in the Marvel Comics universe, appearing in the series Daredevil.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/526034fb5aff7/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/7c/Bontsilverage.JPG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Kingpin",
+  "name": "Alexander Bont",
   "partners": [
     "Fixer",
     "Gladiator",
@@ -30,24 +27,24 @@
     "Mutant growth hormone"
   ],
   "ranking": {
-    "comicCount": 102,
-    "eventCount": 4,
-    "pageviewCount": 37,
-    "pageviewRank": -1,
-    "serieCount": 40,
-    "storyCount": 98
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 278,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Alexander Bont",
   "teams": [
     "New York City",
     "New York City criminal underground",
     "criminal underground"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1150/kingpin",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Bont"
   }
 }

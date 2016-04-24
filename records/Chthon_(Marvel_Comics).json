@@ -15,9 +15,9 @@
   ],
   "description": "Chthon is a fictional character, a demonic Elder God in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Chthon",
   "partners": [
@@ -31,8 +31,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 186,
-    "pageviewRank": -1,
+    "pageviewCount": 1613,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,9 +40,11 @@
   "species": [
     "Elder Gods"
   ],
+  "superName": "Chthon",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Chthon_(Marvel_Comics)"
   }
 }

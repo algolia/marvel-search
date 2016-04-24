@@ -6,11 +6,11 @@
     "George Pérez",
     "Len Wein"
   ],
-  "description": "Gazelle is a fictional character in the Marvel Universe.",
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Gazelle",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 7,
-    "pageviewRank": -1,
+    "pageviewCount": 83,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,10 +28,12 @@
   ],
   "species": [
   ],
+  "superName": "Gazelle",
   "teams": [
     "Salem's Seven"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Gazelle_(Marvel_Comics)"
   }
 }

@@ -1,6 +1,7 @@
 {
   "aliases": [
     "Baron Strucker",
+    "Baron von Strucker",
     "Don Guy Antonio Caballero",
     "Emir Ali Bey",
     "Grand Imperator of THEM",
@@ -12,14 +13,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Baron Wolfgang von Strucker is a fictional character, a supervillain that appears in comic books published by Marvel Comics.Baron Strucker, a former Nazi officer, is one of the leaders of Hydra and an enemy of S.H.I.E.L.D., the Avengers, and the interests of the United States of America and of the free world in general.",
+  "description": "Baron Wolfgang von Strucker is a fictional supervillain appearing in American comic books published by Marvel Comics.Baron Strucker, a former Nazi officer, is one of the leaders of Hydra and an enemy of S.H.I.E.L.D., the Avengers, and the interests of the United States of America and of the free world in general.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c0041fb5a90d/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Baron Strucker",
   "partners": [
@@ -40,8 +38,7 @@
   "ranking": {
     "comicCount": 26,
     "eventCount": 1,
-    "pageviewCount": 1276,
-    "pageviewRank": 3722,
+    "pageviewCount": 11824,
     "serieCount": 14,
     "storyCount": 22
   },
@@ -50,6 +47,7 @@
   ],
   "species": [
   ],
+  "superName": "Baron Strucker",
   "teams": [
     "Advanced Idea Mechanics",
     "Great Wheel",

@@ -11,10 +11,9 @@
   ],
   "description": "Slug (Ulysses X.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Slug-comics.jpg/249px-Slug-comics.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Slug",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 101,
-    "pageviewRank": -1,
+    "pageviewCount": 503,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,9 +34,11 @@
   "species": [
     "Human"
   ],
+  "superName": "Slug",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Slug_(comics)"
   }
 }

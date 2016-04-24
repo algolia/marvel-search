@@ -6,9 +6,9 @@
   ],
   "description": "The Obliterator (Maht Pacle) is a fictional character, an alien supervillain appearing in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Obliterator",
   "partners": [
@@ -18,8 +18,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 65,
-    "pageviewRank": -1,
+    "pageviewCount": 425,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -27,10 +26,12 @@
   ],
   "species": [
   ],
+  "superName": "Obliterator",
   "teams": [
     "Elders of the Universe"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Obliterator_(comics)"
   }
 }

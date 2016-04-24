@@ -2,8 +2,7 @@
   "aliases": [
     "Red Hulk",
     "Rulk",
-    "The Thing (Future Imperfect)",
-    "Thunderbolt Ross"
+    "The Thing (Future Imperfect)"
   ],
   "authors": [
     "Ed McGuiness",
@@ -13,21 +12,13 @@
     "Red Hulk:Jeph Loeb",
     "Stan Lee"
   ],
-  "description": "General Thaddeus E. \"Thunderbolt\" Ross (Red Hulk) is a fictional character, a supervillain and anti-hero and one of the arch-enemies of the Hulk, who appears in comic books published by Marvel Comics.",
+  "description": "General Thaddeus E. \"Thunderbolt\" Ross (alias Red Hulk) is a fictional character who appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/5102cb7fc1262/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/b/f0/4ce59e13db02c/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
-  "mainColor": {
-    "blue": 6,
-    "green": 6,
-    "hexa": "3F0606",
-    "red": 63
-  },
-  "name": "Red Hulk",
+  "mainColor": null,
+  "name": "Thunderbolt Ross",
   "partners": [
   ],
   "powers": [
@@ -37,16 +28,14 @@
     "Healing factor",
     "Heat generation",
     "Stamina",
-    "Superhuman strength",
     "Weapons"
   ],
   "ranking": {
-    "comicCount": 55,
-    "eventCount": 3,
-    "pageviewCount": 3034,
-    "pageviewRank": -1,
-    "serieCount": 19,
-    "storyCount": 64
+    "comicCount": 1,
+    "eventCount": 0,
+    "pageviewCount": 36956,
+    "serieCount": 1,
+    "storyCount": 1
   },
   "secretIdentities": [
     "Thaddeus E. Ross",
@@ -54,6 +43,7 @@
   ],
   "species": [
   ],
+  "superName": "Thunderbolt Ross",
   "teams": [
     "Avengers",
     "Defenders",
@@ -63,7 +53,7 @@
     "United States Air Force"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/45/red_hulk",
+    "marvel": "http://marvel.com/characters/3389/thunderbolt_ross",
     "wikipedia": "https://en.wikipedia.org/wiki/Thunderbolt_Ross"
   }
 }

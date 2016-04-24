@@ -8,9 +8,9 @@
   ],
   "description": "Rhapsody (real name Rachel Argosy) is a  fictional character, a mutant supervillainess in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Rhapsody",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 12,
-    "pageviewRank": -1,
+    "pageviewCount": 114,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,9 +31,11 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Rhapsody",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Rhapsody_(comics)"
   }
 }

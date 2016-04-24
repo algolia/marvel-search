@@ -1,6 +1,7 @@
 {
   "aliases": [
-    "Blackwulf"
+    "Blackwulf",
+    "Blackwulf (Lucian)"
   ],
   "authors": [
     "Angel Medina",
@@ -8,10 +9,9 @@
   ],
   "description": "Blackwulf is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Blackwulf1_HCV.jpg/200px-Blackwulf1_HCV.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Blackwulf",
   "partners": [
@@ -25,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 33,
-    "pageviewRank": -1,
+    "pageviewCount": 329,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,12 +38,14 @@
   "species": [
     "Deviant"
   ],
+  "superName": "Blackwulf",
   "teams": [
     "Avengers",
     "Blue",
     "Underground Legion"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Blackwulf"
   }
 }

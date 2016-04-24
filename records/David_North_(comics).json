@@ -9,16 +9,13 @@
   "authors": [
     "Jim Lee"
   ],
-  "description": "David North (born Christoph Nord) is a mutant comic book character in the fictional Marvel Universe.",
+  "description": "David North (born Christoph \"Christopher\" Nord) is a mutant comic book character in the fictional Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c0042121d790/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/WEAPON_X_3.jpg/250px-WEAPON_X_3.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Agent Zero",
+  "name": "David North",
   "partners": [
   ],
   "powers": [
@@ -28,12 +25,11 @@
     "Kinetic blasts"
   ],
   "ranking": {
-    "comicCount": 20,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1589,
-    "pageviewRank": -1,
-    "serieCount": 8,
-    "storyCount": 20
+    "pageviewCount": 7008,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Christoph Nord",
@@ -42,6 +38,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "David North",
   "teams": [
     "CIA",
     "Cell Six",
@@ -50,7 +47,7 @@
     "Weapon X"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/102/agent_zero",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/David_North_(comics)"
   }
 }

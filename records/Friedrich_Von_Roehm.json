@@ -9,9 +9,9 @@
   ],
   "description": "Friedrich Von Roehm, also known as the Black Rook is a Marvel Comics supervillain, and an adversary of the X-Men.Von Roehm possesses a hereditary ability that is likened to lycanthropy.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Friedrich Von Roehm",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 32,
-    "pageviewRank": -1,
+    "pageviewCount": 219,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +32,12 @@
   ],
   "species": [
   ],
+  "superName": "Friedrich Von Roehm",
   "teams": [
     "Hellfire Club"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Von_Roehm"
   }
 }

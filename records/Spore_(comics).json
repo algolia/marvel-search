@@ -8,9 +8,9 @@
   ],
   "description": "Spore is a fictional character that has appeared in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Spore",
   "partners": [
@@ -26,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 25,
-    "pageviewRank": -1,
+    "pageviewCount": 230,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,9 +35,11 @@
   ],
   "species": [
   ],
+  "superName": "Spore",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Spore_(comics)"
   }
 }

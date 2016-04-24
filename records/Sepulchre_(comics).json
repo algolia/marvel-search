@@ -9,10 +9,9 @@
   ],
   "description": "Sepulchre (also known as Shadowoman) is a fictional superhero published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Shdowwoman.jpg/250px-Shdowwoman.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sepulchre",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 102,
-    "pageviewRank": -1,
+    "pageviewCount": 584,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Sepulchre",
   "teams": [
     "Roxxon Energy Corporation",
     "Roxxon Energy Corporation Secret Defenders Shock Troop",
@@ -42,6 +41,7 @@
     "Shock Troop"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sepulchre_(comics)"
   }
 }

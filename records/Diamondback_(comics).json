@@ -11,13 +11,10 @@
   "description": "Diamondback is the name of four fictional characters appearing in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/526955c158ece/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Diamondback (Rachel Leighton)",
+  "name": "Diamondback",
   "partners": [
   ],
   "powers": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 34,
     "eventCount": 3,
-    "pageviewCount": 486,
-    "pageviewRank": -1,
+    "pageviewCount": 5860,
     "serieCount": 6,
     "storyCount": 33
   },
@@ -36,6 +32,7 @@
   ],
   "species": [
   ],
+  "superName": "Diamondback",
   "teams": [
     "Avengers Resistance",
     "BAD Girls",

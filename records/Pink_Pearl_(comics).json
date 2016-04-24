@@ -7,10 +7,9 @@
   ],
   "description": "Pink Pearl (Pearl Gross) is a Canadian super villain and terrorist in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Pinkpearl.jpg/249px-Pinkpearl.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Pink Pearl",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 40,
-    "pageviewRank": -1,
+    "pageviewCount": 285,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,11 +34,13 @@
   "species": [
     "Human"
   ],
+  "superName": "Pink Pearl",
   "teams": [
     "Femizons",
     "Masters of Evil"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Pink_Pearl_(comics)"
   }
 }

@@ -12,10 +12,9 @@
   ],
   "description": "Slaymaster is a fictional comic book character from Marvel Comics's Captain Britain series.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/TheSlaymaster.JPG/215px-TheSlaymaster.JPG"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Slaymaster",
   "partners": [
@@ -28,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 56,
-    "pageviewRank": -1,
+    "pageviewCount": 536,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,10 +36,12 @@
   "species": [
     "Human"
   ],
+  "superName": "Slaymaster",
   "teams": [
     "Crazy Gang"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Slaymaster"
   }
 }

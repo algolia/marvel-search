@@ -11,35 +11,26 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Warren Kenneth Worthington III, better known as Angel and later as Archangel, is a fictional character, a comic book superhero that appears in comic books published by Marvel Comics.",
+  "description": "Warren Kenneth Worthington III, originally Angel and later as Archangel, is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/WarrenWorthingtonAngel.jpg/250px-WarrenWorthingtonAngel.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Warren Worthington III",
   "partners": [
   ],
   "powers": [
     "Aerial adaptation",
-    "Enhanced strength",
-    "Flight",
     "Flight via metal wings",
     "Healing factor",
     "Hollow bones",
-    "Metal wings for flight",
-    "Near immunity to injury",
-    "Peak physical attributes",
-    "Speed"
+    "Near immunity to injury"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 3058,
-    "pageviewRank": -1,
+    "pageviewCount": 42527,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -49,16 +40,21 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Warren Worthington III",
   "teams": [
     "<Br>",
+    "Champions",
     "Champions of Los Angeles",
     "Cheyarafim",
+    "CheyarafimJean Grey School Students",
+    "Defenders",
     "Defenders/Secret Defenders",
     "Hellfire Club",
     "Horsemen of Apocalypse",
     "Jean Grey School Students",
     "Mutantes Sans Frontières",
     "Renegades",
+    "World War Hulk",
     "Worthington Industries",
     "X-Club",
     "X-Factor",
@@ -67,7 +63,7 @@
     "X-Terminators"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2802/warren_worthington_iii",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Warren_Worthington_III"
   }
 }

@@ -5,15 +5,13 @@
   "authors": [
     "Jim Valentino"
   ],
-  "description": "Falling to Earth wrapped in a ball of flame, Talon crash landed next to the home of Chris Powell, the young hero known as Darkhawk.",
+  "description": "Talon is a feline Inhuman in the Earth-691 timeline of the fictional Marvel Universe, sorcerer apprentice to Krugarr.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Talon (Fraternity of Raptors)",
+  "name": "Talon",
   "partners": [
     "Sorcerer Supreme",
     "The Sorcerer Supreme"
@@ -24,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 70,
-    "pageviewRank": -1,
+    "pageviewCount": 600,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,11 +32,13 @@
     "Inhumans",
     "Werecat"
   ],
+  "superName": "Talon",
   "teams": [
-    "Guardians of the Galaxy"
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (1969 team)"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2289/talon",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Talon_(Marvel_Comics)"
   }
 }

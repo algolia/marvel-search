@@ -3,7 +3,6 @@
     "Atlas",
     "Dragon-Slayer",
     "Forgotten Nemesis",
-    "Forgotten One",
     "Gilgamesh",
     "Hercules",
     "Hero",
@@ -16,13 +15,10 @@
   "description": "The Forgotten One (also known as Hero and Gilgamesh) is a superhero in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/52052ebddfa53/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/8/70/4c002f332fb1f/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Hercules",
+  "name": "Forgotten One",
   "partners": [
   ],
   "powers": [
@@ -39,23 +35,23 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 140,
-    "eventCount": 10,
-    "pageviewCount": 112,
-    "pageviewRank": -1,
-    "serieCount": 68,
-    "storyCount": 141
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1258,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Forgotten One",
   "teams": [
     "Avengers",
     "Eternals"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/952/hercules",
+    "marvel": "http://marvel.com/characters/721/forgotten_one",
     "wikipedia": "https://en.wikipedia.org/wiki/Forgotten_One_(comics)"
   }
 }

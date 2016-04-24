@@ -10,10 +10,9 @@
   ],
   "description": "Mercurio the 4-D Man (abbreviation of four dimensional - a feature of Mercurio's home world) is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/CaptainMarvel51.jpg/260px-CaptainMarvel51.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mercurio the 4-D Man",
   "partners": [
@@ -31,8 +30,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 31,
-    "pageviewRank": -1,
+    "pageviewCount": 171,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,10 +38,12 @@
   ],
   "species": [
   ],
+  "superName": "Mercurio the 4-D Man",
   "teams": [
     "Thor"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mercurio_the_4-D_Man"
   }
 }

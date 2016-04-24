@@ -10,10 +10,9 @@
   ],
   "description": "The Man-Killer (real name Katrina Luisa Van Horn) is a fictional supervillain in Marvel Comics' universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Man-Killer.jpg/250px-Man-Killer.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Man-Killer",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 81,
-    "pageviewRank": -1,
+    "pageviewCount": 650,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,13 +33,16 @@
   ],
   "species": [
   ],
+  "superName": "Man-Killer",
   "teams": [
     "Advanced Idea Mechanics",
+    "HYDRA",
     "Hydra",
     "Masters of Evil",
     "Thunderbolts"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Man-Killer"
   }
 }

@@ -13,11 +13,8 @@
   "description": "Wounded, captured and forced to build a weapon by his enemies, billionaire industrialist Tony Stark instead created an advanced suit of armor to save his life and escape captivity. Now with a new outlook on life, Tony uses his money and intelligence to make the world a safer, better place as Iron Man.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/c/90/537bb1f94fa4f.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/55b6a28ef24fa.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/527bb7b37ff55/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/55b6a25e654e6/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
@@ -50,8 +47,7 @@
   "ranking": {
     "comicCount": 1980,
     "eventCount": 24,
-    "pageviewCount": 9425,
-    "pageviewRank": 2111,
+    "pageviewCount": 133366,
     "serieCount": 447,
     "storyCount": 2903
   },
@@ -62,11 +58,13 @@
   "species": [
     "Human"
   ],
+  "superName": "Iron Man",
   "teams": [
     "Avengers",
     "Department of Defense",
     "Force Works",
     "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
     "Illuminati",
     "New Avengers",
     "S.H.I.E.L.D",
@@ -79,7 +77,7 @@
     "West Coast Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009368/iron_man",
+    "marvel": "http://marvel.com/characters/29/iron_man",
     "wikipedia": "https://en.wikipedia.org/wiki/Iron_Man"
   }
 }

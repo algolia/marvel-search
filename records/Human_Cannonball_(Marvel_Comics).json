@@ -11,10 +11,8 @@
   "description": "The Human Cannonball is a fictional character, a supervillain in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Human Cannonball",
   "partners": [
@@ -22,24 +20,24 @@
   "powers": [
   ],
   "ranking": {
-    "comicCount": 2,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 40,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 2
+    "pageviewCount": 329,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Jack Pulver"
   ],
   "species": [
   ],
+  "superName": "Human Cannonball",
   "teams": [
     "Circus of Crime",
     "The Masters of Menace"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/989/human_cannonball",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Human_Cannonball_(Marvel_Comics)"
   }
 }

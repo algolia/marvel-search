@@ -12,10 +12,9 @@
   ],
   "description": "The Wizard (Bentley Wittman), also known as the Wingless Wizard, is a fictional character, a comic book supervillain in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/The_wizard.jpg/250px-The_wizard.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Wizard",
   "partners": [
@@ -31,8 +30,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 233,
-    "pageviewRank": -1,
+    "pageviewCount": 1668,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,11 +39,13 @@
   ],
   "species": [
   ],
+  "superName": "Wizard",
   "teams": [
     "Frightful Four",
     "Intelligencia"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Wizard_(Marvel_Comics)"
   }
 }

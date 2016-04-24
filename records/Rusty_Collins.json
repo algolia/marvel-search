@@ -9,9 +9,9 @@
   ],
   "description": "Russell \"Rusty\" Collins, formerly known as Firefist, is a fictional character, a superhero from Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Rusty Collins",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 104,
-    "pageviewRank": -1,
+    "pageviewCount": 1076,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,6 +33,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Rusty Collins",
   "teams": [
     "Acolytes",
     "Mutant Liberation Front",
@@ -43,6 +43,7 @@
     "X-Terminators"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Rusty_Collins"
   }
 }

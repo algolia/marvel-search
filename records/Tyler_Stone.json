@@ -8,9 +8,9 @@
   ],
   "description": "Tyler Stone is a fictional character in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Tyler Stone",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 40,
-    "pageviewRank": -1,
+    "pageviewCount": 320,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,11 +29,12 @@
   ],
   "species": [
   ],
+  "superName": "Tyler Stone",
   "teams": [
-    "Alchemax",
-    "CEO Of Alchemax"
+    "Alchemax"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Tyler_Stone"
   }
 }

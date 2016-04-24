@@ -1,12 +1,14 @@
 {
   "aliases": [
+    "Icemaster"
   ],
   "authors": [
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Icemaster",
   "partners": [
@@ -17,8 +19,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 18,
-    "pageviewRank": -1,
+    "pageviewCount": 145,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -27,10 +28,12 @@
   ],
   "species": [
   ],
+  "superName": "Icemaster",
   "teams": [
     "Masters of Evil"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Icemaster"
   }
 }

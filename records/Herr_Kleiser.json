@@ -9,9 +9,9 @@
   ],
   "description": "Herr Kleiser is a fictional character that appears in Ultimate comic books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Herr Kleiser",
   "partners": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 66,
-    "pageviewRank": -1,
+    "pageviewCount": 518,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,12 +32,14 @@
   ],
   "species": [
   ],
+  "superName": "Herr Kleiser",
   "teams": [
     "Chitauri",
     "Nazi Germany",
     "Skrull"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Herr_Kleiser"
   }
 }

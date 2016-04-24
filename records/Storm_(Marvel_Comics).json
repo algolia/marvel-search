@@ -21,11 +21,8 @@
   "description": "Ororo Monroe is the descendant of an ancient line of African priestesses, all of whom have white hair, blue eyes, and the potential to wield magic.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/90/537bc6087eb62.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/c/b0/537bc5f8a8df0.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/526963dad214d/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/c0/537bc5db7c77d/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 42,
     "green": 25,
@@ -34,26 +31,18 @@
   },
   "name": "Storm",
   "partners": [
-    "Black Panther"
+    "Black Panther",
+    "Forge"
   ],
   "powers": [
     "Ecological empathy",
-    "Energy perception",
-    "Fencing training",
     "Flight",
-    "Gifted strategist",
-    "Hand to hand combat",
-    "Latent magical abilities",
-    "Pilot",
-    "Resistant to telepathy",
-    "Skilled in martial arts",
     "Weather manipulation"
   ],
   "ranking": {
     "comicCount": 599,
     "eventCount": 21,
-    "pageviewCount": 2941,
-    "pageviewRank": -1,
+    "pageviewCount": 30624,
     "serieCount": 154,
     "storyCount": 695
   },
@@ -63,6 +52,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Storm",
   "teams": [
     "Avengers",
     "Fantastic Four",
@@ -75,7 +65,7 @@
     "X-Treme X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009629/storm",
+    "marvel": "http://marvel.com/characters/57/storm",
     "wikipedia": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
   }
 }

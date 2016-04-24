@@ -10,13 +10,10 @@
   "description": "Madison Jeffries is a fictional character, a mutant superhero in the Marvel Comics Universe with the ability to reshape plastic, metal, and glass to any shape desired.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4ce59ef63362d/standard_xlarge.jpg"
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Box",
+  "name": "Madison Jeffries",
   "partners": [
   ],
   "powers": [
@@ -25,12 +22,11 @@
     "Such as machines"
   ],
   "ranking": {
-    "comicCount": 4,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 124,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 4
+    "pageviewCount": 1391,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Madison Jeffries"
@@ -38,6 +34,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Madison Jeffries",
   "teams": [
     "Alpha Flight",
     "Gamma Flight",
@@ -47,7 +44,7 @@
     "Zodiac"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/346/box",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Madison_Jeffries"
   }
 }

@@ -14,10 +14,8 @@
   "description": "Red Wolf is the name of a number of fictional characters in Marvel Comics' shared universe, the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Red Wolf",
   "partners": [
@@ -25,7 +23,6 @@
   "powers": [
     "Adept combat gymnast",
     "Experienced wrestler",
-    "Expert tracker",
     "Sensory acuity",
     "Skilled animal trainer",
     "Superb archer",
@@ -33,21 +30,20 @@
     "Tracker"
   ],
   "ranking": {
-    "comicCount": 13,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 317,
-    "pageviewRank": -1,
-    "serieCount": 8,
-    "storyCount": 13
+    "pageviewCount": 2322,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Johnny Wakely",
     "Thomas Thunderhead",
-    "Wildrun",
-    "Wilrun"
+    "Wildrun"
   ],
   "species": [
   ],
+  "superName": "Red Wolf",
   "teams": [
     "Anachronauts",
     "The Anachronauts",
@@ -55,7 +51,7 @@
     "The Sensational Seven"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1902/red_wolf",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Red_Wolf_(comics)"
   }
 }

@@ -22,17 +22,13 @@
   "description": "After the Fantastic Four stopped the Skrulls' attempted invasion of Earth, Skrull Emperor Dorrek invested vast resources into creating a superbeing of his own.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5274138fe6deb/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Super-Skrull",
   "partners": [
   ],
   "powers": [
-    "Body elasticity",
     "Competent pilot",
     "Durability",
     "Elasticity",
@@ -51,8 +47,7 @@
   "ranking": {
     "comicCount": 10,
     "eventCount": 3,
-    "pageviewCount": 389,
-    "pageviewRank": -1,
+    "pageviewCount": 2995,
     "serieCount": 6,
     "storyCount": 9
   },
@@ -62,6 +57,7 @@
   "species": [
     "Skrull"
   ],
+  "superName": "Super-Skrull",
   "teams": [
     "Annihilation",
     "Defenders",

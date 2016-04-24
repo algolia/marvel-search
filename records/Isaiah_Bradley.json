@@ -13,21 +13,13 @@
     "Steve Rogers",
     "character by"
   ],
-  "description": "Isaiah Bradley is a fictional character in the Marvel Comics universe, an early product of the United States' Super-Soldier program (codenamed Project: Rebirth) during World War II.",
+  "description": "Isaiah Bradley is a fictional character in the Marvel Comics universe, an early product of the United States' Super-Soldier program (codenamed Project: Rebirth) during World War II and an alternate version of Captain America.",
   "images": {
-    "background": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/537ba5c73bf82.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/9/80/537ba5b368b7d.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/53176a1e7c0d5/standard_xlarge.jpg"
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/IsaiahBradley.jpg/250px-IsaiahBradley.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
-  "mainColor": {
-    "blue": 57,
-    "green": 31,
-    "hexa": "121F39",
-    "red": 18
-  },
-  "name": "Captain America (House of M)",
+  "mainColor": null,
+  "name": "Isaiah Bradley",
   "partners": [
   ],
   "powers": [
@@ -36,23 +28,23 @@
     "Trained unarmed combatant"
   ],
   "ranking": {
-    "comicCount": 3,
-    "eventCount": 1,
-    "pageviewCount": 345,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 2
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2762,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Isaiah Bradley"
   ],
   "species": [
   ],
+  "superName": "Isaiah Bradley",
   "teams": [
     "Rebirth"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/8/captain_america",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Isaiah_Bradley"
   }
 }

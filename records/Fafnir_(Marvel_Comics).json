@@ -8,10 +8,9 @@
   ],
   "description": "Fafnir is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Thorvs.Fafnir.jpg/260px-Thorvs.Fafnir.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Fafnir",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 66,
-    "pageviewRank": -1,
+    "pageviewCount": 607,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,9 +33,11 @@
   ],
   "species": [
   ],
+  "superName": "Fafnir",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Fafnir_(Marvel_Comics)"
   }
 }

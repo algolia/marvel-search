@@ -13,10 +13,9 @@
   ],
   "description": "Zadkiel is a fictional character appearing in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/2f/Zadkiel_Head.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Zadkiel",
   "partners": [
@@ -27,19 +26,20 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 78,
-    "pageviewRank": -1,
+    "pageviewCount": 517,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
-    "Archangel"
+    "Angels"
   ],
+  "superName": "Zadkiel",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Zadkiel_(comics)"
   }
 }

@@ -1,7 +1,6 @@
 {
   "aliases": [
     "Imperius Rex",
-    "Namor",
     "Namor McKenzie",
     "Namor the First",
     "Namor the Sub-Mariner",
@@ -11,14 +10,11 @@
   "authors": [
     "Bill Everett"
   ],
-  "description": "Namor the Sub-Mariner (Namor McKenzie) is a fictional character, a comic book superhero and sometime antihero that appears in comic books published by Marvel Comics.",
+  "description": "Namor the Sub-Mariner (Namor McKenzie) is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/3/b0/537bb815833f5.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/537bb802b44f3.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/50febf4ae101d/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/537bb7e675115/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 40,
     "green": 38,
@@ -40,8 +36,7 @@
   "ranking": {
     "comicCount": 22,
     "eventCount": 1,
-    "pageviewCount": 2485,
-    "pageviewRank": -1,
+    "pageviewCount": 21344,
     "serieCount": 10,
     "storyCount": 20
   },
@@ -52,6 +47,7 @@
     "Atlantean",
     "Human Mutant hybrid"
   ],
+  "superName": "Namor",
   "teams": [
     "All-Winners Squad",
     "Avengers",

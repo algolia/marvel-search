@@ -12,22 +12,16 @@
     "Stan Lee",
     "by"
   ],
-  "description": "Iron Lad (Nathaniel \"Nate\" Richards) is a fictional character, a superhero appearing in books published by Marvel Comics, in particular Young Avengers, a team of which Iron Lad is a member.",
+  "description": "Iron Lad (Nathaniel \"Nate\" Richards) is a fictional superhero appearing in books published by Marvel Comics, in particular Young Avengers, a team of which Iron Lad is a member.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c0038c9c6580/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Iron Lad",
   "partners": [
   ],
   "powers": [
-    "Allows him to fly",
-    "Create energy blasts",
-    "Create magnetic fields",
     "Energy blast projection",
     "Flight",
     "Magnetic field creation",
@@ -38,8 +32,7 @@
   "ranking": {
     "comicCount": 7,
     "eventCount": 0,
-    "pageviewCount": 439,
-    "pageviewRank": -1,
+    "pageviewCount": 4794,
     "serieCount": 4,
     "storyCount": 6
   },
@@ -48,6 +41,7 @@
   ],
   "species": [
   ],
+  "superName": "Iron Lad",
   "teams": [
     "Young Avengers"
   ],

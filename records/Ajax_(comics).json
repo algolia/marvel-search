@@ -11,10 +11,9 @@
   ],
   "description": "Ajax is the codename belonging to two different characters in Marvel Comics, one the descendant of a demigod, the other a mercenary.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Ajazpantheon.jpg/200px-Ajazpantheon.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ajax",
   "partners": [
@@ -33,8 +32,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 7364,
-    "pageviewRank": -1,
+    "pageviewCount": 49286,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -43,11 +41,13 @@
   ],
   "species": [
   ],
+  "superName": "Ajax",
   "teams": [
     "Pantheon",
     "Weapon X"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ajax_(comics)"
   }
 }

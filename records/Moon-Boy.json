@@ -5,12 +5,11 @@
   "authors": [
     "Jack Kirby"
   ],
-  "description": "Moon-Boy is a Marvel Comics character who resembles a small, furry humanoid.",
+  "description": "Moon-Boy is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/DevilDinosaurandMoonBoy.jpg/250px-DevilDinosaurandMoonBoy.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Moon-Boy",
   "partners": [
@@ -20,8 +19,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 149,
-    "pageviewRank": -1,
+    "pageviewCount": 1445,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,11 +27,13 @@
   ],
   "species": [
   ],
+  "superName": "Moon-Boy",
   "teams": [
     "Circus of Crime",
     "Fallen Angels"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Moon-Boy"
   }
 }

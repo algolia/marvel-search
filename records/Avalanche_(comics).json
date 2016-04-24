@@ -15,11 +15,8 @@
   "description": "Avalanche (Dominikos Ioannis Petrakis) is a fictional character, a mutant supervillain and an enemy of the X-Men.A Cretan mutant, Avalanche possesses the ability to generate seismic waves from his hands that are strong enough to create earthquakes of varying sizes and to disintegrate any substance other than living tissue.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4c0042010d383/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Avalanche",
   "partners": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 30,
     "eventCount": 5,
-    "pageviewCount": 312,
-    "pageviewRank": -1,
+    "pageviewCount": 2202,
     "serieCount": 9,
     "storyCount": 37
   },
@@ -40,6 +36,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Avalanche",
   "teams": [
     "Brotherhood of Evil Mutants",
     "Brotherhood of Mutants",

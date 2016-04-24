@@ -12,12 +12,10 @@
   "description": "Primus is the name of three characters in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Nomad (Steve Rogers)",
+  "name": "Primus",
   "partners": [
   ],
   "powers": [
@@ -27,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 40,
-    "pageviewRank": -1,
+    "pageviewCount": 366,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,14 +33,15 @@
     "Primus"
   ],
   "species": [
-    "Android",
+    "Android (robot)",
     "Flb'Dbi"
   ],
+  "superName": "Primus",
   "teams": [
     "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1616/nomad",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Primus_(Marvel_Comics)"
   }
 }

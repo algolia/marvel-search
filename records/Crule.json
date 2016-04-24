@@ -11,11 +11,8 @@
   "description": "Crule is a fictional character, a mutant in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Xforce12.jpg/250px-Xforce12.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Crule",
   "partners": [
@@ -33,25 +30,25 @@
     "Strength"
   ],
   "ranking": {
-    "comicCount": 6,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 29,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 7
+    "pageviewCount": 261,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
     "Mutant"
   ],
+  "superName": "Crule",
   "teams": [
     "Externals",
     "Nazi Germany",
     "Third Reich"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/477/crule",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Crule"
   }
 }

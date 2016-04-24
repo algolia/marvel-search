@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Crusher",
     "Crusher I",
     "Crusher II",
     "Crusher III",
@@ -15,9 +14,9 @@
   ],
   "description": "Crusher is the name of three Marvel Comics supervillains.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Crusher",
   "partners": [
@@ -30,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 35,
-    "pageviewRank": -1,
+    "pageviewCount": 285,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,9 +40,11 @@
   "species": [
     "Human Mutate"
   ],
+  "superName": "Crusher",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Crusher_(comics)"
   }
 }

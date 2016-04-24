@@ -10,31 +10,25 @@
   "description": "Ruth Bat-Seraph is an Israeli national who, along with her family, was taken to a special community by the Israeli government when her genetic mutation manifested.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Sabramu0.jpg/229px-Sabramu0.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sabra",
   "partners": [
   ],
   "powers": [
     "Agility",
-    "Durability",
     "Endurance",
     "Paralyzing quills",
     "Reflexes",
     "Speed",
     "Stamina",
-    "Superhuman strength",
-    "The ability to heal"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 14,
     "eventCount": 0,
-    "pageviewCount": 140,
-    "pageviewRank": -1,
+    "pageviewCount": 1127,
     "serieCount": 9,
     "storyCount": 12
   },
@@ -44,6 +38,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Sabra",
   "teams": [
     "Mossad",
     "X-Corporation"

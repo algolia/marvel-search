@@ -7,29 +7,23 @@
     "Adrian Alphona",
     "Brian K. Vaughan"
   ],
-  "description": "Karolina Dean (/kæˈroʊliːnə/ kair-ROH-lee-nə), also briefly known as Lucy in the Sky, is a fictional character in the Marvel Comics award-winning series, Runaways.",
+  "description": "Karolina Dean (/kæˈroʊliːnə/ kair-ROH-lee-nə), also briefly known as Lucy in the Sky, or L.S.D., is a fictional character, a superhero in the Marvel Comics series Runaways.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/50/4c00377435871/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Runaways007.jpg/250px-Runaways007.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Lucy in the Sky",
+  "name": "Karolina Dean",
   "partners": [
   ],
   "powers": [
-    "Concussive blasts",
     "Flight",
-    "Forcefields",
     "Solar light manipulation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 268,
-    "pageviewRank": -1,
+    "pageviewCount": 2194,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,11 +32,12 @@
   ],
   "species": [
   ],
+  "superName": "Karolina Dean",
   "teams": [
     "Runaways"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1285/lucy_in_the_sky",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Karolina_Dean"
   }
 }

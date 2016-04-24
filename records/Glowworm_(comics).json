@@ -15,9 +15,9 @@
   ],
   "description": "Glowworm is the name of two unrelated fictional characters from Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Glowworm",
   "partners": [
@@ -31,8 +31,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 4,
-    "pageviewRank": -1,
+    "pageviewCount": 116,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -43,10 +42,12 @@
     "Human mutate",
     "Mutant"
   ],
+  "superName": "Glowworm",
   "teams": [
     "Morlocks"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Glowworm_(comics)"
   }
 }

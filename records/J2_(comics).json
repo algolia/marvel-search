@@ -12,13 +12,10 @@
   "description": "J2 (Zane Yama-Marko) is a fictional comic book mutant superhero in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/528d340442cca/standard_xlarge.jpg"
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Juggernaut",
+  "name": "J2",
   "partners": [
   ],
   "powers": [
@@ -28,24 +25,24 @@
     "Stamina"
   ],
   "ranking": {
-    "comicCount": 151,
-    "eventCount": 9,
-    "pageviewCount": 83,
-    "pageviewRank": -1,
-    "serieCount": 74,
-    "storyCount": 153
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 588,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Zane Yama-Marko"
   ],
   "species": [
   ],
+  "superName": "J2",
   "teams": [
     "A-Next",
     "X-People"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1105/juggernaut",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/J2_(comics)"
   }
 }

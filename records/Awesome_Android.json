@@ -9,10 +9,9 @@
   ],
   "description": "The Awesome Android, (also briefly known as Awesome Andy), is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg/250px-ROM_no._14_%28Marvel_Comics_-_front_cover%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Awesome Android",
   "partners": [
@@ -27,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 128,
-    "pageviewRank": -1,
+    "pageviewCount": 1105,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,6 +34,7 @@
   ],
   "species": [
   ],
+  "superName": "Awesome Android",
   "teams": [
     "Goodman",
     "Goodman, Lieber, Kurtzberg & Holliway",
@@ -45,6 +44,7 @@
     "Lieber"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Awesome_Android"
   }
 }

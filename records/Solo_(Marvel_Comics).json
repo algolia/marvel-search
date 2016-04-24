@@ -9,13 +9,10 @@
   "description": "James Bourne was drafted to a top-secret special forces operation where he endured ten months of hard and brutal training to earn his place in the new counter-terrorist group Omega Strike.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c7c641408c12/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Solo (James Bourne)",
+  "name": "Solo",
   "partners": [
   ],
   "powers": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 0,
-    "pageviewCount": 101,
-    "pageviewRank": -1,
+    "pageviewCount": 795,
     "serieCount": 1,
     "storyCount": 2
   },
@@ -39,6 +35,7 @@
   ],
   "species": [
   ],
+  "superName": "Solo",
   "teams": [
     "Heroes for Hire",
     "Mercs for Money",

@@ -11,37 +11,35 @@
   "description": "Firebrand is the codename of different fictional supervillains in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/96/Firebrand_001.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Firebrand",
   "partners": [
   ],
   "powers": [
-    "Flight",
     "Flight via flying jets",
     "Powered armor",
     "Resistance to fire",
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 5,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 103,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 8
+    "pageviewCount": 844,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Gary Gilbert",
-    "Rick Dennison",
+    "Richard L. Dennison",
+    "Rick",
     "Russ Broxtel"
   ],
   "species": [
+    "Human Mutate"
   ],
+  "superName": "Firebrand",
   "teams": [
     "Force of Nature",
     "Masters of Evil",
@@ -49,7 +47,7 @@
     "The Flaming Sword"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/695/firebrand",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Firebrand_(Marvel_Comics)"
   }
 }

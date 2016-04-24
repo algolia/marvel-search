@@ -10,12 +10,11 @@
     "Khari Evans",
     "Stan Lee"
   ],
-  "description": "Porcupine is any of three fictional characters in Marvel Comics.",
+  "description": "Porcupine is the name used by three fictional characters in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/PorcupineMarvel.jpg/250px-PorcupineMarvel.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Porcupine",
   "partners": [
@@ -34,8 +33,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 95,
-    "pageviewRank": -1,
+    "pageviewCount": 899,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -48,6 +46,7 @@
     "Human",
     "Mutant"
   ],
+  "superName": "Porcupine",
   "teams": [
     "Lethal Legion",
     "Maggia",
@@ -55,6 +54,7 @@
     "United States Army"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Porcupine_(comics)"
   }
 }

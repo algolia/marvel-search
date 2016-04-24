@@ -8,14 +8,11 @@
     "Neal Adams",
     "Roy Thomas"
   ],
-  "description": "Killraven (Jonathan Raven) is a fictional freedom fighter in several post-apocalyptic alternate futures of the Marvel Comics universe.",
+  "description": "Killraven (Jonathan Raven) is a fictional freedom fighter in several post-apocalyptic alternate futures depicted in stories published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/24/Amazing_Adventures_30_%281970%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Killraven",
   "partners": [
@@ -23,23 +20,23 @@
   "powers": [
   ],
   "ranking": {
-    "comicCount": 30,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 102,
-    "pageviewRank": -1,
-    "serieCount": 4,
-    "storyCount": 76
+    "pageviewCount": 1003,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Jonathan Raven"
   ],
   "species": [
   ],
+  "superName": "Killraven",
   "teams": [
     "Freemen"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1146/killraven",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Killraven"
   }
 }

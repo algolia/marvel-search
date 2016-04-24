@@ -12,44 +12,41 @@
   ],
   "description": "Arabian Knight is a title used by three fictional characters appearing in the comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Arabianknightmu0.jpg/225px-Arabianknightmu0.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Arabian Knight",
   "partners": [
   ],
   "powers": [
     "Exceptional swordsman",
-    "Indestructible uniform",
-    "Magic carpet",
-    "Magic sash",
-    "Magic scimitar",
+    "Resistance to injury",
     "Sash",
     "Scimitar",
-    "Use of magic carpet"
+    "Use of magic carpet",
+    "Use of magic sash"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 93,
-    "pageviewRank": -1,
+    "pageviewCount": 813,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
     "Abdul Qamar",
-    "Navid Hashim",
-    "Unknown"
+    "Navid Hashim"
   ],
   "species": [
   ],
+  "superName": "Arabian Knight",
   "teams": [
     "Desert Sword",
     "Pantheon"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Arabian_Knight_(comics)"
   }
 }

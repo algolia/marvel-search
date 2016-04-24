@@ -8,12 +8,11 @@
   ],
   "description": "Blacklight (Kandra Freeman), is a fictional character who appeared in the Marvel Comics' MC2 series A-Next.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/BlacklightAN.jpg/250px-BlacklightAN.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Blacklight",
+  "name": "Blacklight (MC2)",
   "partners": [
   ],
   "powers": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 60,
-    "pageviewRank": -1,
+    "pageviewCount": 392,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +31,12 @@
   ],
   "species": [
   ],
+  "superName": "Blacklight",
   "teams": [
     "A-Next"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Blacklight_(MC2)"
   }
 }

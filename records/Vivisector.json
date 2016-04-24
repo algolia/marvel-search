@@ -9,11 +9,8 @@
   "description": "This article is about the Marvel Comics character.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Vivisector.jpg/250px-Vivisector.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Vivisector",
   "partners": [
@@ -25,12 +22,11 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 20,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 46,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 20
+    "pageviewCount": 402,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Myles Alfred"
@@ -38,12 +34,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Vivisector",
   "teams": [
     "X-Force",
     "X-Statix"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2498/vivisector",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Vivisector"
   }
 }

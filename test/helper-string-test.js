@@ -649,6 +649,58 @@ describe('HelperString', () => {
       expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
     });
 
+    it('should remove "As XXX" types', () => {
+      // Given
+      let input = [
+        'As Beetle',
+        'Foo',
+        'as Beetle',
+        'Bar',
+        'As is known',
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should remove "Ability to" types', () => {
+      // Given
+      let input = [
+        'Ability to fly',
+        'Foo',
+        'Ability to become invisible',
+        'Bar',
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
+    it('should remove "Transform into XXX" types', () => {
+      // Given
+      let input = [
+        'Transform into bear',
+        'Foo',
+        'transform into something else',
+        'Bar',
+        'Baz'
+      ];
+
+      // When
+      let actual = Helper.rejectBadItemsInList(input);
+
+      // Then
+      expect(actual).toEqual(['Foo', 'Bar', 'Baz']);
+    });
+
     it('should remove words cut in the middle', () => {
       // Given
       let input = [

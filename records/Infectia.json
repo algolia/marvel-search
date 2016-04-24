@@ -8,9 +8,9 @@
   ],
   "description": "Infectia (Josephine) is a fictional character appearing in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Infectia",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 78,
-    "pageviewRank": -1,
+    "pageviewCount": 402,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,9 +30,11 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Infectia",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Infectia"
   }
 }

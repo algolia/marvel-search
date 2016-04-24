@@ -7,14 +7,11 @@
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "Kraven the Hunter is a fictional character, a supervillain who appears in comic books published by Marvel Comics.",
+  "description": "Kraven the Hunter is a fictional supervillain who appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/527410063de71/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Kraven the Hunter",
   "partners": [
@@ -36,8 +33,7 @@
   "ranking": {
     "comicCount": 23,
     "eventCount": 0,
-    "pageviewCount": 823,
-    "pageviewRank": -1,
+    "pageviewCount": 7585,
     "serieCount": 18,
     "storyCount": 27
   },
@@ -46,6 +42,7 @@
   ],
   "species": [
   ],
+  "superName": "Kraven the Hunter",
   "teams": [
     "Avengers\" (1959)",
     "Kravinoff Family",

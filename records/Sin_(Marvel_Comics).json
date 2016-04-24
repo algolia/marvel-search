@@ -15,11 +15,8 @@
   "description": "Sin (Sinthea Schmidt) is a supervillain appearing in books published by Marvel Comics as the daughter of the Red Skull.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/5269647684f61/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/e/70/5269647684f61/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": false,
   "mainColor": null,
   "name": "Sin",
   "partners": [
@@ -37,8 +34,7 @@
   "ranking": {
     "comicCount": 43,
     "eventCount": 3,
-    "pageviewCount": 606,
-    "pageviewRank": -1,
+    "pageviewCount": 3718,
     "serieCount": 14,
     "storyCount": 41
   },
@@ -47,7 +43,9 @@
   ],
   "species": [
   ],
+  "superName": "Sin",
   "teams": [
+    "Fear Itself",
     "Serpent Squad",
     "Sisters of Sin",
     "The Worthy"

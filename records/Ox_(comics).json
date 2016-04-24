@@ -8,10 +8,9 @@
   ],
   "description": "Ox is the alias of fictional Marvel Comics supervillains that usually works for the Kingpin, Mister Fear or Hammerhead.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Whiteox.jpg/250px-Whiteox.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ox",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 65,
-    "pageviewRank": -1,
+    "pageviewCount": 676,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,10 +34,12 @@
   ],
   "species": [
   ],
+  "superName": "Ox",
   "teams": [
     "Enforcers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ox_(comics)"
   }
 }

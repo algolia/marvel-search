@@ -1,20 +1,18 @@
 {
   "aliases": [
+    "White Tiger"
   ],
   "authors": [
     "Alex Maleev",
     "Brian Michael Bendis"
   ],
-  "description": "Federal agent Angela Del Toro is the heir to a heroic legacy that began with the Jade Tiger, a long-lost enchanted statue from the fabled kingdom of K'un-Lun, and had been last held by her uncle, Hector Ayala, who fought alongside such heroes as Daredevil and Spider-Man.",
+  "description": null,
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/WhiteTigerDT.jpg/250px-WhiteTigerDT.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
-  "name": "White Tiger (Angela Del Toro)",
+  "name": "White Tiger (Angela del Toro)",
   "partners": [
     "Daredevil",
     "Iron Fist"
@@ -25,25 +23,25 @@
     "Trained investigator"
   ],
   "ranking": {
-    "comicCount": 10,
-    "eventCount": 1,
-    "pageviewCount": 354,
-    "pageviewRank": -1,
-    "serieCount": 6,
-    "storyCount": 8
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 6297,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Angela del Toro"
   ],
   "species": [
   ],
+  "superName": "White Tiger",
   "teams": [
     "FBI",
     "New Revengers",
     "The Hand"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2559/white_tiger",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/White_Tiger_(Angela_del_Toro)"
   }
 }

@@ -9,11 +9,8 @@
   "description": "Radioactive Man is the name of two characters from Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c003c66d3393/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": true,
   "mainColor": null,
   "name": "Radioactive Man",
   "partners": [
@@ -25,8 +22,7 @@
   "ranking": {
     "comicCount": 19,
     "eventCount": 0,
-    "pageviewCount": 315,
-    "pageviewRank": -1,
+    "pageviewCount": 2402,
     "serieCount": 14,
     "storyCount": 14
   },
@@ -34,7 +30,9 @@
     "Chen Lu"
   ],
   "species": [
+    "Human Mutate"
   ],
+  "superName": "Radioactive Man",
   "teams": [
     "Masters of Evil",
     "People's Defense Force",

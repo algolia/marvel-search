@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Presence",
     "The Presence"
   ],
   "authors": [
@@ -9,9 +8,9 @@
   ],
   "description": "Sergei Krylov is a fictional character in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Presence",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 52,
-    "pageviewRank": -1,
+    "pageviewCount": 516,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,9 +32,11 @@
   ],
   "species": [
   ],
+  "superName": "Presence",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Presence_(Marvel_Comics)"
   }
 }

@@ -9,9 +9,9 @@
   ],
   "description": "Widget, alias Katherine \"Kate\" Anne Pryde-Rasputin is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Widget",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 35,
-    "pageviewRank": -1,
+    "pageviewCount": 376,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,12 +32,14 @@
   ],
   "species": [
   ],
+  "superName": "Widget",
   "teams": [
     "Excalibur",
     "X-Men",
     "X-Men (Earth-815)"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Widget_(Marvel_Comics)"
   }
 }

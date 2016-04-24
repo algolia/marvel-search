@@ -8,11 +8,11 @@
   ],
   "description": "Torgo is a fictional character, a vampire in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Torgo",
+  "name": "Torgo (vampire)",
   "partners": [
   ],
   "powers": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 15,
-    "pageviewRank": -1,
+    "pageviewCount": 117,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,9 +29,11 @@
   "species": [
     "Vampire"
   ],
+  "superName": "Torgo",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Torgo_(vampire)"
   }
 }

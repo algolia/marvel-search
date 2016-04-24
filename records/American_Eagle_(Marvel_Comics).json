@@ -9,13 +9,10 @@
   "description": "American Eagle (Jason Strongbow) is a fictional character, a Native American superhero in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4ce5a6d8b8f2a/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "American Eagle (Jason Strongbow)",
+  "name": "American Eagle",
   "partners": [
   ],
   "powers": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 5,
     "eventCount": 0,
-    "pageviewCount": 74,
-    "pageviewRank": -1,
+    "pageviewCount": 782,
     "serieCount": 1,
     "storyCount": 5
   },
@@ -39,6 +35,7 @@
   ],
   "species": [
   ],
+  "superName": "American Eagle",
   "teams": [
     "H.A.M.M.E.R",
     "Navajo Nation Division of Public Safety"

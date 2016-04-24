@@ -10,15 +10,13 @@
   "description": "As the Torch approached Toro, his presence caused Toro to burst into flame like the Torch himself, but while remaining unharmed, causing the Torch to realize that Toro had the same powers that he himself did.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4e7a2165364ca/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Toro (Thomas Raymond)",
+  "name": "Toro",
   "partners": [
-    "Human Torch"
+    "Human Torch",
+    "Human Torch (android)"
   ],
   "powers": [
     "Fire manipulation",
@@ -28,8 +26,7 @@
   "ranking": {
     "comicCount": 17,
     "eventCount": 1,
-    "pageviewCount": 189,
-    "pageviewRank": -1,
+    "pageviewCount": 1340,
     "serieCount": 13,
     "storyCount": 12
   },
@@ -39,6 +36,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Toro",
   "teams": [
     "All-Winners Squad",
     "Invaders",

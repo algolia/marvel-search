@@ -12,13 +12,10 @@
   "description": "Though best known as a 31st century hero in the alternate Reality-691 timeline, the enigmatic, space-faring Starhawk originated a millennium earlier.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Starhawk.jpg/250px-Starhawk.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Starhawk (Stakar Ogord)",
+  "name": "Starhawk",
   "partners": [
   ],
   "powers": [
@@ -30,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 220,
-    "pageviewRank": -1,
+    "pageviewCount": 2074,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,9 +38,11 @@
     "enhanced humanoid",
     "human"
   ],
+  "superName": "Starhawk",
   "teams": [
     "Avengers",
-    "Guardians of the Galaxy"
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (1969 team)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/2204/starhawk",

@@ -1,6 +1,7 @@
 {
   "aliases": [
     "Cobra",
+    "Cobra II",
     "Human Cobra",
     "King Cobra"
   ],
@@ -13,12 +14,10 @@
   "description": "Cobra is the name of different characters that appear in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
-  "name": "King Cobra",
+  "name": "Cobra",
   "partners": [
   ],
   "powers": [
@@ -26,6 +25,8 @@
     "Balance",
     "Coordination",
     "Endurance",
+    "Enhanced olfactory senses",
+    "Project \"cobra venom",
     "Reflexes & reactions",
     "Slithery body",
     "Superhuman strength",
@@ -36,8 +37,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 169,
-    "pageviewRank": -1,
+    "pageviewCount": 1382,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -47,14 +47,16 @@
   ],
   "species": [
   ],
+  "superName": "Cobra",
   "teams": [
     "Chaeyi",
+    "Hydra",
     "Serpent Society",
     "Serpent Squad",
     "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2839/king_cobra",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Cobra_(comics)"
   }
 }

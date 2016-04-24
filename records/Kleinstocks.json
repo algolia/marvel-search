@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Kleinstock Brothers",
-    "Kleinstocks"
+    "Kleinstock Brothers"
   ],
   "authors": [
     "Brandon Peterson",
@@ -9,11 +8,11 @@
   ],
   "description": "The Kleinstocks were a set of triplets that are comic book fictional characters, and are mutant supervillains, in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Kleinstock Brothers",
+  "name": "Kleinstocks",
   "partners": [
   ],
   "powers": [
@@ -28,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 55,
-    "pageviewRank": -1,
+    "pageviewCount": 364,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,10 +40,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Kleinstocks",
   "teams": [
     "Acolytes"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Kleinstocks"
   }
 }

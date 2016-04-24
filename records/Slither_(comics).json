@@ -7,9 +7,9 @@
   ],
   "description": "Slither (Aaron Salomon) is a fictional character, a snake-like mutant in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Slither",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 49,
-    "pageviewRank": -1,
+    "pageviewCount": 314,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,6 +32,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Slither",
   "teams": [
     "Brotherhood of Mutants",
     "Mutant Force",
@@ -41,6 +41,7 @@
     "Serpent Society"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Slither_(comics)"
   }
 }

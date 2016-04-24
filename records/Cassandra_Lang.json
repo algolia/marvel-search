@@ -12,29 +12,24 @@
     "David Michelinie",
     "John Byrne"
   ],
-  "description": "Cassie Lang is the daughter of deceased Avenger Scott Lang and a member of the Young Avengers.",
+  "description": "Cassandra \"Cassie\" Lang is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/527413be6077d/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Youngavengerspresents5.PNG/250px-Youngavengerspresents5.PNG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Stature",
+  "name": "Cassandra Lang",
   "partners": [
   ],
   "powers": [
-    "Grow in size",
     "Size manipulation"
   ],
   "ranking": {
-    "comicCount": 24,
-    "eventCount": 3,
-    "pageviewCount": 781,
-    "pageviewRank": -1,
-    "serieCount": 9,
-    "storyCount": 20
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 9791,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Cassandra Eleanor Lang",
@@ -42,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Cassandra Lang",
   "teams": [
     "Mighty Avengers",
     "The Initiative",
@@ -49,7 +45,7 @@
     "Young Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2209/stature",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Cassandra_Lang"
   }
 }

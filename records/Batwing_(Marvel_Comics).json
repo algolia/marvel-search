@@ -9,16 +9,14 @@
   ],
   "description": "Batwing (James \"Jimmy\" Santini) is a fictional character in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Untold_spiderm2.jpg/250px-Untold_spiderm2.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Batwing",
   "partners": [
   ],
   "powers": [
-    "Acoustic location",
     "Echolocation",
     "Enhanced hearing",
     "Fangs",
@@ -30,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 209,
-    "pageviewRank": -1,
+    "pageviewCount": 702,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,11 +39,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Batwing",
   "teams": [
     "Avengers Academy",
     "The Initiative"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Batwing_(Marvel_Comics)"
   }
 }

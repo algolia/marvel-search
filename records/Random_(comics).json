@@ -10,11 +10,8 @@
   "description": "Random (Marshall Evan Stone III) is a fictional character and antihero created by writer Peter David for the Marvel Comics series X-Factor.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c00375b36bd4/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/c0/4c00375b36bd4/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Random",
   "partners": [
@@ -25,8 +22,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 0,
-    "pageviewCount": 95,
-    "pageviewRank": -1,
+    "pageviewCount": 803,
     "serieCount": 3,
     "storyCount": 2
   },
@@ -36,6 +32,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Random",
   "teams": [
     "Acolytes",
     "Brotherhood of Mutants",

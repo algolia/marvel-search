@@ -1,17 +1,16 @@
 {
   "aliases": [
+    "Anthem"
   ],
   "authors": [
     "Barry Kitson",
     "Matt Fraction"
   ],
+  "description": null,
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9b/Anthem_%28comics%29.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Anthem",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 11,
-    "pageviewRank": -1,
+    "pageviewCount": 126,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,11 +31,12 @@
   ],
   "species": [
   ],
+  "superName": "Anthem",
   "teams": [
     "The Order"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/158/anthem",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Anthem_(comics)"
   }
 }

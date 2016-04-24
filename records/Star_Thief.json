@@ -9,9 +9,9 @@
   ],
   "description": "Star Thief (Ditmal Pirval) is a fictional Marvel Comics character.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Star Thief",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 13,
-    "pageviewRank": -1,
+    "pageviewCount": 136,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,9 +32,11 @@
   ],
   "species": [
   ],
+  "superName": "Star Thief",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Star_Thief"
   }
 }

@@ -8,10 +8,9 @@
   ],
   "description": "Death Adder is the name of two supervillains in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Death_adder_2.jpg/150px-Death_adder_2.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Death Adder",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 86,
-    "pageviewRank": -1,
+    "pageviewCount": 678,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,6 +32,7 @@
   ],
   "species": [
   ],
+  "superName": "Death Adder",
   "teams": [
     "Savage Six",
     "Serpent Society",
@@ -41,6 +40,7 @@
     "Thunderbolts"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Death_Adder_(comics)"
   }
 }

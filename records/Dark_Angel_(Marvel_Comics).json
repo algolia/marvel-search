@@ -9,9 +9,9 @@
   ],
   "description": "Dark Angel is the name used by two fictional characters in Marvel UK, though they have no other relation.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Dark Angel",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 49,
-    "pageviewRank": -1,
+    "pageviewCount": 385,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +31,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Dark Angel",
   "teams": [
     "MI-13"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Dark_Angel_(Marvel_Comics)"
   }
 }

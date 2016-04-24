@@ -4,6 +4,7 @@
     "Michael Morbius",
     "Morbius",
     "Morbius Revisited",
+    "Morbius the Living Vampire",
     "Nikos Michaels",
     "the Living Vampire"
   ],
@@ -14,13 +15,10 @@
   "description": "Morbius the Living Vampire, a scientist named Dr. Michael Morbius, MD PhD is a fictional character appearing in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/535fee11e0e1a/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Amazing_Spidy_101.jpg/250px-Amazing_Spidy_101.jpg"
   },
-  "isHero": true,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Morbius",
+  "name": "Morbius, the Living Vampire",
   "partners": [
   ],
   "powers": [
@@ -32,18 +30,18 @@
     "Neuroradiologist"
   ],
   "ranking": {
-    "comicCount": 48,
-    "eventCount": 2,
-    "pageviewCount": 662,
-    "pageviewRank": -1,
-    "serieCount": 16,
-    "storyCount": 56
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 4625,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Michael Morbius"
   ],
   "species": [
   ],
+  "superName": "Morbius, the Living Vampire",
   "teams": [
     "A.R.M.O.R",
     "Legion of Monsters",
@@ -51,7 +49,7 @@
     "S.H.I.E.L.D"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009454/morbius",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Morbius,_the_Living_Vampire"
   }
 }

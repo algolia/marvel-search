@@ -9,9 +9,9 @@
   ],
   "description": "Terraformer is the name of a supervillain in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Terraformer",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 30,
-    "pageviewRank": -1,
+    "pageviewCount": 211,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Terraformer",
   "teams": [
     "Force of Nature"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Terraformer_(comics)"
   }
 }

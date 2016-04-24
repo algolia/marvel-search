@@ -12,11 +12,8 @@
   "description": "Believing himself to be one of the Scarlet Witch's twin boys, Billy Kaplan also has reality-altering powers and is a member of the Young Avengers.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4c003a6e38300/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/50/4c003a6e38300/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": null,
   "mainColor": null,
   "name": "Wiccan",
   "partners": [
@@ -30,16 +27,14 @@
     "Energy construction",
     "Flight",
     "Force field generation",
-    "Healing",
     "Illusions casting",
     "Lightning generation",
     "Magic",
+    "Magic spell casting",
     "Mind control",
     "Portal creation",
     "Pyrokinesis",
-    "Reality alteration",
     "Spell casting",
-    "Spell-casting",
     "Telekinesis",
     "Telepathy",
     "Teleportation"
@@ -47,8 +42,7 @@
   "ranking": {
     "comicCount": 15,
     "eventCount": 3,
-    "pageviewCount": 900,
-    "pageviewRank": -1,
+    "pageviewCount": 6821,
     "serieCount": 10,
     "storyCount": 13
   },
@@ -57,9 +51,12 @@
     "William Kaplan"
   ],
   "species": [
+    "Human Mutant"
   ],
+  "superName": "Wiccan",
   "teams": [
     "Avengers Idea Mechanics",
+    "The New Avengers",
     "Young Avengers"
   ],
   "urls": {

@@ -9,11 +9,8 @@
   "description": "The youngest son of Mentor and Sui-San, Eros had the natural ability to excite pleasure in others, but his power had no effect upon his mutant older brother, Thanos, who worshiped the cosmic embodiment of Death and led an army against Titan.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4c0030cbcba98/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Starfox",
   "partners": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 11,
     "eventCount": 0,
-    "pageviewCount": 476,
-    "pageviewRank": -1,
+    "pageviewCount": 4989,
     "serieCount": 6,
     "storyCount": 12
   },
@@ -40,6 +36,7 @@
   ],
   "species": [
   ],
+  "superName": "Starfox",
   "teams": [
     "Avengers",
     "Eternals"

@@ -13,10 +13,9 @@
   ],
   "description": "Gorilla-Man is the name of three fictional characters appearing in Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Aoatlas002_cov_c.jpg/200px-Aoatlas002_cov_c.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Gorilla-Man",
   "partners": [
@@ -30,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 106,
-    "pageviewRank": -1,
+    "pageviewCount": 942,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,6 +40,7 @@
   ],
   "species": [
   ],
+  "superName": "Gorilla-Man",
   "teams": [
     "Advanced Idea Mechanics",
     "Agents of Atlas",
@@ -51,6 +50,7 @@
     "Nick Fury's Howling Commandos"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Gorilla-Man"
   }
 }

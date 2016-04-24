@@ -8,10 +8,9 @@
   ],
   "description": "Match (Ben Hamill) is a fictional character appearing in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Match%28NXM_39%29.jpg/250px-Match%28NXM_39%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Match",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 50,
-    "pageviewRank": -1,
+    "pageviewCount": 335,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,6 +34,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Match",
   "teams": [
     "Jean Grey School Students",
     "Paragons",
@@ -45,6 +44,7 @@
     "Xavier Institute"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Match_(Marvel_Comics)"
   }
 }

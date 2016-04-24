@@ -9,9 +9,9 @@
   ],
   "description": "Ahura is a fictional character that appears in the Marvel Universe and is a member of the Inhumans species.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ahura",
   "partners": [
@@ -27,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 210,
-    "pageviewRank": -1,
+    "pageviewCount": 1738,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,12 +37,14 @@
   "species": [
     "Inhumans"
   ],
+  "superName": "Ahura",
   "teams": [
     "Future Foundation",
     "Inhuman Royal Family",
     "Inhumans"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ahura_(comics)"
   }
 }

@@ -10,9 +10,9 @@
   ],
   "description": "Chance is the name of two unrelated fictional characters in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Chance",
   "partners": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 65,
-    "pageviewRank": -1,
+    "pageviewCount": 557,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,10 +36,12 @@
     "Human",
     "Mutant"
   ],
+  "superName": "Chance",
   "teams": [
     "Fallen Angels"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Chance_(comics)"
   }
 }

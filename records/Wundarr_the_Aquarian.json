@@ -11,10 +11,9 @@
   ],
   "description": "Wundarr the Aquarian is a Marvel Comics character created by Steve Gerber and Val Mayerik in Adventure into Fear #17.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fe/Wundarr_the_Aquarian.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Wundarr the Aquarian",
   "partners": [
@@ -30,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 82,
-    "pageviewRank": -1,
+    "pageviewCount": 517,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,6 +38,7 @@
   ],
   "species": [
   ],
+  "superName": "Wundarr the Aquarian",
   "teams": [
     "Features of the Marvel Universe",
     "Fifty State Initiative",
@@ -48,6 +47,7 @@
     "The Command"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Wundarr_the_Aquarian"
   }
 }

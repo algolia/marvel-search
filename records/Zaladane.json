@@ -1,17 +1,17 @@
 {
   "aliases": [
-    "High Priestess of the Sun god"
+    "High Priestess of the Sun god",
+    "Zaladane"
   ],
   "authors": [
     "Barry Windsor-Smith",
     "Gerry Conway"
   ],
+  "description": null,
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Zaladane",
   "partners": [
@@ -22,24 +22,24 @@
     "Manipulate magic"
   ],
   "ranking": {
-    "comicCount": 16,
-    "eventCount": 1,
-    "pageviewCount": 47,
-    "pageviewRank": -1,
-    "serieCount": 12,
-    "storyCount": 11
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 438,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Zala Dane"
   ],
   "species": [
   ],
+  "superName": "Zaladane",
   "teams": [
     "Savage Land Mutates",
     "Sun People"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2654/zaladane",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Zaladane"
   }
 }

@@ -11,10 +11,9 @@
   ],
   "description": "Lifeform is a fictional character, a comic book supervillain in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/LifeformMarvelComics.jpg/250px-LifeformMarvelComics.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Lifeform",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 12,
-    "pageviewRank": -1,
+    "pageviewCount": 141,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,10 +34,12 @@
   ],
   "species": [
   ],
+  "superName": "Lifeform",
   "teams": [
     "Advanced Idea Mechanics"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Lifeform_(comics)"
   }
 }

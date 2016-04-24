@@ -12,13 +12,10 @@
   "description": "Thomas Foster is a fictional comic book superhero published by Marvel Comics, and is the fifth person to hold the mantle of Goliath.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c00343d177d6/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/TomFoster.jpg/250px-TomFoster.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Goliath (Bill Foster)",
+  "name": "Goliath (Tom Foster)",
   "partners": [
   ],
   "powers": [
@@ -28,12 +25,11 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 9,
-    "eventCount": 1,
-    "pageviewCount": 94,
-    "pageviewRank": -1,
-    "serieCount": 6,
-    "storyCount": 8
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 976,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Thomas Foster",
@@ -41,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Goliath",
   "teams": [
     "Damage Control",
     "M.I.T",
@@ -48,7 +45,7 @@
     "Revengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/830/goliath",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Goliath_(Tom_Foster)"
   }
 }

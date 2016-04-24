@@ -16,15 +16,13 @@
     "Salvador Larroca",
     "Scott Lobdell"
   ],
+  "description": null,
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Wraith.jpg/250px-Wraith.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Wraith",
+  "name": "Wraith (Zak-Del)",
   "partners": [
     "Iron Man",
     "Phillip DeWolff"
@@ -46,12 +44,11 @@
     "Travel through the air"
   ],
   "ranking": {
-    "comicCount": 8,
-    "eventCount": 2,
-    "pageviewCount": 16,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 11
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 185,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Brian DeWolff",
@@ -61,6 +58,7 @@
   ],
   "species": [
   ],
+  "superName": "Wraith",
   "teams": [
     "Genoshan Assault X-Men",
     "Kree Underground",
@@ -68,7 +66,7 @@
     "New York City Police Department"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2596/wraith",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Wraith_(Zak-Del)"
   }
 }

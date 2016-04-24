@@ -7,14 +7,11 @@
     "Stan Lee",
     "Steve Ditko"
   ],
-  "description": "Electro (Maxwell \"Max\" Dillon) is a fictional character, a supervillain who appears in comic books published by Marvel Comics.",
+  "description": "Electro (Maxwell \"Max\" Dillon) is a fictional supervillain that appears in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4c003f1214bd7/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/60/4c003f1214bd7/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Electro",
   "partners": [
@@ -28,8 +25,7 @@
   "ranking": {
     "comicCount": 64,
     "eventCount": 2,
-    "pageviewCount": 1299,
-    "pageviewRank": -1,
+    "pageviewCount": 8779,
     "serieCount": 29,
     "storyCount": 64
   },
@@ -39,6 +35,7 @@
   ],
   "species": [
   ],
+  "superName": "Electro",
   "teams": [
     "Emissaries of Evil",
     "Exterminators",

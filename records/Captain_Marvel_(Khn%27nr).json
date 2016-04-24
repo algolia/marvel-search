@@ -1,25 +1,19 @@
 {
   "aliases": [
+    "Captain Marvel",
     "Mar-Vell"
   ],
   "authors": [
     "Paul Jenkins",
     "Tom Raney"
   ],
+  "description": null,
   "images": {
-    "background": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/537ba62b68be9.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/6/30/537ba61b764b4.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5269608c1be7a/standard_xlarge.jpg"
+    "background": "//marvel.com/i/images/juggernaut/defaultcharacterdetaillineart.gif",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/526032048d1a1/standard_xlarge.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
-  "mainColor": {
-    "blue": 9,
-    "green": 36,
-    "hexa": "3A2409",
-    "red": 58
-  },
-  "name": "Captain Marvel (Carol Danvers)",
+  "mainColor": null,
+  "name": "Captain Marvel (Khn'nr)",
   "partners": [
   ],
   "powers": [
@@ -29,23 +23,23 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 321,
-    "eventCount": 14,
-    "pageviewCount": 94,
-    "pageviewRank": -1,
-    "serieCount": 82,
-    "storyCount": 453
+    "comicCount": 152,
+    "eventCount": 5,
+    "pageviewCount": 1424,
+    "serieCount": 53,
+    "storyCount": 229
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Captain Marvel",
   "teams": [
     "Church of Hala",
     "Skrull Empire"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/9/captain_marvel",
+    "marvel": "http://marvel.com/characters/1009224/captain_marvel_mar-vell/featured",
     "wikipedia": "https://en.wikipedia.org/wiki/Captain_Marvel_(Khn%27nr)"
   }
 }

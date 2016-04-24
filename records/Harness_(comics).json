@@ -8,10 +8,9 @@
   ],
   "description": "Harness (Erika Benson) is a fictional mutant character in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/ff/Newmutantsann7.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Harness",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 39,
-    "pageviewRank": -1,
+    "pageviewCount": 398,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,12 +31,14 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Harness",
   "teams": [
     "A.I.M",
     "Advanced Idea Mechanics",
     "Alliance of Evil"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Harness_(comics)"
   }
 }

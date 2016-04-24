@@ -9,11 +9,8 @@
   "description": "Pestilence is a comic book supervillain who has battled the Canadian super-team Alpha Flight.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Pestilencealphaflight.jpg/249px-Pestilencealphaflight.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Pestilence",
   "partners": [
@@ -23,22 +20,22 @@
     "Various mystical powers"
   ],
   "ranking": {
-    "comicCount": 9,
-    "eventCount": 1,
-    "pageviewCount": 34,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 11
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 345,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "F.R. Crozier"
   ],
   "species": [
   ],
+  "superName": "Pestilence",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1725/pestilence",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Pestilence_(comics)"
   }
 }

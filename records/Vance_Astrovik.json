@@ -17,13 +17,10 @@
   "description": "Vance Astrovik, also known as Justice and formerly known as Marvel Boy, is a fictional mutant superhero in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4c0037678b4ff/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/8b/Vance_Astrovik.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Justice",
+  "name": "Vance Astrovik",
   "partners": [
   ],
   "powers": [
@@ -31,12 +28,11 @@
     "Telekinesis"
   ],
   "ranking": {
-    "comicCount": 64,
-    "eventCount": 4,
-    "pageviewCount": 214,
-    "pageviewRank": -1,
-    "serieCount": 14,
-    "storyCount": 81
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1941,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Vance Astrovik"
@@ -44,6 +40,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Vance Astrovik",
   "teams": [
     "Avengers",
     "Avengers Academy",
@@ -55,7 +52,7 @@
     "Unlimited Class Wrestling Federation"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1109/justice",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Vance_Astrovik"
   }
 }

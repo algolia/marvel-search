@@ -9,10 +9,9 @@
   ],
   "description": "Steel Wind (original name Ruriko Tsumura) is a fictional character appearing in the Marvel Comics universe, she is a cyborg and mercenary who is normally employed by the Freakmaster and Centurious.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Steel_Wind.jpg/300px-Steel_Wind.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Steel Wind",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 45,
-    "pageviewRank": -1,
+    "pageviewCount": 290,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +32,12 @@
   "species": [
     "Human"
   ],
+  "superName": "Steel Wind",
   "teams": [
     "Femizons"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Steel_Wind"
   }
 }

@@ -8,34 +8,33 @@
   ],
   "description": "Stallior is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Stallior",
   "partners": [
   ],
   "powers": [
-    "Lower body of a horse",
     "Super-strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 22,
-    "pageviewRank": -1,
+    "pageviewCount": 287,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
-    "Inhuman"
-  ],
-  "teams": [
     "Inhumans"
   ],
+  "superName": "Stallior",
+  "teams": [
+  ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Stallior"
   }
 }

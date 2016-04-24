@@ -10,18 +10,16 @@
     "Joe Simon",
     "Steve Epting"
   ],
-  "description": "Bucky is the name of several fictional characters that were masked superheroes in the Marvel Comics universe.",
+  "description": "Bucky is the name used by several different fictional superheroes appearing in American comic books published by Marvel Comics, usually as a sidekick to Captain America.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/4dc8478464008/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Bucky",
   "partners": [
     "Black Widow",
+    "Black Widow (Natalia Romanova)",
     "Captain America",
     "Falcon"
   ],
@@ -33,7 +31,6 @@
     "Gifted advance scout",
     "Holographic projector",
     "Martial artist",
-    "Shock absorbing costume",
     "Spy",
     "Superhuman strength",
     "Throwing knives",
@@ -42,8 +39,7 @@
   "ranking": {
     "comicCount": 4,
     "eventCount": 0,
-    "pageviewCount": 4802,
-    "pageviewRank": 632,
+    "pageviewCount": 48334,
     "serieCount": 1,
     "storyCount": 4
   },
@@ -52,6 +48,7 @@
   ],
   "species": [
   ],
+  "superName": "Bucky",
   "teams": [
     "Avengers",
     "Department X",

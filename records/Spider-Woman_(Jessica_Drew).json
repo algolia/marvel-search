@@ -3,28 +3,24 @@
     "Arachne",
     "Ariadne Hyde",
     "Hunter",
-    "Jessica Drew",
     "Spider-Woman"
   ],
   "authors": [
     "Archie Goodwin",
     "Marie Severin"
   ],
-  "description": "Spider-Woman (Jessica Drew) is a fictional character, a superheroine in comic books published by Marvel Comics.",
+  "description": "When young Jessica Drew suffered uranium poisoning in 1931, her father was forced to inject her with his untested spider serum and seal her in a genetic accelerator.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/8/c0/537bc50e40e1c.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/a/00/537bc4cb87e68.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/531771afe4ffa/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/50/5265479097743/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
     "hexa": "3F0606",
     "red": 63
   },
-  "name": "Spider-Woman (Charlotte Witter)",
+  "name": "Spider-Woman (Jessica Drew)",
   "partners": [
   ],
   "powers": [
@@ -54,20 +50,21 @@
     "Wallcrawling"
   ],
   "ranking": {
-    "comicCount": 9,
-    "eventCount": 1,
-    "pageviewCount": 1644,
-    "pageviewRank": -1,
-    "serieCount": 6,
-    "storyCount": 9
+    "comicCount": 95,
+    "eventCount": 7,
+    "pageviewCount": 18033,
+    "serieCount": 37,
+    "storyCount": 90
   },
   "secretIdentities": [
     "Jessica Miriam Drew"
   ],
   "species": [
   ],
+  "superName": "Spider-Woman",
   "teams": [
     "Avengers",
+    "HYDRA",
     "Hydra",
     "Lady Liberators",
     "New Avengers",
@@ -77,7 +74,7 @@
     "The New Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1010795/spider-woman_charlotte_witter/featured",
+    "marvel": "http://marvel.com/characters/55/spider-woman",
     "wikipedia": "https://en.wikipedia.org/wiki/Spider-Woman_(Jessica_Drew)"
   }
 }

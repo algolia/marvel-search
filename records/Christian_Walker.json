@@ -9,11 +9,8 @@
   "description": "Christian Walker is the main character starring in the comic book series Powers.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/8f/Christian_Walker_HCV.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Christian Walker",
   "partners": [
@@ -21,23 +18,22 @@
   "powers": [
   ],
   "ranking": {
-    "comicCount": 2,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 220,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 3
+    "pageviewCount": 1662,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
-    "Diamond/Gora",
     "gor/gora/blue streak/diamond/millenium guard"
   ],
   "species": [
   ],
+  "superName": "Christian Walker",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2888/christian_walker",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Christian_Walker"
   }
 }

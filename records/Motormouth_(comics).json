@@ -8,9 +8,9 @@
   ],
   "description": "Motormouth (Harley Davis) is a fictional character created by Paul Neary and developed by writer Graham Marks with initial designs by Gary Frank (Supreme Power, The Incredible Hulk).",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Motormouth",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 55,
-    "pageviewRank": -1,
+    "pageviewCount": 323,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +31,12 @@
   "species": [
     "Human Cyborg"
   ],
+  "superName": "Motormouth",
   "teams": [
     "MI-13"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Motormouth_(comics)"
   }
 }

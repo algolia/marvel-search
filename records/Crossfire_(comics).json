@@ -11,10 +11,9 @@
   ],
   "description": "Crossfire (William Cross) is a fictional character, a supervillain in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/87228-166129-crossfire.jpg/250px-87228-166129-crossfire.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Crossfire",
   "partners": [
@@ -32,8 +31,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 238,
-    "pageviewRank": -1,
+    "pageviewCount": 3153,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,6 +40,7 @@
   ],
   "species": [
   ],
+  "superName": "Crossfire",
   "teams": [
     "Central Intelligence Agency",
     "Cross Technological Enterprises",
@@ -49,6 +48,7 @@
     "Villains for Hire"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Crossfire_(comics)"
   }
 }

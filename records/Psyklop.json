@@ -10,9 +10,9 @@
   ],
   "description": "Psyklop is a fictional character, a comic book supervillain in the Marvel Comics Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Psyklop",
   "partners": [
@@ -32,8 +32,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 35,
-    "pageviewRank": -1,
+    "pageviewCount": 245,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,10 +40,12 @@
   ],
   "species": [
   ],
+  "superName": "Psyklop",
   "teams": [
     "Dark Gods"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Psyklop"
   }
 }

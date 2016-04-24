@@ -6,12 +6,11 @@
     "Ed Brubaker",
     "Pete Woods"
   ],
-  "description": "Petra is a fictional character, a mutant appearing in the comic books published by Marvel Comics.",
+  "description": "Petra is a fictional character appearing in the comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Petra_%28comics%29.JPG/225px-Petra_%28comics%29.JPG"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Petra",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 192,
-    "pageviewRank": -1,
+    "pageviewCount": 1674,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +30,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Petra",
   "teams": [
     "X-Men"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Petra_(comics)"
   }
 }

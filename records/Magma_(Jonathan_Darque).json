@@ -11,13 +11,10 @@
   "description": "Magma (Jonathan Darque) is a fictional character, a supervillain from Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c003d55e4ce8/standard_xlarge.jpg"
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Magma (Amara Aquilla)",
+  "name": "Magma (Jonathan Darque)",
   "partners": [
   ],
   "powers": [
@@ -25,24 +22,24 @@
     "Genetically"
   ],
   "ranking": {
-    "comicCount": 34,
-    "eventCount": 3,
-    "pageviewCount": 31,
-    "pageviewRank": -1,
-    "serieCount": 15,
-    "storyCount": 31
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 237,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Jonathan Darque"
   ],
   "species": [
   ],
+  "superName": "Magma",
   "teams": [
     "Roxxon Energy Corporation",
     "Roxxon Oil Company"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1328/magma",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Magma_(Jonathan_Darque)"
   }
 }

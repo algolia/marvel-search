@@ -6,10 +6,11 @@
     "Dan Slott",
     "Khoi Pham"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "The Unspoken",
   "partners": [
@@ -21,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 0,
-    "pageviewRank": -1,
+    "pageviewCount": 3,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,9 +30,11 @@
   ],
   "species": [
   ],
+  "superName": "The Unspoken",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/The_Unspoken"
   }
 }

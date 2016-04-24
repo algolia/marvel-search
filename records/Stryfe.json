@@ -12,11 +12,8 @@
   "description": "Stryfe is the clone of Nathan Christopher Summers, alias Cable, the son of Cyclops of the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/527413b06270b/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Stryfe",
   "partners": [
@@ -31,8 +28,7 @@
   "ranking": {
     "comicCount": 36,
     "eventCount": 1,
-    "pageviewCount": 593,
-    "pageviewRank": -1,
+    "pageviewCount": 6029,
     "serieCount": 15,
     "storyCount": 39
   },
@@ -42,13 +38,14 @@
     "Molecular cloning",
     "Mutant"
   ],
+  "superName": "Stryfe",
   "teams": [
     "Dark Riders",
     "Mutant Liberation Front",
     "New Canaanites"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009632/stryfe",
+    "marvel": "http://marvel.com/characters/2237/stryfe",
     "wikipedia": "https://en.wikipedia.org/wiki/Stryfe"
   }
 }

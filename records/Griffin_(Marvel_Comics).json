@@ -8,10 +8,9 @@
   ],
   "description": "Griffin (Johnny Horton) is a fictional character, a Marvel Comics supervillain.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/John_Horton_%28Earth-616%29_%28Griffin%29.jpg/250px-John_Horton_%28Earth-616%29_%28Griffin%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Griffin",
   "partners": [
@@ -34,8 +33,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 124,
-    "pageviewRank": -1,
+    "pageviewCount": 1029,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -44,11 +42,13 @@
   ],
   "species": [
   ],
+  "superName": "Griffin",
   "teams": [
     "Masters of Evil",
     "Secret Empire"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Griffin_(Marvel_Comics)"
   }
 }

@@ -16,28 +16,24 @@
     "with",
     "with Chris Claremont"
   ],
-  "description": "James Arthur \"Jamie\" Madrox, also called the Multiple Man, is a fictional character, a Marvel Comics superhero, associated with the X-Men.",
+  "description": "James \"Jamie\" Madrox, also called the Multiple Man, is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c00310e9dc27/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/MultipleMan01.jpg/250px-MultipleMan01.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Multiple Man",
+  "name": "Jamie Madrox",
   "partners": [
   ],
   "powers": [
     "Self-duplication"
   ],
   "ranking": {
-    "comicCount": 8,
-    "eventCount": 2,
-    "pageviewCount": 557,
-    "pageviewRank": -1,
-    "serieCount": 6,
-    "storyCount": 13
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3807,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "James Arthur Madrox",
@@ -46,9 +42,11 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Jamie Madrox",
   "teams": [
     "Dead X-Men",
     "Fallen Angels",
+    "HYDRA",
     "Hydra",
     "Muir Island X-Men",
     "Nasty Boys",
@@ -60,7 +58,7 @@
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1541/multiple_man",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jamie_Madrox"
   }
 }

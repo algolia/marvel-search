@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Silver Surfer"
   ],
   "authors": [
     "Jack Kirby",
@@ -9,11 +8,8 @@
   "description": "When Zenn-La was threatened by the world-devouring entity known as Galactus, Norrin Radd stood up for his home planet and offered to work for Galactus, finding him new planets to eat, in exchange for saving his own. Years later, the Surfer has protected Earth and many other planets, becoming one of the greatest heroes in the universe.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/7/10/537bc3b796f74.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/537bc39d9b20b.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/527bb6490a176/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/3/60/537bc3836e152/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Silver Surfer",
   "partners": [
@@ -24,8 +20,7 @@
   "ranking": {
     "comicCount": 355,
     "eventCount": 13,
-    "pageviewCount": 2565,
-    "pageviewRank": -1,
+    "pageviewCount": 19326,
     "serieCount": 94,
     "storyCount": 521
   },
@@ -34,6 +29,7 @@
   ],
   "species": [
   ],
+  "superName": "Silver Surfer",
   "teams": [
     "Annihilators",
     "Galactus",
@@ -45,7 +41,7 @@
     "United Front"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009592/silver_surfer",
+    "marvel": "http://marvel.com/characters/53/silver_surfer",
     "wikipedia": "https://en.wikipedia.org/wiki/Silver_Surfer"
   }
 }

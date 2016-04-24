@@ -17,30 +17,25 @@
     "Fabian Nicieza",
     "Rob Liefeld"
   ],
-  "description": "Despondent and hopeless after it was discovered that she was not, in fact, Spider-Woman, Mary MacPherran encountered Doctor Doom, who offered her a chance to become superpowered in exchange for joining his army, to which Mary readily agreed, and Doom transformed her into Titania.",
+  "description": "Copycat (Vanessa Geraldine Carlysle) is a fictional superhero appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/526957a91a469/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/05/Copycat_Vanessa_Carlysle.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Titania",
+  "name": "Copycat",
   "partners": [
   ],
   "powers": [
     "Power mimicry",
-    "Shape-shifting",
     "Shapeshifting"
   ],
   "ranking": {
-    "comicCount": 13,
-    "eventCount": 2,
-    "pageviewCount": 9439,
-    "pageviewRank": -1,
-    "serieCount": 8,
-    "storyCount": 19
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 43467,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Vanessa Geraldine Carlysle"
@@ -48,6 +43,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Copycat",
   "teams": [
     "New Mutants",
     "Six Pack",
@@ -55,7 +51,7 @@
     "X-Force"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1010669/titania",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Copycat_(Marvel_Comics)"
   }
 }

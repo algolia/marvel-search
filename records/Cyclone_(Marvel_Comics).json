@@ -14,9 +14,9 @@
   ],
   "description": "Cyclone is the alias of a number of fictional characters appearing in the comic books published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Cyclone",
   "partners": [
@@ -29,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 73,
-    "pageviewRank": -1,
+    "pageviewCount": 604,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,17 +39,20 @@
     "Pierre Fresson"
   ],
   "species": [
-    "Human Empowered"
+    "Human"
   ],
+  "superName": "Cyclone",
   "teams": [
     "Cyclone's criminal gang",
     "Justin Hammer Industries/Hammer's operatives",
     "Maggia",
     "Masters of Evil",
     "NATO",
+    "Sinister Six",
     "Thunderbolts"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Cyclone_(Marvel_Comics)"
   }
 }

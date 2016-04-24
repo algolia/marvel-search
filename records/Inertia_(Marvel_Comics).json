@@ -11,11 +11,8 @@
   "description": "Inertia is the name of two separate, but related superheroes from the fictional Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/60/4c0030f6eab3d/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Inertia",
   "partners": [
@@ -28,8 +25,7 @@
   "ranking": {
     "comicCount": 4,
     "eventCount": 0,
-    "pageviewCount": 50,
-    "pageviewRank": -1,
+    "pageviewCount": 423,
     "serieCount": 3,
     "storyCount": 3
   },
@@ -38,6 +34,7 @@
   ],
   "species": [
   ],
+  "superName": "Inertia",
   "teams": [
     "America Redeemers",
     "Squadron Supreme",

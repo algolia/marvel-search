@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Big Man",
     "Janice Foswell"
   ],
   "authors": [
@@ -9,11 +8,11 @@
   ],
   "description": "Big Man is the name of different characters in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Janice Foswell",
+  "name": "Big Man",
   "partners": [
   ],
   "powers": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 224,
-    "pageviewRank": -1,
+    "pageviewCount": 2462,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Big Man",
   "teams": [
     "Enforcers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Big_Man"
   }
 }

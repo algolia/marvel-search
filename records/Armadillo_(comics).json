@@ -11,14 +11,11 @@
     "Mark Gruenwald",
     "Paul Neary"
   ],
-  "description": "Armadillo (Antonio Rodriguez), is a fictional character, a minor supervillain in the Marvel Comics universe.",
+  "description": "Armadillo (Antonio Rodriguez), is a fictional character, a supervillain in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4c0032754da02/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Armadillo",
   "partners": [
@@ -35,8 +32,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 98,
-    "pageviewRank": -1,
+    "pageviewCount": 788,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -45,8 +41,10 @@
   ],
   "species": [
   ],
+  "superName": "Armadillo",
   "teams": [
     "HYDRA",
+    "Hydra",
     "Rangers",
     "Sinister Six",
     "Sinister Sixteen",

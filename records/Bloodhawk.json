@@ -8,10 +8,9 @@
   ],
   "description": "Bloodhawk (Lemuel) is a fictional character owned by Marvel Comics, who was featured in X-Men 2099, one of the tites of Marvel's Marvel 2099 imprint.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Wot6.jpg/250px-Wot6.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Bloodhawk",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 51,
-    "pageviewRank": -1,
+    "pageviewCount": 420,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,11 +38,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Bloodhawk",
   "teams": [
     "Halo City Protectorate",
     "X-Men 2099"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Bloodhawk"
   }
 }

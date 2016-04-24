@@ -1,18 +1,18 @@
 {
   "aliases": [
     "Captain Nebula",
-    "Gunthar of Rigel",
-    "Ms. Peale"
+    "Ms. Peale",
+    "Nebula"
   ],
   "authors": [
     "John Buscema",
     "Roger Stern"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Avengers_318.jpg/250px-Avengers_318.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Gunthar of Rigel",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 9,
-    "pageviewRank": -1,
+    "pageviewCount": 58,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,9 +30,11 @@
   ],
   "species": [
   ],
+  "superName": "Gunthar of Rigel",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Gunthar_of_Rigel"
   }
 }

@@ -11,11 +11,8 @@
   "description": "Given the codename Wind Dancer, Sofia Mantega stepped up to lead the New Mutants.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/4c0032802a24d/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Wind Dancer",
   "partners": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 1,
     "eventCount": 1,
-    "pageviewCount": 107,
-    "pageviewRank": -1,
+    "pageviewCount": 886,
     "serieCount": 1,
     "storyCount": 1
   },
@@ -45,6 +41,7 @@
     "Decimation",
     "Mutant"
   ],
+  "superName": "Wind Dancer",
   "teams": [
     "New Mutants",
     "New Mutants training squad",

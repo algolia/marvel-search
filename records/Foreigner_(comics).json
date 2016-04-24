@@ -8,10 +8,9 @@
   ],
   "description": "The Foreigner is a fictional comic book supervillain in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/SpideyForeigner209.jpg/200px-SpideyForeigner209.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Foreigner",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 53,
-    "pageviewRank": -1,
+    "pageviewCount": 546,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,11 +31,13 @@
   ],
   "species": [
   ],
+  "superName": "Foreigner",
   "teams": [
     "1400",
     "1400 Club"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Foreigner_(comics)"
   }
 }

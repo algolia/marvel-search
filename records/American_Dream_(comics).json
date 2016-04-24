@@ -8,10 +8,9 @@
   ],
   "description": "American Dream (Shannon Carter) is a fictional character featured in Marvel Comics MC2 series A-Next.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/American_Dream_%28Shannon_Carter%29.jpg/200px-American_Dream_%28Shannon_Carter%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "American Dream",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 155,
-    "pageviewRank": -1,
+    "pageviewCount": 1366,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,11 +34,13 @@
   ],
   "species": [
   ],
+  "superName": "American Dream",
   "teams": [
     "A-Next",
     "Dream Team"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/American_Dream_(comics)"
   }
 }

@@ -7,33 +7,30 @@
   "description": "The Black Knight is the alias of several fictional comic-book characters that appear in the Marvel Comics universe.The first is a medieval knight created by writer-editor Stan Lee and artist Joe Maneely.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59ed1590a7/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/BlackKnight_Atlas1.jpg/240px-BlackKnight_Atlas1.jpg"
   },
-  "isHero": true,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Black Knight (Sir Percy of Scandia)",
+  "name": "Black Knight",
   "partners": [
   ],
   "powers": [
   ],
   "ranking": {
-    "comicCount": 96,
-    "eventCount": 3,
-    "pageviewCount": 289,
-    "pageviewRank": -1,
-    "serieCount": 54,
-    "storyCount": 90
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 2571,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Black Knight",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/275/black_knight",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Knight_(comics)"
   }
 }

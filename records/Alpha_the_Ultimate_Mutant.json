@@ -9,10 +9,9 @@
   ],
   "description": "Alpha the Ultimate Mutant is a fictional character in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/AlphaMutant.jpg/250px-AlphaMutant.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Alpha the Ultimate Mutant",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 131,
-    "pageviewRank": -1,
+    "pageviewCount": 983,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,11 +38,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Alpha the Ultimate Mutant",
   "teams": [
     "Brotherhood of Evil Mutants",
     "Brotherhood of Mutants"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Alpha_the_Ultimate_Mutant"
   }
 }

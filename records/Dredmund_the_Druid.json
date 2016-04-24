@@ -1,7 +1,6 @@
 {
   "aliases": [
     "Dredmund Druid",
-    "Dredmund the Druid",
     "Druid",
     "Starwolf"
   ],
@@ -11,11 +10,11 @@
   ],
   "description": "Dredmund Druid is a fictional character in the Marvel Universe.Dredmund Druid, also simply known as the Druid, was a subversive cult leader with knowledge of alchemy and advanced technology.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Dredmund Druid",
+  "name": "Dredmund the Druid",
   "partners": [
   ],
   "powers": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 24,
-    "pageviewRank": -1,
+    "pageviewCount": 176,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,9 +31,11 @@
   ],
   "species": [
   ],
+  "superName": "Dredmund the Druid",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Dredmund_the_Druid"
   }
 }

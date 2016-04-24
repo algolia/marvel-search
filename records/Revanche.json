@@ -11,11 +11,8 @@
   "description": "Revanche (Kwannon) was a Marvel Comics character associated with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708/standard_xlarge.gif"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Revanche",
   "partners": [
@@ -29,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 278,
-    "pageviewRank": -1,
+    "pageviewCount": 2279,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,6 +36,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Revanche",
   "teams": [
     "The Hand",
     "X-Men"

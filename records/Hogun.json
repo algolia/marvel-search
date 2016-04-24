@@ -7,12 +7,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Hogun the Grim is a fictional character and a charter member of the Warriors Three, a trio of Asgardian adventurers and supporting cast of Thor in the Marvel Comics Universe.",
+  "description": "Hogun the Grim is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Warriors_three.jpg/250px-Warriors_three.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hogun",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 253,
-    "pageviewRank": -1,
+    "pageviewCount": 2204,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,13 +33,15 @@
     "Hogun"
   ],
   "species": [
+    "Asgard"
   ],
+  "superName": "Hogun",
   "teams": [
-    "Asgard",
     "Thor Corps",
     "Warriors Three"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hogun"
   }
 }

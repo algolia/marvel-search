@@ -13,13 +13,10 @@
   "description": "Amanda Sefton (real name Jimaine Szardos) (also known as Daytripper and the second Magik) is a fictional character, a witch in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/MagikII.png/250px-MagikII.png"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4c003414d6535/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Amanda Sefton",
+  "name": "Magik (Amanda Sefton)",
   "partners": [
   ],
   "powers": [
@@ -28,23 +25,24 @@
     "Hypnotism",
     "Illusion generation",
     "Magic",
+    "Magic (paranormal)",
     "Shapeshifting",
     "Soulsword",
     "Teleportation"
   ],
   "ranking": {
-    "comicCount": 0,
-    "eventCount": 0,
-    "pageviewCount": 211,
-    "pageviewRank": -1,
-    "serieCount": 0,
-    "storyCount": 0
+    "comicCount": 2,
+    "eventCount": 2,
+    "pageviewCount": 1557,
+    "serieCount": 2,
+    "storyCount": 3
   },
   "secretIdentities": [
     "Jimaine Szardos"
   ],
   "species": [
   ],
+  "superName": "Magik",
   "teams": [
     "Avengers",
     "Excalibur",
@@ -52,7 +50,7 @@
     "X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2755/amanda_sefton",
+    "marvel": "http://marvel.com/characters/1325/magik",
     "wikipedia": "https://en.wikipedia.org/wiki/Amanda_Sefton"
   }
 }

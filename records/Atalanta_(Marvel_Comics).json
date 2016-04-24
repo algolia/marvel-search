@@ -6,10 +6,11 @@
     "Dale Keown",
     "Peter David"
   ],
+  "description": "Atalanta is a fictional character in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Atalanta",
   "partners": [
@@ -20,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 21,
-    "pageviewRank": -1,
+    "pageviewCount": 171,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,10 +29,12 @@
   ],
   "species": [
   ],
+  "superName": "Atalanta",
   "teams": [
     "Pantheon"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Atalanta_(Marvel_Comics)"
   }
 }

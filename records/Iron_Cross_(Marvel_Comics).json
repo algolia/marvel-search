@@ -1,15 +1,17 @@
 {
   "aliases": [
-    "Helmut Gruler"
+    "Helmut Gruler",
+    "Iron Cross"
   ],
   "authors": [
     "Frank Robbins",
     "Roy Thomas"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Iron Cross",
   "partners": [
@@ -24,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 124,
-    "pageviewRank": -1,
+    "pageviewCount": 807,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +35,12 @@
   ],
   "species": [
   ],
+  "superName": "Iron Cross",
   "teams": [
     "V-Battalion"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Iron_Cross_(Marvel_Comics)"
   }
 }

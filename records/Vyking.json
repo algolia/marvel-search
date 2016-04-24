@@ -8,10 +8,9 @@
   ],
   "description": "Vyking (Harold Carl Everson) is a fictional character, a superhero in the Marvel Universe, member of the Strikeforce: Morituri.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Vyking.jpg/250px-Vyking.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Vyking",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 5,
-    "pageviewRank": -1,
+    "pageviewCount": 91,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +32,12 @@
   ],
   "species": [
   ],
+  "superName": "Vyking",
   "teams": [
     "Morituri"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Vyking"
   }
 }

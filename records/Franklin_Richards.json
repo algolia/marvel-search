@@ -16,11 +16,8 @@
   "description": "The son of Reed Richards and Susan Storm of the Fantastic Four, Franklin may one day be the most powerful person on Earth. Right now, he's the son of a genius who finds adventure and fun around every corner.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/535fedbaaf234/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/00/535fedbaaf234/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Franklin Richards",
   "partners": [
@@ -38,8 +35,7 @@
   "ranking": {
     "comicCount": 33,
     "eventCount": 3,
-    "pageviewCount": 1649,
-    "pageviewRank": -1,
+    "pageviewCount": 14428,
     "serieCount": 23,
     "storyCount": 41
   },
@@ -49,6 +45,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Franklin Richards",
   "teams": [
     "Daydreamers",
     "Fantastic Force",

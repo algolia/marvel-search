@@ -12,11 +12,8 @@
   "description": "Sebastian Shaw was invited to join the elite Hellfire Club and quickly worked his way into a position within the Inner Circle.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c003c1e9a90e/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sebastian Shaw",
   "partners": [
@@ -28,8 +25,7 @@
   "ranking": {
     "comicCount": 16,
     "eventCount": 3,
-    "pageviewCount": 2250,
-    "pageviewRank": -1,
+    "pageviewCount": 12686,
     "serieCount": 9,
     "storyCount": 16
   },
@@ -39,6 +35,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Sebastian Shaw",
   "teams": [
     "Hellfire Club",
     "Hope Summers",

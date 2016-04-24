@@ -8,28 +8,24 @@
   ],
   "description": "Dreadknight is a fictional character that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6c/DreadknightIM102.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Dreadknight",
   "partners": [
   ],
   "powers": [
-    "Body armor",
     "Durability",
     "Gifted scientist",
     "Rides the \"hellhorse",
     "Superhuman strength",
-    "Use of weapons",
-    "Weaponry"
+    "Use of weapons"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 117,
-    "pageviewRank": -1,
+    "pageviewCount": 891,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,10 +34,12 @@
   ],
   "species": [
   ],
+  "superName": "Dreadknight",
   "teams": [
     "Frightful Four"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Dreadknight"
   }
 }

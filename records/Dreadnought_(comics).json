@@ -7,10 +7,9 @@
   ],
   "description": "Dreadnoughts are a type of fictional robot found in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/99/Nightstalkers16.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Dreadnought",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 106,
-    "pageviewRank": -1,
+    "pageviewCount": 343,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,11 +31,14 @@
   "species": [
     "Robot"
   ],
+  "superName": "Dreadnought",
   "teams": [
+    "HYDRA",
     "Hydra",
     "New Enforcers"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Dreadnought_(comics)"
   }
 }

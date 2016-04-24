@@ -10,13 +10,10 @@
   "description": "Ahab (Dr. Roderick \"Rory\" Campbell), a fictional supervillain in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/XMEN_04122005_0001.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Famine",
+  "name": "Ahab",
   "partners": [
   ],
   "powers": [
@@ -24,12 +21,11 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 15,
-    "eventCount": 1,
-    "pageviewCount": 151,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 15
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 1916,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Roderick Campbell",
@@ -37,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Ahab",
   "teams": [
     "Excalibur",
     "Horsemen of Apocalypse",
@@ -45,7 +42,7 @@
     "Sentinels"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/662/famine",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ahab_(comics)"
   }
 }

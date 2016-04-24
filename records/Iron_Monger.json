@@ -10,11 +10,8 @@
   "description": "The Iron Monger is an identity used by several fictional supervillains published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/IronMonger.jpg/230px-IronMonger.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Iron Monger",
   "partners": [
@@ -23,11 +20,8 @@
     "Champion chess player",
     "Durability",
     "Energy blasts",
-    "Flight",
     "Genius-level intellect",
     "Laser beam",
-    "Speed",
-    "Stamina",
     "Subsonic flight",
     "Superhuman strength",
     "Use of circuits breaker"
@@ -35,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 794,
-    "pageviewRank": -1,
+    "pageviewCount": 5931,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -45,13 +38,14 @@
   ],
   "species": [
   ],
+  "superName": "Iron Monger",
   "teams": [
     "Stane International",
     "Stark Industries",
     "The Chessmen"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1055/iron_monger",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Iron_Monger"
   }
 }

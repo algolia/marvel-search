@@ -1,7 +1,6 @@
 {
   "aliases": [
     "Shiv",
-    "Shiver Man",
     "The Shiver Man"
   ],
   "authors": [
@@ -11,11 +10,8 @@
   "description": "The Shiver Man is an undead bounty hunter who has worked with Nick Fury and Wolverine.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Shiverma4.jpg/250px-Shiverma4.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Shiver Man",
   "partners": [
@@ -32,8 +28,7 @@
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 19,
-    "pageviewRank": -1,
+    "pageviewCount": 125,
     "serieCount": 1,
     "storyCount": 1
   },
@@ -42,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Shiver Man",
   "teams": [
   ],
   "urls": {

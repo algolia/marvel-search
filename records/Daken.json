@@ -13,11 +13,8 @@
   "description": "Akihiro, codename Daken is a fictional comic book supervillain licensed by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/520289a920fd9/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/3/a0/520289a920fd9/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Daken",
   "partners": [
@@ -25,7 +22,6 @@
   "powers": [
     "Excellent martial artist",
     "Hyper senses",
-    "Immune to telepathy",
     "Immunity to telepathy",
     "Pheromone manipulation",
     "Retractable claws"
@@ -33,8 +29,7 @@
   "ranking": {
     "comicCount": 33,
     "eventCount": 1,
-    "pageviewCount": 1153,
-    "pageviewRank": -1,
+    "pageviewCount": 10596,
     "serieCount": 11,
     "storyCount": 35
   },
@@ -44,6 +39,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Daken",
   "teams": [
     "Brotherhood of Mutants",
     "Dark Avengers",

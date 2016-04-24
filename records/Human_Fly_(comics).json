@@ -11,30 +11,29 @@
   "description": "The Human Fly is the name of two comic book characters in the Marvel Comics universe, one a super-villain that was an occasional antagonist of Spider-Man, and the other a superhero.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Amazing_Spider-Man_Annual_10.jpg/250px-Amazing_Spider-Man_Annual_10.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Human Fly (Richard Deacon)",
+  "name": "Human Fly",
   "partners": [
   ],
   "powers": [
     "Acid vomit",
     "Agility",
     "Compound eyes",
-    "Flight",
+    "Enhanced endurance",
     "Flight via sharp wings",
-    "Sharp wings",
+    "Gymnast",
+    "Hand to hand combatant",
+    "Master aerialist",
+    "Stuntman",
     "Superhuman strength",
     "Wall-crawling"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 117,
-    "pageviewRank": -1,
+    "pageviewCount": 998,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -43,12 +42,14 @@
   ],
   "species": [
   ],
+  "superName": "Human Fly",
   "teams": [
     "Savage Six",
+    "Sinister Six",
     "Sinister Sixteen"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/990/human_fly",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Human_Fly_(comics)"
   }
 }

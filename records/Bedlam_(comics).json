@@ -10,11 +10,8 @@
   "description": "For the member of the Exemplars, see Bedlam (Exemplar).Bedlam (Jesse Aaronson) is a fictional character, a mutant superhero in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c1/BedlamXForce.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Bedlam",
   "partners": [
@@ -22,12 +19,11 @@
   "powers": [
   ],
   "ranking": {
-    "comicCount": 8,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 132,
-    "pageviewRank": -1,
-    "serieCount": 6,
-    "storyCount": 8
+    "pageviewCount": 862,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Jesse Aaronson"
@@ -35,6 +31,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Bedlam",
   "teams": [
     "Hellions",
     "M.U.S.E",
@@ -42,7 +39,7 @@
     "X-Force"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/252/bedlam",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Bedlam_(comics)"
   }
 }

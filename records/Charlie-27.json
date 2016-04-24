@@ -1,14 +1,16 @@
 {
   "aliases": [
+    "Charlie-27"
   ],
   "authors": [
     "Arnold Drake",
     "Gene Colan"
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Charlie-27",
   "partners": [
@@ -21,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 61,
-    "pageviewRank": -1,
+    "pageviewCount": 679,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,11 +32,13 @@
   ],
   "species": [
   ],
+  "superName": "Charlie-27",
   "teams": [
     "Avengers",
     "Guardians of the Galaxy"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Charlie-27"
   }
 }

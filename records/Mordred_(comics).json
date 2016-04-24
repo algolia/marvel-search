@@ -12,9 +12,9 @@
   ],
   "description": "Mordred the Evil is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mordred",
   "partners": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 29,
-    "pageviewRank": -1,
+    "pageviewCount": 335,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +33,12 @@
   ],
   "species": [
   ],
+  "superName": "Mordred",
   "teams": [
     "Camelot"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mordred_(comics)"
   }
 }

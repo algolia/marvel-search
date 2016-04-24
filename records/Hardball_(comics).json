@@ -9,11 +9,8 @@
   "description": "Hardball (Roger Brokeridge) is a fictional comic book superhero in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/535ff2b245409/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/3/60/535ff2b245409/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hardball",
   "partners": [
@@ -25,8 +22,7 @@
   "ranking": {
     "comicCount": 10,
     "eventCount": 4,
-    "pageviewCount": 62,
-    "pageviewRank": -1,
+    "pageviewCount": 683,
     "serieCount": 4,
     "storyCount": 9
   },
@@ -36,7 +32,9 @@
   "species": [
     "Human Mutate"
   ],
+  "superName": "Hardball",
   "teams": [
+    "HYDRA",
     "Heavy Hitters",
     "Hydra",
     "The Initiative"

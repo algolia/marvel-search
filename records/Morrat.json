@@ -9,9 +9,9 @@
   ],
   "description": "Warlord Morrat is a fictional character in Marvel Comics and a member of the Skrull Empire.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Morrat",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 22,
-    "pageviewRank": -1,
+    "pageviewCount": 269,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,12 +31,14 @@
   "species": [
     "Skrull"
   ],
+  "superName": "Morrat",
   "teams": [
     "Empire",
     "Skrull",
     "Skrull Empire"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Morrat"
   }
 }

@@ -8,10 +8,9 @@
   ],
   "description": "The Thin Man (Bruce Dickson) is a fictional, American comic book character in Marvel Comics' main shared universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/MarvelPremeire29.jpg/249px-MarvelPremeire29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Thin Man",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 91,
-    "pageviewRank": -1,
+    "pageviewCount": 610,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,12 +33,14 @@
   ],
   "species": [
   ],
+  "superName": "Thin Man",
   "teams": [
     "Invaders",
     "Liberty Legion",
     "New Invaders"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Thin_Man_(comics)"
   }
 }

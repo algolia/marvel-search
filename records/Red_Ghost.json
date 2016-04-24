@@ -6,14 +6,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "The Red Ghost (Ivan Kragoff) and his Super-Apes (Mikhlo, Igor, and Peotr) are a group of Marvel Comics supervillains, who started their career fighting the Fantastic Four, before confronting other Marvel heroes like Iron Man and Spider-Man.",
+  "description": "The Red Ghost (Ivan Kragoff) and his Super-Apes (Mikhlo/Михло, Igor/Игорь, and Peotr/Пётр) are a group of Marvel Comics supervillains, who started their career fighting the Fantastic Four, before confronting other Marvel heroes such as Iron Man and Spider-Man.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/535ff3cd59285/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Red Ghost",
   "partners": [
@@ -31,8 +28,7 @@
   "ranking": {
     "comicCount": 7,
     "eventCount": 0,
-    "pageviewCount": 146,
-    "pageviewRank": -1,
+    "pageviewCount": 1256,
     "serieCount": 7,
     "storyCount": 6
   },
@@ -41,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Red Ghost",
   "teams": [
     "Intelligencia"
   ],

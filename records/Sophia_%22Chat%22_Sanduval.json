@@ -3,22 +3,19 @@
     "Beautiful Mutant Girlfriend",
     "Chat",
     "Mysterious Girl X",
-    "Sophia %22Chat%22 Sanduval",
     "Sophia “Chat” Sanduval"
   ],
   "authors": [
-    "Matteo Lolli",
+    "Matteo Lolli (penciler)",
     "Paul Tobin"
   ],
+  "description": null,
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4ce5a6cd63eaf/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Sophia_Sanduval.jpg/150px-Sophia_Sanduval.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Chat",
+  "name": "Sophia %22Chat%22 Sanduval",
   "partners": [
     "Spider-Man"
   ],
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 30,
-    "pageviewRank": -1,
+    "pageviewCount": 286,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,13 +32,13 @@
     "Sophia Sanduval"
   ],
   "species": [
-    "Mutant"
   ],
+  "superName": "Sophia %22Chat%22 Sanduval",
   "teams": [
     "Blonde Phantom Detective Agency"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/426/chat",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sophia_%22Chat%22_Sanduval"
   }
 }

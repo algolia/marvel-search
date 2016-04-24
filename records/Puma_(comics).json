@@ -9,11 +9,8 @@
   "description": "Puma (Thomas Fireheart) is a fictional character in the Marvel Comics universe most closely associated with Spider-Man.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/4c003c7a0ab21/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Puma",
   "partners": [
@@ -23,7 +20,6 @@
   "powers": [
     "Agility",
     "Balance",
-    "Claws",
     "Coordination",
     "Durability",
     "Endurance",
@@ -31,7 +27,6 @@
     "Flexibility",
     "Intelligence",
     "Razor sharp claws",
-    "Razor sharp fangs",
     "Reflexes/reactions",
     "Skilled businessman",
     "Speed",
@@ -42,8 +37,7 @@
   "ranking": {
     "comicCount": 20,
     "eventCount": 0,
-    "pageviewCount": 228,
-    "pageviewRank": -1,
+    "pageviewCount": 1717,
     "serieCount": 9,
     "storyCount": 22
   },
@@ -52,10 +46,12 @@
   ],
   "species": [
   ],
+  "superName": "Puma",
   "teams": [
     "Daily Bugle",
     "Fireheart Enterprises",
     "MODOK",
+    "MODOK's 11",
     "The Outlaws",
     "Wild Pack"
   ],

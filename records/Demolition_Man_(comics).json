@@ -11,10 +11,9 @@
   ],
   "description": "Demolition Man (Dennis Dunphy), also known as D-Man, is a fictional character in the Marvel Comics Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/DennisDunphyDman.gif/250px-DennisDunphyDman.gif"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Demolition Man",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 271,
-    "pageviewRank": -1,
+    "pageviewCount": 2365,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Demolition Man",
   "teams": [
     "Avengers",
     "Demolition Man",
@@ -51,6 +50,7 @@
     "Unlimited Class Wrestling Federation"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Demolition_Man_(comics)"
   }
 }

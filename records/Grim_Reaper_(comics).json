@@ -6,14 +6,11 @@
     "John Buscema",
     "Roy Thomas"
   ],
-  "description": "Grim Reaper (Eric Williams) is a fictional character, a comic book supervillain in books published by Marvel Comics.",
+  "description": "Grim Reaper (Eric Williams) is a fictional comic book supervillain in books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4c003ee8885e4/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/b0/4c003ee8885e4/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Grim Reaper",
   "partners": [
@@ -37,8 +34,7 @@
   "ranking": {
     "comicCount": 22,
     "eventCount": 1,
-    "pageviewCount": 460,
-    "pageviewRank": -1,
+    "pageviewCount": 4918,
     "serieCount": 14,
     "storyCount": 20
   },
@@ -47,7 +43,9 @@
   ],
   "species": [
   ],
+  "superName": "Grim Reaper",
   "teams": [
+    "HYDRA",
     "Horsemen of Apocalypse",
     "Horsemen of Death",
     "Hydra",

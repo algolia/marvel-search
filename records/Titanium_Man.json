@@ -13,13 +13,10 @@
   "description": "The Titanium Man (\"Chelovek-Titan\") is the name of two fictional supervillains in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/528d368ab3f46/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Titanium Man (Topolov)",
+  "name": "Titanium Man",
   "partners": [
   ],
   "powers": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 25,
     "eventCount": 1,
-    "pageviewCount": 282,
-    "pageviewRank": -1,
+    "pageviewCount": 2301,
     "serieCount": 13,
     "storyCount": 31
   },
@@ -47,12 +43,12 @@
   ],
   "species": [
   ],
+  "superName": "Titanium Man",
   "teams": [
     "Defenders",
     "Green Liberation Front",
     "KGB",
     "Secret Defenders",
-    "Soviet Super Soldiers",
     "Soviet Super-Soldiers",
     "Titanic Three"
   ],

@@ -7,14 +7,11 @@
     "Herb Trimpe",
     "Steve Englehart"
   ],
-  "description": "Wendigo (occasionally: Wen-Di-Go) is a fictional monster in the Marvel Comics universe.",
+  "description": "Wendigo (occasionally: Wen-Di-Go) is a fictional monster in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4ce5a1fa7a013/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/b/70/4ce5a1fa7a013/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Wendigo",
   "partners": [
@@ -30,8 +27,7 @@
   "ranking": {
     "comicCount": 9,
     "eventCount": 0,
-    "pageviewCount": 530,
-    "pageviewRank": -1,
+    "pageviewCount": 4164,
     "serieCount": 5,
     "storyCount": 11
   },
@@ -47,6 +43,7 @@
   ],
   "species": [
   ],
+  "superName": "Wendigo",
   "teams": [
     "Alpha Strike",
     "Department H",

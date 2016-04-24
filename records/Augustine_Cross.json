@@ -1,14 +1,16 @@
 {
   "aliases": [
+    "Augustine Cross"
   ],
   "authors": [
     "David Michelinie",
     "John Romita Jr."
   ],
+  "description": null,
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Augustine Cross",
   "partners": [
@@ -19,7 +21,6 @@
     "comicCount": 0,
     "eventCount": 0,
     "pageviewCount": 0,
-    "pageviewRank": -1,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -27,10 +28,12 @@
   ],
   "species": [
   ],
+  "superName": "Augustine Cross",
   "teams": [
     "Cross Technological Enterprises"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Augustine_Cross"
   }
 }

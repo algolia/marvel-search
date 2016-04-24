@@ -4,24 +4,20 @@
   ],
   "authors": [
     "Dan Slott",
-    "Phil Jimenez",
-    "Steve McNiven"
+    "Phil Jimenez"
   ],
-  "description": "Mister Negative (Martin Li) is a fictional comic book supervillain, appearing in books published by Marvel Comics, usually as an enemy of Spider-Man and the Punisher.",
+  "description": "Mister Negative (Martin Li) is a fictional comic book supervillain appearing in books published by Marvel Comics, usually as an enemy of Spider-Man and the Punisher.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Mister_Negative.jpg/250px-Mister_Negative.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Mister Negative",
   "partners": [
   ],
   "powers": [
     "Charge up knives",
-    "Healing by touch",
     "Healing touch",
-    "Hysterical strength",
     "Mental domination",
     "Reflexes",
     "Regular appearance",
@@ -31,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 285,
-    "pageviewRank": -1,
+    "pageviewCount": 1736,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,9 +36,11 @@
   ],
   "species": [
   ],
+  "superName": "Mister Negative",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mister_Negative"
   }
 }

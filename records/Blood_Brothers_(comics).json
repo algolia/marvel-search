@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Blood Brothers",
     "The Blood Brothers"
   ],
   "authors": [
@@ -9,10 +8,9 @@
   ],
   "description": "The Blood Brothers are fictional characters that appear in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Iron_Man_v1_055_-_00.jpg/250px-Iron_Man_v1_055_-_00.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Blood Brothers",
   "partners": [
@@ -24,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 87,
-    "pageviewRank": -1,
+    "pageviewCount": 585,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,9 +30,11 @@
   ],
   "species": [
   ],
+  "superName": "Blood Brothers",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Blood_Brothers_(comics)"
   }
 }

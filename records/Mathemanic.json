@@ -9,10 +9,8 @@
   "description": "Mathemanic (Thomas Sorenson) is a fictional character in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mathemanic",
   "partners": [
@@ -24,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 22,
-    "pageviewRank": -1,
+    "pageviewCount": 105,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,6 +31,7 @@
   ],
   "species": [
   ],
+  "superName": "Mathemanic",
   "teams": [
     "Genetech",
     "New Warriors",
@@ -41,7 +39,7 @@
     "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1400/mathemanic",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mathemanic"
   }
 }

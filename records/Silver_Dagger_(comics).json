@@ -8,9 +8,9 @@
   ],
   "description": "Silver Dagger is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Silver Dagger",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 35,
-    "pageviewRank": -1,
+    "pageviewCount": 377,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,11 +29,13 @@
   ],
   "species": [
   ],
+  "superName": "Silver Dagger",
   "teams": [
     "Sword of the Lord",
     "The Catholic Church"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Silver_Dagger_(comics)"
   }
 }

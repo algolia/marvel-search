@@ -8,9 +8,9 @@
   ],
   "description": "Space Phantom is a name given to a number of fictional characters in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Space Phantom",
   "partners": [
@@ -22,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 140,
-    "pageviewRank": -1,
+    "pageviewCount": 1182,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,9 +30,11 @@
   ],
   "species": [
   ],
+  "superName": "Space Phantom",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Space_Phantom"
   }
 }

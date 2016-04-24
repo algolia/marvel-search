@@ -9,9 +9,9 @@
   ],
   "description": "Kazann is a fictional character appearing in Marvel Comics, created by writer Garth Ennis and artist Clayton Crain.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Kazann",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 26,
-    "pageviewRank": -1,
+    "pageviewCount": 209,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,9 +32,11 @@
   ],
   "species": [
   ],
+  "superName": "Kazann",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Kazann"
   }
 }

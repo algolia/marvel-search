@@ -8,10 +8,9 @@
   ],
   "description": "Hit-Monkey is a fictional comic book character appearing in books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Hitmonkey1.jpg/250px-Hitmonkey1.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hit-Monkey",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 142,
-    "pageviewRank": -1,
+    "pageviewCount": 1125,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,10 +33,13 @@
   "species": [
     "Japanese macaque"
   ],
+  "superName": "Hit-Monkey",
   "teams": [
+    "Howling Commandos",
     "S.T.A.K.E"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Hit-Monkey"
   }
 }

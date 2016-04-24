@@ -6,11 +6,11 @@
     "Adrian Alphona",
     "Brian K. Vaughan"
   ],
-  "description": "Geoffrey Wilder was a fictional super villain in the Marvel Comics award-winning series, Runaways.",
+  "description": "Geoffrey Wilder is a fictional super villain in the Marvel Comics series Runaways.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Geoffrey Wilder",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 35,
-    "pageviewRank": -1,
+    "pageviewCount": 310,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,6 +30,7 @@
   ],
   "species": [
   ],
+  "superName": "Geoffrey Wilder",
   "teams": [
     "Loners",
     "Loners (comics)",
@@ -38,6 +38,7 @@
     "The Pride"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_Wilder"
   }
 }

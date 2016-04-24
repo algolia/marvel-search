@@ -11,24 +11,20 @@
   "description": "Dakota North is a fictional character that has appeared in various comic book series published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4ce5a6888f769/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Dakota North",
   "partners": [
   ],
   "powers": [
     "Highly skilled detective",
-    "Markman"
+    "Marksman"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 90,
-    "pageviewRank": -1,
+    "pageviewCount": 730,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Dakota North",
   "teams": [
     "Dakota North Investigations"
   ],

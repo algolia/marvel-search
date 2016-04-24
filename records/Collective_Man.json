@@ -8,10 +8,9 @@
   ],
   "description": "The Collective Man (Sun, Chang, Ho, Lin, and Han Tao-Yu) is a fictional character, a Chinese superhero in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Collective_Man.jpg/250px-Collective_Man.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Collective Man",
   "partners": [
@@ -21,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 52,
-    "pageviewRank": -1,
+    "pageviewCount": 558,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,15 +35,18 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Collective Man",
   "teams": [
     "3-Peace",
     "Death's Champions",
     "Marvel Super Hero Contest of Champions",
     "Mutant Liberation Front",
     "People's Defense Force",
+    "People's Defense Force (China)",
     "The 198"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Collective_Man"
   }
 }

@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "Mauler",
-    "Raiders"
+    "Mauler"
   ],
   "authors": [
     "Bob Layton",
@@ -10,35 +9,32 @@
   "description": "The Raiders are a team of three fictional characters that appear in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/IronMan-145.jpg/250px-IronMan-145.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Mauler",
+  "name": "Raiders",
   "partners": [
   ],
   "powers": [
   ],
   "ranking": {
-    "comicCount": 1,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 22,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 1
+    "pageviewCount": 202,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Unknown"
   ],
   "species": [
   ],
+  "superName": "Raiders",
   "teams": [
     "Cord Conglomerate"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1403/mauler",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Raiders_(comics)"
   }
 }

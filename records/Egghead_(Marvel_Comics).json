@@ -1,6 +1,7 @@
 {
   "aliases": [
     "Carl Stricker",
+    "Egghead",
     "Elihas Starr"
   ],
   "authors": [
@@ -8,11 +9,11 @@
     "Larry Lieber",
     "Stan Lee"
   ],
+  "description": "Egghead is the name of two fictional Marvel Comics villains.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Egghead_comics.jpg/250px-Egghead_comics.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Egghead",
   "partners": [
@@ -26,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 201,
-    "pageviewRank": -1,
+    "pageviewCount": 1813,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,12 +36,14 @@
   ],
   "species": [
   ],
+  "superName": "Egghead",
   "teams": [
     "Emissaries of Evil",
     "Intelligencia",
     "Masters of Evil"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Egghead_(Marvel_Comics)"
   }
 }

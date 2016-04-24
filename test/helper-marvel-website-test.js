@@ -1,8 +1,28 @@
 /* eslint-env mocha */
+import sinon from 'sinon';
 import expect from 'expect';
 import Helper from '../lib/utils/helper-marvel-website.js';
 
 describe('HelperMarvelWebsite', () => {
+  afterEach(() => {
+    cleanUpStubs(Helper);
+  });
+
+  describe('getRecordData', () => {
+    it('should return null if no color and not thumbnail', () => {
+      // Given
+      let input = {};
+      sinon.stub(Helper, 'getMainColor').returns(null);
+      sinon.stub(Helper, 'getThumbnail').returns(null);
+
+      // When
+      let actual = Helper.getRecordData(input);
+
+      // Then
+      expect(actual).toEqual(null);
+    });
+  });
+
   describe('getFeaturedImage', () => {
     it('should grab the url of the image', () => {
       // Given
@@ -45,6 +65,20 @@ describe('HelperMarvelWebsite', () => {
     it('should return null if no thumbnail', () => {
       // Given
       let input = ``;
+
+      // When
+      let actual = Helper.getThumbnail(input);
+
+      // Then
+      expect(actual).toEqual(null);
+    });
+
+    it('should return null if default image', () => {
+      // Given
+      let input = `<img
+          class="character-image"
+          src="http://x.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available/standard_xlarge.jpg"
+        >`;
 
       // When
       let actual = Helper.getThumbnail(input);
@@ -170,6 +204,38 @@ describe('HelperMarvelWebsite', () => {
 
       // Then
       expect(actual).toEqual('Wolverine');
+    });
+  });
+
+  describe('getUrl', () => {
+    it('should get the webpage url', () => {
+      // Given
+      let input = `
+      <head>
+        <meta name="twitter:url" content="good" />
+      </head
+      `;
+
+      // When
+      let actual = Helper.getUrl(input);
+
+      // Then
+      expect(actual).toEqual('good');
+    });
+  });
+
+  describe('getDescription', () => {
+    it('should get the page description', () => {
+      // Given
+      let input = `
+        <meta name="description" content="good" />
+      `;
+
+      // When
+      let actual = Helper.getDescription(input);
+
+      // Then
+      expect(actual).toEqual('good');
     });
   });
 });

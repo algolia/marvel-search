@@ -9,14 +9,11 @@
     "Mike Manley",
     "Tom DeFalco"
   ],
-  "description": "Darkhawk (Christopher Powell) is a fictional comic book superhero who first appeared in Darkhawk #1 (1991).",
+  "description": "Darkhawk (Christopher Powell) is a fictional comic book superhero who first appeared in Marvel Age #97 (Feb. 1991).",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5269553f4bc6a/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/6/a0/5269553f4bc6a/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Darkhawk",
   "partners": [
@@ -32,8 +29,7 @@
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 396,
-    "pageviewRank": -1,
+    "pageviewCount": 2708,
     "serieCount": 2,
     "storyCount": 7
   },
@@ -43,9 +39,11 @@
   ],
   "species": [
   ],
+  "superName": "Darkhawk",
   "teams": [
     "Defenders",
     "Features of the Marvel Universe",
+    "Loner",
     "Loners",
     "New Warriors",
     "Project Pegasus",

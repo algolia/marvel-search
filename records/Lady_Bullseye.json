@@ -5,17 +5,14 @@
   "authors": [
     "Clay Mann",
     "Ed Brubaker",
-    "Marko Djurdjevi%C4%87",
-    "Marko Djurdjevic"
+    "Marko Djurdjevic",
+    "Marko Djurdjević"
   ],
-  "description": "Lady Bullseye is a fictional character, a supervillain in the Marvel Comics Universe.",
+  "description": "Lady Bullseye is a fictional character, a supervillainess in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4ce5a67d44f61/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/90/4ce5a67d44f61/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Lady Bullseye",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 6,
     "eventCount": 0,
-    "pageviewCount": 206,
-    "pageviewRank": -1,
+    "pageviewCount": 1480,
     "serieCount": 3,
     "storyCount": 7
   },
@@ -37,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Lady Bullseye",
   "teams": [
     "The Hand"
   ],

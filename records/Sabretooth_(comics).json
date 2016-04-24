@@ -12,22 +12,18 @@
     "Chris Claremont",
     "John Byrne"
   ],
-  "description": "Sabretooth (Victor Creed) is a fictional character, a Marvel Comics supervillain created by writer Chris Claremont and artist/co-writer John Byrne.",
+  "description": "Sabretooth (Victor Creed) is a fictional supervillain appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/4ce1895117793/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Sabretooth",
   "partners": [
   ],
   "powers": [
-    "Agility",
-    "Control",
     "Extended",
+    "Extended longevity",
     "Feline-like attributes",
     "Healing factor",
     "Longevity",
@@ -36,16 +32,12 @@
     "Retractable claws",
     "Senses",
     "Sharp teeth",
-    "Stamina",
-    "Strength",
-    "Superhuman senses",
     "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 162,
     "eventCount": 5,
-    "pageviewCount": 3339,
-    "pageviewRank": -1,
+    "pageviewCount": 17830,
     "serieCount": 60,
     "storyCount": 167
   },
@@ -55,6 +47,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Sabretooth",
   "teams": [
     "Astonishing Avengers",
     "Avengers\" (1959)",
@@ -64,6 +57,7 @@
     "Marauders",
     "Team X",
     "The Hand",
+    "Uncanny Avengers",
     "Weapon X",
     "X-Factor",
     "X-Men"

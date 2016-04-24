@@ -9,11 +9,8 @@
   "description": "Ink (Eric Gitter) is a comic book character, a superhero in Marvel Comics' main shared universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Ink_Wiki.png/200px-Ink_Wiki.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ink",
   "partners": [
@@ -21,12 +18,11 @@
   "powers": [
   ],
   "ranking": {
-    "comicCount": 1,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 243,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 1
+    "pageviewCount": 1934,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Eric Gitter"
@@ -34,12 +30,13 @@
   "species": [
     "Human"
   ],
+  "superName": "Ink",
   "teams": [
     "X-Men-In-Training",
     "Young X-Men"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1041/ink",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ink_(comics)"
   }
 }

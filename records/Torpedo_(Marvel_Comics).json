@@ -8,10 +8,9 @@
   ],
   "description": "Torpedo is the name of five fictional characters that appear in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/MarvelPremiere-39.jpg/250px-MarvelPremiere-39.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Torpedo",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 79,
-    "pageviewRank": -1,
+    "pageviewCount": 546,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,11 +30,13 @@
   ],
   "species": [
   ],
+  "superName": "Torpedo",
   "teams": [
     "Defenders",
     "Defenders for a Day"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Torpedo_(Marvel_Comics)"
   }
 }

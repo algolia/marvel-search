@@ -8,9 +8,9 @@
   ],
   "description": "Sharon Friedlander is a fictional character most often appearing in X-Men stories in the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sharon Friedlander",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 30,
-    "pageviewRank": -1,
+    "pageviewCount": 227,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,12 +30,14 @@
   ],
   "species": [
   ],
+  "superName": "Sharon Friedlander",
   "teams": [
     "Muir Island X-Men",
     "X-Mansion",
     "Xavier Institute"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Friedlander"
   }
 }

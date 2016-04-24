@@ -9,10 +9,9 @@
   ],
   "description": "This article is about the occultist Morning Star.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d7/Schuyler_Belial.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Morning Star",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 17,
-    "pageviewRank": -1,
+    "pageviewCount": 129,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,10 +31,12 @@
   ],
   "species": [
   ],
+  "superName": "Morning Star",
   "teams": [
     "The Followers of the Left Hand Path"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Morning_Star_(comics)"
   }
 }

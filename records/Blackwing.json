@@ -10,9 +10,9 @@
   ],
   "description": "Blackwing is the name of two fictional Marvel Comics supervillains and one hero.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Blackwing",
   "partners": [
@@ -25,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 1041,
-    "pageviewRank": -1,
+    "pageviewCount": 2043,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,8 +34,10 @@
   ],
   "species": [
   ],
+  "superName": "Blackwing",
   "teams": [
     "Circus of Crime",
+    "HYDRA",
     "Heavy Mettle",
     "Hydra",
     "Maggia",
@@ -44,6 +45,7 @@
     "Skeleton Crew"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Blackwing"
   }
 }

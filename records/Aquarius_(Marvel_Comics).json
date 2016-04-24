@@ -11,9 +11,9 @@
   ],
   "description": "Aquarius is the name of different fictional characters in Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Aquarius",
   "partners": [
@@ -23,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 36,
-    "pageviewRank": -1,
+    "pageviewCount": 283,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +33,12 @@
   ],
   "species": [
   ],
+  "superName": "Aquarius",
   "teams": [
     "Zodiac"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Aquarius_(Marvel_Comics)"
   }
 }

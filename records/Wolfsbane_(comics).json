@@ -14,16 +14,14 @@
   "description": "Rahne Sinclair was an orphan in Scotland, raised by Reverend Craig, who, when her powers manifested, attempted to perform an exorcism to cast out what he perceived was the devil, after which Rahne was rescued by Doctor Moira MacTaggert who legally adopted her, and was introduced to Charles Xavier and enrolled as part of his New Mutants training team.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4c003a687658c/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Wolfsbane",
   "partners": [
   ],
   "powers": [
+    "Ability to",
     "Into a wolf-like humanoid",
     "Lycanthropy",
     "Shapeshift"
@@ -31,8 +29,7 @@
   "ranking": {
     "comicCount": 59,
     "eventCount": 3,
-    "pageviewCount": 572,
-    "pageviewRank": -1,
+    "pageviewCount": 4199,
     "serieCount": 21,
     "storyCount": 61
   },
@@ -42,6 +39,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Wolfsbane",
   "teams": [
     "Excalibur",
     "Hellions",

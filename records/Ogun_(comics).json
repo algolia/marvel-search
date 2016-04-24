@@ -10,11 +10,8 @@
   "description": "Ogun is a fictional character, a Japanese supervillain in the Marvel Comics universe and a foe of Wolverine.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4c003d0c92efb/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/b/a0/4c003d0c92efb/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ogun",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 7,
     "eventCount": 0,
-    "pageviewCount": 154,
-    "pageviewRank": -1,
+    "pageviewCount": 1181,
     "serieCount": 4,
     "storyCount": 9
   },
@@ -38,6 +34,7 @@
   "species": [
     "Human"
   ],
+  "superName": "Ogun",
   "teams": [
     "Imperial Japanese Army",
     "Mister X",

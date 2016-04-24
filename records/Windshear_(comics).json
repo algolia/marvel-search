@@ -8,10 +8,9 @@
   ],
   "description": "Windshear (Colin Ashworth Hume) is a fictional character, a superhero in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/aa/Windshear.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Windshear",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 28,
-    "pageviewRank": -1,
+    "pageviewCount": 225,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,6 +33,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Windshear",
   "teams": [
     "Alpha Flight",
     "Beta Flight",
@@ -42,6 +41,7 @@
     "Roxxon Oil"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Windshear_(comics)"
   }
 }

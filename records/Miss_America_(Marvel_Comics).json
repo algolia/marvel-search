@@ -4,17 +4,15 @@
   ],
   "authors": [
     "Al Gabriele",
-    "Otto Binder",
-    "Otto BinderAl Gabriele"
+    "Joe Casey",
+    "Nick Dragotta",
+    "Otto Binder"
   ],
-  "description": "Miss America (Madeline Joyce Frank) is a superhero fictional character in comic books published by Marvel Comics.",
+  "description": "Miss America is the name of multiple fictional characters appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/MissAmericaComics_n1_1944.jpg/200px-MissAmericaComics_n1_1944.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Miss America",
   "partners": [
@@ -22,30 +20,34 @@
   "powers": [
     "Enhanced stamina",
     "Flight",
+    "Superhuman durabilty",
     "Superhuman strength",
-    "Superhuman strengthflight",
     "X-ray vision"
   ],
   "ranking": {
-    "comicCount": 41,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 882,
-    "pageviewRank": -1,
-    "serieCount": 4,
-    "storyCount": 41
+    "pageviewCount": 7123,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
+    "America Chavez",
     "Madeline Joyce"
   ],
   "species": [
   ],
+  "superName": "Miss America",
   "teams": [
+    "A-Force",
     "All-Winners Squad",
     "Invaders",
-    "Liberty Legion"
+    "Liberty Legion",
+    "Teen Brigade",
+    "Young Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2935/miss_america",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Miss_America_(Marvel_Comics)"
   }
 }

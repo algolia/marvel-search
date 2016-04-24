@@ -8,9 +8,9 @@
   ],
   "description": "Martinex T'Naga is a fictional character, a superhero from an alternate future version of Marvel Comics' shared universe, the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Martinex",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 127,
-    "pageviewRank": -1,
+    "pageviewCount": 940,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -31,12 +30,15 @@
   ],
   "species": [
   ],
+  "superName": "Martinex",
   "teams": [
     "Avengers",
     "Galactic Guardians",
-    "Guardians of the Galaxy"
+    "Guardians of the Galaxy",
+    "Guardians of the Galaxy (1969 team)"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Martinex"
   }
 }

@@ -11,11 +11,8 @@
   "description": "Bug is a fictional character, a superhero in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c00323e50dda/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Bug",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 0,
-    "pageviewCount": 168,
-    "pageviewRank": -1,
+    "pageviewCount": 1197,
     "serieCount": 2,
     "storyCount": 5
   },
@@ -36,8 +32,10 @@
   ],
   "species": [
   ],
+  "superName": "Bug",
   "teams": [
     "Guardians of the Galaxy",
+    "Guardians of the Galaxy (2008 team)",
     "Micronauts"
   ],
   "urls": {

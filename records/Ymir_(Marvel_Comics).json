@@ -9,10 +9,9 @@
   ],
   "description": "Based on the frost giant of the same name from Norse mythology, Ymir is a fictional character that appears in publications published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png/250px-Ymir_the_Ice_Giant_%28by_Jack_Kirby_-_from_%22Journey_into_Mystery%22_no._98%29.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ymir",
   "partners": [
@@ -20,19 +19,15 @@
   ],
   "powers": [
     "Cold",
-    "Cold manipulation",
     "Healing factor",
-    "Ice",
     "Ice manipulation",
-    "Regeneration",
     "Superhuman durability",
     "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 138,
-    "pageviewRank": -1,
+    "pageviewCount": 1271,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,12 +36,14 @@
   "species": [
     "Giants"
   ],
+  "superName": "Ymir",
   "teams": [
     "Frost",
     "Frost and Storm Giants",
     "Storm Giants"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ymir_(Marvel_Comics)"
   }
 }

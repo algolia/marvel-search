@@ -9,10 +9,8 @@
   "description": "Reaper is the name of several fictional characters in the pages of Marvel Comics, most notably the Reaper whose real name is Pantu Hurageb, a mutant in the X-Force comic book series.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Reaper",
   "partners": [
@@ -23,12 +21,11 @@
     "Paralysis"
   ],
   "ranking": {
-    "comicCount": 10,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 100,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 9
+    "pageviewCount": 678,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Pantu Hurageb"
@@ -36,6 +33,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Reaper",
   "teams": [
     "All-New Exiles",
     "Exiles",
@@ -44,7 +42,7 @@
     "X-Cell"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1888/reaper",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Reaper_(Marvel_Comics)"
   }
 }

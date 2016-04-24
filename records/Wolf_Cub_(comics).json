@@ -10,11 +10,8 @@
   "description": "Nicholas Gleason enrolled at the Xavier Institute after being saved from a pair of mutant-haters by X-Men members Cyclops and Chamber.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a0/Wolf_Cub_%28Nicholas_Gleason%29.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Wolf Cub",
   "partners": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 96,
-    "pageviewRank": -1,
+    "pageviewCount": 753,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,6 +33,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Wolf Cub",
   "teams": [
     "Paragons",
     "Paragons training squad",

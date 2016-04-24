@@ -10,13 +10,10 @@
   "description": "Mister Sensitive (real name Guy Smith) is a fictional character from Marvel Comics, who was a prominent castmember in the X-Statix series.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Xforce117.jpg/225px-Xforce117.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Orphan",
+  "name": "Mister Sensitive",
   "partners": [
   ],
   "powers": [
@@ -27,12 +24,11 @@
     "Super-human senses"
   ],
   "ranking": {
-    "comicCount": 14,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 66,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 22
+    "pageviewCount": 415,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Guy Smith"
@@ -40,12 +36,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Mister Sensitive",
   "teams": [
     "X-Force",
     "X-Statix"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1668/orphan",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mister_Sensitive"
   }
 }

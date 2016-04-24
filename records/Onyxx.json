@@ -9,10 +9,9 @@
   ],
   "description": "Onyxx (Sidney Green) is a fictional mutant appearing in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Onyxx.jpg/250px-Onyxx.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Onyxx",
   "partners": [
@@ -24,8 +23,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 55,
-    "pageviewRank": -1,
+    "pageviewCount": 381,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,6 +33,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Onyxx",
   "teams": [
     "Chevaliers training squad",
     "X-Mansion",
@@ -42,6 +41,7 @@
     "Xavier Institute"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Onyxx"
   }
 }

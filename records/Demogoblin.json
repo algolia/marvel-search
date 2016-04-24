@@ -12,11 +12,8 @@
   "description": "Jason Macendale, the newest Hobgoblin was down on his luck and offered the demon N'astirh his soul in exchange for power during the  Inferno crisis, turning him into the Demogoblin.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/535fedd611db9/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/c/80/535fedd611db9/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Demogoblin",
   "partners": [
@@ -29,7 +26,6 @@
     "Agility",
     "Hellfire projection",
     "High-level intellect",
-    "Magical glider",
     "Reflexes",
     "Resistance to injury",
     "Skills",
@@ -41,8 +37,7 @@
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 261,
-    "pageviewRank": -1,
+    "pageviewCount": 1928,
     "serieCount": 1,
     "storyCount": 1
   },
@@ -50,13 +45,14 @@
   ],
   "species": [
   ],
+  "superName": "Demogoblin",
   "teams": [
     "Carnage Family",
     "Carnage Family/Maximum Carnage",
     "Maximum Carnage"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1011071/demogoblin",
+    "marvel": "http://marvel.com/characters/538/demogoblin",
     "wikipedia": "https://en.wikipedia.org/wiki/Demogoblin"
   }
 }

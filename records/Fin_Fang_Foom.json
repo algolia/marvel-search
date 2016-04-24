@@ -9,14 +9,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Fin Fang Foom is a fictional character that appears in comic books published by Marvel Comics.",
+  "description": "Fin Fang Foom is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4ce59fc647d58/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": true,
   "mainColor": null,
   "name": "Fin Fang Foom",
   "partners": [
@@ -32,8 +29,7 @@
   "ranking": {
     "comicCount": 10,
     "eventCount": 0,
-    "pageviewCount": 539,
-    "pageviewRank": -1,
+    "pageviewCount": 3800,
     "serieCount": 8,
     "storyCount": 10
   },
@@ -41,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Fin Fang Foom",
   "teams": [
     "Beyond Reason Spiritual Fellowship",
     "Dragon Lords of Kakaranathara",

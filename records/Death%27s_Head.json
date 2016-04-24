@@ -1,16 +1,17 @@
 {
   "aliases": [
+    "Death's Head",
     "actual identities the character uses"
   ],
   "authors": [
     "Geoff Senior",
     "Simon Furman"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/ba/Deathsheadcomic.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Death's Head",
   "partners": [
@@ -27,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 298,
-    "pageviewRank": -1,
+    "pageviewCount": 2105,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,9 +36,11 @@
   ],
   "species": [
   ],
+  "superName": "Death's Head",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Death%27s_Head"
   }
 }

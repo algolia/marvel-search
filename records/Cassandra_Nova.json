@@ -9,14 +9,11 @@
     "Frank Quitely",
     "Grant Morrison"
   ],
-  "description": "Cassandra Nova is a fictional comic book supervillain appearing in books published by Marvel Comics, usually as an adversary of the X-Men.",
+  "description": "Cassandra Nova is a fictional supervillain appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c003d0f3c80c/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Cassandra Nova",
   "partners": [
@@ -41,8 +38,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 657,
-    "pageviewRank": -1,
+    "pageviewCount": 4938,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -51,6 +47,7 @@
   ],
   "species": [
   ],
+  "superName": "Cassandra Nova",
   "teams": [
     "Charles Xavier",
     "Imperium",

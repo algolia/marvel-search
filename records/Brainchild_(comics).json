@@ -8,10 +8,9 @@
   ],
   "description": "Brainchild is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/24/Brain_Child_from_X-treme_X-Men.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Brainchild",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 20,
-    "pageviewRank": -1,
+    "pageviewCount": 300,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +30,12 @@
   "species": [
     "Savage Land Mutates"
   ],
+  "superName": "Brainchild",
   "teams": [
     "Savage Land Mutates"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Brainchild_(comics)"
   }
 }

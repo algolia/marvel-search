@@ -15,14 +15,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Magneto is a fictional character that appears in comic books published by Marvel Comics.",
+  "description": "Magneto is a fictional character appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
   "images": {
     "background": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/537bb51cc0937.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/537bb50ecbf68.jpg",
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5261a7e53f827/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 42,
     "green": 25,
@@ -33,20 +30,14 @@
   "partners": [
   ],
   "powers": [
-    "Genius-level intellect",
-    "Magnetic flight",
-    "Magnetic force fields",
     "Magnetism",
     "Magnetism manipulation",
-    "Manipulation",
-    "Skilled leader",
-    "Strategist"
+    "Manipulation"
   ],
   "ranking": {
     "comicCount": 252,
     "eventCount": 16,
-    "pageviewCount": 3827,
-    "pageviewRank": 8572,
+    "pageviewCount": 31062,
     "serieCount": 111,
     "storyCount": 252
   },
@@ -56,6 +47,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Magneto",
   "teams": [
     "Acolytes",
     "Brotherhood of Evil Mutants",

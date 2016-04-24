@@ -8,10 +8,9 @@
   ],
   "description": "Master Izo is a fictional character in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3e/Master_Izo.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Master Izo",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 240,
-    "pageviewRank": -1,
+    "pageviewCount": 1930,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,12 +33,14 @@
   ],
   "species": [
   ],
+  "superName": "Master Izo",
   "teams": [
     "Chaste",
     "The Chaste",
     "The Hand"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Master_Izo"
   }
 }

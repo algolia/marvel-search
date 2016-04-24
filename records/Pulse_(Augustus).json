@@ -10,11 +10,11 @@
   ],
   "description": "Pulse (Augustus), is a fictional character from the Marvel Comics universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Pulse",
+  "name": "Pulse (Augustus)",
   "partners": [
   ],
   "powers": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 18,
-    "pageviewRank": -1,
+    "pageviewCount": 180,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,11 +34,13 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Pulse",
   "teams": [
     "The 198",
     "X-Men"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Pulse_(Augustus)"
   }
 }

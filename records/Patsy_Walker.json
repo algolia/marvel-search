@@ -6,14 +6,11 @@
   ],
   "authors": [
   ],
-  "description": "Hellcat (Patricia \"Patsy\" Walker) is a fictional character, a superhero appearing in books published by Marvel Comics.",
+  "description": "Hellcat (Patricia \"Patsy\" Walker) is a fictional superhero appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d751d6b1bc7d/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Hellcat (Patsy Walker)",
   "partners": [
@@ -22,17 +19,12 @@
     "Force field generation",
     "Grappling hooks",
     "Gymnast",
-    "Psychic resistance",
-    "Psychic senses",
-    "Retractable claws",
-    "Telekinesis",
-    "Wrist grappling hook"
+    "Psychic senses"
   ],
   "ranking": {
     "comicCount": 25,
     "eventCount": 0,
-    "pageviewCount": 6951,
-    "pageviewRank": -1,
+    "pageviewCount": 88849,
     "serieCount": 15,
     "storyCount": 25
   },
@@ -43,6 +35,7 @@
   "species": [
     "Human"
   ],
+  "superName": "Hellcat",
   "teams": [
     "Avengers",
     "Defenders",

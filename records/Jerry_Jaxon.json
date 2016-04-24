@@ -9,37 +9,34 @@
   "description": "Jerome \"Jerry\" Jaxon is a fictional character in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4ce59ef63362d/standard_xlarge.jpg"
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Box",
+  "name": "Jerry Jaxon",
   "partners": [
   ],
   "powers": [
   ],
   "ranking": {
-    "comicCount": 4,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 29,
-    "pageviewRank": -1,
-    "serieCount": 2,
-    "storyCount": 4
+    "pageviewCount": 230,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Jerome Jaxon"
   ],
   "species": [
   ],
+  "superName": "Jerry Jaxon",
   "teams": [
     "Omega Flight",
     "Roxxon Energy Corporation",
     "Roxxon Oil"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/346/box",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Jaxon"
   }
 }

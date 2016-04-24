@@ -10,10 +10,8 @@
   "description": "Killer Shrike is the name of two fictional characters in Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Killer Shrike",
   "partners": [
@@ -27,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 95,
-    "pageviewRank": -1,
+    "pageviewCount": 713,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,6 +34,7 @@
   ],
   "species": [
   ],
+  "superName": "Killer Shrike",
   "teams": [
     "Brand Corporation",
     "Masters of Evil",
@@ -48,7 +46,7 @@
     "United States Army"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2928/killer_shrike",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Killer_Shrike"
   }
 }

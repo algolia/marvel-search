@@ -14,9 +14,9 @@
   ],
   "description": "Copperhead is the name of a number of fictional characters in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Copperhead",
   "partners": [
@@ -28,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 74,
-    "pageviewRank": -1,
+    "pageviewCount": 400,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,11 +39,13 @@
   ],
   "species": [
   ],
+  "superName": "Copperhead",
   "teams": [
     "Gang of Four",
     "Serpent Society"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Copperhead_(Marvel_Comics)"
   }
 }

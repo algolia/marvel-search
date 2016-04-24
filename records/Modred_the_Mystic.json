@@ -9,10 +9,9 @@
   ],
   "description": "Modred the Mystic is a fictional magician in the Marvel Comics universe who has alternated between being an anti-hero and an outright supervillain.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/MODREDTHEMYSTIC.jpg/200px-MODREDTHEMYSTIC.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Modred the Mystic",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 47,
-    "pageviewRank": -1,
+    "pageviewCount": 467,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Modred the Mystic",
   "teams": [
     "Midnight Sons"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Modred_the_Mystic"
   }
 }

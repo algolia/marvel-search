@@ -9,16 +9,16 @@
     "Andy Diggle",
     "Christina Weir",
     "Clayton Henry",
-    "Emma Rios",
+    "Emma Ríos",
     "Kelly Sue DeConnick",
     "Nunzio DeFilippis",
     "Tom Raney"
   ],
-  "description": "The Kingmaker is the name of three Marvel Comics characters.",
+  "description": "The Kingmaker is the name of three Marvel Comics supervillains.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Kingmaker",
   "partners": [
@@ -30,8 +30,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 18,
-    "pageviewRank": -1,
+    "pageviewCount": 179,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,10 +41,12 @@
   "species": [
     "Human"
   ],
+  "superName": "Kingmaker",
   "teams": [
     "Hellfire Club"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Kingmaker_(comics)"
   }
 }

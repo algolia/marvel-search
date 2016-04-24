@@ -6,16 +6,13 @@
     "David Michelinie",
     "Mark Bagley"
   ],
-  "description": "Empowered by the enigmatic Professor's secret formula, high school student Robert Reynolds became a superhuman.",
+  "description": "Sentry (real name Curtis Elkins) is a member of The Jury in the fictional Marvel comic universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/52695b1392c78/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Sentry2.jpg/250px-Sentry2.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Sentry (Robert Reynolds)",
+  "name": "Sentry (Curtis Elkins)",
   "partners": [
   ],
   "powers": [
@@ -25,24 +22,24 @@
     "Repulsor gun"
   ],
   "ranking": {
-    "comicCount": 60,
-    "eventCount": 7,
-    "pageviewCount": 38,
-    "pageviewRank": -1,
-    "serieCount": 26,
-    "storyCount": 59
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 216,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Curtis Elkins"
   ],
   "species": [
   ],
+  "superName": "Sentry",
   "teams": [
     "The Jury",
     "The Vault"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2048/sentry",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sentry_(Curtis_Elkins)"
   }
 }

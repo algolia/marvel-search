@@ -5,20 +5,17 @@
   ],
   "authors": [
     "Chris Renaud",
+    "Jay Faerber",
     "Jay Faerber, Karl Kersche, and Chris Renaud",
-    "Karl Kersche",
-    "by Jay Faerber"
+    "Karl Kersche"
   ],
   "description": "Junzo Muto  is a fictional character, featured in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/53176ebd40ad7/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Junzo_profile.jpg/250px-Junzo_profile.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Iron Fist (Bei Bang-Wen)",
+  "name": "Junzo Muto",
   "partners": [
   ],
   "powers": [
@@ -31,24 +28,24 @@
     "Water manipulation"
   ],
   "ranking": {
-    "comicCount": 6,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 29,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 6
+    "pageviewCount": 350,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Junzo Muto"
   ],
   "species": [
   ],
+  "superName": "Junzo Muto",
   "teams": [
     "Hand",
     "The Hand"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1011318/iron_fist_bei_bang-wen/featured",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Junzo_Muto"
   }
 }

@@ -6,16 +6,13 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Empowered by the enigmatic Professor's secret formula, high school student Robert Reynolds became a superhuman.",
+  "description": "Sentry-459 is a fictional character that appears in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/52695b1392c78/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MSH-13.jpg/250px-MSH-13.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Sentry (Robert Reynolds)",
+  "name": "Sentry (Kree)",
   "partners": [
   ],
   "powers": [
@@ -25,23 +22,23 @@
     "Super strength"
   ],
   "ranking": {
-    "comicCount": 60,
-    "eventCount": 7,
-    "pageviewCount": 94,
-    "pageviewRank": -1,
-    "serieCount": 26,
-    "storyCount": 59
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 673,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
     "Robot"
   ],
+  "superName": "Sentry",
   "teams": [
     "Kree"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2048/sentry",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sentry_(Kree)"
   }
 }

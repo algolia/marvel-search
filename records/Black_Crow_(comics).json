@@ -11,11 +11,8 @@
   "description": "Black Crow (Jesse Black Crow) is a fictional Native American superhero published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Black_Crow_%28Marvel_character%29.jpg/250px-Black_Crow_%28Marvel_character%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Black Crow",
   "partners": [
@@ -26,22 +23,22 @@
     "Various mystical powers"
   ],
   "ranking": {
-    "comicCount": 1,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 40,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 2
+    "pageviewCount": 281,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Jesse Black Crow"
   ],
   "species": [
   ],
+  "superName": "Black Crow",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/273/black_crow",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Black_Crow_(comics)"
   }
 }

@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Brother Tode",
     "Tode"
   ],
   "authors": [
@@ -8,11 +7,11 @@
   ],
   "description": "Brother Tode is a fictional character in the Marvel Universe comic books.Brother Tode is a Deviant with green skin and an oversized head.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Tode",
+  "name": "Brother Tode",
   "partners": [
   ],
   "powers": [
@@ -20,8 +19,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 27,
-    "pageviewRank": -1,
+    "pageviewCount": 293,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -30,10 +28,12 @@
   "species": [
     "Deviant"
   ],
+  "superName": "Brother Tode",
   "teams": [
     "Royal Family of the Deviants"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Brother_Tode"
   }
 }

@@ -10,11 +10,8 @@
   "description": "The Grandmaster (En Dwi Gast) is a fictional character in the Marvel Comics universe, who first appeared in The Avengers #69.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/4c0030dc410d6/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/10/4c0030dc410d6/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Grandmaster",
   "partners": [
@@ -34,8 +31,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 0,
-    "pageviewCount": 518,
-    "pageviewRank": -1,
+    "pageviewCount": 4323,
     "serieCount": 2,
     "storyCount": 1
   },
@@ -44,6 +40,7 @@
   ],
   "species": [
   ],
+  "superName": "Grandmaster",
   "teams": [
     "Elders of the Universe",
     "Squadron Sinister"

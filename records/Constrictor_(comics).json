@@ -7,30 +7,24 @@
     "Len Wein",
     "Sal Buscema"
   ],
-  "description": "Constrictor (Frank Payne) is a fictional character, a supervillain in the Marvel Comics Universe. .",
+  "description": "Constrictor (Frank Payne) is a fictional character, a supervillain in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4c004065a3a78/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/b0/4c004065a3a78/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Constrictor",
   "partners": [
   ],
   "powers": [
     "Skilled street fighter",
-    "Skilled unarmed combatant",
-    "Street fighter",
     "Unarmed combatant",
     "Vibranium"
   ],
   "ranking": {
     "comicCount": 27,
     "eventCount": 5,
-    "pageviewCount": 167,
-    "pageviewRank": -1,
+    "pageviewCount": 1567,
     "serieCount": 9,
     "storyCount": 33
   },
@@ -39,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Constrictor",
   "teams": [
     "Corporation",
     "Frightful Four",

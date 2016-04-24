@@ -1,20 +1,16 @@
 {
   "aliases": [
-    "Nico Minoru",
-    "Sister Grimm"
+    "Nico Minoru"
   ],
   "authors": [
     "Adrian Alphona",
     "Brian K. Vaughan"
   ],
-  "description": "Nico Minoru (briefly known as Sister Grimm), is a fictional comic book character in the Marvel Comics Runaways.",
+  "description": "Nico Minoru (briefly known as Sister Grimm), is a fictional comic book superhero in the Marvel Comics Runaways.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4c00377e2a541/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/b0/4c00377e2a541/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Nico Minoru",
   "partners": [
@@ -26,16 +22,15 @@
   "ranking": {
     "comicCount": 8,
     "eventCount": 0,
-    "pageviewCount": 448,
-    "pageviewRank": -1,
+    "pageviewCount": 3301,
     "serieCount": 4,
     "storyCount": 6
   },
   "secretIdentities": [
-    "Nico Minoru"
   ],
   "species": [
   ],
+  "superName": "Nico Minoru",
   "teams": [
     "A-Force",
     "Runaways"

@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Kaine",
     "Kaine Parker",
     "Peter Parker",
     "Scarlet Spider",
@@ -14,13 +13,10 @@
   "description": "Kaine Parker is a fictional character, a superhero and former supervillain in the Marvel Comics who serves as an ally, an enemy, and a foil of Spider-Man and Ben Reilly.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg/250px-Scarlet_Spider_Volume_2_Number_24_unlettered_cover.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4ed7bd3756650/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Peter Parker",
+  "name": "Scarlet Spider (Kaine)",
   "partners": [
   ],
   "powers": [
@@ -42,24 +38,24 @@
     "Two retractable stingers"
   ],
   "ranking": {
-    "comicCount": 0,
+    "comicCount": 21,
     "eventCount": 0,
-    "pageviewCount": 731,
-    "pageviewRank": -1,
-    "serieCount": 0,
-    "storyCount": 0
+    "pageviewCount": 4937,
+    "serieCount": 4,
+    "storyCount": 23
   },
   "secretIdentities": [
     "Kaine Parker"
   ],
   "species": [
   ],
+  "superName": "Scarlet Spider",
   "teams": [
     "New Warriors",
     "New Warriors vol. 5"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2770/peter_parker",
+    "marvel": "http://marvel.com/characters/2014/scarlet_spider",
     "wikipedia": "https://en.wikipedia.org/wiki/Kaine"
   }
 }

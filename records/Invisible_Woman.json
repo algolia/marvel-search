@@ -14,14 +14,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "The Invisible Woman (real name Susan \"Sue\" Storm Richards, previously known as the Invisible Girl) is a fictional character, a superheroine that appears in comic books published by Marvel Comics.",
+  "description": "The Invisible Woman (Susan \"Sue\" Storm Richards), previously known as the Invisible Girl, is a fictional superheroine appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/52695b9cd40b6/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Invisible Woman",
   "partners": [
@@ -39,8 +36,7 @@
   "ranking": {
     "comicCount": 390,
     "eventCount": 17,
-    "pageviewCount": 1320,
-    "pageviewRank": -1,
+    "pageviewCount": 10637,
     "serieCount": 143,
     "storyCount": 488
   },
@@ -51,6 +47,7 @@
   "species": [
     "Mutate"
   ],
+  "superName": "Invisible Woman",
   "teams": [
     "Avengers",
     "Fantastic Four",

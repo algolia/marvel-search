@@ -12,13 +12,10 @@
   "description": "Noh-Varr is a fictional character, a superhero appearing in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4c003d4a0e1c0/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MarvelBoy1-2000.jpg/250px-MarvelBoy1-2000.jpg"
   },
-  "isHero": false,
-  "isVillain": true,
   "mainColor": null,
-  "name": "Marvel Boy",
+  "name": "Noh-Varr",
   "partners": [
   ],
   "powers": [
@@ -29,12 +26,11 @@
     "Weaponry"
   ],
   "ranking": {
-    "comicCount": 38,
-    "eventCount": 4,
-    "pageviewCount": 428,
-    "pageviewRank": -1,
-    "serieCount": 22,
-    "storyCount": 76
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 3635,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Noh-Varr"
@@ -42,6 +38,7 @@
   "species": [
     "Kree"
   ],
+  "superName": "Noh-Varr",
   "teams": [
     "18",
     "18th Kree Diplomatic Gestalt",
@@ -55,7 +52,7 @@
     "Young Avengers"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1377/marvel_boy",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Noh-Varr"
   }
 }

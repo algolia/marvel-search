@@ -1,7 +1,6 @@
 {
   "aliases": [
     "Ama-no-kagaseo",
-    "Amatsu-Mikaboshi",
     "Chaos King",
     "Mikaboshi"
   ],
@@ -12,12 +11,11 @@
   ],
   "description": "Amatsu-Mikaboshi  is a fictional character in the Marvel Comics Universe, a supervillain and demonic god of evil who is best known as an enemy of Hercules and Thor.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Mikaboshi2.jpg/200px-Mikaboshi2.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Mikaboshi",
+  "name": "Amatsu-Mikaboshi",
   "partners": [
   ],
   "powers": [
@@ -34,8 +32,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 350,
-    "pageviewRank": -1,
+    "pageviewCount": 2949,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -44,10 +41,12 @@
   ],
   "species": [
   ],
+  "superName": "Amatsu-Mikaboshi",
   "teams": [
     "God Squad"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Amatsu-Mikaboshi_(comics)"
   }
 }

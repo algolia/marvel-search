@@ -7,14 +7,11 @@
     "Roy Thomas",
     "Werner Roth"
   ],
-  "description": "Banshee is a fictional character, a superhero who appears in comic books published by Marvel Comics.",
+  "description": "Banshee is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/52740e4619f54/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/b/03/52740e4619f54/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Banshee",
   "partners": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 166,
     "eventCount": 8,
-    "pageviewCount": 985,
-    "pageviewRank": -1,
+    "pageviewCount": 7266,
     "serieCount": 44,
     "storyCount": 179
   },
@@ -44,12 +40,15 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Banshee",
   "teams": [
     "Factor Three",
     "Generation X",
+    "Horsemen of Apocalypse",
     "Horsemen of Death",
     "Interpol",
     "NYPD",
+    "New York City Police Department",
     "X-Corps",
     "X-Men"
   ],

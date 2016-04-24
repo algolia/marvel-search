@@ -10,14 +10,11 @@
     "Jackson Guice",
     "Louise Simonson"
   ],
-  "description": "Apocalypse (also known as En Sabah Nur or \"the first one\") is a fictional character, a supervillain born with mutant powers, appearing in comic books published by Marvel Comics.",
+  "description": "Apocalypse, also known as En Sabah Nur, is a fictional supervillain that appears in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/526166076a1d0/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/f/e0/526166076a1d0/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Apocalypse",
   "partners": [
@@ -25,35 +22,38 @@
     "Ozymandias"
   ],
   "powers": [
+    "Brain–computer interface",
+    "Endurance",
     "Energy manipulation",
     "Genius-level intellect",
-    "Healing factor",
     "Immortality",
+    "Longevity",
     "Mass manipulation",
+    "Power mimicry",
+    "Superhuman strength",
     "Technopathy",
     "Telekinesis",
-    "Telepathy",
-    "Teleportation"
+    "Telepathy"
   ],
   "ranking": {
     "comicCount": 71,
     "eventCount": 7,
-    "pageviewCount": 13242,
-    "pageviewRank": -1,
+    "pageviewCount": 326893,
     "serieCount": 37,
     "storyCount": 68
   },
   "secretIdentities": [
-    "En Sabah Nur"
   ],
   "species": [
     "Mutant"
   ],
+  "superName": "Apocalypse",
   "teams": [
     "Alliance of Evil",
     "Clan Akkaba",
     "Dark Riders",
     "Four Horsemen",
+    "Horsemen of Apocalypse",
     "S.H.I.E.L.D"
   ],
   "urls": {

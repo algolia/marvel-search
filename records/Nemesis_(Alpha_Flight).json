@@ -11,13 +11,10 @@
   "description": "Nemesis is the name of three fictional superheroines appearing in books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/14/Nemesis_%28Alpha_Flight%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Nemesis",
+  "name": "Nemesis (Alpha Flight)",
   "partners": [
   ],
   "powers": [
@@ -27,24 +24,24 @@
     "Use of a magical blade"
   ],
   "ranking": {
-    "comicCount": 4,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 43,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 3
+    "pageviewCount": 437,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
   ],
   "species": [
   ],
+  "superName": "Nemesis",
   "teams": [
     "Alpha Flight",
     "Children of the Night",
     "Gamma Flight"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1577/nemesis",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Nemesis_(Alpha_Flight)"
   }
 }

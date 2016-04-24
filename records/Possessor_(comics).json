@@ -11,9 +11,9 @@
   ],
   "description": "The Possessor (Kamo Tharnn) is a fictional character appearing in publications from Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Possessor",
   "partners": [
@@ -27,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 77,
-    "pageviewRank": -1,
+    "pageviewCount": 598,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,10 +36,12 @@
   ],
   "species": [
   ],
+  "superName": "Possessor",
   "teams": [
     "Elders of the Universe"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Possessor_(comics)"
   }
 }

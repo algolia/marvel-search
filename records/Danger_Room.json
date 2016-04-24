@@ -10,12 +10,11 @@
   ],
   "description": "The Danger Room is a fictional training facility built for the X-Men of Marvel Comics as part of the various incarnations of the X-Mansion.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Danger_room.jpg/220px-Danger_room.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Danger",
+  "name": "Danger Room",
   "partners": [
     "Gambit",
     "Ord",
@@ -30,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 254,
-    "pageviewRank": -1,
+    "pageviewCount": 1782,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,12 +38,14 @@
   ],
   "species": [
   ],
+  "superName": "Danger Room",
   "teams": [
     "X-Club",
     "X-Factor",
     "X-Men"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Danger_Room"
   }
 }

@@ -1,9 +1,9 @@
 {
   "aliases": [
     "Alien Costume",
-    "She-Venom",
     "Spider-Man",
-    "The Black Suit"
+    "The Black Suit",
+    "Venom"
   ],
   "authors": [
     "David Michelinie",
@@ -11,13 +11,13 @@
     "Randy Schueller (original costume idea)",
     "Todd McFarlane"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Venom-artmm.jpg/250px-Venom-artmm.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "She-Venom",
+  "name": "She-Venom (Patricia Robertson)",
   "partners": [
   ],
   "powers": [
@@ -30,8 +30,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 8,
-    "pageviewRank": -1,
+    "pageviewCount": 45,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -46,10 +45,12 @@
   ],
   "species": [
   ],
+  "superName": "She-Venom",
   "teams": [
     "Spider-Man"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/She-Venom_(Patricia_Robertson)"
   }
 }

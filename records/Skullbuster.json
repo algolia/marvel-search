@@ -10,13 +10,10 @@
   "description": "Skullbuster  is the name of three comic book super villains all of which exist in Marvel Comics' main shared universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c003c072eb58/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Skullbuster (Cylla Markham)",
+  "name": "Skullbuster",
   "partners": [
   ],
   "powers": [
@@ -26,8 +23,7 @@
   "ranking": {
     "comicCount": 3,
     "eventCount": 0,
-    "pageviewCount": 33,
-    "pageviewRank": -1,
+    "pageviewCount": 229,
     "serieCount": 3,
     "storyCount": 3
   },
@@ -37,6 +33,7 @@
   ],
   "species": [
   ],
+  "superName": "Skullbuster",
   "teams": [
     "Reavers"
   ],

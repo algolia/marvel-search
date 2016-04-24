@@ -13,11 +13,8 @@
   "description": "Mister Fear is the name of multiple fictional characters, all supervillains in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/03/Mrfear.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mister Fear",
   "partners": [
@@ -26,16 +23,17 @@
   "powers": [
     "Accomplished wax sculptor",
     "Gifted intellect",
+    "Highly adept businessman",
     "Occasionally by syringe",
+    "Skilled lawyer",
     "Talented amateur chemist"
   ],
   "ranking": {
-    "comicCount": 1,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 176,
-    "pageviewRank": -1,
-    "serieCount": 1,
-    "storyCount": 1
+    "pageviewCount": 1398,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Alan Fagan",
@@ -45,10 +43,11 @@
   ],
   "species": [
   ],
+  "superName": "Mister Fear",
   "teams": [
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1476/mister_fear",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mister_Fear"
   }
 }

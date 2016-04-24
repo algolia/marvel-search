@@ -6,18 +6,18 @@
     "Dan Slott",
     "Humberto Ramos"
   ],
-  "description": "Silk (Cindy Moon) is a fictional character, a superheroine in comic books published by Marvel Comics.",
+  "description": "Silk (Cindy Moon) is a fictional superheroine appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Silk-comic_cover.jpg/250px-Silk-comic_cover.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Silk",
   "partners": [
     "Felicia Hardy",
     "Spider-Man",
-    "Spider-Woman"
+    "Spider-Woman",
+    "Spider-Woman (Jessica Drew)"
   ],
   "powers": [
     "Agility",
@@ -39,8 +39,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 984,
-    "pageviewRank": -1,
+    "pageviewCount": 8854,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -50,9 +49,11 @@
   "species": [
     "Mutate"
   ],
+  "superName": "Silk",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Silk_(comics)"
   }
 }

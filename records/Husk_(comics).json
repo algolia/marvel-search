@@ -12,11 +12,8 @@
   "description": "Husk (Paige Guthrie) is a fictional character from Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c003eca01988/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Husk",
   "partners": [
@@ -28,8 +25,7 @@
   "ranking": {
     "comicCount": 27,
     "eventCount": 2,
-    "pageviewCount": 300,
-    "pageviewRank": -1,
+    "pageviewCount": 2951,
     "serieCount": 9,
     "storyCount": 37
   },
@@ -39,6 +35,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Husk",
   "teams": [
     "Generation X",
     "Jean Grey School",

@@ -8,10 +8,9 @@
   ],
   "description": "Condor is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Condor_HCV.jpg/200px-Condor_HCV.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Condor",
   "partners": [
@@ -23,8 +22,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 25,
-    "pageviewRank": -1,
+    "pageviewCount": 232,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,10 +30,12 @@
   ],
   "species": [
   ],
+  "superName": "Condor",
   "teams": [
     "Terrible Trio"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Condor_(comics)"
   }
 }

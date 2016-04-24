@@ -8,9 +8,9 @@
   ],
   "description": "Master Khan is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Master Khan",
   "partners": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 80,
-    "pageviewRank": -1,
+    "pageviewCount": 1207,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -35,10 +34,12 @@
   "species": [
     "Human magic user"
   ],
+  "superName": "Master Khan",
   "teams": [
     "The House of Thysslia"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Master_Khan"
   }
 }

@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Beyonder",
     "Frank",
     "Kosmos",
     "The Beyonder"
@@ -9,14 +8,11 @@
     "Jim Shooter",
     "Mike Zeck"
   ],
-  "description": "The Beyonder is a fictional comic book character appearing in books published by Marvel Comics.",
+  "description": "The Beyonder is a fictional cosmic entity appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/528d31df87c49/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/7/10/528d31df87c49/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Beyonder",
   "partners": [
@@ -30,8 +26,7 @@
   "ranking": {
     "comicCount": 2,
     "eventCount": 1,
-    "pageviewCount": 1137,
-    "pageviewRank": -1,
+    "pageviewCount": 10038,
     "serieCount": 2,
     "storyCount": 2
   },
@@ -39,9 +34,9 @@
     "Beyonder"
   ],
   "species": [
-    "Cosmic entity",
-    "possibly Inhuman mutant"
+    "Cosmic entity"
   ],
+  "superName": "Beyonder",
   "teams": [
     "Beyonders"
   ],

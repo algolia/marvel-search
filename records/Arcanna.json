@@ -11,9 +11,9 @@
   ],
   "description": "Arcanna is the name of two different fictional comic book characters in the Marvel Comics multiverse.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Arcanna",
   "partners": [
@@ -26,8 +26,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 65,
-    "pageviewRank": -1,
+    "pageviewCount": 684,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,11 +35,13 @@
   ],
   "species": [
   ],
+  "superName": "Arcanna",
   "teams": [
     "Squadron Supreme (Earth-31916)",
     "Squadron Supreme (Earth-712)"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Arcanna"
   }
 }

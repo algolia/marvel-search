@@ -7,14 +7,11 @@
     "John Byrne",
     "Scott Lobdell"
   ],
-  "description": "Puck is the codename of two fictional characters, a father and daughter pair who are both members of Alpha Flight, in the Marvel Comics universe.",
+  "description": "Puck is the codename of two fictional characters appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4c003c7cc0d8f/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Puck",
   "partners": [
@@ -33,8 +30,7 @@
   "ranking": {
     "comicCount": 49,
     "eventCount": 2,
-    "pageviewCount": 315,
-    "pageviewRank": -1,
+    "pageviewCount": 1966,
     "serieCount": 14,
     "storyCount": 58
   },
@@ -46,6 +42,7 @@
     "Human",
     "Mutant"
   ],
+  "superName": "Puck",
   "teams": [
     "Alpha Flight",
     "Beta Flight",

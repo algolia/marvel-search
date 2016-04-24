@@ -1,5 +1,6 @@
 {
   "aliases": [
+    "Terrax",
     "Terrax the Tamer",
     "Tyros the Terrible"
   ],
@@ -8,16 +9,13 @@
     "John Byrne",
     "Marv Wolfman"
   ],
-  "description": "Tyros was once the dictator of the city Lanlak on the planet Birj, where his superhuman ability to command rocks and earth enabled him to overcome all resistance, but his rule of Lanlak came to an end when he was sought by the world-devouring Galactus to serve as his latest Herald.",
+  "description": null,
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/85/FantasticFour-242.jpg"
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
-  "name": "Terrax",
+  "name": "Terrax the Truly Enlightened",
   "partners": [
   ],
   "powers": [
@@ -31,25 +29,25 @@
     "Use of"
   ],
   "ranking": {
-    "comicCount": 19,
+    "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 28,
-    "pageviewRank": -1,
-    "serieCount": 13,
-    "storyCount": 14
+    "pageviewCount": 115,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Tyros"
   ],
   "species": [
   ],
+  "superName": "Terrax the Truly Enlightened",
   "teams": [
     "Heralds of Galactus",
     "Legion of the Unliving",
     "Offenders"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/2311/terrax",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Terrax_the_Truly_Enlightened"
   }
 }

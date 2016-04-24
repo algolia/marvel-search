@@ -8,14 +8,11 @@
     "Jack Kirby",
     "Stan Lee"
   ],
-  "description": "Crystal (full name Crystalia Amaquelin) is a fictional character, a superhero in the Marvel Comics Universe.",
+  "description": "Crystal (Crystalia Amaquelin) is a fictional superhero appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/52695564bcf1e/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Crystal",
   "partners": [
@@ -39,8 +36,7 @@
   "ranking": {
     "comicCount": 59,
     "eventCount": 4,
-    "pageviewCount": 744,
-    "pageviewRank": -1,
+    "pageviewCount": 6608,
     "serieCount": 32,
     "storyCount": 68
   },
@@ -49,13 +45,14 @@
   ],
   "species": [
   ],
+  "superName": "Crystal",
   "teams": [
     "Avengers",
     "Fantastic Four",
     "Inhumans"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009255/crystal",
+    "marvel": "http://marvel.com/characters/481/crystal",
     "wikipedia": "https://en.wikipedia.org/wiki/Crystal_(comics)"
   }
 }

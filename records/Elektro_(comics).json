@@ -8,10 +8,9 @@
   ],
   "description": "Elektro is a fictional robot that appears in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/TOS-13.jpg/250px-TOS-13.jpg"
   },
-  "isHero": true,
-  "isVillain": true,
   "mainColor": null,
   "name": "Elektro",
   "partners": [
@@ -28,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 24,
-    "pageviewRank": -1,
+    "pageviewCount": 237,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,10 +36,12 @@
   ],
   "species": [
   ],
+  "superName": "Elektro",
   "teams": [
     "Fin Fang Foom"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Elektro_(comics)"
   }
 }

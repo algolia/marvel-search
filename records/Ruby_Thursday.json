@@ -9,9 +9,9 @@
   ],
   "description": "Ruby Thursday (Thursday Rubinstein) is a fictional character in the Marvel Comics Universe and a member of the Headmen.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ruby Thursday",
   "partners": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 111,
-    "pageviewRank": -1,
+    "pageviewCount": 497,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,10 +33,12 @@
   ],
   "species": [
   ],
+  "superName": "Ruby Thursday",
   "teams": [
     "Headmen"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ruby_Thursday"
   }
 }

@@ -13,11 +13,8 @@
   "description": "Nightshade (Tilda Johnson), formerly known as Dr. Nightshade and Deadly Nightshade is a fictional character in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/CaptainAmerica164.jpg/200px-CaptainAmerica164.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Nightshade",
   "partners": [
@@ -32,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 133,
-    "pageviewRank": -1,
+    "pageviewCount": 712,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -42,12 +38,13 @@
   ],
   "species": [
   ],
+  "superName": "Nightshade",
   "teams": [
     "Femizons",
     "MODOK's 11"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1606/nightshade",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Nightshade_(Marvel_Comics)"
   }
 }

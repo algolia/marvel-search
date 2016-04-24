@@ -11,11 +11,8 @@
   "description": "Deathcry (Sharra Neramani) is a fictional Marvel Comics character and a former honorary member of the Avengers.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/535ff379c7c1b/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Deathcry",
   "partners": [
@@ -30,8 +27,7 @@
   "ranking": {
     "comicCount": 3,
     "eventCount": 2,
-    "pageviewCount": 85,
-    "pageviewRank": -1,
+    "pageviewCount": 640,
     "serieCount": 3,
     "storyCount": 3
   },
@@ -41,6 +37,7 @@
   "species": [
     "Shi'ar"
   ],
+  "superName": "Deathcry",
   "teams": [
     "Avengers"
   ],

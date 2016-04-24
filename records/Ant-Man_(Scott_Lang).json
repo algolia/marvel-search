@@ -10,18 +10,15 @@
   "description": "Ant-Man (Scott Lang) is a fictional superhero appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/6/b0/537ba0e6d1879.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/54ad72b6084a0.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/53176aa9df48d/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/52696868356a0/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
     "hexa": "3F0606",
     "red": 63
   },
-  "name": "Ant-Man (Eric O'Grady)",
+  "name": "Ant-Man (Scott Lang)",
   "partners": [
   ],
   "powers": [
@@ -31,18 +28,18 @@
     "Subatomic universes"
   ],
   "ranking": {
-    "comicCount": 32,
-    "eventCount": 7,
-    "pageviewCount": 2438,
-    "pageviewRank": -1,
-    "serieCount": 13,
-    "storyCount": 32
+    "comicCount": 8,
+    "eventCount": 0,
+    "pageviewCount": 30941,
+    "serieCount": 4,
+    "storyCount": 7
   },
   "secretIdentities": [
     "Scott Edward Harris Lang"
   ],
   "species": [
   ],
+  "superName": "Ant-Man",
   "teams": [
     "Avengers",
     "Defenders",
@@ -52,7 +49,7 @@
     "Stark Industries"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1010802/ant-man_eric_ogrady/featured",
+    "marvel": "http://marvel.com/characters/2/ant-man",
     "wikipedia": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)"
   }
 }

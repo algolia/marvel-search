@@ -9,10 +9,9 @@
   ],
   "description": "Threnody is a fictional character created by Marvel Comics for the X-Men series.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Xman13.jpg/250px-Xman13.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Threnody",
   "partners": [
@@ -25,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 39,
-    "pageviewRank": -1,
+    "pageviewCount": 370,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -36,10 +34,12 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Threnody",
   "teams": [
     "Marauders"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Threnody_(comics)"
   }
 }

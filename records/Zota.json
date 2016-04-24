@@ -1,14 +1,16 @@
 {
   "aliases": [
+    "Zota"
   ],
   "authors": [
     "Stan Lee",
     "Steve Ditko"
   ],
+  "description": "Zota of Pergamum, usually referred to as Zota, is a fictional character, a super villain who appears in comics published by Marvel Comics.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": false,
-  "isVillain": false,
   "mainColor": null,
   "name": "Zota",
   "partners": [
@@ -24,18 +26,20 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 31,
-    "pageviewRank": -1,
+    "pageviewCount": 208,
     "serieCount": 0,
     "storyCount": 0
   },
   "secretIdentities": [
+    "Zota of Pergamum"
   ],
   "species": [
   ],
+  "superName": "Zota",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Zota"
   }
 }

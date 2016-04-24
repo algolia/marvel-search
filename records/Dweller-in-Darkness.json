@@ -10,12 +10,11 @@
     "Roger Stern",
     "Tom Sutton"
   ],
-  "description": "The Dweller-in-Darkness is a fictional character in the Marvel Comics universe.",
+  "description": "The Dweller-in-Darkness is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/12/Dwellerdarkness.jpg"
   },
-  "isHero": null,
-  "isVillain": true,
   "mainColor": null,
   "name": "Dweller-in-Darkness",
   "partners": [
@@ -28,8 +27,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 64,
-    "pageviewRank": -1,
+    "pageviewCount": 995,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,10 +35,12 @@
   ],
   "species": [
   ],
+  "superName": "Dweller-in-Darkness",
   "teams": [
     "Fear Lords"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Dweller-in-Darkness"
   }
 }

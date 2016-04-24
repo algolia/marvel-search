@@ -11,10 +11,9 @@
   ],
   "description": "Amber Hunt is a fictional character from Malibu Comics' Exiles comic book series, created by Steve Gerber.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Amber_Hunt.jpg/220px-Amber_Hunt.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Amber Hunt",
   "partners": [
@@ -31,8 +30,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 31,
-    "pageviewRank": -1,
+    "pageviewCount": 362,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,11 +39,13 @@
   ],
   "species": [
   ],
+  "superName": "Amber Hunt",
   "teams": [
     "Exiles",
     "The All-New Exiles"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Amber_Hunt_(comics)"
   }
 }

@@ -9,11 +9,8 @@
   "description": "Gateway is a fictional comic book superhero in the Marvel Comics Universe, an Australian mutant with the ability to teleport objects and people from one location to another.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c003ef236e72/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/f0/4c003ef236e72/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Gateway",
   "partners": [
@@ -28,8 +25,7 @@
   "ranking": {
     "comicCount": 25,
     "eventCount": 3,
-    "pageviewCount": 86,
-    "pageviewRank": -1,
+    "pageviewCount": 898,
     "serieCount": 11,
     "storyCount": 21
   },
@@ -38,6 +34,7 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Gateway",
   "teams": [
     "Generation X",
     "Reavers",

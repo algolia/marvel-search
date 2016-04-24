@@ -9,9 +9,9 @@
   ],
   "description": "Plasma is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Plasma",
   "partners": [
@@ -21,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 26,
-    "pageviewRank": -1,
+    "pageviewCount": 199,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,9 +31,11 @@
   "species": [
     "Mutant"
   ],
+  "superName": "Plasma",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Plasma_(comics)"
   }
 }

@@ -9,10 +9,9 @@
   ],
   "description": "Sunpyre (Leyu Yoshida (吉田 玲優, Yoshida Reyu)) is a fictional character of the Marvel Universe associated with the X-Men.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Sunpyre1.jpg/250px-Sunpyre1.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Sunpyre",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 125,
-    "pageviewRank": -1,
+    "pageviewCount": 1035,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,12 +37,14 @@
     "Coronarian",
     "Mutant"
   ],
+  "superName": "Sunpyre",
   "teams": [
     "Big Hero 6",
     "Genoshan Assault X-Men",
     "X-Corps"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Sunpyre"
   }
 }

@@ -7,14 +7,14 @@
   ],
   "authors": [
     "Chris Claremont",
+    "John Romita Jr.",
     "John Romita, Jr."
   ],
   "description": "Margali Szardos, also known as Margali of the Winding Way, Red Queen or Fata Morgana, is a fictional comic book character appearing in books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a6/Margali.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Margali Szardos",
   "partners": [
@@ -29,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 106,
-    "pageviewRank": -1,
+    "pageviewCount": 875,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,11 +38,13 @@
   ],
   "species": [
   ],
+  "superName": "Margali Szardos",
   "teams": [
     "Hellfire Club",
     "Shadow Hunters"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Margali_Szardos"
   }
 }

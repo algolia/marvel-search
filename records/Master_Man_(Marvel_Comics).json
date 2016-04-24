@@ -11,10 +11,9 @@
   ],
   "description": "Master Man is the name of three fictional characters that appear in comic books published by Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Invaders-16.jpg/250px-Invaders-16.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Master Man",
   "partners": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 71,
-    "pageviewRank": -1,
+    "pageviewCount": 614,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -44,10 +42,12 @@
   ],
   "species": [
   ],
+  "superName": "Master Man",
   "teams": [
     "Super-Axis"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Master_Man_(Marvel_Comics)"
   }
 }

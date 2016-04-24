@@ -9,19 +9,17 @@
   "authors": [
     "Doug Wildley",
     "George Evans",
+    "George Evans (cartoonist)",
     "Sal Buscema",
     "Steve Gerber"
   ],
   "description": "Chondu the Mystic, sometimes known as Chondu the Yogi, is a fictional character in the Marvel Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c00391ba3a93/standard_xlarge.jpg"
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Nighthawk",
+  "name": "Chondu the Mystic",
   "partners": [
   ],
   "powers": [
@@ -30,18 +28,18 @@
     "Superhuman strength"
   ],
   "ranking": {
-    "comicCount": 29,
-    "eventCount": 1,
-    "pageviewCount": 35,
-    "pageviewRank": -1,
-    "serieCount": 15,
-    "storyCount": 30
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 365,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Harvey Schlemerman"
   ],
   "species": [
   ],
+  "superName": "Chondu the Mystic",
   "teams": [
     "A.I.M",
     "Advanced Idea Mechanics",
@@ -49,7 +47,7 @@
     "Headmen"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/1604/nighthawk",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Chondu_the_Mystic"
   }
 }

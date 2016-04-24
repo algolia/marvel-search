@@ -8,11 +8,11 @@
     "Jerry Bingham",
     "Mark Bagley"
   ],
+  "description": null,
   "images": {
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Spider-Verse_Spider-Men.jpg/250px-Spider-Verse_Spider-Men.jpg"
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Blood Spider",
   "partners": [
@@ -28,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 14,
-    "pageviewRank": -1,
+    "pageviewCount": 80,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -38,9 +37,11 @@
   ],
   "species": [
   ],
+  "superName": "Blood Spider",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Blood_Spider"
   }
 }

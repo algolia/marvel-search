@@ -9,10 +9,9 @@
   ],
   "description": "Firepower is the name of two Marvel Comics supervillains.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Firepower_supervillain.jpg/250px-Firepower_supervillain.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Firepower",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 175,
-    "pageviewRank": -1,
+    "pageviewCount": 1324,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -32,9 +30,11 @@
   ],
   "species": [
   ],
+  "superName": "Firepower",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Firepower_(comics)"
   }
 }

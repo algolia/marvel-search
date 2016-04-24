@@ -1,6 +1,7 @@
 {
   "aliases": [
     "Black Leopard",
+    "Black Panther",
     "Luke Charles",
     "Mr. Okonkwo"
   ],
@@ -8,20 +9,13 @@
     "Jack Kirby",
     "Stan Lee"
   ],
+  "description": null,
   "images": {
-    "background": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/537ba240acbf8.gif",
-    "banner": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/537ba26276348.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5261a80a67e7d/standard_xlarge.jpg"
+    "background": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/59/Jungleaction23.png"
   },
-  "isHero": false,
-  "isVillain": false,
-  "mainColor": {
-    "blue": 9,
-    "green": 36,
-    "hexa": "3A2409",
-    "red": 58
-  },
-  "name": "Black Panther",
+  "mainColor": null,
+  "name": "T'Chaka",
   "partners": [
     "Storm"
   ],
@@ -36,13 +30,14 @@
     "Inventor",
     "Martial artist",
     "Politician",
+    "Reflexes",
     "Scientist",
+    "Senses",
     "Skilled hunter",
     "Speed",
     "Stamina",
     "Strategist",
-    "Strength",
-    "Superhuman senses",
+    "Superhuman strength",
     "Tracker",
     "Trained acrobat",
     "Uniform",
@@ -50,18 +45,18 @@
     "Wields"
   ],
   "ranking": {
-    "comicCount": 320,
-    "eventCount": 13,
-    "pageviewCount": 14,
-    "pageviewRank": -1,
-    "serieCount": 101,
-    "storyCount": 468
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 127,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "T'Challa"
   ],
   "species": [
   ],
+  "superName": "T'Chaka",
   "teams": [
     "Avengers",
     "Defenders",
@@ -71,7 +66,7 @@
     "Ultimates"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009187/black_panther",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/T%27Chaka"
   }
 }

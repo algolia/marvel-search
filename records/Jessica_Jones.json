@@ -12,14 +12,11 @@
     "Brian Michael Bendis",
     "Michael Gaydos"
   ],
-  "description": "Jessica Campbell Jones Cage is a fictional character appearing in books published by Marvel Comics.",
+  "description": "Jessica Campbell Jones Cage is a fictional character appearing in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/5390e41260345/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/d/00/5390e41260345/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Jessica Jones",
   "partners": [
@@ -35,8 +32,7 @@
   "ranking": {
     "comicCount": 40,
     "eventCount": 2,
-    "pageviewCount": 43589,
-    "pageviewRank": -1,
+    "pageviewCount": 708505,
     "serieCount": 15,
     "storyCount": 58
   },
@@ -45,6 +41,7 @@
   ],
   "species": [
   ],
+  "superName": "Jessica Jones",
   "teams": [
     "Alias",
     "Alias Private Investigations",

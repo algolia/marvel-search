@@ -7,16 +7,13 @@
     "Mike Ploog",
     "Roy Thomas"
   ],
-  "description": "Ghost Rider is the name of several fictional supernatural antiheroes appearing in comic books published by Marvel Comics.",
+  "description": "Ghost Rider is the name of several fictional supernatural antiheroes whenappearing in comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/535feaa671cc6/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/52696ba1353e7/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Ghost Rider (Daniel Ketch)",
+  "name": "Ghost Rider",
   "partners": [
   ],
   "powers": [
@@ -25,7 +22,6 @@
     "Durability",
     "Enchanted hellfire chain",
     "Endurance",
-    "Ethereal flame",
     "Flames",
     "Heat",
     "Immortality",
@@ -37,42 +33,39 @@
     "Regeneration",
     "Resurrection",
     "Shotgun",
-    "Stamina",
-    "Superhuman strength"
+    "Stamina"
   ],
   "ranking": {
-    "comicCount": 13,
-    "eventCount": 2,
-    "pageviewCount": 2164,
-    "pageviewRank": -1,
-    "serieCount": 5,
-    "storyCount": 11
+    "comicCount": 217,
+    "eventCount": 6,
+    "pageviewCount": 14171,
+    "serieCount": 60,
+    "storyCount": 312
   },
   "secretIdentities": [
     "Alejandra",
     "Carter Slade",
     "Danny Ketch",
     "Ghost Rider",
+    "Ghost Rider (Danny Ketch)",
+    "Ghost Rider (Johnny Blaze)",
     "Johnny Blaze",
     "Phantom Rider",
     "Robbie Reyes"
   ],
   "species": [
   ],
+  "superName": "Ghost Rider",
   "teams": [
     "Champions of Los Angeles",
     "Dark Avengers",
     "Ghost Riders",
     "New Avengers",
     "New Fantastic Four",
-    "The Champions of Los Angeles",
-    "The Dark Avengers",
-    "The Defenders",
-    "The New Avengers",
-    "The New Fantastic Four"
+    "The Defenders"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1010925/ghost_rider_daniel_ketch",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ghost_Rider_(comics)"
   }
 }

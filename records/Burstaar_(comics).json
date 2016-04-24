@@ -1,18 +1,18 @@
 {
   "aliases": [
     "Blasstaar",
-    "Burstaar",
+    "Blastaar",
     "Living Bomb-Burst"
   ],
   "authors": [
     "Jack Kirby",
     "Stan Lee"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Thing006blastaar.jpg/250px-Thing006blastaar.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Burstaar",
   "partners": [
@@ -29,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 3,
-    "pageviewRank": -1,
+    "pageviewCount": 32,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,12 +38,14 @@
   ],
   "species": [
   ],
+  "superName": "Burstaar",
   "teams": [
     "Frightful Four",
     "Legion Accursed",
     "Negative Zone"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Burstaar_(comics)"
   }
 }

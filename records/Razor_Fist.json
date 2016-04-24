@@ -8,10 +8,9 @@
   ],
   "description": "Razor Fist is a Marvel Comics supervillain.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Razor_fist.jpg/250px-Razor_fist.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Razor Fist",
   "partners": [
@@ -22,8 +21,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 62,
-    "pageviewRank": -1,
+    "pageviewCount": 466,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -34,9 +32,11 @@
   ],
   "species": [
   ],
+  "superName": "Razor Fist",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Razor_Fist"
   }
 }

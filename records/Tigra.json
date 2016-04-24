@@ -10,22 +10,17 @@
     "Don Perlin",
     "Gil Kane",
     "John Romita, Sr.",
-    "Marie Severin",
     "Roy Thomas",
-    "Stan Lee",
     "Tony Isabella",
     "Wally Wood"
   ],
   "description": "Although she was able to use the cat's-head amulet to change back to her human form, Greer Nelson became so accustomed to and enamored of her feline form that she seldom made the transformation.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/526957bb909b3/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Tigra (Greer Nelson)",
+  "name": "Tigra",
   "partners": [
   ],
   "powers": [
@@ -38,8 +33,7 @@
   "ranking": {
     "comicCount": 69,
     "eventCount": 10,
-    "pageviewCount": 634,
-    "pageviewRank": -1,
+    "pageviewCount": 6622,
     "serieCount": 30,
     "storyCount": 79
   },
@@ -49,6 +43,7 @@
   "species": [
     "Cat Person"
   ],
+  "superName": "Tigra",
   "teams": [
     "Avengers",
     "Avengers Academy",

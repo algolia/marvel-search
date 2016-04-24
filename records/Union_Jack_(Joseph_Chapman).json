@@ -6,16 +6,13 @@
     "John Byrne",
     "Roger Stern"
   ],
-  "description": "Imprisoned in Germany during WWII, Brian Falsworth shared a cell with a German scientist who had tried to recreate the super-soldier serum, but didn't want it to fall into Nazi hands, so he gave his only sample to Brian, who gained enhanced strength, speed, stamina and reflexes.",
+  "description": "Joey Chapman, the new Union Jack continued to fight evil, both alone and as a member of the Knights of Pendragon and the new Invaders.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/UNION_JACK_1.jpg/250px-UNION_JACK_1.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c0038d27694a/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Union Jack (Brian Falsworth)",
+  "name": "Union Jack (Joseph Chapman)",
   "partners": [
   ],
   "powers": [
@@ -27,12 +24,11 @@
     "Speed"
   ],
   "ranking": {
-    "comicCount": 3,
+    "comicCount": 12,
     "eventCount": 0,
-    "pageviewCount": 108,
-    "pageviewRank": -1,
-    "serieCount": 3,
-    "storyCount": 2
+    "pageviewCount": 657,
+    "serieCount": 10,
+    "storyCount": 9
   },
   "secretIdentities": [
     "Joe",
@@ -40,6 +36,7 @@
   ],
   "species": [
   ],
+  "superName": "Union Jack",
   "teams": [
     "Invaders",
     "Knights of Pendragon",

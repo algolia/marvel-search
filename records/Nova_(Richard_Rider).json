@@ -12,21 +12,18 @@
     "John Buscema",
     "Marv Wolfman"
   ],
-  "description": "Nova (Richard Rider) is a fictional comic book superhero appearing in books published by Marvel Comics, historically as the star of his own series, and at other times, as a supporting character in team books such as The New Warriors.",
+  "description": "Nova (Richard Rider) is a fictional superhero appearing in comic books published by Marvel Comics, historically as the star of his own series, and at other times, as a supporting character in team books such as The New Warriors.",
   "images": {
     "background": "http://x.annihil.us/u/prod/marvel/i/mg/c/00/537bbee3e2f11.gif",
-    "banner": "http://x.annihil.us/u/prod/marvel/i/mg/c/40/537bbed4c8c23.jpg",
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/51756578d2a75/standard_xlarge.jpg"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Nova1adigranov.jpg/250px-Nova1adigranov.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": {
     "blue": 6,
     "green": 6,
     "hexa": "3F0606",
     "red": 63
   },
-  "name": "Nova",
+  "name": "Nova (Richard Rider)",
   "partners": [
   ],
   "powers": [
@@ -46,8 +43,7 @@
   "ranking": {
     "comicCount": 123,
     "eventCount": 10,
-    "pageviewCount": 1086,
-    "pageviewRank": -1,
+    "pageviewCount": 8930,
     "serieCount": 43,
     "storyCount": 155
   },
@@ -57,6 +53,7 @@
   "species": [
     "Human"
   ],
+  "superName": "Nova",
   "teams": [
     "Annihilation",
     "Champions of Xandar",
@@ -67,7 +64,7 @@
     "United Front"
   ],
   "urls": {
-    "marvel": "http://marvel.com/comics/characters/1009477/nova",
+    "marvel": "http://marvel.com/characters/41/nova",
     "wikipedia": "https://en.wikipedia.org/wiki/Nova_(Richard_Rider)"
   }
 }

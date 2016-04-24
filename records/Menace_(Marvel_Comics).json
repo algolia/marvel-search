@@ -13,11 +13,8 @@
   "description": "Menace (Lily Hollister) is a fictional character, a Marvel Comics villainess and enemy of Spider-Man.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/20/4c002f01b93c0/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/5/20/4c002f01b93c0/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Menace",
   "partners": [
@@ -27,8 +24,7 @@
   "ranking": {
     "comicCount": 29,
     "eventCount": 1,
-    "pageviewCount": 146,
-    "pageviewRank": -1,
+    "pageviewCount": 1054,
     "serieCount": 2,
     "storyCount": 37
   },
@@ -37,9 +33,9 @@
   ],
   "species": [
   ],
+  "superName": "Menace",
   "teams": [
-    "Goblin Nation",
-    "Goblin Underground"
+    "Goblin Nation"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/1422/menace",

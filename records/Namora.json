@@ -7,30 +7,24 @@
     "Ken Bald",
     "Syd Shores"
   ],
-  "description": "Namora is a fictional character, a superhero in the Marvel Comics Universe.",
+  "description": "Namora is a fictional character appearing in American comic books published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c003d248f331/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/2/a0/4c003d248f331/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Namora",
   "partners": [
   ],
   "powers": [
     "Air",
-    "Limited invulnerability",
     "Slowed aging process",
-    "Superhuman strength",
-    "Swim at superhuman speeds"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 35,
     "eventCount": 2,
-    "pageviewCount": 173,
-    "pageviewRank": -1,
+    "pageviewCount": 1510,
     "serieCount": 12,
     "storyCount": 63
   },
@@ -40,8 +34,10 @@
   "species": [
     "Atlantean",
     "Human Mutant Hybrid",
+    "Human Mutant hybrid",
     "Human-Atlantean"
   ],
+  "superName": "Namora",
   "teams": [
     "Agents of Atlas",
     "Avengers\" (1959)",

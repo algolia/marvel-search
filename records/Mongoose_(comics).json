@@ -9,11 +9,8 @@
   "description": "Mongoose is a fictional character, a comic book supervillain from the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c00359f53bde/standard_xlarge.jpg"
+    "thumbnail": "http://x.annihil.us/u/prod/marvel/i/mg/9/20/4c00359f53bde/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Mongoose",
   "partners": [
@@ -32,8 +29,7 @@
   "ranking": {
     "comicCount": 1,
     "eventCount": 0,
-    "pageviewCount": 52,
-    "pageviewRank": -1,
+    "pageviewCount": 421,
     "serieCount": 1,
     "storyCount": 1
   },
@@ -43,6 +39,7 @@
   "species": [
     "Uplifted Mongoose"
   ],
+  "superName": "Mongoose",
   "teams": [
     "Masters of Evil",
     "New Men",

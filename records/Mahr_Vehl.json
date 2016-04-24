@@ -10,12 +10,11 @@
   ],
   "description": "Geheneris Hala´son Mahr Vehl or Mahr Vehl, is a fictional character,  an alien superhero in the Ultimate Marvel universe.The character is the Ultimate version of Mar-Vell and was created by writer Warren Ellis and penciller Steve McNiven and first appears in Ultimate Secret #1 (March 2005).",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Mahr-Vehl.jpg/250px-Mahr-Vehl.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Captain Mahr Vehll",
+  "name": "Mahr Vehl",
   "partners": [
   ],
   "powers": [
@@ -29,8 +28,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 61,
-    "pageviewRank": -1,
+    "pageviewCount": 650,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -39,6 +37,7 @@
   ],
   "species": [
   ],
+  "superName": "Mahr Vehl",
   "teams": [
     "Empire",
     "Kree",
@@ -46,6 +45,7 @@
     "S.H.I.E.L.D"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mahr_Vehl"
   }
 }

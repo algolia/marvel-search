@@ -8,9 +8,9 @@
   ],
   "description": "Reptilla is a fictional character in the Marvel Universe.",
   "images": {
+    "background": null,
+    "thumbnail": null
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Reptilla",
   "partners": [
@@ -20,8 +20,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 13,
-    "pageviewRank": -1,
+    "pageviewCount": 97,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -29,11 +28,13 @@
   ],
   "species": [
   ],
+  "superName": "Reptilla",
   "teams": [
     "Frightful Four",
     "Salem's Seven"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Reptilla"
   }
 }

@@ -1,16 +1,16 @@
 {
   "aliases": [
-    "Alice Nugent"
+    "Doctor Spectrum"
   ],
   "authors": [
     "John Buscema",
     "Roy Thomas"
   ],
+  "description": null,
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/IronMan-63.jpg/250px-IronMan-63.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Alice Nugent",
   "partners": [
@@ -24,8 +24,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 4,
-    "pageviewRank": -1,
+    "pageviewCount": 48,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -33,11 +32,13 @@
   ],
   "species": [
   ],
+  "superName": "Alice Nugent",
   "teams": [
     "Squadron Sinister",
     "Squadron Supreme"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Alice_Nugent"
   }
 }

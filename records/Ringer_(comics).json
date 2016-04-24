@@ -10,10 +10,9 @@
   ],
   "description": "Ringer is the name of multiple comic book supervillains in the Marvel Comics universe.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/RingerMarvel.jpg/200px-RingerMarvel.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Ringer",
   "partners": [
@@ -30,8 +29,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 52,
-    "pageviewRank": -1,
+    "pageviewCount": 484,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -41,9 +39,11 @@
   ],
   "species": [
   ],
+  "superName": "Ringer",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Ringer_(comics)"
   }
 }

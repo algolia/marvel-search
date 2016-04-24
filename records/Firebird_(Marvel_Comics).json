@@ -10,11 +10,8 @@
   "description": "Firebird (Bonita Juarez), is a fictional pyrokinetic character that has appeared in various comic book series published by Marvel Comics.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c0035b0a7de0/standard_xlarge.jpg"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Firebird",
   "partners": [
@@ -32,8 +29,7 @@
   "ranking": {
     "comicCount": 27,
     "eventCount": 2,
-    "pageviewCount": 167,
-    "pageviewRank": -1,
+    "pageviewCount": 1351,
     "serieCount": 8,
     "storyCount": 25
   },
@@ -42,6 +38,7 @@
   ],
   "species": [
   ],
+  "superName": "Firebird",
   "teams": [
     "Avengers",
     "Avengers West Coast",

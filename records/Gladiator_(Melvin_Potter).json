@@ -5,19 +5,15 @@
   ],
   "authors": [
     "John Romita Sr.",
-    "John Romita, Sr.",
     "Stan Lee"
   ],
-  "description": "Gladiator (Melvin Potter) is a fictional character, a reformed supervillain in the Marvel Comics Universe.Potter was one of the first enemies of the superhero Daredevil.",
+  "description": "Gladiator (Melvin Potter) is a fictional character that appears in comic books published by Marvel Comics and set in the Marvel Comics Universe.",
   "images": {
     "background": null,
-    "banner": null,
-    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/52696b33b7920/standard_xlarge.jpg"
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4ce5a5ca49c7f/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Gladiator (Kallark)",
+  "name": "Gladiator (Melvin Potter)",
   "partners": [
   ],
   "powers": [
@@ -26,18 +22,18 @@
     "Wears thick metal armor"
   ],
   "ranking": {
-    "comicCount": 70,
-    "eventCount": 2,
-    "pageviewCount": 709,
-    "pageviewRank": -1,
-    "serieCount": 36,
-    "storyCount": 58
+    "comicCount": 0,
+    "eventCount": 0,
+    "pageviewCount": 6055,
+    "serieCount": 0,
+    "storyCount": 0
   },
   "secretIdentities": [
     "Melvin Potter"
   ],
   "species": [
   ],
+  "superName": "Gladiator",
   "teams": [
     "Emissaries of Evil",
     "Maggia"

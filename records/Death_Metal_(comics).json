@@ -9,10 +9,9 @@
   ],
   "description": "Death Metal is a character from the Marvel UK imprint of Marvel Comics.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/DeathMetal1.png/200px-DeathMetal1.png"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Death Metal",
   "partners": [
@@ -26,8 +25,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 25,
-    "pageviewRank": -1,
+    "pageviewCount": 200,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -37,9 +35,11 @@
   "species": [
     "Robot"
   ],
+  "superName": "Death Metal",
   "teams": [
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Death_Metal_(comics)"
   }
 }

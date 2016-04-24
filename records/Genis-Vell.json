@@ -12,11 +12,8 @@
   "description": "Genis-Vell, also known as Legacy, Captain Marvel, and Photon, is a fictional superhero (and sometime antihero) in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Capitanmarvel3.png/250px-Capitanmarvel3.png"
   },
-  "isHero": true,
-  "isVillain": null,
   "mainColor": null,
   "name": "Genis-Vell",
   "partners": [
@@ -36,8 +33,7 @@
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 294,
-    "pageviewRank": -1,
+    "pageviewCount": 2533,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -46,13 +42,14 @@
   ],
   "species": [
   ],
+  "superName": "Genis-Vell",
   "teams": [
     "Kree",
     "Kree Space Navy",
     "Thunderbolts"
   ],
   "urls": {
-    "marvel": "http://marvel.com/characters/784/genis-vell",
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Genis-Vell"
   }
 }

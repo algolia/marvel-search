@@ -1,6 +1,5 @@
 {
   "aliases": [
-    "Balder",
     "Balder the Brave",
     "actual identities the character uses"
   ],
@@ -10,29 +9,24 @@
   ],
   "description": "Balder the Brave is a fictional character that appears in comic books published by Marvel Comics, based on the deity Baldr from Norse mythology.",
   "images": {
+    "background": null,
     "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Balder_%28comics%29.jpg/250px-Balder_%28comics%29.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
-  "name": "Balder the Brave",
+  "name": "Balder",
   "partners": [
   ],
   "powers": [
     "Durability",
     "Light manipulation",
-    "Light projection",
     "Longevity",
     "Speed",
-    "Stamina",
-    "Superhuman strength",
-    "Virtual immortality"
+    "Superhuman strength"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 245,
-    "pageviewRank": -1,
+    "pageviewCount": 2271,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -40,12 +34,13 @@
     "Balder Odinson"
   ],
   "species": [
+    "Asgard"
   ],
+  "superName": "Balder",
   "teams": [
-    "Asgard",
-    "Council of God-Heads"
   ],
   "urls": {
+    "marvel": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Balder_(comics)"
   }
 }

@@ -12,30 +12,30 @@
     "Sun Goddess"
   ],
   "authors": [
+    "John Romita Jr.",
     "John Romita, Jr.",
     "Roger Stern"
   ],
   "description": "Monica Rambeau is a fictional character, a comic book superheroine in the Marvel Comics universe.",
   "images": {
     "background": null,
-    "banner": null,
     "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c0030bee8c86/standard_xlarge.jpg"
   },
-  "isHero": null,
-  "isVillain": null,
   "mainColor": null,
   "name": "Captain Marvel (Monica Rambeau)",
   "partners": [
   ],
   "powers": [
     "Absorption & manipulation",
-    "Energy generation"
+    "Energy absorption",
+    "Energy generation",
+    "Generation",
+    "Manipulation"
   ],
   "ranking": {
     "comicCount": 0,
     "eventCount": 0,
-    "pageviewCount": 724,
-    "pageviewRank": -1,
+    "pageviewCount": 6047,
     "serieCount": 0,
     "storyCount": 0
   },
@@ -44,13 +44,15 @@
   ],
   "species": [
   ],
+  "superName": "Captain Marvel",
   "teams": [
     "Avengers",
     "Mighty Avengers",
     "New Orleans Harbor Patrol",
     "Nextwave",
     "The Mighty Avengers",
-    "Ultimates"
+    "Ultimates",
+    "Ultimates (2015 team)"
   ],
   "urls": {
     "marvel": "http://marvel.com/characters/9/captain_marvel",
