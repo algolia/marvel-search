@@ -234,6 +234,41 @@ var Marvel = {
     }
     Marvel.lazyloadCounter++;
 
+    // If the match is not obvious (not in the name of description), we display
+    // where it is found
+    var matchingAttributes = Marvel.getMatchingAttributes(data);
+    var readableMatchingAttributes = [];
+    var isFoundInName = _.has(matchingAttributes, 'name');
+    var isFoundInDescription = _.has(matchingAttributes, 'description');
+    if (!isFoundInName && !isFoundInDescription) {
+      (function () {
+        // Merging aliases and secret identities
+        var hasAliases = _.has(matchingAttributes, 'aliases');
+        var hasSecretIdentities = _.has(matchingAttributes, 'secretIdentities');
+        if (hasAliases || hasSecretIdentities) {
+          matchingAttributes.aliases = _.concat(_.get(matchingAttributes, 'aliases', []), _.get(matchingAttributes, 'secretIdentities', []));
+          delete matchingAttributes.secretIdentities;
+        }
+
+        var readableTitles = {
+          aliases: 'Also known as',
+          authors: 'Authors',
+          powers: 'Powers',
+          teams: 'Teams'
+        };
+        _.each(matchingAttributes, function (value, key) {
+          if (_.isArray(value)) {
+            value = value.join(', ');
+          }
+          readableMatchingAttributes.push({
+            label: readableTitles[key],
+            value: value
+          });
+        });
+      })();
+    }
+    var isMatchingInNotDisplayedAttributes = !_.isEmpty(readableMatchingAttributes);
+
     var displayData = {
       uuid: data.objectID,
       name: data.name,
@@ -245,6 +280,8 @@ var Marvel = {
       mainColorHexa: mainColorHexa,
       thumbnail: thumbnail,
       background: background,
+      matchingAttributes: readableMatchingAttributes,
+      isMatchingInNotDisplayedAttributes: isMatchingInNotDisplayedAttributes,
       // Used by the profile only
       backgroundProfile: backgroundProfile,
       urls: data.urls,
@@ -302,6 +339,31 @@ var Marvel = {
     console.info(profileData);
 
     return profileData;
+  },
+  getMatchingAttributes: function getMatchingAttributes(data) {
+    var highlightedResults = data._highlightResult;
+    if (!highlightedResults) {
+      return {};
+    }
+    var matchingAttributes = {};
+    _.each(highlightedResults, function (highlightValue, attributeName) {
+      // Matching in a string attribute
+      if (_.isObject(highlightValue) && highlightValue.matchLevel === 'full') {
+        matchingAttributes[attributeName] = highlightValue.value;
+        return;
+      }
+      // Matching in an array
+      if (_.isArray(highlightValue)) {
+        matchingAttributes[attributeName] = _.compact(_.map(highlightValue, function (matchValue) {
+          if (matchValue.matchLevel === 'none') {
+            return null;
+          }
+          return matchValue.value;
+        }));
+      }
+    });
+
+    return _.omitBy(matchingAttributes, _.isEmpty);
   },
   getHighlightedValue: function getHighlightedValue(object, property) {
     if (!_.has(object, '_highlightResult.' + property + '.value')) {

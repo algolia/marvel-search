@@ -87,9 +87,19 @@
         <div class="hit--content">
         <h3 class="hit--title">{{{highlightedName}}}</h3>
 
-        {{#highlightedDescription}}
-        <p class="hit--description">{{{highlightedDescription}}}</p>
-        {{/highlightedDescription}}
+        <div class="hit--description">
+          {{#highlightedDescription}}
+          <p>{{{highlightedDescription}}}</p>
+          {{/highlightedDescription}}
+
+          {{#isMatchingInNotDisplayedAttributes}}
+          <ul class="hit--matching">
+            {{#matchingAttributes}}
+            <li>{{label}}: {{{value}}}</li>
+            {{/matchingAttributes}}
+          </ul>
+          {{/isMatchingInNotDisplayedAttributes}}
+          </div>
         </div>
 
         <textarea style="display:none;" class="js-hit--json-holder">{{json}}</textarea>
