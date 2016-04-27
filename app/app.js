@@ -135,6 +135,42 @@ let Marvel = {
     }
     Marvel.lazyloadCounter++;
 
+    // If the match is not obvious (not in the name of description), we display
+    // where it is found
+    let matchingAttributes = Marvel.getMatchingAttributes(data);
+    let readableMatchingAttributes = [];
+    let isFoundInName = _.has(matchingAttributes, 'name');
+    let isFoundInDescription = _.has(matchingAttributes, 'description');
+    if (!isFoundInName && !isFoundInDescription) {
+      // Merging aliases and secret identities
+      let hasAliases = _.has(matchingAttributes, 'aliases');
+      let hasSecretIdentities = _.has(matchingAttributes, 'secretIdentities');
+      if (hasAliases || hasSecretIdentities) {
+        matchingAttributes.aliases = _.concat(
+          _.get(matchingAttributes, 'aliases', []),
+          _.get(matchingAttributes, 'secretIdentities', [])
+        );
+        delete matchingAttributes.secretIdentities;
+      }
+
+      let readableTitles = {
+        aliases: 'Also known as',
+        authors: 'Authors',
+        powers: 'Powers',
+        teams: 'Teams'
+      };
+      _.each(matchingAttributes, (value, key) => {
+        if (_.isArray(value)) {
+          value = value.join(', ');
+        }
+        readableMatchingAttributes.push({
+          label: readableTitles[key],
+          value
+        });
+      });
+    }
+    let isMatchingInNotDisplayedAttributes = !_.isEmpty(readableMatchingAttributes);
+
     let displayData = {
       uuid: data.objectID,
       name: data.name,
@@ -146,6 +182,8 @@ let Marvel = {
       mainColorHexa,
       thumbnail,
       background,
+      matchingAttributes: readableMatchingAttributes,
+      isMatchingInNotDisplayedAttributes,
       // Used by the profile only
       backgroundProfile,
       urls: data.urls,
@@ -204,6 +242,31 @@ let Marvel = {
     console.info(profileData);
 
     return profileData;
+  },
+  getMatchingAttributes(data) {
+    let highlightedResults = data._highlightResult;
+    if (!highlightedResults) {
+      return {};
+    }
+    let matchingAttributes = {};
+    _.each(highlightedResults, (highlightValue, attributeName) => {
+      // Matching in a string attribute
+      if (_.isObject(highlightValue) && highlightValue.matchLevel === 'full') {
+        matchingAttributes[attributeName] = highlightValue.value;
+        return;
+      }
+      // Matching in an array
+      if (_.isArray(highlightValue)) {
+        matchingAttributes[attributeName] = _.compact(_.map(highlightValue, (matchValue) => {
+          if (matchValue.matchLevel === 'none') {
+            return null;
+          }
+          return matchValue.value;
+        }));
+      }
+    });
+
+    return _.omitBy(matchingAttributes, _.isEmpty);
   },
   getHighlightedValue(object, property) {
     if (!_.has(object, `_highlightResult.${property}.value`)) {

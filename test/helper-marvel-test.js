@@ -9,7 +9,7 @@ describe('HelperMarvel', () => {
   });
 
   describe('fixBadEncoding', () => {
-    it('should only apply on arrays', () => {
+    it('should only apply on strings', () => {
       // Given
       let input = [];
 
@@ -29,6 +29,17 @@ describe('HelperMarvel', () => {
 
       // Then
       expect(actual).toEqual("It's bullshit");
+    });
+
+    it('should fix multiple bad quotes', () => {
+      // Given
+      let input = 'Itï¿½s bullshit and itï¿½s real';
+
+      // When
+      let actual = Helper.fixBadEncoding(input);
+
+      // Then
+      expect(actual).toEqual("It's bullshit and it's real");
     });
   });
 

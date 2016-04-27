@@ -90,3 +90,12 @@
     color: $red;
   }
 }
+
+// Help when matching in a specific attribute not usually displayed
+.hit--matching {
+  margin-top: 1rem;
+  font-style: italic;
+  em {
+    font-style: italic;
+  }
+}

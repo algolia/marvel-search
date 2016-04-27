@@ -237,5 +237,18 @@ describe('HelperMarvelWebsite', () => {
       // Then
       expect(actual).toEqual('good');
     });
+
+    it('should discard descriptions that are too generic', () => {
+      // Given
+      let input = `
+        <meta name="description" content="Marvel.com is the source for Marvel comics, digital comics, comic strips, and more featuring Iron Man, Spider-Man, Hulk, X-Men and all your favorite superheroes." />
+      `;
+
+      // When
+      let actual = Helper.getDescription(input);
+
+      // Then
+      expect(actual).toEqual(null);
+    });
   });
 });
