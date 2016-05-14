@@ -5,9 +5,15 @@ in JSON format. It also contains the set of scripts used to get them (by
 scrapping various APIs and websites), as well as UI to allow searching through
 them.
 
+Slides of the demo I presented in a few meetups are available [here][1] and
+[here][2]
+
 ## Run the demo
 
-## Regenerate the date
+Just run `npm install` and `npm run serve`. This will open the local demo on
+[http://localhost:5006](http://localhost:5006).
+
+## Regenerate the data
 
 Everything is done through `npm run` scripts. Start with an `npm install`, and
 then run an `npm run init`. This will download the list of all the Marvel
@@ -83,10 +89,6 @@ Following Brunch conventions:
 - `./app/styles/*.scss` files will be compiled to CSS
 - `./app/assets/*` files will be copied without modifications to `./public`
 
-## TODO
 
-- Allow click on facets to filter faceting
-- Add "Show all" to facets?
-- Show the team/power/specy/author that matches
-- Clic sur une facet directement dans les cards
-
+[1]: http://talks.pixelastic.com/marvel-parisjs/#/
+[2]: http://talks.pixelastic.com/marvel-humantalks/#/
