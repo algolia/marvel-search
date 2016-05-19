@@ -19,10 +19,12 @@ let Marvel = {
     this.addTeamsWidget();
     this.addAuthorsWidget();
     this.addPowersWidget();
-    this.addSpeciesWidget();
     this.addHitsWidget();
     this.addPaginationWidget();
     this.addRefinementList();
+
+    // Custom widget
+    this.addCustomSelectorWidget();
 
     this.addOpenProfile();
 
@@ -239,8 +241,6 @@ let Marvel = {
       background: data.backgroundProfile
     };
 
-    console.info(profileData);
-
     return profileData;
   },
   getMatchingAttributes(data) {
@@ -341,17 +341,6 @@ let Marvel = {
       })
     );
   },
-  addSpeciesWidget() {
-    this.search.addWidget(
-      instantsearch.widgets.refinementList({
-        container: '#species',
-        attributeName: 'species',
-        operator: 'or',
-        limit: 10,
-        sortBy: ['isRefined', 'count:desc', 'name:asc']
-      })
-    );
-  },
   addHitsWidget() {
     let hitTemplate = $('#hitTemplate').html();
     let emptyTemplate = $('#noResultsTemplate').html();
@@ -389,6 +378,16 @@ let Marvel = {
       })
     );
   },
+  addCustomSelectorWidget() {
+    this.search.addWidget(
+      instantsearch.widgets.customSelectorWidget({
+        container: '#custom-selector-widget',
+        attributeName: 'species',
+        limit: 10,
+        title: 'All'
+      })
+    );
+  },
   addOpenProfile() {
     let container = $('.js-container');
     let template = Hogan.compile($('#profileTemplate').html());
@@ -420,5 +419,100 @@ let Marvel = {
     });
   }
 };
+
+instantsearch.widgets.customSelectorWidget = function customSelectorWidget({
+  container,
+  attributeName,
+  limit = 10,
+  title = 'All'
+}) {
+  container = document.querySelector(container);
+  let selectElement = null;
+  let currentlySelectedValue = null;
+
+  return {
+    getConfiguration() {
+      console.info('getConfiguration');
+      // Define facetting on this attribute
+      return {
+        hierarchicalFacets: [{
+          name: attributeName,
+          attributes: [attributeName]
+        }]
+      };
+    },
+
+    init({helper}) {
+      console.info('init');
+      container.innerHTML = `<select></select>`;
+      selectElement = container.querySelector('select');
+
+      selectElement.addEventListener('change', () => {
+        let selectedIndex = selectElement.selectedIndex;
+        let selectedValue = selectElement.options[selectedIndex].value;
+
+        if (selectedValue === '__EMPTY__') {
+          selectedValue = currentlySelectedValue;
+        }
+        helper.toggleRefinement(attributeName, selectedValue);
+        helper.search();
+        currentlySelectedValue = selectedValue;
+      });
+    },
+
+    render({results}) {
+      // The results are extended with the getFacetValues method
+      let sortBy = ['count:desc', 'name:asc'];
+      let facetValues = results.getFacetValues(attributeName, {sortBy}).data;
+      // We only keep the X first elements
+      facetValues = facetValues.slice(0, limit);
+
+      let innerOptions = [`<option value="__EMPTY__">${title}</option>`];
+      facetValues.forEach((facetValue) => {
+        let selected = facetValue.isRefined ? 'selected="selected"' : '';
+        innerOptions.push(`<option value="${facetValue.name}" ${selected}>${facetValue.name}</option>`);
+      });
+
+      // Update the rendering
+      selectElement.innerHTML = innerOptions.join('\n');
+    }
+  }
+};
+
+
+// La doc dit que pour faire un widget il faut créer un objet avec trois
+// fonctions
+// En fait, dans les examples de custom widgets et dans ceux du core, c'est une
+// fonction qui retourne un object avec ces méthodes
+//
+// Pas clair ce qui est passé à getConfiguration et ce qu'on doit faire dedans.
+// La doc est tournée sur comment ça marche, pas sur ce que je dois faire comme
+// développpeur pour faire le mien
+//
+// On parle du SearchParameter objet passé, qui est super compliqué
+//
+// init prends le state, le helper et templatesconfig
+// quelle est la claire différence entre le helper et le state ?
+// pourquoi je me trimball un templatesConfig ici?
+//
+// Sans doute écrire un guide complet sur comment créer son widget, avec
+// l'exemple de menuSelector
+//
+// render est une bonne méthode, qui peut faire n'importe quoi. Elle prends les
+// results et encore ce state et ce helper, bien appuyer la différence
+// et on prends un createURL comme parametre qui semble mal branlé. Il devrait
+// etre accesisble depuis un autre endroit global et pas passé ici
+//
+// Dans les examples, on ajoute le nouveau widget au namespace
+// `instantsearch.widgets`. pourquoi ne pas le mettre en global ? Si dans ce
+// namespace, on doit pouvoir partager d'autres méthodes avec IS
+//
+// getConfiguration prends SearchParameters as input, mais on n'a besoin de
+// retourner que un objet avec les clés nécessaires
+//
+//
+
+
+
 
 export default Marvel;
