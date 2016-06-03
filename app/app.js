@@ -15,16 +15,16 @@ let Marvel = {
     this.search.on('render', this.onRender);
 
     this.addSearchBoxWidget();
-    this.addStatsWidget();
+    // this.addStatsWidget();
     this.addTeamsWidget();
-    this.addAuthorsWidget();
-    this.addPowersWidget();
-    this.addSpeciesWidget();
+    // this.addAuthorsWidget();
+    // this.addPowersWidget();
+    // this.addSpeciesWidget();
     this.addHitsWidget();
-    this.addPaginationWidget();
-    this.addRefinementList();
+    // this.addPaginationWidget();
+    // this.addRefinementList();
 
-    this.addOpenProfile();
+    // this.addOpenProfile();
 
     this.search.start();
   },
@@ -308,6 +308,16 @@ let Marvel = {
         operator: 'and',
         limit: 10,
         sortBy: ['isRefined', 'count:desc', 'name:asc'],
+        collapsible: true,
+        autoHideContainer: false,
+        templates: {
+          header: (data) => {
+            if (data.count === 0) {
+              return `<h3 class="facet--title">Teams</h3>`;
+            }
+            return `<h3 class="facet--title">Teams (${data.count})</h3>`;
+          }
+        },
         showMore: {
           limit: 20
         }
