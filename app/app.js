@@ -289,6 +289,7 @@ let Marvel = {
       instantsearch.widgets.searchBox({
         container: '#q',
         placeholder: 'Search for any character, power, secret identity'
+
       })
     );
   },
