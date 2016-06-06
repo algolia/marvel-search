@@ -4,12 +4,7 @@ let Marvel = {
       appId: 'O3F8QXYK6R',
       apiKey: '78e45b023b7ff7d8ba88c59c9db19890',
       indexName: 'marvel',
-      urlSync: true,
-      searchFunction: (helper) => {
-        // Reset the lazyloadCounter
-        Marvel.lazyloadCounter = 0;
-        helper.search();
-      }
+      urlSync: true
     });
 
     this.search.on('render', this.onRender);
@@ -130,10 +125,9 @@ let Marvel = {
     // All items are defered loading their images until in viewport, except
     // the 4 first
     let inViewport = false;
-    if (Marvel.lazyloadCounter === undefined || Marvel.lazyloadCounter < 4) {
+    if (data.__position < 4) {
       inViewport = true;
     }
-    Marvel.lazyloadCounter++;
 
     // If the match is not obvious (not in the name of description), we display
     // where it is found
