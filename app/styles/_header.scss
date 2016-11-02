@@ -2,7 +2,7 @@ $input-height: 36px;
 $input-color-bright: #FFF;
 $input-color-dim: rgba(255, 255, 255, .8);
 $input-color-dimmer: rgba(255, 255, 255, .6);
-$input-width: 380px;
+$input-width: 400px;
 
 // Header
 .l-header {
@@ -46,7 +46,8 @@ $input-width: 380px;
     color: $input-color-dim;
   }
   &:focus {
-    outline-color: transparent;
+    outline: none;
+    // outline-color: transparent;
     border-color: $input-color-bright;
     color: $input-color-bright;
     @include placeholders{
@@ -145,7 +146,7 @@ $input-width: 380px;
   color: #FFF;
   text-align: right;
   line-height: $header-height;
-  padding: 1.1rem .5rem 0 .5rem;
+  padding: 1.1rem 1.5rem 0 .5rem;
   vertical-align: bottom;
   white-space: nowrap;
   &:hover {

@@ -10,6 +10,8 @@ Slides of the demo I presented in a few meetups are available [here][1] and
 
 ## Run the demo
 
+![Screencast][3]
+
 Just run `npm install` and `npm run serve`. This will open the local demo on
 [http://localhost:5006](http://localhost:5006).
 
@@ -92,3 +94,4 @@ Following Brunch conventions:
 
 [1]: http://talks.pixelastic.com/marvel-parisjs/#/
 [2]: http://talks.pixelastic.com/marvel-humantalks/#/
+[3]: ./screencast.gif
