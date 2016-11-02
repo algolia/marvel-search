@@ -1,4 +1,4 @@
-$input-height: $header-height - 8px;
+$input-height: 36px;
 $input-color-bright: #FFF;
 $input-color-dim: rgba(255, 255, 255, .8);
 $input-color-dimmer: rgba(255, 255, 255, .6);
@@ -29,16 +29,17 @@ $input-width: 380px;
   border-bottom: 2px solid $input-color-dimmer;
   color: $input-color-dim;
   height: $input-height;
+  margin-top: 12px;
   display: block;
   font-size: 1rem;
-  line-height: $header-height;
+  // line-height: $header-height;
   width: $input-width;
   transition: width 0.3s ease;
   background: {
     color: transparent;
     image: url("./img/svg-icons/search-icon.svg");
     repeat: no-repeat;
-    position: right 12px;
+    position: right 0px;
     size: 36px;
   }
   @include placeholders{
