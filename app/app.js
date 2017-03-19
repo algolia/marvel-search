@@ -309,6 +309,12 @@ let Marvel = {
         sortBy: ['isRefined', 'count:desc', 'name:asc'],
         showMore: {
           limit: 20
+        },
+        searchForFacetValues: {
+          placeholder: 'Search for teams',
+          templates: {
+            noResults: 'No teams found'
+          }
         }
       })
     );
