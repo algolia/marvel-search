@@ -131,7 +131,7 @@ var Marvel = {
     this.search.start();
   },
   cloudinary: function cloudinary(url, options) {
-    var baseUrl = 'http://res.cloudinary.com/pixelastic-marvel/image/fetch/';
+    var baseUrl = 'https://res.cloudinary.com/pixelastic-marvel/image/fetch/';
     var stringOptions = [];
 
     // Handle common Cloudinary options
@@ -241,31 +241,29 @@ var Marvel = {
     var isFoundInName = _.has(matchingAttributes, 'name');
     var isFoundInDescription = _.has(matchingAttributes, 'description');
     if (!isFoundInName && !isFoundInDescription) {
-      (function () {
-        // Merging aliases and secret identities
-        var hasAliases = _.has(matchingAttributes, 'aliases');
-        var hasSecretIdentities = _.has(matchingAttributes, 'secretIdentities');
-        if (hasAliases || hasSecretIdentities) {
-          matchingAttributes.aliases = _.concat(_.get(matchingAttributes, 'aliases', []), _.get(matchingAttributes, 'secretIdentities', []));
-          delete matchingAttributes.secretIdentities;
-        }
+      // Merging aliases and secret identities
+      var hasAliases = _.has(matchingAttributes, 'aliases');
+      var hasSecretIdentities = _.has(matchingAttributes, 'secretIdentities');
+      if (hasAliases || hasSecretIdentities) {
+        matchingAttributes.aliases = _.concat(_.get(matchingAttributes, 'aliases', []), _.get(matchingAttributes, 'secretIdentities', []));
+        delete matchingAttributes.secretIdentities;
+      }
 
-        var readableTitles = {
-          aliases: 'Also known as',
-          authors: 'Authors',
-          powers: 'Powers',
-          teams: 'Teams'
-        };
-        _.each(matchingAttributes, function (value, key) {
-          if (_.isArray(value)) {
-            value = value.join(', ');
-          }
-          readableMatchingAttributes.push({
-            label: readableTitles[key],
-            value: value
-          });
+      var readableTitles = {
+        aliases: 'Also known as',
+        authors: 'Authors',
+        powers: 'Powers',
+        teams: 'Teams'
+      };
+      _.each(matchingAttributes, function (value, key) {
+        if (_.isArray(value)) {
+          value = value.join(', ');
+        }
+        readableMatchingAttributes.push({
+          label: readableTitles[key],
+          value: value
         });
-      })();
+      });
     }
     var isMatchingInNotDisplayedAttributes = !_.isEmpty(readableMatchingAttributes);
 
