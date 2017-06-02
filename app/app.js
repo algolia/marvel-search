@@ -29,7 +29,7 @@ let Marvel = {
     this.search.start();
   },
   cloudinary(url, options) {
-    let baseUrl = 'http://res.cloudinary.com/pixelastic-marvel/image/fetch/';
+    let baseUrl = 'https://res.cloudinary.com/pixelastic-marvel/image/fetch/';
     let stringOptions = [];
 
     // Handle common Cloudinary options
